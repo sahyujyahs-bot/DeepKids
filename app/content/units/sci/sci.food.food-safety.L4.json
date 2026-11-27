@@ -713,11 +713,11 @@
       "t": "mcq",
       "q": "For one food, 8 of the 10 guests who ate it were ill, and 1 of the 6 who did not eat it was ill. What does this tell you?",
       "options": [
-       "The food is a strong suspect, as most eaters were ill and few non-eaters were",
        "The food is safe, because someone who did not eat it was ill",
+       "The food is a strong suspect, as most eaters were ill and few non-eaters were",
        "The food cannot be told apart from the others"
       ],
-      "a": 0,
+      "a": 1,
       "why": "8 out of 10 is a high fraction. 1 out of 6 is a low one. A big gap between the two points to the food. The one non-eater who was ill may have caught something else, so a table points, but does not prove."
      }
     },
@@ -889,11 +889,11 @@
       "t": "mcq",
       "q": "A cook with an uncovered cut on her finger is mixing a salad. What kind of hazard is this?",
       "options": [
-       "Biological, because bacteria can move from the cut into the food",
        "Physical, because a cut is a hard thing",
+       "Biological, because bacteria can move from the cut into the food",
        "Chemical, because blood is a chemical"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Bacteria such as Staphylococcus live on skin and in cuts. They can pass into food and make a toxin. The fix is to cover the cut with a waterproof plaster and wear a glove."
      },
      "ask": [
@@ -918,11 +918,11 @@
       "t": "mcq",
       "q": "A potato has green patches and sprouts. What kind of hazard is this?",
       "options": [
-       "Chemical, because green potato holds a natural poison",
        "Biological, because potatoes are living things",
+       "Chemical, because green potato holds a natural poison",
        "Physical, because sprouts are hard"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The green parts hold a natural poison called solanine. Cooking does not remove it. The fix is to cut away the green parts and sprouts, or throw the potato away."
      }
     },
@@ -1047,11 +1047,11 @@
       "t": "mcq",
       "q": "Why do we heat the mixture for glass D until it steams?",
       "options": [
-       "To find out what heat does to yeast",
        "To make the mixture sweeter",
-       "To make glass D prettier"
+       "To make glass D prettier",
+       "To find out what heat does to yeast"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Glass D shows what happens when microbes are heated a lot. If D stays flat while the others foam, we know that heat can stop yeast growing. This is the same reason that cooking makes food safer."
      },
      "parent": "The water for the mixture should be lukewarm, like a bath for a baby. If it is too hot, it will kill the yeast in all the glasses and nothing will happen. Use a tray, because foam can spill. Check the date on the yeast packet. Old or damp yeast will not foam at all, and then the whole test shows nothing. Instant or dry baking yeast from a bakery or kirana shop is fine. The 'bath water' for glass C must not be so hot that you pull your finger out, because that kills yeast."
@@ -1086,11 +1086,11 @@
       "t": "mcq",
       "q": "Glass A, in the fridge, has hardly any foam. Does that mean the yeast in it is dead?",
       "options": [
-       "No, the cold slowed her growth and she is still alive",
        "Yes, the cold killed her",
-       "Yes, the fridge took her sugar away"
+       "Yes, the fridge took her sugar away",
+       "No, the cold slowed her growth and she is still alive"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cold slows microbes a great deal, but does not kill them. If you took glass A out and warmed it, the yeast would start to foam. This is why a fridge slows food spoilage, but does not stop it."
      },
      "parent": "A good answer sounds like this. I thought that warmth would make yeast grow faster, that cold would slow her, and that heat would stop her. I saw that glass C had the most foam, glass A had almost none, and glass D stayed flat. This is because yeast is a living being, and her growth speeds up with warmth until it gets too hot. You can link this to the card called The danger zone."
@@ -1230,11 +1230,11 @@
       "t": "mcq",
       "q": "Slice A is not touched by a finger, but its bag is opened and closed. Why do we do that?",
       "options": [
-       "To see how much grows from the air alone",
        "To make the slice colder",
-       "To give the slice a rest"
+       "To give the slice a rest",
+       "To see how much grows from the air alone"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Slice A shows how much grows on a slice that no finger touched, in the same kind of bag. If A also has spots, we know some microbes came from the air or the bag, and we can tell what the fingers added."
      },
      "parent": "Use the same finger of the same hand each time. A child's dry fingers pick up less than a damp or sticky finger, so rub the finger on the shoe each time for the same time. Wash your own hands after this step. With 2 to 4 children: one child does the whole set of four bags, or two children each do a full set of four (8 bags) and compare. Do not split one set between children, because then the finger is different as well. The others are the timer (counts the 20 seconds), the recorder and the artist who draws the bags on day 7."
@@ -1414,11 +1414,11 @@
       "t": "mcq",
       "q": "A microbe is a tiny cell with a thin skin that lets water through. What happens to her in a very salty pickle?",
       "options": [
-       "Water leaves her, and she shrivels and cannot grow",
        "She drinks the salty water and grows bigger",
+       "Water leaves her, and she shrivels and cannot grow",
        "Nothing happens to her"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water moves through the thin skin towards the saltier side. In a salty pickle, water leaves the microbe, as it left the cucumber slices, and she shrivels. This is how salt, and sugar in jam, keep food safe."
      },
      "think": "If salt and sugar keep food safe, why can a pickle still grow mould if you put a wet spoon in it?",
@@ -1537,11 +1537,11 @@
       "t": "mcq",
       "q": "A packet of fresh paneer has a use by date of yesterday. What should you do?",
       "options": [
-       "Throw it away, because it spoils easily and may not be safe",
        "Eat it, because dates are only a suggestion",
-       "Boil it for an hour and eat it"
+       "Boil it for an hour and eat it",
+       "Throw it away, because it spoils easily and may not be safe"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A use by date is about safety on foods that spoil easily. Boiling may not remove toxins that bacteria have already made. The right choice is to throw it away. A best before date on a dry biscuit is about quality, and is more flexible."
      }
     }
@@ -1728,11 +1728,11 @@
       "t": "mcq",
       "q": "Raw fish is kept in a covered box on the bottom shelf of the fridge. Why the bottom shelf?",
       "options": [
-       "So that its juices cannot drip onto other food",
        "Because the bottom shelf is the coldest everywhere",
+       "So that its juices cannot drip onto other food",
        "Because fish likes the dark"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Raw fish and meat carry bacteria. If they were on a high shelf, juice could drip onto cooked food or fruit below, and nothing would kill those bacteria. The bottom shelf, in a covered box, keeps the drips away from everything else."
      },
      "parent": "A good plan puts raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya go in covered containers on the middle shelves. Curd and milk go in covered. Vegetables go in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once it is opened. Idli batter goes in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where this plan puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue."
@@ -1827,11 +1827,11 @@
       "t": "mcq",
       "q": "Cooked rice sits on a kitchen counter in May at about 35 degrees Celsius. Which zone is it in?",
       "options": [
-       "The danger zone, where bacteria grow fastest",
        "The cold zone, where bacteria stop",
+       "The danger zone, where bacteria grow fastest",
        "The hot zone, where bacteria die"
       ],
-      "a": 0,
+      "a": 1,
       "why": "35 degrees is between 5 and 60, so it is in the danger zone. Bacteria in the rice multiply quickly there. The rice should be eaten within about two hours, or cooled and put in the fridge."
      },
      "parent": "With a kitchen thermometer, you could measure the fridge and a cup of tap water. A fridge should be at or below 5 degrees. A freezer should be at minus 18. Predict first. Each child puts each note where they think it goes before they are told the numbers, then corrects it. Count how many were right within one mark. With 2 to 4 children, share the notes out and then compare strips. 'A Chennai kitchen in May is at 35' is a typical figure, not exact."
@@ -1964,11 +1964,11 @@
       "t": "mcq",
       "q": "Why does cup 1 get no starter at all?",
       "options": [
-       "To see what happens to milk with no curd microbes added",
        "Because it is the least important cup",
+       "To see what happens to milk with no curd microbes added",
        "To save curd"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cup 1 is the control. It shows what the milk does on its own. If cups 2 and 3 set and cup 1 does not, the starter is what turned the milk into curd."
      },
      "parent": "With 2 to 4 children, each child looks after one cup: adds its starter, labels it and tilts it at each check. With one child, do all four cups yourselves. Use a clean spoon for each cup. In a cold kitchen (below about 25 degrees, in winter) curd may take a day or more, so put cups 1 to 3 in a closed steel box or casserole with a bottle of warm water beside them. Change the water in the evening."
@@ -1994,11 +1994,11 @@
       "t": "mcq",
       "q": "Curd stays good for a day or two, but a cup of plain warm milk spoils quickly. Why does curd keep better?",
       "options": [
-       "The curd bacteria fill the milk and make it sour, which leaves little room for harmful microbes",
        "Curd is colder",
+       "The curd bacteria fill the milk and make it sour, which leaves little room for harmful microbes",
        "Curd has no microbes in it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The curd bacteria multiply and make acid. The acid thickens the milk, and it makes life hard for many harmful microbes. Useful microbes that get there first can protect the food."
      },
      "parent": "A good answer sounds like this. I thought that the curd microbes in the starter would turn milk into curd, and that more starter would work faster. I saw that cup 3 set first, and cup 1 did not set. This is because the bacteria in the starter multiply in warm milk and make acid, and the cold in the fridge slows them. You can link this to the card called Friend or foe. Never taste cup 1 or any cup that smells off. Here is an extra test to show that cold does not kill. On day 3, take cup 4 out of the fridge and leave it in the warm cupboard overnight. It will usually start to thicken, which shows the cold only slowed the curd bacteria. Cup 4 may also thicken a little in the fridge by day 3."
@@ -2091,11 +2091,11 @@
       "t": "mcq",
       "q": "A lunch box with a frozen water bottle inside stays cool for hours. Why is this good for curd rice on a hot day?",
       "options": [
-       "It keeps the rice out of the danger zone for longer",
        "It makes the rice taste better",
-       "It kills the bacteria in the rice"
+       "It kills the bacteria in the rice",
+       "It keeps the rice out of the danger zone for longer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cold slows bacteria but does not kill them. Keeping food below about 5 degrees for as long as possible keeps it out of the danger zone, where bacteria multiply fastest."
      }
     }
@@ -2174,11 +2174,11 @@
       "t": "mcq",
       "q": "Which food stays safest on a hot stall for five hours?",
       "options": [
-       "Roasted chana in a closed tin",
        "Cut papaya in an open bowl",
+       "Roasted chana in a closed tin",
        "Curd rice in a steel dabba"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Roasted chana is dry. Microbes have no water there, so they cannot grow. Cut papaya and curd rice are wet, and they sit in the danger zone, where bacteria multiply quickly."
      }
     },
@@ -2217,11 +2217,11 @@
      "t": "mcq",
      "p": "Why can you not tell that food is safe just because it smells normal?",
      "opts": [
-      "Many harmful bacteria do not change the smell or taste",
       "Only dirty food has a smell",
-      "The nose and tongue cannot tell sweet from sour"
+      "The nose and tongue cannot tell sweet from sour",
+      "Many harmful bacteria do not change the smell or taste"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 1,
      "why": "Spoiling microbes often make smells, but the bacteria that make people ill can grow in food without changing it. A bad smell is a reason to throw food away, but a good smell is not a reason to eat it."
     },
@@ -2346,11 +2346,11 @@
      "t": "mcq",
      "p": "Why does soap lift microbes off your hands better than water alone?",
      "opts": [
-      "Soap sticks to oily dirt and microbes, and the water carries them away",
       "Soap makes the water hotter",
-      "Soap makes the microbes fall asleep"
+      "Soap makes the microbes fall asleep",
+      "Soap sticks to oily dirt and microbes, and the water carries them away"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 3,
      "why": "Soap molecules have one end that sticks to oil and one that sticks to water. They lift the oily film and the microbes off the skin, so that the rinse water can carry them away."
     },
@@ -2436,11 +2436,11 @@
      "t": "mcq",
      "p": "Rice sat out all night in summer, and was then reheated until it steamed. Why might it still make people ill?",
      "opts": [
-      "A toxin made by bacteria can survive heating",
       "Reheating makes the rice colder",
+      "A toxin made by bacteria can survive heating",
       "Steam brings in new microbes"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 1,
      "why": "Some bacteria make toxins while they grow, and some toxins are not destroyed by heat. Reheating kills the bacteria but may leave the poison behind."
     },
@@ -2448,11 +2448,11 @@
      "t": "mcq",
      "p": "At a feast, 12 of the 15 people who ate the payasam were ill, and 1 of the 10 who did not eat it was ill. What does this suggest?",
      "opts": [
-      "The payasam is a strong suspect",
       "The payasam is safe",
+      "The payasam is a strong suspect",
       "The payasam cannot be judged from these numbers"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 6,
      "why": "12 out of 15 is a high fraction, and 1 out of 10 is a low one. A big gap between eaters and non-eaters points to that food. It is a suspect, not proof, so the leftover food should be tested."
     },
@@ -2460,11 +2460,11 @@
      "t": "mcq",
      "p": "A big pot of hot dal needs to be cooled before it goes into the fridge. Which method gets it through the danger zone fastest?",
      "opts": [
-      "Spread it in a shallow, wide dish",
       "Leave it in the deep pot with the lid on",
+      "Spread it in a shallow, wide dish",
       "Put it straight into a closed box"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 2,
      "why": "A shallow dish has more surface for the heat to leave, so the dal cools fast and spends less time in the danger zone. A deep pot with a lid stays warm for hours in the middle."
     },
@@ -2542,11 +2542,11 @@
      "t": "mcq",
      "p": "Honey can keep for years without a fridge. What is the main reason?",
      "opts": [
-      "It has so little free water that microbes cannot grow in it",
       "It is always kept cold",
-      "It contains no sugar"
+      "It contains no sugar",
+      "It has so little free water that microbes cannot grow in it"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 4,
      "why": "Honey is mostly sugar and has very little water. The sugar holds on to the water tightly, and water is drawn out of any microbe that lands in it."
     },
@@ -2562,11 +2562,11 @@
      "t": "mcq",
      "p": "Escherichia coli lives in almost everyone's gut. Which statement fits best?",
      "opts": [
-      "Most strains are harmless in the gut, and a few can make people ill if they get into food or water",
       "All E. coli make people ill",
+      "Most strains are harmless in the gut, and a few can make people ill if they get into food or water",
       "E. coli only lives in food"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 1,
      "why": "Most strains of E. coli are harmless or helpful in the gut. Only some strains make toxins. So whether a microbe harms us depends on the strain, the place and the numbers."
     },
@@ -2597,11 +2597,11 @@
      "t": "mcq",
      "p": "Which words on a packet warn you about safety, not just quality?",
      "opts": [
-      "Use by",
       "Best before",
-      "Net weight"
+      "Net weight",
+      "Use by"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 5,
      "why": "Use by is printed on foods that spoil easily, such as fresh paneer, meat and cut salads. After that date they may not be safe. Best before is about taste and texture."
     },
@@ -2666,11 +2666,11 @@
      "t": "mcq",
      "p": "Why is it useful to know when guests ate and when they fell ill?",
      "opts": [
-      "The time between the two hints at which kind of microbe or toxin it was",
       "It tells us who cooked the food",
+      "The time between the two hints at which kind of microbe or toxin it was",
       "It tells us how much each guest ate"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 6,
      "why": "A toxin made in food can act within a few hours. Some bacteria take a day or more to cause illness. This time, the incubation period, helps scientists decide what to test for."
     },
@@ -2690,11 +2690,11 @@
      "t": "mcq",
      "p": "A raisin soaked in plain water swells. A raisin soaked in very salty water shrivels. Why?",
      "opts": [
-      "Water moves through the raisin's skin towards the saltier side",
       "Salt makes the raisin heavier",
+      "Water moves through the raisin's skin towards the saltier side",
       "Plain water makes the raisin sweeter"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 4,
      "why": "Water passes through thin skins towards the side with more salt or sugar. In plain water, it flows in and the raisin swells. In very salty water, it flows out and the raisin shrinks."
     },
@@ -2795,11 +2795,11 @@
      "t": "mcq",
      "p": "Whether a microbe is harmful depends on the meeting between the microbe and the person. What does this mean?",
      "opts": [
-      "The same microbe can be harmless in one place and harmful in another",
       "Microbes are never harmful",
-      "Microbes always meet in the gut"
+      "Microbes always meet in the gut",
+      "The same microbe can be harmless in one place and harmful in another"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 1,
      "why": "E. coli is harmless in most guts and harmful in a few strains in food. Whether a microbe harms us depends on where she is, how many there are and who meets her."
     },
@@ -2851,11 +2851,11 @@
    "t": "mcq",
    "p": "Which of these is a physical food hazard?",
    "opts": [
-    "A fragment of broken glass in a jar of jam",
     "Bacteria in old dal",
+    "A fragment of broken glass in a jar of jam",
     "Pesticide on a brinjal"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "A hard or sharp object that can hurt the mouth or gut is a physical hazard. Bacteria are biological hazards and pesticide is a chemical hazard."
   },
@@ -2875,11 +2875,11 @@
    "t": "mcq",
    "p": "Why does a fridge slow food from going bad, but not stop it?",
    "opts": [
-    "Cold slows the microbes but does not kill them",
     "Cold removes the water from food",
+    "Cold slows the microbes but does not kill them",
     "Cold puts the microbes to sleep for ever"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Microbes grow more slowly in the cold, but they stay alive. When food warms up again, they start to grow faster."
   },
@@ -2887,11 +2887,11 @@
    "t": "mcq",
    "p": "A yeast mixture is heated until it steams, then cooled to lukewarm and left on the counter. What happens to the yeast in that glass?",
    "opts": [
-    "She does not grow, because the heat killed her",
     "She grows faster than before",
+    "She does not grow, because the heat killed her",
     "She grows the same as unheated yeast"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Heat kills most microbes, including yeast. This is why cooking food makes it safer, and why the mixture stays flat."
   },
@@ -2911,11 +2911,11 @@
    "t": "mcq",
    "p": "Why does lemon pickle keep for months without a fridge?",
    "opts": [
-    "The salt, the sourness and the oil leave microbes little water or room to grow",
     "The lemon is too hard for microbes to eat",
+    "The salt, the sourness and the oil leave microbes little water or room to grow",
     "Pickle is always kept in the dark"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "why": "Salt pulls water out of microbes, the sour lemon slows many of them, and the oil keeps out air. A wet spoon can bring in water and let mould grow."
   },
@@ -2935,11 +2935,11 @@
    "t": "mcq",
    "p": "A packet of fresh paneer has a use by date of 12 March. Today is 14 March. What should you do?",
    "opts": [
-    "Throw it away, because fresh paneer spoils easily and may not be safe",
     "Eat it, because it looks fine",
-    "Boil it for a long time and eat it"
+    "Boil it for a long time and eat it",
+    "Throw it away, because fresh paneer spoils easily and may not be safe"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "A use by date is about safety on foods that spoil easily. Boiling does not remove toxins. A use by date is a limit, not a guess."
   },
@@ -2947,11 +2947,11 @@
    "t": "mcq",
    "p": "At a party, 6 of the 8 guests who ate the raita were ill, and 1 of the 8 guests who did not eat it was ill. What does this suggest?",
    "opts": [
-    "The raita is a strong suspect",
     "The raita is safe",
+    "The raita is a strong suspect",
     "Nothing can be told from these numbers"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 6,
    "why": "6 out of 8 is a high fraction, and 1 out of 8 is a low one. A big gap between eaters and non-eaters points to that food. It must still be tested."
   },
@@ -2959,11 +2959,11 @@
    "t": "mcq",
    "p": "Which statement about E. coli is best?",
    "opts": [
-    "She is harmless in most guts, and only some strains make people ill",
     "She is bad in the gut and good in food",
-    "She is the same everywhere"
+    "She is the same everywhere",
+    "She is harmless in most guts, and only some strains make people ill"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
    "why": "Most E. coli live quietly in the gut. Whether a microbe harms us depends on the strain, the place and the numbers."
   },
@@ -2971,11 +2971,11 @@
    "t": "mcq",
    "p": "How can a cook who feels well still pass typhoid on to others?",
    "opts": [
-    "She can be a carrier, and her hands pass the bacteria into food if she does not wash them well",
     "She cannot, because only ill people spread illness",
-    "Only by coughing on the food"
+    "Only by coughing on the food",
+    "She can be a carrier, and her hands pass the bacteria into food if she does not wash them well"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "A carrier has the bacteria in her body without feeling ill. Hand washing with soap is the main protection."
   },
@@ -2983,11 +2983,11 @@
    "t": "mcq",
    "p": "Why should a cook with loose motions not prepare food for others?",
    "opts": [
-    "Microbes from her gut can reach the food on her hands",
     "Her stomach hurts too much to cook",
+    "Microbes from her gut can reach the food on her hands",
     "She might eat the food herself"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "Loose motions may mean a gut infection. The microbes can pass from her hands into the food, even after washing, if she is still ill. She should stay away from food until she has been well for a day or two."
   }

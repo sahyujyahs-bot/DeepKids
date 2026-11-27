@@ -780,11 +780,11 @@
       "t": "mcq",
       "q": "Why do we mark the drop height on the wall?",
       "options": [
-       "So every drop starts from the same height",
        "So the liners look tidy",
+       "So every drop starts from the same height",
        "So the liners fall more slowly"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing changes. If the drops started from different heights, we would not know whether the number of liners or the height changed the time."
      },
      "context": "In this step, you check the liners and mark the drop height."
@@ -810,11 +810,11 @@
       "t": "mcq",
       "q": "The stack of four landed first. In a vacuum, heavy and light things fall together. What is different with the liners?",
       "options": [
-       "The liners are wide and light, so the air pushes on them a lot",
        "Gravity works differently on paper",
+       "The liners are wide and light, so the air pushes on them a lot",
        "The stack of four is magic"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A wide, light thing is slowed a lot by the air. The heavier stack has more weight to push against the air, so it falls faster. A heavy, compact thing, such as a full water bottle, is hardly slowed by the air at all."
      },
      "context": "In this step, you race a single liner against a stack of four."
@@ -968,11 +968,11 @@
       "t": "mcq",
       "q": "Your ball landed 50 centimetres ahead of the mark when you walked at an easy pace. About where will it land if you walk twice as fast?",
       "options": [
-       "About 100 centimetres ahead",
        "Right at the mark",
-       "About 25 centimetres ahead"
+       "About 25 centimetres ahead",
+       "About 100 centimetres ahead"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The ball keeps your sideways speed while it falls, and the fall takes the same time. Twice the speed means twice the distance travelled forward in that time."
      },
      "context": "In this step, you walk past the mark at three paces and drop the ball each time."
@@ -1098,11 +1098,11 @@
       "t": "mcq",
       "q": "Why do we drop each marble on a fresh, smooth patch of dough?",
       "options": [
-       "So every drop meets the same kind of surface",
        "So the dents make a nice pattern",
-       "So the marble rolls away"
+       "So the marble rolls away",
+       "So every drop meets the same kind of surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test only the drop height changes. If a marble landed in an old dent, we would not know whether the height or the old dent changed the result."
      },
      "context": "In this step, you make the soft dough and set up the ruler."
@@ -1127,11 +1127,11 @@
       "t": "mcq",
       "q": "You push a toothpick to the bottom of a dent, with a ruler lying across the top. Where do you pinch the toothpick?",
       "options": [
-       "At the edge of the ruler",
        "At the tip of the toothpick",
+       "At the edge of the ruler",
        "At the very top of the toothpick"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ruler lies at the level of the dough surface. The part of the toothpick below the ruler is the part inside the dent, so pinching at the ruler's edge marks the depth."
      },
      "context": "In this step, you measure how deep each dent is."
@@ -1317,11 +1317,11 @@
       "t": "mcq",
       "q": "The cat cube has 8 times the weight of the mouse cube. How many times more outside faces does it have?",
       "options": [
-       "4 times, which is 24 faces instead of 6",
        "8 times, which is 48 faces",
+       "4 times, which is 24 faces instead of 6",
        "2 times, which is 12 faces"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each side of the cat shows 2 times 2, which is 4 faces. Six sides make 24 faces. Compared with the mouse's 6, that is 4 times as many. The weight grew 8 times, but the outside grew only 4 times."
      },
      "context": "In this step, you build the cat and count the weight and outside faces."
@@ -1424,11 +1424,11 @@
       "t": "mcq",
       "q": "One washer made 14 swings in 20 seconds, and three washers made 14 swings. What does this show?",
       "options": [
-       "The weight of the swing did not change how fast it swings",
        "Three washers is a mistake",
+       "The weight of the swing did not change how fast it swings",
        "The string is too long"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The heavier swing swung at the same rate. The Earth pulls a heavier swing harder, but a heavier swing is also harder to get moving. These two effects are exactly equal, so they cancel out, in the same way as they do when things fall."
      },
      "context": "In this step, you count the swings of one washer and of three washers."
@@ -1735,11 +1735,11 @@
      "t": "mcq",
      "p": "What is terminal speed?",
      "opts": [
-      "The top speed of a falling thing in air, when the push of the air equals the pull of gravity",
       "The speed at the end of a railway line",
-      "The speed a thing has just after it is dropped"
+      "The speed a thing has just after it is dropped",
+      "The top speed of a falling thing in air, when the push of the air equals the pull of gravity"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At terminal speed the push of the air up equals the pull of gravity down. Nothing is left to speed the thing up, so it falls at a steady speed.",
      "outcome": 1
     },
@@ -1816,11 +1816,11 @@
      "t": "mcq",
      "p": "You walk and let go of a ball above a mark on the floor. Where does the ball land?",
      "opts": [
-      "Ahead of the mark",
       "Right under your hand, on the mark",
-      "Behind the mark"
+      "Behind the mark",
+      "Ahead of the mark"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The ball keeps your sideways speed while it falls, so it moves forward as it drops. It lands ahead of the spot under your hand.",
      "outcome": 3
     },
@@ -1997,11 +1997,11 @@
      "t": "mcq",
      "p": "You walk and drop a ball. It lands 40 centimetres ahead of the mark. Then you walk twice as fast. About how far ahead does it land now?",
      "opts": [
-      "About 80 centimetres",
       "About 40 centimetres",
+      "About 80 centimetres",
       "About 20 centimetres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The fall takes the same time. At twice the sideways speed, the ball travels twice as far forward in that time.",
      "outcome": 3
     },
@@ -2097,11 +2097,11 @@
      "t": "mcq",
      "p": "A steel ball and a wooden ball are the same size. They are dropped together from a high tower. Which lands first in air?",
      "opts": [
-      "The steel ball, by a little, because it is heavier and has a higher top speed",
       "The wooden ball, because it is lighter",
-      "They land together, because all things fall alike"
+      "They land together, because all things fall alike",
+      "The steel ball, by a little, because it is heavier and has a higher top speed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The air pushes on both balls equally at the same speed. The steel ball is heavier, so it needs a higher speed before the air matches its weight. In air, it lands first.",
      "outcome": 2
     },
@@ -2182,11 +2182,11 @@
      "t": "mcq",
      "p": "J. B. S. Haldane wrote that a mouse can fall down a mine shaft and walk away. What is the main reason?",
      "opts": [
-      "A mouse has little weight for the area the air pushes on",
       "A mouse falls more slowly because gravity is weaker for her",
-      "A mouse always lands on her feet"
+      "A mouse always lands on her feet",
+      "A mouse has little weight for the area the air pushes on"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A small body has a low top speed, so she lands softly. The Earth pulls a mouse in the same way as a horse. The difference is in how much air she meets for her weight.",
      "outcome": 5
     },
@@ -2251,11 +2251,11 @@
    "t": "mcq",
    "p": "With no air in the way, how much speed does a falling thing gain each second?",
    "opts": [
-    "About 10 metres a second",
     "About 1 metre a second",
-    "About 100 metres a second"
+    "About 100 metres a second",
+    "About 10 metres a second"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Near the Earth, a falling thing gains about 10 metres a second of speed every second. The exact number is 9.8.",
    "outcome": 0
   },
@@ -2275,11 +2275,11 @@
    "t": "mcq",
    "p": "A stack of four paper liners falls faster than one liner. What is the best reason?",
    "opts": [
-    "The heavier stack must go faster before the push of the air matches its weight",
     "Gravity pulls the stack with a different kind of force",
+    "The heavier stack must go faster before the push of the air matches its weight",
     "The stack of four is bigger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Both have the same shape. The stack is heavier, so it needs a higher speed before the air pushes back as hard as the Earth pulls.",
    "outcome": 2
   },
@@ -2311,11 +2311,11 @@
    "t": "mcq",
    "p": "A cube is made twice as wide. What happens to its weight and to its outside area?",
    "opts": [
-    "Weight grows 8 times and area grows 4 times",
     "Both grow 2 times",
+    "Weight grows 8 times and area grows 4 times",
     "Weight grows 4 times and area grows 8 times"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Weight follows width times width times width, which is 8 for twice as wide. Area follows width times width, which is 4.",
    "outcome": 5
   },
@@ -2354,11 +2354,11 @@
    "t": "mcq",
    "p": "A mouse survives a fall that would hurt a horse. Which fact explains it best?",
    "opts": [
-    "A smaller animal has less weight for the area of her body that the air pushes on",
     "Mice are always lucky",
-    "Mice fall at the speed of a feather"
+    "Mice fall at the speed of a feather",
+    "A smaller animal has less weight for the area of her body that the air pushes on"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Weight grows faster than outside area as an animal gets bigger. A mouse has a low top speed, and a horse has a high one.",
    "outcome": 5
   },
@@ -2378,11 +2378,11 @@
    "t": "mcq",
    "p": "What does a skydiver do to fall faster?",
    "opts": [
-    "Pulls in her arms and legs and dives head first, to meet less air",
     "Spreads her arms and legs wide",
+    "Pulls in her arms and legs and dives head first, to meet less air",
     "Puts on a bigger coat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A smaller shape meets less air, so the push of the air matches her weight only at a higher speed.",
    "outcome": 1
   }

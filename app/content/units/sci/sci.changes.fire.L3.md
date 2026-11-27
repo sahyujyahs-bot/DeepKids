@@ -540,7 +540,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 3. (write) In The Jumping Flame, a match held in the white smoke relit the candle without touching the wick. Explain what was in the smoke.  
    **Answer:** The smoke had wax gas in it, still rising from the hot wick. The match lit the gas, and the flame ran down the gas to the wick.. *Why:* A strong answer says the smoke carried wax gas, and that the flame followed the gas down to the wick.
 4. (mcq) You blow out a birthday candle. What does your breath do to the flame?  
-   Options: Pushes the wax gas away and cools the wick / Adds water to the flame / Uses up all the oxygen  
+   Options: Adds water to the flame / Pushes the wax gas away and cools the wick / Uses up all the oxygen  
    **Answer:** Pushes the wax gas away and cools the wick. *Why:* Your breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.
 5. (truefalse) A lump of wax lights as easily as a candle wick.  
    **Answer:** False. *Why:* False. In The Jumping Flame, a match held to a lump of wax only melted it. The wick lifts a little melted wax into the flame, where it turns into gas and burns.
@@ -551,7 +551,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 8. (write) A grandmother says, "Tie back your loose dupatta before you light the lamps." Give the reason behind this rule.  
    **Answer:** A loose dupatta is cloth, which is a fuel. If it swings into the flame, the flame's heat can light it, and the air around it lets it burn.. *Why:* A strong answer names the fire triangle: the cloth is fuel, the lamp gives heat and the air gives oxygen.
 9. (mcq) Which of these should a child never do?  
-   Options: Tell a grown-up if you smell gas / Play with a lighter / Keep a lamp on a steel plate  
+   Options: Play with a lighter / Tell a grown-up if you smell gas / Keep a lamp on a steel plate  
    **Answer:** Play with a lighter. *Why:* Matches and lighters stay with grown-ups, because a child may not be able to control the flame or put it out. The others are good habits.
 10. (order) Put these in order, for a small burn on your hand.  
    **Answer:** ['Move away from the hot thing', 'Hold the burn under cool running water', 'Keep it there for 20 minutes', 'Cover it loosely with a clean cloth']. *Why:* First get away from the heat. Then cool the burn for a full 20 minutes. Only after that, cover it loosely.
@@ -574,14 +574,14 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** Hot water → Carry it slowly, and let a grown-up pour; Scissors → Cut away from your fingers; Long hair near a candle → Tie it back; Spilled water on the table → Wipe it up at once. *Why:* Each habit takes the danger away. A slow carry stops scalds, cutting away from the fingers stops cuts, tied-back hair keeps away from the flame, and a dry table stops slips.
 ### Flames and Fuels (stretch) (stretch, 17 questions)
 1. (mcq) In Dry Wick or Oiled Wick?, the dry wick burned for under a minute, but the wick in oil burned for 10 minutes. What was the main fuel in the oiled diya?  
-   Options: The cotton / The oil / The clay diya  
+   Options: The cotton / The clay diya / The oil  
    **Answer:** The oil. *Why:* The oil climbed the wick and burned as a gas at its tip. The soaked cotton hardly burned. Picking 'the cotton' is natural, because the flame sits on it, but the dry wick showed how fast cotton alone burns away.
 2. (write) Why does a diya's wick hardly get shorter while there is oil, but burn away quickly when the oil runs out?  
    **Answer:** While oil keeps climbing, the oil turns to gas and burns at the tip, and the soaked cotton stays cool enough not to burn. When the oil runs out, the cotton is the only fuel left, so it burns away.. *Why:* A strong answer says the oil is the fuel and protects the cotton by keeping it soaked.
 3. (truefalse) Cooking gas lights more easily than candle wax because it is already a gas.  
    **Answer:** True. *Why:* True. A flame burns gas. Wax must first melt and turn into gas, but cooking gas is ready to burn the moment a spark reaches it.
 4. (mcq) A big log will not light from one match, but a handful of thin dry twigs will. Why?  
-   Options: Thin twigs heat up quickly and give off burning gas / Logs have no fuel in them / Twigs have more oxygen inside them  
+   Options: Logs have no fuel in them / Twigs have more oxygen inside them / Thin twigs heat up quickly and give off burning gas  
    **Answer:** Thin twigs heat up quickly and give off burning gas. *Why:* Thin twigs heat up quickly all the way through, so they give off gas fast. In a big log, the heat spreads into the wood and only warms it. Picking 'logs have no fuel' is not right, because a log burns well once a twig fire is under it.
 5. (fill) The yellow glow of a candle flame comes from tiny hot bits of ____.  
    **Answer:** ['soot', 'carbon']. *Why:* Tiny bits of soot glow yellow in the heat. A gas stove flame has very little soot, so it is blue.
@@ -590,7 +590,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 7. (sort) Sort these into what a candle flame takes in and what it gives out.  
    **Answer:** wax gas → Takes in; oxygen → Takes in; heat → Gives out; light → Gives out; carbon dioxide → Gives out; water vapour → Gives out. *Why:* A flame takes in wax gas and oxygen. It gives out heat, light, carbon dioxide and water vapour, and sometimes soot.
 8. (mcq) Why is it dangerous to keep petrol or kerosene near a flame, even when they are cold?  
-   Options: They give off flammable gas even when cold / They are hot inside / They have no oxygen  
+   Options: They are hot inside / They give off flammable gas even when cold / They have no oxygen  
    **Answer:** They give off flammable gas even when cold. *Why:* Petrol and kerosene give off flammable gas even at room temperature. That gas can spread and reach a flame. Picking 'they are hot inside' is not right: the danger is the gas they give off.
 9. (draw) In the Tea Strainer Test, the fine mesh stopped the flame. Draw what you saw from the side: the candle, the flame and the mesh. Show where the smoke went.  
    **Answer:** A candle, a flame flattened under the mesh, and smoke rising above the mesh.. *Why:* A strong drawing shows the flame below the mesh only, with smoke passing through.
@@ -601,14 +601,14 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 12. (truefalse) Burning is a change that can easily be undone, like melting.  
    **Answer:** False. *Why:* False. Burning makes new substances, such as carbon dioxide and water. You cannot turn ash and smoke back into wood. Melting wax can be undone by cooling it.
 13. (mcq) A cold steel spoon is held in a yellow candle flame for a moment. It comes out black. What is the black stuff?  
-   Options: Soot / Burnt steel / Ash from the wick  
+   Options: Burnt steel / Soot / Ash from the wick  
    **Answer:** Soot. *Why:* It is soot: tiny bits of carbon from wax gas that did not burn fully. A blue gas stove flame leaves much less.
 14. (write) Early people often carried glowing embers with them from camp to camp, instead of making a new fire each time. Why might they have done that?  
    **Answer:** Making fire by spinning a stick or striking stones was slow and hard, and might fail when wood was damp. Carrying an ember was easier. Covered with ash, an ember can keep burning slowly for hours.. *Why:* A strong answer says making fire was hard, and that an ember kept slowly burning, with little air, until it was needed.
 15. (order) Put these steps of a burning candle in order.  
    **Answer:** ['The flame melts the wax', 'Melted wax climbs the wick', 'Heat turns the wax into gas', 'The gas burns and makes more heat']. *Why:* This loop keeps the candle going: the heat from the burning gas melts more wax.
 16. (mcq) The flame on a gas stove has turned yellow, and the pans get black marks. What should a child who notices this do?  
-   Options: Pour water on the burner / Tell a grown-up that the burner may need cleaning / Cover the stove with a lid  
+   Options: Tell a grown-up that the burner may need cleaning / Pour water on the burner / Cover the stove with a lid  
    **Answer:** Tell a grown-up that the burner may need cleaning. *Why:* A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out.
 17. (truefalse) A baked clay diya turns back into soft mud if it stays in water for a day.  
    **Answer:** False. *Why:* False. Baking in a kiln changes the clay itself into something hard. Only unbaked clay turns to mud in water.
@@ -618,24 +618,24 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 2. (write) In The Jumping Flame, the flame jumped down from 2 cm every time but from 8 cm only sometimes. Explain why height made a difference.  
    **Answer:** Close to the wick, the wax gas is thick enough to burn. Higher up, it has spread out and mixed with more air, and some has cooled into droplets, so there is too little gas in one place to carry the flame down.. *Why:* A strong answer links height to how much wax gas there is in one place.
 3. (mcq) Two diyas of the same size burn with the same oil. One is covered with a small closed glass jar and the other with a big closed glass jar. Which diya goes out first?  
-   Options: The one under the big jar / The one under the small jar / They go out together  
+   Options: The one under the small jar / The one under the big jar / They go out together  
    **Answer:** The one under the small jar. *Why:* Both have fuel and heat. A small jar holds less air, so its oxygen runs out sooner. Picking 'together' is a fair guess, because the diyas are the same. But the amount of air is different.
 4. (truefalse) A flame needs a match only to start. After that, it makes its own heat.  
    **Answer:** True. *Why:* True. The flame's heat melts the wax and turns it into gas. That gas burns and makes more heat. The loop goes on until the fuel or the air runs out.
 5. (write) A fire has been put out with water, but the wood is still hot. Why might a fire fighter keep spraying it?  
    **Answer:** The wood still has fuel and air around it. If it stays hot enough, it can start burning again. Cooling it fully takes away the heat side of the triangle for good.. *Why:* A strong answer says all three sides could come back together if the wood stays hot.
 6. (mcq) Coal miners in the 1700s used a spinning steel wheel that threw sparks for light. They thought it was safer than a candle. Why was it still dangerous?  
-   Options: Sparks are hot enough to light firedamp / Sparks use up all the oxygen / The wheel was too heavy to carry  
+   Options: Sparks use up all the oxygen / Sparks are hot enough to light firedamp / The wheel was too heavy to carry  
    **Answer:** Sparks are hot enough to light firedamp. *Why:* A spark is a tiny hot bit of metal. It is hot enough to light firedamp gas. An explosion at Wallsend Colliery in 1785 showed this.
 7. (order) Put these events in time order, oldest first.  
    **Answer:** ['People in Wonderwerk Cave leave burnt bones and ash', 'Hearths are common in caves in many places', 'Davy makes his safety lamp', 'Safety matches are made in Sweden']. *Why:* About one million years ago, about 400,000 years ago, 1815, and the 1840s to 1850s.
 8. (write) Many people think a candle burns its wick, like a slow fuse. Use two results from this lesson to show what really burns.  
    **Answer:** In The Jumping Flame, the flame lit the smoke and ran down to the wick, so wax gas burns. In Dry Wick or Oiled Wick?, the wick in oil hardly got shorter in 10 minutes, but the dry wick burned away in under a minute. So the fuel is the wax or oil, burning as a gas.. *Why:* A strong answer uses two pieces of evidence and says what each one shows.
 9. (mcq) Why does a gas stove flame look blue, while a candle flame looks yellow?  
-   Options: Air is mixed into the gas first, so it burns fully with little soot / Cooking gas is blue / The stove flame is colder  
+   Options: Cooking gas is blue / Air is mixed into the gas first, so it burns fully with little soot / The stove flame is colder  
    **Answer:** Air is mixed into the gas first, so it burns fully with little soot. *Why:* In a gas stove, air is mixed with the gas before it burns, so it burns fully and makes very little soot. In a candle, soot forms inside the flame and glows yellow.
 10. (mcq) Richard Wrangham thinks learning to cook changed human bodies. Which fact supports his idea?  
-   Options: Cooked food gives more energy and needs less chewing / Chimpanzees cannot swim / Fire was on Earth before people  
+   Options: Chimpanzees cannot swim / Cooked food gives more energy and needs less chewing / Fire was on Earth before people  
    **Answer:** Cooked food gives more energy and needs less chewing. *Why:* Cooked food gives the body more energy and needs less chewing, which fits with smaller teeth and guts and bigger brains. The other two are true facts, but they do not support his idea.
 11. (draw) Design a lamp for a coal mine, using what you learned about metal mesh. Label the flame, the mesh, and where air comes in.  
    **Answer:** A flame inside a cylinder of fine metal mesh, with air coming in through the mesh and a solid top or shield.. *Why:* A strong design keeps the flame completely inside fine metal mesh, and lets air in through it.
@@ -656,16 +656,16 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 
 ## Quiz
 1. (mcq) Which three things does every fire need?  
-   Options: Fuel, oxygen and heat / Wood, water and wind / Smoke, light and ash  
+   Options: Wood, water and wind / Smoke, light and ash / Fuel, oxygen and heat  
    **Answer:** Fuel, oxygen and heat. *Why:* Every fire needs fuel, oxygen and heat at once. Smoke, light and ash are what a fire gives out, not what it needs.
 2. (mcq) A box of matches sits on a shelf. It has fuel and air all round it. Why doesn't it catch fire?  
-   Options: It has no oxygen / It is not hot enough / Matches burn only at night  
+   Options: It has no oxygen / Matches burn only at night / It is not hot enough  
    **Answer:** It is not hot enough. *Why:* The matches have fuel and air, but they need heat to start. Striking a match on the box gives that heat. Picking 'no oxygen' is a fair try, but the air all round the box has oxygen.
 3. (mcq) In The Jumping Flame, a match held in the white smoke of a blown-out candle relit the wick. What was burning in the smoke?  
-   Options: Wax gas / The air / Bits of the match  
+   Options: The air / Bits of the match / Wax gas  
    **Answer:** Wax gas. *Why:* Just after the candle went out, wax gas kept rising from the hot wick. The match lit that gas, and the flame ran down it to the wick. Picking 'the air' is a good thought, because oxygen from the air was needed too. But the air alone does not burn.
 4. (mcq) In The Jumping Flame, a grown-up held a lit match to a lump of wax with no wick. What happened?  
-   Options: It burst into flame / It melted a little but did not keep burning / It turned into water  
+   Options: It melted a little but did not keep burning / It burst into flame / It turned into water  
    **Answer:** It melted a little but did not keep burning. *Why:* The heat spread into the big lump and only melted it. Not enough wax turned into gas in one place to keep a flame going. A wick fixes that by lifting a little melted wax into the hottest part of the flame.
 5. (mcq) Oil in a kadai catches fire. What should a grown-up do?  
    Options: Pour a mug of water on it / Turn off the stove and cover the kadai with a lid / Carry the kadai to the sink  
@@ -677,7 +677,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    Options: Run outside into the wind / Stop, drop to the ground, cover your face and roll / Wave your arms to blow the fire out  
    **Answer:** Stop, drop to the ground, cover your face and roll. *Why:* Rolling keeps the air from the flames, so they go out. Running and waving bring more oxygen, so the fire burns harder.
 8. (mcq) In a fire in a tall building, why should you use the stairs and not the lift?  
-   Options: The power may fail, and smoke can fill the lift shaft / The lift is too slow to reach the ground / Lifts cannot go downstairs  
+   Options: The lift is too slow to reach the ground / Lifts cannot go downstairs / The power may fail, and smoke can fill the lift shaft  
    **Answer:** The power may fail, and smoke can fill the lift shaft. *Why:* In a fire the lift can stop between floors when the power fails, and smoke can fill the lift shaft. The stairs are the safe way out. Picking 'too slow' is a fair thought, but speed is not the main danger.
 9. (mcq) Why does cooking gas have a strong smell?  
    Options: Cooking gas always smells like that naturally / A smell is added so that people notice a leak / The smell is the gas burning  
@@ -689,10 +689,10 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    Options: Burnt bones and plant ash in a cave in South Africa, about one million years old / Matchboxes found in old temples / Drawings of fire on the Moon  
    **Answer:** Burnt bones and plant ash in a cave in South Africa, about one million years old. *Why:* In Wonderwerk Cave in South Africa, scientists found burnt bones and ash from plants about one million years old. Scientists still argue about when fire became part of everyday life.
 12. (mcq) Humphry Davy put a lamp's flame inside a cylinder of fine iron mesh. Why could the flame not light the gas outside?  
-   Options: The mesh kept out all the gas / The metal took heat away, so the gas outside was too cool to burn / The mesh made the flame smaller  
+   Options: The mesh kept out all the gas / The mesh made the flame smaller / The metal took heat away, so the gas outside was too cool to burn  
    **Answer:** The metal took heat away, so the gas outside was too cool to burn. *Why:* Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.
 13. (mcq) A potter bakes a clay diya in a kiln. What does the heat do?  
-   Options: It changes the clay into something hard / It only dries the clay, so water can soften it again / It melts the clay so it can be shaped again  
+   Options: It only dries the clay, so water can soften it again / It changes the clay into something hard / It melts the clay so it can be shaped again  
    **Answer:** It changes the clay into something hard. *Why:* The heat drives out the water and changes the clay itself, so the grains join into something hard. Drying alone would leave a pot that turns to mud again, and melting is not what a kiln does.
 14. (mcq) The fire bell rings at school and smoke is in the corridor. What should you do?  
    Options: Crawl low to the nearest exit, then the assembly point / Hide under the bench until it is quiet / Go back to the classroom for your bag  

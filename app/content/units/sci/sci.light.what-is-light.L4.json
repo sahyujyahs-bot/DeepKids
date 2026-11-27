@@ -803,12 +803,12 @@
       "t": "mcq",
       "q": "A TV remote works with light that your eyes cannot see. Which sign is it?",
       "options": [
-       "Infrared",
        "Visible light",
        "Radio waves",
+       "Infrared",
        "X-rays"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A TV remote sends infrared, just beyond red. Picking visible light is common, because we call remotes 'light', but your eyes cannot see it, and a phone camera can. Picking radio waves is a good guess, because it works at a distance without wires, but radio waves are much longer."
      }
     },
@@ -842,12 +842,12 @@
       "t": "mcq",
       "q": "Which waves in the family carry the most energy in each photon?",
       "options": [
-       "The shortest waves, gamma rays",
        "The longest waves, radio waves",
        "All of them carry the same",
+       "The shortest waves, gamma rays",
        "The visible ones in the middle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The shorter the wavelength, the more energy each photon carries. Gamma rays are the shortest, so they carry the most. Picking radio waves is a common mix-up, because radio towers are huge and powerful. A tower sends out an enormous number of photons, but each radio photon carries very little."
      }
     },
@@ -1075,12 +1075,12 @@
       "t": "mcq",
       "q": "A stall moves from 2 steps to 4 steps from the post. About how many times as many lanterns does it need for the same light?",
       "options": [
-       "4 times as many",
        "2 times as many",
+       "4 times as many",
        "The same number",
        "8 times as many"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At double the distance, each lantern gives one quarter as much light. So you need four times as many lanterns to get the same light. Picking 2 is a common slip, because the distance doubled, but light spreads over an area, and the area is four times bigger."
      }
     },
@@ -1246,12 +1246,12 @@
       "t": "mcq",
       "q": "The patch at 20 centimetres covers about 16 squares. The paper moves to 40 centimetres, twice as far. About how many squares are lit?",
       "options": [
-       "About 64 squares, four times as many",
        "About 32 squares, twice as many",
        "About 16 squares, the same",
+       "About 64 squares, four times as many",
        "About 8 squares, half as many"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Twice as far makes the patch twice as wide and twice as tall. Two times two is four, so it covers four times the area: 16 times 4 is 64. Picking 32 is the common guess, because the distance doubled. That forgets the patch grows in two directions at once."
      },
      "context": "In this step, you move the paper further away and count the lit squares again."
@@ -1409,12 +1409,12 @@
       "t": "mcq",
       "q": "Why do we keep a cube on white paper in the shade?",
       "options": [
-       "To see how fast ice melts without any sunshine",
        "To make the race look fair",
        "To cool the other cubes down",
+       "To see how fast ice melts without any sunshine",
        "To use up the spare paper"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The shaded cube is the control. It shows how fast ice melts without any sunshine. If the cubes in the sun melt faster than the control, the sunshine did the extra melting. Picking 'to cool the other cubes' is wrong, because the shaded cube is too far away to cool anything."
      },
      "context": "In this step, you watch the cubes melt and write down the time for each."
@@ -1440,12 +1440,12 @@
       "t": "mcq",
       "q": "The ice melted fastest on black paper. What does this tell you about black paper and sunlight?",
       "options": [
-       "It takes in more of the light and turns it into heat",
        "It makes its own heat",
        "It sends more light back",
+       "It takes in more of the light and turns it into heat",
        "It makes the Sun hotter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Black paper absorbs most of the sunlight that lands on it, and the light's energy becomes heat. Picking 'it sends more light back' is the opposite. White paper does that. Picking 'it makes its own heat' mixes up making heat with turning light into heat."
      },
      "context": "In this step, you explain the race: what black and white paper do with sunlight."
@@ -1594,12 +1594,12 @@
       "t": "mcq",
       "q": "The remote's signal bounced off a mirror and was blocked by a steel plate. What does this suggest about it?",
       "options": [
-       "It behaves like light, though we cannot see it",
        "It behaves like sound",
        "It is not real",
+       "It behaves like light, though we cannot see it",
        "It is made by the mirror"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Reflecting off mirrors and being blocked by solid things are things light does. Sound would bend round a plate and fill a room. Picking 'it is not real' is a slip, because the TV obeyed it, so it was doing something."
      },
      "context": "In this step, you decide what the remote's signal is like, using what you found."
@@ -1696,12 +1696,12 @@
       "t": "mcq",
       "q": "The black cloth felt warmer than the white one after the same time in the sun. Why?",
       "options": [
-       "Black takes in more of the light and turns it into heat",
        "Black makes more light than white does",
+       "Black takes in more of the light and turns it into heat",
        "The Sun shines harder on black things",
        "White cloth is thicker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Black cloth absorbs most of the light that lands on it, and the energy of the light becomes heat. White cloth reflects much of the light away. Picking 'the Sun shines harder on black' is a common idea, but the sunlight is the same on both."
      },
      "context": "In this step, you compare a black and a white cloth in the sun."
@@ -1790,12 +1790,12 @@
       "t": "mcq",
       "q": "Which is the best way to say where the energy in an idli came from?",
       "options": [
-       "From sunlight that the rice and dal plants stored",
        "From the steam that cooked it",
        "From the idli plate",
-       "From the water in the batter"
+       "From the water in the batter",
+       "From sunlight that the rice and dal plants stored"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Plants catch sunlight and store its energy in their grains. The steam only warms the idli. Picking 'the steam' is a common idea, because cooking feels like adding energy, but the energy we get when we eat comes from the food itself, which was stored from sunlight."
      },
      "context": "In this step, you finish the trail and say what changes into what."
@@ -1913,12 +1913,12 @@
       "t": "mcq",
       "q": "As the model comet goes round the fan, which way does its tail point?",
       "options": [
-       "Away from the fan, wherever the comet is",
        "Behind the comet, the way it moves",
        "Toward the fan",
-       "Always to the left"
+       "Always to the left",
+       "Away from the fan, wherever the comet is"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The tail streams in the direction the push is going, which is away from the fan. A real comet's tail points away from the Sun in the same way. Picking 'behind the comet' is a common idea, because a kite's tail trails behind it, but a comet's tail is blown by the Sun, not left behind."
      },
      "context": "In this step, you move the comet around the fan and watch its tail."
@@ -2025,12 +2025,12 @@
       "t": "mcq",
       "q": "The warmth stopped when a card was put between the tumbler and your cheek. What does that suggest?",
       "options": [
-       "Something travelled across the gap from the tumbler, and the card stopped it",
        "The tumbler cooled down at that moment",
        "The warmth was in your imagination",
-       "The card was cold"
+       "The card was cold",
+       "Something travelled across the gap from the tumbler, and the card stopped it"
       ],
-      "a": 0,
+      "a": 3,
       "why": "You felt the warmth across a gap, with nothing touching. It stopped when the card blocked the way, and came back when the card moved. That fits infrared light travelling from the tumbler and being stopped by the card. Picking 'the tumbler cooled down' does not fit, because the warmth came back at once when the card moved."
      },
      "context": "In this step, you block the warmth with a card to show that something travels from the tumbler to your cheek."
@@ -2254,12 +2254,12 @@
       "t": "mcq",
       "q": "A shiny foil dome helped to keep a cube from melting in the sun. Why?",
       "options": [
-       "It reflected most of the sunlight, so little was turned into heat",
        "It made its own cold",
+       "It reflected most of the sunlight, so little was turned into heat",
        "It took in the sunlight and kept it",
        "It blocked the air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Shiny foil reflects most of the light that lands on it, so little of the sunlight becomes heat. Picking 'it took in the sunlight' is the opposite. That is what black paper does."
      },
      "context": "In this step, you compare your two designs and say why they worked."
@@ -2349,12 +2349,12 @@
       "t": "mcq",
       "q": "A white wall behind the torch made the page easier to read. Why?",
       "options": [
-       "The wall bounced light that would otherwise have been lost onto the page",
        "The wall made its own light",
        "The wall made the torch brighter",
+       "The wall bounced light that would otherwise have been lost onto the page",
        "The wall pulled the light toward it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A white wall reflects most of the light that lands on it. Some of that light travels on to the page, adding to the torch's own light. Picking 'the wall made its own light' mixes up reflecting light with making light."
      },
      "context": "In this step, you compare your plans and explain which worked best."
@@ -2429,12 +2429,12 @@
      "t": "mcq",
      "p": "A school bag left in the sun feels hotter when it is black than when it is white. What is the best reason?",
      "opts": [
-      "Black takes in more of the sunlight and turns it into heat",
       "Black makes its own heat",
       "White bags are thicker",
-      "The Sun shines harder on black things"
+      "The Sun shines harder on black things",
+      "Black takes in more of the sunlight and turns it into heat"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The sunlight is the same for both bags. Black absorbs most of it, so the energy of the light becomes heat. White reflects much of it away. Picking 'the Sun shines harder' is a common idea, but the sunlight on the two bags is the same.",
      "outcome": 2
     },
@@ -2606,12 +2606,12 @@
      "t": "mcq",
      "p": "Jupiter is about 5 times further from the Sun than the Earth is. About how much sunlight does a square metre of Jupiter's cloud tops get, compared with a square metre on Earth?",
      "opts": [
-      "About one twenty-fifth",
       "About one fifth",
       "About the same",
-      "About five times as much"
+      "About five times as much",
+      "About one twenty-fifth"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Five times as far means the light is spread over 5 times 5, which is 25 times the area. So each square metre gets about one twenty-fifth as much. Picking one fifth is the common slip, as it forgets that the area grows in two directions.",
      "outcome": 1
     },
@@ -2706,12 +2706,12 @@
      "t": "mcq",
      "p": "A pit viper hunts a warm mouse in total darkness. What does the snake sense?",
      "opts": [
-      "The infrared that the warm mouse gives out",
       "Ultraviolet light from the mouse",
       "A sound too high for us to hear",
+      "The infrared that the warm mouse gives out",
       "Light made by the snake"
      ],
-     "a": 0,
+     "a": 2,
      "why": "All warm things give out infrared, and pit vipers have small pits on their faces that sense it. Picking 'light made by the snake' mixes up sensing light with making light.",
      "outcome": 3
     },
@@ -2849,12 +2849,12 @@
      "t": "mcq",
      "p": "Radio telescopes find a faint glow of microwaves coming from every direction in the sky. What is the best explanation?",
      "opts": [
-      "It is the oldest light there is, from the young universe, stretched into microwaves",
       "It is heat from the Sun",
       "It is light from a nearby lamp",
+      "It is the oldest light there is, from the young universe, stretched into microwaves",
       "It is radio from satellites"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The glow is the same from every direction, which fits light that was set free when the whole universe was young. As space grew, the waves were stretched until they became microwaves. Scientists agree the glow is real. They argue about what it says of the start.",
      "outcome": 7
     },
@@ -3022,12 +3022,12 @@
      "t": "mcq",
      "p": "A clear glass jar over a piece of black paper in the sun melts an ice cube faster than black paper on its own. What is the best reason?",
      "opts": [
-      "The jar lets light in but slows the escape of heat",
       "The jar makes extra light",
       "The jar cools the ice",
+      "The jar lets light in but slows the escape of heat",
       "The jar is dark"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sunlight passes through the clear jar and is absorbed by the black paper. The jar traps the warm air, so heat leaves more slowly. A car left in the sun does the same. Picking 'the jar makes extra light' mixes up trapping heat with making light.",
      "outcome": 2
     },
@@ -3073,12 +3073,12 @@
    "t": "mcq",
    "p": "You move a torch three times further from a wall. How does the light on each part of the lit patch change?",
    "opts": [
-    "It becomes nine times thinner",
     "It becomes three times thinner",
+    "It becomes nine times thinner",
     "It stays the same",
     "It becomes three times stronger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Three times as far makes the patch 3 times wider and 3 times taller, so 9 times the area. The same light is shared by 9 times as much area. Picking 3 times thinner is the common slip, as it forgets the second direction.",
    "outcome": 1
   },
@@ -3112,12 +3112,12 @@
    "t": "mcq",
    "p": "Herschel painted the bulbs of his thermometers black. Why?",
    "opts": [
-    "Black takes in more of the light, so the thermometer shows the warmth more clearly",
     "Black makes the thermometer lighter",
     "Black stops heat from getting in",
-    "Black makes the numbers easier to read"
+    "Black makes the numbers easier to read",
+    "Black takes in more of the light, so the thermometer shows the warmth more clearly"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A black bulb absorbs most of the rays that land on it and turns them into heat. A clear bulb would let much of the energy pass through, and show a smaller change.",
    "outcome": 7
   },
@@ -3138,12 +3138,12 @@
    "t": "mcq",
    "p": "Which members of the light family have the longest waves?",
    "opts": [
-    "Radio waves",
     "X-rays",
+    "Radio waves",
     "Visible light",
     "Ultraviolet"
    ],
-   "a": 0,
+   "a": 1,
    "why": "From longest to shortest the order is radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. FM radio waves are about 3 metres long. X-rays are as short as an atom.",
    "outcome": 3
   },
@@ -3151,12 +3151,12 @@
    "t": "mcq",
    "p": "What do radio waves, visible light and X-rays have in common?",
    "opts": [
-    "They are all waves of electric and magnetic fields that travel at the speed of light in empty space",
     "They are all made of sound",
     "They are all visible",
-    "They all have the same wavelength"
+    "They all have the same wavelength",
+    "They are all waves of electric and magnetic fields that travel at the speed of light in empty space"
    ],
-   "a": 0,
+   "a": 3,
    "why": "They are one family, the electromagnetic spectrum. They differ in wavelength but are the same kind of wave. Picking 'the same wavelength' is the opposite of the truth. The wavelength is exactly what sets them apart.",
    "outcome": 3
   },
@@ -3164,12 +3164,12 @@
    "t": "mcq",
    "p": "Why can our eyes not see infrared?",
    "opts": [
-    "The light-catching cells in our eyes respond only to a thin slice of wavelengths",
     "Infrared is not really light",
     "Infrared is too bright for our eyes",
+    "The light-catching cells in our eyes respond only to a thin slice of wavelengths",
     "Infrared stops at the eyelid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Our eyes are built to catch wavelengths from about 0.0004 to 0.0007 millimetres. Infrared is a little longer, and our eye cells do not respond to it. It is a real member of the light family, and a phone camera can catch it.",
    "outcome": 4
   },
@@ -3177,12 +3177,12 @@
    "t": "mcq",
    "p": "Which carries more energy in each photon, ultraviolet or infrared?",
    "opts": [
-    "Ultraviolet",
     "Infrared",
     "They carry the same",
-    "It depends on the colour of the sky"
+    "It depends on the colour of the sky",
+    "Ultraviolet"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The shorter the wavelength, the more energy each photon carries. Ultraviolet is shorter than visible light, and infrared is longer. That is why ultraviolet can burn skin, and infrared only warms it.",
    "outcome": 3
   },
@@ -3190,12 +3190,12 @@
    "t": "mcq",
    "p": "Why does the tail of a comet point away from the Sun?",
    "opts": [
-    "Sunlight and the stream of particles from the Sun push the dust and gas outward",
     "The comet is falling into the Sun",
+    "Sunlight and the stream of particles from the Sun push the dust and gas outward",
     "The tail is left behind as the comet moves",
     "The Sun's gravity pulls the tail"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light carries a small push, and the Sun also sends out a stream of particles. Together these push the comet's dust and gas away from the Sun. Picking 'left behind' is a common idea, because a kite's tail trails behind it.",
    "outcome": 5
   },
@@ -3203,12 +3203,12 @@
    "t": "mcq",
    "p": "How is the energy in a rice grain connected to the Sun?",
    "opts": [
-    "The rice plant caught sunlight and stored the energy in the grain",
     "The grain was warmed by the Sun while drying",
     "The grain makes its own energy from nothing",
-    "The soil gives the grain its energy"
+    "The soil gives the grain its energy",
+    "The rice plant caught sunlight and stored the energy in the grain"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Plants use sunlight to make sugar from water and air, and store the energy in their grains. Warming in the Sun does not add the energy we get from food.",
    "outcome": 6
   },
@@ -3216,12 +3216,12 @@
    "t": "mcq",
    "p": "Gases such as carbon dioxide in the air slow the escape of infrared from the Earth. What happens to the Earth's temperature when there is more of them?",
    "opts": [
-    "The Earth warms up",
     "The Earth cools down",
     "Nothing changes",
-    "The Earth gets brighter at night"
+    "The Earth gets brighter at night",
+    "The Earth warms up"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The Earth settles where the energy going out equals the energy coming in. If the gases slow the way out, the Earth must get warmer before the balance is reached again.",
    "outcome": 6
   },
@@ -3230,11 +3230,11 @@
    "p": "A room has a window that gets plenty of daylight in the morning. What is the wise way to use that daylight?",
    "opts": [
     "Switch on every bulb, even in the day",
-    "Open the window and switch the bulb off while there is enough daylight",
     "Light a candle, because a flame is brighter than daylight",
+    "Open the window and switch the bulb off while there is enough daylight",
     "Shut the window and keep the room dark all day"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Daylight is free, and it is enough to see by. A bulb uses electricity, and much of India's electricity is made by burning coal. Switching on a bulb in full daylight wastes both.",
    "outcome": 6
   }

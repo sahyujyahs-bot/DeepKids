@@ -325,7 +325,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 2. (draw) Draw the squeeze test. Draw the hanky, the glass, and what dripped out.  
    **Answer:** A twisted hanky over a glass, with drops falling from it.. *Why:* A strong drawing shows the food inside the hanky and the drops falling into the glass.
 3. (mcq) Dry rice grains are hard. Cooked rice is soft. Where did the water in cooked rice come from?  
-   Options: From the cooking pot / From the biscuit tin / From the air  
+   Options: From the biscuit tin / From the air / From the cooking pot  
    **Answer:** From the cooking pot. *Why:* The grains take in water as they cook in the pot. That is why they swell and go soft.
 4. (truefalse) A biscuit gives your body as much water as a cucumber.  
    **Answer:** False. *Why:* False. A biscuit is baked until almost all the water is gone. A cucumber is mostly water.
@@ -341,13 +341,13 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 9. (draw) Draw one thing you ate or drank today that had water in it.  
    **Answer:** Any food or drink with water, such as a cucumber, fruit, curd, buttermilk or rice.. *Why:* A strong drawing shows a real food or drink from today, and the child can say where the water is.
 10. (mcq) Your mouth is dry and you want a drink. What is your body telling you?  
-   Options: I need water / I need a nap / I need a sweet  
+   Options: I need a nap / I need water / I need a sweet  
    **Answer:** I need water. *Why:* A dry mouth and wanting a drink is thirst. Thirst is the body asking for water.
 ### Thinking about food and drink (stretch, 11 questions)
 1. (order) Put these in order, from the most water inside to the least: banana, biscuit, watermelon.  
    **Answer:** ['watermelon', 'banana', 'biscuit']. *Why:* Watermelon is more than 90 parts water out of 100. Banana is about three-quarters water. A biscuit has almost none.
 2. (mcq) A cook leaves cut cucumber slices on a plate in the hot sun all day. By evening they are small and dry. Where did their water go?  
-   Options: Into the air / Into the plate / Nowhere at all  
+   Options: Into the plate / Into the air / Nowhere at all  
    **Answer:** Into the air. *Why:* Heat and moving air carry water away from the slices into the air. The water goes as vapour, which is water in bits too small to see. This is how foods like papad are dried too.
 3. (write) Say it out loud, and a grown-up writes it: your body needs food and it needs water. Why is food alone not enough?  
    **Answer:** Food helps me grow and move, but my body also loses water all day. Dry food does not put that water back.. *Why:* A strong answer says that the body loses water all the time, and that many foods do not give enough water to replace it.
@@ -364,7 +364,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 9. (truefalse) Cooked rice has water inside it.  
    **Answer:** True. *Why:* True. The grains took in water in the cooking pot, and that is why they are soft.
 10. (mcq) Which of these drinks has no sugar added?  
-   Options: Plain water / Rose milk / A packet of fruit juice  
+   Options: Rose milk / Plain water / A packet of fruit juice  
    **Answer:** Plain water. *Why:* Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet.
 11. (write) Say it out loud, and a grown-up writes it: name one food your family eats that a friend's family may not eat, and say what it gives your body.  
    **Answer:** For example: my family eats ragi mudde with drumstick sambar, and my friend's family eats idli. Ragi gives my body energy and calcium.. *Why:* A strong answer names a real food and says what it gives the body. Foods differ between families, and many of them can keep us healthy.
@@ -376,19 +376,19 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 
 ## Quiz
 1. (mcq) Why does your body need food?  
-   Options: To grow, move and mend / Only to make your tummy full / Only for the taste  
+   Options: Only to make your tummy full / Only for the taste / To grow, move and mend  
    **Answer:** To grow, move and mend. *Why:* Food gives your body what it needs to grow, move and mend itself. Fullness and taste are part of eating, but they are not why your body needs food.
 2. (mcq) Water leaves your body all day. Which of these is one way it leaves?  
    Options: As sweat through your skin / Through your hair growing / Through your nails  
    **Answer:** As sweat through your skin. *Why:* Water leaves as sweat through your skin, in your breath, and when you go to the toilet.
 3. (mcq) A biscuit stays dry when you squeeze it. Why?  
-   Options: It is baked until almost all the water is gone / The hanky soaked up the water / It was not squeezed hard enough  
+   Options: The hanky soaked up the water / It is baked until almost all the water is gone / It was not squeezed hard enough  
    **Answer:** It is baked until almost all the water is gone. *Why:* Baking drives the water out of a biscuit. That is what makes it crunchy.
 4. (mcq) When do you need to drink the most water?  
-   Options: On a cool day, sitting still / On a hot day, after running about / Just after waking up from a nap in a cool room  
+   Options: On a hot day, after running about / On a cool day, sitting still / Just after waking up from a nap in a cool room  
    **Answer:** On a hot day, after running about. *Why:* On a hot day, and when you run about, you sweat more. So more water leaves your body.
 5. (mcq) A child did not like curd rice the first time they tried it. What might help them like it?  
-   Options: Never giving it to them again / Tasting a little many times, without being pushed / Making them finish a big bowl  
+   Options: Never giving it to them again / Making them finish a big bowl / Tasting a little many times, without being pushed  
    **Answer:** Tasting a little many times, without being pushed. *Why:* Many children come to like a food after tasting it many times. Pushing them to eat it can make them like it less.
 6. (mcq) Tiny living beings called bacteria live in your mouth. What do they make from sugar?  
    Options: An acid that can harm your teeth / New teeth / Water  
@@ -398,7 +398,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 8. (truefalse) Eating many kinds of food, with plenty of vegetables and fruit, helps keep your body healthy.  
    **Answer:** True. *Why:* True. Different foods help your body in different ways, so a mix of many kinds works best.
 9. (mcq) You guess that a banana is dry. Then a banana makes a damp mark on paper. What should you say?  
-   Options: My guess was wrong. The banana has some water inside. / The test is broken. / Bananas are dry, whatever the test shows.  
+   Options: The test is broken. / Bananas are dry, whatever the test shows. / My guess was wrong. The banana has some water inside.  
    **Answer:** My guess was wrong. The banana has some water inside.. *Why:* A good scientist changes their idea when the test shows something new. The damp mark showed the banana has water.
 10. (mcq) You feel thirsty. What is the best thing to do?  
    Options: Wait until bedtime / Drink some water / Eat a biscuit  

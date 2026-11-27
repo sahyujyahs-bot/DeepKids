@@ -594,10 +594,10 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 ## Worksheets
 ### Why Food Goes Bad (core) (core, 15 questions)
 1. (mcq) Dal left out overnight in summer smells sour and has bubbles on top. What is the main cause?  
-   Options: Microbes are feeding and multiplying in it / The dal is drying out / The steel vessel is reacting with the dal  
+   Options: The dal is drying out / Microbes are feeding and multiplying in it / The steel vessel is reacting with the dal  
    **Answer:** Microbes are feeding and multiplying in it. *Why:* Microbes landed on the dal, fed on it and multiplied. As they feed, they make acid, which smells sour, and gas, which makes bubbles.
 2. (mcq) What do most microbes need to grow fast in food?  
-   Options: Water and warmth / Light and cold / Salt and dryness  
+   Options: Light and cold / Water and warmth / Salt and dryness  
    **Answer:** Water and warmth. *Why:* Microbes need water to take in food, and warmth to grow quickly. Cold, dryness and lots of salt all slow them down.
 3. (truefalse) Washing coriander until the water is clear removes most of the soil and many microbes.  
    **Answer:** True. *Why:* True. Soil carries many microbes, so washing it off removes many of them. A few microbes may still stay, because they are too small to see.
@@ -643,7 +643,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 6. (sort) Sort each food into the part of food it is richest in.  
    **Answer:** ragi ball → Carbohydrate (energy); toor dal → Protein (building); ghee → Fat (stored energy); rice → Carbohydrate (energy); paneer → Protein (building); coconut oil → Fat (stored energy). *Why:* Grains like rice and ragi are mostly carbohydrate. Dal and paneer are rich in protein. Ghee and oil are almost all fat.
 7. (mcq) Dal and milk feed us well, and they also spoil fast. Why?  
-   Options: Microbes need the same nutrients, such as protein and sugar, that we do / They are always cooked badly / They are heavier than other foods  
+   Options: They are always cooked badly / They are heavier than other foods / Microbes need the same nutrients, such as protein and sugar, that we do  
    **Answer:** Microbes need the same nutrients, such as protein and sugar, that we do. *Why:* Microbes feed on the same nutrients as us. Wet foods rich in protein and sugar, like dal and milk, are a feast for them.
 8. (fill) A tough resting cell that some bacteria and moulds make, which can survive boiling and drying, is called a ________.  
    **Answer:** ['spore']. *Why:* Spores let microbes wait through hard times. They are why boiled food can still spoil if left warm for a long time.
@@ -681,7 +681,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 8. (truefalse) Fermenting idli batter and spoiling dal are both the work of microbes.  
    **Answer:** True. *Why:* True. In both, microbes feed and multiply. We call it fermenting when the microbes and the change are ones we want.
 9. (mcq) Why does a pressure cooker kill more microbes than an open pan of boiling water?  
-   Options: It gets hotter, about 120 degrees, instead of 100 / It cooks faster because it is heavier / It keeps out light  
+   Options: It cooks faster because it is heavier / It gets hotter, about 120 degrees, instead of 100 / It keeps out light  
    **Answer:** It gets hotter, about 120 degrees, instead of 100. *Why:* Steam trapped under pressure gets hotter than 100 degrees. The higher heat kills more microbes, even some spores.
 10. (draw) Draw a comic strip of 4 pictures showing a microbe's journey from a dustbin to a plate of food, and one habit that could stop them at each step.  
    **Answer:** Four pictures, for example dustbin, fly, uncovered plate, mouth, with a stop such as a closed bin lid, a food cover, or washing hands.. *Why:* Drawing the journey shows how microbes reach food, and that any habit that breaks the journey keeps the food safe.
@@ -692,7 +692,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 13. (write) A family has no fridge. It is May in Hyderabad. Plan their day of cooking so the food stays safe.  
    **Answer:** Cook fresh for each meal and eat it within 2 hours. Boil milk morning and evening and keep it covered. Keep pickles, dry snacks and dry grains for later. Wash vegetables well and cover all food.. *Why:* A strong answer uses time, heat, covering and dry foods together, because there is no cold to slow the microbes.
 14. (mcq) You want to test whether a fridge slows microbes. Which test is fair?  
-   Options: The same dal water in two identical closed dabbas, one in the fridge and one on a shelf / Dal water in the fridge and milk on a shelf / A closed dabba in the fridge and an open dabba on a shelf  
+   Options: Dal water in the fridge and milk on a shelf / The same dal water in two identical closed dabbas, one in the fridge and one on a shelf / A closed dabba in the fridge and an open dabba on a shelf  
    **Answer:** The same dal water in two identical closed dabbas, one in the fridge and one on a shelf. *Why:* Only one thing should change, which is the cold. The food, the dabba and the lid must stay the same, or we cannot tell what caused the difference.
 15. (write) You find a dabba of dal that has been in the fridge for six days. It smells fine. Make a rule for your family about how long leftovers stay in the fridge, and say how you chose it.  
    **Answer:** A strong rule is short, such as 3 to 4 days, then eat or throw. The fridge only slows microbes, so they still multiply slowly, and a smell can fail to warn us.. *Why:* A strong answer uses two ideas from the unit: cold slows microbes without killing them, and smell is not proof.
@@ -704,34 +704,34 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 
 ## Quiz
 1. (mcq) Why does cooked dal go sour if left out on a hot day?  
-   Options: Microbes land on it, feed on it and multiply / The heat turns the dal into lemon juice / The dal absorbs sourness from the air  
+   Options: The heat turns the dal into lemon juice / Microbes land on it, feed on it and multiply / The dal absorbs sourness from the air  
    **Answer:** Microbes land on it, feed on it and multiply. *Why:* Microbes feed on the dal and make acid as they multiply. That acid is the sour smell.
 2. (mcq) What does a lid on a dabba of food do?  
    Options: Stops new microbes, dust and flies getting in / Kills all the microbes inside / Makes the food cold  
    **Answer:** Stops new microbes, dust and flies getting in. *Why:* A lid keeps new microbes out. It does not kill the ones already there, and it does not cool the food.
 3. (mcq) What does a fridge do to the microbes in food?  
-   Options: Slows them down / Kills them all / Makes them grow faster  
+   Options: Kills them all / Makes them grow faster / Slows them down  
    **Answer:** Slows them down. *Why:* Cold slows microbes down a lot, but most survive. When food warms up again, they start multiplying.
 4. (mcq) Why should cooked food not sit at room temperature for more than about 2 hours?  
-   Options: A few microbes can double again and again into very many / The food gets too cold to eat / The food loses its colour  
+   Options: The food gets too cold to eat / The food loses its colour / A few microbes can double again and again into very many  
    **Answer:** A few microbes can double again and again into very many. *Why:* In warm food, some bacteria split every 20 minutes. After a few hours, a few have become millions.
 5. (mcq) In the Three Dabbas test, boiled dal water went into three clean dabbas: A closed, B open, and C closed with an unwashed coriander leaf. Which dabba usually went sour first?  
    Options: C, with the unwashed leaf / A, closed / They all spoiled at exactly the same time  
    **Answer:** C, with the unwashed leaf. *Why:* The unwashed leaf added many microbes from the soil. Starting with more microbes, C spoiled fastest.
 6. (mcq) Which part of food mainly gives us energy?  
-   Options: Carbohydrate, as in rice and ragi / Protein, as in dal / Fibre, as in guava skin  
+   Options: Protein, as in dal / Carbohydrate, as in rice and ragi / Fibre, as in guava skin  
    **Answer:** Carbohydrate, as in rice and ragi. *Why:* Carbohydrates, such as starch and sugar, give most of our energy. Protein builds the body, and fibre helps the gut.
 7. (mcq) Why does lemon pickle with lots of salt keep for months without a fridge?  
    Options: The salt pulls water out, and microbes cannot grow without water / Lemons have no microbes on them / The jar is made of glass  
    **Answer:** The salt pulls water out, and microbes cannot grow without water. *Why:* Microbes need water. Lots of salt pulls water out of them, and the sour juice slows them too.
 8. (mcq) A piece of wet food drops on the floor, and you pick it up in under five seconds. Is it free of germs?  
-   Options: No. Germs can move onto food in under a second, and wet food picks up the most / Yes, if it is lifted within five seconds / Yes, unless it is dry food  
+   Options: Yes, if it is lifted within five seconds / Yes, unless it is dry food / No. Germs can move onto food in under a second, and wet food picks up the most  
    **Answer:** No. Germs can move onto food in under a second, and wet food picks up the most. *Why:* Germs move across as soon as food touches the floor. Wet food picks up the most, and longer contact moves more. When scientists tested it, some germs moved across in under a second.
 9. (mcq) Chicken sat out all afternoon after a party. It still smells fine. What is true?  
-   Options: It may still be unsafe, because some harmful bacteria do not change the smell / It is safe, because it smells fine / It is safe if it is eaten cold  
+   Options: It is safe, because it smells fine / It may still be unsafe, because some harmful bacteria do not change the smell / It is safe if it is eaten cold  
    **Answer:** It may still be unsafe, because some harmful bacteria do not change the smell. *Why:* A good smell does not prove food is safe. After hours in the warmth, harmful bacteria may have grown without any smell.
 10. (mcq) Why do we cut raw fish and cucumber salad on two different boards?  
-   Options: Microbes from the raw fish could move onto the salad, which is not cooked / Fish makes cucumber taste bitter / A board can only be used for one food a day  
+   Options: Fish makes cucumber taste bitter / A board can only be used for one food a day / Microbes from the raw fish could move onto the salad, which is not cooked  
    **Answer:** Microbes from the raw fish could move onto the salad, which is not cooked. *Why:* Cooking kills the microbes in raw fish, but the salad is eaten raw. Microbes that move onto it from the board stay alive.
 
 ## Applications

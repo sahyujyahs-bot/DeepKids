@@ -501,7 +501,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 ## Worksheets
 ### Many Kinds of Humans (core) (core, 15 questions)
 1. (mcq) About how many kinds of humans were alive 100,000 years ago?  
-   Options: Only one / At least five / Exactly two / None yet  
+   Options: At least five / Only one / Exactly two / None yet  
    **Answer:** At least five. *Why:* Our species, Neanderthals, Denisovans, Homo floresiensis and Homo luzonensis were all alive then. Choosing 'only one' follows the old picture of a single line.
 2. (fill) The kind of human who lived in Europe until about 40,000 years ago is called the ____.  
    **Answer:** ['Neanderthal', 'Neanderthals']. *Why:* Neanderthals lived across Europe and western and central Asia. They are named after the Neander Valley in Germany.
@@ -510,7 +510,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 4. (match) Match each kind of human to where their fossils were found.  
    **Answer:** Neanderthals → Europe and western Asia; Denisovans → Siberia, Tibet and eastern Asia; Homo floresiensis → Flores, in Indonesia; Homo naledi → South Africa; Homo luzonensis → Luzon, in the Philippines. *Why:* Each kind is known from a different part of the world. Only our species spread to every continent.
 5. (mcq) Which feature of the skeleton is found only in our species?  
-   Options: A large brain / A chin that sticks out / Legs for upright walking / A thumb  
+   Options: A large brain / Legs for upright walking / A thumb / A chin that sticks out  
    **Answer:** A chin that sticks out. *Why:* Only Homo sapiens has a chin that sticks out. Neanderthals had brains as large as ours, and all these humans walked upright and had thumbs.
 6. (sort) Sort each one: can a fossil bone or tooth show it?  
    **Answer:** How tall the person was → A bone or tooth can show it; How old the person was → A bone or tooth can show it; An injury that healed → A bone or tooth can show it; The person's favourite song → A bone or tooth cannot show it; The language the person spoke → A bone or tooth cannot show it; The person's skin colour → A bone or tooth cannot show it. *Why:* Bones and teeth record size, age and injuries. Soft parts, words and thoughts leave nothing in bone.
@@ -521,7 +521,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 9. (write) In the Shrinking Pieces Test, the red piece got shorter down each block. Explain why.  
    **Answer:** Each new row was made by crossing over. One side was copied from the row above, and the other side came from a white partner. So part of the red was swapped for white in each generation, and it could never grow back.. *Why:* A strong answer names crossing over, and says that only one side is copied from the family's chromosome.
 10. (mcq) Why is ancient DNA found mostly in cold places?  
-   Options: Ancient humans lived only in cold places / DNA breaks down more slowly in the cold / Cold makes new DNA / Hot places have no caves  
+   Options: DNA breaks down more slowly in the cold / Ancient humans lived only in cold places / Cold makes new DNA / Hot places have no caves  
    **Answer:** DNA breaks down more slowly in the cold. *Why:* The reactions that cut DNA go more slowly in the cold. Ancient humans lived in hot places too, as India's stone tools show, but their DNA has not lasted.
 11. (order) Put these in order, from longest ago to most recent.  
    **Answer:** ['The oldest known fossils on our line', 'Denny, the girl with parents of two kinds, lives', 'Most of the mixing between our ancestors and Neanderthals', 'Neanderthals are gone as a separate people', 'The first Neanderthal genome is read']. *Why:* The fossils are about 315,000 years old. Denny lived about 90,000 years ago, the mixing was about 47,000 years ago, Neanderthals were gone by about 40,000, and the genome was read in 2010.
@@ -536,7 +536,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    **Answer:** Stone lasts, but bones rarely become fossils, and almost no bones have been found with the tools. India is also warm, so no ancient DNA has been recovered. Without bones or DNA, the tools cannot be matched to a kind of human.. *Why:* A strong answer says that tools show someone was there, and that only bones or DNA can say who.
 ### Reading Old DNA (stretch) (stretch, 15 questions)
 1. (mcq) In the Shrinking Pieces Test, all six lines followed the same rules. Why did they end differently?  
-   Options: Chance chose each cut place and side / The lines had different rules / Some lines started with less red / Red squares are weaker than white  
+   Options: The lines had different rules / Some lines started with less red / Red squares are weaker than white / Chance chose each cut place and side  
    **Answer:** Chance chose each cut place and side. *Why:* The chit and the coin were different each time, so each line lost different parts. Every line began with the same 20 red squares.
 2. (write) Each person has about 2 percent Neanderthal DNA. How can living people together hold about half a Neanderthal genome?  
    **Answer:** Different people carry different pieces, because chance decided which pieces each family line kept. When the pieces from thousands of people are laid side by side, they cover much more of the genome than any one person's pieces do.. *Why:* A strong answer says that the pieces differ from person to person, as the All Together row showed.
@@ -545,7 +545,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 4. (truefalse) True or false: one very long piece of Neanderthal DNA means a Neanderthal ancestor only a few generations back.  
    **Answer:** True. *Why:* True. Crossing over cuts pieces shorter in every generation, so a long unbroken piece has not been through many generations.
 5. (mcq) A child has one Neanderthal copy and one Denisovan copy at every marker place. Who were the parents?  
-   Options: One Neanderthal and one Denisovan / Two Neanderthals / Two Denisovans / Two people of our species  
+   Options: Two Neanderthals / Two Denisovans / Two people of our species / One Neanderthal and one Denisovan  
    **Answer:** One Neanderthal and one Denisovan. *Why:* Each parent gave one copy at every place. One could give only the Neanderthal kind and the other only the Denisovan kind.
 6. (match) Match each word to its meaning.  
    **Answer:** Contamination → DNA from outside mixed into a sample; Collagen → the main protein in bone; Hybrid → a child of parents from two kinds; Extinct → no members left alive; Interbreeding → two groups having children together. *Why:* These are the main words for reading old DNA. A strong answer can also give an example of each.
@@ -574,7 +574,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 1. (write) Scientists knew Denisovans existed before they had a skull. What could DNA tell them, and what could it not?  
    **Answer:** DNA could tell them that Denisovans were a separate group, who their nearest relatives were, and that they had children with Neanderthals and with our ancestors. It could not show their faces, their height, their tools or how they lived.. *Why:* A strong answer gives at least one thing on each side.
 2. (mcq) In the paper test the red share kept halving. Why does the real Neanderthal share stay near 2 percent?  
-   Options: Neanderthal DNA copies itself faster / Later partners carried pieces too / People still meet Neanderthals / The paper test was wrong in every way  
+   Options: Later partners carried pieces too / Neanderthal DNA copies itself faster / People still meet Neanderthals / The paper test was wrong in every way  
    **Answer:** Later partners carried pieces too. *Why:* In the paper test every partner was all white. In real life, after the mixing, most people in the group carried some pieces, so the average stopped falling quickly.
 3. (perspective) Three children argue about what makes our kind of human different.  
    **Answer:** A strong answer picks one view, or combines two, and gives evidence. It also names one thing that does not fit the view chosen.. *Why:* Scientists hold all three views. Language helps teaching, but nobody knows whether Neanderthals spoke. Big groups keep ideas alive. And nearly every single ability has been found elsewhere.
@@ -588,7 +588,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    Options: Their groups were very small / The climate kept changing / Our ancestors came in larger numbers / Their brains were too small  
    **Answer:** 3. *Why:* Neanderthal brains were as large as ours. The other three are ideas that scientists take seriously.
 8. (mcq) A fossil's mitochondrial DNA is the Neanderthal kind. What does that prove, taken alone?  
-   Options: That both parents were Neanderthals / That the father was a Neanderthal / Only that the mother's line was Neanderthal / That the fossil is our species  
+   Options: Only that the mother's line was Neanderthal / That both parents were Neanderthals / That the father was a Neanderthal / That the fossil is our species  
    **Answer:** Only that the mother's line was Neanderthal. *Why:* Mitochondrial DNA comes only from the mother. Denny's was Neanderthal, yet her father was a Denisovan. The rest of the genome is needed for the father's side.
 9. (draw) Draw the human family of the last 350,000 years as a bush. Show five kinds and two arrows for mixing.  
    **Answer:** Five or more branches side by side, most ending before the top. One arrow from Neanderthals to our branch and one from Denisovans to our branch, or one between Neanderthals and Denisovans.. *Why:* A strong drawing shows branches that overlap in time, and arrows that cross between them.
@@ -601,7 +601,7 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
 13. (truefalse) True or false: one strange result is enough for a scientist to announce a discovery.  
    **Answer:** False. *Why:* False. A strange result is usually a mistake, so it must be repeated and checked first. Denny's result was tested on six separate samples.
 14. (mcq) What is the leading explanation for the small size of Homo floresiensis?  
-   Options: They were all children / On islands with little food, small bodies do better / Cold weather shrinks bones / They ate only plants  
+   Options: They were all children / Cold weather shrinks bones / They ate only plants / On islands with little food, small bodies do better  
    **Answer:** On islands with little food, small bodies do better. *Why:* A small body needs less food, so over many generations island animals often become smaller. The skeleton had adult teeth and bones, so she was not a child.
 15. (match) Match each finding to what it shows.  
    **Answer:** Healed injuries on a Neanderthal man → Neanderthals cared for each other; One copy of each kind at every marker → Parents of two different kinds; Only short Neanderthal pieces in people today → The mixing was long ago; A chin on a fossil jaw → The jaw is from our species; Old tools with no bones nearby → Humans lived there, kind unknown. *Why:* Each finding is evidence for one conclusion. Saying which evidence supports which claim is the main skill here.
@@ -616,10 +616,10 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    Options: Each kind turned into the next / Several kinds lived at the same time / Only one kind ever existed / Humans came from chimpanzees  
    **Answer:** Several kinds lived at the same time. *Why:* Fossils show several kinds alive together. Humans and chimpanzees share an ancestor, and neither came from the other.
 2. (mcq) On which continent did Denisovans live?  
-   Options: Asia / South America / Antarctica / Australia  
+   Options: South America / Antarctica / Asia / Australia  
    **Answer:** Asia. *Why:* Denisovan fossils come from Siberia, the Tibetan Plateau and eastern Asia. No other kind of human reached the Americas or Antarctica.
 3. (mcq) What can the teeth in a fossil jaw tell a scientist?  
-   Options: What language they spoke / The person's name / Their favourite food by taste / About how old the person was  
+   Options: About how old the person was / What language they spoke / The person's name / Their favourite food by taste  
    **Answer:** About how old the person was. *Why:* Teeth come through in a fixed order and have growth lines, so they show age. Words and names leave no trace in bone.
 4. (truefalse) True or false: a fossil skull can show what a person thought about.  
    **Answer:** False. *Why:* False. A skull shows the size and shape of the brain's space, not the thoughts. Thoughts leave no fossil.
@@ -627,25 +627,25 @@ Nobody knows what Denny's real name was, or what words she heard from her mother
    Options: It slowly breaks into short pieces / It grows longer / It turns into bone / It stays whole for ever  
    **Answer:** It slowly breaks into short pieces. *Why:* Repair stops at death, and water slowly cuts the DNA. After thousands of years the pieces are very short.
 6. (mcq) Where does most of the DNA in an old bone usually come from?  
-   Options: Microbes that lived in the bone / The person who died / Plants growing nearby / The rock around the bone  
+   Options: The person who died / Microbes that lived in the bone / Plants growing nearby / The rock around the bone  
    **Answer:** Microbes that lived in the bone. *Why:* Microbes move into a bone after death and leave their DNA. The person's own DNA is often a small part, which is why the work is hard.
 7. (mcq) In the Shrinking Pieces Test, what made the red piece shorter in each new row?  
    Options: The red colour fading / Crossing over with a white chromosome / The paper wearing out / A counting mistake  
    **Answer:** Crossing over with a white chromosome. *Why:* Each new row copied only one side from the row above. The other side came from a white partner, so part of the red was swapped away.
 8. (mcq) Two people each carry about 2 percent Neanderthal DNA. How do their pieces compare?  
-   Options: They are exactly the same pieces / One of them must have none / Both have a whole Neanderthal chromosome / They are mostly different pieces  
+   Options: They are mostly different pieces / They are exactly the same pieces / One of them must have none / Both have a whole Neanderthal chromosome  
    **Answer:** They are mostly different pieces. *Why:* Chance decided which pieces each family line kept. That is why the pieces of many people together cover so much more of the genome.
 9. (mcq) Which evidence shows that our ancestors had children with Neanderthals?  
-   Options: Neanderthal tools in museums / Neanderthal DNA pieces in living people / Old stories about giants / Neanderthal bones in Europe  
+   Options: Neanderthal tools in museums / Old stories about giants / Neanderthal DNA pieces in living people / Neanderthal bones in Europe  
    **Answer:** Neanderthal DNA pieces in living people. *Why:* Tools and bones show that Neanderthals existed. Only shared DNA shows that children were born between the two groups.
 10. (mcq) A bone's DNA has one Neanderthal and one Denisovan copy all along every chromosome. What does that show?  
-   Options: One parent of each kind / A mistake in the laboratory, always / Two Neanderthal parents / A long-mixed family  
+   Options: A mistake in the laboratory, always / Two Neanderthal parents / A long-mixed family / One parent of each kind  
    **Answer:** One parent of each kind. *Why:* Each parent gives one copy of every chromosome. Unbroken copies of two kinds mean the parents themselves were of the two kinds. A long-mixed family would show patches.
 11. (mcq) Which of these is found only in our species, as far as we know?  
    Options: Using fire / Making tools / Caring for the injured / Writing  
    **Answer:** Writing. *Why:* Neanderthals used fire, made tools and cared for injured friends. Writing is only about 5,000 years old.
 12. (mcq) Which of these is still not known?  
-   Options: Whether Neanderthals existed / Whether children get DNA from parents / Which kind of human made India's oldest stone tools / Whether our species began in Africa  
+   Options: Which kind of human made India's oldest stone tools / Whether Neanderthals existed / Whether children get DNA from parents / Whether our species began in Africa  
    **Answer:** Which kind of human made India's oldest stone tools. *Why:* India's oldest tools have no bones with them and no DNA has lasted, so the makers are unknown. The other three are well supported by evidence.
 
 ## Applications

@@ -399,11 +399,11 @@
       "t": "mcq",
       "q": "A girl pours water on a tulsi pot. Which job is that?",
       "options": [
-       "Cooking",
        "Plants",
+       "Cooking",
        "Washing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The water is for the tulsi plant. Plants take in water through their roots."
      }
     }
@@ -500,10 +500,10 @@
       "q": "How does an elephant drink?",
       "options": [
        "Through their skin",
-       "Fills their trunk and squirts the water into their mouth",
-       "Like a straw, through their trunk"
+       "Like a straw, through their trunk",
+       "Fills their trunk and squirts the water into their mouth"
       ],
-      "a": 1,
+      "a": 2,
       "why": "An elephant sucks water a little way up their trunk, then curls the trunk and squirts the water into their mouth."
      }
     }
@@ -698,10 +698,10 @@
       "q": "After ten minutes, which poha was soft?",
       "options": [
        "The poha in oil",
-       "The poha in water",
-       "The dry poha"
+       "The dry poha",
+       "The poha in water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water soaked inside each flake, so the poha went soft. The oil only coated the outside, so that poha stayed hard."
      },
      "parent": "The oil poha can be eaten too: it is only poha and oil. If the oil poha feels a little softer at the edges, that is fine. It is still much harder than the water poha."
@@ -959,11 +959,11 @@
       "t": "mcq",
       "q": "How does a frog drink?",
       "options": [
-       "With a straw",
        "Through their skin",
+       "With a straw",
        "With a trunk"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A frog takes in water through their skin, mostly through the skin on the belly and legs."
      }
     }
@@ -1253,11 +1253,11 @@
      "t": "mcq",
      "p": "To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?",
      "opts": [
-      "To see what dry poha does by itself",
       "Because we ran out of water",
+      "To see what dry poha does by itself",
       "Because the poha was tired"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The katori with nothing shows what poha does on its own. Then we know the water or the oil made the change.",
      "how": "e1"
     },
@@ -1438,10 +1438,10 @@
      "p": "Our tap water came out of a pipe. Where did the water in the pipe come from first?",
      "opts": [
       "From the tap itself",
-      "From rain, which fills lakes, rivers and wells",
-      "From the shop"
+      "From the shop",
+      "From rain, which fills lakes, rivers and wells"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Pipes bring water from tanks, lakes, rivers and wells. All of them are filled by rain."
     },
     {
@@ -1505,11 +1505,11 @@
    "t": "mcq",
    "p": "Which of these is a job that water does for us?",
    "opts": [
-    "Cooking rice",
     "Making a stone",
-    "Turning on the light"
+    "Turning on the light",
+    "Cooking rice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "We cook rice in water. We also drink water, wash with it, and give it to plants and animals.",
    "outcome": 0
   },
@@ -1518,10 +1518,10 @@
    "p": "Which of these is NOT a job for water at home?",
    "opts": [
     "Washing plates",
-    "Watering the tulsi",
-    "Sharpening a pencil"
+    "Sharpening a pencil",
+    "Watering the tulsi"
    ],
-   "a": 2,
+   "a": 1,
    "why": "We sharpen a pencil with a sharpener, not with water. Washing plates and watering plants both need water.",
    "outcome": 0
   },
@@ -1530,10 +1530,10 @@
    "p": "Where does the water in our tap come from, before the pipes?",
    "opts": [
     "From inside the tap",
-    "From rain, rivers, lakes and wells",
-    "From the fridge"
+    "From the fridge",
+    "From rain, rivers, lakes and wells"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The tap is only the end of a pipe. The water comes from tanks, lakes, rivers and wells, which are filled by rain.",
    "outcome": 1
   },
@@ -1541,11 +1541,11 @@
    "t": "mcq",
    "p": "Which one is a water source?",
    "opts": [
-    "A lake",
     "A chair",
+    "A lake",
     "A pencil"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A water source is a place we get water from. A lake holds rain water.",
    "outcome": 1
   },
@@ -1553,11 +1553,11 @@
    "t": "mcq",
    "p": "Look at Earth from space. Which sentence is true?",
    "opts": [
-    "Most of Earth's surface is covered by water",
     "Most of Earth's surface is covered by sand",
-    "Earth has no water on its surface"
+    "Earth has no water on its surface",
+    "Most of Earth's surface is covered by water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About seven out of every ten parts of Earth's surface are water. Most of it is in the salty oceans, which is why we need rivers, lakes and wells for water to drink. Earth has deserts with sand, but they are only a small part.",
    "outcome": 1
   },
@@ -1566,10 +1566,10 @@
    "p": "Poha sat in oil for ten minutes. What was it like?",
    "opts": [
     "Soft and squashy",
-    "Shiny and still hard",
-    "Gone"
+    "Gone",
+    "Shiny and still hard"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Oil does not go inside poha. It only coats the outside, so the poha stays hard.",
    "outcome": 2,
    "how": "e1"
@@ -1578,11 +1578,11 @@
    "t": "mcq",
    "p": "Dry poha is put in a katori of plain water. After a while it goes soft. Why?",
    "opts": [
-    "The water went inside each flake",
     "The water was hot",
+    "The water went inside each flake",
     "The katori was steel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water soaks into each flake of poha and makes it soft. It does not need to be hot.",
    "outcome": 2,
    "how": "e1"
@@ -1604,10 +1604,10 @@
    "p": "Which of these needs water to live?",
    "opts": [
     "A spoon",
-    "A plant",
-    "A stone"
+    "A stone",
+    "A plant"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A plant is alive and needs water. A spoon and a stone are not alive.",
    "outcome": 3
   },
@@ -1615,11 +1615,11 @@
    "t": "mcq",
    "p": "How does a cat drink?",
    "opts": [
-    "Laps with a fast tongue",
     "Through her skin",
+    "Laps with a fast tongue",
     "With a trunk"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cat laps with her tongue, very fast. Each lap pulls up a little water.",
    "outcome": 3
   },

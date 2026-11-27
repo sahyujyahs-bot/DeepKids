@@ -739,12 +739,12 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ## Worksheets
 ### Falling Detective (core) (core, 16 questions)
 1. (mcq) Many people think gravity pulls only on heavy things. You let go of a feather, and the feather drifts slowly down. What does that show?  
-   Options: Gravity pulls the feather too. The air just slows the feather down / Gravity does not pull feathers. The wind pushes them down / Feathers are pulled up, not down / Only heavy things ever fall  
+   Options: Gravity does not pull feathers. The wind pushes them down / Feathers are pulled up, not down / Gravity pulls the feather too. The air just slows the feather down / Only heavy things ever fall  
    **Answer:** Gravity pulls the feather too. The air just slows the feather down. *Why:* The feather does come down, so something pulls it down. That is gravity, which pulls on everything with mass. The air pushes up on the wide, soft feather, so it falls slowly. Picking 'the wind' is a fair guess, but a feather falls indoors too, where there is no wind.
 2. (truefalse) The Earth pulls harder on a full water bottle than on a bottle with only a little water.  
    **Answer:** True. *Why:* The full bottle has more mass, so the Earth pulls it harder. But it also needs a bigger pull to speed up, so the two bottles still fall together.
 3. (mcq) An astronaut on the Moon lets go of a hammer. Which way does it fall?  
-   Options: Towards the middle of the Moon / Towards the Earth / Towards the Sun / It does not fall, because the Moon has no air  
+   Options: Towards the Earth / Towards the Sun / Towards the middle of the Moon / It does not fall, because the Moon has no air  
    **Answer:** Towards the middle of the Moon. *Why:* Down always means towards the middle of the world you are standing on. The Moon has its own gravity, so the hammer falls to the Moon's surface. Gravity does not need air. Air only slows light things like feathers, and the Moon has no air to do that.
 4. (mcq) Before the Drop Race, you hold a full water bottle and an almost empty one. The full one feels much heavier. You let them fall together from the same height. What should you expect to hear?  
    Options: One thud, because they land together / Two thuds: the full bottle first / Two thuds: the light bottle first / No thud, because the light one floats  
@@ -752,7 +752,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 5. (write) In the Drop Race, we lay both bottles on a book and pull the book away. Why not just hold one bottle in each hand and let go?  
    **Answer:** A strong answer says that two hands may not let go at exactly the same moment. Then one bottle gets a head start, and the test is not fair. The book lets both bottles go at the same instant.. *Why:* A fair test changes only one thing: here, how heavy the bottle is. Everything else, like the start, must be the same.
 6. (mcq) You drop a flat sheet of paper and a crumpled sheet of the same paper together. The crumpled one lands first. What was different about the two sheets?  
-   Options: Only their shape. The air pushed much less on the crumpled ball / The crumpled one was heavier / Gravity pulls crumpled paper harder / The flat one was a different kind of paper  
+   Options: The crumpled one was heavier / Gravity pulls crumpled paper harder / The flat one was a different kind of paper / Only their shape. The air pushed much less on the crumpled ball  
    **Answer:** Only their shape. The air pushed much less on the crumpled ball. *Why:* Crumpling does not add any paper, so both weigh the same. Only the shape changed. A crumpled ball pushes through less air, so the air slows it less. Picking 'heavier' is a common guess, but no paper was added.
 7. (fill) When something falls, the air pushes back against it. This push is called air ____.  
    **Answer:** ['resistance']. *Why:* Air is made of tiny particles. A falling thing has to push them out of the way, and they push back. That push is air resistance.
@@ -767,7 +767,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    Options: gravity / air resistance / push / floor pushes up  
    **Answer:** gravity down, air resistance up. *Why:* Gravity pulls the stone down. The air pushes up on it a little as it falls. For a heavy stone, the air's push is small compared with gravity.
 12. (mcq) A girl drops a ball from a balcony. When is the ball moving fastest?  
-   Options: Just before it lands / Just after she lets go / Halfway down / It moves at the same speed all the way  
+   Options: Just after she lets go / Halfway down / Just before it lands / It moves at the same speed all the way  
    **Answer:** Just before it lands. *Why:* Gravity keeps pulling the whole way down, so the ball keeps speeding up. It is fastest at the very end. That is why a fall from higher up hurts more. Picking 'the same speed all the way' is a common first guess.
 13. (fill) A mason hangs a small stone on a string beside a new wall, to check that the wall is straight up. The string always points towards the middle of the ____.  
    **Answer:** ['Earth', 'earth']. *Why:* Gravity pulls the stone towards the middle of the Earth, so the string shows exactly which way is down. Builders call this a plumb line.
@@ -779,7 +779,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** A strong answer picks a view and uses a test: the two bottles landed together, and the crumpled paper beat the flat paper though they weigh the same. It answers back fairly, for example that the grandmother is right about real coconuts and leaves, because there is air on Earth.. *Why:* All three are partly right. Gravity makes everything fall together, but in air, light and spread-out things are slowed. Knowing why is what matters.
 ### Air, Parachutes and Falling Together (stretch) (stretch, 16 questions)
 1. (mcq) Look at these Parachute Test results. A friend says, 'The bigger the parachute, the slower it falls.' Do the results agree with her?  
-   Options: Yes. Each bigger parachute took longer to fall / No. The small one was slowest / No. They all took the same time / We cannot tell anything from these results  
+   Options: No. The small one was slowest / Yes. Each bigger parachute took longer to fall / No. They all took the same time / We cannot tell anything from these results  
    **Answer:** Yes. Each bigger parachute took longer to fall. *Why:* Small took 2 seconds, medium 3 seconds and large 5 seconds. Each bigger one took longer, so it fell more slowly. A taller bar here means a longer, slower fall. Picking 'the small one' comes from reading a short bar as slow.
 2. (write) In the Parachute Test, all three parachutes carry the same load and are dropped from the same height. Why does that matter?  
    **Answer:** A strong answer says it makes the test fair. If only the size of the parachute changes, any difference in time must come from the size. If the loads or heights were different, you would not know which one caused the change.. *Why:* A fair test changes only one thing at a time.
@@ -795,15 +795,15 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 6. (write) Galileo wanted to find out how falling things speed up. Why did he roll balls down a gentle ramp, instead of just dropping them?  
    **Answer:** A strong answer says falling is too fast to measure without a good clock. A gentle ramp slows the speeding up, but it keeps the same pattern. So Galileo could time it and mark where the ball was.. *Why:* Slowing something down without changing its pattern is a clever way to study it. Galileo timed the rolls with a water clock.
 7. (mcq) In the Falling Ruler test, a girl catches the ruler after it falls 10 cm. Her brother catches it after 20 cm. He says, 'I win, my number is bigger.' Who was really quicker?  
-   Options: The girl, because the ruler had less time to fall before she caught it / Her brother, because his number is bigger / Neither, because the ruler falls differently each time  
+   Options: Her brother, because his number is bigger / The girl, because the ruler had less time to fall before she caught it / Neither, because the ruler falls differently each time  
    **Answer:** The girl, because the ruler had less time to fall before she caught it. *Why:* A falling ruler keeps speeding up, so a bigger number means more time passed before the catch. The girl stopped it sooner. Her brother's mistake is thinking a bigger number is always better.
 8. (truefalse) A big raindrop stops speeding up and falls at a steady speed, because the air's push grows until it matches gravity.  
    **Answer:** True. *Why:* The faster a drop falls, the harder the air pushes back. In the end the two forces are equal, so the drop stops speeding up.
 9. (mcq) In the space blanket, you swap the heavy ball in the middle for a light ball. What happens to the marbles you roll past?  
-   Options: They curve in less, because the light ball makes a shallower dent / They curve in more / They curve in just the same / They roll away from the ball  
+   Options: They curve in more / They curve in just the same / They curve in less, because the light ball makes a shallower dent / They roll away from the ball  
    **Answer:** They curve in less, because the light ball makes a shallower dent. *Why:* Less mass makes a smaller dent, so the marbles are bent less. In Einstein's picture, more mass bends space more, so its pull is stronger.
 10. (mcq) In the space blanket, a marble rolled fast and sideways goes round the heavy ball a few times. What is this like in space?  
-   Options: The Moon going round the Earth / A stone dropping into a well / A balloon floating away / A rocket taking off  
+   Options: A stone dropping into a well / A balloon floating away / The Moon going round the Earth / A rocket taking off  
    **Answer:** The Moon going round the Earth. *Why:* The Moon is always falling towards the Earth. But it moves sideways so fast that it keeps missing. Scientists call this an orbit. The marble only stops because the sheet rubs it and slows it down.
 11. (sort) Sort these. Is each one a true fact about falling, or a myth?  
    **Answer:** Without air, a feather and a coin fall together → True fact; Astronauts float because space has no gravity → Myth; A heavier stone is pulled harder by the Earth → True fact; Crumpled paper falls faster because it is heavier → Myth; A falling ball keeps speeding up → True fact; A parachute switches gravity off → Myth. *Why:* The myths are common, even in some books. The facts have been tested, many of them in this lesson.
@@ -819,14 +819,14 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** vacuum → a space with no air in it; free fall → falling with nothing holding you up; orbit → falling round something and always missing; terminal speed → the steady speed when the air's push matches gravity. *Why:* These are four key words from this lesson.
 ### Gravity Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) The Earth pulls a full bottle of water twice as hard as a half-full one. So why doesn't the full bottle fall faster?  
-   Options: The full bottle also has twice the mass, so it is twice as hard to speed up / Gravity pulls everything with the same force / The air always balances it out / The full bottle does fall twice as fast  
+   Options: Gravity pulls everything with the same force / The air always balances it out / The full bottle does fall twice as fast / The full bottle also has twice the mass, so it is twice as hard to speed up  
    **Answer:** The full bottle also has twice the mass, so it is twice as hard to speed up. *Why:* Think of pushing a full trolley and an empty one. The full one needs a bigger push to speed up. The extra pull on the full bottle is exactly the extra pull that its extra mass needs. So both speed up in the same way. Picking 'the same force' is a common mistake: the pull is bigger on the heavier bottle.
 2. (perspective) Everyone now agrees that heavy and light things fall together, if the air does not get in the way. But who should get the credit? Historians argue about it.  
    **Answer:** A strong answer picks a person and says what counts most: being first, doing a clear test, or explaining it so that everyone understood. It answers back fairly, for example that Galileo used Philoponus's idea, or that Philoponus's book went unread for a thousand years.. *Why:* There is no single right answer. Science is built by many people, and credit often goes to the one who explains it best, not always the first.
 3. (truefalse) Starlight passing close to the Sun goes perfectly straight, because light has no mass.  
    **Answer:** False. *Why:* False. Light has no mass, but it still follows the bends in space and time near a big mass. In 1919, astronomers photographed stars near the Sun during an eclipse. The stars looked shifted, as Einstein had predicted.
 4. (mcq) Two very exact clocks are set to the same time. One goes on a high shelf. One goes on the floor. After many years, which clock shows the later time?  
-   Options: The shelf clock, very slightly / The floor clock, very slightly / They always stay exactly together  
+   Options: The floor clock, very slightly / They always stay exactly together / The shelf clock, very slightly  
    **Answer:** The shelf clock, very slightly. *Why:* Time runs a tiny bit slower closer to a big mass, like the Earth. So the floor clock ticks slower and falls behind. The difference is far too small to feel, but the best clocks can measure it. Picking 'exactly together' is what everyone thought before Einstein.
 5. (write) GPS satellites, which help maps on phones, fly about 20,000 kilometres above the Earth. Their clocks run a little fast compared with clocks on the ground. What would happen to phone maps if engineers forgot about this?  
    **Answer:** A strong answer says the satellites' clocks would slowly drift ahead of ground clocks. The maps use exact times to work out where you are. So the maps would get more and more wrong, by kilometres every day.. *Why:* Clocks higher up, further from the Earth's mass, really do run faster. Engineers allow for it every day.
@@ -842,7 +842,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 10. (fill) A bean seed is planted upside down in a jar. The seed sends a root out. Even upside down, the root turns and grows ____.  
    **Answer:** ['down', 'downwards']. *Why:* Plants feel gravity. Heavy grains in the tip of the root settle to the lowest side, and the root grows that way. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied.
 11. (mcq) Many people think astronauts float because there is no gravity in space. But gravity at the space station is about 9 tenths as strong as on the ground. So why do astronauts float?  
-   Options: They and the station are falling round the Earth together, so nothing pushes on their feet / The station has a machine that switches gravity off / They are lighter than air / The Sun pulls them up  
+   Options: The station has a machine that switches gravity off / They and the station are falling round the Earth together, so nothing pushes on their feet / They are lighter than air / The Sun pulls them up  
    **Answer:** They and the station are falling round the Earth together, so nothing pushes on their feet. *Why:* The station moves sideways so fast that it keeps falling round the Earth and missing it. The astronauts fall with it, so the floor never pushes on their feet. Picking 'no gravity' is the most common myth about space.
 12. (write) Why does your tummy feel funny at the top of a swing, or when a giant wheel starts to drop? Use the word falling in your answer.  
    **Answer:** A strong answer says that for a moment you start to fall. The seat pushes on you less, so you feel lighter. It is a small taste of free fall, which astronauts feel all the time.. *Why:* At the top of a swing you stop rising and start to fall. For a moment the seat pushes on you less, so you feel light. Falling things feel weightless.
@@ -872,16 +872,16 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    Options: They land together / The ten coins land long before / The one coin lands first  
    **Answer:** They land together. *Why:* Both are compact, so the air hardly slows them. Without much air in the way, heavy and light fall together.
 4. (mcq) In a fair test of falling, what should you change?  
-   Options: Only the thing you drop / The thing and the height / Everything  
+   Options: The thing and the height / Everything / Only the thing you drop  
    **Answer:** Only the thing you drop. *Why:* Change one thing and keep the rest the same. Then you know what caused any difference.
 5. (mcq) A skydiver opens her big parachute. What happens next?  
    Options: She slows down, because the air pushes up on the parachute much more / She stops falling / She falls faster  
    **Answer:** She slows down, because the air pushes up on the parachute much more. *Why:* The wide parachute pushes against lots of air, and the air pushes back up. Gravity still pulls, so she keeps falling, just slowly.
 6. (mcq) Which of these is slowed most by the air as it falls?  
-   Options: A flat sheet of paper / A crumpled ball of the same paper / A steel coin  
+   Options: A crumpled ball of the same paper / A steel coin / A flat sheet of paper  
    **Answer:** A flat sheet of paper. *Why:* The flat sheet is light and spread out, so it pushes against the most air for its weight.
 7. (mcq) Who said, about 2,350 years ago, that heavy things fall faster?  
-   Options: Aristotle / Galileo / Newton  
+   Options: Galileo / Aristotle / Newton  
    **Answer:** Aristotle. *Why:* Aristotle, a Greek thinker, said it. For about 1,900 years, few people tested it carefully.
 8. (mcq) Someone says: 'A famous scientist dropped a heavy ball and a light ball from a tall tower, and they landed together.' Nobody wrote down seeing it at the time. How could you check the idea yourself?  
    Options: Drop a heavy and a light thing of the same shape from the same height, and listen for one thud / Believe it, because a famous person did it / You cannot check it  
@@ -893,19 +893,19 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    Options: They rolled down into the dent it made in the sheet / The ball pulled them with a rope / The marbles were magnetic  
    **Answer:** They rolled down into the dent it made in the sheet. *Why:* The heavy ball bends the sheet and makes a dent, so the marbles roll down into it. This is a model of Einstein's idea that mass bends space.
 11. (mcq) You jump off a low wall. While you are in the air, how do you feel?  
-   Options: Almost weightless, because you are falling / Twice as heavy / Exactly as you feel standing still  
+   Options: Twice as heavy / Exactly as you feel standing still / Almost weightless, because you are falling  
    **Answer:** Almost weightless, because you are falling. *Why:* While falling, nothing pushes on your feet, so you feel almost no weight. Astronauts feel this all the time.
 12. (mcq) A heavy wooden ruler and a light plastic ruler are dropped at the same moment from the same height. Which falls further in one tenth of a second?  
-   Options: They fall the same distance, about 5 cm / The heavy one / The light one  
+   Options: The heavy one / The light one / They fall the same distance, about 5 cm  
    **Answer:** They fall the same distance, about 5 cm. *Why:* Heavy and light things fall together when the air hardly slows them. Both rulers are thin and compact.
 13. (mcq) Einstein said a heavy thing like the Sun bends the space around it, so even light passing close to it should bend. During an eclipse, the sky goes dark and we can see stars near the Sun. Where should those stars seem to be?  
    Options: Shifted a little from where they usually are / Exactly where they always are / Falling into the Sun  
    **Answer:** Shifted a little from where they usually are. *Why:* Starlight passing the Sun bends a little, so the stars seem to move from their usual places. Astronomers checked this during an eclipse, and the stars had shifted, as Einstein said.
 14. (mcq) How does your body know which way is down?  
-   Options: Tiny stones in your ears slide and bend tiny hairs / Your eyes see the ground / Blood flows to your feet  
+   Options: Your eyes see the ground / Blood flows to your feet / Tiny stones in your ears slide and bend tiny hairs  
    **Answer:** Tiny stones in your ears slide and bend tiny hairs. *Why:* Inside your ears, tiny chalky stones rest on hairs. When you tip your head, they slide, and your brain knows which way is down, even with your eyes shut.
 15. (mcq) A galaxy can bend the light of galaxies far behind it. What do telescopes see?  
-   Options: The far galaxies stretched into arcs and rings / Nothing at all / The far galaxies turned upside down  
+   Options: Nothing at all / The far galaxies turned upside down / The far galaxies stretched into arcs and rings  
    **Answer:** The far galaxies stretched into arcs and rings. *Why:* Gravity bends light, so a big galaxy acts like a lens. Scientists call this gravitational lensing.
 
 ## Applications

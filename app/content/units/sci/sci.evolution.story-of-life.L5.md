@@ -498,7 +498,7 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 ## Worksheets
 ### How Life Might Have Begun (core) (core, 15 questions)
 1. (mcq) Which three things do scientists look for together in a first cell?  
-   Options: A skin, copied instructions and an energy supply / Eyes, legs and a mouth / Sunlight, soil and air / A nucleus, a brain and blood  
+   Options: Eyes, legs and a mouth / A skin, copied instructions and an energy supply / Sunlight, soil and air / A nucleus, a brain and blood  
    **Answer:** A skin, copied instructions and an energy supply. *Why:* A cell needs a membrane, instructions that can be copied, and steady energy. Choosing sunlight, soil and air lists what a plant needs today, not what a first cell needed.
 2. (fill) An opening in the sea floor where hot water comes out is called a hydrothermal ____.  
    **Answer:** ['vent']. *Why:* Sea water seeps into the rock, is heated, and rises out again through a vent.
@@ -509,7 +509,7 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 5. (sort) Sort each feature: black smoker or alkaline vent?  
    **Answer:** Water hotter than 350 degrees Celsius → Black smoker; White chimneys of carbonate → Alkaline vent; Needs a volcano close by → Black smoker; Heated by rock reacting with sea water → Alkaline vent; Acid water → Black smoker; Water of 40 to 90 degrees Celsius → Alkaline vent. *Why:* Black smokers sit over melted rock and are very hot, acid and dark. Alkaline vents are warmed by rock reacting with sea water, and are warm, alkaline and white.
 6. (mcq) Why does RNA solve the puzzle of 'which came first, instructions or workers'?  
-   Options: RNA can do both jobs / RNA is the strongest molecule / RNA is found only in humans / RNA needs no building blocks  
+   Options: RNA is the strongest molecule / RNA is found only in humans / RNA needs no building blocks / RNA can do both jobs  
    **Answer:** RNA can do both jobs. *Why:* RNA carries instructions in its letters and can also act as a catalyst. Choosing 'strongest' is the opposite of the truth: RNA is fragile, which is one problem for the idea.
 7. (write) The same soap made tall foam in plain water and little foam in very salty water. Explain why.  
    **Answer:** Soap molecules line up into thin skins in water, and foam is made of those skins. Dissolved salt pushes soap molecules out of the water into solid specks. Fewer are left to make skins, so there is less foam.. *Why:* A strong answer says what foam is made of, and what the salt does to the soap molecules.
@@ -533,14 +533,14 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
    **Answer:** Heated water is lighter for its size than cold water, so it is pushed upwards. Water heated inside the sea floor rises out of the vent the same way, carrying dissolved minerals with it.. *Why:* A strong answer links the test to the vent: heating makes water lighter, so it rises and carries minerals up.
 ### RNA, Skins and LUCA (stretch) (stretch, 15 questions)
 1. (mcq) What is the best evidence inside your own cells for an RNA world?  
-   Options: The ribosome's working part is RNA / Cells contain a lot of water / DNA is kept in the nucleus / Cells are too small to see  
+   Options: Cells contain a lot of water / DNA is kept in the nucleus / The ribosome's working part is RNA / Cells are too small to see  
    **Answer:** The ribosome's working part is RNA. *Why:* The machine that builds every protein has RNA at its working centre. That looks like a leftover from a time when RNA did the work. The other facts are true but say nothing about RNA coming first.
 2. (truefalse) True or false: scientists have made an RNA that copies all of itself, again and again, with no help.  
    **Answer:** False. *Why:* False, as far as we know. Ribozymes that copy other short RNA chains have been made, and they keep improving. Full self-copying is still a missing step.
 3. (fill) A molecule that speeds up a chemical change without being used up is a ____.  
    **Answer:** ['catalyst']. *Why:* Enzymes are catalysts made of protein. Ribozymes are catalysts made of RNA.
 4. (mcq) A die is rolled once for each letter. A 1 is a mistake. Which chain is copied perfectly most often?  
-   Options: A chain of 4 letters / A chain of 8 letters / A chain of 12 letters / All three equally often  
+   Options: A chain of 8 letters / A chain of 12 letters / All three equally often / A chain of 4 letters  
    **Answer:** A chain of 4 letters. *Why:* Each letter is one more chance to roll a 1. Four rolls avoid a 1 about half the time. Twelve rolls avoid it about one time in nine.
 5. (write) A careful copier needs a long RNA chain. A long chain needs a careful copier. Why is this a puzzle?  
    **Answer:** Each one seems to need the other to exist first. A long chain cannot survive careless copying, so the careful copier could not be kept. But without a long chain there is no careful copier.. *Why:* This is called Eigen's paradox. A strong answer shows that neither could come first alone, and may suggest a way out, such as short chains working together.
@@ -549,7 +549,7 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 7. (sort) Sort each finding: does it support vents, or pools?  
    **Answer:** All cells make ATP with a flow of protons → Vents; Drying pushes building blocks together → Pools; The deep sea is sheltered from ultraviolet light → Vents; Fatty acid bubbles form in spring water, not sea water → Pools; LUCA's oldest genes fit a hydrogen-eating microbe → Vents; RNA chains break apart in water → Pools. *Why:* Vents offer steady energy, shelter and a natural proton difference. Pools offer drying, fresh water and sunlight.
 8. (mcq) Four very different living beings all have ribosomes. What does that suggest?  
-   Options: Their shared ancestor had ribosomes / Ribosomes are easy to invent / They all live in the same place / They all eat the same food  
+   Options: Ribosomes are easy to invent / Their shared ancestor had ribosomes / They all live in the same place / They all eat the same food  
    **Answer:** Their shared ancestor had ribosomes. *Why:* A complicated feature shared by all branches was most likely inherited from one ancestor. Inventing the same machine four separate times is far less likely.
 9. (label) Label a drawing of a protocell: fatty skin, water inside, RNA chain, water outside.  
    **Answer:** ['Fatty skin', 'Water inside', 'RNA chain', 'Water outside']. *Why:* A protocell is a bubble with a skin of fatty molecules and other molecules, such as RNA, inside. It is a laboratory model, not a living cell.
@@ -574,7 +574,7 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
    Options: About 3 / About 13 / About 30 / Less than 1  
    **Answer:** About 3. *Why:* 13,800 ÷ 4,500 is a little more than 3. So the Earth has existed for about one third of the age of the universe.
 3. (mcq) Foam was 6 cm in plain water and 2 cm in sea-salty water. How do the two compare?  
-   Options: Plain water gave 3 times as much / Plain water gave 4 times as much / Sea-salty water gave 3 times as much / They were the same  
+   Options: Plain water gave 4 times as much / Sea-salty water gave 3 times as much / They were the same / Plain water gave 3 times as much  
    **Answer:** Plain water gave 3 times as much. *Why:* 6 ÷ 2 = 3. The plain bottle had three times as much foam. Subtracting gives the difference, 4 centimetres, which is not 'times as much'.
 4. (truefalse) True or false: if one test shows skins fail in salty water, the vent idea is proved wrong.  
    **Answer:** False. *Why:* False. One test with one kind of molecule cannot settle it. A later test with a mixture of 12 fatty molecules did form skins in warm, salty, alkaline water.
@@ -610,13 +610,13 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 
 ## Quiz
 1. (mcq) What did a first cell need, as far as scientists can tell?  
-   Options: A skin, copied instructions and energy / Sunlight, leaves and roots / A heart, lungs and a brain / Only water  
+   Options: Sunlight, leaves and roots / A heart, lungs and a brain / Only water / A skin, copied instructions and energy  
    **Answer:** A skin, copied instructions and energy. *Why:* Every cell has a membrane, instructions that are copied, and a steady energy supply. Water is needed too, but water alone is not enough.
 2. (mcq) What warms the water of an alkaline vent?  
-   Options: Sea water reacting with rock / Melted rock from a volcano / Sunlight / Animals living in the chimney  
+   Options: Melted rock from a volcano / Sea water reacting with rock / Sunlight / Animals living in the chimney  
    **Answer:** Sea water reacting with rock. *Why:* Sea water reacts with olivine rock, and the reaction gives out heat. Melted rock is what heats a black smoker, so that choice mixes up the two kinds of vent.
 3. (mcq) Who makes the food at a deep-sea vent?  
-   Options: Microbes, using energy from chemicals / Seaweed, using sunlight / Fish, by hunting / Nobody, the animals do not eat  
+   Options: Seaweed, using sunlight / Fish, by hunting / Microbes, using energy from chemicals / Nobody, the animals do not eat  
    **Answer:** Microbes, using energy from chemicals. *Why:* Bacteria and archaea make sugar using energy from chemicals such as hydrogen sulfide. No light reaches the vent, so seaweed is not found there.
 4. (mcq) What can RNA do that makes the RNA world idea possible?  
    Options: Carry instructions and act as a catalyst / Make its own building blocks from air / Last for ever in hot water / Live without any energy  
@@ -624,10 +624,10 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
 5. (truefalse) True or false: the RNA world idea has been proved.  
    **Answer:** False. *Why:* False. There is good evidence, such as ribozymes and the RNA core of the ribosome. But nobody has made RNA that copies all of itself, and other scientists think simple reactions came first.
 6. (mcq) In very salty water, soap makes little foam. What does this suggest about the first cell skins?  
-   Options: Simple fatty skins may form badly in sea water / Cells are made of soap / Salt is alive / The sea has no fatty molecules  
+   Options: Cells are made of soap / Salt is alive / The sea has no fatty molecules / Simple fatty skins may form badly in sea water  
    **Answer:** Simple fatty skins may form badly in sea water. *Why:* Fatty acids behave like soap, and salt pushes them out of the water. This is an argument for fresh water pools. A later test showed that a mixture of fatty molecules can form skins in salty water.
 7. (mcq) Why are three bottles of the same size, shaken 20 times each, used in the foam test?  
-   Options: So that only the salt differs / So that the foam looks nicer / Because three is a lucky number / So that the soap dissolves faster  
+   Options: So that the foam looks nicer / Because three is a lucky number / So that the soap dissolves faster / So that only the salt differs  
    **Answer:** So that only the salt differs. *Why:* In a fair test only one thing changes. Then any difference in the foam must come from the salt.
 8. (mcq) A string of 100 centimetres stands for 4,500 million years. What is 1 centimetre?  
    Options: 45 million years / 100 million years / 4,500 million years / 4.5 million years  
@@ -636,12 +636,12 @@ Gretchen Früh-Green went on studying Lost City for many years. She had thought 
    Options: Most of it / About half of it / Only a small part / None of it  
    **Answer:** Most of it. *Why:* Life is at least 3,500 million years old, and animals big enough to see appeared about 570 million years ago. So for more than four fifths of life's history there were only single cells.
 10. (mcq) How do scientists work out what LUCA was like, with no fossil of LUCA?  
-   Options: From features that all living cells share / From drawings made long ago / By guessing / From dinosaur bones  
+   Options: From drawings made long ago / By guessing / From dinosaur bones / From features that all living cells share  
    **Answer:** From features that all living cells share. *Why:* A feature shared by every branch of life was most likely inherited from the shared ancestor. So what all cells share tells us what LUCA had.
 11. (truefalse) True or false: scientists agree that life began at vents.  
    **Answer:** False. *Why:* False. Vents and pools on land are both leading ideas, with evidence for and against each. Nobody knows yet.
 12. (mcq) Which of these is known, and not just an idea?  
-   Options: Fatty molecules form skins by themselves / Life began in a warm pool / RNA came before proteins / LUCA lived at a vent  
+   Options: Life began in a warm pool / RNA came before proteins / Fatty molecules form skins by themselves / LUCA lived at a vent  
    **Answer:** Fatty molecules form skins by themselves. *Why:* Anyone can watch fatty molecules form skins, and it has been seen under microscopes many times. The other three are hypotheses that are still being tested.
 
 ## Applications

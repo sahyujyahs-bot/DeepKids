@@ -365,11 +365,11 @@
       "t": "mcq",
       "q": "These babies look very different from their parents. What happens as they grow up?",
       "options": [
-       "They change their whole body",
        "They stay the same shape",
-       "They get smaller and smaller"
+       "They get smaller and smaller",
+       "They change their whole body"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tadpole grows legs and loses the tail. A caterpillar grows wings. A maggot grows legs and wings. Each one changes their whole body until they look like a grown-up."
      }
     }
@@ -481,10 +481,10 @@
       "q": "Who looks after the eggs until the babies hatch?",
       "options": [
        "The mother",
-       "The father",
-       "Neither. The eggs are left on their own."
+       "Neither. The eggs are left on their own.",
+       "The father"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The father does. The mother puts her eggs into a pouch on his belly. He keeps them safe in the pouch until the tiny seahorses hatch."
      },
      "parent": "In seahorses, the mother puts her eggs into the father's belly pouch. He carries them for a few weeks, and then the tiny seahorses come out. Most animals are not like this, which is why the game has this card."
@@ -669,10 +669,10 @@
       "q": "Who had the biggest head for their body?",
       "options": [
        "The grown-up",
-       "The child",
-       "The baby"
+       "The baby",
+       "The child"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The baby was only about 4 heads long, so the head is a big part of the whole baby. The grown-up was about 7 heads tall, so their head is a smaller part.",
       "how": "e1"
      },
@@ -823,11 +823,11 @@
       "t": "mcq",
       "q": "Why can't a young chick get their own food?",
       "options": [
-       "The chick cannot fly yet",
        "The chick does not like food",
-       "The chick is asleep all day"
+       "The chick is asleep all day",
+       "The chick cannot fly yet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A young chick has no flying feathers yet, so they wait in the nest. The parents bring the food."
      }
     }
@@ -1027,11 +1027,11 @@
       "t": "mcq",
       "q": "What is a maggot?",
       "options": [
-       "A baby fly",
        "A kind of worm that grows from banana",
+       "A baby fly",
        "A seed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A maggot is the young of a fly. Maggots hatch from eggs that flies lay on food. They do not grow out of the banana.",
       "how": "p1"
      },
@@ -1196,11 +1196,11 @@
      "t": "mcq",
      "p": "You measure how many of their own head-lengths tall a grown-up, a child and a baby are. Who will be the most head-lengths tall?",
      "opts": [
-      "The grown-up",
       "The child",
+      "The grown-up",
       "The baby"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The grown-up is about 7 head-lengths tall, the child about 6 and the baby about 4. As we grow up, our legs grow much more than our head.",
      "how": "e1"
     },
@@ -1285,11 +1285,11 @@
      "t": "mcq",
      "p": "A calf can stand within about an hour of being born. A human baby takes about a year to walk. Why might a calf need to stand so soon?",
      "opts": [
-      "To follow the mother and the herd, and keep safe",
       "Because calves don't like lying down",
+      "To follow the mother and the herd, and keep safe",
       "To play with other calves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A calf needs to walk with the mother and the herd, away from danger, from the first day. A human baby is carried by grown-ups, so they can take longer."
     },
     {
@@ -1410,11 +1410,11 @@
      "t": "mcq",
      "p": "A great hornbill mother seals herself into a tree hole with her eggs. Who brings her food?",
      "opts": [
-      "The father hornbill",
       "Nobody, she goes hungry",
-      "The chicks"
+      "The chicks",
+      "The father hornbill"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The father hornbill brings fruit to a thin slit in the wall, and passes it to the mother and, later, the chicks."
     }
    ]
@@ -1451,11 +1451,11 @@
    "t": "mcq",
    "p": "Which of these animals has young?",
    "opts": [
-    "Only cats and dogs",
     "Every kind of animal, humans too",
+    "Only cats and dogs",
     "Only birds"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every kind of animal has young. Humans are animals too.",
    "outcome": 0
   },
@@ -1463,11 +1463,11 @@
    "t": "mcq",
    "p": "What is the young of a cow called?",
    "opts": [
-    "A kitten",
     "A calf",
+    "A kitten",
     "A chick"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cow's young is a calf. A kitten is a young cat, and a chick is a young bird.",
    "outcome": 1
   },
@@ -1476,10 +1476,10 @@
    "p": "A tadpole grows up into what?",
    "opts": [
     "A fish",
-    "A frog",
-    "A snake"
+    "A snake",
+    "A frog"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A tadpole grows legs, loses the tail and becomes a frog. Many people guess fish, because tadpoles swim.",
    "outcome": 1
   },
@@ -1487,11 +1487,11 @@
    "t": "mcq",
    "p": "Which baby looks very different from the parent?",
    "opts": [
+    "A caterpillar",
     "A kitten",
-    "A puppy",
-    "A caterpillar"
+    "A puppy"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A caterpillar has no wings and crawls on leaves. The grown-up is a butterfly or a moth. Kittens and puppies look like small cats and dogs.",
    "outcome": 2
   },
@@ -1512,11 +1512,11 @@
    "t": "mcq",
    "p": "A newborn baby is about how many of their own heads long?",
    "opts": [
-    "About 4",
     "About 8",
-    "About 20"
+    "About 20",
+    "About 4"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A newborn is about 4 heads long. A grown-up is about 7 or 8 heads tall, because the legs grow so much.",
    "outcome": 3,
    "how": "e1"
@@ -1526,10 +1526,10 @@
    "p": "As a child grows up, which part grows the most?",
    "opts": [
     "The head",
-    "The legs",
-    "The ears"
+    "The ears",
+    "The legs"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The legs grow the most. That is why a grown-up is more heads tall than a baby.",
    "outcome": 3,
    "how": "e1"
@@ -1550,11 +1550,11 @@
    "t": "mcq",
    "p": "Which father carries the eggs in a pouch on his belly?",
    "opts": [
-    "The seahorse father",
     "The cat father",
-    "The crow father"
+    "The crow father",
+    "The seahorse father"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A seahorse father carries the eggs in his pouch until the babies hatch and swim out.",
    "outcome": 4,
    "how": "g2"

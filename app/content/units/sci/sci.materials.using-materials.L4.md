@@ -662,10 +662,10 @@ The village decided to do both. Mr. Das would build one small, light steel footb
    **Answer:** A strong answer weighs the needs: how soon, how long, cost, what happens after. Bamboo is quick and cheap but rots in a few years. Steel lasts but needs paint and is hard to dispose of. Roots take longest but last longest and leave no waste. Each person is right about one need. A village could also choose two.. *Why:* The best choice depends on what the village counts. A decision matrix shows how the weights decide.
 ### Trade-offs and Whole Lives (stretch) (stretch, 18 questions)
 1. (mcq) A plastic tiffin box and a steel tiffin box both score 30 in a decision matrix. What is the best next step?  
-   Options: Look at the weights and ask which need matters most for this job / Pick the plastic one / Pick the steel one / Throw both out  
+   Options: Pick the plastic one / Pick the steel one / Throw both out / Look at the weights and ask which need matters most for this job  
    **Answer:** Look at the weights and ask which need matters most for this job. *Why:* A tie shows that the scores alone cannot settle the matter. The weights, which say what matters most, can. If the box is carried with curry, 'does not leak' gets a bigger weight.
 2. (mcq) A 600 rupee pair of shoes lasts 2 years. A 300 rupee pair lasts 6 months. Which costs less for each year?  
-   Options: The 600 rupee pair, at 300 rupees a year / The 300 rupee pair, at 300 rupees a year / The 300 rupee pair, at 600 rupees a year / They cost the same  
+   Options: The 300 rupee pair, at 300 rupees a year / The 300 rupee pair, at 600 rupees a year / The 600 rupee pair, at 300 rupees a year / They cost the same  
    **Answer:** The 600 rupee pair, at 300 rupees a year. *Why:* 600 divided by 2 years is 300 a year. 300 divided by half a year is 600 a year. So the dearer shoes cost less each year.
 3. (truefalse) Every time paper is recycled, the fibres get longer and the paper gets stronger.  
    **Answer:** False. *Why:* False. Each time paper is pulped and remade, the fibres get shorter and fewer, so the paper gets weaker.
@@ -680,7 +680,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 8. (match) Match each place to a good reason for its choice.  
    **Answer:** A mud wall in the Thar desert → Thick walls heat slowly and keep the inside cool; Sloped tiles in rainy hills → Rain runs off quickly; A wooden chair in Leh → Wood is not icy to sit on; A clay matka in a village home → Water seeps through the clay and cools the water inside; A steel bottle in a school bag → It does not break. *Why:* Each choice answers a need that the place makes important: heat, rain, cold, cooling and rough handling.
 9. (mcq) Why does stainless steel rust much less than ordinary steel?  
-   Options: It has chromium mixed in, which forms a thin protective skin on the surface / It has no iron in it / It is painted / It is made of aluminium  
+   Options: It has no iron in it / It is painted / It is made of aluminium / It has chromium mixed in, which forms a thin protective skin on the surface  
    **Answer:** It has chromium mixed in, which forms a thin protective skin on the surface. *Why:* Chromium atoms in stainless steel form a very thin invisible layer that protects the metal below. Stainless steel is still an alloy of iron.
 10. (order) Put these scraps in order, from rotting fastest to rotting slowest, in warm damp soil.  
    **Answer:** order shown. *Why:* A banana peel is soft food for bacteria and fungi. Paper is made from plant fibres, but is drier and harder. Cotton is a tougher plant fibre and takes months. Plastic does not rot at all in a short time.
@@ -689,12 +689,12 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 12. (truefalse) Aluminium can be melted and made into new things again and again with little loss of quality.  
    **Answer:** True. *Why:* True. Aluminium is a metal, and its atoms stay the same when it is melted. Recycling it takes far less energy than making new aluminium from ore.
 13. (mcq) In the past, tests of asbestos asked, 'does it do the job?' What question was missing?  
-   Options: What does it do to people's lungs years later? / What colour is it? / How cheap is it? / How big is it?  
+   Options: What colour is it? / What does it do to people's lungs years later? / How cheap is it? / How big is it?  
    **Answer:** What does it do to people's lungs years later?. *Why:* A test answers only the question it asks. Asbestos did the job, but doctors found years later that its fibres could harm the lungs. This is why engineers look at the whole life.
 14. (perspective) Some campaigners want to ban all plastic. Others disagree.  
    **Answer:** A strong answer weighs the harm against the benefits. The campaigner is right that single-use plastic is a huge problem. The doctor is right that some uses save lives. The designer's idea tries to keep what is useful and remove the harm.. *Why:* Banning all or keeping all are both too simple. Looking at the job, the whole life and the alternatives helps to decide.
 15. (mcq) In reinforced concrete, what do the steel bars do?  
-   Options: They carry the pulling, which concrete is weak at / They make the concrete wet / They make the concrete lighter / They hold the concrete's colour  
+   Options: They make the concrete wet / They carry the pulling, which concrete is weak at / They make the concrete lighter / They hold the concrete's colour  
    **Answer:** They carry the pulling, which concrete is weak at. *Why:* Concrete is strong when squeezed but weak when pulled. The steel bars carry the pull. This is a composite at work.
 16. (fill) A material that can be broken down by bacteria and fungi is called ____.  
    **Answer:** ['biodegradable']. *Why:* Biodegradable materials return to the soil. A banana peel is one, and a plastic bag is not.
@@ -705,7 +705,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
    **Answer:** It changed little in two weeks, and may take months to rot. *Why:* Two weeks is a short time. A test shows what happened in that time only. Cotton comes from a plant and can rot, but much more slowly than a peel.
 ### Hard Choices and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) A cloth bag costs 40 rupees. A plastic bag costs 2 rupees and is used once. After how many uses does the cloth bag cost less per use than buying a new plastic bag each time?  
-   Options: More than 20 uses / More than 2 uses / More than 40 uses / More than 80 uses  
+   Options: More than 2 uses / More than 40 uses / More than 20 uses / More than 80 uses  
    **Answer:** More than 20 uses. *Why:* 40 divided by 2 is 20. After 20 uses the cloth bag has cost the same as 20 plastic bags. After that, each use is cheaper.
 2. (fill) A cloth bag at 40 rupees breaks even with 2 rupee plastic bags after ____ uses.  
    **Answer:** ['20']. *Why:* 40 divided by 2 is 20. After 20 uses, the cloth bag has paid for itself.
@@ -714,7 +714,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 4. (perspective) A small town on a river must choose how to build a new bridge. They disagree.  
    **Answer:** A good answer uses a decision matrix: time, cost, life, repair and what happens after. The shopkeeper is right about speed. The teacher is right about life and strength. The farmer is right about repair and low cost over time. A town could build a quick bridge now and start a second slow one.. *Why:* The best choice depends on how much weight we give to speed, cost over time, repair and waste.
 5. (mcq) Which is the best sign that an old tradition of using a material is wise?  
-   Options: There is a reason we can test, such as water cooling in a clay pot / It is very old / Many people believe it / It is part of a festival  
+   Options: It is very old / Many people believe it / There is a reason we can test, such as water cooling in a clay pot / It is part of a festival  
    **Answer:** There is a reason we can test, such as water cooling in a clay pot. *Why:* Old and popular do not make a belief true. A reason that can be tested does. Water seeping through a clay pot and cooling it can be measured.
 6. (truefalse) A material that rots is always the better choice.  
    **Answer:** False. *Why:* False. Some 'compostable' materials only break down in very hot industrial composters, and a thing made to rot may be used once and need a lot of land and water to grow. A thing used many times can be kinder.
@@ -723,14 +723,14 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 8. (match) Match each material to what usually happens to it after use.  
    **Answer:** Banana leaf plate → Rots in weeks; Steel scrap → Melted and remade; Plastic bag → Stays a very long time; Iron nail left in damp air → Rusts; Polyester shirt → Stays and sheds microplastics. *Why:* Plant materials rot, steel can be remade, iron rusts and most plastics stay a very long time.
 9. (mcq) Bone is hard, yet slightly bendy. Which explanation fits?  
-   Options: It is a composite of hard mineral and soft protein / It is a pure metal / It is made of one kind of atom only / It is a kind of plastic  
+   Options: It is a pure metal / It is made of one kind of atom only / It is a composite of hard mineral and soft protein / It is a kind of plastic  
    **Answer:** It is a composite of hard mineral and soft protein. *Why:* The mineral makes bone hard and the protein makes it tough, so a crack does not run straight through. This is how a composite works.
 10. (draw) Draw the life of a plastic bottle in four boxes in a circle. Add a second arrow to show it being remade, and a third to show it staying in the ground.  
    **Answer:** Source: oil or gas from the ground. Making: a factory. Use: a drink, a few days. After: three arrows, one to a recycling plant and back to a new bottle, one to a landfill, and one to a river.. *Why:* A life cycle can have different endings. The ending depends on who collects the bottle and what they do with it.
 11. (write) Titanium works inside the body because bone grows tightly onto it. What would you test before putting a new material inside a person?  
    **Answer:** I would test whether the body rejects it, whether it corrodes in body fluids, how strong it is, whether it wears into the surrounding bone, and how long it lasts. I would test in the laboratory first, then with careful trials. I would also watch for harm many years later.. *Why:* A new material in the body must be tested for many needs and for the long term, since a test answers only the question it asks.
 12. (mcq) A cup is sold as 'compostable', but it only breaks down in very hot industrial composters. What happens to the cup in a family that has no such composter?  
-   Options: The cup may stay for a long time, so the claim does not help them / The cup rots in their garden in a week / The cup is eaten by animals / The cup turns into soil in their kitchen  
+   Options: The cup rots in their garden in a week / The cup is eaten by animals / The cup turns into soil in their kitchen / The cup may stay for a long time, so the claim does not help them  
    **Answer:** The cup may stay for a long time, so the claim does not help them. *Why:* A claim about rotting depends on where it happens. A family without the right composter gets little benefit. It is important to ask 'where?' and 'how fast?'
 13. (fill) Making a new aluminium can from ore takes far more ____ than making one from old cans.  
    **Answer:** ['energy']. *Why:* Recycling aluminium needs only a small part of the energy of making it from ore. This is why aluminium is worth collecting.
@@ -748,42 +748,42 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 
 ## Quiz
 1. (mcq) What does it mean to say that a choice is a trade-off?  
-   Options: Getting more of one good thing costs you some of another / One material wins at everything / Two materials are the same / The choice is wrong  
+   Options: One material wins at everything / Two materials are the same / The choice is wrong / Getting more of one good thing costs you some of another  
    **Answer:** Getting more of one good thing costs you some of another. *Why:* A trade-off means every choice gives up something. Picking 'one material wins' ignores the catch every material has.
 2. (mcq) A decision matrix gives two cups the same total. What helps most to decide?  
-   Options: Checking which need matters most for the job / Choosing the shinier cup / Choosing the heavier cup / Flipping a coin without thinking  
+   Options: Choosing the shinier cup / Checking which need matters most for the job / Choosing the heavier cup / Flipping a coin without thinking  
    **Answer:** Checking which need matters most for the job. *Why:* The weights say what matters most. When totals tie, the argument is really about the weights.
 3. (mcq) A bar of paper glued with paste holds far more than a bar of dried paste alone. What best explains it?  
-   Options: The paper carries the pull and the paste holds the layers so they cannot slide / The paper is a metal / The paste is stronger than steel / The bar is wetter  
+   Options: The paper is a metal / The paste is stronger than steel / The bar is wetter / The paper carries the pull and the paste holds the layers so they cannot slide  
    **Answer:** The paper carries the pull and the paste holds the layers so they cannot slide. *Why:* In a composite, each material covers the other's weakness. The fibre carries the pull and the matrix holds it in place.
 4. (mcq) Why is bronze harder than pure copper?  
-   Options: Tin atoms of a different size get in the way when layers of copper atoms try to slide / Bronze is lighter / Bronze is a plastic / Bronze is made colder  
+   Options: Bronze is lighter / Bronze is a plastic / Bronze is made colder / Tin atoms of a different size get in the way when layers of copper atoms try to slide  
    **Answer:** Tin atoms of a different size get in the way when layers of copper atoms try to slide. *Why:* Atoms of a different size jam the layers. This is why alloys are harder than pure metals.
 5. (mcq) Which stage is not part of the whole life of a steel katori?  
-   Options: Turning into a living plant / Mining iron ore / Making it in a factory / Using it in the kitchen  
+   Options: Mining iron ore / Turning into a living plant / Making it in a factory / Using it in the kitchen  
    **Answer:** Turning into a living plant. *Why:* A katori's life is source, making, use and after. It never turns into a plant. It can be melted and made again.
 6. (mcq) A banana peel, a steel can and a plastic bag are left in damp soil for a long time. Which statement is most accurate?  
-   Options: The peel rots, the can rusts or is remade, and the bag stays a very long time / All three rot at the same speed / None of them changes / Only the bag rots  
+   Options: All three rot at the same speed / None of them changes / Only the bag rots / The peel rots, the can rusts or is remade, and the bag stays a very long time  
    **Answer:** The peel rots, the can rusts or is remade, and the bag stays a very long time. *Why:* Living things break down the peel. Iron in the can slowly rusts. Most plastics resist breaking down. These are different endings.
 7. (mcq) Shoes at 400 rupees last 2 years. Shoes at 150 rupees last 6 months. Which costs less for each year?  
-   Options: The 400 rupee shoes, at 200 rupees a year / The 150 rupee shoes, at 150 rupees a year / They cost the same / The 150 rupee shoes, at 300 rupees a year  
+   Options: The 150 rupee shoes, at 150 rupees a year / They cost the same / The 400 rupee shoes, at 200 rupees a year / The 150 rupee shoes, at 300 rupees a year  
    **Answer:** The 400 rupee shoes, at 200 rupees a year. *Why:* 400 divided by 2 is 200 a year. 150 divided by half a year is 300 a year. The dearer shoes cost less each year.
 8. (truefalse) A test that shows a material did its job today proves it is safe for many years.  
    **Answer:** False. *Why:* False. A test answers only the question it asks. Asbestos and lead did their jobs, and showed harm years later.
 9. (mcq) Which comes first when we try to throw away less?  
-   Options: Reduce: make and buy less / Recycle: melt it down / Repair: mend it / Reuse: use it again  
+   Options: Recycle: melt it down / Repair: mend it / Reuse: use it again / Reduce: make and buy less  
    **Answer:** Reduce: make and buy less. *Why:* The order is reduce, reuse, repair, recycle. Not making the thing in the first place saves the most.
 10. (mcq) Why does the best desk for Leh differ from the best desk for Chennai?  
-   Options: The place changes which needs matter most, such as cold or damp / Chennai children are bigger / Steel cannot be made in Leh / Desks are only made in Chennai  
+   Options: Chennai children are bigger / Steel cannot be made in Leh / The place changes which needs matter most, such as cold or damp / Desks are only made in Chennai  
    **Answer:** The place changes which needs matter most, such as cold or damp. *Why:* The needs change with the place, so the scores and the best choice change.
 11. (mcq) Why is recycled paper often weaker than new paper?  
-   Options: The fibres get shorter each time paper is pulped and remade / Recycled paper has no fibres / Recycled paper is thicker / Recycled paper is wetter  
+   Options: Recycled paper has no fibres / Recycled paper is thicker / Recycled paper is wetter / The fibres get shorter each time paper is pulped and remade  
    **Answer:** The fibres get shorter each time paper is pulped and remade. *Why:* Short fibres make fewer links, so the paper is weaker.
 12. (mcq) What do the steel bars do in reinforced concrete?  
    Options: They carry the pull, which concrete is weak at / They make it heavier / They make it a liquid / They stop it drying  
    **Answer:** They carry the pull, which concrete is weak at. *Why:* Concrete is strong when squeezed and weak when pulled. The bars carry the pull. It is a composite.
 13. (mcq) Tissue paper is used to wipe up a spill. Why is it a poor choice for a box?  
-   Options: It soaks up water well, but it is too thin and soft to hold a box's shape / It cannot be made from plant fibres / It is too thick to fold  
+   Options: It cannot be made from plant fibres / It is too thick to fold / It soaks up water well, but it is too thin and soft to hold a box's shape  
    **Answer:** It soaks up water well, but it is too thin and soft to hold a box's shape. *Why:* Tissue is thin, so it soaks up water and wipes well. A box needs stiff, thick cardboard that holds its shape. Tissue is made from plant fibres too, so that is not the reason.
 
 ## Applications

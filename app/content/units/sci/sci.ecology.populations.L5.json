@@ -648,12 +648,12 @@
       "t": "mcq",
       "q": "A herd of 12 has 6 fawns. The meadow feeds 12. What must the player do to lose none?",
       "options": [
-       "Send away at least 6 chital",
        "Keep all 18 on the meadow",
+       "Send away at least 6 chital",
        "Roll the die twice",
        "Send away 2 chital"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The meadow feeds 12, so at least 6 must leave. If all 18 stay, 6 die for want of grass and 2 more die with them. Choosing 'keep all 18' means thinking of the meadow as endless."
      },
      "parent": "Players who keep 6 to 8 chital usually do best. A herd of 12 is hit by drought, by disease and by its own fawns. A herd of 2 has almost no fawns.",
@@ -1008,12 +1008,12 @@
       "t": "mcq",
       "q": "The island has 30 trees. Why do most seeds die in this round?",
       "options": [
-       "The trees are too old to make good seeds",
        "Most squares already have a tree",
+       "The trees are too old to make good seeds",
        "The dice are unlucky",
        "Seeds die when there are many seeds"
       ],
-      "a": 1,
+      "a": 0,
       "why": "With 30 trees, only 6 squares in 36 are empty, so most seeds land under a tree. The trees and seeds are the same as before. Choosing 'old trees' or 'unlucky dice' looks for a change in the trees or the dice, but only the room has changed."
      },
      "parent": "These rounds have the most rolls, about 30 each near the end. Working as a pair keeps it quick. Late rounds add only one or two trees, and some add none. That slow end is the finding.",
@@ -1285,12 +1285,12 @@
       "t": "mcq",
       "q": "The field has 14 snakes and only 30 rats. What will most likely happen to the snakes next?",
       "options": [
-       "They double again",
        "Many catch fewer than 3 and die",
+       "They double again",
        "They stay at 14",
        "They stop eating rats"
       ],
-      "a": 1,
+      "a": 0,
       "why": "With 30 rats spread over the field, most cards touch only one or two. Those snakes starve. Choosing 'they double' forgets that the snakes' number depends on the rats' number."
      },
      "parent": "In most games the rats fill the field by round 5 or 6. The snakes peak two or three rounds later, then the rats fall, and then the snakes fall. In some games the snakes stay few for a long time. Play on and see.",
@@ -2174,12 +2174,12 @@
       "t": "mcq",
       "q": "A pond holds 36 fish when full. At what number does it add the most new fish each year?",
       "options": [
-       "36, when it is full",
        "About 18, when it is half full",
+       "36, when it is full",
        "3, when it is nearly empty",
        "It adds the same at any number"
       ],
-      "a": 1,
+      "a": 0,
       "why": "At 18 there are many parents and still plenty of food and room for young. A full pond has no room, and a nearly empty pond has few parents. Choosing 36 mixes up the most fish with the most new fish."
      },
      "parent": "Fish the pond down to 18 in year one, then take 9 a year. That gives 18 + 9 × 9 = 99 fish, and the pond stays at 18 for ever. Catching 3 a year from a nearly full pond gives only 30.",
@@ -2271,12 +2271,12 @@
       "t": "mcq",
       "q": "Mosquito young need about a week in still water. How often should a plant saucer be emptied?",
       "options": [
-       "Once a month",
        "At least once a week",
+       "Once a month",
        "Once a year",
        "Only when it smells"
       ],
-      "a": 1,
+      "a": 0,
       "why": "If the water is thrown out before the young finish growing, none become adults. Once a month gives them time to finish three or four times over."
      },
      "context": "This is the planning step of Fewer Mosquitoes Without Spray. Here you write an action for each place with still water."
@@ -2451,12 +2451,12 @@
      "t": "mcq",
      "p": "Rats and rat snakes live in one field. The rats become many. What happens to the snakes next?",
      "opts": [
-      "They become many, a little later",
       "They become fewer at once",
       "Nothing changes",
-      "They leave the field"
+      "They leave the field",
+      "They become many, a little later"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With many rats, more snakes catch enough to live and raise young. That takes time, so the snakes rise after the rats. Choosing 'fewer' reads the link backward.",
      "outcome": 4
     },
@@ -2542,11 +2542,11 @@
      "p": "When did the paper forest add the most trees in one round?",
      "opts": [
       "In the first round",
-      "When about half the squares were full",
       "When nearly all were full",
-      "It added the same every round"
+      "It added the same every round",
+      "When about half the squares were full"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In the middle there are many parent trees and still many empty squares. Early on there are few parents. Late on there is little room.",
      "outcome": 2,
      "how": "e1"
@@ -2619,11 +2619,11 @@
      "p": "In a small glass tube with no hiding places, hunters and prey are kept together. What usually happens?",
      "opts": [
       "They rise and fall for ever",
-      "The hunters eat all the prey, then starve",
       "The prey eat the hunters",
-      "Both stay at one number"
+      "Both stay at one number",
+      "The hunters eat all the prey, then starve"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Georgy Gause found this in the 1930s. With nowhere to hide, every prey animal is caught. Lasting waves need refuges, distance or new arrivals.",
      "outcome": 4
     },
@@ -2641,11 +2641,11 @@
      "p": "Why are tigers told apart by their stripes in camera photographs?",
      "opts": [
       "Stripes show how old a tiger is",
-      "No two tigers have the same stripes",
       "Stripes show what a tiger eats",
-      "Only females have stripes"
+      "Only females have stripes",
+      "No two tigers have the same stripes"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Each tiger's stripe pattern is her own, like a fingerprint. So a photo counts as a capture of one known tiger, with no need to catch or mark her.",
      "outcome": 5
     },
@@ -2738,12 +2738,12 @@
      "t": "mcq",
      "p": "A plant has plenty of water and light but stays small in poor soil. What does this show?",
      "opts": [
-      "Growth stops at the scarcest need",
       "Plants do not need light",
       "Water is bad for plants",
+      "Growth stops at the scarcest need",
       "Soil does not matter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "This is the law of the minimum. The need in shortest supply sets the limit, however plentiful the others are.",
      "outcome": 2
     },
@@ -2775,12 +2775,12 @@
      "t": "mcq",
      "p": "Mites on a tray of oranges rose and fell three times only when the tray was large and patchy. Why?",
      "opts": [
-      "Big trays are warmer",
       "Some prey were always out of reach",
+      "Big trays are warmer",
       "The hunters ate oranges instead",
       "Oranges make mites breed faster"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In a patchy world, prey can settle on oranges the hunters have not found yet. So the prey are never all caught, and both kinds last.",
      "outcome": 4
     },
@@ -2826,12 +2826,12 @@
      "t": "mcq",
      "p": "Published estimates of how many people the Earth can carry range from under 1 billion to over 1,000 billion. Why so wide?",
      "opts": [
-      "Nobody has tried to measure it",
       "It depends on how people choose to live",
+      "Nobody has tried to measure it",
       "The Earth changes size",
       "Scientists cannot count people"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Joel Cohen showed this in 1995. The number depends on what people eat, use and throw away, and how they share. Those are choices, not measurements.",
      "outcome": 6
     },
@@ -2883,11 +2883,11 @@
      "p": "A herd is fed by lorry every dry season and grows to three times the hill's own limit. What is the risk?",
      "opts": [
       "The herd forgets how to graze",
-      "A crash if the lorries ever stop",
       "The hill grows more grass",
-      "There is no risk"
+      "There is no risk",
+      "A crash if the lorries ever stop"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The herd is now above what the hill can carry by itself. It lasts only as long as the outside food comes. The many feet and mouths also wear the hill down.",
      "outcome": 6
     }
@@ -2913,11 +2913,11 @@
    "p": "Births 40, deaths 25, arrivals 5, departures 20. What happens to the population?",
    "opts": [
     "It grows by 20",
-    "It shrinks by 20",
     "It stays the same",
+    "It shrinks by 20",
     "It doubles"
    ],
-   "a": 2,
+   "a": 1,
    "why": "In: 40 + 5 = 45. Out: 25 + 20 = 45. The two match, so the number stays the same though the members change.",
    "outcome": 0
   },
@@ -2925,12 +2925,12 @@
    "t": "mcq",
    "p": "A water plant doubles its patch every week. It covers half a pond today. When will it cover the whole pond?",
    "opts": [
-    "In one week",
     "In two weeks",
     "In a month",
+    "In one week",
     "In as long as it took so far"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One more doubling turns a half into a whole. Choosing 'as long as it took so far' treats doubling like steady adding.",
    "outcome": 1
   },
@@ -2939,11 +2939,11 @@
    "p": "Why can no population keep doubling for ever?",
    "opts": [
     "Animals get tired of having young",
-    "Something its members need runs short",
     "Doubling is against the law",
+    "Something its members need runs short",
     "Old members refuse to die"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each doubling needs twice the food and room. Any place has only so much, so a limiting factor always appears.",
    "outcome": 1
   },
@@ -2951,12 +2951,12 @@
    "t": "mcq",
    "p": "A forest stops at 36 trees on an island of 36 squares. The island is halved. Where does it stop now?",
    "opts": [
-    "At 36 again",
     "At about 18",
+    "At 36 again",
     "At about 72",
     "It never stops"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The limit comes from the place. Half the squares means room for half the trees. Choosing 36 treats the limit as belonging to the trees.",
    "outcome": 2,
    "how": "e1"
@@ -2966,11 +2966,11 @@
    "p": "What is the carrying capacity of a place?",
    "opts": [
     "The number born there in a year",
-    "The largest number it can keep alive for years",
     "The heaviest animal it can hold",
-    "The number of species in it"
+    "The number of species in it",
+    "The largest number it can keep alive for years"
    ],
-   "a": 1,
+   "a": 3,
    "why": "It is the number the place can go on feeding and housing without being damaged. It can change with seasons and weather.",
    "outcome": 2
   },
@@ -2979,11 +2979,11 @@
    "p": "A line graph rises slowly, then steeply, then goes flat. What does the flat part mean?",
    "opts": [
     "Everyone has died",
-    "The population has reached its carrying capacity",
     "Counting stopped",
-    "No young are born any more"
+    "No young are born any more",
+    "The population has reached its carrying capacity"
    ],
-   "a": 1,
+   "a": 3,
    "why": "On the flat part, births and deaths match, so the number stays level. Young are still being born.",
    "outcome": 3
   },
@@ -2993,10 +2993,10 @@
    "opts": [
     "An S-shaped curve",
     "A wave",
-    "An overshoot and crash",
-    "Steady growth"
+    "Steady growth",
+    "An overshoot and crash"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The population went past what the place could renew, the food ran out, and most members died.",
    "outcome": 3
   },
@@ -3004,12 +3004,12 @@
    "t": "mcq",
    "p": "In a field, the number of rats peaks in March. When would you expect the rat snakes to peak?",
    "opts": [
-    "In March too",
     "A little later",
+    "In March too",
     "A little earlier",
     "Never"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Snakes multiply only after rats are plentiful, and raising young takes time. So their peak comes after the rats' peak.",
    "outcome": 4,
    "how": "e2"
@@ -3019,11 +3019,11 @@
    "p": "Why do predators not usually eat every last one of their prey?",
    "opts": [
     "They are kind to their prey",
-    "Some prey are always hidden or far away",
     "Prey taste bad when few",
-    "Predators eat plants too"
+    "Predators eat plants too",
+    "Some prey are always hidden or far away"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Refuges, distance and new arrivals keep some prey alive. In a small bare space with no hiding places, the prey are all eaten.",
    "outcome": 4
   },
@@ -3033,10 +3033,10 @@
    "opts": [
     "They ask villagers to guess",
     "They count paw prints only",
-    "They photograph tigers and match their stripes",
-    "They count every deer"
+    "They count every deer",
+    "They photograph tigers and match their stripes"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Each tiger's stripes are her own. Photos from automatic cameras are treated as captures and recaptures, and the number is worked out from them.",
    "outcome": 5
   },
@@ -3045,11 +3045,11 @@
    "p": "Which change would raise a forest's carrying capacity for tigers?",
    "opts": [
     "More tigers brought in",
-    "More deer and other prey",
     "Fewer trees",
+    "More deer and other prey",
     "A fence round each tiger"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The number of tigers a forest can hold follows its prey. Bringing in more tigers without more prey only means some will starve or leave.",
    "outcome": 6,
    "how": "a5"

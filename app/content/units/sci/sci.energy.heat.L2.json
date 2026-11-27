@@ -443,11 +443,11 @@
       "t": "mcq",
       "q": "The oil in the sweater stayed hard for longer. What does that show?",
       "options": [
-       "The sweater slowed the room's warmth from getting in.",
        "The sweater made the oil colder than the fridge.",
+       "The sweater slowed the room's warmth from getting in.",
        "The sweater made a lot of warmth."
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the sweater made warmth, the wrapped oil would have melted first. It kept the oil cold, so it was slowing warmth from getting in."
      }
     },
@@ -594,11 +594,11 @@
       "t": "mcq",
       "q": "Why does ice melt faster in your hand than on the table?",
       "options": [
-       "Your body makes warmth, so your hand is warmer than the table.",
        "Your hand is colder than the table.",
-       "The table keeps the ice frozen."
+       "The table keeps the ice frozen.",
+       "Your body makes warmth, so your hand is warmer than the table."
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your body makes warmth from food. Your hand is warmer than the room, so heat moves from your hand into the ice faster."
      }
     }
@@ -675,11 +675,11 @@
       "t": "mcq",
       "q": "Which one makes its own warmth?",
       "options": [
-       "A dog asleep on the mat",
        "A woollen cap",
-       "A folded blanket"
+       "A folded blanket",
+       "A dog asleep on the mat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A dog's body makes warmth from food. A cap and a blanket only keep warmth in."
      }
     }
@@ -838,11 +838,11 @@
       "t": "mcq",
       "q": "Why do your toes feel cooler than your tummy?",
       "options": [
-       "Toes stick out and lose warmth faster.",
        "Toes make more warmth than the tummy.",
+       "Toes stick out and lose warmth faster.",
        "Toes have no blood."
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your warmth is made inside your body. Parts that stick out, like toes, fingers, ears and the nose, lose it faster to the air."
      }
     }
@@ -1034,11 +1034,11 @@
       "t": "mcq",
       "q": "A cat sleeps in a sunny spot. What makes warmth there?",
       "options": [
-       "The Sun and the cat's own body",
        "Only the floor",
+       "The Sun and the cat's own body",
        "Nothing makes warmth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Sun's light warms the cat, and the cat's body makes warmth from food. The floor only gets warm from the sunlight."
      }
     }
@@ -1215,11 +1215,11 @@
       "t": "mcq",
       "q": "Why did the wrapped dosa stay warm?",
       "options": [
-       "The cloth slowed its heat from leaving.",
        "The cloth made new heat.",
+       "The cloth slowed its heat from leaving.",
        "The bare dosa got hotter."
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dosa was hot when it went in. The cloth made no warmth, but it slowed the heat from leaving."
      }
     }
@@ -1297,11 +1297,11 @@
       "t": "mcq",
       "q": "Pulling socks over your hands warms them. Why?",
       "options": [
-       "The socks keep your body's warmth in.",
        "The socks make heat.",
-       "The socks are hot from the cupboard."
+       "The socks are hot from the cupboard.",
+       "The socks keep your body's warmth in."
       ],
-      "a": 0,
+      "a": 2,
       "why": "Socks make no warmth. Your body makes the warmth in your hands, and the socks slow it from escaping."
      }
     }
@@ -1381,11 +1381,11 @@
      "t": "mcq",
      "p": "In the Sweater and Coconut Oil test, which oil stayed white and hard for longer?",
      "opts": [
-      "The oil wrapped in the sweater",
       "The bare oil",
-      "Both melted at the same time"
+      "Both melted at the same time",
+      "The oil wrapped in the sweater"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sweater slowed the room's warmth from getting in, so the wrapped oil stayed cold and hard for longer.",
      "context": "This question is about the Sweater and Coconut Oil test. You took two katoris of cold, hard coconut oil out of the fridge, wrapped one in a sweater and left one bare.",
      "how": "e1"
@@ -1449,11 +1449,11 @@
      "t": "mcq",
      "p": "Why do your hands get warm when you rub them together?",
      "opts": [
-      "Rubbing makes warmth.",
       "Rubbing takes warmth from the air.",
+      "Rubbing makes warmth.",
       "Your hands were hot inside all along."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rubbing makes warmth. That is one way things get warm, along with the Sun, fire, electricity and living bodies."
     }
    ]
@@ -1468,11 +1468,11 @@
      "t": "mcq",
      "p": "In the Sweater and Coconut Oil test, why did the bare oil melt before the oil wrapped in the sweater?",
      "opts": [
-      "The room was warmer than the oil, and the room's heat moved into it.",
       "The bare katori made heat.",
+      "The room was warmer than the oil, and the room's heat moved into it.",
       "The oil in the sweater was a different oil."
      ],
-     "a": 0,
+     "a": 1,
      "why": "The oil came from the cold fridge, so the room was warmer. Heat moves from warmer to cooler things, and nothing slowed it down for the bare oil.",
      "how": "e1"
     },
@@ -1599,11 +1599,11 @@
      "t": "mcq",
      "p": "Some people say mango heats the body and curd cools it. What have scientists found?",
      "opts": [
-      "They have not found that these foods change body temperature by much.",
       "A mango raises body temperature by 5 degrees.",
+      "They have not found that these foods change body temperature by much.",
       "Curd is colder than ice, so it cools you."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many families feel that foods heat or cool them. But scientists have not found that a mango or curd changes body temperature by much."
     },
     {
@@ -1724,11 +1724,11 @@
    "t": "mcq",
    "p": "A sweater has been lying on a chair all night. How warm is it?",
    "opts": [
-    "As warm as the chair and the room",
     "Warmer than the room",
-    "Colder than the fridge"
+    "Colder than the fridge",
+    "As warm as the chair and the room"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A sweater makes no warmth, so it is as warm as the things around it.",
    "outcome": 2
   },
@@ -1748,11 +1748,11 @@
    "t": "mcq",
    "p": "You test a sweater on cold coconut oil. One katori of oil is wrapped in the sweater and one is bare. What should be the same for both katoris?",
    "opts": [
-    "The oil, the katori, the table and the time",
     "Nothing",
-    "Only the colour of the katoris"
+    "Only the colour of the katoris",
+    "The oil, the katori, the table and the time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, only one thing changes: here, the sweater. Everything else stays the same.",
    "outcome": 4,
    "how": "e1"
@@ -1774,11 +1774,11 @@
    "t": "mcq",
    "p": "A hot idli sits on a plate for an hour. What happens?",
    "opts": [
-    "It cools down to the warmth of the room.",
     "It stays hot all day.",
+    "It cools down to the warmth of the room.",
     "It gets colder than ice."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hot things cool down until they are as warm as the room around them.",
    "outcome": 5
   },
@@ -1786,11 +1786,11 @@
    "t": "mcq",
    "p": "Why do your cheeks get warm after you run up the stairs?",
    "opts": [
-    "Working muscles make more warmth.",
     "The stairs are warm.",
+    "Working muscles make more warmth.",
     "Running makes cold go away."
    ],
-   "a": 0,
+   "a": 1,
    "why": "When muscles work hard, they make more warmth. The stairs make none.",
    "outcome": 3
   },
@@ -1810,11 +1810,11 @@
    "t": "mcq",
    "p": "On a hot day in Chennai, which helps you cool down?",
    "opts": [
-    "Sitting in the shade under a fan",
     "Wrapping up in a quilt",
+    "Sitting in the shade under a fan",
     "Sitting on a sunny terrace"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Shade keeps the Sun's light off you, and the fan's moving air carries your warmth away. A quilt would keep your warmth in.",
    "outcome": 6
   }

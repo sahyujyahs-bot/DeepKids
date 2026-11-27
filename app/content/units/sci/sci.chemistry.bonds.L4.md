@@ -544,19 +544,19 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 6. (sort) Sort these materials by the kind of bond that holds them.  
    **Answer:** table salt → Ionic; cooking soda → Ionic; sugar → Covalent; water → Covalent; steel spoon → Metallic; aluminium foil → Metallic. *Why:* A metal with a non-metal is ionic. Non-metals alone are covalent. Metals alone are metallic.
 7. (mcq) Why does a metal bend without breaking?  
-   Options: Its atoms slide and still hold / Its atoms are soft / It has no bonds / Its ions repel each other  
+   Options: Its atoms are soft / Its atoms slide and still hold / It has no bonds / Its ions repel each other  
    **Answer:** Its atoms slide and still hold. *Why:* The free electrons hold the atoms wherever they slide to. If you chose soft atoms, remember that the atoms do not change. Only their places change.
 8. (truefalse) Dry salt carries electricity.  
    **Answer:** False. *Why:* False. The ions in dry salt are held in place. Charges must be free to move before they can carry electricity.
 9. (mcq) Candle wax melts in seconds over a flame. Why?  
-   Options: Its molecules hold each other weakly / Its covalent bonds break / It is made of ions / It has free electrons  
+   Options: Its covalent bonds break / It is made of ions / Its molecules hold each other weakly / It has free electrons  
    **Answer:** Its molecules hold each other weakly. *Why:* Melting only lets whole molecules slide past each other. The covalent bonds inside each wax molecule stay unbroken.
 10. (fill) A material that can be beaten into a new shape without breaking is ____.  
    **Answer:** ['malleable']. *Why:* Metals are malleable because their atoms can slide to new places and still be held by the free electrons.
 11. (order) Put these solids in order of melting point, lowest first.  
    **Answer:** ['Ice', 'Candle wax', 'Aluminium', 'Salt']. *Why:* Ice melts at 0 degrees Celsius and wax at about 60. Aluminium melts at 660 and salt at about 800. The two solids made of molecules melt most easily.
 12. (mcq) What carries electricity through a copper wire?  
-   Options: Free electrons / Moving ions / Water molecules / Copper molecules  
+   Options: Moving ions / Free electrons / Water molecules / Copper molecules  
    **Answer:** Free electrons. *Why:* In a metal the outer electrons are free to flow. Ions carry electricity in salt water, and copper has no molecules.
 13. (write) In Three Solids, Three Tests, salt cracked and foil flattened. Explain why in two sentences.  
    **Answer:** In salt, a slipped layer brings like charges together, and they push the crystal apart. In foil, the atoms slide and the free electrons still hold them.. *Why:* A strong answer says what happens when a layer slips in each solid. It names like charges for salt and free electrons for metal.
@@ -566,15 +566,15 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
    **Answer:** Four rows of four circles. Plus and minus take turns along every row and down every column. So each ion has only the other kind beside it.. *Why:* A strong drawing does not show any ion paired up with just one neighbour. Every plus ion touches only minus ions along its sides.
 ### Why each solid behaves as it does (stretch, 15 questions)
 1. (mcq) Sodium atoms react fiercely. Sodium ions in salt do not. Why?  
-   Options: The ion has already given its electron / The ion is much bigger / Salt holds no sodium / The ion is frozen  
+   Options: The ion is much bigger / The ion has already given its electron / Salt holds no sodium / The ion is frozen  
    **Answer:** The ion has already given its electron. *Why:* A sodium atom reacts by giving away its outer electron. The ion has no such electron left to give, so it does not react in that way.
 2. (mcq) In a salt crystal, how many chloride ions surround each sodium ion?  
-   Options: Six / One / Two / Eight  
+   Options: One / Two / Six / Eight  
    **Answer:** Six. *Why:* Each sodium ion has four chloride ions beside it in its own layer. It has one more above and one more below, which makes six. If you chose one, remember that no ion in salt has just one partner.
 3. (truefalse) Melting ice breaks the covalent bonds inside water molecules.  
    **Answer:** False. *Why:* False. Melting only lets whole water molecules slide past each other. Each molecule is still one oxygen atom and two hydrogen atoms.
 4. (mcq) Why does sugar water carry almost no electricity?  
-   Options: Sugar molecules have no charge / Sugar does not dissolve / Sugar is a metal / Sugar blocks the water  
+   Options: Sugar does not dissolve / Sugar is a metal / Sugar molecules have no charge / Sugar blocks the water  
    **Answer:** Sugar molecules have no charge. *Why:* Sugar dissolves as whole molecules. With no charged particles to drift, almost nothing carries the electricity.
 5. (fill) A substance that carries electricity when dissolved, because its ions move, is an ____.  
    **Answer:** ['electrolyte']. *Why:* Salt and cooking soda are electrolytes. ORS replaces the electrolytes a sick child loses.
@@ -607,7 +607,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
    Options: The three types have exceptions / Pencil lead is a metal / The tester was broken / All covalent solids conduct  
    **Answer:** The three types have exceptions. *Why:* In graphite, each carbon atom has one electron that is free to move. The three types are a guide, and real materials can lie between them.
 3. (mcq) Salt lowers the freezing point of water about twice as much as sugar does. Why?  
-   Options: Each unit of salt gives two particles / Salt is colder than sugar / Salt is heavier than sugar / Sugar melts first  
+   Options: Salt is colder than sugar / Salt is heavier than sugar / Each unit of salt gives two particles / Sugar melts first  
    **Answer:** Each unit of salt gives two particles. *Why:* Dissolved salt splits into a sodium ion and a chloride ion. Sugar stays as one molecule. This is how Arrhenius showed that ions exist in salt water.
 4. (truefalse) The kind of bond between atoms can change under very high pressure.  
    **Answer:** True. *Why:* True. Hydrogen is a gas of molecules on Earth. Squeezed hard enough, it carries electricity like a metal.
@@ -620,7 +620,7 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 8. (sort) Sort these by what carries the electricity.  
    **Answer:** copper wire → Free electrons; steel spoon → Free electrons; aluminium foil → Free electrons; salt water → Moving ions; an ORS drink → Moving ions; a nerve in your arm → Moving ions. *Why:* Metals carry electricity by electrons. Liquids with dissolved salts, including the liquids in your body, carry it by ions.
 9. (mcq) Aluminium gives 3 electrons and oxygen takes 2. How many of each make a compound?  
-   Options: 2 aluminium and 3 oxygen / 3 aluminium and 2 oxygen / 1 aluminium and 1 oxygen / 2 aluminium and 2 oxygen  
+   Options: 3 aluminium and 2 oxygen / 1 aluminium and 1 oxygen / 2 aluminium and 3 oxygen / 2 aluminium and 2 oxygen  
    **Answer:** 2 aluminium and 3 oxygen. *Why:* Two aluminiums give 6 electrons, and three oxygens take 6. If you chose 3 and 2, count again: that gives 9 and takes 4.
 10. (write) Many people think water itself carries electricity. What would you test to find out what really carries it?  
    **Answer:** Test the purest water I can get, then the same water with sugar, then with salt. If only the salt water makes many bubbles, the ions from the salt carry the electricity.. *Why:* A strong answer changes one thing at a time and includes plain water as the comparison. It says what result would show the idea is wrong.
@@ -642,33 +642,33 @@ She ran to the gate. Mumtaz, who sold fish from a basket on her head, stood ther
 
 ## Quiz
 1. (mcq) How does an atom become a plus ion?  
-   Options: It loses electrons / It gains electrons / It melts / It splits in two  
+   Options: It gains electrons / It melts / It loses electrons / It splits in two  
    **Answer:** It loses electrons. *Why:* Electrons are minus. An atom that loses one has more plus charge than minus. If you chose gains, that makes a minus ion.
 2. (mcq) What holds the ions in salt together?  
-   Options: Plus and minus charges attracting / Shared pairs of electrons / A pool of free electrons / Water  
+   Options: Shared pairs of electrons / A pool of free electrons / Plus and minus charges attracting / Water  
    **Answer:** Plus and minus charges attracting. *Why:* Each plus ion attracts every minus ion near it. Shared pairs make covalent bonds, and a pool of electrons makes a metallic bond.
 3. (mcq) Which pair of atoms will share electrons?  
    Options: Hydrogen and oxygen / Sodium and chlorine / Copper and zinc / Calcium and oxygen  
    **Answer:** Hydrogen and oxygen. *Why:* Hydrogen and oxygen are both non-metals, so neither gives an electron away. A metal with a non-metal makes ions, and two metals pool their electrons.
 4. (mcq) Which of these is made of molecules?  
-   Options: Sugar / Table salt / Copper / Brass  
+   Options: Table salt / Sugar / Copper / Brass  
    **Answer:** Sugar. *Why:* Sugar is carbon, hydrogen and oxygen joined by covalent bonds. Salt is a lattice of ions, and copper and brass are metals.
 5. (mcq) Why does a metal shine and carry electricity?  
-   Options: It has free electrons / It has ions in a lattice / It is made of molecules / It is very heavy  
+   Options: It has ions in a lattice / It has free electrons / It is made of molecules / It is very heavy  
    **Answer:** It has free electrons. *Why:* Free electrons flow as a current, and they send light back from the surface.
 6. (truefalse) Salt melts on a kitchen flame.  
    **Answer:** False. *Why:* False. Salt melts at about 800 degrees Celsius, because every ion is held strongly on all sides.
 7. (mcq) When does salt carry electricity?  
-   Options: When it is dissolved or melted / Only when it is dry / Never / Only when it is cold  
+   Options: Only when it is dry / Never / When it is dissolved or melted / Only when it is cold  
    **Answer:** When it is dissolved or melted. *Why:* Dissolving and melting both free the ions. Free ions can move, and moving charges carry electricity.
 8. (mcq) A solid flattens when pressed and carries electricity when dry. What is it?  
-   Options: A metal / An ionic solid / A solid made of molecules / Sugar  
+   Options: An ionic solid / A solid made of molecules / A metal / Sugar  
    **Answer:** A metal. *Why:* Only a metal does both. An ionic solid cracks and carries electricity only when wet or melted.
 9. (mcq) Magnesium is a metal and oxygen is a non-metal. Which bond joins them?  
-   Options: Ionic / Covalent / Metallic / No bond forms  
+   Options: Covalent / Metallic / No bond forms / Ionic  
    **Answer:** Ionic. *Why:* The metal atom gives electrons to the non-metal atom. Magnesium oxide is made of ions.
 10. (mcq) What kind of evidence showed that salt has no molecules?  
-   Options: The pattern X-rays make in a crystal / The taste of salt / The weight of salt / The colour of salt  
+   Options: The taste of salt / The pattern X-rays make in a crystal / The weight of salt / The colour of salt  
    **Answer:** The pattern X-rays make in a crystal. *Why:* X-rays bounce off the layers of ions and make a pattern of spots. The pattern shows every ion with six equal neighbours.
 11. (truefalse) Most real bonds are partly shared and partly given.  
    **Answer:** True. *Why:* True. Pure sharing and full giving are the two ends of a line, and most bonds lie between them.

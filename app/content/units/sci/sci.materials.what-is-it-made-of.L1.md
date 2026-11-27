@@ -443,7 +443,7 @@ And some things, like her pencil, were made of more than one thing.
    **Answer:** True. *Why:* True. Glass is made by melting sand with a few other materials in a very hot fire, then letting it cool.
 ### Material Detective (stretch) (stretch, 10 questions)
 1. (mcq) You find a light, red, smooth box. You tap it: tock. You cannot see through it. What is it most likely made of?  
-   Options: Plastic / Glass / Metal  
+   Options: Glass / Plastic / Metal  
    **Answer:** Plastic. *Why:* Plastic is light and can be any colour, and it goes tock when tapped. Glass is usually see-through, and metal is heavier and rings.
 2. (write) Remember the Scrunch Ball test, where you scrunched kitchen foil and a chips packet. Your friend says a chips packet is metal, because it is shiny inside. What would you tell your friend? Use what you saw. Say it, and a grown-up writes it down.  
    **Answer:** The foil stayed scrunched, but the chips packet opened up again. So the packet is mostly plastic, with only a very thin metal coat inside.. *Why:* A strong answer uses what the child saw: the two balls acted differently, so they are different materials.
@@ -476,25 +476,25 @@ And some things, like her pencil, were made of more than one thing.
    Options: What a thing is made of / The colour of a thing / The name of a shop  
    **Answer:** What a thing is made of. *Why:* A material is what a thing is made of, like wood, metal, plastic, glass, fabric or paper.
 2. (mcq) Which of these is made of fabric?  
-   Options: A cotton shirt / A steel plate / A glass jar  
+   Options: A steel plate / A glass jar / A cotton shirt  
    **Answer:** A cotton shirt. *Why:* A cotton shirt is fabric, made of threads woven together. A steel plate is metal and a glass jar is glass.
 3. (mcq) You can see right through a window. What is it usually made of?  
    Options: Glass / Wood / Paper  
    **Answer:** Glass. *Why:* Glass is hard and see-through, so light comes in. Wood and paper block the light.
 4. (mcq) Which material has thin brown lines called grain?  
-   Options: Wood / Glass / Plastic  
+   Options: Glass / Plastic / Wood  
    **Answer:** Wood. *Why:* The grain in wood shows how the tree grew. Glass and plastic have no grain.
 5. (mcq) Which of these is made of more than one material?  
-   Options: An umbrella / A sheet of paper / A steel spoon  
+   Options: A sheet of paper / A steel spoon / An umbrella  
    **Answer:** An umbrella. *Why:* An umbrella has a fabric top, metal spokes and a handle. A sheet of paper is only paper, and a steel spoon is only metal.
 6. (mcq) Steel makes tumblers, spoons and keys. What does this show?  
-   Options: One material can make many different things / Every material makes only one thing / Steel is a kind of plastic  
+   Options: Every material makes only one thing / Steel is a kind of plastic / One material can make many different things  
    **Answer:** One material can make many different things. *Why:* One material can be shaped into many things. The name of a thing tells you its job, and the material tells you what it is made of.
 7. (mcq) Where does wood come from?  
-   Options: Trees / Sand / Oil under the ground  
+   Options: Sand / Trees / Oil under the ground  
    **Answer:** Trees. *Why:* Wood comes from trees. Glass is made from sand, and most plastic from oil.
 8. (mcq) Most plastic is made from what?  
-   Options: Oil from deep under the ground / Cotton plants / Sand  
+   Options: Cotton plants / Oil from deep under the ground / Sand  
    **Answer:** Oil from deep under the ground. *Why:* Most plastic is made in factories from oil or gas found deep under the ground. Glass is the material made from sand.
 9. (mcq) A paper cup holds water, but a cone made of newspaper leaks. What must the paper cup have on the inside?  
    Options: A thin plastic skin / A layer of glass / Nothing, only paper  

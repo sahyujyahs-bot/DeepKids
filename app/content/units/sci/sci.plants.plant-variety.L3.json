@@ -954,11 +954,11 @@
       "t": "mcq",
       "q": "Neem, mango and peepal make a family. What do they share?",
       "options": [
-       "They are all trees",
        "They are all climbers",
+       "They are all trees",
        "They all give us cloth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "All three have one thick, woody trunk, so they are trees. Climbers have thin, bendy stems and hold on to something to grow up."
      }
     },
@@ -991,10 +991,10 @@
       "q": "Bamboo grows as tall as a house. What kind of plant is bamboo?",
       "options": [
        "A tree, because they are tall",
-       "A giant grass",
-       "A creeper"
+       "A creeper",
+       "A giant grass"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Bamboo is a grass, even though they grow very tall. Their stem is hollow with joints, like a wheat stalk, and it never grows fatter year after year like a tree trunk. Picking 'tree' usually means sorting by size only. Botanists also look at what the stem is like."
      }
     },
@@ -1088,11 +1088,11 @@
       "t": "mcq",
       "q": "A plant has a soft stem and lies along the ground over a big patch. What kind of plant is this?",
       "options": [
-       "A shrub",
        "A creeper",
+       "A shrub",
        "A tree"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A creeper has a weak stem that spreads along the ground. Picking 'shrub' often means thinking any low plant is a shrub. A shrub has hard, woody stems and stands up by itself."
      }
     },
@@ -1221,10 +1221,10 @@
       "q": "Suppose a long money plant stem flops over when you hold it up by its bottom end. At home, a money plant grows up a pole or a window grill. What kind of plant is a money plant?",
       "options": [
        "A tree",
-       "A herb",
-       "A climber"
+       "A climber",
+       "A herb"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A climber has a thin, bendy stem that cannot hold itself up. So they hold on to something and grow up it. A money plant grips with little roots on their stem. Picking 'herb' is a good guess, because the stem is green and soft. But a herb stays small and stands up alone. They do not climb."
      },
      "how": "e1",
@@ -1418,11 +1418,11 @@
       "t": "mcq",
       "q": "In the Shade Detective test, why might the ground under a big tree be cooler than under an umbrella?",
       "options": [
-       "The tree's leaves block sunlight, and the tree also gives off water that cools the air",
        "The tree's trunk is cold inside",
+       "The tree's leaves block sunlight, and the tree also gives off water that cools the air",
        "The umbrella makes heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both the umbrella and the leaves block sunlight. A tree also lets water evaporate from their leaves, and that takes heat away, like sweat on your skin. A big tree's shade is also wider and thicker. Picking 'the umbrella makes heat' is a natural guess, because an umbrella feels warm. It gets warm because it soaks up sunlight, but it does not make heat of its own."
      },
      "how": "e2"
@@ -1738,11 +1738,11 @@
       "t": "mcq",
       "q": "Some chappals are made of natural rubber. Where does natural rubber come from?",
       "options": [
-       "From a rock dug out of the ground",
        "From the milky sap of a rubber tree",
+       "From a rock dug out of the ground",
        "From sea water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Natural rubber is made from a milky sap, called latex, that comes out when the bark of a rubber tree is cut. In India, many rubber trees grow in Kerala. Many chappals today use rubber made in factories from oil, but natural rubber comes from trees."
      }
     },
@@ -1834,10 +1834,10 @@
       "q": "In Hug a Tree, a trunk measured 100 cm around. Using the rough rule of 2 and a half cm a year, about how old is the tree?",
       "options": [
        "About 10 years",
-       "About 40 years",
-       "About 250 years"
+       "About 250 years",
+       "About 40 years"
       ],
-      "a": 1,
+      "a": 2,
       "why": "100 divided by 2 and a half is 40. You can check: 40 times 2 and a half is 100. So the tree is roughly 40 years old. Picking 10 often means dividing by 10 instead. Picking 250 means multiplying instead of dividing. Remember this is only a rough guess, because trees grow at different speeds."
      },
      "how": "a3"
@@ -1924,11 +1924,11 @@
       "t": "mcq",
       "q": "In the Banana Plant Puzzle, the stem was made of soft rolled layers with no wood. So what kind of plant is a banana?",
       "options": [
-       "A tree, because they are tall",
        "A giant herb, because their stem is soft and not woody",
+       "A tree, because they are tall",
        "A climber"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A herb is any plant whose stem does not become wood. The banana's 'trunk' is made of rolled-up leaf bottoms, so botanists call them a giant herb, even though they are tall. Picking 'tree' means sorting by size. The real clue is what the stem is made of."
      },
      "how": "a4"
@@ -2029,10 +2029,10 @@
       "q": "In the Circling Shoot, the tip of a climbing bean may move slowly in a loop. Why do climbers do this?",
       "options": [
        "They are dizzy",
-       "To sweep around and find something to hold on to",
-       "The wind blows them in circles"
+       "The wind blows them in circles",
+       "To sweep around and find something to hold on to"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A climber's shoot tip moves slowly in loops, sweeping the space around it, until it touches a support. Then it wraps around it and climbs. Picking 'the wind' is a guess you can test."
      },
      "how": "a5",
@@ -2113,11 +2113,11 @@
       "t": "mcq",
       "q": "In Twist a Plant Rope, why did the twisted rope hold more coins than the loose fibres?",
       "options": [
-       "Twisting makes the fibres grip each other, so they all share the pull",
        "Twisting makes the fibres heavier",
-       "The coins were lighter the second time"
+       "The coins were lighter the second time",
+       "Twisting makes the fibres grip each other, so they all share the pull"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When fibres are twisted, they press and grip each other. So a pull on the rope is shared by all of them at once. Loose fibres slide apart and break one by one. Picking 'heavier' often means thinking strong things must be heavy. The rope weighs the same as the fibres it was made from."
      },
      "how": "a6",
@@ -2332,11 +2332,11 @@
       "t": "mcq",
       "q": "A plant friend is a curry leaf shrub. What are curry leaves mostly used for?",
       "options": [
-       "Their leaves add taste and smell to food",
        "Their wood builds houses",
-       "Their fruit makes rubber"
+       "Their fruit makes rubber",
+       "Their leaves add taste and smell to food"
       ],
-      "a": 0,
+      "a": 2,
       "why": "People use curry leaves in cooking all over India, especially in the south. The strong smell comes from chemicals the plant makes in their leaves. Picking 'wood' would fit a big tree like teak. A shrub's stems are too thin for building."
      }
     },
@@ -2599,12 +2599,12 @@
      "t": "mcq",
      "p": "Which plant is a shrub?",
      "opts": [
-      "Mango",
       "Hibiscus",
+      "Mango",
       "Pumpkin",
       "Coriander"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Hibiscus has several woody stems from near the ground, so hibiscus is a shrub. Mango is a tree, pumpkin is a creeper and coriander is a herb. Picking 'mango' often means choosing any plant with flowers or fruit."
     },
     {
@@ -2662,11 +2662,11 @@
      "t": "mcq",
      "p": "Why does a pumpkin grow along the ground instead of standing up?",
      "opts": [
-      "Their stem is too thin and weak to hold them up",
       "They are afraid of the sun",
-      "They are a tree that fell over"
+      "They are a tree that fell over",
+      "Their stem is too thin and weak to hold them up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A pumpkin's stem is long and soft, and their fruits are heavy. Lying on the ground, the stem does not have to hold them up. Picking 'a tree that fell' means thinking every plant wants to be a tree."
     },
     {
@@ -2750,11 +2750,11 @@
      "p": "Which of these is NOT a way people use plants?",
      "opts": [
       "Food",
+      "Making iron",
       "Medicine",
-      "Shade",
-      "Making iron"
+      "Shade"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Iron is a metal dug from rocks. Food, medicine and shade all come from plants. Picking 'shade' often means forgetting that shade is a use too. People plant trees on purpose to cool their streets."
     },
     {
@@ -2895,12 +2895,12 @@
      "t": "mcq",
      "p": "Rice, wheat and ragi are all herbs. Why do farmers grow herbs, not trees, to get grain?",
      "opts": [
-      "A herb grows from seed to grain in a few months, so a field gives a crop every season",
       "Trees cannot make seeds",
       "Herbs need no water",
+      "A herb grows from seed to grain in a few months, so a field gives a crop every season",
       "Trees grow only in forests"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A herb does not spend years building a woody trunk. They put their food into seeds quickly, often within four months. So farmers can sow and harvest again and again. Picking 'trees cannot make seeds' is wrong: mango and tamarind trees make plenty of seeds, but only after many years."
     },
     {
@@ -2908,21 +2908,21 @@
      "p": "What does the word 'weed' really mean?",
      "opts": [
       "A special poisonous kind of plant",
-      "A plant growing where people do not want them",
-      "Any plant with no flowers"
+      "Any plant with no flowers",
+      "A plant growing where people do not want them"
      ],
-     "a": 1,
+     "a": 2,
      "why": "'Weed' is a word about our wishes. The same grass can be a weed in a vegetable patch and a lawn on a cricket field. Picking 'poisonous' often comes from hearing weeds called bad plants."
     },
     {
      "t": "mcq",
      "p": "Why do some plants, like mint and tulsi, have strong smells?",
      "opts": [
-      "To protect themselves from insects and animals that eat leaves",
       "Because they are rotting",
+      "To protect themselves from insects and animals that eat leaves",
       "To call the rain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many plants make strong-smelling chemicals that keep leaf-eaters away. People use these same chemicals as spices and medicines.",
      "how": "e3",
      "context": "In the Smell Test, you crushed leaves and scored how strong their smell was."
@@ -3125,11 +3125,11 @@
      "t": "mcq",
      "p": "In the Circling Shoot, a climber's tip moved in slow loops. Suppose someone says the wind caused the loops. How could you test this idea?",
      "opts": [
-      "Keep the pot indoors with no fan or breeze, and see if it still circles",
       "Shout at the plant",
-      "Water them more"
+      "Water them more",
+      "Keep the pot indoors with no fan or breeze, and see if it still circles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To test one idea, take away just that one thing. If the tip still circles with no wind, the plant is moving on their own. This is a fair test.",
      "how": "a5",
      "context": "In the Circling Shoot, you photographed a climbing shoot's tip every 30 minutes to see if it moved."
@@ -3174,12 +3174,12 @@
      "t": "mcq",
      "p": "About 390 million years ago, plants that could make wood began to grow much taller than all the others. Why did wood let them grow tall?",
      "opts": [
-      "Wood is stiff and strong, so a woody stem can hold leaves high up in the light",
       "Wood is heavy, so the wind cannot move the plant",
       "Wood makes seeds",
-      "Wood soaks up sunlight"
+      "Wood soaks up sunlight",
+      "Wood is stiff and strong, so a woody stem can hold leaves high up in the light"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The lignin in wood makes the stem stiff. A stiff stem can stand tall and lift leaves above the plants around them, where they catch more light. Picking 'heavy' misses the point. Wood is strong for its weight, not just heavy."
     },
     {
@@ -3199,12 +3199,12 @@
      "t": "mcq",
      "p": "Which is the best way to sort a plant you do not know?",
      "opts": [
-      "Look at the stem and the leaf",
       "Count the seeds",
       "Guess from the colour",
-      "Ask a stranger"
+      "Ask a stranger",
+      "Look at the stem and the leaf"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The stem tells you whether it is woody or soft, and the leaf helps with the rest."
     }
    ]
@@ -3227,12 +3227,12 @@
    "t": "mcq",
    "p": "Which plant is a climber?",
    "opts": [
-    "Money plant",
     "Mango",
     "Rose",
-    "Spinach"
+    "Spinach",
+    "Money plant"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Money plant holds on to a wall or pole with little roots and grows up it. Mango is a tree, rose is a shrub and spinach is a herb.",
    "outcome": 0
   },
@@ -3241,11 +3241,11 @@
    "p": "Which plant is a creeper?",
    "opts": [
     "Neem",
-    "Watermelon",
     "Tulsi",
-    "Bamboo"
+    "Bamboo",
+    "Watermelon"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A watermelon plant spreads along the ground. Picking 'tulsi' often means thinking every small plant creeps. Tulsi stands up by themselves. Neem is a tree, and bamboo is a tall grass.",
    "outcome": 0
   },
@@ -3253,11 +3253,11 @@
    "t": "mcq",
    "p": "A climber has only a thin stem. How do they get their leaves up high?",
    "opts": [
-    "They hold on to a support and grow up it",
     "They do not need light",
-    "They grow underground"
+    "They grow underground",
+    "They hold on to a support and grow up it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A climber holds on to a tree, a wall or a stick, so they can reach the light with a thin stem. Picking 'they do not need light' is a common mistake. Climbers climb because they need light.",
    "outcome": 2
   },
@@ -3265,11 +3265,11 @@
    "t": "mcq",
    "p": "Which of these is made from a plant?",
    "opts": [
-    "A paper notebook",
     "A steel spoon",
+    "A paper notebook",
     "A glass bottle"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "Paper is made from wood, which comes from tree trunks. Steel is made from iron in rocks, and glass is made from sand. Picking glass often means thinking anything see-through comes from leaves."
   },
@@ -3277,11 +3277,11 @@
    "t": "mcq",
    "p": "Why do towns plant big trees like neem along hot streets?",
    "opts": [
-    "Their shade and their leaves cool the street",
     "Trees make the road stronger",
+    "Their shade and their leaves cool the street",
     "Trees keep the street dark at night"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "The leaves block sunlight, and water evaporating from them cools the air. Shade is one of the most important ways people use trees. Picking 'make the road stronger' mixes up shade with roots."
   },
@@ -3303,11 +3303,11 @@
    "t": "mcq",
    "p": "A papaya plant has one tall trunk, but the trunk is soft and spongy inside, with no hard wood. What is the best way to describe papaya?",
    "opts": [
-    "A plant that does not fit neatly into the five kinds",
     "A climber",
+    "A plant that does not fit neatly into the five kinds",
     "A creeper"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 5,
    "why": "Papaya stands up like a tree, but their trunk is not woody like a tree's. So papaya is partly like a tree and partly not. The five kinds are a useful guide, but some plants do not fit them well."
   },
@@ -3316,10 +3316,10 @@
    "p": "Which of these is true about trees?",
    "opts": [
     "All trees belong to one family",
-    "Plants from many different families became trees separately",
-    "Trees were the first plants on Earth"
+    "Trees were the first plants on Earth",
+    "Plants from many different families became trees separately"
    ],
-   "a": 1,
+   "a": 2,
    "why": "'Tree' is a way of growing. Plants from many unrelated families began to grow this way. Tiny land plants came long before trees.",
    "outcome": 6
   },
@@ -3351,12 +3351,12 @@
    "t": "mcq",
    "p": "A lotus grows in a pond. Which sentence about it is true?",
    "opts": [
-    "The roots are in the mud and the leaves float",
     "A lotus has no roots",
+    "The roots are in the mud and the leaves float",
     "A lotus grows only on rocks",
     "A lotus is a tree"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A lotus is a water plant. Lotus roots grow in the mud, and the long stem lets leaves float and the flower rise above the water.",
    "outcome": 0
   },
@@ -3364,12 +3364,12 @@
    "t": "mcq",
    "p": "Which of these is used at home as a medicine plant?",
    "opts": [
-    "Tulsi",
     "Cactus spine",
+    "Tulsi",
     "Plastic plant",
     "A stone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Tulsi, neem, clove and ginger are used as home remedies. Scientists still test each one.",
    "outcome": 3
   },
@@ -3390,12 +3390,12 @@
    "t": "mcq",
    "p": "Which plant is the tallest grass?",
    "opts": [
-    "Bamboo",
     "Mint",
     "Doob",
-    "Rose"
+    "Rose",
+    "Bamboo"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Bamboo is a giant grass. Some bamboos grow taller than many trees.",
    "outcome": 0
   },
@@ -3403,12 +3403,12 @@
    "t": "mcq",
    "p": "Toor dal comes from a plant that grows what kind of thing?",
    "opts": [
-    "Pods with seeds",
     "Roots as big as potatoes",
     "Bark",
+    "Pods with seeds",
     "Thorns"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pulses are seeds that grow in pods. Toor grows on a shrub.",
    "outcome": 3
   },
@@ -3416,12 +3416,12 @@
    "t": "mcq",
    "p": "Which part of the plant is a clove?",
    "opts": [
-    "A dried flower bud",
     "A root",
     "A leaf",
+    "A dried flower bud",
     "A bark"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Clove is a dried flower bud. Cinnamon is bark, cumin is a seed, and ginger is an underground stem.",
    "outcome": 3
   },
@@ -3429,12 +3429,12 @@
    "t": "mcq",
    "p": "Sugar and jaggery are made from the stem of which plant?",
    "opts": [
-    "Sugarcane",
     "Wheat",
     "Mustard",
-    "Neem"
+    "Neem",
+    "Sugarcane"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Sugarcane is a tall grass with a stem full of sweet juice.",
    "outcome": 3
   },

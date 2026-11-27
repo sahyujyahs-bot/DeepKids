@@ -688,7 +688,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 2. (fill) A letter and a number that name one square on a map make a grid ____.  
    **Answer:** ['reference']. *Why:* A grid reference names one square. You read the letter along first, and then the number down.
 3. (mcq) A map made from 6 holes in the Hidden Hills box missed a narrow ridge. What is the best reason?  
-   Options: The ridge lay between the holes that were poked / The ridge was not in the box / The stick was too short  
+   Options: The ridge was not in the box / The stick was too short / The ridge lay between the holes that were poked  
    **Answer:** The ridge lay between the holes that were poked. *Why:* A map only knows the land where the stick went down. A ridge narrower than the gaps between holes can slip between them.
 4. (truefalse) Contour lines that are close together mean that the land is gentle and flat.  
    **Answer:** False. *Why:* False. Close lines mean the land rises fast, so it is steep. Wide gaps between lines mean a gentle slope.
@@ -699,7 +699,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 7. (write) One distance from a tower tells you only that the coin is somewhere on a circle. Explain why a second and a third distance help.  
    **Answer:** A second circle crosses the first in two places, so the coin is at one of two spots. A third circle passes through only one of those two spots, so it shows which one the coin is at.. *Why:* A strong answer says that each new distance cuts down the number of possible places.
 8. (mcq) A phone uses GPS to find where you are. What does the phone do?  
-   Options: It listens to timed signals from satellites and works out its own distance from each / It sends your position to the satellites / It looks at the ground with a camera  
+   Options: It sends your position to the satellites / It listens to timed signals from satellites and works out its own distance from each / It looks at the ground with a camera  
    **Answer:** It listens to timed signals from satellites and works out its own distance from each. *Why:* GPS satellites only send signals, and the phone only listens. This is why GPS works with no mobile signal at all.
 9. (label) Label this contour map of a hill: the top, a steep side, a gentle side and a 100 metre line.  
    **Answer:** The smallest ring in the middle is the top. The side where the rings are close together is the steep side. The side where the rings are far apart is the gentle side. A number such as 100 is written on one of the rings.. *Why:* Contour lines show height. How close they are shows how steep the land is.
@@ -708,7 +708,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 11. (draw) Draw the Hidden Hills box from above with 6 holes marked and a narrow ridge hiding between them. Show which holes would miss it.  
    **Answer:** A rectangle with six dots in a pattern and a thin ridge drawn in the gap between the dots, not under any of them.. *Why:* A strong drawing shows the ridge lying in a gap that no hole reaches.
 12. (mcq) Which of these is a public service in a neighbourhood?  
-   Options: A post office / A private garden / A friend's bedroom  
+   Options: A private garden / A post office / A friend's bedroom  
    **Answer:** A post office. *Why:* A public service is a place that gives help or supplies to everyone in the area. A post office, a clinic and a school are examples.
 13. (truefalse) A map can be correct and still leave out most of what is there.  
    **Answer:** True. *Why:* True. A good map keeps only what the reader needs, and a map that tried to show everything would be impossible to read.
@@ -717,7 +717,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 15. (order) Put these maps in order, from the one that covers the smallest area to the one that covers the largest.  
    **Answer:** ['A floor plan of a room', 'A street map', 'A map of a city', 'A map of all India']. *Why:* Each map in the list covers more ground. So each is drawn with a smaller scale, and shows less detail.
 16. (mcq) On a common school world map, Greenland looks as big as Africa. What is the truth?  
-   Options: Africa is about fourteen times larger / Greenland is larger / They are exactly the same  
+   Options: Greenland is larger / They are exactly the same / Africa is about fourteen times larger  
    **Answer:** Africa is about fourteen times larger. *Why:* The map stretches areas near the poles. Africa has about fourteen times the area of Greenland.
 17. (order) Put these parts of an address in order, from the smallest place to the biggest.  
    **Answer:** ['House', 'Village', 'District', 'State', 'Country', 'Planet']. *Why:* Each part holds the one before it. A village holds houses, a district holds villages, a state holds districts, and a country holds states. All the countries are on the planet Earth.
@@ -732,7 +732,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 2. (write) A survey of the sea floor has lines of soundings 20 kilometres apart. Could a mountain 5 kilometres wide hide between two lines? Explain.  
    **Answer:** Yes. A mountain 5 kilometres wide is much narrower than the 20 kilometre gap, so it could lie wholly between two lines and never be sounded. The map would show a flat plain there.. *Why:* A strong answer compares the width of the feature with the gap.
 3. (mcq) In the Hidden Hills test, where is the best place to add extra holes?  
-   Options: Where the heights change fast between neighbouring holes / In the middle of the flattest area / Exactly where you already poked  
+   Options: In the middle of the flattest area / Exactly where you already poked / Where the heights change fast between neighbouring holes  
    **Answer:** Where the heights change fast between neighbouring holes. *Why:* Fast changes in height hint that something is happening nearby. Extra holes there are more likely to find a hidden feature.
 4. (perspective) Three people disagree about whether a satellite photograph can replace a map.  
    **Answer:** A strong answer picks a view with a reason, such as the photograph's detail or the map's choices, and admits a fair point from another view.. *Why:* There is no single right answer. A photograph shows more, but a map picks what the reader needs, and many mapmakers use both.
@@ -752,7 +752,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 11. (draw) Draw three towers, three circles and the one place where they all meet. Mark where the coin is.  
    **Answer:** Three dots for towers, three circles around them, all three circles meeting at a single point where a coin is drawn.. *Why:* A strong drawing shows three circles meeting at one point.
 12. (mcq) Which number tells you how far north of the equator a place is?  
-   Options: Its latitude / Its longitude / Its scale  
+   Options: Its longitude / Its scale / Its latitude  
    **Answer:** Its latitude. *Why:* Latitude is measured in degrees north or south of the equator. Longitude is measured east or west of the line through Greenwich.
 13. (order) Put these steps in order to show how a phone finds where it is.  
    **Answer:** ['A satellite sends a signal with the time it was sent', 'The signal travels at the speed of light', 'The phone notes the time it arrived', 'The phone works out the distance from the delay', 'Distances to several satellites give one place']. *Why:* The delay between sending and arriving, multiplied by the speed of light, gives the distance to each satellite. Several distances meet at one place.
@@ -761,7 +761,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 15. (truefalse) A flat map of the whole Earth can keep every shape, every distance and every area correct at the same time.  
    **Answer:** False. *Why:* False. Gauss proved in 1827 that a curved surface cannot be flattened without stretching or squeezing something.
 16. (mcq) Why does a metro map not show true distances between stations?  
-   Options: The traveller needs the order of stations and the places to change trains / The mapmaker made a mistake / Metro trains travel at different speeds  
+   Options: The mapmaker made a mistake / Metro trains travel at different speeds / The traveller needs the order of stations and the places to change trains  
    **Answer:** The traveller needs the order of stations and the places to change trains. *Why:* A metro map keeps the connections and drops the true distances to make it easy to read. It is a map that does not look like the place.
 17. (fill) The map projection that keeps directions true, and was useful to sailors, is called ____.  
    **Answer:** ['Mercator']. *Why:* Mercator keeps directions true but stretches areas near the poles.
@@ -775,7 +775,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 2. (write) The Hidden Hills box and the sea floor are alike in one big way. Say what it is, and name one thing about the sea floor that the box does not have.  
    **Answer:** In both, you can only measure along lines or at points and must reason about the gaps. A sea floor map has no lid you can lift to check, so nobody can look at the whole thing at once.. *Why:* A strong answer gives the likeness, which is measuring in some places and guessing the rest, and one real difference, such as no lid to lift or the much greater size.
 3. (mcq) Two soundings 5 centimetres apart show land heights of 2 centimetres and 8 centimetres. What can a mapmaker say about the land between them?  
-   Options: It probably slopes up from 2 to 8, but there could be a hidden hill or hollow / It is certainly a smooth slope / It is certainly flat  
+   Options: It is certainly a smooth slope / It is certainly flat / It probably slopes up from 2 to 8, but there could be a hidden hill or hollow  
    **Answer:** It probably slopes up from 2 to 8, but there could be a hidden hill or hollow. *Why:* The two numbers suggest a slope, and that is the most sensible guess. But nothing has been measured between them, so a small feature could be hidden.
 4. (fill) India has its own satellite navigation system, called ____, run by ISRO.  
    **Answer:** ['NavIC', 'Navic']. *Why:* NavIC covers India and the seas and lands around it.
@@ -791,7 +791,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 9. (draw) A sea survey must find any hill that is 2 squares wide and 2 squares long on a map of 8 by 8 squares. Mark the squares you would sound to be sure of finding one.  
    **Answer:** Sound every second square in every second row, for example B2, B4, B6, B8, D2, D4, D6, D8, F2, F4, F6, F8, H2, H4, H6, H8, so that every 2 by 2 block of squares has a sounding in it.. *Why:* A strong drawing spaces the soundings so that no feature as wide as the gap can slip between them.
 10. (mcq) Greenland has an area of about 2 million square kilometres and Africa has about 30 million. About how many times bigger is Africa?  
-   Options: About 15 times / About 2 times / About 50 times  
+   Options: About 2 times / About 15 times / About 50 times  
    **Answer:** About 15 times. *Why:* 30 million divided by 2 million is 15. With more careful figures it is about 14. The Mercator map hides this.
 11. (write) Marie Tharp did not go to sea on the ships that took the soundings, yet she found a valley in the sea floor from the numbers other people collected. How can a person find something new in other people's measurements?  
    **Answer:** A person who looks very carefully at many measurements together can see a pattern that no single measurement shows. Drawing the numbers as a picture can show a shape that was always in the data.. *Why:* There is no single answer. A strong answer says what the person does with the numbers, such as drawing them and looking for patterns.
@@ -800,7 +800,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 13. (match) Match each scale to the real distance that 1 centimetre stands for.  
    **Answer:** 1 to 5,000 → 50 metres; 1 to 50,000 → 500 metres; 1 to 500,000 → 5 kilometres. *Why:* A ratio of 1 to 5,000 means 1 centimetre on the map is 5,000 centimetres, or 50 metres, on the ground. Each ratio ten times larger stands for ten times more distance.
 14. (mcq) Which experiment would best test whether a bee has a map in her head?  
-   Options: Carry her to a new place, away from any landmark she knows, and see if she can fly home / Count how many flowers she visits / Paint her wings  
+   Options: Count how many flowers she visits / Paint her wings / Carry her to a new place, away from any landmark she knows, and see if she can fly home  
    **Answer:** Carry her to a new place, away from any landmark she knows, and see if she can fly home. *Why:* A bee with only a memory of routes and landmarks should be lost in a completely new place. A bee with a map might fly home. That is why scientists use displaced bees, and why they still argue about what the result means.
 15. (write) What would you want to find out about your neighbourhood before drawing a map of it for a visitor from another city?  
    **Answer:** I would want to know what the visitor needs, such as the shop, the bus stop or the clinic. I would measure the distances between those places and mark landmarks they can see, such as a tree or a temple.. *Why:* Any thoughtful answer is good. A strong one starts from what the reader needs.
@@ -815,28 +815,28 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    Options: 35 metres / 350 metres / 3,500 metres  
    **Answer:** 350 metres. *Why:* 3.5 times 100 is 350 metres.
 2. (mcq) Which map shows a small area in great detail?  
-   Options: A large-scale map / A small-scale map / A map without a scale  
+   Options: A small-scale map / A large-scale map / A map without a scale  
    **Answer:** A large-scale map. *Why:* A large-scale map shrinks the world only a little, so it can show a small place with many details. A small-scale map covers a big place and leaves out details.
 3. (mcq) The temple is in square C4 on a grid. Which way do you read the reference?  
-   Options: Find column C, then go down to row 4 / Find row C, then go across to column 4 / Add C and 4  
+   Options: Find row C, then go across to column 4 / Add C and 4 / Find column C, then go down to row 4  
    **Answer:** Find column C, then go down to row 4. *Why:* The letter names the column and the number names the row. Run along to C, then down to 4.
 4. (mcq) On a grid with north at the top, which square is just north of D5?  
-   Options: D4 / D6 / E5  
+   Options: D6 / D4 / E5  
    **Answer:** D4. *Why:* North is up, so the row number gets smaller. D4 is north of D5. D6 is south and E5 is east.
 5. (mcq) A map from a few holes in the Hidden Hills box misses a narrow ridge. What is the best way to find it?  
    Options: Add more holes where the heights change fast / Use a longer stick / Colour the squares differently  
    **Answer:** Add more holes where the heights change fast. *Why:* More measurements, placed where the numbers change fast, are most likely to find a hidden feature. The stick and the colours do not change what is measured.
 6. (mcq) What is interpolation?  
-   Options: Working out what lies between two measurements by reasoning / Measuring the same thing twice / Drawing a straight line  
+   Options: Measuring the same thing twice / Drawing a straight line / Working out what lies between two measurements by reasoning  
    **Answer:** Working out what lies between two measurements by reasoning. *Why:* A mapmaker guesses the shape between two soundings using the numbers on either side and what she knows about land.
 7. (mcq) On a contour map, the lines are very close together at one place. What does this tell you?  
-   Options: The land is steep there / The land is flat there / There is a lake there  
+   Options: The land is flat there / There is a lake there / The land is steep there  
    **Answer:** The land is steep there. *Why:* Close lines mean the height changes quickly over a short distance, which is a steep slope.
 8. (mcq) A contour map shows rings inside rings, with the smallest ring in the middle. What is it showing?  
    Options: A hill, with its top in the middle / A lake / A road  
    **Answer:** A hill, with its top in the middle. *Why:* Each ring joins places of one height. Rings inside rings, rising towards the middle, are the slices of a hill.
 9. (mcq) You know a coin is 10 centimetres from tower A. What does this tell you?  
-   Options: It is somewhere on a circle around A / It is exactly 10 centimetres east of A / It is on top of A  
+   Options: It is exactly 10 centimetres east of A / It is somewhere on a circle around A / It is on top of A  
    **Answer:** It is somewhere on a circle around A. *Why:* All the points 10 centimetres from A make a circle. One distance cannot say which point on the circle.
 10. (mcq) A phone uses GPS. Which is true?  
    Options: The phone listens to signals from satellites / The phone sends your position to the satellites / The phone looks at the stars  
@@ -848,16 +848,16 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    Options: It explains what each symbol means / It shows the way north / It says how far apart places are  
    **Answer:** It explains what each symbol means. *Why:* The key explains the symbols. The north arrow shows north, and the scale gives distances.
 13. (mcq) A friend who cannot see needs to find the door of a room. Which map is best?  
-   Options: A map to touch, with ridges and textures / A satellite photograph / A weather map  
+   Options: A satellite photograph / A map to touch, with ridges and textures / A weather map  
    **Answer:** A map to touch, with ridges and textures. *Why:* A touch map keeps what fingers can read: ridges for walls, gaps for doors and textures for things. A photograph is made for eyes.
 14. (mcq) Why does Greenland look so large on many school maps?  
    Options: The map stretches areas near the poles / Greenland is as big as Africa / The map is old  
    **Answer:** The map stretches areas near the poles. *Why:* A flat map of the round Earth must stretch something, and a common projection stretches the lands near the poles.
 15. (mcq) Before the 1950s, many scientists pictured the deep sea floor as a flat plain. What changed this picture?  
-   Options: Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley / A picture taken from space / A new kind of boat  
+   Options: A picture taken from space / Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley / A new kind of boat  
    **Answer:** Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley. *Why:* Soundings that were close together showed ridges and valleys that wide soundings missed. Careful drawing of the numbers revealed the shape.
 16. (mcq) A model of a classroom uses 1 centimetre for 20 centimetres. A real bench is 180 centimetres long. How long is it in the model?  
-   Options: 9 centimetres / 90 centimetres / 3,600 centimetres  
+   Options: 90 centimetres / 3,600 centimetres / 9 centimetres  
    **Answer:** 9 centimetres. *Why:* 180 divided by 20 is 9. In a model, every real length is divided by the same number. If you picked 3,600, you multiplied, and made the model bigger than the room.
 17. (mcq) Ria draws rain running from a hill into the village pond, with labels and arrows. What is her drawing?  
    Options: A model that shows how the parts of a real place connect / A photograph, because it has to look exactly like the pond / A guess, because nobody can draw water  
@@ -866,7 +866,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    Options: The top is about 8,848 metres above sea level / The climb is 8,848 metres long / The mountain is 8,848 metres wide  
    **Answer:** The top is about 8,848 metres above sea level. *Why:* Each contour line is a height above sea level, in metres. The smallest ring is the highest place. A map number for a ring never tells you how long the climb or how wide the mountain is.
 19. (mcq) A letter is addressed to a house in a village in Idukki district, in Kerala. Which layer of the address is just bigger than the village?  
-   Options: The district / The state / The house  
+   Options: The state / The district / The house  
    **Answer:** The district. *Why:* An address goes from small to big: house, street, village, district, state, country, planet. A district holds many villages. A state holds many districts.
 
 ## Applications

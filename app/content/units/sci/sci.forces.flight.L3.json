@@ -811,11 +811,11 @@
       "t": "mcq",
       "q": "Which mat does a paper plane go on, after it leaves your hand?",
       "options": [
-       "FLAPPERS",
        "GLIDERS AND SOARERS",
+       "FLAPPERS",
        "ENGINES AND OTHER TRICKS"
       ],
-      "a": 1,
+      "a": 0,
       "why": "GLIDERS AND SOARERS is right. Once it leaves your hand, a paper plane has no thrust, so it slides slowly down the air on still wings. Picking FLAPPERS mixes up the throw with flapping. Picking ENGINES counts your arm as an engine, but your arm only pushes for a moment."
      },
      "ask": [
@@ -1182,11 +1182,11 @@
       "t": "mcq",
       "q": "In the made-up example chart, the plane with 1 clip flew furthest. Why might 1 clip fly further than no clip?",
       "options": [
-       "The clip moves the balance point forward, so the plane glides steadily instead of swooping",
        "Heavier things always fly further",
+       "The clip moves the balance point forward, so the plane glides steadily instead of swooping",
        "The clip pushes the air down"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The clip moves the balance point forward, so the plane glides steadily. Picking 'heavier things always fly further' doesn't fit the example chart, because 3 clips flew the shortest distance. Picking 'the clip pushes the air down' mixes up the clip with the wings, which do the pushing."
      }
     },
@@ -1367,11 +1367,11 @@
       "t": "mcq",
       "q": "In the Seed Spinners test, a tall bar means the spinner…",
       "options": [
-       "Fell fastest",
        "Took longest to fall",
+       "Fell fastest",
        "Was heaviest"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A tall bar means the spinner took longest to fall. The bars show seconds, so taller means slower. Picking 'fell fastest' is a common mix-up, because tall bars often mean 'best' or 'fastest'. Always read the label on the side of the chart."
      }
     },
@@ -1632,11 +1632,11 @@
       "t": "mcq",
       "q": "In the Air Is Real activity, running with the card held flat was harder. Why?",
       "options": [
-       "The air pushed back on the card",
        "The card got heavier",
-       "The floor was rough"
+       "The floor was rough",
+       "The air pushed back on the card"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The air pushed back on the card. A flat card pushes against lots of air, so lots of air pushes back. Picking 'the card got heavier' misses that it was the same card both times. Picking 'the floor was rough' misses that your feet were the same both times. Only the card changed."
      }
     },
@@ -1734,11 +1734,11 @@
       "t": "mcq",
       "q": "In the hair dryer activity, what holds the ping-pong ball up?",
       "options": [
-       "Moving air pushing on it",
        "The dryer pulls it like a magnet",
-       "Nothing, it is too light to fall"
+       "Nothing, it is too light to fall",
+       "Moving air pushing on it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Moving air holds the ball up, by pushing on it from below. Picking 'pulls it like a magnet' gives the dryer a pull it doesn't have. It only blows. Picking 'too light to fall' misses that the ball drops as soon as the dryer is switched off."
      }
     }
@@ -1806,10 +1806,10 @@
       "q": "In the Flying Seed Hunt, a mahogany seed spins while falling. Which kind of flying seed is this?",
       "options": [
        "A parachute",
-       "A spinner",
-       "They don't fly at all"
+       "They don't fly at all",
+       "A spinner"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A spinner is right. The single wing makes mahogany seeds whirl as they fall, which slows them down. Picking 'a parachute' mixes them up with fluffy seeds like aak and dandelion. Picking 'they don't fly at all' misses that they fall slowly enough for the wind to carry them."
      }
     },
@@ -1976,11 +1976,11 @@
       "t": "mcq",
       "q": "In the Be the Air play, which way did the tilted wing send the air molecules?",
       "options": [
-       "Downwards",
        "Upwards",
-       "Nowhere"
+       "Nowhere",
+       "Downwards"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Downwards is right. The tilted wing pushed the molecules down, and they pushed the wing up. That is lift. Picking 'upwards' turns the picture over. Picking 'nowhere' misses that every bump changed a molecule's direction."
      },
      "think": "Imagine a wing in space, where there are no molecules underneath it. What would push the wing up?",
@@ -2196,11 +2196,11 @@
       "t": "mcq",
       "q": "In the kite project, your kite spins round and round in the air. What should you try first?",
       "options": [
-       "Make the tail longer",
        "Let the string go slack",
-       "Cut the tail off"
+       "Cut the tail off",
+       "Make the tail longer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A longer tail is right. It adds drag at the back and keeps the kite's nose pointing into the wind. Picking 'let the string go slack' makes the kite sag and tumble. Picking 'cut the tail off' usually makes the spinning worse."
      }
     },
@@ -2433,12 +2433,12 @@
      "t": "mcq",
      "p": "Why does a kite need its string?",
      "opts": [
-      "To pull it up into the sky",
       "To hold it back against the wind, so the wind pushes it up",
+      "To pull it up into the sky",
       "To stop birds from catching it",
       "It doesn't. The string only helps you find it"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The wind pushes the kite, and the string holds it back. The tilted kite turns that push upwards. Picking 'to pull it up' is a common idea, but the string pulls down and forward, never up. Without the string, the kite blows away and tumbles."
     },
     {
@@ -2487,12 +2487,12 @@
      "t": "mcq",
      "p": "Cheels circle high over a city at midday without flapping. What keeps them up?",
      "opts": [
-      "Rising warm air, called thermals",
       "They are lighter than air",
+      "Rising warm air, called thermals",
       "The wind from cars",
       "They are sleeping"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Hot ground warms the air above it, and the warm air rises in bubbles. The birds circle inside and are carried up. Picking 'lighter than air' means birds are being mixed up with balloons. Birds are heavier than air. Wings and rising air hold them up."
     },
     {
@@ -2532,12 +2532,12 @@
      "t": "mcq",
      "p": "Why do many plants make seeds that fly?",
      "opts": [
-      "So the seeds can travel far from the parent plant, to new ground",
       "So birds can't eat them",
       "To keep the seeds dry",
-      "To make the parent tree lighter"
+      "To make the parent tree lighter",
+      "So the seeds can travel far from the parent plant, to new ground"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A seed that lands under their parent must share light and water. A seed that travels can find space of their own. Picking 'to keep the seeds dry' misses that a flying seed lands in rain and sun like any other. Over a very long time, plants whose seeds travelled further had more young plants growing in new places."
     },
     {
@@ -2598,10 +2598,10 @@
      "p": "Look at the chart of the Paper Clip Pilot results. Which plane flew furthest?",
      "opts": [
       "No clip",
-      "1 clip on the nose",
-      "3 clips on the nose"
+      "3 clips on the nose",
+      "1 clip on the nose"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The tallest bar is the plane with 1 clip, at 6 metres. Picking 3 clips usually means 'more weight is better'. Too much weight on the nose makes the plane dive.",
      "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
      "how": "e1",
@@ -2634,12 +2634,12 @@
      "t": "mcq",
      "p": "In the Seed Spinners test, you take the paper clip off a spinner. What will most likely happen?",
      "opts": [
-      "It tumbles and flutters instead of spinning steadily",
       "It falls much faster",
       "It flies upwards",
-      "Nothing changes"
+      "Nothing changes",
+      "It tumbles and flutters instead of spinning steadily"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The clip keeps the heavy end at the bottom, so the wings spin evenly. Real winged seeds carry their heavy seed at one end in the same way. Picking 'falls faster' is a fair guess, since it is lighter. But without the weight it doesn't spin well, so it flutters about.",
      "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
      "how": "e2"
@@ -2714,12 +2714,12 @@
      "t": "mcq",
      "p": "Flying squirrels glide from tree to tree. Why can't they keep flying upwards like birds?",
      "opts": [
-      "They have no flapping wings, so they have no thrust. They can only glide down",
       "They are too heavy",
       "Squirrels are scared of heights",
+      "They have no flapping wings, so they have no thrust. They can only glide down",
       "Trees pull them back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A glider makes lift, but nothing pushes them forward. So they must slowly sink to keep moving. Picking 'too heavy' often means weight is thought to be the only thing that matters. Many birds weigh more than flying squirrels and still fly."
     },
     {
@@ -2821,24 +2821,24 @@
      "t": "mcq",
      "p": "Deep down, what is air pressure?",
      "opts": [
-      "Countless tiny air molecules bumping into a surface",
       "The weight of clouds",
+      "Countless tiny air molecules bumping into a surface",
       "The wind",
       "Gravity pulling sideways"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Air molecules zoom about at roughly 500 metres a second and bump into everything. Those bumps are air pressure. Picking 'the wind' is close, but there is air pressure even in perfectly still air."
     },
     {
      "t": "mcq",
      "p": "Under a moving wing, molecules bump a little harder than on top. What does this make?",
      "opts": [
-      "Lift",
       "Drag only",
+      "Lift",
       "Weight",
       "Nothing"
      ],
-     "a": 0,
+     "a": 1,
      "why": "More push underneath than on top gives an upward push: lift. Picking 'weight' mixes up gravity, which pulls down, with the air's push, which pushes up."
     },
     {
@@ -2873,24 +2873,24 @@
      "t": "mcq",
      "p": "Stunt planes can fly upside down. What does this tell us?",
      "opts": [
-      "A curved top is not the only secret. The tilt of the wing matters too",
       "Upside-down planes have no weight",
       "Gravity is weaker upside down",
-      "The pilot holds the plane up"
+      "The pilot holds the plane up",
+      "A curved top is not the only secret. The tilt of the wing matters too"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Upside down, the curved side is underneath. The pilot tilts the wing so it still turns air downwards. Picking 'gravity is weaker' is a natural guess. But gravity is the same whichever way up you are."
     },
     {
      "t": "mcq",
      "p": "In the Hand Wing test, tilting your hand very steeply made it wobble and get pushed back. What is this called on a real wing?",
      "opts": [
-      "A stall",
       "A thermal",
       "Thrust",
-      "A glide"
+      "A glide",
+      "A stall"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When a wing is tilted too steeply, the air can't follow its top surface. It tumbles, and the wing loses most of its lift. Picking 'thrust' mixes up a backward push, drag, with a forward one.",
      "context": "In the Hand Wing experiment, you hold your flat hand in front of a fan and tilt it different amounts.",
      "how": "e3"
@@ -2899,12 +2899,12 @@
      "t": "mcq",
      "p": "Mars has only about 1 hundredth as much air as Earth. What did the Ingenuity helicopter have to do to fly there?",
      "opts": [
-      "Spin its blades very fast, about 2,400 times a minute",
       "Use no blades at all",
       "Use the same blades and speed as a helicopter on Earth",
-      "Wait for a wind"
+      "Wait for a wind",
+      "Spin its blades very fast, about 2,400 times a minute"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With so little air to push, its blades had to move very fast to push enough air down. Picking 'no blades' means it is being mixed up with a rocket.",
      "context": "In 2021, a small NASA helicopter called Ingenuity made the first powered flight on another planet, Mars."
     },
@@ -3004,12 +3004,12 @@
    "t": "mcq",
    "p": "What is air?",
    "opts": [
-    "A real material made of tiny moving particles",
     "Nothing at all",
     "Only the wind",
-    "A kind of light"
+    "A kind of light",
+    "A real material made of tiny moving particles"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 0,
    "why": "Air is a real material. It fills space and pushes. Picking 'nothing' is very common, because we can't see it. An upside-down glass under water shows it is there."
   },
@@ -3029,11 +3029,11 @@
    "t": "mcq",
    "p": "Which force pushes back against a plane moving through the air?",
    "opts": [
-    "Drag",
     "Lift",
-    "Weight"
+    "Weight",
+    "Drag"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
    "why": "Drag is the air pushing back. Picking weight usually means every force is thought to point down."
   },
@@ -3053,11 +3053,11 @@
    "t": "mcq",
    "p": "A kite flies best when the flyer…",
    "opts": [
-    "Stands with the wind on their back and keeps the string tight",
     "Runs along with the wind",
-    "Lets the string go slack"
+    "Lets the string go slack",
+    "Stands with the wind on their back and keeps the string tight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wind pushes the kite, and the tight string holds it, so the tilted kite turns that push upwards. Picking 'runs with the wind' sounds right, but then the air hardly moves past the kite.",
    "outcome": 2
   },
@@ -3079,11 +3079,11 @@
    "t": "mcq",
    "p": "In the Seed Spinners test, why do you drop each spinner three times?",
    "opts": [
-    "One drop can be a fluke, so three drops show the real result",
     "To make the spinner tired",
+    "One drop can be a fluke, so three drops show the real result",
     "Because the first drop never counts"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A puff of air or a wobbly hand can spoil one drop. Three drops let you take the middle time. Picking 'the first never counts' is not a rule. Every careful drop counts.",
    "outcome": 3,
    "how": "e2",
@@ -3105,11 +3105,11 @@
    "t": "mcq",
    "p": "Which seed spins like a helicopter while falling?",
    "opts": [
-    "A mahogany seed",
     "A mango seed",
-    "A coconut"
+    "A coconut",
+    "A mahogany seed"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Mahogany seeds have one papery wing and spin down. Picking coconut is a good thought about travelling seeds. But coconuts travel by floating on the sea, not by flying."
   },
@@ -3117,11 +3117,11 @@
    "t": "mcq",
    "p": "What do gliders, flying squirrels and paper planes all have in common?",
    "opts": [
-    "They have no thrust of their own, so they slowly sink as they fly",
     "They all flap",
-    "They are lighter than air"
+    "They are lighter than air",
+    "They have no thrust of their own, so they slowly sink as they fly"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Gliders make lift but have no forward push, so they slowly sink. Picking 'they all flap' misses that gliding means holding still wings."
   },
@@ -3129,11 +3129,11 @@
    "t": "mcq",
    "p": "A sparrow and a vulture both fly by flapping. Which one beats their wings faster?",
    "opts": [
-    "The sparrow, because small wings push less air with each beat",
     "The vulture, because a big bird needs more beats",
-    "Both beat at the same speed"
+    "Both beat at the same speed",
+    "The sparrow, because small wings push less air with each beat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each beat of a small wing pushes only a little air down. So a sparrow must beat many times a second to stay up. A vulture's huge wings push lots of air with each slow beat, and they often soar without flapping at all. Picking 'the vulture' makes sense, since big birds are heavier. But their big wings push more air.",
    "outcome": 4
   },
@@ -3153,11 +3153,11 @@
    "t": "mcq",
    "p": "A wind tunnel film shows smoke over the top of a wing reaching the back first, long before the smoke underneath. What does this show?",
    "opts": [
-    "The 'equal time' explanation in many old books is wrong",
     "Wings don't need air",
+    "The 'equal time' explanation in many old books is wrong",
     "The smoke was too heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The old explanation says the two streams must meet at the back. The smoke shows they don't. Picking 'wings don't need air' goes the wrong way. The film shows the wing is working on the air.",
    "outcome": 5
   },
@@ -3165,11 +3165,11 @@
    "t": "mcq",
    "p": "Some scientists think the first birds began to fly by gliding down from trees. Others think they flapped while running up slopes. How could fossils help decide?",
    "opts": [
-    "Climbing bodies support gliding. Running bodies support flapping",
     "Fossils cannot tell us anything",
+    "Climbing bodies support gliding. Running bodies support flapping",
     "Only a living dinosaur could tell us"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bones show how an animal lived: claws and legs for climbing, or long legs for running. Scientists agree birds came from small feathered dinosaurs, but they still argue about how flapping began.",
    "outcome": 6
   },
@@ -3177,11 +3177,11 @@
    "t": "mcq",
    "p": "For thousands of years, people strapped on big wings and tried to fly by flapping their arms. Why did it never work?",
    "opts": [
-    "Human arms are too weak to push enough air down to lift our heavy bodies",
     "Feathers were too expensive",
+    "Human arms are too weak to push enough air down to lift our heavy bodies",
     "There was no air long ago"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 6,
    "why": "To stay up, wings must push a lot of air down, all the time. Birds have huge chest muscles and light bones. Our arms are far too weak for our weight, so people only flew once engines did the pushing."
   }

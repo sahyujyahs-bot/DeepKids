@@ -596,10 +596,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 ## Worksheets
 ### Pairs, joints and three kinds of skeleton (core) (core, 17 questions)
 1. (mcq) What can a muscle do?  
-   Options: Pull only / Push only / Pull and push / Neither, it only holds  
+   Options: Push only / Pull and push / Pull only / Neither, it only holds  
    **Answer:** Pull only. *Why:* A muscle works by getting shorter, and a thing that gets shorter pulls. The threads inside it have no way to push apart.
 2. (mcq) Which two muscles are the antagonistic pair of the elbow?  
-   Options: Biceps and triceps / Biceps and calf / Triceps and shin muscle / Biceps and tendon  
+   Options: Biceps and calf / Triceps and shin muscle / Biceps and triceps / Biceps and tendon  
    **Answer:** Biceps and triceps. *Why:* The biceps bends the elbow and the triceps straightens it. A tendon is a cord, not a muscle.
 3. (fill) A muscle that bends a joint is called a ____.  
    **Answer:** ['flexor']. *Why:* A flexor bends a joint. An extensor straightens it.
@@ -619,10 +619,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 10. (order) Put these in order, from a whole muscle down to its smallest part.  
    **Answer:** ['Muscle', 'Bundle of fibres', 'Muscle fibre', 'Actin and myosin threads']. *Why:* A muscle is made of bundles. A bundle is made of fibres, which are cells. Each fibre is packed with actin and myosin threads.
 11. (mcq) An earthworm's circular muscles contract. What happens to the segment?  
-   Options: It gets longer and thinner / It gets shorter and fatter / It curls sideways / It gets smaller all over  
+   Options: It gets shorter and fatter / It curls sideways / It gets smaller all over / It gets longer and thinner  
    **Answer:** It gets longer and thinner. *Why:* The liquid inside keeps its volume. A segment squeezed thinner must get longer.
 12. (mcq) Which of these has no bone in it at all?  
-   Options: Your tongue / Your thumb / Your jaw / Your heel  
+   Options: Your thumb / Your tongue / Your jaw / Your heel  
    **Answer:** Your tongue. *Why:* A tongue is almost all muscle. Thumb, jaw and heel each have bone.
 13. (write) Why does every muscle need a partner? Use the words 'pull' and 'long'.  
    **Answer:** A muscle can only pull by getting shorter. It cannot make itself long again. So something else, usually another muscle, must pull it long before it can work again.. *Why:* A strong answer says that a muscle only shortens, and that the partner's job is to stretch it back.
@@ -636,7 +636,7 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** fingers writing → Voluntary; feet kicking a football → Voluntary; heart beating → Involuntary; intestines squeezing food along → Involuntary. *Why:* You decide when to write or kick, so those muscles are voluntary. Your heart and intestines keep working without you deciding.
 ### Inside the muscle and inside the joint (stretch) (stretch, 16 questions)
 1. (mcq) Under a microscope, what happens to the threads inside a muscle fibre when it contracts?  
-   Options: They slide past each other / They shrink / They coil up like springs / They melt together  
+   Options: They shrink / They coil up like springs / They melt together / They slide past each other  
    **Answer:** They slide past each other. *Why:* The actin and myosin threads keep their length and overlap more. Scientists once thought they folded or coiled, and in 1954 two teams showed otherwise.
 2. (mcq) What does a myosin arm need in order to let go of actin?  
    Options: ATP / Oxygen gas / A push from actin / Nothing  
@@ -644,14 +644,14 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 3. (truefalse) A body goes stiff some hours after death because the muscles have run out of ATP.  
    **Answer:** True. *Why:* True. Without ATP the myosin arms cannot let go of actin, so the muscles lock. The stiffness passes when the threads begin to break down.
 4. (mcq) You lower a full bucket slowly into a well. Which arm muscle works hardest?  
-   Options: The biceps, letting the arm down / The triceps, pushing the arm down / No muscle, because gravity does it / The calf  
+   Options: The triceps, pushing the arm down / The biceps, letting the arm down / No muscle, because gravity does it / The calf  
    **Answer:** The biceps, letting the arm down. *Why:* Gravity straightens the elbow. The biceps works to let the arm down slowly, so it works while it gets longer.
 5. (fill) Cartilage has no ____ vessels, so it takes its food from the fluid in the joint.  
    **Answer:** ['blood']. *Why:* Cartilage has no blood supply of its own. This is one reason why damaged cartilage heals slowly.
 6. (match) Match each part to what it does in a joint.  
    **Answer:** Cartilage → Covers the bone ends smoothly; Synovial fluid → Makes the surfaces slippery; Ligament → Ties bone to bone; Tendon → Ties muscle to bone. *Why:* Each part has one main job. Together they let a joint move smoothly without coming apart.
 7. (mcq) Where are the muscles that bend and straighten your fingers?  
-   Options: Mostly in the forearm / Inside each finger / In the palm only / In the upper arm  
+   Options: Inside each finger / In the palm only / Mostly in the forearm / In the upper arm  
    **Answer:** Mostly in the forearm. *Why:* Long tendons carry the pull from forearm muscles to the finger bones. You can feel the muscles work near your elbow when you wiggle your fingers.
 8. (mcq) At two main joints of a spider's leg, what straightens the leg?  
    Options: The pressure of the spider's blood / An extensor muscle / A spring of silk / The weight of the leg  
@@ -675,10 +675,10 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** elbow → Movable; knee → Movable; wrist → Movable; between the plates of the skull → Immovable. *Why:* The elbow, knee and wrist bend or turn. The skull plates are locked together to protect the brain.
 ### Tongues, moults and fair tests (challenge) (challenge, 16 questions)
 1. (mcq) A tongue gets a little narrower and thinner. What happens to its length?  
-   Options: It grows by a lot / It grows by the same small amount / It stays the same / It gets shorter  
+   Options: It grows by the same small amount / It stays the same / It grows by a lot / It gets shorter  
    **Answer:** It grows by a lot. *Why:* The volume stays the same. A small squeeze in two directions gives a large gain in length. That is why hydrostats can reach far and fast.
 2. (mcq) Why does a freshly moulted crab move so poorly?  
-   Options: Soft tubes bend when muscles pull / The muscles have been shed too / The crab is asleep / The new shell is too heavy  
+   Options: The muscles have been shed too / The crab is asleep / Soft tubes bend when muscles pull / The new shell is too heavy  
    **Answer:** Soft tubes bend when muscles pull. *Why:* A muscle needs something stiff to pull against. Until the new exoskeleton hardens, the tubes give way under the pull.
 3. (mcq) A plant has no muscles. How does a touch-me-not fold a leaf?  
    Options: Cells on one side let water out / A tendon pulls the leaf / The leaf dries up / Wind pushes the leaf  
@@ -694,7 +694,7 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 8. (count) A dough roll 2 centimetres wide is 5 centimetres long. Rolled to 1 centimetre wide, about how many centimetres long is it?  
    **Answer:** 20. *Why:* Half the width gives about four times the length. 5 times 4 is 20 centimetres.
 9. (mcq) Scientists disagree about why no insect is as big as a dog. What should you say?  
-   Options: Several ideas are being tested / It is because of oxygen / It is because of moulting / Nobody has studied it  
+   Options: It is because of oxygen / Several ideas are being tested / It is because of moulting / Nobody has studied it  
    **Answer:** Several ideas are being tested. *Why:* Oxygen supply, moulting, weight and being hunted by birds and bats have all been suggested. A 2026 study argued against the oxygen idea. It is honest to say the question is open.
 10. (write) Explain how you stick out your tongue, to someone who knows that muscles only pull.  
    **Answer:** Fibres that run across the tongue and from top to bottom contract. The tongue gets narrower and thinner. Its volume cannot change, so it gets longer and comes forward. A muscle from the chin also pulls the back of the tongue forward.. *Why:* A strong answer has no pushing muscle in it. It uses the idea that the tongue keeps its volume.
@@ -718,49 +718,49 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 
 ## Quiz
 1. (mcq) Why can a muscle not push?  
-   Options: Its threads can only slide together / It is too soft / Bones get in the way / It has no nerves  
+   Options: It is too soft / Its threads can only slide together / Bones get in the way / It has no nerves  
    **Answer:** Its threads can only slide together. *Why:* The myosin arms drag the actin threads inwards. Nothing in the fibre can drive the threads apart again.
 2. (mcq) What stretches your biceps back to its long shape?  
-   Options: The triceps, or gravity / The biceps itself / The elbow bone / The blood  
+   Options: The biceps itself / The elbow bone / The blood / The triceps, or gravity  
    **Answer:** The triceps, or gravity. *Why:* A muscle cannot lengthen itself. The triceps straightens the elbow and stretches the biceps. The weight of the arm can do it too.
 3. (mcq) Which joint is a ball and socket?  
-   Options: The hip / The knee / The wrist / A finger joint  
+   Options: The knee / The wrist / The hip / A finger joint  
    **Answer:** The hip. *Why:* The round top of the thigh bone sits in a cup in the hip bone. The knee and finger joints are hinges.
 4. (mcq) Which kind of joint lets you shake your head to say no?  
-   Options: Pivot / Hinge / Saddle / Gliding  
+   Options: Hinge / Pivot / Saddle / Gliding  
    **Answer:** Pivot. *Why:* At the top of the neck, one bone turns round a peg on the bone below. That is a pivot.
 5. (mcq) What does cartilage do in a joint?  
-   Options: Gives the bone ends a smooth cap / Ties bone to bone / Pulls the bone / Makes blood  
+   Options: Ties bone to bone / Pulls the bone / Gives the bone ends a smooth cap / Makes blood  
    **Answer:** Gives the bone ends a smooth cap. *Why:* Smooth cartilage on smooth cartilage, wetted by synovial fluid, slides with very little friction. Ligaments tie bone to bone.
 6. (mcq) A beetle's leg muscles are where?  
-   Options: Inside the hard tubes of the leg / On the outside of the shell / Only in the body, not the legs / Beetles have no muscles  
+   Options: On the outside of the shell / Inside the hard tubes of the leg / Only in the body, not the legs / Beetles have no muscles  
    **Answer:** Inside the hard tubes of the leg. *Why:* A beetle has an exoskeleton. The muscles are inside it and pull on the inner side of the shell.
 7. (mcq) What is the biggest cost of an exoskeleton?  
    Options: The animal must moult to grow / It is always too heavy / It cannot have joints / Muscles cannot pull on it  
    **Answer:** The animal must moult to grow. *Why:* A hard shell cannot grow. Each moult leaves the animal soft, slow and without armour for a time.
 8. (mcq) What is an earthworm's skeleton made of?  
-   Options: Liquid shut inside each segment / Tiny bones / Chitin / Hard skin  
+   Options: Tiny bones / Chitin / Hard skin / Liquid shut inside each segment  
    **Answer:** Liquid shut inside each segment. *Why:* Each segment is a closed bag of liquid wrapped in muscle. The liquid keeps its volume, so the muscles can work against it.
 9. (mcq) A roll of dough is squeezed to half its width. How long does it become?  
-   Options: About four times as long / Twice as long / The same length / Half as long  
+   Options: Twice as long / The same length / About four times as long / Half as long  
    **Answer:** About four times as long. *Why:* The roll gets narrower in two directions at once, so the same dough needs about four times the length. If you chose 'twice', remember that it also got thinner from top to bottom.
 10. (mcq) How does your tongue come out of your mouth?  
-   Options: Muscles pull it thinner, so it gets longer / A muscle behind it pushes / Air pressure pushes it / A bone slides forward  
+   Options: A muscle behind it pushes / Muscles pull it thinner, so it gets longer / Air pressure pushes it / A bone slides forward  
    **Answer:** Muscles pull it thinner, so it gets longer. *Why:* A tongue is a muscular hydrostat. Its volume stays the same, so when fibres pull it narrower and thinner it must lengthen.
 11. (mcq) Which of these is a muscular hydrostat?  
-   Options: An octopus's arm / A crab's leg / A bird's wing / A cat's tail  
+   Options: A crab's leg / An octopus's arm / A bird's wing / A cat's tail  
    **Answer:** An octopus's arm. *Why:* An octopus's arm is almost all muscle, with no bone and no shell. A crab's leg has a shell, and a wing and a tail have bones.
 12. (mcq) In a fair test of finger lifting, what must stay the same for every finger?  
-   Options: How the height is measured / Which finger is lifted / The height reached / Nothing  
+   Options: Which finger is lifted / The height reached / How the height is measured / Nothing  
    **Answer:** How the height is measured. *Why:* Only the finger changes. The ruler, the helper, the hand position and the way of measuring stay the same, so the numbers can be compared.
 13. (mcq) Which is the longest bone in an adult's body?  
    Options: The thigh bone / The bone of the upper arm / The bone of the spine / The bone of the skull  
    **Answer:** The thigh bone. *Why:* The thigh bone runs from the hip to the knee and is the longest bone we have. The smallest bone is not in the arm or the leg at all. It is deep inside the ear.
 14. (mcq) Which of these joints does not move?  
-   Options: The plates of the skull / The elbow / The knee / A finger joint  
+   Options: The elbow / The plates of the skull / The knee / A finger joint  
    **Answer:** The plates of the skull. *Why:* The plates of the skull lock together and do not move, to protect the brain. The elbow, knee and finger joints are movable joints.
 15. (mcq) Which muscle keeps working while you are fast asleep, without you deciding?  
-   Options: The heart / The muscle that lifts your finger / The muscle that moves your tongue to speak / The muscle that kicks a ball  
+   Options: The muscle that lifts your finger / The muscle that moves your tongue to speak / The heart / The muscle that kicks a ball  
    **Answer:** The heart. *Why:* The heart is an involuntary muscle. It works all day and night without being told. The other three are voluntary muscles. They move only when you decide.
 
 ## Applications

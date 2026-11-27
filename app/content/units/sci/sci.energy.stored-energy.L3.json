@@ -549,11 +549,11 @@
       "t": "mcq",
       "q": "Which card shows energy waiting in height?",
       "options": [
-       "A toy car racing across the floor",
        "A water tank on the roof",
+       "A toy car racing across the floor",
        "A plate of idli"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water in a tank on the roof is high up, so energy waits in its height. It comes out when a tap is opened. The racing car's energy is moving. The idli stores food energy, not height."
      }
     }
@@ -764,11 +764,11 @@
       "t": "mcq",
       "q": "You wind a roll-back jar 1 turn, and then 4 turns. What will you find?",
       "options": [
-       "It rolls back the same distance both times",
        "It rolls back further after 4 turns",
+       "It rolls back the same distance both times",
        "It rolls back further after 1 turn"
       ],
-      "a": 1,
+      "a": 0,
       "why": "More turns twist the band more, so it holds more energy, and the jar rolls back further. If your own results did not show this, check that you let go gently without pushing, and that the padlock does not rub the side of the jar."
      }
     },
@@ -792,10 +792,10 @@
       "q": "In the wait test, the jar was held still for a minute and then rolled back. Where was the energy during that minute?",
       "options": [
        "In the padlock",
-       "In the twisted rubber band",
-       "It had gone, and came back from the floor"
+       "It had gone, and came back from the floor",
+       "In the twisted rubber band"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The energy waited in the twisted rubber band. The padlock only holds the middle of the band still, so that rolling the jar twists it. Picking 'the floor' is a fair guess, because the floor helps the jar roll, but the floor was the same before and after. The band was the thing that was twisted."
      }
     }
@@ -1076,10 +1076,10 @@
       "q": "A clothes peg is pinching a towel on the line. What kind of store is in the peg?",
       "options": [
        "A height store",
-       "A shape store, in its squashed spring",
-       "A food store"
+       "A food store",
+       "A shape store, in its squashed spring"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A clothes peg has a small metal spring that is squashed when the peg is closed on the towel. The squashed spring holds energy, and it pinches the towel. A peg on the line is a little high up too, but the pinch comes from the spring."
      }
     }
@@ -1238,11 +1238,11 @@
       "t": "mcq",
       "q": "Which kind of food stores the most energy for its weight?",
       "options": [
-       "Fats and oils",
        "Fresh fruit",
-       "Sugar"
+       "Sugar",
+       "Fats and oils"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fats and oils store the most energy for their weight, about twice as much as sugar, rice or dal. Fresh fruit stores the least, because most of a fruit is water. Seeds like groundnuts are full of oil, packed in by their parent plant to feed the young plant."
      }
     }
@@ -1412,10 +1412,10 @@
       "q": "When the twirling button stops for a moment, where is its energy?",
       "options": [
        "It has all gone",
-       "In the twisted string",
-       "In your hands only"
+       "In your hands only",
+       "In the twisted string"
       ],
-      "a": 1,
+      "a": 2,
       "why": "At the moment the button stops, the string is twisted tight, and the energy waits in the twist. Then the string untwists and spins the button again. Your pull adds a little more energy each time, to make up for what spreads out as sound and warmth."
      }
     }
@@ -1514,10 +1514,10 @@
       "q": "In a battery diary, a phone's number jumps from 20 to 100 overnight. What happened?",
       "options": [
        "The phone made its own energy while it rested",
-       "The phone was charged, so energy from the wall was stored in its battery",
-       "The number was wrong"
+       "The number was wrong",
+       "The phone was charged, so energy from the wall was stored in its battery"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Charging pushes energy from the wall socket into the battery's chemicals, where it is stored. A phone cannot make its own energy. A battery only holds what it is given."
      }
     }
@@ -1592,10 +1592,10 @@
       "q": "Someone changed two things on a roll-back jar at once, and the jar went further. What is the problem?",
       "options": [
        "Nothing. It went further, so both changes helped",
-       "They cannot tell which change helped",
-       "They should have changed three things"
+       "They should have changed three things",
+       "They cannot tell which change helped"
       ],
-      "a": 1,
+      "a": 2,
       "why": "With two changes at once, nobody can tell which one helped. One might have helped a lot and the other might even have made it worse. Changing one thing at a time is what makes a test fair."
      }
     }
@@ -1667,11 +1667,11 @@
       "t": "mcq",
       "q": "The marble starts at the same height for the straight drop and for the zigzag track. Which is true?",
       "options": [
-       "The track gives the marble more energy",
        "The marble has the same energy waiting, but the track lets it out more slowly",
+       "The track gives the marble more energy",
        "The marble has no energy on the track"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The marble starts at the same height, so the same energy is waiting. The gentle slopes let it come out a little at a time, so the marble never goes very fast. Some energy also spreads out as sound and warmth, as the marble rolls and bumps."
      }
     }
@@ -1720,10 +1720,10 @@
    "p": "What is stored energy?",
    "opts": [
     "Energy that is moving right now",
-    "Energy waiting in a thing, ready to come out later",
-    "Energy that has been used up"
+    "Energy that has been used up",
+    "Energy waiting in a thing, ready to come out later"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Stored energy waits until it is released. Picking 'used up' is a common mix-up. Energy that has been used has spread out. It is no longer stored.",
    "outcome": 0
   },
@@ -1743,11 +1743,11 @@
    "t": "mcq",
    "p": "In the roll-back jar, what does winding more turns do?",
    "opts": [
-    "Stores more energy in the twisted band, so the jar rolls back further",
     "Makes the padlock lighter",
-    "Uses up the jar's energy"
+    "Uses up the jar's energy",
+    "Stores more energy in the twisted band, so the jar rolls back further"
    ],
-   "a": 0,
+   "a": 2,
    "why": "More turns mean more twist, and more twist holds more energy. That is why the jar rolled back further after 4 turns than after 1.",
    "outcome": 1,
    "how": "e1"
@@ -1756,11 +1756,11 @@
    "t": "mcq",
    "p": "A roll-back jar is wound 3 turns and held still for a minute. What happens when it is let go?",
    "opts": [
-    "Nothing, because the energy leaked away",
     "It rolls back about as far as without the wait",
+    "Nothing, because the energy leaked away",
     "It rolls back much further, because it rested"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The energy waited in the twisted band, so it still rolls back about as far. Waiting does not add energy, and in one minute the band loses only a tiny bit.",
    "outcome": 2,
    "how": "e1"
@@ -1781,11 +1781,11 @@
    "t": "mcq",
    "p": "Where does the water in the tank on the roof get the energy to flow to the taps?",
    "opts": [
-    "From its height, because a motor pumped it up there",
     "From the taps",
+    "From its height, because a motor pumped it up there",
     "From the pipes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The motor lifted the water and stored energy in its height. When a tap is opened, the water falls and that energy comes out.",
    "outcome": 3
   },
@@ -1805,11 +1805,11 @@
    "t": "mcq",
    "p": "Where did almost all the energy in a plate of ragi dosa first come from?",
    "opts": [
-    "The gas stove",
     "Sunlight caught by the ragi plants",
+    "The gas stove",
     "The water in the batter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ragi plants caught sunlight and stored its energy in their grains. The stove only cooks the dosa. Picking the stove is a common guess, because the stove makes heat.",
    "outcome": 4
   },
@@ -1830,11 +1830,11 @@
    "t": "mcq",
    "p": "Why can a tired cell that dims a torch often still run a wall clock?",
    "opts": [
-    "A clock needs only a tiny flow of electricity",
     "A clock charges the cell",
-    "A clock uses no energy"
+    "A clock uses no energy",
+    "A clock needs only a tiny flow of electricity"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A torch needs a big flow and a clock needs only a trickle. A tired cell can still push a trickle. A clock does use energy, just very little.",
    "outcome": 5,
    "how": "e2"
@@ -1844,10 +1844,10 @@
    "p": "Which of these is a safe thing to do with an ordinary AA cell?",
    "opts": [
     "Charge it in a phone charger",
-    "Put a tired one in a clock, and drop a finished one in e-waste",
-    "Open it to see the chemicals"
+    "Open it to see the chemicals",
+    "Put a tired one in a clock, and drop a finished one in e-waste"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Charging an ordinary cell can make it burst, and the chemicals inside can burn skin. Using it until it is finished, then giving it to e-waste, is safe.",
    "outcome": 5
   },
@@ -1856,10 +1856,10 @@
    "p": "After you run, you feel warm and you are soon hungry. Where does the energy for your warmth and movement come from?",
    "opts": [
     "A special life force",
-    "The energy stored in the food you ate",
-    "The heat of the Sun on your skin"
+    "The heat of the Sun on your skin",
+    "The energy stored in the food you ate"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your body slowly uses the energy stored in food to keep warm and to move. That is why you get hungry after hard work. Picking the Sun on your skin forgets that you stay warm at night too.",
    "outcome": 6
   }
@@ -2044,11 +2044,11 @@
      "t": "mcq",
      "p": "Which of these has energy waiting in its shape?",
      "opts": [
-      "A mattress with a child sitting on it",
       "A ball rolling across the floor",
-      "A torch shining"
+      "A torch shining",
+      "A mattress with a child sitting on it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The mattress is squashed, and a squashed mattress holds energy that pushes the child back up when they stand. The rolling ball and the shining torch have energy that is moving now."
     },
     {
@@ -2080,10 +2080,10 @@
      "p": "Someone says, 'My roll-back jar came back past the start line, so it got extra energy from somewhere.' What really happened?",
      "opts": [
       "It got energy from the floor",
-      "It was moving fast at the start line, so it twisted the band the other way and kept going a little",
-      "The padlock pushed it"
+      "The padlock pushed it",
+      "It was moving fast at the start line, so it twisted the band the other way and kept going a little"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At the start line the band is untwisted, but the jar is moving fast. It keeps rolling and twists the band the other way, until it stops. It never gets more energy than was put in. It just changes between movement and twist.",
      "how": "e1"
     },
@@ -2154,10 +2154,10 @@
      "p": "A tall bottle full of water has three holes: one near the top, one in the middle and one near the bottom. Which jet of water shoots out hardest?",
      "opts": [
       "The top hole",
-      "The middle hole",
-      "The bottom hole"
+      "The bottom hole",
+      "The middle hole"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The bottom hole has the most water above it. The top of the water has furthest to fall to reach that hole, so its jet is fastest.",
      "how": "a4"
     },
@@ -2180,10 +2180,10 @@
      "p": "Why does a seed carry a store of food?",
      "opts": [
       "To feed birds",
-      "To grow a root and a shoot in the dark soil, before they have leaves to catch sunlight",
-      "To make the seed heavy so they fall"
+      "To make the seed heavy so they fall",
+      "To grow a root and a shoot in the dark soil, before they have leaves to catch sunlight"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A young plant cannot make food until their first leaves reach the light. Until then, they live on the store their parent packed into the seed. Birds do eat seeds, but that is not what the store is for."
     },
     {
@@ -2310,11 +2310,11 @@
      "t": "mcq",
      "p": "A roll-back jar is wound 10 turns, much more than before. The padlock flips over inside, and the jar does not roll back at all. Why?",
      "opts": [
-      "10 turns removed all the energy",
       "The twist pulled so hard that it swung the padlock over, so the band unwound inside instead of turning the jar",
+      "10 turns removed all the energy",
       "The jar was too heavy"
      ],
-     "a": 1,
+     "a": 0,
      "why": "With too many turns, the band pulls harder than the padlock's weight can resist. The padlock swings up and over, and the band unwinds without turning the jar. With a heavier weight, the jar could be wound more turns.",
      "how": "e1"
     },
@@ -2448,11 +2448,11 @@
      "t": "mcq",
      "p": "During a power cut, an inverter keeps a fan turning. Where does the fan's energy come from?",
      "opts": [
-      "From the inverter's battery, which was charged while the power was on",
       "From the fan itself",
+      "From the inverter's battery, which was charged while the power was on",
       "From the air in the room"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The battery stores chemical energy that was put in while the power was on. In the power cut it gives that energy back to the fan. The fan has no store of its own."
     },
     {

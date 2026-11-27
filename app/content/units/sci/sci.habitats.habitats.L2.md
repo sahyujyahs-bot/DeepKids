@@ -358,7 +358,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 3. (draw) Draw the clay diya and the smooth stone from the diya and stone test, standing in the plate of water. Draw the seeds on each top as they looked on day 3.  
    **Answer:** The diya has sprouted seeds with little roots or green leaves. The stone has dry seeds that did not grow.. *Why:* A strong drawing shows the difference the child saw, and the water in the plate under both.
 4. (mcq) In the diya and stone test, the clay diya and the smooth stone stood in a plate of water. After 15 minutes, which top was wet?  
-   Options: The top of the clay diya / The top of the smooth stone / Both tops were dry  
+   Options: The top of the smooth stone / The top of the clay diya / Both tops were dry  
    **Answer:** The top of the clay diya. *Why:* Water climbed up through the tiny holes in the clay, so the diya's top turned dark and damp. The smooth stone let no water climb up. If your stone's top was wet, check that no water was splashed on it.
 5. (truefalse) Nothing can live on a rock.  
    **Answer:** False. *Why:* False. Moss, ferns and crusty lichens grow on damp rocks. Lizards, ants and spiders live in rock cracks.
@@ -404,28 +404,28 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 
 ## Quiz
 1. (mcq) What is a habitat?  
-   Options: The place where a living being lives and finds what they need / A kind of food / A kind of rock  
+   Options: A kind of food / The place where a living being lives and finds what they need / A kind of rock  
    **Answer:** The place where a living being lives and finds what they need. *Why:* A habitat gives a living being water, food, air, shelter and the right warmth.
 2. (mcq) Which of these does a habitat give a living being?  
    Options: Water and shelter / Toys / Money  
    **Answer:** Water and shelter. *Why:* Every habitat gives the living beings there what they need, such as water, food, air and shelter.
 3. (mcq) Who lives in the Thar desert?  
-   Options: A camel / A lotus / A ghost crab  
+   Options: A lotus / A ghost crab / A camel  
    **Answer:** A camel. *Why:* Camels live in the dry desert. A lotus needs a pond, and a ghost crab needs the seashore.
 4. (mcq) Where does a lotus grow?  
-   Options: In a pond / On a dry rock / In the desert sand  
+   Options: On a dry rock / In a pond / In the desert sand  
    **Answer:** In a pond. *Why:* A lotus has roots in the mud at the bottom of a pond, and leaves that float on the water.
 5. (mcq) Why can a fish not live on land?  
-   Options: A fish breathes with gills, which work only in water / A fish is too big / A fish does not like the sun  
+   Options: A fish is too big / A fish breathes with gills, which work only in water / A fish does not like the sun  
    **Answer:** A fish breathes with gills, which work only in water. *Why:* Gills take oxygen from water. Out of water, a fish cannot breathe.
 6. (mcq) A lizard slips into a crack between two rocks when a bird flies over. What does the rock give the lizard?  
-   Options: Shelter / Salty water / Fruit  
+   Options: Salty water / Fruit / Shelter  
    **Answer:** Shelter. *Why:* A crack in a rock is a shelter. Rocks give shelter, some hold water, and over a very long time they crumble into soil.
 7. (mcq) What is soil made from?  
-   Options: Tiny bits of rock and bits of dead plants / Only sand / Only water  
+   Options: Only sand / Only water / Tiny bits of rock and bits of dead plants  
    **Answer:** Tiny bits of rock and bits of dead plants. *Why:* Over a long time, rocks crumble into tiny grains. These mix with bits of dead plants and animals to make soil.
 8. (mcq) Before the diya and stone test, you say: "The seeds will sprout on both the diya and the stone." What are you doing?  
-   Options: Making a guess to test / Counting the seeds / Cleaning the plate  
+   Options: Counting the seeds / Cleaning the plate / Making a guess to test  
    **Answer:** Making a guess to test. *Why:* A guess you make before a test is called a prediction. The test then shows whether the guess was right.
 9. (mcq) In the diya and stone test, both stood in the same water. Why is that important?  
    Options: So that only what the seeds sat on was different / So that the plate looked nice / So that the seeds could swim  

@@ -934,10 +934,10 @@
       "q": "With no friction at all, could you walk forward?",
       "options": [
        "Yes, and more easily than now",
-       "No, your feet would slip back and you couldn't push off",
-       "Yes, but only slowly"
+       "Yes, but only slowly",
+       "No, your feet would slip back and you couldn't push off"
       ],
-      "a": 1,
+      "a": 2,
       "why": "To walk, your foot pushes backwards on the ground. Friction pushes your foot forwards in return, and that moves you. With no friction, your foot would just slide back. You would stay in the same place. Picking 'more easily' usually means thinking friction only slows us down."
      }
     },
@@ -979,11 +979,11 @@
      "p": "Friction is a force. Where does it act?",
      "opts": [
       "Only on things that are moving fast, like cars",
-      "Where two surfaces touch",
       "Only when things are wet",
-      "Anywhere, even in empty space"
+      "Anywhere, even in empty space",
+      "Where two surfaces touch"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Friction happens wherever two surfaces touch and one is trying to slide over the other. Picking 'moving fast' usually means friction is linked only with speed. But friction also holds still things in place, like a shoe on a slope. Picking 'empty space' usually mixes friction up with gravity, which pulls without touching.",
      "art": "A shoe on the ground with the contact place glowing."
     },
@@ -991,12 +991,12 @@
      "t": "mcq",
      "p": "A book lies still on a flat table. Nobody is pushing it. Is friction acting on the book?",
      "opts": [
-      "No, because nothing is trying to make it slide",
       "Yes, a big friction holds it down",
       "Yes, friction always pulls things downwards",
+      "No, because nothing is trying to make it slide",
       "Yes, but only at night"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Friction only appears when something tries to make a surface slide. Push the book gently, and friction pushes back just as hard, so it stays still. Stop pushing, and the friction goes too. Picking 'holds it down' mixes friction up with gravity. Gravity holds the book down. Friction only works along the surface."
     },
     {
@@ -1105,22 +1105,22 @@
      "p": "Bicycle tyres have bumpy patterns called tread. Why?",
      "opts": [
       "To look nice",
-      "To grip the road better",
       "To make the tyre lighter",
+      "To grip the road better",
       "To make the tyre roll faster"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Tread helps the tyre grip the road. On wet roads, its grooves also let water escape. Picking 'roll faster' often means the child thinks less touching is always better. Tread is about grip, not speed."
     },
     {
      "t": "mcq",
      "p": "Think of a heavy box on the floor. Which is usually harder?",
      "opts": [
-      "Starting to push it",
       "Keeping it moving once it slides",
-      "They are always exactly the same"
+      "They are always exactly the same",
+      "Starting to push it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "It is usually harder to start something sliding than to keep it sliding. The starting grip, called static friction, is a little stronger. Picking 'keeping it moving' often comes from feeling tired after pushing for a long time. That tiredness is real, but the biggest push is needed right at the start."
     },
     {
@@ -1263,12 +1263,12 @@
      "t": "mcq",
      "p": "Why do old temple steps have a dip worn in the middle?",
      "opts": [
-      "The builders made them that way",
       "Millions of feet rubbed tiny bits away over hundreds of years",
+      "The builders made them that way",
       "Rain fell only in the middle",
       "Heavy people pressed the stone down, like clay"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Friction slowly rubs surfaces away, even hard stone. This is called wear. Picking 'pressed down like clay' usually means stone is pictured as soft. Hard stone does not squash. It slowly wears away."
     },
     {
@@ -1295,11 +1295,11 @@
      "p": "Why might the man in the Egyptian painting be pouring water on the sand?",
      "opts": [
       "To cool the hot sand for the men's feet",
-      "Damp sand lets the sledge slide with less friction",
       "To make mud for building",
-      "To wash the dust off the statue"
+      "To wash the dust off the statue",
+      "Damp sand lets the sledge slide with less friction"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The right amount of water makes sand firm. Then the sledge slides on top, instead of digging in and pushing up a hill of sand. Picking 'to cool the sand' is a sensible guess about the hot desert. But the water is poured right in front of the sledge, where it meets the sand.",
      "context": "About 3,900 years ago, Egyptians painted workers dragging a giant statue across the sand on a wooden sledge. One man at the front pours water on the sand.",
      "how": "e3"
@@ -1413,11 +1413,11 @@
      "p": "A brick is pulled lying flat, on its big side. Then it is pulled standing on its thin edge. Look at the pictures. The forcemeter shows about the same pull both times. What does this tell us?",
      "opts": [
       "Friction depends a lot on how much area touches",
-      "For a hard brick, friction hardly depends on how much area touches",
       "The forcemeter is broken",
-      "The thin edge should cut in and grip more"
+      "The thin edge should cut in and grip more",
+      "For a hard brick, friction hardly depends on how much area touches"
      ],
-     "a": 1,
+     "a": 3,
      "why": "For hard things, the touching area hardly matters. What matters is the materials, and how hard they press together. Guillaume Amontons wrote this down in 1699, and it surprised people. Picking 'depends a lot on area' means going with what feels true, not with what the forcemeter shows. Many grown-ups believed that for hundreds of years.",
      "context": "A forcemeter is a tool with a spring inside. It shows how hard you are pulling, in units called newtons. This question is about pulling a brick two ways.",
      "show": [
@@ -1439,12 +1439,12 @@
      "t": "mcq",
      "p": "If area hardly matters for a brick, why do racing cars have very wide tyres?",
      "opts": [
-      "The rule only works for hard things. Soft, sticky rubber grips more with more area.",
       "Wide tyres look more exciting",
+      "The rule only works for hard things. Soft, sticky rubber grips more with more area.",
       "Wide tyres are lighter",
       "The rule is wrong for everything"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The 'area hardly matters' rule breaks down for soft, sticky things like tyre rubber. Picking 'wrong for everything' misses that the rule still works well for hard things like bricks and wooden blocks.",
      "context": "For a hard brick, the area touching the ground hardly changes the friction. This question is about tyres, which are soft."
     },
@@ -1473,12 +1473,12 @@
      "t": "mcq",
      "p": "Rim brakes on a cycle squeeze rubber pads onto the wheel. They stop the cycle well on a dry day, but badly in heavy rain. Why?",
      "opts": [
-      "Water between the pads and the wheel acts as a lubricant, so there is less grip",
       "Rain makes the wheel heavier",
       "Cold rain makes the rubber grip more",
-      "Rain pushes the cycle forward"
+      "Rain pushes the cycle forward",
+      "Water between the pads and the wheel acts as a lubricant, so there is less grip"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A thin layer of water keeps the pad and the wheel a little apart, just like oil on a hinge. Less grip means less friction, so the cycle takes longer to stop. Riders brake early in the monsoon for this reason. Picking 'heavier wheel' looks for a change in weight, but the real change is between the surfaces."
     },
     {
@@ -1524,11 +1524,11 @@
      "p": "Two notebooks have their pages laid over each other like this. They are very hard to pull apart. Why?",
      "opts": [
       "The pages are glued together a little",
-      "Hundreds of pages each add a little friction, and pulling squeezes them together even more",
       "The paper is magnetic",
-      "The books are too heavy to lift"
+      "The books are too heavy to lift",
+      "Hundreds of pages each add a little friction, and pulling squeezes them together even more"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Each page grips only a tiny bit. But hundreds of tiny grips add up. Pulling also squeezes the pages tighter, which adds more friction. Picking glue or magnets usually means the child expects a hidden force. The surprise is that ordinary friction, added up many times, is enough.",
      "context": "In the Books That Won't Let Go experiment, you lay the pages of two notebooks over each other. You take one page from each book in turn, like shuffling cards.",
      "how": "e2"
@@ -1595,12 +1595,12 @@
      "t": "mcq",
      "p": "Deep down, where does friction come from?",
      "opts": [
-      "Atoms tugging on each other with electric force",
       "Tiny hooks on every surface",
       "Gravity pulling things sideways",
-      "Air trapped between the surfaces"
+      "Air trapped between the surfaces",
+      "Atoms tugging on each other with electric force"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Friction comes from electric pushes and pulls between the atoms of the two surfaces. Picking 'tiny hooks' is close to the old bumps idea, and bumps do play a part. But deep down, even bumps grip through electric forces. Picking gravity mixes up two different forces."
     },
     {
@@ -2046,10 +2046,10 @@
       "q": "In the scientists' test, which sand needed the smallest pull to move the sledge?",
       "options": [
        "Dry sand",
-       "Just-damp sand",
-       "Soaked sand"
+       "Soaked sand",
+       "Just-damp sand"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Damp sand sticks together into a firm path, so the sledge rides on top. Dry sand is loose and piles up in front of the sledge. Soaked sand turns to mud and the sledge sinks in. Just-damp sand needed the smallest pull. Picking soaked sand usually means thinking 'more water is always more slippery'."
      },
      "parent": "A little water holds the sand grains together, so the sand makes a firm path and the sledge slides on top. Dry sand piles up in front of the sledge. Too much water makes mud, and the sledge sinks."
@@ -2217,11 +2217,11 @@
       "t": "mcq",
       "q": "Why does rubbing make things warm?",
       "options": [
-       "Friction turns movement into heat",
        "The paper was already warm",
+       "Friction turns movement into heat",
        "The eraser keeps heat inside it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rubbing makes the tiny particles in both things move faster, and faster-moving particles are what heat is. So rubbing turns movement into warmth."
      },
      "parent": "The warmth is small. If you feel nothing, rub harder, or rub the eraser on rough cloth such as jeans, and touch it at once. Rubbing your palms together is the surest test."
@@ -2457,11 +2457,11 @@
       "t": "mcq",
       "q": "Deep down, friction comes from…",
       "options": [
-       "Atoms tugging on each other with electric force",
        "Tiny hooks on every surface",
+       "Atoms tugging on each other with electric force",
        "Only gravity"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Zoom right in and every surface is made of atoms. The atoms of two touching surfaces pull and push on each other with electric force. That is the grip we call friction. Surfaces do have tiny bumps, but where the bumps touch, it is atoms tugging on atoms that makes the grip."
      },
      "think": "The force that holds you up off the floor and the force that grips your shoe are the same kind. What else might be secretly electric?",
@@ -2550,11 +2550,11 @@
       "t": "mcq",
       "q": "About 400 million years ago, long before the dinosaurs, how long was one day?",
       "options": [
-       "About 22 hours",
        "About 30 hours",
+       "About 22 hours",
        "Exactly 24 hours, the same as now"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Tides rubbing the sea floor are slowly slowing the Earth's spin, so days were shorter long ago. Very old corals grew one thin line each day. 400 million years ago they grew about 400 lines a year. 400 days in a year means each day was only about 22 hours."
      },
      "parent": "The change is far too small to feel. It only adds up over hundreds of millions of years, and that is why old corals can show it."
@@ -2664,11 +2664,11 @@
       "t": "mcq",
       "q": "A grip sock stays on the board until the end is 15 cm high. A plain sock slides at 9 cm. What does this show?",
       "options": [
-       "The grip sock held on until the board was higher, so it grips more",
        "The grip sock and the plain sock grip the same",
+       "The grip sock held on until the board was higher, so it grips more",
        "The grip sock grips less, because the number is bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The grip sock stayed on until 15 cm. The plain sock slid at 9 cm. A bigger number here means the sock stayed on a steeper slope, which means better grip, not worse."
      },
      "chart": {
@@ -2849,11 +2849,11 @@
       "t": "mcq",
       "q": "Grooves in a sole help on wet steps because…",
       "options": [
-       "They let water escape, so the rubber can touch the stone",
        "They make the sole softer",
+       "They let water escape, so the rubber can touch the stone",
        "They make the shoe heavier, so it presses down more"
       ],
-      "a": 0,
+      "a": 1,
       "why": "On a wet step, a thin layer of water sits between the sole and the stone, like oil. The rubber can't grip through it. Grooves give the water somewhere to go. Then the rubber can touch the stone and grip."
      }
     },
@@ -2922,11 +2922,11 @@
    "t": "mcq",
    "p": "Which of these needs friction?",
    "opts": [
-    "Walking without slipping",
     "A magnet pulling a pin across a gap",
+    "Walking without slipping",
     "The Moon pulling on the sea"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Walking needs your feet to grip the ground. The magnet and the Moon pull without touching, so they are not friction. Friction needs two surfaces touching.",
    "outcome": 0
   },
@@ -2934,11 +2934,11 @@
    "t": "mcq",
    "p": "You slide a steel tumbler to the right across a table. Which way does friction push on the tumbler?",
    "opts": [
-    "To the left",
     "To the right",
+    "To the left",
     "Straight up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Friction works against the sliding, so it pushes the opposite way, to the left. That is why the tumbler slows down. Picking 'to the right' means thinking friction helps the movement.",
    "outcome": 0
   },
@@ -2946,11 +2946,11 @@
    "t": "mcq",
    "p": "Which floor gives your feet the most grip?",
    "opts": [
-    "Ice",
     "A rubber mat",
+    "Ice",
     "A shiny, polished floor that is wet"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Rubber grips well. Picking the shiny floor often means shiny is thought of as clean and safe. Shiny, wet floors are actually slippery.",
    "outcome": 1
   },
@@ -2958,11 +2958,11 @@
    "t": "mcq",
    "p": "You test different shoes on the slope. To make it a fair test, what should change?",
    "opts": [
-    "Only the shoe",
     "The shoe and the slope",
-    "Everything"
+    "Everything",
+    "Only the shoe"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, you change only one thing. Then you know that one thing caused the difference. Picking 'the shoe and the slope' usually means wanting to test more at once. Then you can't tell which change mattered.",
    "outcome": 1,
    "context": "In the slope test, you put a shoe on a board and lift one end until the shoe slides.",
@@ -2973,10 +2973,10 @@
    "p": "You pull two shoes across the floor with a forcemeter. Shoe A needs 3 newtons. Shoe B needs 6 newtons. Which has more friction?",
    "opts": [
     "Shoe A",
-    "Shoe B",
-    "They are the same"
+    "They are the same",
+    "Shoe B"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Shoe B needed a bigger pull, 6 newtons instead of 3. So it has more friction. Picking A usually means a small number was read as a strong grip. Here, the number is how hard you had to pull, so bigger means more friction.",
    "outcome": 2,
    "context": "A forcemeter is a tool with a spring inside. It shows how hard you are pulling, in units called newtons.",
@@ -3000,10 +3000,10 @@
    "p": "Where do we want LESS friction?",
    "opts": [
     "Bicycle brakes",
-    "The spinning parts inside a ceiling fan",
-    "Shoes on a wet floor"
+    "Shoes on a wet floor",
+    "The spinning parts inside a ceiling fan"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The fan's spinning parts should turn freely. Friction there wastes energy and makes them hot and noisy, so they are oiled. Picking brakes or shoes means grip and slip got swapped. Those two need lots of friction.",
    "outcome": 3
   },
@@ -3011,11 +3011,11 @@
    "t": "mcq",
    "p": "Which of these lowers friction?",
    "opts": [
-    "Sand on an icy path",
     "Soap on your finger when a ring is stuck",
+    "Sand on an icy path",
     "Rubber soles"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Soap is a lubricant, a slippery layer that lowers friction, so the ring slides off. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.",
    "outcome": 3
   },
@@ -3095,11 +3095,11 @@
    "t": "mcq",
    "p": "The ends of the bones in your knee rub thousands of times a day. Why don't they wear out quickly?",
    "opts": [
-    "They are covered in smooth cartilage and a slippery liquid",
     "They never touch each other",
-    "They are made of steel"
+    "They are made of steel",
+    "They are covered in smooth cartilage and a slippery liquid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Smooth cartilage soaked in slippery joint fluid gives less friction than ice sliding on ice. Picking 'never touch' is a fair guess, but the bones do press together every time you stand.",
    "outcome": 6
   },
@@ -3107,11 +3107,11 @@
    "t": "mcq",
    "p": "You lift a bucket of water out of the well with your hands. Which kind of force is your lift?",
    "opts": [
-    "A muscular force",
     "Gravity",
+    "A muscular force",
     "A magnetic force"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your muscles give a muscular force when you lift. Gravity pulls the bucket down, and a magnet gives a magnetic force, which is not what lifts the bucket.",
    "outcome": 0
   }

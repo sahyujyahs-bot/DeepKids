@@ -434,11 +434,11 @@
       "t": "mcq",
       "q": "In the la-la test, the word was the same every time. What carried the message?",
       "options": [
-       "The tune of the voice: high or low, rough or smooth, loud or soft",
        "The meaning of the word 'la-la'",
-       "Nothing. The listener was only lucky"
+       "Nothing. The listener was only lucky",
+       "The tune of the voice: high or low, rough or smooth, loud or soft"
       ],
-      "a": 0,
+      "a": 2,
       "why": "'La-la' has no meaning, so the word could not help. The listener could not see the sender either. Only the tune changed, so the tune carried the message. If you picked luck, look at your table: with 4 messages, luck alone would give about 3 right out of 12."
      },
      "parent": "A strong answer uses what your child saw: 'I got 9 right. The go away one was low and rough, and I got it every time.' Now read the card 'The tune carries the message'. It is normal to mix up 'I am happy' and 'Come here!'. Both are friendly sounds."
@@ -1052,11 +1052,11 @@
       "t": "mcq",
       "q": "Why does each penguin chick need their own call?",
       "options": [
-       "So their parent can pick them out from thousands of chicks",
        "So they can sing louder than the sea",
+       "So their parent can pick them out from thousands of chicks",
        "So other parents will feed them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a crowd of thousands, a chick who sounded like everyone else could not be found. A call that is theirs alone lets the parent find them and bring them fish."
      }
     }
@@ -1285,11 +1285,11 @@
      "t": "mcq",
      "p": "A dog gives a low, rough growl over a bone. What is the dog most likely saying?",
      "opts": [
-      "Come and play with me.",
       "This is my bone. Stay away.",
+      "Come and play with me.",
       "I am lost."
      ],
-     "a": 1,
+     "a": 0,
      "why": "A low, rough sound, often with lips pulled back, usually means 'stay away'. A play invitation sounds higher, with gaps, and comes with a play bow.",
      "art": "A brown dog lying with a bone between the front paws, lips pulled back, growling."
     },
@@ -1411,10 +1411,10 @@
      "p": "Which of these is a bird's song, not a call?",
      "opts": [
       "A sharp 'chip!' as a cat comes near",
-      "A long tune sung again and again from the same rooftop every morning",
-      "A quick 'tik' as a bird flies off"
+      "A quick 'tik' as a bird flies off",
+      "A long tune sung again and again from the same rooftop every morning"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A song is long and repeated, often from the same place, and says 'this is my place' or 'choose me'. Short single sounds, like 'chip' or 'tik', are calls."
     },
     {
@@ -1550,11 +1550,11 @@
      "t": "mcq",
      "p": "In the la-la test, a sender makes the 'Go away!' la-la high and squeaky. What will the listener most likely guess?",
      "opts": [
-      "Help, I'm scared!",
       "Go away!",
+      "Help, I'm scared!",
       "The listener will always get it right anyway"
      ],
-     "a": 0,
+     "a": 1,
      "why": "High, shaky sounds usually mean fear or 'help'. A 'go away' message is usually low and rough. So the listener will probably guess 'scared'.",
      "how": "e1"
     },
@@ -1646,11 +1646,11 @@
      "t": "mcq",
      "p": "In the la-la test, why were the slips mixed in a bowl before the sender picked one?",
      "opts": [
-      "So the listener could not guess the order of the messages",
       "So the slips would not get lost",
+      "So the listener could not guess the order of the messages",
       "So the sender could read them more easily"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the slips were in a fixed order, the listener could guess the next message without listening to the tune. Mixing them makes the test fair.",
      "how": "e1"
     },
@@ -1695,11 +1695,11 @@
    "t": "mcq",
    "p": "What does it mean when an animal communicates?",
    "opts": [
-    "They send a message, and another animal notices and acts on the message.",
     "They make a noise by accident.",
+    "They send a message, and another animal notices and acts on the message.",
     "They eat together."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Communicating needs a sender and a receiver. The signal changes what the receiver does, like crows flying up at an alarm call.",
    "outcome": 0
   },
@@ -1708,10 +1708,10 @@
    "p": "Which of these is a message sent with the body, not with a sound?",
    "opts": [
     "A cat purring",
-    "A dog doing a play bow, front legs down and back end up",
-    "A crow cawing"
+    "A crow cawing",
+    "A dog doing a play bow, front legs down and back end up"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A play bow is a body signal that others see. Purring and cawing are sounds.",
    "outcome": 1
   },
@@ -1720,10 +1720,10 @@
    "p": "How does a cat make a purr?",
    "opts": [
     "By clicking her teeth together",
-    "Her voice box vibrates very fast as she breathes in and out",
-    "Her tummy rumbles after food"
+    "Her tummy rumbles after food",
+    "Her voice box vibrates very fast as she breathes in and out"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A purr comes from the voice box, which shakes more than 20 times every second, while the cat breathes in and while she breathes out. That is why you can feel it.",
    "outcome": 2
   },
@@ -1731,11 +1731,11 @@
    "t": "mcq",
    "p": "A cat is purring while her paw is hurt. What does this tell you?",
    "opts": [
-    "A purr can mean more than 'I am happy'.",
     "The cat is happy to be hurt.",
-    "Only kittens purr."
+    "Only kittens purr.",
+    "A purr can mean more than 'I am happy'."
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cats purr when hurt or frightened too. You read a purr with the rest of the cat and with what is happening.",
    "outcome": 2
   },
@@ -1756,10 +1756,10 @@
    "p": "In many kinds of songbirds, who sings?",
    "opts": [
     "Only the males",
-    "Only the females",
-    "Both females and males"
+    "Both females and males",
+    "Only the females"
    ],
-   "a": 2,
+   "a": 1,
    "why": "In most kinds of songbirds that scientists checked, females sing as well as males.",
    "outcome": 3
   },
@@ -1767,11 +1767,11 @@
    "t": "mcq",
    "p": "A cat puffs up her fur and hisses with a rough sound. What is she most likely saying?",
    "opts": [
-    "Stay away from me!",
     "Please feed me.",
+    "Stay away from me!",
     "I am sleepy."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rough sounds and a puffed-up body usually mean 'stay away'. Puffed fur also makes her look bigger.",
    "outcome": 4
   },
@@ -1779,11 +1779,11 @@
    "t": "mcq",
    "p": "Which kind of sound more often means 'I am friendly' or 'help me'?",
    "opts": [
-    "A high, soft sound",
     "A low, rough sound",
-    "Any sound, it makes no difference"
+    "Any sound, it makes no difference",
+    "A high, soft sound"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In many birds and mammals, high, soft sounds go with being friendly or scared, and low, rough sounds go with 'stay away'.",
    "outcome": 4
   },
@@ -1792,10 +1792,10 @@
    "p": "A male cricket chirps all night in a potted plant. How does he make the sound?",
    "opts": [
     "With his voice box",
-    "By rubbing one wing against the other",
-    "By stamping his feet"
+    "By stamping his feet",
+    "By rubbing one wing against the other"
    ],
-   "a": 1,
+   "a": 2,
    "why": "One wing has a row of tiny ridges and the other has a scraper. Rubbing them together makes the chirp.",
    "outcome": 1
   },
@@ -1803,11 +1803,11 @@
    "t": "mcq",
    "p": "In the la-la test, why did the sender hide behind a door?",
    "opts": [
-    "So the listener could not see the face or hands, and only the sound could help",
     "So the sound would be louder",
-    "So the sender could read the slips more easily"
+    "So the sender could read the slips more easily",
+    "So the listener could not see the face or hands, and only the sound could help"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A face can give the answer away. Hiding makes sure the test is only about the sound.",
    "outcome": 5
   },

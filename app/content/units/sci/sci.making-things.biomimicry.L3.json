@@ -860,11 +860,11 @@
       "t": "mcq",
       "q": "A water bottle gets warm in the sun. Which idea copies the termite mound's design?",
       "options": [
-       "Wrap it in a thick jacket of cloth, so heat gets in slowly",
        "Paint it shiny gold",
+       "Wrap it in a thick jacket of cloth, so heat gets in slowly",
        "Make it pointed like a beak"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A termite mound's thick earth walls slow down the heat getting in. A thick cloth jacket does the same for a bottle. Wetting the cloth helps even more, like a clay water pot. Picking 'pointed like a beak' mixes up the designs. A pointed shape helps with moving through air or water, not with heat."
      }
     },
@@ -933,11 +933,11 @@
      "p": "Sprinkle a little chalk dust on a chembu leaf. Then drip water on the leaf and tilt it. What will the rolling drops do to the chalk dust?",
      "opts": [
       "Push it into the leaf",
-      "Pick it up and carry it off the leaf",
       "Leave it exactly where it was",
+      "Pick it up and carry it off the leaf",
       "Turn it into mud that sticks to the leaf"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The drops stay round and roll. As they roll, dust sticks to the water more than to the waxy bumps, so the drops carry it away. This is how a lotus leaf stays clean in a muddy pond. A strong answer says why the dust sticks to the drop and not to the leaf.",
      "how": "e1"
     },
@@ -1041,10 +1041,10 @@
      "opts": [
       "What colour the gecko is",
       "How fast the gecko runs",
-      "Whether the window is cold",
-      "Whether the gecko leaves glue marks on the glass"
+      "Whether the gecko leaves glue marks on the glass",
+      "Whether the window is cold"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Glue would leave marks, and it would get dirty and stop working. Gecko feet leave no glue. They grip because hundreds of millions of tiny hair tips get so close to the wall that their atoms pull on the wall's atoms."
     },
     {
@@ -1065,12 +1065,12 @@
      "t": "mcq",
      "p": "The first bullet trains in Japan made a loud boom every time they came out of a tunnel. Why?",
      "opts": [
-      "They squeezed the air in front of them, and it burst out of the far end",
       "Their engines exploded",
       "They hit the tunnel walls",
+      "They squeezed the air in front of them, and it burst out of the far end",
       "Birds flew into them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fast train pushes the air ahead of it, like a plunger in a pipe. The squeezed air rushes ahead and bursts out of the tunnel with a boom. Nothing broke. It was the air."
     },
     {
@@ -1124,11 +1124,11 @@
      "p": "In the leaf experiment, the drops on the smooth, shiny steel plate stayed as domes and often did not roll. The drops on the chembu leaf rolled away. What does this show?",
      "opts": [
       "Smooth things always make water roll",
-      "Being smooth is not enough. The leaf's tiny bumps and wax make the difference",
       "Steel soaks up water",
+      "Being smooth is not enough. The leaf's tiny bumps and wax make the difference",
       "The steel plate was not tilted enough"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Many people think smooth and shiny means slippery for water. The steel plate shows that is not so. The chembu leaf is bumpy and waxy, and that is what keeps the drops round so they roll.",
      "how": "e1"
     },
@@ -1150,11 +1150,11 @@
      "t": "mcq",
      "p": "Why does touching a lotus leaf with your fingers spoil the lotus effect in that spot?",
      "opts": [
-      "Fingers make the leaf colder",
       "Fingers rub off the wax",
+      "Fingers make the leaf colder",
       "Fingers are wet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The leaf's self-cleaning needs both the bumps and the wax. Rubbing wipes away the wax, so water can grip that spot and spread. 'Fingers are wet' is a fair thought, but even dry fingers rub off wax."
     },
     {
@@ -1169,11 +1169,11 @@
      "t": "mcq",
      "p": "In the splash experiment, why must every dough shape have the same amount of dough and be dropped from the same height?",
      "opts": [
+      "So that only the shape changes, and we know the shape caused the difference",
       "Because 30 centimetres is a lucky height",
-      "To make the splash bigger",
-      "So that only the shape changes, and we know the shape caused the difference"
+      "To make the splash bigger"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In a fair test, only one thing changes. A heavier lump or a higher drop makes a bigger splash. Then you could not tell whether the shape or the weight made the difference.",
      "how": "e2"
     },
@@ -1181,12 +1181,12 @@
      "t": "mcq",
      "p": "One girl's splash results were pancake 22 spots, ball 9, beak 2. Her friend's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?",
      "opts": [
+      "Yes. Both show the same order: pancake most, beak least",
       "No, because the numbers are different",
       "No, so one of the tests must be wrong",
-      "You cannot compare two tests",
-      "Yes. Both show the same order: pancake most, beak least"
+      "You cannot compare two tests"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The exact numbers depend on things like the bucket and the newspaper. What matters is the pattern, and both tests show the same pattern. A strong answer says that the order is what both tests found.",
      "how": "e2"
     },
@@ -1240,12 +1240,12 @@
      "t": "mcq",
      "p": "Early inventors built machines with flapping wings, and none could lift a person. Later, a plane with fixed wings that could twist at the tips to balance did fly. What is the lesson for copying birds?",
      "opts": [
-      "Copy how a part works, like the wing twist for balance, not just how it looks",
       "Flapping is the only way to fly",
+      "Copy how a part works, like the wing twist for balance, not just how it looks",
       "Feathers are the secret",
       "Beaks help planes fly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Copying the look of flapping did not work for big machines. Copying a design idea, the twist that keeps a bird balanced, did."
     },
     {
@@ -1296,11 +1296,11 @@
      "p": "Why is a big splash a problem for a kingfisher?",
      "opts": [
       "Splashing makes the kingfisher wet",
-      "Splashing scares other kingfishers away",
       "The splash warns the fish, and slapping the water slows the bird down",
+      "Splashing scares other kingfishers away",
       "The kingfisher cannot see in a splash"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A kingfisher lives by catching small fish. A blunt head would slap the water, slow the bird down and send out ripples that warn the fish. A slowly widening beak solves the kingfisher's own problem, long before trains."
     }
    ]
@@ -1316,11 +1316,11 @@
      "p": "Deep down, why does water pull itself into a ball on a waxy leaf?",
      "opts": [
       "Wax pushes water away with magnets",
-      "The leaf is spinning",
       "Water molecules pull on each other more strongly than the wax pulls on them",
+      "The leaf is spinning",
       "The water is too cold"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Water molecules tug on each other. Wax hardly pulls on water at all. So the water's own pull wins, and it gathers into a round drop. The pull between molecules is electric, but it is not magnetism."
     },
     {
@@ -1379,12 +1379,12 @@
      "t": "mcq",
      "p": "A car company copied the shape of the boxfish, thinking it helps the fish slip fast through water. Later, scientists found the shape mainly helps the fish turn and steer. What is the lesson?",
      "opts": [
-      "Find out what a shape is really for before copying it",
       "Never copy fish",
+      "Find out what a shape is really for before copying it",
       "All cars should be shaped like boxes",
       "Fish cannot swim fast"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A shape solves a problem in the animal's own life. Before copying it, find out which problem, or the copy may not do what you hoped."
     },
     {
@@ -1594,11 +1594,11 @@
       "t": "mcq",
       "q": "On which surface did the drops roll off most easily?",
       "options": [
-       "The chembu or lotus leaf",
        "The paper",
-       "The ordinary leaf"
+       "The ordinary leaf",
+       "The chembu or lotus leaf"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The chembu or lotus leaf is covered in tiny waxy bumps. A drop sits only on the bump tips, with air under it, so it stays round and rolls at a small tilt. Paper pulls the water in, so it soaks. Picking the ordinary leaf usually means thinking all leaves are the same. Most leaves have no bumps like this, so water spreads on them."
      }
     },
@@ -1790,11 +1790,11 @@
       "t": "mcq",
       "q": "Why does the pointed beak shape splash least?",
       "options": [
-       "It pushes the water aside a little at a time, from its tip backwards",
        "It is lighter than the other shapes",
+       "It pushes the water aside a little at a time, from its tip backwards",
        "It falls more slowly"
       ],
-      "a": 0,
+      "a": 1,
       "why": "All three shapes had the same amount of dough, so they weighed the same. The flat pancake hits a lot of water at once, so the water is shoved hard and sprays out. The beak's thin tip goes in first, and it gets wider slowly. So it pushes water aside gently, a little at a time. Picking 'lighter' forgets that this was a fair test with the same amount of dough in each shape."
      },
      "chart": {
@@ -1958,11 +1958,11 @@
       "t": "mcq",
       "q": "Why did the ice last longer in the thick-walled cup?",
       "options": [
-       "The thick wall slowed down the heat getting in",
        "The thick wall made cold",
+       "The thick wall slowed down the heat getting in",
        "The thick wall kept the light out, and light is what melts ice"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Walls do not make cold. Heat from the sun is always trying to get into the cup. A thick wall slows the heat down, so the ice melts more slowly. A wet wall also loses heat as its water dries off, which cools it. Picking 'made cold' is a common idea. But cold is really just less heat."
      }
     },
@@ -2263,11 +2263,11 @@
       "t": "mcq",
       "q": "Why do a gecko's tiny bendy hairs help them grip a bumpy wall?",
       "options": [
-       "They reach into the dips, so much more of the foot touches the wall",
        "They are covered in glue",
+       "They reach into the dips, so much more of the foot touches the wall",
        "They suck onto the wall like a suction cup"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Atoms only pull on each other when they get extremely close. A flat, stiff foot touches only the tops of the bumps. Millions of tiny bendy hairs reach into the dips, so far more of them touch. All those tiny pulls add up to a strong grip. Gecko feet have no glue and are not suction cups."
      }
     }
@@ -2333,11 +2333,11 @@
       "t": "mcq",
       "q": "Cling film stuck to the steel plate but fell off the towel. Why?",
       "options": [
-       "On smooth steel it could get very close, so the atoms pulled on each other",
        "The towel was too heavy",
-       "Steel is magnetic, and cling film is a magnet"
+       "Steel is magnetic, and cling film is a magnet",
+       "On smooth steel it could get very close, so the atoms pulled on each other"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Atoms pull on each other only when they are extremely close. Smooth steel lets the film lie flat against almost all of it. A fluffy towel only lets it touch a few tips. Picking 'magnetic' is a sensible guess, but cling film is plastic and is not a magnet. It clings to glass too, which is not magnetic."
      }
     }
@@ -2429,11 +2429,11 @@
       "t": "mcq",
       "q": "Under water, the sooty spoon looks shiny silver. What is the silver?",
       "options": [
-       "A thin layer of air trapped in the tiny bumps",
        "The steel showing through",
-       "The soot turning into metal"
+       "The soot turning into metal",
+       "A thin layer of air trapped in the tiny bumps"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The soot is covered in tiny bumps. Water cannot push into the spaces between them, so a thin skin of air stays trapped there. Light bounces off that air layer, so it looks silver like a mirror. A lotus leaf under water shines silver for the same reason. Picking 'the steel showing through' is a fair guess, but the soot is still there when you lift it out."
      }
     }
@@ -2631,11 +2631,11 @@
       "t": "mcq",
       "q": "You test your grip pad against a plain pad. Which test is fair?",
       "options": [
-       "Same weight, same slope and same surface, only the pad changes",
        "The grip pad on a rough floor and the plain pad on a smooth floor",
-       "Test only your grip pad, many times"
+       "Test only your grip pad, many times",
+       "Same weight, same slope and same surface, only the pad changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes, here the pad. Then any difference must come from the pad. Testing on two different floors changes two things, so you can't tell which one mattered. Testing only your own pad gives nothing to compare it with."
      }
     },
@@ -2860,11 +2860,11 @@
       "t": "mcq",
       "q": "Why did the candle-waxed tag stay cleaner than the taped tag?",
       "options": [
-       "Water rolled off the wax in balls and carried dust away",
        "Wax is a darker colour",
-       "The tape was too sticky"
+       "The tape was too sticky",
+       "Water rolled off the wax in balls and carried dust away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Wax hardly pulls on water, so drops stay round and roll off, picking up dust as they go. That is part of how a lotus leaf stays clean. Smooth tape lets drops sit flat and stay, so the dust dries in spots. Picking 'too sticky' is a fair guess, but the tape's outside is not sticky."
      }
     },
@@ -2926,10 +2926,10 @@
    "opts": [
     "Studying how animals sleep",
     "Making machines that look like animals",
-    "Protecting plants",
-    "Copying how a living thing solves a problem, to solve a human problem"
+    "Copying how a living thing solves a problem, to solve a human problem",
+    "Protecting plants"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Biomimicry copies how living things solve the problems of their own lives. Picking 'machines that look like animals' is a common mix-up. A good copy uses how the living thing works, not how they look.",
    "outcome": 0
   },
@@ -2937,12 +2937,12 @@
    "t": "mcq",
    "p": "Which of these is an example of biomimicry?",
    "opts": [
-    "Velcro, copied from a burr's hooks",
     "A plastic flower for decoration",
     "A photo of a gecko",
-    "A toy shaped like a fish"
+    "A toy shaped like a fish",
+    "Velcro, copied from a burr's hooks"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Velcro copies a working design, the hooks. The plastic flower and the fish toy only copy a look. A photo copies nothing that works.",
    "outcome": 0
   },
@@ -2977,12 +2977,12 @@
    "t": "mcq",
    "p": "Velcro's hooks hold tight when you press the two strips together. Why can you still peel them apart easily?",
    "opts": [
-    "The hooks melt when you pull",
     "Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop",
+    "The hooks melt when you pull",
     "The loops disappear",
     "Velcro has glue that dries out"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Peeling makes only a few hooks let go at once, so each pull is small. Pulling the whole strip straight off is much harder, because every hook must let go together. Burrs come off fur the same way, a few hooks at a time. Picking 'glue' means thinking the grip is sticky. It is hooks and loops.",
    "outcome": 1
   },
@@ -2991,10 +2991,10 @@
    "p": "Why does a lotus plant need their leaves to stay clean?",
    "opts": [
     "So people think it looks pretty",
-    "So frogs can sit on it",
-    "Dirt would block the sunlight the leaf uses to make food"
+    "Dirt would block the sunlight the leaf uses to make food",
+    "So frogs can sit on it"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' thinks about what people want, not what the lotus needs. The lotus keeps clean for their own life.",
    "outcome": 2
   },
@@ -3016,10 +3016,10 @@
    "p": "On which surface did the drops roll off most easily in the leaf experiment?",
    "opts": [
     "The paper",
-    "The chembu or lotus leaf",
-    "The steel plate"
+    "The steel plate",
+    "The chembu or lotus leaf"
    ],
-   "a": 1,
+   "a": 2,
    "why": "On the chembu leaf, drops stay round and roll at a small tilt. Paper soaks water up. On steel, drops sit as domes and often stay put. Picking steel usually means thinking 'smooth and shiny means slippery for water'.",
    "outcome": 2,
    "context": "In the leaf experiment, you dripped 5 drops on each surface and tilted them on a book.",
@@ -3058,11 +3058,11 @@
    "p": "A fast train makes a loud boom when it rushes out of a tunnel, because it squeezes the air ahead of it. Which nose shape would help most?",
    "opts": [
     "A flat, blunt nose",
+    "A long nose that widens slowly, like a kingfisher's beak",
     "A nose painted to look like a bird",
-    "A bigger engine",
-    "A long nose that widens slowly, like a kingfisher's beak"
+    "A bigger engine"
    ],
-   "a": 3,
+   "a": 1,
    "why": "A blunt nose squeezes the air all at once, which bursts out with a boom. A long nose that widens slowly parts the air gently, as a kingfisher's beak parts water. Painting it like a bird copies the look, not the design.",
    "outcome": 3
   },
@@ -3070,12 +3070,12 @@
    "t": "mcq",
    "p": "How does a gecko stick to a glass window?",
    "opts": [
-    "Millions of tiny hairs get so close that their atoms pull on the glass",
     "Sticky glue on their toes",
+    "Millions of tiny hairs get so close that their atoms pull on the glass",
     "Suction cups on their feet",
     "Tiny claws that dig into the glass"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gecko hairs split into hundreds of millions of tiny tips. They get extremely close to the glass, and the atoms pull on each other. Claws cannot dig into glass, because glass is too hard. There is no glue, and experiments ruled out suction.",
    "outcome": 3
   },
@@ -3109,11 +3109,11 @@
    "t": "mcq",
    "p": "You test your grip invention. Which is a fair test?",
    "opts": [
-    "Test it and a plain version on the same slope, with the same weight",
     "Test your invention on a rough floor, and the plain version on a smooth floor",
-    "Test only your invention"
+    "Test only your invention",
+    "Test it and a plain version on the same slope, with the same weight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, only one thing changes. If the floors are different, you can't tell whether the invention or the floor made the difference. Testing only your invention gives nothing to compare it with.",
    "outcome": 5
   },
@@ -3121,11 +3121,11 @@
    "t": "mcq",
    "p": "Look at the made-up splash results. Which shape splashed least?",
    "opts": [
-    "Flat pancake",
     "Pointed beak",
+    "Flat pancake",
     "Ball"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The shortest bar is the pointed beak, with 2 splash spots. Picking 'flat pancake' means reading the tallest bar as the best. Here a tall bar means a big splash.",
    "outcome": 5,
    "context": "In the splash experiment, you dropped three dough shapes of the same weight into a bucket and counted the splash spots on the newspaper around it.",
@@ -3159,10 +3159,10 @@
    "p": "Where did the burr's hooks and the gecko's hairs come from?",
    "opts": [
     "A scientist designed them",
-    "They were made in a factory",
-    "Evolution over millions of years"
+    "Evolution over millions of years",
+    "They were made in a factory"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Over many generations, plants with better hooks and geckos with better grip left more young. So those features spread. Picking 'a scientist designed them' mixes up nature's designs with people's copies of them.",
    "outcome": 6
   },
@@ -3170,12 +3170,12 @@
    "t": "mcq",
    "p": "Deep down, the gecko's grip and the water drop's round shape both come from…",
    "opts": [
+    "Electric pulls between atoms and molecules",
     "Gravity",
     "Magnets",
-    "Electric pulls between atoms and molecules",
     "Glue"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Gecko hair tips and the wall pull on each other with tiny electric forces. Water molecules pull on each other with electric forces too, which rounds a drop. Picking gravity is common, but gravity here is far too weak.",
    "outcome": 6
   },
@@ -3183,12 +3183,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
+    "Whether a thin film of water helps geckos grip",
     "Whether lotus leaves have bumps",
     "Whether Velcro has hooks",
-    "Whether kingfishers dive into water",
-    "Whether a thin film of water helps geckos grip"
+    "Whether kingfishers dive into water"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Scientists agree the pull between atoms does most of the gecko's grip. They still argue about how much a thin film of water helps. The other three can be seen with a microscope or your own eyes.",
    "outcome": 6
   }

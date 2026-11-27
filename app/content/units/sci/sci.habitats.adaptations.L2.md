@@ -436,7 +436,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 1. (match) Draw a line from each body part to the place where it helps.  
    **Answer:** Fins and gills → A river; A hump of fat and wide feet → A desert; Thick fur and wide, furry paws → A snowy mountain; Leaves that float → A pond. *Why:* Fins and gills help a fish in water. A hump and wide feet help a camel in the desert. Thick fur and wide paws help a snow leopard in snow. Floating leaves help a lotus in a pond.
 2. (mcq) What does a fish breathe with?  
-   Options: Gills / Fins / Scales  
+   Options: Fins / Gills / Scales  
    **Answer:** Gills. *Why:* Gills take oxygen out of the water. Fins are for moving and steering, and scales cover the body.
 3. (truefalse) A camel's hump is full of water.  
    **Answer:** False. *Why:* False. The hump is a store of fat. It gets smaller when the camel has little food.
@@ -458,7 +458,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 11. (perspective) Two children in Chennai are arguing about a fish and a camel.  
    **Answer:** A strong answer picks a side and gives a reason, then sees that each animal is suited to their own place.. *Why:* Both are right about their animal. A camel is suited to the desert and a fish to water. Neither would be better in the other's place.
 12. (mcq) What does the fin on a fish's back do?  
-   Options: Helps her breathe / Stops her from rolling over / Keeps her warm  
+   Options: Helps her breathe / Keeps her warm / Stops her from rolling over  
    **Answer:** Stops her from rolling over. *Why:* The back fin pushes against the water when the fish starts to roll, so she stays upright.
 ### Gills, spines and wrinkly fingers (stretch, 12 questions)
 1. (write) In the Paintbrush Gill activity, the brush hairs spread apart in water and stuck together in air. Why can't most fish breathe for long in air?  
@@ -472,7 +472,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 5. (draw) Draw a plant for a very dry place. Give your plant one adaptation that saves water, and say what it does.  
    **Answer:** A plant with thick leaves, spines, a waxy skin or very small leaves, with a sentence about how it saves water.. *Why:* A strong drawing shows one clear adaptation, such as spines in place of leaves, and explains that it helps the plant lose less water.
 6. (mcq) A lotus leaf floats on a pond. Rain rolls off her waxy top. Why does that help the lotus?  
-   Options: The top of the leaf stays dry and open to the air / The leaf sinks faster / Fish cannot see the leaf  
+   Options: The leaf sinks faster / The top of the leaf stays dry and open to the air / Fish cannot see the leaf  
    **Answer:** The top of the leaf stays dry and open to the air. *Why:* A dry, waxy top keeps the leaf clean and open to air and light. Water sitting on top would get in the way.
 7. (odd) Three of these help animals stay warm in snow. Which one does not?  
    Options: Thick fur / Wide, furry paws / A long tail to wrap round the face / Fins  
@@ -486,7 +486,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 11. (label) Label the fish: gills, swim bladder, tail fin, scales.  
    **Answer:** ['gills: just behind the head, under the flap', 'swim bladder: inside the belly', 'tail fin: at the back end', 'scales: all over the body']. *Why:* The gills take oxygen from the water. The swim bladder holds gas so the fish does not sink. The tail fin pushes her forward. Scales protect her skin.
 12. (mcq) A shark has no swim bladder. What must a shark do to stay up near the top of the sea?  
-   Options: Keep swimming / Hold her breath / Close her gills  
+   Options: Hold her breath / Close her gills / Keep swimming  
    **Answer:** Keep swimming. *Why:* Without a swim bladder, a shark is a little heavier than the water. Swimming keeps her up. Many sharks sink slowly if they stop.
 ### Thinking like a scientist about adaptations (challenge, 11 questions)
 1. (write) A family of fish moves into a muddy mangrove, where the water goes away twice a day. What changes might help their family, over many generations?  
@@ -494,7 +494,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 2. (perspective) A zoo in a very hot city wants to keep a snow leopard. The snow leopard would need a cold room all year.  
    **Answer:** A strong answer picks a side, uses the snow leopard's adaptations as evidence, and answers one other view.. *Why:* This is a real argument zoos have. Good answers think about what the snow leopard's body is suited to, and what people gain.
 3. (mcq) Why do many scientists think a camel keeps her fat in a hump, and not all over her body?  
-   Options: So heat can leave the rest of her body more easily / So she can float in water / So the hump can hold water  
+   Options: So she can float in water / So the hump can hold water / So heat can leave the rest of her body more easily  
    **Answer:** So heat can leave the rest of her body more easily. *Why:* A fat layer all over would hold heat in like a blanket. With the fat in one hump, heat can leave the rest of her body. This is an idea, and scientists are not completely sure.
 4. (truefalse) A camel who walks on sand all her life grows wider feet, and her calf is born with these wider feet.  
    **Answer:** False. *Why:* False. A change a body gets from being used is not passed on to the young. A calf gets her feet from her parents, and camel feet changed slowly over very many generations.
@@ -505,7 +505,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 7. (sort) Sort these into 'part of a human body' and 'something people make'.  
    **Answer:** sweat → Part of a human body; a woollen shawl → Something people make; the bigger spleen of a Bajau diver → Part of a human body; a fishing boat → Something people make; an umbrella → Something people make. *Why:* Sweat and a bigger spleen are body adaptations, passed on in families. Shawls, boats and umbrellas are things people make to suit a place.
 8. (mcq) A submarine lets water into its tanks to sink, and pushes the water out with air to rise. Which part of a fish works in a similar way?  
-   Options: The swim bladder / The tail fin / The gills  
+   Options: The tail fin / The swim bladder / The gills  
    **Answer:** The swim bladder. *Why:* The swim bladder holds more or less gas, so the fish rises or sinks. The submarine's tanks and your bottle fish work in a similar way, by swapping water and air.
 9. (odd) Which of these was a camel NOT born with?  
    Options: Wide feet / Long eyelashes / A saddle / A hump  
@@ -522,40 +522,40 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 
 ## Quiz
 1. (mcq) What is an adaptation?  
-   Options: A part of a body, or a way of behaving, that helps a living being live in their place / A new home for an animal / A kind of food  
+   Options: A new home for an animal / A kind of food / A part of a body, or a way of behaving, that helps a living being live in their place  
    **Answer:** A part of a body, or a way of behaving, that helps a living being live in their place. *Why:* An adaptation helps a living being live in their habitat, like a camel's wide feet on sand.
 2. (mcq) Which fin pushes a fish forward through the water?  
-   Options: The fin on her back / The tail fin / The fins near her head  
+   Options: The tail fin / The fin on her back / The fins near her head  
    **Answer:** The tail fin. *Why:* The tail fin pushes the water back, and the water pushes the fish forward. If you picked the back fin, that one keeps her from rolling over.
 3. (mcq) A fish is taken out of water. Why can't she breathe for long?  
-   Options: There is no oxygen in air / Her gills stick together and dry out / Her fins stop working  
+   Options: There is no oxygen in air / Her fins stop working / Her gills stick together and dry out  
    **Answer:** Her gills stick together and dry out. *Why:* Air has plenty of oxygen. But out of water, the thin gill flaps stick together, the way the brush hairs did in the Paintbrush Gill activity. So the fish cannot take enough oxygen in.
 4. (mcq) In the Bottle Fish test, the bottle full of coins and water sank. What made it float?  
-   Options: Adding more coins / Swapping a little water for air / Shaking it hard  
+   Options: Adding more coins / Shaking it hard / Swapping a little water for air  
    **Answer:** Swapping a little water for air. *Why:* Air is much lighter than water. A few spoons of air in place of water made the whole bottle light enough to float.
 5. (mcq) Many fish have a bag of gas inside their bodies. What is it called?  
-   Options: A gill / A swim bladder / A hump  
+   Options: A gill / A hump / A swim bladder  
    **Answer:** A swim bladder. *Why:* The swim bladder holds gas. It stops a fish from sinking, like the air in your bottle fish.
 6. (mcq) What is a camel's hump mostly made of?  
    Options: Water / Fat / Bone  
    **Answer:** Fat. *Why:* The hump is a store of fat. Many people think it holds water, but it does not. When a camel has little food, the hump shrinks.
 7. (mcq) Why does a camel have two rows of long eyelashes?  
-   Options: To keep blowing sand out of her eyes / To see in the dark / To keep her cool  
+   Options: To see in the dark / To keep blowing sand out of her eyes / To keep her cool  
    **Answer:** To keep blowing sand out of her eyes. *Why:* In the desert, the wind blows sand. Long eyelashes help keep it out of her eyes.
 8. (mcq) Why does a camel have thick fur on her back in the hot desert?  
    Options: It makes her hotter / It keeps the sun's heat off her skin / It helps her swim  
    **Answer:** It keeps the sun's heat off her skin. *Why:* The fur keeps the sun's heat away from her skin in the day, and keeps her warm on cold desert nights. Deep in the fur, near her skin, it stays much cooler than on top.
 9. (mcq) A cactus has spines and no flat leaves. How does that help in a dry place?  
-   Options: Spines help the cactus lose less water than wide leaves would / Spines help the cactus float / Spines catch fish  
+   Options: Spines help the cactus float / Spines catch fish / Spines help the cactus lose less water than wide leaves would  
    **Answer:** Spines help the cactus lose less water than wide leaves would. *Why:* Plants lose water through their leaves. With spines in place of wide leaves, a cactus loses much less, and keeps water in her thick stem.
 10. (mcq) Which plant is suited to living in a pond?  
-   Options: A cactus / A lotus / A khejri tree  
+   Options: A lotus / A cactus / A khejri tree  
    **Answer:** A lotus. *Why:* Lotus leaves float on the water, and rain rolls off their waxy tops. A cactus and a khejri tree are suited to dry places.
 11. (mcq) How did camels come to have wide feet?  
-   Options: Each camel stretched her feet by walking on sand / Wide feet passed from parents to calves, and slowly changed over many generations / People gave camels wide feet  
+   Options: Wide feet passed from parents to calves, and slowly changed over many generations / Each camel stretched her feet by walking on sand / People gave camels wide feet  
    **Answer:** Wide feet passed from parents to calves, and slowly changed over many generations. *Why:* A calf is born with her parents' wide feet. Over thousands of generations, camels whose feet suited the sand did best, so the whole family changed.
 12. (mcq) Which of these is a human adaptation to hot places?  
-   Options: Sweating / Gills / A hump  
+   Options: Gills / A hump / Sweating  
    **Answer:** Sweating. *Why:* Humans are animals, and sweating is one of our adaptations. Sweat drying on the skin carries heat away.
 
 ## Applications

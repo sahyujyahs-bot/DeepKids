@@ -631,11 +631,11 @@
       "q": "For which of these humans do scientists have DNA?",
       "options": [
        "Homo floresiensis and Homo luzonensis",
+       "Neanderthals and Denisovans",
        "Homo naledi only",
-       "All six kinds",
-       "Neanderthals and Denisovans"
+       "All six kinds"
       ],
-      "a": 3,
+      "a": 1,
       "why": "DNA has been read from Neanderthal and Denisovan bones, which lay in cold caves. No DNA has been recovered from the island humans or from Homo naledi, who lived in warm places. So nobody knows yet how they were related to us."
      },
      "context": "This is the last step of Who Left This. Here you see which kinds are known from bones and which from DNA."
@@ -794,11 +794,11 @@
       "q": "Which of these do other kinds of humans or other animals also do?",
       "options": [
        "Write words",
-       "Make and use tools",
        "Grow a chin",
+       "Make and use tools",
        "Settle on every continent"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Chimpanzees, crows and earlier humans all make tools. Writing, a chin and reaching every continent are found only in our species so far. Choosing those picks from the short 'only us' pile."
      },
      "context": "This is the last step of Only Us. Here you compare how many claims hold up."
@@ -1022,11 +1022,11 @@
       "q": "Why does a piece of an ancestor's DNA get shorter over the generations?",
       "options": [
        "DNA wears thin with age",
-       "The child's body uses it up",
        "Crossing over swaps part of it away",
+       "The child's body uses it up",
        "Short pieces are stronger"
       ],
-      "a": 2,
+      "a": 1,
       "why": "In each generation the chromosome crosses over with a partner chromosome, so part of the ancestor's piece is replaced. Choosing 'wears thin' or 'uses it up' treats DNA like a pencil that gets shorter with use. The DNA is copied whole each time, and only the swapping cuts the piece."
      },
      "context": "This is the last step of the Shrinking Pieces Test. Here you say what you found and what it means for Neanderthal DNA in people today."
@@ -1194,12 +1194,12 @@
       "t": "mcq",
       "q": "What can spoken teaching pass on that silent watching cannot?",
       "options": [
+       "Which details matter and why",
        "The shape of the finished thing",
        "The order of the steps",
-       "Which details matter and why",
        "How fast the teacher's hands move"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A watcher can see the shape, the order and the speed. Words add what cannot be seen: which part must be exact, and what goes wrong if it is not. Choosing 'the order of the steps' misses that a watcher sees the order too."
      },
      "context": "This is the last step of the Teaching Test. Here you say what you found and what it suggests about teaching and language."
@@ -1291,10 +1291,10 @@
       "options": [
        "A Neanderthal",
        "It could be any kind",
-       "A chimpanzee",
-       "Homo sapiens, our own kind"
+       "Homo sapiens, our own kind",
+       "A chimpanzee"
       ],
-      "a": 3,
+      "a": 2,
       "why": "A chin that sticks out is found only in our species. Neanderthal jaws slope back. Choosing 'any kind' misses that some features belong to one kind only, which is why scientists look for them."
      },
      "context": "This is the last step of Four Clues on Your Own Skull. Here you decide what a skull can and cannot tell."
@@ -1399,10 +1399,10 @@
       "options": [
        "Two Neanderthals",
        "Two parents of mixed families",
-       "One Neanderthal, one Denisovan",
-       "It cannot be worked out"
+       "It cannot be worked out",
+       "One Neanderthal, one Denisovan"
       ],
-      "a": 2,
+      "a": 3,
       "why": "One copy of each kind at every place means each parent could give only one kind. Two parents from long-mixed families would give patches of NN and DD as well, because crossing over mixes the pieces."
      },
      "context": "This is the last step of Whose Child. Here you use the mother-only DNA to say which parent was which."
@@ -1490,11 +1490,11 @@
       "q": "Why do scientists read each place in ancient DNA many times, from many pieces?",
       "options": [
        "The machine needs warming up",
-       "Each reading adds new DNA",
        "One piece may be damaged or foreign",
+       "Each reading adds new DNA",
        "To make the bone last longer"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Old DNA is damaged, and some pieces come from microbes or from people who touched the bone. If many separate pieces agree, the letter can be trusted. Choosing 'adds new DNA' mixes up reading with making."
      },
      "context": "This is the last step of The Shredded Message. Here you rebuild the sentence again with a guide, as scientists do."
@@ -1576,11 +1576,11 @@
       "q": "Why has more ancient human DNA been found in Siberia than in South India?",
       "options": [
        "More ancient humans lived in Siberia",
-       "DNA breaks down more slowly in the cold",
        "Indian bones never had DNA",
-       "Cold makes new DNA"
+       "Cold makes new DNA",
+       "DNA breaks down more slowly in the cold"
       ],
-      "a": 1,
+      "a": 3,
       "why": "The reactions that cut DNA go more slowly in the cold, so more survives. Choosing 'more humans lived in Siberia' mixes up where people lived with where their DNA lasted. India's stone tools show that ancient humans lived here for more than a million years."
      },
      "context": "This is the last step of Warm or Cold. Here you link the fizz test to DNA in old bones."
@@ -1931,11 +1931,11 @@
       "q": "Why do scientists take bone powder from inside a bone, not from its surface?",
       "options": [
        "The inside is softer to drill",
-       "The surface carries DNA from people and microbes",
        "The surface has no bone in it",
-       "Inside powder is a nicer colour"
+       "Inside powder is a nicer colour",
+       "The surface carries DNA from people and microbes"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Everyone who has handled the bone has left skin cells on the surface, and microbes live there too. The inside is better protected. Choosing 'softer to drill' picks a reason of comfort, when the real reason is contamination."
      },
      "context": "This is the last step of The Clean Sample. Here you compare your method with a real laboratory's."
@@ -1954,12 +1954,12 @@
      "t": "mcq",
      "p": "About how many kinds of humans were alive 100,000 years ago?",
      "opts": [
-      "Only one",
       "At least five",
+      "Only one",
       "Exactly two",
       "None yet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Our species, Neanderthals, Denisovans, Homo floresiensis and Homo luzonensis were all alive then. Choosing 'only one' follows the old picture of a single line."
     },
     {
@@ -2010,11 +2010,11 @@
      "p": "Which feature of the skeleton is found only in our species?",
      "opts": [
       "A large brain",
-      "A chin that sticks out",
       "Legs for upright walking",
-      "A thumb"
+      "A thumb",
+      "A chin that sticks out"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Only Homo sapiens has a chin that sticks out. Neanderthals had brains as large as ours, and all these humans walked upright and had thumbs."
     },
     {
@@ -2079,12 +2079,12 @@
      "t": "mcq",
      "p": "Why is ancient DNA found mostly in cold places?",
      "opts": [
-      "Ancient humans lived only in cold places",
       "DNA breaks down more slowly in the cold",
+      "Ancient humans lived only in cold places",
       "Cold makes new DNA",
       "Hot places have no caves"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The reactions that cut DNA go more slowly in the cold. Ancient humans lived in hot places too, as India's stone tools show, but their DNA has not lasted."
     },
     {
@@ -2151,12 +2151,12 @@
      "t": "mcq",
      "p": "In the Shrinking Pieces Test, all six lines followed the same rules. Why did they end differently?",
      "opts": [
-      "Chance chose each cut place and side",
       "The lines had different rules",
       "Some lines started with less red",
-      "Red squares are weaker than white"
+      "Red squares are weaker than white",
+      "Chance chose each cut place and side"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The chit and the coin were different each time, so each line lost different parts. Every line began with the same 20 red squares.",
      "how": "e1"
     },
@@ -2186,12 +2186,12 @@
      "t": "mcq",
      "p": "A child has one Neanderthal copy and one Denisovan copy at every marker place. Who were the parents?",
      "opts": [
-      "One Neanderthal and one Denisovan",
       "Two Neanderthals",
       "Two Denisovans",
-      "Two people of our species"
+      "Two people of our species",
+      "One Neanderthal and one Denisovan"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Each parent gave one copy at every place. One could give only the Neanderthal kind and the other only the Denisovan kind.",
      "how": "a2"
     },
@@ -2377,12 +2377,12 @@
      "t": "mcq",
      "p": "In the paper test the red share kept halving. Why does the real Neanderthal share stay near 2 percent?",
      "opts": [
-      "Neanderthal DNA copies itself faster",
       "Later partners carried pieces too",
+      "Neanderthal DNA copies itself faster",
       "People still meet Neanderthals",
       "The paper test was wrong in every way"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In the paper test every partner was all white. In real life, after the mixing, most people in the group carried some pieces, so the average stopped falling quickly.",
      "how": "e1"
     },
@@ -2456,12 +2456,12 @@
      "t": "mcq",
      "p": "A fossil's mitochondrial DNA is the Neanderthal kind. What does that prove, taken alone?",
      "opts": [
+      "Only that the mother's line was Neanderthal",
       "That both parents were Neanderthals",
       "That the father was a Neanderthal",
-      "Only that the mother's line was Neanderthal",
       "That the fossil is our species"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Mitochondrial DNA comes only from the mother. Denny's was Neanderthal, yet her father was a Denisovan. The rest of the genome is needed for the father's side."
     },
     {
@@ -2536,11 +2536,11 @@
      "p": "What is the leading explanation for the small size of Homo floresiensis?",
      "opts": [
       "They were all children",
-      "On islands with little food, small bodies do better",
       "Cold weather shrinks bones",
-      "They ate only plants"
+      "They ate only plants",
+      "On islands with little food, small bodies do better"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A small body needs less food, so over many generations island animals often become smaller. The skeleton had adult teeth and bones, so she was not a child."
     },
     {
@@ -2592,12 +2592,12 @@
    "t": "mcq",
    "p": "On which continent did Denisovans live?",
    "opts": [
-    "Asia",
     "South America",
     "Antarctica",
+    "Asia",
     "Australia"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Denisovan fossils come from Siberia, the Tibetan Plateau and eastern Asia. No other kind of human reached the Americas or Antarctica.",
    "outcome": 0
   },
@@ -2605,12 +2605,12 @@
    "t": "mcq",
    "p": "What can the teeth in a fossil jaw tell a scientist?",
    "opts": [
+    "About how old the person was",
     "What language they spoke",
     "The person's name",
-    "Their favourite food by taste",
-    "About how old the person was"
+    "Their favourite food by taste"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Teeth come through in a fixed order and have growth lines, so they show age. Words and names leave no trace in bone.",
    "outcome": 1
   },
@@ -2638,12 +2638,12 @@
    "t": "mcq",
    "p": "Where does most of the DNA in an old bone usually come from?",
    "opts": [
-    "Microbes that lived in the bone",
     "The person who died",
+    "Microbes that lived in the bone",
     "Plants growing nearby",
     "The rock around the bone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Microbes move into a bone after death and leave their DNA. The person's own DNA is often a small part, which is why the work is hard.",
    "outcome": 2
   },
@@ -2665,12 +2665,12 @@
    "t": "mcq",
    "p": "Two people each carry about 2 percent Neanderthal DNA. How do their pieces compare?",
    "opts": [
+    "They are mostly different pieces",
     "They are exactly the same pieces",
     "One of them must have none",
-    "Both have a whole Neanderthal chromosome",
-    "They are mostly different pieces"
+    "Both have a whole Neanderthal chromosome"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Chance decided which pieces each family line kept. That is why the pieces of many people together cover so much more of the genome.",
    "outcome": 3
   },
@@ -2679,11 +2679,11 @@
    "p": "Which evidence shows that our ancestors had children with Neanderthals?",
    "opts": [
     "Neanderthal tools in museums",
-    "Neanderthal DNA pieces in living people",
     "Old stories about giants",
+    "Neanderthal DNA pieces in living people",
     "Neanderthal bones in Europe"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Tools and bones show that Neanderthals existed. Only shared DNA shows that children were born between the two groups.",
    "outcome": 4
   },
@@ -2691,12 +2691,12 @@
    "t": "mcq",
    "p": "A bone's DNA has one Neanderthal and one Denisovan copy all along every chromosome. What does that show?",
    "opts": [
-    "One parent of each kind",
     "A mistake in the laboratory, always",
     "Two Neanderthal parents",
-    "A long-mixed family"
+    "A long-mixed family",
+    "One parent of each kind"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each parent gives one copy of every chromosome. Unbroken copies of two kinds mean the parents themselves were of the two kinds. A long-mixed family would show patches.",
    "outcome": 4
   },
@@ -2717,12 +2717,12 @@
    "t": "mcq",
    "p": "Which of these is still not known?",
    "opts": [
+    "Which kind of human made India's oldest stone tools",
     "Whether Neanderthals existed",
     "Whether children get DNA from parents",
-    "Which kind of human made India's oldest stone tools",
     "Whether our species began in Africa"
    ],
-   "a": 2,
+   "a": 0,
    "why": "India's oldest tools have no bones with them and no DNA has lasted, so the makers are unknown. The other three are well supported by evidence.",
    "outcome": 6
   }

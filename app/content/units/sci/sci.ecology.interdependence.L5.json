@@ -624,11 +624,11 @@
       "q": "In which pair are the two beings most likely to compete?",
       "options": [
        "A bee and a mustard flower",
-       "Two mustard plants in one pot",
        "A fungus and a tree root",
+       "Two mustard plants in one pot",
        "A coral and the algae inside"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Two mustard plants need exactly the same things from the same pot, so each leaves less for the other. If you chose a pair of very different beings, look again at what each one needs. They need different things, so they have something to exchange."
      },
      "context": "This is the last step of Partner, Rival or Robber? Here you sort the cards and look for a pattern."
@@ -999,12 +999,12 @@
       "t": "mcq",
       "q": "Sixty-four seedlings in one cup had thin stems and small leaves. What is the best explanation?",
       "options": [
-       "The seedlings fought each other",
        "Each got a smaller share of water and light",
+       "The seedlings fought each other",
        "Methi seeds are weak",
        "The cup was too cold"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All 64 seedlings needed the same water, minerals and light, so each got a small share. Nobody fought. If you chose 'fought', remember that competition only means using up what a neighbour also needs."
      },
      "context": "This is the last step of the Crowded Cup Test. Here you say what you found and why, and then compare with what scientists say."
@@ -1199,11 +1199,11 @@
       "q": "Why can a dry lichen take up water so much faster than a dry leaf?",
       "options": [
        "The lichen is thirstier",
-       "The lichen has no waxy skin",
        "The leaf is dead",
+       "The lichen has no waxy skin",
        "The lichen has long roots"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A lichen has no waxy skin, so water passes in over the whole surface. A leaf's waxy skin slows water down in both directions. If you chose 'long roots', remember that a lichen has no roots at all."
      },
      "context": "This is the last step of Lichen from the Spice Box. Here you work out how much water each took up and explain the difference."
@@ -1358,12 +1358,12 @@
       "t": "mcq",
       "q": "In a lichen, which partner makes the sugar?",
       "options": [
-       "The fungus",
        "The alga",
+       "The fungus",
        "Both equally",
        "Neither: sugar comes from the bark"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The alga is green and makes sugar from light, air and water. The fungus cannot make sugar. If you chose 'the bark', remember that lichens also grow on bare rock and glass, which give no food."
      },
      "context": "This is the last step of Inside a Lichen. Here you label your model and show what passes between the partners."
@@ -1511,11 +1511,11 @@
       "q": "A bee bites a hole near the base of a flower and drinks the nectar. Who gains?",
       "options": [
        "Both the bee and the plant",
-       "Only the bee",
        "Only the plant",
+       "Only the bee",
        "Neither"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The bee gets the nectar. The plant made the nectar and got no pollen carried, so the plant loses. If you chose 'both', check whether the bee touched the pollen."
      },
      "context": "This is the last step of Honest Visitor or Robber? Here you count honest visits and robberies and say who gained."
@@ -1710,11 +1710,11 @@
       "q": "In a mixed cup, methi grew better than in a cup of only methi. What is the most likely reason?",
       "options": [
        "Mustard fed the methi",
-       "The two kinds needed slightly different things",
        "Mixed cups get more sun",
+       "The two kinds needed slightly different things",
        "Methi likes company"
       ],
-      "a": 1,
+      "a": 2,
       "why": "If two kinds use light, water or minerals a little differently, each leaves more for the other than a twin would. This is a game moment. Your own cups may have shown the opposite, and that is a real result too."
      },
      "context": "This is the last step of Two Kinds in One Cup. Here you compare the seedlings and write a report."
@@ -1816,12 +1816,12 @@
      "t": "mcq",
      "p": "Two kinds of living beings live together and both gain. What is this called?",
      "opts": [
-      "Mutualism",
       "Competition",
+      "Mutualism",
       "Parasitism",
       "Commensalism"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In mutualism both partners gain more than they lose. In competition both lose, and in parasitism one loses."
     },
     {
@@ -1915,12 +1915,12 @@
      "t": "mcq",
      "p": "What do seedlings in a crowded cup compete for?",
      "opts": [
-      "Water, light and minerals",
       "Nectar",
       "Pollen",
+      "Water, light and minerals",
       "Bees"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Seedlings need water and minerals from the soil and light from above. Nectar and pollen belong to flowers and their visitors."
     },
     {
@@ -1997,12 +1997,12 @@
      "t": "mcq",
      "p": "A bee and a flower can be partners. Two bees at one small flower compete. Why?",
      "opts": [
-      "The bee and the flower need different things",
       "Bees dislike each other",
       "Flowers are bigger than bees",
-      "Bees are all one colour"
+      "Bees are all one colour",
+      "The bee and the flower need different things"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The flower needs pollen carried and the bee needs sugar, so they can exchange. Two bees both need the same nectar, so each leaves less for the other."
     },
     {
@@ -2093,12 +2093,12 @@
      "t": "mcq",
      "p": "In heavily fertilised soil, a plant with root fungi may grow a little less. Why?",
      "opts": [
-      "The plant pays sugar but needs little help",
       "Fungi eat the roots",
+      "The plant pays sugar but needs little help",
       "Fungi block the light",
       "Fertiliser turns fungi green"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In rich soil the plant can get phosphate alone. The fungus still takes sugar, so the plant pays for something they hardly need."
     },
     {
@@ -2185,12 +2185,12 @@
      "t": "mcq",
      "p": "Bushy lichens hang from trees in a hill town but not in a city centre. What is the most likely reason?",
      "opts": [
-      "The city air is dirtier",
       "City trees are taller",
       "Lichens dislike people",
+      "The city air is dirtier",
       "Hills have more rock"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Lichens soak up whatever the rain and air carry, and bushy kinds are harmed most easily. A careful scientist would also check the age of the trees and how damp each place is."
     },
     {
@@ -2264,12 +2264,12 @@
      "t": "mcq",
      "p": "You want to test whether a root fungus helps a plant. What should you compare?",
      "opts": [
-      "One kind of plant, with and without fungus",
       "Big plants and small plants",
+      "One kind of plant, with and without fungus",
       "Two different kinds of plant",
       "Plants in sun and plants in shade"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Only the fungus should differ. Soil, water, light and the kind of plant must be the same, as the cups were in the Crowded Cup Test."
     },
     {
@@ -2289,12 +2289,12 @@
      "t": "mcq",
      "p": "Which evidence best shows that mitochondria were once free-living bacteria?",
      "opts": [
-      "Their genes are like the genes of bacteria",
       "They are very small",
       "They are inside cells",
-      "They use food"
+      "They use food",
+      "Their genes are like the genes of bacteria"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Many things are small or use food. Genes that match those of bacteria point to a shared family history."
     },
     {
@@ -2456,12 +2456,12 @@
    "t": "mcq",
    "p": "Why were the seedlings in the 64-seed cup thinner than those in the 4-seed cup?",
    "opts": [
-    "They attacked each other",
     "Each got less water and light",
+    "They attacked each other",
     "Their seeds were smaller",
     "They were a different kind"
    ],
-   "a": 1,
+   "a": 0,
    "why": "All the cups had the same water, soil and light. With 64 sharing, each seedling got less. Nobody attacks anybody in competition.",
    "outcome": 1,
    "how": "e1"
@@ -2486,10 +2486,10 @@
    "opts": [
     "Both can make sugar",
     "Bees are kind to flowers",
-    "Each gives what the other cannot do",
-    "Flowers can fly to bees"
+    "Flowers can fly to bees",
+    "Each gives what the other cannot do"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A plant makes sugar easily but cannot move. A bee flies easily but cannot make sugar. Kindness is not needed for a trade to work.",
    "outcome": 2
   },
@@ -2497,12 +2497,12 @@
    "t": "mcq",
    "p": "What does a root fungus get from the plant?",
    "opts": [
+    "Sugar",
     "Phosphate",
     "Sunlight",
-    "Nitrogen from the air",
-    "Sugar"
+    "Nitrogen from the air"
    ],
-   "a": 3,
+   "a": 0,
    "why": "A fungus cannot make sugar, so the plant's sugar is the payment. Phosphate goes the other way, from the fungus to the plant.",
    "outcome": 3
   },
@@ -2510,12 +2510,12 @@
    "t": "mcq",
    "p": "Why can fungal threads reach minerals that roots cannot?",
    "opts": [
-    "They are far thinner and spread farther",
     "They are green",
     "They are heavier",
-    "They make their own minerals"
+    "They make their own minerals",
+    "They are far thinner and spread farther"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Hyphae are many times thinner than the finest root, so they enter tiny gaps and spread beyond the soil the root has used up.",
    "outcome": 3
   },
@@ -2530,12 +2530,12 @@
    "t": "mcq",
    "p": "Lichens are among the first living beings to be harmed by dirty air. Why?",
    "opts": [
+    "They soak up rain and dust all over",
     "They have very large leaves",
     "They have deep roots",
-    "They soak up rain and dust all over",
     "They breathe very fast"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A lichen has no waxy skin and no roots. Whatever is in the rain and dust goes straight in.",
    "outcome": 4
   },
@@ -2544,11 +2544,11 @@
    "p": "An orchid makes no nectar but looks like a flower that does. A bee visits. Who gains?",
    "opts": [
     "Only the bee",
-    "Only the orchid",
     "Both",
-    "Neither"
+    "Neither",
+    "Only the orchid"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The orchid gets pollen carried and pays nothing. The bee spends time and effort for no food. The orchid is a cheater.",
    "outcome": 5
   },
@@ -2557,11 +2557,11 @@
    "p": "The same fungus helps a plant in poor soil but not in rich soil. Why?",
    "opts": [
     "The fungus dies in rich soil",
-    "Rich soil has no water",
     "In rich soil the plant needs little help",
+    "Rich soil has no water",
     "The plant stops making sugar"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A trade is worth making only if you need what the other side offers. In rich soil the plant can get minerals alone, but still pays sugar.",
    "outcome": 5
   },
@@ -2569,12 +2569,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
+    "Whether old trees feed young trees through fungi",
     "Whether bees carry pollen",
     "Whether crowded plants compete",
-    "Whether a lichen holds a fungus",
-    "Whether old trees feed young trees through fungi"
+    "Whether a lichen holds a fungus"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The first three have been tested many times. The idea that trees feed each other through fungi rests on few tests in real forests, and scientists read them differently.",
    "outcome": 6
   }

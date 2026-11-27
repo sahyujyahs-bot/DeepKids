@@ -807,10 +807,10 @@
       "q": "A candle flame and a cold virus each pass two of NASA's three parts. Which part does each one fail?",
       "options": [
        "Both fail 'chemical system'",
-       "The flame fails 'evolve', the virus fails 'self-sustaining'",
-       "The flame fails 'self-sustaining', the virus fails 'evolve'"
+       "The flame fails 'self-sustaining', the virus fails 'evolve'",
+       "The flame fails 'evolve', the virus fails 'self-sustaining'"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A flame keeps itself going but has no instructions to pass on, so a flame cannot evolve. A virus's kind evolves, but a virus particle does not keep themselves going. So the definition needs both parts: each one alone lets in something that few people call alive."
      },
      "context": "This is the last step of Three Tokens. Here you sort the cards by how many parts they pass."
@@ -932,10 +932,10 @@
       "q": "The measles virus infects humans but not dogs. Why?",
       "options": [
        "Dogs are too clean",
-       "The virus's coat fits a receptor on human cells only",
-       "Measles viruses dislike dogs' food"
+       "Measles viruses dislike dogs' food",
+       "The virus's coat fits a receptor on human cells only"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A virus can enter only a cell whose receptor fits their coat, as a key fits a lock. The measles virus fits receptors on human cells. A dog's cells have no receptor of that exact shape, so the virus cannot get in."
      },
      "context": "This is the last step of Who Fits Whom?. Here you play round 2, with the cards face down, and talk about why each virus has their own hosts."
@@ -1154,10 +1154,10 @@
       "q": "In part 2 of the Copying Chain, the line grew longer each generation. What made it grow?",
       "options": [
        "The pencil line stretched by itself",
-       "Small copying mistakes, and keeping the longest copy",
-       "The child drew longer on purpose"
+       "The child drew longer on purpose",
+       "Small copying mistakes, and keeping the longest copy"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each copy came out a little long or a little short by mistake. Keeping the longest copy each time kept the 'long' mistakes and threw the others away. The line did nothing itself. Choosing 'drew longer on purpose' misses that the child tried to copy exactly, and the change came from the choosing."
      },
      "context": "This is the last step of the Copying Chain. Here you draw the graph, explain your results and think about who did the copying."
@@ -1348,10 +1348,10 @@
       "q": "In Two Liquids, salt vanished in water but lay at the bottom of the oil. What does that tell us about life in an oily lake?",
       "options": [
        "It could use salt, if it stirred harder",
-       "It would need chemicals that dissolve in that liquid",
-       "Life is impossible without salt"
+       "Life is impossible without salt",
+       "It would need chemicals that dissolve in that liquid"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Chemicals react when they meet, and they meet easily only when dissolved. Salt does not dissolve in oily liquids, however long you stir. So life in such a lake would need different chemicals. Choosing 'impossible' goes too far: nobody knows whether other chemicals could do the job."
      },
      "context": "This is the last step of Two Liquids. Here you look for the pattern and connect it to cells and to other worlds."
@@ -1430,11 +1430,11 @@
       "t": "mcq",
       "q": "A vaccine label says 'inactivated virus'. What has been done to the virus?",
       "options": [
-       "They have been made bigger",
        "They have been damaged so no cell can copy them",
+       "They have been made bigger",
        "They have been turned into bacteria"
       ],
-      "a": 1,
+      "a": 0,
       "why": "An inactivated virus has been damaged by heat or a chemical, so that no cell can copy them. Their coat is still there, and the body learns to recognise it. Choosing 'turned into bacteria' mixes up two very different things: a bacterium is a cell, and a virus is not."
      },
      "context": "This is the last step of Live, Killed or Inactivated?. Here you sort the words people use for viruses, and see that both kinds are used."
@@ -1515,11 +1515,11 @@
       "t": "mcq",
       "q": "In Walk the Scale, a flu virus was a 1 millimetre dot and a cheek cell was 60 centimetres across. What does that show?",
       "options": [
-       "A virus is about as big as a cell",
        "Hundreds of viruses fit across one cell",
+       "A virus is about as big as a cell",
        "A cell is smaller than a virus"
       ],
-      "a": 1,
+      "a": 0,
       "why": "60 centimetres is 600 millimetres, so 600 flu viruses in a row would cross one cheek cell. A virus is far smaller than the cells that copy them. Choosing 'as big as a cell' usually comes from pictures that draw viruses and cells the same size."
      },
      "context": "This is the last step of Walk the Scale. Here you measure out a grain of salt and yourself at the same scale."
@@ -1600,11 +1600,11 @@
       "t": "mcq",
       "q": "New virus coats form inside a cell with no builder to arrange the parts. How?",
       "options": [
-       "The parts fit together by their shapes and charges",
        "The virus particle pushes each part into place",
+       "The parts fit together by their shapes and charges",
        "The cell's nucleus sticks them together by hand"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Coat proteins and the genome join by themselves, because their shapes and electric charges fit. Scientists call this self-assembly. It works even in a test tube. Choosing 'the virus pushes each part' forgets that a virus has no tools or energy of their own."
      },
      "context": "This is the last step of Pori Rafts. Here you break the rafts, watch them form again and link this to a virus's coat."
@@ -1693,11 +1693,11 @@
       "t": "mcq",
       "q": "Why does soap inactivate a flu virus but not a polio virus?",
       "options": [
-       "A flu virus has an envelope of fat, and polio has none",
        "A polio virus is too big for soap",
-       "Soap works only on plant viruses"
+       "Soap works only on plant viruses",
+       "A flu virus has an envelope of fat, and polio has none"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Soap pulls fat apart. A flu virus is wrapped in an envelope of fat, which carries the spikes they need to enter a cell. A polio virus has only a protein coat. Washing still carries polio viruses off the hands, which is why hand washing matters for both."
      },
      "context": "This is the last step of Soap and the Fatty Coat. Here you connect the bottles to a virus's envelope, and learn which viruses have none."
@@ -1774,11 +1774,11 @@
       "t": "mcq",
       "q": "Why might a test that looks for DNA fail to find life on another world?",
       "options": [
-       "Life there might store instructions in another chemical",
        "DNA is too small to find",
-       "Other worlds have no chemicals"
+       "Other worlds have no chemicals",
+       "Life there might store instructions in another chemical"
       ],
-      "a": 0,
+      "a": 2,
       "why": "DNA is how Earth's life stores instructions, but scientists have built other chemicals, called XNAs, that can do the same job. Life elsewhere might use one of those, or something else. A DNA test would miss it."
      },
      "context": "This is the last step of A Being for Another World. Here you test your invented being against NASA's three parts."
@@ -1853,11 +1853,11 @@
       "t": "mcq",
       "q": "Scientists on both sides of the virus debate agree about what viruses do. What do they disagree about?",
       "options": [
-       "Whether viruses exist",
        "Which test for life matters most",
+       "Whether viruses exist",
        "Whether viruses have genes"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both sides accept the same facts. One side says doing your own chemistry is what counts, and the other says carrying instructions that evolve is what counts. So the disagreement is about the definition, and no new fact about viruses would settle it."
      },
      "context": "This is the last step of Switch Sides. Here you say where the two sides really disagree."
@@ -2051,11 +2051,11 @@
       "t": "mcq",
       "q": "A vaccine gives the body antibodies that fit a virus's spike. Why might the same vaccine work less well some years later?",
       "options": [
-       "The antibodies get tired",
        "Mutations have changed the shape of the spike",
+       "The antibodies get tired",
        "The cell's receptor has disappeared"
       ],
-      "a": 1,
+      "a": 0,
       "why": "An antibody fits one exact shape. Copying mistakes change the spike a little, and viruses whose spikes escape the antibodies are copied more. After some years the common spike has a new shape, so the old antibodies fit badly."
      },
      "context": "This is the last step of Block the Key. Here you design your own blocker, and then the virus key changes shape."
@@ -2141,11 +2141,11 @@
       "t": "mcq",
       "q": "Most RNA viruses make far more copying mistakes than your cells do. What is one result?",
       "options": [
-       "They evolve faster",
        "They grow larger",
+       "They evolve faster",
        "They stop being copied"
       ],
-      "a": 0,
+      "a": 1,
       "why": "More mistakes mean more differences between copies, so there is more for selection to work on. That is why flu viruses change from year to year. Many of the mistaken copies fail, but the virus is copied in such huge numbers that some changed copies do well."
      },
      "context": "This is the last step of the Mistake-Proof Message. Here you design your own system, test it, and ask whether copying mistakes are always bad."
@@ -2302,12 +2302,12 @@
      "t": "mcq",
      "p": "In the Copying Chain, which lines wandered furthest from 100 millimetres?",
      "opts": [
-      "Copies of the last copy",
       "Copies of the original",
       "Lines drawn with the ruler",
-      "All wandered equally"
+      "All wandered equally",
+      "Copies of the last copy"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When each line is copied from the last copy, each new mistake is added to all the earlier ones. Copies made from the original start afresh each time, so they stay close.",
      "outcome": 2,
      "how": "e1"
@@ -2393,12 +2393,12 @@
      "t": "mcq",
      "p": "Why do most RNA viruses evolve faster than your own cells?",
      "opts": [
-      "Their copying enzyme does not check for mistakes",
       "They are kept warmer",
       "They have many more genes",
+      "Their copying enzyme does not check for mistakes",
       "They are much heavier"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your cells check and repair their copies. Most RNA viruses bring a copying enzyme that does no checking, so nearly every new copy has a changed letter. More differences give selection more to work on.",
      "outcome": 2
     },
@@ -2443,12 +2443,12 @@
      "t": "mcq",
      "p": "A candle flame is chemical and keeps itself going. Why can a flame not evolve?",
      "opts": [
-      "It has no instructions that are copied with changes",
       "It is too hot",
       "It needs air",
+      "It has no instructions that are copied with changes",
       "It lasts too short a time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Evolution needs copies that differ and pass the differences on. A new flame lit from an old one carries nothing over from it. A flame's shape depends only on the wick, the wax and the air now.",
      "outcome": 3
     },
@@ -2550,12 +2550,12 @@
      "t": "mcq",
      "p": "In Soap and the Fatty Coat, soap kept oil spread through water. What does soap do to a flu virus?",
      "opts": [
-      "Pulls apart the envelope of fat",
       "Dissolves the genome",
+      "Pulls apart the envelope of fat",
       "Feeds the virus",
       "Makes the virus heavier"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A soap molecule holds fat at one end and water at the other. It pulls the fat of the envelope apart, and the spikes in the envelope are lost with it. Without spikes the virus cannot enter a cell.",
      "outcome": 0,
      "how": "a4"
@@ -2633,12 +2633,12 @@
      "t": "mcq",
      "p": "In Two Liquids, salt dissolved in water and not in oil. What would that mean for life in an oily lake?",
      "opts": [
-      "It would need different chemicals",
       "It would have to stir harder",
       "It would taste salty",
+      "It would need different chemicals",
       "It would need no chemicals"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Chemicals must be dissolved to meet and react. Salts and sugars do not dissolve in oily liquids. So life there could not be built from the same chemicals as ours.",
      "outcome": 6,
      "how": "e2"
@@ -2763,12 +2763,12 @@
      "t": "mcq",
      "p": "About 8 of every 100 letters in your genome came from viruses. What does that show?",
      "opts": [
-      "Viruses left their genomes in our ancestors",
       "We are 8 percent ill",
       "Viruses are small humans",
-      "Our genome is shrinking"
+      "Our genome is shrinking",
+      "Viruses left their genomes in our ancestors"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Some viruses put their genome into the host's genome. When that happened in an egg or sperm cell long ago, the virus's letters were passed down to every descendant.",
      "outcome": 5
     },
@@ -2898,12 +2898,12 @@
    "t": "mcq",
    "p": "What builds the proteins of a new virus?",
    "opts": [
-    "The host cell's ribosomes",
     "The virus particle",
     "The virus's envelope",
-    "The cell's receptor"
+    "The cell's receptor",
+    "The host cell's ribosomes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A virus has no ribosomes. The host cell's ribosomes read the virus's genome and build the virus's proteins. Choosing 'the virus particle' forgets that a particle builds nothing.",
    "outcome": 1
   },
@@ -2911,12 +2911,12 @@
    "t": "mcq",
    "p": "Which three things does evolution need?",
    "opts": [
-    "Copies, small differences, unequal success",
     "Food, water and air",
     "Cells, a brain and legs",
-    "Heat, light and time"
+    "Heat, light and time",
+    "Copies, small differences, unequal success"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Evolution happens whenever there are copies, the copies differ a little in ways that are passed on, and some leave more copies than others. Nothing else is needed.",
    "outcome": 2
   },
@@ -2924,12 +2924,12 @@
    "t": "mcq",
    "p": "In the Copying Chain, you kept the longest of three copies each time. What happened to the line?",
    "opts": [
-    "It grew steadily longer",
     "It stayed at 100 millimetres",
     "It grew steadily shorter",
-    "It vanished"
+    "It vanished",
+    "It grew steadily longer"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each copy came out a little long or short by mistake. Keeping the longest each time kept the 'long' mistakes. The line did nothing: copying and choosing did the work.",
    "outcome": 2,
    "how": "e1"
@@ -2938,12 +2938,12 @@
    "t": "mcq",
    "p": "NASA says life is a self-sustaining chemical system capable of what?",
    "opts": [
-    "Darwinian evolution",
     "Fast movement",
+    "Darwinian evolution",
     "Speech",
     "Living in water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The definition ends 'capable of Darwinian evolution'. It means the kind can change over generations through copies that differ.",
    "outcome": 3
   },
@@ -2951,12 +2951,12 @@
    "t": "mcq",
    "p": "Which of these passes all three parts of NASA's definition?",
    "opts": [
-    "A curd bacterium",
     "A candle flame",
     "A cold virus particle",
-    "A salt crystal"
+    "A salt crystal",
+    "A curd bacterium"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A bacterium is chemical, keeps themselves going and evolves. A flame cannot evolve, a virus particle does not sustain themselves, and a crystal does neither.",
    "outcome": 3
   },
@@ -2964,12 +2964,12 @@
    "t": "mcq",
    "p": "Scientists who call viruses alive point to which fact?",
    "opts": [
-    "Viruses carry genes that evolve",
     "Viruses make their own energy",
     "Viruses have ribosomes",
+    "Viruses carry genes that evolve",
     "Viruses grow in plain broth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Viruses carry genes, are copied and evolve. The other three statements are false, and they are the reasons other scientists give for saying viruses are not alive.",
    "outcome": 4
   },
@@ -2977,12 +2977,12 @@
    "t": "mcq",
    "p": "Why is NASA's definition called a 'working definition'?",
    "opts": [
-    "It is useful now and may change",
     "It is used only at work",
     "It has been proved true",
-    "It describes working animals"
+    "It describes working animals",
+    "It is useful now and may change"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A working definition is a rule people agree to use for now because it is useful. Scientists expect to change it when they learn more.",
    "outcome": 5
   },
@@ -2990,12 +2990,12 @@
    "t": "mcq",
    "p": "Why might life in an oily lake need different chemicals from ours?",
    "opts": [
-    "Salts and sugars do not dissolve in oil",
     "Oily lakes are too wet",
     "Oil contains no atoms",
+    "Salts and sugars do not dissolve in oil",
     "Our chemicals are too heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Chemicals must dissolve in the liquid to meet and react. The salts and sugars our cells use do not dissolve in oily liquids.",
    "outcome": 6,
    "how": "e2"
@@ -3004,12 +3004,12 @@
    "t": "mcq",
    "p": "In the Two Liquids test, what was the one thing you changed on purpose?",
    "opts": [
-    "The liquid",
     "The amount of liquid",
     "The number of stirs",
+    "The liquid",
     "The waiting time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test you change one thing and keep the rest the same. Here only the liquid changed, so any difference was caused by the liquid.",
    "outcome": 7,
    "how": "e2"

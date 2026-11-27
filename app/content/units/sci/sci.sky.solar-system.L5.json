@@ -759,11 +759,11 @@
       "t": "mcq",
       "q": "One ball is 4 times as heavy as the other. Where is their balance point?",
       "options": [
-       "Halfway between the two balls",
        "4 times nearer the heavy ball than the light one",
+       "Halfway between the two balls",
        "At the very middle of the heavy ball"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The heavy ball sits a quarter as far from the balance point as the light ball does. Choosing halfway means treating the two balls as equal. Choosing the heavy ball's middle forgets the light ball's weight, which always pulls the point a little towards it."
      },
      "context": "This is the last step of The Two-Ball Balance. You say the rule you found, test it with 8 pieces against 1, and explain your results."
@@ -1123,11 +1123,11 @@
       "t": "mcq",
       "q": "A star swings in a small circle. What does a wider circle suggest about a hidden planet?",
       "options": [
-       "The planet is heavier or further away",
        "The planet is lighter and nearer",
+       "The planet is heavier or further away",
        "The star is lighter than the planet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A heavier or more distant planet pulls the balance point further from the star, so the star moves in a bigger circle. Choosing a lighter planet reverses the rule. In The Hidden Ball, 4 hidden pieces made a much wider swing than 1 piece."
      },
      "context": "This is the last step of The Hidden Ball. You use the swing widths to guess the hidden dough, open the cups, and explain your results."
@@ -1228,11 +1228,11 @@
       "t": "mcq",
       "q": "On a scale where the Earth is a marble, where is the Moon?",
       "options": [
+       "About 48 cm away",
        "Touching the marble",
-       "About 5 cm away",
-       "About 48 cm away"
+       "About 5 cm away"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The Moon is about 30 Earth-widths away, which is 48 cm for a marble 1.6 cm wide. Choosing a nearer place usually comes from book pictures, which draw the Moon close so it fits on the page."
      },
      "context": "This is the last step of Marble Earth, Peppercorn Moon. With the Earth as a marble, you work out how far away and how wide the Sun is."
@@ -1307,11 +1307,11 @@
       "t": "mcq",
       "q": "A heavy person and a light person turn round each other, holding a towel. Who makes the smaller circle?",
       "options": [
-       "The heavy person",
        "The light person",
-       "Neither, because the heavy person stays still"
+       "Neither, because the heavy person stays still",
+       "The heavy person"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both go round the balance point between them, and that point is nearer the heavy person. Choosing 'stays still' is the usual picture of the Earth and the Moon, but the heavy one always moves a little too."
      },
      "context": "This is the last step of The Towel Spin. After turning round each other, you measure how far each person was from the middle."
@@ -1388,10 +1388,10 @@
       "q": "About how much of the mass of the solar system is in the Sun?",
       "options": [
        "About half",
-       "About 90 parts in 100",
-       "More than 99 parts in 100"
+       "More than 99 parts in 100",
+       "About 90 parts in 100"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The Sun holds about 99.86 percent of the mass. Choosing a smaller share usually comes from pictures that draw the planets large beside the Sun."
      },
      "context": "This is the last step of A Thousand Grains of Rice. Out of 1,000 grains for the whole solar system, you find how many are not the Sun."
@@ -1484,11 +1484,11 @@
       "t": "mcq",
       "q": "Why is a world 1,000 km wide round, when a world 20 km wide is lumpy?",
       "options": [
-       "Wind and rain wear the big world smooth",
        "The big world's gravity pulls its bumps down",
+       "Wind and rain wear the big world smooth",
        "The big world spins faster"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A wide world has enough mass for its gravity to beat the strength of its rock or ice. Choosing wind and rain forgets that most of these worlds have no air. Fast spinning would flatten a world, not round it."
      },
      "context": "This is the last step of Round or Lumpy. You use what each world is made of to explain why some narrow worlds are round and some wider ones are lumpy."
@@ -2103,10 +2103,10 @@
       "q": "Why must a picture of the solar system name its scales?",
       "options": [
        "Planets are drawn in the wrong colours",
-       "Sizes and distances may not use the same scale",
-       "The Sun is too bright to draw"
+       "The Sun is too bright to draw",
+       "Sizes and distances may not use the same scale"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A reader cannot tell how far apart or how big the planets are unless the picture says what scale each part uses. Without it, a picture can mislead."
      },
      "context": "This is the last step of An Honest Solar System. You write a caption that names both scales and say what the picture leaves out."
@@ -2190,11 +2190,11 @@
       "t": "mcq",
       "q": "A heavy ball is 8 times as heavy as a light ball. When is their balance point outside the heavy ball?",
       "options": [
-       "When the gap is more than 9 times the heavy ball's radius",
        "When the gap is less than the heavy ball's radius",
+       "When the gap is more than 9 times the heavy ball's radius",
        "Never, because the heavy ball is heavier"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The balance point is the gap divided by 9, measured from the heavy ball's middle. It is outside the ball when that is more than the ball's radius. So the gap must be more than 9 times the radius. Choosing 'never' forgets that a long gap moves the point out."
      },
      "context": "This is the last step of A Double World. You hang the pair, check that it balances, and test it against the four constraints."
@@ -2280,12 +2280,12 @@
      "t": "mcq",
      "p": "Ganymede is 5,268 km wide and Mercury is 4,879 km wide. What is Ganymede?",
      "opts": [
-      "A planet, because it is wider than Mercury",
       "A moon, because it goes round Jupiter",
+      "A planet, because it is wider than Mercury",
       "A dwarf planet, because it is smaller than Jupiter",
       "A star"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Ganymede goes round Jupiter, so it is a moon. Choosing 'a planet' uses width as the test. Width is not one of the tests.",
      "outcome": 2
     },
@@ -2377,10 +2377,10 @@
      "opts": [
       "About 4",
       "About 16",
-      "About 50",
-      "About 400"
+      "About 400",
+      "About 50"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The Earth is nearly 4 times as wide, so the Moon fits in about 4 x 4 x 4 = 64 times. The true figure is about 49, because the Moon is a little more than a quarter as wide.",
      "outcome": 5
     },
@@ -2450,12 +2450,12 @@
      "t": "mcq",
      "p": "One world has 3 times the mass of its partner. How much nearer the balance point is the heavy world?",
      "opts": [
-      "3 times nearer",
       "The same distance",
       "Half as near",
+      "3 times nearer",
       "9 times nearer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The heavy world sits as many times nearer the balance point as it is times heavier. With 3 times the mass, it is 3 times nearer.",
      "outcome": 3
     },
@@ -2463,12 +2463,12 @@
      "t": "mcq",
      "p": "Balls of 4 pieces and 1 piece sit at the ends of a 20 cm pencil. Where is the balance point?",
      "opts": [
-      "4 cm from the heavy end",
       "5 cm from the heavy end",
       "10 cm from the heavy end",
+      "4 cm from the heavy end",
       "16 cm from the heavy end"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The pencil is cut into 4 + 1 = 5 equal parts, and the balance point is 1 part from the heavy end. 20 ÷ 5 = 4 cm. The middle, 10 cm, is only right for equal balls.",
      "outcome": 3,
      "how": "e1"
@@ -2703,11 +2703,11 @@
      "p": "The Sun and Jupiter share a balance point just above the Sun's surface. What does this show?",
      "opts": [
       "Jupiter is wider than the Sun",
-      "The Sun moves a little as Jupiter goes round",
       "Jupiter does not go round the Sun",
+      "The Sun moves a little as Jupiter goes round",
       "The Sun has no gravity"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Sun goes round the balance point too, in a small circle. It does so once in about 12 years, as Jupiter goes round.",
      "outcome": 3
     },
@@ -2812,12 +2812,12 @@
      "t": "mcq",
      "p": "Nobody has seen the Oort cloud. How do astronomers know it is probably there?",
      "opts": [
-      "A telescope photographed it",
       "Comets seem to come from far away in every direction",
+      "A telescope photographed it",
       "Voyager 1 flew through it",
       "Moon rock holds pieces of it"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Astronomers worked out where comets come from by studying their paths. Voyager 1 will need about 300 years to reach the Oort cloud.",
      "outcome": 7
     },
@@ -2855,10 +2855,10 @@
    "opts": [
     "Mercury",
     "Venus",
-    "The Earth",
-    "Mars"
+    "Mars",
+    "The Earth"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The Earth is 12,742 km wide, a little wider than Venus at 12,104 km. Mars and Mercury are much smaller.",
    "outcome": 0
   },
@@ -2866,12 +2866,12 @@
    "t": "mcq",
    "p": "Which of these is true of the Earth and no other planet?",
    "opts": [
-    "It has seas of liquid water on its surface",
     "It has a moon",
     "It has air",
+    "It has seas of liquid water on its surface",
     "It goes round the Sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Other planets have moons, air and orbits. Only the Earth has liquid water on its surface, and it is the only world where we know living beings exist.",
    "outcome": 0
   },
@@ -2879,12 +2879,12 @@
    "t": "mcq",
    "p": "Which of these bodies goes round a planet?",
    "opts": [
-    "Ceres",
     "The Moon",
+    "Ceres",
     "Eris",
     "Vesta"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The Moon goes round the Earth. Ceres, Eris and Vesta all go round the Sun.",
    "outcome": 1
   },
@@ -2893,11 +2893,11 @@
    "p": "Which of these is most likely to be lumpy?",
    "opts": [
     "The Earth",
-    "The Moon",
     "Phobos, 22 km wide",
+    "The Moon",
     "Ceres, 940 km wide"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A small body has weak gravity, so it cannot pull its bumps down. Phobos is shaped like a potato. The other three are round.",
    "outcome": 1
   },
@@ -2905,12 +2905,12 @@
    "t": "mcq",
    "p": "Titan, a moon of Saturn, is 5,150 km wide. Mercury is 4,879 km wide. What can you say?",
    "opts": [
-    "Titan is a planet",
     "A moon can be wider than a planet",
+    "Titan is a planet",
     "Mercury must be a moon",
     "Titan goes round the Sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Titan is wider than Mercury, but it goes round Saturn, so it is a moon. Choosing 'Titan is a planet' uses width as the test.",
    "outcome": 2
   },
@@ -2918,12 +2918,12 @@
    "t": "mcq",
    "p": "Where is the balance point of the Earth and the Moon?",
    "opts": [
-    "Halfway between them",
     "Inside the Earth, about 4,700 km from its centre",
+    "Halfway between them",
     "At the Moon's centre",
     "Outside the Earth, near the Moon"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The Earth has 81 times the Moon's mass. 384,400 ÷ 82 is about 4,700 km. The Earth's radius is 6,371 km, so the point is inside it.",
    "outcome": 3
   },
@@ -2943,12 +2943,12 @@
    "t": "mcq",
    "p": "With the Earth as a marble, the Sun is a ball as tall as a grown-up. About how far apart are they?",
    "opts": [
+    "About 190 metres",
     "About 2 metres",
     "About 20 metres",
-    "About 190 metres",
     "About 19 kilometres"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Sun is about 11,700 Earth-widths away. A marble 1.6 cm wide gives about 187 metres.",
    "outcome": 4
   },
@@ -2969,12 +2969,12 @@
    "t": "mcq",
    "p": "How does the Sun's mass compare with the mass of all the planets together?",
    "opts": [
+    "More than 700 times as much",
     "About equal",
     "About 10 times as much",
-    "More than 700 times as much",
     "A little less"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Sun has about 333,000 Earth masses. All the planets together have about 450. So the Sun has more than 700 times as much.",
    "outcome": 5
   },
@@ -2984,10 +2984,10 @@
    "opts": [
     "It does not go round the Sun",
     "It is not round",
-    "It has not cleared its path",
-    "It has no moon"
+    "It has no moon",
+    "It has not cleared its path"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Pluto shares its path with thousands of icy bodies. That is why it is a dwarf planet.",
    "outcome": 6
   },
@@ -2995,12 +2995,12 @@
    "t": "mcq",
    "p": "Voyager 1 left the Sun's bubble of gas in 2012. Has it left the solar system?",
    "opts": [
-    "Yes, completely",
     "It depends on how the edge is measured",
+    "Yes, completely",
     "No, it is still between Mars and Jupiter",
     "Nobody can tell where it is"
    ],
-   "a": 1,
+   "a": 0,
    "why": "By the Sun's wind, it has left. By the Sun's gravity, it is still deep inside. There is no single agreed edge.",
    "outcome": 7
   },

@@ -530,7 +530,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 ## Worksheets
 ### DNA, Genes and Why Siblings Differ (core) (core, 15 questions)
 1. (mcq) Which four letters is DNA written in?  
-   Options: A, T, C and G / A, B, C and D / X and Y only / 0 and 1  
+   Options: A, B, C and D / X and Y only / A, T, C and G / 0 and 1  
    **Answer:** A, T, C and G. *Why:* DNA has four bases, called A, T, C and G. X and Y are the names of two chromosomes, not of DNA letters.
 2. (fill) A group of three DNA letters that stands for one amino acid is called a ____.  
    **Answer:** ['codon']. *Why:* The cell reads a gene three letters at a time. Each group of three is a codon.
@@ -558,7 +558,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
    Options: Cloves of one garlic bulb / Banana plants from one plant's side shoots / Identical twins / A sister and her brother  
    **Answer:** 3. *Why:* Garlic cloves, banana side shoots and identical twins all began from one set of DNA. A sister and brother each got a different half from each parent.
 13. (mcq) A mutation changes the codon GAG to GAA. Both mean the amino acid Glu. What happens to the protein?  
-   Options: Nothing changes / One amino acid changes / The chain stops early / The protein doubles  
+   Options: One amino acid changes / The chain stops early / Nothing changes / The protein doubles  
    **Answer:** Nothing changes. *Why:* Several codons can stand for the same amino acid. If the new codon means the same thing, the protein is the same. Many mutations are like this.
 14. (write) The message for a haemoglobin chain has 444 letters. Explain how one changed letter can cause sickle cell disease.  
    **Answer:** The changed letter turns the codon GAG into GTG. So one amino acid in the chain changes from Glu to Val. That makes the haemoglobin molecules stick together, and the red blood cells bend out of shape.. *Why:* A strong answer follows the chain: one letter, one codon, one amino acid, a different protein, a different cell.
@@ -566,7 +566,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
    **Answer:** A strong answer agrees with the second neighbour. Every egg carries an X, so the mother's cells cannot make the difference. The sperm carries X or Y by chance. Three the same in a row happens in 1 family in 4.. *Why:* The first neighbour's idea is very old and is wrong. The evidence is in the chromosomes.
 ### Nature with Nurture (stretch) (stretch, 15 questions)
 1. (mcq) Cloves from one garlic bulb grow long shoots in a warm place and short shoots in the fridge. Why?  
-   Options: Same DNA, different surroundings / The cold changed their DNA letters / The cloves had different parents / Garlic has no DNA  
+   Options: The cold changed their DNA letters / The cloves had different parents / Same DNA, different surroundings / Garlic has no DNA  
    **Answer:** Same DNA, different surroundings. *Why:* Cloves of one bulb are clones. The DNA is the same, so the difference comes from the warmth. The cold slows growth. It does not rewrite the letters.
 2. (truefalse) True or false: a feature that is inherited can never be changed by surroundings.  
    **Answer:** False. *Why:* False. Phenylketonuria is inherited, but a special diet from the first weeks prevents the harm. Height is partly inherited and also depends on food.
@@ -577,10 +577,10 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 5. (write) A Siamese cat is dark only on the ears, face, paws and tail. Explain why.  
    **Answer:** The cat has a gene for dark colour whose protein works only where the skin is cool. The ears, face, paws and tail are cooler than the body. So only those parts turn dark.. *Why:* A strong answer names both the gene and the temperature. Neither alone explains the pattern.
 6. (mcq) Identical twins always match in a feature. Fraternal twins often differ. What mostly sets this feature?  
-   Options: Genes / The shared home / Chance alone / School  
+   Options: The shared home / Genes / Chance alone / School  
    **Answer:** Genes. *Why:* Both kinds of twins share a home. Only identical twins share all their DNA. So if only they always match, genes are setting the feature.
 7. (mcq) Identical twins and fraternal twins match equally often in a feature. What mostly sets this feature?  
-   Options: Something the twins share at home / Genes / The Y chromosome / Mutations  
+   Options: Genes / Something the twins share at home / The Y chromosome / Mutations  
    **Answer:** Something the twins share at home. *Why:* If more shared DNA brings no more likeness, genes are not making the difference. What both kinds of twins share is their home.
 8. (truefalse) True or false: a queen bee and a worker bee grow from the same kind of egg.  
    **Answer:** True. *Why:* True. Both grow from fertilised eggs. A larva fed only royal jelly becomes a queen.
@@ -591,7 +591,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 11. (draw) Draw a rectangle. Label the length 'genes' and the width 'surroundings'. Then draw it again with the width doubled.  
    **Answer:** Two rectangles. The second is twice as wide and has twice the area.. *Why:* The area needs both sides. Changing either one changes the result, and neither side owns a share of the area.
 12. (mcq) In one group of people, the heritability of height is 80 in 100. What does this mean?  
-   Options: Most height differences there go with DNA differences / 80 per cent of your height comes from genes / Height cannot be changed by food / 80 people in 100 are tall  
+   Options: 80 per cent of your height comes from genes / Height cannot be changed by food / Most height differences there go with DNA differences / 80 people in 100 are tall  
    **Answer:** Most height differences there go with DNA differences. *Why:* Heritability describes the differences in one group in one place. It says nothing about one person, and it changes if the surroundings change.
 13. (odd) Three of these need both genes and surroundings. Which is the odd one out?  
    Options: Height / Being short-sighted / The fine detail of a fingerprint / Blood group  
@@ -602,7 +602,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
    **Answer:** Bulb A grew 62 millimetres warm and 6 cold, with the same DNA. So the place made a big difference. In the warm place bulb A grew 62 and bulb B grew 38. So the bulb made a difference too. Both matter.. *Why:* A strong answer makes two comparisons: same bulb in two places, and two bulbs in the same place.
 ### Tags, Twins and Open Arguments (challenge) (challenge, 15 questions)
 1. (mcq) What is an epigenetic mark?  
-   Options: A chemical tag that helps switch genes on or off / A changed DNA letter / An extra chromosome / A kind of amino acid  
+   Options: A changed DNA letter / An extra chromosome / A kind of amino acid / A chemical tag that helps switch genes on or off  
    **Answer:** A chemical tag that helps switch genes on or off. *Why:* A tag sits on the DNA or on the proteins around it. The letters stay the same. A changed letter is a mutation, which is a different thing.
 2. (truefalse) True or false: epigenetic marks change the order of the DNA letters.  
    **Answer:** False. *Why:* False. Tags change how easily a gene is read. The order of the letters stays as it was.
@@ -616,7 +616,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 6. (fill) A codon has three places, with four letters to choose from. So there are 4 × 4 × 4 = ____ codons.  
    **Answer:** ['64']. *Why:* 4 × 4 = 16, and 16 × 4 = 64. That is enough for 20 amino acids and three stop signals, with codons to spare.
 7. (mcq) Bacteria given the human insulin gene make human insulin. Why does this work?  
-   Options: Almost all living beings read DNA with the same code / Bacteria are tiny humans / Insulin is not a protein / The gene turns the bacteria into human cells  
+   Options: Bacteria are tiny humans / Insulin is not a protein / The gene turns the bacteria into human cells / Almost all living beings read DNA with the same code  
    **Answer:** Almost all living beings read DNA with the same code. *Why:* A codon means the same amino acid in a bacterium, a banyan and a person. So a bacterium's ribosomes read the human gene correctly.
 8. (perspective) Two scientists disagree about what DNA is like.  
    **Answer:** A strong answer picks a side and gives evidence. For the plan: DNA holds the order of amino acids for every protein. For the second view: the same DNA makes a queen or a worker bee, and McClintock found DNA pieces that move.. *Why:* Scientists still argue about this. Both views agree on what DNA stores. They differ on who is in charge.
@@ -627,7 +627,7 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 11. (label) Label an egg cell and two sperm cells with X or Y. Then label which pair gives XX and which XY.  
    **Answer:** ['The egg cell: X', 'One sperm cell: X', 'The other sperm cell: Y', 'Egg with the X sperm: XX', 'Egg with the Y sperm: XY']. *Why:* The egg always carries an X. The two kinds of sperm are what make the two results.
 12. (mcq) A mother has blood group A and a father has group B. Their child has group O. How?  
-   Options: Each parent carried a hidden O version / The child's blood changed after birth / A mutation must have happened / Blood groups are not inherited  
+   Options: The child's blood changed after birth / Each parent carried a hidden O version / A mutation must have happened / Blood groups are not inherited  
    **Answer:** Each parent carried a hidden O version. *Why:* O is recessive. A parent with one A and one O has group A but can pass on the O. A child who gets O from both has group O.
 13. (sort) Sort these statements: science agrees, or scientists still argue?  
    **Answer:** DNA is written in four letters → Science agrees; A child gets half their chromosomes from each parent → Science agrees; Tags pass down the generations in humans → Scientists still argue; Most of our DNA does nothing useful → Scientists still argue; The sperm cell settles XX or XY → Science agrees; DNA is best described as a blueprint → Scientists still argue. *Why:* The four-letter code, the half from each parent and the part played by the sperm are settled. Inherited tags in humans, 'junk' DNA and the best picture for DNA are still argued over.
@@ -643,19 +643,19 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 
 ## Quiz
 1. (mcq) What does one codon stand for?  
-   Options: One amino acid, or 'stop' / One whole protein / One chromosome / One parent  
+   Options: One whole protein / One chromosome / One parent / One amino acid, or 'stop'  
    **Answer:** One amino acid, or 'stop'. *Why:* A codon is three DNA letters. Each one names an amino acid or tells the ribosome to stop. A whole protein needs many codons.
 2. (mcq) Which of these is the biggest?  
-   Options: A chromosome / A gene / A codon / A DNA letter  
+   Options: A gene / A codon / A chromosome / A DNA letter  
    **Answer:** A chromosome. *Why:* A chromosome is one long piece of DNA that holds hundreds or thousands of genes. A gene holds many codons, and a codon is three letters.
 3. (mcq) One DNA letter changes inside a gene. What can happen to the protein?  
-   Options: Nothing, or one amino acid changes, or an early stop / It always becomes harmful / It always stays the same / The gene disappears  
+   Options: It always becomes harmful / It always stays the same / The gene disappears / Nothing, or one amino acid changes, or an early stop  
    **Answer:** Nothing, or one amino acid changes, or an early stop. *Why:* It depends on the new codon. It may mean the same amino acid, a different one, or stop. Choosing 'always harmful' forgets that many mutations change nothing.
 4. (mcq) Why do two children of the same parents get different DNA?  
-   Options: Chance picks one of each pair for every egg and sperm / The second child gets what is left over / Parents' DNA changes every year / Each child chooses their genes  
+   Options: The second child gets what is left over / Chance picks one of each pair for every egg and sperm / Parents' DNA changes every year / Each child chooses their genes  
    **Answer:** Chance picks one of each pair for every egg and sperm. *Why:* Each egg and each sperm gets one chromosome from every pair, picked by chance. So each child starts from a different mix. Nothing is used up.
 5. (mcq) How much of their parents' DNA copies do a sister and brother share?  
-   Options: About half on average, but it varies / Exactly half, always / All of it / None of it  
+   Options: Exactly half, always / All of it / About half on average, but it varies / None of it  
    **Answer:** About half on average, but it varies. *Why:* The average is half. Real pairs of siblings run from about 37 to about 62 in every 100. Choosing 'exactly half' mixes up siblings with a parent and child.
 6. (mcq) How do identical twins begin?  
    Options: One fertilised egg splits into two / Two eggs join two sperm cells / One egg joins two sperm cells / Two babies swap DNA  
@@ -663,19 +663,19 @@ Kaveri looked at the eggs for a long time. Then she looked at the foragers comin
 7. (truefalse) True or false: identical twins have the same fingerprints.  
    **Answer:** False. *Why:* False. The fine detail of a fingerprint forms by chance before birth. So even with the same DNA, the prints differ.
 8. (mcq) Which chromosome does every egg cell of a human mother carry?  
-   Options: An X / A Y / Either X or Y / Neither  
+   Options: A Y / Either X or Y / An X / Neither  
    **Answer:** An X. *Why:* A mother's cells have two X chromosomes, so each egg gets an X. The sperm carries an X or a Y, and that settles XX or XY.
 9. (mcq) Which of these shows the same kind of DNA giving two different results?  
-   Options: A queen bee and a worker bee / A cat and a dog / A pea plant and a rice plant / A horse and a donkey  
+   Options: A cat and a dog / A pea plant and a rice plant / A queen bee and a worker bee / A horse and a donkey  
    **Answer:** A queen bee and a worker bee. *Why:* A queen and a worker grow from the same kind of egg and differ because of feeding. The other pairs are different species with different DNA.
 10. (mcq) A baby inherits phenylketonuria and gets the special diet from the first weeks. What happens?  
    Options: The brain is protected from harm / The diet makes no difference / The baby's DNA letters are corrected / The condition passes to the mother  
    **Answer:** The brain is protected from harm. *Why:* The diet keeps a harmful substance from building up. The gene is unchanged, but the harm does not happen. So inherited does not mean fixed.
 11. (mcq) Why is 'how many centimetres of my height come from genes?' a question with no answer?  
-   Options: Every centimetre needs both genes and surroundings / Nobody has measured it yet / Height has nothing to do with genes / Height comes only from food  
+   Options: Nobody has measured it yet / Height has nothing to do with genes / Every centimetre needs both genes and surroundings / Height comes only from food  
    **Answer:** Every centimetre needs both genes and surroundings. *Why:* Genes and surroundings work together, like the length and width of a rectangle. You cannot split the area into a part from each side.
 12. (mcq) Twins of both kinds nearly always speak the same language as their twin. What does this show?  
-   Options: Surroundings set which language you speak / Genes set which language you speak / Twins cannot learn languages / Language is set by chance  
+   Options: Genes set which language you speak / Twins cannot learn languages / Language is set by chance / Surroundings set which language you speak  
    **Answer:** Surroundings set which language you speak. *Why:* If genes set it, identical twins would match more often than fraternal twins. Both kinds match equally, because both share a home.
 
 ## Applications

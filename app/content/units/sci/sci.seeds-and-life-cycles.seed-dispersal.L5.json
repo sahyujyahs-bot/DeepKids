@@ -858,11 +858,11 @@
       "t": "mcq",
       "q": "A fruit is soft, sweet and bright red, with small hard seeds inside. Who most likely carries the seeds?",
       "options": [
-       "An animal who eats the fruit",
        "The wind",
-       "The sea"
+       "The sea",
+       "An animal who eats the fruit"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sweet flesh and a bright colour are a payment and a signal for an animal. The hard seeds pass through the animal whole. Choosing 'the wind' misses that a juicy fruit is far too heavy for wind and has no wing."
      },
      "ask": [
@@ -1050,11 +1050,11 @@
       "t": "mcq",
       "q": "In the Fan Lane Test, why is every flier let go from the same spot, with no push?",
       "options": [
-       "So that only the shape differs",
        "So that the fan stays cool",
-       "So that the fliers spin faster"
+       "So that the fliers spin faster",
+       "So that only the shape differs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair test changes one thing. Here that one thing is the shape. If one flier got a push or a better spot, you could not tell what caused the difference. Choosing another answer means the idea of a fair test needs another look."
      },
      "parent": "In the fan's wind a spinner may tumble at first and spin only later. Count every drop anyway. The packed strip usually lands within about 50 centimetres. The long wings often land 1 to 2 metres away, and sometimes more. Measure to where the flier first touched down, not to where the flier slid to.",
@@ -1247,11 +1247,11 @@
       "t": "mcq",
       "q": "A tree's seed shadow is the pattern of where the tree's seeds land. What does a seed shadow usually look like?",
       "options": [
-       "Most seeds near, a few far",
        "All seeds at one distance",
+       "Most seeds near, a few far",
        "The same number at every distance"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Most seeds leave on an ordinary breeze and land near the parent. A few meet a strong gust or rising air and go far. Choosing 'all at one distance' means expecting the wind to be perfectly steady. Real wind never is."
      },
      "parent": "Most families find the landings bunched in two or three bands, with a few drops well short or well beyond. A fan is much steadier than the wind outdoors, so the spread in a real seed shadow is far wider. To see this, do 30 more drops with the fan turning from side to side. Now the wind comes in gusts, and some drops get almost none.",
@@ -1585,11 +1585,11 @@
       "t": "mcq",
       "q": "A seed is small and light, with a thin papery wing. What is the best evidence that the wind carries seeds like this?",
       "options": [
-       "The seed falls slowly when dropped",
        "The seed is brown",
+       "The seed falls slowly when dropped",
        "The seed has a hard coat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A slow fall gives the wind time to carry the seed sideways. Colour and a hard coat do not help a seed stay in the air. Choosing them means looking at the seed but not at what the wing does."
      },
      "parent": "The shape is good evidence, but it is not proof. Scientists check by watching what really happens to the seeds. The groundnut shows that not every plant sends the seeds far.",
@@ -1705,11 +1705,11 @@
       "t": "mcq",
       "q": "A dry pod bursts and throws the seeds. Where did the energy for the throw come from?",
       "options": [
-       "Strain built up as the pod dried",
        "Muscles in the pod wall",
+       "Strain built up as the pod dried",
        "The seeds pushing outwards"
       ],
-      "a": 0,
+      "a": 1,
       "why": "As the pod dries, the layers of the wall shrink by different amounts. The wall wants to twist but the seam holds it flat, like a bent spring. When the seam breaks, the stored energy flings the seeds. Choosing 'muscles' gives a plant an animal's way of moving."
      },
      "parent": "Many pod halves twist into a loose spiral, and some only curl a little. Write down what yours did. The wall of a bean pod has two layers of stiff fibres that lie at a slant to each other. As they dry, each layer shrinks in a different direction, so the wall twists. Shop beans may twist less than wild ones. For thousands of years farmers have chosen plants whose pods stay shut, so that the seeds do not spill before the harvest.",
@@ -1956,11 +1956,11 @@
       "t": "mcq",
       "q": "Which of these did Indian cooks use to make food hot before the year 1500?",
       "options": [
-       "Black pepper",
        "Chilli",
-       "Capsicum"
+       "Capsicum",
+       "Black pepper"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Black pepper is a vine of the Western Ghats and has been used in India for thousands of years. Chilli and capsicum are the same kind of plant, and came from the Americas after 1498. Choosing chilli is very common, because chilli is now in almost every Indian dish."
      },
      "parent": "There is no wrong answer to the last question. A plant can come from far away and still become part of a place.",
@@ -2648,12 +2648,12 @@
      "t": "mcq",
      "p": "What does a seed bank do?",
      "opts": [
-      "Keeps many kinds of seeds alive",
       "Sells seeds at the lowest price",
+      "Keeps many kinds of seeds alive",
       "Turns old seeds into new kinds",
       "Stops seeds from ever sprouting"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A seed bank stores dry seeds, usually in the cold, so that they stay alive for decades. Choosing 'stops seeds from ever sprouting' misses the point: the seeds are kept so that they can be grown again."
     },
     {
@@ -2738,12 +2738,12 @@
      "t": "mcq",
      "p": "Why do birds eat hot chillies that mice and rats avoid?",
      "opts": [
-      "Birds do not sense the hot chemical",
       "Birds like pain",
       "Birds have no tongue",
+      "Birds do not sense the hot chemical",
       "Chillies are only hot at night"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The hot chemical, capsaicin, burns the mouths of mammals. Birds do not sense it. Birds also swallow the seeds whole, while mice chew them. Choosing 'birds like pain' gives the bird a feeling that the bird does not have here."
     },
     {
@@ -2834,12 +2834,12 @@
      "t": "mcq",
      "p": "The same spinner is let go 30 times in front of a fan. Why do the landings spread out?",
      "opts": [
-      "Moving air is never perfectly steady",
       "The spinner gets heavier each time",
+      "Moving air is never perfectly steady",
       "The floor tilts",
       "The spinner aims at different spots"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Even a fan gives small gusts and lulls, and no two releases are exactly alike. Outdoors the wind changes far more. Choosing 'aims' gives the paper a plan.",
      "how": "e2"
     },
@@ -2951,12 +2951,12 @@
      "t": "mcq",
      "p": "With the same food, a plant can make 20 big seeds or 20,000 tiny ones. Which statement is true?",
      "opts": [
-      "Each way suits different places",
       "Big seeds are always better",
       "Tiny seeds are always better",
-      "The number of seeds never matters"
+      "The number of seeds never matters",
+      "Each way suits different places"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A big seed gives a seedling a strong start in shade or dry soil, but few are made and they do not go far. Tiny seeds go far and are many, but each needs a perfect spot. Choosing 'always better' misses the cost on the other side."
     },
     {
@@ -2970,12 +2970,12 @@
      "t": "mcq",
      "p": "Seed A falls at 1 metre each second and seed B at 4, from one tree. Which is true?",
      "opts": [
-      "A goes about 4 times as far",
       "B goes about 4 times as far",
       "Both go the same distance",
-      "A goes about 20 times as far"
+      "A goes about 20 times as far",
+      "A goes about 4 times as far"
      ],
-     "a": 0,
+     "a": 3,
      "why": "From a tree 20 metres tall, seed A is in the air for 20 seconds and seed B for 5 seconds. The wind carries A for four times as long, so A goes about four times as far. Choosing B means thinking that a faster fall is a faster journey."
     },
     {
@@ -2988,12 +2988,12 @@
      "t": "mcq",
      "p": "Seedlings close to a parent tree of the same kind often die more than seedlings far away. What is one main reason?",
      "opts": [
-      "Enemies of that kind gather there",
       "The parent tree poisons them on purpose",
       "Seedlings need to be lonely",
+      "Enemies of that kind gather there",
       "The ground near a tree is always dry"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The enemies of one kind of plant are most common where that plant is common, which is round the parent. Seedlings there also get little light. Choosing 'poisons them on purpose' gives a reason that scientists have not found for most trees."
     },
     {
@@ -3078,12 +3078,12 @@
      "t": "mcq",
      "p": "Lantana was brought to India as a garden flower and now covers forests. What does this show about moving plants?",
      "opts": [
-      "A moved plant can behave in unexpected ways",
       "Every foreign plant is harmful",
+      "A moved plant can behave in unexpected ways",
       "Garden plants never spread",
       "Birds refuse to eat foreign berries"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Lantana found birds to carry the berries and few enemies to eat the leaves. Nobody expected that. But chilli and tomato were moved too, and did no such harm. Choosing 'every foreign plant is harmful' goes further than the evidence."
     },
     {
@@ -3107,12 +3107,12 @@
    "t": "mcq",
    "p": "Which of these is a reason why a seed often does better away from the parent?",
    "opts": [
-    "Less competition for light and water",
     "Seeds dislike their parents",
+    "Less competition for light and water",
     "Far soil is always richer",
     "The parent stops making seeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Away from the parent, a seedling shares light, water and space with fewer plants of the same kind, and meets fewer of their enemies. Far soil is not always richer. Most seeds that travel land somewhere poor.",
    "outcome": 0
   },
@@ -3120,12 +3120,12 @@
    "t": "mcq",
    "p": "A fruit has a waterproof skin and a thick, light husk full of air. How do the seeds most likely travel?",
    "opts": [
-    "By water",
     "By wind",
     "On an animal's fur",
+    "By water",
     "By being thrown"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Trapped air makes the fruit float, and the waterproof skin keeps the seed dry. That is the coconut's design. The fruit is far too heavy for wind.",
    "outcome": 1
   },
@@ -3133,12 +3133,12 @@
    "t": "mcq",
    "p": "A seed carries a small oily food parcel on the outside. Who most likely carries this seed?",
    "opts": [
-    "Ants",
     "The sea",
     "The wind",
-    "Elephants"
+    "Elephants",
+    "Ants"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Ants carry the whole seed to the nest, eat the parcel, and leave the seed in their rubbish heap. The parcel is too small to pay a large animal.",
    "outcome": 1
   },
@@ -3158,12 +3158,12 @@
    "t": "mcq",
    "p": "Two seeds weigh the same, and one has a wing. Why does the winged seed fall more slowly?",
    "opts": [
-    "The wing meets more air resistance",
     "The wing makes the seed lighter",
     "The wing flaps",
-    "Gravity pulls the winged seed less"
+    "Gravity pulls the winged seed less",
+    "The wing meets more air resistance"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The wing adds surface and almost no weight. With more surface, drag matches the weight at a lower speed. Gravity pulls both seeds equally, because they weigh the same.",
    "outcome": 2
   },
@@ -3204,12 +3204,12 @@
    "t": "mcq",
    "p": "In a wind test, why do you let each flier go five times and take the mean?",
    "opts": [
-    "One drop could be a fluke",
     "The paper needs to warm up",
     "Five is a lucky number",
+    "One drop could be a fluke",
     "The fan tires after one drop"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Moving air is never perfectly steady, so single drops differ. The mean of several drops is a fairer picture than any one of them.",
    "outcome": 4
   },
@@ -3217,12 +3217,12 @@
    "t": "mcq",
    "p": "Which of these describes a seed shadow?",
    "opts": [
-    "Many seeds near, and a few far away",
     "The shade under a seed",
+    "Many seeds near, and a few far away",
     "Seeds that grow only in the dark",
     "The same number of seeds at every distance"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A seed shadow is the pattern of where a plant's seeds land. Most land near, and a few go far. Those few are how plants reach new places.",
    "outcome": 5
   },
@@ -3243,12 +3243,12 @@
    "t": "mcq",
    "p": "Which of these foods was carried to India from the Americas?",
    "opts": [
-    "Tomato",
     "Mango",
     "Black pepper",
-    "Turmeric"
+    "Turmeric",
+    "Tomato"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Tomato was first farmed in Central and South America and came to India by ship after 1498. Mango, pepper and turmeric are from South Asia.",
    "outcome": 6
   },
@@ -3256,12 +3256,12 @@
    "t": "mcq",
    "p": "Why is a field planted with one single variety risky?",
    "opts": [
-    "One disease could kill the whole crop",
     "The plants grow too tall",
     "Birds refuse to visit",
+    "One disease could kill the whole crop",
     "The seeds forget how to sprout"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants of one variety are nearly the same as each other. A disease that can attack one can attack them all. With many varieties, some are likely to resist.",
    "outcome": 7
   },

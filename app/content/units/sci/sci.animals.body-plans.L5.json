@@ -879,11 +879,11 @@
       "t": "mcq",
       "q": "Why does a second person look at each wrist without being told the first answer?",
       "options": [
-       "So one person's mistake cannot settle the result",
        "So the survey goes faster",
+       "So one person's mistake cannot settle the result",
        "Because the cord moves between looks"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A cord can be hard to see, and a person who hopes for a result may see what they hope for. If two people decide separately and agree, the answer is more likely to be right. If you picked 'faster', notice that a second look takes more time. It is worth it."
      },
      "parent": "Where the two checkers disagree, write 'not sure'. Do not argue it into a yes or a no."
@@ -1101,11 +1101,11 @@
       "t": "mcq",
       "q": "Why can a tube gut have one part for grinding and another for taking food in?",
       "options": [
-       "Every bite passes the parts in the same order",
        "A tube is longer than a sac",
+       "Every bite passes the parts in the same order",
        "Tube guts belong to bigger animals"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a tube, food moves one way, so every bite meets the grinding part first and the taking-in part later. In a sac, new food and old waste share one space, so the parts cannot be set out in order. If you picked 'longer', remember that a short tube still works this way."
      },
      "parent": "After your child has answered, explain. The tube could take in a new ball while five others were still inside, and the oldest ball always left first. In the sock, the oldest ball was at the bottom, so new food had to wait or be taken out again. Counted on paper, one ball at a time takes about 170 counts, five at a time about 80, and the tube about 35. A sea anemone lives well with a sac. She eats a big meal now and then, and rests while she digests.",
@@ -1272,11 +1272,11 @@
       "t": "mcq",
       "q": "On your sheet, which pair shares the smallest box?",
       "options": [
-       "Starfish and crow",
        "Starfish and jellyfish",
-       "Flatworm and earthworm"
+       "Flatworm and earthworm",
+       "Starfish and crow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The starfish and the crow are alone together in box 4, because both make the anus first as embryos. Animals who share a small box share more inherited features, so they are closer relatives. If you picked the jellyfish, you sorted by the ring shape, which arose separately in the two."
      },
      "parent": "A long thin body with no legs suits burrowing and sliding, so it has arisen many times. The three worms belong to three different phyla.",
@@ -1432,11 +1432,11 @@
       "t": "mcq",
       "q": "Why do your hand and your foot have the same pattern of bones?",
       "options": [
-       "Both grow from limb buds that follow the same instructions",
        "Feet were once used as hands",
+       "Both grow from limb buds that follow the same instructions",
        "Bones always come in these numbers"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the embryo, arms and legs start as four small buds, and each bud follows the same building steps. The body then alters each copy for a job. If you picked 'bones always come in these numbers', look at your backbone or your ribs. Their numbers are quite different."
      },
      "parent": "Differences worth finding: the knee has a kneecap and the elbow has none. The forearm can twist and the shin cannot. The knee and the elbow bend in opposite directions.",
@@ -1520,11 +1520,11 @@
       "t": "mcq",
       "q": "A hen's wing has one bone, then two, then a small hand. What is the best explanation?",
       "options": [
-       "Birds and humans inherited the limb from shared ancestors",
        "This is the only way to build a wing",
-       "Hens once used their wings as hands"
+       "Hens once used their wings as hands",
+       "Birds and humans inherited the limb from shared ancestors"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The same order of bones is found in frogs, lizards, bats and whales, whatever the limb is used for. So the pattern is inherited. It is not the only way to build a wing, because a butterfly flies with no bones at all."
      },
      "think": "A bat's wing is skin stretched over long fingers. A bird's wing is feathers on a short stiff hand. Which bones would you look at to tell them apart?"
@@ -1812,11 +1812,11 @@
       "t": "mcq",
       "q": "A bat's wing and a whale's flipper are both altered five-finger hands. What does that show?",
       "options": [
-       "New limbs come from changing an old limb",
        "Bats and whales both needed hands",
+       "New limbs come from changing an old limb",
        "Five is the best number of fingers for every job"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Neither animal got a new kind of limb. Each has the inherited hand, with the fingers made long in the bat and short and wide in the whale. If you picked 'five is best', notice that a horse walks on one toe and a bird's wing has three fingers. The number can shrink, but the pattern is still the old one."
      },
      "think": "Your design can fan air, but can it still hold a pencil? What does a bat give up by having wings for hands?"
@@ -1835,11 +1835,11 @@
      "t": "mcq",
      "p": "A dolphin's flipper and your arm hold the same bones in the same order. What are such parts called?",
      "opts": [
-      "Homologous parts",
       "Analogous parts",
+      "Homologous parts",
       "Vestigial parts"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Homologous parts are the same part, inherited from a shared ancestor, even when the jobs differ. Analogous parts share a job and not a build. Vestigial parts have lost most of an old job.",
      "outcome": 3
     },
@@ -1847,11 +1847,11 @@
      "t": "mcq",
      "p": "Which pair of wings does the same job with a different build?",
      "opts": [
-      "Butterfly wing and crow wing",
       "Bat wing and human arm",
-      "Whale flipper and mole hand"
+      "Whale flipper and mole hand",
+      "Butterfly wing and crow wing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A butterfly's wing has no bones and a crow's wing has arm bones, so the two are analogous. The other two pairs hold the same bones, so they are homologous.",
      "outcome": 3
     },
@@ -2054,11 +2054,11 @@
      "t": "mcq",
      "p": "A fly's eye-starting gene and a mouse's match. What is the best explanation?",
      "opts": [
-      "Both inherited the gene from one ancestor",
       "Flies and mice eat the same food",
-      "The two eyes are built alike"
+      "The two eyes are built alike",
+      "Both inherited the gene from one ancestor"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The eyes themselves are built very differently. A matching gene is best explained by a shared ancestor who already had it.",
      "outcome": 6
     },
@@ -2240,11 +2240,11 @@
      "t": "mcq",
      "p": "Which statement about a bat's wing and a crow's wing is correct?",
      "opts": [
-      "Homologous as limbs, analogous as wings",
       "Homologous in every way",
+      "Homologous as limbs, analogous as wings",
       "Analogous in every way"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both inherited the front limb with its bones, so the limbs are homologous. But flying arose separately in bats and birds, and the wings are built differently, so as wings they are analogous.",
      "outcome": 3
     },
@@ -2421,11 +2421,11 @@
    "t": "mcq",
    "p": "Which of these is a feature of an animal's body plan?",
    "opts": [
-    "Whether the gut has one opening or two",
     "The colour of the fur",
+    "Whether the gut has one opening or two",
     "How fast the animal runs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A body plan is the basic layout that is set in the embryo. Colour and speed can change quickly over generations, and the layout changes very little.",
    "outcome": 0
   },
@@ -2433,11 +2433,11 @@
    "t": "mcq",
    "p": "Ants, crabs and spiders are in one phylum. What do they all share?",
    "opts": [
-    "Jointed legs and a skeleton on the outside",
     "A backbone",
+    "Jointed legs and a skeleton on the outside",
     "A sac gut with one opening"
    ],
-   "a": 0,
+   "a": 1,
    "why": "They are arthropods. A backbone belongs to the chordate body plan, and a sac gut to jellyfish and flatworms.",
    "outcome": 1
   },
@@ -2445,11 +2445,11 @@
    "t": "mcq",
    "p": "Which feature does every chordate have at some stage of life?",
    "opts": [
-    "A notochord, a firm rod along the back",
     "A hard skeleton on the outside",
+    "A notochord, a firm rod along the back",
     "Six jointed legs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The notochord gives the chordates their name. You had one as an embryo. The other two answers describe arthropods.",
    "outcome": 2
   },
@@ -2469,11 +2469,11 @@
    "t": "mcq",
    "p": "Which is the best evidence that two animals are close relatives?",
    "opts": [
-    "Many matching parts inside the body",
     "The same body shape",
-    "Living in the same place"
+    "Living in the same place",
+    "Many matching parts inside the body"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Shape and home can be shared by animals who simply live alike. Many detailed inside features that the way of life does not need are best explained by shared ancestors.",
    "outcome": 3
   },
@@ -2481,11 +2481,11 @@
    "t": "mcq",
    "p": "Why do some healthy people have no palmaris longus muscle in the forearm?",
    "opts": [
-    "The muscle has lost its main job",
     "They did not exercise enough",
-    "They were hurt as babies"
+    "They were hurt as babies",
+    "The muscle has lost its main job"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The muscle did more in ancestors who climbed. In humans it does very little. A part like that is not always built, and some people are born with none. Exercise and injury have nothing to do with whether a muscle is built.",
    "outcome": 4
   },
@@ -2501,11 +2501,11 @@
    "t": "mcq",
    "p": "Bones pointed to one ancestor for whales and DNA pointed to another. What did scientists do?",
    "opts": [
-    "Looked for more evidence, and found ankle bones",
     "Chose the bones, because bones are older",
+    "Looked for more evidence, and found ankle bones",
     "Gave up on the question"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When two kinds of evidence disagree, the answer is to find more. Ankle bones of early whales, found later, agreed with the DNA.",
    "outcome": 6
   },
@@ -2525,11 +2525,11 @@
    "t": "mcq",
    "p": "Which sentence about animal bodies is correct?",
    "opts": [
-    "Each body is an older body, altered",
     "Each body is planned fresh for its job",
+    "Each body is an older body, altered",
     "Bodies stay the same over generations"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every animal inherits a body and passes it on with small changes. That is why bodies keep leftover parts and odd routes, such as the long nerve in a giraffe's neck.",
    "outcome": 7
   },
@@ -2537,11 +2537,11 @@
    "t": "mcq",
    "p": "Why can each part of a tube gut do one job well?",
    "opts": [
-    "Food passes the parts in one order",
     "The tube is always full",
+    "Food passes the parts in one order",
     "Food moves both ways along it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Food moves one way in a tube, so grinding can come first and taking in can come later. In a sac, new food and old waste share one space.",
    "outcome": 0,
    "how": "e2"

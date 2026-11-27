@@ -553,7 +553,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 ## Worksheets
 ### Forces, arrows and sagging lines (core) (core, 16 questions)
 1. (mcq) Which one describes a force completely?  
-   Options: 5 newtons to the left / 5 newtons / To the left  
+   Options: 5 newtons / 5 newtons to the left / To the left  
    **Answer:** 5 newtons to the left. *Why:* A force needs both a size and a direction. '5 newtons' has no direction. 'To the left' has no size. Only '5 newtons to the left' has both.
 2. (truefalse) In a tug of war, both teams pull with 400 N. This means that the rope must be standing still.  
    **Answer:** False. *Why:* False. Balanced forces mean the rope does not change its motion. It may be still, or it may be moving at a steady speed. A steady speed also has a net force of zero.
@@ -591,7 +591,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
    **Answer:** A thin metal pattern on a metal block stretches slightly when the block bends under the load. *Why:* A digital scale uses a strain gauge, a thin metal pattern that stretches when the block under the tray bends. A spring and a pointer are how a spring balance works. Nobody sits inside the scale.
 ### Sags, spreads and tiny forces (stretch) (stretch, 17 questions)
 1. (mcq) A line holds a 10 N bottle in its middle, and each side slopes 30 degrees below a level line. Each side pulls with 10 N. What would a flatter line, sloping 10 degrees, pull with?  
-   Options: More than 10 N / Exactly 10 N / Less than 10 N  
+   Options: Exactly 10 N / More than 10 N / Less than 10 N  
    **Answer:** More than 10 N. *Why:* A flatter line points more sideways, so only a thin slice of its pull holds the bottle up. The pull has to be bigger. The answer 'exactly 10 N' is only true for the 30 degree line.
 2. (mcq) Scale A reads 502 g, 502 g and 503 g for a sealed 500 g packet. Which description fits scale A best?  
    Options: Precise, with a small zero error of about 2 g / Accurate and not precise / Neither precise nor accurate  
@@ -619,7 +619,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 12. (count) A coin on water is held with about 0.006 N. An apple pulls down with 1 N. About how many times bigger is the apple's weight?  
    **Answer:** 170. *Why:* 1 divided by 0.006 is about 167, which is about 170. So the apple's weight is about 170 times bigger.
 13. (mcq) Why can a small fridge magnet lift a paper clip against the pull of the whole Earth?  
-   Options: Between atoms, the electric and magnetic force is far stronger than gravity / The Earth does not pull on small things / The magnet weighs more than the Earth  
+   Options: The Earth does not pull on small things / Between atoms, the electric and magnetic force is far stronger than gravity / The magnet weighs more than the Earth  
    **Answer:** Between atoms, the electric and magnetic force is far stronger than gravity. *Why:* Gravity looks strong to us only because the Earth is so big. Between two small things, the magnetic and electric force is vastly stronger. The Earth does pull on the clip, and the magnet wins anyway.
 14. (truefalse) Light has no weight, so it cannot push anything.  
    **Answer:** False. *Why:* False. Light carries a push, called radiation pressure. It is tiny, but in space sunlight can move a thin sail.
@@ -631,14 +631,14 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
    **Answer:** Yes, in a way. Her weight does not change. At the bottom of the swing, the chains must turn her path upwards, so they pull on her harder than her weight. The seat pushes up on her harder, so she feels heavier.. *Why:* A strong answer says that the pull on a moving thing can be bigger than its weight, and that the seat pushes up harder at the bottom.
 ### Think like a measurer (challenge) (challenge, 15 questions)
 1. (mcq) A rope holds a 100 N load in its middle. Each side slopes 10 degrees below a level line. Roughly how hard does each side pull?  
-   Options: About 290 N / About 100 N / About 50 N  
+   Options: About 100 N / About 290 N / About 50 N  
    **Answer:** About 290 N. *Why:* Each side holds up half the load, which is 50 N. Only the upward part of each side's pull does this. At 10 degrees, that part is only about a sixth of the pull, so each side pulls about six times 50 N, which is about three times the load. The answer 50 N would be right for two ropes hanging straight down and sharing the load.
 2. (count) A 1 metre line has a sag of 5 cm, and each end pulls about 25 times the load. The load is 4 N. What is the pull at each end, in newtons?  
    **Answer:** 100. *Why:* 25 times 4 is 100. The bottle weighs only 4 N, and the flat line makes each end pull with 100 N.
 3. (write) A gauge reads 0.2 N with nothing hanging on it. Someone says this is small enough to ignore. A bag makes the gauge read 3.1 N. What should they do, and why?  
    **Answer:** They should not ignore it. They should either reset the zero, or take 0.2 N off every reading, so the bag is 2.9 N. A zero error is the same each time, so leaving it makes every reading too big.. *Why:* A strong answer names the zero error and says it must be subtracted from all readings, or that the zero must be reset.
 4. (mcq) Five readings of a pull are 4.9, 5.1, 5.0, 5.0 and 5.4 N. Which report is most sensible?  
-   Options: About 5.0 N, with readings from 4.9 to 5.4 N / Exactly 5.08 N / 5.4 N, the largest, to be safe  
+   Options: Exactly 5.08 N / 5.4 N, the largest, to be safe / About 5.0 N, with readings from 4.9 to 5.4 N  
    **Answer:** About 5.0 N, with readings from 4.9 to 5.4 N. *Why:* The middle value is 5.0 N, and the readings spread from 4.9 to 5.4 N. Writing 5.08 N pretends the tool is finer than it is. Reporting only the largest ignores the other readings.
 5. (truefalse) A scale that shows three decimal places must be more accurate than one that shows one decimal place.  
    **Answer:** False. *Why:* False. The number of decimal places shows how finely a scale shows its answer, not how close the answer is to the truth. A scale with a zero error shows many wrong digits.
@@ -649,7 +649,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 8. (fill) Reading a value between two measured points on a graph is called ____.  
    **Answer:** ['interpolating', 'interpolation', 'interpolate']. *Why:* To interpolate is to find a value between two points that you have measured, by reading along the line. It is safe inside the range of your known loads.
 9. (mcq) When the block inside a digital scale bends, what does the chip measure?  
-   Options: A small change in how easily electricity passes through the stretched metal pattern / The temperature of the block / The colour of the metal  
+   Options: The temperature of the block / A small change in how easily electricity passes through the stretched metal pattern / The colour of the metal  
    **Answer:** A small change in how easily electricity passes through the stretched metal pattern. *Why:* A stretched metal pattern is a little longer and thinner, so electricity finds it a little harder to pass. A chip measures that change and turns it into a number.
 10. (count) Sunlight pushes on a sail that absorbs the light with about 5 millionths of a newton for each square metre. A sail has 100 square metres. What is the push, in newtons?  
    **Answer:** 0.0005. *Why:* 100 times 5 millionths is 500 millionths. That is 0.0005 newtons, which is five ten-thousandths of a newton.
@@ -658,7 +658,7 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
 12. (draw) Draw a bottle hanging in the middle of a sagging line. Show the weight and the pulls of the two sides. Make the side arrows longer than the weight arrow and say why.  
    **Answer:** A bottle with a short arrow pointing down labelled weight, and two longer arrows along the line pointing up and outwards. A note says that only the upward part of each side's pull holds the bottle, so each side pulls more than half the weight.. *Why:* A strong drawing shows the pulls along the line, each with an upward part. The note should say that the sideways parts cancel each other and only the upward parts hold the weight.
 13. (mcq) A cotton thread holds a bag when pulled slowly, but snaps when jerked. What is the best explanation?  
-   Options: For an instant, a jerk makes the pull far bigger than a steady pull / The thread gets weaker when the bag moves / The bag gets heavier when it is jerked  
+   Options: The thread gets weaker when the bag moves / For an instant, a jerk makes the pull far bigger than a steady pull / The bag gets heavier when it is jerked  
    **Answer:** For an instant, a jerk makes the pull far bigger than a steady pull. *Why:* A jerk makes the load speed up quickly, and that needs a much bigger pull for a short time. The thread did not change, and the weight of the bag did not change.
 14. (order) Put these steps for the Bending Ruler Scale in order.  
    **Answer:** ['Fix the ruler under a book with its tip over the table edge', 'Hang packets of known weight and measure the drop', 'Plot the drops and draw a line', 'Hang a mystery object and measure the drop', 'Read its weight from the graph and check it on a kitchen scale']. *Why:* The ruler must be fixed first. You calibrate it with known loads and draw the graph before weighing a mystery object. The check at the end tells you how good the scale is.
@@ -675,37 +675,37 @@ The monsoon went on for six more weeks. Every evening the nets hung on the smili
    Options: How big the force is / How long the force lasts / How old the force is  
    **Answer:** How big the force is. *Why:* The arrow's length shows the size of the force, and its point shows the direction. A long arrow stands for a big force.
 2. (mcq) Two children push a box right with 10 N and 14 N. A third child pulls it left with 4 N. What is the net force?  
-   Options: 20 N to the right / 28 N to the right / 20 N to the left  
+   Options: 28 N to the right / 20 N to the left / 20 N to the right  
    **Answer:** 20 N to the right. *Why:* 10 plus 14 is 24 to the right, and 4 to the left takes away. 24 take away 4 is 20 N to the right. The answer 28 N adds the 4 instead of taking it away.
 3. (mcq) A trolley moves along a smooth floor at a steady speed. What is true about the forces on it?  
-   Options: They are balanced / There is a net force forwards / There is no friction at all  
+   Options: There is a net force forwards / There is no friction at all / They are balanced  
    **Answer:** They are balanced. *Why:* A thing moving at a steady speed has balanced forces. If there were a net force forwards, it would speed up. Friction may still be there, balanced by a push.
 4. (mcq) A rope holds a heavy load in its middle. Which change makes the pull in the rope smaller?  
-   Options: Letting the rope sag more / Pulling the rope tighter / Making the load swing  
+   Options: Pulling the rope tighter / Making the load swing / Letting the rope sag more  
    **Answer:** Letting the rope sag more. *Why:* A rope with a bigger sag points more upwards, so it needs to pull less. Pulling it tighter makes it flatter, which raises the pull. A swinging load can make the pull bigger.
 5. (mcq) Why can no washing line be pulled perfectly straight with a wet saree in the middle?  
-   Options: It would need an endless pull / The saree is too light / The line is made of the wrong material  
+   Options: The saree is too light / The line is made of the wrong material / It would need an endless pull  
    **Answer:** It would need an endless pull. *Why:* As the line gets flatter, the pull needed grows without limit. A perfectly straight line would need an endless pull, which no rope can give.
 6. (mcq) Why do we hang loads that we already know on a rubber band before using it as a gauge?  
-   Options: So that we can make a graph that turns band lengths into newtons / So that the band gets warm / So that the band becomes stronger  
+   Options: So that the band gets warm / So that the band becomes stronger / So that we can make a graph that turns band lengths into newtons  
    **Answer:** So that we can make a graph that turns band lengths into newtons. *Why:* The known loads let us plot the length for each pull. The graph is then used to read unknown pulls. Hanging loads does not warm or strengthen the band.
 7. (mcq) Why should you not trust the graph far beyond your last known load?  
-   Options: The band may stop stretching evenly, or snap / The graph paper runs out / Newtons stop working  
+   Options: The graph paper runs out / The band may stop stretching evenly, or snap / Newtons stop working  
    **Answer:** The band may stop stretching evenly, or snap. *Why:* A rubber band follows a neat pattern for small loads only. Past the loads you tested, you do not know how it behaves, and it might break.
 8. (mcq) Why do scientists measure the same thing several times?  
    Options: Readings vary a little, and several readings show the spread and the typical value / To waste time / To make the first reading true  
    **Answer:** Readings vary a little, and several readings show the spread and the typical value. *Why:* No reading is exact. Several readings show how much the numbers spread, and the middle value is a more trustworthy answer than one reading alone.
 9. (mcq) A scale shows 2 g with nothing on it. You put a potato on it and read 152 g. What does the potato weigh?  
-   Options: About 150 g / About 154 g / About 152 g  
+   Options: About 154 g / About 150 g / About 152 g  
    **Answer:** About 150 g. *Why:* The 2 g is a zero error that is in every reading. Taking it away gives 150 g. The answer 154 g adds it instead.
 10. (mcq) A bathroom scale in a lift shows a smaller number for a moment. What is the lift doing?  
-   Options: Starting to move down / Starting to move up / Standing still  
+   Options: Starting to move up / Starting to move down / Standing still  
    **Answer:** Starting to move down. *Why:* When a lift starts to go down, the floor pushes up on you with less than your weight for a moment. A scale under you reads less. Starting to move up makes it read more.
 11. (mcq) What does a coin on the surface of water show about water?  
-   Options: The surface pulls along itself and holds on to the coin / Water is sticky like glue / Water is heavier at the top  
+   Options: Water is sticky like glue / The surface pulls along itself and holds on to the coin / Water is heavier at the top  
    **Answer:** The surface pulls along itself and holds on to the coin. *Why:* The surface of water acts like a thin stretched skin. This is surface tension. It is a small force, which we can measure by finding how much it takes to lift the coin off.
 12. (mcq) Sunlight can push a thin sail in space. Why does sunlight not push a sheet of paper across a table?  
-   Options: The push is far too small to beat friction and the paper's weight / Paper blocks light / Light only pushes in space  
+   Options: Paper blocks light / The push is far too small to beat friction and the paper's weight / Light only pushes in space  
    **Answer:** The push is far too small to beat friction and the paper's weight. *Why:* The push of sunlight is about five millionths of a newton for each square metre. On a table, friction and weight are much bigger. In space, nothing else is acting, so the tiny push adds up over time.
 
 ## Applications

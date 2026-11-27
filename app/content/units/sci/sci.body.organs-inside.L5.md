@@ -567,7 +567,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 6. (sort) Sort these muscles. Is each one voluntary or involuntary?  
    **Answer:** biceps → Voluntary; tongue → Voluntary; leg muscles → Voluntary; heart muscle → Involuntary; stomach wall → Involuntary; muscles of the intestines → Involuntary. *Why:* You choose when to move your arm, tongue and legs. The heart, the stomach and the intestines work without your choosing.
 7. (mcq) Which part of the brain keeps your balance and makes movement smooth?  
-   Options: The cerebellum / The cerebrum / The brainstem / The spinal cord  
+   Options: The cerebrum / The brainstem / The spinal cord / The cerebellum  
    **Answer:** The cerebellum. *Why:* The cerebellum sits at the back, under the cerebrum. Choosing the cerebrum is a common slip, because the names sound alike. The cerebrum does the thinking.
 8. (order) Put these in the order that urine passes through them.  
    **Answer:** ['Kidney', 'Ureter', 'Bladder', 'Urethra']. *Why:* The kidney makes urine. A ureter carries it to the bladder, which stores it. Urine leaves through the urethra.
@@ -587,16 +587,16 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    **Answer:** Any view with a reason from the unit. For example, the heart cannot work without oxygen from the lungs and sugar from the gut and the liver.. *Why:* Each view has something right. A strong answer follows at least one handover from one organ to another to make its point.
 ### Shared parts and handovers (stretch) (stretch, 15 questions)
 1. (mcq) Why does your breathing stop for about a second when you swallow?  
-   Options: The windpipe is covered / The lungs are full / The stomach pushes up / The nose closes  
+   Options: The lungs are full / The windpipe is covered / The stomach pushes up / The nose closes  
    **Answer:** The windpipe is covered. *Why:* The voice box lifts and the epiglottis folds over the windpipe, so food cannot enter it. No air can pass until the swallow ends.
 2. (mcq) In hard exercise, which organs get less blood than at rest?  
-   Options: The gut and the kidneys / The leg muscles / The heart muscle / The skin  
+   Options: The leg muscles / The gut and the kidneys / The heart muscle / The skin  
    **Answer:** The gut and the kidneys. *Why:* In the Hundred Beans, the gut and liver fall from 6 beans to 2. The kidneys fall from 5 to 2. Muscles, heart muscle and skin all get more.
 3. (mcq) Six hours after a meal, where does most of the sugar in your blood come from?  
-   Options: Glycogen stored in the liver / The air in the lungs / The bones / The bladder  
+   Options: The air in the lungs / Glycogen stored in the liver / The bones / The bladder  
    **Answer:** Glycogen stored in the liver. *Why:* The liver turns its stored glycogen back into sugar and releases it. The lungs, bones and bladder do not store sugar.
 4. (mcq) Which organ makes urea, and which organ removes it from the blood?  
-   Options: The liver makes it, the kidneys remove it / The kidneys make it, the liver removes it / The lungs make it, the skin removes it / The stomach makes it, the bladder removes it  
+   Options: The kidneys make it, the liver removes it / The lungs make it, the skin removes it / The stomach makes it, the bladder removes it / The liver makes it, the kidneys remove it  
    **Answer:** The liver makes it, the kidneys remove it. *Why:* The liver makes urea from used protein. The blood carries urea to the kidneys, which pass it out in urine.
 5. (truefalse) A muscle can push a bone as well as pull it.  
    **Answer:** False. *Why:* False. A muscle can only shorten, so it can only pull. That is why muscles work in pairs, one to bend a joint and one to straighten it.
@@ -623,16 +623,16 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    **Answer:** ['The cerebrum is the large top part. It does thinking, memory, speech and chosen movement.', 'The cerebellum is the small part at the lower back. It keeps your balance and makes movement smooth.', 'The brainstem is the stalk at the base. It runs breathing, heartbeat and swallowing.']. *Why:* The cerebrum is by far the largest part. The cerebellum sits under it at the back, and the brainstem leads down to the spinal cord.
 ### Testing ideas about organs (challenge) (challenge, 15 questions)
 1. (mcq) A liver is washed until no sugar comes out. The next day it holds sugar again. What does this show?  
-   Options: The liver makes sugar itself / Sugar came in from the air / The washing was not finished / The liver makes bile from sugar  
+   Options: Sugar came in from the air / The washing was not finished / The liver makes bile from sugar / The liver makes sugar itself  
    **Answer:** The liver makes sugar itself. *Why:* No food could reach the washed liver, so the new sugar must have come from a store inside it. That store is glycogen.
 2. (mcq) A child moves 24 beans alone, 17 while counting backwards and 23 while singing. What is the best conclusion?  
-   Options: Two jobs that need attention slow each other / Singing makes hands faster / The hands were tired by the second round / Counting backwards is impossible  
+   Options: Singing makes hands faster / Two jobs that need attention slow each other / The hands were tired by the second round / Counting backwards is impossible  
    **Answer:** Two jobs that need attention slow each other. *Why:* Counting backwards cost 7 beans and singing cost only 1. Tired hands would have slowed the singing round as well.
 3. (mcq) An insect's blood carries almost no oxygen. How do the insect's cells get oxygen?  
-   Options: Air tubes reach every part of the body / The insect does not need oxygen / Through the mouth and stomach / The wings fan it in  
+   Options: The insect does not need oxygen / Through the mouth and stomach / The wings fan it in / Air tubes reach every part of the body  
    **Answer:** Air tubes reach every part of the body. *Why:* Fine air tubes run from holes along the insect's sides to every part of the body. So in an insect, breathing does not depend on blood.
 4. (mcq) When a person's kidneys stop working, why does the heart come under strain?  
-   Options: Spare water and salt stay in the blood / The kidneys stop pumping blood / The heart has to make the urine / The lungs stop working too  
+   Options: The kidneys stop pumping blood / The heart has to make the urine / The lungs stop working too / Spare water and salt stay in the blood  
    **Answer:** Spare water and salt stay in the blood. *Why:* The kidneys let out spare water and salt. If they stop, the amount of blood grows and the heart must pump harder. The kidneys never pumped the blood.
 5. (truefalse) Scientists agree that the human body has exactly 78 organs.  
    **Answer:** False. *Why:* False. No group of scientists has agreed on a list. The number depends on what you count as one organ.
@@ -664,22 +664,22 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
 
 ## Quiz
 1. (mcq) What is an organ system?  
-   Options: A group of organs sharing one big job / The largest organ in the body / A group of cells of one kind / Any organ with two jobs  
+   Options: The largest organ in the body / A group of cells of one kind / Any organ with two jobs / A group of organs sharing one big job  
    **Answer:** A group of organs sharing one big job. *Why:* Organs that work together on one big job, such as digesting food, form an organ system. A group of cells of one kind is a tissue.
 2. (mcq) Which chamber of the heart pumps blood out to the whole body?  
    Options: The left ventricle / The right ventricle / The left atrium / The right atrium  
    **Answer:** The left ventricle. *Why:* The left ventricle has the thickest wall, because it pumps blood all round the body. The right ventricle pumps only to the lungs.
 3. (mcq) Where does oxygen pass from the air into the blood?  
-   Options: In the alveoli / In the windpipe / In the heart / In the throat  
+   Options: In the windpipe / In the heart / In the throat / In the alveoli  
    **Answer:** In the alveoli. *Why:* The alveoli are tiny air bags wrapped in capillaries. The windpipe and throat only carry the air.
 4. (mcq) Which part of the brain runs your breathing and heartbeat?  
    Options: The brainstem / The cerebrum / The cerebellum / The spinal cord  
    **Answer:** The brainstem. *Why:* The brainstem keeps breathing and heartbeat going without your thinking, even in sleep. The cerebrum does the thinking.
 5. (mcq) Which of these is an involuntary muscle?  
-   Options: The muscle of the stomach wall / The biceps / The tongue / The calf muscle  
+   Options: The biceps / The tongue / The calf muscle / The muscle of the stomach wall  
    **Answer:** The muscle of the stomach wall. *Why:* The stomach wall churns food without your choosing. You move the biceps, the tongue and the calf when you decide to.
 6. (mcq) In which organ does a baby grow before birth?  
-   Options: The uterus / The stomach / The ovary / The bladder  
+   Options: The stomach / The ovary / The bladder / The uterus  
    **Answer:** The uterus. *Why:* The uterus, or womb, is a bag of muscle where the baby grows for about nine months. The ovary only releases the egg.
 7. (mcq) Which organ works for both the digestive system and the hormone system?  
    Options: The pancreas / The bladder / The windpipe / The skull  
@@ -688,7 +688,7 @@ Yazhini thought she did. Whoever made the rule, long ago, had not needed a stopw
    Options: The body must breathe in fresh air sooner / The lungs have become smaller / The voice box is tired / The room has less air  
    **Answer:** The body must breathe in fresh air sooner. *Why:* Working muscles add carbon dioxide to the blood, so the brainstem forces the next breath sooner. The lungs stay the same size.
 9. (mcq) In hard exercise, where does most of the blood go?  
-   Options: To the muscles / To the gut / To the kidneys / To the brain  
+   Options: To the gut / To the kidneys / To the muscles / To the brain  
    **Answer:** To the muscles. *Why:* About four fifths of the blood goes to the working muscles. The gut and the kidneys get less, and the brain gets about the same as at rest.
 10. (truefalse) Food and air take completely separate paths from the face down into the body.  
    **Answer:** False. *Why:* False. Both pass through the throat. The paths divide lower down, into the windpipe and the food pipe.

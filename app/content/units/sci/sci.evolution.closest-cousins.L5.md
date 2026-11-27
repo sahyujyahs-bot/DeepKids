@@ -567,7 +567,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 7. (order) Put in order the steps a chimpanzee takes to fish with a brush-tipped stem.  
    **Answer:** ['Pick a long stem', 'Strip off the leaves', 'Fray the tip with the teeth', 'Push the stem into the nest', 'Pull it out and eat the termites']. *Why:* The tool is made before it is used. Stripping and fraying both change the stem to fit the job.
 8. (mcq) A chimpanzee strips a twig before fishing. Why do scientists call this making a tool?  
-   Options: The twig was changed to fit a job / The twig is long / The twig lay near a mound / A chimpanzee held the twig  
+   Options: The twig is long / The twig was changed to fit a job / The twig lay near a mound / A chimpanzee held the twig  
    **Answer:** The twig was changed to fit a job. *Why:* Making a tool means changing an object so that it does a job better. Choosing 'held the twig' describes using a thing, which is less than making one.
 9. (odd) Three of these are great apes. Which is the odd one out?  
    Options: Gorilla / Orangutan / Gibbon / Bonobo  
@@ -587,7 +587,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
    **Answer:** She kept coming back to the same place every day and stayed quiet. Over months the chimpanzees learned that she was harmless and let her stay near.. *Why:* Wild animals behave normally only when they no longer fear the watcher. That takes patience, which is why field studies take years.
 ### DNA, Culture and Minds (stretch) (stretch, 15 questions)
 1. (mcq) Lined up letter by letter, about how many DNA letters in 100 differ between you and a chimpanzee?  
-   Options: About 1 / About 10 / About 25 / About 50  
+   Options: About 10 / About 25 / About 50 / About 1  
    **Answer:** About 1. *Why:* About 1.2 letters in every 100 differ. Choosing a large number usually comes from how different our bodies look. Small DNA changes can have large effects.
 2. (truefalse) True or false: a human cell has 46 chromosomes and a chimpanzee cell has 48.  
    **Answer:** True. *Why:* True. Two chromosomes joined end to end on the human line, so we have one pair fewer.
@@ -598,12 +598,12 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 5. (order) Put in order how scientists decide that a habit is culture.  
    **Answer:** ['List habits common in one group and missing in another', 'Remove the ones the place can explain', 'Remove the ones genes can explain', 'Call what is left learned culture']. *Why:* Culture is what remains after the place and genes are ruled out.
 6. (mcq) One chimpanzee group cracks no nuts. Their forest has no nut trees. What causes this difference?  
-   Options: The place / Culture / Genes / Chance  
+   Options: Culture / The place / Genes / Chance  
    **Answer:** The place. *Why:* They cannot crack nuts that are not there. Choosing 'culture' skips the first check: could the place explain it?
 7. (sort) Sort each difference by its cause: learned, the place, or genes.  
    **Answer:** eating with chopsticks or with the hand → Learned; thick wool in Ladakh, cotton in Chennai → The place; blood group B or O → Genes; clasping hands while grooming → Learned; a bonobo's long legs → Genes; no termite fishing where there are no mounds → The place. *Why:* Ask two questions. Does the place offer the same things? Is the family the same? If both are yes, the difference is learned.
 8. (mcq) In the mirror test, what shows that an ape knows whose reflection it is?  
-   Options: Touching the mark on their own face / Touching the mirror / Looking behind the mirror / Making a threat face  
+   Options: Touching the mirror / Looking behind the mirror / Making a threat face / Touching the mark on their own face  
    **Answer:** Touching the mark on their own face. *Why:* The mark can be seen only in the mirror. Touching it on their own face shows the ape links the reflection to their own body. Looking behind the mirror suggests the ape expects another animal there.
 9. (write) A chimpanzee beat students at a glance memory test. Give one reason the comparison was not fully fair.  
    **Answer:** The chimpanzee had practised the task for years and the students had not. When people practised a lot, they matched him.. *Why:* A fair test changes only one thing. Here both the species and the amount of practice differed.
@@ -616,7 +616,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 13. (perspective) Two children argue about how different humans and chimpanzees are.  
    **Answer:** A strong answer says both are right, because one gives the share and the other the count. It may add that small changes in DNA switches can have large effects.. *Why:* 1.2 in 100 is a small share. It is also about 35 million letters. Which one you say depends on what you want to show.
 14. (mcq) Why does a group of great apes recover slowly after losing some adults?  
-   Options: Mothers have one baby every several years / Apes cannot find food / Apes do not live in groups / Babies are born only in winter  
+   Options: Apes cannot find food / Mothers have one baby every several years / Apes do not live in groups / Babies are born only in winter  
    **Answer:** Mothers have one baby every several years. *Why:* A chimpanzee mother has a baby about every five years, and an orangutan about every seven or eight. Few young are born, so numbers rise slowly.
 15. (write) One new habit spread only to watchers. Another appeared in animals who watched nobody. Which shows social learning? Why?  
    **Answer:** The first. If only those who watched picked it up, then watching was needed. The second could be worked out alone.. *Why:* To show social learning you must know who watched whom, and not only that a habit became common.
@@ -624,7 +624,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 1. (write) 'Only humans make tools' was believed until 1960. Why had nobody shown it wrong before then?  
    **Answer:** Nobody had watched wild apes closely for long enough. Wild chimpanzees ran from people, so short visits showed very little.. *Why:* Not seeing something is weak evidence when few people have looked. The claim rested on a lack of watching.
 2. (mcq) A scientist writes 'not seen in other apes so far'. What does she mean?  
-   Options: Nobody has observed it yet / Apes can never do it / Apes were tested and failed / Apes do it only in secret  
+   Options: Apes can never do it / Nobody has observed it yet / Apes were tested and failed / Apes do it only in secret  
    **Answer:** Nobody has observed it yet. *Why:* It reports what has been found up to now. Choosing 'can never' turns a gap in the evidence into a fact about apes.
 3. (perspective) Two scientists argue about the minds of humans and other apes.  
    **Answer:** A strong answer picks a side and gives evidence. For the first: tools, traditions and the mirror test were once called human-only. For the second: no other ape has grammar or culture that builds up.. *Why:* This is still argued about. What matters is using evidence for your side and seeing the best point on the other.
@@ -633,7 +633,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 5. (write) Children copy a step they can see is useless. Why might that habit be useful for humans?  
    **Answer:** Many human skills are too complicated to see why each step matters. Copying exactly keeps the steps that work, so skills can be passed on and built up.. *Why:* This is one idea about how human culture builds up. It is not settled.
 6. (mcq) Young chimpanzees left out a step when they could see it did nothing. What does that show?  
-   Options: They understood what the step did / They could not copy / They were not watching / They disliked the reward  
+   Options: They could not copy / They were not watching / They understood what the step did / They disliked the reward  
    **Answer:** They understood what the step did. *Why:* With a box they could not see into, the chimpanzees did copy the step. With a clear box they skipped it. So they could copy, and chose not to.
 7. (sort) Sort each claim about 'only humans' by what the evidence says.  
    **Answer:** making tools → Others do it too; laughing → Others do it too; cooking food → Not seen so far; using grammar → Still argued about; writing → Not seen so far; teaching on purpose → Still argued about. *Why:* Tools and laughter have been seen in other apes. Grammar and teaching are argued about. Cooking and writing have not been seen.
@@ -652,7 +652,7 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
    Options: Fishing with stems / Cracking nuts with stones / Keeping a fire going / Sponging up water with leaves  
    **Answer:** 2. *Why:* No wild ape has been seen making or keeping fire. The other three are well-known chimpanzee tool uses.
 14. (mcq) Which is the best kind of guess in science?  
-   Options: One that evidence could show wrong / One that fits whatever is found / One that most people like / One that uses long words  
+   Options: One that fits whatever is found / One that most people like / One that uses long words / One that evidence could show wrong  
    **Answer:** One that evidence could show wrong. *Why:* The joined chromosome idea said what marks should be there. If they had been missing, the idea would have failed. A guess that fits anything tells us nothing.
 15. (write) 'Special' can mean 'different from others' or 'above others'. Which meaning can science test? Explain.  
    **Answer:** Science can test 'different', by comparing what each species does. It has no test for 'above', because that depends on what you choose to value.. *Why:* A chimpanzee is better at glance memory and a human at language. Which matters more is a choice, not a measurement.
@@ -664,13 +664,13 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 
 ## Quiz
 1. (mcq) Which two apes are humans' closest living relatives?  
-   Options: Chimpanzees and bonobos / Gorillas and orangutans / Gibbons and gorillas / Macaques and langurs  
+   Options: Gorillas and orangutans / Gibbons and gorillas / Chimpanzees and bonobos / Macaques and langurs  
    **Answer:** Chimpanzees and bonobos. *Why:* Our line and the line of chimpanzees and bonobos split most recently. Macaques and langurs are monkeys.
 2. (mcq) What is a common ancestor?  
-   Options: A being from whom two kinds both descend / The oldest animal alive today / A chimpanzee who became human / The strongest member of a group  
+   Options: The oldest animal alive today / A chimpanzee who became human / A being from whom two kinds both descend / The strongest member of a group  
    **Answer:** A being from whom two kinds both descend. *Why:* Two kinds of living beings today can both descend from one group long ago. No chimpanzee became human.
 3. (mcq) What does the join in human chromosome 2 explain?  
-   Options: Why humans have 46 chromosomes and other great apes 48 / Why humans walk upright / Why chimpanzees have more hair / Why DNA has four letters  
+   Options: Why humans walk upright / Why humans have 46 chromosomes and other great apes 48 / Why chimpanzees have more hair / Why DNA has four letters  
    **Answer:** Why humans have 46 chromosomes and other great apes 48. *Why:* Two ancestral chromosomes joined end to end on the human line. The same DNA is packed into one pair fewer.
 4. (truefalse) True or false: there is one exact number for how alike human and chimpanzee DNA is.  
    **Answer:** False. *Why:* False. Counting single letters gives almost 99 per cent. Counting added and missing stretches too gives about 96. The answer depends on what is counted.
@@ -681,10 +681,10 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
    Options: More fibres for termites to hold on to / A brush is longer than a stem / A brush smells sweet / Termites like the colour  
    **Answer:** More fibres for termites to hold on to. *Why:* Termites bite on to what enters the nest. Many fine fibres give them more to grip than one smooth end.
 7. (mcq) Two groups differ in a habit. Which finding points most strongly to culture?  
-   Options: The habit spreads only to those who watch it / One group is bigger / One forest is wetter / The groups look different  
+   Options: One group is bigger / The habit spreads only to those who watch it / One forest is wetter / The groups look different  
    **Answer:** The habit spreads only to those who watch it. *Why:* If only watchers pick the habit up, the habit is learned from others. A wetter forest would point to the place.
 8. (mcq) Which of these is a tradition?  
-   Options: Cracking nuts the way your group does / Having brown eyes / Growing taller each year / Feeling hungry  
+   Options: Having brown eyes / Cracking nuts the way your group does / Growing taller each year / Feeling hungry  
    **Answer:** Cracking nuts the way your group does. *Why:* A tradition is learned from others in the group. Eye colour is inherited, and growing and hunger happen without learning.
 9. (mcq) In a film test, an ape looks where a person wrongly thinks a ball is. What might this show?  
    Options: The ape tracks what the person believes / The ape cannot see the ball / The ape is bored / The ape wants the ball  
@@ -692,10 +692,10 @@ Nick did not know he had begun anything. Nambi did not know she had passed anyth
 10. (truefalse) True or false: scientists agree that apes taught signs are using full language.  
    **Answer:** False. *Why:* False. Apes have learned hundreds of signs. Whether they use grammar, which language needs, is still argued about.
 11. (mcq) Why did Jane Goodall see what earlier visitors had missed?  
-   Options: She watched the same chimpanzees for years / She had a better camera / She tested them in a laboratory / She taught them signs  
+   Options: She had a better camera / She tested them in a laboratory / She watched the same chimpanzees for years / She taught them signs  
    **Answer:** She watched the same chimpanzees for years. *Why:* Wild chimpanzees hide from strangers. Only after months did they let her near enough to see tool making, and only years showed whole lives.
 12. (mcq) Which of these has not been seen in any wild ape other than humans?  
-   Options: Cooking food / Making a tool / Comforting a friend / Learning by watching  
+   Options: Making a tool / Comforting a friend / Cooking food / Learning by watching  
    **Answer:** Cooking food. *Why:* No wild ape makes fire or cooks. The other three have been seen many times in chimpanzees.
 
 ## Applications

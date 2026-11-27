@@ -614,10 +614,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 10. (sort) Is each of these an allergy or an autoimmune disease?  
    **Answer:** hay fever → Allergy; type 1 diabetes → Autoimmune disease; a reaction to peanuts → Allergy; coeliac disease → Autoimmune disease; a reaction to dust mites → Allergy; rheumatoid arthritis → Autoimmune disease. *Why:* In an allergy the target is a harmless thing from outside. In an autoimmune disease the target is part of the person's own body.
 11. (mcq) Which cells does HIV infect and destroy?  
-   Options: Red blood cells / Helper T cells / Skin cells  
+   Options: Red blood cells / Skin cells / Helper T cells  
    **Answer:** Helper T cells. *Why:* HIV fits a molecule called CD4 on helper T cells. These cells switch the rest of the defence on, so losing them weakens everything.
 12. (mcq) Which of these can pass HIV from one person to another?  
-   Options: A mosquito bite / Sharing a tumbler / A reused injection needle  
+   Options: A mosquito bite / A reused injection needle / Sharing a tumbler  
    **Answer:** A reused injection needle. *Why:* HIV passes in blood, so a reused needle can carry the virus. HIV does not pass through shared tumblers or mosquitoes.
 13. (write) One antibody lasts only weeks. Explain how a person still has measles antibodies fifty years after measles.  
    **Answer:** Some plasma cells live in the bone marrow for many years. They keep making fresh measles antibodies all the time, to replace the ones that are broken down.. *Why:* A strong answer says that long-lived plasma cells keep making new antibodies. The antibodies themselves are not fifty years old.
@@ -627,7 +627,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    **Answer:** This is anaphylaxis, which is an emergency. A grown-up must be told at once. She needs an adrenaline injection if she carries one, and an ambulance to hospital. In India, call 108 or 112.. *Why:* A strong answer names it as an emergency and says adrenaline and hospital. Waiting to see if it passes is dangerous.
 ### Classes of antibody, the thymus and HIV (stretch) (stretch, 16 questions)
 1. (mcq) Why does an antibody have two matching tips?  
-   Options: To fit two different kinds of germ / To cut a germ in half / To hold two germs, or one germ twice  
+   Options: To fit two different kinds of germ / To hold two germs, or one germ twice / To cut a germ in half  
    **Answer:** To hold two germs, or one germ twice. *Why:* Two matching tips let one antibody join two germs into a clump, or grip one germ firmly in two places. The tips are the same, so they fit the same antigen.
 2. (truefalse) True or false: a B cell can keep the same antibody tips and change the stem.  
    **Answer:** True. *Why:* True. The tips decide what the antibody fits. The stem decides where it goes and what happens next. Changing the stem turns IgM into IgG, IgA or IgE with the same fit.
@@ -636,12 +636,12 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 4. (order) Put the steps of an allergy in order.  
    **Answer:** ['The body meets the allergen for the first time', 'B cells make IgE that fits the allergen', 'The IgE settles on mast cells', 'The allergen comes again and links two IgE antibodies', 'The mast cell releases histamine']. *Why:* An allergy needs two meetings. The first prepares the mast cells. The second sets them off.
 5. (mcq) What does histamine do to small blood vessels?  
-   Options: Makes them wider and leaky / Makes them narrower / Blocks them completely  
+   Options: Makes them narrower / Blocks them completely / Makes them wider and leaky  
    **Answer:** Makes them wider and leaky. *Why:* Histamine widens small blood vessels and makes them leaky, so fluid moves into the skin or the nose lining. That gives redness, swelling and a runny nose.
 6. (fill) Young T cells are tested in the ____, a soft organ behind the breastbone.  
    **Answer:** ['thymus']. *Why:* The thymus shows young T cells samples of the body's own proteins and removes the T cells who would attack them.
 7. (mcq) What happens in the thymus to a young T cell whose receptor fits a body protein strongly?  
-   Options: That T cell becomes a B cell / That T cell is removed / That T cell is copied many times  
+   Options: That T cell becomes a B cell / That T cell is copied many times / That T cell is removed  
    **Answer:** That T cell is removed. *Why:* A T cell who fits the body would attack the body, so the thymus gives that cell a signal to die. Choosing 'copied' is what happens later to a T cell who fits a germ.
 8. (sort) Can HIV pass from one person to another in this way?  
    **Answer:** blood on a reused needle → Yes; from a mother to her baby, with no treatment → Yes; hugging → No; sharing food → No; a mosquito bite → No; coughing → No. *Why:* HIV passes in blood, in sex between grown-ups, and from mother to baby. The virus does not pass through skin, food, air or mosquitoes.
@@ -652,7 +652,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 11. (truefalse) True or false: HIV medicines remove every virus from the body.  
    **Answer:** False. *Why:* False. The medicines stop HIV from copying. HIV DNA stays hidden inside resting cells, so the virus returns if the medicines are stopped.
 12. (mcq) Why are three HIV medicines given together?  
-   Options: Each one treats a different illness / One tablet is too small to work / A virus resisting all three is very unlikely  
+   Options: Each one treats a different illness / A virus resisting all three is very unlikely / One tablet is too small to work  
    **Answer:** A virus resisting all three is very unlikely. *Why:* HIV changes fast, so a virus who resists one medicine soon appears. A virus who resists three different medicines at once is very unlikely.
 13. (draw) Sketch a line graph of helper T cells over ten years of HIV. Add a second line with medicine.  
    **Answer:** The first line falls slowly from a high start towards a low level over about ten years. The second line falls at first, then rises again from the year the medicine starts.. *Why:* A strong sketch shows a slow fall over years, not a sudden drop, and shows that medicine lets the count recover.
@@ -665,7 +665,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    **Answer:** a condom → body fluids passing between partners in sex; a single-use needle → blood left in a needle used by another person; tested blood for a transfusion → HIV passing from a donor to a patient; a free HIV test → HIV going unnoticed, so treatment starts late. *Why:* Each protection blocks one way that the blood or body fluids of one person could reach another. An early test lets treatment start sooner.
 ### Atoms, evidence and open arguments (challenge) (challenge, 15 questions)
 1. (mcq) How does the tip of an antibody hold an antigen?  
-   Options: By tiny hooks that pierce it / By many weak attractions between atoms / By one strong chemical bond  
+   Options: By tiny hooks that pierce it / By one strong chemical bond / By many weak attractions between atoms  
    **Answer:** By many weak attractions between atoms. *Why:* Many weak attractions act together where the shapes and electric charges match. No strong bond forms, which is why a close fit matters and why the antibody can let go.
 2. (write) Explain why a molecule of slightly the wrong shape does not stay on an antibody's tip.  
    **Answer:** The wrong shape touches the tip at only a few points. A few weak attractions are not enough to hold against the moving water around them, so the molecule drifts away.. *Why:* A strong answer says that the hold comes from many weak attractions together, and that a poor fit gives too few of them.
@@ -694,7 +694,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 13. (draw) Draw a mast cell before and after an allergen links two IgE antibodies. Label IgE, allergen and histamine.  
    **Answer:** Before: a round cell full of dots, with Y shapes standing on the surface. After: one allergen touching the tips of two Y shapes, and dots leaving the cell. The Y shapes are labelled IgE and the dots are labelled histamine.. *Why:* A strong drawing shows one allergen joining two IgE antibodies, because that link is what sets the mast cell off.
 14. (mcq) One of eight samples is positive. You mix four and test the mixture. What does the result tell you?  
-   Options: Nothing useful at all / Which half holds the positive sample / Exactly which sample is positive  
+   Options: Nothing useful at all / Exactly which sample is positive / Which half holds the positive sample  
    **Answer:** Which half holds the positive sample. *Why:* If the mixture is positive, the positive sample is one of those four. If it is negative, it is one of the other four. One test has halved the search.
 15. (truefalse) True or false: a person whose HIV is too low to measure does not pass HIV on through sex.  
    **Answer:** True. *Why:* True. Studies of thousands of couples found no case of HIV passing from a partner whose virus was too low to measure. People say 'undetectable equals untransmittable'.
@@ -712,10 +712,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: A lump cannot spread, and is swallowed whole / A lump is squeezed until the germs die / A lump turns into more antibodies  
    **Answer:** A lump cannot spread, and is swallowed whole. *Why:* Clumped germs cannot spread through the body, and one phagocyte can swallow the whole clump. Antibodies do not squeeze or kill.
 3. (mcq) Which cells keep releasing antibodies for years after an infection is over?  
-   Options: Mast cells in the skin / Plasma cells in the bone marrow / Red blood cells  
+   Options: Plasma cells in the bone marrow / Mast cells in the skin / Red blood cells  
    **Answer:** Plasma cells in the bone marrow. *Why:* Long-lived plasma cells in the bone marrow keep making fresh antibodies. Mast cells hold IgE on their surface but do not make antibodies.
 4. (mcq) What does an antibody test look for in a person's blood?  
-   Options: The living germ / Damaged red blood cells / Antibodies the body made against the germ  
+   Options: The living germ / Antibodies the body made against the germ / Damaged red blood cells  
    **Answer:** Antibodies the body made against the germ. *Why:* The test finds the body's answer to the germ. That is why it can show an infection from long ago, and why it can miss one from last week.
 5. (truefalse) True or false: a negative antibody test always means that the person has no infection.  
    **Answer:** False. *Why:* False. In the first weeks the body has not yet made enough antibody to find. This is the window period, so the test is repeated later.
@@ -723,10 +723,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: IgE / IgG / IgA  
    **Answer:** IgE. *Why:* IgE fixes its stem to mast cells. IgG is the main antibody in blood, and IgA is in tears, spit and milk.
 7. (mcq) Why does a baby's first mosquito bite usually leave no bump?  
-   Options: Babies have no mast cells / The baby has no IgE against saliva yet / Mosquito saliva cannot enter a baby's skin  
+   Options: Babies have no mast cells / Mosquito saliva cannot enter a baby's skin / The baby has no IgE against saliva yet  
    **Answer:** The baby has no IgE against saliva yet. *Why:* A bump is the body's answer to mosquito saliva, and it needs IgE made after an earlier bite. At the first bite there is none yet.
 8. (mcq) In an autoimmune disease, what does the immune system attack?  
-   Options: A harmless food or pollen / A virus hiding in the body / Part of the person's own body  
+   Options: Part of the person's own body / A harmless food or pollen / A virus hiding in the body  
    **Answer:** Part of the person's own body. *Why:* 'Auto' means self. The defence attacks the person's own cells, such as the insulin-making cells in type 1 diabetes. Choosing 'a harmless food' describes an allergy.
 9. (mcq) How do antiretroviral medicines help a person with HIV?  
    Options: They stop the virus from copying / They remove every virus in a week / They are helper T cells in a tablet  
@@ -737,10 +737,10 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    Options: The dose used up all the smallpox nearby / The body kept memory cells and antibodies / The scratch let the illness out  
    **Answer:** The body kept memory cells and antibodies. *Why:* The body answered the small dose and kept plasma cells and memory cells against smallpox. The healers who did this did not know about these cells, but they knew that it worked.
 12. (mcq) 844 of 5,759 people died in one group, and 6 of 247 in another. What is the fair comparison?  
-   Options: The two numbers of deaths / The two sizes of the groups / Deaths out of every 100 in each group  
+   Options: The two numbers of deaths / Deaths out of every 100 in each group / The two sizes of the groups  
    **Answer:** Deaths out of every 100 in each group. *Why:* The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.
 13. (mcq) Which of these stops HIV passing through blood from one person to another?  
-   Options: Using a new, single-use needle every time / Washing the tumbler after a friend uses it / Wearing a mask in class  
+   Options: Washing the tumbler after a friend uses it / Using a new, single-use needle every time / Wearing a mask in class  
    **Answer:** Using a new, single-use needle every time. *Why:* A single-use needle carries no blood from another person. Washing a tumbler and wearing a mask do nothing against HIV, because HIV does not pass through a tumbler or the air.
 
 ## Applications

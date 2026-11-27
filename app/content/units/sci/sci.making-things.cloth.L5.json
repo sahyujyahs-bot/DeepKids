@@ -703,11 +703,11 @@
       "t": "mcq",
       "q": "How is ikat different from bandhani?",
       "options": [
-       "Ikat ties and dyes threads, bandhani ties and dyes cloth",
        "Ikat is printed, bandhani is stitched",
-       "They are two names for one craft"
+       "They are two names for one craft",
+       "Ikat ties and dyes threads, bandhani ties and dyes cloth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In ikat the threads are tied and dyed before weaving, so the pattern appears as the cloth is woven. In bandhani the cloth is woven first, then pinched, tied and dyed."
      },
      "context": "This is the last step of Woven, Dyed, Printed or Stitched. Here you look at the sorted cards and find the cloth made nearest to your home."
@@ -837,11 +837,11 @@
       "t": "mcq",
       "q": "Which fibre is made in a factory from plant cellulose?",
       "options": [
-       "Viscose",
        "Wool",
+       "Viscose",
        "Nylon"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Viscose, also called rayon, starts as wood or bamboo. A factory dissolves the cellulose and pushes it out as new filaments. Wool grows on sheep, and nylon is made from petroleum."
      },
      "context": "This is the last step of Fibre Detective. Here you add up the points and write a clue card of your own."
@@ -1031,11 +1031,11 @@
       "t": "mcq",
       "q": "In Woven or Knitted, why did the knitted cotton stretch more than the woven cotton?",
       "options": [
-       "The knitted cotton is a softer kind of cotton",
        "The knitted thread runs in loops, which can open out",
+       "The knitted cotton is a softer kind of cotton",
        "The woven strip was cut wider"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both cloths are cotton, and the strips were the same width. The knitted thread runs in loops, so a row holds 3 or 4 times as much thread as the cloth is wide. A pull opens the loops out. If you chose 'softer cotton', look again at the two threads you measured."
      },
      "context": "This is the last step of Woven or Knitted. Here you explain the stretch, using the lengths of the threads you pulled out."
@@ -1220,10 +1220,10 @@
       "q": "In the Leaky Seam Test, why did the seam with 1 cm stitches let the most seeds through?",
       "options": [
        "Its thread was thinner",
-       "The cloth can open between needle holes that are far apart",
-       "Mustard seeds are attracted to long stitches"
+       "Mustard seeds are attracted to long stitches",
+       "The cloth can open between needle holes that are far apart"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A running stitch pins the two cloths together only at the needle holes. Between the holes the cloths can pull apart. Holes 1 cm apart leave gaps wide enough for a mustard seed. The thread was the same in all three seams."
      },
      "context": "This is the last step of the Leaky Seam Test. Here you explain your results, and weigh a tight seam against the time it takes to sew."
@@ -1392,11 +1392,11 @@
       "t": "mcq",
       "q": "In the Fray Test, why did the selvedge not fray?",
       "options": [
-       "It is made of stronger cotton",
        "The cross thread turns back there, so no cut ends exist",
+       "It is made of stronger cotton",
        "It was not in the water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "At the selvedge the weft thread turns round and goes back into the cloth. There are no cut ends, so no thread can slide off. All the edges were in the same water, and the cotton is the same."
      },
      "context": "This is the last step of the Fray Test. Here you explain why some edges fray, and what a hem is for."
@@ -1583,10 +1583,10 @@
       "q": "Why are the plies of a thread twisted together the opposite way to their own twist?",
       "options": [
        "To make the thread look pretty",
-       "So the two twists balance and the thread stays still",
-       "So the thread can stretch"
+       "So the thread can stretch",
+       "So the two twists balance and the thread stays still"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A single twisted yarn tries to untwist. When two are twisted together the opposite way, each twist holds the other. The thread neither untwists nor curls."
      },
      "context": "This is the last step of Take a Thread Apart. Here you twist a yarn, fold it and watch it turn into a two-ply cord by itself."
@@ -1677,11 +1677,11 @@
       "t": "mcq",
       "q": "Why do ikat patterns have soft, feathered edges?",
       "options": [
-       "The dye is watery",
        "The dyed threads shift a little when they are woven",
+       "The dye is watery",
        "The weaver draws the edges with a brush"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In ikat the threads are dyed before weaving. On the loom each thread sits a little higher or lower than the one beside it, so the edge of each shape is stepped. A printed pattern has sharp edges, because it is put on after weaving."
      },
      "context": "This is the last step of Paper Ikat. Here you shift some strips to see why ikat patterns have feathered edges."
@@ -1753,11 +1753,11 @@
       "t": "mcq",
       "q": "A label says '60% cotton, 40% polyester'. What kind of cloth is it?",
       "options": [
+       "A blend of natural and synthetic fibres",
        "A natural cloth",
-       "A synthetic cloth",
-       "A blend of natural and synthetic fibres"
+       "A synthetic cloth"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The yarn mixes two fibres, so the cloth is a blend. The cotton takes in sweat, and the polyester adds strength and dries fast."
      },
      "context": "This is the last step of Label Hunt. Here you work out why each fibre was chosen for its job."
@@ -1850,11 +1850,11 @@
       "t": "mcq",
       "q": "Why are most silk cocoons heated before the moth comes out?",
       "options": [
-       "To make the silk white",
        "To keep the filament in one unbroken length",
+       "To make the silk white",
        "To help the moth grow"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A moth that comes out breaks the filament into short pieces. Heating kills the pupa, so the cocoon can be unwound as one long filament. This is why some people choose eri silk or no silk."
      },
      "context": "This is the last step of One Cocoon, One Thread. Here you compare the whole thread with the broken pieces and talk about how silk is made."
@@ -1959,10 +1959,10 @@
       "q": "The two ends of a running stitch thread are cut free and one end is pulled. What happens?",
       "options": [
        "Nothing: the stitches hold",
-       "The whole thread slides out and the seam opens",
-       "Only the first stitch comes out"
+       "Only the first stitch comes out",
+       "The whole thread slides out and the seam opens"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A running stitch thread passes straight through the cloth, in and out. With no knot to stop it, the whole thread can be drawn out. A backstitch loops back on itself, so it grips and comes out only stitch by stitch."
      },
      "context": "This is the last step of Stitch Sampler. Here you test the two stitches by pulling the layers apart and by cutting the thread ends free."
@@ -2348,11 +2348,11 @@
       "t": "mcq",
       "q": "Why does a sari waste no cloth, when a shirt cut from the same cloth does?",
       "options": [
-       "A sari is made of better cloth",
        "A sari is worn as one whole rectangle, with nothing cut away",
+       "A sari is made of better cloth",
        "A sari is smaller than a shirt"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A shirt is made of curved pieces cut out of a rectangle, so scraps are left between the pieces. A sari is worn as it comes off the loom, shaped by pleats and tucks, so nothing is cut away."
      },
      "context": "This is the last step of Wear It Uncut. Here you design and test your own way of wearing one uncut cloth."
@@ -2372,11 +2372,11 @@
      "p": "What is weaving?",
      "opts": [
       "Twisting fibres into yarn",
-      "Crossing two sets of threads, over and under",
       "Pulling one thread into loops",
+      "Crossing two sets of threads, over and under",
       "Printing colour on cloth"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Weaving crosses warp threads and weft threads at right angles. Twisting fibres is spinning, and pulling one thread into loops is knitting. Choosing one of those means the three words need another look."
     },
     {
@@ -2502,12 +2502,12 @@
      "t": "mcq",
      "p": "Which bird stitches the edges of a leaf together to hold a nest?",
      "opts": [
+      "Tailorbird",
       "Baya weaver",
       "Crow",
-      "Tailorbird",
       "Kingfisher"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The tailorbird pierces the leaf edges and pulls plant fibre or spider silk through. The baya weaver weaves a hanging nest from strips of grass."
     },
     {
@@ -2590,12 +2590,12 @@
      "t": "mcq",
      "p": "One row of thread pulled from 5 cm of T-shirt cloth is 18 cm long. What does this show?",
      "opts": [
+      "The thread runs in loops",
       "The cloth was measured wrongly",
       "The thread is made of rubber",
-      "The thread runs in loops",
       "Cotton grows when it is cut"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The thread is more than 3 times as long as the cloth is wide, so it must be folded into loops. That spare length is where the stretch comes from.",
      "how": "e1"
     },
@@ -2671,12 +2671,12 @@
      "t": "mcq",
      "p": "Which is the safest to wear beside a gas stove?",
      "opts": [
-      "A polyester jacket",
       "A cotton kurta",
+      "A polyester jacket",
       "A nylon dupatta",
       "An acrylic sweater"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Synthetic fibres melt near a flame and stick to the skin. Cotton can burn, but it does not melt and stick."
     },
     {
@@ -2766,11 +2766,11 @@
      "p": "Why is denim blue outside and pale inside?",
      "opts": [
       "Only the outside is dyed",
-      "The inside is washed more often",
       "The blue threads lie mostly on the outside",
+      "The inside is washed more often",
       "The inside is a different cloth"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Denim is a twill. Its blue warp threads pass over three white weft threads and under one, so the outside shows mostly blue and the inside mostly white."
     },
     {
@@ -2885,10 +2885,10 @@
      "opts": [
       "What colour the first clothes were",
       "Who invented the needle",
-      "Roughly when people began to wear clothes",
-      "How cotton was first spun"
+      "How cotton was first spun",
+      "Roughly when people began to wear clothes"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Body lice could not exist before clothes. Their DNA shows when they split from head lice, at least 83,000 years ago, so clothes are at least that old."
     },
     {
@@ -3033,12 +3033,12 @@
    "t": "mcq",
    "p": "In woven cloth, what does the weft thread do?",
    "opts": [
-    "It runs along the length, held tight",
     "It runs across, over and under the warp",
+    "It runs along the length, held tight",
     "It loops through itself",
     "It holds the hem down"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The weft runs across the cloth, over and under the warp threads. The warp is the set held tight along the length. If you chose loops, that is knitting.",
    "outcome": 0
   },
@@ -3046,12 +3046,12 @@
    "t": "mcq",
    "p": "Under a lens, a cloth shows columns of tiny V-shaped loops. How was it made?",
    "opts": [
-    "It was knitted",
     "It was woven",
     "It was printed",
-    "It was embroidered"
+    "It was embroidered",
+    "It was knitted"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Rows of loops mean knitting. Woven cloth shows two sets of threads crossing at right angles.",
    "outcome": 0
   },
@@ -3060,11 +3060,11 @@
    "p": "Why does knitted cotton stretch more than woven cotton?",
    "opts": [
     "Its cotton is softer",
+    "Its looped thread can open out",
     "Its thread is thinner",
-    "It has rubber in it",
-    "Its looped thread can open out"
+    "It has rubber in it"
    ],
-   "a": 3,
+   "a": 1,
    "why": "A knitted row holds 3 or 4 times as much thread as the cloth is wide, bent into loops. A pull opens the loops. The cotton itself is the same.",
    "outcome": 1,
    "how": "e1"
@@ -3075,10 +3075,10 @@
    "opts": [
     "The fibres are glued end to end",
     "Each fibre is stretched out",
-    "Twisted fibres overlap and grip each other",
-    "The fibres are tied in knots"
+    "The fibres are tied in knots",
+    "Twisted fibres overlap and grip each other"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Spinning overlaps the fibres and twists them. The twist presses them together, and friction stops them sliding apart. Nothing is glued or tied.",
    "outcome": 2
   },
@@ -3087,11 +3087,11 @@
    "p": "Which of these fibres comes from an animal?",
    "opts": [
     "Jute",
-    "Pashmina",
     "Polyester",
+    "Pashmina",
     "Linen"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Pashmina is the under-hair of a goat from Ladakh. Jute and linen come from plant stems, and polyester from a factory.",
    "outcome": 2
   },
@@ -3099,12 +3099,12 @@
    "t": "mcq",
    "p": "What is inside a silk cocoon just before the moth comes out?",
    "opts": [
+    "A pupa",
     "An egg",
     "A mulberry leaf",
-    "A pupa",
     "Nothing"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The caterpillar spins the cocoon and becomes a pupa inside. The pupa then becomes the moth. The egg stage came much earlier.",
    "outcome": 3
   },
@@ -3134,12 +3134,12 @@
    "t": "mcq",
    "p": "In which of these is the pattern stitched on with a needle?",
    "opts": [
+    "Kasuti",
     "Pochampally ikat",
     "Bandhani",
-    "Ajrakh",
-    "Kasuti"
+    "Ajrakh"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Kasuti is embroidery from Karnataka. Ikat and bandhani are tied and dyed, and ajrakh is printed with wooden blocks.",
    "outcome": 6
   },
@@ -3148,11 +3148,11 @@
    "p": "What does a tailorbird use to stitch a leaf?",
    "opts": [
     "Wet mud",
-    "Plant fibre or spider silk",
     "Strips of grass woven over and under",
-    "Their own feathers"
+    "Their own feathers",
+    "Plant fibre or spider silk"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A tailorbird pierces the leaf edge and pulls fibre or spider silk through. Weaving strips of grass is the baya weaver's way.",
    "outcome": 7
   },
@@ -3173,12 +3173,12 @@
    "t": "mcq",
    "p": "A cook wants to dye a white cloth yellow with marigold flowers. Which way works?",
    "opts": [
-    "Boil marigold petals in water, strain the liquid, and soak the cloth in it",
     "Boil the cloth in plain water until it turns yellow",
+    "Boil marigold petals in water, strain the liquid, and soak the cloth in it",
     "Sew marigold petals onto the cloth",
     "Freeze the petals and iron them onto the cloth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Boiling plant parts puts their colour into the water. Straining removes the bits, and the cloth soaks up the colour. Plain water has no colour to give, so the cloth would stay white.",
    "outcome": 6
   },
@@ -3186,12 +3186,12 @@
    "t": "mcq",
    "p": "You sew a running stitch, and one thread breaks. What is most likely to happen?",
    "opts": [
-    "Only the one stitch with the break comes loose",
     "The rest of the line can slide loose and come undone",
+    "Only the one stitch with the break comes loose",
     "The cloth becomes stronger",
     "Nothing, because the stitches hold each other"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In a running stitch one thread runs through every stitch. When it breaks, the rest of the line can slide out. 'Only one stitch' is a fair guess, but it is not what the single thread does.",
    "outcome": 4
   }

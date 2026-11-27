@@ -541,7 +541,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 3. (fill) Everything around a living thing that affects them is called their ____.  
    **Answer:** ['environment']. *Why:* The environment includes living and non-living things, natural and made.
 4. (mcq) Which of these is NOT part of a pigeon's environment on a city balcony?  
-   Options: the railing they sit on / the grain someone scatters / a lion in a forest far away  
+   Options: the railing they sit on / a lion in a forest far away / the grain someone scatters  
    **Answer:** a lion in a forest far away. *Why:* A pigeon's environment is everything around them that affects them. A lion far away does not affect the pigeon. The railing and the grain do.
 5. (truefalse) Smoke from burning rubbish leaves the Earth, so the problem is gone.  
    **Answer:** False. *Why:* False. Smoke spreads through the air and comes down with rain, or is breathed in by people far away. It stays on Earth.
@@ -559,7 +559,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 11. (write) Give one example of a living thing changing the non-living environment.  
    **Answer:** For example: a peepal's roots crack a wall, a plant gives water to the air through their leaves, or earthworms turn dead leaves into soil.. *Why:* A strong answer names the living thing, the non-living thing and what changes.
 12. (mcq) A gecko waits next to the tube light every night. Why there?  
-   Options: The light warms the gecko like the Sun / Insects come to the light, so there is food there / Geckos like to look at bright things  
+   Options: The light warms the gecko like the Sun / Geckos like to look at bright things / Insects come to the light, so there is food there  
    **Answer:** Insects come to the light, so there is food there. *Why:* Many insects fly to lights at night, so the light brings the gecko food. This is a non-living part of the environment, the light, shaping where a living thing spends their time.
 13. (truefalse) Rain falling on a city flat is natural, and the roof tank that stores it is made by people. Both are part of the environment.  
    **Answer:** True. *Why:* True. The environment holds natural things and things made by people together.
@@ -571,7 +571,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 1. (write) In the Closed Box Test, the seedlings in the closed box never got fresh air. Explain how they still had the gases they needed.  
    **Answer:** In the light, their leaves made food from water and carbon dioxide and gave out oxygen. The seedlings and the microbes in the box breathed some of that oxygen and gave out carbon dioxide again. So the same air went round.. *Why:* A strong answer names both gases and says they are used and given out again inside the box.
 2. (mcq) In the Closed Box Test, both boxes are weighed on day 1 and day 7. The seedlings in the closed box grew taller. What happens to the closed box's weight?  
-   Options: It gets much heavier, because the seedlings grew / It stays about the same, because nothing went in or out / It gets much lighter, like the open box  
+   Options: It gets much heavier, because the seedlings grew / It gets much lighter, like the open box / It stays about the same, because nothing went in or out  
    **Answer:** It stays about the same, because nothing went in or out. *Why:* Nothing went in or out of the closed box, so its weight stayed about the same, even though the seedlings grew. They were built from water and air that were already in the box. The open box got lighter, because water vapour left it.
 3. (truefalse) The open box in the Closed Box Test got lighter because its water was destroyed.  
    **Answer:** False. *Why:* False. The water was not destroyed. It evaporated into the room's air as water vapour. Later it may condense on a cold window or rise into a cloud.
@@ -589,7 +589,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 9. (write) Arjun, the boy in the story, says, "It doesn't matter if I drop a wrapper. Someone will take it away." Use the idea of 'away' to answer him.  
    **Answer:** There is no away outside the Earth. If someone picks it up, it goes to a dump yard. If not, rain washes it into a drain, and it may reach a lake or the sea. Either way, it is still in the environment.. *Why:* A strong answer says where the wrapper would really go.
 10. (mcq) Which of these changes the environment the MOST?  
-   Options: one crow building a nest / people building a new city / an ant carrying a crumb  
+   Options: one crow building a nest / an ant carrying a crumb / people building a new city  
    **Answer:** people building a new city. *Why:* One crow or ant makes only small changes. People build cities, cut and plant forests, dig lakes and send out smoke and sewage, so people change the environment the most.
 11. (draw) Draw a peepal growing out of a crack in an old wall. Draw how their roots change the wall over many years.  
    **Answer:** A wall with a crack, a peepal sapling, and roots pushing into the crack, making it wider, with a few bricks loose.. *Why:* A strong drawing shows the living thing changing a non-living thing, slowly, by growing.
@@ -643,28 +643,28 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 
 ## Quiz
 1. (mcq) What does the word 'environment' mean?  
-   Options: Only forests, rivers and wild animals / Everything around a living thing that affects them / Only the things people have built  
+   Options: Only forests, rivers and wild animals / Only the things people have built / Everything around a living thing that affects them  
    **Answer:** Everything around a living thing that affects them. *Why:* The environment is everything around a living thing that affects them: air, water, soil, light, other living things and things people make. Picking 'only forests' is a common idea, but a city flat has an environment too.
 2. (mcq) Which of these is part of the living environment?  
-   Options: The sunlight on the floor / The ants in the kitchen / The water in the tap  
+   Options: The ants in the kitchen / The sunlight on the floor / The water in the tap  
    **Answer:** The ants in the kitchen. *Why:* Ants are alive: they eat, breathe, grow and make young. Sunlight and tap water are important parts of the environment, but they are non-living, so they belong to the physical environment.
 3. (mcq) Which is true about a wooden spoon?  
    Options: It is natural and living / It was made by people from wood, which came from a living tree / It was made by people from nothing  
    **Answer:** It was made by people from wood, which came from a living tree. *Why:* People made the spoon, but they made it from wood, and wood comes from a tree. The spoon itself is not alive. People always make things from natural materials, never from nothing.
 4. (mcq) Which of these is a bit of both natural and made by people?  
-   Options: A cloud / A plastic bucket / A bowl of curd  
+   Options: A cloud / A bowl of curd / A plastic bucket  
    **Answer:** A bowl of curd. *Why:* People make curd by adding a spoon of old curd to warm milk, but living bacteria do the work of turning the milk into curd. A cloud is fully natural. A bucket is made by people.
 5. (mcq) In the Closed Box Test, drops formed on the inside of the closed lid. Where did the water in the drops come from?  
-   Options: From the air outside the box / From the cotton and the seedlings inside the box / From the plastic of the lid  
+   Options: From the cotton and the seedlings inside the box / From the air outside the box / From the plastic of the lid  
    **Answer:** From the cotton and the seedlings inside the box. *Why:* The lid kept outside air out. Water evaporated from the wet cotton and the seedlings' leaves, then condensed on the cooler lid. Picking 'from outside' is common, because we expect water to have been brought in.
 6. (mcq) In the Closed Box Test, the open box dried out. Why?  
    Options: Its water evaporated into the air of the room and did not come back / The seedlings drank all of it and kept it / The cotton turned it into air  
    **Answer:** Its water evaporated into the air of the room and did not come back. *Why:* The open box let water vapour escape into the room. In the closed box the same vapour hit the lid and dripped back. The seedlings did drink some, but they gave much of it to the air through their leaves.
 7. (mcq) How is Earth like the closed box in the Closed Box Test?  
-   Options: New water rains in from space every day / Sunlight comes in, but almost no new water or air arrives, so the same water and air go round / Nothing at all comes in, not even light  
+   Options: Sunlight comes in, but almost no new water or air arrives, so the same water and air go round / New water rains in from space every day / Nothing at all comes in, not even light  
    **Answer:** Sunlight comes in, but almost no new water or air arrives, so the same water and air go round. *Why:* Sunlight reaches Earth from outside, and heat goes back out to space. But gravity holds the air and water close, and almost no new matter arrives. So water and air are used again and again.
 8. (mcq) In the story The Bottle on Ammamma's Shelf, Arjun washes leftover rasam down the sink. Where does the rasam go?  
-   Options: It disappears / Through drains to a treatment plant, a river, a lake or the sea / Back into Arjun's tap  
+   Options: Through drains to a treatment plant, a river, a lake or the sea / It disappears / Back into Arjun's tap  
    **Answer:** Through drains to a treatment plant, a river, a lake or the sea. *Why:* Nothing poured down a sink leaves the Earth. It travels through drains, and some is cleaned at treatment plants, before reaching rivers, lakes or the sea. Choosing 'it disappears' comes from the habit of thinking that what we wash away is gone.
 9. (mcq) Moss grows in the damp corner of a bathroom but not on a hot, sunny wall. What does this show?  
    Options: The non-living environment decides where some living things can live / Moss is scared of light / Moss is non-living  

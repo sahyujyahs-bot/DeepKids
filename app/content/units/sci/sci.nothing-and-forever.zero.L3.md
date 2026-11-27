@@ -528,7 +528,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 5. (write) Look at your own results from the missing zero test. Which card was read wrong most often? Write what the readers said and what you meant.  
    **Answer:** The answer comes from the child's own table. A strong answer names a card with a blank at the end, gives the number the readers said, such as 52, and the number meant, such as 520.. *Why:* A strong answer uses the real numbers from the table, not a guess.
 6. (mcq) What is 6 - 0?  
-   Options: 0 / 6 / 60 / There is no answer  
+   Options: 0 / 60 / There is no answer / 6  
    **Answer:** 6. *Why:* Taking away nothing leaves what you had. That is one of Brahmagupta's rules.
 7. (sort) Sort each sum by its answer.  
    **Answer:** 5 + 0 → The answer is 5; 5 × 0 → The answer is 0; 0 × 5 → The answer is 0; 5 - 0 → The answer is 5; 5 - 5 → The answer is 0; 0 + 5 → The answer is 5. *Why:* Adding or taking away zero leaves 5. Multiplying by zero gives 0 every time. 5 - 5 takes away everything, so it leaves 0.
@@ -561,7 +561,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 4. (perspective) Two people are arguing about 12 ÷ 0.  
    **Answer:** A strong answer agrees with the teacher: no number times 0 gives 12, so there is no answer. It gives Bhaskara his due: dividing by smaller and smaller numbers does give bigger and bigger answers, like 12 ÷ 0.1 = 120.. *Why:* Bhaskara saw a real pattern. But infinity is an idea of going on for ever, not a number you can check by multiplying.
 5. (mcq) About 2,300 years ago, scribes in Babylon put a mark for an empty place in the middle of a number, but never at the end. Which pair of numbers would look the same in their writing?  
-   Options: 2 and 20 / 203 and 230 / 12 and 21 / 105 and 150  
+   Options: 203 and 230 / 2 and 20 / 12 and 21 / 105 and 150  
    **Answer:** 2 and 20. *Why:* With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart.
 6. (sort) Sort these zeros by the job they do.  
    **Answer:** the score before a match starts → Zero as the number for none; the 0 in 1,08,000 → Zero holding an empty place; the 0 mark on a ruler → Zero as a starting point; 0 °C on a thermometer → Zero as a starting point; the 0 in 50 rupees → Zero holding an empty place; 10 - 10 → Zero as the number for none. *Why:* Zero has three jobs in this lesson. The 0 mark and 0 °C are chosen starting points. A 0 inside a number holds a place. A score of 0 or 10 - 10 means none.
@@ -590,7 +590,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 2. (write) Roman numbers had no zero. Indian numbers, with zero, came to be used across the world. Think of how 305 is written as CCCV in Roman numbers. Why do you think the Indian numbers won?  
    **Answer:** Open answer. A strong answer says that with place value, ten digits can write any number, and the 0 keeps places, so the numbers are short and easy to add on paper. Roman signs need a new sign for every size.. *Why:* A strong answer compares how long and how easy the two ways of writing 305 are.
 3. (mcq) Bees learn to pick the card with fewer shapes. Then they are shown a blank card and a card with one shape. If they pick the blank card, what might that tell us?  
-   Options: They may treat none as less than one / They cannot see blank cards / They always like one shape best / They were not hungry  
+   Options: They cannot see blank cards / They always like one shape best / They were not hungry / They may treat none as less than one  
    **Answer:** They may treat none as less than one. *Why:* Picking the blank card as 'fewer' would mean they put none below one. Scientists still argue whether that means bees understand zero, or just 'less'.
 4. (write) Scientists argue about the bee test. What extra test could show whether bees understand 'none', or just choose 'less stuff'?  
    **Answer:** Open answer. A strong answer suggests a test where 'less stuff' and 'fewer things' give different answers. For example, a card with one big shape and a card with two tiny shapes.. *Why:* Good science designs a test where the two ideas predict different results.
@@ -599,7 +599,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 6. (write) Brahmagupta said a debt taken away from zero becomes a fortune. Explain this using money. Hint: if someone takes away your debt of ₹10, are you richer or poorer?  
    **Answer:** If I have ₹0 but owe ₹10, I have -10. If my debt is taken away, I no longer owe anything, so I am ₹10 better off. Taking away -10 is like adding 10: 0 - (-10) = 10.. *Why:* A strong answer uses a real example of owing and paying back.
 7. (mcq) On the original thermometer scale Anders Celsius made in 1742, water boiled at 0 and froze at 100. Later the scale was turned round. What does this show?  
-   Options: Where zero goes on a scale is chosen by people / Water used to boil at a different temperature / Celsius made a mistake with his thermometer / Zero always means the coldest  
+   Options: Water used to boil at a different temperature / Celsius made a mistake with his thermometer / Where zero goes on a scale is chosen by people / Zero always means the coldest  
    **Answer:** Where zero goes on a scale is chosen by people. *Why:* The zero on a temperature scale is a starting point people choose. The water did not change. Only the numbers we put on it did.
 8. (draw) Draw a number line from -5 to 5. A night in Leh starts at 3 °C, drops 4 degrees, then rises 2 degrees. Mark where it ends.  
    **Answer:** A line with -5 to 5 evenly spaced, and a mark on 1.. *Why:* From 3, going down 4 reaches -1. Going up 2 reaches 1. A strong drawing has equal gaps between the numbers.
@@ -627,13 +627,13 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 
 ## Quiz
 1. (mcq) A plate has no dosas on it. How many dosas are on the plate?  
-   Options: One / Zero / We can't say, because there are none  
+   Options: Zero / One / We can't say, because there are none  
    **Answer:** Zero. *Why:* Zero is the number for none. It is a real answer to 'how many?'. Picking 'we can't say' means thinking that none is not a number.
 2. (mcq) You write 520 but forget the 0. What number have you written?  
-   Options: 52, which is ten times smaller / 520, because the 0 means nothing / 502  
+   Options: 520, because the 0 means nothing / 52, which is ten times smaller / 502  
    **Answer:** 52, which is ten times smaller. *Why:* Without the 0, the 5 and 2 slide into the tens and ones places, so the number becomes 52. The 0 adds nothing to count, but it keeps the digits in their places.
 3. (mcq) In the missing zero test, a reader is shown the card '52' with a blank space after it. The writer meant 520. What will the reader most likely say?  
-   Options: Five hundred and twenty / Fifty-two / Five hundred and two  
+   Options: Five hundred and twenty / Five hundred and two / Fifty-two  
    **Answer:** Fifty-two. *Why:* A blank at the end of a number looks like ordinary paper, so the reader sees only 52. That is why a 0 is needed at the end of a number.
 4. (mcq) What is 9 + 0?  
    Options: 0 / 9 / 90  
@@ -642,7 +642,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    Options: 7 / 0 / 70  
    **Answer:** 0. *Why:* 7 × 0 = 0. Seven groups of nothing is nothing. Picking 7 means counting the plates instead of the murukkus.
 6. (mcq) You type 8 ÷ 0 on a calculator. What will it show?  
-   Options: 0 / 8 / An error, because there is no answer  
+   Options: 0 / An error, because there is no answer / 8  
    **Answer:** An error, because there is no answer. *Why:* 8 ÷ 0 asks what number times 0 gives 8. Every number times 0 is 0, so no number works. Picking 0 is the mistake Brahmagupta made for 0 ÷ 0.
 7. (mcq) Zero is a number with its own rules. Which rule is right?  
    Options: 5 × 0 = 0 / 5 × 0 = 5 / 5 × 0 = 50  
@@ -651,7 +651,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
    Options: Zero is how many things are on an empty plate / Zero is a very big number / Zero is the shape of a circle  
    **Answer:** Zero is how many things are on an empty plate. *Why:* Zero is the number for none, like the dosas on an empty plate. The round shape of 0 is only how we write it.
 9. (mcq) You measure a pencil from the very edge of a ruler. The 0 mark is 5 mm in from the edge. What happens?  
-   Options: The answer is 5 mm too long / The answer is 5 mm too short / It makes no difference  
+   Options: The answer is 5 mm too short / The answer is 5 mm too long / It makes no difference  
    **Answer:** The answer is 5 mm too long. *Why:* The strip before the 0 is not part of the length scale. Starting at the edge adds it to every measurement, so each length is 5 mm too long.
 10. (mcq) A lift has the buttons B2, B1, G, 1, 2. If G is 0, what number is B1?  
    Options: 1 / -1 / 0  

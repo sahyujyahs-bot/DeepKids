@@ -531,7 +531,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 14. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
    **Answer:** A strong answer picks one side and gives a reason, such as 'she is fed every day, like a pet' or 'no family owns her and she goes where she likes'. Then the child says what the other person has right.. *Why:* This is a real question with no single answer. Many people call such dogs community dogs: looked after by many people, but owned by no one family.
 15. (mcq) Which one is a mammal?  
-   Options: A hen / A cow / A crocodile  
+   Options: A hen / A crocodile / A cow  
    **Answer:** A cow. *Why:* A cow has hair, and her calf drinks her milk, so a cow is a mammal. A hen has feathers and a crocodile has scales, and both lay eggs.
 16. (truefalse) You are an animal.  
    **Answer:** True. *Why:* True. Humans are animals. We are mammals, with hair, and our babies drink milk.
@@ -539,7 +539,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** Any real animal, with their covering drawn: feathers, fur, scales, a shell or bare skin.. *Why:* A strong drawing shows the covering clearly, such as feathers on a crow or fur on a dog, and has the right number of legs.
 ### Tricky Animals (stretch) (stretch, 17 questions)
 1. (mcq) An Indian pangolin is covered in scales, and the mother feeds her baby milk. Which group is the pangolin in?  
-   Options: Fish / Mammals / Birds  
+   Options: Mammals / Fish / Birds  
    **Answer:** Mammals. *Why:* Animals whose babies drink milk are mammals. The pangolin is a mammal with scales instead of fur. One body part alone does not tell you the group.
 2. (truefalse) Every animal that lives in water is a fish.  
    **Answer:** False. *Why:* False. Dolphins live in water but are mammals. Crabs, frogs and turtles live in water too, and none of them is a fish.
@@ -563,7 +563,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 11. (label) Label the crow: beak, feathers, wing, two legs.  
    **Answer:** ['beak: at the front of the head', 'feathers: all over the body', 'wing: on the side', 'two legs: underneath']. *Why:* A crow, like every bird, has a beak, feathers, two wings and two legs.
 12. (mcq) A floating bottle rolls over when you flick it. What do you think happens if a fin is taped on underneath?  
-   Options: The bottle rolls more / The bottle rocks and stops / The bottle sinks  
+   Options: The bottle rocks and stops / The bottle rolls more / The bottle sinks  
    **Answer:** The bottle rocks and stops. *Why:* The fin pushes against the water when the bottle starts to roll, so the bottle rocks and stops. A fish's back fin does the same job.
 13. (fill) A spider has eight legs, so a spider is not an ________.  
    **Answer:** insect. *Why:* Every adult insect has six legs. Spiders have eight, so spiders are not insects.
@@ -581,7 +581,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 2. (perspective) Two children argue about how many legs are best.  
    **Answer:** A strong answer picks one side with a reason, such as 'four legs stand still easily, as the dough test showed', or 'two legs leave hands free'. It also says what the other side has right.. *Why:* Both have a real point. Four legs are steadier. Two legs leave the arms free, but the body must keep balancing.
 3. (mcq) An animal has scales and four legs, and lays eggs on land. Which animal could this be?  
-   Options: A fish / A gecko / A frog  
+   Options: A gecko / A fish / A frog  
    **Answer:** A gecko. *Why:* A gecko has scales and four legs, and lays eggs on land. A fish has no legs. A frog has bare skin, not scales, and lays eggs in water.
 4. (odd) Three of these are mammals. Which one is not a mammal?  
    Options: A bat / A dolphin / A penguin / A human  
@@ -605,7 +605,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 13. (sort) Sort these animals: insect, or not an insect?  
    **Answer:** an ant → Insect (6 legs); a spider → Not an insect; a butterfly → Insect (6 legs); a centipede → Not an insect; a mosquito → Insect (6 legs); an earthworm → Not an insect. *Why:* Ants, butterflies and mosquitoes have six legs. Spiders have eight, centipedes have many, and earthworms have none.
 14. (mcq) Someone says: 'All animals with wings are birds.' Which animal shows that this is wrong?  
-   Options: A crow / A butterfly / A peacock  
+   Options: A butterfly / A crow / A peacock  
    **Answer:** A butterfly. *Why:* A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show that it is wrong.
 15. (write) Two cats look the same. One lives in a flat and is fed by a family. The other lives in the lane and catches rats. Is one of them a different kind of animal? Which one is a pet? Give a reason.  
    **Answer:** No, they are the same kind of animal. The cat in the flat is a pet, because a family feeds and looks after her. The lane cat finds her own food.. *Why:* A strong answer says that being a pet depends on how an animal lives, not on what kind of animal she is.
@@ -617,13 +617,13 @@ That night the tube light went on, and the moths came, and so did Chikki.
 
 ## Quiz
 1. (mcq) Which animal is covered in feathers?  
-   Options: A cat / A pigeon / A frog  
+   Options: A cat / A frog / A pigeon  
    **Answer:** A pigeon. *Why:* A pigeon is a bird, and every bird has feathers. A cat has fur, and a frog has bare skin.
 2. (mcq) How many legs does a spider have?  
    Options: 6 / 8 / 4  
    **Answer:** 8. *Why:* A spider has eight legs. Insects, like ants, have six. If you said 6, you were thinking of insects.
 3. (mcq) Which animal swims with fins?  
-   Options: A rohu fish / A goat / A sparrow  
+   Options: A goat / A rohu fish / A sparrow  
    **Answer:** A rohu fish. *Why:* A rohu is a fish, and fish swim with fins. Goats walk on four legs, and sparrows fly with wings.
 4. (mcq) You make three dough animals: one with one leg, one with two thin legs, and one with three legs spread out. Which one will stand without help?  
    Options: The one with three legs spread out / The one with one leg / The one with two thin legs  
@@ -632,34 +632,34 @@ That night the tube light went on, and the moths came, and so did Chikki.
    Options: A pet / A wild animal / A farm animal  
    **Answer:** A wild animal. *Why:* The crow finds their own food and home, and nobody owns them. Wild animals live in cities too.
 6. (mcq) Which group are humans in?  
-   Options: Birds / Mammals / Insects  
+   Options: Mammals / Birds / Insects  
    **Answer:** Mammals. *Why:* Humans have hair, and our babies drink milk, so we are mammals, like cows and dogs.
 7. (mcq) A butterfly has wings. How many legs does a butterfly have?  
    Options: 2 / 6 / 8  
    **Answer:** 6. *Why:* A butterfly is an insect, so a butterfly has six legs. Wings do not make an animal a bird.
 8. (mcq) What does the fin on a fish's back do?  
-   Options: Pushes the fish forward / Keeps the fish from rolling over / Helps the fish breathe  
+   Options: Pushes the fish forward / Helps the fish breathe / Keeps the fish from rolling over  
    **Answer:** Keeps the fish from rolling over. *Why:* The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle in the Roll Stopper test. The tail fin pushes the fish forward.
 9. (mcq) In the Dough Legs experiment, you stood still with your eyes shut. What did your feet and ankles do?  
-   Options: Nothing at all / Kept making tiny moves to keep you up / Went to sleep  
+   Options: Kept making tiny moves to keep you up / Nothing at all / Went to sleep  
    **Answer:** Kept making tiny moves to keep you up. *Why:* Your feet and ankles keep making tiny moves to catch you before you tip. With your eyes shut, you sway more, so you feel them more.
 10. (mcq) A green parakeet lives in a forest in Kerala. What kind of animal is the parakeet?  
-   Options: A pet / A wild animal / A farm animal  
+   Options: A wild animal / A pet / A farm animal  
    **Answer:** A wild animal. *Why:* The parakeet lives on their own and finds their own food, so the parakeet is wild. In India the law protects wild birds like parakeets.
 11. (mcq) What is your own body covered in?  
-   Options: Feathers / Skin and hair / Scales  
+   Options: Skin and hair / Feathers / Scales  
    **Answer:** Skin and hair. *Why:* Your body is covered in skin, with hair growing out of it. Like other mammals, you have hair.
 12. (mcq) A duck walks on land, paddles on a pond and flies over the field. Where can a duck move?  
-   Options: On land only / On land, in water and in the air / In water only  
+   Options: On land only / In water only / On land, in water and in the air  
    **Answer:** On land, in water and in the air. *Why:* Some animals use more than one place. A duck walks, swims and flies. A fish moves in water only, and a buffalo on land.
 13. (mcq) Your family keeps a pet cat. Why must someone give her food and fresh water every day?  
-   Options: A pet cannot find her own food at home, so the family must give it / Cats do not need water / Wild animals are given food every day too  
+   Options: Cats do not need water / Wild animals are given food every day too / A pet cannot find her own food at home, so the family must give it  
    **Answer:** A pet cannot find her own food at home, so the family must give it. *Why:* A wild animal finds her own food, but a pet lives with a family who look after her. Every animal needs water, so a cat needs fresh water daily.
 14. (mcq) It is a very hot day. What is a kind thing to do for the birds near your building?  
-   Options: Chase them away from the balcony / Put a bowl of fresh water on the balcony / Throw a stone to see if they fly  
+   Options: Put a bowl of fresh water on the balcony / Chase them away from the balcony / Throw a stone to see if they fly  
    **Answer:** Put a bowl of fresh water on the balcony. *Why:* Birds feel thirst in the heat, as you do. A bowl of water is kind. Chasing or hurting animals frightens them and can harm them.
 15. (mcq) Asha makes a parrot mask for a play. Which covering should she stick on it?  
-   Options: Cotton wool, for fur / Paper strips, for feathers / Paper circles, for scales  
+   Options: Paper strips, for feathers / Cotton wool, for fur / Paper circles, for scales  
    **Answer:** Paper strips, for feathers. *Why:* A parrot is a bird, and birds are covered in feathers. Fur belongs to mammals and scales to fish and snakes.
 
 ## Applications

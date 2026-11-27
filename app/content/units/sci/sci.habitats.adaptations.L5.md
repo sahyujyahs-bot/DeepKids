@@ -568,13 +568,13 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 ## Worksheets
 ### Adaptations: the main ideas (core, 15 questions)
 1. (mcq) What is an adaptation?  
-   Options: An inherited feature that helps survival / A skill an animal learns by practice / Any change in the weather / A place where an animal lives  
+   Options: A skill an animal learns by practice / Any change in the weather / A place where an animal lives / An inherited feature that helps survival  
    **Answer:** An inherited feature that helps survival. *Why:* An adaptation is inherited from parents and helps a living thing survive and have young in their place. A learned skill is not inherited.
 2. (mcq) Why are a tiger's eyes at the front of her face?  
    Options: To judge the distance to her prey / To see behind her / To keep dust out / To look fierce  
    **Answer:** To judge the distance to her prey. *Why:* Both eyes see the same deer from slightly different places. The brain uses the two views to judge the distance. A hunter needs that to leap exactly.
 3. (mcq) Which of these is a behavioural adaptation?  
-   Options: A lizard resting in a burrow at noon / A camel's wide feet / A cactus's spines / A yak's thick coat  
+   Options: A camel's wide feet / A cactus's spines / A yak's thick coat / A lizard resting in a burrow at noon  
    **Answer:** A lizard resting in a burrow at noon. *Why:* A behavioural adaptation is something a living thing does. Wide feet, spines and a thick coat are parts of the body, so they are structural adaptations.
 4. (fill) Bright colours that tell hunters an animal is bitter or can sting are called ____ colours.  
    **Answer:** ['warning']. *Why:* Warning colours are easy to see and easy to remember. A hunter who has had one bad meal avoids the pattern afterwards.
@@ -591,10 +591,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 10. (order) Put a tiger's hunt in order, from her first problem to her last.  
    **Answer:** ['Find a deer by sight, sound or smell', 'Creep close without being noticed', 'Rush and catch the deer', 'Kill with teeth and claws']. *Why:* A hunter must find prey before she can get near, and get near before she can catch and kill. Each step has adaptations of its own.
 11. (mcq) Why does snow slide off a steep, cone-shaped tree?  
-   Options: Snow cannot grip so steep a slope / The tree is warm / The needles push the snow away / Wind always blows it off  
+   Options: The tree is warm / The needles push the snow away / Snow cannot grip so steep a slope / Wind always blows it off  
    **Answer:** Snow cannot grip so steep a slope. *Why:* On a steep slope, the weight of the snow drags it downhill more strongly than the surface can hold it. In the Snow Load Test, rava slides off a steep paper cone in the same way.
 12. (mcq) A hoverfly has no sting, but she is striped like a wasp. What is this called?  
-   Options: Mimicry / Countershading / Masquerade / Co-evolution  
+   Options: Countershading / Mimicry / Masquerade / Co-evolution  
    **Answer:** Mimicry. *Why:* Mimicry is one kind of animal looking like another kind and gaining from it. Birds who have been stung by a wasp leave the hoverfly alone.
 13. (write) Explain in two sentences why a plain tiger butterfly gains by being easy to see.  
    **Answer:** She tastes bitter. A bird who has tried one remembers the bright colours and leaves the others alone. If she were hidden, birds would not learn to avoid her kind.. *Why:* A strong answer says that she has a real defence, and that the bright colour helps hunters to remember it.
@@ -604,13 +604,13 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    **Answer:** The hunter's head, such as a cat's, has both eyes at the front. The prey's head, such as a goat's or a deer's, has one eye on each side.. *Why:* A strong drawing puts the hunter's eyes side by side, facing forward. The prey's eyes are far apart, on the sides of the head.
 ### Fitting a place, and fitting each other (stretch, 15 questions)
 1. (mcq) A deer's eyes have two kinds of colour cells. How does a tiger's orange coat look to her?  
-   Options: Much like the green of grass / Bright red / Pure white / Bright blue  
+   Options: Bright red / Pure white / Much like the green of grass / Bright blue  
    **Answer:** Much like the green of grass. *Why:* With two kinds of colour cells, a deer does not tell orange from green well. So the coat that looks bright to us blends with the grass for a deer.
 2. (mcq) Which kind of camouflage does a stick insect use?  
    Options: Masquerade: she looks like a twig / Countershading / Warning colours / A disruptive pattern  
    **Answer:** Masquerade: she looks like a twig. *Why:* In masquerade the animal can be seen, but she looks like something not worth eating. A bird sees a twig and moves on.
 3. (mcq) A chilli burns a rat's mouth and has no effect on a bird's. How does this help the chilli plant?  
-   Options: Birds spread the seeds whole / Rats water the plant / Birds eat the leaves / The burn makes the seeds grow  
+   Options: Rats water the plant / Birds eat the leaves / The burn makes the seeds grow / Birds spread the seeds whole  
    **Answer:** Birds spread the seeds whole. *Why:* Rats crush the seeds with their teeth, and the burn keeps them away. Birds swallow the seeds whole and drop them somewhere new.
 4. (mcq) Why do many leaves in rainy forests end in a long, narrow tip?  
    Options: Rain runs to the tip and drips off / The tip stores water / The tip stings insects / The tip catches more sun  
@@ -640,10 +640,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    **Answer:** ['Spines: they lose far less water than leaves, and keep grazing animals away', 'Thick stem: it stores water', 'Waxy skin: it slows the escape of water']. *Why:* A strong answer links each part to the problem of a dry place: little water, and animals who want it.
 ### Testing ideas about adaptation (challenge, 15 questions)
 1. (mcq) Jays who had never met a monarch butterfly ate the look-alike viceroy. What does this show?  
-   Options: A mimic is protected only by experienced hunters / Viceroys taste sweet / Jays do not notice orange / Monarchs are harmless  
+   Options: Viceroys taste sweet / A mimic is protected only by experienced hunters / Jays do not notice orange / Monarchs are harmless  
    **Answer:** A mimic is protected only by experienced hunters. *Why:* The pattern meant nothing to jays who had never had a bad meal from it. Only jays who had tasted a monarch refused the viceroy.
 2. (mcq) Factory smoke blackened the tree trunks. Why did pale peppered moths become rare?  
-   Options: Birds found them easily on dark bark / The smoke poisoned them / Each moth turned dark in the soot / They flew away to the cities  
+   Options: The smoke poisoned them / Each moth turned dark in the soot / They flew away to the cities / Birds found them easily on dark bark  
    **Answer:** Birds found them easily on dark bark. *Why:* Pale wings no longer matched the trunks, so birds ate most pale moths. Dark moths were born dark. No moth changed colour in her own lifetime.
 3. (mcq) Two bitter kinds of butterfly share one wing pattern. How does each kind gain?  
    Options: Hunters need to learn only one pattern / Hunters stop hunting completely / Each kind becomes more bitter / Both become harder to see  
@@ -681,10 +681,10 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
 
 ## Quiz
 1. (mcq) Which of these is an adaptation?  
-   Options: A cactus's waxy skin / A dog learning to sit / A puddle drying up / A scar on a knee  
+   Options: A dog learning to sit / A puddle drying up / A scar on a knee / A cactus's waxy skin  
    **Answer:** A cactus's waxy skin. *Why:* An adaptation is inherited and helps a living thing survive in their place. Learning to sit is learned, and a scar is not passed on to young.
 2. (mcq) Which of these is a physiological adaptation?  
-   Options: A cactus opening her skin holes at night / A tiger's claws / Deer living in herds / A stick insect's shape  
+   Options: A tiger's claws / Deer living in herds / A stick insect's shape / A cactus opening her skin holes at night  
    **Answer:** A cactus opening her skin holes at night. *Why:* A physiological adaptation is a way the body works inside. Claws and shape are structural, and living in herds is behavioural.
 3. (mcq) A tree lives in soft, salty mud where the tide pulls. Which adaptation suits her?  
    Options: Stilt roots / One very deep root / Needle leaves / A cone shape  
@@ -693,25 +693,25 @@ Yazhini opened her diary. Day 29, she wrote. Three butterflies, and all of them 
    Options: To hold her body heat in the cold / To keep sand out / To float in water / To hide from eagles  
    **Answer:** To hold her body heat in the cold. *Why:* The coat traps a layer of air, and trapped air lets little heat through. In the cold of Ladakh that saves her energy.
 5. (mcq) Why do many prey animals have eyes on the sides of the head?  
-   Options: To see almost all the way round / To judge distance exactly / To see more colours / To see in the dark  
+   Options: To judge distance exactly / To see almost all the way round / To see more colours / To see in the dark  
    **Answer:** To see almost all the way round. *Why:* Side-facing eyes give a wide field of view, so a hunter is noticed from almost any direction. Judging distance exactly needs two eyes on the same thing, as a hunter has.
 6. (mcq) What does living in a herd give each deer?  
-   Options: A smaller share of the risk / Sharper teeth / Better camouflage / A warmer coat  
+   Options: Sharper teeth / Better camouflage / A smaller share of the risk / A warmer coat  
    **Answer:** A smaller share of the risk. *Why:* A hunter takes one animal, and in a herd each deer is one among many. Many eyes also notice the hunter sooner.
 7. (mcq) A tiger's stripes break up her outline. What is this kind of camouflage called?  
-   Options: A disruptive pattern / Masquerade / Mimicry / Warning colours  
+   Options: Masquerade / A disruptive pattern / Mimicry / Warning colours  
    **Answer:** A disruptive pattern. *Why:* A disruptive pattern cuts the body's shape into pieces, so the watcher does not see one animal. Masquerade is looking like some other thing, such as a twig.
 8. (mcq) Why does a bitter butterfly gain from bright colours?  
    Options: Birds remember her and avoid her kind / Bright wings fly faster / The colour itself is poisonous / Birds are afraid of orange  
    **Answer:** Birds remember her and avoid her kind. *Why:* A bold pattern is easy to notice and remember. A bird who has had one bad meal then leaves that pattern alone. The poison is in her body, not in the colour.
 9. (mcq) When is a harmless mimic safest?  
-   Options: When harmful models are common / When mimics outnumber models / When there are no models / When hunters forget quickly  
+   Options: When mimics outnumber models / When harmful models are common / When there are no models / When hunters forget quickly  
    **Answer:** When harmful models are common. *Why:* Hunters avoid a pattern that usually gives a bad meal. If mimics outnumber models, or the models vanish, hunters learn that the pattern is safe to eat.
 10. (mcq) In a fair test of paper tree shapes, what should be the only thing that changes?  
-   Options: The slope of the tree / The amount of rava / The kind of paper / The height of pouring  
+   Options: The amount of rava / The slope of the tree / The kind of paper / The height of pouring  
    **Answer:** The slope of the tree. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result must come from the slope.
 11. (mcq) Why do great Indian bustards die on power lines?  
-   Options: They see poorly straight ahead in flight / They like to sit on wires / The wires are warm / They fly only at night  
+   Options: They like to sit on wires / The wires are warm / They fly only at night / They see poorly straight ahead in flight  
    **Answer:** They see poorly straight ahead in flight. *Why:* Their eyes are on the sides of the head, which suits watching for foxes and eagles. Wires straight ahead are a new danger that those eyes do not show in time.
 
 ## Applications

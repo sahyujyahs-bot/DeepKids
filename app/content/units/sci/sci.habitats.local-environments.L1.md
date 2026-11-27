@@ -366,11 +366,11 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 10. (truefalse) An earthworm likes to lie on hot, dry ground.  
    **Answer:** False. *Why:* False. An earthworm breathes through her skin, and her skin must stay damp. Hot, dry ground would dry her out.
 11. (mcq) Which place gives a crow a high, safe home for her nest?  
-   Options: A pond / A tall tree / Under a stone  
+   Options: A pond / Under a stone / A tall tree  
    **Answer:** A tall tree. *Why:* A crow builds her nest in the branches of a tall tree, high above cats and dogs.
 ### Homes Near Our Home (stretch) (stretch, 10 questions)
 1. (mcq) You lay a tile on damp soil in a sunny pot. After lunch, you lift the tile. What will you most likely find?  
-   Options: Dry, pale soil / Damp, dark soil / Hot sand  
+   Options: Dry, pale soil / Hot sand / Damp, dark soil  
    **Answer:** Damp, dark soil. *Why:* The tile keeps off the sun and holds the water in, just like the plate in the Plate on the Soil test. Dry, pale soil is what you find on the open half, with no cover.
 2. (order) Put the plate test in order.  
    **Answer:** ['Wet the soil', 'Put the plate on half the soil', 'Leave the pot in the sun', 'Lift the plate and touch both halves']. *Why:* First we wet the soil, then cover half, then wait in the sun, then look and touch.
@@ -398,37 +398,37 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 
 ## Quiz
 1. (mcq) Which of these is a habitat, a home place for living beings?  
-   Options: A pond / A spoon / A pencil  
+   Options: A spoon / A pencil / A pond  
    **Answer:** A pond. *Why:* A pond is a habitat. Fish, frogs and lotus live there. A spoon and a pencil are not homes for anyone.
 2. (mcq) Where would you look for earthworms?  
-   Options: Under a damp stone / On a hot road / On a dry windowsill  
+   Options: On a hot road / On a dry windowsill / Under a damp stone  
    **Answer:** Under a damp stone. *Why:* Earthworms need damp soil to keep their skin wet. A hot road or a dry windowsill would dry them out.
 3. (mcq) What is the ground under a stone like?  
-   Options: Dark, damp and cool / Bright, dry and hot / Full of sunlight  
+   Options: Bright, dry and hot / Full of sunlight / Dark, damp and cool  
    **Answer:** Dark, damp and cool. *Why:* The stone keeps off the sun and holds the water in. So the ground below is dark, damp and cool.
 4. (mcq) Who lives in a pond?  
    Options: Tadpoles / Squirrels / Cows  
    **Answer:** Tadpoles. *Why:* Tadpoles hatch from frog eggs in the water and live there until they grow into frogs.
 5. (mcq) Who lives in one big tree?  
-   Options: Many beings: birds, squirrels, ants and more / Only birds / Nobody  
+   Options: Only birds / Many beings: birds, squirrels, ants and more / Nobody  
    **Answer:** Many beings: birds, squirrels, ants and more. *Why:* One tree is home to many living beings at once, high in the branches, on the bark and in the leaves.
 6. (mcq) Why do bees visit the flowers in a park?  
    Options: To drink nectar / To sleep / To swim  
    **Answer:** To drink nectar. *Why:* Flowers make a sweet juice called nectar. Bees and butterflies drink it.
 7. (mcq) In the Plate on the Soil test, which soil was cooler to touch?  
-   Options: The soil under the plate / The soil in the open sun / Both the same  
+   Options: The soil in the open sun / The soil under the plate / Both the same  
    **Answer:** The soil under the plate. *Why:* The plate kept the sun off the soil under it, so that soil stayed cooler. The soil in the open sun warmed up and dried.
 8. (mcq) You lift a stone in the park and find ants and a pill bug. What should you do next?  
-   Options: Put the stone back gently, the same way / Throw the stone away / Take the pill bug home in your pocket  
+   Options: Throw the stone away / Put the stone back gently, the same way / Take the pill bug home in your pocket  
    **Answer:** Put the stone back gently, the same way. *Why:* The stone is their roof. Putting the stone back gently gives them their damp, dark home again.
 9. (mcq) Why does a squirrel build a nest high in a tree?  
-   Options: To be safe from cats and dogs / To be near the fish / Because the ground is too wet  
+   Options: To be near the fish / Because the ground is too wet / To be safe from cats and dogs  
    **Answer:** To be safe from cats and dogs. *Why:* High branches keep a squirrel's babies away from cats, dogs and other animals on the ground.
 10. (mcq) You lift a flowerpot and see ants carrying their white young ones away. Why do they do that?  
    Options: The young ones need a dark place, and the pot's roof was gone / The young ones wanted to see the sun / The ants were tidying the floor  
    **Answer:** The young ones need a dark place, and the pot's roof was gone. *Why:* Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.
 11. (mcq) A sunny patch of grass at noon, and the damp ground under a big tree. Which one is more likely to have ants and pill bugs?  
-   Options: The sunny patch of grass at noon / The damp ground under a big tree / The bare road in the sun  
+   Options: The damp ground under a big tree / The sunny patch of grass at noon / The bare road in the sun  
    **Answer:** The damp ground under a big tree. *Why:* Ants and pill bugs need damp ground and shade. The grass at noon is hot and dry. The ground under the tree is cooler and damper.
 
 ## Applications

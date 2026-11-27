@@ -731,11 +731,11 @@
       "q": "A sign is a circle with a red border. What kind of sign is it?",
       "options": [
        "A warning",
-       "An order saying what you must not do",
        "Information about a petrol pump",
+       "An order saying what you must not do",
        "A sign for a zebra crossing"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In India, a circle gives an order. A red circle says what you must not do, such as 'No horn' or 'No entry'. Triangles warn, and blue rectangles give information."
      }
     }
@@ -881,12 +881,12 @@
       "t": "mcq",
       "q": "Which is the cheapest way to carry 2,000 cars across the sea?",
       "options": [
-       "Aeroplane",
        "Ship",
+       "Aeroplane",
        "Truck",
        "Pipeline"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Ships carry very heavy loads across the sea more cheaply than any other way. Aeroplanes are faster but cost far more. Trucks and pipelines cannot cross the sea."
      }
     }
@@ -1117,12 +1117,12 @@
       "t": "mcq",
       "q": "A girl walks home at night in a black dress. Which change helps drivers see her from furthest away?",
       "options": [
-       "A black cap",
        "A white dupatta and a reflective strip on her bag",
+       "A black cap",
        "Walking faster",
        "A dark blue dress"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A driver sees the girl only by the headlight that bounces off her. A white dupatta reflects much more light than black, and a reflective strip sends the light straight back to the driver. Walking faster does not help the driver see her."
      },
      "think": "You could see the torch's light the whole time. Why could you not see the black cloth?"
@@ -1292,10 +1292,10 @@
       "options": [
        "A road sign",
        "A radio programme",
-       "A phone call with a friend",
-       "A poster on a wall"
+       "A poster on a wall",
+       "A phone call with a friend"
       ],
-      "a": 2,
+      "a": 3,
       "why": "On a phone call, both people can talk and ask questions. A road sign, a radio programme and a poster send a message only one way: you cannot answer them back."
      }
     }
@@ -1960,12 +1960,12 @@
       "t": "mcq",
       "q": "Which shape should a warning sign be, in India?",
       "options": [
-       "A circle",
        "A triangle",
+       "A circle",
        "A rectangle",
        "A star"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In India, a triangle with a red border warns drivers of something ahead. Circles give orders and rectangles give information."
      }
     }
@@ -2097,10 +2097,10 @@
    "opts": [
     "A black frock",
     "A dark blue frock",
-    "A white frock with a reflective strip on the bag",
-    "A brown frock"
+    "A brown frock",
+    "A white frock with a reflective strip on the bag"
    ],
-   "a": 2,
+   "a": 3,
    "why": "White reflects much more of a car's headlight than dark colours, and a reflective strip sends the light straight back to the driver. A driver sees a person only by the light that comes back from them, and dark clothes send back very little.",
    "outcome": 4,
    "how": "e1"
@@ -2110,11 +2110,11 @@
    "p": "What does a red-bordered triangle on a road sign tell a driver?",
    "opts": [
     "You must stop",
-    "Be careful: something is ahead",
     "Parking here",
-    "Go faster"
+    "Go faster",
+    "Be careful: something is ahead"
    ],
-   "a": 1,
+   "a": 3,
    "why": "In India, a triangle with a red border is a warning sign, such as 'School ahead' or 'Speed breaker'.",
    "outcome": 3
   },
@@ -2122,12 +2122,12 @@
    "t": "mcq",
    "p": "The traffic light shows amber. What should a driver do?",
    "opts": [
-    "Speed up",
     "Get ready to stop",
+    "Speed up",
     "Turn around",
     "Sound the horn"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Amber means the light is about to turn red, so get ready to stop.",
    "outcome": 3
   },
@@ -2136,11 +2136,11 @@
    "p": "Which of these is one-way communication?",
    "opts": [
     "A phone call",
-    "A radio programme",
     "A chat with your teacher",
-    "A video call"
+    "A video call",
+    "A radio programme"
    ],
-   "a": 1,
+   "a": 3,
    "why": "You can listen to a radio programme, but you cannot ask it questions. The other three are two-way.",
    "outcome": 2
   },
@@ -2148,12 +2148,12 @@
    "t": "mcq",
    "p": "A road sign is a blue circle with a white arrow pointing straight up. What does it tell a driver?",
    "opts": [
-    "Go straight only",
     "Do not go straight",
     "Petrol pump ahead",
+    "Go straight only",
     "School ahead"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A blue circle gives an order about what you must do. This one says to go straight only.",
    "outcome": 2
   },
@@ -2187,12 +2187,12 @@
    "t": "mcq",
    "p": "Which invention first sent messages as electric pulses along wires?",
    "opts": [
-    "The telegraph",
     "The post",
+    "The telegraph",
     "The radio",
     "The newspaper"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The telegraph sent short and long pulses of electricity along wires, in a code such as Morse code.",
    "outcome": 2
   },
@@ -2213,12 +2213,12 @@
    "t": "mcq",
    "p": "One full bus carries about as many people as 25 cars. Why is that good for the city's air?",
    "opts": [
-    "Buses are painted brighter",
     "One engine burns far less fuel than 25 engines",
+    "Buses are painted brighter",
     "Buses never stop",
     "Cars have no engines"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One bus engine burns much less fuel than 25 car engines. So sharing a bus makes much less smoke for each person.",
    "outcome": 5
   },
@@ -2239,12 +2239,12 @@
    "t": "mcq",
    "p": "A bus is stuck behind a long line of vehicles at a busy crossing. Which helps most to ease the jam?",
    "opts": [
-    "A flyover that lifts traffic over the crossing",
     "More horns",
+    "A flyover that lifts traffic over the crossing",
     "More parked cars on the road",
     "A narrower road"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A flyover lets many vehicles go over the crossing without stopping. Horns and parked cars do not help, and a narrower road makes the jam worse.",
    "outcome": 5
   },
@@ -2252,12 +2252,12 @@
    "t": "mcq",
    "p": "Which one cuts both smoke and noise from vehicles?",
    "opts": [
-    "Blowing the horn often",
     "Switching the engine off at a long red light",
+    "Blowing the horn often",
     "Driving faster",
     "Never servicing the engine"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An engine that is off makes no smoke and no noise. Horns and a badly kept engine make both worse.",
    "outcome": 5
   },
@@ -2265,12 +2265,12 @@
    "t": "mcq",
    "p": "An ambulance comes up behind you with its siren on. What should the drivers do?",
    "opts": [
-    "Race it",
     "Move aside and let it pass",
+    "Race it",
     "Stop in the middle of the road",
     "Blow their horns"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An ambulance may be carrying someone in danger. Drivers must make way.",
    "outcome": 3
   },
@@ -2279,11 +2279,11 @@
    "p": "Who helps fix a bus engine so that it runs safely?",
    "opts": [
     "A porter",
-    "A mechanic",
     "A conductor",
-    "A postman"
+    "A postman",
+    "A mechanic"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A mechanic mends engines. A porter carries bags, a conductor sells tickets, and a postman brings letters.",
    "outcome": 1
   },
@@ -2292,11 +2292,11 @@
    "p": "You want to cross a road in India. What should you do?",
    "opts": [
     "Run across at once",
-    "Stop at the edge, look right, left and right again, and cross when it is clear",
     "Cross with your eyes closed",
+    "Stop at the edge, look right, left and right again, and cross when it is clear",
     "Wait in the middle of the road"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Vehicles keep to the left in India, so the first danger comes from the right. Look both ways and hold a grown-up's hand.",
    "outcome": 3
   },
@@ -2317,12 +2317,12 @@
    "t": "mcq",
    "p": "A sign shows a triangle with a red border and a picture of men digging. What does it mean?",
    "opts": [
-    "Men at Work: go slowly",
     "No Parking",
     "Petrol pump",
+    "Men at Work: go slowly",
     "You must go straight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A red-bordered triangle is a warning. This one tells drivers that people are working on the road ahead.",
    "outcome": 3
   },
@@ -2343,12 +2343,12 @@
    "t": "mcq",
    "p": "Who rebuilt the Grand Trunk Road in the 1500s, with trees and rest houses along it?",
    "opts": [
-    "Sher Shah Suri",
     "Marconi",
+    "Sher Shah Suri",
     "Gandhi",
     "A British engineer in 1900"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sher Shah Suri, a ruler in the 1500s, rebuilt this very old road across north India with trees, wells and rest houses.",
    "outcome": 1
   },
@@ -2356,12 +2356,12 @@
    "t": "mcq",
    "p": "Which was used for early water transport, before big ships?",
    "opts": [
-    "Fishing boats",
     "Aeroplanes",
+    "Fishing boats",
     "Metro trains",
     "Cars"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water transport started with small fishing boats. Later, bigger ships carried trade between countries.",
    "outcome": 1
   },
@@ -2369,12 +2369,12 @@
    "t": "mcq",
    "p": "Why can a helicopter be useful in a hill place such as Tawang?",
    "opts": [
-    "It can reach where roads are hard to build",
     "It is the cheapest way",
     "It needs no fuel",
-    "It makes no noise"
+    "It makes no noise",
+    "It can reach where roads are hard to build"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Air transport can reach far hill places. It costs a lot and uses fuel, and a helicopter is loud.",
    "outcome": 1
   },
@@ -2383,11 +2383,11 @@
    "p": "Which of these did people use first to print words?",
    "opts": [
     "A computer",
-    "Carved wooden blocks with ink",
     "A mobile phone",
-    "A radio"
+    "A radio",
+    "Carved wooden blocks with ink"
    ],
-   "a": 1,
+   "a": 3,
    "why": "In China, people carved words into wood, inked them and pressed paper on them. Metal letters and computers came later.",
    "outcome": 2
   },
@@ -2408,12 +2408,12 @@
    "t": "mcq",
    "p": "Which pair of dates is right for India?",
    "opts": [
-    "Radio in the 1920s, Doordarshan in 1959",
     "Doordarshan in 1859, radio in 1959",
+    "Radio in the 1920s, Doordarshan in 1959",
     "Telephone in 1990, telegraph in 1920",
     "Postal department in 1950, radio in 1853"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Radio began in the 1920s and Doordarshan in 1959. The postal department began in 1854.",
    "outcome": 2
   },
@@ -2422,11 +2422,11 @@
    "p": "What did a teleprinter do?",
    "opts": [
     "Played music",
-    "Sent typed messages along wires and printed them on paper",
     "Showed pictures",
-    "Made phone calls"
+    "Made phone calls",
+    "Sent typed messages along wires and printed them on paper"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A teleprinter was a keyboard machine that printed typed messages at the far end.",
    "outcome": 2
   },
@@ -2434,12 +2434,12 @@
    "t": "mcq",
    "p": "What does teletext show?",
    "opts": [
-    "Pages of written news and weather on the TV screen",
     "Live cricket on the radio",
+    "Pages of written news and weather on the TV screen",
     "A phone call",
     "A letter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Teletext sent written pages along with the TV signal.",
    "outcome": 2
   },
@@ -2447,12 +2447,12 @@
    "t": "mcq",
    "p": "A farmer gets the price of onions in the mandi by SMS. Why is that useful?",
    "opts": [
-    "He can choose where to sell",
     "It makes onions grow faster",
+    "He can choose where to sell",
     "It makes the road shorter",
     "It gives him fuel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Knowing the price helps him sell where he gets a fair price.",
    "outcome": 2
   },
@@ -2461,11 +2461,11 @@
    "p": "You get a message that says a big cyclone will hit tomorrow, but it came from a stranger. What is the best thing to do?",
    "opts": [
     "Forward it to everyone at once",
-    "Check with a grown-up and a trusted news source first",
     "Delete your phone",
-    "Believe it because it is on a phone"
+    "Believe it because it is on a phone",
+    "Check with a grown-up and a trusted news source first"
    ],
-   "a": 1,
+   "a": 3,
    "why": "False news can spread fast. Check who sent it and whether it is true before you share it.",
    "outcome": 2
   },
@@ -2541,12 +2541,12 @@
      "t": "mcq",
      "p": "In the Seen in the Dark test, the same dim torch shines on a black cloth and a white cloth. Which one can you still see from further away?",
      "opts": [
-      "The black cloth",
       "The white cloth",
+      "The black cloth",
       "Both the same",
       "Neither, in the dark"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The white cloth reflects much more of the torch light back to your eyes, so you can still see it from further away. The black cloth reflects very little, so it vanishes sooner.",
      "how": "e1"
     },
@@ -2608,11 +2608,11 @@
      "p": "Which of these is two-way communication?",
      "opts": [
       "A newspaper",
-      "A talk with your friend",
       "A billboard",
-      "A TV news programme"
+      "A TV news programme",
+      "A talk with your friend"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In a talk, both of you can speak and ask questions. A newspaper, a billboard and TV news send a message one way only."
     },
     {
@@ -2644,11 +2644,11 @@
      "p": "You want to send a photo to a cousin in Kolkata right now. Which is the quickest way?",
      "opts": [
       "Post it in a letter",
-      "Send it by phone over the internet",
       "Give it to a train passenger",
+      "Send it by phone over the internet",
       "Send it by courier"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The internet carries a photo in seconds. A letter or courier takes days."
     },
     {
@@ -2766,12 +2766,12 @@
      "t": "mcq",
      "p": "What is email?",
      "opts": [
-      "A message sent by the internet",
       "A kind of train",
       "A road sign",
-      "A fuel"
+      "A fuel",
+      "A message sent by the internet"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Email is a message sent by the internet from one person to another, in seconds."
     }
    ]
@@ -2866,11 +2866,11 @@
      "p": "Which is the best way to carry petrol from a refinery to a city 300 kilometres away, every day, for years?",
      "opts": [
       "Aeroplanes",
-      "A pipeline",
       "Bullock carts",
+      "A pipeline",
       "Cycles"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A pipeline carries liquid all day and night, without any vehicle. Once it is built, it is cheap and safe for this job."
     },
     {
@@ -2920,12 +2920,12 @@
      "t": "mcq",
      "p": "Radio waves travel in straight lines. Yet a radio station far beyond the curve of the Earth can sometimes be heard. Why?",
      "opts": [
-      "Radio waves curl around the Earth by themselves",
       "A charged layer high in the air sends some radio waves back down",
+      "Radio waves curl around the Earth by themselves",
       "The Earth is flat",
       "Radio waves travel through the ground"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The ionosphere, a layer of charged air high above us, sends some radio waves back down to the ground. Edward Appleton showed this in 1924."
     },
     {
@@ -2967,11 +2967,11 @@
      "p": "A honeybee finds flowers and comes back to the hive. How does she tell other bees where the flowers are?",
      "opts": [
       "She draws a map",
-      "She dances, and the direction and length of her dance show the way",
       "She buzzes the name of the flower",
-      "She cannot share it"
+      "She cannot share it",
+      "She dances, and the direction and length of her dance show the way"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Honeybees dance on the comb. The direction of the dance shows which way to fly, and its length shows how far. Karl von Frisch worked this out."
     },
     {
@@ -2985,12 +2985,12 @@
      "t": "mcq",
      "p": "Which road runs across north India and was rebuilt by Sher Shah Suri in the 1500s?",
      "opts": [
-      "The Grand Trunk Road",
       "The Hooghly",
+      "The Grand Trunk Road",
       "The Konkan Railway",
       "A national airport"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Grand Trunk Road is very old. Sher Shah Suri rebuilt it and added trees, wells and rest houses."
     },
     {
@@ -3074,11 +3074,11 @@
      "p": "In the Seen in the Dark test, suppose your white cloth is still visible at the far wall, 15 foot-steps away. What should you do to find how far it can really be seen?",
      "opts": [
       "Write 15 and stop",
-      "Make the torch dimmer, or use a longer room, and test all the cloths again",
       "Test only the white cloth again",
+      "Make the torch dimmer, or use a longer room, and test all the cloths again",
       "Use a brighter torch"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the white cloth is still seen at the wall, you have not found its limit. A dimmer torch or a longer room lets you find it. You must test every cloth again in the same way, so the test stays fair.",
      "how": "e1"
     },
@@ -3144,12 +3144,12 @@
      "t": "mcq",
      "p": "Sacks of rice go from a farm in Andhra Pradesh to a shop in Kerala. Which two kinds of transport are most likely to carry them?",
      "opts": [
-      "A goods train, then a truck",
       "An aeroplane, then a ship",
       "A pipeline, then a cycle",
-      "A kattumaram, then a helicopter"
+      "A kattumaram, then a helicopter",
+      "A goods train, then a truck"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rice is heavy and travels a long way, so a goods train is cheap. A truck then takes it from the station to the shop door. Most goods use more than one kind of transport."
     },
     {
@@ -3200,11 +3200,11 @@
      "p": "A message travelling from Earth to a faraway spacecraft takes about a day to arrive. What does this mean for talking to it?",
      "opts": [
       "You can chat with it like a phone call",
-      "Every question takes about two days to get an answer",
       "Messages travel faster in space",
+      "Every question takes about two days to get an answer",
       "Messages cannot reach space"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The question takes about a day to get there and the answer about a day to come back. So conversation is very slow, more like letters than a phone call."
     },
     {
@@ -3272,11 +3272,11 @@
      "p": "A message says, 'Free phones for everyone! Click here.' What is the best first step?",
      "opts": [
       "Click it at once",
-      "Ask a grown-up and check who sent it",
       "Forward it to friends",
+      "Ask a grown-up and check who sent it",
       "Give your name and number"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A message that offers free things may be a trick. Stop, ask and check, and do not share it."
     },
     {

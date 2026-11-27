@@ -504,7 +504,7 @@ I never ate her bread again. But I think she knows that I am grateful.
 1. (write) Someone says, 'The pigeon could break the kite string if she pulled harder.' What would you tell them? Use what you found in the Wet Loop Test.  
    **Answer:** Nylon string is a plastic. In the test, the plastic loop only stretched and did not tear, even when wet. So pulling harder would not break it, and it could cut her foot.. *Why:* A strong answer uses the plastic loop as evidence, and says that plastic stays strong when wet.
 2. (mcq) In the wet loop test, why did we keep one paper loop dry?  
-   Options: To see what the water did to the paper / Because there was not enough water / To have a spare loop  
+   Options: Because there was not enough water / To have a spare loop / To see what the water did to the paper  
    **Answer:** To see what the water did to the paper. *Why:* The dry loop held and the wet loop tore. The only difference was the water, so the water made the paper weak.
 3. (draw) In the bag-in-the-bucket test, a thin bag drifted in the water. Draw a sea turtle seeing a floating bag and a jellyfish side by side.  
    **Answer:** A drawing of a turtle with a puffed-open bag and a jellyfish that look alike.. *Why:* A strong drawing shows why the turtle could mix them up: both are thin, pale and drifting.
@@ -530,10 +530,10 @@ I never ate her bread again. But I think she knows that I am grateful.
 
 ## Quiz
 1. (mcq) What is our environment?  
-   Options: Everything around us: air, water, land and all living beings / Only forests far away / Only the trees on our street  
+   Options: Only forests far away / Everything around us: air, water, land and all living beings / Only the trees on our street  
    **Answer:** Everything around us: air, water, land and all living beings. *Why:* Our environment is everything around us, living and non-living, including us.
 2. (mcq) Which of these is a non-living part of the environment?  
-   Options: Rain water / A sparrow / A tulsi plant  
+   Options: A sparrow / A tulsi plant / Rain water  
    **Answer:** Rain water. *Why:* Water is not alive, but every living being needs it. The sparrow and the tulsi are alive.
 3. (mcq) What are the two main ways litter harms animals?  
    Options: They get trapped in it, or they eat it / It makes them too cold, or too hot / It makes them sleep, or sing  
@@ -542,22 +542,22 @@ I never ate her bread again. But I think she knows that I am grateful.
    Options: It stretched but stayed whole / It tore at once too / It melted  
    **Answer:** It stretched but stayed whole. *Why:* Plastic does not soak up water, so it stays strong when wet. That is why a plastic loop can trap a bird.
 5. (mcq) Why is plastic litter more dangerous to animals than paper litter?  
-   Options: Plastic stays strong in water and lasts for years / Plastic is heavier than paper / Plastic is always brightly coloured  
+   Options: Plastic is heavier than paper / Plastic stays strong in water and lasts for years / Plastic is always brightly coloured  
    **Answer:** Plastic stays strong in water and lasts for years. *Why:* Wet paper goes weak and rots away. Plastic stays strong and lasts, so it can trap or harm animals for a long time.
 6. (mcq) Why might a sea turtle swallow a floating plastic bag?  
-   Options: The bag drifts like a jellyfish, which turtles eat / Turtles eat plastic to grow / The bag tastes sweet  
+   Options: Turtles eat plastic to grow / The bag drifts like a jellyfish, which turtles eat / The bag tastes sweet  
    **Answer:** The bag drifts like a jellyfish, which turtles eat. *Why:* A thin bag in water puffs open and drifts like a jellyfish. Many scientists think turtles mix them up.
 7. (mcq) You find a rubber band in your dry waste. What should you do before it goes in the bin?  
-   Options: Snip it open / Tie it in a knot / Wash it  
+   Options: Tie it in a knot / Wash it / Snip it open  
    **Answer:** Snip it open. *Why:* A snipped band is a strip, which cannot close round an animal's foot or beak.
 8. (mcq) Which bag makes the least litter?  
    Options: A cloth bag used again and again / A new plastic bag each day / A new paper bag each day  
    **Answer:** A cloth bag used again and again. *Why:* A bag used hundreds of times means hundreds fewer bags thrown away.
 9. (mcq) Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?  
-   Options: Hold on to the trees so they cannot be cut down / Plant rice / Build a dam  
+   Options: Plant rice / Build a dam / Hold on to the trees so they cannot be cut down  
    **Answer:** Hold on to the trees so they cannot be cut down. *Why:* Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.
 10. (mcq) A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?  
-   Options: Village people guarding the nests and the nesting trees / A king giving an order / A football team playing nearby  
+   Options: A king giving an order / Village people guarding the nests and the nesting trees / A football team playing nearby  
    **Answer:** Village people guarding the nests and the nesting trees. *Why:* The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.
 11. (truefalse) Nylon kite string is banned in India because it hurts birds and people.  
    **Answer:** True. *Why:* True. In 2017 the National Green Tribunal banned nylon and other plastic kite string across India.

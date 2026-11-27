@@ -581,11 +581,11 @@
       "t": "mcq",
       "q": "Puffy clouds are growing taller and taller on a hot afternoon. What is the best forecast?",
       "options": [
-       "Fine weather",
        "Thunderstorm soon",
+       "Fine weather",
        "Steady rain for days"
       ],
-      "a": 1,
+      "a": 0,
       "why": "On a hot afternoon, warm damp air rises and builds the clouds taller. If they keep growing, they can become a cumulonimbus storm cloud, with thunder and heavy rain. If you chose 'fine weather', you looked at the puffy shape but missed that the clouds were growing."
      }
     },
@@ -1304,11 +1304,11 @@
       "t": "mcq",
       "q": "On your balcony the ribbon shows wind from the east, but the clouds are coming from the west. What does that tell you?",
       "options": [
-       "The air high up is moving a different way from the air near the ground",
        "The ribbon is broken",
+       "The air high up is moving a different way from the air near the ground",
        "The clouds are standing still"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Clouds are carried by the wind high up, which can blow a different way from the wind near the ground. In the same way, a storm that Benjamin Franklin studied in 1743 travelled one way while its wind blew from another way. To forecast, you watch which way the clouds come from, not only which way the ground wind blows."
      },
      "parent": "In the afternoon in coastal cities like Chennai, a sea breeze often blows in from the sea near the ground, while clouds above move a different way. Any result is fine. The idea is that the air has layers that move differently."
@@ -1585,10 +1585,10 @@
       "q": "The forecast said '60% chance of rain', and it did not rain. What does that tell you?",
       "options": [
        "The forecast was wrong",
-       "Dry days happen on about 4 of 10 days like this, so it is not a surprise",
-       "A 60% forecast means it will rain for 60 minutes"
+       "A 60% forecast means it will rain for 60 minutes",
+       "Dry days happen on about 4 of 10 days like this, so it is not a surprise"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A 60% chance means rain on about 6 of 10 days like this, and no rain on about 4. A dry day is one of those 4. To judge a forecaster, you would check many days. Thinking it means 60 minutes of rain is a common mix-up."
      },
      "parent": "Your child may get 5, 6, 7 or even 8 rain days out of 10. That is normal with chance. Doing it again gives a different count. Over many tries, it comes close to 6 in 10."
@@ -1960,12 +1960,12 @@
    "t": "mcq",
    "p": "A low grey sheet of cloud covers the whole sky. What weather is most likely?",
    "opts": [
-    "Long, steady rain",
     "A thunderstorm in ten minutes",
+    "Long, steady rain",
     "A clear night",
     "Snow"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A low grey sheet of cloud over the whole sky often brings long, steady rain. A thunderstorm comes from tall, growing clouds, not from a flat sheet.",
    "outcome": 0
   },
@@ -1973,12 +1973,12 @@
    "t": "mcq",
    "p": "Someone says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?",
    "opts": [
-    "Ask more people whether they like the saying",
     "Watch for the sign many times and count how often the weather it promises really comes",
+    "Ask more people whether they like the saying",
     "Test it once more",
     "Look it up in a storybook"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One time can be luck. Counting the times a saying comes true and the times it fails, over many tries, shows how good it is.",
    "outcome": 1
   },
@@ -1986,12 +1986,12 @@
    "t": "mcq",
    "p": "In a forecast contest, 'tomorrow will be like today' got most days right. On which kind of day did it go wrong?",
    "opts": [
-    "On days when the weather stayed the same",
     "On days when the weather changed",
+    "On days when the weather stayed the same",
     "On Sundays",
     "On sunny days"
    ],
-   "a": 1,
+   "a": 0,
    "why": "'Same as today' always predicts no change. So it is right when the weather stays the same and wrong every time it changes. Catching those changes is what makes a forecast useful.",
    "outcome": 2
   },
@@ -1999,12 +1999,12 @@
    "t": "mcq",
    "p": "A satellite picture shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?",
    "opts": [
-    "Rain may come soon, because the cloud is moving towards the city",
     "No rain, because the sky over Chennai is blue now",
     "Snow",
+    "Rain may come soon, because the cloud is moving towards the city",
     "The cloud will stay where it is"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Weather travels. A storm moving towards the coast today may reach the city tomorrow, even if the sky over the city is still blue.",
    "outcome": 3
   },
@@ -2012,12 +2012,12 @@
    "t": "mcq",
    "p": "The forecast says '70% chance of rain'. What does it mean?",
    "opts": [
+    "On 10 days like this, rain would fall on about 7",
     "It will rain for 70 minutes",
     "70% of the city will get wet",
-    "On 10 days like this, rain would fall on about 7",
     "It will certainly rain"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A 70% chance means rain on about 7 of 10 days like this one. It does not mean minutes or how much of the city gets wet.",
    "outcome": 4
   },
@@ -2026,11 +2026,11 @@
    "p": "The forecast said '20% chance of rain', and it rained. Was the forecast wrong?",
    "opts": [
     "Yes, it was completely wrong",
-    "Not necessarily: rain happens on about 2 of 10 days like this",
     "Yes, because 20% means no rain",
+    "Not necessarily: rain happens on about 2 of 10 days like this",
     "Forecasts are always wrong"
    ],
-   "a": 1,
+   "a": 2,
    "why": "20% means rain is unlikely but possible. Rain on 2 of every 10 such days is what 20% means. You would need to check many days to judge the forecaster.",
    "outcome": 4
   },
@@ -2038,12 +2038,12 @@
    "t": "mcq",
    "p": "Why is a forecast for next week less sure than a forecast for tomorrow?",
    "opts": [
-    "Weather offices try less hard for next week",
     "Small errors in today's measurements grow bigger over time",
+    "Weather offices try less hard for next week",
     "Computers switch off after one day",
     "Next week's weather is decided by the Moon"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Nobody can measure every bit of air. The small errors grow day by day. Edward Lorenz found this in 1961, when rounding off one number in his weather program gave a completely different forecast. So forecasts get less sure the further ahead they look.",
    "outcome": 5
   },
@@ -2052,11 +2052,11 @@
    "p": "What does a red weather warning from the India Meteorological Department mean?",
    "opts": [
     "Be aware",
-    "Be prepared",
     "Take action",
+    "Be prepared",
     "No warning"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Green means no warning, yellow means be aware, orange means be prepared, and red means take action, for example moving to safety.",
    "outcome": 5
   },
@@ -2064,12 +2064,12 @@
    "t": "mcq",
    "p": "Why do weather offices need readings from far away to forecast your city's weather?",
    "opts": [
-    "Because the weather coming to your city is often somewhere else today",
     "Because far-away readings are more exciting",
     "Because your city has no weather",
+    "Because the weather coming to your city is often somewhere else today",
     "Because computers only work with far-away numbers"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Weather travels across land and sea. To know what is coming, forecasters need to know what the air is doing in the places it is coming from.",
    "outcome": 3
   },
@@ -2078,11 +2078,11 @@
    "p": "Someone says, 'The sky is blue today, so it will be dry on Saturday.' The weather app says 90% chance of rain on Saturday. What is the best reason to trust the app?",
    "opts": [
     "The app is always right",
-    "The app can see the weather that is still far away, such as clouds over the sea",
     "Blue sky always means dry weather",
-    "The app has never been wrong"
+    "The app has never been wrong",
+    "The app can see the weather that is still far away, such as clouds over the sea"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The app uses satellites and readings from far away, so it sees weather that has not reached your sky yet. It is not always right, but it sees more than one sky can show.",
    "outcome": 3
   }
@@ -2123,11 +2123,11 @@
      "p": "You want to know if it will rain tomorrow. What is the best thing to look at?",
      "opts": [
       "What day of the week it is",
-      "The clouds, the wind and how damp the air feels",
       "What colour your umbrella is",
+      "The clouds, the wind and how damp the air feels",
       "What you had for breakfast"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Clouds, wind and damp air are signs of what is coming. What day of the week it is tells you nothing about the weather."
     },
     {
@@ -2268,11 +2268,11 @@
      "p": "The weather office has given an orange warning for heavy rain. What does orange mean?",
      "opts": [
       "No warning",
-      "Be prepared",
       "Take action",
+      "Be prepared",
       "The rain is orange"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Yellow means be aware, orange means be prepared, red means take action."
     },
     {
@@ -2323,12 +2323,12 @@
      "p": "A satellite film shows a cloud swirl 300 km out at sea, moving towards the coast at about 100 km each day. When might it arrive?",
      "how": "a4",
      "opts": [
-      "Today",
       "In about 3 days",
+      "Today",
       "In about 30 days",
       "Never"
      ],
-     "a": 1,
+     "a": 0,
      "why": "300 km at 100 km a day takes 3 days. A strong answer adds that storms can speed up, slow down or turn, so the forecast must be checked again each day."
     },
     {
@@ -2362,10 +2362,10 @@
      "opts": [
       "Both forecasts will come out the same",
       "The computer will break",
-      "After a while, the two forecasts will be completely different",
-      "The second forecast will always be better"
+      "The second forecast will always be better",
+      "After a while, the two forecasts will be completely different"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The tiny difference grows until the two forecasts are completely different. This is why detailed forecasts many weeks ahead are not possible."
     },
     {
@@ -2447,12 +2447,12 @@
      "p": "In the wind ribbon test, the ribbon streams towards the west. Where is the wind coming from?",
      "how": "e3",
      "opts": [
-      "The east",
       "The west",
+      "The east",
       "Straight down",
       "Nowhere"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The ribbon streams away from where the wind comes from. So it points west when the wind blows from the east."
     },
     {
@@ -2544,12 +2544,12 @@
      "t": "mcq",
      "p": "A weather office runs its model 50 times, each time with tiny changes to the starting readings. 45 of the runs show heavy rain on Friday. What should the forecast say?",
      "opts": [
-      "No rain on Friday",
       "Heavy rain is very likely on Friday, about a 90% chance",
+      "No rain on Friday",
       "Rain for 45 minutes",
       "The model is broken"
      ],
-     "a": 1,
+     "a": 0,
      "why": "45 out of 50 is 90 out of 100, so heavy rain is very likely. Running the model many times shows how sure a forecast is."
     },
     {
@@ -2578,12 +2578,12 @@
      "t": "mcq",
      "p": "Lewis Fry Richardson, an English scientist, worked out a 6-hour forecast by hand about a hundred years ago. It took him weeks. Why was it not useful, even if it had been right?",
      "opts": [
-      "The weather had already happened long before he finished",
       "He used the wrong paper",
+      "The weather had already happened long before he finished",
       "Forecasts are never useful",
       "It was in another language"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A forecast must arrive before the weather does. A 6-hour forecast that takes weeks to work out arrives long after the weather has happened. Fast computers solved this."
     },
     {
@@ -2592,11 +2592,11 @@
      "how": "e3",
      "opts": [
       "The ground wind",
-      "The way the clouds are moving",
       "Neither",
+      "The way the clouds are moving",
       "The colour of the ribbon"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Clouds are carried by the wind high up, so the way the clouds move shows where the weather is coming from. The ground wind is bent by buildings and the sea breeze."
     },
     {

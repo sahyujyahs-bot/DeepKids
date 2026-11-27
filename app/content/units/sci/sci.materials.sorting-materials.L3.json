@@ -1050,11 +1050,11 @@
       "t": "mcq",
       "q": "YES: steel spoon, glass bangle, aluminium foil ball, brass kindi. NO: wooden spoon, rubber band, woollen sock. What is the rule?",
       "options": [
-       "Is it hard?",
        "Is it shiny?",
+       "Is it hard?",
        "Is it made of metal?"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every YES thing is shiny, and every NO thing is dull. The rule is 'Is it shiny?'. 'Is it hard?' fails, because the foil ball is soft and the wooden spoon is hard. 'Is it made of metal?' fails, because the glass bangle is not metal. Picking either one usually means the detective did not check the rule on every card."
      }
     },
@@ -1197,11 +1197,11 @@
       "t": "mcq",
       "q": "Zib 1, Zib 5 and Zib 9 sit in the same column. What is the same about them?",
       "options": [
-       "They all have a red border",
        "They all have the same bounce number",
+       "They all have a red border",
        "They all have the same number"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Zib 1, 5 and 9 all have a red border. Their bounce numbers are 2, 4 and 6, so they are not the same. Picking 'same bounce number' usually means the detective noticed the pattern but not what stays the same and what changes. The border colour stays the same. The bounce number goes up by 2."
      }
     },
@@ -1345,12 +1345,12 @@
      "t": "mcq",
      "p": "A girl sorts a heap of things by the rule 'Is it big?'. Her friend uses the same rule on the same heap and gets different groups. What is the best fix?",
      "opts": [
-      "Change the rule to 'Is it longer than my hand?'",
       "Let the first girl decide, because she started",
       "Sort the heap again by the same rule",
-      "Use a bigger heap"
+      "Use a bigger heap",
+      "Change the rule to 'Is it longer than my hand?'"
      ],
-     "a": 0,
+     "a": 3,
      "why": "'Big' has no clear line, so two people answer differently. 'Longer than my hand' can be checked, so everyone gets the same answer. Sorting again by the same unclear rule will give the same muddle."
     },
     {
@@ -1398,12 +1398,12 @@
      "t": "mcq",
      "p": "A key starts: 'Is it hard?' If yes: 'Is it shiny?' Yes is ice, no is a brick. If the first answer is no: 'Is it waterproof?' Yes is a balloon, no is paper. What is a hard, shiny thing?",
      "opts": [
-      "Ice",
       "Brick",
       "Balloon",
+      "Ice",
       "Paper"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Follow the key. Hard, so yes. Shiny, so yes. That leads to ice. A brick is hard but not shiny. The balloon and the paper are not hard.",
      "context": "A branching key is a chart of yes or no questions. You follow the answers, one step at a time, until you reach one thing."
     },
@@ -1458,12 +1458,12 @@
      "t": "mcq",
      "p": "A family has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?",
      "opts": [
-      "Is it small enough for a baby?",
       "Is it red?",
       "Is it cotton?",
-      "Is it folded?"
+      "Is it folded?",
+      "Is it small enough for a baby?"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job."
     },
     {
@@ -1507,10 +1507,10 @@
      "p": "In the Scratch Ladder, a fingernail marks soap but not a plastic comb. A steel nail marks the comb. Which is harder?",
      "opts": [
       "The soap",
-      "The plastic comb",
-      "They are the same"
+      "They are the same",
+      "The plastic comb"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The comb was not marked by the fingernail, but the soap was. So the comb is harder. Picking the soap usually means the ladder was read upside down. A thing that is marked more easily is softer.",
      "context": "In the experiment The Scratch Ladder, you try to scratch eight things with a fingernail and then a steel nail. This puts them in order from softest to hardest.",
      "how": "e2"
@@ -1565,12 +1565,12 @@
      "t": "mcq",
      "p": "A key has the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
      "opts": [
-      "It asks two things at once, so a thing that is shiny but soft has no clear yes or no",
       "It is too short",
       "A key may only ask about colour",
+      "It asks two things at once, so a thing that is shiny but soft has no clear yes or no",
       "Nothing is wrong with it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each question in a key must ask about one property, so every thing gets one clear answer. A foil ball is shiny but soft: is that a yes or a no? Splitting it into 'Is it shiny?' and then 'Is it hard?' fixes the key.",
      "how": "e3",
      "context": "In the Twenty Questions Race, you count how many questions a key needs. Each good question cuts the number of possibilities in half."
@@ -1685,12 +1685,12 @@
      "t": "mcq",
      "p": "In a Venn diagram with two circles, 'Metal' and 'Shiny', a glass marble is put in the overlap. What is the mistake?",
      "opts": [
-      "Glass is not a metal, so the marble goes in the Shiny circle only",
       "Glass is not shiny, so it goes outside both",
       "There is no mistake",
+      "Glass is not a metal, so the marble goes in the Shiny circle only",
       "A marble cannot go in a Venn diagram"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The overlap is only for things that fit both rules. The marble is shiny, but it is glass, not metal. Picking 'no mistake' is common, because shiny things often look like metal."
     },
     {
@@ -1730,12 +1730,12 @@
      "t": "mcq",
      "p": "Why must we use the same test on every thing when we sort?",
      "opts": [
-      "So the groups show how the things differ, and not how we tested",
       "To make the job longer",
       "To use fewer things",
+      "So the groups show how the things differ, and not how we tested",
       "So we can change our mind"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If every thing has a different test, a difference in the groups could come from the test and not from the things. The same test makes it fair. Picking 'change our mind' misses the point of a fair test."
     },
     {
@@ -1822,12 +1822,12 @@
      "t": "mcq",
      "p": "A recycling plant uses a big magnet to lift steel tins off a moving belt of rubbish. A magnet does not attract aluminium cans. What happens to them?",
      "opts": [
-      "They stay with the paper and plastic, so another rule is needed to pick them out",
       "The magnet attracts them anyway",
       "They melt",
-      "They turn into steel"
+      "They turn into steel",
+      "They stay with the paper and plastic, so another rule is needed to pick them out"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A magnet sorts by 'Does a magnet attract it?', and aluminium says no. So one rule cannot separate every material. Recycling plants add more steps, each with its own rule."
     },
     {
@@ -1908,12 +1908,12 @@
      "t": "mcq",
      "p": "Two scientists each find a pattern in the elements. One just lists the pattern. The other leaves gaps and says what the missing elements will be like. Why are more people convinced by the second?",
      "opts": [
-      "The pattern predicts something new that can be checked",
       "The list is longer",
       "It uses a different colour for each element",
-      "Nobody can check it"
+      "Nobody can check it",
+      "The pattern predicts something new that can be checked"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Mendeleev left gaps and said what the missing elements would be like. Gallium, scandium and germanium were found and matched. A pattern that predicts something new is much harder to laugh at."
     },
     {
@@ -1996,11 +1996,11 @@
       "t": "mcq",
       "q": "Why do we use the same fingernail test on every thing?",
       "options": [
-       "So the sort is fair",
        "So it takes longer",
-       "So the things get dirty"
+       "So the things get dirty",
+       "So the sort is fair"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If every thing had a different test, the groups would show how we tested, not how the things differ. The same test makes the sort fair. Picking another answer usually means the point of a fair test has not been seen yet."
      }
     },
@@ -2041,11 +2041,11 @@
       "t": "mcq",
       "q": "A thing is in the 'soft and shiny' box of the Carroll table. Which two rules does it fit?",
       "options": [
-       "Soft, and shiny",
        "Hard, and shiny",
+       "Soft, and shiny",
        "Soft, and dull"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The 'soft and shiny' box holds things that passed the soft test and the shiny test. Picking 'hard, and shiny' usually means one row was read wrongly. Always read both labels, the column and the row."
      },
      "chart": {
@@ -2202,11 +2202,11 @@
       "t": "mcq",
       "q": "A thing is marked by the steel nail but not by a fingernail. Is it harder or softer than a thing that a fingernail marks?",
       "options": [
-       "Harder",
        "Softer",
-       "The same hardness"
+       "The same hardness",
+       "Harder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The fingernail marks only the softest things. If the steel nail is needed, the thing is harder than those. Picking 'softer' usually means the ladder was read upside down. The higher the rung, the harder the thing."
      }
     },
@@ -2851,11 +2851,11 @@
       "t": "mcq",
       "q": "In winnowing, why does the husk blow away but the grain stays?",
       "options": [
-       "The husk is lighter, so the wind moves it more",
        "The wind blows only on the husk",
+       "The husk is lighter, so the wind moves it more",
        "The grain is stuck to the tray"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The wind pushes on everything, but it moves a light thing much more than a heavy thing. So the light husk blows away while the heavy grain falls straight back. Picking 'the wind blows only on the husk' misses that the wind pushes the grain too. The weight of each thing decides how far it moves."
      }
     },
@@ -3551,11 +3551,11 @@
    "t": "mcq",
    "p": "Which is the best sorting rule?",
    "opts": [
-    "Is it shiny?",
     "Is it pretty?",
-    "Is it nice?"
+    "Is it nice?",
+    "Is it shiny?"
    ],
-   "a": 0,
+   "a": 2,
    "why": "'Is it shiny?' has a clear answer that anyone can check. 'Pretty' and 'nice' depend on who is asked.",
    "outcome": 0
   },
@@ -3563,11 +3563,11 @@
    "t": "mcq",
    "p": "A brick is hard and dull. We sort by hard or soft, then by shiny or dull. What happens to the brick?",
    "opts": [
-    "It goes in the hard group, then in the dull group",
     "It goes in the hard group both times",
-    "It goes in the soft group"
+    "It goes in the soft group",
+    "It goes in the hard group, then in the dull group"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The same brick lands in a group with a different name each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.",
    "outcome": 1
   },
@@ -3575,11 +3575,11 @@
    "t": "mcq",
    "p": "A friend says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?",
    "opts": [
-    "No. Each rule asks a different question, so the spoon can be in both",
     "Yes. A thing can only be in one group",
-    "Yes, because shiny is not a rule"
+    "Yes, because shiny is not a rule",
+    "No. Each rule asks a different question, so the spoon can be in both"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
    "why": "The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. 'A thing can only be in one group' is a common idea, but it is true only within one sort."
   },
@@ -3587,11 +3587,11 @@
    "t": "mcq",
    "p": "A candle is hard, but a fingernail can mark it. What is the best way to settle where it goes?",
    "opts": [
-    "Use a fair test, and let the test decide",
     "Guess",
-    "Throw it away"
+    "Throw it away",
+    "Use a fair test, and let the test decide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A test gives the same answer for everyone. Guessing can differ from person to person. Throwing it away leaves the problem unsolved.",
    "outcome": 2
   },
@@ -3599,11 +3599,11 @@
    "t": "mcq",
    "p": "Which of these is a good way to deal with a tricky middle thing?",
    "opts": [
-    "Add a middle group",
     "Hide it",
+    "Add a middle group",
     "Pretend it fits"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A middle group makes a place for a thing that is truly in between. Hiding it, or pretending it fits, makes the sort less true.",
    "outcome": 2
   },
@@ -3624,11 +3624,11 @@
    "t": "mcq",
    "p": "In a Carroll table, what do the four boxes show?",
    "opts": [
-    "Both, only the first, only the second, and neither",
     "Four kinds of metal",
+    "Both, only the first, only the second, and neither",
     "Four sizes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Two yes or no rules make four combinations. Each thing goes in exactly one box.",
    "outcome": 3,
    "context": "A Carroll table sorts things by two yes or no rules at once, using four boxes."
@@ -3637,11 +3637,11 @@
    "t": "mcq",
    "p": "You want a key to find one of eight things. Which first question makes the best start?",
    "opts": [
-    "One that splits the eight things into four and four",
     "One that picks out a single thing",
-    "One that every thing answers with yes"
+    "One that every thing answers with yes",
+    "One that splits the eight things into four and four"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A question that splits the group in half leaves four things, and the next question leaves two. A question that picks out one thing leaves seven. A question that every thing answers the same way splits nothing.",
    "outcome": 4,
    "context": "A branching key asks yes or no questions. A good first question splits the group in half."
@@ -3650,11 +3650,11 @@
    "t": "mcq",
    "p": "A kabadiwala buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?",
    "opts": [
-    "Each material is recycled in its own way",
     "She likes colours",
-    "It looks tidy"
+    "It looks tidy",
+    "Each material is recycled in its own way"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Each material is recycled in its own way, so each pile is sold to a different buyer. Picking 'it looks tidy' misses the purpose."
   },
@@ -3662,12 +3662,12 @@
    "t": "mcq",
    "p": "Before washing, white clothes go in one bucket and coloured clothes in another. What is the job of this sort?",
    "opts": [
-    "To stop dye from coloured clothes staining the white ones",
     "To make the buckets equally heavy",
+    "To stop dye from coloured clothes staining the white ones",
     "Because white clothes are a different material",
     "To make the clothes dry faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Some coloured cloth lets out dye in water, and the dye can stain white cloth. So the rule is colour, because that is what the job needs. Sorting by material would not help here: a white shirt and a red shirt can both be cotton.",
    "outcome": 5
   },
@@ -3675,11 +3675,11 @@
    "t": "mcq",
    "p": "A scientist sorts all the known elements into a table by a pattern. Some places in the pattern have no element. What should he do?",
    "opts": [
-    "Leave gaps, because elements nobody has found yet may fit there",
     "Squeeze the elements together to hide the gaps",
-    "Give up on the pattern"
+    "Give up on the pattern",
+    "Leave gaps, because elements nobody has found yet may fit there"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A good pattern can point to things nobody has found yet. Mendeleev left gaps like this, and gallium, scandium and germanium were later found and matched his predictions.",
    "outcome": 6
   },
@@ -3687,11 +3687,11 @@
    "t": "mcq",
    "p": "What do the star letters O, B, A, F, G, K, M show?",
    "opts": [
-    "How hot the surface of the star is",
     "How old the star is",
-    "How far away it is"
+    "How far away it is",
+    "How hot the surface of the star is"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell how hot the star is.",
    "outcome": 6
   },
@@ -3699,11 +3699,11 @@
    "t": "mcq",
    "p": "Do scientists agree on exactly what a species is?",
    "opts": [
-    "No, there are over twenty different definitions",
     "Yes, there is only one rule",
-    "Yes, but only for animals"
+    "Yes, but only for animals",
+    "No, there are over twenty different definitions"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Biologists still argue. Different definitions work better for animals, plants and bacteria.",
    "outcome": 7
   },
@@ -3711,11 +3711,11 @@
    "t": "mcq",
    "p": "Why was Pluto moved to a new group in 2006?",
    "opts": [
-    "Astronomers changed the rule for what a planet is",
     "Pluto got smaller",
+    "Astronomers changed the rule for what a planet is",
     "Pluto moved away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The rule changed, not Pluto. Some astronomers still disagree with the new rule. Picking 'Pluto got smaller' is a common guess, but Pluto did not change.",
    "outcome": 7
   },

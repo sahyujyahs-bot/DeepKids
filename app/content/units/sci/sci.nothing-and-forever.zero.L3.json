@@ -458,11 +458,11 @@
       "t": "mcq",
       "q": "The goal is the BIGGEST number. You roll a 6, which is a zero. Which box should it go in?",
       "options": [
+       "Ones",
        "Hundreds",
-       "Tens",
-       "Ones"
+       "Tens"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A zero in Ones costs you the least, because the Ones place is worth the least. A zero in Hundreds would make your number smaller than 100. In this game, where the zero sits changes the value of everything else."
      }
     },
@@ -834,11 +834,11 @@
       "t": "mcq",
       "q": "In your table, the difference came out about the same for every object. What does that tell you?",
       "options": [
-       "The ruler has a blank strip before the 0, and it adds the same length every time",
        "All your objects are the same length",
-       "You measured too fast"
+       "You measured too fast",
+       "The ruler has a blank strip before the 0, and it adds the same length every time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The strip before the 0 is not part of any centimetre. Starting at the edge adds that strip to every length, so the difference is the width of the strip. A random slip would be different each time. If your ruler starts right at the edge, every difference is 0 and there is no strip."
      }
     },
@@ -967,11 +967,11 @@
       "t": "mcq",
       "q": "In the date 30 October, what does the 0 tell you?",
       "options": [
-       "There are no days",
        "The 3 means three tens, and there are no extra ones",
+       "There are no days",
        "It is a nothing date"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The 0 holds the ones place, so the 3 stays in the tens place. Thirty is three tens and no ones. Picking 'no days' means mixing up the 0 in a number with the number zero on its own."
      },
      "parent": "Notice which zeros are 'none' and which are holding a place, like the 0 in 30 or in a pin code such as 600 028. You will come back to this difference."
@@ -1165,10 +1165,10 @@
       "q": "Why does the calculator show an error for 12 ÷ 0?",
       "options": [
        "The calculator is broken",
-       "No number of groups of 0 can ever make 12",
-       "The answer is too big to fit on the screen"
+       "The answer is too big to fit on the screen",
+       "No number of groups of 0 can ever make 12"
       ],
-      "a": 1,
+      "a": 2,
       "why": "12 ÷ 0 asks: how many groups of 0 make 12? Every number of groups of 0 makes 0, never 12. So there is no answer. Mathematicians call it undefined. Picking 'too big' means thinking the answer is a huge number, but no number works at all."
      }
     }
@@ -1667,11 +1667,11 @@
    "t": "mcq",
    "p": "A plate has no dosas on it. How many dosas are on the plate?",
    "opts": [
-    "One",
     "Zero",
+    "One",
     "We can't say, because there are none"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Zero is the number for none. It is a real answer to 'how many?'. Picking 'we can't say' means thinking that none is not a number.",
    "outcome": 0
   },
@@ -1679,11 +1679,11 @@
    "t": "mcq",
    "p": "You write 520 but forget the 0. What number have you written?",
    "opts": [
-    "52, which is ten times smaller",
     "520, because the 0 means nothing",
+    "52, which is ten times smaller",
     "502"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Without the 0, the 5 and 2 slide into the tens and ones places, so the number becomes 52. The 0 adds nothing to count, but it keeps the digits in their places.",
    "outcome": 1
   },
@@ -1692,10 +1692,10 @@
    "p": "In the missing zero test, a reader is shown the card '52' with a blank space after it. The writer meant 520. What will the reader most likely say?",
    "opts": [
     "Five hundred and twenty",
-    "Fifty-two",
-    "Five hundred and two"
+    "Five hundred and two",
+    "Fifty-two"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A blank at the end of a number looks like ordinary paper, so the reader sees only 52. That is why a 0 is needed at the end of a number.",
    "outcome": 2,
    "how": "e1"
@@ -1729,10 +1729,10 @@
    "p": "You type 8 ÷ 0 on a calculator. What will it show?",
    "opts": [
     "0",
-    "8",
-    "An error, because there is no answer"
+    "An error, because there is no answer",
+    "8"
    ],
-   "a": 2,
+   "a": 1,
    "why": "8 ÷ 0 asks what number times 0 gives 8. Every number times 0 is 0, so no number works. Picking 0 is the mistake Brahmagupta made for 0 ÷ 0.",
    "outcome": 4
   },
@@ -1764,11 +1764,11 @@
    "t": "mcq",
    "p": "You measure a pencil from the very edge of a ruler. The 0 mark is 5 mm in from the edge. What happens?",
    "opts": [
-    "The answer is 5 mm too long",
     "The answer is 5 mm too short",
+    "The answer is 5 mm too long",
     "It makes no difference"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The strip before the 0 is not part of the length scale. Starting at the edge adds it to every measurement, so each length is 5 mm too long.",
    "outcome": 6,
    "how": "e2"
@@ -1862,11 +1862,11 @@
      "p": "What is 6 - 0?",
      "opts": [
       "0",
-      "6",
       "60",
-      "There is no answer"
+      "There is no answer",
+      "6"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Taking away nothing leaves what you had. That is one of Brahmagupta's rules."
     },
     {
@@ -2049,12 +2049,12 @@
      "t": "mcq",
      "p": "About 2,300 years ago, scribes in Babylon put a mark for an empty place in the middle of a number, but never at the end. Which pair of numbers would look the same in their writing?",
      "opts": [
-      "2 and 20",
       "203 and 230",
+      "2 and 20",
       "12 and 21",
       "105 and 150"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With no mark at the end, 20 would be written just like 2. A reader had to guess from the writing around the number. A middle gap had a mark, so 203 and 230 could be told apart."
     },
     {
@@ -2231,12 +2231,12 @@
      "t": "mcq",
      "p": "Bees learn to pick the card with fewer shapes. Then they are shown a blank card and a card with one shape. If they pick the blank card, what might that tell us?",
      "opts": [
-      "They may treat none as less than one",
       "They cannot see blank cards",
       "They always like one shape best",
-      "They were not hungry"
+      "They were not hungry",
+      "They may treat none as less than one"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Picking the blank card as 'fewer' would mean they put none below one. Scientists still argue whether that means bees understand zero, or just 'less'."
     },
     {
@@ -2263,12 +2263,12 @@
      "t": "mcq",
      "p": "On the original thermometer scale Anders Celsius made in 1742, water boiled at 0 and froze at 100. Later the scale was turned round. What does this show?",
      "opts": [
-      "Where zero goes on a scale is chosen by people",
       "Water used to boil at a different temperature",
       "Celsius made a mistake with his thermometer",
+      "Where zero goes on a scale is chosen by people",
       "Zero always means the coldest"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The zero on a temperature scale is a starting point people choose. The water did not change. Only the numbers we put on it did."
     },
     {

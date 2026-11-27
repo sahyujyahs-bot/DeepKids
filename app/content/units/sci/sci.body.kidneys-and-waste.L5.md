@@ -564,7 +564,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 5. (sort) Sort each living being: is water mostly coming in, or mostly leaving?  
    **Answer:** rohu in a pond → Water keeps coming in; mackerel in the sea → Water keeps leaving; Paramecium in a pond → Water keeps coming in; camel in the Thar → Water keeps leaving; tadpole in a puddle → Water keeps coming in; kangaroo rat in a desert → Water keeps leaving. *Why:* Beings in fresh water are saltier than the water, so water enters them. A sea fish is less salty than the sea, and a desert animal loses water to dry air.
 6. (mcq) Why does a mackerel drink sea water all day?  
-   Options: She loses water through her gills by osmosis / She likes the taste of salt / Her food is very dry  
+   Options: She likes the taste of salt / Her food is very dry / She loses water through her gills by osmosis  
    **Answer:** She loses water through her gills by osmosis. *Why:* A bony sea fish is less salty than the sea. Water leaves her by osmosis, so she drinks to replace it and pumps the salt out at her gills.
 7. (write) In the Salted Cucumber Test, the bowl with no salt had almost no liquid. What does that tell you?  
    **Answer:** Cutting and tossing alone bring out almost no liquid. So the liquid in the salted bowls came out because of the salt, and not because the slices were cut.. *Why:* A strong answer says what the no-salt bowl rules out. It is the bowl that the others are compared with.
@@ -581,7 +581,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 13. (draw) Draw a fish in a pond. Add arrows to show where water enters her, where it leaves, and where salt enters.  
    **Answer:** A fish with water arrows going in at the gills, a large arrow of weak urine going out near the tail, and small salt arrows going in at the gills.. *Why:* A strong drawing shows water entering without the fish drinking, a lot of urine leaving, and salt being pumped in at the gills.
 14. (mcq) A sailor drinks one litre of sea water. How much water does her body have afterwards?  
-   Options: One litre more / The same as before / Less than before  
+   Options: Less than before / One litre more / The same as before  
    **Answer:** Less than before. *Why:* Her kidneys need about one and three quarter litres of urine to send out the salt in one litre of sea water. She ends up with less.
 15. (write) Name three ways in which a kangaroo rat saves water.  
    **Answer:** Any three of these. Her urine is very strong. Her droppings are nearly dry. Her cool nose takes water back from her breath. She spends the day in a closed, damp burrow. She does not sweat.. *Why:* Each way cuts one of the routes by which water leaves a body: urine, droppings, breath and skin.
@@ -590,11 +590,11 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 17. (draw) Draw two cells: one sitting in plain water, one in very salty water. Add arrows to show which way water moves.  
    **Answer:** The cell in plain water is large and round with arrows pointing in. The cell in very salty water is small and wrinkled with arrows pointing out.. *Why:* A strong drawing shows water going into the cell in plain water and out of the cell in salty water, with the cell's size changing to match.
 18. (mcq) What is metabolic water?  
-   Options: Water an animal stores in fat / New water that cells make from food / Water that enters through the skin  
+   Options: New water that cells make from food / Water an animal stores in fat / Water that enters through the skin  
    **Answer:** New water that cells make from food. *Why:* When cells use food for energy, the hydrogen in the food joins with oxygen and forms new water.
 ### Kidneys, gills and salt glands (stretch) (stretch, 17 questions)
 1. (mcq) What is the job of the loop of Henle?  
-   Options: To filter the blood / To make the deep kidney very salty / To store urine  
+   Options: To make the deep kidney very salty / To filter the blood / To store urine  
    **Answer:** To make the deep kidney very salty. *Why:* The loop pumps salt into the deep part of the kidney. That salty zone later draws water out of the urine by osmosis.
 2. (order) Put these in order, for how a kidney makes strong urine.  
    **Answer:** ['The loop of Henle pumps salt into the deep kidney', 'The deep kidney becomes very salty', 'Urine runs down through it in a collecting duct', 'ADH opens water doors in the duct wall', 'Water leaves the urine by osmosis', 'Strong urine flows on to the bladder']. *Why:* The kidney cannot pump water. It builds a salty zone first, and then lets water leave the urine by osmosis.
@@ -603,7 +603,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 4. (write) Name two jobs that water does in the body besides keeping cells the right size. Say what happens to the stool when a person drinks too little.  
    **Answer:** Water mixes with food in the gut and carries digested food into the blood. It carries wastes out as urine, sweat and stool. With too little water, the gut takes more water back from the stool, so the stool is hard and dry.. *Why:* A strong answer names two jobs and says the gut takes water back from the stool.
 5. (mcq) More ADH reaches the kidneys. What happens to the urine?  
-   Options: There is more of it, and it is paler / There is less of it, and it is stronger / Nothing changes  
+   Options: There is less of it, and it is stronger / There is more of it, and it is paler / Nothing changes  
    **Answer:** There is less of it, and it is stronger. *Why:* ADH makes the collecting ducts open more water doors. More water returns to the blood, so less urine leaves and it is stronger.
 6. (truefalse) True or false: a hilsa's gills pump salt in the same direction all her life.  
    **Answer:** False. *Why:* False. In the sea her gills pump salt out. When she enters a river, they change over and pump salt in.
@@ -614,7 +614,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 9. (write) The table shows liquid from four bowls of cucumber. Did twice the salt give twice the liquid? Explain.  
    **Answer:** No. A quarter teaspoon gave 3 millilitres and a half teaspoon gave 5, which is less than double. A whole teaspoon gave 6, far less than double again. More salt gave more liquid, but each extra bit of salt added less.. *Why:* A strong answer compares pairs of numbers from the table and does not stop at 'more salt, more water'.
 10. (mcq) Sea water has 35 grams of salt a litre. Strong urine holds 20. How much urine removes one litre's salt?  
-   Options: About half a litre / Exactly one litre / About one and three quarter litres  
+   Options: About half a litre / About one and three quarter litres / Exactly one litre  
    **Answer:** About one and three quarter litres. *Why:* 35 divided by 20 is 1.75. The body must pass more water than the sea water brought in.
 11. (sort) Sort each animal by the nitrogen waste she mainly sends out.  
    **Answer:** sardine → Ammonia; cow → Urea; pigeon → Uric acid; tadpole → Ammonia; dog → Urea; cobra → Uric acid; cockroach → Uric acid; adult frog → Urea. *Why:* Animals who live in water can wash ammonia away. Land mammals and frogs make urea. Birds, snakes, lizards and insects make uric acid, which needs the least water.
@@ -627,7 +627,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 15. (write) A tadpole sends out ammonia. The same animal as a frog on land sends out urea. Why the change?  
    **Answer:** Ammonia is poisonous and needs a lot of water to carry it away. A tadpole lives in water, so the ammonia washes away at once. A frog on land cannot spare that much water, so the liver turns ammonia into urea, which is safer and needs far less water.. *Why:* A strong answer links the waste to the amount of water the animal has around her.
 16. (mcq) In the Burrow Test, why did the covered plate lose the least water?  
-   Options: The cover kept light out / The air under it became damp / The cover pressed the water down  
+   Options: The cover kept light out / The cover pressed the water down / The air under it became damp  
    **Answer:** The air under it became damp. *Why:* The trapped air soon held as much water vapour as it could, so evaporation almost stopped. A closed burrow works the same way.
 17. (fill) Water that cells make from food is called ____ water.  
    **Answer:** ['metabolic']. *Why:* Metabolic water forms when hydrogen from food joins with oxygen. A kangaroo rat lives mainly on it.
@@ -635,7 +635,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 1. (write) A doctor claimed in 1952 that sips of sea water help a person lost at sea. What numbers would you check?  
    **Answer:** I would compare the salt in sea water, about 35 grams a litre, with the most salt that human urine can hold, about 20 grams a litre. If urine cannot be as salty as the drink, each sip costs more water than it gives. I would also ask whether he had any other water, such as rain or the liquid from fish.. *Why:* A strong answer tests the claim against what kidneys can do, and asks what else could explain the man's survival.
 2. (mcq) Why does shark meat smell of ammonia when it is not fresh?  
-   Options: Sharks eat rotten food / Bacteria turn the urea in it into ammonia / Sea water has ammonia in it  
+   Options: Sharks eat rotten food / Sea water has ammonia in it / Bacteria turn the urea in it into ammonia  
    **Answer:** Bacteria turn the urea in it into ammonia. *Why:* A shark keeps a lot of urea in her blood and flesh. After death, bacteria break the urea down into ammonia.
 3. (perspective) Where did the kidney's filter first appear? Two scientists gave different answers.  
    **Answer:** Answers vary. For Robertson: the fossils and the hagfish. For Smith: a filter suits a river fish's problem very well. New evidence could be older fossils from river rocks, or signs in ancient bones of the water those animals lived in.. *Why:* A strong answer picks a side, gives the evidence for it, and names something that would change the answer. This question is still argued about.
@@ -653,7 +653,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 9. (write) Textbooks say the white of a bird's dropping is uric acid. A 2019 study found none. What should scientists do next?  
    **Answer:** Test many more kinds of birds, including the ones in the older studies. Test droppings the moment they leave the bird and again some hours later, to see whether they change. Test the waste inside the bird before it reaches the gut, to see whether microbes change it.. *Why:* A strong answer does not simply pick a side. It says which new measurements would settle the question.
 10. (mcq) Thick cucumber slices are salted in one bowl and thin slices in another. Why is this not a fair test of salt?  
-   Options: Two things were changed at once / Thick slices have no water / Cucumber cannot be tested  
+   Options: Thick slices have no water / Cucumber cannot be tested / Two things were changed at once  
    **Answer:** Two things were changed at once. *Why:* Thin slices have more cut surface for the same weight. If the bowls differ, nobody can tell whether the salt or the thickness caused it.
 11. (fill) Water that is saltier than a river but less salty than the sea is called ____ water.  
    **Answer:** ['brackish']. *Why:* Brackish water is found in estuaries, backwaters and mangrove creeks, where river water and sea water mix.
@@ -679,16 +679,16 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
    Options: The side with more dissolved in it / The side with less dissolved in it / The colder side  
    **Answer:** The side with more dissolved in it. *Why:* Water moves towards the side with more dissolved in it. Salt, sugar and urea all have this effect.
 2. (mcq) A dry raisin left in a tumbler of water swells. Why?  
-   Options: Water moves into the sugary raisin / Sugar moves out and leaves a gap / The raisin is breathing in  
+   Options: Sugar moves out and leaves a gap / The raisin is breathing in / Water moves into the sugary raisin  
    **Answer:** Water moves into the sugary raisin. *Why:* The inside of a raisin has a lot of sugar dissolved in very little water. Water moves in by osmosis.
 3. (mcq) Why does drinking sea water leave a person with less water?  
-   Options: Sea water is too cold / Removing its salt takes more water than it gives / The stomach cannot hold it  
+   Options: Removing its salt takes more water than it gives / Sea water is too cold / The stomach cannot hold it  
    **Answer:** Removing its salt takes more water than it gives. *Why:* Sea water is saltier than the strongest human urine. The kidneys must use more than a litre of water to send out the salt from one litre.
 4. (mcq) What does ADH, the water-saving hormone, tell the kidneys to do?  
    Options: Filter the blood faster / Take more water back from the urine / Make more urea  
    **Answer:** Take more water back from the urine. *Why:* ADH makes the collecting ducts open more water doors. More water returns to the blood, and less leaves as urine.
 5. (mcq) Which part of a kidney tube makes the deep kidney very salty?  
-   Options: The filter at the start / The loop of Henle / The bladder  
+   Options: The loop of Henle / The filter at the start / The bladder  
    **Answer:** The loop of Henle. *Why:* The loop of Henle pumps salt out into the deep part of the kidney. That salty zone draws water out of the urine.
 6. (mcq) Which animal sends out nitrogen waste as a paste, with very little water?  
    Options: A cow / A sardine / A pigeon  
@@ -697,28 +697,28 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
    Options: Fish are not harmed by poison / It washes away into the water at once / She stores it in her bones  
    **Answer:** It washes away into the water at once. *Why:* Ammonia dissolves very easily. It passes out through her gills into the water around her before it can build up.
 8. (mcq) Which is true of a fish living in a river?  
-   Options: She drinks all day / She passes a lot of weak urine / She pumps salt out at her gills  
+   Options: She drinks all day / She pumps salt out at her gills / She passes a lot of weak urine  
    **Answer:** She passes a lot of weak urine. *Why:* Water enters a river fish by osmosis, so she sends it out as plenty of weak urine. She hardly drinks, and her gills pump salt in.
 9. (mcq) A sea fish is put into a bucket of tap water. What happens to her?  
-   Options: Water moves into her body / Water moves out of her body / Nothing changes  
+   Options: Water moves out of her body / Water moves into her body / Nothing changes  
    **Answer:** Water moves into her body. *Why:* She is saltier than tap water, so water moves in by osmosis. Her gills are set to pump salt out, which now makes things worse.
 10. (mcq) Which of these is NOT a way a kangaroo rat saves water?  
    Options: Very strong urine / A store of water in her tail / A closed burrow by day  
    **Answer:** A store of water in her tail. *Why:* No desert animal studied so far carries a tank of water. A kangaroo rat survives by losing very little.
 11. (mcq) In the Salted Cucumber Test, why did one bowl get no salt at all?  
-   Options: To save salt / To show what cutting alone does / To have something to eat  
+   Options: To show what cutting alone does / To save salt / To have something to eat  
    **Answer:** To show what cutting alone does. *Why:* The no-salt bowl is cut and tossed like the others. Whatever liquid it gives is not caused by salt, so the other bowls can be compared with it.
 12. (mcq) A rehydration drink is made with salt but no sugar. What goes wrong?  
-   Options: The gut takes in less salt and water / The drink becomes poisonous / Nothing: it works just as well  
+   Options: The drink becomes poisonous / The gut takes in less salt and water / Nothing: it works just as well  
    **Answer:** The gut takes in less salt and water. *Why:* The carrier in the gut wall takes in sodium together with glucose. Without sugar, less sodium enters, and less water follows it.
 13. (mcq) Where does urine go after it leaves a kidney?  
    Options: Down a ureter to the bladder, where it is stored / Straight out of the body through the kidney / Up a tube to the stomach  
    **Answer:** Down a ureter to the bladder, where it is stored. *Why:* Each kidney has a thin tube called a ureter that carries urine down to the bladder. The bladder stores it until a ring of muscle opens and the urine leaves the body.
 14. (mcq) Ravi has loose motions and has not stopped feeling sick all day. Which sign tells you he may be dehydrated?  
-   Options: He is very thirsty, his mouth is dry and his urine is dark and very little / He is hungry and wants a snack / His hands are warm  
+   Options: He is hungry and wants a snack / His hands are warm / He is very thirsty, his mouth is dry and his urine is dark and very little  
    **Answer:** He is very thirsty, his mouth is dry and his urine is dark and very little. *Why:* A dehydrated body has lost more water than it has taken in. The mouth feels dry, thirst is strong and the urine is dark yellow and little. Hunger and warm hands do not show a lack of water.
 15. (mcq) Why does a person who drinks very little water often pass hard, dry stool?  
-   Options: The gut takes water back from the stool when the body is short of water / Water makes the stool harder / The kidneys put extra water into the stool  
+   Options: Water makes the stool harder / The gut takes water back from the stool when the body is short of water / The kidneys put extra water into the stool  
    **Answer:** The gut takes water back from the stool when the body is short of water. *Why:* The last part of the gut takes water back from the stool. When the body has little water, it takes more, so the stool is hard and dry.
 
 ## Applications

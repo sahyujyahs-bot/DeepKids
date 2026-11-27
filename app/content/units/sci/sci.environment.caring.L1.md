@@ -427,10 +427,10 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 9. (count) How many pieces of litter are on this drain grill? There are 2 wrappers, 1 plastic bag and 3 paper cups.  
    **Answer:** 6. *Why:* 2 and 1 and 3 make 6. Six pieces on one grill can stop the water getting in.
 10. (mcq) A brown cow is nosing at a plastic bag with old rice inside. What should a grown-up do?  
-   Options: Gently take the bag away and put the rice on a leaf / Leave the bag for the cow / Shout at the cow  
+   Options: Leave the bag for the cow / Shout at the cow / Gently take the bag away and put the rice on a leaf  
    **Answer:** Gently take the bag away and put the rice on a leaf. *Why:* The cow cannot tell the plastic from the rice, and the plastic would stay inside her. Taking the bag away and giving the rice on a leaf feeds her without the plastic.
 11. (mcq) You go to buy vegetables. What can you take, so you do not need a plastic bag?  
-   Options: A cloth bag / Another plastic bag / Nothing  
+   Options: Another plastic bag / Nothing / A cloth bag  
    **Answer:** A cloth bag. *Why:* A cloth bag can go to the shop again and again. A plastic bag is used once, and then it can blow into a drain.
 ### Where Does Litter Go? (stretch) (stretch, 11 questions)
 1. (mcq) A plastic bag piece and a pebble are on a steel plate. You tilt the plate and pour water on it. What will most likely happen?  
@@ -455,7 +455,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 10. (match) Draw a line from each thing to the bin it goes in.  
    **Answer:** Leftover idli → Wet waste; Newspaper → Dry waste; Onion skin → Wet waste; Glass bottle → Dry waste. *Why:* Food and plant scraps rot, so they are wet waste. Paper, glass, metal and plastic are dry waste, and many of them can be made into new things.
 11. (mcq) Why does a crow open her beak and pant on a very hot day?  
-   Options: To cool down / To sing / To catch flies  
+   Options: To sing / To catch flies / To cool down  
    **Answer:** To cool down. *Why:* Birds cannot sweat like us. Panting moves air over the wet inside of the mouth, which cools the bird down. A shallow plate of water in the shade helps too.
 ### Where Does Litter Go? (challenge) (challenge, 10 questions)
 1. (write) Say it to a grown-up, who writes it down: a wrapper is very small. How can small wrappers block a big drain?  
@@ -465,7 +465,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 3. (draw) Draw a bin for a windy balcony that the wind cannot empty. Show how it keeps the litter in.  
    **Answer:** For example, a bin with a lid and a stone on top, or a narrow slot to push litter through.. *Why:* A strong drawing shows a way to stop the wind lifting light litter, as the fan did in the Bathroom Rain Test.
 4. (mcq) In the Bathroom Rain Test, a paper cup floated at first. Then it stopped and stuck to the floor. Why?  
-   Options: The paper soaked up water and got heavy and soft / The cup got tired / The drain pulled it back  
+   Options: The cup got tired / The paper soaked up water and got heavy and soft / The drain pulled it back  
    **Answer:** The paper soaked up water and got heavy and soft. *Why:* Paper soaks up water. Wet paper is heavier and goes soft, so the cup sinks onto the floor. Plastic does not soak up water, so it keeps floating.
 5. (odd) Which one is the odd one out? Think about what the rain can carry away.  
    Options: Plastic bottle cap / Thin plastic bag / Toffee wrapper / Big stone  
@@ -479,7 +479,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 9. (label) Draw arrows on this picture to show where the rainwater goes: from the roof, down the road, into the drain and out to the river.  
    **Answer:** ['roof: rain lands here first', 'road: water runs along it', 'drain: water goes in', 'river: water ends up here']. *Why:* Rainwater runs downhill from roofs to roads to drains to rivers, and carries litter with it.
 10. (mcq) A pot has no hole at the bottom. Why is it hard to water that plant well?  
-   Options: The extra water cannot get out, so the roots sit in water / The plant gets too little water / The soil becomes too light  
+   Options: The plant gets too little water / The soil becomes too light / The extra water cannot get out, so the roots sit in water  
    **Answer:** The extra water cannot get out, so the roots sit in water. *Why:* Roots need air as well as water. In a pot with no hole, extra water stays in the soil and fills the spaces where air should be.
 
 ## Videos
@@ -501,28 +501,28 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
    Options: Cows eat the bags with the food inside, and the plastic stays in their stomach / The bags make cows sneeze / Cows are scared of the colour  
    **Answer:** Cows eat the bags with the food inside, and the plastic stays in their stomach. *Why:* Cows cannot sort plastic from food. The plastic does not break down inside them, so it builds up and makes them ill.
 6. (mcq) After a heavy rain, a street is flooded. What is the most likely reason?  
-   Options: Litter is blocking the drain / The road is too clean / The trees drank too little  
+   Options: The road is too clean / Litter is blocking the drain / The trees drank too little  
    **Answer:** Litter is blocking the drain. *Why:* Litter carried by the rain piles up on the drain grill. Then the water cannot get away, so it stays on the street.
 7. (mcq) Which bin does a banana peel go in?  
-   Options: The wet waste bin / The dry waste bin / Neither, throw it on the road  
+   Options: The dry waste bin / Neither, throw it on the road / The wet waste bin  
    **Answer:** The wet waste bin. *Why:* A banana peel is food waste that rots, so it is wet waste. Wet waste can become compost, which feeds plants.
 8. (mcq) Which bin does an empty milk packet go in?  
-   Options: The wet waste bin / The dry waste bin / The flower pot  
+   Options: The dry waste bin / The wet waste bin / The flower pot  
    **Answer:** The dry waste bin. *Why:* A milk packet is plastic. Plastic does not rot, so it is dry waste. Rinse the packet first, and it can be recycled.
 9. (mcq) You want to know if a chilli plant needs water. What should you do first?  
-   Options: Push a finger into the soil to feel if it is dry / Water the plant every hour / Shake the plant  
+   Options: Water the plant every hour / Push a finger into the soil to feel if it is dry / Shake the plant  
    **Answer:** Push a finger into the soil to feel if it is dry. *Why:* The finger test tells you if the soil around the roots is dry or damp. If the soil is dry, water. If the soil is damp, wait, because too much water hurts the roots.
 10. (mcq) Why is planting a tree good for the air near your home?  
-   Options: Its leaves catch dust and give out the oxygen we breathe / It makes the air hot / It gives out more litter  
+   Options: It makes the air hot / Its leaves catch dust and give out the oxygen we breathe / It gives out more litter  
    **Answer:** Its leaves catch dust and give out the oxygen we breathe. *Why:* Green leaves catch dust and give out oxygen, so the air feels clean and fresh. A tree also gives shade, so it does not make the air hotter.
 11. (mcq) You plant a small sapling in the park. What does it need first?  
    Options: Water when the soil is dry, and care until it is strong / A thick woollen cloth / Nothing, since all plants grow by themselves  
    **Answer:** Water when the soil is dry, and care until it is strong. *Why:* A sapling is small and weak. It needs water when the soil is dry, and care, until its roots are strong.
 12. (mcq) A beetle has walked into the kitchen. What is the kind way to help the beetle?  
-   Options: Put a cup over the beetle, slide a card under, and carry the beetle outside / Squash the beetle / Spray water on the beetle  
+   Options: Squash the beetle / Spray water on the beetle / Put a cup over the beetle, slide a card under, and carry the beetle outside  
    **Answer:** Put a cup over the beetle, slide a card under, and carry the beetle outside. *Why:* The cup and card let you carry the beetle out without hurting any legs. The beetle can then find a better place outside.
 13. (mcq) Ants are walking in a line to a spill of sugar. Why are they in a line?  
-   Options: They follow a smell trail left by the first ant / Someone painted a line for them / They are holding hands  
+   Options: Someone painted a line for them / They follow a smell trail left by the first ant / They are holding hands  
    **Answer:** They follow a smell trail left by the first ant. *Why:* An ant who finds food leaves a smell trail on the way home. Other ants follow the smell, so they walk in a line.
 
 ## Applications

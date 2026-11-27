@@ -529,7 +529,7 @@ Behind her, Aaya lit the kiln.
 ## Worksheets
 ### The four kinds of reaction (core, 15 questions)
 1. (mcq) What happens to the atoms in a chemical reaction?  
-   Options: They get new partners / They are destroyed / They turn into other atoms / They stop moving  
+   Options: They are destroyed / They turn into other atoms / They stop moving / They get new partners  
    **Answer:** They get new partners. *Why:* A reaction breaks some bonds and makes new ones. Every atom is still there afterwards, joined to new partners.
 2. (match) Match each kind of reaction to its pattern.  
    **Answer:** Joining → Two substances become one; Splitting → One substance becomes two or more; Swapping → Substances exchange parts; Burning → A fuel reacts with oxygen. *Why:* Count the substances before and after. Two into one is joining, and one into two is splitting. An exchange is swapping. A fuel with oxygen is burning.
@@ -547,7 +547,7 @@ Behind her, Aaya lit the kiln.
 8. (truefalse) Burning needs oxygen.  
    **Answer:** True. *Why:* True. Burning is a reaction between a fuel and oxygen. A flame goes out when the oxygen around it runs low.
 9. (mcq) Vinegar is added to soap water. What do you see?  
-   Options: The water turns milky white / The foam gets taller / A flame appears / Nothing changes  
+   Options: The foam gets taller / The water turns milky white / A flame appears / Nothing changes  
    **Answer:** The water turns milky white. *Why:* Soap and vinegar swap parts. One product is a waxy solid that does not dissolve, so the water turns milky.
 10. (order) Lemon juice is stirred into hot milk. Put what happens in order.  
    **Answer:** ['The acid cancels the charge on the casein clusters', 'The clusters stop repelling each other', 'The clusters stick together', 'Curds separate from the whey']. *Why:* The charge keeps the clusters apart. Once the acid cancels it, they can stick together and come out as a solid.
@@ -560,7 +560,7 @@ Behind her, Aaya lit the kiln.
 14. (perspective) Is burning a splitting or a joining?  
    **Answer:** Any view can be argued well. The first child is right that the fuel comes apart. The second is right that oxygen is taken in. The chemist joins the two views.. *Why:* A strong answer uses evidence, such as the need for oxygen or the gases given off. It also answers another view fairly.
 15. (mcq) Which of these is a fuel?  
-   Options: Candle wax / Water / Sand / Ash  
+   Options: Water / Sand / Candle wax / Ash  
    **Answer:** Candle wax. *Why:* Wax is made of carbon and hydrogen, which can join with oxygen. Water, sand and ash are already joined with oxygen.
 ### Why each kind happens (stretch, 15 questions)
 1. (mcq) Why do many splitting reactions need heat or electricity?  
@@ -570,7 +570,7 @@ Behind her, Aaya lit the kiln.
    Options: They carry the same charge and repel / They are too heavy to move / The milk is too cold / They are dissolved like sugar  
    **Answer:** They carry the same charge and repel. *Why:* Charges of the same kind repel. Each cluster pushes the others away, so they stay spread through the milk.
 3. (mcq) A candle under a glass goes out while wax is still left. Which reactant ran low?  
-   Options: Oxygen / Wax / Carbon dioxide / Water  
+   Options: Wax / Carbon dioxide / Water / Oxygen  
    **Answer:** Oxygen. *Why:* Burning needs fuel and oxygen. The glass keeps new air out, so the oxygen runs low and the flame stops.
 4. (truefalse) In a swapping reaction, some atoms are destroyed.  
    **Answer:** False. *Why:* False. The parts only change partners. Every atom that was there before is there afterwards.
@@ -602,13 +602,13 @@ Behind her, Aaya lit the kiln.
    Options: Burning and joining / Burning and splitting / Swapping and splitting / Joining and swapping  
    **Answer:** Burning and joining. *Why:* A fuel reacts with oxygen, so it is burning. Two substances become one, so it is also a joining.
 2. (mcq) Vinegar and baking soda swap parts and then fizz. Which step makes the gas?  
-   Options: Carbonic acid splits / Two gases join / The vinegar burns / Water swaps with air  
+   Options: Two gases join / The vinegar burns / Water swaps with air / Carbonic acid splits  
    **Answer:** Carbonic acid splits. *Why:* The swap makes carbonic acid. Carbonic acid then splits into water and carbon dioxide gas, which is the fizz.
 3. (mcq) People once said a burning thing loses a substance. Which finding does not fit that idea?  
-   Options: Metals get heavier when they burn / Wood leaves a little light ash / Flames give out heat / Candles get shorter  
+   Options: Wood leaves a little light ash / Flames give out heat / Metals get heavier when they burn / Candles get shorter  
    **Answer:** Metals get heavier when they burn. *Why:* A thing that only loses something cannot get heavier. Burning metals gain weight because they join with oxygen.
 4. (mcq) A mix holds twice the water that its plaster can join with. What happens to the extra water?  
-   Options: It is left over / It becomes plaster / It makes the cast harder / It turns into heat  
+   Options: It becomes plaster / It makes the cast harder / It is left over / It turns into heat  
    **Answer:** It is left over. *Why:* Plaster joins with a fixed amount of water. When the plaster is used up, the rest of the water is left over and dries away.
 5. (truefalse) A swapping reaction can run backwards if one of its products is present in a huge amount.  
    **Answer:** True. *Why:* True. Berthollet saw this at the salt lakes of Egypt. Amounts help to decide which way a reaction runs.
@@ -646,33 +646,33 @@ Behind her, Aaya lit the kiln.
    Options: Splitting / Joining / Swapping / Burning  
    **Answer:** Splitting. *Why:* One substance becoming two or more is a splitting. Heated baking soda does this.
 3. (mcq) What does burning need, besides a fuel and some heat to start?  
-   Options: Oxygen / Water / Carbon dioxide / Salt  
+   Options: Water / Carbon dioxide / Oxygen / Salt  
    **Answer:** Oxygen. *Why:* Burning is a fuel reacting with oxygen. Water and carbon dioxide are what burning makes.
 4. (mcq) Why does lemon juice make curds in hot milk?  
-   Options: Acid makes casein clusters stick together / Lemon juice freezes the milk / Lemon juice dries the milk / Lemon pulp turns white  
+   Options: Lemon juice freezes the milk / Lemon juice dries the milk / Lemon pulp turns white / Acid makes casein clusters stick together  
    **Answer:** Acid makes casein clusters stick together. *Why:* The acid cancels the charge that keeps the casein clusters apart. They stick together and come out as curds.
 5. (mcq) Plaster of Paris sets hard while it is still wet. What happened to the water?  
-   Options: It joined with the plaster / It dried into the air / It sank to the bottom / It turned into a gas  
+   Options: It dried into the air / It sank to the bottom / It turned into a gas / It joined with the plaster  
    **Answer:** It joined with the plaster. *Why:* Plaster and water join and make one new solid. The water is locked inside the solid.
 6. (mcq) A reaction stops, although plenty of one reactant is left. What is the most likely reason?  
-   Options: The other reactant is used up / The atoms have worn out / The products have escaped / The bowl is too large  
+   Options: The atoms have worn out / The products have escaped / The bowl is too large / The other reactant is used up  
    **Answer:** The other reactant is used up. *Why:* A reaction needs every reactant. When one is used up, the reaction stops, however much of the other is left.
 7. (mcq) Soap and vinegar make a white solid and a dissolved salt. What kind of reaction is this?  
-   Options: Swapping / Joining / Splitting / Burning  
+   Options: Joining / Splitting / Swapping / Burning  
    **Answer:** Swapping. *Why:* Two substances exchange parts and make two new substances. The sodium and the hydrogen change places.
 8. (truefalse) In a chemical reaction, atoms are made and destroyed.  
    **Answer:** False. *Why:* False. Atoms are only rearranged. The same atoms are there before and after.
 9. (mcq) Which of these will not burn in a candle flame?  
-   Options: Ash / Paper / A dry leaf / A cotton thread  
+   Options: Paper / A dry leaf / Ash / A cotton thread  
    **Answer:** Ash. *Why:* Ash is what is left after burning. Its atoms have already joined with oxygen.
 10. (mcq) Dry baking soda is heated, and drops of water collect on a cold lid. Where did the water come from?  
-   Options: From the baking soda as it split / From the steel of the lid / From the air in the kitchen / From the gas cylinder  
+   Options: From the steel of the lid / From the air in the kitchen / From the gas cylinder / From the baking soda as it split  
    **Answer:** From the baking soda as it split. *Why:* Heat splits baking soda into washing soda, water and carbon dioxide. The water leaves as steam and turns to drops on the cold lid.
 11. (mcq) Which reaction fits two kinds at once?  
-   Options: Hydrogen burning to make water / Sand drying in the sun / Sugar dissolving in tea / Ice melting  
+   Options: Sand drying in the sun / Sugar dissolving in tea / Hydrogen burning to make water / Ice melting  
    **Answer:** Hydrogen burning to make water. *Why:* Hydrogen burning is a fuel reacting with oxygen, and it is two substances becoming one. The other three are not chemical reactions.
 12. (mcq) What is a precipitate?  
-   Options: A solid formed inside a liquid / A gas that escapes from a liquid / A liquid that dissolves a solid / A powder that is stirred into water  
+   Options: A gas that escapes from a liquid / A solid formed inside a liquid / A liquid that dissolves a solid / A powder that is stirred into water  
    **Answer:** A solid formed inside a liquid. *Why:* A precipitate is a new solid that appears inside a liquid, because one product does not dissolve.
 
 ## Applications

@@ -528,7 +528,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
    Options: In the direction of the sun / At the top of the hive / Directly away from the sun  
    **Answer:** In the direction of the sun. *Why:* Straight up on the comb stands for 'towards the sun'. The dance is about a place outside, so the second answer mixes up the comb with the world. Straight down would mean away from the sun.
 2. (mcq) What does a longer waggle run tell the bees who follow the dancer?  
-   Options: The food is farther away / The food is sweeter / The dancer is older  
+   Options: The food is sweeter / The dancer is older / The food is farther away  
    **Answer:** The food is farther away. *Why:* The length of the waggle stands for distance. A bee who flew farther waggles for longer on each run.
 3. (truefalse) Honeybees usually dance in the dark, so the followers read the dance by touch.  
    **Answer:** True. *Why:* True. Inside a hive or a tree hollow there is almost no light. The followers stay close to the dancer and touch her with their antennae.
@@ -561,7 +561,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
    **Answer:** A comb with 'up' marked, and a long wavy run pointing to the right, a quarter turn from up. The label says the run is long because the food is far.. *Why:* A strong drawing points the run to the right of 'up' by a quarter turn, and makes it long to show a far place.
 ### Reflex or Weighed? (stretch) (stretch, 15 questions)
 1. (mcq) Bees flew a few metres through a narrow patterned tunnel, then danced for a far place. Why?  
-   Options: The pattern rushed past their eyes / The tunnel made them tired / They forgot where they had been  
+   Options: The tunnel made them tired / The pattern rushed past their eyes / They forgot where they had been  
    **Answer:** The pattern rushed past their eyes. *Why:* A bee measures distance by how much scenery streams past her eyes. In a narrow patterned tunnel a lot streams past in a short flight, so she measures 'far'.
 2. (truefalse) In India, the dwarf honeybee dances on the flat top of her comb and points straight at the food.  
    **Answer:** True. *Why:* True. Her comb is in the open, so she can dance on a flat surface and aim her run at the food. Bees who dance on an upright comb use the 'up means sun' code.
@@ -586,7 +586,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 11. (write) A crayfish who got shocks stays in the dark. A calming medicine sends them back to the light. What does this suggest?  
    **Answer:** The shocks left the crayfish in a lasting state like anxiety. The medicine that eases anxiety in people changed it, so the state may work through similar signalling chemicals.. *Why:* A strong answer says the state lasted after the shocks, and links the medicine to shared signalling chemicals. It does not claim to know what the crayfish felt.
 12. (mcq) Serotonin is found in people, crayfish and bees. What is the best explanation?  
-   Options: They inherited it from shared ancestors / They all eat the same food / Scientists gave it to them  
+   Options: They all eat the same food / They inherited it from shared ancestors / Scientists gave it to them  
    **Answer:** They inherited it from shared ancestors. *Why:* These animals share ancestors who lived more than 500 million years ago and already used serotonin. Their descendants kept it.
 13. (write) Explain why 'the elephant touched the calf with her trunk' and 'the elephant comforted the calf' are different kinds of sentence.  
    **Answer:** The first says what was seen. The second adds a guess about why she did it and what the calf felt. The guess may be right, but it needs evidence.. *Why:* A strong answer says one is an observation and the other is an explanation of it.
@@ -606,7 +606,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
    Options: A realistic possibility / Proven beyond doubt / Impossible  
    **Answer:** A realistic possibility. *Why:* The declaration says the evidence is strong for mammals and birds. For insects, crabs and octopuses it says there is at least a realistic possibility.
 5. (mcq) Some say pain needs a cortex, so fish feel none. Which fact weakens this argument most?  
-   Options: Birds lack a layered cortex but solve hard problems / Fish live in water / Fish are smaller than people  
+   Options: Fish live in water / Birds lack a layered cortex but solve hard problems / Fish are smaller than people  
    **Answer:** Birds lack a layered cortex but solve hard problems. *Why:* Birds show that a brain without a layered cortex can do jobs that the cortex does in mammals. So lacking a cortex does not show that a job is not done.
 6. (write) What is the 'hard problem' of consciousness? Explain it in your own words.  
    **Answer:** Nobody can yet explain how the activity of nerve cells goes with a feeling. We can map which cells are active, but that does not say why the activity is felt.. *Why:* A strong answer separates describing brain activity from explaining why there is an experience at all.
@@ -621,7 +621,7 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 11. (perspective) A restaurant wants to drop live crabs into boiling water.  
    **Answer:** Answers vary. A strong answer uses evidence from crab tests, and says what is lost if each person turns out to be wrong.. *Why:* The evidence does not give certainty either way. The two views differ on who should carry the risk of being wrong.
 12. (mcq) Hens paid a cost to reach loose litter. What does paying a cost add to a choice test?  
-   Options: It shows how much the hens want it / It shows hens can count / It makes the test shorter  
+   Options: It shows hens can count / It makes the test shorter / It shows how much the hens want it  
    **Answer:** It shows how much the hens want it. *Why:* A free choice shows which thing an animal prefers. A choice with a cost shows how strongly they prefer it.
 13. (write) Design a test of whether a snail weighs harm against reward. Say what you would change and measure.  
    **Answer:** Offer food across a mildly unpleasant surface, such as a slightly rough or dry strip. Change how good the food is. Measure whether the snail crosses more often for better food.. *Why:* A strong answer changes only the reward, keeps the unpleasant thing the same and harmless, and measures a clear act over many tries.
@@ -637,13 +637,13 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
 
 ## Quiz
 1. (mcq) A honeybee waggles straight down the comb. Which way should her sisters fly?  
-   Options: Directly away from the sun / Towards the sun / Down to the ground  
+   Options: Towards the sun / Directly away from the sun / Down to the ground  
    **Answer:** Directly away from the sun. *Why:* Up stands for towards the sun, so down stands for directly away from the sun. If you chose 'down to the ground', remember that the dance is a code for a direction outside.
 2. (mcq) How did radar tracking show that bees use the dance and not only smell?  
-   Options: Moved bees flew the danced course to the wrong place / Bees flew faster with radar / Bees stopped dancing  
+   Options: Bees flew faster with radar / Moved bees flew the danced course to the wrong place / Bees stopped dancing  
    **Answer:** Moved bees flew the danced course to the wrong place. *Why:* Bees released from a new spot flew the danced direction and distance from there. Smell would have led them to the real flowers.
 3. (mcq) Why do elephants use such low calls to stay in touch?  
-   Options: Low sounds carry farther through forest / High sounds hurt their ears / Low sounds use no energy  
+   Options: High sounds hurt their ears / Low sounds carry farther through forest / Low sounds use no energy  
    **Answer:** Low sounds carry farther through forest. *Why:* Low sounds lose less energy to the air and bend around trees and hills, so they reach family members who are far away.
 4. (truefalse) An elephant can pick up another elephant's rumble through the ground.  
    **Answer:** True. *Why:* True. Elephants responded when recorded rumbles were played into the soil alone. Their feet and trunk tips have many nerve endings for pressure.
@@ -654,15 +654,15 @@ Selvi came back to the window. The water in her tumbler was flat and still. For 
    Options: Weighing harm against reward / Showing a reflex / Failing to sense the heat  
    **Answer:** Weighing harm against reward. *Why:* Her choice changed when the reward changed, so heat was weighed against sugar. A reflex would pull her off the heat every time.
 7. (mcq) Which result would suggest that letting go of ice is a weighed choice?  
-   Options: Hold times rise as the prize rises / Hold times are the same in every round / The ice melts faster each round  
+   Options: Hold times are the same in every round / Hold times rise as the prize rises / The ice melts faster each round  
    **Answer:** Hold times rise as the prize rises. *Why:* If the time changes with the prize while the ice stays the same, the prize is being weighed against the discomfort.
 8. (mcq) Which is the strongest evidence that an animal's response to harm is more than a reflex?  
-   Options: She gives up a reward to avoid the harm / She pulls away quickly / She pulls away every time  
+   Options: She pulls away quickly / She pulls away every time / She gives up a reward to avoid the harm  
    **Answer:** She gives up a reward to avoid the harm. *Why:* Pulling away quickly, every time, is what a reflex looks like. Giving up something she wants shows that the harm is being weighed.
 9. (truefalse) Scientists all agree that insects have conscious experiences.  
    **Answer:** False. *Why:* False. Scientists agree on what bees do in the tests. They disagree on whether that shows experience. The 2024 declaration calls it a realistic possibility.
 10. (mcq) You write: 'The crow cawed three times and flew to the wire.' What kind of note is this?  
-   Options: What was seen / A guess about a feeling / An explanation  
+   Options: A guess about a feeling / What was seen / An explanation  
    **Answer:** What was seen. *Why:* It records acts that a camera could capture. A guess would add what the crow felt or wanted.
 11. (mcq) Why did Britain's 2022 law add crabs and octopuses to the animals it protects?  
    Options: A review found strong evidence that they can feel / They are endangered / They are clever at puzzles  

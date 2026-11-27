@@ -865,11 +865,11 @@
       "t": "mcq",
       "q": "Curd in the fridge keeps a week. Dry rice in a bin keeps two years. What does that show?",
       "options": [
-       "Dryness protects food longer than cold does",
        "Cold kills more microbes than dryness",
+       "Dryness protects food longer than cold does",
        "Rice has no microbes on it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cold only slows microbes down. Without free water they cannot grow at all. If you chose 'cold kills', remember that most microbes in a fridge stay alive."
      },
      "context": "This is the last step of the Keep Line. You compare the foods at the two ends of the line."
@@ -1051,11 +1051,11 @@
       "t": "mcq",
       "q": "In Deep or Shallow, why must the bowl and the plate hold the same amount of rice?",
       "options": [
-       "So that only the shape is different",
        "So that nobody gets more rice",
+       "So that only the shape is different",
        "So that the thermometer fits"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes one thing. Here that one thing is the shape of the rice. If the amounts were different too, you could not tell which one caused the result."
      },
      "parent": "The plate rice usually shows a number within 10 to 15 minutes. A kitchen thermometer with a metal probe can measure all three places from the start. The steam test, if you have no thermometer: at 20, 40 and 60 minutes, open each place a little with a spoon and look for steam. Then a grown-up touches the rice with the back of a finger. Write 'steam', 'hot', 'warm' or 'cool'. Between readings, you can begin the activity Three Clocks.",
@@ -1271,11 +1271,11 @@
       "t": "mcq",
       "q": "In Three Sealed Bags, why is one bag filled with dry toast?",
       "options": [
-       "To test a food with no free water",
        "Because toast tastes better",
-       "To use up the old bread"
+       "To use up the old bread",
+       "To test a food with no free water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The dry toast is the comparison. It shows whether the same microbes can spoil a food that has no free water. If you chose another answer, remember that a fair test needs something to compare with."
      },
      "parent": "In warm weather the wet rice usually changes first, within one or two days. It turns shiny, slimy and watery, often with yellow, orange or pink patches. The bread grows fuzzy spots after three to five days. The lemon often shows nothing for a week. In winter, everything takes about twice as long.",
@@ -1439,11 +1439,11 @@
       "t": "mcq",
       "q": "In Dry Enough, why are the lids kept closed during the wait?",
       "options": [
-       "So only the grain's damp reaches the salt",
        "So that the rice does not spill",
-       "So that the salt stays white"
+       "So that the salt stays white",
+       "So only the grain's damp reaches the salt"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With the lid on, the only water the salt can take up is water that came out of the grain. An open jar would let in damp room air, and the test would show the weather. If you chose another answer, think about where the salt's water comes from."
      },
      "context": "In this step of Dry Enough you shake three kinds of grain with dry salt in closed jars."
@@ -1798,11 +1798,11 @@
       "t": "mcq",
       "q": "Why does unopened UHT milk keep for months without a fridge?",
       "options": [
-       "Nothing alive is inside the sealed carton",
        "A preservative is added",
+       "Nothing alive is inside the sealed carton",
        "The carton is very cold inside"
       ],
-      "a": 0,
+      "a": 1,
       "why": "UHT heating kills even spores, and the carton is filled without letting any microbe in. Nothing alive is inside to spoil the milk. No preservative is needed."
      },
      "parent": "Pasteurising at 72 degrees Celsius for 15 seconds kills the microbes that cause disease. Some harmless microbes and spores survive, so the milk needs cold. UHT heating at about 140 degrees for a few seconds kills the spores too.",
@@ -1895,11 +1895,11 @@
       "t": "mcq",
       "q": "Why must a baby under one year not be given honey?",
       "options": [
-       "Honey can hold harmful spores",
        "Honey is too sweet for babies",
+       "Honey can hold harmful spores",
        "Babies cannot swallow honey"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Honey can hold the spores of a bacterium. In an older child the gut and its microbes stop the spores. In a baby the spores can grow and make a toxin. If you chose 'too sweet', remember that the rule is about spores, not sugar."
      },
      "parent": "Why these four: a baby has less stomach acid and a small body that loses water fast. A pregnant woman's defences are turned down a little, and some bacteria can reach her baby. Old people and people who have just been ill have weaker defences.",
@@ -2243,12 +2243,12 @@
      "t": "mcq",
      "p": "A biscuit left open in the monsoon turns soft. In which way was it lost?",
      "opts": [
-      "Water moved in from the air",
       "Microbes ate the biscuit",
       "The biscuit's own life went on",
+      "Water moved in from the air",
       "Pests got in"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A dry biscuit takes in water from damp air and turns soft. No microbe is needed. Microbes would leave mould, slime or a bad smell.",
      "outcome": 0
     },
@@ -2301,12 +2301,12 @@
      "t": "mcq",
      "p": "Which microbes are most likely to spoil a bowl of wet cooked rice first?",
      "opts": [
-      "Bacteria",
       "Moulds",
       "Yeasts",
-      "Weevils"
+      "Weevils",
+      "Bacteria"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Bacteria multiply fastest on wet food that is not sour. Moulds are slower, and they win only on drier or sourer food. Weevils are insects, and they eat dry grain.",
      "outcome": 1
     },
@@ -2368,12 +2368,12 @@
      "t": "mcq",
      "p": "Why is cooked food cooled in shallow vessels?",
      "opts": [
-      "Every part is near the surface",
       "Shallow vessels are cleaner",
       "Thin food tastes better",
+      "Every part is near the surface",
       "The fridge holds more of them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heat leaves food only through the surface. In a shallow layer no part is far from the surface, so the whole of the food cools fast.",
      "outcome": 3
     },
@@ -2455,12 +2455,12 @@
      "t": "mcq",
      "p": "Who needs the most care with food at a family meal?",
      "opts": [
-      "A baby of 8 months",
       "A healthy girl of 10",
       "A healthy man of 30",
+      "A baby of 8 months",
       "A football player of 20"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A baby has less stomach acid, defences that are still learning, and a small body that loses water fast. The other three are healthy and well past babyhood.",
      "outcome": 5
     }
@@ -2484,12 +2484,12 @@
      "t": "mcq",
      "p": "Bacteria wait before they start to multiply in new food. What is this wait called?",
      "opts": [
-      "Lag time",
       "Doubling time",
       "Shelf life",
-      "Danger zone"
+      "Danger zone",
+      "Lag time"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The lag time is the wait before doubling begins. Doubling time is how long one doubling takes once they have started.",
      "outcome": 2
     },
@@ -2707,12 +2707,12 @@
      "t": "mcq",
      "p": "Why does a mould poison still matter after the mouldy food is cooked?",
      "opts": [
-      "Cooking does not destroy the poison",
       "Cooking makes the mould grow",
+      "Cooking does not destroy the poison",
       "The mould hides from the heat",
       "Cooked mould tastes bitter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Aflatoxin and some other mould poisons mostly survive roasting and boiling. The heat kills the mould, but most of the poison the mould made stays in the food.",
      "outcome": 7
     },
@@ -2783,12 +2783,12 @@
      "t": "mcq",
      "p": "Weevils are sealed inside an airtight bin of grain. What happens over the next weeks?",
      "opts": [
-      "The oxygen runs low and they stop feeding",
       "They multiply faster than before",
       "The grain turns to flour",
-      "Nothing changes"
+      "Nothing changes",
+      "The oxygen runs low and they stop feeding"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The insects and the grain use up the oxygen in the sealed bin. With too little oxygen the weevils stop feeding and die. Farmers store grain in sealed bags for this reason.",
      "outcome": 4
     },
@@ -2850,12 +2850,12 @@
      "t": "mcq",
      "p": "Which storage place suits potatoes best?",
      "opts": [
-      "A dark, airy basket",
       "A sunny window sill",
       "A sealed plastic bag",
+      "A dark, airy basket",
       "The freezer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Potatoes are alive. Light turns them green, and the green part holds a poison called solanine. A sealed bag traps damp, so they rot. Freezing breaks their cells.",
      "outcome": 4
     },
@@ -2895,12 +2895,12 @@
    "t": "mcq",
    "p": "How do microbes eat solid food?",
    "opts": [
-    "They digest it outside their bodies",
     "They bite off small pieces",
+    "They digest it outside their bodies",
     "They wait for it to melt",
     "They breathe it in"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A microbe has no mouth. Enzymes cut the food outside the microbe's body, and the small pieces pass in. The leftovers are the sourness, smell and slime of spoiled food.",
    "outcome": 1
   },
@@ -2908,12 +2908,12 @@
    "t": "mcq",
    "p": "Which food is most likely to grow fuzzy mould, and not slime?",
    "opts": [
-    "Bread",
     "Cooked dal",
+    "Bread",
     "Milk",
     "Fish curry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bread is too dry for most bacteria, so moulds spoil it. Dal, milk and fish curry are wet and not sour, so bacteria get there first.",
    "outcome": 1
   },
@@ -2921,12 +2921,12 @@
    "t": "mcq",
    "p": "Why can cooked food stay out for only about two hours?",
    "opts": [
-    "Bacteria in warm food keep doubling",
     "The food loses its vitamins",
+    "Bacteria in warm food keep doubling",
     "Flies need two hours to find it",
     "The food dries out"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In warm food some bacteria double every 20 minutes. After a short wait, their numbers rise faster and faster.",
    "outcome": 2
   },
@@ -2967,12 +2967,12 @@
    "t": "mcq",
    "p": "Which of these must a baby under one year never be given?",
    "opts": [
-    "Honey",
     "Mashed idli",
     "Boiled and cooled water",
+    "Honey",
     "Mashed banana"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Honey can hold spores that grow in a baby's gut and make a toxin. The other three are safe foods for a baby.",
    "outcome": 5
   },
@@ -2980,12 +2980,12 @@
    "t": "mcq",
    "p": "Which meal needs the most care?",
    "opts": [
-    "Sambar for 200 guests, cooked the night before",
     "Hot dosas eaten straight off the tawa",
+    "Sambar for 200 guests, cooked the night before",
     "A banana peeled and eaten",
     "Roasted chana from a dabba"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A large amount cooked hours ahead cools slowly, and many people will eat it. The other three are fresh and hot, or protected by a peel, or dry.",
    "outcome": 5
   },
@@ -2993,12 +2993,12 @@
    "t": "mcq",
    "p": "In a fair test of how two vessels cool hot food, what must be different?",
    "opts": [
-    "Only the shape of the vessel",
     "The amount of food",
     "The room",
+    "Only the shape of the vessel",
     "The thermometer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.",
    "outcome": 6
   },
@@ -3019,11 +3019,11 @@
    "t": "mcq",
    "p": "A cook adds far too much preservative to a sauce that will be sold. What might happen?",
    "opts": [
-    "It can harm the person who eats the sauce",
     "It makes the sauce safe for ever",
+    "It can harm the person who eats the sauce",
     "Nothing, because more preservative is always better"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A preservative works in a set amount. Too much can harm the eater, and too little may not stop the microbes. Food law sets the limit for each one.",
    "outcome": 4
   },
@@ -3031,11 +3031,11 @@
    "t": "mcq",
    "p": "Dal is frozen, then melts in a power cut. The family freezes it again. What is the problem?",
    "opts": [
-    "Microbes that the cold had slowed can start to grow again when the dal melts",
     "The dal turns sweet",
-    "Nothing, because freezing kills every microbe"
+    "Nothing, because freezing kills every microbe",
+    "Microbes that the cold had slowed can start to grow again when the dal melts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Freezing only slows microbes. When the dal melts, they can grow again, and freezing it a second time does not clean the food.",
    "outcome": 5
   }

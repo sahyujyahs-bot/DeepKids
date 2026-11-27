@@ -695,11 +695,11 @@
       "t": "mcq",
       "q": "The Judge's cut-off was 10. The card with score 10 is squishy, and the card with score 8 is firm. What does this show?",
       "options": [
-       "The two cards are almost the same, and the line was the Judge's choice",
        "The cut-off is a fact about the cards",
+       "The two cards are almost the same, and the line was the Judge's choice",
        "The card with 8 is much harder than the card with 10"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A score of 10 and a score of 8 are close. The Judge could have put the cut-off a step or two higher, and the card with 10 would have joined the firm group. The line was the Judge's choice and not a fact about the cards."
      },
      "context": "In this step, you play a second round and look closely at the line."
@@ -737,11 +737,11 @@
      "p": "Ten foods are lined up by the mass of one katori, with no clear gap in the middle of the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?",
      "opts": [
       "The ladder itself shows where the line must go",
-      "The line at 100 grams is a choice, and another person could choose another line",
       "The foods decide where the line goes",
+      "The line at 100 grams is a choice, and another person could choose another line",
       "There is only one correct line"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A ladder with no gap gives no sign of where to cut. The cut-off comes from the person who chooses it. Another sensible person could choose 110 grams, and get different groups.",
      "outcome": 0
     },
@@ -850,11 +850,11 @@
      "p": "Look at the table. Which two foods would sit closest together on the map?",
      "opts": [
       "Atta and salt",
-      "Maida and rice",
       "Rice and toor dal",
+      "Maida and rice",
       "Salt and poha"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Rice and toor dal have the same mass, 120 grams, and heap heights only 2 millimetres apart. The other pairs differ by a lot in mass or in height or both.",
      "outcome": 2,
      "how": "e1",
@@ -916,10 +916,10 @@
      "opts": [
       "Spread evenly all over the map",
       "Only at the top",
-      "In a long band from faint and red to bright and blue",
-      "In one single dot"
+      "In one single dot",
+      "In a long band from faint and red to bright and blue"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Most stars fall along a long band called the main sequence. The Sun is on it. A few stars sit above it, the giants, and a few sit below, the white dwarfs. The stars are not spread evenly, which is what makes the families visible.",
      "outcome": 6
     },
@@ -980,12 +980,12 @@
      "t": "mcq",
      "p": "A plastic bottle has the number 2 inside a triangle of arrows. What does this tell you?",
      "opts": [
-      "It can be recycled in every town",
       "It is made of one particular family of plastic",
+      "It can be recycled in every town",
       "It is stronger than a bottle marked 1",
       "It was made in the year 2"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The number names the family of plastic, which for 2 is HDPE. It does not say whether your town can recycle it, or how strong it is.",
      "outcome": 6
     }
@@ -1016,10 +1016,10 @@
      "opts": [
       "Both kinds of mistake go down",
       "Both kinds of mistake go up",
-      "Nothing changes",
-      "Fewer pieces are wrongly kept back, and more are wrongly let through"
+      "Fewer pieces are wrongly kept back, and more are wrongly let through",
+      "Nothing changes"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A relaxed sorter takes everything that might be right. She leaves few good pieces behind, but she lets in more wrong ones. The mistakes are swapped, not removed.",
      "outcome": 4
     },
@@ -1137,12 +1137,12 @@
      "t": "mcq",
      "p": "A spice seller wants to find cumin quickly in a dark shop. Which way of sorting suits her best?",
      "opts": [
-      "No groups at all",
       "Many small groups, one for each spice",
+      "No groups at all",
       "One big group, spices",
       "Two big groups, seeds and powders"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A fine level lets her go straight to the right jar. A coarse level would leave her searching through many jars. The best level depends on the job.",
      "outcome": 5
     },
@@ -1150,12 +1150,12 @@
      "t": "mcq",
      "p": "A Danish astronomer noticed that among red stars, some were extremely bright and others very faint. What did this suggest?",
      "opts": [
-      "Stars of the same colour can be very different in brightness, so there are different kinds of stars",
       "The bright stars are nearer",
       "All red stars are the same",
+      "Stars of the same colour can be very different in brightness, so there are different kinds of stars",
       "Colour does not matter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Same colour but very different brightness meant that colour alone did not sort the stars into kinds. The stars fell into families that needed two numbers to see.",
      "outcome": 6
     },
@@ -1176,12 +1176,12 @@
      "t": "mcq",
      "p": "A recycling plant puts chopped plastic in a tank of water. Some pieces float and some sink. What is the plant doing?",
      "opts": [
-      "Dissolving the plastic",
       "Sorting by a property that differs between plastics, how heavy they are for their size",
+      "Dissolving the plastic",
       "Sorting by colour",
       "Washing the plastic"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Different plastics have different densities, so some float and some sink. The plant uses this difference as a rule, which is cheap and works on huge piles.",
      "outcome": 6
     },
@@ -1227,11 +1227,11 @@
      "p": "Look at the chart. It shows made-up results from the Strict or Relaxed test. What does it suggest?",
      "opts": [
       "The two rounds were exactly the same",
-      "Moving from strict to relaxed swapped one kind of mistake for the other",
       "The relaxed round made no mistakes",
+      "Moving from strict to relaxed swapped one kind of mistake for the other",
       "The strict round made more mistakes of both kinds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "In the strict round, 11 pieces were wrongly kept back and none wrongly let through. In the relaxed round, 1 was wrongly kept back and 11 were wrongly let through. The mistakes swapped.",
      "outcome": 4,
      "how": "e2",
@@ -1319,11 +1319,11 @@
      "p": "A computer system sorts photographs of people. A researcher wants to know if it is fair. What is the best thing to do?",
      "opts": [
       "Count the mistakes for everybody together",
-      "Count both kinds of mistake separately for each group of people",
       "Ask the computer if it is fair",
-      "Test it on one photograph"
+      "Test it on one photograph",
+      "Count both kinds of mistake separately for each group of people"
      ],
-     "a": 1,
+     "a": 3,
      "why": "An overall count can hide a large difference between groups. Counting both kinds of mistake for each group is how researchers found uneven mistakes in face-sorting systems.",
      "outcome": 7
     },
@@ -1353,11 +1353,11 @@
      "p": "Which is the better way to judge two sorters?",
      "opts": [
       "Pick the one that looks neater",
-      "Count both kinds of mistake for each, and ask which kind costs more",
       "Pick the one that is faster",
-      "Pick the one with the lower total of mistakes, whatever they are"
+      "Pick the one with the lower total of mistakes, whatever they are",
+      "Count both kinds of mistake for each, and ask which kind costs more"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Two sorters can make the same total of mistakes and still differ a great deal, because one kind of mistake can cost far more. Counting both kinds and weighing their cost is the fair way to judge.",
      "outcome": 4
     },
@@ -1437,10 +1437,10 @@
      "opts": [
       "The student is right, because gaps always show real groups",
       "The gap is a mistake",
-      "The gap belongs to these two numbers, so try another pair of numbers for the same things",
-      "Maps cannot show gaps"
+      "Maps cannot show gaps",
+      "The gap belongs to these two numbers, so try another pair of numbers for the same things"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A gap on a map is a fact about the numbers plotted. A different pair of numbers might fill it in, or show a different gap. Checking with other numbers tells you whether the group still holds.",
      "outcome": 3
     },
@@ -1457,11 +1457,11 @@
      "p": "Why do astronomers draw a map of stars rather than just writing a list?",
      "opts": [
       "A map is more colourful",
+      "A map can show families that a list hides",
       "Stars are easier to draw than to write",
-      "A list is too long",
-      "A map can show families that a list hides"
+      "A list is too long"
      ],
-     "a": 3,
+     "a": 1,
      "why": "A list of numbers does not show that the stars gather in a band, with giants above it and white dwarfs below it. A map does. Families are visible only when two numbers are put side by side.",
      "outcome": 6
     },
@@ -1486,11 +1486,11 @@
      "p": "Two groups overlap on every number you can measure. What is the best you can do?",
      "opts": [
       "Ask for a perfect sorter",
-      "Accept some mistakes, and set the cut-off by which kind of mistake costs more",
       "Make the cut-off exact",
+      "Accept some mistakes, and set the cut-off by which kind of mistake costs more",
       "Refuse to sort"
      ],
-     "a": 1,
+     "a": 2,
      "why": "When the groups overlap on everything you can measure, mistakes cannot be avoided. The cut-off then decides which kind you accept, and the right choice depends on which kind costs more.",
      "outcome": 4
     }
@@ -1608,10 +1608,10 @@
       "q": "Why do you level the top of the katori for every food?",
       "options": [
        "So the katori looks neat",
-       "So the food does not spill",
-       "So every food has the same volume, and only the food changes"
+       "So every food has the same volume, and only the food changes",
+       "So the food does not spill"
       ],
-      "a": 2,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If one katori were heaped and another were half full, you would not know whether the food or the amount made the difference. Neatness and spilling are not the reason."
      },
      "context": "In this step, you weigh one katori of each of the ten foods."
@@ -1801,11 +1801,11 @@
       "t": "mcq",
       "q": "In a strict round, the toor bowl had 9 pieces and all were toor dal. 11 toor dal were left in the heap. What kind of mistake were the 11?",
       "options": [
+       "Wrongly kept back",
        "No mistake at all",
-       "Wrongly let through",
-       "Wrongly kept back"
+       "Wrongly let through"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The 11 toor dal pieces belonged in the toor bowl but were held back. That is a wrongly kept back mistake. Wrongly let through would be a chana dal piece in the bowl, and there was none."
      },
      "context": "In this step, you do the strict round and count your mistakes."
@@ -1961,10 +1961,10 @@
       "q": "Round 2 gives every voter the same test. What do you expect to happen to the votes?",
       "options": [
        "The votes will not change at all",
-       "The voters will agree more, because the test is clearer than a feeling",
-       "The voters will agree less"
+       "The voters will agree less",
+       "The voters will agree more, because the test is clearer than a feeling"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A test that everyone does in the same way takes away some of the guessing, so the votes usually agree more. Some things, such as an eraser or a plastic bottle, may still split the vote. That tells you the thing is really in the middle."
      },
      "context": "In this step, you hold round 2 of the vote, with a fingernail test."
@@ -2402,11 +2402,11 @@
       "t": "mcq",
       "q": "A shop keeps salt with the spices, but another shop keeps it with the staples next to rice. What does this show?",
       "options": [
-       "There are several useful ways to sort the same thing, and the rule is the shop's choice",
        "Salt is a spice by nature",
-       "One shop is wrong"
+       "One shop is wrong",
+       "There are several useful ways to sort the same thing, and the rule is the shop's choice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Neither shop is wrong. Each uses a rule that suits its customers. The rule is a choice, so the same thing can land in different groups in different shops."
      },
      "context": "In this step, you draw the levels and find a thing that could go in two places."
@@ -2626,11 +2626,11 @@
       "t": "mcq",
       "q": "You made the gap wider. Fewer toor dal rolled past, but more chana dal fell through. What does this show?",
       "options": [
+       "Moving the cut-off swapped one kind of mistake for the other",
        "The sorter is broken",
-       "Chana dal is lighter than toor dal",
-       "Moving the cut-off swapped one kind of mistake for the other"
+       "Chana dal is lighter than toor dal"
       ],
-      "a": 2,
+      "a": 0,
       "why": "When two groups overlap in size, a wider gap lets in more of the big ones, and a narrower gap holds back more of the small ones. The mistakes have been swapped. A broken sorter would not give a pattern like this."
      },
      "context": "In this step, you move the cut-off and test again."
@@ -2688,12 +2688,12 @@
    "t": "mcq",
    "p": "What is a cut-off?",
    "opts": [
-    "A tool for cutting paper",
     "A number you choose to split a ladder into two groups",
+    "A tool for cutting paper",
     "A kind of mistake",
     "A gap that nature puts in a ladder"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cut-off is chosen by the person who sorts. It is not found in the things. Another person can choose another cut-off and make other groups.",
    "outcome": 0
   },
@@ -2701,12 +2701,12 @@
    "t": "mcq",
    "p": "When a cut-off moves, which things change group?",
    "opts": [
+    "Only the things close to the cut-off",
     "Only the things at the ends",
     "Every thing on the ladder",
-    "None of them",
-    "Only the things close to the cut-off"
+    "None of them"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Things far from the cut-off stay in the same group whatever sensible cut-off you pick. Only the borderline ones move.",
    "outcome": 1
   },
@@ -2715,11 +2715,11 @@
    "p": "What can a map of two numbers show that a ladder of one number cannot?",
    "opts": [
     "Which thing is heaviest",
-    "The names of the things",
     "Clumps and gaps",
+    "The names of the things",
     "Nothing extra"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A ladder puts things in a line, so it can show order. A map spreads things across two directions, so dots can gather into clumps and leave gaps.",
    "outcome": 2
   },
@@ -2728,11 +2728,11 @@
    "p": "A map of ten foods shows two clumps with a gap. A map of the same foods by two other numbers shows no gap. What does this tell you?",
    "opts": [
     "One of the maps is wrong",
-    "The gap belonged to the first pair of numbers",
     "The foods changed",
+    "The gap belonged to the first pair of numbers",
     "Gaps are never real"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A gap is a fact about the numbers plotted as well as about the things. A different pair of numbers can fill it in. Neither map is wrong.",
    "outcome": 3
   },
@@ -2740,12 +2740,12 @@
    "t": "mcq",
    "p": "A strict sorter takes only the pieces she is sure of. Which kind of mistake does she make more of?",
    "opts": [
-    "Wrongly keeping back good pieces",
     "Neither",
     "Both kinds equally",
+    "Wrongly keeping back good pieces",
     "Wrongly letting in bad pieces"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A strict sorter holds back all the pieces she is not sure of, so many good ones are left behind. She lets in few wrong ones.",
    "outcome": 4
   },
@@ -2754,11 +2754,11 @@
    "p": "Two groups of seeds overlap in size. Why can no cut-off on size sort them without mistakes?",
    "opts": [
     "Seeds change size",
+    "Some seeds in one group are the same size as some in the other",
     "The cut-off is too high",
-    "Seeds cannot be measured",
-    "Some seeds in one group are the same size as some in the other"
+    "Seeds cannot be measured"
    ],
-   "a": 3,
+   "a": 1,
    "why": "If the sizes overlap, any cut-off puts some seeds on the wrong side. Only a second measurement, such as weight or colour, can help.",
    "outcome": 4
   },
@@ -2768,10 +2768,10 @@
    "opts": [
     "Making mistakes",
     "Using no rule",
-    "Splitting into finer levels",
-    "Lumping into fewer groups"
+    "Lumping into fewer groups",
+    "Splitting into finer levels"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A shop that makes many small groups is splitting. A shop that makes a few big groups is lumping. Both can be useful.",
    "outcome": 5
   },
@@ -2779,12 +2779,12 @@
    "t": "mcq",
    "p": "On a star map, where do most stars lie?",
    "opts": [
+    "In a long band called the main sequence",
     "All in one dot",
     "Only in the corners",
-    "In a long band called the main sequence",
     "Spread evenly"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Stars gather in a long band, with a few giants above and a few white dwarfs below. That pattern is what showed that stars come in families.",
    "outcome": 6
   },
@@ -2813,11 +2813,11 @@
    "p": "Which job can a computer do that a person with a ruler and paper cannot easily do?",
    "opts": [
     "Decide what the clumps mean",
+    "Find clumps among hundreds of numbers at once",
     "Choose which numbers matter",
-    "Make a cut-off that is right for everyone",
-    "Find clumps among hundreds of numbers at once"
+    "Make a cut-off that is right for everyone"
    ],
-   "a": 3,
+   "a": 1,
    "why": "A person can draw a map of two numbers. A computer can look for clumps among hundreds. But people still choose the numbers and decide what the clumps mean.",
    "outcome": 7
   },

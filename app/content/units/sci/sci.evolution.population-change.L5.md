@@ -579,7 +579,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 ## Worksheets
 ### Chance in Small Groups (core) (core, 15 questions)
 1. (mcq) What is genetic drift?  
-   Options: A change in shares caused by chance / A change caused by a useful feature / Animals moving to a new place / A copying mistake in DNA  
+   Options: A change caused by a useful feature / Animals moving to a new place / A change in shares caused by chance / A copying mistake in DNA  
    **Answer:** A change in shares caused by chance. *Why:* Drift is change by chance alone. A useful feature spreading is natural selection, moving is gene flow, and a copying mistake is a mutation.
 2. (fill) When every member of a population has the same gene version, that version is said to be ____.  
    **Answer:** ['fixed']. *Why:* A fixed version has a share of the whole population. The other versions of that gene are lost.
@@ -597,14 +597,14 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (truefalse) True or false: after a bottleneck, the lost gene versions come back once the numbers recover.  
    **Answer:** False. *Why:* False. The new population descends only from the survivors. A lost version can return only by a new mutation or with a migrant.
 9. (mcq) Forty seeds of five kinds pass a bottleneck of five survivors. Which kind is most likely to be lost?  
-   Options: The rarest kind / The most common kind / The largest kind / The darkest kind  
+   Options: The most common kind / The largest kind / The rarest kind / The darkest kind  
    **Answer:** The rarest kind. *Why:* With only 2 seeds among 40, the rarest kind is seldom among 5 picked by chance. Size and colour play no part when the picking is blind.
 10. (draw) Two islands of 8 beans both start with 4 dark. Draw a line chart of how their dark counts might change.  
    **Answer:** Two wobbly lines that both start at 4 and go different ways. A line that reaches 0 or 8 stays flat from there on.. *Why:* A strong drawing shows the lines wandering differently, and shows that a line cannot leave 0 or 8.
 11. (sort) Sort these cases: was the change caused by chance, or by natural selection?  
    **Answer:** An island of 8 beans goes all dark in a blind draw → Chance; Pale beans are caught first on a dark cloth → Natural selection; Seals descended from 20 survivors have little variety → Chance; Bacteria that survive a medicine multiply → Natural selection; Bent tails are common where three cats began a population → Chance; Finches with deep beaks survive a drought of hard seeds → Natural selection. *Why:* In selection the feature itself changes who has young. In drift the feature makes no difference, and the group is small.
 12. (mcq) Northern elephant seals number over 200,000. Why does their DNA have so little variety?  
-   Options: All descend from about 20 survivors / Seals do not have mutations / The sea is the same everywhere / They are all the same age  
+   Options: Seals do not have mutations / The sea is the same everywhere / All descend from about 20 survivors / They are all the same age  
    **Answer:** All descend from about 20 survivors. *Why:* Hunting cut the seals to about 20. Those few carried only part of the old variety, and everyone since has inherited from them.
 13. (write) Why does chance change a group of 40 more slowly than a group of 8?  
    **Answer:** In a group of 40, twenty members become parents. A few lucky ones of one colour are balanced by lucky ones of the other colour, so the share moves little. In a group of 8, only four become parents, and one lucky bean moves the share a long way.. *Why:* A strong answer compares the size of the sample that becomes the parents, and says that luck cancels out in a big sample.
@@ -615,7 +615,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
    **Answer:** Find a herd where some have the feature and some do not. Count how many young each kind raises, or how many survive, over several years. If those with the feature do no better, the feature may be common by chance.. *Why:* A strong answer asks for a count of survival or young, and says that being common is not evidence of being useful.
 ### Gene Flow and New Species (stretch) (stretch, 15 questions)
 1. (mcq) What is gene flow?  
-   Options: Gene versions moving between populations / Genes changing by copying mistakes / Genes being lost in a small group / Blood moving round the body  
+   Options: Genes changing by copying mistakes / Genes being lost in a small group / Gene versions moving between populations / Blood moving round the body  
    **Answer:** Gene versions moving between populations. *Why:* Gene flow happens when a member moves to another population and has young there. Copying mistakes are mutations, and loss in a small group is drift.
 2. (truefalse) True or false: a tiger who walks to a new forest but has no cubs there has moved genes.  
    **Answer:** False. *Why:* False. Gene versions arrive in the new population only when the traveller has young there.
@@ -633,7 +633,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (order) Put these steps in order, to show how one species becomes two.  
    **Answer:** ['One population exchanges genes freely', 'A barrier stops the gene flow', 'Each group changes in different ways', 'The two groups can no longer breed together']. *Why:* Gene flow must stop first. Then separate mutations, drift and selection build up differences, until breeding together fails.
 9. (mcq) A mule has 63 chromosomes. Why can a mule not have young?  
-   Options: An odd number cannot be shared out evenly / 63 is too many for any animal / Mules do not live long enough / Mules never meet other mules  
+   Options: 63 is too many for any animal / Mules do not live long enough / An odd number cannot be shared out evenly / Mules never meet other mules  
    **Answer:** An odd number cannot be shared out evenly. *Why:* To make egg or sperm cells, chromosomes must pair up and separate. With 63, one is always left without a partner, so the cells do not get full sets.
 10. (draw) Draw two forests with a highway between them. Add two different ways for animals to cross.  
    **Answer:** For example: the road raised on pillars so animals walk beneath, and a bridge of ropes or branches above the road for monkeys and squirrels. A tunnel for small animals also counts.. *Why:* A strong drawing shows crossings for different kinds of animal, and keeps the gap wide enough for shy ones.
@@ -642,7 +642,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 12. (truefalse) True or false: gene flow makes two populations more different from each other.  
    **Answer:** False. *Why:* False. Gene flow carries each population's versions into the other, so they become more alike. Drift and separate selection make them more different.
 13. (mcq) Eight pumas from Texas were released among the last Florida panthers. What did the pumas bring?  
-   Options: Gene versions the panthers had lost / A new kind of food / A new mutation / Stronger muscles  
+   Options: A new kind of food / A new mutation / Gene versions the panthers had lost / Stronger muscles  
    **Answer:** Gene versions the panthers had lost. *Why:* The small panther population had lost much of its variety through drift and inbreeding. The pumas' young carried versions from a larger population.
 14. (write) A new highway with no crossings cuts a forest in two. Predict what happens to the animals' genes over 100 years.  
    **Answer:** Each half is now a smaller population, so drift is faster. Each side loses some gene versions, and the two sides lose different ones. The two halves become less varied inside and more different from each other. Inbreeding may rise.. *Why:* A strong answer says that the halves are smaller, that drift speeds up, and that the two sides grow apart.
@@ -651,7 +651,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
    **Answer:** 2. *Why:* A corridor joins two wild places and lets animals move between them. The other three keep populations apart.
 ### Doubled Chromosomes, Chance Against Selection, and One Human Species (challenge) (challenge, 15 questions)
 1. (mcq) Bread wheat has 42 chromosomes, in sets of 7. How many sets is that?  
-   Options: Six / Two / Four / Seven  
+   Options: Two / Six / Four / Seven  
    **Answer:** Six. *Why:* 42 ÷ 7 = 6. The six sets came from three wild grasses, two sets from each.
 2. (write) Explain why a hybrid of two plant species often sets no seed.  
    **Answer:** The hybrid has one set of chromosomes from each parent, and the two sets do not match. To make pollen and eggs, chromosomes must pair with exact partners. With no partners, they are shared out unevenly, so most pollen and egg cells lack some instructions.. *Why:* A strong answer says that the chromosomes cannot pair, and links pairing to making working pollen and eggs.
@@ -667,7 +667,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 7. (perspective) Two scientists disagree about what has shaped most of the DNA differences between species.  
    **Answer:** A strong answer gives evidence for each. Changes that leave a protein the same pile up fastest, which fits chance. But beaks and wings clearly fit their uses, which only selection explains. It may say each is right about a different kind of change.. *Why:* Both are partly right. Selection explains features that fit a way of life. For DNA letters, scientists still argue over the shares of chance and selection.
 8. (mcq) Tomoko Ohta studied very slightly harmful gene versions. In which population can such a version spread?  
-   Options: A small one, where drift is strong / A huge one, where selection is strong / Any, at the same rate / None, ever  
+   Options: A huge one, where selection is strong / A small one, where drift is strong / Any, at the same rate / None, ever  
    **Answer:** A small one, where drift is strong. *Why:* Weak selection removes a slightly harmful version from a large population. In a small population chance is stronger than such weak selection.
 9. (write) Black tigers are common in one small forest and absent elsewhere. Give two clues that point to chance rather than selection.  
    **Answer:** Any two: the population is small and cut off, which is where drift is fastest. Their DNA has little variety, a sign of a small isolated group. Scientists found no clear sign that the dark version was favoured. No wild tigers elsewhere carry the version.. *Why:* A strong answer uses the size and isolation of the population, and notes that nobody has shown dark tigers leaving more cubs.
@@ -678,7 +678,7 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 12. (write) Three bowls hold dark and pale beans in slightly different shares. Why can one bean not tell you the bowl?  
    **Answer:** Every bowl holds both colours. A dark bean is a little more likely to come from the bowl with more dark beans, but could easily come from any of the three. The bowls differ in shares, and one bean cannot show a share.. *Why:* A strong answer says that both colours are in every bowl, and that a share is a fact about a group and not about one member.
 13. (mcq) Apple flies and hawthorn flies live in the same countryside. What mostly keeps them apart?  
-   Options: Their fruits ripen at different times / A river between them / Different numbers of wings / They are different colours  
+   Options: A river between them / Different numbers of wings / They are different colours / Their fruits ripen at different times  
    **Answer:** Their fruits ripen at different times. *Why:* The flies mate on the fruit they use, and apples ripen weeks before hawthorn fruit. So most apple flies have finished mating before hawthorn flies come out.
 14. (order) Put the history of bread wheat in order.  
    **Answer:** ['Two wild grasses cross', "Their hybrid's chromosomes double, giving a wheat with 28", 'That wheat crosses with a wild goat grass', "The new hybrid's chromosomes double, giving 42"]. *Why:* Bread wheat was made by crossing and doubling twice. Each doubling gave a plant that could set seed with their own kind.
@@ -692,15 +692,15 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 
 ## Quiz
 1. (mcq) Beans are drawn blind, and neither colour is better. One colour still takes over. What is this called?  
-   Options: Genetic drift / Natural selection / Gene flow / Mutation  
+   Options: Natural selection / Genetic drift / Gene flow / Mutation  
    **Answer:** Genetic drift. *Why:* Change in shares by chance alone is genetic drift. Choosing natural selection would mean that one colour helped beans survive, and here neither did.
 2. (mcq) Why does chance change a population of 8 faster than a population of 800?  
-   Options: A small sample often differs from the whole / Small animals breed faster / Small groups have more mutations / Large groups do not have genes  
+   Options: Small animals breed faster / Small groups have more mutations / Large groups do not have genes / A small sample often differs from the whole  
    **Answer:** A small sample often differs from the whole. *Why:* With few parents, a little luck moves the shares a long way. With many parents, lucky and unlucky members nearly cancel out.
 3. (truefalse) True or false: a version lost by drift comes back by itself in a few generations.  
    **Answer:** False. *Why:* False. Once no member carries a version, nobody can pass it on. Only a new mutation or a migrant can bring it back.
 4. (mcq) A population is cut to 20 survivors and grows back to thousands. What is this event called?  
-   Options: A bottleneck / A corridor / A hybrid zone / Chromosome doubling  
+   Options: A corridor / A bottleneck / A hybrid zone / Chromosome doubling  
    **Answer:** A bottleneck. *Why:* A bottleneck squeezes a population through a few survivors. Their descendants carry only the versions those few had.
 5. (mcq) Three cats start an island population. One has a bent tail. Bent tails become common. What is the simplest cause?  
    Options: The founder effect / Bent tails help on islands / The island bends tails / The cats wished for bent tails  
@@ -714,13 +714,13 @@ The next morning the canoe took her back across. The tea-coloured cat rode as fa
 8. (truefalse) True or false: for two populations to become two species, gene flow between them must nearly stop.  
    **Answer:** True. *Why:* True. While versions keep passing between them, the two change together. Differences that block breeding build up only when they are apart.
 9. (mcq) Which of these is a barrier that acts after two animals have mated?  
-   Options: Their young cannot have young / They breed in different months / Their songs differ / A sea lies between them  
+   Options: They breed in different months / Their young cannot have young / Their songs differ / A sea lies between them  
    **Answer:** Their young cannot have young. *Why:* A mule is healthy but cannot breed, so no genes pass on. The other three stop the two from meeting or choosing each other in the first place.
 10. (mcq) How can a new plant species form in a single generation?  
-   Options: A hybrid's chromosomes double / A plant grows very tall / A seed lands on an island / A plant is watered more  
+   Options: A plant grows very tall / A seed lands on an island / A hybrid's chromosomes double / A plant is watered more  
    **Answer:** A hybrid's chromosomes double. *Why:* Doubling gives every chromosome a partner, so the plant sets seed with their own kind but not with either parent. Landing on an island starts a split that takes thousands of generations.
 11. (mcq) A feature is common in one population. What would show that the feature is useful?  
-   Options: Members with the feature raise more young / Nearly every member has the feature / The feature looks well designed / The feature is very old  
+   Options: Nearly every member has the feature / The feature looks well designed / Members with the feature raise more young / The feature is very old  
    **Answer:** Members with the feature raise more young. *Why:* Useful means leaving more young because of the feature, and that can be counted. Being common is not enough, because chance can make a feature common too.
 12. (mcq) Human populations differ mainly in what?  
    Options: The shares of gene versions / Having completely different genes / The number of chromosomes / Being different species  

@@ -1013,11 +1013,11 @@
       "t": "mcq",
       "q": "Why does an elephant's calf live on more numbers than a frog's egg?",
       "options": [
-       "A mother who guards her young keeps more of them safe",
        "Elephants are always lucky",
+       "A mother who guards her young keeps more of them safe",
        "Big animals never die young"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In this model the numbers show how much care the mother gives. A frog gives none, so most eggs are lost. An elephant guards each calf, so more live. A wrong pick often means the care was forgotten, and the numbers were treated as luck."
      },
      "context": "In this step you set up the plates and learn the dice rules."
@@ -1052,11 +1052,11 @@
       "t": "mcq",
       "q": "Why do we play three rounds for each family and not one?",
       "options": [
-       "One round could be lucky or unlucky, so three give a fairer picture",
        "To make the game last longer",
-       "So that each family has the same number of young"
+       "So that each family has the same number of young",
+       "One round could be lucky or unlucky, so three give a fairer picture"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A single round of dice can be far from the average. Adding up several rounds smooths out luck, so the comparison is fairer. A wrong pick often means the child has not yet thought about luck."
      },
      "context": "In this step you play the hen family for three rounds. A hen guards her chicks."
@@ -1225,11 +1225,11 @@
       "t": "mcq",
       "q": "A cat's heart beats 150 times a minute. She lives 15 years, with 525,000 minutes in a year. About how many beats is that?",
       "options": [
-       "About 1.2 billion",
        "About 120 million",
-       "About 12 billion"
+       "About 12 billion",
+       "About 1.2 billion"
       ],
-      "a": 0,
+      "a": 2,
       "why": "150 times 525,000 is about 79 million in a year. Times 15 is about 1.2 billion. A wrong pick often means a slip of a zero when multiplying large numbers."
      },
      "context": "In this step you count your own heartbeat and find out how many beats a mouse and an elephant get in a lifetime."
@@ -1809,11 +1809,11 @@
      "t": "mcq",
      "p": "Which group of animals lays soft eggs covered in jelly, usually in water?",
      "opts": [
-      "Amphibians",
       "Birds",
-      "Mammals"
+      "Mammals",
+      "Amphibians"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Frogs, toads and newts lay jelly-covered eggs with no shell, so they need water or very damp places. Birds lay hard-shelled eggs, and most mammals do not lay eggs at all.",
      "outcome": 0
     },
@@ -1901,11 +1901,11 @@
      "t": "mcq",
      "p": "Which of these animals has a pupa stage in her life cycle?",
      "opts": [
-      "Housefly",
       "Grasshopper",
-      "Dragonfly"
+      "Dragonfly",
+      "Housefly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A housefly goes from egg to maggot to pupa to adult. A grasshopper and a dragonfly grow up as nymphs, without a pupa.",
      "outcome": 2
     },
@@ -1932,11 +1932,11 @@
      "t": "mcq",
      "p": "Which of these animals has the longest lifespan?",
      "opts": [
-      "Giant tortoise",
       "Hen",
+      "Giant tortoise",
       "House mouse"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A giant tortoise can live more than 100 years. A hen lives about 8 years and a house mouse about 2.",
      "outcome": 3
     },
@@ -1959,11 +1959,11 @@
      "t": "mcq",
      "p": "A frog lays 1,000 eggs and gives no care. An elephant has one calf and cares for her for years. What is true about the two?",
      "opts": [
-      "Both can keep their kind going",
       "Only the elephant's way works",
+      "Both can keep their kind going",
       "Only the frog's way works"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both ways work, because in a steady population an average mother leaves about two grown-up young. The frog loses most eggs, and the elephant protects her few.",
      "outcome": 4
     },
@@ -2072,11 +2072,11 @@
      "t": "mcq",
      "p": "The bar chart shows one class's totals after three rounds of the Survival Cup. What does the chart show?",
      "opts": [
-      "The three families had similar totals, and the numbers vary by chance",
       "The frog family is always best",
+      "The three families had similar totals, and the numbers vary by chance",
       "The elephant family always loses"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The totals are close, 6, 7 and 5. Dice rolls vary by chance, so a difference of one or two is not proof that one family is better. More rounds would give a fairer picture.",
      "outcome": 4,
      "how": "e1",
@@ -2167,11 +2167,11 @@
      "t": "mcq",
      "p": "An animal's 'average lifespan' is 5 years but her 'maximum lifespan' is 15. What does that mean?",
      "opts": [
-      "Most die young, but a few live much longer",
       "She always lives 5 years",
+      "Most die young, but a few live much longer",
       "She lives 15 years in the wild"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The average is the typical age at death. The maximum is the oldest ever recorded. Most wild animals die long before the maximum, from hunger, disease or being eaten.",
      "outcome": 5
     },
@@ -2251,11 +2251,11 @@
      "t": "mcq",
      "p": "An ocean sunfish lays about 300 million eggs. If the sunfish population stays steady, about how many of an average mother's young grow up to have young themselves?",
      "opts": [
-      "About 2",
       "About 1,000",
-      "About 300 million"
+      "About 300 million",
+      "About 2"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the population is steady, each average mother is replaced by about two grown-up young over her life. All the rest are eaten or die. The huge number of eggs is how she gets those two.",
      "outcome": 4
     },
@@ -2285,11 +2285,11 @@
      "t": "mcq",
      "p": "In 1993, Steven Austad found that opossums on an island with no predators lived longer than mainland opossums. What does this suggest?",
      "opts": [
-      "Danger from outside can shape how long a kind of animal lives",
       "Island food makes animals immortal",
-      "Opossums have special hearts"
+      "Opossums have special hearts",
+      "Danger from outside can shape how long a kind of animal lives"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Where animals are eaten young, evolution gives them little reason to build a body that lasts. Where danger is low, long life can evolve. This is one idea, supported by evidence in opossums.",
      "outcome": 5
     },
@@ -2460,11 +2460,11 @@
    "t": "mcq",
    "p": "Which of these mammals lays eggs?",
    "opts": [
-    "Platypus",
     "Cow",
-    "Bat"
+    "Bat",
+    "Platypus"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A platypus is a monotreme, a mammal that lays eggs and feeds the hatchlings on milk. Cows and bats give birth to live young.",
    "outcome": 0
   },
@@ -2472,11 +2472,11 @@
    "t": "mcq",
    "p": "A newborn kitten is blind and cannot walk. What kind of newborn is she?",
    "opts": [
-    "Helpless-born",
     "Ready-born",
+    "Helpless-born",
     "Egg-born"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A kitten is helpless-born. She needs her mother for food and warmth. A calf is ready-born, and a hen's chick can feed herself on the first day.",
    "outcome": 1
   },
@@ -2508,11 +2508,11 @@
    "t": "mcq",
    "p": "On a line with one centimetre of string for every year, how long is the string for an elephant that lives 60 years?",
    "opts": [
-    "60 centimetres",
     "6 centimetres",
+    "60 centimetres",
     "600 centimetres"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One centimetre stands for one year, so 60 years is 60 centimetres.",
    "outcome": 3
   },
@@ -2520,11 +2520,11 @@
    "t": "mcq",
    "p": "Which statement about lifespan is best supported by the evidence?",
    "opts": [
-    "Bigger mammals tend to live longer, but there are exceptions",
     "Bigger animals always live longer",
-    "Size has nothing to do with lifespan"
+    "Size has nothing to do with lifespan",
+    "Bigger mammals tend to live longer, but there are exceptions"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Across many mammals, a mouse lives about 2 years, a dog 12 and an elephant 60. But parakeets, bats and tortoises are exceptions.",
    "outcome": 3
   },
@@ -2532,11 +2532,11 @@
    "t": "mcq",
    "p": "The Survival Cup gave the frog family 18 eggs and the elephant family 3 calves. What did it show?",
    "opts": [
-    "Many young with no care and few young with care can leave similar numbers",
     "A frog always has more young left",
+    "Many young with no care and few young with care can leave similar numbers",
     "An elephant always has more young left"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the model, 18 eggs that each needed a 5 or 6 to live left about as many young as 3 calves that each needed only a 2 or more. Both ways can work.",
    "outcome": 4
   },
@@ -2568,11 +2568,11 @@
    "t": "mcq",
    "p": "Can you tell an adult tortoise's age by counting the rings on her shell?",
    "opts": [
-    "No, rings are added when food and rain change, and wear off",
     "Yes, one ring for each year",
-    "Yes, but only for male tortoises"
+    "Yes, but only for male tortoises",
+    "No, rings are added when food and rain change, and wear off"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Shell rings are not a reliable clock for an adult. They grow with food and weather, and they wear away.",
    "outcome": 5
   },
@@ -2580,11 +2580,11 @@
    "t": "mcq",
    "p": "A mouse lives about 2 years with a heart rate near 600 beats a minute. An elephant lives about 60 years with a heart rate near 30 beats a minute. Which is closest to the truth?",
    "opts": [
-    "Their total heartbeats in a life are about the same, around half a billion to a billion",
     "The elephant gets about 30 times as many",
+    "Their total heartbeats in a life are about the same, around half a billion to a billion",
     "The mouse gets about 20 times as many"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mouse's heart is about 20 times faster, and the elephant lives about 30 times as long. So the two effects nearly balance, and the totals come out close.",
    "outcome": 6
   },
@@ -2592,11 +2592,11 @@
    "t": "mcq",
    "p": "What does the heartbeat pattern NOT show?",
    "opts": [
-    "That every animal's heart stops after one billion beats",
     "That a mouse's heart beats faster than an elephant's",
-    "That bigger mammals tend to live longer"
+    "That bigger mammals tend to live longer",
+    "That every animal's heart stops after one billion beats"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The pattern is rough. Humans get about three times as many beats, and bats and many birds get more. A heart is not a counter that stops at a fixed number.",
    "outcome": 6
   }

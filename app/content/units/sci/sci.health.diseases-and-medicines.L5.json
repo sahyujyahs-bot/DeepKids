@@ -799,11 +799,11 @@
       "t": "mcq",
       "q": "A person has scurvy, caused by too little vitamin C. Which help fits the cause?",
       "options": [
-       "Fruit and vegetables with vitamin C",
        "An antibiotic",
+       "Fruit and vegetables with vitamin C",
        "A medicine for pain"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Scurvy has no germ, so an antibiotic has nothing to kill. A pain medicine would hide a symptom and leave the cause. Only the missing vitamin removes the cause. Of the 16 patients, only three need a germ-killing medicine: malaria, typhoid and tuberculosis."
      },
      "context": "This is the last step of Find the Cause. You count how many patients are helped by a germ-killing medicine, and what helps the others."
@@ -1161,11 +1161,11 @@
       "t": "mcq",
       "q": "In the Half-Glass Test, the glass holds 3 teaspoons of tea. Half is poured away and a dose of 2 is added. How much tea is in the glass now?",
       "options": [
-       "3 and a half teaspoons",
        "5 teaspoons",
+       "3 and a half teaspoons",
        "2 and a half teaspoons"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Half of 3 is 1 and a half. Adding the dose of 2 makes 3 and a half. If you chose 5, you added the dose but forgot the pour. If you chose 2 and a half, you halved the dose as well as the tea in the glass."
      },
      "context": "In this step of the Half-Glass Test you add six doses, pouring half away before each one. You track the amount of tea."
@@ -1394,11 +1394,11 @@
       "t": "mcq",
       "q": "In the Wilted Stems Trial, which group shows what happens with no sugar?",
       "options": [
-       "The stems in plain water",
        "The stems on the dry plate",
-       "The stems in sugar water"
+       "The stems in sugar water",
+       "The stems in plain water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plain water glass differs from the sugar glass in one thing only, the sugar. So it is the control group for the sugar. The dry plate has no sugar, but it has no water either, so two things differ. It shows that the stems need water to recover."
      },
      "wait": "Do this 2 hours after the stems went into the glasses",
@@ -1995,11 +1995,11 @@
       "t": "mcq",
       "q": "A swallowed medicine for a blocked nose makes a person sleepy. What explains this best?",
       "options": [
-       "Blood carries the medicine to the brain too",
        "The medicine was too old",
+       "Blood carries the medicine to the brain too",
        "The nose is joined to the eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A swallowed medicine enters the blood, and blood goes to every organ. If the medicine fits molecules in the brain as well as in the nose, it acts in both places. An old medicine may work less well, but that does not explain sleepiness."
      },
      "context": "This is the last step of the Medicine's Journey. You compare your first idea with the real path, and link the path to side effects."
@@ -2344,11 +2344,11 @@
       "t": "mcq",
       "q": "A tonic's label says 'trusted by millions'. Which question does that leave unanswered?",
       "options": [
-       "Compared with what?",
        "Is the tonic popular?",
-       "Is the bottle full?"
+       "Is the bottle full?",
+       "Compared with what?"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Millions of buyers show that a tonic sells. They do not show what happens to people who do not take it. Without a comparison, nobody knows what the tonic adds."
      },
      "context": "This is day 3 of the Claim Collector. You make a one-page guide to the four questions and explain it to your family."
@@ -2577,12 +2577,12 @@
      "t": "mcq",
      "p": "What is the cause of a disease?",
      "opts": [
-      "The thing that makes the disease begin",
       "The symptom that feels worst",
       "The medicine that treats it",
+      "The thing that makes the disease begin",
       "The day the illness started"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cause is what makes a disease begin, such as a germ or a missing nutrient. A symptom is only what the disease shows. If you chose the symptom, remember that one symptom can come from many causes.",
      "outcome": 0
     },
@@ -2709,12 +2709,12 @@
      "t": "mcq",
      "p": "What does insulin do for a person with type 1 diabetes?",
      "opts": [
-      "Replaces what the pancreas no longer makes",
       "Kills the diabetes germ",
+      "Replaces what the pancreas no longer makes",
       "Repairs the pancreas",
       "Eases the pain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In type 1 diabetes the pancreas stops making insulin. The injected insulin does that missing job each day. No germ causes diabetes, and insulin does not repair the pancreas.",
      "outcome": 2
     },
@@ -2746,12 +2746,12 @@
      "t": "mcq",
      "p": "In the Wilted Stems Trial, why did a coin choose the glass for each stem?",
      "opts": [
-      "So nobody could pick the fresher stems",
       "So the stems recovered faster",
       "Because coins measure wilting",
-      "To save time"
+      "To save time",
+      "So nobody could pick the fresher stems"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If a person chose, they might put the perkier stems in the sugar glass without meaning to. Chance treats both glasses alike. A coin does nothing to the stems themselves.",
      "outcome": 5,
      "how": "e2"
@@ -2827,12 +2827,12 @@
      "t": "mcq",
      "p": "You find a loose tablet on the floor at home. What should you do?",
      "opts": [
-      "Take it to a grown-up",
       "Taste it to find out what it is",
+      "Take it to a grown-up",
       "Put it back in any bottle",
       "Leave it where it is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A child never tastes or takes a medicine alone. A tablet in the wrong bottle could be given to the wrong person. A tablet left on the floor could be found by a smaller child.",
      "outcome": 6
     }
@@ -2848,12 +2848,12 @@
      "t": "mcq",
      "p": "Why is a dose of a medicine repeated after some hours?",
      "opts": [
-      "The body removes the medicine all the time",
       "The germs return every night",
+      "The body removes the medicine all the time",
       "The first dose is always too weak",
       "Medicine evaporates from the blood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The liver and kidneys start removing a medicine as soon as it arrives. After a few hours too little is left to work, so another dose is needed.",
      "outcome": 3
     },
@@ -3072,12 +3072,12 @@
      "t": "mcq",
      "p": "Which sentence about a 'natural' remedy is true?",
      "opts": [
-      "It can still have side effects",
       "It is always safe",
       "It never needs testing",
-      "It works because it is old"
+      "It works because it is old",
+      "It can still have side effects"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A plant strong enough to change the body is strong enough to harm it. Datura is natural and poisonous. Old or natural remedies need the same fair trial as any medicine.",
      "outcome": 7
     }
@@ -3093,12 +3093,12 @@
      "t": "mcq",
      "p": "Twenty people took a syrup and all recovered. What is the most important thing still unknown?",
      "opts": [
-      "How many recover without the syrup",
       "The colour of the syrup",
       "The price of the syrup",
-      "The names of the patients"
+      "The names of the patients",
+      "How many recover without the syrup"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If twenty similar people who took nothing also recovered, the syrup added nothing. Without that comparison the twenty recoveries show very little.",
      "outcome": 4
     },
@@ -3106,12 +3106,12 @@
      "t": "mcq",
      "p": "A trial has only six people in each group. Why is that weak evidence?",
      "opts": [
-      "Luck can decide the result in small groups",
       "Six people cannot swallow tablets",
       "Small groups recover faster",
-      "Six is an even number"
+      "Six is an even number",
+      "Luck can decide the result in small groups"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With six in a group, one or two people who recover by luck change the result a great deal. With hundreds, luck evens out.",
      "outcome": 5
     },
@@ -3119,12 +3119,12 @@
      "t": "mcq",
      "p": "In the 2011 asthma trial, what did a dummy inhaler change?",
      "opts": [
-      "How patients felt, and not their measured breathing",
       "Their measured breathing only",
       "Both their feeling and their breathing",
-      "Nothing at all"
+      "Nothing at all",
+      "How patients felt, and not their measured breathing"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Patients said they felt better after the dummy inhaler. A breathing meter showed that their airways had opened only after the real one.",
      "outcome": 7
     },
@@ -3290,12 +3290,12 @@
    "t": "mcq",
    "p": "Which of these protects a sleeping family against malaria?",
    "opts": [
-    "A mosquito net",
     "Iodised salt",
     "Boiled drinking water",
-    "An antibiotic kept at home"
+    "An antibiotic kept at home",
+    "A mosquito net"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Malaria parasites are carried by mosquitoes who bite at night. A net blocks them. Boiled water blocks the germs of cholera and typhoid.",
    "outcome": 1
   },
@@ -3328,11 +3328,11 @@
    "t": "mcq",
    "p": "A man drinks a lot of alcohol for many years. Which part of his body is most likely to be damaged, and who else is harmed?",
    "opts": [
-    "His liver, and his whole family",
     "His lungs only, and nobody else",
+    "His liver, and his whole family",
     "His bones only, and nobody else"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Alcohol is broken down in the liver, and years of heavy drinking can scar the liver. This is called cirrhosis. The family is harmed too, because money, safety and peace at home suffer. Smoke, not alcohol, is what harms the lungs.",
    "outcome": 1
   },
@@ -3340,11 +3340,11 @@
    "t": "mcq",
    "p": "Which of these is a sign of type 2 diabetes?",
    "opts": [
-    "Cuts and wounds that heal very slowly",
     "A rash that comes only in the rains",
-    "A sore throat that ends in two days"
+    "A sore throat that ends in two days",
+    "Cuts and wounds that heal very slowly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Too much sugar in the blood slows healing. It also makes a person very thirsty, makes them pass urine often and can blur their sight. A rash in the rains or a sore throat that ends quickly is usually from another cause.",
    "outcome": 1
   },
@@ -3352,12 +3352,12 @@
    "t": "mcq",
    "p": "What does an antibiotic do to a cold virus?",
    "opts": [
-    "Nothing",
     "It kills the virus slowly",
     "It weakens the virus",
-    "It stops the virus spreading"
+    "It stops the virus spreading",
+    "Nothing"
    ],
-   "a": 0,
+   "a": 3,
    "why": "An antibiotic acts on parts that bacteria have and viruses lack. A cold is caused by a virus, so the antibiotic has nothing to act on.",
    "outcome": 2
   },
@@ -3365,12 +3365,12 @@
    "t": "mcq",
    "p": "A broken arm is put in a plaster cast. What mends the bone?",
    "opts": [
-    "The bone's own living cells",
     "The plaster",
+    "The bone's own living cells",
     "A medicine for pain",
     "The bandage under the plaster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cast only holds the bone still. Bone cells bridge the break over some weeks. No medicine builds bone.",
    "outcome": 2
   },
@@ -3378,12 +3378,12 @@
    "t": "mcq",
    "p": "A swallowed medicine passes into the blood. Where does the blood carry it?",
    "opts": [
-    "To every part of the body",
     "Only to the part that is ill",
+    "To every part of the body",
     "Only to the stomach",
     "Only to the heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Blood reaches every organ, so the medicine does too. That is why a medicine can have effects in places it was not meant for.",
    "outcome": 3
   },
@@ -3391,12 +3391,12 @@
    "t": "mcq",
    "p": "A medicine has a half-life of 4 hours. How much of one dose is left after 8 hours?",
    "opts": [
-    "A quarter",
     "A half",
     "None",
+    "A quarter",
     "All of it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "After 4 hours half is left. After 4 more hours, half of that is left, which is a quarter.",
    "outcome": 3
   },
@@ -3404,12 +3404,12 @@
    "t": "mcq",
    "p": "A cough ended five days after a child took a syrup. What can we say?",
    "opts": [
-    "We cannot tell whether the syrup helped",
     "The syrup cured the cough",
     "The syrup made the cough last longer",
-    "The cough was not real"
+    "The cough was not real",
+    "We cannot tell whether the syrup helped"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Most coughs end by themselves. Without a group that took no syrup, nobody can say what the syrup added.",
    "outcome": 4
   },
@@ -3417,12 +3417,12 @@
    "t": "mcq",
    "p": "In a trial of a medicine, what is the control group for?",
    "opts": [
-    "To show what happens without the medicine",
     "To control the doctors",
     "To take a double dose",
+    "To show what happens without the medicine",
     "To keep the medicine cold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The control group gets a dummy. Whatever happens to them would have happened anyway, so the medicine's effect is the difference between the groups.",
    "outcome": 5
   },
@@ -3437,12 +3437,12 @@
    "t": "mcq",
    "p": "Who should give a child a medicine?",
    "opts": [
-    "A grown-up, in the way a doctor says",
     "The child, if she can read the label",
     "An older brother or sister",
-    "Anyone who had the same illness"
+    "Anyone who had the same illness",
+    "A grown-up, in the way a doctor says"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A medicine needs the right cause, the right dose and the right times. A grown-up follows the doctor and the label. A child never takes a medicine alone.",
    "outcome": 6
   },

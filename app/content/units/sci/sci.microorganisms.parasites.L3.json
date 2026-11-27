@@ -505,11 +505,11 @@
       "t": "mcq",
       "q": "In the game, the parasite stays in the mosquito's stomach for many squares. Why?",
       "options": [
-       "The mosquito is asleep",
        "The parasite must grow there for one to two weeks before they can reach her saliva",
+       "The mosquito is asleep",
        "The game is slow on purpose"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The parasite grows and multiplies in the mosquito's stomach for about one to two weeks. Only then do they move to her saliva, ready to pass to the next person. If you picked 'the mosquito is asleep', remember that she keeps flying and biting during that time."
      }
     },
@@ -669,10 +669,10 @@
       "q": "A koel mother lays her egg in a crow's nest. The crows feed the koel chick. What is the koel chick?",
       "options": [
        "A predator",
-       "A parasite",
-       "A helper of the crows"
+       "A helper of the crows",
+       "A parasite"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The koel chick is fed by the crows, and the crows get nothing back. That makes the koel a parasite of a special kind, a brood parasite. If you picked 'predator', remember a predator kills and eats, and the koel chick does not eat the crows."
      }
     }
@@ -820,10 +820,10 @@
       "q": "In the Comb Test, the khus khus seeds slipped past the wide-tooth comb. Why?",
       "options": [
        "The seeds were too light",
-       "The gaps between the teeth were wider than the seeds",
-       "The comb was moved too slowly"
+       "The comb was moved too slowly",
+       "The gaps between the teeth were wider than the seeds"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A seed smaller than the gap slips through between two teeth. Only teeth closer together than the seed is wide can push the seed along. That is why only a fine-tooth comb can pull out a louse egg. If you picked 'too light', the sesame seeds were light too, and many of those were pushed."
      },
      "ask": [
@@ -932,11 +932,11 @@
       "t": "mcq",
       "q": "In the Fan Test, the flag stayed still in a corner. Why might a mosquito find it easier to bite someone sleeping there?",
       "options": [
-       "Mosquitoes like corners because they are dark",
        "Mosquitoes are weak fliers, and in still air they can fly and land easily",
+       "Mosquitoes like corners because they are dark",
        "The corner is warmer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A mosquito flies slowly, so strong wind blows her off course. The wind also blows away the breath and smells she follows. In still air she can find you and land. If you picked 'dark', mosquitoes do rest in dark places, but the wind is what this test showed."
      }
     }
@@ -1019,10 +1019,10 @@
       "q": "On your size line, which parasite is far too small to see without a microscope?",
       "options": [
        "A head louse",
-       "The malaria parasite",
-       "A tick"
+       "A tick",
+       "The malaria parasite"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The malaria parasite is a single cell who lives inside a red blood cell. You need a microscope to see them. A louse and a tick are small but easy to see on a white tissue."
      }
     }
@@ -1176,11 +1176,11 @@
       "t": "mcq",
       "q": "A child finds a louse in their hair. What does that tell you?",
       "options": [
-       "The child does not wash their hair",
        "The child's head touched the head of someone who had lice",
+       "The child does not wash their hair",
        "The child's cat gave them the louse"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Head lice crawl from head to head when hair touches. They live on clean hair as happily as on unwashed hair, and cats and dogs do not carry human head lice. If you picked 'does not wash', that is a very common idea, and it is wrong."
      }
     }
@@ -1322,10 +1322,10 @@
       "q": "There is water standing in a flowerpot saucer on the balcony. What should you do?",
       "options": [
        "Leave it for the plant",
-       "Empty it and scrub the saucer, once a week",
-       "Add more water"
+       "Add more water",
+       "Empty it and scrub the saucer, once a week"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Mosquitoes lay eggs in still water, and the young grow there for about a week. Emptying and scrubbing the saucer each week stops them before they become adults. Scrubbing matters because some mosquito eggs stick to the sides."
      }
     }
@@ -1402,10 +1402,10 @@
       "q": "A dog has a tick. How should a grown-up take the tick off?",
       "options": [
        "Pinch the tick's body and pull fast",
-       "Grip the tick with fine tweezers right next to the skin and pull straight up, slowly",
-       "Burn the tick with a matchstick"
+       "Burn the tick with a matchstick",
+       "Grip the tick with fine tweezers right next to the skin and pull straight up, slowly"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Gripping close to the skin pulls out the mouthparts with the body. Squeezing the body or burning the tick can leave the mouthparts in the skin. Then wash the bite with soap and water."
      }
     }
@@ -1475,11 +1475,11 @@
       "t": "mcq",
       "q": "On the louse page, what is the louse's big problem?",
       "options": [
-       "Finding water",
        "Staying on a head that moves, gets washed and gets combed",
+       "Finding water",
        "Keeping warm at night"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A louse cannot fly or jump, and dies within a day or two off a head. So staying on is everything. Their claws grip single hairs, and the mother glues her eggs near the warm scalp."
      }
     }
@@ -1642,11 +1642,11 @@
    "t": "mcq",
    "p": "What is a parasite?",
    "opts": [
-    "A living being who kills and eats another",
     "A living being who lives on or inside another living being and feeds from them",
+    "A living being who kills and eats another",
     "Any very small living being"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A parasite lives on or in a host and takes food from them. A being who kills and eats another is a predator. Many small beings, such as ants, are not parasites.",
    "outcome": 0
   },
@@ -1654,11 +1654,11 @@
    "t": "mcq",
    "p": "A dog has fleas. What do we call the dog?",
    "opts": [
-    "The host",
     "The vector",
-    "The predator"
+    "The predator",
+    "The host"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The host is the living being a parasite lives on. A vector carries a parasite from one host to another, as a mosquito carries malaria.",
    "outcome": 0
   },
@@ -1666,11 +1666,11 @@
    "t": "mcq",
    "p": "In the Comb Test, which comb pushed the tiny khus khus seeds to the line?",
    "opts": [
-    "The wide-tooth comb",
     "The fine-tooth lice comb",
+    "The wide-tooth comb",
     "All three combs the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Only the lice comb's gaps were narrower than the seeds. The small seeds slipped between the teeth of the wider combs. A real louse egg is smaller than a khus khus seed, so only a fine comb lifts the egg out.",
    "outcome": 1,
    "how": "e1"
@@ -1680,10 +1680,10 @@
    "p": "How do head lice get from one child to another?",
    "opts": [
     "They jump",
-    "They fly",
-    "They crawl across when two heads touch"
+    "They crawl across when two heads touch",
+    "They fly"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Lice have no wings and cannot jump. Their claws are made for gripping hair, so they crawl from hair to hair when heads touch.",
    "outcome": 1
   },
@@ -1692,10 +1692,10 @@
    "p": "Why do shampoo and water not remove nits?",
    "opts": [
     "Nits are hidden inside the hair",
-    "The mother louse glues each egg firmly to a hair",
-    "Nits are too heavy to wash away"
+    "Nits are too heavy to wash away",
+    "The mother louse glues each egg firmly to a hair"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The glue is very strong and water does not loosen it. A fine comb, or sliding the nit off with fingernails, is needed.",
    "outcome": 1
   },
@@ -1764,10 +1764,10 @@
    "p": "What causes malaria?",
    "opts": [
     "Bad air from swamps",
-    "A tiny one-celled parasite carried by Anopheles mosquitoes",
-    "Eating mangoes in summer"
+    "Eating mangoes in summer",
+    "A tiny one-celled parasite carried by Anopheles mosquitoes"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Malaria is caused by Plasmodium, a single-celled parasite. Female Anopheles mosquitoes carry the parasite from person to person. People once blamed bad air, and the name malaria means bad air in Italian.",
    "outcome": 4
   },
@@ -1775,11 +1775,11 @@
    "t": "mcq",
    "p": "A scientist lets mosquitoes bite a person who has malaria. Days later he finds malaria parasites growing inside the mosquitoes. What does this show?",
    "opts": [
-    "Mosquitoes carry malaria from person to person",
     "Mosquitoes cure malaria",
+    "Mosquitoes carry malaria from person to person",
     "Malaria spreads through water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The parasites grew inside the mosquitoes after they drank infected blood. When such a mosquito bites someone else, she can pass the parasites on. So stopping mosquitoes stops malaria spreading.",
    "outcome": 5
   }
@@ -1795,11 +1795,11 @@
      "t": "mcq",
      "p": "Which of these is a parasite?",
      "opts": [
-      "A honeybee",
       "A head louse",
+      "A honeybee",
       "A tiger"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A head louse lives on a person's head and drinks their blood. A bee helps flowers, and a tiger is a predator who kills and eats.",
      "art": "A bee, a louse and a tiger in a row."
     },
@@ -1896,11 +1896,11 @@
      "t": "mcq",
      "p": "Which of these keeps mosquitoes from laying eggs at home?",
      "opts": [
-      "Leaving water in flowerpot saucers",
       "Emptying and scrubbing saucers and coolers once a week",
+      "Leaving water in flowerpot saucers",
       "Keeping windows open at dusk"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Mosquitoes lay eggs in still water, and the young take about a week to grow. Emptying the water each week stops them."
     },
     {
@@ -1992,11 +1992,11 @@
      "t": "mcq",
      "p": "A louse falls off a child's head onto a cushion. What usually happens to the louse?",
      "opts": [
-      "She lives on the cushion for months",
       "She dies within a day or two",
+      "She lives on the cushion for months",
       "She jumps back"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A head louse needs blood and warmth from a head. Away from one, she usually dies within a day or two. That is why there is no need for big cleaning of the house."
     },
     {
@@ -2010,11 +2010,11 @@
      "t": "mcq",
      "p": "A flea's body is flat from side to side. How does that help the flea?",
      "opts": [
-      "The flea can slide between an animal's hairs",
       "The flea can fly",
+      "The flea can slide between an animal's hairs",
       "The flea stays cool"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A thin, flat body slips between hairs. Backward-pointing spines also make the flea hard to pull out."
     },
     {
@@ -2028,11 +2028,11 @@
      "t": "mcq",
      "p": "Why should a grown-up never squeeze a tick's body to pull the tick off?",
      "opts": [
-      "The tick will bite the grown-up",
       "Squeezing can leave the barbed mouthparts in the skin",
+      "The tick will bite the grown-up",
       "The tick will jump away"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A tick's mouthpart has backward barbs and is often glued in. Squeezing pulls the body off and leaves the mouthpart behind. Grip close to the skin with fine tweezers and pull straight up."
     },
     {
@@ -2077,10 +2077,10 @@
      "p": "A threadworm makes a child's bottom itch at night. How do threadworm eggs get back into the mouth?",
      "opts": [
       "Through the nose while sleeping",
-      "Scratching puts eggs under the nails, and from there they reach the mouth",
-      "Through a mosquito bite"
+      "Through a mosquito bite",
+      "Scratching puts eggs under the nails, and from there they reach the mouth"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The female lays eggs around the bottom at night. Scratching picks them up on fingers. So short nails and washing hands in the morning help."
     },
     {
@@ -2170,11 +2170,11 @@
      "t": "mcq",
      "p": "In the Comb Test, an ordinary comb pushed 9 of 10 sesame seeds but only 1 of 10 khus khus seeds. What is the best explanation?",
      "opts": [
-      "The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller",
       "Khus khus seeds are heavier",
-      "The comb was swept faster for the khus khus"
+      "The comb was swept faster for the khus khus",
+      "The sesame seeds were bigger than the gaps, and most khus khus seeds were smaller"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Seeds bigger than the gaps get pushed. Seeds smaller than the gaps slip through. The one khus khus seed pushed may have been stuck against a sesame seed or a tooth.",
      "how": "e1"
     },
@@ -2193,11 +2193,11 @@
      "t": "mcq",
      "p": "Why is it hard for a parasite inside the gut to reach a new host?",
      "opts": [
-      "The gut is too warm",
       "They must leave the body, survive outside, and get into someone else",
+      "The gut is too warm",
       "Worms cannot eat"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Inside the gut there is plenty of food. The hard part is the journey to a new person, through soil, hands, food or skin."
     },
     {
@@ -2211,11 +2211,11 @@
      "t": "mcq",
      "p": "People once thought malaria came from bad air near swamps at night. Why did the idea seem right?",
      "opts": [
-      "Swamps and night are where and when Anopheles mosquitoes breed and bite",
       "Swamp air is poisonous",
-      "People never got malaria in the daytime"
+      "People never got malaria in the daytime",
+      "Swamps and night are where and when Anopheles mosquitoes breed and bite"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The bad air idea matched what people saw, but the real cause was the mosquitoes who breed in still water and bite at night."
     },
     {
@@ -2271,22 +2271,22 @@
      "t": "mcq",
      "p": "A child has a fever with shivering, and there are many mosquitoes where they live. What should the family do?",
      "opts": [
-      "Wait a week to see if it goes",
       "Take the child to a doctor for a blood test the same day",
+      "Wait a week to see if it goes",
       "Give her a lice comb"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Malaria can be cured, but it is dangerous if left. A blood test shows the parasite, and the right medicine clears them."
     },
     {
      "t": "mcq",
      "p": "Ross found malaria parasites in a mosquito's stomach in 1897. Why was that not yet proof that mosquitoes give malaria to people?",
      "opts": [
-      "He also needed to show that a mosquito's bite passes the parasite to a new host",
       "His microscope was broken",
-      "He found only one mosquito"
+      "He found only one mosquito",
+      "He also needed to show that a mosquito's bite passes the parasite to a new host"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Finding the parasite in a mosquito showed she could pick the parasite up. In 1898 Ross showed bites passing malaria between birds, and Grassi's team showed Anopheles passing it to people."
     },
     {

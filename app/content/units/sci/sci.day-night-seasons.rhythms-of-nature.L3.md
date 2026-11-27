@@ -581,7 +581,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 6. (sort) Sort these into daily rhythms and yearly rhythms.  
    **Answer:** Bean leaves hanging down at night → Daily rhythm; Swallows coming to India for winter → Yearly rhythm; Jasmine opening in the evening → Daily rhythm; Neem flowering near Ugadi → Yearly rhythm; Feeling sleepy at bedtime → Daily rhythm; Sevanthi flowering when nights grow long → Yearly rhythm. *Why:* Daily rhythms repeat each day, with light and dark. Yearly rhythms repeat each year, with the seasons. A strong answer can say what sets each one.
 7. (mcq) Barn swallows sit on the electric wires in Chennai in January. Where are they most likely to be in June?  
-   Options: In the sea / Asleep in mud under a lake / Far to the north, raising chicks / Still on the same wire  
+   Options: In the sea / Far to the north, raising chicks / Asleep in mud under a lake / Still on the same wire  
    **Answer:** Far to the north, raising chicks. *Why:* Barn swallows spend the winter in India and fly north in spring to nest. 'Asleep in mud' was what people believed for centuries, until the evidence showed it was wrong.
 8. (draw) Draw a bean plant at noon and the same plant at 9 at night. Label the leaves 'flat' or 'hanging down'.  
    **Answer:** Two drawings: at noon the two leaves held out flat, at night the leaves hanging down close to the stem.. *Why:* A strong drawing shows the stem the same in both, with only the leaves changed. A small joint at the base of each leaf, the pulvinus, does the bending.
@@ -604,7 +604,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    **Answer:** For example: I feel sleepy at about 9 at night, or I feel hungry at about 1 in the afternoon, or my body is coolest in the early morning.. *Why:* A strong answer gives a time, and notices it happens about the same time each day.
 ### Days, Seasons and Journeys (stretch) (stretch, 16 questions)
 1. (mcq) A bean plant is put in a dark cupboard for two days. The leaves still lift each morning and droop each night. What sets the timing?  
-   Options: The noise of the morning / The plant's roots seeing the soil / A body clock inside the plant / The cupboard door  
+   Options: A body clock inside the plant / The noise of the morning / The plant's roots seeing the soil / The cupboard door  
    **Answer:** A body clock inside the plant. *Why:* No light reached the plant, so the timing came from inside them, from their body clock. A strong answer adds that the days on the windowsill had set that clock before.
 2. (write) A body clock runs a little fast or slow. What would happen to a plant's clock if the plant stayed in the dark for many weeks?  
    **Answer:** The clock would drift away from the real day, a little more each day. After many days the leaves would lift at the wrong time. The plant would also run out of food, because they cannot make food without light.. *Why:* A strong answer explains that light resets the clock each morning, so without light the clock slowly drifts.
@@ -615,7 +615,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 5. (sort) Sort each change by what sets its timing.  
    **Answer:** Winged termites flying out → Rain; Sevanthi flowering → Day length or a body clock; Pavazhamalli opening at night → Day length or a body clock; Frogs calling at the start of the monsoon → Rain; Swallows arriving for winter → Day length or a body clock. *Why:* Signs set by day length or a clock come at nearly the same date every year. Signs set by rain come on a different date each year, depending on when the rain comes.
 6. (mcq) Day length changes very little across the year in Kerala. Which signal would help a Kerala plant time flowering?  
-   Options: The change in day length / The arrival of the monsoon rains / The noise of crows / The colour of the sky  
+   Options: The arrival of the monsoon rains / The change in day length / The noise of crows / The colour of the sky  
    **Answer:** The arrival of the monsoon rains. *Why:* Where day length hardly changes, it is a weak signal. Near the equator, many living things use the rains more than day length.
 7. (draw) Draw a circle for one year. Mark when barn swallows are in India and when they are in the north. Add what they do in each place.  
    **Answer:** A circle with the cold months, about October to March, labelled 'India: feeding', and the warm months labelled 'North: nesting and raising chicks', with arrows for the journeys between.. *Why:* A strong drawing shows the year as a loop that repeats, with a reason for each half.
@@ -644,14 +644,14 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 2. (perspective) Three scientists argue about why bean leaves droop at night.  
    **Answer:** A strong answer picks one and designs a fair test: for example, pin some leaves open and compare them on cold nights with leaves left free, as Darwin did. It says that nobody yet knows for sure, and that more than one reason may be true.. *Why:* This is a real open question. Scientists have evidence for several ideas. A strong answer designs a test that changes only one thing.
 3. (mcq) A grandmother says, 'The winged termites come out after the first big rain.' This year the rain came a month late. When did the winged termites most likely come?  
-   Options: On the same date as last year / Before the rain, as a warning / After the late rain / Not at all this year  
+   Options: On the same date as last year / After the late rain / Before the rain, as a warning / Not at all this year  
    **Answer:** After the late rain. *Why:* Winged termites fly out after heavy rain softens the ground. So they follow the rain, not the date. Signs set by day length come on nearly the same date each year. Signs set by rain move with the rain.
 4. (write) A plant whose clock matches the length of the day grows bigger than one whose clock does not. Explain why, in your own words.  
    **Answer:** A plant with a matching clock is ready at the right times. Their leaves are up and their food-making parts are ready before dawn, so they use all the light. A plant with a wrong clock is ready too early or too late, so they waste some light.. *Why:* A strong answer links getting ready early with using every hour of light.
 5. (draw) Draw a graph of how warm your body is across one day, from waking to bedtime. Use your own results if you did the warm and cool test.  
    **Answer:** A line that starts lowest at waking, rises through the day to the highest point in the late afternoon or early evening, and falls a little by bedtime.. *Why:* A strong graph has the times along the bottom and temperatures up the side, and shows a smooth rise and fall.
 6. (mcq) On the Great Barrier Reef, many corals release their eggs on the same few nights each year, after a full moon. Why does this help them?  
-   Options: The Moon pulls the eggs up to the surface / Fish cannot see in moonlight / The moonlight warms the eggs / Eggs and sperm from many corals meet in the water at once  
+   Options: The Moon pulls the eggs up to the surface / Fish cannot see in moonlight / Eggs and sperm from many corals meet in the water at once / The moonlight warms the eggs  
    **Answer:** Eggs and sperm from many corals meet in the water at once. *Why:* Corals cannot move to find each other. If they all release at once, their eggs and sperm meet. The Moon is a clock they share. 'The Moon pulls the eggs up' mixes this up with tides.
 7. (write) In 2021, the cherry trees of Kyoto, in Japan, flowered earlier than at any time in more than 1,200 years of records. Why might early flowers be a problem for bees?  
    **Answer:** If the flowers open before the bees are active, the bees miss the nectar and the flowers miss being pollinated. The flowers and bees keep different clocks, so warming can put them out of step.. *Why:* A strong answer explains that two living things must stay in step, and a change can affect one more than the other.
@@ -662,7 +662,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 10. (sort) Sort these by what the living thing keeps time with.  
    **Answer:** Corals releasing eggs → The Moon or tides; Bean leaves lifting → The Sun (day and night); Amur falcons flying to Africa → The seasons; Grunion fish laying eggs on beaches → The Moon or tides; Jasmine opening → The Sun (day and night); Sevanthi flowering → The seasons. *Why:* Living things keep time with the Earth's spin, the Moon's cycle and the year. A strong answer can give the problem each rhythm solves.
 11. (mcq) In 1822 a stork was found in Germany with a spear from Africa in their neck. Why did this change people's minds?  
-   Options: It showed spears can fly / It showed storks fight / It showed the stork had been in Africa and flown back / It showed storks like Africa better  
+   Options: It showed spears can fly / It showed storks fight / It showed storks like Africa better / It showed the stork had been in Africa and flown back  
    **Answer:** It showed the stork had been in Africa and flown back. *Why:* The spear was African, so the stork must have been in Africa. That ruled out the old idea that birds slept in mud all winter. One clear piece of evidence can overturn a belief held for centuries.
 12. (order) Put these events in the order they happened.  
    **Answer:** ['Aristotle wrote that some birds hide in winter', 'Olaus Magnus wrote that swallows sleep in mud', 'A stork with an African spear was found in Germany', 'Hans Christian Mortensen began putting rings on birds']. *Why:* Aristotle lived over 2,300 years ago, Olaus Magnus wrote in 1555, the stork was found in 1822, and ringing began in 1899.
@@ -686,16 +686,16 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    Options: A rooster crowing at dawn / Konrai trees flowering around April / Bean leaves drooping at night / Feeling hungry at lunchtime  
    **Answer:** Konrai trees flowering around April. *Why:* The konrai flowers once a year, around Vishu in April. The others happen every day.
 2. (mcq) A bean plant is kept in a dark box overnight. In the morning, before any light is let in, what will you most likely see?  
-   Options: The leaves still hanging down / No leaves at all / The leaves held out flat again / The leaves fallen off  
+   Options: The leaves held out flat again / The leaves still hanging down / No leaves at all / The leaves fallen off  
    **Answer:** The leaves held out flat again. *Why:* The plant's body clock lifts the leaves in the morning, even in the dark. 'The leaves still hanging down' is the most common guess, because it seems the dark should keep the leaves down.
 3. (mcq) What resets a body clock each day?  
-   Options: Eating sweets / Morning light / Loud noises / Rain  
+   Options: Eating sweets / Loud noises / Morning light / Rain  
    **Answer:** Morning light. *Why:* Light in the morning sets the body clock right, so it does not drift. This is why jet lag wears off after a few days of daylight in a new place.
 4. (mcq) Why do many flowers open only at a certain time of day?  
-   Options: To rest their petals / To be open when their pollinators visit / To hide from the rain / Because the Sun tells each flower separately  
+   Options: To be open when their pollinators visit / To rest their petals / To hide from the rain / Because the Sun tells each flower separately  
    **Answer:** To be open when their pollinators visit. *Why:* Flowers need visitors such as bees and moths to carry pollen. Opening when the visitors come saves scent and nectar.
 5. (mcq) Why do many small birds leave the far north in autumn?  
-   Options: Food such as insects runs out in winter / They are bored of the north / Their feathers fall out / The north gets too bright  
+   Options: They are bored of the north / Food such as insects runs out in winter / Their feathers fall out / The north gets too bright  
    **Answer:** Food such as insects runs out in winter. *Why:* A small bird must eat many times a day. In winter, lakes freeze and insects vanish, so the birds fly to places like India where there is food.
 6. (mcq) What do many birds use to tell when it is time to migrate?  
    Options: The full moon / The first rain / The noise of traffic / The days getting shorter or longer  
@@ -704,19 +704,19 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
    Options: A swallow seen sleeping on a wire / A bird that comes back in spring carrying something from a faraway land / Mud that is cold in winter / Swallows nesting on houses in summer  
    **Answer:** A bird that comes back in spring carrying something from a faraway land. *Why:* Something from a faraway land shows the bird had been there and flown back. In 1822 a stork came back to Germany with an African spear in their neck, which helped show that birds fly far away instead of sleeping in mud.
 8. (mcq) What do scientists still not agree on?  
-   Options: Whether plants have body clocks / Why some leaves droop at night / Whether birds migrate / Whether the Earth spins  
+   Options: Whether plants have body clocks / Whether birds migrate / Whether the Earth spins / Why some leaves droop at night  
    **Answer:** Why some leaves droop at night. *Why:* Scientists agree that leaves move and that plants have clocks. Why the drooping helps is still argued: keeping warm, keeping moonlight off, or staying dry.
 9. (mcq) Sevanthi plants on a balcony grow flower buds in November. What signal tells them it is time?  
-   Options: Louder birds / Hotter days / The nights getting longer / More rain  
+   Options: Louder birds / Hotter days / More rain / The nights getting longer  
    **Answer:** The nights getting longer. *Why:* Sevanthi, the chrysanthemum, flowers when the nights grow long. This use of day length is called photoperiodism.
 10. (mcq) A body clock in steady darkness keeps going but slowly drifts. Why does it drift?  
-   Options: It forgets the day / It counts in weeks / It stops every night / It runs a little faster or slower than 24 hours  
+   Options: It forgets the day / It counts in weeks / It runs a little faster or slower than 24 hours / It stops every night  
    **Answer:** It runs a little faster or slower than 24 hours. *Why:* A body clock runs close to 24 hours, but not exactly. Without light to reset it, the small difference adds up each day.
 11. (mcq) Why does a bean plant gain from lifting their leaves before sunrise?  
-   Options: It helps the roots drink / It makes the plant taller / It keeps insects away / They are ready to make food with the first light  
+   Options: They are ready to make food with the first light / It helps the roots drink / It makes the plant taller / It keeps insects away  
    **Answer:** They are ready to make food with the first light. *Why:* Plants make food from light. A plant that is ready before the light comes wastes none of the morning.
 12. (mcq) Some falcons fly from cold eastern Asia to spend the winter in warm southern Africa, across a wide sea. On the way, they stop for weeks in north-east India. Why do they stop?  
-   Options: To sleep through the winter / To rest and eat plenty before the long flight across the sea / Because they have reached the South Pole / To build nests for their chicks  
+   Options: To sleep through the winter / Because they have reached the South Pole / To build nests for their chicks / To rest and eat plenty before the long flight across the sea  
    **Answer:** To rest and eat plenty before the long flight across the sea. *Why:* Over the open sea there is nowhere to land or feed, so migrating birds must eat plenty first. Amur falcons do this in Nagaland, then cross the Arabian Sea.
 
 ## Applications

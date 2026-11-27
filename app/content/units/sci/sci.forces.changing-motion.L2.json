@@ -465,11 +465,11 @@
       "t": "mcq",
       "q": "A marble runs round inside a curved wall. The wall ends. Which way does the marble go?",
       "options": [
-       "Straight on, the way it was going",
        "It keeps curving round",
-       "It stops at once"
+       "It stops at once",
+       "Straight on, the way it was going"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Nothing pushes it sideways after the wall ends, so it goes straight on. If you picked 'keeps curving', try the Bend Wall again and watch the very end of the wall."
      }
     }
@@ -1160,11 +1160,11 @@
       "t": "mcq",
       "q": "A ball is rolling towards the goal but will miss it on the left. Where should you push it?",
       "options": [
-       "From its left side, to send it right",
        "From behind, to make it faster",
-       "From the front, to stop it"
+       "From the front, to stop it",
+       "From its left side, to send it right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A push from the side turns the ball. Pushing on its left side sends it to the right. A push from behind only makes it faster, so it misses by more."
      }
     }
@@ -1455,11 +1455,11 @@
       "t": "mcq",
       "q": "The ball leaves the last wall and misses the tumbler. Which way did it go after the wall?",
       "options": [
-       "Straight on, the way it was going",
        "It kept curving round",
-       "It turned back by itself"
+       "It turned back by itself",
+       "Straight on, the way it was going"
       ],
-      "a": 0,
+      "a": 2,
       "why": "After the last wall, nothing pushes the ball sideways, so it goes straight. Move the last wall so that its straight path points into the tumbler."
      }
     }
@@ -1791,11 +1791,11 @@
      "t": "mcq",
      "p": "A girl swings a sock tied on a string round and round, then lets go of the string. Which way does the sock fly?",
      "opts": [
-      "Straight off, the way it was going at that moment",
       "Round in a circle, as before",
-      "Straight back to her hand"
+      "Straight back to her hand",
+      "Straight off, the way it was going at that moment"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The string was pulling the sock inwards to make it go round. When she lets go, nothing pulls it, so it flies off straight, like the marble leaving the wall."
     },
     {
@@ -1864,10 +1864,10 @@
      "p": "Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?",
      "opts": [
       "Only speeding up",
-      "Speeding up and slowing down, but not turning",
-      "All three"
+      "All three",
+      "Speeding up and slowing down, but not turning"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Speeding up, slowing down and turning are all changes in how a thing moves. Every change needs a push or a pull."
     },
     {
@@ -1919,11 +1919,11 @@
    "t": "mcq",
    "p": "Which of these goes back to its old shape when you let go?",
    "opts": [
-    "A stretched rubber band",
     "Crumpled foil",
-    "Dough pressed flat"
+    "Dough pressed flat",
+    "A stretched rubber band"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A rubber band springs back. Foil and dough keep their new shape.",
    "outcome": 1,
    "how": "a1"
@@ -1932,11 +1932,11 @@
    "t": "mcq",
    "p": "The same ball is let go on a ramp on 1 book and on a ramp on 3 books. Which rolls further?",
    "opts": [
-    "The ball from 3 books",
     "The ball from 1 book",
-    "Both the same"
+    "Both the same",
+    "The ball from 3 books"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The steeper ramp lets gravity speed the ball up more, so it rolls further.",
    "outcome": 2,
    "how": "e2"
@@ -1958,11 +1958,11 @@
    "t": "mcq",
    "p": "A ball is rolling across the floor. You push it gently from its side. What happens?",
    "opts": [
-    "It turns",
     "It goes faster in the same direction",
+    "It turns",
     "It changes shape"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A push from the side changes the ball's direction.",
    "outcome": 3
   },
@@ -1970,11 +1970,11 @@
    "t": "mcq",
    "p": "You roll a ball straight at a wall. What does it do after it hits?",
    "opts": [
-    "It comes back towards you",
     "It goes through the wall",
-    "It goes off to the side"
+    "It goes off to the side",
+    "It comes back towards you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wall pushes the ball back the way it came.",
    "outcome": 3,
    "how": "a3"
@@ -1983,11 +1983,11 @@
    "t": "mcq",
    "p": "A marble rolls round the inside of the rim of a steel plate. What keeps it going round?",
    "opts": [
-    "The rim pushes it inwards all the time",
     "The marble likes going round",
-    "The plate is heavy"
+    "The plate is heavy",
+    "The rim pushes it inwards all the time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The rim pushes the marble inwards at every moment. That push bends its path into a circle.",
    "outcome": 4,
    "how": "e1"
@@ -1996,11 +1996,11 @@
    "t": "mcq",
    "p": "In the Bend Wall test, you held a finger on the outside of the wall. What did your finger feel?",
    "opts": [
-    "The marble knocking against the wall",
     "The wall pulling the marble",
-    "Nothing at all"
+    "Nothing at all",
+    "The marble knocking against the wall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wall pushes the marble sideways, and the marble pushes back on the wall, so a finger on the wall feels a small knock.",
    "outcome": 4,
    "how": "e1"
@@ -2016,11 +2016,11 @@
    "t": "mcq",
    "p": "In the Bend Wall test, you guessed the marble would keep curving. It went straight. What is the best thing to do?",
    "opts": [
-    "Write down what really happened, and think about why",
     "Change your guess in the table so it looks right",
+    "Write down what really happened, and think about why",
     "Stop doing the test"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wrong guess is useful. Writing what really happened, and thinking about why, is how scientists learn.",
    "outcome": 5,
    "how": "e1"

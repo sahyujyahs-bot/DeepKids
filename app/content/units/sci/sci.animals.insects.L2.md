@@ -460,7 +460,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 5. (truefalse) All the worker ants in a colony are female.  
    **Answer:** True. *Why:* True. The worker ants are sisters, daughters of the queen. Male ants hatch only at some times of year, and do not do the work of the nest.
 6. (mcq) Silk is a strong, thin thread made inside an animal's body. Which of these animals makes silk?  
-   Options: A spider / A honeybee / A cockroach  
+   Options: A honeybee / A cockroach / A spider  
    **Answer:** A spider. *Why:* A spider makes silk at the back end of her body, and uses it for her web.
 7. (label) Label the spider: front part, back part, legs, eyes.  
    **Answer:** ['front part: where the legs, eyes and mouth are', 'back part: the round part, where the silk comes out', 'legs: eight, all joined to the front part', 'eyes: on the top of the front part, often eight']. *Why:* A spider's body has two parts. All eight legs join the front part, and the silk comes out of the back part.
@@ -478,7 +478,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 2. (write) Suppose an ant grew as big as a dog. Would she still carry a crumb bigger than her own head? Say why. (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** No. When a body gets bigger, the weight grows much faster than the strength of the muscles. A dog-sized ant would be very heavy, and would have little strength left for a load.. *Why:* A strong answer says that weight grows faster than strength as a body gets bigger. It may use numbers: twice as big each way means about 4 times the strength but about 8 times the weight.
 3. (mcq) Which of these gives the best reason why a small ant can carry a big crumb?  
-   Options: Ants eat a lot of sugar / A small body is very light for the strength of the muscles / Ants have more legs than people  
+   Options: A small body is very light for the strength of the muscles / Ants eat a lot of sugar / Ants have more legs than people  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with how strong the muscles are, so there is strength left over for a load. Sugar and the number of legs do not explain it.
 4. (write) One child did the crumb test with tiny red ants. The big crumbs stayed, but the ants ate them in little bits. Another child used big black ants, and one ant carried a rice-sized crumb alone. Why were the results different? (Say it out loud, or a grown-up can write it for you.)  
    **Answer:** The ants were different kinds and sizes. A big black ant is stronger than a tiny red ant, so she can carry a bigger crumb alone. The tiny ants worked as a team or ate the crumb bit by bit.. *Why:* A strong answer says different kinds of ants are different sizes and strengths, so a fair comparison must use the same kind of ant.
@@ -503,7 +503,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 
 ## Quiz
 1. (mcq) How many legs does every grown-up insect have?  
-   Options: Four / Six / Eight  
+   Options: Four / Eight / Six  
    **Answer:** Six. *Why:* Every grown-up insect has six legs, three on each side. Ants, bees and butterflies all have six.
 2. (mcq) Which of these is an insect?  
    Options: A honeybee / A spider / An earthworm  
@@ -515,25 +515,25 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    Options: One / Two / Three  
    **Answer:** Two. *Why:* A spider's body has two parts: a front part with the legs, and a round back part. An insect's body has three parts.
 5. (mcq) How does an earthworm move without legs?  
-   Options: The body squeezes and stretches, and tiny bristles grip the soil / The worm rolls like a ball / The worm jumps  
+   Options: The worm rolls like a ball / The worm jumps / The body squeezes and stretches, and tiny bristles grip the soil  
    **Answer:** The body squeezes and stretches, and tiny bristles grip the soil. *Why:* Muscles make the body long and thin, then short and fat. Tiny bristles on each ring hold on to the soil, so the worm moves forward.
 6. (mcq) You see a butterfly standing on four legs. What is true?  
    Options: The butterfly has lost two legs / The butterfly has six legs, but keeps two folded up / Butterflies have four legs  
    **Answer:** The butterfly has six legs, but keeps two folded up. *Why:* Many butterflies keep their two small front legs folded up near the head. They still have six legs.
 7. (mcq) In the crumb test, what did the ants usually do with the biggest crumbs?  
-   Options: Carried them away fast / Crowded on them and bit off small bits / Ran away from them  
+   Options: Crowded on them and bit off small bits / Carried them away fast / Ran away from them  
    **Answer:** Crowded on them and bit off small bits. *Why:* The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.
 8. (mcq) In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?  
-   Options: So every size was the same distance from the ants / So the paper looked nice / So the ants could not find them  
+   Options: So the paper looked nice / So every size was the same distance from the ants / So the ants could not find them  
    **Answer:** So every size was the same distance from the ants. *Why:* Mixing the sizes along one line makes the test fair. No size was closer to the ants than another.
 9. (mcq) A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?  
-   Options: A small body is very light for the strength of the muscles / Ants eat more food than people / Ants have stronger bones  
+   Options: Ants eat more food than people / A small body is very light for the strength of the muscles / Ants have stronger bones  
    **Answer:** A small body is very light for the strength of the muscles. *Why:* A small body weighs very little compared with the strength of the muscles. Ants have no bones inside at all. Their hard skin is on the outside.
 10. (mcq) What does a honeybee's dance tell her sisters?  
-   Options: That she is tired / Which way to fly, and how far, to find flowers / That it will rain  
+   Options: Which way to fly, and how far, to find flowers / That she is tired / That it will rain  
    **Answer:** Which way to fly, and how far, to find flowers. *Why:* The waggle dance shows which way to fly and how far. A bee learns where the flowers are, and tells her sisters.
 11. (mcq) After the first monsoon rains, winged termites fly up out of the ground. Why?  
-   Options: To find a mate and start a new family / To escape the rain and drown / To drink from the puddles  
+   Options: To escape the rain and drown / To drink from the puddles / To find a mate and start a new family  
    **Answer:** To find a mate and start a new family. *Why:* Winged termites fly out to find a mate and start a new colony. Most of them are eaten by birds and lizards before they manage it. They are not trying to escape the rain, and puddles are not their reason to fly.
 
 ## Applications

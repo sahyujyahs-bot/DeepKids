@@ -892,11 +892,11 @@
       "t": "mcq",
       "q": "In Hot Dip, Cold Dip, why do all three slices come from one apple?",
       "options": [
-       "So that only the dip is different",
        "So that less apple is wasted",
-       "So that the slices taste the same"
+       "So that the slices taste the same",
+       "So that only the dip is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Two apples may brown at different speeds. Slices from one apple start the same, so any difference comes from the dip. If you chose waste or taste, remember that a fair test changes only one thing."
      },
      "parent": "You can do something else between the looks. The times need not be exact, but look at all three slices together.",
@@ -1087,11 +1087,11 @@
       "t": "mcq",
       "q": "In the Tawa Toast Test, why does each square move one place round every minute?",
       "options": [
-       "Some parts of the tawa are hotter",
        "So that the squares do not stick",
-       "To cool the bread down"
+       "To cool the bread down",
+       "Some parts of the tawa are hotter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The flame heats some parts of a tawa more than others. Moving the squares round shares the hot spots among them. If you chose sticking or cooling, think about what must stay the same in a fair test."
      },
      "parent": "Keep the flame low. The sugar square can go from brown to black quickly, so take it off if it starts to smoke. Listen for the hiss from the wet squares in the first minute.",
@@ -1842,12 +1842,12 @@
      "t": "mcq",
      "p": "What three things does a cut apple need in order to turn brown?",
      "opts": [
-      "Broken cells, an enzyme and oxygen",
       "Heat, sugar and salt",
+      "Broken cells, an enzyme and oxygen",
       "Yeast, water and warmth",
       "Cold, dark and time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cutting breaks the cells. An enzyme from the cells then joins oxygen from the air to chemicals in the juice. That makes the brown.",
      "outcome": 0
     },
@@ -1933,12 +1933,12 @@
      "t": "mcq",
      "p": "Why does an idli stay white while a dosa turns brown?",
      "opts": [
-      "Steam is not hot enough to brown",
       "Idli batter has no sugar",
       "Idli is cooked for longer",
+      "Steam is not hot enough to brown",
       "Dosa batter has more salt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Steam is at about 100 degrees Celsius, and heat browning needs more. The dry surface of a dosa on a tawa gets far hotter.",
      "outcome": 3
     },
@@ -1982,12 +1982,12 @@
      "t": "mcq",
      "p": "What does kneading do to wheat dough?",
      "opts": [
-      "Links proteins into a stretchy net",
       "Kills the yeast",
       "Washes out the starch",
+      "Links proteins into a stretchy net",
       "Makes the gas"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Kneading lines up the wheat proteins and joins them into gluten. The gas is made by yeast, soda or steam, not by kneading.",
      "outcome": 5
     },
@@ -2043,12 +2043,12 @@
      "t": "mcq",
      "p": "Which gas do yeast give off as they feed on sugar?",
      "opts": [
-      "Carbon dioxide",
       "Oxygen",
+      "Carbon dioxide",
       "Steam",
       "Onion gas"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Yeast turn sugar into carbon dioxide and a little alcohol. The carbon dioxide makes the bubbles in the dough.",
      "outcome": 4
     }
@@ -2064,12 +2064,12 @@
      "t": "mcq",
      "p": "In Hot Dip, Cold Dip, why was one apple slice dipped in cold water?",
      "opts": [
-      "To check that wetting was not the cause",
       "To wash the slice clean",
+      "To check that wetting was not the cause",
       "To cool the plate down",
       "To make it brown faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The hot slice was both heated and wetted. The cold slice was only wetted. It still browned, so the heat made the difference.",
      "outcome": 7,
      "how": "e1"
@@ -2078,12 +2078,12 @@
      "t": "mcq",
      "p": "In the Tawa Toast Test, the square wet with water stayed pale longest. Why?",
      "opts": [
-      "It stayed near 100 degrees until dry",
       "Water has no colour",
       "It had less bread in it",
-      "Water cooled the tawa for good"
+      "Water cooled the tawa for good",
+      "It stayed near 100 degrees until dry"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Wet bread cannot pass about 100 degrees Celsius until its water has boiled away. Heat browning needs a hotter, dry surface.",
      "outcome": 3,
      "how": "e2"
@@ -2255,12 +2255,12 @@
      "t": "mcq",
      "p": "Mustard seeds popped in hot oil taste nutty and not sharp. Why?",
      "opts": [
-      "Heat destroyed the enzyme",
       "Oil washed the sharpness away",
       "Popping let the gas out",
+      "Heat destroyed the enzyme",
       "The seeds were too old"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sharp substance is made by an enzyme when raw seeds are crushed and wetted. Hot oil destroys the enzyme first, so it is never made.",
      "outcome": 1,
      "how": "a3"
@@ -2277,12 +2277,12 @@
      "t": "mcq",
      "p": "Scientists switched off the browning enzyme in apple trees. What happened to the cut apples?",
      "opts": [
-      "They stayed pale",
       "They browned faster",
+      "They stayed pale",
       "They rotted at once",
       "They turned sour"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With no browning enzyme, oxygen is not joined to the chemicals in the juice. These apples were approved for sale in the United States in 2015.",
      "outcome": 0
     },
@@ -2290,12 +2290,12 @@
      "t": "mcq",
      "p": "Onion juice with only the first enzyme made almost no tear gas. What does this show?",
      "opts": [
-      "A second enzyme is needed",
       "Onions hold no enzymes",
       "The gas is stored in the onion",
-      "Heat makes the gas"
+      "Heat makes the gas",
+      "A second enzyme is needed"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If one enzyme were enough, the gas would have formed. Shinsuke Imai's team found the missing second enzyme in 2002.",
      "outcome": 7
     },
@@ -2436,12 +2436,12 @@
      "t": "mcq",
      "p": "A bread recipe uses boiling water to mix the yeast. What will happen?",
      "opts": [
-      "The yeast die and make no gas",
       "The dough rises faster",
+      "The yeast die and make no gas",
       "The gluten washes away",
       "The crust browns sooner"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Yeast die at about 60 degrees Celsius. Dead yeast cannot feed, so they make no carbon dioxide. Warm water, not hot, suits them best.",
      "outcome": 4
     },
@@ -2449,12 +2449,12 @@
      "t": "mcq",
      "p": "What made the sharp smell in wet, crushed raw mustard?",
      "opts": [
-      "An enzyme changed a stored chemical",
       "The water was sour",
+      "An enzyme changed a stored chemical",
       "The seeds began to rot",
       "Air dried the powder"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Crushing and wetting bring a stored chemical and an enzyme together. The enzyme makes the sharp substance within about ten minutes.",
      "outcome": 6,
      "how": "a3"
@@ -2467,12 +2467,12 @@
    "t": "mcq",
    "p": "Why does a cut brinjal turn brown?",
    "opts": [
-    "An enzyme uses oxygen from the air",
     "The knife leaves rust on it",
     "Germs rot it within minutes",
-    "The brinjal dries out"
+    "The brinjal dries out",
+    "An enzyme uses oxygen from the air"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Cutting breaks the cells. An enzyme from the cells joins oxygen to chemicals in the juice, and the product is brown. If you chose germs, remember that rotting takes days.",
    "outcome": 0
   },
@@ -2480,12 +2480,12 @@
    "t": "mcq",
    "p": "Which of these stops an apple slice from browning?",
    "opts": [
-    "Two minutes in boiling water",
     "Leaving it in a sunny place",
     "Cutting it into smaller pieces",
-    "Blowing air over it"
+    "Blowing air over it",
+    "Two minutes in boiling water"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Boiling water destroys the browning enzyme. Smaller pieces and more air both make browning faster, because more cells are broken and more oxygen arrives.",
    "outcome": 1
   },
@@ -2493,12 +2493,12 @@
    "t": "mcq",
    "p": "Lemon juice keeps cut banana pale. Why?",
    "opts": [
-    "Sour juice slows the enzyme",
     "Lemon juice is yellow",
     "It makes the banana colder",
-    "It adds more oxygen"
+    "It adds more oxygen",
+    "Sour juice slows the enzyme"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The browning enzyme works badly in sour juice. The vitamin C in lemon also undoes the first step of the browning.",
    "outcome": 1
   },
@@ -2506,12 +2506,12 @@
    "t": "mcq",
    "p": "What does heat browning need?",
    "opts": [
-    "A dry surface hotter than boiling water",
     "Broken cells and cold air",
     "Yeast and warm water",
+    "A dry surface hotter than boiling water",
     "A lid on the pan"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sugars and proteins react fast only above about 140 degrees Celsius. A wet surface stays near 100 degrees Celsius, so it must dry first.",
    "outcome": 2
   },
@@ -2519,12 +2519,12 @@
    "t": "mcq",
    "p": "Boiled rice never browns in the pot. Why?",
    "opts": [
-    "Boiling water stays at about 100 degrees",
     "Rice has no sugar or protein",
+    "Boiling water stays at about 100 degrees",
     "The lid keeps the air out",
     "Rice is already cooked"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rice has both starch and protein, and it browns well when fried. In boiling water it cannot get hot enough.",
    "outcome": 3
   },
@@ -2532,12 +2532,12 @@
    "t": "mcq",
    "p": "Which food is puffed by steam alone?",
    "opts": [
-    "Puri",
     "Pav",
+    "Puri",
     "Dhokla",
     "Idli"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A puri has no yeast and no soda. Water in the dough turns to steam in the hot oil. Pav uses yeast, dhokla uses soda, and idli batter is fermented.",
    "outcome": 4
   },
@@ -2545,12 +2545,12 @@
    "t": "mcq",
    "p": "What do yeast need in order to make gas?",
    "opts": [
-    "Sugar, water and warmth",
     "Salt and cold air",
     "Baking soda and lemon",
-    "Very hot oil"
+    "Very hot oil",
+    "Sugar, water and warmth"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Yeast are living beings. They feed on sugar in warm, wet dough and give off carbon dioxide. Cold slows them, and great heat kills them.",
    "outcome": 4
   },
@@ -2558,12 +2558,12 @@
    "t": "mcq",
    "p": "Why can wheat dough hold gas bubbles?",
    "opts": [
-    "Its gluten stretches without tearing",
     "Its starch is very sticky",
     "It is heavier than rice dough",
-    "It holds more water"
+    "It holds more water",
+    "Its gluten stretches without tearing"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Gluten is a stretchy net of wheat proteins. It stretches around each bubble. Starch washes away in water and does not stretch.",
    "outcome": 5
   },
@@ -2585,12 +2585,12 @@
    "t": "mcq",
    "p": "Where is the tear gas before an onion is cut?",
    "opts": [
-    "It has not been made yet",
     "In the dry outer skin",
     "In the middle of the bulb",
+    "It has not been made yet",
     "In the roots"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A whole onion holds the makings of the gas in separate parts of each cell. The gas forms only after a cut mixes them.",
    "outcome": 6,
    "how": "a1"
@@ -2599,12 +2599,12 @@
    "t": "mcq",
    "p": "Why does a chilled onion sting less?",
    "opts": [
-    "Cold slows the enzymes",
     "Cold freezes the tears",
     "Cold onions have fewer cells",
-    "The knife becomes sharper"
+    "The knife becomes sharper",
+    "Cold slows the enzymes"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Enzymes work more slowly when they are cold, so less gas is made in the first minute. The gas also rises more slowly from a cold onion.",
    "outcome": 6
   },

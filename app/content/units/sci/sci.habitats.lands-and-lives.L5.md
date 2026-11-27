@@ -716,10 +716,10 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 ## Worksheets
 ### India's regions: the main ideas (core, 18 questions)
 1. (mcq) What is an ecological region?  
-   Options: A large area with its own climate / A state with its own language / Any place that has a forest / The capital city of a country  
+   Options: A state with its own language / A large area with its own climate / Any place that has a forest / The capital city of a country  
    **Answer:** A large area with its own climate. *Why:* An ecological region is a large area with its own climate, landforms, plants and animals. Its edges follow rain and height, and state borders do not matter to it.
 2. (mcq) Which four things decide most of what can live in a region?  
-   Options: Sun, Moon, stars and clouds / Rain, height, salt and soil / Roads, towns, shops and schools / Colour, shape, size and smell  
+   Options: Rain, height, salt and soil / Sun, Moon, stars and clouds / Roads, towns, shops and schools / Colour, shape, size and smell  
    **Answer:** Rain, height, salt and soil. *Why:* Rain decides between forest and desert. Height decides how cold the air is. Salt and soil decide which plants can grow in the ground.
 3. (fill) The drier land on the far side of a mountain range is called a rain ____.  
    **Answer:** ['shadow']. *Why:* The air drops its rain while climbing the near side. The far side, which gets little, is the rain shadow.
@@ -736,7 +736,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 9. (order) Put these in order, as wet sea air crosses the Western Ghats.  
    **Answer:** ['Wet air blows in from the sea', 'The hills push the air upwards', 'The air cools as it rises', 'Rain falls on the sea side', 'Drier air sinks down the far side']. *Why:* Air must rise before it cools, and cool before it rains. What sinks on the far side has already lost most of its water.
 10. (mcq) How do buttress roots help a tall rainforest tree?  
-   Options: They reach water deep down / They frighten animals away / They make her base wider / They store rainwater  
+   Options: They make her base wider / They reach water deep down / They frighten animals away / They store rainwater  
    **Answer:** They make her base wider. *Why:* A wide base means the tree must lean much farther before she falls. Her other roots are shallow, because the soil's plant food is near the top.
 11. (mcq) A tall paper tube has two buttresses. Which tilt makes the tube fall soonest?  
    Options: A tilt across the buttresses / A tilt along the buttresses / Both are the same  
@@ -757,13 +757,13 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
    **Answer:** ['Tamil Nadu']. *Why:* The range runs down the west side of India through six states, and ends near Kanyakumari in Tamil Nadu.
 ### Unique places, and the knowledge that fits them (stretch, 20 questions)
 1. (mcq) Why do islands and high hilltops hold many endemic living beings?  
-   Options: They are cut off from other places / They get the most rain / They have the most people / They are closest to the Sun  
+   Options: They get the most rain / They are cut off from other places / They have the most people / They are closest to the Sun  
    **Answer:** They are cut off from other places. *Why:* Living beings who are cut off for a very long time change in their own way. Sea cuts off an island, and hot valleys cut off a cold hilltop.
 2. (mcq) Why does a living root bridge suit Meghalaya better than a wooden one?  
-   Options: Wooden bridges are too heavy / Cut wood rots fast in heavy rain / Wood is hard to find there / Living roots cross in one month  
+   Options: Wooden bridges are too heavy / Wood is hard to find there / Living roots cross in one month / Cut wood rots fast in heavy rain  
    **Answer:** Cut wood rots fast in heavy rain. *Why:* The Khasi hills get about 12 metres of rain a year. Dead wood rots in a few years, and a living root grows thicker each year.
 3. (mcq) The sangai deer lives on one lake only. What follows for her safety?  
-   Options: She must be very common / She can move to another lake / Harm to that lake harms every sangai / She is safe everywhere else  
+   Options: Harm to that lake harms every sangai / She must be very common / She can move to another lake / She is safe everywhere else  
    **Answer:** Harm to that lake harms every sangai. *Why:* An endemic being has one home. If the floating mats of Loktak Lake are harmed, there is no second place where sangai live.
 4. (truefalse) An endemic living being is always rare.  
    **Answer:** False. *Why:* False. Endemic means found in one place only. Some endemic beings are common in that one place. Rare means few are left.
@@ -802,16 +802,16 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
    **Answer:** Kaziranga, Assam → The one-horned rhinoceros; Gir, Gujarat → The Asiatic lion; Corbett, Uttarakhand → The tiger; Keoladeo, Rajasthan → Winter birds from the far north. *Why:* A national park guards an animal's home as well as the animal. Each of these parks is known for one famous guest.
 ### Testing ideas about lands and knowledge (challenge, 16 questions)
 1. (mcq) A new rice gave double the grain in tests. What should a coastal farmer ask first?  
-   Options: Where was it tested? / What colour is the grain? / Who sells the seed? / How old is the variety?  
+   Options: What colour is the grain? / Who sells the seed? / How old is the variety? / Where was it tested?  
    **Answer:** Where was it tested?. *Why:* A result is true for the land where the test was done. A field of shallow fresh water does not test a rice for salt or deep floods.
 2. (mcq) Bog layers showed grass on the Nilgiris 20,000 years ago. Which idea did this overturn?  
-   Options: That bogs are wet / That the grasslands were ruined forest / That the Nilgiris are hills / That grass needs rain  
+   Options: That the grasslands were ruined forest / That bogs are wet / That the Nilgiris are hills / That grass needs rain  
    **Answer:** That the grasslands were ruined forest. *Why:* Foresters had thought the grass was waste land left after people destroyed a forest. The layers showed that the grass was far older than any herd or plantation.
 3. (mcq) Why is Ladakh both cold and dry?  
-   Options: It has sandy soil / It has few trees / It is high, and behind the Himalaya / It is far from any river  
+   Options: It has sandy soil / It is high, and behind the Himalaya / It has few trees / It is far from any river  
    **Answer:** It is high, and behind the Himalaya. *Why:* Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow. Leh gets about 4 centimetres of rain a year.
 4. (mcq) Corals turn white, and may die, when the sea does what?  
-   Options: Has a very high tide / Has too many fish / Becomes fresh after rain / Stays too warm for weeks  
+   Options: Has a very high tide / Stays too warm for weeks / Has too many fish / Becomes fresh after rain  
    **Answer:** Stays too warm for weeks. *Why:* In water that stays too warm, corals push out the tiny algae who live inside them and share food. Without the algae they are white, and they slowly starve.
 5. (truefalse) A method that was tested in one land is sure to work in every land.  
    **Answer:** False. *Why:* False. A method is tested by the rain, height, salt and soil of one land. Where those differ, the method may fail, as the tall tower did in the wind.
@@ -845,67 +845,67 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 
 ## Quiz
 1. (mcq) Which of these is an ecological region?  
-   Options: The Thar desert / The city of Chennai / A cricket ground / A school  
+   Options: The city of Chennai / A cricket ground / The Thar desert / A school  
    **Answer:** The Thar desert. *Why:* An ecological region is a large area with its own climate, plants and animals. A city or a school is a place people built inside a region.
 2. (mcq) Two towns get the same sea wind. One lies behind a range of hills. Which town gets less rain?  
-   Options: It changes every day / The town behind the hills / The town on the sea side / Both get the same  
+   Options: It changes every day / The town on the sea side / Both get the same / The town behind the hills  
    **Answer:** The town behind the hills. *Why:* The air drops most of its rain while climbing the side facing the wind. The town behind the hills is in the rain shadow.
 3. (mcq) Ooty and Coimbatore are close together. Why is Ooty much cooler?  
    Options: Ooty has more people / Ooty is farther south / Ooty is far higher / Ooty is nearer the sea  
    **Answer:** Ooty is far higher. *Why:* Ooty stands at about 2,240 metres. Air cools by about 6 degrees for every 1,000 metres of height.
 4. (mcq) What do a mangrove's breathing roots take in?  
-   Options: Salt / Sunlight / Mud / Air  
+   Options: Salt / Air / Sunlight / Mud  
    **Answer:** Air. *Why:* Waterlogged mud has almost no air, and roots need oxygen. The breathing roots take in air at low tide.
 5. (mcq) What is a coral reef built from?  
-   Options: The stony cups of tiny animals / Sand pressed hard by waves / Dead seaweed / Lava from a volcano  
+   Options: Sand pressed hard by waves / The stony cups of tiny animals / Dead seaweed / Lava from a volcano  
    **Answer:** The stony cups of tiny animals. *Why:* Each coral animal builds a hard cup of lime. Over thousands of years the cups pile up into a reef.
 6. (mcq) Which of these is endemic to the Western Ghats?  
    Options: The snow leopard / The lion-tailed macaque / The house crow / The sangai deer  
    **Answer:** The lion-tailed macaque. *Why:* The lion-tailed macaque lives only in the rainforests of the Western Ghats. The sangai belongs to Manipur, and the snow leopard to the high Himalaya.
 7. (mcq) Which place lies farthest south in India?  
-   Options: Kochi / Chennai / Indira Point / Kanyakumari  
+   Options: Kochi / Indira Point / Chennai / Kanyakumari  
    **Answer:** Indira Point. *Why:* Indira Point is on Great Nicobar Island. Kanyakumari is the southern tip of the mainland only.
 8. (mcq) How is traditional knowledge mostly built?  
-   Options: One person invents it in a year / People copy it from a book / It appears by chance, untested / Many generations keep what works  
+   Options: One person invents it in a year / People copy it from a book / Many generations keep what works / It appears by chance, untested  
    **Answer:** Many generations keep what works. *Why:* People try things, keep what works, warn their children about what failed, and change a little in each generation.
 9. (mcq) A design wins in one land and fails in another. What is the most likely reason?  
-   Options: The two lands test it differently / The builders were careless / The design was never good / The materials were different  
+   Options: The builders were careless / The two lands test it differently / The design was never good / The materials were different  
    **Answer:** The two lands test it differently. *Why:* In the Two Lands Test the tall tower won in still air and fell in wind. A design fits the land that tested it.
 10. (mcq) A village behind trees had less damage than a village on open shore. What else must you check?  
-   Options: The day of the week / Their distance and height from the sea / The names of the two villages / The colour of the houses  
+   Options: The day of the week / The names of the two villages / Their distance and height from the sea / The colour of the houses  
    **Answer:** Their distance and height from the sea. *Why:* If the safer village was also farther away or higher, the trees may not be the reason. A fair comparison changes one thing only.
 11. (mcq) Why do Mising families in the Assam valley build their houses on stilts?  
    Options: To watch for tigers / To catch more wind / The river floods most years / Bamboo must not touch soil  
    **Answer:** The river floods most years. *Why:* The Brahmaputra floods the valley almost every monsoon. On stilts, the water passes under the floor.
 12. (mcq) A forest gets about 40 centimetres of rain a year. Its trees have thorns and small leaves. Which kind of forest is it?  
-   Options: Evergreen forest / Moist deciduous forest / Thorn forest / Mangrove forest  
+   Options: Thorn forest / Evergreen forest / Moist deciduous forest / Mangrove forest  
    **Answer:** Thorn forest. *Why:* Thorn forest grows where less than 75 centimetres of rain falls. Evergreen forest needs about 200 centimetres or more, and mangroves need salty tidal mud.
 13. (mcq) Why do the trees of a deciduous forest drop their leaves in the dry months?  
-   Options: To save water when little rain falls / Because the sea air is too salty / To make room for birds' nests / Because the Sun burns the leaves in winter  
+   Options: Because the sea air is too salty / To make room for birds' nests / Because the Sun burns the leaves in winter / To save water when little rain falls  
    **Answer:** To save water when little rain falls. *Why:* Leaves lose water into the air. With no leaves, a tree loses very little, and she lives through the dry months. The new leaves come with the rain.
 14. (mcq) Lac, used to make bangles, is made by what?  
-   Options: Tiny insects living on tree twigs / Fishers on the coast / The roots of mangrove trees / A mine under the forest  
+   Options: Fishers on the coast / The roots of mangrove trees / A mine under the forest / Tiny insects living on tree twigs  
    **Answer:** Tiny insects living on tree twigs. *Why:* Lac insects make the sticky resin on twigs. So the trees must stay standing for the lac to be gathered. It is a gift of the forest, and not a mineral.
 15. (mcq) Which animal is best known to be protected by Kaziranga National Park in Assam?  
-   Options: The one-horned rhinoceros / The Asiatic lion / The snow leopard / The Nilgiri tahr  
+   Options: The Asiatic lion / The one-horned rhinoceros / The snow leopard / The Nilgiri tahr  
    **Answer:** The one-horned rhinoceros. *Why:* Kaziranga guards the one-horned rhinoceros. The Asiatic lion lives at Gir in Gujarat, the snow leopard in the high Himalaya, and the Nilgiri tahr in the Western Ghats.
 16. (mcq) Which of these would you find on the coast at Puri, and not in the Thar?  
-   Options: A fishing boat pulled up on the sand / A kund that catches rain / A khejri tree / A camel herd  
+   Options: A kund that catches rain / A fishing boat pulled up on the sand / A khejri tree / A camel herd  
    **Answer:** A fishing boat pulled up on the sand. *Why:* Puri has the sea, so families fish from boats. The kund, the khejri tree and the camel belong to the dry Thar, where families save every drop of rain.
 17. (mcq) Why do houses in snowy parts of the Himalaya have steep sloping roofs?  
    Options: So that snow slides off before it gets too heavy / So that the monsoon rain collects on them / To catch the wind / To keep out the heat of the plains  
    **Answer:** So that snow slides off before it gets too heavy. *Why:* A flat roof would hold a thick layer of snow, and its weight could break the roof. A steep roof lets the snow slide off. This is an answer to a land of snow.
 18. (mcq) A friend spent her holidays on a camel in the sand dunes near Jaisalmer. Which of India's ten ecological regions is that?  
-   Options: The Desert / The Himalaya / The Coasts / The Western Ghats  
+   Options: The Himalaya / The Desert / The Coasts / The Western Ghats  
    **Answer:** The Desert. *Why:* Jaisalmer lies in the Thar, which belongs to the Desert region. The Semi-arid region is the dry band around it.
 19. (mcq) Which of these rivers begins in the Western Ghats?  
-   Options: The Kaveri / The Ganga / The Brahmaputra / The Indus  
+   Options: The Ganga / The Brahmaputra / The Kaveri / The Indus  
    **Answer:** The Kaveri. *Why:* The Kaveri, the Krishna and the Godavari begin in the Ghats. The Ganga begins in the Himalaya, and the Brahmaputra and the Indus begin high in Tibet.
 20. (mcq) The sea pulls far back from the beach, and the fish are lying on the sand. What should you do?  
-   Options: Run to high ground at once / Walk out to pick up the fish / Wait on the beach to see what happens / Swim out to look  
+   Options: Walk out to pick up the fish / Wait on the beach to see what happens / Run to high ground at once / Swim out to look  
    **Answer:** Run to high ground at once. *Why:* A sea that pulls far back can be the first sign of a tsunami. The big waves come back within minutes. Running to high ground is what saves lives.
 21. (mcq) Which part of India's natural heritage can never be made again once it has been used up?  
-   Options: Coal and iron in the ground / Bamboo in a grove / Lac on the twigs / New leaves on sal trees  
+   Options: Bamboo in a grove / Coal and iron in the ground / Lac on the twigs / New leaves on sal trees  
    **Answer:** Coal and iron in the ground. *Why:* Coal and iron took millions of years to form. Bamboo, lac and leaves grow again within a year or a few years.
 
 ## Applications

@@ -709,7 +709,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 ## Worksheets
 ### Rules make a game (core) (core, 12 questions)
 1. (mcq) Which of these is a rule?  
-   Options: Take turns, one go each / The floor is red / The seeds are brown  
+   Options: The floor is red / Take turns, one go each / The seeds are brown  
    **Answer:** Take turns, one go each. *Why:* A rule says what players may do or must do. The colour of the floor or the seeds is not a rule.
 2. (truefalse) Ten seeds on the floor are already a game.  
    **Answer:** False. *Why:* False. The seeds become a game only when the players agree on a rule and keep it.
@@ -736,7 +736,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
    **Answer:** 8. *Why:* 10 take away 2 is 8.
 ### Luck, skill and fair (stretch) (stretch, 12 questions)
 1. (mcq) In snakes and ladders the dice decides every move. Who has the best chance of winning?  
-   Options: Every player has the same chance / The oldest player / The fastest runner  
+   Options: The oldest player / The fastest runner / Every player has the same chance  
    **Answer:** Every player has the same chance. *Why:* The dice does not know who is old or fast. Each player has the same chance on each roll.
 2. (mcq) Chess has no dice. What mostly decides who wins?  
    Options: How well each player plans / The luck of a roll / Who is the oldest  
@@ -744,7 +744,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 3. (sort) Is each game mostly luck, mostly skill, or both?  
    **Answer:** Snakes and ladders → Mostly luck; Chess → Mostly skill; Carrom → Both; Ludo → Both; Five stones → Mostly skill. *Why:* Dice-only games depend on luck. Games of choices and practice depend on skill. Many games have some of each.
 4. (mcq) A child cheats at ludo. What does the cheat need the other players to do?  
-   Options: Keep the rule / Cheat too / Stop playing  
+   Options: Cheat too / Stop playing / Keep the rule  
    **Answer:** Keep the rule. *Why:* A cheat gains only if the others keep the rule. If everyone cheated, nobody would get ahead.
 5. (truefalse) Everybody agrees on one meaning of 'fair'.  
    **Answer:** False. *Why:* False. Some people say fair means the same for everyone. Others say it means more for who needs more, or more for who did more.
@@ -782,7 +782,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 7. (draw) Draw two ways to start a race so that a child of six and a child of ten both have a chance.  
    **Answer:** One drawing with a head start for the younger child, and one with another way, such as the older child going further.. *Why:* A strong drawing shows two different starts, and the starts are not the same line for both children.
 8. (mcq) Scientists found that rats learned hide and seek when the only reward was being tickled. What does this suggest?  
-   Options: Play can be its own reward / Play always needs a food prize / Only humans enjoy games  
+   Options: Play always needs a food prize / Only humans enjoy games / Play can be its own reward  
    **Answer:** Play can be its own reward. *Why:* The rats had no food prize and still learned the game. So play seems to reward itself.
 9. (truefalse) Scientists have agreed on exactly what play is.  
    **Answer:** False. *Why:* False. Scientists use working tests such as five signs, but they have no final agreed meaning of play.
@@ -791,7 +791,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 11. (write) Why does a winner need the player who lost? Say it in your own words.  
    **Answer:** A good answer says that winning needs somebody who played against you, so the loser helps to make the game.. *Why:* A strong answer sees that the other player is half of the game. Without a second player, there is nobody to beat.
 12. (mcq) Which is a hazard rather than a risk?  
-   Options: A child jumps from the second step / A rug hides a wet floor / A child climbs onto a low wall  
+   Options: A rug hides a wet floor / A child jumps from the second step / A child climbs onto a low wall  
    **Answer:** A rug hides a wet floor. *Why:* A hazard is a danger the child cannot see. The child jumping or climbing can see and judge, which makes those risks.
 
 ## Videos
@@ -801,28 +801,28 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 
 ## Quiz
 1. (mcq) Ten seeds lie on the floor. What turns them into a game?  
-   Options: The players agree on a rule and keep it / The seeds are brown / Someone counts the seeds  
+   Options: The seeds are brown / The players agree on a rule and keep it / Someone counts the seeds  
    **Answer:** The players agree on a rule and keep it. *Why:* A game exists only when the players agree to keep a rule. The seeds alone are just seeds.
 2. (mcq) One player changes a rule in secret halfway through. What has she done?  
    Options: Cheated, because the others keep the old rule / Started a new game for everyone / Played the same game  
    **Answer:** Cheated, because the others keep the old rule. *Why:* A rule can change only when all the players agree. A secret change is cheating.
 3. (mcq) Which game needs open space more than a small table?  
-   Options: Kho-kho / Carrom / Chess  
+   Options: Carrom / Chess / Kho-kho  
    **Answer:** Kho-kho. *Why:* Kho-kho means running, so it needs open space. Carrom and chess fit on a board.
 4. (mcq) Nondi, kunte bille and ekka dokka are names for what?  
    Options: One hopping game with many names / Three kinds of dice / Three kinds of kite  
    **Answer:** One hopping game with many names. *Why:* The same hopping game has different names in Tamil Nadu, Karnataka and Bengal.
 5. (mcq) In snakes and ladders the dice decides every move. What kind of game is this?  
-   Options: A game of luck / A game of skill / A game of cheating  
+   Options: A game of skill / A game of cheating / A game of luck  
    **Answer:** A game of luck. *Why:* No move is a choice, so the result depends on chance.
 6. (mcq) Two children want the same swing. Which rule gives both a go?  
-   Options: Take turns, with the turns counted / The faster child goes first / The older child always goes  
+   Options: The faster child goes first / Take turns, with the turns counted / The older child always goes  
    **Answer:** Take turns, with the turns counted. *Why:* A turn rule shares the playing time. Without one, the fastest or strongest child takes every go.
 7. (mcq) Why is waiting for a turn easier when people keep their promises?  
-   Options: You trust that your turn will come / The game gets shorter / Nobody else is playing  
+   Options: The game gets shorter / You trust that your turn will come / Nobody else is playing  
    **Answer:** You trust that your turn will come. *Why:* In one study, children who had met a promise-keeper waited about four times as long as children who had met a promise-breaker.
 8. (mcq) A child who missed lunch gets an extra laddu. Which idea of fair is this?  
-   Options: More for the one who needs more / The same for everyone / More for the one who did more  
+   Options: The same for everyone / More for the one who needs more / More for the one who did more  
    **Answer:** More for the one who needs more. *Why:* Fair has more than one meaning. This one gives more to the child who needs more.
 9. (mcq) A race has a child of six and a child of ten. Which start is fair?  
    Options: It depends on what the race is for / Only the same line / Only a head start  
@@ -834,7 +834,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
    Options: Stop at once / Finish the move first / Play faster  
    **Answer:** Stop at once. *Why:* The stop word protects whoever is hurt or scared, so everybody stops at once.
 12. (mcq) You win. Why do you need the player who lost?  
-   Options: Winning needs someone who played against you / You do not need anyone / The loser makes the rules  
+   Options: You do not need anyone / The loser makes the rules / Winning needs someone who played against you  
    **Answer:** Winning needs someone who played against you. *Why:* A win needs another player who tried. The player who lost helped to make the game.
 13. (mcq) You lose and your face feels hot and angry. What is true?  
    Options: The feeling is real and it passes / A good player never feels it / It means you cheated  
@@ -843,10 +843,10 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
    Options: This is play, I am not attacking / I am going to bite / I am tired  
    **Answer:** This is play, I am not attacking. *Why:* It is a play bow, a signal that tells another dog that what comes next is play.
 15. (mcq) Which question about play has no answer yet?  
-   Options: Why do animals play at all / How many faces a dice has / How many players are in a kabaddi team  
+   Options: How many faces a dice has / Why do animals play at all / How many players are in a kabaddi team  
    **Answer:** Why do animals play at all. *Why:* Scientists have several ideas about why animals play, and none is settled.
 16. (mcq) Two friends keep a balloon up, and both lose if it falls. What kind of game is it?  
-   Options: Cooperative / Competitive / Cheating  
+   Options: Competitive / Cheating / Cooperative  
    **Answer:** Cooperative. *Why:* Both players are on one side. They win together or lose together.
 
 ## Applications

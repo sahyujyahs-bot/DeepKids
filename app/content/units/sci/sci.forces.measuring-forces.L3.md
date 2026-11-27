@@ -744,7 +744,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 ## Worksheets
 ### How Big Is a Pull? (core) (core, 16 questions)
 1. (mcq) In the coin-pull test, you use only five-rupee coins, never a mix of coins. Why does that matter?  
-   Options: Each five-rupee coin pulls the same amount, so every coin is the same-sized step / Five-rupee coins are shinier / A mix of coins would make the notebook heavier / It does not matter at all  
+   Options: Five-rupee coins are shinier / A mix of coins would make the notebook heavier / It does not matter at all / Each five-rupee coin pulls the same amount, so every coin is the same-sized step  
    **Answer:** Each five-rupee coin pulls the same amount, so every coin is the same-sized step. *Why:* A unit must be the same size every time, like every centimetre on a ruler. Coins of one kind all pull about the same. A mix of big and small coins pulls by different amounts, so counting them tells you nothing. Picking 'the notebook gets heavier' mixes up the cup's pull with the notebook.
 2. (write) You needed 7 coins to start one notebook sliding. Guess how many coins two stacked notebooks will need. Say why you think so.  
    **Answer:** About 14 coins. Two notebooks press down on the table about twice as hard, so they grip the table about twice as much. My real result might be 13 or 15, because no test is perfectly even.. *Why:* A strong answer gives a number and a reason about pressing and gripping. It also expects the real result to be close to the guess, not exactly on it.
@@ -756,7 +756,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 5. (match) Match each word to what it means.  
    **Answer:** newton → the unit we count a force in; forcemeter → the tool that measures a pull; spring → the part inside that stretches; zero → where the pointer must start, with nothing on the hook. *Why:* The newton is the unit and the forcemeter is the tool. Mixing these two up is very common. The spring does the measuring, and the zero makes sure the measuring starts in the right place.
 6. (mcq) Look at the forcemeter. Each small mark is half a newton. How hard is it being pulled?  
-   Options: 3 newtons / 3 and a half newtons / 4 newtons / 35 newtons  
+   Options: 3 newtons / 4 newtons / 35 newtons / 3 and a half newtons  
    **Answer:** 3 and a half newtons. *Why:* The pointer is on the small mark halfway between 3 and 4. Half a newton past 3 is 3 and a half newtons. Picking 3 or 4 means the small marks were not counted. Picking 35 means the 3 and the 5 were read as one number.
 7. (truefalse) A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.  
    **Answer:** False. *Why:* False. In the balloon push activity, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.
@@ -765,7 +765,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 9. (sort) Sort these. Does each one pull down on your hand with about 1 newton or about 10 newtons?  
    **Answer:** a small apple → About 1 newton; a 100 gram packet of biscuits → About 1 newton; a 1 litre bottle of water → About 10 newtons; a 1 kilogram packet of atta → About 10 newtons; a bar of bathing soap → About 1 newton; a 1 kilogram tub of curd → About 10 newtons. *Why:* Every 100 grams pulls down with about 1 newton. So a 100 gram thing is about 1 newton, and a 1 kilogram thing is about 10 newtons. A bar of soap is about 100 to 125 grams.
 10. (mcq) You pull a forcemeter with a sudden jerk. What does the pointer do?  
-   Options: It jumps past the true reading for a moment / It stays on zero / It shows the true reading straight away / It moves backwards  
+   Options: It stays on zero / It jumps past the true reading for a moment / It shows the true reading straight away / It moves backwards  
    **Answer:** It jumps past the true reading for a moment. *Why:* A jerk makes the spring overshoot, so the pointer swings too far and then settles. That is why you pull slowly and steadily, and read the pointer only when it is still.
 11. (order) Put these steps for using a forcemeter in the right order.  
    **Answer:** order shown. *Why:* Check the zero first, or every reading starts wrong. Pull steadily so the pointer does not jump. Read at eye level so the pointer does not look shifted. A number without its unit means nothing.
@@ -774,7 +774,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 13. (perspective) Kavya and her grandmother are talking about the coin-pull test.  
    **Answer:** Both are partly right. Kavya is right that the coin unit works inside one house, where everyone uses the same coins. Her grandmother is right that the coin unit can't be shared with someone who has different coins. So a strong answer might say: for sharing with others, newtons are better, but for comparing at home, coins work.. *Why:* A strong answer picks a side, uses something from the test (for example, 'a grown-up needed 12 small coins where I needed 6 big ones'), and fairly says what the other side gets right. There is no single right answer.
 14. (mcq) A small apple pulls down on your hand with about 1 newton. About how hard would a bag of 6 small apples pull?  
-   Options: About 1 newton / About 6 newtons / About 60 newtons / About 600 newtons  
+   Options: About 1 newton / About 60 newtons / About 6 newtons / About 600 newtons  
    **Answer:** About 6 newtons. *Why:* Each apple adds about 1 newton, so 6 apples pull with about 6 newtons. Picking 60 or 600 means the newton was imagined much smaller than it is. A newton is a small force, about one apple.
 15. (draw) Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.  
    **Answer:** A tube with a spring inside and a hook at the bottom. A pointer is fixed to the spring, next to a scale numbered 0, 1, 2, 3 and so on. The pointer is drawn level with the 2.. *Why:* A strong drawing shows that the pointer is joined to the spring, so it moves when the spring stretches. The 2 newton pointer should be further from 0 than the 1 mark.
@@ -787,7 +787,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    Options: 9 newtons / 10 newtons / 8 newtons / 1 newton  
    **Answer:** 8 newtons. *Why:* The pointer started 1 newton too far down. So take that 1 away: 9 take away 1 is 8 newtons. Picking 9 means the zero was not checked. Picking 10 means the 1 was added instead of taken away.
 3. (mcq) You want to measure how hard a full suitcase pulls. It pulls with about 200 newtons. Which forcemeter should you use?  
-   Options: One that shows 0 to 10 newtons / One that shows 0 to 50 newtons / One that shows 0 to 500 newtons / Any of them, they all work the same  
+   Options: One that shows 0 to 10 newtons / One that shows 0 to 50 newtons / Any of them, they all work the same / One that shows 0 to 500 newtons  
    **Answer:** One that shows 0 to 500 newtons. *Why:* A forcemeter can only show pulls inside its range. A 200 newton pull would stretch a 0 to 10 or 0 to 50 forcemeter past its end, and could spoil the spring for good. Picking 'any of them' means the range was not thought about.
 4. (mcq) On this forcemeter, the numbers go 0, 10, 20, 30 and so on. There are 5 small gaps between each number. What does each small gap stand for?  
    Options: 1 newton / 2 newtons / 5 newtons / 10 newtons  
@@ -803,7 +803,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 8. (fill) You measure a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, you should use a forcemeter with a ____ range.  
    **Answer:** ['smaller', 'small', 'lower', 'low']. *Why:* A forcemeter built for big pulls has a stiff spring, so a small pull hardly stretches it and the reading is hard to see. A forcemeter with a small range, like 0 to 5 newtons, has a softer spring that stretches well for small pulls. Pick the range that fits the pull: not too small, and not too big.
 9. (mcq) You hook your forcemeter to a grown-up's forcemeter and you both pull. You think, 'The grown-up is stronger, so their forcemeter will show more.' What is wrong with this idea?  
-   Options: Nothing. The stronger person's forcemeter shows more / Both forcemeters always show the same, because each pull comes with an equal pull back / The weaker person's forcemeter shows more / Two forcemeters can't be hooked together  
+   Options: Nothing. The stronger person's forcemeter shows more / The weaker person's forcemeter shows more / Two forcemeters can't be hooked together / Both forcemeters always show the same, because each pull comes with an equal pull back  
    **Answer:** Both forcemeters always show the same, because each pull comes with an equal pull back. *Why:* When the grown-up pulls harder, the pull on your side grows too, by exactly the same amount. Both forcemeters feel the one pull that passes through them. Being stronger lets the grown-up pull you along, but the readings stay equal.
 10. (write) When you made your rubber band forcemeter, you marked it by hanging 100 gram packets on it. Why not just draw the marks evenly with a ruler, without testing?  
    **Answer:** I did not know how far my rubber band stretches for each newton. Every band is different, and a band may not stretch evenly. Hanging packets I already knew put each mark exactly where that pull really is.. *Why:* A strong answer says that the marks must come from known pulls. Putting marks on a tool using things you already know is called calibrating.
@@ -829,7 +829,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    Options: The pull was far too tiny to stretch a spring enough to see / Springs had not been invented in 1798 / Lead does not pull on anything / The balls were too big to hook on  
    **Answer:** The pull was far too tiny to stretch a spring enough to see. *Why:* The pull between his balls was much less than the weight of a grain of sand. A spring would not stretch a visible amount. So he hung the balls on a thin wire, which twists a little even for a tiny pull. Springs were known long before: Robert Hooke wrote about them in 1678.
 5. (mcq) A lift is falling freely, with nothing slowing it down. Inside, a bag hangs from a forcemeter. What does the forcemeter show while the lift falls?  
-   Options: Zero, because the bag and the forcemeter fall together / More than usual / The same as usual / It cannot be known  
+   Options: More than usual / Zero, because the bag and the forcemeter fall together / The same as usual / It cannot be known  
    **Answer:** Zero, because the bag and the forcemeter fall together. *Why:* The bag and the forcemeter fall together at the same speed, so the bag does not pull on the spring at all. Gravity is still there, but nothing holds the bag back against it. Astronauts float for the same reason. Einstein used this idea to think about gravity in a new way.
 6. (write) Your homemade forcemeter showed 3 newtons for a pencil box. A kitchen scale said the box was 180 grams. Is your forcemeter right? Explain, and say what you would check.  
    **Answer:** Not quite. 180 grams pulls with about 1.8 newtons, which is nearly 2. My forcemeter showed 3, which is too big. I would check whether the pointer starts on zero, and test the marks again with a 100 gram packet.. *Why:* A strong answer turns grams into newtons (divide by 100), compares the two, and suggests a real cause to check.
@@ -838,7 +838,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 8. (draw) Design a forcemeter that could show the pull of a single sheet of paper. Draw it and label how it works.  
    **Answer:** For example, a long plastic ruler taped to the edge of a table, sticking out. The paper hangs from the far end, and a straw taped on as a pointer shows the bend against marks on a card.. *Why:* A sheet of paper pulls with only about one twentieth of a newton. A strong design is sensitive: a tiny pull makes a big movement that is easy to see.
 9. (mcq) People often say 'about 10 newtons' for a 1 kilogram bag. Why do scientists say 'about', and not exactly 10?  
-   Options: On Earth, the real number is about 9.8 newtons, and it changes a little from place to place / Nobody has ever measured it / Bags come in different colours / Newtons are only a guess  
+   Options: Nobody has ever measured it / Bags come in different colours / On Earth, the real number is about 9.8 newtons, and it changes a little from place to place / Newtons are only a guess  
    **Answer:** On Earth, the real number is about 9.8 newtons, and it changes a little from place to place. *Why:* On Earth, 1 kilogram pulls down with about 9.8 newtons. It is a tiny bit more at the poles and a tiny bit less at the equator and on high mountains. 10 is close enough for everyday sums.
 10. (fill) About 4,500 years ago, traders in the Indus Valley cities used stone weights in these sizes: 1, 2, 4, 8, 16, 32. The next weight in the set was ____.  
    **Answer:** ['64']. *Why:* Each weight is double the one before, and double 32 is 64. Picking 33 means the pattern was taken as adding 1. Shared weights let any buyer and seller in those cities agree on an amount.
@@ -847,7 +847,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 12. (perspective) Scientists can measure gravity's pull very exactly. But what is gravity, deep down? Here are three answers.  
    **Answer:** There is no settled answer, and scientists still argue. A strong answer notes what each idea has going for it. Newton's sums still work for bridges and rockets. Einstein's idea passed a famous test in 1919, when starlight was seen bending round the Sun. Gravitons have not been found.. *Why:* A strong answer gives a reason for its choice and fairly states another side. It can also say what would settle the question, such as finding a graviton.
 13. (mcq) One newton is the push that makes a 1 kilogram trolley speed up by 1 metre per second, every second. Now a 2 newton push acts on the same trolley, with nothing slowing it. What happens?  
-   Options: It speeds up twice as fast / It moves at the same steady speed / It speeds up just as fast as with 1 newton / It stops  
+   Options: It moves at the same steady speed / It speeds up twice as fast / It speeds up just as fast as with 1 newton / It stops  
    **Answer:** It speeds up twice as fast. *Why:* A force changes how a thing moves. Twice the push on the same thing gives twice the speeding up. Picking 'steady speed' is the old idea that a push only keeps things going. Newton showed that a push changes the speed.
 14. (order) Put these from the smallest force to the biggest: a small apple pulling on your hand, a feather pulling on your hand, the pull between the Earth and the Moon, a Saturn V rocket pushing off the ground.  
    **Answer:** order shown. *Why:* A feather pulls with less than one hundredth of a newton, and a small apple with about 1 newton. The Saturn V rocket pushed with about 34 million newtons. The Earth and the Moon pull on each other with about 200 million million million newtons. Most people guess the rocket is biggest, because a launch looks so huge.
@@ -861,37 +861,37 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 
 ## Quiz
 1. (mcq) You invent a unit of pull called 'one eraser'. What must all your erasers be like?  
-   Options: The same kind and size, so each one pulls the same / Any erasers at all / Brightly coloured  
+   Options: Any erasers at all / The same kind and size, so each one pulls the same / Brightly coloured  
    **Answer:** The same kind and size, so each one pulls the same. *Why:* A unit only works if every one is the same size. Picking 'any erasers' means a big and a small eraser would count as the same, so your numbers would mean nothing.
 2. (mcq) A bridge builder in Chennai sends her numbers to a factory in Pune. Why must both of them use newtons?  
-   Options: So the numbers mean the same thing in both places / Because newtons are cheaper / Because Chennai is bigger than Pune  
+   Options: Because newtons are cheaper / Because Chennai is bigger than Pune / So the numbers mean the same thing in both places  
    **Answer:** So the numbers mean the same thing in both places. *Why:* A shared unit means a pull written in Chennai is the same pull when it is read in Pune. Without it, the factory could make parts that are too weak.
 3. (mcq) A tailor in Jaipur measures cloth with his hand span. A tailor in Kochi uses a metre rod. Why is the metre rod fairer to the customer?  
-   Options: Every metre rod is the same length, so a metre of cloth means the same in both shops / A metre rod is always heavier, so the cloth it measures is heavier / A hand span is always the right size for cloth  
+   Options: A metre rod is always heavier, so the cloth it measures is heavier / Every metre rod is the same length, so a metre of cloth means the same in both shops / A hand span is always the right size for cloth  
    **Answer:** Every metre rod is the same length, so a metre of cloth means the same in both shops. *Why:* A hand span is different for every person, so the cloth measured in Jaipur could be longer or shorter than the same cloth measured in Kochi. A metre is the same in every shop, so a customer gets the same length anywhere. The heavy rod and the 'always right' hand span are both wrong.
 4. (mcq) Which of these pulls down on your hand with about 1 newton?  
-   Options: A small apple / A school bag full of books / A feather  
+   Options: A school bag full of books / A feather / A small apple  
    **Answer:** A small apple. *Why:* A small apple of about 100 grams pulls with about 1 newton. A full school bag is more like 30 or 40 newtons. A feather is far less than 1 newton.
 5. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
-   Options: People agreed on it together, using the kilogram, the metre and the second / Newton measured it inside an apple / Nature made it that size  
+   Options: Newton measured it inside an apple / Nature made it that size / People agreed on it together, using the kilogram, the metre and the second  
    **Answer:** People agreed on it together, using the kilogram, the metre and the second. *Why:* The newton is an agreement between people. It was named in 1948, long after Newton died in 1727. Picking 'nature' mixes up the force, which is real, with the unit we count it in, which people chose.
 6. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
    Options: 13 newtons / 3 newtons / 15 newtons  
    **Answer:** 13 newtons. *Why:* The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.
 7. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
-   Options: The pointer looks shifted, so he may read the wrong mark / The spring stretches more / Nothing can go wrong  
+   Options: The spring stretches more / The pointer looks shifted, so he may read the wrong mark / Nothing can go wrong  
    **Answer:** The pointer looks shifted, so he may read the wrong mark. *Why:* Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.
 8. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
-   Options: A spring stretches more for a bigger pull, so the pointer can show the size / A rod would be too heavy / Springs are prettier  
+   Options: A rod would be too heavy / Springs are prettier / A spring stretches more for a bigger pull, so the pointer can show the size  
    **Answer:** A spring stretches more for a bigger pull, so the pointer can show the size. *Why:* The stretch is what shows the size of the pull. A stiff rod would hardly stretch at all, so the pointer would not move.
 9. (mcq) A spring stretches 2 centimetres when it is pulled with 1 newton. How far does it stretch for 3 newtons, inside its range?  
    Options: 6 centimetres / 3 centimetres / 2 centimetres  
    **Answer:** 6 centimetres. *Why:* Each newton adds about 2 centimetres, so 3 newtons give 3 times 2, which is 6 centimetres. Robert Hooke found this rule in 1678. Picking 3 means the newtons were read as centimetres.
 10. (mcq) Before the coin-pull test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
-   Options: So after the test you can see whether your reason was right / To make the test take longer / Because a reason changes the result  
+   Options: To make the test take longer / Because a reason changes the result / So after the test you can see whether your reason was right  
    **Answer:** So after the test you can see whether your reason was right. *Why:* A guess with a reason can be checked. If the result surprises you, your reason was wrong somewhere, and you learn what to think again.
 11. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
-   Options: She changed two things at once, so she can't tell which one made the difference / Nothing is unfair / She should use more coins  
+   Options: Nothing is unfair / She should use more coins / She changed two things at once, so she can't tell which one made the difference  
    **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.
 12. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
    Options: No. The scale shows her push, and the Moon pulls her less / Yes, the Moon makes people smaller / The scale must be broken  
@@ -900,7 +900,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    Options: The electrons in the table push away the electrons in your hand / Tiny springs inside the table / Air trapped under your hand  
    **Answer:** The electrons in the table push away the electrons in your hand. *Why:* Electrons push other electrons away. So your hand and the table push apart, and that push is what you feel. Picking 'tiny springs' is a fair picture, but the real spring is the electric push between atoms.
 14. (mcq) Which of these do scientists still not know?  
-   Options: What gravity really is, deep down / How to measure a pull in newtons / Whether a spring stretches when it is pulled  
+   Options: How to measure a pull in newtons / What gravity really is, deep down / Whether a spring stretches when it is pulled  
    **Answer:** What gravity really is, deep down. *Why:* Measuring forces is well understood. What gravity is, deep down, is still an open question. Newton, Einstein and physicists today give different answers.
 
 ## Applications

@@ -424,7 +424,7 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 7. (write) Many children think only metal things are shiny. Say out loud, and a grown-up writes it: which shiny things did you find that are not metal?  
    **Answer:** Still water, a glass bottle, a glazed cup, a banana leaf.. *Why:* A strong answer names shiny things that are not metal and says what they share: a very smooth surface.
 8. (mcq) You smooth kitchen foil flat and see a blurry face in it. Then you crumple the foil into a ball. What will you see now?  
-   Options: No face at all / A clearer face / The same blurry face  
+   Options: A clearer face / No face at all / The same blurry face  
    **Answer:** No face at all. *Why:* Crumpled foil has many bumps and folds. They send the light off in many directions, so no face comes back.
 9. (perspective) Two friends are looking at a bucket of still water in Madurai.  
    **Answer:** A strong answer picks a side and gives evidence. For the second child: the water made a bright spot, and it shows faces when still. For the first child: you can see through water, and its spot was fainter than the mirror's.. *Why:* Both children see something true. Water lets most light through, so it shines less than a mirror. But its smooth surface still reflects some light back in one direction, so still water shines.
@@ -445,7 +445,7 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 6. (perspective) Two sisters are folding a cotton towel in Kochi.  
    **Answer:** Both are right. Soft and rough are two different properties. The towel squashes, so it is soft. Its surface has loops, so it is a little rough.. *Why:* A strong answer sees that the girls did two different tests. Pressing tells you soft or hard. Stroking tells you rough or smooth. One thing can be soft and rough.
 7. (mcq) The sole of a chappal is rough underneath. Why is that useful?  
-   Options: The bumps grip the floor, so your foot does not slip / The bumps make the chappal shine / The bumps make the chappal lighter  
+   Options: The bumps make the chappal shine / The bumps make the chappal lighter / The bumps grip the floor, so your foot does not slip  
    **Answer:** The bumps grip the floor, so your foot does not slip. *Why:* A rough surface has bumps that catch on the floor. A smooth sole slides more easily.
 8. (label) Here is a steel spoon. Next to each test, write what you would find out.  
    **Answer:** ['hard', 'smooth', 'stiff', 'shiny']. *Why:* Each test finds one property. A steel spoon is hard, smooth, stiff and shiny.
@@ -468,22 +468,22 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
    Options: Rough / Smooth / Shiny  
    **Answer:** Rough. *Why:* Bumps you can feel make a surface rough.
 3. (mcq) What do we call words like hard, soft, rough and shiny?  
-   Options: Properties / Materials / Colours  
+   Options: Materials / Colours / Properties  
    **Answer:** Properties. *Why:* Properties tell us what a material is like. A material is what a thing is made of.
 4. (mcq) A steel tumbler is a thing. What is steel?  
    Options: The material it is made of / A property / A colour  
    **Answer:** The material it is made of. *Why:* Steel is the material. Shiny and hard are its properties.
 5. (mcq) Why does a mirror shine?  
-   Options: Its surface is very smooth / It is soft / It makes its own light  
+   Options: It is soft / Its surface is very smooth / It makes its own light  
    **Answer:** Its surface is very smooth. *Why:* A very smooth surface reflects light back in one direction. A mirror does not make light. In a dark room it does not shine.
 6. (mcq) You splash a bucket of still water. Your face in the water breaks into pieces. Why?  
    Options: The ripples make the surface bumpy / The water went dark / The bucket moved away  
    **Answer:** The ripples make the surface bumpy. *Why:* Ripples make the water's surface bumpy, so the light goes off in many directions. When the water is still again, your face comes back.
 7. (mcq) Which of these is shiny but is NOT made of metal?  
-   Options: A glass bottle / A steel plate / A brass lamp  
+   Options: A steel plate / A glass bottle / A brass lamp  
    **Answer:** A glass bottle. *Why:* Glass is very smooth, so it shines. Steel and brass are metals.
 8. (mcq) Cardboard boxes have a wavy layer of paper inside. Why?  
-   Options: The waves make the card stiff / The waves make the card shiny / The waves make the card softer  
+   Options: The waves make the card shiny / The waves make the card softer / The waves make the card stiff  
    **Answer:** The waves make the card stiff. *Why:* A wavy layer is like the zigzag paper bridge. The shape makes thin paper stiff.
 9. (mcq) You guess that the hanky will make a bright spot in the Torch Spot Test. It does not. What should you do?  
    Options: Say what you saw, and change your idea / Keep your guess, because it was yours / Stop doing the test  

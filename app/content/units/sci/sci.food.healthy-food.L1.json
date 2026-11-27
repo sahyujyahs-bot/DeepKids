@@ -819,10 +819,10 @@
       "q": "Which basket does roasted chana go in?",
       "options": [
        "Wet",
-       "Damp",
-       "Dry"
+       "Dry",
+       "Damp"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Roasting drives the water out of chana, so the chana is crunchy and dry."
      },
      "parent": "If you did the squeeze test, remind your child what the cucumber and the biscuit did."
@@ -959,10 +959,10 @@
       "q": "A player ate a biscuit. How many beans do they put in?",
       "options": [
        "2 beans",
-       "1 bean",
-       "No beans"
+       "No beans",
+       "1 bean"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A biscuit is dry. It gives you food, but almost no water."
      },
      "parent": "The bean numbers are made up for the game. The idea is real: water leaves the body all day, and drinks and wet foods bring it back."
@@ -1246,11 +1246,11 @@
      "t": "mcq",
      "p": "Dry rice grains are hard. Cooked rice is soft. Where did the water in cooked rice come from?",
      "opts": [
-      "From the cooking pot",
       "From the biscuit tin",
-      "From the air"
+      "From the air",
+      "From the cooking pot"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The grains take in water as they cook in the pot. That is why they swell and go soft."
     },
     {
@@ -1315,11 +1315,11 @@
      "t": "mcq",
      "p": "Your mouth is dry and you want a drink. What is your body telling you?",
      "opts": [
-      "I need water",
       "I need a nap",
+      "I need water",
       "I need a sweet"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A dry mouth and wanting a drink is thirst. Thirst is the body asking for water."
     }
    ]
@@ -1349,11 +1349,11 @@
      "t": "mcq",
      "p": "A cook leaves cut cucumber slices on a plate in the hot sun all day. By evening they are small and dry. Where did their water go?",
      "opts": [
-      "Into the air",
       "Into the plate",
+      "Into the air",
       "Nowhere at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heat and moving air carry water away from the slices into the air. The water goes as vapour, which is water in bits too small to see. This is how foods like papad are dried too."
     },
     {
@@ -1450,11 +1450,11 @@
      "t": "mcq",
      "p": "Which of these drinks has no sugar added?",
      "opts": [
-      "Plain water",
       "Rose milk",
+      "Plain water",
       "A packet of fruit juice"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet."
     },
     {
@@ -1498,11 +1498,11 @@
    "t": "mcq",
    "p": "Why does your body need food?",
    "opts": [
-    "To grow, move and mend",
     "Only to make your tummy full",
-    "Only for the taste"
+    "Only for the taste",
+    "To grow, move and mend"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Food gives your body what it needs to grow, move and mend itself. Fullness and taste are part of eating, but they are not why your body needs food.",
    "outcome": 0
   },
@@ -1522,11 +1522,11 @@
    "t": "mcq",
    "p": "A biscuit stays dry when you squeeze it. Why?",
    "opts": [
-    "It is baked until almost all the water is gone",
     "The hanky soaked up the water",
+    "It is baked until almost all the water is gone",
     "It was not squeezed hard enough"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Baking drives the water out of a biscuit. That is what makes it crunchy.",
    "outcome": 2,
    "how": "e1"
@@ -1535,11 +1535,11 @@
    "t": "mcq",
    "p": "When do you need to drink the most water?",
    "opts": [
-    "On a cool day, sitting still",
     "On a hot day, after running about",
+    "On a cool day, sitting still",
     "Just after waking up from a nap in a cool room"
    ],
-   "a": 1,
+   "a": 0,
    "why": "On a hot day, and when you run about, you sweat more. So more water leaves your body.",
    "outcome": 1
   },
@@ -1548,10 +1548,10 @@
    "p": "A child did not like curd rice the first time they tried it. What might help them like it?",
    "opts": [
     "Never giving it to them again",
-    "Tasting a little many times, without being pushed",
-    "Making them finish a big bowl"
+    "Making them finish a big bowl",
+    "Tasting a little many times, without being pushed"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Many children come to like a food after tasting it many times. Pushing them to eat it can make them like it less.",
    "outcome": 3
   },
@@ -1585,11 +1585,11 @@
    "t": "mcq",
    "p": "You guess that a banana is dry. Then a banana makes a damp mark on paper. What should you say?",
    "opts": [
-    "My guess was wrong. The banana has some water inside.",
     "The test is broken.",
-    "Bananas are dry, whatever the test shows."
+    "Bananas are dry, whatever the test shows.",
+    "My guess was wrong. The banana has some water inside."
    ],
-   "a": 0,
+   "a": 2,
    "why": "A good scientist changes their idea when the test shows something new. The damp mark showed the banana has water.",
    "outcome": 5,
    "how": "e1"

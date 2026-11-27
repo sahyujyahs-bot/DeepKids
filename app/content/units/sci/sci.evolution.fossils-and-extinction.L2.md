@@ -384,7 +384,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 5. (draw) Draw an animal who is alive today. Draw a ring round the parts that would most likely become a fossil.  
    **Answer:** A drawing of an animal with rings round the bones, teeth, shell, horns or claws.. *Why:* A strong answer rings the hard parts, like teeth, bones, horns, claws or a shell, because hard parts last long enough to become fossils.
 6. (mcq) A scientist finds the print of a leaf in a rock in a very dry place. What does it tell us?  
-   Options: Plants once grew here / The leaf fell from a tree today / No plants ever grew here  
+   Options: The leaf fell from a tree today / Plants once grew here / No plants ever grew here  
    **Answer:** Plants once grew here. *Why:* A leaf print is a trace of a plant. The plant lived there long ago, even if the place is dry now.
 7. (truefalse) Every animal who dies becomes a fossil.  
    **Answer:** False. *Why:* False. Most bodies rot or are eaten before mud can cover them. Only a tiny few become fossils, and those are mostly the hard parts.
@@ -402,7 +402,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 
 ## Quiz
 1. (mcq) You find the shape of a leaf in a dark rock. What is it?  
-   Options: A fossil / A drawing / A new leaf  
+   Options: A drawing / A new leaf / A fossil  
    **Answer:** A fossil. *Why:* A leaf print kept in rock is a fossil, a trace of a plant from long ago.
 2. (mcq) Which of these is a trace fossil?  
    Options: A dinosaur footprint in rock / A dinosaur bone / A fossil shell  
@@ -417,16 +417,16 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
    Options: The one in the bottom layer / The one in the top layer / They are the same age  
    **Answer:** The one in the bottom layer. *Why:* Layers pile up one on top of another. The bottom one was laid down first, so its fossil is older.
 6. (mcq) What does extinct mean?  
-   Options: Every last one of that kind has died / The animal is asleep / The animal lives far away  
+   Options: The animal is asleep / Every last one of that kind has died / The animal lives far away  
    **Answer:** Every last one of that kind has died. *Why:* Extinct means that kind of being is gone for ever.
 7. (mcq) How do scientists know when the big dinosaurs died out?  
    Options: Their fossils are not found in rocks younger than a certain age / Someone saw the last one / From old books  
    **Answer:** Their fossils are not found in rocks younger than a certain age. *Why:* Rocks form in layers, and scientists can tell how old each layer is. Big dinosaur fossils are found in older layers, and not in any layer younger than about 66 million years.
 8. (mcq) Which group spread into many new kinds after the big dinosaurs died out?  
-   Options: Mammals, like elephants and whales / Ammonites / Pterosaurs  
+   Options: Ammonites / Mammals, like elephants and whales / Pterosaurs  
    **Answer:** Mammals, like elephants and whales. *Why:* Mammals had been small. After the big dinosaurs were gone, they spread into many new kinds, including humans much later. Ammonites and pterosaurs died out.
 9. (mcq) Are humans mammals?  
-   Options: Yes. Humans have hair and feed babies on milk / No. Mammals are only animals with four legs / No. Humans are not animals  
+   Options: No. Mammals are only animals with four legs / No. Humans are not animals / Yes. Humans have hair and feed babies on milk  
    **Answer:** Yes. Humans have hair and feed babies on milk. *Why:* Humans are animals, and mammals like cows, cats and elephants. We have hair and feed our babies on milk.
 10. (mcq) What do scientists still argue about?  
    Options: What made the big dinosaurs die out / Whether dinosaurs were real / Whether fossils are found in rock  

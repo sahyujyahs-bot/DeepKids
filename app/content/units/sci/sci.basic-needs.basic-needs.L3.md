@@ -501,7 +501,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 2. (fill) We breathe in air for the gas called ____, and we breathe out ____.  
    **Answer:** ['oxygen', 'carbon dioxide']. *Why:* Our cells need oxygen to get energy from food. They make carbon dioxide, which the blood carries back to the lungs to be breathed out.
 3. (mcq) You find a flower-pot plate full of still water on your balcony. Why should you empty it?  
-   Options: The water will make the plant grow too fast / Mosquitoes can lay eggs in it / The water will turn into air  
+   Options: Mosquitoes can lay eggs in it / The water will make the plant grow too fast / The water will turn into air  
    **Answer:** Mosquitoes can lay eggs in it. *Why:* Mosquitoes lay eggs in still water, and the young grow there in about a week. Some mosquitoes spread dengue and malaria. Emptying still water every week stops them.
 4. (write) A boy says, "I don't need to drink water today, because I'm not sweating." What would you tell him? Use what you saw in the Hidden Water Test.  
    **Answer:** I would tell him his body loses water even without sweating. In the Hidden Water Test, a bag on my dry hand turned misty and dripped. Water also leaves in every breath and in urine. So he needs to drink every day.. *Why:* A strong answer uses evidence from the Hidden Water Test, not only a rule.
@@ -524,7 +524,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 12. (fill) A home is also called a ____, because it protects us from heat, cold, rain and wind.  
    **Answer:** ['shelter']. *Why:* Shelter means a place that protects us. A home is the shelter we use every day.
 13. (mcq) Why do we cover food on the table?  
-   Options: Flies, ants and dust can bring germs onto it / The food will get too much air and go hard / The food needs to be kept in the dark to cook  
+   Options: The food will get too much air and go hard / Flies, ants and dust can bring germs onto it / The food needs to be kept in the dark to cook  
    **Answer:** Flies, ants and dust can bring germs onto it. *Why:* Flies, ants and dust can carry germs. A cover keeps them off the food, so it stays safe to eat.
 14. (match) Match each word to what it means.  
    **Answer:** Oxygen → the gas in air that our cells need; Lungs → soft organs in the chest that fill with air; Ventilation → fresh air coming in and used air going out; Stagnant water → water that stays still for days; Shelter → a place that protects us from weather and animals. *Why:* Each word names one idea from the unit. A strong answer can use the word in a sentence of its own.
@@ -558,7 +558,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 12. (order) Put these in the order they happen when still water is left in a flower-pot plate.  
    **Answer:** ['A mosquito lays eggs in the still water', 'Wrigglers swim and grow in the water for about a week', 'A grown mosquito flies out and bites']. *Why:* Eggs hatch into wrigglers in the water, and after about a week they become flying mosquitoes. Emptying the plate every week breaks the chain.
 13. (mcq) Why does a woollen sweater keep you warm?  
-   Options: It traps still air, which slows heat leaving the body / It makes heat of its own / It lets cold air pass through easily  
+   Options: It makes heat of its own / It traps still air, which slows heat leaving the body / It lets cold air pass through easily  
    **Answer:** It traps still air, which slows heat leaving the body. *Why:* Wool traps still air, and still air slows heat leaving the body. The sweater does not make heat. Your body does.
 14. (truefalse) The air you breathe out has no oxygen left in it.  
    **Answer:** False. *Why:* False. Breathed-out air has less oxygen and more carbon dioxide than room air, but some oxygen is still in it.
@@ -579,7 +579,7 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 6. (write) Ants came to the sugar because their colony needed food. Is it fair to keep the sugar from them? Give your view and a reason, and say what the ants could eat instead.  
    **Answer:** A strong answer gives a view with a reason. For example: yes, because people need the sugar and ants in food can bring dirt. The ants can find food outside, such as dead insects, seeds and the sweet juice of plants. The water ring keeps them out without hurting them.. *Why:* There is no single right answer. A strong answer thinks about both the family's needs and the ants' needs.
 7. (mcq) A grown-up loses about 2 to 3 litres of water a day. On a cool, quiet day, which of these lets water out without them noticing?  
-   Options: Only urine / Breath and skin / Only tears  
+   Options: Breath and skin / Only urine / Only tears  
    **Answer:** Breath and skin. *Why:* Breath and skin let water out all day without us noticing. Urine is a big part too, but we notice it. Tears are a tiny amount.
 8. (write) Kerala and Himachal Pradesh are very different places. Why do houses in both often have sloping roofs?  
    **Answer:** Kerala gets very heavy monsoon rain and Himachal gets snow. A sloping roof lets rain and snow slide off instead of sitting on top, where it could leak through or make the roof collapse.. *Why:* A strong answer names what falls in each place and what the slope does to it.
@@ -606,37 +606,37 @@ The next morning, the water lorry came roaring through the gate at six o'clock. 
 
 ## Quiz
 1. (mcq) Which three basic needs keep us alive?  
-   Options: Air, water and food / Clothes, a home and toys / Food, a TV and a fan  
+   Options: Clothes, a home and toys / Air, water and food / Food, a TV and a fan  
    **Answer:** Air, water and food. *Why:* Without air, water or food a person dies. Clothes and a home keep us safe and healthy, so they are needs too, but people can survive a short time without them.
 2. (mcq) Which one is a want, not a need?  
-   Options: Drinking water / A roof over your head / A new video game / Food  
+   Options: Drinking water / A roof over your head / Food / A new video game  
    **Answer:** A new video game. *Why:* A video game is fun but not needed to live or stay well. Water, a roof and food are needs.
 3. (mcq) Why should you drink water even on a cool day, when you are not sweating?  
-   Options: Water keeps leaving through your skin and breath, even without sweat / The body only loses water when it sweats / Cool air makes the body use up food faster  
+   Options: The body only loses water when it sweats / Cool air makes the body use up food faster / Water keeps leaving through your skin and breath, even without sweat  
    **Answer:** Water keeps leaving through your skin and breath, even without sweat. *Why:* In the Hidden Water Test, a dry hand misted a bag. Water leaves unseen through the skin and breath all day, so we must drink every day.
 4. (mcq) When you breathe out, which gas do you give out more of than you took in?  
-   Options: Oxygen / Carbon dioxide / Air has no gases  
+   Options: Oxygen / Air has no gases / Carbon dioxide  
    **Answer:** Carbon dioxide. *Why:* Your cells make carbon dioxide as they use food for energy. Breathed-out air has much more carbon dioxide than room air, and less oxygen.
 5. (mcq) Why do we need clothes?  
-   Options: Only to look nice / To protect our skin from sun, cold, insects and dirt / Because clothes make heat  
+   Options: Only to look nice / Because clothes make heat / To protect our skin from sun, cold, insects and dirt  
    **Answer:** To protect our skin from sun, cold, insects and dirt. *Why:* Clothes protect the skin and help the body stay at the right temperature. Looking nice is a want. Wool keeps you warm by trapping still air, not by making heat.
 6. (mcq) Which is the best way to keep drinking water safe at home?  
-   Options: Leave it open so it gets fresh air / Keep it covered and pour it with a ladle / Dip a tumbler in with your hand  
+   Options: Leave it open so it gets fresh air / Dip a tumbler in with your hand / Keep it covered and pour it with a ladle  
    **Answer:** Keep it covered and pour it with a ladle. *Why:* A lid keeps out dust and insects. A ladle keeps fingers out of the water everyone drinks.
 7. (mcq) Why should flower-pot plates be emptied once a week?  
-   Options: So mosquitoes cannot breed in the still water / So the plant does not get bored / Because water goes bad in one day  
+   Options: So the plant does not get bored / So mosquitoes cannot breed in the still water / Because water goes bad in one day  
    **Answer:** So mosquitoes cannot breed in the still water. *Why:* Mosquitoes lay eggs in still water, and the young grow there in about a week. Emptying the water every week stops them before they can fly.
 8. (mcq) A family stands their sugar dabba in a plate of water. Why does this keep ants out?  
-   Options: Most ants will not cross water / Water hides the smell of sugar / Ants only like dry sugar  
+   Options: Water hides the smell of sugar / Most ants will not cross water / Ants only like dry sugar  
    **Answer:** Most ants will not cross water. *Why:* Most house ants turn back at water, and a small ant can get stuck on the water's surface. As long as nothing makes a bridge, they cannot reach the dabba.
 9. (mcq) A woollen sweater is a need in Shimla in winter. In Chennai in May it is:  
    Options: Still a need / A want / Dangerous  
    **Answer:** A want. *Why:* Whether a thing is a need can depend on the place and the weather. In Chennai's heat, a sweater is not needed.
 10. (mcq) A kitchen has only one small window. What would make the air in it flow better?  
-   Options: Open a door or window on another side, or fit an exhaust fan / Keep the window shut so the smoke stays in one place / Switch on a bright light  
+   Options: Keep the window shut so the smoke stays in one place / Open a door or window on another side, or fit an exhaust fan / Switch on a bright light  
    **Answer:** Open a door or window on another side, or fit an exhaust fan. *Why:* Air keeps flowing only when it has a way in and a way out. A second opening or an exhaust fan lets used air leave.
 11. (mcq) A man weighs everything he eats and drinks. He also weighs everything that leaves his body as urine and stools. The waste weighs much less than the food and drink, yet his own weight stays about the same. What does this show?  
-   Options: That the body loses a lot of water we cannot see / That food makes us heavier forever / That breathing does nothing  
+   Options: That food makes us heavier forever / That the body loses a lot of water we cannot see / That breathing does nothing  
    **Answer:** That the body loses a lot of water we cannot see. *Why:* Much of what goes in must leave the body unseen, as water through the skin and in the breath. We lose water all the time, even when we cannot feel it.
 12. (mcq) Why can a person live weeks without food but only minutes without air?  
    Options: Food is less important than air / The body stores food as fat, but stores almost no oxygen / Air is heavier than food  

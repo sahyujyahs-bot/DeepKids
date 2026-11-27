@@ -610,7 +610,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 1. (write) You tap a steel tumbler with a spoon. The tumbler rings. Then you grip the tumbler with your whole hand, and the ring stops at once. Explain why gripping stopped the sound.  
    **Answer:** Tapping made the tumbler vibrate, which means move quickly back and forth. The vibrating steel pushed the air, and that made the ring. The hand held the steel still, so it stopped vibrating. With no vibration, there is no sound.. *Why:* A strong answer links the two things: the sound lasts only while the tumbler vibrates, so stopping the vibration stops the sound.
 2. (mcq) Someone says, "Nothing vibrates to make thunder, because there is nothing in the sky to shake." What really shakes to make thunder?  
-   Options: Clouds bumping into each other / The air, which lightning heats so fast that it bursts outwards with a bang / Nothing shakes. Thunder is a sound without a vibration  
+   Options: Clouds bumping into each other / Nothing shakes. Thunder is a sound without a vibration / The air, which lightning heats so fast that it bursts outwards with a bang  
    **Answer:** The air, which lightning heats so fast that it bursts outwards with a bang. *Why:* Lightning heats the air around it in a flash. The hot air rushes outwards and shoves the air beside it. That push travels to us as thunder. Many people believe clouds bump together, but clouds are soft mist and make no bang. Every sound, even thunder, starts with something moving back and forth.
 3. (sort) Sort these by what vibrates to make their sound.  
    **Answer:** veena → A string; mridangam → A skin; bansuri flute → The air inside a tube; violin → A string; thavil drum → A skin; nadaswaram → The air inside a tube; conch shell → The air inside a tube. *Why:* Strings vibrate in a veena and a violin. Stretched skins vibrate in the mridangam and the thavil. In the bansuri, the nadaswaram and the conch, the air inside the tube vibrates. The tube itself only shapes that air.
@@ -620,7 +620,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    Options: A higher sound / A lower sound / The same sound  
    **Answer:** A higher sound. *Why:* A shorter piece of ruler vibrates faster, and a faster vibration sounds higher. Many children guess 'lower', because a smaller thing seems weaker. But this is about how fast it moves, not how strong it is.
 6. (mcq) A girl hits a drum gently. Then she hits it hard. What changes?  
-   Options: The hard hit is louder, because the skin swings further / The hard hit is higher, because the skin moves faster / Nothing changes, because it is the same drum  
+   Options: The hard hit is higher, because the skin moves faster / Nothing changes, because it is the same drum / The hard hit is louder, because the skin swings further  
    **Answer:** The hard hit is louder, because the skin swings further. *Why:* A harder hit makes the skin swing further up and down, so it pushes the air harder. That bigger vibration is louder. The note stays about the same, because the skin still swings back and forth about as many times each second.
 7. (write) Put your fingers gently on the front of your throat. Hum. Then whisper a few words. What did your fingers feel each time? What does this tell you about how your voice is made?  
    **Answer:** When I hummed, I felt a buzz. When I whispered, I felt almost nothing. So my humming voice comes from something in my throat vibrating. These are my vocal folds. A whisper is just air rushing through my mouth, without the vocal folds vibrating.. *Why:* A strong answer says what the fingers felt both times, and uses it as evidence: the buzz comes from the vocal folds vibrating.
@@ -638,14 +638,14 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 13. (truefalse) You can feel a sound as well as hear it.  
    **Answer:** True. *Why:* True. A sound is a vibration, and you can feel vibrations with your skin. Put your hand on a speaker playing music, or on your throat while you hum, and you can feel the buzz.
 14. (mcq) A girl has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?  
-   Options: The nearly empty bowl / The nearly full bowl / Both give the same note  
+   Options: The nearly full bowl / The nearly empty bowl / Both give the same note  
    **Answer:** The nearly full bowl. *Why:* The water moves along with the steel and weighs it down, so the full bowl vibrates more slowly. Slower vibrations sound lower. This is how a jal tarang player tunes her bowls.
 15. (write) A little boy thinks that a sound is a thing that flies out of a drum and into your ear. Write two or three sentences to tell him what really travels.  
    **Answer:** When the drum skin vibrates, it pushes the air molecules next to it. They push the next ones, and so on, all the way to your ear. The air does not fly across the room. Only the push travels, passed from molecule to molecule.. *Why:* A strong answer says that the molecules stay roughly where they are, and only the push or the pattern moves along.
 16. (perspective) The first child and her cousin the second child are arguing about whispers.  
    **Answer:** A strong answer sees that both have a point. The first child is right that the vocal folds do not vibrate in a whisper: the throat test shows no buzz. The second child is right that something still vibrates: the air itself, rushing through the narrow gaps between the tongue, teeth and lips, shakes back and forth. A strong answer uses the throat test as evidence and then gives the other side its due.. *Why:* A whisper is air rushing through a narrow gap, which makes the air itself shake. So every sound is still a vibration, but the thing vibrating can be the air, not the vocal folds.
 17. (mcq) A frog's throat swells up like a balloon when he calls. What does the swollen pouch do?  
-   Options: It makes his call much louder / It stores food for later / It helps him breathe underwater  
+   Options: It stores food for later / It makes his call much louder / It helps him breathe underwater  
    **Answer:** It makes his call much louder. *Why:* The thin pouch vibrates along with the frog's call and pushes on a lot more air, so the call carries further. A veena's hollow body works in a similar way. Frogs call to find mates, and they are not calling for us.
 ### Sounds of India and the World (stretch) (stretch, 15 questions)
 1. (write) Suppose you stretch a veena string between two nails on a flat plank and pluck it. The sound is thin and quiet. On a real veena, the same string sounds full and loud. Explain why the veena's big hollow wooden body makes the difference.  
@@ -654,7 +654,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    Options: The note will be lower, because the heavy dough slows the skin down / The note will be higher, because the dough makes the skin tighter / The note will stay the same, because dough cannot vibrate  
    **Answer:** The note will be lower, because the heavy dough slows the skin down. *Why:* The heavy dough makes the skin vibrate more slowly, and slower vibrations sound lower. That is why a mridangam player presses dough onto the left skin: it gives a deep boom.
 3. (mcq) A tabla player taps the wooden blocks under the straps with a small hammer, so the skin is pulled tighter. What happens to the note?  
-   Options: It goes higher, because a tighter skin springs back faster and vibrates faster / It goes lower, because a tight skin is heavier / It does not change  
+   Options: It goes lower, because a tight skin is heavier / It goes higher, because a tighter skin springs back faster and vibrates faster / It does not change  
    **Answer:** It goes higher, because a tighter skin springs back faster and vibrates faster. *Why:* A tighter skin springs back quicker, so it vibrates more times each second, and the note goes up. Tightness changes how fast the skin vibrates, not how heavy it is.
 4. (perspective) Around 1640, in Rome, Gasparo Berti rang a bell inside a glass tube with almost no air at the top. People could still hear the bell. In 1660, in England, Robert Boyle pumped the air out of a jar with a ticking watch inside. The ticking grew fainter, and came back when he let the air in again.  
    **Answer:** A strong answer chooses with a reason. Boyle's test is stronger because he took the air away and put it back while changing nothing else, and the ticking followed the air. Kircher could fairly answer that Boyle's pump never took out all the air, and the ticking never fully stopped. A strong answer also spots the weakness in Berti's test: the bell was fixed to the tube, so the vibration could travel through the solid metal and glass.. *Why:* Each scientist reasoned honestly from what he saw. Boyle's test was more careful, because he could take the air away and put it back while changing nothing else.
@@ -665,10 +665,10 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 7. (write) A ghatam is a clay pot played as a drum in Carnatic music. While she plays, a ghatam player sometimes presses the open mouth of the pot against her stomach, then pulls it away. The deep sound changes. What is she changing, and why does it change the sound?  
    **Answer:** When she hits the pot, both the clay and the air inside it vibrate. Pressing the mouth against her stomach closes the opening, and pulling it away opens it. That changes how the air inside the pot can vibrate, so the deep tone changes.. *Why:* A strong answer says that the air inside the pot vibrates too, and opening or closing the mouth changes that vibration.
 8. (mcq) You stretch a thin rubber band and a thick rubber band across a box, both equally tight. You pluck each one. Which gives the higher note?  
-   Options: The thin band / The thick band / Both give the same note  
+   Options: The thick band / Both give the same note / The thin band  
    **Answer:** The thin band. *Why:* The thin band is lighter, so it vibrates faster, and faster vibrations sound higher. On a veena, the thin strings play the high notes for the same reason.
 9. (mcq) Bats fly around a dark room without bumping into the walls. How do they know where the walls are?  
-   Options: They listen to the echoes of their own high squeaks bouncing back / They can see perfectly in the dark / They smell the paint on the walls  
+   Options: They can see perfectly in the dark / They smell the paint on the walls / They listen to the echoes of their own high squeaks bouncing back  
    **Answer:** They listen to the echoes of their own high squeaks bouncing back. *Why:* Many bats send out squeaks too high for people to hear, and listen for the echoes. A quick echo means a wall is close. This is called echolocation. Bats can see too, but in the dark, sound tells them more.
 10. (match) Match each animal sound to the reason for making that sound.  
    **Answer:** An elephant's low rumble → keeping in touch with family far away; A bat's high squeak → finding insects in the dark by their echoes; A male cricket's chirp → calling a female cricket to find him; A crow's loud cawing → warning other crows that a cat is near. *Why:* Animals make sounds for their own needs, not for us: to stay together, to hunt, to find a mate and to warn each other.
@@ -682,7 +682,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 14. (draw) Draw a tin-can telephone: two tins joined by a long, tight string, with one person talking into one tin and another person listening at the other. Draw arrows to show the path of the vibration, from the talker's mouth to the listener's ear.  
    **Answer:** Arrows go from the mouth into the first tin, along the string, into the second tin, and out to the listener's ear.. *Why:* The voice makes the bottom of the first tin vibrate. The tight string carries the vibration to the second tin, which shakes the air next to the listener's ear. The string must be tight, or the vibration dies away.
 15. (mcq) At a cricket ground, you sit far from the batter. Why do you see the bat hit the ball a moment before you hear the 'tock'?  
-   Options: Light travels much faster than sound / Sound travels faster than light, but our ears are slow / The sound has to wait for the ball to land  
+   Options: Sound travels faster than light, but our ears are slow / The sound has to wait for the ball to land / Light travels much faster than sound  
    **Answer:** Light travels much faster than sound. *Why:* Light from the bat reaches you almost at once. Sound travels about 343 metres every second, so it takes a moment to cross a big ground.
 ### Sound Puzzles and Big Ideas (challenge) (challenge, 17 questions)
 1. (perspective) A big tree falls in an empty forest. No people are there, and no animals are close enough to hear.  
@@ -693,17 +693,17 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    Options: Sound waves travel inside the Sun's thick, hot gas, but cannot cross the nearly empty space to reach us / The Sun's sound is too far away for anyone to hear / The Sun is made of metal, so it rings  
    **Answer:** Sound waves travel inside the Sun's thick, hot gas, but cannot cross the nearly empty space to reach us. *Why:* Inside the Sun, the hot gas is packed thickly enough to carry sound, so sound waves bounce around in there. The Sun's surface rises and falls about every five minutes. Scientists see this movement with telescopes. They cannot hear it, because space carries no sound.
 4. (mcq) Air molecules zoom about at around 500 metres every second. Sound travels through air at about 343 metres every second. Why can sound never go faster than the molecules?  
-   Options: Sound is passed along only by molecules bumping into each other, so it cannot outrun them / Sound is heavier than air / Sound gets tired as it travels  
+   Options: Sound is heavier than air / Sound gets tired as it travels / Sound is passed along only by molecules bumping into each other, so it cannot outrun them  
    **Answer:** Sound is passed along only by molecules bumping into each other, so it cannot outrun them. *Why:* Sound is not a thing of its own. It is a push handed from molecule to molecule. So the push can only travel as fast as the molecules can carry it. Thinking sound is 'heavier' treats it like an object, when it is really a pattern.
 5. (truefalse) In a Mexican wave at a cricket stadium, the wave goes all the way round the ground, but each person stays in their own seat.  
    **Answer:** True. *Why:* True. Each person only stands up and sits down. The pattern moves round, but the people stay. A sound wave in air is the same: the pattern moves, and the molecules stay where they are.
 6. (write) Someone shares a message on a phone: "NASA recorded the Sun chanting Om." What is true in this message, and what is not? How could you check?  
    **Answer:** It is true that the Sun vibrates, and NASA scientists have turned those vibrations into sounds we can hear, by speeding them up thousands of times. The result is a low hum, not a word. Space carries no sound, so nobody recorded the Sun through the air. You could check NASA's own website, or a science news site, instead of trusting a forwarded message.. *Why:* A strong answer separates the true part from the made-up part, and names a trustworthy place to check.
 7. (mcq) A sound slowly fades away. Where does its energy go?  
-   Options: It vanishes completely / It spreads out, and ends up as a tiny amount of warmth in the air / It goes back into the drum  
+   Options: It vanishes completely / It goes back into the drum / It spreads out, and ends up as a tiny amount of warmth in the air  
    **Answer:** It spreads out, and ends up as a tiny amount of warmth in the air. *Why:* Energy never disappears. It only changes from one kind into another. The vibration spreads out wider and wider until it becomes the random jiggling of molecules, which is warmth.
 8. (mcq) A scientist sits in a room built to block every sound from outside. She still hears a soft thumping and a gentle hiss. Where are they coming from?  
-   Options: Her own heartbeat and the blood moving in her body / Sound leaking through the walls / Her ears are broken  
+   Options: Sound leaking through the walls / Her ears are broken / Her own heartbeat and the blood moving in her body  
    **Answer:** Her own heartbeat and the blood moving in her body. *Why:* A living body is never still. The heart beats, blood flows and lungs breathe, and all of these vibrate. Perfect silence is almost impossible for a living listener.
 9. (perspective) For hundreds of years, drum makers in India improved the black syahi on the tabla by ear and by hand. In 1920, the scientists C.V. Raman and Sivakali Kumar explained why the syahi makes the drum ring with a clear note.  
    **Answer:** A strong answer picks a side and gives a reason: for example, that the makers found something real by careful listening, or that an explanation lets the idea travel and be used for new instruments. It then gives a fair point from another side.. *Why:* Science often grows from what craftspeople already know. Fair credit means naming everyone who helped, including people whose names were never written down.
@@ -714,7 +714,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 12. (write) Someone says, "Sound spreads out like the ripples on a pond when you drop a stone in." Write one way this picture is right, and one way it is wrong.  
    **Answer:** It is right because the ripples spread out from one place while the water mostly stays where it is, just like sound. It is wrong because ripples are ups and downs on the flat top of the water. Sound is squashing and spreading of air, and it spreads in every direction, up, down and sideways, not only across a flat surface.. *Why:* A model helps us picture something we cannot see. A strong answer also says where the model breaks down.
 13. (mcq) In 2023, scientists in Israel recorded tiny clicking sounds from tomato plants that needed water. Which question about these clicks is still open?  
-   Options: Whether any animals listen to the clicks and use them / Whether the clicks were really recorded / Whether the clicks need a medium to travel  
+   Options: Whether the clicks were really recorded / Whether any animals listen to the clicks and use them / Whether the clicks need a medium to travel  
    **Answer:** Whether any animals listen to the clicks and use them. *Why:* The recordings were careful and real, and like every sound, the clicks travel through air. What nobody knows yet is whether insects or other animals hear the clicks and act on them. Saying clearly what is still unknown is part of good science.
 14. (draw) Draw the air between a drum and an ear twice. In the first drawing, the drum has been hit gently. In the second, it has been hit hard. Use dots for the air molecules, and show how the two drawings are different.  
    **Answer:** Both drawings have bands of crowded dots and spread-out dots, the same distance apart. In the hard-hit drawing, the crowded bands are much more crowded and the spread-out bands much more spread out.. *Why:* A harder hit squashes the air more, so the difference between crowded and spread-out bands is bigger. That is what a louder sound is. The bands stay the same distance apart, because the note does not change.
@@ -733,10 +733,10 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 
 ## Quiz
 1. (mcq) What do all sounds have in common?  
-   Options: They are all loud / They all start with something vibrating / They all come from machines  
+   Options: They are all loud / They all come from machines / They all start with something vibrating  
    **Answer:** They all start with something vibrating. *Why:* Every sound starts with a vibration. Picking 'loud' forgets whispers and rustles. Picking 'machines' forgets voices, birds and rain.
 2. (mcq) A temple bell keeps ringing for a long time after it is struck. What is the bell doing all that time?  
-   Options: It is still vibrating / It is letting out sound it stored inside / It is cooling down  
+   Options: It is letting out sound it stored inside / It is cooling down / It is still vibrating  
    **Answer:** It is still vibrating. *Why:* The bell rings only as long as it vibrates. Its heavy metal keeps vibrating for a long time, and the vibration slowly gets smaller. When the vibration stops, the ring stops.
 3. (mcq) In a bansuri flute, what vibrates to make the sound?  
    Options: The bamboo only / The air inside the flute / The player's fingers  
@@ -745,34 +745,34 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    Options: The stretched skins / The jackfruit wood only / The leather straps only  
    **Answer:** The stretched skins. *Why:* Like all drums, the mridangam's stretched skins vibrate when struck. The wood and straps hold the skins tight.
 5. (mcq) In the Twanging Ruler experiment, a girl changes how much ruler sticks out and also flicks it harder, both at the same time. Why can she not tell what changed the sound?  
-   Options: She changed two things at once, so she cannot tell which one made the difference / Rulers cannot make a fair test / She should have used a longer ruler  
+   Options: Rulers cannot make a fair test / She should have used a longer ruler / She changed two things at once, so she cannot tell which one made the difference  
    **Answer:** She changed two things at once, so she cannot tell which one made the difference. *Why:* In a fair test, you change only one thing and keep everything else the same. If two things change, you cannot tell which one caused the result.
 6. (mcq) A drum is played across a room. What reaches your ear?  
-   Options: Air from the drum, flying across the room / A pattern of pushes passed from molecule to molecule / Tiny pieces of the drum  
+   Options: A pattern of pushes passed from molecule to molecule / Air from the drum, flying across the room / Tiny pieces of the drum  
    **Answer:** A pattern of pushes passed from molecule to molecule. *Why:* No air flies across the room. Each molecule moves back and forth a tiny distance and pushes the next. Only the pattern travels to you. Picking 'air flying across' is the most common mistake about sound.
 7. (mcq) Coins are laid in a row with wide gaps between them. You flick a coin at the first one. Why does the push not reach the last coin?  
-   Options: The coins were too far apart to pass the push on / The coins got tired / The table was too smooth  
+   Options: The coins got tired / The coins were too far apart to pass the push on / The table was too smooth  
    **Answer:** The coins were too far apart to pass the push on. *Why:* With gaps, the moving coin stopped before it reached the next one. In space, molecules are so far apart that sound can't be passed on either.
 8. (mcq) Two astronauts stand side by side on the Moon. Why must they use radio to talk to each other?  
    Options: The Moon is too cold for voices / There is no air on the Moon to carry the sound / Their helmets are too thick  
    **Answer:** There is no air on the Moon to carry the sound. *Why:* With no air, there is nothing to pass the vibration from one helmet to the other. Radio waves are the same kind of wave as light, and need no air.
 9. (mcq) What makes a tabla ring with a clear note instead of a thud?  
-   Options: The black syahi patch on its skin / Its bright colour / Hitting it very hard  
+   Options: Its bright colour / The black syahi patch on its skin / Hitting it very hard  
    **Answer:** The black syahi patch on its skin. *Why:* The heavy syahi changes how the skin vibrates, so its vibrations fit together into one note. C.V. Raman and Sivakali Kumar explained this in 1920. Drum makers had invented it long before.
 10. (mcq) A sitar has a big round gourd at the bottom. What is the gourd for?  
-   Options: It vibrates along with the strings and makes the sound much louder / It keeps the sitar from rolling over / It holds spare strings  
+   Options: It keeps the sitar from rolling over / It holds spare strings / It vibrates along with the strings and makes the sound much louder  
    **Answer:** It vibrates along with the strings and makes the sound much louder. *Why:* The gourd is a resonator, like the hollow body of a veena. A thin string pushes little air, but the big gourd vibrates with it and pushes far more.
 11. (mcq) How does a male cricket make his chirp?  
    Options: By singing with his mouth / By rubbing a scraper on one wing against tiny teeth on the other / By tapping his feet  
    **Answer:** By rubbing a scraper on one wing against tiny teeth on the other. *Why:* Crickets rub their wings together. The wings vibrate and make the chirp. Picking 'with his mouth' comes from thinking all animal sounds are like our voices.
 12. (mcq) Standing near some elephants, a person feels a throbbing in the air, but hears almost nothing. What is the best explanation?  
-   Options: Elephants call with sounds too low for people to hear / Nearby machines are shaking / The wind is blowing hard  
+   Options: Nearby machines are shaking / Elephants call with sounds too low for people to hear / The wind is blowing hard  
    **Answer:** Elephants call with sounds too low for people to hear. *Why:* A sound is a vibration. Very low sounds, called infrasound, are too low for human ears, but you can still feel the air throbbing. Elephants use such low calls to talk over long distances.
 13. (mcq) Which of these do scientists still not know for sure?  
-   Options: Why people everywhere make music / Whether sound needs a medium to travel / Whether every sound starts with a vibration  
+   Options: Whether sound needs a medium to travel / Why people everywhere make music / Whether every sound starts with a vibration  
    **Answer:** Why people everywhere make music. *Why:* Every human culture ever found has music, but scientists still argue about why. Some think music helps groups feel close. Others think it grew from parents singing to babies. Whether sound needs a medium is settled: it does.
 14. (mcq) You tap a steel plate and a cloth bag with a spoon. Which one rings on with a ting?  
-   Options: The steel plate rings on, and the cloth gives a soft thud / The cloth bag rings on, and the steel gives a soft thud / Both ring on for the same time / Neither makes a sound  
+   Options: The cloth bag rings on, and the steel gives a soft thud / Both ring on for the same time / Neither makes a sound / The steel plate rings on, and the cloth gives a soft thud  
    **Answer:** The steel plate rings on, and the cloth gives a soft thud. *Why:* Steel is a hard solid that vibrates and rings on. Cloth soaks up the vibration, so it gives a soft thud with almost no ring.
 
 ## Applications

@@ -628,11 +628,11 @@
       "t": "mcq",
       "q": "Which of these is found in air, in sea water and in soil?",
       "options": [
-       "Water",
        "Argon",
+       "Water",
        "Humus"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Air holds water vapour, the sea is mostly water and soil holds water in its gaps. Argon is a gas of the air, and humus is part of soil. Water, oxygen, carbon dioxide and microbes move between all three."
      },
      "context": "This is the last step of Air, Sea, Soil or All Three. You sort the cards and look at what air, sea and soil share."
@@ -796,11 +796,11 @@
       "t": "mcq",
       "q": "A drop of acid rain runs over a limestone hill. What happens to its acid?",
       "options": [
-       "Some of it is neutralised",
        "It gets stronger",
-       "Nothing happens to it"
+       "Nothing happens to it",
+       "Some of it is neutralised"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Limestone reacts with acid and uses it up. This is why lakes on limestone stayed healthy. If you chose nothing happens, that is true of granite, which does not react with acid."
      },
      "parent": "A lake that receives 4 or more grains from each drop would be too acid for young fish. The scrubber square shows the lasting answer: stop the gas before it leaves the chimney.",
@@ -1130,11 +1130,11 @@
       "t": "mcq",
       "q": "A lemon drop on marble makes tiny bubbles. What are the bubbles?",
       "options": [
-       "A new gas made by the acid and the marble",
        "Air that was hiding in the lemon",
+       "A new gas made by the acid and the marble",
        "The marble boiling"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The acid reacts with the marble and makes carbon dioxide gas. A new gas is a sign of a chemical reaction. If you chose air from the lemon, look at the lemon drop on granite: it has no bubbles."
      },
      "context": "In this step of the Lemon Drop Test you watch the drops for 10 minutes and look for tiny bubbles."
@@ -1456,11 +1456,11 @@
       "t": "mcq",
       "q": "The salt in the bottle can no longer be seen. Where is it?",
       "options": [
-       "Spread through the water in tiny particles",
        "Gone into the air",
-       "Changed into water"
+       "Changed into water",
+       "Spread through the water in tiny particles"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The salt has dissolved. Its particles are spread through the water, too small to see, and you can still taste them. If you chose the air or changed into water, taste the drop again: the salt is still there."
      },
      "parent": "A level teaspoon of fine salt weighs about 6 grams, so 3 teaspoons are about 18 grams. Real sea water also holds a little magnesium salt, which makes it taste bitter as well as salty.",
@@ -1846,11 +1846,11 @@
       "t": "mcq",
       "q": "In The Plate That Got Saltier, water was poured on for five days. Why did the plate never fill up?",
       "options": [
-       "The water evaporated each day",
        "The salt soaked up the water",
+       "The water evaporated each day",
        "The plate leaked"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The sun turned the water into vapour, which went into the air. The salt cannot evaporate, so it stayed. If you chose the salt soaking it up, remember how little salt there was: one pinch in a whole litre."
      },
      "ask": [
@@ -2186,12 +2186,12 @@
      "t": "mcq",
      "p": "Why is a lake with no river flowing out usually salty?",
      "opts": [
-      "Salts arrive and only water leaves",
       "Salt falls into it with the rain",
       "Fish living there make salt",
-      "Its bed is always made of salt"
+      "Its bed is always made of salt",
+      "Salts arrive and only water leaves"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rivers bring a little dissolved rock. Water leaves such a lake only by evaporating, and the salts stay behind and build up.",
      "outcome": 2
     }
@@ -2207,12 +2207,12 @@
      "t": "mcq",
      "p": "You breathe in air with 78 parts nitrogen. What does your body do with the nitrogen?",
      "opts": [
-      "Breathes it out unchanged",
       "Burns it for energy",
+      "Breathes it out unchanged",
       "Turns it into oxygen",
       "Stores it in the bones"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Nitrogen reacts with very few things. Your body breathes it out again, still 78 parts in 100.",
      "outcome": 0
     },
@@ -2220,12 +2220,12 @@
      "t": "mcq",
      "p": "One rain has a pH of 4.6. Clean rain has a pH of 5.6. How do they compare?",
      "opts": [
-      "The first is 10 times as acid",
       "The first is slightly more acid",
+      "The first is 10 times as acid",
       "They are equally acid",
       "The clean rain is more acid"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each whole step down the pH scale means 10 times more acid. From 5.6 to 4.6 is one whole step.",
      "outcome": 5
     },
@@ -2332,12 +2332,12 @@
      "t": "mcq",
      "p": "Why does crushed shell turn sour pink water back to purple?",
      "opts": [
-      "It reacts with the acid, using it up",
       "It soaks up the pink colour",
       "It makes the water colder",
-      "It adds more water"
+      "It adds more water",
+      "It reacts with the acid, using it up"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Shell is calcium carbonate. It reacts with the acid, so less acid is left and the indicator goes back to purple.",
      "outcome": 6,
      "how": "e3"
@@ -2434,12 +2434,12 @@
      "t": "mcq",
      "p": "A lake on granite is turning acid. Which action stops the cause?",
      "opts": [
-      "Fitting scrubbers at power stations",
       "Adding limestone to the lake",
       "Adding more fish",
+      "Fitting scrubbers at power stations",
       "Building a taller chimney"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A scrubber stops the gas that makes the acid. Limestone helps the lake for a time, but it is used up while the acid rain goes on.",
      "outcome": 7
     },
@@ -2447,12 +2447,12 @@
      "t": "mcq",
      "p": "Which test would show that fresh-tasting river water holds dissolved minerals?",
      "opts": [
-      "Dry a plateful and look for a film",
       "Look at it through a magnifier",
       "Shake it hard in a bottle",
-      "Smell it"
+      "Smell it",
+      "Dry a plateful and look for a film"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Dissolved minerals are too small to see and too few to taste. When the water evaporates they stay behind as a faint film.",
      "outcome": 2
     },
@@ -2460,12 +2460,12 @@
      "t": "mcq",
      "p": "As the air gains carbon dioxide, sea water becomes less basic. Why?",
      "opts": [
-      "The gas dissolves and makes a weak acid",
       "The sea gets warmer",
       "Salt slowly turns into acid",
+      "The gas dissolves and makes a weak acid",
       "Rivers bring more salt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Carbon dioxide dissolves in the sea, as it does in a raindrop, and makes carbonic acid. The pH of the sea surface has fallen from about 8.2 to 8.1.",
      "outcome": 4
     },
@@ -2598,12 +2598,12 @@
    "t": "mcq",
    "p": "Which list gives the three main gases of dry air, largest first?",
    "opts": [
-    "Nitrogen, oxygen, argon",
     "Oxygen, nitrogen, carbon dioxide",
     "Oxygen, carbon dioxide, nitrogen",
-    "Nitrogen, carbon dioxide, oxygen"
+    "Nitrogen, carbon dioxide, oxygen",
+    "Nitrogen, oxygen, argon"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Dry air is 78 parts nitrogen, 21 parts oxygen and nearly 1 part argon. Carbon dioxide is far less than 1 part.",
    "outcome": 0
   },
@@ -2611,12 +2611,12 @@
    "t": "mcq",
    "p": "About how much of the air is carbon dioxide?",
    "opts": [
-    "4 parts in 10,000",
     "4 parts in 100",
+    "4 parts in 10,000",
     "21 parts in 100",
     "About half"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Carbon dioxide is rare in air. Breathed-out air holds about 4 parts in 100, which may be why many people choose that number.",
    "outcome": 0
   },
@@ -2624,12 +2624,12 @@
    "t": "mcq",
    "p": "What is most of the salt in sea water?",
    "opts": [
-    "Common salt, the salt we eat",
     "Sugar",
     "Chalk",
+    "Common salt, the salt we eat",
     "Baking soda"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About 85 grams in every 100 grams of sea salt are common salt, sodium chloride.",
    "outcome": 1
   },
@@ -2637,12 +2637,12 @@
    "t": "mcq",
    "p": "Rivers taste fresh. How do they still make the sea salty?",
    "opts": [
-    "They bring a little dissolved rock",
     "They wash salt off the beaches",
     "They freeze and leave salt behind",
-    "They do not. Fish make the salt"
+    "They do not. Fish make the salt",
+    "They bring a little dissolved rock"
    ],
-   "a": 0,
+   "a": 3,
    "why": "River water holds a very small amount of dissolved rock. It adds up, because the salts stay in the sea when the water evaporates.",
    "outcome": 2
   },
@@ -2650,12 +2650,12 @@
    "t": "mcq",
    "p": "When sea water evaporates, what goes into the air?",
    "opts": [
-    "Only the water",
     "The water and the salt together",
     "Only the salt",
+    "Only the water",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water turns into vapour and rises. Salt cannot evaporate in the sun, so it stays. That is how a salt pan works.",
    "outcome": 2
   },
@@ -2663,12 +2663,12 @@
    "t": "mcq",
    "p": "Which four parts make up soil?",
    "opts": [
-    "Minerals, humus, water and air",
     "Sand, stones, roots and worms",
     "Rock, salt, water and ash",
+    "Minerals, humus, water and air",
     "Clay, cement, water and air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soil is mineral grains, humus, water and air. About half of good soil is the water and air in the gaps.",
    "outcome": 3
   },
@@ -2676,12 +2676,12 @@
    "t": "mcq",
    "p": "Why is clean rain slightly acid?",
    "opts": [
-    "Carbon dioxide dissolves in it",
     "Salt from the sea rises into it",
     "Sunlight turns water sour",
+    "Carbon dioxide dissolves in it",
     "All dust in the air is acid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A raindrop falls through air and dissolves a little carbon dioxide, which makes a weak acid. Salt does not rise with the vapour.",
    "outcome": 4
   },
@@ -2689,12 +2689,12 @@
    "t": "mcq",
    "p": "Which two kinds of gas cause most acid rain?",
    "opts": [
-    "Sulfur dioxide and nitrogen oxides",
     "Oxygen and nitrogen",
+    "Sulfur dioxide and nitrogen oxides",
     "Argon and water vapour",
     "Carbon dioxide and oxygen"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sulfur dioxide and nitrogen oxides turn into strong acids in clouds. Carbon dioxide makes only the weak acid of clean rain.",
    "outcome": 5
   },
@@ -2709,12 +2709,12 @@
    "t": "mcq",
    "p": "Two lakes get the same acid rain. Which lake stays healthier?",
    "opts": [
-    "The lake on limestone",
     "The lake on granite",
+    "The lake on limestone",
     "The deeper lake",
     "Both stay the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Limestone reacts with the acid and neutralises it. Granite does not, so a lake on granite turns acid.",
    "outcome": 6
   },
@@ -2722,12 +2722,12 @@
    "t": "mcq",
    "p": "What does acid rain do to a marble carving over many years?",
    "opts": [
-    "Dissolves the surface and blurs it",
     "Makes the marble harder",
+    "Dissolves the surface and blurs it",
     "Turns the marble into granite",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Acid reacts with the calcium carbonate of marble and dissolves a little each time. Sharp edges slowly become blurred.",
    "outcome": 6
   },
@@ -2735,12 +2735,12 @@
    "t": "mcq",
    "p": "What is the lasting way to stop acid rain?",
    "opts": [
-    "Stop the gases at the chimney",
     "Build taller chimneys",
     "Add limestone to every lake",
+    "Stop the gases at the chimney",
     "Cover the lakes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Scrubbers and cleaner fuel stop the gases from reaching the air. Taller chimneys only move the acid, and limestone is used up.",
    "outcome": 7
   }

@@ -510,10 +510,10 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 ## Worksheets
 ### Stored energy (core) (core, 15 questions)
 1. (mcq) What is stored energy?  
-   Options: Energy that waits in a thing, ready to be used later / Energy that a thing has used up / Energy only found in batteries  
+   Options: Energy that a thing has used up / Energy only found in batteries / Energy that waits in a thing, ready to be used later  
    **Answer:** Energy that waits in a thing, ready to be used later. *Why:* Stored energy is energy that waits in a thing because of its place, its shape or how its atoms are joined. It is not doing anything yet, but it can.
 2. (mcq) A ball is lifted twice as high as before. How much more energy is stored in its height?  
-   Options: Twice as much / Four times as much / The same amount  
+   Options: Four times as much / The same amount / Twice as much  
    **Answer:** Twice as much. *Why:* The energy stored in height is the weight times the height. Twice the height stores twice the energy.
 3. (sort) Sort each thing by the kind of store it uses.  
    **Answer:** water in a roof tank → Height; a coconut on a tall palm → Height; a wound toy spring → Stretch or squash; a drawn bow → Stretch or squash; squashed air in a bicycle pump → Stretch or squash; a banana → Chemical; a torch cell → Chemical; a heap of firewood → Chemical. *Why:* Water in a tank and a coconut high on a palm hold energy in height. A wound spring, a drawn bow and squashed air hold it in a stretch or squash. A banana, a torch cell and firewood hold chemical energy.
@@ -524,7 +524,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 6. (match) Match each store to the trigger that lets its energy out.  
    **Answer:** Water in a roof tank → Opening the tap; A drawn bow → Letting go of the string; Firewood → A lit match; A torch cell → Closing the switch. *Why:* A store waits while something holds it back. The trigger takes that away. A tap holds back the tank water, fingers hold back a bow string, and a switch holds back a cell.
 7. (mcq) What does a trigger do?  
-   Options: It removes what was holding the energy back / It adds the energy to the store / It uses up the store  
+   Options: It adds the energy to the store / It removes what was holding the energy back / It uses up the store  
    **Answer:** It removes what was holding the energy back. *Why:* A trigger lets a store release its energy. It does not supply the energy. A tiny match can start a huge fire, because the energy comes from the wood.
 8. (count) Lifting a small apple of about 100 grams up by 1 metre stores about 1 joule. How many joules are stored by lifting 5 such apples up by 2 metres?  
    **Answer:** 10. *Why:* Five apples store 5 times as much as one. Two metres stores twice as much as one metre. 5 times 2 is 10 joules.
@@ -533,7 +533,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 10. (truefalse) A ball dropped on its own can bounce higher than the place it was dropped from.  
    **Answer:** False. *Why:* False. A ball loses a little energy as heat and sound at every bounce, so it rises less than it fell. It can rise higher only if something else gives it more energy.
 11. (mcq) Why does a bouncing ball rise less on every bounce?  
-   Options: A little energy turns into heat and sound each time / The ball gets lighter each time / The Earth pulls the ball harder each time  
+   Options: The ball gets lighter each time / The Earth pulls the ball harder each time / A little energy turns into heat and sound each time  
    **Answer:** A little energy turns into heat and sound each time. *Why:* A little of the ball's energy turns into heat and sound at each bounce and spreads out. It cannot be used to lift the ball again. The energy is not destroyed.
 12. (fill) Energy stored in how atoms are joined, as in food and fuel, is called ____ energy.  
    **Answer:** ['chemical']. *Why:* Atoms in food and fuel are joined in patterns that hold energy. When they rearrange, the energy comes out.
@@ -546,7 +546,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
    **Answer:** Your fingers hold the band back. The trigger is letting go of the band.. *Why:* A store waits while something holds it back. A strong answer names the thing that holds it, which is your fingers, and the trigger, which is letting go.
 ### Stored energy (stretch) (stretch, 15 questions)
 1. (mcq) A good spring is stretched twice as far. About how many times as much energy is stored?  
-   Options: About four times as much / Twice as much / The same amount  
+   Options: Twice as much / The same amount / About four times as much  
    **Answer:** About four times as much. *Why:* Twice the stretch means twice the pull at the end, through twice the distance. Twice as much pull and twice as much distance makes 2 times 2, which is 4. For a good spring, the energy grows with the stretch multiplied by itself.
 2. (count) A good spring stores 3 joules when it is stretched 1 centimetre. About how many joules does it store when stretched 3 centimetres?  
    **Answer:** 27. *Why:* Stretch 3 times as far, and the energy grows 3 times 3, which is 9 times. 9 times 3 joules is 27 joules.
@@ -557,19 +557,19 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 5. (label) Here is a drawing of a ball just after it is let go, just before it hits the floor, and squashed against the floor. Label each moment with the store that holds most of the energy.  
    **Answer:** ['A: height', 'B: movement', 'C: squash']. *Why:* At the top, the ball holds its energy in height. Just before it lands, the energy is movement. At the floor, the ball is squashed and holds it as a squash, like a spring.
 6. (mcq) Here are made-up results from a test that hangs water from a rubber band. What does the straight line show?  
-   Options: Twice the weight gives about twice the stretch / The band stretches the same for any weight / The band stretches less for each extra weight  
+   Options: The band stretches the same for any weight / Twice the weight gives about twice the stretch / The band stretches less for each extra weight  
    **Answer:** Twice the weight gives about twice the stretch. *Why:* A straight line through the dots means that the stretch grows in step with the weight. Twice the weight gives about twice the stretch, so the band pulls back twice as hard when stretched twice as far.
 7. (count) Ball A is dropped from 80 centimetres and bounces to 50 centimetres. Ball B is dropped from 80 centimetres and bounces to 60 centimetres. How many more centimetres does ball B bounce than ball A?  
    **Answer:** 10. *Why:* 60 take away 50 is 10. Ball B keeps more of its energy at each bounce, so its bounce is 10 centimetres higher.
 8. (order) Put these steps of a hydro power station in order, from the beginning: the turbine spins, rain falls on the hills, the bulb lights, the Sun heats the sea, water falls from the dam, water evaporates.  
    **Answer:** ['The Sun heats the sea', 'Water evaporates', 'Rain falls on the hills', 'Water falls from the dam', 'The turbine spins', 'The bulb lights']. *Why:* The Sun heats the sea so water evaporates. It falls as rain on the hills and is held in the dam. When it falls, it turns the turbine, which makes the electricity for the bulb.
 9. (mcq) A cycle moves at 20 kilometres an hour, and then at 10. How much movement energy does it have at 20 compared with 10?  
-   Options: Four times as much / Twice as much / The same amount  
+   Options: Twice as much / The same amount / Four times as much  
    **Answer:** Four times as much. *Why:* Movement energy grows with the square of the speed. Twice the speed has 2 times 2, which is 4 times the energy.
 10. (write) In a bounce test, a ball dropped from 30 centimetres bounces to 20. Dropped from 60, it bounces to 41. Dropped from 90, it bounces to 58. Describe the pattern, and predict the bounce from 120 centimetres.  
    **Answer:** The bounce is about two thirds of the drop each time. From 120 centimetres, the bounce should be about 80 centimetres.. *Why:* A strong answer notices that the bounce is a steady fraction of the drop height, about two thirds, and uses it. 2/3 of 120 is 80.
 11. (mcq) A banana holds about 420 000 joules. A full 1000 litre roof tank 10 metres up holds about 98 000 joules. Which holds more, and about how many times more?  
-   Options: The banana, by about four times / The tank, by about four times / They hold the same  
+   Options: The tank, by about four times / The banana, by about four times / They hold the same  
    **Answer:** The banana, by about four times. *Why:* 420 000 divided by 98 000 is a little more than 4. The banana holds more, because chemical stores hold far more energy for their size than a store of height.
 12. (write) A pumped storage dam uses 100 units of electricity to pump water up and gets back 75 units. Where did the other 25 units go, and are they destroyed?  
    **Answer:** They turned into heat in the pumps, pipes and turbines. They were not destroyed. The heat spread out and cannot be used again.. *Why:* A strong answer says the energy became spread-out heat and is not destroyed, using the idea that energy is never lost but can become too spread out to use.
@@ -585,7 +585,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 2. (perspective) A state wants to build a pumped storage dam in a hill forest, so the city's lights stay on at night.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and says what else could be done.. *Why:* Both views are reasonable. A good answer weighs the energy stored against the forest, and asks whether another place or kind of store could do the job.
 3. (mcq) Which of these energy stores did NOT begin as sunlight?  
-   Options: The energy in uranium / The energy in a dosa / The energy in petrol  
+   Options: The energy in a dosa / The energy in petrol / The energy in uranium  
    **Answer:** The energy in uranium. *Why:* The energy in uranium was made in exploding and colliding stars, long before the Sun was born. Wind, dosa and petrol all came from the Sun.
 4. (count) A full tank of 1000 litres lifted 10 metres holds about 98 000 joules. If the same tank were lifted 20 metres, how many joules would it hold?  
    **Answer:** 196000. *Why:* Twice the height stores twice the energy. 98 000 times 2 is 196 000 joules.
@@ -599,7 +599,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 8. (truefalse) In a pumped storage dam, all the electricity used to pump the water uphill comes back.  
    **Answer:** False. *Why:* False. About three-quarters comes back. The rest turns into heat in the pumps, pipes and turbines.
 9. (mcq) Here are made-up bounce results. About what fraction of the drop height does the ball keep each time?  
-   Options: Two thirds / One half / All of it  
+   Options: One half / All of it / Two thirds  
    **Answer:** Two thirds. *Why:* 30 to 20, 60 to 40 and 90 to 60 are all two thirds. A steady fraction means each bounce keeps about the same share of the energy.
 10. (match) Match each living or non-living store to the kind of energy it holds.  
    **Answer:** The tendon at the back of your heel → Stretch; Fat in a camel's hump → Chemical; Water behind a dam → Height; Air squashed in a bicycle tyre → Squash. *Why:* A tendon stretches and springs back, like a band. Fat is a chemical store. Water behind a dam holds energy in height. Compressed air in a tyre is a squash store.
@@ -639,18 +639,18 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
    Options: From the Sun / From exploding and colliding stars / From the Moon's pull  
    **Answer:** From exploding and colliding stars. *Why:* Uranium atoms were made in stars that exploded or collided, long before the Sun. So not every store begins with the Sun.
 7. (mcq) Which chain shows, in the right order, how energy reaches a hydro power station?  
-   Options: The Sun, then evaporation, then rain on the hills, then the dam, then the turbine / The turbine, then the dam, then the Sun, then rain / The dam, then the Sun, then the turbine, then rain  
+   Options: The turbine, then the dam, then the Sun, then rain / The dam, then the Sun, then the turbine, then rain / The Sun, then evaporation, then rain on the hills, then the dam, then the turbine  
    **Answer:** The Sun, then evaporation, then rain on the hills, then the dam, then the turbine. *Why:* The Sun lifts water by evaporating it, rain brings it to the hills, and the dam holds it high. Falling water turns the turbine.
 8. (mcq) The same ball is held in the same place. Once there is a table below it, and once there is only the floor. When is more energy stored?  
    Options: Both times the same, because it is the same ball / With only the floor below / With the table below  
    **Answer:** With only the floor below. *Why:* With only the floor below, the ball can fall further and give back more energy. The energy depends on the ball and on what is below it.
 9. (mcq) About how much energy is stored by lifting a small apple of 100 grams up by 1 metre?  
-   Options: About 1 joule / About 100 joules / About 1000 joules  
+   Options: About 100 joules / About 1 joule / About 1000 joules  
    **Answer:** About 1 joule. *Why:* That is about 1 joule, which is the unit of energy. Lifting 2 apples by 1 metre, or 1 apple by 2 metres, stores about 2 joules.
 10. (truefalse) A trigger supplies the energy that comes out of a store.  
    **Answer:** False. *Why:* False. A trigger only lets the stored energy out. A tiny match can release the huge chemical energy in a whole forest.
 11. (mcq) A cycle at 30 kilometres an hour has 9 times the movement energy of one at 10. About how many times as far does it need to stop?  
-   Options: 3 times as far / 9 times as far / 30 times as far  
+   Options: 3 times as far / 30 times as far / 9 times as far  
    **Answer:** 9 times as far. *Why:* Movement energy grows with the square of the speed. To stop, the brakes must take away 9 times as much energy, so it needs about 9 times the distance.
 12. (mcq) A friend says energy vanishes when a ball stops bouncing. What is the best reply?  
    Options: It spread out as heat and sound, so it is still there / You are right, it is gone / It went back into the Sun  

@@ -419,10 +419,10 @@
       "q": "You hardly feel your heartbeat, but after running you do. What changed?",
       "options": [
        "Your heart only began beating then",
-       "Your heart beats harder and faster, so you notice it",
-       "You grew a new heart"
+       "You grew a new heart",
+       "Your heart beats harder and faster, so you notice it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your heart was beating all along. After running it beats harder and faster. This change catches your attention."
      }
     }
@@ -542,11 +542,11 @@
       "t": "mcq",
       "q": "In which state do you remember almost nothing afterwards?",
       "options": [
+       "Deep sleep",
        "Awake",
-       "Dreaming",
-       "Deep sleep"
+       "Dreaming"
       ],
-      "a": 2,
+      "a": 0,
       "why": "In deep sleep you are aware of very little. In the morning it can feel as if no time passed."
      }
     }
@@ -1405,11 +1405,11 @@
    "t": "mcq",
    "p": "What does it mean to be aware of something?",
    "opts": [
-    "You know or feel that it is there",
     "You can draw it",
+    "You know or feel that it is there",
     "You own it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Being aware means knowing or feeling that something is there. Being aware of anything at all is called consciousness.",
    "outcome": 0
   },
@@ -1418,10 +1418,10 @@
    "p": "In the sound test, when do most children notice more sounds?",
    "opts": [
     "While racing to sort beans",
-    "While sitting still and listening",
-    "It is always the same"
+    "It is always the same",
+    "While sitting still and listening"
    ],
-   "a": 1,
+   "a": 2,
    "why": "When you sit still and listen, your attention is on sounds, so you notice many more.",
    "how": "e1",
    "outcome": 1
@@ -1431,10 +1431,10 @@
    "p": "Why did we do the sound test in two rooms, in a different order each time?",
    "opts": [
     "To make it last longer",
-    "So that going second is not what made the difference",
-    "Because the first room was too noisy"
+    "Because the first room was too noisy",
+    "So that going second is not what made the difference"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the still round wins in both rooms, whichever round came first, then going second was not the reason.",
    "how": "e1",
    "outcome": 1
@@ -1443,11 +1443,11 @@
    "t": "mcq",
    "p": "You are reading a story and do not hear your name called. Why?",
    "opts": [
-    "Your attention is on the story",
     "Your ears are not working",
+    "Your attention is on the story",
     "You are asleep"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Attention picks what you notice. Your ears heard the call, but your attention was on the story.",
    "outcome": 1
   },
@@ -1456,10 +1456,10 @@
    "p": "The fan hums all evening. Why do you stop noticing it?",
    "opts": [
     "The fan gets quieter",
-    "Your mind lets a steady sound fade from notice",
-    "Your ears switch off"
+    "Your ears switch off",
+    "Your mind lets a steady sound fade from notice"
    ],
-   "a": 1,
+   "a": 2,
    "why": "This is getting used to it, or habituation. The sound still reaches your ears.",
    "outcome": 2
   },
@@ -1467,11 +1467,11 @@
    "t": "mcq",
    "p": "In a power cut the fan suddenly stops. What usually happens?",
    "opts": [
-    "You notice the quiet at once",
     "You notice nothing",
+    "You notice the quiet at once",
     "You fall asleep"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A change catches your attention. The stop is a change, so you notice it.",
    "outcome": 2
   },
@@ -1523,11 +1523,11 @@
    "t": "mcq",
    "p": "Which of these notice their world?",
    "opts": [
+    "An ant, a crow, a tulsi plant and you",
     "Only people",
-    "Only people and pet dogs",
-    "An ant, a crow, a tulsi plant and you"
+    "Only people and pet dogs"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Every being notices their world in their own way. Some scientists say only beings with brains are aware, and this is still argued about.",
    "outcome": 5
   },
@@ -1654,10 +1654,10 @@
      "p": "In the lemon test, people showed different numbers of fingers for the same lemon. What does this tell us?",
      "opts": [
       "Some of them tasted it wrongly",
-      "Each person has their own experience, and we learn about it by being told",
-      "The lemon changed for each person"
+      "The lemon changed for each person",
+      "Each person has their own experience, and we learn about it by being told"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Only you have your own sour. Other people learn about it from your words, your face and your fingers.",
      "how": "e2"
     },
@@ -1665,11 +1665,11 @@
      "t": "mcq",
      "p": "In a dream, you fly like a bird. Where is your body?",
      "opts": [
-      "Flying in the sky",
       "Lying in bed",
+      "Flying in the sky",
       "On the roof"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In a dream you are aware of a world your sleeping mind makes. Your body stays in bed."
     },
     {
@@ -1866,11 +1866,11 @@
      "t": "mcq",
      "p": "Suppose you do the busy round in a noisy room in the day, and the still round in a quiet room at night. The busy round wins. Can you say that being busy helps you notice sounds?",
      "opts": [
-      "Yes, the busy round won",
       "No, because the room and the time changed too",
+      "Yes, the busy round won",
       "Yes, because night is always quiet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In a fair test only one thing changes. Here the noisy room simply had more sounds in it.",
      "how": "e1"
     },
@@ -1914,11 +1914,11 @@
      "t": "mcq",
      "p": "Which of these shows that the fan's sound still reaches you when you are not noticing it?",
      "opts": [
-      "You notice at once when the fan stops",
       "You hear the doorbell",
+      "You notice at once when the fan stops",
       "You sing a song"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the sound was not reaching you, you could not notice the change when it stops."
     },
     {
@@ -1962,10 +1962,10 @@
      "p": "In 1960, Anne Treisman, a student at Oxford, played one story into each ear and swapped the stories halfway. Many people followed their story into the wrong ear for a word or two. What did this show?",
      "opts": [
       "The ear they ignored was shut out completely",
-      "Some meaning from the ignored ear still gets through",
-      "People cannot hear with two ears"
+      "People cannot hear with two ears",
+      "Some meaning from the ignored ear still gets through"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the ignored ear were shut out like a closed door, nobody could follow a story into it. Its sounds are turned down, not shut out."
     }
    ]

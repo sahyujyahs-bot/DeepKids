@@ -838,11 +838,11 @@
       "t": "mcq",
       "q": "In one test, ice-cold water took about 90 stirs, room water 45 and bath-warm water 20. What does this show?",
       "options": [
-       "The warmer the water, the faster the sugar dissolved",
        "Sugar only dissolves in warm water",
+       "The warmer the water, the faster the sugar dissolved",
        "The stirring was too slow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each warmer glass needed fewer stirs, so warmth made the sugar dissolve faster. The sugar also dissolves in cold water, but it takes much longer. Stirring was the same every time, so it cannot explain the difference."
      }
     }
@@ -933,11 +933,11 @@
       "t": "mcq",
       "q": "What did warm water do to how much salt could dissolve?",
       "options": [
-       "It doubled it",
        "It changed it very little",
+       "It doubled it",
        "It stopped salt dissolving"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Warm water can hold only a little more salt than cool water. Boiling water holds only about one tenth more. Sugar is the one that changes a lot with heat."
      }
     }
@@ -1030,10 +1030,10 @@
       "q": "Atta made the water white and cloudy. Did it dissolve?",
       "options": [
        "Yes, because the water changed colour",
-       "No, because the water was cloudy and the atta settled",
-       "Yes, because you could not see the grains"
+       "Yes, because you could not see the grains",
+       "No, because the water was cloudy and the atta settled"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cloudy water means tiny bits are floating in it, and they settle when the water is still. A dissolved thing leaves the water clear, even if coloured. Coffee changed the colour and stayed clear, so it dissolved."
      }
     }
@@ -1124,11 +1124,11 @@
       "t": "mcq",
       "q": "Why did the salt go through the cloth?",
       "options": [
-       "The cloth had a hole in it",
        "The salt had dissolved into particles much smaller than the cloth's holes",
+       "The cloth had a hole in it",
        "Salt is a liquid"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Dissolved salt is in pieces far too small to see, much smaller than the gaps between the threads. The same cloth caught the atta, so it had no big hole. Salt is a solid that has dissolved, not a liquid."
      }
     }
@@ -1574,10 +1574,10 @@
       "q": "Turmeric makes water yellow. Then a yellow layer settles on the bottom. Did it dissolve?",
       "options": [
        "Yes, because the water turned yellow",
-       "Mostly not, because most of it settled",
-       "Yes, because it is a powder"
+       "Yes, because it is a powder",
+       "Mostly not, because most of it settled"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most turmeric powder does not dissolve. The yellow colour you see is mostly tiny floating bits, which slowly settle. Being a powder does not make something dissolve: atta and chalk are powders too."
      },
      "parent": "Good answers use what is seen in water. Turmeric turns the water yellow, but then it settles, so it has not dissolved. Honey sinks at first, but it mixes in when stirred, so it has dissolved. Salt vanishes and the water stays clear, so it has dissolved."
@@ -1693,11 +1693,11 @@
       "t": "mcq",
       "q": "In the real Full Glass Test, why did salt land on the bottom first?",
       "options": [
-       "Salt is heavier than sugar",
        "The water reached its limit for salt much sooner than its limit for sugar",
+       "Salt is heavier than sugar",
        "Salt was added faster"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water can dissolve far less salt than sugar. Its salt limit is reached after two or three spoons. Salt grains do sink, but so do sugar grains: sinking is not why they stay. In the test, both were added at the same speed."
      }
     }
@@ -1912,11 +1912,11 @@
      "t": "mcq",
      "p": "A torch beam shines through a glass of water from the side. You can see the beam clearly inside the water. What does that tell you?",
      "opts": [
-      "Salt is dissolved in it",
       "Tiny bits are floating in it and have not dissolved",
+      "Salt is dissolved in it",
       "The water is very hot"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The beam shows up when light hits floating bits. In a clear solution the beam is hard to see, because nothing floats in it.",
      "how": "a1"
     },
@@ -2001,11 +2001,11 @@
      "t": "mcq",
      "p": "Which glass dissolves a spoon of sugar fastest?",
      "opts": [
+      "Bath-warm water",
       "Ice-cold water",
-      "Room-temperature water",
-      "Bath-warm water"
+      "Room-temperature water"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In warm water the water particles move faster. They knock sugar particles off the grains faster.",
      "how": "e2"
     },
@@ -2088,11 +2088,11 @@
      "t": "mcq",
      "p": "Two glasses are left still for a day. One has mud in water. One has salt dissolved in water. What do you find?",
      "opts": [
-      "The mud has settled but the salt water looks the same",
       "Both have a layer on the bottom",
-      "The salt has settled but the mud water looks the same"
+      "The salt has settled but the mud water looks the same",
+      "The mud has settled but the salt water looks the same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mud does not dissolve, so it settles. Dissolved salt stays spread through the water, so the glass looks the same."
     },
     {
@@ -2138,11 +2138,11 @@
      "t": "mcq",
      "p": "Why does oil float on top of water in a bottle, even after you shake it?",
      "opts": [
-      "Oil dissolves and then comes back",
       "Oil does not dissolve in water, and it is lighter than water",
+      "Oil dissolves and then comes back",
       "Oil is a solid"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Oil does not dissolve in water. Its drops join up again and float, because oil is lighter than the same amount of water.",
      "how": "a4"
     },
@@ -2237,11 +2237,11 @@
      "t": "mcq",
      "p": "Coffee is made with filter coffee powder. What is left in the filter?",
      "opts": [
-      "Nothing, it all dissolved",
       "The coffee grounds, which did not dissolve",
+      "Nothing, it all dissolved",
       "Sugar"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Hot water dissolves the colour and flavour out of the powder. The rest of the powder does not dissolve and stays in the filter.",
      "how": "a5"
     },
@@ -2377,10 +2377,10 @@
      "p": "You want to dissolve as much sugar as possible in one cup of water. What should you do?",
      "opts": [
       "Use ice-cold water",
-      "Use hot water, with a grown-up's help",
-      "Use less stirring"
+      "Use less stirring",
+      "Use hot water, with a grown-up's help"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Hot water can hold much more sugar than cold water. Boiling water holds more than twice as much."
     },
     {
@@ -2488,11 +2488,11 @@
    "t": "mcq",
    "p": "A glass of water stops dissolving salt after 3 spoons. Then sugar is stirred into the same full salt water, and it keeps dissolving. What does this show?",
    "opts": [
-    "Water has a different limit for each thing",
     "The salt turned into sugar",
-    "The water was never full"
+    "The water was never full",
+    "Water has a different limit for each thing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water was full for salt but not for sugar. Each thing has its own limit in water, even when the grains look alike.",
    "outcome": 2,
    "how": "e1"
@@ -2513,11 +2513,11 @@
    "t": "mcq",
    "p": "Why does sugar dissolve faster in warm water?",
    "opts": [
-    "Warm water particles move faster and knock sugar particles off quicker",
     "Warm water is thinner",
-    "Sugar melts in warm water"
+    "Sugar melts in warm water",
+    "Warm water particles move faster and knock sugar particles off quicker"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In warm water, water particles move faster and hit the grains more often. Sugar does not melt in warm water: it would need about 186 degrees Celsius to melt. It dissolves.",
    "outcome": 3,
    "how": "e2"
@@ -2526,11 +2526,11 @@
    "t": "mcq",
    "p": "A big sugar lump and the same amount of sugar crushed to powder are put into two glasses of the same water. Which dissolves faster, and why?",
    "opts": [
-    "The powder, because more of the sugar touches the water at once",
     "The lump, because it is heavier",
-    "They take the same time, because it is the same sugar"
+    "They take the same time, because it is the same sugar",
+    "The powder, because more of the sugar touches the water at once"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water can only pull particles off the outside of a grain. Powder has far more outside than one lump, so it dissolves faster. The lump being heavy does not help it dissolve. The amount of sugar is the same, but how much of it touches the water is not.",
    "outcome": 3,
    "how": "c2"
@@ -2540,10 +2540,10 @@
    "p": "You want cold lemonade with no sugar at the bottom. What should you do first?",
    "opts": [
     "Add lots of ice",
-    "Dissolve the sugar in a little warm water",
-    "Add the sugar last"
+    "Add the sugar last",
+    "Dissolve the sugar in a little warm water"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sugar dissolves fast in warm water and then stays dissolved when cold water is added. Ice slows dissolving down.",
    "outcome": 3,
    "how": "a3"
@@ -2552,11 +2552,11 @@
    "t": "mcq",
    "p": "You pour salt water through a cotton cloth. What comes through?",
    "opts": [
-    "Plain water, with the salt left on the cloth",
     "Salt water",
+    "Plain water, with the salt left on the cloth",
     "Nothing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dissolved salt is far smaller than the gaps in the cloth, so it goes through. A cloth catches only things that have not dissolved, like atta or tea leaves.",
    "outcome": 4,
    "how": "a2"
@@ -2566,10 +2566,10 @@
    "p": "A tea strainer catches the tea leaves. Why does the tea in the cup still taste of tea?",
    "opts": [
     "Some leaves got through",
-    "The taste and colour dissolved in the water and went through",
-    "The cup adds the taste"
+    "The cup adds the taste",
+    "The taste and colour dissolved in the water and went through"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The flavour and colour dissolve in the hot water. The leaves themselves do not, so the strainer catches them.",
    "outcome": 4
   },
@@ -2577,11 +2577,11 @@
    "t": "mcq",
    "p": "Rava and fine salt are mixed together in a bowl. The cook wants the rava back, clean and dry. What is the best way?",
    "opts": [
-    "Stir it into water, pour through cloth, dry what stays",
     "Pick every grain out with fingers",
-    "Put a magnet near it"
+    "Put a magnet near it",
+    "Stir it into water, pour through cloth, dry what stays"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Salt dissolves in water and goes through the cloth, but rava does not dissolve and stays on the cloth. Picking out grains would take all day, and a magnet only pulls iron, which neither rava nor salt is. When you have to choose a way to separate a mixture, ask which part dissolves and which does not.",
    "outcome": 4,
    "how": "c1"
@@ -2591,10 +2591,10 @@
    "p": "You test how fast sugar dissolves in cold water and in warm water. To make it a fair test, what must stay the same?",
    "opts": [
     "The temperature of the water",
-    "The amount of water and sugar, and the stirring",
-    "Nothing"
+    "Nothing",
+    "The amount of water and sugar, and the stirring"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test, only one thing changes. Here that is the temperature, so everything else stays the same. If the temperature stayed the same, there would be nothing to test.",
    "outcome": 5,
    "how": "e2"

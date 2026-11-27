@@ -501,7 +501,7 @@ She squeezed the lime, and smelled it, and smiled.
 4. (truefalse) A raindrop that falls from a high cloud keeps speeding up until it hits the ground.  
    **Answer:** False. *Why:* False. The push of the air grows as the drop speeds up. When it equals the pull of the Earth, the drop stops speeding up and falls at a steady speed.
 5. (mcq) What is terminal speed?  
-   Options: The top speed of a falling thing in air, when the push of the air equals the pull of gravity / The speed at the end of a railway line / The speed a thing has just after it is dropped  
+   Options: The speed at the end of a railway line / The speed a thing has just after it is dropped / The top speed of a falling thing in air, when the push of the air equals the pull of gravity  
    **Answer:** The top speed of a falling thing in air, when the push of the air equals the pull of gravity. *Why:* At terminal speed the push of the air up equals the pull of gravity down. Nothing is left to speed the thing up, so it falls at a steady speed.
 6. (match) Match each word to what it means.  
    **Answer:** Air resistance → the push of the air against a moving thing; Terminal speed → the steady top speed of a falling thing in air; Acceleration → how fast the speed of a thing is changing; Sideways speed → how fast a thing moves along, not up or down. *Why:* Air resistance is the push of the air. Terminal speed is the top speed in air. Acceleration is how fast speed changes. Sideways speed is movement along, not up or down.
@@ -510,7 +510,7 @@ She squeezed the lime, and smelled it, and smiled.
 8. (truefalse) A ball thrown hard sideways takes longer to land than a ball dropped from the same height.  
    **Answer:** False. *Why:* False. Gravity pulls both balls down in the same way. The ball thrown sideways lands farther away, but it lands at the same moment.
 9. (mcq) You walk and let go of a ball above a mark on the floor. Where does the ball land?  
-   Options: Ahead of the mark / Right under your hand, on the mark / Behind the mark  
+   Options: Right under your hand, on the mark / Behind the mark / Ahead of the mark  
    **Answer:** Ahead of the mark. *Why:* The ball keeps your sideways speed while it falls, so it moves forward as it drops. It lands ahead of the spot under your hand.
 10. (order) Put these in the right order to show what happens to a raindrop falling from a cloud.  
    **Answer:** ['The drop starts at rest and gravity pulls it down', 'The drop speeds up', 'The faster drop meets more air, so the push of the air grows', 'The push of the air grows until it equals the pull of gravity', 'The drop falls at a steady speed']. *Why:* The drop speeds up, so the air pushes back harder. When the push equals the pull, the drop stops speeding up and falls steadily.
@@ -543,7 +543,7 @@ She squeezed the lime, and smelled it, and smiled.
 7. (sort) A cube is made twice as wide. Sort each thing by how many times bigger it becomes.  
    **Answer:** The weight of the cube → 8 times bigger; The number of small cubes in it → 8 times bigger; The area of its outside → 4 times bigger; The number of faces on its outside → 4 times bigger; The area that the air pushes on → 4 times bigger. *Why:* Weight and the number of small cubes follow width times width times width, so they grow 8 times. The outside follows width times width, so it grows 4 times.
 8. (mcq) You walk and drop a ball. It lands 40 centimetres ahead of the mark. Then you walk twice as fast. About how far ahead does it land now?  
-   Options: About 80 centimetres / About 40 centimetres / About 20 centimetres  
+   Options: About 40 centimetres / About 80 centimetres / About 20 centimetres  
    **Answer:** About 80 centimetres. *Why:* The fall takes the same time. At twice the sideways speed, the ball travels twice as far forward in that time.
 9. (count) A ball falls for 0.5 seconds while you walk at 2 metres a second. How many metres ahead of the mark does it land?  
    **Answer:** 1. *Why:* Distance ahead is speed times time. 2 metres a second times 0.5 seconds is 1 metre.
@@ -564,7 +564,7 @@ She squeezed the lime, and smelled it, and smiled.
 1. (count) A cliff diver falls for 2 seconds with no air in the way. How fast is she going at the end, in kilometres an hour? (10 metres a second is 36 kilometres an hour.)  
    **Answer:** 72. *Why:* After 2 seconds she is going 20 metres a second. 20 is 2 times 10, so the speed is 2 times 36, which is 72 kilometres an hour.
 2. (mcq) A steel ball and a wooden ball are the same size. They are dropped together from a high tower. Which lands first in air?  
-   Options: The steel ball, by a little, because it is heavier and has a higher top speed / The wooden ball, because it is lighter / They land together, because all things fall alike  
+   Options: The wooden ball, because it is lighter / They land together, because all things fall alike / The steel ball, by a little, because it is heavier and has a higher top speed  
    **Answer:** The steel ball, by a little, because it is heavier and has a higher top speed. *Why:* The air pushes on both balls equally at the same speed. The steel ball is heavier, so it needs a higher speed before the air matches its weight. In air, it lands first.
 3. (write) You want a parachute to land a heavier load as gently as a lighter one. Say what you would change and why.  
    **Answer:** Make the parachute bigger. A bigger area meets more air, so the push of the air matches the heavier weight at a lower speed.. *Why:* A strong answer says that more area gives more push from the air, so the top speed is lower even with more weight.
@@ -582,7 +582,7 @@ She squeezed the lime, and smelled it, and smiled.
 9. (count) A ball moving at 5 metres a second has 25 units of movement energy, which is 5 times 5. How many units does it have at 10 metres a second?  
    **Answer:** 100. *Why:* 10 times 10 is 100. The speed doubled, and the movement energy became 4 times as big, since 25 times 4 is 100.
 10. (mcq) J. B. S. Haldane wrote that a mouse can fall down a mine shaft and walk away. What is the main reason?  
-   Options: A mouse has little weight for the area the air pushes on / A mouse falls more slowly because gravity is weaker for her / A mouse always lands on her feet  
+   Options: A mouse falls more slowly because gravity is weaker for her / A mouse always lands on her feet / A mouse has little weight for the area the air pushes on  
    **Answer:** A mouse has little weight for the area the air pushes on. *Why:* A small body has a low top speed, so she lands softly. The Earth pulls a mouse in the same way as a horse. The difference is in how much air she meets for her weight.
 11. (write) Heavy things fall faster, and heavy and light things fall together. Both sound true. Explain when each one is true.  
    **Answer:** In a vacuum, heavy and light things fall together. In air, a heavier thing of the same shape and size falls faster, because it has a higher top speed.. *Why:* A strong answer separates the two cases by the air, and says that the push of the air is what makes a difference.
@@ -602,13 +602,13 @@ She squeezed the lime, and smelled it, and smiled.
 
 ## Quiz
 1. (mcq) With no air in the way, how much speed does a falling thing gain each second?  
-   Options: About 10 metres a second / About 1 metre a second / About 100 metres a second  
+   Options: About 1 metre a second / About 100 metres a second / About 10 metres a second  
    **Answer:** About 10 metres a second. *Why:* Near the Earth, a falling thing gains about 10 metres a second of speed every second. The exact number is 9.8.
 2. (mcq) Why does a big raindrop stop speeding up?  
    Options: The push of the air grows until it equals the pull of gravity / Gravity stops pulling at a height of 100 metres / The raindrop runs out of energy  
    **Answer:** The push of the air grows until it equals the pull of gravity. *Why:* The faster the drop falls, the harder the air pushes back. When the push equals the pull, the speed stops changing. Gravity has not stopped pulling.
 3. (mcq) A stack of four paper liners falls faster than one liner. What is the best reason?  
-   Options: The heavier stack must go faster before the push of the air matches its weight / Gravity pulls the stack with a different kind of force / The stack of four is bigger  
+   Options: Gravity pulls the stack with a different kind of force / The heavier stack must go faster before the push of the air matches its weight / The stack of four is bigger  
    **Answer:** The heavier stack must go faster before the push of the air matches its weight. *Why:* Both have the same shape. The stack is heavier, so it needs a higher speed before the air pushes back as hard as the Earth pulls.
 4. (mcq) You let go of a ball while walking. Where does it land?  
    Options: Ahead of the spot under your hand, because it keeps your sideways speed / Behind you, because you moved on / Right under your hand  
@@ -617,7 +617,7 @@ She squeezed the lime, and smelled it, and smiled.
    Options: 4 times as much / 2 times as much / 8 times as much  
    **Answer:** 4 times as much. *Why:* Movement energy grows with speed times speed. Twice the speed gives 2 times 2, which is 4 times the energy.
 6. (mcq) A cube is made twice as wide. What happens to its weight and to its outside area?  
-   Options: Weight grows 8 times and area grows 4 times / Both grow 2 times / Weight grows 4 times and area grows 8 times  
+   Options: Both grow 2 times / Weight grows 8 times and area grows 4 times / Weight grows 4 times and area grows 8 times  
    **Answer:** Weight grows 8 times and area grows 4 times. *Why:* Weight follows width times width times width, which is 8 for twice as wide. Area follows width times width, which is 4.
 7. (truefalse) A ball thrown sideways and a ball dropped from the same height reach the ground at the same moment.  
    **Answer:** True. *Why:* True. Gravity pulls both balls down in the same way. The sideways speed changes only how far away the ball lands.
@@ -628,13 +628,13 @@ She squeezed the lime, and smelled it, and smiled.
    Options: The ball keeps the train's sideways speed while it goes up and down / The train must be standing still / Gravity does not work in trains  
    **Answer:** The ball keeps the train's sideways speed while it goes up and down. *Why:* The ball shared the sideways speed of the train before it was tossed, and it kept it. It moved forward as far as the thrower did.
 10. (mcq) A mouse survives a fall that would hurt a horse. Which fact explains it best?  
-   Options: A smaller animal has less weight for the area of her body that the air pushes on / Mice are always lucky / Mice fall at the speed of a feather  
+   Options: Mice are always lucky / Mice fall at the speed of a feather / A smaller animal has less weight for the area of her body that the air pushes on  
    **Answer:** A smaller animal has less weight for the area of her body that the air pushes on. *Why:* Weight grows faster than outside area as an animal gets bigger. A mouse has a low top speed, and a horse has a high one.
 11. (mcq) A car going 30 kilometres an hour needs 5 metres to stop. How far does it need at 60 kilometres an hour?  
    Options: About 20 metres / About 10 metres / About 5 metres  
    **Answer:** About 20 metres. *Why:* Twice the speed gives four times the movement energy, so about four times the distance. 4 times 5 is 20.
 12. (mcq) What does a skydiver do to fall faster?  
-   Options: Pulls in her arms and legs and dives head first, to meet less air / Spreads her arms and legs wide / Puts on a bigger coat  
+   Options: Spreads her arms and legs wide / Pulls in her arms and legs and dives head first, to meet less air / Puts on a bigger coat  
    **Answer:** Pulls in her arms and legs and dives head first, to meet less air. *Why:* A smaller shape meets less air, so the push of the air matches her weight only at a higher speed.
 
 ## Applications

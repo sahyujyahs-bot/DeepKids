@@ -617,10 +617,10 @@
       "q": "A bathroom window. What does it need?",
       "options": [
        "Clear: transparent",
-       "Cloudy: translucent",
-       "Blocked: opaque"
+       "Blocked: opaque",
+       "Cloudy: translucent"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A bathroom needs daylight, but nobody should see in. Translucent glass, like frosted glass, does both. Picking clear forgets about privacy. Picking blocked forgets that a window's job is to let light in."
      },
      "context": "This is a practice round of the game Clear, Cloudy or Blocked?. You choose the right kind of material for a bathroom window."
@@ -1330,10 +1330,10 @@
       "q": "You hold a plastic carry bag up to the window. Light comes through, but the tree outside looks blurry. Which tray?",
       "options": [
        "TRANSPARENT",
-       "TRANSLUCENT",
-       "OPAQUE"
+       "OPAQUE",
+       "TRANSLUCENT"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Light gets through, but the picture is blurry. That is translucent. Picking transparent usually means noticing the light but not checking the picture. Picking opaque forgets that some light did come through."
      },
      "context": "This step of the hunt activity sorts things from around the house into transparent, translucent and opaque."
@@ -1413,11 +1413,11 @@
       "t": "mcq",
       "q": "Why does a pile of sugar look white, when each grain is almost clear?",
       "options": [
-       "Sugar is painted white in the factory",
        "Light bounces off the edges of every grain",
+       "Sugar is painted white in the factory",
        "The grains make their own light"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each grain has edges. Light bounces off each edge a little. With thousands of grains, the light is scattered every way, so the pile looks white. In water, the sugar breaks into molecules too small to scatter light, so the water is clear. Picking 'painted' is a fair guess, but big sugar crystals called mishri are much clearer, so sugar is not white inside."
      },
      "context": "This step of the sugar activity stirs the sugar into water and asks why the white vanishes."
@@ -1609,10 +1609,10 @@
       "q": "In the evening, the room that was dim by day has a lamp on. Someone in it can now be seen from the other room. Why?",
       "options": [
        "The curtain gets thinner in the evening",
-       "Now that room is the bright side",
-       "Curtains only work in the day"
+       "Curtains only work in the day",
+       "Now that room is the bright side"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A thin curtain lets a little light through both ways. Whoever is on the bright side shows up to whoever is on the dark side. Now the lamp room is the bright side. Picking 'thinner' usually means thinking the material changed. It is the light that changed."
      },
      "context": "This step of the curtain activity swaps which room is bright, using a lamp in the evening."
@@ -1688,10 +1688,10 @@
       "q": "In the Light Party, when the atoms acted as butter paper, the light got through but came out in a random place. What does that show?",
       "options": [
        "Translucent things stop all light",
-       "Translucent things let light through but scatter it",
-       "Translucent things make new light"
+       "Translucent things make new light",
+       "Translucent things let light through but scatter it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The light got through, so it was not stopped. But it came out facing a new way, so the picture would be lost. That is translucent. Picking 'stop all light' mixes translucent up with opaque."
      },
      "context": "This step of the Light Party drama acts out light being turned about inside butter paper."
@@ -1797,11 +1797,11 @@
       "t": "mcq",
       "q": "You hold your hand between a torch and a wall. Why is there a dark shape on the wall?",
       "options": [
-       "Your hand is opaque. It blocks the light, so that part of the wall gets no light.",
        "Your hand sends out darkness onto the wall.",
+       "Your hand is opaque. It blocks the light, so that part of the wall gets no light.",
        "The light goes through your hand and turns black."
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your hand is opaque, so the torch light cannot get through. The part of the wall behind your hand gets no light, so it looks dark. Light travels in straight lines, so the dark patch keeps the outline of your hand. Darkness does not come out of the hand. A shadow is only the place the light could not reach. Picking 'turns black' forgets that light which gets through stays light."
      },
      "parent": "In Glowing Hands and the See-Through Hunt, a little red light got through the fingers when the torch was pressed right against them. From two steps away, almost none gets through, so the hand acts as opaque.",
@@ -1909,10 +1909,10 @@
       "q": "Which side made a soft, even glow with no sharp edges?",
       "options": [
        "The clear plastic side",
-       "The butter paper side",
-       "The card jaali side"
+       "The card jaali side",
+       "The butter paper side"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Butter paper scatters light in every direction, so the glow is soft and spread out. That is why lampshades and kandils are often made of translucent paper. The clear side makes a sharp, bright patch. The jaali makes a pattern of spots, because the card blocks light and the holes let it through."
      },
      "context": "This step of the lantern project compares the light from each side in a dark room.",
@@ -2001,11 +2001,11 @@
       "t": "mcq",
       "q": "Light gets in where two pieces of black paper meet. What is the best fix?",
       "options": [
-       "Cover the gap with clear tape",
        "Overlap the paper so no gap is left, and tape it down",
+       "Cover the gap with clear tape",
        "Leave a small gap so air can get in"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Overlapping the paper leaves no gap, so the whole cover is opaque. Clear tape is transparent, so light would pass straight through it. Picking clear tape usually means thinking tape always seals light, but only opaque material does."
      },
      "context": "This step of the container challenge tests the container in the dark with a torch."
@@ -2133,10 +2133,10 @@
      "p": "A frosted bathroom window lets daylight in, but you cannot see the street through it. Which word describes frosted glass?",
      "opts": [
       "Transparent",
-      "Translucent",
-      "Opaque"
+      "Opaque",
+      "Translucent"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Light gets through, so it is not opaque. But the light is scattered, so no clear picture gets through, and it is not transparent. Translucent means light gets through but the picture is lost."
     },
     {
@@ -2201,11 +2201,11 @@
      "t": "mcq",
      "p": "In the gap test, you rest your chin on the same stack of books every time. Why does this make the test fair?",
      "opts": [
-      "Your eyes stay at the same height, so only the material changes",
       "It helps you see in the dark",
-      "It makes the letters bigger"
+      "It makes the letters bigger",
+      "Your eyes stay at the same height, so only the material changes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only one thing. If your eyes moved up or down between tries, the results could change for a reason that has nothing to do with the material.",
      "how": "e1"
     },
@@ -2322,10 +2322,10 @@
      "p": "A drop of cooking oil is put on a piece of white paper. The spot becomes see-through. What did the oil do?",
      "opts": [
       "It turned the paper into glass",
-      "It filled the air gaps between the paper's threads, so light bounced less",
-      "It made the paper thinner"
+      "It made the paper thinner",
+      "It filled the air gaps between the paper's threads, so light bounced less"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Paper is a tangle of threads with air between them. Light bounces at every edge between thread and air, which scatters it. Oil fills the gaps, so there are far fewer edges. The paper is just as thick as before.",
      "how": "e2"
     },
@@ -2341,11 +2341,11 @@
      "t": "mcq",
      "p": "A spoon of white sugar is stirred into a glass of water. The water stays clear. Has the sugar gone?",
      "opts": [
-      "Yes, it has gone",
       "No. It has split into pieces too tiny to scatter light. The water tastes sweet.",
+      "Yes, it has gone",
       "It has turned into water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A heap of sugar looks white because light bounces off the edges of every grain. Stirred in, the sugar splits into molecules far too small to scatter light, so the water looks clear. Tasting shows the sugar is still there.",
      "how": "a2"
     },
@@ -2360,10 +2360,10 @@
      "p": "In the Sunglasses Lab, suppose you could read row 5 of the chart outdoors with sunglasses on, but only row 2 indoors with them on. What explains this?",
      "opts": [
       "Sunglasses only work outside",
-      "Sunglasses let only part of the light through, and indoors there is little light to start with",
-      "The letters were smaller indoors"
+      "The letters were smaller indoors",
+      "Sunglasses let only part of the light through, and indoors there is little light to start with"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Sunglasses cut the light. In bright sun that helps. Indoors there is not much light, so cutting it makes reading harder. The chart stayed the same, so the letters did not change.",
      "how": "e3"
     },
@@ -2436,10 +2436,10 @@
      "p": "In the Three-Light Lantern, which side made a pattern of bright spots on the wall?",
      "opts": [
       "The clear plastic side",
-      "The butter paper side",
-      "The card jaali side with holes"
+      "The card jaali side with holes",
+      "The butter paper side"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The card is opaque, so it blocks light everywhere except at the holes. Light goes through the holes in straight lines and makes spots in the same pattern. A stone jaali makes patterns of light on a floor the same way.",
      "how": "p1"
     },
@@ -2555,21 +2555,21 @@
      "p": "A frog's skin and muscles are almost see-through, but red blood is easy to spot. How could a sleeping frog become harder to see?",
      "opts": [
       "Stop breathing",
-      "Pack most of their red blood cells into one place, their liver",
-      "Drink a lot of water"
+      "Drink a lot of water",
+      "Pack most of their red blood cells into one place, their liver"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Red blood flowing through a see-through body gives the frog away. Glass frogs hide most of their red blood cells in their liver while they sleep, so the rest of the body looks clear. When they wake, the blood flows out again."
     },
     {
      "t": "mcq",
      "p": "For about the first 380,000 years after the Big Bang, light could not travel far through the universe. What was the universe like?",
      "opts": [
-      "Transparent, like clean glass",
       "Opaque, like a thick fog",
+      "Transparent, like clean glass",
       "Completely dark and empty"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The early universe was hot and full of loose particles that light kept bumping into, like light in fog. When it cooled and atoms formed, it became transparent. 'Dark and empty' is a natural guess, but it was glowing hot."
     },
     {
@@ -2597,11 +2597,11 @@
      "t": "mcq",
      "p": "In 1938, Katharine Burr Blodgett invented a very thin coating for glass. With it, glass bounced back almost no light. Why did this make the glass clearer?",
      "opts": [
-      "More light went through, instead of bouncing off",
       "The coating made the glass thinner",
-      "The coating made its own light"
+      "The coating made its own light",
+      "More light went through, instead of bouncing off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Ordinary glass bounces back a little light at each surface, which makes a faint shine and reflections. Her coating stopped most of that bounce, so more light went through. Coatings like hers are used on camera lenses and spectacles today."
     },
     {
@@ -2723,11 +2723,11 @@
    "t": "mcq",
    "p": "You look through a glass of water at a poster on the wall. You can read it clearly. Then you stir a spoon of milk into the water. What happens?",
    "opts": [
-    "You can still read the poster clearly",
     "The water turns translucent, and the poster goes blurry",
+    "You can still read the poster clearly",
     "The water turns completely opaque at once"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Milk has many tiny drops of fat floating in it. Each drop has an edge that scatters light. So light still gets through, but the picture is lost. A strong answer uses the word translucent.",
    "outcome": 0
   },
@@ -2747,11 +2747,11 @@
    "t": "mcq",
    "p": "In the gap test, why do we try each material three times?",
    "opts": [
-    "Because one try can be a fluke",
     "Because three is a lucky number",
-    "To use up the materials"
+    "To use up the materials",
+    "Because one try can be a fluke"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A hand can wobble, or someone can say 'stop' too late. Three tries, and taking the middle result, give a fairer answer.",
    "outcome": 1,
    "how": "e1"
@@ -2760,11 +2760,11 @@
    "t": "mcq",
    "p": "Water splashes on the rough side of a frosted bathroom window. What happens to the wet patch?",
    "opts": [
-    "It becomes clearer, because water fills the tiny bumps and light scatters less",
     "It becomes darker, because water blocks light",
-    "Nothing changes"
+    "Nothing changes",
+    "It becomes clearer, because water fills the tiny bumps and light scatters less"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The rough surface has many tiny bumps with air between them, and each edge scatters light. Water fills the gaps, so light is scattered less and the patch looks clearer.",
    "outcome": 2
   },
@@ -2784,11 +2784,11 @@
    "t": "mcq",
    "p": "A shopkeeper is packing Pongal sweets in boxes. She wants shoppers to see the sweets without opening the box. Which lid should she use?",
    "opts": [
-    "A clear plastic lid",
     "A butter paper lid",
-    "A cardboard lid"
+    "A cardboard lid",
+    "A clear plastic lid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "To see the sweets, the lid must let a clear picture through, so it must be transparent.",
    "outcome": 3
   },
@@ -2809,10 +2809,10 @@
    "p": "At night, your room is lit and the street outside is dark. You look at your closed glass window. What do you mostly see?",
    "opts": [
     "The dark street, very clearly",
-    "Your own room reflected, like in a mirror",
-    "Nothing, the glass turns black"
+    "Nothing, the glass turns black",
+    "Your own room reflected, like in a mirror"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Glass lets most light through but bounces a little back. At night the room is the bright side, so the little light bounced back from the room is much more than the light coming in from the dark street.",
    "outcome": 4
   },
@@ -2820,11 +2820,11 @@
    "t": "mcq",
    "p": "You hold one page of a notebook up to the window, and light glows through it. Then you hold up the whole closed notebook. What happens?",
    "opts": [
-    "Light glows through just the same",
     "Almost no light gets through, so the notebook is nearly opaque",
+    "Light glows through just the same",
     "The notebook becomes transparent"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each page scatters and soaks up some of the light. With many pages, almost none is left at the other side. So how see-through a thing is depends on how thick it is.",
    "outcome": 4
   },

@@ -818,10 +818,10 @@
       "q": "The warm honey ran down much faster than the honey at room warmth. Why?",
       "options": [
        "The warm water got mixed into the honey",
-       "Warmth made the honey's particles move faster, so they slipped past each other more easily",
-       "The warm honey was heavier"
+       "The warm honey was heavier",
+       "Warmth made the honey's particles move faster, so they slipped past each other more easily"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The honey stayed in its own bowl, so no water got in. Warmth makes the particles in a liquid jiggle harder, so they let go of each other more easily and slide past. So the honey flows faster. Picking 'water got mixed in' is a good thought, so check: was the bowl dry inside? Picking 'heavier' mixes up thick and heavy, but the amount of honey was the same."
      },
      "parent": "Warm honey usually runs several times faster. If the difference is small, the warm water may have cooled. Warm the honey again, wipe a lane with a damp cloth, dry it well, and try once more."
@@ -1009,10 +1009,10 @@
       "q": "Plain water made a tall dome on the coin. Soapy water spilled after far fewer drops. Why?",
       "options": [
        "Soap makes water heavier",
-       "Soap weakens the pull between water particles at the surface, so the skin breaks sooner",
-       "The soapy water was colder"
+       "The soapy water was colder",
+       "Soap weakens the pull between water particles at the surface, so the skin breaks sooner"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water particles attract each other. At the surface this pull acts like a stretchy skin that holds the dome up. Soap gets between the water particles at the surface and makes the skin much weaker. Picking 'heavier' is a common guess, but three drops of soap hardly change the weight. Picking 'colder' is a careful thought, but both cups were in the same room."
      }
     },
@@ -1211,11 +1211,11 @@
       "t": "mcq",
       "q": "The wiggly loop snapped into a round circle. Why?",
       "options": [
-       "The soap pushed the thread outwards",
        "The soap weakened the skin inside the loop, so the stronger skin outside pulled the thread outwards",
+       "The soap pushed the thread outwards",
        "The thread got wet and heavy"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The water's skin pulls on the thread from both sides. Soap makes the skin inside the loop weaker. The stronger skin outside pulls the thread out evenly in every direction, so it makes a circle. Picking 'soap pushed' is a fair guess, but the soap never touched the thread. Picking 'wet and heavy' would make it sink, not make a circle."
      },
      "parent": "The loop jumps into a circle in less than a second. It is quick, so watch closely."
@@ -1448,10 +1448,10 @@
       "q": "Ketchup will not come out of a full bottle. What should you try?",
       "options": [
        "Put the bottle in the fridge",
-       "Tap or shake the bottle",
-       "Hold it still for longer"
+       "Hold it still for longer",
+       "Tap or shake the bottle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Tapping or shaking breaks the tiny net inside the ketchup, so it becomes runnier and flows. Cold makes most liquids thicker, so the fridge would make it worse. Holding it still lets the net stay in place."
      }
     }
@@ -1665,10 +1665,10 @@
       "q": "Why does the boat move forward when soap touches the back?",
       "options": [
        "The soap pushes the boat like a motor",
-       "Soap weakens the water's skin behind the boat, so the stronger skin in front pulls it forward",
-       "The soap makes the boat lighter"
+       "The soap makes the boat lighter",
+       "Soap weakens the water's skin behind the boat, so the stronger skin in front pulls it forward"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The water's skin pulls the boat from every side. Soap weakens the pull behind it, so the pull in front wins. Some rove beetles escape across water in the same way, by letting out a soap-like liquid. Picking 'motor' is how it looks, but the soap only weakens the skin."
      }
     },
@@ -1725,10 +1725,10 @@
    "p": "What is viscosity?",
    "opts": [
     "How heavy a liquid is",
-    "How much a liquid resists flowing",
-    "How clear a liquid is"
+    "How clear a liquid is",
+    "How much a liquid resists flowing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Viscosity is how much a liquid resists flowing. Picking 'heavy' mixes up thick and heavy, and coconut oil shows they are different: thicker than water, but it floats.",
    "outcome": 0
   },
@@ -1748,11 +1748,11 @@
    "t": "mcq",
    "p": "In the syrup race, half a teaspoon of each liquid is raced down a tray. Why must every liquid use the same amount?",
    "opts": [
-    "So the test is fair, and only the liquid changes",
     "So less honey is used",
-    "So the tray stays clean"
+    "So the tray stays clean",
+    "So the test is fair, and only the liquid changes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test only one thing changes. A bigger blob can flow differently, so the amounts must be the same.",
    "outcome": 1,
    "how": "e1"
@@ -1761,11 +1761,11 @@
    "t": "mcq",
    "p": "In the syrup race, water took about 1 second and honey took about 150 seconds. What does that tell you?",
    "opts": [
-    "Honey is much more viscous than water",
     "Honey is lighter than water",
-    "The tray was wet"
+    "The tray was wet",
+    "Honey is much more viscous than water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The longer a liquid takes to flow, the higher its viscosity. Honey took far longer.",
    "outcome": 1,
    "how": "e1"
@@ -1775,10 +1775,10 @@
    "p": "Why does warm honey flow faster than cool honey?",
    "opts": [
     "Warm honey has water in it",
-    "Warmth makes honey's particles move faster, so they slip past each other more easily",
-    "Warm honey is heavier"
+    "Warm honey is heavier",
+    "Warmth makes honey's particles move faster, so they slip past each other more easily"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but in the syrup race the honey was warmed in its own dry bowl.",
    "outcome": 2
   },
@@ -1787,10 +1787,10 @@
    "p": "Ghee is thick on a cool morning. What will make it pour easily?",
    "opts": [
     "Putting it in the fridge",
-    "Warming it a little",
-    "Stirring in cold water"
+    "Stirring in cold water",
+    "Warming it a little"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Warming lowers viscosity, so the ghee flows. Cold makes it thicker.",
    "outcome": 2
   },
@@ -1798,11 +1798,11 @@
    "t": "mcq",
    "p": "Why can a coin hold a dome of water higher than its edge?",
    "opts": [
-    "Water particles attract each other, so the surface acts like a stretchy skin",
     "The coin is magnetic",
+    "Water particles attract each other, so the surface acts like a stretchy skin",
     "Air pushes the water up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "This is surface tension. The pull between water particles at the surface holds the dome together. The coin's metal has nothing to do with it.",
    "outcome": 3,
    "how": "e2"
@@ -1812,10 +1812,10 @@
    "p": "What does soap do to the water's skin?",
    "opts": [
     "Makes it stronger",
-    "Makes it weaker",
-    "Nothing"
+    "Nothing",
+    "Makes it weaker"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Soap weakens the skin. That is why soapy water spilled off the coin sooner than plain water, and why the thread loop jumped into a circle when soap touched the water inside it.",
    "outcome": 3
   },
@@ -1835,11 +1835,11 @@
    "t": "mcq",
    "p": "Soapy water runs into a pond. What happens to the water striders there?",
    "opts": [
-    "They skate faster",
     "They sink, because the skin weakens and their legs get wet",
+    "They skate faster",
     "Nothing, because they are light"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The striders need a strong skin and dry legs. Soap takes away both, so they break through and sink.",
    "outcome": 4
   },
@@ -1847,11 +1847,11 @@
    "t": "mcq",
    "p": "In the pitch drop experiment, what did the dripping funnel show?",
    "opts": [
-    "Pitch is a liquid that flows extremely slowly",
     "Pitch melts in the sun",
+    "Pitch is a liquid that flows extremely slowly",
     "Pitch is a gas"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Pitch feels hard and shatters when hit, but it has dripped out of the funnel since 1930. It flows, only extremely slowly.",
    "outcome": 5
   },
@@ -1860,10 +1860,10 @@
    "p": "Pitch shatters under a hammer, but drips over many years. What does this show about solids and liquids?",
    "opts": [
     "They are always easy to tell apart",
-    "Whether something acts solid or liquid can depend on how long you watch it",
-    "Pitch is a special kind of gas"
+    "Pitch is a special kind of gas",
+    "Whether something acts solid or liquid can depend on how long you watch it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Hit fast, pitch breaks like a solid. Over years, it flows like a liquid. The time you watch for decides what you see.",
    "outcome": 5
   }
@@ -1880,21 +1880,21 @@
      "p": "What does viscosity mean?",
      "opts": [
       "How heavy a liquid is",
-      "How much a liquid resists flowing",
-      "How hot a liquid is"
+      "How hot a liquid is",
+      "How much a liquid resists flowing"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Viscosity is how much a liquid resists flowing. Honey has a high viscosity and flows slowly. Picking 'heavy' is the most common mix-up: thick and heavy are different things."
     },
     {
      "t": "mcq",
      "p": "Half a teaspoon each of water, honey and shampoo is put at the top of a sloping tray. Which reaches the bottom first?",
      "opts": [
-      "Water",
       "Shampoo",
+      "Water",
       "Honey"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water has the lowest viscosity of the three, so it flows fastest. Shampoo is slower, and honey is slowest."
     },
     {
@@ -1913,11 +1913,11 @@
      "t": "mcq",
      "p": "How do a water strider's legs help them stand on water?",
      "opts": [
-      "Their legs are full of air like balloons",
       "Their legs have tiny waxy hairs that keep water off, so the water's skin holds",
+      "Their legs are full of air like balloons",
       "Their legs are sticky, so they hold on to the water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The hairs and wax keep the legs dry, so each foot only dents the water's skin and does not break through."
     },
     {
@@ -2059,10 +2059,10 @@
      "p": "Closed bottles of water, oil and honey are flipped upside down. In which one does the air bubble rise slowest?",
      "opts": [
       "Water",
-      "Oil",
-      "Honey"
+      "Honey",
+      "Oil"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Honey is the most viscous, so it moves out of the bubble's way very slowly.",
      "how": "a4"
     },
@@ -2070,11 +2070,11 @@
      "t": "mcq",
      "p": "Honey is left in the fridge for an hour, then raced down the tray. What do you predict?",
      "opts": [
-      "It will be slower than honey at room warmth",
       "It will be faster than honey at room warmth",
-      "It will be as fast as water"
+      "It will be as fast as water",
+      "It will be slower than honey at room warmth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cold makes the honey's particles move more slowly, so they slide past each other less easily. The honey becomes even more viscous."
     },
     {
@@ -2258,10 +2258,10 @@
      "p": "In a race between water and oil, the oil won. That is strange. Which is the most likely reason?",
      "opts": [
       "Oil is runnier than water",
-      "The tray was tipped more steeply in the oil's lane, or the water spread out sideways",
-      "Oil is heavier than water"
+      "Oil is heavier than water",
+      "The tray was tipped more steeply in the oil's lane, or the water spread out sideways"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Usually water is faster. When a result is odd, check the test before changing the idea. A tilted tray or water spreading sideways can change the result.",
      "how": "e1"
     },
@@ -2269,11 +2269,11 @@
      "t": "mcq",
      "p": "A sweet-maker warms thick jaggery syrup before pouring it into moulds. Why?",
      "opts": [
-      "Warm syrup is runnier, so it pours easily",
       "Warm syrup is sweeter",
-      "Warm syrup is lighter, so it floats"
+      "Warm syrup is lighter, so it floats",
+      "Warm syrup is runnier, so it pours easily"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Warming lowers the syrup's viscosity, just like the warm honey in the syrup race."
     },
     {
@@ -2281,10 +2281,10 @@
      "p": "Baby water striders move their legs too slowly to make proper ripples, yet they still move well. What did this tell scientists?",
      "opts": [
       "Baby striders cannot really move",
-      "Striders must move in some other way than by making ripples",
-      "Ripples are not real"
+      "Ripples are not real",
+      "Striders must move in some other way than by making ripples"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If babies move without making those ripples, ripples cannot be the main way striders move. In 2003, filming showed they push swirls of water backwards with their legs."
     },
     {

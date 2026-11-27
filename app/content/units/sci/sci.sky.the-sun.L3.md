@@ -513,7 +513,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 5. (write) In the Sun Dot experiment, the magnifying glass made no new light, but the tiny dot made paper smoke. Explain how.  
    **Answer:** The magnifying glass gathered all the sunlight that fell on it into one tiny dot. The same amount of light was packed into a much smaller place, so that spot of paper got very hot.. *Why:* A strong answer uses the idea of gathering or focusing, and says the amount of light stayed the same but the place got smaller.
 6. (mcq) Why must we never look straight at the Sun?  
-   Options: The Sun is too far away to see / The lens in our eye focuses its light onto the retina and harms it / It makes us sneeze / It makes the Sun angry  
+   Options: The lens in our eye focuses its light onto the retina and harms it / The Sun is too far away to see / It makes us sneeze / It makes the Sun angry  
    **Answer:** The lens in our eye focuses its light onto the retina and harms it. *Why:* The eye's lens gathers light like a magnifying glass. Looking at the Sun focuses its light into a tiny fierce spot on the retina, which can be harmed for ever. A strong answer names the lens and the retina.
 7. (sort) Sort these ways of watching the Sun: safe or not safe?  
    **Answer:** a picture of the Sun on a wall, made by a covered mirror → Safe; ordinary sunglasses → Not safe; little suns under a colander → Safe; binoculars → Not safe; eclipse glasses marked ISO 12312-2 → Safe; a quick look for one second → Not safe. *Why:* The safe ways make a picture of the Sun to look at, or use a filter made for the Sun. Sunglasses let through far too much light. Binoculars gather even more light into the eye. Even one second can harm the retina. A strong answer sorts by whether light from the Sun goes straight into the eye.
@@ -529,7 +529,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
    Options: The Sun / Sirius, the brightest star at night / The Moon / Dhruva Tara, the Pole Star  
    **Answer:** 2. *Why:* The Sun, Sirius and the Pole Star are all stars, which make their own light. The Moon is not a star. It shines only because it reflects sunlight.
 13. (mcq) A bit of sunlight lands on a black road. What happens to it?  
-   Options: You are reflected away / You are absorbed and turn into heat / You become a plant's food / You turn into rain  
+   Options: You are reflected away / You become a plant's food / You turn into rain / You are absorbed and turn into heat  
    **Answer:** You are absorbed and turn into heat. *Why:* A black road absorbs most of the sunlight that lands on it, and the light turns into heat. That is why a road in summer is too hot for bare feet.
 14. (write) A garden lizard lies flat on a sunny wall early in the morning. What problem does she have on a cool morning, and how does the sunshine help her?  
    **Answer:** Her body does not make much heat of its own, so on a cool morning she is slow and cannot chase insects well. Lying flat in the sun, she absorbs sunlight, warms up, and can then move fast and hunt.. *Why:* A strong answer says the lizard's own problem first, being cold and slow, and then how basking solves it.
@@ -539,7 +539,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
    **Answer:** The black shirt gets hotter. Black cloth absorbs most of the sunlight that falls on it, and the light turns into heat. The white shirt reflects most of the light, so less of it turns into heat.. *Why:* A strong answer says which shirt, and uses absorb for the black shirt and reflect for the white one.
 ### Sunlight at Work (stretch) (stretch, 15 questions)
 1. (mcq) A magnifying glass made black paper smoke in 4 seconds. Then a bigger magnifying glass is used, held to make an equally tiny dot. What do you predict?  
-   Options: It will take longer, because the glass is heavier / It will smoke faster, because a bigger glass gathers more sunlight into the dot / It will never smoke / It will take exactly 4 seconds  
+   Options: It will take longer, because the glass is heavier / It will never smoke / It will take exactly 4 seconds / It will smoke faster, because a bigger glass gathers more sunlight into the dot  
    **Answer:** It will smoke faster, because a bigger glass gathers more sunlight into the dot. *Why:* A bigger glass catches more sunlight across its face, and packs it into the dot. More light in the same small place means more heat, so the paper smokes faster. A strong answer explains with the amount of light caught.
 2. (write) In the Sun Dot experiment, white paper took much longer to smoke than black paper, under the same dot. Explain why.  
    **Answer:** White paper reflects most of the light that falls on it, so only a little turns into heat. Black paper absorbs most of the light, so it gets hot much faster.. *Why:* A strong answer uses the words reflect and absorb, and says that the light was the same for both papers.
@@ -551,7 +551,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 5. (order) Put the journey of the Sun's energy in order.  
    **Answer:** ['It is made when hydrogen joins into helium in the core', 'It works its way out through the packed inside of the Sun for thousands of years', 'It crosses space in about 8 minutes', "It lands on a leaf, and the plant uses the light's energy to make food"]. *Why:* Energy is made in the core, takes thousands of years to reach the surface, crosses space in minutes, and is then absorbed on Earth.
 6. (mcq) A mirror is covered with paper that has a small square hole in it. The mirror throws the Sun's light onto a wall far away. What shape is the spot of light on the wall?  
-   Options: Square, like the hole / Round, like the Sun / A triangle / It had no shape  
+   Options: Round, like the Sun / Square, like the hole / A triangle / It had no shape  
    **Answer:** Round, like the Sun. *Why:* Far from the mirror, the spot is a picture of the Sun, so it is round whatever the shape of the hole. Close to the mirror it is square. A strong answer says the spot is a picture of the Sun.
 7. (write) People in Chennai often paint their roofs white to keep their rooms cooler in summer. Explain why this works.  
    **Answer:** White paint reflects most of the sunlight that falls on it. So less light is absorbed by the roof and turned into heat, and less heat gets into the rooms below.. *Why:* A strong answer uses what the ice test showed: white absorbs less sunlight than black.
@@ -560,12 +560,12 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 9. (draw) Draw the Sun cut in half like an orange. Show the core in the middle, a wiggly path for the energy getting out, and a straight arrow from the surface to a small Earth.  
    **Answer:** A circle with a small centre labelled core, a zigzag line from the core to the edge, and a straight arrow from the edge to a small Earth, labelled 8 minutes.. *Why:* A strong drawing shows that the trip inside the Sun is slow and zigzag, while the trip across space is straight and fast.
 10. (mcq) Why can the Sun shine in space, where there is no air, when a fire cannot?  
-   Options: The Sun carries its own air / The Sun shines by fusion, which needs no oxygen / Space is full of oxygen / The Sun is not really shining  
+   Options: The Sun carries its own air / Space is full of oxygen / The Sun shines by fusion, which needs no oxygen / The Sun is not really shining  
    **Answer:** The Sun shines by fusion, which needs no oxygen. *Why:* A fire needs oxygen. The Sun's light comes from hydrogen joining into helium in its core, and that needs no oxygen at all. Picking 'carries its own air' mixes up the Sun with a rocket, which really does carry its own oxygen.
 11. (fill) Plants make their food from sunlight, water and air. This is called ____.  
    **Answer:** ['photosynthesis']. *Why:* Photosynthesis is how plants catch sunlight's energy. Almost every animal, including you, lives on food that plants made this way.
 12. (mcq) In the Sun Print project, a key lay on coloured paper in the sun for 6 days. What did the paper look like when the key was lifted?  
-   Options: Faded all over / A key shape in the old bright colour, with faded paper around it / A black key shape / No change at all  
+   Options: Faded all over / A black key shape / No change at all / A key shape in the old bright colour, with faded paper around it  
    **Answer:** A key shape in the old bright colour, with faded paper around it. *Why:* The key blocked the sunlight, so the paper under it kept its colour. The rest faded, mostly from ultraviolet light. A strong answer says the key blocked the light.
 13. (perspective) A family in Madurai is arguing about how to watch a coming solar eclipse.  
    **Answer:** A strong answer picks the first child's plan, because the colander and the mirror make pictures of the Sun, so no sunlight is gathered into anyone's eye. It explains that sunglasses let through far too much light, and the retina has no pain nerves to give a warning, so the uncle's plan is dangerous. It also gives the grandmother her due: staying indoors is completely safe, and she is right to take the risk seriously, though the family would miss the eclipse.. *Why:* There is a real choice between being completely safe and seeing the eclipse safely. Only the uncle's plan is truly harmful.
@@ -575,19 +575,19 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
    **Answer:** a tulsi plant → catches sunlight to make her food; a garden lizard → basks to warm her body before hunting; a person → makes vitamin D in the skin with a little sunlight. *Why:* Each living thing uses sunlight to solve their own problem: food, warmth, or strong bones.
 ### Think Like a Sun Scientist (challenge) (challenge, 15 questions)
 1. (mcq) A magnifying glass 5 cm across packs its sunlight into a dot 1 mm across. Someone says the dot gets the same amount of light as a 1 mm patch of plain sunshine. What is wrong?  
-   Options: Nothing, light is light / The dot gets all the light that fell on the whole glass, far more than a 1 mm patch / The dot gets less light than a 1 mm patch / The glass makes the light colder  
+   Options: Nothing, light is light / The dot gets less light than a 1 mm patch / The glass makes the light colder / The dot gets all the light that fell on the whole glass, far more than a 1 mm patch  
    **Answer:** The dot gets all the light that fell on the whole glass, far more than a 1 mm patch. *Why:* The glass catches the sunlight falling on its whole 5 cm face and sends it all into the 1 mm dot. That is hundreds of times more light than a 1 mm patch of plain sunshine gets. A strong answer compares the size of the glass with the size of the dot.
 2. (write) Lord Kelvin worked out that the Sun had probably shone for less than 100 million years. Geologists said the Earth's rocks were much older. Who turned out to be right, and what did Kelvin not know about?  
    **Answer:** The geologists were right. Kelvin did not know about nuclear fusion, joining hydrogen into helium, which gives the Sun enough energy to shine for billions of years.. *Why:* A strong answer says that a calculation can be careful and still wrong if it misses something nobody knew about yet.
 3. (mcq) A glass bottle full of water is left on a sunny windowsill, next to a pile of old newspapers. Why is this a risk?  
-   Options: The bottle can act as a lens and gather sunlight into a hot spot on the paper / The water will boil / The bottle will melt / There is no risk  
+   Options: The water will boil / The bottle will melt / The bottle can act as a lens and gather sunlight into a hot spot on the paper / There is no risk  
    **Answer:** The bottle can act as a lens and gather sunlight into a hot spot on the paper. *Why:* A round bottle of water is thicker in the middle, like a lens. It can gather sunlight into a hot spot. On paper, that spot can smoulder and start a fire. Fires have really started this way.
 4. (write) In the Ice on Black, Ice on White experiment, a child found that both ice cubes melted at the same time. Suggest two reasons why this could happen.  
    **Answer:** The sky may have been cloudy, so there was little sunlight for either paper to absorb. Or the plates may have been in the shade, or the papers may have been of very similar colours. One cube may also have been bigger.. *Why:* A strong answer thinks about what makes the test fair, and about whether there was enough sunlight to make a difference.
 5. (truefalse) If the Sun suddenly stopped shining, the Earth would go dark at that same moment.  
    **Answer:** False. *Why:* False. The last light to leave the Sun would still be on its way. It takes about 8 minutes to reach us, so we would see the Sun for about 8 more minutes.
 6. (mcq) On a clear day the Sun looks pale yellow. At sunset over the sea, it looks orange. In space, it looks white. What causes the change?  
-   Options: The Sun changes colour during the day / Our air scatters away blue light, and at sunset the light passes through much more air / The sea paints the Sun orange / Our eyes get tired  
+   Options: The Sun changes colour during the day / The sea paints the Sun orange / Our air scatters away blue light, and at sunset the light passes through much more air / Our eyes get tired  
    **Answer:** Our air scatters away blue light, and at sunset the light passes through much more air. *Why:* The Sun's light is white. Air scatters blue light more than other colours. At sunset the light crosses much more air, so even more blue and green are scattered away, leaving orange and red. A strong answer mentions how much air the light passes through.
 7. (write) Space between the Sun and the Earth is nearly empty. Explain why sunlight does not warm up empty space, but does warm up your skin.  
    **Answer:** Sunlight turns into heat only when something absorbs it. Empty space has almost nothing in it to absorb the light, so it passes straight through. Your skin absorbs the light, so the light turns into heat there.. *Why:* This is the puzzle from the start of the unit. A strong answer says heat appears where light is absorbed.
@@ -615,7 +615,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 
 ## Quiz
 1. (mcq) The Sun looks much bigger and brighter than the stars at night. Why?  
-   Options: It is the biggest star there is / It is much closer to us than any other star / It is not a star / It burns more fuel  
+   Options: It is the biggest star there is / It is not a star / It burns more fuel / It is much closer to us than any other star  
    **Answer:** It is much closer to us than any other star. *Why:* The Sun is an ordinary star that happens to be very close. The next nearest star is about 270,000 times further away. Picking 'the biggest star' is a natural guess, but many stars are much bigger.
 2. (mcq) What is the Sun mostly made of?  
    Options: Rock and iron / Hydrogen, with most of the rest helium / Burning coal / Water  
@@ -624,31 +624,31 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
    Options: By burning, like a fire / By joining hydrogen into helium in its core / By reflecting light from other stars / By shrinking  
    **Answer:** By joining hydrogen into helium in its core. *Why:* In the core, hydrogen joins into helium, and a tiny bit of material turns into energy. This is nuclear fusion. 'By shrinking' was a real idea in the 1800s, but shrinking would have used up the Sun in a few tens of millions of years.
 4. (mcq) Two steel plates stand in the sun, one with black paper and one with white paper. Which paper gets warmer?  
-   Options: The white paper / The black paper / Both the same / Neither  
+   Options: The white paper / Both the same / Neither / The black paper  
    **Answer:** The black paper. *Why:* Black paper absorbs most of the sunlight, and the light turns into heat. White paper reflects most of it. Picking 'both the same' makes sense, because the sunlight is the same. But what the paper does with it is different.
 5. (mcq) Where does sunlight turn into heat?  
-   Options: Only inside the Sun / In empty space on the way / Wherever something absorbs it / Only in water  
+   Options: Only inside the Sun / In empty space on the way / Only in water / Wherever something absorbs it  
    **Answer:** Wherever something absorbs it. *Why:* Sunlight turns into heat where it is absorbed: on your skin, a road, a leaf or black paper. Empty space has almost nothing to absorb it.
 6. (mcq) A magnifying glass makes a big circle of light on black paper, then a tiny dot. Which makes the paper smoke?  
-   Options: The big circle / The tiny dot / Both, at the same time / Neither  
+   Options: The tiny dot / The big circle / Both, at the same time / Neither  
    **Answer:** The tiny dot. *Why:* The tiny dot has all the light from the glass packed into a small place, so it gets hot enough to smoke. The big circle spreads it out.
 7. (mcq) In the Sun Dot experiment, why was the paper put on a steel plate, with a tumbler of water nearby?  
-   Options: To make it smoke faster / To keep it safe, so nothing else could catch fire / To make the dot smaller / To keep the paper flat  
+   Options: To make it smoke faster / To make the dot smaller / To keep the paper flat / To keep it safe, so nothing else could catch fire  
    **Answer:** To keep it safe, so nothing else could catch fire. *Why:* Steel does not burn, and the water can put out any smouldering paper. The steel plate and the water are there for safety. A grown-up holds the glass for the same reason.
 8. (mcq) Why can looking at the Sun harm your eyes without any pain?  
    Options: The retina has no pain nerves / The Sun's light is cold / The eye has no lens / It only hurts at night  
    **Answer:** The retina has no pain nerves. *Why:* The eye's lens focuses the Sun's light onto the retina, which has no pain nerves. So the harm happens without warning, and may show only later. That is why we never look at the Sun.
 9. (mcq) Which of these is a safe way to watch the Sun?  
-   Options: Through dark sunglasses / Its picture on a wall, made by a covered mirror / Through binoculars / A quick look for one second  
+   Options: Its picture on a wall, made by a covered mirror / Through dark sunglasses / Through binoculars / A quick look for one second  
    **Answer:** Its picture on a wall, made by a covered mirror. *Why:* A picture of the Sun on a wall is safe, because you look at the wall, not the Sun. Sunglasses let through too much light, binoculars gather more of it into the eye, and even one second can harm the retina.
 10. (mcq) Why does a garden lizard lie on a sunny wall in the cool early morning?  
    Options: To hide from birds / To warm her body, so she can move fast and hunt / To drink the sunlight / To sleep  
    **Answer:** To warm her body, so she can move fast and hunt. *Why:* A lizard makes little heat inside her own body. On a cool morning she is slow. Basking lets her absorb sunlight and warm up, so she can chase insects.
 11. (mcq) A helium atom weighs a little less than four hydrogen atoms put together. Why does this help explain how the Sun shines?  
-   Options: When hydrogen joins into helium, the missing bit of material turns into energy / It shows the Sun is shrinking / It shows the Sun is full of coal / It shows sunlight takes 8 minutes to arrive  
+   Options: It shows the Sun is shrinking / When hydrogen joins into helium, the missing bit of material turns into energy / It shows the Sun is full of coal / It shows sunlight takes 8 minutes to arrive  
    **Answer:** When hydrogen joins into helium, the missing bit of material turns into energy. *Why:* In the core, four hydrogen atoms join into one helium atom. The helium atom weighs a little less, so a tiny bit of material goes missing each time. That missing material turns into energy, and the energy is what makes the Sun shine.
 12. (mcq) Why are chillies spread on a flat terrace in the sun to dry?  
-   Options: Sunlight turns into heat inside them and drives out their water / The chillies make their own light, and the light dries them / Sunlight is cold, so it keeps the chillies from going bad / Chillies dry only in the shade  
+   Options: The chillies make their own light, and the light dries them / Sunlight is cold, so it keeps the chillies from going bad / Sunlight turns into heat inside them and drives out their water / Chillies dry only in the shade  
    **Answer:** Sunlight turns into heat inside them and drives out their water. *Why:* Chillies absorb sunlight, and the light turns into heat inside them. The heat drives out the water. Sunlight is warm, not cold, and chillies dry in the sun, not in the shade.
 
 ## Applications

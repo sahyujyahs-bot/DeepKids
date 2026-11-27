@@ -525,7 +525,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 7. (fill) Light travels in ___ lines, so it cannot bend round the toy.  
    **Answer:** straight. *Why:* Because light goes in straight lines, the edge of the shadow follows the edge of the toy.
 8. (mcq) Your shadow on the floor points towards the door. Where is the light?  
-   Options: On the side away from the door / Next to the door / Under the floor  
+   Options: Next to the door / On the side away from the door / Under the floor  
    **Answer:** On the side away from the door. *Why:* A shadow points away from the light. So if the shadow points to the door, the light is on the other side, away from the door.
 9. (write) Many people think a shadow is completely black. In your tests, could you still see the floor or wall inside a shadow? Why?  
    **Answer:** Yes. Some light bounces off the walls and ceiling into the shadow, so it is dark grey, not totally black.. *Why:* A strong answer uses what the child saw. Light bounces off the walls, the ceiling and other things into the shadow.
@@ -564,40 +564,40 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 
 ## Quiz
 1. (mcq) What is a shadow?  
-   Options: A dark patch where light is blocked / A dark copy that comes out of a thing / A kind of light  
+   Options: A dark copy that comes out of a thing / A dark patch where light is blocked / A kind of light  
    **Answer:** A dark patch where light is blocked. *Why:* A shadow is the place the light cannot reach, because something is in the way. Nothing dark comes out of the thing.
 2. (mcq) You want to make a shadow on a wall. Which of these do you NOT need?  
    Options: A mirror / A light / Something to block the light  
    **Answer:** A mirror. *Why:* A shadow needs a light, something to block it, and a surface for the shadow to fall on. A mirror is not needed.
 3. (mcq) A toy stands between a torch and a wall. When is its shadow biggest?  
-   Options: When the toy was close to the torch / When the toy was close to the wall / It was the same size everywhere  
+   Options: When the toy was close to the wall / It was the same size everywhere / When the toy was close to the torch  
    **Answer:** When the toy was close to the torch. *Why:* Close to the torch, the toy blocks a big part of the spreading light, so the shadow on the wall is big.
 4. (mcq) A torch shines on a doll from the right. Where is the doll's shadow?  
    Options: On the left of the doll / On the right of the doll / In front of the torch  
    **Answer:** On the left of the doll. *Why:* A shadow falls on the side away from the light. The light comes from the right, so the shadow is on the left.
 5. (mcq) A lamp hangs straight above a dining table. Where is the table's shadow?  
-   Options: Under the table / On the ceiling / On the wall behind the lamp  
+   Options: On the ceiling / On the wall behind the lamp / Under the table  
    **Answer:** Under the table. *Why:* The light comes from above, so the blocked place is below the table, on the floor.
 6. (mcq) With two torches on, why is each shadow pale grey, not dark?  
-   Options: The other torch still shines into it / Shadows are always pale / The toy lets light through  
+   Options: Shadows are always pale / The other torch still shines into it / The toy lets light through  
    **Answer:** The other torch still shines into it. *Why:* Each shadow is lit by the other torch. Only where the two shadows overlap does no light get in, so that part is dark.
 7. (mcq) Your shadow puppet is a crow coloured bright blue. What colour is the crow's shadow?  
-   Options: Dark, with no blue / Bright blue / Pale blue  
+   Options: Bright blue / Pale blue / Dark, with no blue  
    **Answer:** Dark, with no blue. *Why:* The card blocks the light, so the shadow is dark. A shadow shows only the outline, not the colours painted on the card.
 8. (mcq) Tholpavakoothu is a shadow-puppet play from which state?  
-   Options: Kerala / Punjab / Assam  
+   Options: Punjab / Assam / Kerala  
    **Answer:** Kerala. *Why:* Tholpavakoothu comes from Kerala, mostly round Palakkad. Andhra Pradesh has tholu bommalata, Karnataka has togalu gombeyaata and Odisha has ravanachhaya.
 9. (mcq) Why does a shadow have the same outline as the thing that makes it?  
-   Options: Light travels in straight lines / Light bends round things / The wall copies the thing  
+   Options: Light bends round things / Light travels in straight lines / The wall copies the thing  
    **Answer:** Light travels in straight lines. *Why:* Light that just misses the edge goes straight on to the wall, and light that hits the thing stops. So the edge of the shadow follows the edge of the thing.
 10. (mcq) You hold your hand very close to the torch. What does the edge of its shadow look like?  
    Options: Soft and fuzzy / Sharp and crisp / Bright yellow  
    **Answer:** Soft and fuzzy. *Why:* Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.
 11. (mcq) A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?  
-   Options: It slides left with the toy / It stays where it was / It jumps to the right of the torch  
+   Options: It stays where it was / It slides left with the toy / It jumps to the right of the torch  
    **Answer:** It slides left with the toy. *Why:* The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.
 12. (mcq) You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?  
-   Options: Five thin fingers with gaps between them / One solid round lump / Nothing, because a hand is too small  
+   Options: One solid round lump / Nothing, because a hand is too small / Five thin fingers with gaps between them  
    **Answer:** Five thin fingers with gaps between them. *Why:* Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.
 
 ## Applications

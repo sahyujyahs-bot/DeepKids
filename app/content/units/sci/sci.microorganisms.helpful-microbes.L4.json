@@ -852,11 +852,11 @@
       "t": "mcq",
       "q": "After 30 minutes, balloon A is much bigger than balloon D. What does this show?",
       "options": [
-       "Yeast are needed to make the gas",
        "Sugar makes the balloon stretch",
-       "Warm water makes balloons bigger"
+       "Warm water makes balloons bigger",
+       "Yeast are needed to make the gas"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Bottles A and D both have warm water and sugar. Only A has yeast. So the yeast made the gas."
      },
      "context": "In this step, you watch and measure. The numbers show how much gas each bottle makes over 40 minutes."
@@ -1161,11 +1161,11 @@
       "t": "mcq",
       "q": "A jar of batter rose in the night and smells a little sour. What made the sour smell?",
       "options": [
-       "Bacteria making lactic acid",
        "Salt in the batter",
-       "The jar"
+       "The jar",
+       "Bacteria making lactic acid"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Bacteria in the batter eat sugar and make lactic acid. That is the same acid that makes curd sour."
      },
      "context": "This is the last step of Batter Watch. You measure, smell, listen and draw."
@@ -1330,11 +1330,11 @@
       "t": "mcq",
       "q": "Which of these is not made by microbes?",
       "options": [
-       "Paneer, made with lemon juice and hot milk",
        "Curd",
-       "Bread"
+       "Bread",
+       "Paneer, made with lemon juice and hot milk"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Paneer is made by adding an acid to hot milk, so that the milk protein clumps together. No microbes are needed. Curd and bread both need living microbes."
      },
      "context": "In this step, you read labels to see which foods say they were made with microbes."
@@ -1625,11 +1625,11 @@
      "t": "mcq",
      "p": "Which three things do microbes need to grow well?",
      "opts": [
-      "Food, water and the right warmth",
       "Only sunlight",
+      "Food, water and the right warmth",
       "Only cold air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes are living beings. Like you, they need food and water. Most helpful ones in the kitchen grow best in gentle warmth. Cold slows them, and too much heat kills them.",
      "outcome": 3
     },
@@ -1637,11 +1637,11 @@
      "t": "mcq",
      "p": "Yeast is a kind of what?",
      "opts": [
-      "A fungus with one round cell",
       "A tiny plant",
+      "A fungus with one round cell",
       "A kind of bacterium"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Yeast belongs to the fungi, the same group as mushrooms and moulds. A yeast cell is a single round cell. Bacteria are a different group.",
      "outcome": 1
     },
@@ -1690,11 +1690,11 @@
      "t": "mcq",
      "p": "Why does a spoon of old curd turn a pot of warm milk into curd?",
      "opts": [
-      "It carries living bacteria that eat the milk sugar",
       "It adds extra sugar to the milk",
-      "It makes the milk colder"
+      "It makes the milk colder",
+      "It carries living bacteria that eat the milk sugar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The spoon carries millions of living bacteria. In warm milk they eat the milk sugar, make lactic acid and multiply. The acid makes the milk set.",
      "outcome": 1
     },
@@ -1832,11 +1832,11 @@
      "t": "mcq",
      "p": "Why does the gluten in wheat dough matter for bread?",
      "opts": [
-      "It stretches into a net that traps the gas",
       "It feeds the yeast",
-      "It makes the dough sweet"
+      "It makes the dough sweet",
+      "It stretches into a net that traps the gas"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gluten is a stretchy protein. When you knead flour and water, it forms a net. The gas pushes against the net and stretches it, and the dough rises.",
      "outcome": 0
     },
@@ -1844,11 +1844,11 @@
      "t": "mcq",
      "p": "Two batters have microbes that make the same amount of gas. Batter X is rice and dal. Batter Y is rice only. Batter X rises much more. Why?",
      "opts": [
-      "The sticky dal batter holds the gas in",
       "Dal is warmer than rice",
+      "The sticky dal batter holds the gas in",
       "Rice has no sugar in it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The gas has to be held in or it escapes. Dal makes the batter thick and sticky, so it traps the gas. Rice batter alone is thin, and the gas bubbles out.",
      "outcome": 0
     },
@@ -2014,11 +2014,11 @@
      "t": "mcq",
      "p": "Curd and pickle often stay safe longer than fresh milk or fresh vegetables kept in the same place. Why?",
      "opts": [
-      "The helpful microbes make acid that stops harmful microbes growing",
       "They are thicker, so microbes cannot move",
-      "They have more sugar"
+      "They have more sugar",
+      "The helpful microbes make acid that stops harmful microbes growing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Acid makes it hard for many harmful microbes to grow. This is one reason people have used fermenting to keep food for longer.",
      "outcome": 4
     },
@@ -2073,11 +2073,11 @@
      "t": "mcq",
      "p": "Some cups of milk are set up. Cup P has starter and is kept warm. Cup Q has starter and is kept in the fridge. Cup R has no starter and is kept warm. After 10 hours only P has set. What does this best show?",
      "opts": [
-      "Both a starter and warmth are needed",
       "A starter alone is enough",
+      "Both a starter and warmth are needed",
       "Warmth alone is enough"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cup P has both and set. Cup Q has the starter but is cold, and did not set. Cup R is warm but has no starter, and did not set. So both are needed.",
      "outcome": 2
     },
@@ -2224,11 +2224,11 @@
      "t": "mcq",
      "p": "When someone says 'I made the curd', which is the best description of what the cook really did?",
      "opts": [
-      "Made a warm, sweet place where the bacteria could do the work",
       "Turned the milk into acid by stirring",
+      "Made a warm, sweet place where the bacteria could do the work",
       "Made the bacteria"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The cook boiled and cooled the milk and added the starter. The bacteria did the changing.",
      "outcome": 0
     },
@@ -2243,11 +2243,11 @@
      "t": "mcq",
      "p": "Two kitchens make idli batter in the same way, but the batters have slightly different microbes. What is the most likely reason?",
      "opts": [
-      "The microbes come from the grains, utensils and air of each kitchen",
       "Microbes come only from the salt",
+      "The microbes come from the grains, utensils and air of each kitchen",
       "The two kitchens use different kinds of steam"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Most home-made batter is not given microbes on purpose. They arrive on the rice, the dal, the grinder and the air. Every kitchen has its own mix.",
      "outcome": 1
     },
@@ -2266,11 +2266,11 @@
    "t": "mcq",
    "p": "Which sentence best describes fermentation?",
    "opts": [
-    "Microbes eat sugar and make gas, acid or alcohol",
     "Food is cooked until it turns sour",
+    "Microbes eat sugar and make gas, acid or alcohol",
     "Water is removed from food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fermentation is done by living microbes. They eat sugars and change them into new things, such as gas, acid or alcohol.",
    "outcome": 0
   },
@@ -2278,11 +2278,11 @@
    "t": "mcq",
    "p": "Which gas fills a balloon on a bottle of yeast, sugar and warm water?",
    "opts": [
-    "Carbon dioxide",
     "Oxygen",
+    "Carbon dioxide",
     "Steam"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Yeast eat sugar and make carbon dioxide. Steam would need boiling water, and the water is only warm.",
    "outcome": 0
   },
@@ -2290,11 +2290,11 @@
    "t": "mcq",
    "p": "Which substance makes curd taste sour?",
    "opts": [
-    "Lactic acid",
     "Salt",
+    "Lactic acid",
     "Alcohol"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lactic acid bacteria make lactic acid from milk sugar. The acid makes the milk sour and thick.",
    "outcome": 1
   },
@@ -2314,11 +2314,11 @@
    "t": "mcq",
    "p": "A child wants to test whether salt slows yeast. Which bottle is the control?",
    "opts": [
-    "The bottle with yeast, sugar and warm water but no salt",
     "The bottle with the most salt",
+    "The bottle with yeast, sugar and warm water but no salt",
     "The bottle with no water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The control has everything except the thing you are testing. It shows what happens anyway, so you can compare.",
    "outcome": 2
   },
@@ -2326,11 +2326,11 @@
    "t": "mcq",
    "p": "On a line graph of balloon size over time, what would the line for a bottle with no yeast most likely look like?",
    "opts": [
-    "Flat, close to zero",
     "Going steadily up",
-    "Going up and then down"
+    "Going up and then down",
+    "Flat, close to zero"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Without yeast, nothing makes gas. The balloon stays flat, so the line stays flat along the bottom.",
    "outcome": 2
   },
@@ -2350,11 +2350,11 @@
    "t": "mcq",
    "p": "At which temperature would the bacteria that make curd work fastest?",
    "opts": [
-    "About 38 degrees",
     "About 5 degrees",
-    "About 80 degrees"
+    "About 80 degrees",
+    "About 38 degrees"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They grow best in gentle warmth. At 5 degrees they are slow, and at 80 degrees they die.",
    "outcome": 3
   },
@@ -2398,11 +2398,11 @@
    "t": "mcq",
    "p": "A boiled sugar broth sits in a flask with a long, curved neck that keeps dust out. The broth stays clear for months. Why?",
    "opts": [
-    "Microbes in the air could not reach the broth",
     "Boiling made the broth too sweet",
-    "The flask was too clean to grow anything"
+    "The flask was too clean to grow anything",
+    "Microbes in the air could not reach the broth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Boiling killed the microbes in the broth. The long curved neck stopped dust and microbes from reaching it. When the neck was tipped, microbes arrived and the broth turned cloudy.",
    "outcome": 6
   }

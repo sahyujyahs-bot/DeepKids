@@ -602,7 +602,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 9. (order) Put the steps of the Touch Test in order.  
    **Answer:** ['Plant the same number of seeds in two cups', 'Guess, and measure every shoot', 'Stroke one cup twice a day for six days', 'Measure again and compare the means']. *Why:* Set up two equal cups, record the start, make one change, then measure the result.
 10. (mcq) A tree on a windy hilltop is shorter and thicker than the same kind in a valley. Why?  
-   Options: The wind blew the top off / Being bent often changed how the tree grew / Hilltop soil has no water / The hilltop tree is older  
+   Options: The wind blew the top off / Hilltop soil has no water / The hilltop tree is older / Being bent often changed how the tree grew  
    **Answer:** Being bent often changed how the tree grew. *Why:* A plant that is bent again and again makes less of the hormone that lengthens stems, and builds thicker walls. Choosing 'blew the top off' treats the shape as damage, but the tree grew that way.
 11. (fill) A touched plant makes less of the ____ that makes stems grow long.  
    **Answer:** ['hormone', 'gibberellin']. *Why:* The hormone is called gibberellin. With less of it, the stem stays shorter.
@@ -617,14 +617,14 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
    **Answer:** 3. *Why:* Nerves are animal wiring. Plants send news through the air, inside their bodies as electrical and chemical signals, and from their roots into the soil.
 ### Evidence and controls in plant experiments (stretch) (stretch, 15 questions)
 1. (mcq) Wasps come to maize chewed by caterpillars, but not to maize torn by hand. What does that show?  
-   Options: Wasps look for holes in leaves / Torn leaves have no smell / The plant tells a bite from a tear / Caterpillars call the wasps  
+   Options: Wasps look for holes in leaves / The plant tells a bite from a tear / Torn leaves have no smell / Caterpillars call the wasps  
    **Answer:** The plant tells a bite from a tear. *Why:* Both plants are damaged, but only the chewed one brings wasps. So the plant's response differs. Caterpillar spit in the wound makes the plant give off a different smell. If wasps looked for holes, torn leaves would bring them too.
 2. (write) A witchweed seed sprouts only when a jowar root is near. How does the seed know?  
    **Answer:** The root lets out a chemical into the soil. The seed has receptors for that chemical, and sprouts only when it arrives.. *Why:* A strong answer names a chemical from the root as the carrier. It may add that the root makes this chemical to call helpful fungi.
 3. (count) The heights of ten stroked seedlings add up to 110 centimetres. What is their mean height, in centimetres?  
    **Answer:** 11. *Why:* The mean is the total divided by the number of seedlings. 110 ÷ 10 = 11 centimetres.
 4. (mcq) Why should the person measuring the seedlings not know which cup was stroked?  
-   Options: They might stroke the wrong cup / Hopes can shift a measurement without anyone meaning to / Seedlings grow faster when watched / It makes the test quicker  
+   Options: Hopes can shift a measurement without anyone meaning to / They might stroke the wrong cup / Seedlings grow faster when watched / It makes the test quicker  
    **Answer:** Hopes can shift a measurement without anyone meaning to. *Why:* A person who expects the stroked cup to be shorter may read the ruler a little low for that cup. Measuring without knowing removes that risk.
 5. (truefalse) True or false: when one scientist reports a result, the question is settled.  
    **Answer:** False. *Why:* False. Other scientists must replicate the test. A result that comes out again in other laboratories can be trusted more.
@@ -655,12 +655,12 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 2. (perspective) Is a damaged plant's smell a warning to neighbouring plants, or do the neighbours overhear it?  
    **Answer:** A strong answer picks one view and uses evidence: neighbours do respond and are eaten less, but the sender competes with them for light and water. It then says what the other view has right. It may say that the smell is first a signal to the plant's own leaves and to wasps.. *Why:* Scientists really do disagree here. Everyone accepts that the smell is given off and that neighbours respond. The argument is about whom the smell is for.
 3. (mcq) In a pot, a warning passes between plants. A mesh that blocks fungal threads but not water stops it. What follows?  
-   Options: The warning went through the air / The warning went through the soil water / The warning needed the fungal threads / The plants were never attacked  
+   Options: The warning went through the air / The warning needed the fungal threads / The warning went through the soil water / The plants were never attacked  
    **Answer:** The warning needed the fungal threads. *Why:* Water still crossed the mesh, and the air was not blocked, yet the warning stopped. The only thing that changed was the threads. So in that pot the threads were needed.
 4. (write) In the game Under the Forest, sharing saved the shaded seedlings. Why is that not evidence about real forests?  
    **Answer:** The game follows rules that we wrote. It shows what would happen if the idea were true. Only measurements in a real forest can show whether enough sugar really moves.. *Why:* A strong answer separates a model from a measurement, and says what would need to be measured.
 5. (mcq) Untouched seedlings average 15 centimetres and stroked ones 12. The difference is what fraction of the untouched height?  
-   Options: One half / One third / One quarter / One fifth  
+   Options: One half / One third / One fifth / One quarter  
    **Answer:** One fifth. *Why:* The difference is 15 − 12 = 3 centimetres. 3 out of 15 is one fifth. So the stroked seedlings are one fifth shorter.
 6. (truefalse) True or false: a result that fits two explanations equally well helps you choose between them.  
    **Answer:** False. *Why:* False. To choose, you need a result that one explanation predicts and the other does not. That is why the shake test was needed after the drops.
@@ -671,7 +671,7 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 9. (sort) Touch-me-nots were dropped many times. Sort each result: does it fit 'learned' only, or both 'learned' and 'tired'?  
    **Answer:** The plants fold for a shake straight after the drops → Fits 'learned' only; The plants stay open for a drop after six days of rest → Fits 'learned' only; The plants stop folding after many drops → Fits both ideas; Plants in dim light stop folding sooner → Fits both ideas. *Why:* A tired plant could not fold for a shake, and would recover with rest. So those two results fit 'learned' only. The other two fit both ideas, so they do not tell us which idea is right.
 10. (mcq) A fungus sends more minerals to the root that gives more sugar. What does this suggest?  
-   Options: Roots do not need minerals / The fungus acts for their own gain / The tree controls the fungus / Sugar is bad for fungi  
+   Options: Roots do not need minerals / The tree controls the fungus / The fungus acts for their own gain / Sugar is bad for fungi  
    **Answer:** The fungus acts for their own gain. *Why:* The fungus rewards the root that pays best, which helps the fungus. So the fungus is a partner with their own needs, not a pipe that the tree controls.
 11. (write) Two careful scientists test pea seedlings. One finds learning and the other does not. What should happen next?  
    **Answer:** More scientists should repeat the test, with many seedlings, and measure without knowing which seedlings were trained. Until then the honest answer is 'not shown yet'.. *Why:* A strong answer does not simply pick the scientist it likes. It asks for more tests and accepts 'we do not know yet' for now.
@@ -691,36 +691,36 @@ The wind came across the field. Gowri breathed in. To her it smelled only of gre
 
 ## Quiz
 1. (mcq) A ripe banana's gas makes a nearby mango ripen. What is the carrier of this signal?  
-   Options: The banana / The air / The mango / The paper bag  
+   Options: The banana / The mango / The air / The paper bag  
    **Answer:** The air. *Why:* The banana is the sender and the mango is the receiver. The gas travels through the air, so the air is the carrier.
 2. (mcq) How does news travel from a bitten leaf to a far leaf of the same plant?  
    Options: Along nerves / As sound / As electrical and chemical signals in the veins / Along fungal threads  
    **Answer:** As electrical and chemical signals in the veins. *Why:* A wave of electric charge and calcium passes from cell to cell along the veins. Plants use other cells than nerves, though the signal is partly electrical, as a nerve signal is.
 3. (mcq) Wasps arrive at a plant that caterpillars are chewing. What led them there?  
-   Options: A smell the chewed plant gave off / The colour of the holes / The warmth of the plant / A call from the caterpillars  
+   Options: The colour of the holes / The warmth of the plant / A smell the chewed plant gave off / A call from the caterpillars  
    **Answer:** A smell the chewed plant gave off. *Why:* A chewed plant gives off volatiles, and the wasps have receptors for them. The caterpillars are often hidden, so the wasps are not using their eyes.
 4. (mcq) In a mycorrhiza, what does the plant give the fungus?  
-   Options: Water / Phosphorus / Sunlight / Sugars and fats  
+   Options: Water / Phosphorus / Sugars and fats / Sunlight  
    **Answer:** Sugars and fats. *Why:* A fungus has no chlorophyll and cannot make food from light. The plant gives sugars and fats, and the fungus brings water and minerals such as phosphorus.
 5. (truefalse) True or false: most kinds of land plant live joined to fungi.  
    **Answer:** True. *Why:* True. More than eight of every ten kinds do. Mustard, cabbage and palak are among the few that do not.
 6. (mcq) In a fair touch test, what is the cup of untouched seedlings for?  
-   Options: It holds spare seedlings / It is the control to compare with / It gets more light / It is for next week's test  
+   Options: It holds spare seedlings / It gets more light / It is for next week's test / It is the control to compare with  
    **Answer:** It is the control to compare with. *Why:* The control shows how the seedlings grow without the change. Only by comparing with it can you tell what the strokes did.
 7. (mcq) Seedlings are stroked every day for a week. How do they usually grow?  
-   Options: Taller and thinner / Exactly as before / Shorter and thicker / They stop growing  
+   Options: Taller and thinner / Shorter and thicker / Exactly as before / They stop growing  
    **Answer:** Shorter and thicker. *Why:* Repeated touch makes a plant produce less of the hormone that lengthens stems and build thicker walls. 'Taller' is a common guess, from the idea that attention helps plants.
 8. (mcq) Which of these shows that a plant's body keeps information about the past?  
-   Options: A leaf is green / A flytrap closes only on a second touch / A root grows in soil / A seed is small  
+   Options: A leaf is green / A root grows in soil / A seed is small / A flytrap closes only on a second touch  
    **Answer:** A flytrap closes only on a second touch. *Why:* To close on the second touch, the trap must hold on to the first touch for some seconds. The other three say nothing about the past.
 9. (mcq) After many harmless drops, touch-me-nots are shaken sideways and they fold. Which idea does the shake test?  
-   Options: Whether the plants need water / Whether the plants were simply tired / Whether the plants are alive / Whether light matters  
+   Options: Whether the plants need water / Whether the plants are alive / Whether light matters / Whether the plants were simply tired  
    **Answer:** Whether the plants were simply tired. *Why:* If the plants were tired, they could not fold for the shake either. They folded, so tiredness is ruled out.
 10. (mcq) A surprising result is reported once. What makes scientists trust it more?  
-   Options: It appears in a newspaper / The scientist is famous / It sounds exciting / Others repeat it and get the same result  
+   Options: It appears in a newspaper / Others repeat it and get the same result / The scientist is famous / It sounds exciting  
    **Answer:** Others repeat it and get the same result. *Why:* A result that other laboratories can replicate is much less likely to be a fluke or a mistake. Fame and excitement are not evidence.
 11. (mcq) What is still debated about fungal networks in forests?  
-   Options: Whether fungi live in soil / Whether trees have roots / How much food and news they carry between trees / Whether fungi are plants  
+   Options: Whether fungi live in soil / How much food and news they carry between trees / Whether trees have roots / Whether fungi are plants  
    **Answer:** How much food and news they carry between trees. *Why:* Everyone accepts that the networks exist. Scientists disagree about how much sugar and how many warnings pass through them in real forests, and whether seedlings gain from it.
 
 ## Applications

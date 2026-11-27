@@ -558,7 +558,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 ## Worksheets
 ### In-between animals: air-breathing fish and egg-laying mammals (core) (core, 15 questions)
 1. (mcq) Why do the five groups of vertebrates share so many features?  
-   Options: They descend from one ancestor / They live in the same places / They eat the same food / Scientists chose them that way  
+   Options: They live in the same places / They eat the same food / Scientists chose them that way / They descend from one ancestor  
    **Answer:** They descend from one ancestor. *Why:* All vertebrates descend from one group of fish-like animals who lived about 500 million years ago. Shared features such as the backbone were inherited from them.
 2. (truefalse) True or false: every mammal is born alive.  
    **Answer:** False. *Why:* False. The platypus and the four echidnas are mammals, and they lay eggs. They have fur and feed their young on milk.
@@ -593,12 +593,12 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
    **Answer:** A strong answer uses the Feature Ladder: the platypus has fur and milk, and her row differs from the cow's by one feature only. It chooses a view, gives that evidence, and says what another view has right.. *Why:* The child is right that she breaks a common rule. The teacher is right that the rule was made from too few animals. The biologist explains why: groups are branches, and rules are our short descriptions of them.
 ### In-between animals: evidence and reasons (stretch) (stretch, 15 questions)
 1. (mcq) What did the fossil Acanthostega show about the first limbs with fingers?  
-   Options: They were used in water / They were for running on land / They were for digging burrows / They always had five fingers  
+   Options: They were for running on land / They were for digging burrows / They were used in water / They always had five fingers  
    **Answer:** They were used in water. *Why:* She had limbs with eight fingers, and also gills, weak ribs and elbows that could not bend forward. She lived in water. Choosing 'running on land' is the old idea her fossil overturned.
 2. (write) Explain how the platypus shows that milk is older than birth without an egg.  
    **Answer:** The platypus makes milk and still lays eggs. Her branch split from ours after milk evolved. If birth without an egg had come first, an egg-laying mammal with milk would be hard to explain. All mammals share the same milk genes, so milk was there in their shared ancestor.. *Why:* A strong answer uses the order of branching: a feature shared by both branches was present before the split.
 3. (mcq) Why is 'born alive' a poor clue to which animals are close relatives?  
-   Options: It arose many separate times / Only mammals do it / It is hard to see / Eggs are older than babies  
+   Options: Only mammals do it / It is hard to see / Eggs are older than babies / It arose many separate times  
    **Answer:** It arose many separate times. *Why:* Vipers, some sharks, guppies and cows all bear live young, but they are not close relatives. The feature arose separately in each branch.
 4. (fill) When the same feature arises separately in animals who are not close relatives, it is called ____ evolution.  
    **Answer:** ['convergent']. *Why:* Convergent means 'coming together'. Wings in bats and birds are an example.
@@ -613,7 +613,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 9. (write) A friend says a cow is 'more evolved' than a carp. What would you tell them?  
    **Answer:** Both have been evolving for exactly the same length of time since their shared ancestor. The cow's branch gained limbs, an amnion and milk. The carp's branch gained its own features, such as the swim bladder and fan fins. The family tree has branches, not a top.. *Why:* A strong answer says that every living animal is equally modern, and names a feature that the carp's branch gained.
 10. (mcq) Which of these is evidence that your ancestors had thick fur?  
-   Options: Goosebumps / Fingernails / Your navel / Milk teeth  
+   Options: Fingernails / Goosebumps / Your navel / Milk teeth  
    **Answer:** Goosebumps. *Why:* A tiny muscle raises each hair when you are cold. On a furry animal this fluffs the coat. On us it does almost nothing, so it is a leftover.
 11. (draw) Draw a small family tree for a lizard, a crocodile and a crow. Show which two are closest.  
    **Answer:** The crocodile and the crow join at one fork. That fork then joins the lizard's line further down.. *Why:* A strong drawing puts the crocodile with the crow. Putting the crocodile with the lizard goes by scales and shape, which are old features.
@@ -623,7 +623,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
    Options: Snake / Whale / Caecilian / Seahorse  
    **Answer:** 3. *Why:* A seahorse is a fish with thin fan fins, and her ancestors never had four limbs. Snakes, whales and caecilians lost limbs that their ancestors had.
 14. (mcq) Scientists compare the DNA of two animals and find few differences. What does that suggest?  
-   Options: They share a recent ancestor / They are the same size / They live in the same place / They eat the same food  
+   Options: They are the same size / They share a recent ancestor / They live in the same place / They eat the same food  
    **Answer:** They share a recent ancestor. *Why:* Copying mistakes build up over time. Few differences means little time on separate branches.
 15. (perspective) Two scientists talk about the word 'reptile'.  
    **Answer:** A strong answer chooses one view and gives a reason from the family tree or from everyday use. It also says what the other view gets right.. *Why:* Both scientists accept the same family tree. They disagree about what names are for: showing who is related, or describing a way of living.
@@ -631,7 +631,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 1. (write) Lungs and limbs came before life on land. Give two ideas for why limbed animals first left the water.  
    **Answer:** One idea: the banks had food, such as insects and millipedes, and no big hunters. Another: warm shallows held little oxygen, and a raised head could reach the air. An older idea, that they crawled between drying ponds, is now doubted.. *Why:* A strong answer gives two ideas and treats them as ideas. Nobody knows for certain.
 2. (mcq) Humans carry broken genes for making egg yolk. What is the best explanation?  
-   Options: Our distant ancestors laid yolky eggs / Humans will lay eggs one day / We get them from eating eggs / They came from hens  
+   Options: Humans will lay eggs one day / We get them from eating eggs / Our distant ancestors laid yolky eggs / They came from hens  
    **Answer:** Our distant ancestors laid yolky eggs. *Why:* The early ancestors of mammals laid eggs with yolk. After milk took over the feeding of young, the yolk genes were no longer needed and stopped working. Genes do not come from food.
 3. (count) One centimetre is 1 million years. Tiktaalik is at 375 and Acanthostega at 365. How many centimetres apart?  
    **Answer:** 10. *Why:* 375 − 365 = 10 centimetres, which stands for 10 million years.
@@ -640,7 +640,7 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
 5. (truefalse) True or false: lungs evolved from the swim bladders of fish.  
    **Answer:** False. *Why:* False, as far as the evidence shows. Lungfish and bichirs, on two early branches, both have lungs. So the first bony fish probably had lungs, and the swim bladder is a changed lung.
 6. (mcq) The purple frog's closest relatives live on the Seychelles islands. What explains this best?  
-   Options: The land they lived on split apart / Frogs swam across the ocean / People carried them there / Birds dropped their eggs  
+   Options: Frogs swam across the ocean / People carried them there / Birds dropped their eggs / The land they lived on split apart  
    **Answer:** The land they lived on split apart. *Why:* India and the Seychelles were once joined. The land split and drifted apart with the frogs' ancestors on both pieces. Frogs cannot survive in sea water for long.
 7. (sort) Sort these: scientists agree, or scientists still argue.  
    **Answer:** Birds are dinosaurs → Agree; Four-limbed animals came from lobe-finned fish → Agree; Why limbed animals first left the water → Still argue; What the first milk was for → Still argue; Warm water holds less oxygen than cold → Agree; Whether to call birds reptiles → Still argue. *Why:* Scientists agree on the family tree itself. They still argue about the reasons for some changes, and about how to name the groups.
@@ -672,36 +672,36 @@ The fish slid out and was gone. They waited. Far out on the brown water, a ring 
    Options: She cannot reach air and may drown / The water is too clean / The water is too cold / She has no room to turn  
    **Answer:** She cannot reach air and may drown. *Why:* A murrel must gulp air at the surface. With no air gap she cannot breathe properly, even though she is in water.
 2. (mcq) Which holds more oxygen: a litre of air or a litre of pond water?  
-   Options: Air, about 30 times as much / Water, about 30 times as much / They hold the same / It depends on the fish  
+   Options: Water, about 30 times as much / Air, about 30 times as much / They hold the same / It depends on the fish  
    **Answer:** Air, about 30 times as much. *Why:* Air is about one-fifth oxygen. Water holds only a little dissolved oxygen, about 9 milligrams in a litre at 20 °C.
 3. (mcq) Which came first in the history of animals?  
    Options: Lungs, then legs / Legs, then lungs / Both at the same time / Nobody has any evidence  
    **Answer:** Lungs, then legs. *Why:* Lungfish have lungs and no legs, and every animal with four limbs has lungs. Fossils agree: fish had lungs long before any had limbs.
 4. (mcq) Which animal shows that milk evolved before mammals stopped laying eggs?  
-   Options: Platypus / Kangaroo / Fruit bat / Penguin  
+   Options: Kangaroo / Fruit bat / Penguin / Platypus  
    **Answer:** Platypus. *Why:* The platypus lays eggs and feeds her hatched young on milk. A kangaroo is born alive, and a penguin is a bird with no milk.
 5. (mcq) Tiktaalik had gills and scales, and also a neck and wrists. What is such a fossil called?  
-   Options: A transitional fossil / A living fossil / A vestigial part / A convergent fossil  
+   Options: A living fossil / A vestigial part / A convergent fossil / A transitional fossil  
    **Answer:** A transitional fossil. *Why:* A transitional fossil has features of an older group and of a newer group. It shows what the animals in between were like.
 6. (mcq) Which of these is the closest living relative of a crow?  
-   Options: Mugger crocodile / Monitor lizard / Fruit bat / King cobra  
+   Options: Monitor lizard / Mugger crocodile / Fruit bat / King cobra  
    **Answer:** Mugger crocodile. *Why:* Crocodiles and birds share an ancestor that lizards and snakes do not. A bat flies, but she is a mammal.
 7. (mcq) Bats and birds both have wings. Why is this not a sign that they are close relatives?  
-   Options: Wings arose separately in each / Bats are a kind of bird / Wings are a very old feature / Both lay eggs  
+   Options: Bats are a kind of bird / Wings are a very old feature / Wings arose separately in each / Both lay eggs  
    **Answer:** Wings arose separately in each. *Why:* Their shared ancestor had no wings. Each branch evolved wings separately, which is called convergent evolution.
 8. (truefalse) True or false: the steps of the Feature Ladder show which animals are better.  
    **Answer:** False. *Why:* False. The steps show the order in which features first appeared. Every animal on the ladder is alive today and has evolved for the same length of time.
 9. (mcq) Which part of your body is the leftover of a tail?  
-   Options: The tailbone / The navel / The kneecap / The heel  
+   Options: The navel / The kneecap / The heel / The tailbone  
    **Answer:** The tailbone. *Why:* The tailbone is three to five small joined bones at the end of the backbone. The navel is where the cord from the placenta joined you.
 10. (mcq) Why do fish in a warm, shallow pond gasp at the surface at dawn?  
-   Options: The water has very little dissolved oxygen / They are hungry / The water is too cold / They are looking for light  
+   Options: They are hungry / The water is too cold / The water has very little dissolved oxygen / They are looking for light  
    **Answer:** The water has very little dissolved oxygen. *Why:* Warm water holds little oxygen, and plants and rotting leaves use it up overnight. The thin top layer of water, next to the air, has the most.
 11. (mcq) A fossil has feathers, and also teeth and a long bony tail. What does it most likely show?  
    Options: An animal between older dinosaurs and birds / A bird that grew teeth by mistake / A lizard that could fly / Two animals mixed up  
    **Answer:** An animal between older dinosaurs and birds. *Why:* Feathers are a bird feature. Teeth and a long bony tail are older dinosaur features. Archaeopteryx, about 150 million years old, is such an animal.
 12. (mcq) In the Air in Water test, what had to stay the same for all three tumblers?  
-   Options: The tumbler, the amount and the place / Only the colour of the tumbler / How cold the water was at the start / Nothing at all  
+   Options: Only the colour of the tumbler / How cold the water was at the start / Nothing at all / The tumbler, the amount and the place  
    **Answer:** The tumbler, the amount and the place. *Why:* Only the water's history was changed: cold, room-warm or boiled. Everything else was kept the same, so any difference in bubbles came from that one change.
 
 ## Applications

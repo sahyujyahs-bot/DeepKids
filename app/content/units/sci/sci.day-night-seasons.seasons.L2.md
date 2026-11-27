@@ -473,13 +473,13 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
 8. (label) Label the picture: sun, black cloth, white cloth, ice that melted most.  
    **Answer:** ['sun: at the top, shining on both', 'black cloth: on the left plate', 'white cloth: on the right plate', 'ice that melted most: under the black cloth']. *Why:* In the same sun, the black cloth absorbs more light, so its ice melts most.
 9. (mcq) Which of these is a monsoon clue?  
-   Options: Frogs croaking at night / Kites over Ahmedabad / Mangoes on the cart  
+   Options: Kites over Ahmedabad / Frogs croaking at night / Mangoes on the cart  
    **Answer:** Frogs croaking at night. *Why:* Male frogs croak in the rainy season to call females. Kites over Ahmedabad come in January, and mangoes in summer.
 10. (perspective) Two friends in Hyderabad are choosing a shirt for a hot afternoon walk.  
    **Answer:** A strong answer picks a side with evidence. The first person is right that white reflects more light, so ice under a white cloth melts more slowly than under a black one. The second person is right that loose clothes let moving air carry heat away, as scientists found with desert robes.. *Why:* Both colour and fit matter. A loose white shirt does both jobs.
 ### Seasons across India (stretch) (stretch, 10 questions)
 1. (mcq) In November, it is raining hard in Chennai. What is the weather most likely to be in Mumbai?  
-   Options: Dry and sunny / Heavy monsoon rain / Snow  
+   Options: Heavy monsoon rain / Snow / Dry and sunny  
    **Answer:** Dry and sunny. *Why:* Mumbai's monsoon is from June to September. Chennai gets its big rain later, from the northeast monsoon.
 2. (write) In early June, it is raining in Kochi but not in Delhi. Why?  
    **Answer:** The monsoon rain reaches Kerala first and moves north slowly. It reaches Delhi weeks later.. *Why:* A strong answer says the rain travels north and that Kochi is far to the south of Delhi.
@@ -533,25 +533,25 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
    Options: A part of the year with its own kind of weather / One rainy day / A festival  
    **Answer:** A part of the year with its own kind of weather. *Why:* A season lasts many weeks and comes back every year. One rainy day is just weather.
 2. (mcq) In most of India, which season comes right after summer?  
-   Options: The monsoon / Winter / Summer again  
+   Options: Winter / The monsoon / Summer again  
    **Answer:** The monsoon. *Why:* In most of India, the monsoon rains come after the hot summer, from June.
 3. (mcq) Which of these changes from summer to winter?  
-   Options: The clothes we wear / The number of days in a week / The colour of the sky at night  
+   Options: The number of days in a week / The colour of the sky at night / The clothes we wear  
    **Answer:** The clothes we wear. *Why:* People change their clothes with the seasons. A week always has 7 days.
 4. (mcq) Why do clothes take so long to dry in the monsoon?  
    Options: The air is humid, full of water we cannot see / The clothes get heavier / The sun is switched off  
    **Answer:** The air is humid, full of water we cannot see. *Why:* Humid air already holds a lot of water, so wet clothes dry slowly. The Damp Box test showed that air can carry water.
 5. (mcq) Where does the monsoon rain usually arrive first?  
-   Options: Kerala / Delhi / Ladakh  
+   Options: Delhi / Ladakh / Kerala  
    **Answer:** Kerala. *Why:* The monsoon rain usually reaches Kerala around the first of June, then moves north.
 6. (mcq) When does Chennai get most of its rain?  
-   Options: October to December / March to May / Only in January  
+   Options: March to May / October to December / Only in January  
    **Answer:** October to December. *Why:* Chennai gets most of its rain from the northeast monsoon, from October to December.
 7. (mcq) Why does a white cloth stay cooler in the sun?  
-   Options: It reflects most of the sunlight / It is colder inside / It has no sunlight on it  
+   Options: It is colder inside / It has no sunlight on it / It reflects most of the sunlight  
    **Answer:** It reflects most of the sunlight. *Why:* The sun shines on the white cloth too, but white sends most of the light back, so less turns into heat.
 8. (mcq) Why do male frogs croak loudly in the monsoon?  
-   Options: To call female frogs / Because they are cold / To stop the rain  
+   Options: Because they are cold / To call female frogs / To stop the rain  
    **Answer:** To call female frogs. *Why:* The monsoon is the frogs' breeding season. Males croak by the puddles to call females.
 9. (mcq) Which tree is covered in red flowers in the summer?  
    Options: The gulmohar / The coconut palm / The banana plant  
@@ -560,7 +560,7 @@ Kannan thought about it. "Tomorrow is school," he said. "School always opens in 
    Options: 3 months / 2 months / 12 months  
    **Answer:** 3 months. *Why:* December, January, February: 3 months.
 11. (mcq) Pongal and the kites of Uttarayan both come in January. Which season is that in most of India?  
-   Options: Winter / Monsoon / Summer  
+   Options: Monsoon / Summer / Winter  
    **Answer:** Winter. *Why:* January is in the winter months, December to February.
 
 ## Applications

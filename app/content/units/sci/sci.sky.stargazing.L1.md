@@ -410,7 +410,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 5. (write) Your friend says, 'The stars are tiny, as small as glitter.' Say out loud what you would tell her, and a grown-up writes it.  
    **Answer:** The stars only look tiny because they are very far away. Each one is a sun, and some are much bigger than our Sun.. *Why:* A strong answer says that the stars look small because they are far, and that they are really suns.
 6. (mcq) In the hot tawa test, the stove was switched off and the tawa cooled. What happened to the shivering?  
-   Options: It got weaker / It got stronger / The torch went off  
+   Options: It got stronger / The torch went off / It got weaker  
    **Answer:** It got weaker. *Why:* As the tawa cooled, less warm air rose from it, so the light shivered less. Without moving warm air, the light looks steady.
 7. (odd) Three of these usually twinkle. Which one usually does not? Circle it.  
    Options: A star low over the rooftops / A star high overhead / Venus / A bright star such as Sirius  
@@ -429,19 +429,19 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Quiz
 1. (mcq) From a moving bus, the street lamps rush past. What does the Moon seem to do?  
-   Options: Come along with the bus / Rush past like the lamps / Go behind the bus  
+   Options: Rush past like the lamps / Go behind the bus / Come along with the bus  
    **Answer:** Come along with the bus. *Why:* The Moon is so far away that the bus ride hardly changes where you see it, so it seems to come along.
 2. (mcq) You take two steps sideways. A steel tumbler on a stool seems to jump across the far wall. Why?  
-   Options: The tumbler is near you, so a few steps change where you see it / The tumbler jumped by itself / The wall moved  
+   Options: The tumbler jumped by itself / The tumbler is near you, so a few steps change where you see it / The wall moved  
    **Answer:** The tumbler is near you, so a few steps change where you see it. *Why:* Near things seem to move a lot when you move, and far things hardly move at all. Only you moved.
 3. (mcq) One person in Chennai and another in Guwahati look up at the night sky at the same time. What do they see?  
    Options: The same Moon / Two different Moons / Only the person in Guwahati can see the Moon  
    **Answer:** The same Moon. *Why:* There is one Moon. It is so far away that people all over India see it at the same time.
 4. (mcq) Where does the Moon's light come from?  
-   Options: The Sun / A fire inside the Moon / The stars  
+   Options: A fire inside the Moon / The stars / The Sun  
    **Answer:** The Sun. *Why:* The Moon is grey rock with no light of its own. Sunlight falls on it and bounces to us.
 5. (mcq) Which of these makes its own light?  
-   Options: A star / Venus / The Moon  
+   Options: Venus / The Moon / A star  
    **Answer:** A star. *Why:* A star is a sun. Venus is a planet, and Venus and the Moon shine only with sunlight.
 6. (mcq) Why do stars close to the rooftops twinkle more than stars high up?  
    Options: Their light goes through more air / They are nearer to us / They are hotter  
@@ -450,13 +450,13 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
    Options: From a spacecraft above the air / From a balcony on a windy night / From a bus window  
    **Answer:** From a spacecraft above the air. *Why:* Twinkling comes from the moving air. Above the air, in space, stars shine steadily.
 8. (mcq) You see a bright dot in the night sky that does not twinkle at all. What could it be?  
-   Options: A planet / A star / A shooting star  
+   Options: A star / A shooting star / A planet  
    **Answer:** A planet. *Why:* Stars usually twinkle. Planets usually shine steadily, because their light comes from a tiny round patch, not a single point.
 9. (mcq) Why do stars twinkle?  
    Options: Moving air wobbles their light / They switch on and off / They are spinning fast  
    **Answer:** Moving air wobbles their light. *Why:* The air above us is always moving. It bends starlight this way and that, so the star seems to flicker.
 10. (mcq) A light moves across the night sky and blinks red and green. What is it?  
-   Options: An aeroplane / A planet / The Moon  
+   Options: A planet / An aeroplane / The Moon  
    **Answer:** An aeroplane. *Why:* Aeroplanes have blinking red and green lamps, and they move across the sky quickly. Planets and the Moon don't blink.
 
 ## Applications

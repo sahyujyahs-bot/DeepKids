@@ -757,10 +757,10 @@
       "q": "In Drop's Journey, which part does the drop reach straight after the root?",
       "options": [
        "The leaf",
-       "The stem",
-       "The flower"
+       "The flower",
+       "The stem"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water goes from the roots into the stem, and climbs the stem's tubes before it reaches any leaf or flower. Picking the leaf usually means skipping the stem, as if water jumped straight from root to leaf."
      }
     },
@@ -935,11 +935,11 @@
       "t": "mcq",
       "q": "Hot afternoon, and the soil is very dry. What do the leaf holes usually do?",
       "options": [
-       "Open wide to cool down",
        "Close, to save water",
+       "Open wide to cool down",
        "Nothing changes"
       ],
-      "a": 1,
+      "a": 0,
       "why": "When the soil is dry, the roots cannot replace the water fast enough. If the holes stayed open, the plant would wilt or even dry out. So most plants close their holes, even though this stops air coming in. Picking 'open wide to cool down' is a good thought, because evaporation does cool a leaf. But a plant with no water to spare must save water first."
      }
     },
@@ -1001,12 +1001,12 @@
      "t": "mcq",
      "p": "Each root hair is thinner than a sewing thread. Why does a root have thousands of root hairs, not a few thick roots?",
      "opts": [
-      "Thousands of thin hairs touch much more soil, so they soak up more water",
       "Thin hairs are stronger than thick roots",
       "Root hairs catch light under the soil",
+      "Thousands of thin hairs touch much more soil, so they soak up more water",
       "Thick roots cannot hold water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water gets in wherever a root touches wet soil. Thousands of thin hairs squeeze between the soil grains and touch far more soil than a few fat roots could. Picking 'stronger' mixes up the job of soaking with the job of holding on."
     },
     {
@@ -1225,24 +1225,24 @@
      "t": "mcq",
      "p": "Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this lesson does this show?",
      "opts": [
-      "Water molecules hold on to each other",
       "Leaves pull water up",
       "Steel soaks up water",
+      "Water molecules hold on to each other",
       "Water is lighter at the top"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The water at the top holds on to the water around it, so it bulges instead of spilling. This holding on is called cohesion. It is the same pull that keeps a thread of water in a tree from snapping. Picking 'leaves pull water up' names a true idea, but there are no leaves here."
     },
     {
      "t": "mcq",
      "p": "Plants need minerals, tiny bits from the soil like nitrogen, to grow. The minerals are dissolved in the soil water. How do they reach the leaves?",
      "opts": [
-      "They travel up with the water in the xylem tubes",
       "The leaves catch them from the air",
       "Insects carry them up",
-      "They never leave the roots"
+      "They never leave the roots",
+      "They travel up with the water in the xylem tubes"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Dissolved minerals ride along with the water, like sugar dissolved in tea. When water is pulled up the xylem, the minerals come too. Picking 'from the air' mixes up minerals with the carbon dioxide that leaves take in."
     },
     {
@@ -1324,12 +1324,12 @@
      "t": "mcq",
      "p": "In Be Stephen Hales, you wrap the pot and soil in a plastic bag before you weigh the plant each day. Why?",
      "opts": [
-      "So water can leave only through the leaves, and the weight loss shows what the leaves let out",
       "To keep the plant warm",
+      "So water can leave only through the leaves, and the weight loss shows what the leaves let out",
       "So the plant weighs more",
       "To stop insects eating the soil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water can dry off wet soil too. With the soil sealed, any weight the plant loses must be water that went out through the leaves. Stephen Hales did this in the 1720s. Picking 'keep the plant warm' misses that the bag is there to make the test fair.",
      "context": "In the Be Stephen Hales project, you cover a pot's soil so water can only leave through the leaves. Then you weigh the plant every day.",
      "how": "p1"
@@ -1386,12 +1386,12 @@
      "t": "mcq",
      "p": "In 1891, Eduard Strasburger killed all the living cells in long stems, and coloured water still climbed up them. Which idea did this show to be wrong?",
      "opts": [
-      "Water is pulled up by evaporation from the leaves",
       "Living cells must pump water up the stem",
+      "Water is pulled up by evaporation from the leaves",
       "Water travels up tubes",
       "Water holds together"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If living pumps were needed, a dead stem could not lift water. But it did. So living pumps are not needed. Picking 'pulled by evaporation' misses that a dead stem can still let water evaporate from its top."
     },
     {
@@ -1399,11 +1399,11 @@
      "p": "A suction pump can lift water about 10 metres. The tallest tree, Hyperion, is about 116 metres. About how many times taller is the tree than the suction limit?",
      "opts": [
       "About 2 times",
-      "About 12 times",
       "About 100 times",
+      "About 12 times",
       "About 1,000 times"
      ],
-     "a": 1,
+     "a": 2,
      "why": "116 divided by 10 is 11.6, which is nearly 12. So the tree is about 12 times taller than the suction limit. Picking 100 times would need a tree about 1,000 metres tall."
     },
     {
@@ -1434,12 +1434,12 @@
      "t": "mcq",
      "p": "A redwood's leaves at the very top are much smaller than their lower leaves. What might that tell scientists?",
      "opts": [
-      "Water barely reaches the top, so the top leaves stay small and thirsty",
       "The top leaves are younger",
       "The top gets less light",
-      "The tree is ill"
+      "The tree is ill",
+      "Water barely reaches the top, so the top leaves stay small and thirsty"
      ],
-     "a": 0,
+     "a": 3,
      "why": "George Koch's team found the top leaves of the tallest redwoods were small and thirsty. It was as if water could barely be pulled that high. This helped them estimate how tall a tree can grow. Picking 'less light' is wrong, because the top gets the most light of all."
     },
     {
@@ -1453,12 +1453,12 @@
      "t": "mcq",
      "p": "Astronauts on the space station grow plants in small pillows with wicks. Why?",
      "opts": [
-      "In space, water does not drip down into the soil, so wicks bring it to the roots",
       "Plants in space do not need water",
+      "In space, water does not drip down into the soil, so wicks bring it to the roots",
       "The pillows keep the plants warm",
       "To stop the plants floating off"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On Earth, gravity pulls water down around the roots. In space, water floats in clumps. A wick moves water by capillary action, which works without gravity. Picking 'to stop floating off' is partly true for the plants, but the wicks are for the water."
     },
     {
@@ -1510,24 +1510,24 @@
      "t": "mcq",
      "p": "Why is the air under a big neem tree cooler than in a sunny car park, even apart from the shade?",
      "opts": [
-      "Water evaporating from the leaves takes heat away, like sweat drying on skin",
       "Trees are made of ice",
       "Leaves blow cold air like a fan",
+      "Water evaporating from the leaves takes heat away, like sweat drying on skin",
       "Neem is a cold plant"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Turning water into vapour takes heat energy. The leaves give it up, so they and the air around them cool down. Picking 'blow like a fan' is close, because moving leaves do stir the air, but the main cooling is evaporation."
     },
     {
      "t": "mcq",
      "p": "In Be Stephen Hales, a plant lost 32 grams on a sunny day. The next day was cloudy, and the plant's weight went from 480 grams to 466 grams. On which day did the plant lose more water, and why?",
      "opts": [
-      "The sunny day, because water evaporates faster in sun",
       "The cloudy day, because clouds pull water",
+      "The sunny day, because water evaporates faster in sun",
       "Both the same",
       "The cloudy day, because it was 14 grams"
      ],
-     "a": 0,
+     "a": 1,
      "why": "480 take away 466 is 14 grams on the cloudy day, less than 32 grams on the sunny day. Sun makes leaves lose water faster. Picking 'the cloudy day, because it was 14 grams' means finding the right number but comparing it the wrong way.",
      "context": "In the Be Stephen Hales project, you cover a pot's soil so water can only leave through the leaves. Then you weigh the plant every day.",
      "how": "p1"
@@ -1668,11 +1668,11 @@
       "t": "mcq",
       "q": "In the Blue Climb, the pale leaf or white petals now have coloured lines. What does that show?",
       "options": [
-       "The flower changed colour by itself overnight",
        "Water climbed up the stem and spread through tiny tubes into the petals",
+       "The flower changed colour by itself overnight",
        "The colour soaked in through the outside of the petals or leaf"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The only way the colour could get up there is with the water, up through the stem. The plain-water one stayed pale, so it did not change by itself. The top of the leaf and the petals never touched the coloured water, so it did not soak in from outside. Picking 'by itself' usually means the plain-water one was not compared. That is why we set up two glasses."
      },
      "wait": "Leave them for a day: at least 12 hours, and up to 24.",
@@ -1862,11 +1862,11 @@
       "t": "mcq",
       "q": "In the Leafy or Bare test, why do we pour oil on top of the water?",
       "options": [
-       "To feed the stems",
        "So water can't evaporate from the bottle itself, only through the stem",
+       "To feed the stems",
        "To make the water heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water can evaporate from any open surface, even with no plant. A thin oil layer stops that. Then if the water level drops, the water must have gone up the stem. Picking 'to feed the stems' usually means thinking plants eat whatever is put in their water. The oil is only a lid."
      },
      "parent": "Keep the water level in the narrow neck of the bottle. In a wide part, the same amount of water makes only a tiny drop in the level."
@@ -1890,11 +1890,11 @@
       "t": "mcq",
       "q": "In the Leafy or Bare test, the leafy stem's water dropped 18 mm. The bare stem's dropped 3 mm. What does this show?",
       "options": [
-       "Leaves help pull water up the stem",
        "Bare stems are thirstier",
-       "The bottles were different"
+       "The bottles were different",
+       "Leaves help pull water up the stem"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Everything was the same except the leaves. The leafy stem used much more water. So the leaves must be what pulls the water up, by letting it escape into the air. Picking 'the bottles were different' is a good worry. That is why we used two bottles that are exactly the same."
      },
      "chart": {
@@ -2056,11 +2056,11 @@
       "t": "mcq",
       "q": "In the Sweating Branch test, which bag usually collects more water?",
       "options": [
-       "The bag on the branch in the sun",
        "The bag on the branch in the shade",
-       "Both always get exactly the same"
+       "Both always get exactly the same",
+       "The bag on the branch in the sun"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sun warms the leaves, makes them open their holes, and makes water evaporate faster. So the sunny branch lets out more water vapour, which turns back into drops on the inside of the bag. Picking 'the shade' usually means thinking a cool place is wetter, so it would collect more. But the drops come from the plant, not the air."
      }
     },
@@ -2185,11 +2185,11 @@
       "t": "mcq",
       "q": "A white flower's stem was split, and each half stood in a different colour. The flower came out half blue and half red. What does that show?",
       "options": [
-       "The tubes from each half of the stem go to their own part of the flower",
        "The colours fought and the strongest won",
+       "The tubes from each half of the stem go to their own part of the flower",
        "All the water mixes together in the middle of the stem"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each water tube runs on its own, from the bottom of the stem to one part of the flower. Water in one tube does not mix with water in the tubes beside it. So the blue tubes fed one side and the red tubes fed the other. Picking 'all the water mixes' is a very sensible guess, because the stem looks like one solid thing. The flower shows it is really a bundle of separate tubes."
      },
      "think": "If one root of a big tree is cut, which branches might go thirsty?",
@@ -2273,10 +2273,10 @@
       "q": "In the Water Chain, someone in the middle let go of hands, like an air bubble. What happens to the people below the gap?",
       "options": [
        "They keep stepping up as before",
-       "They get stuck, because nothing is pulling them any more",
-       "They jump over the gap"
+       "They jump over the gap",
+       "They get stuck, because nothing is pulling them any more"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The pull only travels along hands that are held. Below the gap, nothing is pulling. In a real plant, an air bubble in a tube breaks the thread of water. Then that tube stops carrying water. Picking 'keep stepping up' usually means thinking the roots push the water. Roots push only a little."
      }
     },
@@ -2468,10 +2468,10 @@
       "q": "A leaf held under hot water gives off tiny bubbles, mostly from its underside. Why?",
       "options": [
        "The leaf is breathing out like a fish",
-       "Air inside the leaf swells in the hot water and escapes through tiny holes, which are mostly on the underside",
-       "The leaf is melting"
+       "The leaf is melting",
+       "Air inside the leaf swells in the hot water and escapes through tiny holes, which are mostly on the underside"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A leaf is full of tiny air spaces, joined to the outside by thousands of holes called stomata. Heat makes the air swell and squeeze out of the holes. Many leaves have most of their holes underneath, out of the hot sun, which helps them lose less water. Picking 'breathing like a fish' is a lovely idea. But these bubbles come from the hot water making the air swell."
      }
     },
@@ -2645,11 +2645,11 @@
       "t": "mcq",
       "q": "On the Dawn Drop Hunt, you find one round drop sitting right at the tip of a grass blade. Where did it most likely come from?",
       "options": [
-       "From inside the plant, pushed up by the roots in the night",
        "From a cloud",
+       "From inside the plant, pushed up by the roots in the night",
        "From an insect"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At night the leaf holes are mostly closed, so little water leaves as vapour. But roots can keep pushing water up a little. The water is squeezed out of tiny openings at the leaf tip. Scientists call this guttation. Dew is different: it forms from the air, as tiny drops all over a surface. Picking 'from a cloud' mixes it up with rain."
      }
     },
@@ -2898,10 +2898,10 @@
       "q": "In How High Can You Lift Water?, a strip of paper towel lifts coloured water a few centimetres. What is lifting the water?",
       "options": [
        "Magic in the paper",
-       "Capillary action: water clinging to the paper fibres and to itself",
-       "Gravity pulling it up"
+       "Gravity pulling it up",
+       "Capillary action: water clinging to the paper fibres and to itself"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water sticks to the paper's tiny fibres and to itself, so it creeps up the thin gaps. This is capillary action. Gravity pulls water down, so the climb slows and stops at a certain height. Plants use capillary action a little, but mostly they pull water up by evaporation."
      },
      "wait": "Leave overnight."
@@ -3053,11 +3053,11 @@
    "t": "mcq",
    "p": "Which part of a plant soaks up most of their water?",
    "opts": [
-    "The roots",
     "The leaves",
+    "The roots",
     "The flowers"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "Roots, and their root hairs, soak up water from the soil. Picking 'leaves' usually comes from watering plants from above. Leaves mostly let water out."
   },
@@ -3065,11 +3065,11 @@
    "t": "mcq",
    "p": "Water climbs up a stem inside what?",
    "opts": [
-    "Tiny tubes called xylem",
     "The bark only",
-    "Air spaces"
+    "Air spaces",
+    "Tiny tubes called xylem"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "Xylem tubes run from the roots to the leaves. Picking 'air spaces' mixes up the tubes with the air spaces inside a leaf."
   },
@@ -3077,11 +3077,11 @@
    "t": "mcq",
    "p": "In the Blue Climb, why do we also stand one flower in plain water?",
    "opts": [
-    "To compare, so we know the colour came from the water",
     "Because the flower is thirsty",
-    "To make it a race"
+    "To make it a race",
+    "To compare, so we know the colour came from the water"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
    "context": "In the Blue Climb experiment, you stand a pale leaf or a white flower in coloured water. Then you watch where the colour goes.",
    "how": "e1",
@@ -3091,11 +3091,11 @@
    "t": "mcq",
    "p": "In Bubbles from a Leaf, most of the bubbles came from the underside of the leaf. What does this tell you?",
    "opts": [
-    "Most of the leaf's tiny holes are on the underside",
     "The underside is hotter",
+    "Most of the leaf's tiny holes are on the underside",
     "The top of the leaf has no air inside"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "context": "In Bubbles from a Leaf, you hold a fresh leaf under hot water and watch air bubble out of the tiny holes.",
    "how": "a4",
@@ -3105,11 +3105,11 @@
    "t": "mcq",
    "p": "What is transpiration?",
    "opts": [
-    "Water leaving the leaves as vapour",
     "Roots drinking water",
+    "Water leaving the leaves as vapour",
     "Leaves making food"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Transpiration is water leaving the leaves as invisible vapour. Picking 'leaves making food' mixes it up with photosynthesis, a different job of the leaf."
   },
@@ -3129,11 +3129,11 @@
    "t": "mcq",
    "p": "In the Leafy or Bare test, which stem drank more?",
    "opts": [
-    "The leafy stem",
     "The bare stem",
+    "The leafy stem",
     "Both the same"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "context": "In the Leafy or Bare test, two stems stand in two bottles of water with oil on top. One stem has leaves and one has none. You measure how far each water level drops.",
    "how": "e2",
@@ -3143,11 +3143,11 @@
    "t": "mcq",
    "p": "Why does a plant wilt?",
    "opts": [
-    "They lose water faster than they can take it in",
     "They have too much water",
+    "They lose water faster than they can take it in",
     "They are resting"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "When water leaves faster than it comes in, the cells go soft and the plant droops. Too much water can also harm roots. But that is not what usually makes a plant droop on a hot day."
   },
@@ -3167,11 +3167,11 @@
    "t": "mcq",
    "p": "A plant whose soil is sealed in a bag loses more weight on a sunny day than on a cloudy day. Which other result would agree with this?",
    "opts": [
-    "A clear bag over a leafy branch in the sun collects more water than one in the shade",
     "A white flower in plain water stays white",
-    "A split flower stem takes up two colours"
+    "A split flower stem takes up two colours",
+    "A clear bag over a leafy branch in the sun collects more water than one in the shade"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Both results show that leaves let out more water in the sun. When two different tests agree, we can trust the idea more. The other two are about the tubes, not about sun and shade.",
    "context": "In the Be Stephen Hales project, you weigh a plant every day with the soil sealed. In the Sweating Branch test, you tie clear bags over a branch in the sun and a branch in the shade.",
@@ -3181,11 +3181,11 @@
    "t": "mcq",
    "p": "In the Sweating Branch test, what should be different between the two branches?",
    "opts": [
-    "Only sun or shade",
     "The kind of plant and the bag",
+    "Only sun or shade",
     "Everything"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "context": "In the Sweating Branch test, you tie clear bags over two leafy branches. One is in the sun and one is in the shade. The bags catch the water the leaves let out.",
    "how": "e3",
@@ -3195,11 +3195,11 @@
    "t": "mcq",
    "p": "Some people think living cells in the stem pump water up. But coloured water still climbs a stem whose cells have all been killed. What does this show?",
    "opts": [
-    "Water can be pulled up from the top as it evaporates from the leaves, without living pumps",
     "Living pumps are needed after all",
+    "Water can be pulled up from the top as it evaporates from the leaves, without living pumps",
     "Nobody can tell how water climbs"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 5,
    "why": "A dead stem has no living pumps, yet water still climbs. So the pull from evaporation at the top is enough. Picking 'nobody can tell' is not fair to the evidence."
   },
@@ -3207,11 +3207,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still NOT know for sure?",
    "opts": [
-    "Exactly how tall a tree could ever grow",
     "That water travels up the stem",
+    "Exactly how tall a tree could ever grow",
     "That leaves let out water"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 5,
    "why": "Scientists agree water travels up stems and leaves let it out. But the limit on tree height is still argued about. Estimates say about 122 to 130 metres for redwoods."
   },

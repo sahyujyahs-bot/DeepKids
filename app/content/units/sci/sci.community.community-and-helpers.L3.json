@@ -1734,10 +1734,10 @@
    "p": "A family eats idli for breakfast. Whose work was needed to make it?",
    "opts": [
     "Only the person who cooked it",
-    "The farmer, the shopkeeper, the gas delivery man and the cook",
-    "Only the shopkeeper, who sold the rice"
+    "Only the shopkeeper, who sold the rice",
+    "The farmer, the shopkeeper, the gas delivery man and the cook"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Many people's work is in one plate: the farmer grew the rice and dal, the shopkeeper sold them, the gas delivery man brought the cylinder and the cook made the idli. Choosing only one person means seeing only the last step.",
    "outcome": 0
   },
@@ -1769,11 +1769,11 @@
    "t": "mcq",
    "p": "You see smoke coming from the flat below. Which number should you call?",
    "opts": [
-    "1098",
     "112",
+    "1098",
     "A friend's number"
    ],
-   "a": 1,
+   "a": 0,
    "why": "112 is India's single emergency number. It brings the fire service, the police or an ambulance. 1098 is the helpline for children who need help.",
    "outcome": 2
   },
@@ -1781,11 +1781,11 @@
    "t": "mcq",
    "p": "Which of these is a shared resource?",
    "opts": [
-    "A child's own water bottle",
     "The water tank on the roof of a building",
+    "A child's own water bottle",
     "A song on the radio"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but when you listen to it there is no less of the song for anyone else.",
    "outcome": 3
   },
@@ -1794,10 +1794,10 @@
    "p": "A pond has 20 fish. After each round, the fish left in the pond double, up to 20. Four players each take 5 fish in the first round. What happens?",
    "opts": [
     "The pond fills up again",
-    "No fish are left, so the pond is empty for good",
-    "Each player gets 10 fish"
+    "Each player gets 10 fish",
+    "No fish are left, so the pond is empty for good"
    ],
-   "a": 1,
+   "a": 2,
    "why": "5 fish each for 4 players is 20 fish, the whole pond. No fish are left to double, so no new fish come. Taking everything at once ends the game for everyone.",
    "outcome": 4,
    "how": "e1"
@@ -1806,11 +1806,11 @@
    "t": "mcq",
    "p": "Two groups play the same fish-sharing game with the same pond. One group chooses in silence. The other talks first and agrees a rule. Which pond is more likely to last, and why?",
    "opts": [
-    "The silent group's, because nobody argues",
     "The talking group's, because they agreed how much to leave",
+    "The silent group's, because nobody argues",
     "Both the same, because the fish are the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The fish, the players and the rounds are the same. Only the talking changes. Agreeing a rule lets everyone leave enough fish to breed.",
    "outcome": 4,
    "how": "e1"
@@ -1819,11 +1819,11 @@
    "t": "mcq",
    "p": "A village has shared one forest for 300 years without using it up. What is the most likely reason?",
    "opts": [
-    "Nobody ever took anything from the forest",
     "The villagers made their own rules about how much each could take, and checked that the rules were kept",
+    "Nobody ever took anything from the forest",
     "The forest grew faster every year by luck"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Shared things can last a very long time when the people who use them agree rules and check them. Scientists have found many villages like this around the world.",
    "outcome": 5
   },
@@ -1856,10 +1856,10 @@
    "p": "In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?",
    "opts": [
     "No, each person must do their family's work",
-    "Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law",
-    "Only if all jobs pay the same"
+    "Only if all jobs pay the same",
+    "Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law"
    ],
-   "a": 1,
+   "a": 2,
    "why": "India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.",
    "outcome": 1
   },
@@ -1867,12 +1867,12 @@
    "t": "mcq",
    "p": "Which of these is a way neighbours help one another?",
    "opts": [
-    "Taking a sick neighbour to the doctor",
     "Playing loud music at night",
     "Blocking the lane",
-    "Hiding a lost parcel"
+    "Hiding a lost parcel",
+    "Taking a sick neighbour to the doctor"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Neighbours help by looking after a child or a sick person. The others make life harder for the neighbours.",
    "outcome": 0
   },
@@ -1906,12 +1906,12 @@
    "t": "mcq",
    "p": "A child sees a banana peel on a park path. What is the best thing to do?",
    "opts": [
-    "Put it in a bin",
     "Kick it into the bushes",
     "Leave it for others",
+    "Put it in a bin",
     "Throw it at a friend"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bin keeps a public place clean and safe.",
    "outcome": 2
   },
@@ -1919,12 +1919,12 @@
    "t": "mcq",
    "p": "A neighbourhood has a mela. Which service takes care of a child who has lost her mother?",
    "opts": [
-    "The lost-and-found booth with the police",
     "The fire engine",
+    "The lost-and-found booth with the police",
     "The ambulance alone",
     "Nobody"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mela has a lost-and-found booth where a lost child is looked after until the family comes.",
    "outcome": 2
   },
@@ -1932,12 +1932,12 @@
    "t": "mcq",
    "p": "What does a judge in a court do?",
    "opts": [
-    "Listens to both sides and decides by the law",
     "Catches thieves",
     "Guides traffic",
-    "Puts out fires"
+    "Puts out fires",
+    "Listens to both sides and decides by the law"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The police bring a matter, and the court decides. The judge listens to both sides.",
    "outcome": 2
   },
@@ -1945,12 +1945,12 @@
    "t": "mcq",
    "p": "Why did many jobs, such as lamplighting, change over time?",
    "opts": [
-    "New tools and machines changed the work",
     "People forgot how to work",
+    "New tools and machines changed the work",
     "The Sun stopped shining",
     "Nobody wanted lamps"
    ],
-   "a": 0,
+   "a": 1,
    "why": "New machines and new needs mean old jobs shrink and new ones appear.",
    "outcome": 1
   },
@@ -1971,12 +1971,12 @@
    "t": "mcq",
    "p": "During COVID-19, which workers helped keep neighbourhoods clean and healthy?",
    "opts": [
-    "Sanitation workers, nurses and doctors",
     "Nobody",
+    "Sanitation workers, nurses and doctors",
     "Only the police",
     "Only the shopkeepers"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Health workers treated the sick, and sanitation workers kept the streets clean.",
    "outcome": 2
   }
@@ -2015,12 +2015,12 @@
     {
      "t": "mcq",
      "p": "A flat gets its water from the city's water board. What kind of service is this?",
-     "a": 1,
+     "a": 2,
      "why": "The water board is run by the city government for everyone, so it is a public service. A strong answer says who it is for.",
      "opts": [
       "A private shop",
-      "A public service",
-      "A family job"
+      "A family job",
+      "A public service"
      ]
     },
     {
@@ -2116,12 +2116,12 @@
     {
      "t": "mcq",
      "p": "You buy a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?",
-     "a": 2,
+     "a": 1,
      "why": "Taxes go to the government, which uses them for public services. That is how a child buying a notebook helps pay for schools and roads.",
      "opts": [
       "To the shopkeeper only",
-      "To the notebook factory",
-      "To the government, to pay for things like roads and schools"
+      "To the government, to pay for things like roads and schools",
+      "To the notebook factory"
      ]
     },
     {
@@ -2260,11 +2260,11 @@
     {
      "t": "mcq",
      "p": "A building has 12 flats sharing one water tank. Every flat says, \"I only take my share.\" Yet the tank is empty by afternoon. What is the most likely reason?",
-     "a": 1,
+     "a": 0,
      "why": "Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.",
      "opts": [
-      "The lorry brought no water",
       "Each flat's share added up to more than the tank holds",
+      "The lorry brought no water",
       "The water leaked out of the sky"
      ]
     },
@@ -2373,11 +2373,11 @@
     {
      "t": "mcq",
      "p": "Long ago, farmers in a Tamil Nadu village shared one rain tank. A water keeper opened the gate so each field got water in turn. Why was this better than each farmer opening the gate whenever they liked?",
-     "a": 0,
+     "a": 1,
      "why": "Taking turns, with one person in charge, shares the water fairly and makes it last. If everyone opened the gate at once, the nearest fields would take most of it.",
      "opts": [
-      "The far fields still got water, and the tank did not empty in one day",
       "The water keeper wanted to stay busy",
+      "The far fields still got water, and the tank did not empty in one day",
       "Water flows faster when one person opens the gate"
      ]
     },
@@ -2701,11 +2701,11 @@
     {
      "t": "mcq",
      "p": "A building tries a new water rule for a month. Which is the best sign that the rule is working?",
-     "a": 1,
+     "a": 0,
      "why": "A rule works when people can see it working. A tank still half full at two o'clock, with a notebook everyone can read, is evidence. A rule nobody talks about or a very long rule proves nothing.",
      "opts": [
-      "Nobody ever talks about the rule",
       "The tank is still half full at two o'clock, and everyone can read the notebook",
+      "Nobody ever talks about the rule",
       "The rule is very long"
      ],
      "how": "a5"

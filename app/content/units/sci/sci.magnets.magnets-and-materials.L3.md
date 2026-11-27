@@ -698,12 +698,12 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
 7. (fill) When two magnets push each other away, we say they ____ each other.  
    **Answer:** ['repel']. *Why:* Repel means push away. Two north poles, or two south poles, repel each other. A north pole and a south pole attract each other.
 8. (mcq) You stroke a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?  
-   Options: Some iron moved from the magnet into the needle / The needle became heavier / The tiny magnets inside the needle now point the same way / The needle became hotter  
+   Options: The tiny magnets inside the needle now point the same way / Some iron moved from the magnet into the needle / The needle became heavier / The needle became hotter  
    **Answer:** The tiny magnets inside the needle now point the same way. *Why:* Nothing passes from the magnet into the needle. The stroking turns the needle's own tiny magnets to point the same way, so their forces add up. A strong answer uses the words 'tiny magnets' and 'line up'.
 9. (truefalse) A needle compass still points north and south inside a closed room with no windows.  
    **Answer:** True. *Why:* True. The compass is turned by the Earth's magnetic field, which passes through walls. It does not need the Sun or the stars. Many people guess that a compass needs to 'see' the sky.
 10. (mcq) A needle compass is floating in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?  
-   Options: Stroke the needle 100 more times / Add salt to the water / Use hot water / Use a plastic or glass bowl instead  
+   Options: Stroke the needle 100 more times / Add salt to the water / Use a plastic or glass bowl instead / Use hot water  
    **Answer:** Use a plastic or glass bowl instead. *Why:* Some steel bowls are magnetic, so the bowl attracts the needle to its edge. A plastic or glass bowl is not magnetic, so only the Earth's magnetic field turns the needle. A strong answer says what was pulling the needle the wrong way.
 11. (odd) A magnet attracts three of these metals. Which one is the odd one out?  
    Options: Aluminium / Iron / Nickel / Cobalt  
@@ -711,7 +711,7 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
 12. (match) Match each word to what it means.  
    **Answer:** Attract → to pull something towards you; Repel → to push something away; Pole → an end of a magnet, where its force is strongest; Magnetic field → the space around a magnet where its force acts; Compass → a magnet that can turn freely and points north and south. *Why:* These five words come up all through the unit. A strong answer could also give an example of each.
 13. (mcq) You want to find out which of two magnets is stronger, using a paper clip chain. Which of these would make the test unfair?  
-   Options: Using the same kind of clips for both magnets / Using big clips for one magnet and small clips for the other / Counting the clips carefully / Testing each magnet three times  
+   Options: Using big clips for one magnet and small clips for the other / Using the same kind of clips for both magnets / Counting the clips carefully / Testing each magnet three times  
    **Answer:** Using big clips for one magnet and small clips for the other. *Why:* In a fair test, only one thing changes: the magnet. Small clips are lighter, so a magnet could hold more of them. Then we could not tell if the magnet or the clips made the difference.
 14. (perspective) Two sisters in Chennai have a big flat fridge magnet and a tiny round magnet. They argue about which one is stronger.  
    **Answer:** A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. The first child is right that, of two magnets made the same way, the bigger one is usually stronger. The second child is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.. *Why:* There is no single right answer without a test. Strength depends on what the magnet is made of and how well its tiny magnets line up, as well as its size.
@@ -721,7 +721,7 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
    **Answer:** ['Stroke the needle with a magnet 50 times, always one way', 'Check that the needle picks up a pin', 'Float the needle on a bit of paper in a bowl of water', 'Wait for it to stop turning, and check which way is north']. *Why:* First make the magnet, then check that it worked, then float it so it can turn freely, then read it.
 ### Inside the Iron (stretch) (stretch, 16 questions)
 1. (mcq) Every electron is a tiny magnet, and copper has plenty of electrons. So why does a magnet not attract copper?  
-   Options: Copper has no electrons / Copper is too heavy / In copper, the electrons' tiny magnets cancel each other out / Copper is too shiny  
+   Options: In copper, the electrons' tiny magnets cancel each other out / Copper has no electrons / Copper is too heavy / Copper is too shiny  
    **Answer:** In copper, the electrons' tiny magnets cancel each other out. *Why:* In copper, the electrons' tiny magnets cancel out. Most of copper's electrons are in pairs that point opposite ways. Copper's few spare electrons never line up together. In iron, many spare electrons line up with their neighbours, so their tiny magnets add up. 'No electrons' is wrong, because every atom has electrons.
 2. (write) A plain steel nail is full of tiny magnets, but on its own it cannot pick up a pin. Explain why. Then explain why the same nail can pick up a pin while a magnet is touching it.  
    **Answer:** In a plain nail, the tiny magnets are in patches called domains, and the domains point different ways, so their forces cancel. When a magnet touches the nail, many of the domains turn to line up with the magnet's field. Now their forces add up, and the nail is a magnet for as long as the magnet stays.. *Why:* A strong answer explains both halves: jumbled domains cancel, lined-up domains add up. It may mention the paper clip chain, where each clip becomes a magnet in the same way.
@@ -732,10 +732,10 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
 5. (order) A magnet is held at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.  
    **Answer:** ['Magnet 10 centimetres away', 'Magnet 4 centimetres away', 'Magnet 1 centimetre away', 'Magnet touching the pin']. *Why:* A magnet's force gets weaker very quickly as you move it away. That is why the pin only jumps up when the magnet is close.
 6. (mcq) In the paper clip chain test, each magnet was tested three times. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should you do?  
-   Options: The fridge magnet's 2. Ignore the fridge magnet / The ceramic magnet's 5. Start again / Nothing looks odd / The bar magnet's 2. Check the clips and try that magnet again  
+   Options: The bar magnet's 2. Check the clips and try that magnet again / The fridge magnet's 2. Ignore the fridge magnet / The ceramic magnet's 5. Start again / Nothing looks odd  
    **Answer:** The bar magnet's 2. Check the clips and try that magnet again. *Why:* The bar magnet held 6 clips twice, so 2 is very different. Maybe a clip was bent or the chain was knocked. Testing again shows whether 2 was a fluke. This is why we test each magnet three times.
 7. (mcq) You hold a compass next to a steel almirah, and the needle swings towards the almirah. Why?  
-   Options: The almirah's iron attracts the needle, which is a magnet / Compasses only work outdoors / The almirah is cold / The almirah has its own north pole for the Earth  
+   Options: Compasses only work outdoors / The almirah is cold / The almirah's iron attracts the needle, which is a magnet / The almirah has its own north pole for the Earth  
    **Answer:** The almirah's iron attracts the needle, which is a magnet. *Why:* A compass needle is a magnet, and a magnet and iron attract each other. The iron in the almirah turns the needle towards it, just as the iron pot did in the story 'The Iron Fish'. Move the compass far away and it points north again.
 8. (fill) The temperature at which a magnet stops being a magnet is called the ____ point.  
    **Answer:** ['Curie']. *Why:* For iron, the Curie point is about 770 degrees Celsius. It is named after Pierre Curie, who measured it in 1895.
@@ -753,7 +753,7 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
 14. (draw) Draw two squares of iron as if you were looking from very, very close. In the first square, draw the tiny magnets as arrows for a plain nail. In the second, draw them for a magnet.  
    **Answer:** Plain nail: patches of arrows, each patch pointing a different way. Magnet: nearly all the arrows pointing the same way.. *Why:* This shows domains: jumbled in a plain nail, lined up in a magnet. A strong drawing shows patches, not single random arrows.
 15. (mcq) Scientists kept European robins, a kind of small bird, in a cage and changed the magnetic field around them with coils of wire. The robins then tried to fly in a different direction. Why is this good evidence that robins sense the magnetic field?  
-   Options: Robins like cages / The test was done at night / Only the magnetic field was changed, and the robins changed too / Robins can see magnets  
+   Options: Robins like cages / Only the magnetic field was changed, and the robins changed too / The test was done at night / Robins can see magnets  
    **Answer:** Only the magnetic field was changed, and the robins changed too. *Why:* In a fair test, only one thing changes. Here the light, food and cage stayed the same and only the magnetic field changed. So the change in the robins' direction must come from the field. Wolfgang and Roswitha Wiltschko did tests like this from 1972.
 16. (match) Match each thing that happens to its cause.  
    **Answer:** A needle becomes a magnet → stroking it one way lines up its tiny magnets; A magnet stops being a magnet → heating it red-hot shakes its tiny magnets out of line; A paper clip holds up another clip → a magnet nearby turns the first clip into a magnet for a while; A compass points the wrong way → a piece of iron is close to it. *Why:* All four come from one idea: magnetism depends on whether the tiny magnets inside the iron line up.
@@ -763,7 +763,7 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
 2. (perspective) Three people are talking about who first used a magnet to find the way.  
    **Answer:** A strong answer asks for dated evidence: a book, a map or an object that can be dated. It sees that Mei has the oldest dated texts, that Kalyani's point about unwritten knowledge is fair but hard to prove, and that Rashida's idea fits the evidence too. It names one find, such as an old dated Indian text, that would change its mind.. *Why:* Historians still argue about this. The oldest dated descriptions we have are Chinese. Whether others found it earlier, or on their own, is not settled.
 3. (mcq) A scientist sees that tiny bacteria in a dish always swim towards the north. She turns a magnet around the dish, and the bacteria turn too. What is the best conclusion?  
-   Options: The bacteria are swimming towards the light / The dish is tilted / The bacteria can see the Pole Star / The bacteria respond to magnetic fields  
+   Options: The bacteria are swimming towards the light / The bacteria respond to magnetic fields / The dish is tilted / The bacteria can see the Pole Star  
    **Answer:** The bacteria respond to magnetic fields. *Why:* Changing only the magnetic field changed which way the bacteria swam. That is good evidence that they respond to magnetic fields. 'Towards the light' is a fair idea, but the light did not change. These magnetic bacteria build chains of magnetite crystals inside their bodies.
 4. (write) In satellite pictures, cows in fields seemed to stand facing north and south. A later study found no pattern. If you were a scientist, what would you do next?  
    **Answer:** I would watch cows myself, in many places, and write down which way each one faces. I would also write down the wind and where the Sun is, because those could change which way cows stand.. *Why:* A strong answer repeats the study and thinks about other causes that could explain the pattern.
@@ -775,10 +775,10 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
    Options: Without a magnetic field to steer it away, the Sun's solar wind stripped the air away / The air all froze into ice caps / The Moon pulled it off / Mars is too far from the Sun to have air  
    **Answer:** Without a magnetic field to steer it away, the Sun's solar wind stripped the air away. *Why:* The Earth's magnetic field steers the solar wind, the Sun's stream of tiny charged particles, around our planet. Mars lost its field long ago, so the solar wind slowly stripped its air. Some air froze into the ice caps, but not most of it.
 8. (mcq) You snap a bar magnet in half. What do you get?  
-   Options: One piece that is only a north pole and one that is only a south pole / Two smaller magnets, each with a north pole and a south pole / Two pieces that are not magnets at all / One magnet and one piece that is not a magnet  
+   Options: Two smaller magnets, each with a north pole and a south pole / One piece that is only a north pole and one that is only a south pole / Two pieces that are not magnets at all / One magnet and one piece that is not a magnet  
    **Answer:** Two smaller magnets, each with a north pole and a south pole. *Why:* Most people guess that one half would be only a north pole and the other only a south pole. But the tiny magnets inside are still lined up in each half, so each half is a whole magnet with two poles. You can test this with a cheap broken fridge magnet.
 9. (mcq) In 1904, the magnetic observatory in Colaba, Bombay, moved to Alibag, a quiet town across the bay. Electric trams were coming to Bombay. Why did the scientists move?  
-   Options: The building fell down / Alibag had better food / The trams' electric currents would make magnetic fields and spoil the measurements / The trams were too loud  
+   Options: The trams' electric currents would make magnetic fields and spoil the measurements / The building fell down / Alibag had better food / The trams were too loud  
    **Answer:** The trams' electric currents would make magnetic fields and spoil the measurements. *Why:* Electric currents make magnetic fields. The observatory measured the Earth's magnetic field very carefully, and the trams' currents would have added their own fields to the readings.
 10. (write) Design an experiment to test whether ants can sense a magnet. Say what you would change, what you would keep the same, and what you would watch.  
    **Answer:** I would put a little sugar in the middle of a round plate and let ants come to it. Then I would put a strong magnet under one side of the plate, and later under the other side. I would keep the light, the sugar and the plate the same. I would count how many ants walk towards the magnet's side each time.. *Why:* A strong design changes only the magnet, keeps everything else the same, counts what happens, and tests more than once.
@@ -806,45 +806,45 @@ On Monday, Salim anna came down the lane again. He stopped at our gate and held 
    Options: The diya is too heavy / Brass has no iron, nickel or cobalt in it / The diya is too shiny / The kadai is warmer  
    **Answer:** Brass has no iron, nickel or cobalt in it. *Why:* A magnet attracts only metals with iron, nickel or cobalt in them. Brass is made of copper and zinc, so a magnet does not attract it. Picking 'too heavy' or 'too shiny' means thinking about how a thing looks, not what it is made of.
 2. (mcq) Some steel pins fell into a box of brass buttons. What is the quickest way to get the pins out?  
-   Options: Hold a magnet over the box / Pour water into the box / Shine a torch into the box / Shake the box hard  
+   Options: Pour water into the box / Shine a torch into the box / Hold a magnet over the box / Shake the box hard  
    **Answer:** Hold a magnet over the box. *Why:* The magnet attracts the steel pins but not the brass buttons, so the pins jump out and the buttons stay. Scrap dealers sort metals in the same way.
 3. (mcq) To make a needle into a magnet, how should you stroke it?  
-   Options: Back and forth, fast / Always in the same direction, lifting the magnet away each time / In circles / Just once, very hard  
+   Options: Back and forth, fast / In circles / Always in the same direction, lifting the magnet away each time / Just once, very hard  
    **Answer:** Always in the same direction, lifting the magnet away each time. *Why:* Each stroke in the same direction turns more of the needle's tiny magnets to point the same way. Stroking back and forth turns them back again. Picking 'just once, very hard' usually means thinking that force matters more than repeating the stroke.
 4. (mcq) A floating magnetised needle always turns to point north and south. Why?  
-   Options: The Pole Star attracts it / The Earth's magnetic field turns it / Water flows towards the north / The bowl is magnetic  
+   Options: The Earth's magnetic field turns it / The Pole Star attracts it / Water flows towards the north / The bowl is magnetic  
    **Answer:** The Earth's magnetic field turns it. *Why:* The needle is a magnet, and the Earth's magnetic field turns it to line up north and south. Picking the Pole Star comes from an old idea. Stars have no effect on compasses, and a compass works in a closed room.
 5. (mcq) In the paper clip chain test, a magnet holds 5 clips on the first try. Why should you test it two more times?  
    Options: The magnet gets stronger each time / One try can be a fluke, for example if a clip is bent or the chain is knocked / Three is a lucky number / To tire the magnet out  
    **Answer:** One try can be a fluke, for example if a clip is bent or the chain is knocked. *Why:* One result can be wrong by bad luck. If three tries give about the same number, you can trust it. If one try is very different, you know to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.
 6. (mcq) In a fair test of which magnet is strongest, what should stay the same?  
-   Options: The magnet / The kind and size of paper clips / The number of clips each magnet holds / Nothing needs to stay the same  
+   Options: The kind and size of paper clips / The magnet / The number of clips each magnet holds / Nothing needs to stay the same  
    **Answer:** The kind and size of paper clips. *Why:* Everything except the magnet should stay the same, including the clips. If one magnet got smaller clips, it could hold more, and the test would not be fair. The number of clips is what we measure, so it changes.
 7. (mcq) Every electron is a tiny magnet. Why aren't you magnetic?  
-   Options: People have no electrons / Your electrons are in pairs pointing opposite ways, so they cancel / Your electrons are too small / Your body has no iron in it  
+   Options: Your electrons are in pairs pointing opposite ways, so they cancel / People have no electrons / Your electrons are too small / Your body has no iron in it  
    **Answer:** Your electrons are in pairs pointing opposite ways, so they cancel. *Why:* In most atoms, electrons are in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel. Your body does have a little iron, in your blood, but those iron atoms are spread out, not lined up in domains.
 8. (mcq) What are domains?  
-   Options: The two ends of a magnet / Small regions inside iron where the atoms' tiny magnets point the same way / A kind of magnet stone / The lines of the Earth's magnetic field  
+   Options: The two ends of a magnet / A kind of magnet stone / The lines of the Earth's magnetic field / Small regions inside iron where the atoms' tiny magnets point the same way  
    **Answer:** Small regions inside iron where the atoms' tiny magnets point the same way. *Why:* Domains are small regions inside iron, where billions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.
 9. (mcq) A magnetised needle is heated until it glows red. When it cools, it no longer picks up a pin. Why?  
-   Options: The heat burned the iron away / The heat shook its tiny magnets out of line / Hot things are never magnetic, even after they cool / The pin got heavier  
+   Options: The heat shook its tiny magnets out of line / The heat burned the iron away / Hot things are never magnetic, even after they cool / The pin got heavier  
    **Answer:** The heat shook its tiny magnets out of line. *Why:* Heat is atoms jiggling. At about 770 degrees Celsius, iron's tiny magnets jiggle out of line, and they stay jumbled after it cools. Stroking it again can line them up again. Picking 'burned away' is natural, but the needle is still there, still steel.
 10. (mcq) What is a lodestone?  
-   Options: A stone that floats / A natural magnet made of the mineral magnetite / A heavy iron weight on a ship / A magnet made in a factory  
+   Options: A stone that floats / A heavy iron weight on a ship / A magnet made in a factory / A natural magnet made of the mineral magnetite  
    **Answer:** A natural magnet made of the mineral magnetite. *Why:* A lodestone is a piece of magnetite, a black mineral with iron in it, that is a magnet straight from the ground. People in Greece, China and India found them long ago.
 11. (mcq) Long ago, Indian surgeons used a magnet to help pull a smooth iron arrowhead out of a wound. Why does this work?  
-   Options: The magnet attracts the iron, but not the skin / The magnet makes the wound heal faster / A magnet attracts every metal / The magnet pulls on the blood  
+   Options: The magnet makes the wound heal faster / The magnet attracts the iron, but not the skin / A magnet attracts every metal / The magnet pulls on the blood  
    **Answer:** The magnet attracts the iron, but not the skin. *Why:* A magnet attracts iron, but not skin or flesh. So it can pull on the arrowhead without tearing the body. A magnet does not attract every metal: brass and copper do not stick.
 12. (mcq) What makes the Earth a magnet?  
-   Options: A giant bar magnet buried at the North Pole / Liquid iron moving in the Earth's outer core / The Moon pulling on the Earth / Lodestones in the mountains  
+   Options: A giant bar magnet buried at the North Pole / The Moon pulling on the Earth / Liquid iron moving in the Earth's outer core / Lodestones in the mountains  
    **Answer:** Liquid iron moving in the Earth's outer core. *Why:* Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Electric currents flow in the moving iron, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.
 13. (truefalse) The Earth's magnetic field has flipped many times. After a flip, a compass would point south.  
    **Answer:** True. *Why:* True. Old lava rocks are magnetised in both directions. The last flip was about 780,000 years ago. Motonori Matuyama showed this in 1929, from rocks in Japan, Korea and China.
 14. (mcq) Which of these living things has been shown to use the Earth's magnetic field to find their way?  
-   Options: Young loggerhead sea turtles / Mango trees / Rocks / Nobody: only compasses can  
+   Options: Mango trees / Rocks / Nobody: only compasses can / Young loggerhead sea turtles  
    **Answer:** Young loggerhead sea turtles. *Why:* Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' is wrong, because animals sensed the Earth's magnetic field long before people made compasses.
 15. (mcq) Do scientists know exactly how birds sense the Earth's magnetic field?  
-   Options: Yes, it is fully solved / No. The leading idea is a protein in their eyes, but it is still being tested / Birds don't sense it at all / Yes, they have a tiny compass needle in their beaks  
+   Options: Yes, it is fully solved / Birds don't sense it at all / Yes, they have a tiny compass needle in their beaks / No. The leading idea is a protein in their eyes, but it is still being tested  
    **Answer:** No. The leading idea is a protein in their eyes, but it is still being tested. *Why:* The leading idea is cryptochrome, a protein in birds' eyes that responds to magnetic fields. It is not yet fully proven. The beak idea was tested in 2012, and the iron cells there turned out to be immune cells that clean up the body, not magnetic sensors.
 
 ## Applications

@@ -645,11 +645,11 @@
       "t": "mcq",
       "q": "Which prey adaptation best answers a cheetah's great speed?",
       "options": [
-       "A sharp swerve at the last moment",
        "A louder alarm call",
-       "A brighter coat"
+       "A brighter coat",
+       "A sharp swerve at the last moment"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fast hunter cannot turn tightly, so a swerve makes her overshoot. A call does not move the prey out of reach. A brighter coat helps only an animal who is bitter or can sting."
      },
      "parent": "Good pairs are forward eyes against side eyes, stalking against the langurs' watch, and speed against swerving. Any pair your child can explain is a good pair.",
@@ -780,11 +780,11 @@
       "t": "mcq",
       "q": "When does a false warning protect a harmless animal best?",
       "options": [
-       "When most warnings around are true",
        "When every animal gives the warning",
+       "When most warnings around are true",
        "When no animal is dangerous"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hunter believes a warning only if it is usually true. If every animal bluffs, or none is dangerous, the hunter learns that the warning means nothing and eats."
      },
      "parent": "In the game, a third of the cards are dangerous. A prey player who bluffs on a few cards is usually believed. One who bluffs on every card is soon tested.",
@@ -1116,11 +1116,11 @@
       "t": "mcq",
       "q": "In the Copycat Test, why does a bitter square take away 2 points?",
       "options": [
-       "A bad meal costs a real bird something",
        "To make the sums harder",
+       "A bad meal costs a real bird something",
        "Because bitter prey are bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bird who eats bitter prey may be sick and loses time for feeding. The minus 2 stands for that cost. Without a cost, the hunter would have no reason to avoid any square."
      },
      "parent": "A curious child may want to turn over every square. Remind them that the aim is the highest score.",
@@ -1256,11 +1256,11 @@
       "t": "mcq",
       "q": "What do eyes at the front of the face do best?",
       "options": [
-       "Judge how far away one thing is",
        "See what is behind the head",
+       "Judge how far away one thing is",
        "See well in the dark"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Two eyes that look at the same thing give the brain two views, and the brain works out the distance. A hunter must judge distance to pounce, and so must a monkey to jump. Eyes at the sides see more of the surroundings, and judge distance less well."
      },
      "parent": "The pattern is strong but not perfect, and the exceptions show what forward eyes are really for: judging distance. Monkeys and humans come from ancestors who leapt between branches.",
@@ -1952,12 +1952,12 @@
      "t": "mcq",
      "p": "What is an adaptation?",
      "opts": [
-      "An inherited feature that helps survival",
       "A skill an animal learns by practice",
       "Any change in the weather",
-      "A place where an animal lives"
+      "A place where an animal lives",
+      "An inherited feature that helps survival"
      ],
-     "a": 0,
+     "a": 3,
      "why": "An adaptation is inherited from parents and helps a living thing survive and have young in their place. A learned skill is not inherited.",
      "outcome": 0
     },
@@ -1978,12 +1978,12 @@
      "t": "mcq",
      "p": "Which of these is a behavioural adaptation?",
      "opts": [
-      "A lizard resting in a burrow at noon",
       "A camel's wide feet",
       "A cactus's spines",
-      "A yak's thick coat"
+      "A yak's thick coat",
+      "A lizard resting in a burrow at noon"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A behavioural adaptation is something a living thing does. Wide feet, spines and a thick coat are parts of the body, so they are structural adaptations.",
      "outcome": 0
     },
@@ -2103,12 +2103,12 @@
      "t": "mcq",
      "p": "Why does snow slide off a steep, cone-shaped tree?",
      "opts": [
-      "Snow cannot grip so steep a slope",
       "The tree is warm",
       "The needles push the snow away",
+      "Snow cannot grip so steep a slope",
       "Wind always blows it off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "On a steep slope, the weight of the snow drags it downhill more strongly than the surface can hold it. In the Snow Load Test, rava slides off a steep paper cone in the same way.",
      "how": "e1",
      "outcome": 1
@@ -2117,12 +2117,12 @@
      "t": "mcq",
      "p": "A hoverfly has no sting, but she is striped like a wasp. What is this called?",
      "opts": [
-      "Mimicry",
       "Countershading",
+      "Mimicry",
       "Masquerade",
       "Co-evolution"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mimicry is one kind of animal looking like another kind and gaining from it. Birds who have been stung by a wasp leave the hoverfly alone.",
      "outcome": 5
     },
@@ -2162,12 +2162,12 @@
      "t": "mcq",
      "p": "A deer's eyes have two kinds of colour cells. How does a tiger's orange coat look to her?",
      "opts": [
-      "Much like the green of grass",
       "Bright red",
       "Pure white",
+      "Much like the green of grass",
       "Bright blue"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With two kinds of colour cells, a deer does not tell orange from green well. So the coat that looks bright to us blends with the grass for a deer.",
      "outcome": 4
     },
@@ -2188,12 +2188,12 @@
      "t": "mcq",
      "p": "A chilli burns a rat's mouth and has no effect on a bird's. How does this help the chilli plant?",
      "opts": [
-      "Birds spread the seeds whole",
       "Rats water the plant",
       "Birds eat the leaves",
-      "The burn makes the seeds grow"
+      "The burn makes the seeds grow",
+      "Birds spread the seeds whole"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rats crush the seeds with their teeth, and the burn keeps them away. Birds swallow the seeds whole and drop them somewhere new.",
      "outcome": 3
     },
@@ -2383,12 +2383,12 @@
      "t": "mcq",
      "p": "Jays who had never met a monarch butterfly ate the look-alike viceroy. What does this show?",
      "opts": [
-      "A mimic is protected only by experienced hunters",
       "Viceroys taste sweet",
+      "A mimic is protected only by experienced hunters",
       "Jays do not notice orange",
       "Monarchs are harmless"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The pattern meant nothing to jays who had never had a bad meal from it. Only jays who had tasted a monarch refused the viceroy.",
      "outcome": 5
     },
@@ -2396,12 +2396,12 @@
      "t": "mcq",
      "p": "Factory smoke blackened the tree trunks. Why did pale peppered moths become rare?",
      "opts": [
-      "Birds found them easily on dark bark",
       "The smoke poisoned them",
       "Each moth turned dark in the soot",
-      "They flew away to the cities"
+      "They flew away to the cities",
+      "Birds found them easily on dark bark"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Pale wings no longer matched the trunks, so birds ate most pale moths. Dark moths were born dark. No moth changed colour in her own lifetime.",
      "outcome": 7
     },
@@ -2572,12 +2572,12 @@
    "t": "mcq",
    "p": "Which of these is an adaptation?",
    "opts": [
-    "A cactus's waxy skin",
     "A dog learning to sit",
     "A puddle drying up",
-    "A scar on a knee"
+    "A scar on a knee",
+    "A cactus's waxy skin"
    ],
-   "a": 0,
+   "a": 3,
    "why": "An adaptation is inherited and helps a living thing survive in their place. Learning to sit is learned, and a scar is not passed on to young.",
    "outcome": 0
   },
@@ -2585,12 +2585,12 @@
    "t": "mcq",
    "p": "Which of these is a physiological adaptation?",
    "opts": [
-    "A cactus opening her skin holes at night",
     "A tiger's claws",
     "Deer living in herds",
-    "A stick insect's shape"
+    "A stick insect's shape",
+    "A cactus opening her skin holes at night"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A physiological adaptation is a way the body works inside. Claws and shape are structural, and living in herds is behavioural.",
    "outcome": 0
   },
@@ -2624,12 +2624,12 @@
    "t": "mcq",
    "p": "Why do many prey animals have eyes on the sides of the head?",
    "opts": [
-    "To see almost all the way round",
     "To judge distance exactly",
+    "To see almost all the way round",
     "To see more colours",
     "To see in the dark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Side-facing eyes give a wide field of view, so a hunter is noticed from almost any direction. Judging distance exactly needs two eyes on the same thing, as a hunter has.",
    "outcome": 3
   },
@@ -2637,12 +2637,12 @@
    "t": "mcq",
    "p": "What does living in a herd give each deer?",
    "opts": [
-    "A smaller share of the risk",
     "Sharper teeth",
     "Better camouflage",
+    "A smaller share of the risk",
     "A warmer coat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A hunter takes one animal, and in a herd each deer is one among many. Many eyes also notice the hunter sooner.",
    "outcome": 3
   },
@@ -2650,12 +2650,12 @@
    "t": "mcq",
    "p": "A tiger's stripes break up her outline. What is this kind of camouflage called?",
    "opts": [
-    "A disruptive pattern",
     "Masquerade",
+    "A disruptive pattern",
     "Mimicry",
     "Warning colours"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A disruptive pattern cuts the body's shape into pieces, so the watcher does not see one animal. Masquerade is looking like some other thing, such as a twig.",
    "outcome": 4
   },
@@ -2676,12 +2676,12 @@
    "t": "mcq",
    "p": "When is a harmless mimic safest?",
    "opts": [
-    "When harmful models are common",
     "When mimics outnumber models",
+    "When harmful models are common",
     "When there are no models",
     "When hunters forget quickly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hunters avoid a pattern that usually gives a bad meal. If mimics outnumber models, or the models vanish, hunters learn that the pattern is safe to eat.",
    "outcome": 5
   },
@@ -2689,12 +2689,12 @@
    "t": "mcq",
    "p": "In a fair test of paper tree shapes, what should be the only thing that changes?",
    "opts": [
-    "The slope of the tree",
     "The amount of rava",
+    "The slope of the tree",
     "The kind of paper",
     "The height of pouring"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes one thing and keeps the rest the same. Then any difference in the result must come from the slope.",
    "how": "e1",
    "outcome": 6
@@ -2703,12 +2703,12 @@
    "t": "mcq",
    "p": "Why do great Indian bustards die on power lines?",
    "opts": [
-    "They see poorly straight ahead in flight",
     "They like to sit on wires",
     "The wires are warm",
-    "They fly only at night"
+    "They fly only at night",
+    "They see poorly straight ahead in flight"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Their eyes are on the sides of the head, which suits watching for foxes and eagles. Wires straight ahead are a new danger that those eyes do not show in time.",
    "outcome": 7
   }

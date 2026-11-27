@@ -2397,12 +2397,12 @@
      "t": "mcq",
      "p": "Which of these uses sunlight directly, with no machine?",
      "opts": [
-      "Drying vadam on a terrace",
       "A ceiling fan",
       "A gas stove",
-      "A mixer"
+      "A mixer",
+      "Drying vadam on a terrace"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Drying lets the Sun's energy send the water away as vapour, with no machine. A fan and a mixer use electricity, and a stove burns gas. If you chose one of those, look for the job that needs only open sky.",
      "outcome": 0
     },
@@ -2607,12 +2607,12 @@
      "t": "mcq",
      "p": "A bucket fills while its drain is open, and the level stops rising. What does this match in a sunlit tumbler?",
      "opts": [
-      "Heat leaves as fast as it comes in",
       "The Sun stops shining",
       "The water is full of heat",
+      "Heat leaves as fast as it comes in",
       "The black turns white"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The level stops when water leaves as fast as it enters. A tumbler's temperature stops when heat leaves as fast as sunlight brings it in.",
      "outcome": 2
     },
@@ -2636,12 +2636,12 @@
      "t": "mcq",
      "p": "You lift the lid of a hot box for ten seconds and the temperature drops at once. What left?",
      "opts": [
-      "Warm air",
       "Light",
       "Black paper",
+      "Warm air",
       "Foil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The warm air carried its heat away. This is why the cover's main job is holding the warm air in.",
      "outcome": 2
     },
@@ -2739,12 +2739,12 @@
      "t": "mcq",
      "p": "A solar street lamp lights up at night. Where does the night's energy come from?",
      "opts": [
-      "The day's sunlight, stored in a battery",
       "Moonlight",
       "The lamp's own heat",
-      "The air"
+      "The air",
+      "The day's sunlight, stored in a battery"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The panel works by day and fills a battery. The battery lights the lamp after dark.",
      "outcome": 5
     },
@@ -2788,12 +2788,12 @@
      "t": "mcq",
      "p": "A solar cell is dark blue or black. What does the colour tell you?",
      "opts": [
-      "It absorbs light and reflects little",
       "It makes heat",
       "It stores electricity",
+      "It absorbs light and reflects little",
       "It needs shade"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A dark surface absorbs most light. A solar cell needs to absorb light so photons can free its electrons.",
      "outcome": 4
     },
@@ -2825,12 +2825,12 @@
      "t": "mcq",
      "p": "A panel turns 20 of every 100 parts of sunlight into electricity. Where do most of the other 80 parts go?",
      "opts": [
-      "Mostly into heat in the panel, and some is reflected",
       "They vanish",
+      "Mostly into heat in the panel, and some is reflected",
       "They wait for the night",
       "They become more electrons"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Energy is not lost. It turns into heat, or the light bounces away. Thinking the rest vanishes forgets that the total stays the same.",
      "outcome": 4
     },
@@ -2854,12 +2854,12 @@
      "t": "mcq",
      "p": "Which sentence is the most accurate?",
      "opts": [
-      "The cooker holds the Sun's heat and slows its leaving",
       "The cooker makes heat",
       "The cooker makes the Sun hotter",
+      "The cooker holds the Sun's heat and slows its leaving",
       "The foil creates light"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cooker adds no energy. It lets sunlight in and slows the heat's leaving, so the heat builds up.",
      "outcome": 2
     },
@@ -2887,12 +2887,12 @@
      "t": "mcq",
      "p": "Without gases in the air, Earth's average would be about 18 degrees below zero. What does this share with the Sun Box?",
      "opts": [
-      "Both slow the leaving of heat",
       "Both make heat",
       "Both have glass",
+      "Both slow the leaving of heat",
       "Both use foil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gases such as water vapour and carbon dioxide absorb some of the infrared that leaves the Earth, and so slow its leaving. The box does the same with its cover.",
      "outcome": 2
     },
@@ -2933,12 +2933,12 @@
      "t": "mcq",
      "p": "A family cooks at 8 in the evening. Their cooker works at noon. Which change helps most?",
      "opts": [
-      "Keep the cooked food hot in a packed, insulated container",
       "Paint the box white",
       "Take off the lid",
-      "Use a smaller mirror"
+      "Use a smaller mirror",
+      "Keep the cooked food hot in a packed, insulated container"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Packed straw or cloth slows the heat's leaving for hours. The other changes bring less light in or let heat out.",
      "outcome": 5
     },
@@ -3044,11 +3044,11 @@
    "t": "mcq",
    "p": "A black scooter seat is too hot to sit on, though nothing touched it. What made it hot?",
    "opts": [
-    "Sunlight that the seat absorbed turned into heat",
     "The seat made its own heat",
+    "Sunlight that the seat absorbed turned into heat",
     "Hot air from under the seat rose into it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light that a dark surface absorbs turns into heat in that surface. The seat has no flame or wire and makes no energy of its own.",
    "outcome": 0
   },
@@ -3057,10 +3057,10 @@
    "p": "A friend colours the inside of a box cooker white. What happens to the heat inside?",
    "opts": [
     "It rises, because white is bright",
-    "It is lower, because white sends light away",
-    "It stays the same"
+    "It stays the same",
+    "It is lower, because white sends light away"
    ],
-   "a": 1,
+   "a": 2,
    "why": "White reflects much of the light, so less is absorbed and less turns into heat. Black is the colour that absorbs.",
    "outcome": 1
   },
@@ -3082,11 +3082,11 @@
    "p": "In the Sun Box test, the box adds no heat. Why is its water hotter?",
    "opts": [
     "The box makes extra heat",
-    "Heat leaves the water in the box more slowly",
     "More air reaches the box water",
+    "Heat leaves the water in the box more slowly",
     "The foil adds heat"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The box slows the heat's leaving. Both tumblers get the same sunlight, but the box tumbler loses heat more slowly. Foil sends light in and makes no heat.",
    "outcome": 2,
    "how": "e1"
@@ -3096,11 +3096,11 @@
    "p": "A black tumbler in open sun stops at 45 degrees Celsius while the Sun still shines. Why?",
    "opts": [
     "Sunlight has stopped arriving",
-    "Heat leaves as fast as sunlight brings it in",
     "Black stops absorbing when warm",
+    "Heat leaves as fast as sunlight brings it in",
     "The water is full of heat"
    ],
-   "a": 1,
+   "a": 2,
    "why": "As the tumbler warms, it loses heat faster. At 45 degrees the heat leaving equals the heat arriving, so the temperature stays steady.",
    "outcome": 2
   },
@@ -3108,11 +3108,11 @@
    "t": "mcq",
    "p": "You want to test only the clear cover. Which test is fair?",
    "opts": [
-    "Two matching boxes side by side, one with a cover and one without",
     "One box with a cover on Monday and without on Tuesday",
+    "Two matching boxes side by side, one with a cover and one without",
     "A large box with a cover against a small box without"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes one thing and keeps the Sun the same. Different days or different boxes change more than one thing.",
    "outcome": 2
   },
@@ -3133,12 +3133,12 @@
    "t": "mcq",
    "p": "Many solar heater tubes have two glass walls with no air between them. What does this do?",
    "opts": [
-    "Slows heat leaking out, like a flask",
     "Lets in more light",
     "Makes the water flow faster",
-    "Keeps the tubes cool"
+    "Keeps the tubes cool",
+    "Slows heat leaking out, like a flask"
    ],
-   "a": 0,
+   "a": 3,
    "why": "With no air between the walls, very little heat can pass through. The water stays hot. The tubes are made to hold heat, not to cool.",
    "outcome": 3
   },
@@ -3146,12 +3146,12 @@
    "t": "mcq",
    "p": "A rooftop panel gives less electricity on a hot afternoon than on a cold clear day. Why?",
    "opts": [
-    "Hot silicon pushes its electrons less strongly",
     "A hot day has less sunlight",
+    "Hot silicon pushes its electrons less strongly",
     "Cold air has more photons",
     "Panels need heat to start"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A solar cell uses light, not heat. Warm silicon gives a smaller push to the freed electrons, so the panel gives less electricity.",
    "outcome": 4
   },
@@ -3161,10 +3161,10 @@
    "opts": [
     "A solar cell heats water to make electricity",
     "A solar cooker turns light into electricity",
-    "A solar cell turns light into electricity without heating anything first",
-    "Both a cooker and a cell need a mirror"
+    "Both a cooker and a cell need a mirror",
+    "A solar cell turns light into electricity without heating anything first"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A solar cell frees electrons with light and needs no heating step. A cooker turns light into heat. Neither needs a mirror, though a flap helps a cooker.",
    "outcome": 4
   },
@@ -3186,11 +3186,11 @@
    "p": "Which question about energy has no agreed answer yet?",
    "opts": [
     "How many watts fall on a square metre at noon?",
-    "What energy finally is",
     "Whether sunlight crosses empty space",
-    "Whether black paper absorbs light"
+    "Whether black paper absorbs light",
+    "What energy finally is"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Physicists calculate energy and trust the sums. They have no final answer to what it is. The other questions have been measured.",
    "outcome": 5
   }

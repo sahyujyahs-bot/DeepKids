@@ -612,10 +612,10 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: 4 minutes / 15 minutes / 1 minute  
    **Answer:** 4 minutes. *Why:* 24 hours is 1,440 minutes. 1,440 divided by 360 is 4. So the Earth turns 1 degree every 4 minutes.
 2. (mcq) Seen from above the North Pole, which way does the Earth spin?  
-   Options: Anticlockwise, from west to east / Clockwise, from east to west / It does not spin, and the Sun goes round it  
+   Options: Clockwise, from east to west / It does not spin, and the Sun goes round it / Anticlockwise, from west to east  
    **Answer:** Anticlockwise, from west to east. *Why:* The Earth turns from west to east. That is why the Sun seems to rise in the east and why places in the east see the Sun first.
 3. (mcq) City A is 5 degrees of longitude west of city B. When is the Sun at its highest in A, compared with B?  
-   Options: About 20 minutes later / About 20 minutes earlier / At the same time  
+   Options: About 20 minutes earlier / About 20 minutes later / At the same time  
    **Answer:** About 20 minutes later. *Why:* 5 degrees times 4 minutes is 20 minutes. A is to the west, so the Sun reaches it later.
 4. (truefalse) At 12 o'clock on the clock, the Sun is at its highest in every city in India.  
    **Answer:** False. *Why:* False. Everyone uses one clock, but the Sun is highest about 4 minutes later for every degree you go west. In Guwahati it is about 37 minutes before 12 and in Mumbai about 38 minutes after.
@@ -628,12 +628,12 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 8. (order) Put these cities in the order in which the Sun rises over them, first to last: Mumbai, Dong, Chennai, Guwahati.  
    **Answer:** ['Dong', 'Guwahati', 'Chennai', 'Mumbai']. *Why:* The Earth spins from west to east, so the Sun reaches the places in the east first. Dong is furthest east, then Guwahati, then Chennai, and Mumbai is furthest west.
 9. (mcq) A circle drawn on a spinning ball is shorter near the pole than at the equator. Why does that make a spot near the pole move more slowly?  
-   Options: It goes round a shorter path in the same time / It is further from the Sun / It is colder there  
+   Options: It is further from the Sun / It goes round a shorter path in the same time / It is colder there  
    **Answer:** It goes round a shorter path in the same time. *Why:* Every spot goes round once in 24 hours. A shorter path in the same time means a slower speed.
 10. (truefalse) A person standing at the North Pole is carried round at about 1,670 kilometres an hour.  
    **Answer:** False. *Why:* False. A person at the pole only turns on the spot. The speed of about 1,670 kilometres an hour belongs to the equator.
 11. (mcq) Why can we not feel the Earth spinning?  
-   Options: It turns smoothly and steadily, and we are carried along with everything around us / It is too slow to be real / We feel it, but we get used to it  
+   Options: It is too slow to be real / We feel it, but we get used to it / It turns smoothly and steadily, and we are carried along with everything around us  
    **Answer:** It turns smoothly and steadily, and we are carried along with everything around us. *Why:* A smooth, steady motion cannot be felt. We feel bumps, starts and stops, like in a train. Everything around us is carried along too.
 12. (fill) The Earth is a little wider across the ____ than from pole to pole, because it spins.  
    **Answer:** ['equator']. *Why:* The spin flings the Earth outward a little around its middle. The difference is about 43 kilometres.
@@ -651,7 +651,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    **Answer:** ['7', 'seven']. *Why:* About seven parts in ten of the surface are sea, which is nearly three-quarters. The rest is land.
 ### Why the Day Is 24 Hours (stretch) (stretch, 19 questions)
 1. (mcq) Two cities are on almost the same line of longitude, but one is much further north. When is the Sun highest in each?  
-   Options: At almost the same clock time / Much earlier in the northern city / Much later in the northern city  
+   Options: Much earlier in the northern city / Much later in the northern city / At almost the same clock time  
    **Answer:** At almost the same clock time. *Why:* Noon depends on longitude only. Cities on the same line of longitude have their Sun at its highest at the same time, however far north or south they are.
 2. (mcq) The gaps between sunrise times of different cities are untidy, but the gaps between noons are neat. Why?  
    Options: Sunrise also depends on how far north a city is and on the season, but noon depends only on longitude / Noon is easier to measure / Sunrise depends on the clock but noon does not  
@@ -659,7 +659,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 3. (truefalse) The Earth spins once in exactly 24 hours.  
    **Answer:** False. *Why:* False. One spin takes 23 hours 56 minutes. The day from one noon to the next is 24 hours, because the Earth also moves round the Sun.
 4. (mcq) Why does a bright star rise about 4 minutes earlier each night?  
-   Options: The star is back after one spin, which is 4 minutes before the Sun is back / The star moves closer to us each night / Our clocks run slow  
+   Options: The star moves closer to us each night / Our clocks run slow / The star is back after one spin, which is 4 minutes before the Sun is back  
    **Answer:** The star is back after one spin, which is 4 minutes before the Sun is back. *Why:* A star returns after one spin of 23 hours 56 minutes. The clock day is 24 hours. So each night the star rises 4 minutes earlier by the clock.
 5. (fill) One full spin of the Earth, compared with the stars, takes 23 hours and ____ minutes.  
    **Answer:** ['56', 'fifty-six', 'fifty six']. *Why:* One spin takes 23 hours 56 minutes. The extra 4 minutes to make a 24-hour day come from the Earth moving round the Sun.
@@ -672,13 +672,13 @@ From then on, she woke at five every day, and we sat at the window and waited fo
 9. (odd) Which one is the odd one out, and why? Earth, Mars, Jupiter, Venus. Think about the length of each planet's day compared with its year.  
    **Answer:** Venus. Its day (243 Earth days) is longer than its year (225 Earth days). For the other three, a day is much shorter than a year.. *Why:* Venus spins so slowly that one spin takes longer than one trip round the Sun. This is true of no other planet in this list.
 10. (mcq) What is slowing the Earth's spin?  
-   Options: The Moon's pull on the oceans, which makes tides that rub on the sea floor / The Earth is running out of energy from the Sun / The wind blowing against the ground  
+   Options: The Earth is running out of energy from the Sun / The wind blowing against the ground / The Moon's pull on the oceans, which makes tides that rub on the sea floor  
    **Answer:** The Moon's pull on the oceans, which makes tides that rub on the sea floor. *Why:* The tides raised by the Moon move over the sea floor and rub like a gentle brake. The Earth loses spin energy, and the Moon gains some and moves slowly away.
 11. (mcq) Fossil corals that lived about 400 million years ago show about 400 daily growth lines in each year. What does this suggest?  
-   Options: A year had about 400 days, so each day was shorter than today's / The year was longer than it is today / Corals grow faster than they used to  
+   Options: The year was longer than it is today / Corals grow faster than they used to / A year had about 400 days, so each day was shorter than today's  
    **Answer:** A year had about 400 days, so each day was shorter than today's. *Why:* The length of a year has stayed about the same. If a year had about 400 days, each day was about 22 hours long.
 12. (mcq) A barn owl finds a mouse in the dark mainly by her ears. What helps her work out where the sound is coming from?  
-   Options: Her ears sit at different heights, so the sound reaches them at slightly different times / She has one very large ear / She hears best when she closes her eyes  
+   Options: She has one very large ear / Her ears sit at different heights, so the sound reaches them at slightly different times / She hears best when she closes her eyes  
    **Answer:** Her ears sit at different heights, so the sound reaches them at slightly different times. *Why:* Her left and right ears hear the rustle at slightly different moments and at slightly different loudness. Her brain uses the difference to find the direction and the height.
 13. (truefalse) Streetlights on a beach can lead baby turtles away from the sea.  
    **Answer:** True. *Why:* True. Hatchlings crawl towards the brightest, lowest horizon, which on a dark natural beach is the open sea. Streetlights can fool them.
@@ -705,10 +705,10 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: It matches the Sun at 82.5 degrees east, and 82.5 divided by 15 is 5.5 / It was chosen because it is easy to remember / India is 5.5 hours from the Sun  
    **Answer:** It matches the Sun at 82.5 degrees east, and 82.5 divided by 15 is 5.5. *Why:* The Earth turns 15 degrees every hour. 82.5 degrees east is 5.5 hours of turning ahead of Greenwich, so the Sun reaches it 5 hours 30 minutes earlier.
 5. (mcq) A jet flies west near 60 degrees north at about 835 kilometres an hour. That is the same speed as the ground there is carried east by the spin. What would the passengers see the Sun do?  
-   Options: It would stay at nearly the same height for a long time / The Sun would set faster than on the ground / The Sun would rise in the west  
+   Options: The Sun would set faster than on the ground / It would stay at nearly the same height for a long time / The Sun would rise in the west  
    **Answer:** It would stay at nearly the same height for a long time. *Why:* The plane moves west as fast as the ground is carried east. So it stays under the same part of the sky, and the Sun hardly moves.
 6. (mcq) Which statement about Venus is true?  
-   Options: One spin takes longer than one trip round the Sun, and it spins backwards / It spins faster than any other planet / It has a day of exactly 24 hours  
+   Options: It spins faster than any other planet / One spin takes longer than one trip round the Sun, and it spins backwards / It has a day of exactly 24 hours  
    **Answer:** One spin takes longer than one trip round the Sun, and it spins backwards. *Why:* Venus spins once in 243 Earth days and goes round the Sun in 225 Earth days. It also spins the opposite way, so the Sun would rise in the west.
 7. (truefalse) Fossil corals show that the Earth's days were longer 400 million years ago than they are today.  
    **Answer:** False. *Why:* False. Corals with about 400 daily lines in a year show that a year had about 400 days, so each day was shorter, about 22 hours.
@@ -752,22 +752,22 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: It is an agreement that makes timetables and communication simple / The Sun is highest at the same time everywhere / The Earth stops spinning at the borders  
    **Answer:** It is an agreement that makes timetables and communication simple. *Why:* Indian Standard Time is set by the Sun at 82.5 degrees east and used for the whole country. The Sun's own time is different in each place.
 5. (mcq) One spin of the Earth takes 23 hours 56 minutes, but a day is 24 hours. Why the 4 extra minutes?  
-   Options: The Earth also moves round the Sun, so it must turn a little more to face the Sun again / The Earth slows down at night / Clocks are set wrongly  
+   Options: The Earth slows down at night / Clocks are set wrongly / The Earth also moves round the Sun, so it must turn a little more to face the Sun again  
    **Answer:** The Earth also moves round the Sun, so it must turn a little more to face the Sun again. *Why:* After one spin the Earth has moved about 1 degree round the Sun. It needs about 1 degree more of turning, which takes about 4 minutes.
 6. (mcq) What is the main reason the Earth's days are slowly getting longer?  
-   Options: Tides raised by the Moon act as a gentle brake / The wind blows against the spin / The Sun's heat slows the Earth  
+   Options: The wind blows against the spin / The Sun's heat slows the Earth / Tides raised by the Moon act as a gentle brake  
    **Answer:** Tides raised by the Moon act as a gentle brake. *Why:* As the tides move over the sea floor, they rub and take energy from the Earth's spin.
 7. (mcq) A day on Jupiter lasts about 10 Earth hours. About how many Jupiter days fit into one Earth day of 24 hours?  
-   Options: A little more than 2 / A little more than 1 / About 10  
+   Options: A little more than 1 / About 10 / A little more than 2  
    **Answer:** A little more than 2. *Why:* 24 divided by 10 is 2.4. So Jupiter turns a little more than 2 times in an Earth day.
 8. (mcq) Why can streetlights on a beach harm baby turtles?  
-   Options: They crawl towards the brightest horizon, and a streetlight can be brighter than the sea / They are scared of the light / The light is too warm for them  
+   Options: They are scared of the light / They crawl towards the brightest horizon, and a streetlight can be brighter than the sea / The light is too warm for them  
    **Answer:** They crawl towards the brightest horizon, and a streetlight can be brighter than the sea. *Why:* Hatchlings use the bright, low horizon to find the sea. A road light can fool them into walking the wrong way.
 9. (mcq) Which night animal finds prey mainly by sensing warmth?  
-   Options: An Indian rock python / A barn owl / A bat  
+   Options: A barn owl / A bat / An Indian rock python  
    **Answer:** An Indian rock python. *Why:* A python has heat-sensing pits on her lips. An owl and a bat find prey mainly by hearing.
 10. (mcq) At 12 noon on the clock, which statement about Guwahati and Mumbai is true?  
-   Options: The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai / The Sun is at its highest in both / The Sun is at its highest in Mumbai before Guwahati  
+   Options: The Sun is at its highest in both / The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai / The Sun is at its highest in Mumbai before Guwahati  
    **Answer:** The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai. *Why:* Guwahati is in the east, so its noon comes earlier, about 11:23. Mumbai's noon comes later, about 12:38.
 11. (truefalse) The Earth is a little wider across the equator than from pole to pole, because it spins.  
    **Answer:** True. *Why:* True. The spin makes the Earth bulge at its middle. The difference is about 43 kilometres.
@@ -781,10 +781,10 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: One year / One day / One night / One hour  
    **Answer:** One year. *Why:* The Earth goes once round the Sun in about a year. The spin on the spot is the day. The trip round the Sun is the year.
 15. (mcq) It is noon in India. Which place on the globe is most likely to be in the middle of the night?  
-   Options: New York in the USA / Colombo in Sri Lanka / Dhaka in Bangladesh / Kathmandu in Nepal  
+   Options: Colombo in Sri Lanka / Dhaka in Bangladesh / New York in the USA / Kathmandu in Nepal  
    **Answer:** New York in the USA. *Why:* New York is on the far side of the Earth from India, in the dark half. Colombo, Dhaka and Kathmandu are close to India and are in daylight at the same time.
 16. (mcq) Look at a globe. About how much of the Earth's surface is sea?  
-   Options: Nearly three-quarters / About half / About half of half of it / Almost all of it  
+   Options: About half / Nearly three-quarters / About half of half of it / Almost all of it  
    **Answer:** Nearly three-quarters. *Why:* Seven parts in every ten of the surface are sea, which is nearly three-quarters. Land is a little under one-third. So the globe looks mostly blue.
 
 ## Applications

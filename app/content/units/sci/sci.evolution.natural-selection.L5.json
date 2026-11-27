@@ -616,11 +616,11 @@
       "t": "mcq",
       "q": "A chital deer has eyes at the sides of the head. A tiger's eyes face forward. Why are they different?",
       "options": [
-       "Deer must see all around, tigers must judge distance",
        "Deer eyes are weaker than tiger eyes",
-       "The tiger hunts only at night"
+       "The tiger hunts only at night",
+       "Deer must see all around, tigers must judge distance"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Side eyes give a view almost all the way round, which helps prey notice danger. Forward eyes give two views of the same thing, which helps a predator judge how far to leap. If you chose 'weaker eyes', remember that both see well. They are placed for different jobs."
      },
      "context": "This is the last step of Feature and Problem. Here you sort the adaptation cards by the kind of problem they solve."
@@ -867,11 +867,11 @@
       "t": "mcq",
       "q": "In the Bean Generations Test, each surviving bean gets one young bean of the same colour. What does this stand for?",
       "options": [
-       "Young inherit features from their parents",
        "Animals choose their colour",
+       "Young inherit features from their parents",
        "The cloth paints the beans"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Colour is an inherited feature, so a dark parent has dark young. Only the survivors become parents. If you chose 'animals choose their colour', look at the beans: every one kept the colour they started with."
      },
      "parent": "The beans caught are 'eaten' and go back to the spare bowls. Check that the new generation adds up to 30.",
@@ -1255,11 +1255,11 @@
       "t": "mcq",
       "q": "In One New Bean, the single dark bean stands for a mutation. When does a real mutation appear?",
       "options": [
-       "By chance, when DNA is copied",
        "When the population needs it",
-       "When a predator arrives"
+       "When a predator arrives",
+       "By chance, when DNA is copied"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A mutation is a chance copying mistake in DNA. It is already there before it turns out to be useful. If you chose 'when the population needs it', remember this. The dark bean was on the cloth before the first hunt."
      },
      "parent": "This shows two things. Selection can spread one new variation through a whole group in a few generations. And chance matters most when a variation is rare.",
@@ -1506,11 +1506,11 @@
       "t": "mcq",
       "q": "Which finding is the strongest evidence that mitochondria were once free bacteria?",
       "options": [
-       "Their DNA matches the DNA of living bacteria",
        "They are very small",
+       "Their DNA matches the DNA of living bacteria",
        "They are found inside cells"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Many things are small and sit inside cells. Only a former bacterium would carry DNA that matches bacteria living today. If you chose 'very small', think of other small parts of a cell that have no DNA of their own."
      },
      "parent": "The bacterium gained food and shelter. The larger cell gained a partner who releases far more energy from food by using oxygen. Chloroplasts were once bacteria that could photosynthesise. Margulis's paper of 1967 was doubted for years, until DNA settled the question.",
@@ -1697,11 +1697,11 @@
       "t": "mcq",
       "q": "A beak that can eat many kinds of food is usually a little worse at each one. What is this called?",
       "options": [
-       "A trade-off",
        "A mutation",
-       "A mistake"
+       "A mistake",
+       "A trade-off"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A trade-off means gaining one thing by giving up some of another. A crow's all-purpose beak can handle seeds, fruit, insects and scraps, but cracks seeds less well than a parrot's. If you chose 'a mistake', remember that a beak for many foods is very useful when food keeps changing."
      },
      "parent": "Most two-year beaks reach 10 on both plates. But they fall short of the tweezers' rice count and the tongs' groundnut count. A beak for all foods suits a place where food changes often.",
@@ -1849,12 +1849,12 @@
      "t": "mcq",
      "p": "A tiger's eyes both face forward. What does this help the tiger do?",
      "opts": [
-      "Judge the distance to prey",
       "See behind without turning",
       "See through tall grass",
-      "Keep dust out"
+      "Keep dust out",
+      "Judge the distance to prey"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Two eyes facing the same way see one thing from two angles, and the brain uses this to judge distance. Choosing 'see behind' describes eyes at the sides, as prey have."
     },
     {
@@ -1944,12 +1944,12 @@
      "t": "mcq",
      "p": "Where do brand-new variations come from?",
      "opts": [
-      "Chance copying mistakes in DNA",
       "What the living being wishes for",
       "Hard practice",
+      "Chance copying mistakes in DNA",
       "The food the parents ate"
      ],
-     "a": 0,
+     "a": 2,
      "why": "New variations begin as mutations, which are chance mistakes when DNA is copied. Choosing 'hard practice' is the old idea of Lamarck, which tests have shown to be wrong."
     },
     {
@@ -1994,12 +1994,12 @@
      "t": "mcq",
      "p": "A horse and a donkey can have a mule. A mule cannot have young. What does this tell us?",
      "opts": [
-      "Horses and donkeys are separate species",
       "Horses and donkeys are one species",
+      "Horses and donkeys are separate species",
       "Mules are a new species",
       "A donkey is a young horse"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Members of one species can have young who also have young. A mule cannot, so the two parents belong to separate species. A mule is not a species, because mules cannot breed."
     },
     {
@@ -2042,12 +2042,12 @@
      "t": "mcq",
      "p": "Look at the table. What fraction of the beans on the dark cloth was dark in generation 2?",
      "opts": [
-      "Two thirds",
       "One half",
       "One third",
-      "One fifth"
+      "One fifth",
+      "Two thirds"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In generation 2 there were 20 dark beans out of 30. 20 ÷ 30 = two thirds. Choosing one half is the fraction at the start.",
      "how": "e1",
      "chart": {
@@ -2235,12 +2235,12 @@
      "t": "mcq",
      "p": "Mosquitoes adapt to a new poison in a few years. Elephants could not. What is the main reason?",
      "opts": [
-      "Mosquitoes have a new generation every few weeks",
       "Mosquitoes are cleverer",
+      "Mosquitoes have a new generation every few weeks",
       "Elephants do not vary",
       "Poison is weaker on small animals"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Selection works generation by generation. A mosquito generation takes weeks and an elephant generation takes about 20 years. Elephants do vary, so 'do not vary' is wrong."
     },
     {
@@ -2290,12 +2290,12 @@
      "t": "mcq",
      "p": "A helpful mutation appears in one animal. Is the mutation certain to spread through the population?",
      "opts": [
-      "No, bad luck may kill that animal",
       "Yes, always",
       "Only if the animal wants that",
+      "No, bad luck may kill that animal",
       "Only in plants"
      ],
-     "a": 0,
+     "a": 2,
      "why": "While a variation is rare, chance matters a great deal. The one animal who carries the mutation may be eaten before having young, as the single dark bean sometimes is.",
      "how": "a2"
     },
@@ -2337,12 +2337,12 @@
      "t": "mcq",
      "p": "A weed in rice fields looks almost exactly like young rice. Farmers weed by hand. Why did this look spread?",
      "opts": [
-      "Farmers pulled out the weeds that looked different",
       "The weed wanted to hide",
       "Rice plants taught the weed",
-      "Water changed the weed's shape"
+      "Water changed the weed's shape",
+      "Farmers pulled out the weeds that looked different"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Weeds that looked unlike rice were seen and pulled out. Weeds that happened to look like rice survived and set seed. The farmers' hands did the selecting, without meaning to."
     },
     {
@@ -2360,12 +2360,12 @@
    "t": "mcq",
    "p": "Which list gives the things natural selection needs?",
    "opts": [
-    "Variation, inheritance and more young than can survive",
     "Strength, speed and size",
     "Sunlight, water and soil",
-    "Wanting, trying and learning"
+    "Wanting, trying and learning",
+    "Variation, inheritance and more young than can survive"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Selection needs differences that are inherited, and more young than the place can support. Choosing 'wanting, trying and learning' is the old idea that effort changes what is inherited.",
    "outcome": 0
   },
@@ -2412,12 +2412,12 @@
    "t": "mcq",
    "p": "A chital deer has eyes at the sides of the head. What is the main gain?",
    "opts": [
-    "Seeing danger from almost all around",
     "Judging the distance for a leap onto prey",
+    "Seeing danger from almost all around",
     "Seeing in the dark",
     "Keeping out sand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Side eyes give prey a very wide view. Forward eyes, which judge distance, are found in predators such as tigers and owls.",
    "outcome": 2
   },
@@ -2425,12 +2425,12 @@
    "t": "mcq",
    "p": "Over many generations, deer become faster. What is likely to happen to the tigers who hunt them?",
    "opts": [
-    "Faster or stealthier tigers leave more young",
     "Tigers stay the same for ever",
     "Tigers choose to eat grass",
+    "Faster or stealthier tigers leave more young",
     "Each tiger trains her legs for her cubs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the tigers who can still catch deer eat well and raise cubs. So the prey select the predator, as the predator selects the prey. This is coevolution.",
    "outcome": 2
   },
@@ -2438,12 +2438,12 @@
    "t": "mcq",
    "p": "When does a helpful mutation first appear?",
    "opts": [
-    "By chance, before being useful",
     "As soon as the place changes",
     "When the animal tries hard",
+    "By chance, before being useful",
     "When parents teach their young"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mutation is a chance copying mistake. It is already present when conditions change, and selection then spreads it.",
    "outcome": 3
   },
@@ -2451,12 +2451,12 @@
    "t": "mcq",
    "p": "What usually has to happen first for one species to split into two?",
    "opts": [
-    "Two groups are kept apart for long",
     "One animal changes shape",
+    "Two groups are kept apart for long",
     "Food runs out everywhere",
     "A predator eats every member"
    ],
-   "a": 0,
+   "a": 1,
    "why": "While groups can mix, they stay one species. A barrier lets each group change in their own way until they can no longer breed together.",
    "outcome": 4
   },
@@ -2464,12 +2464,12 @@
    "t": "mcq",
    "p": "Which fact supports the idea that mitochondria were once free bacteria?",
    "opts": [
-    "They have their own bacteria-like DNA",
     "They are found only in plants",
     "They are made of fat",
+    "They have their own bacteria-like DNA",
     "They are the biggest part of a cell"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Mitochondria carry a loop of DNA that matches living bacteria, and they multiply by splitting. They are found in animals, plants and fungi.",
    "outcome": 5
   },
@@ -2477,12 +2477,12 @@
    "t": "mcq",
    "p": "After one year of drought, the finches on an island had deeper beaks on average. Why?",
    "opts": [
-    "More deep-beaked birds survived and had chicks",
     "Each finch stretched their beak on hard seeds",
     "Dry air makes beaks swell",
-    "The birds wanted bigger beaks"
+    "The birds wanted bigger beaks",
+    "More deep-beaked birds survived and had chicks"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Birds with shallow beaks could not crack the hard seeds, and many starved. The survivors passed deeper beaks to their chicks. No bird's own beak grew.",
    "outcome": 6
   },
@@ -2490,12 +2490,12 @@
    "t": "mcq",
    "p": "In biology, what does 'fittest' mean in the phrase 'survival of the fittest'?",
    "opts": [
-    "Best suited to the place",
     "Strongest",
     "Fastest",
+    "Best suited to the place",
     "Biggest"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fit means fitting the place. A small beak is fittest in a wet year and a deep beak in a drought. Strength is only sometimes what suits a place.",
    "outcome": 0
   },

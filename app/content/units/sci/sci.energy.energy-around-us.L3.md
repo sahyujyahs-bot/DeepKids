@@ -462,7 +462,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 5. (fill) A coconut high on a tree has ____ energy. When it falls, this becomes movement energy.  
    **Answer:** ['stored']. *Why:* Lifting a thing up stores energy in it. Falling lets the energy out as movement.
 6. (mcq) A cricket ball is bowled fast, and the same ball is then rolled gently along the floor. Which has more movement energy?  
-   Options: The ball bowled fast / The ball rolled gently / Both have the same / Neither has any  
+   Options: The ball rolled gently / The ball bowled fast / Both have the same / Neither has any  
    **Answer:** The ball bowled fast. *Why:* The faster a thing moves, the more movement energy it has. The two balls are the same, so only the speed makes the difference.
 7. (write) In the Atta Crater Test, why did the marble from 80 cm make a louder thud than the marble from 20 cm?  
    **Answer:** It fell from higher, so it was moving faster when it landed. It had more movement energy, so more of its energy became sound.. *Why:* A strong answer links three things: the height, the speed when it landed, and the energy that became sound.
@@ -483,7 +483,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 14. (label) Label the drawing of a pressure cooker on a gas stove with these words: fuel, heat, steam pushes the whistle, sound.  
    **Answer:** fuel on the gas cylinder, heat at the flame, steam pushes the whistle at the top, sound beside the whistle.. *Why:* A strong answer follows the energy in order: from the fuel, to heat, to steam pushing the whistle up, to the sound.
 15. (mcq) Someone says, 'Electricity is a source of energy, like the Sun.' What is a better way to say it?  
-   Options: Electricity carries energy from a power station to our homes / Electricity is made inside the switch / Electricity is a kind of fuel we burn  
+   Options: Electricity is made inside the switch / Electricity is a kind of fuel we burn / Electricity carries energy from a power station to our homes  
    **Answer:** Electricity carries energy from a power station to our homes. *Why:* Electricity carries energy along wires. The energy came from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium.
 ### Energy on the Move (stretch) (stretch, 15 questions)
 1. (write) In the Atta Crater Test, we smoothed the atta and used the same marble every time. Why did that matter?  
@@ -507,7 +507,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 9. (perspective) Two cousins in Mysuru argue about a ball on a high shelf.  
    **Answer:** A strong answer sides with the first child: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives the second child his due: we only see energy when something happens, and nothing shows while the ball sits still.. *Why:* Scientists call the first child's idea stored energy, or potential energy. The second child is right that we notice energy only by what it does.
 10. (mcq) Two bulbs give the same light. One gets very hot and one stays only a little warm. Which one passes less energy on as heat?  
-   Options: The one that gets very hot / The one that stays only a little warm / Both pass on the same heat  
+   Options: The one that gets very hot / Both pass on the same heat / The one that stays only a little warm  
    **Answer:** The one that stays only a little warm. *Why:* Both make the same light, but the hot one also passes a lot of energy on as heat. The cooler one, usually an LED, turns more of its energy into light. So it needs less electricity for the same light.
 11. (write) A rock falls in the hills and starts a small landslide that knocks down many more rocks. Where did all that energy come from?  
    **Answer:** Each rock had stored energy from being high up on the hill. The first rock started the fall, but each rock brought its own stored energy as it fell.. *Why:* A strong answer sees that the first rock did not give all the energy. Like the falling book in the Chain Reaction Bell, every lifted thing brings its own stored energy.
@@ -526,7 +526,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 2. (perspective) In the 1700s, scientists in Europe argued for many years about what a moving ball carries.  
    **Answer:** The dents support du Châtelet: twice the speed gave four times the dent. But the other side was not simply wrong. Weight times speed is also a real quantity, which scientists now call momentum. It tells how hard a thing is to stop in a given time. Both sides were measuring something true, but different.. *Why:* This was a real argument. A strong answer uses the evidence for du Châtelet, and also sees that the Descartes side had found a different true quantity.
 3. (mcq) A marble is dropped from 20 cm. To make it land twice as fast, from what height should it be dropped?  
-   Options: 40 cm / 80 cm / 60 cm / 20 cm, but throw it  
+   Options: 40 cm / 60 cm / 80 cm / 20 cm, but throw it  
    **Answer:** 80 cm. *Why:* To land twice as fast, a falling thing must fall from four times the height. 4 times 20 cm is 80 cm. This is because energy grows with speed times speed. Twice the speed needs four times the energy, and four times the energy needs four times the height.
 4. (write) We say a cell is 'used up' when the torch stops working. Explain what really happened to its energy.  
    **Answer:** The energy was carried by electricity to the bulb. The bulb turned it into light and a little heat. The light landed on walls and turned into warmth. So the energy spread out into the room as a tiny bit of warmth. It is still there, but too spread out to use.. *Why:* A strong answer follows the energy step by step until it spreads out as warmth, and says why spread-out warmth is hard to use again.
@@ -550,7 +550,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 13. (sort) Sort these by whether the energy is stored or happening now.  
    **Answer:** a full gas cylinder → Stored energy; a cooker whistling → Energy happening now; a charged phone switched off → Stored energy; a coconut high on the tree → Stored energy; a marble falling → Energy happening now; a sunbeam on the floor → Energy happening now. *Why:* Stored energy waits until something lets it out. Moving, sounding, lighting and heating are energy happening now. A strong answer could say what would let each stored one out.
 14. (mcq) You run up four floors of stairs. At the top you feel hot and out of breath. Why do you feel hot?  
-   Options: The stairs were hot / Your muscles passed on energy from your food, and much of it came out as heat / Running makes cold air leave your body / The building's lift was off  
+   Options: The stairs were hot / Running makes cold air leave your body / Your muscles passed on energy from your food, and much of it came out as heat / The building's lift was off  
    **Answer:** Your muscles passed on energy from your food, and much of it came out as heat. *Why:* Your muscles used energy from your food to lift you up four floors. Much of that energy came out as heat, as it nearly always does when energy changes form. That is why you feel hot. Picking 'cold air leaves your body' mixes up heat and cold: heat is the energy that moves, not cold.
 15. (write) Plan a fair test to find out whether a heavier marble digs a wider crater in atta than a lighter one, dropped from the same height. What stays the same, and what changes?  
    **Answer:** Keep the height, the atta, the way of letting go and the smoothing the same. Change only the marble. Drop each marble three times and compare the average widths.. *Why:* A strong answer changes only one thing and says why the other things must stay the same.
@@ -562,43 +562,43 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 
 ## Quiz
 1. (mcq) What is energy?  
-   Options: What is needed to make things happen / A kind of food / Another word for electricity / A strong push  
+   Options: A kind of food / What is needed to make things happen / Another word for electricity / A strong push  
    **Answer:** What is needed to make things happen. *Why:* Energy is what is needed to make something move, light up, heat up or make a sound. Electricity and food carry energy, but they are not energy itself.
 2. (mcq) Which of these is NOT an example of energy at work?  
-   Options: A fan turning / A lamp shining / A drawing lying in a drawer / A bell ringing  
+   Options: A fan turning / A lamp shining / A bell ringing / A drawing lying in a drawer  
    **Answer:** A drawing lying in a drawer. *Why:* The drawing in the drawer is not moving, lighting up, heating up or making a sound. The others are all energy at work.
 3. (mcq) A mixie grinds chutney and hums. Which forms of energy come out of it?  
-   Options: Only movement / Movement, sound and a little heat / Only sound / Light and movement  
+   Options: Movement, sound and a little heat / Only movement / Only sound / Light and movement  
    **Answer:** Movement, sound and a little heat. *Why:* The blades move, the motor hums and the mixie gets a little warm. One machine often passes energy on in more than one form.
 4. (mcq) You are reading in bed with a torch. The torch's energy came from  
-   Options: the torch's bulb / the cells inside the torch / the light switch on the wall / your eyes  
+   Options: the cells inside the torch / the torch's bulb / the light switch on the wall / your eyes  
    **Answer:** the cells inside the torch. *Why:* The cells hold stored energy. The bulb changes it into light.
 5. (mcq) Where did the energy in a plate of rice and sambar first come from?  
-   Options: The stove / The Sun / The plate / The shop  
+   Options: The stove / The plate / The shop / The Sun  
    **Answer:** The Sun. *Why:* Rice and dal plants caught sunlight and stored its energy in their grains. The stove only heated the food.
 6. (mcq) Wind turbines at Muppandal turn in the wind. What makes the wind blow?  
-   Options: The turbines / The Sun warming some places more than others / The sea pushing the air / The Moon  
+   Options: The turbines / The sea pushing the air / The Moon / The Sun warming some places more than others  
    **Answer:** The Sun warming some places more than others. *Why:* The Sun warms the land and the sea by different amounts. Warm air rises and cooler air moves in. That moving air is the wind.
 7. (mcq) A marble is dropped into atta from 20 cm and then from 80 cm. Which change made the second crater wider?  
-   Options: The marble was heavier / The marble landed faster, with more energy / The atta was different / The marble was thrown  
+   Options: The marble was heavier / The atta was different / The marble landed faster, with more energy / The marble was thrown  
    **Answer:** The marble landed faster, with more energy. *Why:* In a fair test only the height changes. From higher up, the marble lands faster, with more movement energy, so it digs a wider crater.
 8. (mcq) In the Atta Crater Test, why do we drop the marble 3 times from each height?  
-   Options: To make the atta flatter / Because one try can be a fluke / To make the crater deeper / To tire the marble  
+   Options: Because one try can be a fluke / To make the atta flatter / To make the crater deeper / To tire the marble  
    **Answer:** Because one try can be a fluke. *Why:* Results change a little each time. Three tries show what usually happens.
 9. (mcq) Where did the energy of the falling marble come from?  
-   Options: From the atta / From the arm that lifted it up / From the ruler / From nowhere  
+   Options: From the atta / From the ruler / From the arm that lifted it up / From nowhere  
    **Answer:** From the arm that lifted it up. *Why:* Lifting the marble took energy from the arm. That energy was stored in the lifted marble and became movement as it fell.
 10. (mcq) A spinning top slows down and stops. What happened to its movement energy?  
-   Options: It was destroyed / It passed into the floor and the air as a little warmth / It went back into the hand / It stayed in the top  
+   Options: It was destroyed / It went back into the hand / It passed into the floor and the air as a little warmth / It stayed in the top  
    **Answer:** It passed into the floor and the air as a little warmth. *Why:* Energy is never destroyed. Rubbing on the floor and the air passed it on as a tiny bit of warmth.
 11. (mcq) Which sentence is true?  
-   Options: Energy can be made from nothing / Energy is never made or destroyed, only passed on / Energy is always destroyed in the end / Only living things have energy  
+   Options: Energy can be made from nothing / Energy is always destroyed in the end / Energy is never made or destroyed, only passed on / Only living things have energy  
    **Answer:** Energy is never made or destroyed, only passed on. *Why:* This is the conservation of energy. Every careful measurement agrees with it.
 12. (mcq) Willem 's Gravesande, a Dutch scientist, dropped brass balls into soft clay in 1722. A ball that landed twice as fast made a dent  
-   Options: half as deep / twice as deep / about four times as deep / the same depth  
+   Options: about four times as deep / half as deep / twice as deep / the same depth  
    **Answer:** about four times as deep. *Why:* Twice as fast gave about four times the dent. This showed that a moving thing's energy grows much faster than its speed.
 13. (mcq) A brass ball that lands twice as fast makes a dent about four times as deep in soft clay. What does this tell us?  
-   Options: A faster ball carries much more energy, not just twice as much / The clay was softer the second time / Speed does not change energy / Heavier balls always make smaller dents  
+   Options: The clay was softer the second time / A faster ball carries much more energy, not just twice as much / Speed does not change energy / Heavier balls always make smaller dents  
    **Answer:** A faster ball carries much more energy, not just twice as much. *Why:* Twice the speed gave four times the dent. So a moving thing's energy grows much faster than its speed: twice the speed means four times the energy.
 
 ## Applications

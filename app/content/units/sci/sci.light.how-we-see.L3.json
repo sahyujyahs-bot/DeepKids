@@ -720,11 +720,11 @@
       "t": "mcq",
       "q": "In the chain 'torch, cat, your eye', which way does the light go between the cat and your eye?",
       "options": [
-       "From your eye to the cat",
        "From the cat into your eye",
+       "From your eye to the cat",
        "Both ways at once"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Light bounces off the cat and travels into your eye. That is how you see the cat. Picking 'from your eye to the cat' is the very old idea that eyes send out rays. Ibn al-Haytham showed it is the other way round. Picking 'both ways' is close to how looking feels, but nothing that helps us see leaves the eye."
      }
     },
@@ -755,11 +755,11 @@
       "t": "mcq",
       "q": "A 'power cut' blocker is played on the chain 'tubelight, book, your eye'. Which part does it break?",
       "options": [
-       "The start: the tubelight makes no light",
        "The end: your eye stops working",
+       "The start: the tubelight makes no light",
        "Nothing, you can still see the book"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a power cut the tubelight goes off. So there is no light to land on the book, and nothing to bounce into your eye. The eye is fine, and so is the book. Picking 'your eye stops working' usually means thinking the eye does the seeing on its own. Picking 'you can still see' means forgetting that lit objects need a source."
      }
     },
@@ -863,10 +863,10 @@
       "q": "In Photon Relay, what does the EYE do?",
       "options": [
        "It throws balls out to the mango",
-       "It catches the balls that come to it",
-       "It makes its own balls"
+       "It makes its own balls",
+       "It catches the balls that come to it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A real eye catches light that comes into it. It does not send anything out, and it makes no light of its own. Picking 'throws balls out' is the old eye-rays idea. Picking 'makes its own balls' mixes the eye up with a light source, like a torch."
      }
     },
@@ -915,11 +915,11 @@
      "t": "mcq",
      "p": "You are reading a book under a tubelight. Which way does the light travel, so that you can see the page?",
      "opts": [
-      "From the tubelight to the page, then from the page into your eyes",
       "From your eyes to the page, then back to your eyes",
-      "From the page to the tubelight"
+      "From the page to the tubelight",
+      "From the tubelight to the page, then from the page into your eyes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The tubelight is the light source. Its light lands on the page, bounces off, and some of it goes into your eyes. Picking 'from your eyes to the page' is the very old idea that eyes send out rays. Picking 'from the page to the tubelight' gets the start of the journey backwards: the page makes no light of its own.",
      "art": "A girl reading a book under a tubelight, with arrows from the tubelight to the book and from the book to her eye."
     },
@@ -1027,10 +1027,10 @@
      "p": "Why does the pupil in the middle of your eye look black?",
      "opts": [
       "It is painted black inside",
-      "It is a hole, and very little light comes back out of it",
-      "It is the darkest part of the iris"
+      "It is the darkest part of the iris",
+      "It is a hole, and very little light comes back out of it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The pupil is a hole into the dark inside of the eye. Light goes in and hardly any comes back out, so it looks black. Picking 'painted black' is a common idea, but there is no paint. Picking 'darkest part of the iris' mixes up the coloured ring with the hole in the middle.",
      "art": "A close-up of an eye with the pupil labelled 'a hole'."
     },
@@ -1093,11 +1093,11 @@
      "t": "mcq",
      "p": "Which of these really helps you see in the dark?",
      "opts": [
-      "Waiting about 20 minutes in a dim place, away from bright lights",
       "Eating lots of carrots",
-      "Staring very hard"
+      "Staring very hard",
+      "Waiting about 20 minutes in a dim place, away from bright lights"
      ],
-     "a": 0,
+     "a": 2,
      "why": "After about 20 minutes in dim light, the rod cells in your eyes get much more sensitive. Picking carrots is a famous myth. Carrots help keep eyes healthy, but extra carrots do not give normal eyes night vision. Picking 'staring hard' doesn't help, because the eye can only catch light that comes in.",
      "how": "a3"
     },
@@ -1121,11 +1121,11 @@
      "t": "mcq",
      "p": "Everyone in a classroom can see the blackboard at the same time. Why?",
      "opts": [
-      "The board bounces light off in every direction, so light reaches every child",
       "Each child's eyes send a ray to the board",
-      "The board makes its own light"
+      "The board makes its own light",
+      "The board bounces light off in every direction, so light reaches every child"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dull, slightly rough surfaces like a blackboard scatter light in all directions. So some light from the board reaches every seat. Picking 'eyes send a ray' is the old eye-rays idea. Picking 'makes its own light' mixes up a lit object and a light source."
     },
     {
@@ -1311,11 +1311,11 @@
      "t": "mcq",
      "p": "Selig Hecht and his team found that a person can notice a faint flash when only a few photons are caught. Photons are the tiniest bits of light. What does this tell us?",
      "opts": [
-      "The eye is extremely sensitive to light",
       "The eye needs huge amounts of light",
-      "Photons are big"
+      "Photons are big",
+      "The eye is extremely sensitive to light"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Catching only about 5 to 14 photons is close to the smallest amount of light there can be. So the eye is one of the most sensitive light detectors we know. Picking 'huge amounts' gets it backwards. Picking 'photons are big' is wrong, because photons are far too small to see one by one."
     },
     {
@@ -1335,11 +1335,11 @@
      "t": "mcq",
      "p": "Why do photos taken with a flash sometimes show red eyes?",
      "opts": [
-      "The flash reflects off the back of the eye, which is full of blood vessels",
       "The eyes make red light",
+      "The flash reflects off the back of the eye, which is full of blood vessels",
       "The camera is broken"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The flash goes in through the wide-open pupil, reflects off the back of the eye, which is rich in blood, and comes straight back to the camera. Picking 'the eyes make red light' mixes up eyes and light sources. Picking 'the camera is broken' does not fit, because the same camera takes normal photos in daylight.",
      "how": "a5"
     },
@@ -1396,11 +1396,11 @@
      "t": "mcq",
      "p": "You sit on a dark terrace for 20 minutes and can now see many stars. Then a neighbour's bright white torch shines in your eyes for a moment. What happens next?",
      "opts": [
-      "You see fewer stars, and have to wait again for your eyes to get used to the dark",
       "You see more stars, because the torch added light",
+      "You see fewer stars, and have to wait again for your eyes to get used to the dark",
       "Nothing changes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In the 20 minutes, your rod cells slowly built up their light-catching chemical. A flash of bright light uses it up in a moment. Picking 'more stars' forgets that the torch lights your eyes, not the stars. This is why star watchers use only dim red torches.",
      "how": "a3"
     },
@@ -1408,11 +1408,11 @@
      "t": "mcq",
      "p": "In the Find Your Blind Spot activity, you stared at a cross on a card. The dot beside it vanished when the card was about 25 cm from your eye. What happens if you move the card back to 50 cm, still staring at the cross?",
      "opts": [
-      "The dot comes back, because its light no longer lands on the blind spot",
       "The dot stays hidden at every distance",
+      "The dot comes back, because its light no longer lands on the blind spot",
       "The cross vanishes too"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The dot only vanishes when its light lands exactly on the blind spot. At other distances it lands on cells that can catch light, so you see it again. Picking 'hidden at every distance' treats the dot as gone, when only its light's landing place changed.",
      "how": "a2"
     },
@@ -1434,11 +1434,11 @@
      "t": "mcq",
      "p": "Why do many older people need more light to read?",
      "opts": [
-      "Their lenses let less light through, and their pupils get smaller with age",
       "They send out weaker rays",
-      "Books were printed smaller long ago"
+      "Books were printed smaller long ago",
+      "Their lenses let less light through, and their pupils get smaller with age"
      ],
-     "a": 0,
+     "a": 2,
      "why": "As we grow old, the lens gets a little cloudy and yellow, and the pupil gets smaller. So less light reaches the retina. Picking 'weaker rays' is the old eye-rays idea."
     },
     {
@@ -1743,11 +1743,11 @@
       "t": "mcq",
       "q": "When the lamp came on, your pupil got smaller. Why does the eye do this?",
       "options": [
-       "To let in less light and protect the inside of the eye",
        "Because the pupil is tired",
+       "To let in less light and protect the inside of the eye",
        "To send out more light"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The pupil is a hole that lets light in. In bright light the iris shrinks it, so that too much light does not dazzle the retina at the back. Picking 'tired' usually means thinking the eye is wearing out. It isn't. It opens again in the dark. Picking 'send out more light' is the old idea that eyes give out light. They don't."
      },
      "parent": "When the hand comes away, the pupil is big for a moment, then shrinks in less than a second. This works even with dark brown eyes, because the change is easy to see in bright light."
@@ -2099,11 +2099,11 @@
       "t": "mcq",
       "q": "When the dot vanished, you saw plain white card, not a hole. Why?",
       "options": [
-       "Your brain filled in the gap with what is around it",
        "The dot really disappeared from the card",
-       "Your eye sent out a ray that rubbed it out"
+       "Your eye sent out a ray that rubbed it out",
+       "Your brain filled in the gap with what is around it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The dot's light landed on your blind spot, where the optic nerve leaves the eye and there are no light-catching cells. Your brain fills the gap with what is around it, plain white card. Picking 'the dot really disappeared' is easy to check: open both eyes and it is back. Picking 'the eye sent out a ray' is the old eye-rays idea. Eyes do not send anything out."
      },
      "think": "You have a blind spot in each eye all day long. Why don't you notice a hole when you look around?",
@@ -2194,10 +2194,10 @@
       "q": "You counted more stars after 20 minutes in the dark. What changed?",
       "options": [
        "More stars came out",
-       "Your eyes became more sensitive to dim light",
-       "Your eyes started making their own light"
+       "Your eyes started making their own light",
+       "Your eyes became more sensitive to dim light"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The stars were there all along. In the dark, your pupils opened wide and your rod cells slowly got much better at catching faint light. So dim stars that were too faint at first became visible. Picking 'more stars came out' is a natural guess, but the sky barely changes in 20 minutes. Picking 'eyes making their own light' mixes up eyes with light sources. Eyes only catch light."
      },
      "chart": {
@@ -2311,11 +2311,11 @@
       "t": "mcq",
       "q": "When one torch was covered, only one spot went out. What does that show?",
       "options": [
-       "Each torch's light travels from the torch into the box",
        "The box makes the light itself",
-       "Your eye sends out three rays"
+       "Your eye sends out three rays",
+       "Each torch's light travels from the torch into the box"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each spot is made by light that travelled from one torch, through the hole, to the screen. Block that torch and its light never arrives. Ibn al-Haytham used this to show light goes from things to where it lands, not the other way. Picking 'the box makes the light' doesn't fit, because the spots go out when the torches do. Picking 'your eye sends out rays' doesn't fit either. Your eye did not change, but a spot vanished."
      }
     },
@@ -2398,11 +2398,11 @@
       "t": "mcq",
       "q": "A cat's eyes glow in your torch beam. Where does the glow come from?",
       "options": [
-       "The cat's eyes make their own light",
        "Your torch's light bounces off a shiny layer at the back of the cat's eye",
+       "The cat's eyes make their own light",
        "The cat is sending out rays to see you"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Cats have a shiny layer behind the retina. It bounces light back through the retina for a second chance to be caught, which helps cats see in dim light. Some of that light comes back out to you. Turn off the torch, and the glow stops. Picking 'makes its own light' is very common, but cats' eyes are not light sources. Picking 'sending out rays' is the old eye-rays idea."
      }
     }
@@ -2463,11 +2463,11 @@
       "t": "mcq",
       "q": "Which drawing shows how you see a ball in a lit room?",
       "options": [
-       "An arrow from the lamp to the ball, and from the ball to the eye",
        "An arrow from the eye to the ball",
-       "An arrow from the lamp to the eye only"
+       "An arrow from the lamp to the eye only",
+       "An arrow from the lamp to the ball, and from the ball to the eye"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Light goes from the lamp to the ball. It bounces off the ball and travels into your eye. Picking 'eye to ball' is the old eye-rays idea. Picking 'lamp to eye only' explains how you see the lamp, but not the ball."
      }
     },
@@ -2675,11 +2675,11 @@
       "t": "mcq",
       "q": "A white sheet near the window made the corner brighter. Why?",
       "options": [
-       "The white sheet makes its own light",
        "Daylight bounces off the white sheet in every direction, some of it into the corner",
+       "The white sheet makes its own light",
        "The white sheet keeps the dark away"
       ],
-      "a": 1,
+      "a": 0,
       "why": "White things bounce back most of the light that lands on them, spraying it in every direction. Some of that light lands on the reading card and then bounces into your eyes. Picking 'makes its own light' mixes up a lit object with a light source. Picking 'keeps the dark away' treats darkness as a thing. Darkness is only missing light."
      }
     }
@@ -2755,11 +2755,11 @@
       "t": "mcq",
       "q": "Why does white tape on the edge of a step help someone see it at night?",
       "options": [
-       "White tape bounces back more of the little light there is",
        "White tape makes its own light",
+       "White tape bounces back more of the little light there is",
        "White tape helps eyes send out rays"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In dim light, pale things bounce back the most light, so we see them first. That is why the white paper showed up first in the dark box. Picking 'makes its own light' mixes up a lit object with a light source, like a night-light. Picking 'helps eyes send out rays' is the old eye-rays idea."
      }
     }
@@ -2823,11 +2823,11 @@
    "t": "mcq",
    "p": "Which of these is a light source?",
    "opts": [
-    "A glowing firefly",
     "A shiny steel tumbler",
-    "The full Moon"
+    "The full Moon",
+    "A glowing firefly"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A firefly makes light in her own body. A steel tumbler only shines because light bounces off it. The full Moon is a rock lit by the Sun. Picking the Moon is very common, because it looks so bright.",
    "outcome": 1
   },
@@ -2835,11 +2835,11 @@
    "t": "mcq",
    "p": "A white wall looks bright on a sunny afternoon. Why?",
    "opts": [
-    "It bounces a lot of sunlight into our eyes",
     "It makes its own light",
-    "White paint stores up light"
+    "White paint stores up light",
+    "It bounces a lot of sunlight into our eyes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A white wall is a lit object. It bounces back most of the light that lands on it. Picking 'makes its own light' mixes up a lit object and a light source.",
    "outcome": 1
   },
@@ -2859,11 +2859,11 @@
    "t": "mcq",
    "p": "A doctor shines a small torch into your eye, and your pupil gets smaller. Which part of your eye made the pupil smaller?",
    "opts": [
-    "The iris, the coloured ring around the pupil",
     "The retina, at the back of the eye",
+    "The iris, the coloured ring around the pupil",
     "The optic nerve"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The iris is a ring of muscle around the pupil. In bright light it closes the pupil, so less light gets in. The retina catches the light, and the optic nerve carries the signals to the brain.",
    "outcome": 3
   },
@@ -2871,11 +2871,11 @@
    "t": "mcq",
    "p": "What happens to your pupils when you walk out into bright sunshine?",
    "opts": [
-    "They get smaller",
     "They get bigger",
-    "They change colour"
+    "They change colour",
+    "They get smaller"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In bright light the iris shrinks the pupil, so less light gets in. In dim light it opens wide. The colour of the iris does not change.",
    "outcome": 3,
    "how": "e2"
@@ -2910,11 +2910,11 @@
    "t": "mcq",
    "p": "Looking at a very bright light hurts, and leaves a dark blob floating in your sight. What does this clue tell us?",
    "opts": [
-    "Something came into the eye from the light",
     "The eye sent out too many rays",
-    "The blob is a ray stuck in the eye"
+    "The blob is a ray stuck in the eye",
+    "Something came into the eye from the light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Strong light came into the eye and acted on it. Ibn al-Haytham used this clue to show that seeing is light coming in, not rays going out.",
    "outcome": 5
   },
@@ -2934,11 +2934,11 @@
    "t": "mcq",
    "p": "Every eye has a blind spot. Why don't you notice yours every day?",
    "opts": [
-    "Your brain fills in the gap, and each eye covers the other eye's blind spot",
     "The blind spot only appears in the dark",
+    "Your brain fills in the gap, and each eye covers the other eye's blind spot",
     "The blind spot moves about too fast to notice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The blind spot is where the nerve leaves the eye. The brain fills it with what is around it. With both eyes open, each one sees what the other misses.",
    "outcome": 6,
    "how": "a2"
@@ -2947,11 +2947,11 @@
    "t": "mcq",
    "p": "What is a photon?",
    "opts": [
-    "The smallest packet of light",
     "A part of the eye",
-    "A kind of camera"
+    "A kind of camera",
+    "The smallest packet of light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Light comes in tiny packets called photons. A rod cell in the retina can respond to a single one.",
    "outcome": 6
   },
@@ -2959,11 +2959,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still NOT know?",
    "opts": [
-    "Exactly how the brain turns signals from the eyes into what we experience",
     "Whether light enters the eye",
+    "Exactly how the brain turns signals from the eyes into what we experience",
     "Whether the pupil changes size"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light entering the eye and the pupil changing size are well tested. How the brain turns signals into experience is one of the biggest open questions.",
    "outcome": 7
   }

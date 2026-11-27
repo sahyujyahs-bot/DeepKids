@@ -485,7 +485,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 ## Worksheets
 ### Wastes and their ways out (core, 15 questions)
 1. (mcq) What is excretion?  
-   Options: Sending out wastes that cells have made / Chewing food into small pieces / Breathing in fresh air / Storing food as fat  
+   Options: Chewing food into small pieces / Breathing in fresh air / Storing food as fat / Sending out wastes that cells have made  
    **Answer:** Sending out wastes that cells have made. *Why:* Excretion is the removal of wastes made by the body's own cells, such as carbon dioxide and urea.
 2. (fill) The liver changes ammonia into a less harmful waste called ____.  
    **Answer:** ['urea']. *Why:* Ammonia is left over when protein is broken down. The liver turns it into urea, and the kidneys remove the urea.
@@ -496,7 +496,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 5. (order) Put these in order, to show the path of urine out of the body.  
    **Answer:** ['Kidney', 'Ureter', 'Bladder', 'Urethra']. *Why:* Urine is made in the kidney. It flows down the ureter, waits in the bladder and leaves by the urethra.
 6. (mcq) Which of these is too big to pass through the kidney's filter?  
-   Options: A red blood cell / Water / Salt / Urea  
+   Options: Water / Salt / Urea / A red blood cell  
    **Answer:** A red blood cell. *Why:* Water, salt and urea are tiny dissolved particles. A red blood cell is a whole cell, far bigger than the holes.
 7. (sort) Sort these. Does each one pass the kidney's filter, or is it held back?  
    **Answer:** water → Passes the filter; salt → Passes the filter; sugar → Passes the filter; urea → Passes the filter; a red blood cell → Held back; a large protein → Held back. *Why:* The filter sorts only by size. Small dissolved particles pass. Cells and large proteins are held back.
@@ -510,7 +510,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 11. (fill) Urine is stored in a stretchy bag called the ____.  
    **Answer:** ['bladder']. *Why:* The bladder is a bag of muscle, low in the belly. It stretches as it fills.
 12. (mcq) Why is urine dark yellow after a hot afternoon with no water?  
-   Options: The kidneys save water, so less water leaves / The kidneys make extra yellow colour / The sun changes the colour of blood / The bladder has become smaller  
+   Options: The kidneys make extra yellow colour / The kidneys save water, so less water leaves / The sun changes the colour of blood / The bladder has become smaller  
    **Answer:** The kidneys save water, so less water leaves. *Why:* When the body is short of water, the tubes take back nearly all of it. The same wastes leave in less water, so the colour is stronger.
 13. (draw) Draw a body outline. Add the two kidneys, the two ureters and the bladder, and label them.  
    **Answer:** Two bean shapes high in the back, one on each side of the backbone. A thin tube runs from each one down to a round bag low in the belly.. *Why:* A strong drawing puts the kidneys under the lowest ribs, well above the bladder. It joins each kidney to the bladder with its own tube.
@@ -520,7 +520,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
    **Answer:** The water evaporates and goes into the air. The salt cannot evaporate, so it stays on the skin.. *Why:* A strong answer names both the water and the salt, and says that only the water turns into a gas.
 ### Filter first, then take back (stretch, 15 questions)
 1. (mcq) A filter sorts things by one feature. Which one?  
-   Options: Their size / Their colour / Their taste / Their usefulness  
+   Options: Their colour / Their taste / Their size / Their usefulness  
    **Answer:** Their size. *Why:* A filter is a set of holes. Things smaller than the holes pass, whatever their colour, taste or use.
 2. (truefalse) The kidney's filter lets harmful urea through but stops useful sugar.  
    **Answer:** False. *Why:* False. Both are small, so both pass through. The sugar is taken back afterwards, in the tube.
@@ -534,7 +534,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 6. (order) Put these in order, to follow one particle of urea out of the body.  
    **Answer:** ['The liver makes it from ammonia', 'Blood carries it to a kidney', 'It is pushed through a filter', 'It stays in the tube', 'It waits in the bladder']. *Why:* Urea is made in the liver and carried by the blood. It is filtered, left in the tube and stored in the bladder.
 7. (mcq) You drink two tumblers of water. What do the tubes in your kidneys do next?  
-   Options: Take back less water / Take back more water / Stop filtering / Take back more urea  
+   Options: Take back more water / Stop filtering / Take back more urea / Take back less water  
    **Answer:** Take back less water. *Why:* Your blood has more water than it needs. The tubes take back less of it, so more leaves as pale urine.
 8. (truefalse) Water goes from the stomach to the bladder through a tube of its own.  
    **Answer:** False. *Why:* False. Water passes from the gut into the blood. The kidneys filter it out of the blood, and the ureters carry it to the bladder.
@@ -547,7 +547,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 12. (write) A person takes a new medicine. Explain how the kidneys remove what is left of it.  
    **Answer:** What is left of the medicine is small, so it passes the filter. Nothing in the tube takes it back. So it stays in the liquid and leaves in the urine.. *Why:* A strong answer says that the kidney does not need to recognise the medicine. It only takes back what the body needs.
 13. (mcq) Why does garlic breath last after the teeth are brushed?  
-   Options: A garlic chemical leaves through the lungs / Garlic stains the teeth / Toothpaste makes the smell stronger / The nose remembers the smell  
+   Options: Garlic stains the teeth / A garlic chemical leaves through the lungs / Toothpaste makes the smell stronger / The nose remembers the smell  
    **Answer:** A garlic chemical leaves through the lungs. *Why:* A smelly chemical from garlic passes from the gut into the blood. It leaves through the lungs for hours.
 14. (fill) The messenger chemical that tells the kidneys to save water is called ____.  
    **Answer:** ['ADH']. *Why:* The brain sends out more ADH when the body is short of water. The tubes then take back more water.
@@ -560,7 +560,7 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
    Options: Damaged filters are letting big particles through / The person ate too much dal / The bladder is too full / The person drank too little water  
    **Answer:** Damaged filters are letting big particles through. *Why:* Large proteins are normally held back by the filter. Protein in the urine suggests that the filter has been hurt.
 3. (mcq) A urine test finds sugar. What does this most likely mean?  
-   Options: The blood holds too much sugar to take back / The filter has stopped the sugar / The person ate one sweet / The bladder makes sugar  
+   Options: The filter has stopped the sugar / The blood holds too much sugar to take back / The person ate one sweet / The bladder makes sugar  
    **Answer:** The blood holds too much sugar to take back. *Why:* Sugar always passes the filter. The tubes take it back, but only up to a limit. Sugar in the urine is a sign of too much sugar in the blood, as in diabetes.
 4. (truefalse) A person with one healthy kidney can live a full life.  
    **Answer:** True. *Why:* True. One healthy kidney is enough to clean the blood. The kidney that stays grows larger and filters more.
@@ -579,12 +579,12 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 11. (draw) Draw one nephron. Use one colour of arrow for filtering and another colour for taking back.  
    **Answer:** A ball inside a cup with arrows going out of the ball into the cup. A long tube leaves the cup, with arrows going from the tube back into a blood vessel beside it.. *Why:* A strong drawing shows the two steps in two different places: filtering at the ball and taking back along the tube.
 12. (mcq) Most children sleep ten hours without a toilet visit. What is the best explanation?  
-   Options: The kidneys make less urine at night / The kidneys stop working at night / The bladder doubles in size at night / Cells make no waste at night  
+   Options: The kidneys stop working at night / The bladder doubles in size at night / The kidneys make less urine at night / Cells make no waste at night  
    **Answer:** The kidneys make less urine at night. *Why:* At night the tubes take back more water, so less urine reaches the bladder. The kidneys never stop, and cells make waste all night.
 13. (fill) Cells make the gas ____ ____ when they use food for energy.  
    **Answer:** ['carbon dioxide']. *Why:* Carbon dioxide is made in every working cell. The blood carries it to the lungs.
 14. (mcq) Why does the liver change ammonia into urea?  
-   Options: Ammonia is a poison, and urea is much safer / Urea gives the body energy / Ammonia is too big for the kidney's filter / Urea makes urine yellow  
+   Options: Urea gives the body energy / Ammonia is too big for the kidney's filter / Ammonia is a poison, and urea is much safer / Urea makes urine yellow  
    **Answer:** Ammonia is a poison, and urea is much safer. *Why:* Even a little ammonia in the blood harms the brain. Urea can travel safely in the blood until the kidneys remove it.
 15. (write) A stool is mostly undigested food. Why is that food not called a waste made by cells?  
    **Answer:** The food passed along the tube of the gut. It never entered the blood or a cell, so no cell made it.. *Why:* A strong answer says that excretion means removing what cells have made. Undigested food was never taken into the cells.
@@ -596,22 +596,22 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 
 ## Quiz
 1. (mcq) Which three organs are the main ways out for the body's wastes?  
-   Options: Lungs, kidneys and skin / Heart, brain and stomach / Eyes, ears and nose / Bones, muscles and teeth  
+   Options: Heart, brain and stomach / Lungs, kidneys and skin / Eyes, ears and nose / Bones, muscles and teeth  
    **Answer:** Lungs, kidneys and skin. *Why:* The lungs remove carbon dioxide. The kidneys remove dissolved wastes. The skin lets out sweat.
 2. (mcq) Which waste leaves the body through the lungs?  
-   Options: Carbon dioxide / Urea / Extra salt / Undigested food  
+   Options: Urea / Extra salt / Carbon dioxide / Undigested food  
    **Answer:** Carbon dioxide. *Why:* Carbon dioxide is a gas. It passes from the blood into the air in the lungs, and you breathe it out.
 3. (mcq) Where is urea made?  
    Options: In the liver / In the bladder / In the lungs / In the skin  
    **Answer:** In the liver. *Why:* The liver changes poisonous ammonia into urea. The kidneys then remove the urea from the blood.
 4. (mcq) Why must wastes leave the body?  
-   Options: They would build up and poison the cells / They take up too much room / They make the body too heavy / They smell bad  
+   Options: They take up too much room / They would build up and poison the cells / They make the body too heavy / They smell bad  
    **Answer:** They would build up and poison the cells. *Why:* Cells make waste all the time. If it stayed in the blood, it would reach harmful levels within days.
 5. (mcq) What do the kidneys make urine from?  
    Options: From the blood / From food in the stomach / From the air in the lungs / From water stored in the bladder  
    **Answer:** From the blood. *Why:* Blood flows into the kidneys, and the kidneys filter it. Urine is what is left after the useful parts are taken back.
 6. (mcq) What does the kidney's filter hold back?  
-   Options: Blood cells and large proteins / Water and salt / Sugar and urea / Nothing at all  
+   Options: Water and salt / Blood cells and large proteins / Sugar and urea / Nothing at all  
    **Answer:** Blood cells and large proteins. *Why:* The filter sorts by size. Cells and large proteins are too big for its holes. Water, salt, sugar and urea pass through.
 7. (mcq) After the blood is filtered, what does the tube of a nephron do?  
    Options: Takes back water, salt and sugar / Adds more water / Pushes blood cells out / Turns urea into sugar  
@@ -619,19 +619,19 @@ Chithi laughed, bit off her thread and reached for the first blouse. Kathir sat 
 8. (truefalse) A kidney must recognise each waste before it can remove it.  
    **Answer:** False. *Why:* False. Everything small passes the filter. The kidney takes back what the body needs, and the rest leaves, whatever it is.
 9. (mcq) In the Three Filters Test, which things passed through the tissue paper?  
-   Options: The salt and the tea colour / The tea leaves / The flour / Nothing but water  
+   Options: The tea leaves / The flour / Nothing but water / The salt and the tea colour  
    **Answer:** The salt and the tea colour. *Why:* Dissolved salt and dissolved tea colour are far smaller than the holes in a tissue. Leaves and flour grains are bigger.
 10. (mcq) What is urine mostly made of?  
-   Options: Water / Urea / Salt / Blood  
+   Options: Urea / Water / Salt / Blood  
    **Answer:** Water. *Why:* Urine is about 95 parts water in every 100. Urea, salts and other wastes are dissolved in it.
 11. (mcq) What makes urine yellow?  
-   Options: A waste made from old red blood cells / The water we drink / Salt from food / Sugar from fruit  
+   Options: The water we drink / A waste made from old red blood cells / Salt from food / Sugar from fruit  
    **Answer:** A waste made from old red blood cells. *Why:* When old red blood cells are broken down, a yellow waste called urobilin is left. The kidneys send it out.
 12. (mcq) What is the main job of sweat?  
-   Options: To cool the body / To remove most of the urea / To clean the blood / To carry carbon dioxide out  
+   Options: To remove most of the urea / To clean the blood / To cool the body / To carry carbon dioxide out  
    **Answer:** To cool the body. *Why:* Sweat cools you as its water evaporates. It carries only a little salt and a trace of urea.
 13. (mcq) What does a dialysis machine do?  
-   Options: Cleans the blood when the kidneys cannot / Pumps blood when the heart cannot / Breathes for the lungs / Makes new kidneys  
+   Options: Pumps blood when the heart cannot / Cleans the blood when the kidneys cannot / Breathes for the lungs / Makes new kidneys  
    **Answer:** Cleans the blood when the kidneys cannot. *Why:* In dialysis, blood flows past a sheet with tiny holes. Wastes pass out through the holes, and the cleaned blood returns to the body.
 
 ## Applications

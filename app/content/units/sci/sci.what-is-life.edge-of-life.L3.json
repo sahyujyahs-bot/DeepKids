@@ -721,11 +721,11 @@
       "t": "mcq",
       "q": "A candle flame. Which mat does it go on?",
       "options": [
-       "ALIVE, because it eats, grows and makes new flames",
        "NOT ALIVE, because it has no cells and no instructions",
+       "ALIVE, because it eats, grows and makes new flames",
        "ARGUE IT, because scientists still disagree"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Fire passes many tests, but it has no cells, and a new flame carries no instructions from the old one. So scientists agree it is not alive. Picking ALIVE usually means counting the signs it has without checking the ones it lacks. Picking ARGUE IT is a fair guess, but fire is one case scientists do agree on."
      },
      "context": "This is a practice round of Alive, Not Alive, or Argue It!, the tricky-cases card game."
@@ -899,11 +899,11 @@
       "t": "mcq",
       "q": "The Candle flame player draws 'Made of cells'. Can they tick it?",
       "options": [
-       "Yes, because fire is hot like a body",
        "No, because fire is a chemical change, not made of cells",
+       "Yes, because fire is hot like a body",
        "Yes, because fire grows"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Fire is fuel joining with oxygen. There are no cells in a flame. Picking 'grows' is a common trap: crystals and fires grow too, but growing alone does not make something alive."
      },
      "context": "This is the main part of The Sign Collectors, the tricky-cases collecting game."
@@ -941,10 +941,10 @@
      "opts": [
       "An ant carrying a crumb",
       "A crow flying to the window",
-      "A bean shoot bending towards the light",
-      "A river flowing down a hill"
+      "A river flowing down a hill",
+      "A bean shoot bending towards the light"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A river moves only because water flows downhill. The ant, the crow and the bean shoot move because of what goes on inside their own living cells. A strong answer says that moving alone does not show life, because non-living things move too."
     },
     {
@@ -953,10 +953,10 @@
      "opts": [
       "The new flame is smaller than the old one",
       "Flames are too hot to have young",
-      "The new flame is a different colour",
-      "A chick gets instructions from the hen's cells. A new flame gets none"
+      "A chick gets instructions from the hen's cells. A new flame gets none",
+      "The new flame is a different colour"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Every living thing passes a copy of their instructions, inside their cells, to their young. A flame has no cells and no instructions. Any spark would light the second candle just as well. Picking 'too hot' mixes up heat with life."
     },
     {
@@ -965,10 +965,10 @@
      "opts": [
       "Nothing, because the dry seeds died during the week",
       "The seeds turn hard like pebbles",
-      "Green leaves appear the same evening",
-      "The seeds swell up, and soon a small root pushes out"
+      "The seeds swell up, and soon a small root pushes out",
+      "Green leaves appear the same evening"
      ],
-     "a": 3,
+     "a": 2,
      "why": "The dry seeds were dormant, not dead. Water wakes them. They swell first, then the root comes out, often by the next day in a warm room. Picking 'they died' is the most common first guess, and plate 3 shows it is wrong.",
      "how": "e1"
     },
@@ -1065,12 +1065,12 @@
      "t": "mcq",
      "p": "In the crystal garden, salt crystals grew bigger on the thread in the salty jar. Where did the new salt come from?",
      "opts": [
-      "From the salty water around the thread. The salt stuck onto the outside of the crystals",
       "From food the crystals ate",
       "From inside the crystals, which made new salt",
+      "From the salty water around the thread. The salt stuck onto the outside of the crystals",
       "From the cotton thread itself"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A crystal grows only when more of the same salt stacks onto its outside. The plain water jar grew nothing, because it had no salt in it. A seedling grows differently: their cells turn food into new parts from inside.",
      "how": "e3"
     },
@@ -1181,11 +1181,11 @@
      "p": "Fire and your cells both join fuel with oxygen. Both give out energy, carbon dioxide and water. Predict: what would happen if your cells did this as fast as a flame does?",
      "opts": [
       "Nothing would change",
-      "You would grow faster and stay healthy",
       "Your body would get burning hot and be badly harmed",
+      "You would grow faster and stay healthy",
       "You would never need to eat again"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Your cells release energy in many small, controlled steps, so you stay warm but never burn. A flame releases it all at once. Speed and control are the big difference."
     },
     {
@@ -1193,11 +1193,11 @@
      "p": "A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Does that mean mules are not alive?",
      "opts": [
       "Yes. Mules are not alive",
-      "Making young is something a kind of living thing does, but not every single one has to. Mules do all the other life processes",
       "Mules have young all the time",
-      "Mules are dormant, so they only look alive"
+      "Mules are dormant, so they only look alive",
+      "Making young is something a kind of living thing does, but not every single one has to. Mules do all the other life processes"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Mules, worker bees and many people never have young, and they are fully alive. Their bodies are made of cells and do all the other life processes. A strong answer explains that the 'makes young' sign belongs to a kind of living thing."
     },
     {
@@ -1214,22 +1214,22 @@
      "opts": [
       "It will work better every year",
       "The viruses will stop changing because of it",
-      "It may not protect people as well, because the flu viruses will have changed",
-      "It will turn into a virus"
+      "It will turn into a virus",
+      "It may not protect people as well, because the flu viruses will have changed"
      ],
-     "a": 2,
+     "a": 3,
      "why": "This slow change over many copies is called evolution. It is why there is a new flu vaccine most years. Evolving is one reason some scientists call viruses a kind of life."
     },
     {
      "t": "mcq",
      "p": "Someone tried the balloon test with just one bottle: yeast, sugar and warm water. The balloon filled up. They say this proves the yeast is alive. Why is the test not strong enough yet?",
      "opts": [
+      "There is no bottle without yeast to compare with, so the gas might have come from the sugar water alone",
       "They used too much sugar",
       "Balloons always fill up by themselves",
-      "There is no bottle without yeast to compare with, so the gas might have come from the sugar water alone",
       "They should have used cold water instead"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A comparison, called a control, is what makes a test convincing. Only a bottle with sugar and warm water but no yeast can show that the gas came from the yeast.",
      "how": "e2"
     },
@@ -1423,12 +1423,12 @@
      "t": "mcq",
      "p": "A candle flame keeps the same shape, even though new wax and air flow into it all the time. Which of these is like that too?",
      "opts": [
+      "You: the food, water and air in your body keep changing, but you stay you",
       "A stone lying on the ground",
       "A salt crystal in a jar",
-      "You: the food, water and air in your body keep changing, but you stay you",
       "A steel spoon in a drawer"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A flame and a living body both keep their shape while new stuff flows through them. That is part of why fire is such a tricky case. A stone keeps its shape with nothing flowing through it."
     },
     {
@@ -1447,12 +1447,12 @@
      "t": "mcq",
      "p": "Some scientists once said that tiny shapes inside a rock from Mars were fossils of Martian life. Most scientists were not convinced. Why?",
      "opts": [
+      "Ordinary non-living chemistry can make shapes like these, so the shapes alone are not strong evidence",
       "Rocks from Mars cannot hold anything",
       "Mars is too far away to study",
-      "Ordinary non-living chemistry can make shapes like these, so the shapes alone are not strong evidence",
       "Scientists do not want to find life on Mars"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The rock, called ALH84001, was found in Antarctica. Its shapes could be made without life. Big claims need strong evidence, and a shape is easy to be fooled by."
     },
     {
@@ -1737,11 +1737,11 @@
       "q": "Why do we put pebbles on wet cotton too?",
       "options": [
        "To make the plate heavy",
-       "To check that water alone does not make things grow",
        "Because pebbles are alive",
+       "To check that water alone does not make things grow",
        "To feed the seeds"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The pebbles are a comparison. If pebbles stayed the same and the seeds grew, then something inside the seeds, not the water, made the difference. Picking 'pebbles are alive' is the very idea we are testing."
      }
     },
@@ -1773,11 +1773,11 @@
       "q": "The dry seeds did nothing all week. Then you gave them water, and the next day they swelled up. What does this show?",
       "options": [
        "They were dead and water brought them back to life",
-       "They were alive all along, resting until water came",
        "Water is alive",
+       "They were alive all along, resting until water came",
        "Seeds are not living things"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The seeds were dormant: alive but resting. Their life processes went on very slowly all week. Picking 'dead and brought back' is how many people first explain it. But water cannot bring a dead seed back: a boiled seed stays still in water."
      }
     }
@@ -2166,12 +2166,12 @@
       "t": "mcq",
       "q": "Which thing on the tray is alive right now, even though it does nothing?",
       "options": [
-       "The pebble",
        "The dry moong seed",
+       "The pebble",
        "The toy car",
        "The salt"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The dry seed is alive but resting. Give the seed water and a root grows. A pebble never can grow one. Picking the toy car usually means 'it can move, so it might be alive'. But moving alone tells us nothing."
      },
      "think": "Keep your tray. At the end of this lesson, sort it again. Will you change anything?"
@@ -2264,11 +2264,11 @@
       "q": "Why did the flame go out under the glass?",
       "options": [
        "The glass made it too dark",
-       "It used up some of the oxygen under the glass, and too little was left",
        "The glass was too cold",
+       "It used up some of the oxygen under the glass, and too little was left",
        "It finished its wax"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A flame needs oxygen, a gas in the air. Under the glass it used up some of the oxygen and could not get more. When too little was left, it went out. Picking 'finished its wax' is a fair guess, but the candle still has plenty of wax. The flame went out because the glass cut off the air."
      }
     },
@@ -2813,11 +2813,11 @@
       "q": "Why test heated soil next to the fresh soil?",
       "options": [
        "To make the robot heavier",
-       "As a comparison: if the heated soil passes the test too, the test is fooled by ordinary chemistry",
        "Because heated soil is more alive",
-       "To clean the robot"
+       "To clean the robot",
+       "As a comparison: if the heated soil passes the test too, the test is fooled by ordinary chemistry"
       ],
-      "a": 1,
+      "a": 3,
       "why": "The heated soil is a comparison, like the pebble plate in the sleeping seeds experiment. It shows what happens when the living things are killed. If heated soil makes as much gas as fresh soil, the gas probably came from ordinary chemistry, not life. But heat can change some chemicals too. That is one reason scientists still argue about the Viking results. Picking 'heated soil is more alive' is the opposite of the idea."
      }
     }
@@ -2946,12 +2946,12 @@
    "t": "mcq",
    "p": "A mushroom has no legs and no eyes, and stays in one place. Which fact shows that the mushroom is still alive?",
    "opts": [
-    "The mushroom is soft",
     "The mushroom grows from inside and makes spores that grow into new mushrooms",
+    "The mushroom is soft",
     "The mushroom is a different colour from the soil",
     "The mushroom grows near trees"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Growing from inside and making young are strong signs of life. Softness, colour and place tell you nothing. A strong answer tests the mushroom against several signs, not just moving.",
    "outcome": 0
   },
@@ -2972,12 +2972,12 @@
    "t": "mcq",
    "p": "Sugar crystals can grow on a thread hung in thick sugar syrup. Is a growing sugar crystal alive?",
    "opts": [
-    "Yes, because the crystal grows",
     "No. The crystal grows only by sugar sticking onto the outside",
+    "Yes, because the crystal grows",
     "Yes, because sugar is food",
     "Only while the crystal is growing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Living things grow from inside, by turning food into new parts. A crystal only adds on outside, just like the salt crystals in the crystal garden.",
    "outcome": 1,
    "how": "e3"
@@ -2986,12 +2986,12 @@
    "t": "mcq",
    "p": "Your cells and a candle flame both join fuel with oxygen to release energy. Why don't you catch fire?",
    "opts": [
-    "Your cells release the energy slowly, in many small controlled steps",
     "There is no oxygen inside you",
     "Your body is too wet to burn",
-    "Food is not a fuel"
+    "Food is not a fuel",
+    "Your cells release the energy slowly, in many small controlled steps"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Both use the same chemistry. The difference is speed and control. Your cells release a little energy at a time, so you stay warm and never burn.",
    "outcome": 1
   },
@@ -3006,12 +3006,12 @@
    "t": "mcq",
    "p": "Dried yeast in a packet looks like sand. In the balloon test, the bottles with yeast filled their balloons with gas. What does this show about the yeast in the packet?",
    "opts": [
+    "The yeast were alive but dormant, and woke up in the warm sugar water",
     "The yeast in the packet were dead",
     "The packet itself makes gas",
-    "The yeast were alive but dormant, and woke up in the warm sugar water",
     "Sand makes gas in water"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Dormant means alive but resting. The yeast fed on the sugar and gave off gas. The bottle without yeast made none.",
    "outcome": 2,
    "how": "e2"
@@ -3033,12 +3033,12 @@
    "t": "mcq",
    "p": "A talking toy says hello when you clap and flaps its paper wings. Which is the best reason the talking toy is not alive?",
    "opts": [
-    "It has no cells, takes in no food, does not grow and cannot make young",
     "It is too small",
     "It only says one word",
+    "It has no cells, takes in no food, does not grow and cannot make young",
     "It was bought in a shop"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The toy senses a clap and moves, but those are only two signs. A real bird does all the signs of life together.",
    "outcome": 4
   },

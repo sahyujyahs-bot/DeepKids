@@ -459,11 +459,11 @@
       "t": "mcq",
       "q": "In many homes, scared and surprised get mixed up. Why?",
       "options": [
-       "The face maker was not trying hard",
        "Both feelings lift the eyebrows and open the eyes wide",
+       "The face maker was not trying hard",
        "Scared and surprised are the same feeling"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both fear and surprise lift the eyebrows and open the eyes wide, so the faces look very alike. In fear, the eyebrows also pull together and the lips stretch back, but these are small changes. Picking 'the same feeling' is a good thought, but they feel different from the inside: surprise is quick and fear lasts. Picking 'not trying hard' blames the face maker, yet even scientists' photos of scared faces get mixed up with surprise."
      },
      "parent": "Most families find happy is easiest, especially from the mouth. Scared and surprised are often mixed up, and so are angry and disgusted. Eyes-only usually helps more for scared and angry. Mouth-only usually helps more for happy and disgusted. Your results may differ, and that is a real result too."
@@ -716,11 +716,11 @@
       "t": "mcq",
       "q": "A guesser got 9 of 10 smiles right, just by looking at the smiler's eyes. What does this show?",
       "options": [
-       "The smiler's real smiles moved the eyes and cheeks differently from the polite ones",
        "The guesser was just lucky",
+       "The smiler's real smiles moved the eyes and cheeks differently from the polite ones",
        "Smiles only happen in the eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "9 out of 10 is far more than the 5 you would get by guessing, so something in the eyes was different. That is usually the cheeks lifting and the eye corners crinkling. Luck is possible but unlikely with so many right. Smiles happen in the mouth too, which was hidden in this test."
      }
     }
@@ -997,11 +997,11 @@
       "t": "mcq",
       "q": "A child aged 8 sleeps from 10 at night to 6 in the morning. Is that enough?",
       "options": [
-       "Yes, 8 hours is plenty",
        "No, that is 8 hours, but a child of 8 needs about 9 to 12",
+       "Yes, 8 hours is plenty",
        "Yes, because adults sleep 8 hours"
       ],
-      "a": 1,
+      "a": 0,
       "why": "From 10 at night to 6 in the morning is 8 hours. Children aged 6 to 12 need about 9 to 12 hours. Picking 'adults sleep 8 hours' is a common mix-up: growing children need more sleep than adults."
      }
     }
@@ -1117,11 +1117,11 @@
       "t": "mcq",
       "q": "You guessed your friend was angry, but your friend meant embarrassed. How can you be sure what a friend feels?",
       "options": [
-       "Ask your friend how they feel",
        "Decide your friend is angry and stay away",
-       "Laugh too"
+       "Laugh too",
+       "Ask your friend how they feel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Angry and embarrassed can both look tense and red-faced, so the face alone was not enough. Asking lets your friend say what they really feel. Staying away means acting on a guess without checking it. Laughing too would make your friend feel worse."
      }
     },
@@ -1511,12 +1511,12 @@
      "t": "mcq",
      "p": "Which of these shows respect?",
      "opts": [
-      "Hugging a cousin even when she says no",
       "Asking 'Can I hug you?' and waiting for the answer",
+      "Hugging a cousin even when she says no",
       "Laughing when a friend cries",
       "Taking a friend's pencil without asking"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Respect means treating someone's body, feelings and choices as important. Asking first and listening to the answer does that."
     },
     {
@@ -1641,11 +1641,11 @@
      "p": "After a bad night's sleep, a girl snapped at her brother over a small thing. What is the best explanation?",
      "opts": [
       "She is an unkind person",
-      "Too little sleep makes small things feel bigger and makes people cross more easily",
       "Her brother deserved it",
+      "Too little sleep makes small things feel bigger and makes people cross more easily",
       "Sleep has nothing to do with feelings"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Body and feelings affect each other. Tiredness makes it harder to stay calm. It does not mean she is unkind."
     },
     {
@@ -1728,12 +1728,12 @@
      "t": "mcq",
      "p": "In the Face Test, why must the same person make every face in all three rounds?",
      "opts": [
-      "So the guesser gets tired",
       "So only the hidden part of the face changes, and nothing else",
+      "So the guesser gets tired",
       "So the faces look the same",
       "So the guesser can guess the order"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A fair test changes one thing at a time. If a different person made the faces, you would not know if the hidden part or the person made the difference.",
      "how": "e1"
     },
@@ -1741,12 +1741,12 @@
      "t": "mcq",
      "p": "Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?",
      "opts": [
-      "Rats can feel something like joy",
       "Rats are afraid of hands",
+      "Rats can feel something like joy",
       "Rats notice nothing at all",
       "Rats are hungry"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Coming back for more tickling suggests the rats enjoy it. Cautious scientists add that we cannot ask a rat what it feels like."
     },
     {
@@ -1839,11 +1839,11 @@
      "p": "Why might a new child in class look cross on the first day?",
      "opts": [
       "The child must be rude",
-      "Feeling scared or nervous can make a face look tight and cross",
       "The child does not like anyone",
+      "Feeling scared or nervous can make a face look tight and cross",
       "Faces always show exactly what we feel"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Fear and nervousness can tighten the face, so a nervous child can look cross. This is why asking matters."
     },
     {
@@ -1943,12 +1943,12 @@
    "t": "mcq",
    "p": "Which of these is a feeling?",
    "opts": [
-    "Jealous",
     "Tall",
+    "Jealous",
     "Hungry for rice",
     "Brown"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Jealous is a feeling. Tall and brown describe how something looks. Hunger is a body need, though it can make you grumpy.",
    "outcome": 0
   },
@@ -1957,11 +1957,11 @@
    "p": "When you are scared, what happens to your heart?",
    "opts": [
     "It stops",
-    "It beats faster",
     "It beats slower",
-    "Nothing happens"
+    "Nothing happens",
+    "It beats faster"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Fear releases adrenaline, which makes the heart beat faster so the body is ready to act.",
    "outcome": 1
   },
@@ -1983,11 +1983,11 @@
    "p": "How many hours of sleep does a child of 8 need each night?",
    "opts": [
     "About 5",
-    "About 7",
     "About 9 to 12",
+    "About 7",
     "About 15"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Children aged 6 to 12 need about 9 to 12 hours of sleep a night.",
    "outcome": 4
   },
@@ -2008,12 +2008,12 @@
    "t": "mcq",
    "p": "Many people feel happy when they share a treat with a friend. What does this show about happiness?",
    "opts": [
-    "Happiness can come from giving, not only from getting",
     "Only getting things makes us happy",
     "Sharing always makes people angry",
-    "Feelings never change"
+    "Feelings never change",
+    "Happiness can come from giving, not only from getting"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Giving can make us feel good inside. Scientists found that even children under two looked happier giving a treat than getting one.",
    "outcome": 5
   },
@@ -2021,12 +2021,12 @@
    "t": "mcq",
    "p": "How can you often tell a real, happy smile from a polite one?",
    "opts": [
-    "A real smile uses only the mouth",
     "A real smile also crinkles the corners of the eyes",
+    "A real smile uses only the mouth",
     "A real smile moves the ears",
     "You cannot tell: they are the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A happy smile lifts the cheeks and crinkles the eye corners. A polite smile often uses only the mouth.",
    "outcome": 6
   },
@@ -2034,12 +2034,12 @@
    "t": "mcq",
    "p": "Someone says animals do not have the face muscles people use to show feelings. How could you check?",
    "opts": [
-    "Compare the faces and face muscles of people with apes, monkeys and dogs",
     "Ask a friend",
+    "Compare the faces and face muscles of people with apes, monkeys and dogs",
     "Look at one photo of a person",
     "Nobody can check"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Comparing is how you find out. Charles Darwin did this and found that people and other animals share face muscles and expressions.",
    "outcome": 6
   },
@@ -2048,11 +2048,11 @@
    "p": "Your tummy flutters before a dance show. Where is this feeling happening?",
    "opts": [
     "Only in your mind",
-    "In your body as well as your mind",
     "Only in your feet",
-    "Nowhere"
+    "Nowhere",
+    "In your body as well as your mind"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Nervousness changes the body, including the tummy. A feeling happens in the whole body.",
    "outcome": 1
   },
@@ -2060,12 +2060,12 @@
    "t": "mcq",
    "p": "Which helps a big angry feeling settle best?",
    "opts": [
+    "Stopping, breathing slowly and naming the feeling",
     "Shouting louder",
     "Hitting a pillow while thinking about the person",
-    "Stopping, breathing slowly and naming the feeling",
     "Hiding it forever"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Stopping and naming the feeling helps it settle. A 2002 study found hitting a punching bag while angry made people more aggressive.",
    "outcome": 4
   },
@@ -2073,12 +2073,12 @@
    "t": "mcq",
    "p": "In the Face Test, which feeling is usually easiest to read from the mouth alone?",
    "opts": [
-    "Scared",
     "Happy",
+    "Scared",
     "Surprised",
     "Angry"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A happy mouth turns up, which is very easy to see. Scared, surprised and angry show more in the eyes and eyebrows.",
    "outcome": 2,
    "how": "e1"
@@ -2087,11 +2087,11 @@
    "t": "mcq",
    "p": "Your classmate uses a wheelchair. Which one shows respect?",
    "opts": [
-    "Ask what help she wants, and wait for her answer",
     "Push her chair without asking, so she gets there faster",
+    "Ask what help she wants, and wait for her answer",
     "Make a joke about how she moves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Respect means asking first and listening to her choice. Pushing her chair without asking takes away her choice, and a joke about how she moves hurts her feelings.",
    "outcome": 5
   }

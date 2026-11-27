@@ -430,11 +430,11 @@
       "t": "mcq",
       "q": "What do all the cards on the BIRD sheet have?",
       "options": [
-       "Feathers",
        "Fur",
+       "Feathers",
        "Teeth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every bird has feathers, even a hen who can hardly fly, and an ostrich and a penguin who cannot fly at all. A bat has fur, so a bat is not a bird."
      }
     }
@@ -1356,11 +1356,11 @@
      "t": "mcq",
      "p": "A bird sitting on her nest hears another bird's danger call. Why does she press down flat and stay still?",
      "opts": [
-      "To hide from the danger",
       "She is sleepy",
+      "To hide from the danger",
       "She is looking for food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The danger call warns that a cat or other hunter is near. Pressing flat and staying still makes her hard to see."
     },
     {
@@ -1494,11 +1494,11 @@
      "t": "mcq",
      "p": "Juice is at the bottom of a tall, thin bottle. Why can a straw reach it when a spoon cannot?",
      "opts": [
-      "The straw is long and thin",
       "The straw is red",
-      "The straw is soft"
+      "The straw is soft",
+      "The straw is long and thin"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A long, thin straw reaches deep into the bottle, as a sunbird's long, thin beak reaches deep into a flower.",
      "how": "a2"
     },
@@ -1664,11 +1664,11 @@
    "t": "mcq",
    "p": "What does every bird have?",
    "opts": [
-    "Feathers",
     "Fur",
+    "Feathers",
     "Teeth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every bird has feathers. Birds have no teeth, and fur belongs to animals like cats and bats.",
    "outcome": 0
   },
@@ -1677,10 +1677,10 @@
    "p": "A bat can fly. Is a bat a bird?",
    "opts": [
     "Yes, because a bat flies",
-    "No, because a bat has no feathers",
-    "Only at night"
+    "Only at night",
+    "No, because a bat has no feathers"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A bat has fur, not feathers. Flying does not make an animal a bird.",
    "outcome": 0
   },
@@ -1688,11 +1688,11 @@
    "t": "mcq",
    "p": "What do soft, fluffy feathers do for a bird?",
    "opts": [
-    "Keep the bird warm",
     "Help the bird see",
-    "Help the bird eat"
+    "Help the bird eat",
+    "Keep the bird warm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fluffy feathers hold warm air close to the skin, like a blanket.",
    "outcome": 1
   },
@@ -1700,11 +1700,11 @@
    "t": "mcq",
    "p": "A sparrow has a short, thick beak. What does a sparrow mostly eat?",
    "opts": [
-    "Fish",
     "Seeds and grains",
+    "Fish",
     "Nectar from flowers"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A short, thick beak is strong enough to crack seeds and grains.",
    "outcome": 2
   },
@@ -1736,11 +1736,11 @@
    "t": "mcq",
    "p": "You drop one bean into a cup each time you hear a bird call. What does one bean stand for?",
    "opts": [
-    "One bird",
     "One bird call",
+    "One bird",
     "One minute"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One bean drops for every call. So more beans means more calls.",
    "outcome": 4,
    "how": "e1"
@@ -1773,11 +1773,11 @@
    "t": "mcq",
    "p": "Why should you change the water in a bird bowl every day?",
    "opts": [
-    "So it stays clean and mosquitoes cannot breed",
     "So it stays cold",
+    "So it stays clean and mosquitoes cannot breed",
     "So the bowl looks shiny"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Old water gets dirty, and mosquitoes can lay eggs in still water left for days.",
    "outcome": 5
   },
@@ -1785,11 +1785,11 @@
    "t": "mcq",
    "p": "A baya weaver's nest hangs from a thin branch like a bag. What is the nest made from?",
    "opts": [
-    "Long strips of grass, woven",
     "A hole chiselled in a tree",
-    "Mud and a few twigs on a ledge"
+    "Mud and a few twigs on a ledge",
+    "Long strips of grass, woven"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The baya weaver weaves long strips of grass into a hanging nest. A woodpecker chisels a hole in a tree, and a pigeon piles twigs on a ledge.",
    "outcome": 3
   },
@@ -1798,10 +1798,10 @@
    "p": "A woodpecker lays her eggs inside a round hole in a tree trunk. How did the hole get there?",
    "opts": [
     "A snake made it",
-    "She chiselled it with her strong beak",
-    "It grew there by itself"
+    "It grew there by itself",
+    "She chiselled it with her strong beak"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A woodpecker has a strong beak and chisels a hole in the wood. The hole keeps her eggs safe in the dark.",
    "outcome": 3
   },
@@ -1822,10 +1822,10 @@
    "p": "You make a bird bath for sparrows. Which one is best?",
    "opts": [
     "A deep bucket of water in the sun",
-    "A shallow dish with a flat stone in the middle, in the shade",
-    "A dish of water on the ground next to a cat"
+    "A dish of water on the ground next to a cat",
+    "A shallow dish with a flat stone in the middle, in the shade"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Small birds stand on the stone and drink, and a shallow dish is safe. Shade keeps the water cool. Cats can jump on a bird on the ground.",
    "outcome": 5
   },

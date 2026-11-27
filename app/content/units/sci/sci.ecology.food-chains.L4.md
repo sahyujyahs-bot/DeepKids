@@ -459,13 +459,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: A living being who makes her own food, using light or chemicals / An animal who eats plants / A fungus who feeds on dead leaves  
    **Answer:** A living being who makes her own food, using light or chemicals. *Why:* A producer starts the food chain by making food herself. A plant uses sunlight to make sugar. An animal who eats plants is a consumer, and a fungus who feeds on dead matter is a decomposer.
 2. (mcq) In the food chain rice plant, grasshopper, frog, snake, which trophic level is the frog?  
-   Options: Level 3 / Level 2 / Level 4  
+   Options: Level 2 / Level 3 / Level 4  
    **Answer:** Level 3. *Why:* Counting from the producers, the rice plant is level 1, the grasshopper is level 2 and the frog is level 3. The snake is level 4.
 3. (mcq) What does the arrow in a food chain show?  
-   Options: The way the energy goes, from the food to the eater / Which animal is stronger / Which animal eats first  
+   Options: Which animal is stronger / The way the energy goes, from the food to the eater / Which animal eats first  
    **Answer:** The way the energy goes, from the food to the eater. *Why:* The arrow points from the eaten to the eater, because it shows the way the energy moves. Some children read the arrow as 'eats', and then they draw it pointing the wrong way.
 4. (mcq) An animal eats a lot of food. Where does most of the energy in that food end up?  
-   Options: As heat, made when her cells use food to run her body / As new body, so she grows a lot / In the air as light  
+   Options: As new body, so she grows a lot / As heat, made when her cells use food to run her body / In the air as light  
    **Answer:** As heat, made when her cells use food to run her body. *Why:* Most of the energy is used by cells for movement, repair and keeping warm. That use is respiration, and it ends as heat. Only a small part becomes new body.
 5. (truefalse) A mushroom is a decomposer who eats living plants.  
    **Answer:** False. *Why:* False. A mushroom is a fungus who digests dead matter outside her body and soaks up the food. Most mushrooms you see around the home grow on rotting wood or soil.
@@ -493,13 +493,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    **Answer:** Grasshopper, because she eats living plants. The other three are decomposers who feed on dead matter.. *Why:* Mushrooms, moulds and compost bacteria digest dead matter. A grasshopper is a consumer who eats living leaves.
 ### Pyramids, Levels and Heat (stretch) (stretch, 16 questions)
 1. (mcq) Why can the pyramid of numbers for a banyan tree be wide in the middle?  
-   Options: One big tree can feed thousands of small animals / The tree is not a producer / The insects are bigger than the tree  
+   Options: The tree is not a producer / The insects are bigger than the tree / One big tree can feed thousands of small animals  
    **Answer:** One big tree can feed thousands of small animals. *Why:* One banyan has an enormous amount of leaf, so she can feed very many small animals. The count at the bottom is only one, so the pyramid of numbers is not shaped like a pyramid. Pyramids of biomass and energy would have a wide base.
 2. (mcq) At any one moment in the open sea, the tiny algae weigh less than the tiny animals who eat them. Why is the energy pyramid still wide at the bottom?  
    Options: The algae divide so quickly that they make far more food energy over a year / Algae are heavier than animals / The animals do not need food  
    **Answer:** The algae divide so quickly that they make far more food energy over a year. *Why:* The algae are eaten almost as fast as they grow, so at one moment their weight is small. But they replace themselves every day or two, so over a year they make much more energy than the animals above.
 3. (mcq) A hen and a fish weigh the same. Why does the fish turn a larger share of her food into new body?  
-   Options: The hen is warm-blooded and uses most of her food to keep warm / Fish eat more than hens / Hens do not respire  
+   Options: Fish eat more than hens / The hen is warm-blooded and uses most of her food to keep warm / Hens do not respire  
    **Answer:** The hen is warm-blooded and uses most of her food to keep warm. *Why:* Warm-blooded animals make heat all the time to stay warm. That uses most of their food. A fish stays close to the water's temperature, so more of her food can become body.
 4. (mcq) A crow eats half grain and fruit, which are level 1, and half insects, which are level 2. What is her level?  
    Options: 2.5 / 1.5 / 3  
@@ -533,7 +533,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: Chemicals from the vent, such as hydrogen sulfide / Sunlight that sinks from the top / Leaves that fall from land  
    **Answer:** Chemicals from the vent, such as hydrogen sulfide. *Why:* The bacteria use the energy in chemicals from the vent, a process called chemosynthesis. No sunlight reaches that depth. Their food chain starts with chemical energy from inside the Earth.
 2. (mcq) Why do ecologists measure heavy nitrogen in an animal's body?  
-   Options: Its heavy kind builds up a little at each step up the food chain, so it shows her level / It shows how old she is / It shows how fast she can run  
+   Options: It shows how old she is / Its heavy kind builds up a little at each step up the food chain, so it shows her level / It shows how fast she can run  
    **Answer:** Its heavy kind builds up a little at each step up the food chain, so it shows her level. *Why:* The heavy kind of nitrogen builds up a little at every step. By measuring it, scientists can tell what level an animal has fed at over a long time, even if they never saw her eat.
 3. (mcq) In a forest, grazing animals eat only a small share of the leaves while they are alive. What happens to the rest?  
    Options: It falls and is eaten as dead matter by detritivores and decomposers / It is lost and no one ever uses it / It turns straight into soil without any living being  
@@ -580,31 +580,31 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
    Options: Only a small part becomes new body that the next eater can use / Nearly all of it becomes new body / None of it becomes heat  
    **Answer:** Only a small part becomes new body that the next eater can use. *Why:* Most of the food is used by cells and ends as heat. A small part grows the body, and some leaves as dung. So the next eater gets only a small part.
 3. (mcq) Why do hunters at the top of a food chain need a large area to live in?  
-   Options: Little energy reaches the top, so many levels of plants and animals are needed beneath them / They like to walk far / Plants grow slowly near hunters  
+   Options: They like to walk far / Little energy reaches the top, so many levels of plants and animals are needed beneath them / Plants grow slowly near hunters  
    **Answer:** Little energy reaches the top, so many levels of plants and animals are needed beneath them. *Why:* Each step loses most of the energy. A hunter needs the food of many levels below her, so she needs a large area with a lot of plants.
 4. (mcq) A pyramid of numbers for one oak tree and the insects living on her is wide in the middle. What does this show?  
-   Options: Counting beings can hide how much a big producer gives / The oak is not a producer / Insects weigh more than the oak  
+   Options: The oak is not a producer / Counting beings can hide how much a big producer gives / Insects weigh more than the oak  
    **Answer:** Counting beings can hide how much a big producer gives. *Why:* A single tree can feed thousands of insects. Counting gives one at the bottom, so the shape looks odd. A pyramid of energy would be wide at the bottom.
 5. (mcq) A warm-blooded hunter and a cold-blooded hunter eat the same weight of food. Who makes more new body?  
-   Options: The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm / The warm-blooded hunter, because she is bigger / They make the same amount  
+   Options: The warm-blooded hunter, because she is bigger / The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm / They make the same amount  
    **Answer:** The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm. *Why:* Keeping the body warm uses a lot of food and ends as heat. Cold-blooded animals do less of this, so more of their food can become body.
 6. (mcq) What is detritus?  
-   Options: Dead leaves, wood, dung and dead bodies, broken into pieces / Only the soil under a tree / A kind of living fungus  
+   Options: Only the soil under a tree / A kind of living fungus / Dead leaves, wood, dung and dead bodies, broken into pieces  
    **Answer:** Dead leaves, wood, dung and dead bodies, broken into pieces. *Why:* Detritus is the dead matter that detritivores and decomposers eat. Soil is not only detritus, and a fungus is a living decomposer.
 7. (mcq) In a mangrove creek, why would cutting the trees reduce the number of prawns?  
    Options: Fewer leaves fall, so there is less food at the start of the dead-leaf chain / Prawns eat the trees directly / The water becomes colder  
    **Answer:** Fewer leaves fall, so there is less food at the start of the dead-leaf chain. *Why:* Fallen leaves feed crabs and small animals, which feed prawns. Cutting the trees cuts the supply of leaves, so each level below the prawns has less food.
 8. (mcq) What happens to the atoms in a dead leaf?  
-   Options: Decomposers and other eaters pass them on, and they return to the soil, water and air / They disappear / They are turned into energy and leave as light  
+   Options: They disappear / Decomposers and other eaters pass them on, and they return to the soil, water and air / They are turned into energy and leave as light  
    **Answer:** Decomposers and other eaters pass them on, and they return to the soil, water and air. *Why:* Atoms are not destroyed. They move from leaf to fungus to animal and back to the air and soil. They are used again and again.
 9. (mcq) Which statement about energy and atoms is correct?  
    Options: Atoms go round and round, but energy flows through and leaves as heat / Energy goes round and atoms leave / Both stay inside living things for ever  
    **Answer:** Atoms go round and round, but energy flows through and leaves as heat. *Why:* Atoms are used again and again. Energy arrives as light and leaves as heat, so life needs a fresh supply of sunlight every day.
 10. (mcq) Why must a fair test of burning peanuts use the same amount of water and the same height for the tin?  
-   Options: So that only one thing changes and any difference comes from that one thing / So that the nuts burn faster / So that the flame is bigger  
+   Options: So that the nuts burn faster / So that only one thing changes and any difference comes from that one thing / So that the flame is bigger  
    **Answer:** So that only one thing changes and any difference comes from that one thing. *Why:* A fair test changes one thing at a time. If the water or the height changes too, we cannot tell which change caused the different result.
 11. (mcq) The water over a burning nut caught only a quarter of the nut's energy. Which statement is the best explanation?  
-   Options: The rest of the heat warmed the air, the tin and the smoke / A nut holds less energy than the label says / Three quarters of the energy was destroyed  
+   Options: A nut holds less energy than the label says / Three quarters of the energy was destroyed / The rest of the heat warmed the air, the tin and the smoke  
    **Answer:** The rest of the heat warmed the air, the tin and the smoke. *Why:* Energy is not destroyed. The rest of the heat spread into the air and the tin, so the water could not catch it all. This is a small version of the loss at every step of a food chain.
 12. (mcq) Scientists disagree about whether plants from below or hunters from above run a food web. What is the best way to settle it?  
    Options: Measure plants, grazers and hunters in many places and compare them / Ask the oldest scientist / Choose the view that most people like  

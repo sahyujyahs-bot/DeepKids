@@ -440,11 +440,11 @@
       "t": "mcq",
       "q": "You mix yellow and blue paint. Then you add lots more yellow. What do you get?",
       "options": [
-       "A yellowish green",
        "Plain yellow again",
+       "A yellowish green",
        "Blue again"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Once two paints are mixed, they stay mixed. More yellow makes the green paler and more yellowish, but the blue is still there."
      }
     }
@@ -589,11 +589,11 @@
       "t": "mcq",
       "q": "You pour lots of water into green water. What colour does it turn?",
       "options": [
-       "Pale green",
        "Yellow",
+       "Pale green",
        "Clear, like water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water spreads the yellow and the blue out, so the green gets paler. Both colours are still there, so it stays green."
      }
     }
@@ -670,11 +670,11 @@
       "t": "mcq",
       "q": "Which two paints could we mix to make the green of a curry leaf?",
       "options": [
-       "Yellow and blue",
        "Red and blue",
-       "Red and yellow"
+       "Red and yellow",
+       "Yellow and blue"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Yellow and blue make green. Red and blue make purple, and red and yellow make orange."
      }
     }
@@ -763,11 +763,11 @@
       "t": "mcq",
       "q": "Where did our yellow paint come from?",
       "options": [
-       "Turmeric, from a plant",
        "A shop",
+       "Turmeric, from a plant",
        "Water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Turmeric is dug from the ground. The turmeric plant makes that yellow inside the part we dig up."
      }
     }
@@ -844,11 +844,11 @@
       "t": "mcq",
       "q": "Why do many flowers have bright colours?",
       "options": [
-       "To call bees and butterflies",
        "To keep warm",
+       "To call bees and butterflies",
        "To scare the rain away"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Bright colours help bees and butterflies find a flower's nectar. As they visit, they carry pollen from flower to flower."
      }
     }
@@ -963,11 +963,11 @@
       "t": "mcq",
       "q": "A card says \"Lots of yellow + a little blue\". What does it make?",
       "options": [
-       "Light green",
        "Dark green",
-       "Purple"
+       "Purple",
+       "Light green"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Lots of yellow makes the green lighter. Lots of blue would make it darker."
      }
     }
@@ -1045,11 +1045,11 @@
       "t": "mcq",
       "q": "The caller says 'Purple!' Which two cards do you hold up?",
       "options": [
-       "Red and blue",
        "Yellow and blue",
+       "Red and blue",
        "Red and yellow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Red and blue make purple. Yellow and blue make green, and red and yellow make orange."
      }
     }
@@ -1217,11 +1217,11 @@
       "t": "mcq",
       "q": "Your green is too light. What could you add?",
       "options": [
-       "A little more blue",
        "Lots of water",
+       "A little more blue",
        "A lot more yellow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "More blue makes the green darker. Water and more yellow would make it lighter still."
      }
     }
@@ -1401,11 +1401,11 @@
      "t": "mcq",
      "p": "You add 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?",
      "opts": [
-      "It gets darker",
       "It gets lighter",
+      "It gets darker",
       "It turns yellow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each drop of blue adds more blue, which absorbs more light. So the green gets darker.",
      "how": "e2"
     },
@@ -1465,11 +1465,11 @@
      "t": "mcq",
      "p": "A pigeon's neck shines green and then purple as they turn their head. What makes those colours?",
      "opts": [
-      "Tiny layers in their feathers",
       "Paint",
-      "Sunlight getting tired"
+      "Sunlight getting tired",
+      "Tiny layers in their feathers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when they turn.",
      "how": "a3"
     },
@@ -1502,11 +1502,11 @@
    "t": "mcq",
    "p": "You mix red and yellow paint. What colour do you get?",
    "opts": [
-    "Orange",
     "Green",
+    "Orange",
     "Blue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Red and yellow make orange, like a marigold or a carrot.",
    "outcome": 0,
    "how": "e1"
@@ -1515,11 +1515,11 @@
    "t": "mcq",
    "p": "Which two paints make purple?",
    "opts": [
-    "Red and blue",
     "Yellow and blue",
-    "Red and yellow"
+    "Red and yellow",
+    "Red and blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Red and blue make purple, like a brinjal or a jamun.",
    "outcome": 0,
    "how": "e1"
@@ -1540,11 +1540,11 @@
    "t": "mcq",
    "p": "Which of these colours can you mix from two other paints?",
    "opts": [
-    "Orange",
     "Red",
+    "Orange",
     "Yellow"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Orange is mixed from red and yellow. Red and yellow are primary colours.",
    "outcome": 1
   },
@@ -1552,11 +1552,11 @@
    "t": "mcq",
    "p": "Is a mix of yellow and blue paint lighter or darker than the yellow?",
    "opts": [
-    "Darker",
     "Lighter",
-    "Just the same"
+    "Just the same",
+    "Darker"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The blue paint absorbs more of the light, so less light comes back. The green is darker than the yellow.",
    "outcome": 2
   },
@@ -1564,11 +1564,11 @@
    "t": "mcq",
    "p": "You add lots of water to green paint. What happens?",
    "opts": [
-    "It turns pale green",
     "It turns yellow",
+    "It turns pale green",
     "It turns blue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water spreads the colours out, so the green gets paler. The yellow and blue are both still there.",
    "outcome": 3,
    "how": "e2"
@@ -1589,11 +1589,11 @@
    "t": "mcq",
    "p": "Why do many flowers have bright colours?",
    "opts": [
-    "To call bees and butterflies",
     "To keep warm",
+    "To call bees and butterflies",
     "To frighten the Sun"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bright colours help bees and butterflies find a flower's nectar.",
    "outcome": 5,
    "how": "a3"
@@ -1602,11 +1602,11 @@
    "t": "mcq",
    "p": "Why do we see a leaf as green?",
    "opts": [
-    "The leaf sends green light back to our eyes",
     "The leaf makes green light in the dark",
+    "The leaf sends green light back to our eyes",
     "Someone paints the leaf green"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A leaf soaks up some of the light that falls on it and sends green light back to our eyes. With no light, there is no green to see.",
    "outcome": 4
   }

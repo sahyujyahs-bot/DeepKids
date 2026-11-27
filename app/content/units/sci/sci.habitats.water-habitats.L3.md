@@ -564,19 +564,19 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 3. (truefalse) Cold water holds more dissolved air than warm water.  
    **Answer:** True. *Why:* True. That is why, in the Cold Glass Test, the glass of fridge-cold tap water grew the most bubbles as it warmed up.
 4. (mcq) You fill a glass with cold water from the fridge and leave it on the table. An hour later, tiny bubbles cover the inside of the glass. What are the bubbles?  
-   Options: Soap left in the glass / Air that was dissolved in the water / Steam / Tiny fish eggs  
+   Options: Soap left in the glass / Steam / Tiny fish eggs / Air that was dissolved in the water  
    **Answer:** Air that was dissolved in the water. *Why:* The water held dissolved air. As it warmed up, it could not hold it all, so some came out as bubbles. Steam comes only from very hot water.
 5. (fill) A fish takes oxygen out of the water with their ____.  
    **Answer:** ['gills']. *Why:* Gills have many thin red folds full of blood. Oxygen passes from the water into the blood there.
 6. (fill) A young frog that lives in water and has a tail is called a ____.  
    **Answer:** ['tadpole']. *Why:* A tadpole breathes with gills. They grow legs and lungs, and their tail shrinks, as they become a frog.
 7. (mcq) A grown-up frog breathes with their lungs and with their...  
-   Options: tail / wet skin / eyes / toes  
+   Options: tail / eyes / wet skin / toes  
    **Answer:** wet skin. *Why:* Oxygen passes through a frog's thin skin, but only when the skin is wet. That is why frogs stay near water.
 8. (match) Match each living thing to how they get their oxygen.  
    **Answer:** Fish → gills, from the water; Tadpole → gills, from the water; Adult frog → lungs and wet skin; Lotus roots → air sent down through the stem. *Why:* Each living thing in a pond has their own way of getting oxygen.
 9. (mcq) You put cucumber slices in very salty water. After 20 minutes, what happens to them?  
-   Options: They go stiff and hard / They go floppy / They turn blue / Nothing happens  
+   Options: They go floppy / They go stiff and hard / They turn blue / Nothing happens  
    **Answer:** They go floppy. *Why:* Water moves out of the cucumber into the saltier water, so the slices go limp. Sea water would do the same to a river fish.
 10. (write) Why do fish in a pond sometimes gulp at the surface just before sunrise? Use the words 'algae' and 'oxygen'.  
    **Answer:** At night, algae cannot make oxygen, but everything in the pond keeps using it. By sunrise the oxygen is lowest, so fish gulp the water at the top, which touches the air.. *Why:* A full answer says that algae stop making oxygen at night and that the oxygen gets used up.
@@ -593,15 +593,15 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** The flat dome. *Why:* The flat dome is low, so the water slides over it, and its wide base grips the plate. Many stream animals are flat for this reason.
 ### Breathing Under Water (stretch) (stretch, 15 questions)
 1. (mcq) In the Cold Glass Test, why did glass B, the boiled water, grow almost no bubbles?  
-   Options: Boiling made the water heavier / Boiling had already driven most of the air out / Boiled water is too clean / Glass B was a different shape  
+   Options: Boiling made the water heavier / Boiled water is too clean / Glass B was a different shape / Boiling had already driven most of the air out  
    **Answer:** Boiling had already driven most of the air out. *Why:* Boiling drives dissolved air out of water. The bottle was full and capped, so little air could dissolve back in. So there was little air left to come out.
 2. (mcq) In the Cold Glass Test, you warm three glasses: cold tap water, cold boiled water and room-temperature tap water. In a fair test, what is the one thing that should be different between the three glasses?  
-   Options: The size of the glass / The warm bath / The water inside / The time you wait  
+   Options: The size of the glass / The water inside / The warm bath / The time you wait  
    **Answer:** The water inside. *Why:* In a fair test, only one thing changes. Here it is the water inside. The glass, the warm bath and the waiting time stay the same.
 3. (truefalse) A fish taken out of water can breathe the air with their gills.  
    **Answer:** False. *Why:* False. Out of water, a fish's thin gill folds stick together and stop working, so most fish cannot breathe in air. A few, like the murrel, have extra air-breathing parts.
 4. (mcq) Water holds about how much oxygen compared with the same amount of air?  
-   Options: The same / About twice as much / About 30 times less / No oxygen at all  
+   Options: The same / About twice as much / No oxygen at all / About 30 times less  
    **Answer:** About 30 times less. *Why:* Water holds about 30 times less oxygen than the same amount of air. That is why fish must pass so much water over their gills.
 5. (perspective) Scientists disagree about whether fish feel pain.  
    **Answer:** A strong answer picks a view and gives a reason, such as the fish that stopped eating after a sting, or the different brain. It then says what another view gets right: nobody can ask a fish, and a fish brain is built differently from ours.. *Why:* This is an open question. The answer shows careful thinking, not one right side.
@@ -616,7 +616,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 10. (fill) Water that is a mix of fresh and salt water, where a river meets the sea, is called ____ water.  
    **Answer:** ['brackish']. *Why:* The Kerala backwaters, Pulicat lake and Chilika lake are partly brackish.
 11. (mcq) Why do frogs come out after rain?  
-   Options: The rain washes their food away / The air is damp, so their skin stays wet for breathing / They like the sound / They are cold  
+   Options: The rain washes their food away / They like the sound / The air is damp, so their skin stays wet for breathing / They are cold  
    **Answer:** The air is damp, so their skin stays wet for breathing. *Why:* A frog breathes partly through their skin, which must stay wet. Damp air after rain lets them move about without drying out.
 12. (match) Match each problem to the feature that helps.  
    **Answer:** Roots in airless mud → air canals in the lotus stem; Fast flowing water → a flat body that hugs rocks; Little oxygen in water → gills with many thin folds; Moving through water easily → a streamlined body. *Why:* Each feature solves a problem that the living thing has in water.
@@ -629,20 +629,20 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    **Answer:** Boiling drives the dissolved air out of the water, and fish breathe that dissolved oxygen. A fish in boiled and cooled water would have almost nothing to breathe.. *Why:* A strong answer says that boiling removes dissolved oxygen, and fish need it.
 ### Water Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) A fish tank sits in a sunny window in May, and the fish keep gulping at the top. What is the best fix?  
-   Options: Add more fish / Move it into the shade and add an air pump or more plants / Add salt / Turn off the light at night  
+   Options: Add more fish / Add salt / Move it into the shade and add an air pump or more plants / Turn off the light at night  
    **Answer:** Move it into the shade and add an air pump or more plants. *Why:* Shade keeps the water cooler, so it holds more oxygen. A pump mixes in air, and plants add oxygen in the day.
 2. (mcq) Two ponds are the same size. Pond A is clear and cool under trees. Pond B is shallow, sunny and very green. Which is more likely to run short of oxygen at dawn?  
-   Options: Pond A / Pond B / Both the same  
+   Options: Pond B / Pond A / Both the same  
    **Answer:** Pond B. *Why:* Pond B is warmer, so it holds less oxygen. Its many algae use up oxygen all night. So at dawn it has the least.
 3. (truefalse) A warm aquarium can hold more fish than a cool one of the same size.  
    **Answer:** False. *Why:* False. Warm water holds less oxygen, so a warm tank can support fewer fish, not more.
 4. (mcq) Why do fish in a river usually face upstream?  
-   Options: To see their friends / So water flows into their mouths and over their gills the right way / Because they are lost / To keep warm  
+   Options: To see their friends / Because they are lost / To keep warm / So water flows into their mouths and over their gills the right way  
    **Answer:** So water flows into their mouths and over their gills the right way. *Why:* When a fish faces the current, water flows in at the mouth and out over the gills. If the fish faced the other way, water would push against the gill covers.
 5. (write) 'Green water is always bad for fish.' Is this right? Explain.  
    **Answer:** Not always. Some algae feed the animals in a pond and make oxygen in the day. The trouble comes when far too many grow, and they use up oxygen at night and when they rot.. *Why:* A good answer says some algae are good and too many are harmful.
 6. (mcq) The hilsa lives in the sea and lays their eggs in rivers. What must their body be able to do?  
-   Options: Live in both salty and fresh water / Breathe air / Climb waterfalls / Live without oxygen  
+   Options: Breathe air / Climb waterfalls / Live without oxygen / Live in both salty and fresh water  
    **Answer:** Live in both salty and fresh water. *Why:* Moving from the sea to a river, the hilsa must cope with very different saltiness. Most fish cannot do this.
 7. (mcq) At dawn, a pond is short of oxygen and most fish gasp at the top. One kind of fish stays calm. What could that fish most likely do?  
    Options: Sleep through the night / Breathe air at the surface / Eat algae / Hide in the mud  
@@ -677,37 +677,37 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
    Options: A village pond / The Kaveri river / The Arabian Sea / Rain  
    **Answer:** The Arabian Sea. *Why:* Sea water is salty, about 35 grams of salt in every litre. Ponds, rivers and rain are fresh.
 3. (mcq) You warm three glasses of water: fridge-cold tap water, fridge-cold boiled water, and room-temperature tap water. Which grows the most bubbles?  
-   Options: The fridge-cold tap water / The fridge-cold boiled water / The room-temperature tap water  
+   Options: The fridge-cold boiled water / The room-temperature tap water / The fridge-cold tap water  
    **Answer:** The fridge-cold tap water. *Why:* Cold water holds the most dissolved air, so most comes out when it warms. Boiling had already driven the air out of the boiled water.
 4. (mcq) In the Cold Glass Test, what were the tiny bubbles on the inside of the warmed glass?  
-   Options: Steam / Air that had been dissolved in the water / Soap / Germs  
+   Options: Steam / Soap / Germs / Air that had been dissolved in the water  
    **Answer:** Air that had been dissolved in the water. *Why:* Nothing was added. The air was dissolved in the water all along and came out as the water warmed.
 5. (mcq) What does a fish breathe?  
    Options: The water / Oxygen dissolved in the water / Air from above the water, always / Nothing  
    **Answer:** Oxygen dissolved in the water. *Why:* A fish's gills take the dissolved oxygen out of the water. Picking 'the water' is a very common mistake.
 6. (mcq) Why might fish gulp at a pond's surface on a hot morning?  
-   Options: They are hungry / The water is short of oxygen / They want to see the sun / They are playing  
+   Options: The water is short of oxygen / They are hungry / They want to see the sun / They are playing  
    **Answer:** The water is short of oxygen. *Why:* Warm water holds less oxygen, and at night algae make none. By morning the oxygen is low, so fish gulp the water at the top.
 7. (mcq) How does a tadpole breathe?  
-   Options: With lungs / With gills / Through their tail only / They do not breathe  
+   Options: With lungs / Through their tail only / They do not breathe / With gills  
    **Answer:** With gills. *Why:* A tadpole breathes dissolved oxygen with gills. As they become a frog, lungs grow and the gills go.
 8. (mcq) Why must a frog's skin stay wet?  
-   Options: To look shiny / Because they breathe through their skin, and oxygen passes only through wet skin / To stay cool only / To keep insects away  
+   Options: To look shiny / To stay cool only / To keep insects away / Because they breathe through their skin, and oxygen passes only through wet skin  
    **Answer:** Because they breathe through their skin, and oxygen passes only through wet skin. *Why:* A frog breathes partly through their skin. Dry skin cannot take in oxygen.
 9. (mcq) What are the holes in a lotus stem for?  
-   Options: Storing water / Carrying air down to the parts in the mud / Letting fish through / Making it taste good  
+   Options: Storing water / Letting fish through / Making it taste good / Carrying air down to the parts in the mud  
    **Answer:** Carrying air down to the parts in the mud. *Why:* Pond mud has almost no oxygen. Air canals carry air from the leaves to the underground stem and roots.
 10. (mcq) When do algae make oxygen?  
-   Options: Only at night / Only in light / All the time, equally / Never  
+   Options: Only at night / All the time, equally / Only in light / Never  
    **Answer:** Only in light. *Why:* Algae make oxygen by photosynthesis, which needs light. In the dark they make no oxygen, but they still use some.
 11. (mcq) A lake gets sewage flowing into it, and it turns bright green. Why do fish start to die?  
-   Options: The green colour hurts their eyes / Far too many algae grow, then die and rot, and the rotting uses up the oxygen / The lake gets too cold / The fish eat too much  
+   Options: Far too many algae grow, then die and rot, and the rotting uses up the oxygen / The green colour hurts their eyes / The lake gets too cold / The fish eat too much  
    **Answer:** Far too many algae grow, then die and rot, and the rotting uses up the oxygen. *Why:* Sewage feeds an algal bloom. When the algae die, bacteria rot them and use up the oxygen fish need.
 12. (mcq) Cucumber slices are put in very salty water. Why do they go floppy?  
-   Options: Salt makes them heavy / Water moves out of them into the salty water / They soak up too much water / They get cold  
+   Options: Salt makes them heavy / They soak up too much water / Water moves out of them into the salty water / They get cold  
    **Answer:** Water moves out of them into the salty water. *Why:* Water moves from the less salty side to the more salty side. The cucumber lost water and went limp.
 13. (mcq) Why can't most river fish live in the sea?  
-   Options: The sea is too big / The salty sea would pull water out of their bodies / There is no food in the sea / The sea is too cold  
+   Options: The sea is too big / There is no food in the sea / The sea is too cold / The salty sea would pull water out of their bodies  
    **Answer:** The salty sea would pull water out of their bodies. *Why:* A river fish's body is much less salty than the sea, so they would keep losing water, like the cucumber.
 
 ## Applications

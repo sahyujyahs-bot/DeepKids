@@ -699,11 +699,11 @@
       "t": "mcq",
       "q": "What will you change in this test?",
       "options": [
-       "The card",
        "Where the coins are taped",
+       "The card",
        "How many coins there are"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Only the place of the coins changes. The card, the pencil and the number of coins stay the same. That makes it a fair test, so any difference must come from where the coins are."
      }
     },
@@ -733,11 +733,11 @@
       "t": "mcq",
       "q": "Most families find that the top spins longer with the coins near the edge. Why?",
       "options": [
-       "The edge coins were heavier",
        "The edge coins went round a bigger circle, so they moved faster and held more spin",
+       "The edge coins were heavier",
        "The tape held the edge coins tighter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The coins were the same, so they weighed the same. At the edge, each coin travels round a big circle in every turn, so it moves fast and holds more spin. The rubbing at the tip needs longer to take all that spin away. If your results are the other way round, check that the pencil is in the exact middle and spin again. If you picked 'heavier', look again: they were the same coins."
      }
     },
@@ -880,11 +880,11 @@
       "t": "mcq",
       "q": "Why does a coin usually spin longest on a smooth steel plate?",
       "options": [
-       "Steel is cold",
        "There is less friction between the coin and the smooth steel, so less spin is rubbed away",
+       "Steel is cold",
        "Steel pulls the coin like a magnet"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Friction at the edge of the coin slowly takes its spin away. Smooth, hard steel rubs less than soft cloth or paper, which the coin sinks into. Magnets have nothing to do with it: a plastic tray works well too. Picking 'cold' mixes this up with how steel feels."
      }
     },
@@ -1016,11 +1016,11 @@
       "t": "mcq",
       "q": "Why does the tape roll usually lose the race?",
       "options": [
-       "It is too light",
        "Its weight is near its edge, so it is harder to get spinning, and it rolls forward more slowly",
+       "It is too light",
        "Tape is sticky"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Weight far from the middle is harder to start turning. As the tape roll goes down the slope, more of its movement goes into turning round and less into rolling forward. Weight alone is not the reason: a heavy steel bangle loses to a light solid round thing too. 'Sticky' is a fair thing to check. But the sticky side is inside the roll, so it does not touch the tray."
      }
     },
@@ -1135,11 +1135,11 @@
       "t": "mcq",
       "q": "When a door swings open, which part moves fastest?",
       "options": [
-       "The part by the hinges",
        "The far edge, by the handle",
+       "The part by the hinges",
        "Every part moves at the same speed"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every part of the door turns round in the same time. The far edge goes round the biggest curve, so it moves fastest. The hinge side hardly moves at all, because it is on the axis. Picking 'the same speed' is a fair guess, because the door moves all in one piece."
      }
     }
@@ -1291,10 +1291,10 @@
       "q": "On a merry-go-round, one rider sits on the outside and another sits near the pole. Who moves faster?",
       "options": [
        "The rider near the pole",
-       "The rider on the outside",
-       "Both the same"
+       "Both the same",
+       "The rider on the outside"
       ],
-      "a": 1,
+      "a": 2,
       "why": "They both go round once in the same time, but the outside rider goes round a much bigger circle. So the outside rider moves faster. 'Both the same' is a fair first guess, because they go round together. That is true of the time for one turn, but not of the speed."
      }
     }
@@ -1376,11 +1376,11 @@
       "t": "mcq",
       "q": "In one turn of its wheels, which goes further?",
       "options": [
-       "A toy car with small wheels",
        "A cycle with big wheels",
+       "A toy car with small wheels",
        "Both go the same distance"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In one turn, a wheel rolls as far as the distance round its edge. A big wheel has a longer edge, so it goes further. That is why a cycle wheel is big. 'The same' is a fair guess, because each wheel turns once. But the big wheel lays a longer edge along the road in that one turn."
      }
     }
@@ -1565,10 +1565,10 @@
       "q": "On the spinning ride, why do the cups swing outwards?",
       "options": [
        "A force pushes them straight out from the middle",
-       "Each cup is trying to keep going straight, and its thread pulls it round in a circle",
-       "The air blows them out"
+       "The air blows them out",
+       "Each cup is trying to keep going straight, and its thread pulls it round in a circle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each cup is moving, and a moving thing keeps going straight unless a force changes it. The thread pulls the cup inwards all the time, so the cup goes round in a circle instead. To pull inwards, the thread has to slant, so the cups look as if they swing outwards. It feels like an outward push to a rider, which is why 'pushed straight out' is a common answer."
      }
     }
@@ -1751,11 +1751,11 @@
    "t": "mcq",
    "p": "You stand a top on its point without spinning it. Why does it fall over?",
    "opts": [
-    "Gravity tips it as soon as it leans",
     "The floor pushes it over",
-    "It is too light"
+    "It is too light",
+    "Gravity tips it as soon as it leans"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A still top always leans a little, and gravity pulls it over. Picking 'the floor pushes it' mixes up the cause: the floor only holds the tip.",
    "outcome": 1
   },
@@ -1763,11 +1763,11 @@
    "t": "mcq",
    "p": "What do we call the line a spinning thing turns around?",
    "opts": [
-    "The rim",
     "The axis",
+    "The rim",
     "The hub"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The axis is the line a spinning thing turns around. The rim is the outside edge, and the hub is the middle part of a wheel.",
    "outcome": 0
   },
@@ -1801,10 +1801,10 @@
    "p": "Why does a top spin longer on a steel plate than on a carpet?",
    "opts": [
     "Steel is shiny",
-    "There is less friction at the tip on smooth steel",
-    "Carpets are warmer"
+    "Carpets are warmer",
+    "There is less friction at the tip on smooth steel"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Smooth, hard steel rubs less than soft carpet, so less spin is taken away each second.",
    "outcome": 3,
    "how": "e2"
@@ -1813,11 +1813,11 @@
    "t": "mcq",
    "p": "Why does a top always fall in the end?",
    "opts": [
-    "Friction slowly takes its spin away",
     "It gets tired of spinning",
-    "Gravity gets stronger"
+    "Gravity gets stronger",
+    "Friction slowly takes its spin away"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Friction at the tip and in the air slows the top down. When it spins too slowly, it wobbles and falls.",
    "outcome": 3
   },
@@ -1825,11 +1825,11 @@
    "t": "mcq",
    "p": "Why is a wheel round?",
    "opts": [
-    "So its axle stays at the same height as it rolls",
     "So it looks nice",
-    "So it is lighter"
+    "So it is lighter",
+    "So its axle stays at the same height as it rolls"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every point on the edge of a circle is the same distance from the middle, so the axle never goes up and down.",
    "outcome": 4,
    "how": "a5"
@@ -1838,11 +1838,11 @@
    "t": "mcq",
    "p": "What is an axle?",
    "opts": [
-    "The rod a wheel turns on",
     "The tyre on a wheel",
-    "The edge of a wheel"
+    "The edge of a wheel",
+    "The rod a wheel turns on"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An axle is the rod through the middle of a wheel. The wheel turns on it, or with it.",
    "outcome": 4
   },
@@ -1851,10 +1851,10 @@
    "p": "On a merry-go-round, Priya sits on the outside and Ravi sits near the pole. Who moves faster?",
    "opts": [
     "Ravi",
-    "Priya",
-    "Both the same"
+    "Both the same",
+    "Priya"
    ],
-   "a": 1,
+   "a": 2,
    "why": "They go round once in the same time, but Priya's circle is much bigger, so she moves faster.",
    "outcome": 5,
    "how": "a3"
@@ -1863,11 +1863,11 @@
    "t": "mcq",
    "p": "A ring and a solid disc roll down the same slope together. Which usually reaches the bottom first?",
    "opts": [
-    "The ring",
     "The solid disc",
+    "The ring",
     "They always tie"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The ring's weight is near its edge, so it is harder to get spinning, and it rolls forward more slowly.",
    "outcome": 2,
    "how": "e3"
@@ -1876,11 +1876,11 @@
    "t": "mcq",
    "p": "Which of these is a flywheel?",
    "opts": [
-    "The heavy wheel on a sugarcane juice machine",
     "A cycle bell",
+    "The heavy wheel on a sugarcane juice machine",
     "A bottle cap"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A flywheel is a heavy wheel with weight near its rim that keeps a machine turning smoothly.",
    "outcome": 2
   }
@@ -1907,11 +1907,11 @@
      "t": "mcq",
      "p": "What is the axis of a spinning top?",
      "opts": [
-      "The straight line it turns around",
       "The string you spin it with",
+      "The straight line it turns around",
       "The circle its edge makes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The axis is the line a spinning thing turns around. For a top, it runs from its tip up through its handle. The string only starts the spin."
     },
     {
@@ -1931,10 +1931,10 @@
      "p": "Which of these shows that a spinning top is about to fall?",
      "opts": [
       "Its hum gets higher and it stands straighter",
-      "The circles of its head get wider and it begins to wobble",
-      "It starts to spin faster"
+      "It starts to spin faster",
+      "The circles of its head get wider and it begins to wobble"
      ],
-     "a": 1,
+     "a": 2,
      "why": "As friction slows the spin, the lean circles wider and wider. That is the wobble just before the top falls."
     },
     {
@@ -2116,11 +2116,11 @@
      "t": "mcq",
      "p": "A potter in Kumbakonam spins a heavy stone wheel and lets go. Why does it keep turning for a long time?",
      "opts": [
-      "Its heavy rim holds a lot of spin, so friction takes a long time to stop it",
       "Clay makes it turn",
-      "The potter's hand is still pushing it"
+      "The potter's hand is still pushing it",
+      "Its heavy rim holds a lot of spin, so friction takes a long time to stop it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A potter's wheel has most of its weight near its rim. Weight far from the axis moves fast and holds a lot of spin. So it takes a long time for friction to stop it."
     },
     {
@@ -2139,11 +2139,11 @@
      "t": "mcq",
      "p": "Why do the seats of a chair-swing ride swing outwards when it spins?",
      "opts": [
-      "Each seat tries to keep going straight, and its chain pulls it round",
       "The wind pushes them",
+      "Each seat tries to keep going straight, and its chain pulls it round",
       "They get lighter when spinning"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A moving thing keeps going straight unless a force changes it. The chain pulls each seat inwards, so the seat goes round the circle instead of straight on. To pull inwards, the chain has to slant, and that makes the seat look as if it is swinging outwards.",
      "how": "p1"
     },
@@ -2152,10 +2152,10 @@
      "p": "A spinning coin top leans more and more, in wider and wider circles, and then falls. What was happening?",
      "opts": [
       "It was spinning faster and faster",
-      "Friction was slowing its spin, so it could not keep its axis steady",
-      "Gravity stopped working"
+      "Gravity stopped working",
+      "Friction was slowing its spin, so it could not keep its axis steady"
      ],
-     "a": 1,
+     "a": 2,
      "why": "As friction slows the spin, the top keeps its axis steady less and less well, so its lean circles wider. This is the wobble just before it falls."
     },
     {
@@ -2334,11 +2334,11 @@
      "t": "mcq",
      "p": "Why does a fast-spinning top stay up better than a slow one?",
      "opts": [
-      "A fast top keeps its axis pointing the same way more strongly, so the lean only circles",
       "A fast top is lighter",
-      "A fast top pushes air under itself"
+      "A fast top pushes air under itself",
+      "A fast top keeps its axis pointing the same way more strongly, so the lean only circles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The faster a top spins, the more it keeps its axis pointing the same way. A slow top cannot resist gravity as well, so it wobbles and falls. Spinning does not change a top's weight."
     },
     {
@@ -2346,10 +2346,10 @@
      "p": "You hold a spinning cycle wheel by both ends of its axle and try to tilt it. What will you feel?",
      "opts": [
       "Nothing different from a still wheel",
-      "The wheel resists, and twists sideways in your hands",
-      "The wheel gets heavier"
+      "The wheel gets heavier",
+      "The wheel resists, and twists sideways in your hands"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A spinning wheel keeps its axis pointing the same way. When you tilt it, it pushes back and twists sideways, just as a top's lean circles round. Its weight stays the same."
     },
     {

@@ -542,14 +542,14 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 9. (match) Match each everyday thing to the simple machine inside it.  
    **Answer:** Scissors → two levers with wedge blades; Jam jar lid → a screw; Kitchen knife → a wedge; Clothes rack rope → pulleys; Bicycle chain wheel → a gear. *Why:* A pair of scissors is two levers joined at a pivot, each with a wedge blade. A lid has a thread, which is a ramp wound round. A knife is a wedge. A clothes rack uses pulleys. A bicycle chain wheel has teeth, so it is a gear.
 10. (mcq) In real tests, the pull is always a little more than the ideal numbers say. What is the best reason?  
-   Options: Friction turns some of your effort into warmth / The load gets heavier / Ropes always stretch  
+   Options: The load gets heavier / Friction turns some of your effort into warmth / Ropes always stretch  
    **Answer:** Friction turns some of your effort into warmth. *Why:* Rubbing at the axles and ropes turns part of the work into warmth that spreads into the air. If you picked 'load gets heavier', you thought the load changed. The load stays the same.
 11. (truefalse) Putting oil on the axle of a pulley reduces the pull you need.  
    **Answer:** True. *Why:* True. Oil reduces the rubbing, so less of your work turns into warmth.
 12. (count) A bicycle has 40 teeth on the pedal gear and 20 teeth on the back gear. How many times does the back wheel turn for one turn of the pedals?  
    **Answer:** 2. *Why:* 40 divided by 20 is 2. For each turn of the pedals, the chain moves 40 teeth, which turns the 20-tooth gear twice.
 13. (mcq) A small gear drives a big gear. What happens to the big gear?  
-   Options: It turns more slowly, but with more strength / It turns faster, with more strength / It turns at the same speed  
+   Options: It turns faster, with more strength / It turns more slowly, but with more strength / It turns at the same speed  
    **Answer:** It turns more slowly, but with more strength. *Why:* The big gear turns fewer times for each turn of the small gear. What it loses in speed it gains in turning strength.
 14. (write) A friend says, 'With two ropes, you do half the work.' Say what is right and what is wrong in what she says.  
    **Answer:** She is right that the pull is half. She is wrong about the work. The hand moves twice as far, so force times distance is the same.. *Why:* A strong answer says the pull halves, the distance doubles and the work stays the same, apart from friction.
@@ -561,7 +561,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 1. (count) These are made-up results from the Count the Ropes test. How many centimetres less did the band stretch in Test C than in Test A?  
    **Answer:** 3. *Why:* The bar for A is 8 and the bar for C is 5. 8 take away 5 is 3 centimetres less.
 2. (mcq) In made-up results from the Count the Ropes test, Test A (the straight lift) stretched the band 8 centimetres and Test C (the moving reel) stretched it 5 centimetres. Exactly half of A would be 4. What is the best reason for the difference?  
-   Options: Friction used up a little of the work / The bottle got heavier / The ideal numbers are wrong  
+   Options: The bottle got heavier / Friction used up a little of the work / The ideal numbers are wrong  
    **Answer:** Friction used up a little of the work. *Why:* Rubbing at the reel and the string turned a little of the work into warmth, so the pull had to be a little larger. The ideal numbers are the best case with no rubbing.
 3. (count) A tackle has 5 ropes holding a load of 60 kilograms. With no friction, the pull would be 12 kilograms. In real life you pull with 15 kilograms. What percent of your effort is useful?  
    **Answer:** 80. *Why:* Useful share is 12 divided by 15, which is 0.8, or 80 percent. The other 20 percent turned into warmth.
@@ -584,7 +584,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 11. (sort) Sort each machine into the lever family or the ramp family.  
    **Answer:** see-saw → Lever family; wheel and axle → Lever family; pulley → Lever family; screw → Ramp family; wedge → Ramp family; slope → Ramp family. *Why:* The see-saw, the wheel and axle and the pulley all work like a lever. The screw, the wedge and the slope all work like a ramp.
 12. (mcq) Why can a machine never give out more work than it takes in?  
-   Options: Energy is never made from nothing, so a machine can only pass it on / Machines are always too small / Machines are always too slow  
+   Options: Machines are always too small / Energy is never made from nothing, so a machine can only pass it on / Machines are always too slow  
    **Answer:** Energy is never made from nothing, so a machine can only pass it on. *Why:* Work is a way of counting energy being passed on. Energy cannot be made from nothing, so the work out cannot be more than the work in.
 13. (label) Here is a drawing of a bottle lift. Label the three parts: the fixed wheel, the moving wheel and the load.  
    **Answer:** ['Wheel hung from the beam: fixed wheel', 'Wheel that rises with the bottle: moving wheel', 'The bottle of water: load']. *Why:* The wheel hung from the beam stays still, so it is fixed. The wheel the bottle hangs from rises with it, so it is moving. The bottle is the load.
@@ -618,7 +618,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 8. (truefalse) Nobody has ever built a machine that is 100 percent efficient.  
    **Answer:** True. *Why:* True. There is always some friction, so some work always turns into warmth.
 9. (mcq) Emmy Noether showed in 1918 that energy cannot be made from nothing if which thing is true?  
-   Options: The laws of nature do not change over time / All machines are well oiled / Gravity is the same everywhere  
+   Options: All machines are well oiled / The laws of nature do not change over time / Gravity is the same everywhere  
    **Answer:** The laws of nature do not change over time. *Why:* Her theorem links the rule that energy cannot be made or lost to the laws of nature not changing with time. It is a deep reason behind the rule that no machine gives out more than it takes in.
 10. (mcq) In 1974, scientists stuck a bacterium's thread to a glass slide and the whole cell spun round. What did this show?  
    Options: The thread is turned by a tiny rotary motor at its base / The cell was alive and stuck / The thread is a tiny lever  
@@ -645,7 +645,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 
 ## Quiz
 1. (mcq) A flagpole has one pulley at the top. What does it do for you?  
-   Options: It lets you pull down to raise the flag / It makes the flag weigh less / It halves the pull  
+   Options: It makes the flag weigh less / It halves the pull / It lets you pull down to raise the flag  
    **Answer:** It lets you pull down to raise the flag. *Why:* A single fixed pulley changes the direction of the pull, so you pull down and the flag goes up. It does not change the size of the pull.
 2. (mcq) A load is held by 4 ropes. You pull with the strength of 5 kilograms. What is the load, ignoring friction?  
    Options: 20 kilograms / 5 kilograms / 9 kilograms  
@@ -654,16 +654,16 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    Options: 4 metres / 2 metres / 1 metre  
    **Answer:** 4 metres. *Why:* Both ropes must get 2 metres shorter, so 4 metres pass through your hand.
 4. (mcq) A machine halves the force you need. What must happen to the distance you move?  
-   Options: It doubles / It halves / It stays the same  
+   Options: It halves / It doubles / It stays the same  
    **Answer:** It doubles. *Why:* Force times distance stays the same, so if the force halves, the distance doubles. No machine gives a smaller force over the same distance.
 5. (mcq) Where does some of your effort go in a real pulley?  
    Options: Into warmth, from rubbing / Into making the rope heavier / Nowhere, it is lost  
    **Answer:** Into warmth, from rubbing. *Why:* Friction turns some of the work into warmth that spreads into the air. The energy is not destroyed. It goes somewhere you did not want it.
 6. (mcq) Two machines are used together, and each wastes one tenth of the work. About how much of the work comes out?  
-   Options: 81 parts in every 100 / 80 parts in every 100 / 90 parts in every 100  
+   Options: 80 parts in every 100 / 81 parts in every 100 / 90 parts in every 100  
    **Answer:** 81 parts in every 100. *Why:* 0.9 times 0.9 is 0.81. Losses multiply, so more machines can be worse.
 7. (mcq) A cyclist moves the chain from a 16-tooth to a 24-tooth gear at the back. What happens to the wheel?  
-   Options: It turns fewer times for each pedal turn, with more strength / It turns more times for each pedal turn / It turns the same number of times  
+   Options: It turns more times for each pedal turn / It turns fewer times for each pedal turn, with more strength / It turns the same number of times  
    **Answer:** It turns fewer times for each pedal turn, with more strength. *Why:* A bigger back gear means a smaller ratio, so fewer wheel turns for each pedal turn. The wheel gains turning strength, which helps uphill.
 8. (mcq) What is a screw?  
    Options: A ramp wound round a rod / A wheel with teeth / A lever with a rope  
@@ -674,13 +674,13 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    Options: The lever and the ramp / The wheel and the rope / The push and the pull  
    **Answer:** The lever and the ramp. *Why:* The pulley and the wheel and axle are kinds of lever. The wedge and the screw are kinds of ramp. Both trade force for distance.
 11. (mcq) Which of these everyday tools is a lever?  
-   Options: A kitchen tong, the chimta, which turns on its joint / A ramp of planks leaning on a step / A screw in a jar lid  
+   Options: A ramp of planks leaning on a step / A screw in a jar lid / A kitchen tong, the chimta, which turns on its joint  
    **Answer:** A kitchen tong, the chimta, which turns on its joint. *Why:* A tong turns on its joint, which is its fulcrum, so it is a lever. A ramp and a screw both belong to the ramp idea, not the lever idea.
 12. (mcq) Why is it a good idea to repeat each test in an experiment twice or more?  
-   Options: To check that the result is steady and not a fluke / Because the band was tired / To make the bottle lighter  
+   Options: Because the band was tired / To make the bottle lighter / To check that the result is steady and not a fluke  
    **Answer:** To check that the result is steady and not a fluke. *Why:* If two tries are close, we can trust the result. If they differ a lot, one try may have been a fluke, and we need to look for the cause.
 13. (mcq) Why has nobody built a machine that gives out more work than it takes in?  
-   Options: Energy cannot be made from nothing, so a machine only passes it on / Nobody has tried hard enough / Machines are too small  
+   Options: Nobody has tried hard enough / Energy cannot be made from nothing, so a machine only passes it on / Machines are too small  
    **Answer:** Energy cannot be made from nothing, so a machine only passes it on. *Why:* Every careful test has shown the same result. Physicists link it to the laws of nature not changing from one day to the next.
 
 ## Applications

@@ -878,11 +878,11 @@
       "t": "mcq",
       "q": "You want to know how steep a hill is. Which map is best?",
       "options": [
-       "A contour map",
        "A political map",
+       "A contour map",
        "A weather map"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Contour lines show height. Where they are close together, the land is steep. A political map shows borders and a weather map shows weather, neither of which tells you about steepness."
      },
      "context": "In this step you play ten cards and learn which kind of map suits which job."
@@ -1005,10 +1005,10 @@
       "q": "The box is 10 centimetres deep. The stick goes down 10 centimetres at one hole. What does this tell you about the land under that hole?",
       "options": [
        "There is a tall hill under the hole",
-       "The floor under the hole is flat and low",
-       "There is no landscape in the box"
+       "There is no landscape in the box",
+       "The floor under the hole is flat and low"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The stick went all the way to the floor of the box, so nothing is standing under that hole. The land there has a height of 0."
      },
      "context": "In this step you learn how to take a reading with the stick."
@@ -1069,11 +1069,11 @@
       "t": "mcq",
       "q": "The map from 6 holes missed a narrow ridge. What is the main reason?",
       "options": [
-       "The ridge lay between the holes that were poked",
        "The stick was too short",
+       "The ridge lay between the holes that were poked",
        "The ridge was not in the box"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A map only knows the land where a stick went down. A ridge narrower than the gaps between holes can slip between them. Closer holes, put where the numbers change fast, are more likely to find it."
      },
      "context": "In this step you open the box and see how your maps compare with the real landscape."
@@ -1209,11 +1209,11 @@
       "t": "mcq",
       "q": "The grown-up measures the distance from tower A to the coin as 10 centimetres. What does this tell you?",
       "options": [
-       "The coin is somewhere on a circle with a radius of 10 centimetres around A",
        "The coin is exactly 10 centimetres from the left edge",
+       "The coin is somewhere on a circle with a radius of 10 centimetres around A",
        "The coin is next to tower B"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every point 10 centimetres from A makes a circle. One distance tells you only that the coin is somewhere on the circle, not which point."
      },
      "context": "In this step a grown-up hides a coin and measures its distances to the three towers."
@@ -1265,11 +1265,11 @@
       "t": "mcq",
       "q": "Two circles cross at two places. What does a third circle do?",
       "options": [
-       "It shows which of the two places is the real one",
        "It makes the coin move",
+       "It shows which of the two places is the real one",
        "It does nothing"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The third circle passes through only one of the two crossing points. That point is the only one that is the right distance from all three towers."
      },
      "context": "In this step you add the third distance, and find the coin."
@@ -1597,11 +1597,11 @@
       "t": "mcq",
       "q": "The post office is in square C4. Which way do you read it?",
       "options": [
-       "Find column C, then go down to row 4",
        "Find row C, then go across to column 4",
-       "Find column 4, then go down to row C"
+       "Find column 4, then go down to row C",
+       "Find column C, then go down to row 4"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A grid reference gives the letter first, which names the column, and then the number, which names the row. Run your finger along to C, then down to 4."
      }
     },
@@ -1900,11 +1900,11 @@
       "t": "mcq",
       "q": "Most of the large rivers of peninsular India, such as the Kaveri and the Godavari, flow east. What does this tell you about the land?",
       "options": [
-       "The land slopes down towards the east",
        "The land slopes down towards the west",
+       "The land slopes down towards the east",
        "The land is flat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rivers flow downhill. If they flow east towards the Bay of Bengal, the land tilts down to the east. The Western Ghats are high, so many rivers begin near them and flow east across the plateau. The Narmada flows west because it runs in a rift valley. A rift valley is a long, narrow valley where the land has sunk down between two cracks in the ground, so the river runs along it."
      },
      "context": "In this step you follow rivers on the physical map to find which way the land slopes."
@@ -1991,11 +1991,11 @@
       "t": "mcq",
       "q": "Which mistake would send a visitor to the wrong place?",
       "options": [
-       "The door drawn on the wrong wall",
        "The key missing",
-       "The map having no title"
+       "The map having no title",
+       "The door drawn on the wrong wall"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A door on the wrong wall puts something in the wrong place, which sends a visitor the wrong way. A missing key or title makes the map harder to read, but the places are still right."
      },
      "context": "In this step you decide which mistakes matter most."
@@ -2066,11 +2066,11 @@
       "t": "mcq",
       "q": "Home is at 13 degrees north. Delhi is at 28.6 degrees north. Which is further north?",
       "options": [
-       "Delhi",
        "Home",
+       "Delhi",
        "They are the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger latitude number means further north of the equator. 28.6 is bigger than 13, so Delhi is further north."
      }
     },
@@ -2160,11 +2160,11 @@
       "t": "mcq",
       "q": "With 1 centimetre for 20 centimetres, a cupboard is 100 centimetres wide. How wide is it in the model?",
       "options": [
-       "5 centimetres",
        "20 centimetres",
-       "2,000 centimetres"
+       "2,000 centimetres",
+       "5 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "100 divided by 20 is 5. If you picked 2,000, you multiplied instead of dividing, and made the model bigger than the room."
      },
      "context": "In this step you shrink each length with the same scale."
@@ -2449,11 +2449,11 @@
       "t": "mcq",
       "q": "A visitor facing east is told to walk forward 50 steps. Another visitor facing north is told the same. Do they end up in the same place?",
       "options": [
-       "No, they go in different directions",
        "Yes, forward is always the same",
-       "Yes, if they walk the same number of steps"
+       "Yes, if they walk the same number of steps",
+       "No, they go in different directions"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Forward depends on which way you face. The first goes east and the second goes north. North, south, east and west do not change when you turn."
      },
      "context": "In this step you test your directions on a real reader.",
@@ -2555,11 +2555,11 @@
       "t": "mcq",
       "q": "Why must the walls of a touch map have the same scale?",
       "options": [
-       "So the shape of the room stays right",
        "So the map looks neat",
-       "So the glue sticks better"
+       "So the glue sticks better",
+       "So the shape of the room stays right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one wall is drawn longer than it should be, the shape is wrong and a reader will walk to the wrong place. Touch maps need true distances just as ordinary maps do."
      },
      "context": "In this step your friend reads the map with their fingers."
@@ -2623,11 +2623,11 @@
      "t": "mcq",
      "p": "A map made from 6 holes in the Hidden Hills box missed a narrow ridge. What is the best reason?",
      "opts": [
-      "The ridge lay between the holes that were poked",
       "The ridge was not in the box",
-      "The stick was too short"
+      "The stick was too short",
+      "The ridge lay between the holes that were poked"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A map only knows the land where the stick went down. A ridge narrower than the gaps between holes can slip between them.",
      "outcome": 2,
      "how": "e1"
@@ -2708,11 +2708,11 @@
      "t": "mcq",
      "p": "A phone uses GPS to find where you are. What does the phone do?",
      "opts": [
-      "It listens to timed signals from satellites and works out its own distance from each",
       "It sends your position to the satellites",
+      "It listens to timed signals from satellites and works out its own distance from each",
       "It looks at the ground with a camera"
      ],
-     "a": 0,
+     "a": 1,
      "why": "GPS satellites only send signals, and the phone only listens. This is why GPS works with no mobile signal at all.",
      "outcome": 4
     },
@@ -2745,11 +2745,11 @@
      "t": "mcq",
      "p": "Which of these is a public service in a neighbourhood?",
      "opts": [
-      "A post office",
       "A private garden",
+      "A post office",
       "A friend's bedroom"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A public service is a place that gives help or supplies to everyone in the area. A post office, a clinic and a school are examples.",
      "outcome": 5
     },
@@ -2789,11 +2789,11 @@
      "t": "mcq",
      "p": "On a common school world map, Greenland looks as big as Africa. What is the truth?",
      "opts": [
-      "Africa is about fourteen times larger",
       "Greenland is larger",
-      "They are exactly the same"
+      "They are exactly the same",
+      "Africa is about fourteen times larger"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The map stretches areas near the poles. Africa has about fourteen times the area of Greenland.",
      "outcome": 6
     },
@@ -2880,11 +2880,11 @@
      "t": "mcq",
      "p": "In the Hidden Hills test, where is the best place to add extra holes?",
      "opts": [
-      "Where the heights change fast between neighbouring holes",
       "In the middle of the flattest area",
-      "Exactly where you already poked"
+      "Exactly where you already poked",
+      "Where the heights change fast between neighbouring holes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fast changes in height hint that something is happening nearby. Extra holes there are more likely to find a hidden feature.",
      "outcome": 2,
      "how": "e1"
@@ -3016,11 +3016,11 @@
      "t": "mcq",
      "p": "Which number tells you how far north of the equator a place is?",
      "opts": [
-      "Its latitude",
       "Its longitude",
-      "Its scale"
+      "Its scale",
+      "Its latitude"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Latitude is measured in degrees north or south of the equator. Longitude is measured east or west of the line through Greenwich.",
      "outcome": 4
     },
@@ -3062,11 +3062,11 @@
      "t": "mcq",
      "p": "Why does a metro map not show true distances between stations?",
      "opts": [
-      "The traveller needs the order of stations and the places to change trains",
       "The mapmaker made a mistake",
-      "Metro trains travel at different speeds"
+      "Metro trains travel at different speeds",
+      "The traveller needs the order of stations and the places to change trains"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A metro map keeps the connections and drops the true distances to make it easy to read. It is a map that does not look like the place.",
      "outcome": 6
     },
@@ -3139,11 +3139,11 @@
      "t": "mcq",
      "p": "Two soundings 5 centimetres apart show land heights of 2 centimetres and 8 centimetres. What can a mapmaker say about the land between them?",
      "opts": [
-      "It probably slopes up from 2 to 8, but there could be a hidden hill or hollow",
       "It is certainly a smooth slope",
-      "It is certainly flat"
+      "It is certainly flat",
+      "It probably slopes up from 2 to 8, but there could be a hidden hill or hollow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The two numbers suggest a slope, and that is the most sensible guess. But nothing has been measured between them, so a small feature could be hidden.",
      "outcome": 2
     },
@@ -3223,11 +3223,11 @@
      "t": "mcq",
      "p": "Greenland has an area of about 2 million square kilometres and Africa has about 30 million. About how many times bigger is Africa?",
      "opts": [
-      "About 15 times",
       "About 2 times",
+      "About 15 times",
       "About 50 times"
      ],
-     "a": 0,
+     "a": 1,
      "why": "30 million divided by 2 million is 15. With more careful figures it is about 14. The Mercator map hides this.",
      "outcome": 6
     },
@@ -3270,11 +3270,11 @@
      "t": "mcq",
      "p": "Which experiment would best test whether a bee has a map in her head?",
      "opts": [
-      "Carry her to a new place, away from any landmark she knows, and see if she can fly home",
       "Count how many flowers she visits",
-      "Paint her wings"
+      "Paint her wings",
+      "Carry her to a new place, away from any landmark she knows, and see if she can fly home"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bee with only a memory of routes and landmarks should be lost in a completely new place. A bee with a map might fly home. That is why scientists use displaced bees, and why they still argue about what the result means.",
      "outcome": 2
     },
@@ -3307,11 +3307,11 @@
    "t": "mcq",
    "p": "Which map shows a small area in great detail?",
    "opts": [
-    "A large-scale map",
     "A small-scale map",
+    "A large-scale map",
     "A map without a scale"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A large-scale map shrinks the world only a little, so it can show a small place with many details. A small-scale map covers a big place and leaves out details.",
    "outcome": 0
   },
@@ -3319,11 +3319,11 @@
    "t": "mcq",
    "p": "The temple is in square C4 on a grid. Which way do you read the reference?",
    "opts": [
-    "Find column C, then go down to row 4",
     "Find row C, then go across to column 4",
-    "Add C and 4"
+    "Add C and 4",
+    "Find column C, then go down to row 4"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The letter names the column and the number names the row. Run along to C, then down to 4.",
    "outcome": 1
   },
@@ -3331,11 +3331,11 @@
    "t": "mcq",
    "p": "On a grid with north at the top, which square is just north of D5?",
    "opts": [
-    "D4",
     "D6",
+    "D4",
     "E5"
    ],
-   "a": 0,
+   "a": 1,
    "why": "North is up, so the row number gets smaller. D4 is north of D5. D6 is south and E5 is east.",
    "outcome": 1
   },
@@ -3356,11 +3356,11 @@
    "t": "mcq",
    "p": "What is interpolation?",
    "opts": [
-    "Working out what lies between two measurements by reasoning",
     "Measuring the same thing twice",
-    "Drawing a straight line"
+    "Drawing a straight line",
+    "Working out what lies between two measurements by reasoning"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mapmaker guesses the shape between two soundings using the numbers on either side and what she knows about land.",
    "outcome": 2
   },
@@ -3368,11 +3368,11 @@
    "t": "mcq",
    "p": "On a contour map, the lines are very close together at one place. What does this tell you?",
    "opts": [
-    "The land is steep there",
     "The land is flat there",
-    "There is a lake there"
+    "There is a lake there",
+    "The land is steep there"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Close lines mean the height changes quickly over a short distance, which is a steep slope.",
    "outcome": 3
   },
@@ -3392,11 +3392,11 @@
    "t": "mcq",
    "p": "You know a coin is 10 centimetres from tower A. What does this tell you?",
    "opts": [
-    "It is somewhere on a circle around A",
     "It is exactly 10 centimetres east of A",
+    "It is somewhere on a circle around A",
     "It is on top of A"
    ],
-   "a": 0,
+   "a": 1,
    "why": "All the points 10 centimetres from A make a circle. One distance cannot say which point on the circle.",
    "outcome": 4,
    "how": "e2"
@@ -3441,11 +3441,11 @@
    "t": "mcq",
    "p": "A friend who cannot see needs to find the door of a room. Which map is best?",
    "opts": [
-    "A map to touch, with ridges and textures",
     "A satellite photograph",
+    "A map to touch, with ridges and textures",
     "A weather map"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A touch map keeps what fingers can read: ridges for walls, gaps for doors and textures for things. A photograph is made for eyes.",
    "outcome": 5
   },
@@ -3465,11 +3465,11 @@
    "t": "mcq",
    "p": "Before the 1950s, many scientists pictured the deep sea floor as a flat plain. What changed this picture?",
    "opts": [
-    "Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley",
     "A picture taken from space",
+    "Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley",
     "A new kind of boat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Soundings that were close together showed ridges and valleys that wide soundings missed. Careful drawing of the numbers revealed the shape.",
    "outcome": 6
   },
@@ -3477,11 +3477,11 @@
    "t": "mcq",
    "p": "A model of a classroom uses 1 centimetre for 20 centimetres. A real bench is 180 centimetres long. How long is it in the model?",
    "opts": [
-    "9 centimetres",
     "90 centimetres",
-    "3,600 centimetres"
+    "3,600 centimetres",
+    "9 centimetres"
    ],
-   "a": 0,
+   "a": 2,
    "why": "180 divided by 20 is 9. In a model, every real length is divided by the same number. If you picked 3,600, you multiplied, and made the model bigger than the room.",
    "outcome": 0
   },
@@ -3513,11 +3513,11 @@
    "t": "mcq",
    "p": "A letter is addressed to a house in a village in Idukki district, in Kerala. Which layer of the address is just bigger than the village?",
    "opts": [
-    "The district",
     "The state",
+    "The district",
     "The house"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An address goes from small to big: house, street, village, district, state, country, planet. A district holds many villages. A state holds many districts.",
    "outcome": 1
   }

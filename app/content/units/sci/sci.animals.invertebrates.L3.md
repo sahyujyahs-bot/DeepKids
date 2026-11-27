@@ -704,7 +704,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 ## Worksheets
 ### Backbone Detective (core) (core, 15 questions)
 1. (mcq) Bend forward and run your fingers down the middle of your back. You feel a row of bumps. That is your backbone. What is a backbone made of?  
-   Options: One long stick of bone / A chain of many small bones, one on top of the next / A hard shell / Only muscle  
+   Options: One long stick of bone / A hard shell / A chain of many small bones, one on top of the next / Only muscle  
    **Answer:** A chain of many small bones, one on top of the next. *Why:* A backbone is a chain of small bones called vertebrae. Each bump you feel is one of them. Because it is a chain, you can bend. Picking 'one long stick' would mean you could not bend your back at all.
 2. (mcq) A cobra and an earthworm are both long, and neither has legs. Which one has a backbone?  
    Options: The cobra / The earthworm / Both of them / Neither of them  
@@ -720,16 +720,16 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 7. (truefalse) An animal with no backbone has no skeleton of any kind.  
    **Answer:** False. *Why:* False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, have no skeleton and let the sea hold them up.
 8. (mcq) A small animal on a balcony plant has 6 legs and a body in 3 parts. Which group does the animal belong to?  
-   Options: Insects / Arachnids, like spiders / Crabs and prawns / Centipedes  
+   Options: Arachnids, like spiders / Insects / Crabs and prawns / Centipedes  
    **Answer:** Insects. *Why:* 6 legs and 3 body parts, a head, a middle and a back end, means an insect. Ants, ladybirds and aphids on plants are all insects. Spiders have 8 legs, and crabs have 10.
 9. (mcq) Many people call spiders insects. A spider has 8 legs, 2 body parts and no feelers. Is a spider an insect?  
-   Options: Yes, all small crawling animals are insects. / No. A spider is an arachnid. / Yes, because spiders eat insects. / No. A spider is a kind of crab.  
+   Options: Yes, all small crawling animals are insects. / Yes, because spiders eat insects. / No. A spider is an arachnid. / No. A spider is a kind of crab.  
    **Answer:** No. A spider is an arachnid.. *Why:* Insects have 6 legs, 3 body parts and 2 feelers. Spiders have 8 legs, 2 body parts and no feelers. So spiders are arachnids, like scorpions and mites. Eating insects does not make you one.
 10. (mcq) Why must a crab moult?  
-   Options: To change colour / Their armour cannot stretch, so they must climb out to grow / To cool down / Because they are old  
+   Options: Their armour cannot stretch, so they must climb out to grow / To change colour / To cool down / Because they are old  
    **Answer:** Their armour cannot stretch, so they must climb out to grow. *Why:* Hard armour cannot grow. So a crab makes a new soft skin underneath, splits the old shell and climbs out. Picking 'because they are old' is a guess many people make, but young crabs moult most often, because they grow fastest.
 11. (mcq) In the Water Bones experiment, you squeezed the bottles hard by hand. Which bottle did not give?  
-   Options: The open, empty bottle / The capped bottle with air / The capped bottle with water / They all gave the same  
+   Options: The capped bottle with water / The open, empty bottle / The capped bottle with air / They all gave the same  
    **Answer:** The capped bottle with water. *Why:* The capped water bottle stayed hard. Water cannot be squeezed into less space, and the cap kept it in. The capped air bottle gave a little, because air can be squeezed. That is why a worm is full of liquid, not air. In the book test, both capped pairs held the books, so it is fair to guess the air bottle too. Only squeezing harder by hand showed that the air bottle gives a little.
 12. (write) How does an earthworm stay firm without any bones? Use the words water and muscles.  
    **Answer:** An earthworm is full of liquid. Their muscles hold the liquid in tight, so their body stays firm, like a capped bottle full of water.. *Why:* This is called a water skeleton. Squeezing the liquid also lets the worm stretch and push forward.
@@ -741,13 +741,13 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** A strong answer picks an idea and gives a reason. For example, worms breathe through their wet skin and can live for a day or more in water, so drowning may not be the whole story. It also suggests a test, such as tapping the ground on a dry day to see if worms come up.. *Why:* Scientists still argue about this. Each idea has some evidence. A good answer weighs them and thinks of a way to check.
 ### Shells, Armour and Water (stretch) (stretch, 15 questions)
 1. (mcq) A slug looks like a snail with no shell. Which group are slugs in?  
-   Options: Molluscs, like snails / Insects / Worms / Arachnids  
+   Options: Insects / Molluscs, like snails / Worms / Arachnids  
    **Answer:** Molluscs, like snails. *Why:* Molluscs are soft-bodied animals, and many make a shell. Over a very long time, the slug's family lost most of their shell. Many slugs still have a tiny one hidden under their skin. Picking 'worms' is a fair guess from the shape, but a slug moves on one big foot, like a snail.
 2. (mcq) An octopus has no shell, but they are still a mollusc. Which animal is their closest cousin?  
-   Options: A fish / A snail / A crab / A jellyfish  
+   Options: A fish / A crab / A jellyfish / A snail  
    **Answer:** A snail. *Why:* Octopuses and snails are both molluscs. Over millions of years, the octopus family lost the outside shell. Picking the fish is a common guess, because octopuses swim in the sea like fish. But fish have backbones.
 3. (mcq) A woodlouse has 14 legs and lives under stones on land. Who are their closest cousins?  
-   Options: Insects like ants / Crabs and prawns / Earthworms / Snails  
+   Options: Insects like ants / Earthworms / Crabs and prawns / Snails  
    **Answer:** Crabs and prawns. *Why:* Woodlice are crustaceans, the group with crabs and prawns. They are one of the few crustaceans that live on land. Picking 'insects' is a natural guess, because they are small and live in the same places as ants.
 4. (order) Put these animals in order, from fewest legs to most legs: spider, ant, crab, earthworm.  
    **Answer:** order shown. *Why:* Earthworm 0, ant 6, spider 8, crab 10.
@@ -761,10 +761,10 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 8. (truefalse) If you cut an earthworm in two, you always get two worms.  
    **Answer:** False. *Why:* False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part usually cannot grow a new head.
 9. (mcq) You stand paper columns made from the same paper under a board: round tubes, square tubes or zigzags. You add books until they crumple. Which shape would you expect to hold the most?  
-   Options: The zigzags / The round tubes / The square tubes / All the same  
+   Options: The zigzags / The square tubes / All the same / The round tubes  
    **Answer:** The round tubes. *Why:* A round tube spreads the weight evenly all the way round, so it is strong without being heavy. Square tubes bend at their corners, and zigzags fold up. Insect and crab legs are tubes of armour for the same reason.
 10. (mcq) In one family's Many Small Suckers test, one sucker held 3 cups of rice and four suckers held 11 cups. What does that show about a starfish's tube feet?  
-   Options: Small grips add up to a strong hold / Only one tube foot works at a time / Tube feet are made of rubber / More suckers hold less  
+   Options: Only one tube foot works at a time / Small grips add up to a strong hold / Tube feet are made of rubber / More suckers hold less  
    **Answer:** Small grips add up to a strong hold. *Why:* Each tube foot grips only a little, but hundreds of them together hold very tightly. Picking 'only one at a time' would mean four suckers held the same as one, but they held much more.
 11. (sort) Sort these animals. Are they arthropods, with jointed legs and armour? Or molluscs, with a soft body and often a shell?  
    **Answer:** centipede → Arthropod; prawn → Arthropod; scorpion → Arthropod; ant → Arthropod; garden snail → Mollusc; octopus → Mollusc; slug → Mollusc; clam → Mollusc. *Why:* Arthropods live on land and in water, and some have stings, but all have jointed legs and armour. Molluscs have no legs at all. Snails and slugs glide on one foot, and an octopus has arms.
@@ -785,29 +785,29 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 3. (perspective) About 300 million years ago, there were insects with wings about 70 cm across. Today, most land insects are shorter than your little finger. Scientists argue about why.  
    **Answer:** A strong answer picks an idea and gives a reason. For example, insects raised in extra oxygen grow a little bigger, which supports the air idea. It also says what would change the answer, such as finding giant insects from a time when the air had little oxygen. It may say more than one idea can be true.. *Why:* This is still argued about, and each idea has some evidence. A good answer uses evidence and stays open.
 4. (mcq) Many white stones, like marble, began as something alive. What?  
-   Options: Old trees / Shells and skeletons of sea animals, pressed into limestone / Bird bones / Dinosaur eggs  
+   Options: Old trees / Bird bones / Dinosaur eggs / Shells and skeletons of sea animals, pressed into limestone  
    **Answer:** Shells and skeletons of sea animals, pressed into limestone. *Why:* Many sea animals build shells from calcium carbonate. Their remains pile up and turn into limestone. Limestone heated and squeezed underground can become marble. Picking 'old trees' mixes it up with coal, which formed from ancient plants.
 5. (write) Charles Darwin studied earthworms, on and off, for about 40 years. Why do you think he thought they were so important? Use what you saw in the Bottle Wormery.  
    **Answer:** Worms mix the soil and pull leaves underground. In the wormery the stripes of soil and sand got mixed up and leaves were pulled down. This lets air and water into the soil and makes food for plants.. *Why:* Darwin showed worms slowly turn over huge amounts of soil, burying stones and old buildings.
 6. (mcq) The biggest animals without backbones, like the giant squid, live in the sea, not on land. Which idea best explains this?  
-   Options: The water holds up their heavy bodies. / The sea has no hunters. / Sea animals are older than land animals. / Land is always too hot for them.  
+   Options: The sea has no hunters. / The water holds up their heavy bodies. / Sea animals are older than land animals. / Land is always too hot for them.  
    **Answer:** The water holds up their heavy bodies.. *Why:* In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing in Jellyfish in a Bottle: the plastic bag jellyfish kept its shape in the water and flopped in the air.
 7. (write) In one family's Many Small Suckers test, one sucker held 3 cups of rice. Four suckers held 11 cups, not 12. Give a reason why four did not hold exactly four times as much.  
    **Answer:** Some suckers may have been pressed on less well, or pulled at an angle, so they did not share the load equally. When the weakest one popped, the others had to carry more, and they popped too.. *Why:* In a real test things are never perfect. A strong answer gives a reason from how the test was done, not 'the rice got heavier'.
 8. (perspective) Many cooks drop live crabs into boiling water. People disagree about whether this hurts the crab, and what to do about it.  
    **Answer:** A strong answer uses the evidence, such as the hermit crab test where crabs left a poor shell sooner than a good one after a small shock. It replies fairly to another view, for example: 'The second group is right that we cannot see a feeling from outside. But if we are not sure, being gentle costs us little.' Since 2022 a law in the United Kingdom protects crabs as animals that feel.. *Why:* This is a real argument among scientists and cooks. A good answer weighs evidence and is fair to each side.
 9. (mcq) In 1668 Francesco Redi put meat in open jars and in jars covered with cloth. Maggots appeared only on the meat in the open jars. What did this show?  
-   Options: Maggots grow from meat by themselves / Maggots come from eggs laid by flies / Cloth makes maggots / Meat goes bad only in open jars  
+   Options: Maggots come from eggs laid by flies / Maggots grow from meat by themselves / Cloth makes maggots / Meat goes bad only in open jars  
    **Answer:** Maggots come from eggs laid by flies. *Why:* Flies could reach only the open jars, and only those got maggots. So maggots hatch from fly eggs. Picking 'grow from meat by themselves' was the old idea his experiment ended.
 10. (mcq) A key is a set of yes or no questions that leads you to an animal's group. Which question is best to add to a key, so that it separates a spider from a scorpion?  
-   Options: Do they have 8 legs? / Do they have a long tail with a sting? / Are they small? / Do they live on land?  
+   Options: Do they have a long tail with a sting? / Do they have 8 legs? / Are they small? / Do they live on land?  
    **Answer:** Do they have a long tail with a sting?. *Why:* Spiders and scorpions both have 8 legs and live on land, so those questions do not split them. A scorpion has a long tail with a sting and big pincers. Picking '8 legs' is a good question for finding arachnids, but it does not split these two.
 11. (write) A jellyfish has a net of nerves instead of a brain, and they can swim, catch food and even do something like sleeping. What does that make you wonder about brains?  
    **Answer:** It makes me wonder whether you need a brain to be alive and busy. Maybe nerves spread out through the body can do many of the jobs a brain does.. *Why:* There is no single right answer. Jellyfish have a net of nerves through the body. One kind, the upside-down jellyfish, was found to have sleep-like rest at night.
 12. (write) If you could design an animal with no backbone that could live on land and be as big as a dog, how would they hold themself up and breathe? Explain your design.  
    **Answer:** Any well-reasoned answer. For example: they would have thick armour made of tubes, like a crab, with air holes all along their body and lungs inside. They would moult in a safe burrow.. *Why:* Big land animals need a strong frame and a way to get oxygen deep inside. Good answers deal with both problems.
 13. (mcq) The octopus, a mollusc, and the fish, a vertebrate, both have eyes like cameras, with a lens. Their last shared ancestor had no such eyes. What does this tell us?  
-   Options: They copied each other / Camera-like eyes appeared separately on two branches of the animal tree / Octopuses are fish / All animals have the same eyes  
+   Options: They copied each other / Octopuses are fish / Camera-like eyes appeared separately on two branches of the animal tree / All animals have the same eyes  
    **Answer:** Camera-like eyes appeared separately on two branches of the animal tree. *Why:* Octopus eyes and our eyes grew from different starts, but ended up working in a similar way. Scientists call this convergent evolution. Picking 'octopuses are fish' mixes up looking alike with being related.
 14. (draw) Draw a simple family tree with these animals on the branches: jellyfish, snail, ant, starfish, fish, you. Put the closest cousins next to each other.  
    **Answer:** Jellyfish on an early low branch. Then a split: snail and ant on one side, starfish, fish and you on the other side, with starfish branching off just before fish and you.. *Why:* Jellyfish branched off early. Snails and insects share one big branch. Starfish share the other big branch with backboned animals.
@@ -824,7 +824,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    Options: The backbone / The ribcage / A shell / An exoskeleton  
    **Answer:** The backbone. *Why:* The backbone is a chain of small bones called vertebrae. Ribs curve round your chest. A shell and an exoskeleton are hard parts on the outside of other animals.
 2. (mcq) Which animal has a backbone?  
-   Options: A frog / A crab / A snail / An ant  
+   Options: A crab / A snail / A frog / An ant  
    **Answer:** A frog. *Why:* A frog is a vertebrate, like fish, birds, reptiles and mammals. Crabs, snails and ants have no bones at all. Their hard parts, if they have any, are on the outside.
 3. (mcq) Out of every 100 named kinds of animal, about how many have no backbone?  
    Options: About 5 / About 50 / About 95 / None  
@@ -833,16 +833,16 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    Options: No. Most kinds of animal have no backbone, so most homes show the same. / Yes. Most animals have a backbone. / Yes. Balconies only have insects. / No. Animals with backbones are not real animals.  
    **Answer:** No. Most kinds of animal have no backbone, so most homes show the same.. *Why:* About 95 out of 100 kinds of animal have no backbone. Small animals fit into cracks, corners and plant pots. So finding more kinds without a backbone is what we expect.
 5. (mcq) An earthworm left out in the hot sun dries out and goes soft and floppy. Why?  
-   Options: They lose the liquid that their muscles held tight to keep them firm. / Their bones break in the heat. / They are fast asleep. / Their shell falls off.  
+   Options: Their bones break in the heat. / They lose the liquid that their muscles held tight to keep them firm. / They are fast asleep. / Their shell falls off.  
    **Answer:** They lose the liquid that their muscles held tight to keep them firm.. *Why:* A worm stays firm because they are full of liquid held tight by their muscles. Take away the liquid, and there is nothing to push back. Worms have no bones and no shell.
 6. (mcq) Which animal wears their skeleton on the outside, like armour?  
-   Options: A cow / A crab / A jellyfish / An earthworm  
+   Options: A crab / A cow / A jellyfish / An earthworm  
    **Answer:** A crab. *Why:* A crab has an exoskeleton, a hard skeleton on the outside. Picking the jellyfish forgets that a jellyfish has no skeleton at all.
 7. (mcq) An animal has 10 legs, and two of the legs are big claws. They breathe with gills. Which group are they in?  
    Options: Insects / Spiders / Crabs and prawns / Centipedes  
    **Answer:** Crabs and prawns. *Why:* Ten legs, often with two big claws, and gills for breathing in water mean a crab or a prawn. These are called crustaceans. Insects have 6 legs and spiders have 8.
 8. (mcq) In Water Bones, what would happen if you took the cap off a bottle full of water and then squeezed it?  
-   Options: Water would squirt out, and the bottle would go soft. / The bottle would stay just as hard. / The bottle would get harder. / Nothing at all.  
+   Options: The bottle would stay just as hard. / Water would squirt out, and the bottle would go soft. / The bottle would get harder. / Nothing at all.  
    **Answer:** Water would squirt out, and the bottle would go soft.. *Why:* The cap kept the water in, so it pushed back. Without the cap, the water escapes and the bottle gives. In a worm, the muscles do the cap's job. A worm with a cut loses liquid and goes soft.
 9. (mcq) In a fair test of the paper tubes, what should you keep the same?  
    Options: Nothing, change everything / The paper size and kind, and the way you add books / Only the shape / The person doing it  
@@ -851,10 +851,10 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    Options: A starfish and a sea urchin / A starfish and a snail / A jellyfish and an ant / A snail and a fish  
    **Answer:** A starfish and a sea urchin. *Why:* Starfish and sea urchins are on the same branch. Both have tube feet and bodies built in fives. Snails are on a different branch from starfish. 'No backbone' does not make animals close cousins.
 11. (mcq) Which of these do scientists still argue about?  
-   Options: Whether spiders have 8 legs / Whether an ant's pain feels like ours / Whether worms have backbones / Whether crabs moult  
+   Options: Whether an ant's pain feels like ours / Whether spiders have 8 legs / Whether worms have backbones / Whether crabs moult  
    **Answer:** Whether an ant's pain feels like ours. *Why:* Leg counts, backbones and moulting are settled. Ants sense and react to harm, but nobody knows how to look at a feeling from the inside of another body. Picking the others mixes up open questions with things scientists have checked many times.
 12. (mcq) You find a snail after rain and want to look at them. What is the kind way?  
-   Options: Keep them in a closed jar for a week / Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands / Pull them out of their shell to see inside / Put salt on them to see what happens  
+   Options: Keep them in a closed jar for a week / Pull them out of their shell to see inside / Put salt on them to see what happens / Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands  
    **Answer:** Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands. *Why:* Watch kindly, for a short time, and return the animal to the place where you found them. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.
 
 ## Applications

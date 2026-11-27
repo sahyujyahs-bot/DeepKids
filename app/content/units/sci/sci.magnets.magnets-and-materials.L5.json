@@ -747,10 +747,10 @@
       "q": "An alloy is mostly iron. What can you say about it and a magnet?",
       "options": [
        "A magnet will surely attract it",
-       "A magnet will surely not attract it",
-       "You must test it to know"
+       "You must test it to know",
+       "A magnet will surely not attract it"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Nail steel is mostly iron and is attracted. Manganese steel and kitchen steel are mostly iron and are hardly attracted. Choosing 'surely attract' means adding up the metals in the recipe, which does not work for alloys."
      },
      "context": "This is the last step of Alloy Bets. Here you count the beans and sort the cards."
@@ -1035,10 +1035,10 @@
       "q": "A magnet lifts one two-rupee coin and not another. What is the best explanation?",
       "options": [
        "One of the coins is fake",
-       "The magnet got weaker",
-       "The two coins are different alloys"
+       "The two coins are different alloys",
+       "The magnet got weaker"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Two-rupee coins were cupronickel until the mid-2000s and stainless steel after that. A magnet attracts only the steel. Choosing 'fake' means trusting the stamped value more than the test."
      },
      "context": "This is the last step of the Coin Year Test. Here you explain your results."
@@ -1225,10 +1225,10 @@
       "q": "A one-rupee coin and a steel plate are both mostly iron. A magnet attracts only the coin. Why?",
       "options": [
        "The plate has no iron in it",
-       "Their iron atoms are packed differently",
-       "The coin is heavier for its size"
+       "The coin is heavier for its size",
+       "Their iron atoms are packed differently"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In coin steel the iron atoms are packed as in plain iron, and their tiny magnets line up. In kitchen steel, nickel or manganese changes the packing, and they do not line up. Choosing 'no iron' follows the rule that iron always means magnetic, which the plate breaks."
      },
      "context": "This is the last step of Can You Tell by Looking? Here you compare a coin and a steel plate."
@@ -1387,11 +1387,11 @@
       "t": "mcq",
       "q": "After many bends, a steel spoon clings faintly to a magnet at the bend only. What is the best explanation?",
       "options": [
-       "The bend changed how the iron atoms are packed there",
        "Bending added iron to the spoon",
-       "Warm metal is always magnetic"
+       "Warm metal is always magnetic",
+       "The bend changed how the iron atoms are packed there"
       ],
-      "a": 0,
+      "a": 2,
       "why": "No iron was added. The same atoms were pushed into a different pattern at the bend, and a different pattern lets the tiny magnets of neighbours line up. Choosing 'warm' mixes up heat with packing."
      },
      "context": "This is the last step of the Bent Spoon. You compare the bent dot with the dot that was never bent."
@@ -1481,10 +1481,10 @@
       "q": "A magnet lifts a one-rupee coin and leaves a five-rupee coin. What does that show?",
       "options": [
        "Heavier coins are harder to lift",
-       "The two coins are different metals",
-       "The magnet works only on small coins"
+       "The magnet works only on small coins",
+       "The two coins are different metals"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The one-rupee coin is steel and the golden five-rupee coin is a copper alloy. Choosing 'heavier' or 'small' follows size, but a magnet answers to the metal."
      },
      "context": "This is the last step of Four Coins and a Magnet. You compare your guesses with what happened."
@@ -1584,11 +1584,11 @@
       "t": "mcq",
       "q": "In a T test, the end of bar A holds firmly to the middle of bar B. Which bar is the magnet?",
       "options": [
-       "Bar A",
        "Bar B",
+       "Bar A",
        "Both bars"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A magnet pulls hardest at its ends. So the end of bar A pulls on bar B's middle. Bar B's middle is weak even if B is a magnet. Choosing 'both' forgets that two plain nails do not pull each other at all."
      },
      "context": "This is the last step of Two Nails, Then the T Test. You unwrap the bars and check."
@@ -1797,11 +1797,11 @@
       "t": "mcq",
       "q": "A magnet says 'no' to a thing. What can you be sure of?",
       "options": [
-       "Nothing magnetic is within its reach",
        "The thing is not made of metal",
-       "The thing holds no iron at all"
+       "The thing holds no iron at all",
+       "Nothing magnetic is within its reach"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A no shows only that nothing magnetic enough is near the magnet. A coin deep inside a thick ball gives a no. A steel plate that holds iron also gives a no."
      },
      "context": "This is the last step of Fool the Magnet Test. You unwrap the balls and see which one fooled the magnet."
@@ -1901,11 +1901,11 @@
       "t": "mcq",
       "q": "A magnet sticks to a steel vessel stamped 304. What is the best conclusion?",
       "options": [
-       "The vessel is probably not the steel it says",
        "The vessel must be better steel",
+       "The vessel is probably not the steel it says",
        "The magnet is too strong to trust"
       ],
-      "a": 0,
+      "a": 1,
       "why": "304 steel is hardly attracted, so a strong cling is a warning. It is not proof, because bending a vessel can make a faint cling. Choosing 'better steel' repeats the old idea that a strong magnet means quality."
      },
      "context": "This is the last step of Read the Stamp. You compare the stamps with what the magnet found."
@@ -2134,11 +2134,11 @@
       "t": "mcq",
       "q": "Why does a vending machine check the size and the metal of a coin?",
       "options": [
-       "One test alone is easier to fool",
        "A magnet cannot lift a coin",
+       "One test alone is easier to fool",
        "Coins of every value have the same size"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steel washer passes the magnet test and fails the size test. A disc cut to the right size passes the size test and may fail the metal test. Two tests together catch more cheats."
      },
      "context": "This is the last step of Beat the Cheat. You test the sorter with the washer."
@@ -2253,12 +2253,12 @@
      "t": "mcq",
      "p": "What is the difference between a magnet and a magnetic material?",
      "opts": [
-      "A magnet has its own field. A magnetic material is only attracted.",
       "A magnetic material is stronger than a magnet.",
       "A magnet is iron, and a magnetic material is not.",
+      "A magnet has its own field. A magnetic material is only attracted.",
       "There is no difference."
      ],
-     "a": 0,
+     "a": 2,
      "why": "A magnet has a field of its own and can attract or repel. A magnetic material, such as a steel nail, is attracted but has no field of its own. Two nails do not pull each other.",
      "outcome": 0
     },
@@ -2363,12 +2363,12 @@
      "t": "mcq",
      "p": "Which Indian coin made today does an ordinary magnet attract?",
      "opts": [
-      "The one-rupee coin",
       "The golden five-rupee coin",
       "The ten-rupee coin",
+      "The one-rupee coin",
       "All of them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The one-rupee coin is stainless steel. The golden five-rupee coin is nickel-brass, and the ten-rupee coin is two copper alloys.",
      "outcome": 2,
      "how": "e1"
@@ -2404,12 +2404,12 @@
      "t": "mcq",
      "p": "Which three pure metals are strongly magnetic at room temperature?",
      "opts": [
-      "Iron, nickel and cobalt",
       "Copper, zinc and tin",
       "Gold, silver and aluminium",
+      "Iron, nickel and cobalt",
       "Iron, copper and gold"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only iron, nickel and cobalt are strongly attracted. Gadolinium joins them only below about 20 degrees Celsius.",
      "outcome": 1
     },
@@ -2513,12 +2513,12 @@
      "t": "mcq",
      "p": "One iron atom is hardly attracted by a magnet, but a nail is attracted strongly. Why?",
      "opts": [
-      "The tiny magnets of billions of atoms line up and add together",
       "A nail is heavier than an atom",
       "The nail has more electrons than one atom has",
-      "A nail has been rubbed on a magnet"
+      "A nail has been rubbed on a magnet",
+      "The tiny magnets of billions of atoms line up and add together"
      ],
-     "a": 0,
+     "a": 3,
      "why": "One atom's field is very weak. In a nail, billions of tiny magnets point the same way and their fields add up.",
      "outcome": 5
     },
@@ -2624,12 +2624,12 @@
      "t": "mcq",
      "p": "In 1903 Friedrich Heusler mixed copper, manganese and aluminium. What surprised scientists?",
      "opts": [
-      "A magnet attracted the alloy, though none of its metals is magnetic",
       "The alloy was lighter than water",
+      "A magnet attracted the alloy, though none of its metals is magnetic",
       "The alloy melted in the cold",
       "The alloy contained a lot of iron"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Before then, every magnetic alloy known held iron, nickel or cobalt. Heusler's alloy broke that rule.",
      "outcome": 4
     },
@@ -2738,12 +2738,12 @@
      "t": "mcq",
      "p": "Before 1903, every magnetic alloy that anyone had tested held iron, nickel or cobalt. What did that show?",
      "opts": [
-      "That it fitted every alloy tested so far, and that is all",
       "That no other magnetic alloy can exist",
+      "That it fitted every alloy tested so far, and that is all",
       "That the rule was proved",
       "That Heusler's alloy must hold iron"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A rule that fits many things can still be wrong. One new thing, Heusler's alloy, broke it.",
      "outcome": 4
     },
@@ -2751,12 +2751,12 @@
      "t": "mcq",
      "p": "In a made-up test, 6 of 6 one-rupee coins were lifted. A two-rupee coin from 1998 was not. What does it show?",
      "opts": [
-      "The value of a coin does not tell you the answer",
       "The magnet had got weaker",
+      "The value of a coin does not tell you the answer",
       "Two-rupee coins are never lifted",
       "The coin was lighter than the others"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Two-rupee coins from 1998 are cupronickel, and newer ones are steel. One coin of a value that answers differently is enough to break the rule 'value tells the answer'.",
      "outcome": 4,
      "how": "e1"
@@ -2772,12 +2772,12 @@
      "t": "mcq",
      "p": "In the Bent Spoon, why test a spot 5 centimetres away that is never bent?",
      "opts": [
-      "To compare, so that bending is the only change",
       "To use up the spoon evenly",
       "Because the magnet is weak at the bent spot",
+      "To compare, so that bending is the only change",
       "To check that the spoon is clean"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Without the unbent spot, a cling could come from the spoon or the magnet. The comparison shows that bending caused the change.",
      "outcome": 3,
      "how": "e3"
@@ -2794,12 +2794,12 @@
      "t": "mcq",
      "p": "You compare how two kinds of steel answer a magnet. What must stay the same?",
      "opts": [
-      "The magnet, its face and how you bring it near",
       "The size of the steel pieces only",
+      "The magnet, its face and how you bring it near",
       "The room you sit in",
       "Nothing, since the steels are different"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A fair test changes one thing, here the steel. The magnet and the way you use it stay the same.",
      "outcome": 3
     },
@@ -2947,12 +2947,12 @@
      "t": "mcq",
      "p": "Which of these can nobody yet calculate exactly from the atoms alone?",
      "opts": [
-      "The temperature where iron stops being magnetic",
       "The number of coins in a bowl",
+      "The temperature where iron stops being magnetic",
       "The mass of a steel nail",
       "The colour of brass"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Large groups of atoms behave in ways that are very hard to work out from one atom. Iron's exact temperature is one of them.",
      "outcome": 7
     }
@@ -2964,12 +2964,12 @@
    "t": "mcq",
    "p": "Which of these is a magnet, and not only a magnetic material?",
    "opts": [
-    "A fridge magnet",
     "A steel nail",
     "An iron tawa",
+    "A fridge magnet",
     "A steel spoon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fridge magnet has a field of its own. A nail, a tawa and a spoon are attracted, and have no field of their own.",
    "outcome": 0
   },
@@ -2977,12 +2977,12 @@
    "t": "mcq",
    "p": "Which of these metals is strongly attracted by a magnet?",
    "opts": [
-    "Nickel",
     "Copper",
     "Aluminium",
+    "Nickel",
     "Gold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Iron, nickel and cobalt are strongly magnetic. Copper, aluminium and gold are not attracted.",
    "outcome": 1
   },
@@ -2990,12 +2990,12 @@
    "t": "mcq",
    "p": "A new two-rupee coin is attracted by a magnet. What is it made of?",
    "opts": [
-    "Stainless steel",
     "Brass",
     "Gold",
-    "Aluminium foil"
+    "Aluminium foil",
+    "Stainless steel"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Two-rupee coins made since about 2007 are a stainless steel that a magnet attracts. Eleven-sided coins from the 1990s are cupronickel.",
    "outcome": 2
   },
@@ -3003,12 +3003,12 @@
    "t": "mcq",
    "p": "Why do you write your prediction before you test?",
    "opts": [
-    "So that you cannot change it afterwards",
     "So the test takes less time",
     "So the magnet is stronger",
-    "So that the answer is always right"
+    "So that the answer is always right",
+    "So that you cannot change it afterwards"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A prediction written afterwards could be changed to fit. Written first, it shows what you really expected.",
    "outcome": 3
   },
@@ -3016,12 +3016,12 @@
    "t": "mcq",
    "p": "The rule says: shiny metals are magnetic. Which thing breaks it?",
    "opts": [
-    "A shiny brass lamp",
     "A black iron tawa",
     "A steel nail",
+    "A shiny brass lamp",
     "A one-rupee coin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A brass lamp is shiny and not attracted. One thing like this is enough to show the rule is wrong.",
    "outcome": 4
   },
@@ -3029,12 +3029,12 @@
    "t": "mcq",
    "p": "A one-rupee coin and a steel plate are both mostly iron. What differs?",
    "opts": [
-    "How the iron atoms are packed",
     "How many iron atoms there are",
     "The colour of the iron",
+    "How the iron atoms are packed",
     "Nothing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Extra nickel or manganese in the plate changes the packing. Then the tiny magnets of the atoms do not line up.",
    "outcome": 5
   },
@@ -3042,12 +3042,12 @@
    "t": "mcq",
    "p": "Why does a magnet attract a steel nail strongly?",
    "opts": [
-    "Tiny magnets of billions of atoms line up",
     "One iron atom is very strong",
+    "Tiny magnets of billions of atoms line up",
     "The nail is hot",
     "The nail is a magnet already"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each atom is a very weak magnet. In a nail, billions of them point the same way, and their fields add up.",
    "outcome": 5
   },
@@ -3055,12 +3055,12 @@
    "t": "mcq",
    "p": "A ball of foil clings to a magnet. What do you know?",
    "opts": [
-    "Something magnetic is inside it",
     "The foil is steel",
     "The ball is a magnet",
+    "Something magnetic is inside it",
     "The ball is full of iron"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Foil is not attracted. So a cling shows that magnetic metal, such as steel, is hidden inside.",
    "outcome": 6
   },
@@ -3068,12 +3068,12 @@
    "t": "mcq",
    "p": "A magnet does not stick to a gold-coloured chain. What can you say?",
    "opts": [
-    "It has no steel in it, but it may still be brass",
     "It is real gold",
+    "It has no steel in it, but it may still be brass",
     "It holds no metal",
     "It is plastic"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A no rules out steel and nothing more. Brass, copper and gold all say no.",
    "outcome": 6
   },
@@ -3081,12 +3081,12 @@
    "t": "mcq",
    "p": "What is the honest thing to say about magnetic alloys today?",
    "opts": [
-    "New magnetic alloys are still being found and explained",
     "Everything about them is known",
+    "New magnetic alloys are still being found and explained",
     "No new ones can exist",
     "Only iron alloys matter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heusler alloys are still studied. Why atoms line up in one pattern and not in another is still hard to calculate.",
    "outcome": 7
   },
@@ -3094,12 +3094,12 @@
    "t": "mcq",
    "p": "Which fact shows that a rule about magnetic alloys can be wrong?",
    "opts": [
-    "Heusler's alloy has no iron, nickel or cobalt, and is magnetic",
     "A steel nail is attracted",
     "Copper is not attracted",
+    "Heusler's alloy has no iron, nickel or cobalt, and is magnetic",
     "Brass is yellow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Before 1903 every magnetic alloy held iron, nickel or cobalt. Heusler's alloy broke the rule.",
    "outcome": 4
   },
@@ -3120,12 +3120,12 @@
    "t": "mcq",
    "p": "A scrap yard has a heap of mixed metal: iron pipes, copper wire and aluminium cans. What does a big magnet on a crane do?",
    "opts": [
-    "It pulls the iron pipes out and leaves the copper and aluminium",
     "It pulls the copper and aluminium out and leaves the iron",
+    "It pulls the iron pipes out and leaves the copper and aluminium",
     "It melts all the metals into one lump",
     "It turns the copper into iron"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Iron is magnetic, but copper and aluminium are not, so the magnet lifts only the iron. A magnet cannot turn one metal into another.",
    "outcome": 1
   }

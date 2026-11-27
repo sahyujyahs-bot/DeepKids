@@ -550,7 +550,7 @@ Kavya laughed, and went to fetch the sugarcane.
 10. (perspective) Three people talk about the bubbles that came up when water was poured into a glass of chana.  
    **Answer:** A strong answer picks a side with evidence: most bubbles came at once, from between the grains, as the water reached them. To check the second child's idea, put one chana grain in water and watch whether it gives bubbles by itself.. *Why:* This is a real question. Dry grains do have a little air in tiny cracks, so Amma's view is fair. The test with a single grain can show how much comes from the grain itself.
 11. (mcq) A dry tissue is pressed into the bottom of a steel tumbler. The tumbler is turned upside down and pushed straight down into a bucket of water. What happens to the tissue?  
-   Options: It stays dry or nearly dry / It gets soaked at once / It floats out of the tumbler  
+   Options: It gets soaked at once / It stays dry or nearly dry / It floats out of the tumbler  
    **Answer:** It stays dry or nearly dry. *Why:* The tumbler is full of air, and the air cannot get out. So the water cannot take its place, and the tissue stays dry. Air takes up space.
 12. (mcq) A cycle tyre feels hard after it is pumped up. Why?  
    Options: The squashed air inside pushes back on the tyre / The pump fills the tyre with water / The rubber gets heavier  
@@ -586,7 +586,7 @@ Kavya laughed, and went to fetch the sugarcane.
 10. (perspective) The first child, aged 10, and her family are talking about keeping money plants in her bedroom.  
    **Answer:** A strong answer sides with the first child and gives reasons: plants do use oxygen at night, as Ammamma says, but very little, far less than one sleeping person. Plants do give out oxygen in light, as Revathi says, but a few plants hardly change the air of a whole room. An open window changes it far more.. *Why:* Each person has part of the truth. A strong answer gives Ammamma and Revathi credit for the real facts behind their ideas.
 11. (mcq) Why do plant pots have holes in the bottom?  
-   Options: So extra water drains away and air can get back into the soil / So insects can get in / So the pot is lighter  
+   Options: So insects can get in / So extra water drains away and air can get back into the soil / So the pot is lighter  
    **Answer:** So extra water drains away and air can get back into the soil. *Why:* When extra water drains out, air comes back into the gaps in the soil. Roots need the oxygen in that air.
 12. (mcq) A bean seed is kept deep under water for many days. It does not sprout. What is the best reason?  
    Options: The seed gets too little air / The seed gets too much light / The water is too cold to be wet  
@@ -646,40 +646,40 @@ Kavya laughed, and went to fetch the sugarcane.
    Options: The chana shrank / The gaps between the grains were full of air, and the water pushed it out / The glass got bigger  
    **Answer:** The gaps between the grains were full of air, and the water pushed it out. *Why:* A full glass of grain is part grain and part air. Water can take the place of the air but not of the grains. The air comes up as bubbles.
 2. (mcq) You push a balloon into an empty bottle, stretch its mouth over the bottle's neck, and try to blow it up. It hardly grows. Why?  
-   Options: The balloon is broken / The bottle is full of air, and the air has nowhere to go / Your breath is too weak  
+   Options: The bottle is full of air, and the air has nowhere to go / The balloon is broken / Your breath is too weak  
    **Answer:** The bottle is full of air, and the air has nowhere to go. *Why:* Air takes up space. The air already in the bottle stops the balloon growing. With a hole in the bottle, it blows up easily.
 3. (mcq) A syringe of air is blocked at the tip. Can you push the plunger in?  
-   Options: Yes, part of the way, because air can be squashed / No, not at all / Yes, all the way to zero  
+   Options: No, not at all / Yes, part of the way, because air can be squashed / Yes, all the way to zero  
    **Answer:** Yes, part of the way, because air can be squashed. *Why:* Air can be compressed, so the plunger goes in part of the way. It cannot go to zero, because the squashed air pushes back harder and harder.
 4. (mcq) About how much does one litre of air weigh?  
-   Options: Nothing at all / About 1.2 grams / About 1 kilogram  
+   Options: Nothing at all / About 1 kilogram / About 1.2 grams  
    **Answer:** About 1.2 grams. *Why:* One litre of air weighs about 1.2 grams. One litre of water weighs about 1 kilogram, more than 800 times as much.
 5. (mcq) Which gas makes up most of the air?  
-   Options: Oxygen / Nitrogen / Carbon dioxide  
+   Options: Nitrogen / Oxygen / Carbon dioxide  
    **Answer:** Nitrogen. *Why:* About four-fifths of air is nitrogen. Oxygen is about one-fifth. Carbon dioxide is only a tiny part. Many people guess oxygen, because it is the one we need.
 6. (mcq) What do our cells need oxygen for?  
    Options: To get energy from food / To keep our bones hard / To make our hair grow longer  
    **Answer:** To get energy from food. *Why:* Cells use oxygen to get energy from the food we eat. Without it, they stop working in minutes.
 7. (mcq) Compared with the air around us, the air you breathe out has:  
-   Options: more oxygen and less carbon dioxide / less oxygen and more carbon dioxide / exactly the same gases  
+   Options: more oxygen and less carbon dioxide / exactly the same gases / less oxygen and more carbon dioxide  
    **Answer:** less oxygen and more carbon dioxide. *Why:* Your cells used some oxygen and made carbon dioxide. Breathed-out air has about 16 parts oxygen in 100 instead of 21, and about 100 times more carbon dioxide.
 8. (mcq) In bright sunlight, what does a leaf take in from the air?  
-   Options: Oxygen only / Carbon dioxide, to make food / Nitrogen, to make food  
+   Options: Oxygen only / Nitrogen, to make food / Carbon dioxide, to make food  
    **Answer:** Carbon dioxide, to make food. *Why:* In light, leaves take in carbon dioxide through their stomata and use it with water to make sugar. They also use a little oxygen, but they give out much more than they use.
 9. (mcq) Do plants need oxygen?  
    Options: No, only animals need oxygen / Yes, every living part of a plant needs oxygen, day and night / Only at night  
    **Answer:** Yes, every living part of a plant needs oxygen, day and night. *Why:* Plants use oxygen all the time, in their leaves, stems and roots. In the day they also make oxygen, more than they use. That is why roots in flooded soil can die.
 10. (mcq) Thinkers in ancient Greece squeezed a wine bag full of air and felt it push back. What did this show?  
-   Options: That a pot that looks empty is full of air / That water is heavier than wine / That air is made of fire  
+   Options: That water is heavier than wine / That a pot that looks empty is full of air / That air is made of fire  
    **Answer:** That a pot that looks empty is full of air. *Why:* A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A water thief is a jar with small holes in the bottom. When its top is covered, the air inside keeps water out for the same reason.
 11. (mcq) A flame warms the air inside a hot-air balloon. What does the warm air do?  
    Options: It expands, and some flows out, so the balloon floats up / It shrinks, and the balloon sinks / Nothing happens to it  
    **Answer:** It expands, and some flows out, so the balloon floats up. *Why:* Warm air takes up more room. Some of it flows out of the open mouth, so the balloon holds less air and is lighter. Cold air would not do this.
 12. (mcq) In a thunderstorm you see the flash, and then you hear the thunder a few seconds later. Why?  
-   Options: Light needs air to travel, but sound does not / Sound travels through air much more slowly than light does / The thunder happens after the flash is over  
+   Options: Light needs air to travel, but sound does not / The thunder happens after the flash is over / Sound travels through air much more slowly than light does  
    **Answer:** Sound travels through air much more slowly than light does. *Why:* Light travels almost instantly, and sound runs through the air at about 340 metres each second. Light does not need air at all. Sound does.
 13. (mcq) It is a cold night. Which is the safest way to keep a bedroom's air fresh?  
-   Options: Seal every gap and light a coal fire inside / Keep a small window open, and warm up with a blanket / Burn some paper to warm the room  
+   Options: Seal every gap and light a coal fire inside / Burn some paper to warm the room / Keep a small window open, and warm up with a blanket  
    **Answer:** Keep a small window open, and warm up with a blanket. *Why:* A little fresh air keeps the room from getting stuffy. A coal fire in a sealed room makes carbon monoxide, a poisonous gas you cannot see or smell. Burning paper makes smoke.
 
 ## Applications

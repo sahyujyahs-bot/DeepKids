@@ -682,11 +682,11 @@
       "t": "mcq",
       "q": "In many studies, which set do children usually remember better?",
       "options": [
-       "The set learned in the morning, after a day awake",
        "The set learned at bedtime, after a night of sleep",
+       "The set learned in the morning, after a day awake",
        "There is never any difference"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In many studies, children and grown-ups keep more of what they learned when they sleep soon after learning. During the day, new things crowd in and some pairs are lost."
      },
      "parent": "A strong answer has a claim, evidence and a reason. For example: 'Sleep helped me keep the pairs. I lost 2 day pairs but no night pairs. My brain kept them while I slept.'"
@@ -778,11 +778,11 @@
       "t": "mcq",
       "q": "When do people usually yawn more?",
       "options": [
-       "While watching someone yawn",
        "While watching someone smile",
-       "Never, yawns cannot spread"
+       "Never, yawns cannot spread",
+       "While watching someone yawn"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Seeing someone yawn often makes people yawn too. Even reading about yawns can do it. Nobody knows for sure why."
      }
     }
@@ -1228,11 +1228,11 @@
    "t": "mcq",
    "p": "Your body makes most of its growth hormone at one time. When?",
    "opts": [
-    "In deep sleep, soon after falling asleep",
     "While eating lunch",
+    "In deep sleep, soon after falling asleep",
     "While running fast"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most growth hormone is made in deep sleep, early in the night. That is one reason children need long, good sleep.",
    "outcome": 0
   },
@@ -1241,10 +1241,10 @@
    "p": "You learn a new song at bedtime and sleep well. What is most likely in the morning?",
    "opts": [
     "You have forgotten all of it",
-    "You remember it well, maybe better than at bedtime",
-    "You can only sing it backwards"
+    "You can only sing it backwards",
+    "You remember it well, maybe better than at bedtime"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sleep helps the brain keep what you learned that day. Many people find a new song or step comes out easier after a night's sleep.",
    "outcome": 2
   },
@@ -1264,11 +1264,11 @@
    "t": "mcq",
    "p": "Which of these is a sign that someone is sleepy?",
    "opts": [
-    "Yawning and rubbing their eyes",
     "Jumping up and down",
-    "Laughing at a joke"
+    "Laughing at a joke",
+    "Yawning and rubbing their eyes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Yawning, rubbing eyes, feeling cross and finding it hard to pay attention are signs of being sleepy.",
    "outcome": 3
   },
@@ -1288,11 +1288,11 @@
    "t": "mcq",
    "p": "At night, a honeybee rests very still. What happens to her antennae?",
    "opts": [
-    "They droop",
     "They stand straight up",
+    "They droop",
     "They fall off"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Honeybees that are resting or asleep keep still and their antennae droop. Scientists first noticed this in the 1980s.",
    "outcome": 4
   },
@@ -1300,11 +1300,11 @@
    "t": "mcq",
    "p": "Upside-down jellyfish have a net of nerves instead of a brain. At night they pulse more slowly and are slower to respond. After being kept awake all night, they are sleepy the next day. What does this suggest?",
    "opts": [
-    "The jellyfish never rests",
     "Something like sleep does not need a brain",
+    "The jellyfish never rests",
     "The jellyfish sleeps only in winter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Slowing down at night, responding slowly, and being sleepy after a night kept awake are all signs of sleep. So a sleep-like rest does not need a brain.",
    "outcome": 4
   },
@@ -1312,11 +1312,11 @@
    "t": "mcq",
    "p": "Which bedtime step helps your body clock most?",
    "opts": [
-    "Going to bed at the same time every night",
     "Having a different bedtime every night",
+    "Going to bed at the same time every night",
     "Watching a bright screen in bed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your body clock learns your bedtime, and makes you sleepy near it. A different time every night confuses it.",
    "outcome": 5
   },
@@ -1324,11 +1324,11 @@
    "t": "mcq",
    "p": "A child's room has a bright tube light on until the child falls asleep. What would help the child most?",
    "opts": [
-    "Switching to a dim lamp, then lights off",
     "A brighter light",
-    "A loud radio"
+    "A loud radio",
+    "Switching to a dim lamp, then lights off"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bright light tells the body it is still day. Dim light, then dark, tells the body night has come.",
    "outcome": 5
   },
@@ -1423,11 +1423,11 @@
      "t": "mcq",
      "p": "In the picture-pairs test, both sets had 8 pairs and both were learned twice. Why?",
      "opts": [
-      "So the only thing that changes is awake or asleep",
       "So the cards last longer",
-      "Because 8 is a lucky number"
+      "Because 8 is a lucky number",
+      "So the only thing that changes is awake or asleep"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a fair test, only one thing changes. Here it is whether the hours after learning are spent awake or asleep.",
      "how": "e1"
     },
@@ -1505,11 +1505,11 @@
      "t": "mcq",
      "p": "A boy of 8 sleeps at 9 on school nights and at midnight on Saturday. Why might Sunday night be hard for him?",
      "opts": [
-      "His body clock moved later, so he is not sleepy at 9 on Sunday",
       "He has too much sleep stored up",
-      "Sunday nights are always longer"
+      "Sunday nights are always longer",
+      "His body clock moved later, so he is not sleepy at 9 on Sunday"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A very late night moves the body clock later. On Sunday night, his body is not ready to sleep at the usual time."
     },
     {
@@ -1554,11 +1554,11 @@
      "t": "mcq",
      "p": "A girl in Class 2 did the Yawn Test. She yawned 4 times while watching yawns and once while watching smiles. What does this show?",
      "opts": [
-      "Seeing a yawn made her yawn more",
       "Smiling makes you sleepy",
+      "Seeing a yawn made her yawn more",
       "Yawns cannot spread"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She yawned more while watching yawns. Many people yawn after seeing a yawn. This is called contagious yawning.",
      "how": "e2"
     },

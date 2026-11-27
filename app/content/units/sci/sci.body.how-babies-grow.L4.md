@@ -440,7 +440,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 ## Worksheets
 ### One Cell, Many Jobs (core) (core, 17 questions)
 1. (mcq) Which statement about the cells in your body is true?  
-   Options: Nearly all of them hold the same DNA, but each kind uses different genes / Each kind of cell holds different DNA / Only brain cells hold DNA  
+   Options: Each kind of cell holds different DNA / Only brain cells hold DNA / Nearly all of them hold the same DNA, but each kind uses different genes  
    **Answer:** Nearly all of them hold the same DNA, but each kind uses different genes. *Why:* You began as one cell, and a full copy of the DNA was passed on to every new cell. A skin cell and a nerve cell hold the same genes but switch on different ones. Picking 'different DNA' means thinking that the cells lost genes as they changed.
 2. (truefalse) A skin cell and a nerve cell in the same person hold different genes.  
    **Answer:** False. *Why:* False. They hold the same genes. The difference is that cells of each kind use only the genes for their own job.
@@ -449,7 +449,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 4. (match) Match each word to its meaning.  
    **Answer:** Gene → one instruction on the DNA; Stem cell → a cell that can make new cells and has not settled on a final job; Placenta → the organ that passes oxygen and food between the mother's blood and the baby's blood; Programmed cell death → cells dying on purpose when a signal tells them to. *Why:* These four words describe four parts of growing: instructions, cells that can still change, the meeting place for two bloodstreams, and cells that die on purpose.
 5. (mcq) In a model of a growing embryo, a row of paper pieces gets dye from one end. What decides how dark each piece is?  
-   Options: How far the piece is from the dye / What the piece is called / What is written on the piece  
+   Options: What the piece is called / What is written on the piece / How far the piece is from the dye  
    **Answer:** How far the piece is from the dye. *Why:* The dye fades with distance, so the closer pieces are darker. A real embryo works in the same way: the amount of signal that reaches a cell depends on how far away the source is.
 6. (sort) Sort each event by whether it happens before birth or after birth.  
    **Answer:** the heart starts to beat → Before birth; the fingers separate → Before birth; the placenta passes oxygen to the baby → Before birth; the first breath of air → After birth; the cord stump falls off → After birth; the first real smile → After birth. *Why:* The heart and hands are built in the first eight weeks, and the placenta feeds the baby until birth. Breathing air, the belly button and smiling come after birth.
@@ -460,7 +460,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 9. (odd) Which is the odd one out, and why? The gaps between fingers, a tadpole's tail disappearing, a cut on your knee healing, the gaps between a chick's toes.  
    **Answer:** A cut healing, because new cells grow to fill the gap. In the other three, cells die on purpose to leave a gap.. *Why:* Fingers, a tadpole's tail and a chick's toes all involve cells that die on a signal. Healing is cells being made.
 10. (mcq) Why can a baby's blood take oxygen from the mother's blood in the placenta?  
-   Options: The baby's haemoglobin holds oxygen more tightly than the mother's does / The two bloods mix together / The mother's blood is pumped into the baby's body  
+   Options: The two bloods mix together / The mother's blood is pumped into the baby's body / The baby's haemoglobin holds oxygen more tightly than the mother's does  
    **Answer:** The baby's haemoglobin holds oxygen more tightly than the mother's does. *Why:* The two bloods run close together but do not mix. The baby's blood holds oxygen more tightly, so oxygen passes across the thin wall. Picking 'mix' misses the thin wall that keeps the two bloodstreams apart.
 11. (draw) Draw three stages of a hand forming: a flat paddle, a paddle with finger lines, and five separate fingers. Mark the cells that die.  
    **Answer:** Three small drawings in order: a flat paddle shape, a paddle with faint lines, five fingers. The gaps between the lines are marked or shaded.. *Why:* A strong drawing shows the gaps between the finger lines as the place where cells die, and not as places where something is cut.
@@ -469,7 +469,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 13. (truefalse) The mother's blood flows straight through the cord into the baby's body.  
    **Answer:** False. *Why:* False. The two bloods run close together in the placenta, but they do not mix. Oxygen and food cross a thin wall, and the cord carries the baby's own blood.
 14. (mcq) You practise writing with your other hand every day for a week. What is happening in your brain?  
-   Options: The connections you use get stronger / Your brain grows a new part / Your nerve cells are replaced by new ones  
+   Options: Your brain grows a new part / The connections you use get stronger / Your nerve cells are replaced by new ones  
    **Answer:** The connections you use get stronger. *Why:* Each time you write, the connections between the nerve cells you use get stronger, so the movement gets faster. A brain does not grow a new part for a new skill.
 15. (perspective) A friend says: 'My nose is just like my father's, so my genes decided everything about me.'  
    **Answer:** Answers vary. A strong answer picks a view and gives a reason. It may mention that identical twins have the same genes but are not the same, or that well-fed children grow taller.. *Why:* This question has no single right answer. Genes and surroundings both shape a person, and scientists still argue about how much each counts. What matters is your reason.
@@ -479,10 +479,10 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
    **Answer:** True. *Why:* True. A young child's brain makes far more connections than it keeps. Those used often are made stronger, and those not used are removed.
 ### Signals, Bones and Brains (stretch) (stretch, 17 questions)
 1. (mcq) A scientist moves a small piece of an early embryo to the belly of another embryo, and a second body starts to form there. What does this show?  
-   Options: The piece sends signals that tell the neighbouring cells what to become / The piece turns into the whole second body by itself / Every embryo can grow two bodies  
+   Options: The piece turns into the whole second body by itself / The piece sends signals that tell the neighbouring cells what to become / Every embryo can grow two bodies  
    **Answer:** The piece sends signals that tell the neighbouring cells what to become. *Why:* In Hilde Mangold's experiment, most of the second body was made from the cells of the embryo that received the piece. The piece did not become the body. It told its neighbours what to become.
 2. (mcq) The nucleus of a cell from a tadpole's gut is put into an egg cell, and a whole frog grows. What does this show about the gut cell?  
-   Options: It still holds every instruction for building a frog / It was already part of a frog's egg / Gut cells are the same as egg cells  
+   Options: It was already part of a frog's egg / It still holds every instruction for building a frog / Gut cells are the same as egg cells  
    **Answer:** It still holds every instruction for building a frog. *Why:* The frog could only grow if the cell held all the instructions. So the gut cell had kept every gene, even though the cell used only a few.
 3. (truefalse) A model has to be exactly like the real thing to be useful.  
    **Answer:** False. *Why:* False. A model is useful when it shows one idea clearly. The dye strip shows how a fading signal can set jobs, though real cells use chemicals and have many more jobs.
@@ -503,12 +503,12 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 11. (order) Put these steps in order, for how a skill becomes easier with practice.  
    **Answer:** ['You try the skill for the first time', 'Signals pass along a path of nerve cells', 'Each time you repeat it, the connections along that path get stronger', 'The path works faster and with less effort', 'Connections you do not use fade away']. *Why:* Practice strengthens the connections you use. This takes many repeats. Unused connections fade after that.
 12. (mcq) At birth the baby's lungs are filled with fluid. What happens at the first breath?  
-   Options: Air opens the lungs and blood starts to flow through them / The lungs fill with milk / The cord starts to carry air  
+   Options: The lungs fill with milk / Air opens the lungs and blood starts to flow through them / The cord starts to carry air  
    **Answer:** Air opens the lungs and blood starts to flow through them. *Why:* Before birth the lungs hold fluid and the placenta supplies oxygen. At the first breath, air opens the lungs and blood flows through them. The small shortcuts in the heart then close.
 13. (perspective) A friend says: 'Cells dying in a body must mean something has gone wrong.'  
    **Answer:** Answers vary. A strong answer picks the scientist's view, and may mention fingers, or a tadpole's tail, as evidence that cell death can be a normal part of building.. *Why:* There are two kinds of cell death. Some cells die from damage. Others die on a signal, as part of building a body. Both are real, and the second is normal and needed.
 14. (mcq) A growth graph of a baby's length is steep at the start and flat later on. What does this show?  
-   Options: The baby grows fastest when very young, and then more slowly / The baby stops growing at six months / The baby is growing the same amount each month  
+   Options: The baby stops growing at six months / The baby grows fastest when very young, and then more slowly / The baby is growing the same amount each month  
    **Answer:** The baby grows fastest when very young, and then more slowly. *Why:* A steep line means fast growth, and a flatter line means slower growth. A baby grows fastest in the first months and slows down. The line does not go flat, because growing carries on.
 15. (truefalse) Identical twins have the same genes and exactly the same fingerprints.  
    **Answer:** False. *Why:* False. Identical twins have the same genes, but their fingerprints are different. The surroundings in the womb and small chances shape the details.
@@ -523,12 +523,12 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 2. (count) A baby grows from 50 centimetres at birth to 75 centimetres at one year, and to 87 centimetres at two years. How many more centimetres did the baby grow in the first year than in the second?  
    **Answer:** 13. *Why:* The first year gained 25 centimetres. The second year gained 12. 25 take away 12 is 13. The baby grew 13 centimetres more in the first year.
 3. (mcq) Dye goes into a paper strip at both ends at the same time. Where on the strip is the colour palest?  
-   Options: In the middle / At both ends / Next to the left end  
+   Options: At both ends / In the middle / Next to the left end  
    **Answer:** In the middle. *Why:* The dye fades with distance from each end. The middle is the farthest point from both sources, so it is the palest. Real bodies make parts that match on both sides in the same way.
 4. (perspective) Two identical twins have the same genes. One is 4 centimetres taller than the other at age ten. Why?  
    **Answer:** Answers vary. A strong answer picks a reason, and says what to check, such as the birth weights, the food, or illnesses.. *Why:* Genes give the same plan to both twins, but food, health and chance change how the plan is used. Scientists still study how much each counts.
 5. (mcq) A skin cell and a heart muscle cell are looked at closely. What would you expect to find about their DNA?  
-   Options: The same genes in both / Different genes in each / DNA only in the heart cell  
+   Options: Different genes in each / The same genes in both / DNA only in the heart cell  
    **Answer:** The same genes in both. *Why:* Both cells came from the same first cell, and they hold the same set of genes. They differ in which genes they use.
 6. (truefalse) A baby can have a different blood group from their mother.  
    **Answer:** True. *Why:* True. The two bloodstreams run close together but do not mix. If they simply mixed, a baby's blood group would have to be the same as the mother's.
@@ -539,7 +539,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 9. (sort) Sort each fact by whether it is true of a newborn, an adult, or both.  
    **Answer:** about 300 bone pieces → Newborn; 206 bones → Adult; soft spots in the skull → Newborn; the same DNA in nearly every cell → Both; cartilage in the nose and ear → Both; a wrist made mostly of cartilage → Newborn. *Why:* A newborn has more, softer pieces, and some join and harden as the child grows. Nearly every cell holds the same DNA at any age, and the nose and ear keep their cartilage for life.
 10. (mcq) A friend says: 'The paper strip proves exactly how cells in an embryo work.' What is the best reply?  
-   Options: It is a model. It shows a fading signal, but real cells use chemicals and have many more jobs / You are right. Real cells work exactly like paper / Models cannot teach us anything  
+   Options: You are right. Real cells work exactly like paper / Models cannot teach us anything / It is a model. It shows a fading signal, but real cells use chemicals and have many more jobs  
    **Answer:** It is a model. It shows a fading signal, but real cells use chemicals and have many more jobs. *Why:* A model can show an idea without being exactly like the real thing. Scientists use models, and then check them against real embryos.
 11. (odd) Which one does not get weaker as you move away from its source? The smell of tadka, the warmth of a lamp, the length of a ruler, the sound of a drum.  
    **Answer:** The length of a ruler. It stays the same wherever you stand.. *Why:* Smell, warmth and sound all spread out and fade with distance. A ruler's length is not a signal at all.
@@ -550,7 +550,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
 14. (order) Put these steps in order, for how a flat paddle becomes five fingers.  
    **Answer:** ['The hand is a flat paddle', 'A signal reaches the cells between the finger lines', 'The cells between the finger lines die', 'The fingers become separate', 'The fingers grow longer']. *Why:* The cells must get the signal before they die, and the fingers can only separate after the gaps open.
 15. (mcq) Why might learning a new language be easier at age three than at age thirty?  
-   Options: A young brain has many more connections, and keeps the ones that are used / Young children are cleverer than adults / Adults have no connections left  
+   Options: Young children are cleverer than adults / A young brain has many more connections, and keeps the ones that are used / Adults have no connections left  
    **Answer:** A young brain has many more connections, and keeps the ones that are used. *Why:* A young brain has far more connections than it will keep. The ones used often get stronger, and the others fade. Picking 'cleverer' is a common mistake. It is about the number of connections, and not about being smarter.
 16. (truefalse) A well-fed child in Norway and a well-fed child in India grow in very similar ways.  
    **Answer:** True. *Why:* True. The World Health Organization measured healthy, well-fed children in six countries and found that they grew in almost the same way. Food, health and care matter much more than where a child lives.
@@ -567,7 +567,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
    Options: Each kind of cell uses a different set of the genes / They hold different DNA / Nerve cells have no DNA  
    **Answer:** Each kind of cell uses a different set of the genes. *Why:* Both cells came from one first cell and kept all the genes. A skin cell uses the genes for skin, and a nerve cell uses the genes for nerves.
 2. (mcq) In an early embryo, what mostly tells a cell which job to take?  
-   Options: Signals from nearby cells, and how strong they are at that spot / A label stuck on the cell at birth / The size of the cell  
+   Options: A label stuck on the cell at birth / Signals from nearby cells, and how strong they are at that spot / The size of the cell  
    **Answer:** Signals from nearby cells, and how strong they are at that spot. *Why:* Signals spread out from some cells and fade with distance. A cell reads how much has reached them, and that gives them a job that fits their place.
 3. (mcq) A scientist changes the dye strength and also the paper in the same test. What is the problem?  
    Options: She cannot tell which change caused the result / The test will take longer / There is no problem  
@@ -576,7 +576,7 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
    Options: It crosses a thin wall in the placenta from the mother's blood to the baby's blood / The baby breathes it in from the water / It travels through the baby's mouth  
    **Answer:** It crosses a thin wall in the placenta from the mother's blood to the baby's blood. *Why:* The baby's lungs are full of fluid before birth. Oxygen crosses the thin wall in the placenta, and the cord carries the baby's blood back to the baby.
 5. (mcq) What happens to a baby's blood at the first breath?  
-   Options: It begins to flow through the lungs / It stops flowing / It mixes with the mother's blood  
+   Options: It stops flowing / It begins to flow through the lungs / It mixes with the mother's blood  
    **Answer:** It begins to flow through the lungs. *Why:* Before birth most blood skips the lungs. At the first breath the lungs open and blood starts to pour through them. The shortcuts in the heart close within days.
 6. (mcq) Which of these is made by cells dying on purpose?  
    Options: The gaps between the fingers / The nails on the fingers / The bones of the fingers  
@@ -585,19 +585,19 @@ That night, Thenmozhi lay on the roof of her cousin's house, with the jasmine in
    Options: In the first months after birth / At two years old / It has the same slope everywhere  
    **Answer:** In the first months after birth. *Why:* A baby gains about 11 centimetres in the first three months and only about 4 centimetres between 9 and 12 months. The line is steepest early and flatter later.
 8. (mcq) A child's growth line is below another child's, but they follow their own line steadily. What does this mean?  
-   Options: They are probably growing well / They are growing badly / They have stopped growing  
+   Options: They are growing badly / They have stopped growing / They are probably growing well  
    **Answer:** They are probably growing well. *Why:* Healthy children follow their own lines, and the lines are often different. What matters is a steady path, and not how close it is to someone else's.
 9. (mcq) Which helps a skill become easier?  
-   Options: Repeating it, so the connections you use get stronger / Waiting for a new brain part to grow / Doing it once, very hard  
+   Options: Waiting for a new brain part to grow / Doing it once, very hard / Repeating it, so the connections you use get stronger  
    **Answer:** Repeating it, so the connections you use get stronger. *Why:* Repeating a skill strengthens the connections you use. This is why practice works. You improve a lot in the first few tries and less after that, because the easy gains come first.
 10. (mcq) A scientist moves a small piece of one embryo onto another embryo, called the host. Why might the scientist mark the cells of the piece with a different colour from the host's cells?  
-   Options: To tell which cells came from the piece and which belonged to the host / To make the picture prettier / To stop the cells dividing  
+   Options: To make the picture prettier / To stop the cells dividing / To tell which cells came from the piece and which belonged to the host  
    **Answer:** To tell which cells came from the piece and which belonged to the host. *Why:* Marking lets the scientist see what the moved piece became and what the neighbours built. That shows whether the piece made the new body, or told its neighbours to build it.
 11. (mcq) Identical twins begin as...  
    Options: One ball of cells that splits in two / Two separate egg cells / One baby that is cut in half  
    **Answer:** One ball of cells that splits in two. *Why:* Early cells are not yet fixed on their jobs, so each half can build a whole baby. Non-identical twins begin as two separate egg cells.
 12. (mcq) A row of cells gets a signal from one end. Which cell gets the most signal?  
-   Options: The one closest to the source / The one farthest from the source / They all get the same  
+   Options: The one farthest from the source / They all get the same / The one closest to the source  
    **Answer:** The one closest to the source. *Why:* A signal fades with distance. The closest cell gets the most, and the farthest cell gets the least.
 
 ## Applications

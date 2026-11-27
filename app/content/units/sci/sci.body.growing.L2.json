@@ -415,11 +415,11 @@
       "t": "mcq",
       "q": "You are measured at bedtime and again the next morning. What usually happens?",
       "options": [
-       "You are a little taller in the morning",
        "You are a little taller at bedtime",
+       "You are a little taller in the morning",
        "You are always exactly the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At night you lie flat, and the soft discs in your backbone fill up again. So you are a little taller in the morning. If you picked bedtime, look at your own blue and red lines again."
      }
     }
@@ -544,11 +544,11 @@
       "t": "mcq",
       "q": "You measure the arm span and the height of everyone in a family. What will you most likely find?",
       "options": [
-       "Arm span and height are close for most people",
        "Arm span is always twice the height",
-       "Arm span is always much shorter than height"
+       "Arm span is always much shorter than height",
+       "Arm span and height are close for most people"
       ],
-      "a": 0,
+      "a": 2,
       "why": "For most people, arm span and height are within a few centimetres of each other. Your own strings show this."
      }
     }
@@ -626,11 +626,11 @@
       "t": "mcq",
       "q": "A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show?",
       "options": [
-       "Her arms have grown longer",
        "The frock has shrunk in the wash",
-       "Her arms are the same, but her hands grew"
+       "Her arms are the same, but her hands grew",
+       "Her arms have grown longer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The sleeves stop above her wrists because her arms grew longer. Clothes are a record of how big we were."
      }
     }
@@ -964,10 +964,10 @@
       "q": "Which of these people is still growing taller?",
       "options": [
        "A woman of 35",
-       "A girl of 9",
-       "A man of 50"
+       "A man of 50",
+       "A girl of 9"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Children and teenagers are still growing taller. Adults have stopped, so the woman of 35 and the man of 50 stay the same height."
      }
     }
@@ -1324,11 +1324,11 @@
      "t": "mcq",
      "p": "You want to see if you have grown since last month. When should you measure yourself?",
      "opts": [
-      "At the same time of day as last month",
       "Any time at all",
+      "At the same time of day as last month",
       "Only after playing outside"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Height changes during the day. Measuring at the same time each time is fair, so only real growth shows."
     },
     {
@@ -1540,11 +1540,11 @@
      "t": "mcq",
      "p": "In the WHO growth study, well-fed, healthy babies in India, Ghana, Brazil and Norway were measured. What did the scientists find?",
      "opts": [
-      "They grew almost the same",
       "Indian babies always grew much less",
+      "They grew almost the same",
       "Norwegian babies always grew much less"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Healthy babies with good food and care grew almost the same in all six countries. So food and health matter a lot."
     },
     {
@@ -1675,11 +1675,11 @@
    "t": "mcq",
    "p": "Which life stage comes right after toddler?",
    "opts": [
-    "Child",
     "Teenager",
+    "Child",
     "Baby"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stages go baby, toddler, child, teenager, adult, older adult.",
    "outcome": 0
   },
@@ -1687,11 +1687,11 @@
    "t": "mcq",
    "p": "When do people grow fastest after they are born?",
    "opts": [
-    "In their first year",
     "When they are about 7",
-    "When they are adults"
+    "When they are adults",
+    "In their first year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A baby grows about 25 centimetres in the first year. That is the fastest growing after birth.",
    "outcome": 2
   },
@@ -1699,11 +1699,11 @@
    "t": "mcq",
    "p": "About how much does a child of 7 grow in one year?",
    "opts": [
-    "About 5 or 6 centimetres",
     "About 50 centimetres",
+    "About 5 or 6 centimetres",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Children grow slowly and steadily, about 5 or 6 centimetres a year. 50 centimetres is the length of a newborn.",
    "outcome": 2
   },
@@ -1723,11 +1723,11 @@
    "t": "mcq",
    "p": "What are the soft pads between the bones of your backbone called?",
    "opts": [
-    "Discs",
     "Muscles",
-    "Teeth"
+    "Teeth",
+    "Discs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They are called discs. They squash a little in the day and fill up at night.",
    "outcome": 3
   },
@@ -1735,11 +1735,11 @@
    "t": "mcq",
    "p": "You measure yourself every month. What makes your measuring fair?",
    "opts": [
-    "The same wall, the same book, the same time of day, heels down",
     "A different wall each month",
+    "The same wall, the same book, the same time of day, heels down",
     "Standing on tiptoes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If everything else stays the same, only real growing can change the line.",
    "outcome": 1
   },
@@ -1747,11 +1747,11 @@
    "t": "mcq",
    "p": "Why do we measure three times, not once?",
    "opts": [
-    "One try can be a little wrong",
     "Three is a lucky number",
-    "To make the line darker"
+    "To make the line darker",
+    "One try can be a little wrong"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Small changes in standing or holding the book make tiny mistakes. Three tries show the real height better.",
    "outcome": 1
   },
@@ -1784,11 +1784,11 @@
    "t": "mcq",
    "p": "A newborn is about 50 centimetres long. A girl of 7 is about 120 centimetres. Is the girl more than twice as long as the newborn?",
    "opts": [
-    "Yes, two newborns make 100, and she is 120",
     "No, she is less than twice as long",
-    "They are the same"
+    "They are the same",
+    "Yes, two newborns make 100, and she is 120"
    ],
-   "a": 0,
+   "a": 2,
    "why": "50 and 50 make 100. 120 is more than 100, so she is more than twice as long.",
    "outcome": 5
   }

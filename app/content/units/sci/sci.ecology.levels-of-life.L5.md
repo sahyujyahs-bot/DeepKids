@@ -611,7 +611,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 ## Worksheets
 ### Levels of life and feedback (core) (core, 15 questions)
 1. (mcq) A temple tank holds fish, frogs, water plants, water and mud. Which level of life is the whole tank?  
-   Options: A population / A community / An ecosystem / The biosphere  
+   Options: An ecosystem / A population / A community / The biosphere  
    **Answer:** An ecosystem. *Why:* An ecosystem is the living beings of a place together with the water, mud, air and sunlight. Choosing 'community' leaves out the non-living things.
 2. (fill) All the members of one species who live in one place are called a ____.  
    **Answer:** ['population']. *Why:* A population is one species in one place, such as all the house sparrows of Mysuru.
@@ -622,7 +622,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 5. (sort) Sort these parts of a pond ecosystem.  
    **Answer:** frog → Living part; mud → Non-living part; sunlight → Non-living part; fungus → Living part; water → Non-living part; bacteria → Living part; air → Non-living part; moss → Living part. *Why:* Frogs, fungi, bacteria and moss are living beings. Mud, sunlight, water and air are not alive, but every living being in the pond needs them.
 6. (mcq) A forest gets its monsoon rain from winds that crossed the sea. Which level supplies that rain?  
-   Options: The organism / The population / The community / The biosphere  
+   Options: The biosphere / The organism / The population / The community  
    **Answer:** The biosphere. *Why:* The wet wind comes from far outside the forest, so no level inside the forest can supply it. An ecosystem depends on the biosphere for its rain and its air.
 7. (write) In the Daisy Planet Test, the bare planet reached 47 degrees. Explain why the planet with daisies stayed near 26.  
    **Answer:** Whenever the planet went above 25 degrees, three pale daisies replaced three dark ones. Pale daisies reflect sunlight, so each one cooled the planet by a degree. That cancelled the extra heat from the Sun.. *Why:* A strong answer says that the daisies changed the temperature and the temperature changed the daisies. It uses numbers from the test.
@@ -634,7 +634,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 10. (truefalse) True or false: balancing feedback works against a change.  
    **Answer:** True. *Why:* True. Balancing feedback brings things back towards where they were, as sweat brings your body's heat down.
 11. (mcq) Which gas is about one fifth of the Earth's air, and was made by living beings?  
-   Options: Oxygen / Carbon dioxide / Nitrogen / Argon  
+   Options: Carbon dioxide / Nitrogen / Argon / Oxygen  
    **Answer:** Oxygen. *Why:* Oxygen is 21 parts in every 100 of the air, and nearly all of it came from photosynthesis. Nitrogen is the biggest part of the air, at 78 in 100.
 12. (draw) Draw one living being from near your home inside five circles. Label the five levels.  
    **Answer:** Five circles, one inside the next. From the centre: one organism, their population, their community, their ecosystem with water and soil, and the Earth as the biosphere.. *Why:* A strong drawing adds something new in each circle. The ecosystem circle must show at least one non-living thing.
@@ -646,7 +646,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    **Answer:** A strong answer uses the rice heap. The slope is real and can be measured, yet no grain has one. In the same way a birth rate is real, yet no single crow has one. It also grants the other side its point: a population is made of nothing but crows.. *Why:* Both views hold something true. The parts are all there is, and yet the whole has features the parts lack.
 ### How living beings change the Earth (stretch) (stretch, 15 questions)
 1. (mcq) Very old rocks hold minerals that oxygen destroys. Younger rocks do not. What does this show?  
-   Options: The early air had almost no oxygen / Old rocks are harder / Oxygen comes from rocks / The early Earth had no rocks  
+   Options: Old rocks are harder / The early air had almost no oxygen / Oxygen comes from rocks / The early Earth had no rocks  
    **Answer:** The early air had almost no oxygen. *Why:* Those minerals could only last in air without oxygen. So the air changed, about 2,400 million years ago, when bacteria had made enough oxygen.
 2. (write) Rusting and burning keep using up oxygen. Explain how the air can still be one fifth oxygen.  
    **Answer:** Plants, seaweeds and tiny cells in the sea give out oxygen when they photosynthesise. They keep putting oxygen back as fast as rusting, burning and breathing take it away.. *Why:* A strong answer says that oxygen is being made all the time, not that it was made once and stayed.
@@ -657,7 +657,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 5. (fill) The share of sunlight that a surface reflects is called its ____.  
    **Answer:** ['albedo']. *Why:* Snow has a high albedo, because it reflects most of the light. Dark sea has a low albedo.
 6. (mcq) A black car and a white car stand in the same sun. Which gets hotter inside, and why?  
-   Options: Black: it takes in more light / White: it reflects more light / The same: the sun is the same / Black: it is heavier  
+   Options: White: it reflects more light / Black: it takes in more light / The same: the sun is the same / Black: it is heavier  
    **Answer:** Black: it takes in more light. *Why:* A dark surface takes in more of the light, and that light becomes heat. Reflecting light keeps the white car cooler, not hotter.
 7. (order) Put this loop in order, starting with 'The air warms'.  
    **Answer:** ['The air warms', 'Sea ice melts', 'Dark water is uncovered', 'The water takes in more sunlight']. *Why:* After the last step, the air warms again, so the loop goes round and grows. This is reinforcing feedback.
@@ -683,7 +683,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 1. (write) One scientist says our steady Earth may be luck. Explain his point by imagining 100 planets with life.  
    **Answer:** Suppose life starts on 100 planets and only a few happen to stay fit for life. Beings who can ask questions will only ever be found on those few. They will all see a long steady record, even if luck alone made it.. *Why:* A strong answer sees that we could not be looking from a planet where things went badly. So our own steady record is weak evidence.
 2. (mcq) Astronomers find a far planet whose air holds oxygen and methane together. Why is that exciting?  
-   Options: Those gases smell / Something must keep making both gases / Those gases are heavy / Those gases make the planet blue  
+   Options: Those gases smell / Those gases are heavy / Something must keep making both gases / Those gases make the planet blue  
    **Answer:** Something must keep making both gases. *Why:* Oxygen and methane react with each other. If both are there, something must be making them all the time. On the Earth, living beings do that.
 3. (write) In the Faster Sun, changing 6 daisies a round did worse than changing 5. Suggest why.  
    **Answer:** With 6, each correction was bigger than the change it was correcting. The temperature went past the comfortable range on the other side, and then had to be corrected back. With 5, the correction matched the Sun's step.. *Why:* A strong answer uses the idea of overshooting: correcting by more than the change.
@@ -707,10 +707,10 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 12. (draw) Draw the Earth with one arrow for energy coming in, one for energy going out, and a loop for matter.  
    **Answer:** The Earth with a sunlight arrow coming in, a heat arrow going out, and a closed loop on the surface, for example water or carbon going round.. *Why:* A strong drawing shows that energy passes through, while matter stays and is used again.
 13. (mcq) In the sealed building Biosphere 2, oxygen fell though there were many plants. What had the builders not counted?  
-   Options: The microbes in the soil / The size of the windows / The weight of the glass / The colour of the leaves  
+   Options: The size of the windows / The weight of the glass / The colour of the leaves / The microbes in the soil  
    **Answer:** The microbes in the soil. *Why:* The rich soil held huge numbers of microbes, who used oxygen faster than the plants made it. Every being who breathes has to be counted.
 14. (mcq) The Earth is 12,700 km across. Nearly all life is in a layer 20 km thick. What fraction is that?  
-   Options: About 1/6 / About 1/60 / About 1/600 / About 1/6000  
+   Options: About 1/600 / About 1/6 / About 1/60 / About 1/6000  
    **Answer:** About 1/600. *Why:* 12,700 divided by 20 is 635. So the layer is about one six-hundredth of the Earth's width.
 15. (odd) Three of these are evidence that life changes the Earth. Which is not?  
    Options: Oxygen in the air / Soil made from rock and dead leaves / Rain returned to the air by forests / The Earth's distance from the Sun  
@@ -731,32 +731,32 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    Options: Organism / Population / Community / Ecosystem  
    **Answer:** Ecosystem. *Why:* An ecosystem is a community with the water, air, soil and sunlight around them.
 3. (mcq) A lone tigress lives in a forest with plenty of prey and water. What can she not do alone?  
-   Options: Hunt / Find water / Have cubs / Breathe  
+   Options: Hunt / Find water / Breathe / Have cubs  
    **Answer:** Have cubs. *Why:* To have cubs she needs a mate, so she needs a population. This is one way an organism depends on the next level up.
 4. (truefalse) True or false: a change made by tiny organisms can never reach the whole biosphere.  
    **Answer:** False. *Why:* False. Cyanobacteria are too small to see, yet they filled the Earth's air with oxygen. It took a very great number of them and a very long time.
 5. (mcq) Which of these belongs to a honeybee colony, but not to one bee?  
-   Options: Having six legs / Keeping the hive at a steady warmth / Having wings / Drinking nectar  
+   Options: Having six legs / Having wings / Keeping the hive at a steady warmth / Drinking nectar  
    **Answer:** Keeping the hive at a steady warmth. *Why:* Thousands of bees shivering and fanning together hold the hive near 35 degrees Celsius. One bee cannot do that. It is an emergent property.
 6. (mcq) A loop makes a small change grow bigger and bigger. What is it called?  
-   Options: Balancing feedback / Reinforcing feedback / Homeostasis / Albedo  
+   Options: Reinforcing feedback / Balancing feedback / Homeostasis / Albedo  
    **Answer:** Reinforcing feedback. *Why:* Reinforcing feedback adds to a change. Balancing feedback works against a change, and homeostasis is the steadiness it produces.
 7. (mcq) Wild dogs eat deer. When deer increase, the dogs increase and eat more deer. What kind of loop is this?  
-   Options: Reinforcing / Balancing / No loop / Emergent  
+   Options: Reinforcing / No loop / Balancing / Emergent  
    **Answer:** Balancing. *Why:* More deer leads to more dogs, and more dogs brings the deer down again. The result works against the change.
 8. (mcq) Mars has almost no oxygen in its air. What is the best reason?  
-   Options: Mars is red / Oxygen is too heavy for Mars / Nothing there keeps making oxygen / Mars has no air at all  
+   Options: Nothing there keeps making oxygen / Mars is red / Oxygen is too heavy for Mars / Mars has no air at all  
    **Answer:** Nothing there keeps making oxygen. *Why:* Oxygen reacts with rocks and is used up unless something keeps making it. On the Earth, living beings do that. Mars does have air, and most of it is carbon dioxide.
 9. (mcq) On the Daisy Planet, what cools the planet when it gets too hot?  
-   Options: The Sun dims / Pale daisies spread and reflect sunlight / Dark daisies spread / Rain falls  
+   Options: The Sun dims / Dark daisies spread / Pale daisies spread and reflect sunlight / Rain falls  
    **Answer:** Pale daisies spread and reflect sunlight. *Why:* Above 25 degrees, pale daisies replace dark ones. Pale daisies reflect sunlight, so the planet cools. The model has no rain.
 10. (truefalse) True or false: the Daisy Planet can stay steady however hot the Sun gets.  
    **Answer:** False. *Why:* False. When every square is full of pale daisies, no more cooling can be added. A balancing loop works only up to a limit.
 11. (mcq) Which of these is a real criticism of the Gaia hypothesis?  
-   Options: The Earth is too big to study / Natural selection cannot make beings serve a planet / Plants do not make oxygen / The Sun never changes  
+   Options: The Earth is too big to study / Plants do not make oxygen / The Sun never changes / Natural selection cannot make beings serve a planet  
    **Answer:** Natural selection cannot make beings serve a planet. *Why:* Natural selection favours what helps an organism and their family. Critics ask how it could ever favour what helps a whole planet.
 12. (mcq) What does the Sanskrit saying Vasudhaiva Kutumbakam mean?  
-   Options: Only the people of our own village matter / The whole world is one family / Each place should guard its own land and ignore the rest / Humans should rule over the other living beings  
+   Options: The whole world is one family / Only the people of our own village matter / Each place should guard its own land and ignore the rest / Humans should rule over the other living beings  
    **Answer:** The whole world is one family. *Why:* The saying asks us to see the whole world as one family, so care reaches people, animals and plants far away, as the biosphere links them. The other answers draw a line between us and them, which the saying does not do.
 
 ## Applications

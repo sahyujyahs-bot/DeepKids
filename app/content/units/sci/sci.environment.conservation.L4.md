@@ -618,17 +618,17 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 ## Worksheets
 ### Taking Without Emptying (core) (core, 16 questions)
 1. (mcq) Which of these can be used for ever, if we take no more than nature replaces each year?  
-   Options: Fish in a lake / Coal under the ground / Iron ore in a mountain  
+   Options: Coal under the ground / Fish in a lake / Iron ore in a mountain  
    **Answer:** Fish in a lake. *Why:* Fish have young every year, so a lake can keep giving fish if enough are left to breed. Coal and iron ore took millions of years to form. Choosing coal or iron ore would mean believing that everything natural grows back, and these do not.
 2. (mcq) A pond gains 8 new fish every year, and the villagers catch 8 fish every year. What happens to the number of fish over the years?  
-   Options: It stays about the same / It keeps growing / It keeps falling  
+   Options: It keeps growing / It keeps falling / It stays about the same  
    **Answer:** It stays about the same. *Why:* What comes in equals what goes out, so the stock stays steady. If the catch were bigger than the new fish, the pond would slowly empty.
 3. (fill) The number of fish in a pond right now is called the ____ of fish.  
    **Answer:** ['stock']. *Why:* A stock is how much of something there is right now. The births and the catch are flows that change the stock.
 4. (truefalse) True or false: Fish can have young, so a lake of fish can never run out.  
    **Answer:** False. *Why:* False. Fish can run out if the catch is bigger than the births, or if too few parents are left. Renewable only works if we take less than nature replaces.
 5. (mcq) You mark 20 beans and mix them into a jar. You scoop 30 beans and find 5 marked ones. About how many beans are in the jar?  
-   Options: About 60 / About 120 / About 150  
+   Options: About 120 / About 60 / About 150  
    **Answer:** About 120. *Why:* 5 of the 30 beans in the scoop are marked, which is 1 in 6. The 20 marked beans are about 1 in 6 of the jar. So the jar holds about 6 times 20, which is 120. An answer of 150 comes from adding numbers instead of using the fraction.
 6. (match) Match each word to what it means.  
    **Answer:** Renewable resource → nature makes it again within a lifetime; Non-renewable resource → takes millions of years to form; Stock → how many there are right now; Sample → a small part used to learn about the whole; Habitat → where a living being finds food, water and shelter. *Why:* These words are the tools for talking about taking from nature. A strong answer could add an example for each word.
@@ -640,12 +640,12 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
    Options: About 250 / About 500 / About 1,000  
    **Answer:** About 500. *Why:* 10 of the 50 fish are marked, which is 1 in 5. The 100 marked fish are 1 in 5 of the lake, so the lake holds about 5 times 100, which is 500.
 10. (mcq) A group of animals falls to very few, and people stop hunting them. Why might they still not recover?  
-   Options: Too few parents are left to have enough young / The animals forget how to breed / The forest will not let them back  
+   Options: The animals forget how to breed / The forest will not let them back / Too few parents are left to have enough young  
    **Answer:** Too few parents are left to have enough young. *Why:* Young come from parents. With very few parents, few young are born, and the few animals may be too far apart to find each other. Animals do not forget how to breed, so that choice is wrong.
 11. (truefalse) A forest cut in two by a road is the same for the animals as one big forest of the same total size.  
    **Answer:** False. *Why:* False. Each half is smaller, each group of animals is smaller, and crossing the road is dangerous. A corridor or an underpass can join the halves again.
 12. (mcq) Which of these is a protected place that a village, not the government, has kept for hundreds of years?  
-   Options: A sacred grove / A zoo / A tiger reserve gate  
+   Options: A zoo / A sacred grove / A tiger reserve gate  
    **Answer:** A sacred grove. *Why:* Villages in Kerala, Karnataka, Meghalaya and other states kept sacred groves for hundreds of years. Zoos and tiger reserves are run by the government.
 13. (fill) A place that keeps seeds dry and cold, so a crop can be grown again if it is lost, is called a seed ____.  
    **Answer:** ['bank']. *Why:* A seed bank keeps copies of seeds safe, like a bank account for crops. India's national gene bank is in New Delhi.
@@ -660,10 +660,10 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
    Options: A child who has never seen a big flock of sparrows thinks a few sparrows is normal / A scientist counting beans in a jar / A farmer drying seeds in the shade  
    **Answer:** A child who has never seen a big flock of sparrows thinks a few sparrows is normal. *Why:* A baseline is what we start from. Each generation takes the nature they first met as normal, so slow loss goes unnoticed. The other two are a way of counting and a way of saving seed.
 2. (mcq) In a district, rain soaks in and adds 60 units of water to the ground each year, and the wells take out 80 units. What happens to the water table over the years?  
-   Options: It falls / It rises / It stays the same  
+   Options: It rises / It falls / It stays the same  
    **Answer:** It falls. *Why:* More goes out than goes in, 80 against 60, so the stock falls by 20 units every year. As in a bank account, the balance falls if you take out more than you put in.
 3. (mcq) Why can digging a deeper borewell fail to solve a water shortage in the long run?  
-   Options: It takes more from the same shrinking store of water / Deeper water is always dirty / Deeper wells make less rain  
+   Options: Deeper water is always dirty / It takes more from the same shrinking store of water / Deeper wells make less rain  
    **Answer:** It takes more from the same shrinking store of water. *Why:* A deeper well reaches lower water, but if the store keeps falling, the new well also runs dry in time. Recharge is what fills the store again.
 4. (truefalse) When too much fresh water is pumped from the ground near the sea, sea water can slowly seep into the ground and make wells salty.  
    **Answer:** True. *Why:* True. Fresh water pushes back the salt water. When the fresh water level falls, the salt water can move in. This has been reported near some coastal cities.
@@ -672,7 +672,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 6. (match) Match each way of protecting nature to what it is.  
    **Answer:** Sacred grove → a patch of forest kept by a village for hundreds of years; Oran → a village pasture kept for grazing and trees in Rajasthan; Tiger reserve → a large area where tigers and their prey are guarded by law; Wildlife corridor → a strip of habitat that joins two forests; Seed bank → a store that keeps seeds dry and cold. *Why:* Protection can be made by law or by a community. A strong answer could say which of these is a place, which is a path, and which is a store.
 7. (mcq) Which method can count how many tigers live in a forest, without disturbing any of them?  
-   Options: Camera traps, with each tiger recognised by her stripes / Asking one villager for a guess / Counting one footprint on a path  
+   Options: Asking one villager for a guess / Camera traps, with each tiger recognised by her stripes / Counting one footprint on a path  
    **Answer:** Camera traps, with each tiger recognised by her stripes. *Why:* Every tiger has a different stripe pattern, so photos from many cameras show how many different tigers there are. One guess or one footprint is too little.
 8. (fill) The habit of taking the amount of nature we grew up with as normal is called the shifting ____.  
    **Answer:** ['baseline']. *Why:* The name was used by a fisheries scientist in 1995. A baseline is the starting point we measure from, and it shifts with each generation.
@@ -702,7 +702,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
    Options: The estimate comes out too high / The estimate comes out too low / The estimate does not change  
    **Answer:** The estimate comes out too high. *Why:* Fewer marked fish are left to be caught, so the second catch has fewer marks than it should. A smaller fraction marked makes the lake seem bigger than it is.
 3. (mcq) In a mark and recapture count, the marked fish are brighter and easier to catch than the others. How does this change the estimate?  
-   Options: The estimate comes out too low / The estimate comes out too high / The estimate does not change  
+   Options: The estimate comes out too high / The estimate does not change / The estimate comes out too low  
    **Answer:** The estimate comes out too low. *Why:* More marked fish are caught than a fair sample would give, so the fraction marked looks bigger. A bigger fraction marked makes the lake seem smaller than it is.
 4. (fill) In a pond, 1 new fish is born for every 2 fish left after the catch. The pond has 16 fish, and three villagers catch 4 fish each. After breeding, ____ fish are in the pond.  
    **Answer:** ['6']. *Why:* The three villagers catch 12 fish, which leaves 4. 4 fish make 2 pairs, so 2 new fish are born. 4 plus 2 is 6. The pond has almost emptied in one year.
@@ -740,13 +740,13 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 
 ## Quiz
 1. (mcq) A pond makes 6 new fish a year, and the village catches 9 fish a year. What will happen to the pond over time?  
-   Options: The number of fish will fall / The number of fish will stay the same / The number of fish will rise  
+   Options: The number of fish will stay the same / The number of fish will fall / The number of fish will rise  
    **Answer:** The number of fish will fall. *Why:* More fish leave the pond than are born, so the stock falls each year. When there are fewer parents, fewer young are born, and the fall can speed up.
 2. (mcq) What does a scientist do in mark and recapture?  
-   Options: Marks some animals, lets them go, catches a second sample, and uses the fraction marked to estimate the whole group / Counts every animal one by one / Weighs all the animals in the group  
+   Options: Counts every animal one by one / Weighs all the animals in the group / Marks some animals, lets them go, catches a second sample, and uses the fraction marked to estimate the whole group  
    **Answer:** Marks some animals, lets them go, catches a second sample, and uses the fraction marked to estimate the whole group. *Why:* Mark and recapture works when counting every animal is impossible. The fraction of marked animals in the second sample is about the same as the fraction marked in the whole group.
 3. (mcq) A jar holds 50 marked beans among all its beans. A scoop of 20 beans has 5 marked ones. About how many beans are in the jar?  
-   Options: About 100 / About 200 / About 500  
+   Options: About 100 / About 500 / About 200  
    **Answer:** About 200. *Why:* 5 of the 20 beans in the scoop are marked, which is 1 in 4. The 50 marked beans are 1 in 4 of the jar. So the jar holds about 4 times 50, which is 200.
 4. (mcq) Which of these can be used for ever, if we take no more than nature replaces?  
    Options: Trees in a managed forest / Coal / Petrol  
@@ -758,19 +758,19 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
    Options: No fishing for one month while the clams release their young / Taking as much as you can before others do / Cutting the biggest tree in the grove  
    **Answer:** No fishing for one month while the clams release their young. *Why:* A closed season gives the animals time to have young. Taking as much as possible, or cutting the biggest tree, takes away the parents.
 7. (mcq) What is the water table?  
-   Options: The top of the water stored in the ground / A table for water jugs / The pipe that carries water to a house  
+   Options: A table for water jugs / The top of the water stored in the ground / The pipe that carries water to a house  
    **Answer:** The top of the water stored in the ground. *Why:* Water soaks into the tiny spaces in sand and rock, and the top of that water is the water table. It rises with recharge and falls when we pump out more than soaks in.
 8. (mcq) A disease kills one kind of rice in a village that grows five kinds. What is most likely to happen?  
-   Options: The other four kinds keep growing, so most of the harvest survives / All the rice dies / The disease helps the other rice grow  
+   Options: All the rice dies / The disease helps the other rice grow / The other four kinds keep growing, so most of the harvest survives  
    **Answer:** The other four kinds keep growing, so most of the harvest survives. *Why:* A disease usually harms one variety more than others. This is why farmers who grow many varieties are safer. Seed saved from the lost kind could grow that rice again.
 9. (mcq) A fisher brings home the same weight of fish every day, but the fish are smaller each year. What does this suggest?  
-   Options: The fish are being caught before they grow and have young / The fish are getting healthier / The lake is getting bigger  
+   Options: The fish are getting healthier / The fish are being caught before they grow and have young / The lake is getting bigger  
    **Answer:** The fish are being caught before they grow and have young. *Why:* Smaller fish mean younger fish. If fish are caught young, fewer reach the age to breed. The weight in the basket can hide this.
 10. (mcq) What is the shifting baseline?  
    Options: Each generation takes the nature they grew up with as normal, so slow loss goes unnoticed / A line that moves when you measure it / A way to count fish by marking them  
    **Answer:** Each generation takes the nature they grew up with as normal, so slow loss goes unnoticed. *Why:* A baseline is the amount we start from. If it shifts with every generation, we may not notice a loss that happened over many years. Records and old photographs help.
 11. (mcq) Elinor Ostrom studied many real commons. What did she find?  
-   Options: Many communities managed shared things well for hundreds of years by making their own rules / Shared things are always used up / Only governments can manage shared things  
+   Options: Shared things are always used up / Only governments can manage shared things / Many communities managed shared things well for hundreds of years by making their own rules  
    **Answer:** Many communities managed shared things well for hundreds of years by making their own rules. *Why:* Ostrom found that communities with clear rules, ways of watching and fair penalties could look after commons. She won the Nobel Prize in Economics in 2009 for this work.
 12. (mcq) Why do scientists who count animals usually give a range, such as between 400 and 600, and not one exact number?  
    Options: A sample is always a little different from the truth / They are not sure how to count / They want to make the number look big  

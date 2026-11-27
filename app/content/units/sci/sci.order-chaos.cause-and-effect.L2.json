@@ -457,11 +457,11 @@
       "t": "mcq",
       "q": "In the domino test, why did the last domino fall when the gaps were small?",
       "options": [
-       "Your finger pushed it",
        "The domino next to it hit it",
+       "Your finger pushed it",
        "The wind blew it over"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Your finger touched only the first domino. Each domino was knocked over by the one before it. The fan was off, so it was not the wind."
      },
      "parent": "Four dominoes fall, then the chain stops at the hole. Let your child explain it before you read the card. A strong answer says that each domino falls only when the one before it hits it."
@@ -1566,10 +1566,10 @@
      "p": "In 1668, Francesco Redi put meat in jars. Some were open and some were covered with fine cloth. What grew on the covered meat?",
      "opts": [
       "Lots of maggots",
-      "No maggots",
-      "Small flies with no eggs"
+      "Small flies with no eggs",
+      "No maggots"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Flies could not reach the covered meat, so no maggots grew on it. This showed that maggots come from fly eggs, not from the meat itself."
     },
     {
@@ -1691,11 +1691,11 @@
    "t": "mcq",
    "p": "What is a cause?",
    "opts": [
-    "What makes something happen",
     "What happens at the end",
-    "Something very small"
+    "Something very small",
+    "What makes something happen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cause makes something happen. The effect is what happens because of it.",
    "outcome": 0
   },
@@ -1741,11 +1741,11 @@
    "t": "mcq",
    "p": "A domino in the middle of the line is taken away. What happens when you push the first one?",
    "opts": [
-    "The whole line still falls",
     "The dominoes fall up to the gap, and then the chain stops",
+    "The whole line still falls",
     "None of them fall"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The domino before the gap has nothing to hit. A chain of causes stops where a link is missing.",
    "outcome": 2,
    "how": "e1"
@@ -1780,11 +1780,11 @@
    "t": "mcq",
    "p": "Two coins slide together into a line of touching coins. What usually happens at the far end?",
    "opts": [
-    "One coin slides away",
     "Two coins slide away",
+    "One coin slides away",
     "No coins move"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Usually the same number of coins leaves the far end as came in. Two in, two out.",
    "outcome": 3,
    "how": "e2"
@@ -1819,10 +1819,10 @@
    "p": "Every morning a rooster crows, and then the Sun rises. What is true?",
    "opts": [
     "The rooster makes the Sun rise",
-    "The rooster crows because morning is coming",
-    "The Sun makes the rooster quiet"
+    "The Sun makes the rooster quiet",
+    "The rooster crows because morning is coming"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The Sun rises even when the rooster is quiet. Coming first does not make something the cause.",
    "outcome": 5
   },

@@ -949,11 +949,11 @@
       "t": "mcq",
       "q": "Bottle A squashed, but bottle C did not. What is the main difference between them?",
       "options": [
-       "Bottle A was closed, so the air inside could not be replaced as it cooled",
        "Bottle A was colder",
+       "Bottle A was closed, so the air inside could not be replaced as it cooled",
        "Bottle A was a different bottle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Bottle C was open, so air came in as the air inside cooled, and the pushes stayed equal. Bottle A was shut, so the air inside pushed less and the outside air won. If you picked colder or a different bottle, check what happened to C."
      },
      "context": "In this step, you read the results and say which air pushes harder."
@@ -1066,11 +1066,11 @@
       "t": "mcq",
       "q": "The card still held when the glass was on its side. What does this show?",
       "options": [
-       "Air pushes on the card from every direction, not only up",
        "Air pushes only upwards",
+       "Air pushes on the card from every direction, not only up",
        "The water is sticky"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The air pushes in every direction, so it can push sideways just as hard as upwards. If you picked 'only upwards', think about the glass on its side. If you picked 'sticky', try the trick with a card that is greasy."
      },
      "think": "The glass is on its side and the card still holds. In which direction is the air pushing on the card?",
@@ -1183,11 +1183,11 @@
       "t": "mcq",
       "q": "Straw T did not work, but it worked with a finger over the hole. What does the hole do?",
       "options": [
-       "It lets air in, so the air in the straw pushes as hard as the air outside",
        "It makes the straw weaker",
-       "It lets the juice out"
+       "It lets the juice out",
+       "It lets air in, so the air in the straw pushes as hard as the air outside"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The hole let air into the straw above the juice, so the push on the juice inside the straw matched the push outside. No difference means no lift. If you chose 'lets juice out', note that the hole is above the juice in straw T."
      },
      "context": "In this step, you sip through each straw and cover the hole."
@@ -1639,12 +1639,12 @@
     {
      "t": "mcq",
      "p": "Air is pushing on this page right now. In which directions does it push?",
-     "a": 1,
+     "a": 0,
      "why": "Air particles fly in every direction, so the push is the same in every direction. 'Only down' is a common idea, because we think of the weight of the air above. In the Card on the Glass, the card held even when the glass was on its side.",
      "outcome": 0,
      "opts": [
-      "Only down, because of its weight",
       "In every direction, up, down and sideways",
+      "Only down, because of its weight",
       "Only up"
      ]
     },
@@ -1783,13 +1783,13 @@
     {
      "t": "mcq",
      "p": "In the Straw with a Hole, one straw had a hole near the top and another had no hole. What is the plain straw there for?",
-     "a": 0,
+     "a": 2,
      "why": "A control changes nothing, so it shows what happens normally. Then you can say that any difference in the other straw came from the hole.",
      "outcome": 5,
      "opts": [
-      "It is the control, to show what happens with no hole",
       "It is the straw that will break",
-      "It is the straw to drink from first"
+      "It is the straw to drink from first",
+      "It is the control, to show what happens with no hole"
      ]
     },
     {
@@ -1848,12 +1848,12 @@
     {
      "t": "mcq",
      "p": "Torricelli's tube was filled with mercury and not with water. What is the main reason?",
-     "a": 0,
+     "a": 1,
      "why": "Water would need a tube more than 10 metres tall. Mercury is much heavier, so a short column of it balances the same push.",
      "outcome": 7,
      "opts": [
-      "Mercury is about 13.6 times heavier than water, so the tube needs to be only about 76 centimetres tall",
       "Mercury does not evaporate",
+      "Mercury is about 13.6 times heavier than water, so the tube needs to be only about 76 centimetres tall",
       "Mercury is shiny and easy to see"
      ]
     },
@@ -2074,13 +2074,13 @@
     {
      "t": "mcq",
      "p": "The water in a well is 9 metres down. A hand pump can lift it at sea level, but struggles at a hill station 2,000 metres up. What is the best reason?",
-     "a": 0,
+     "a": 2,
      "why": "At 2,000 metres the push of the air is about 80 percent of the push at sea level. It lifts water about 8 metres at best, and a real pump manages less. So a 9-metre lift fails.",
      "outcome": 4,
      "opts": [
-      "The air pushes less on the hill, so it can lift water less high",
       "The pump is made of different metal on a hill",
-      "Water is heavier on a hill"
+      "Water is heavier on a hill",
+      "The air pushes less on the hill, so it can lift water less high"
      ]
     },
     {
@@ -2133,12 +2133,12 @@
     {
      "t": "mcq",
      "p": "You want to know if the cap makes the water stop in the Bottle with a Hole. Which change would be a fair test?",
-     "a": 0,
+     "a": 1,
      "why": "A fair test changes only one thing. If the bottle or the hole also changed, you would not know whether the cap or the hole made the difference.",
      "outcome": 5,
      "opts": [
-      "Use the same bottle and water, with the cap on and then off",
       "Use a big hole with the cap on and a small hole with the cap off",
+      "Use the same bottle and water, with the cap on and then off",
       "Use a different bottle each time"
      ]
     },
@@ -2169,13 +2169,13 @@
     {
      "t": "mcq",
      "p": "Why do your ears pop when a lift rushes up a very tall building?",
-     "a": 0,
+     "a": 2,
      "why": "Going up, the push outside falls quickly. The air in the middle of your ear is still at the old push, and a little escapes with a pop to even things out.",
      "outcome": 4,
      "opts": [
-      "The push outside changes faster than the air in your ear can catch up",
       "Your ears fill with water",
-      "The lift is too noisy"
+      "The lift is too noisy",
+      "The push outside changes faster than the air in your ear can catch up"
      ]
     },
     {
@@ -2225,13 +2225,13 @@
   {
    "t": "mcq",
    "p": "Which statement about the push of air is correct?",
-   "a": 0,
+   "a": 2,
    "why": "Air particles fly in every direction, so air pushes on the top, bottom and sides of everything. If you picked 'only downwards', think about the Card on the Glass, where the card held even when the glass was tilted sideways.",
    "outcome": 0,
    "opts": [
-    "Air pushes on a surface from every direction",
     "Air pushes only downwards",
-    "Air pushes only on things that are moving"
+    "Air pushes only on things that are moving",
+    "Air pushes on a surface from every direction"
    ]
   },
   {
@@ -2261,12 +2261,12 @@
   {
    "t": "mcq",
    "p": "A capped bottle with a small hole low down has just stopped running. Why did it stop?",
-   "a": 0,
+   "a": 1,
    "why": "A little water leaving gave the air at the top more room, so it pushed less. Then the air pushing in at the hole matched the push out. If you chose the cap pushing the water back, think about what the water did when the cap was taken off.",
    "outcome": 2,
    "opts": [
-    "The air at the top spread out and pushed less, so the air outside balanced the water",
     "The cap pushed the water back",
+    "The air at the top spread out and pushed less, so the air outside balanced the water",
     "The hole closed up"
    ]
   },
@@ -2297,12 +2297,12 @@
   {
    "t": "mcq",
    "p": "What really lifts the drink up a straw?",
-   "a": 0,
+   "a": 1,
    "why": "Sipping takes air out of the straw, and the air outside pushes the drink up. An empty space has nothing to pull with.",
    "outcome": 3,
    "opts": [
-    "Air pushing on the drink in the glass",
     "The straw pulling",
+    "Air pushing on the drink in the glass",
     "The empty space in the straw"
    ]
   },
@@ -2321,13 +2321,13 @@
   {
    "t": "mcq",
    "p": "Why can a pump at the top of a pipe not lift water from 15 metres down?",
-   "a": 0,
+   "a": 2,
    "why": "The push of the air can lift water only about 10 metres at sea level. Deeper wells need the pump put down in the water.",
    "outcome": 7,
    "opts": [
-    "The push of the air can hold up only about 10 metres of water",
     "The pump is too small",
-    "Water is too heavy for any pump"
+    "Water is too heavy for any pump",
+    "The push of the air can hold up only about 10 metres of water"
    ]
   },
   {
@@ -2340,25 +2340,25 @@
   {
    "t": "mcq",
    "p": "In the Bottle with a Hole, which is the best way to see what the cap does?",
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes one thing at a time, so the change in the result must come from the cap.",
    "outcome": 5,
    "opts": [
-    "Use the same bottle and the same hole, and change only the cap",
     "Change the cap and the size of the hole together",
+    "Use the same bottle and the same hole, and change only the cap",
     "Use a new bottle for each test"
    ]
   },
   {
    "t": "mcq",
    "p": "A sealed bottle is carried from the top of a hill down to the beach and it squashes. Which push is bigger on the bottle at the beach?",
-   "a": 0,
+   "a": 2,
    "why": "The air at the beach pushes harder than the thin hill air that was shut in. The outside wins.",
    "outcome": 4,
    "opts": [
-    "The push of the air outside",
     "The push of the air inside",
-    "They are the same"
+    "They are the same",
+    "The push of the air outside"
    ]
   }
  ],

@@ -580,7 +580,7 @@ She ate the rice slowly. Then she went to find the blade.
 ## Worksheets
 ### Chlorophyll, starch and food chains (core) (core, 16 questions)
 1. (mcq) What does chlorophyll do in a leaf?  
-   Options: It keeps the leaf stiff / It catches light / It carries water / It joins sugar into starch  
+   Options: It catches light / It keeps the leaf stiff / It carries water / It joins sugar into starch  
    **Answer:** It catches light. *Why:* Chlorophyll is the pigment that catches light. Choosing 'joins sugar into starch' mixes up the catcher with the builders. Enzymes do the building.
 2. (truefalse) True or false: chlorophyll is spread evenly through every part of a leaf cell.  
    **Answer:** False. *Why:* False. Chlorophyll sits only inside the chloroplasts, the small green bodies in the cell. The rest of the cell has no colour.
@@ -602,7 +602,7 @@ She ate the rice slowly. Then she went to find the blade.
 10. (truefalse) True or false: a red amaranth leaf has no chlorophyll.  
    **Answer:** False. *Why:* False. The chlorophyll is under the red pigment. Hot water takes out the red, and the leaf turns green.
 11. (mcq) Why is the leaf warmed in spirit during the starch test?  
-   Options: To take the green colour out / To add starch to the leaf / To make the leaf sweet / To kill germs on the leaf  
+   Options: To add starch to the leaf / To make the leaf sweet / To kill germs on the leaf / To take the green colour out  
    **Answer:** To take the green colour out. *Why:* Chlorophyll dissolves in spirit. With the green gone, the blue-black of the iodine is easy to see. Spirit adds nothing to the leaf.
 12. (fill) The sugar that travels through a plant's phloem is called ____.  
    **Answer:** ['sucrose']. *Why:* Sucrose is the travelling sugar. It is the same sugar as kitchen sugar. Glucose is made first, and starch is the stored form.
@@ -618,7 +618,7 @@ She ate the rice slowly. Then she went to find the blade.
    **Answer:** Green cells nearby send them sugar. *Why:* Sucrose flows from the green cells to the white ones. Choosing 'from the soil' is an old idea about plants. Soil gives water and minerals, not food.
 ### Light, starch and who feeds whom (stretch) (stretch, 17 questions)
 1. (mcq) Which colours of light does chlorophyll take in most?  
-   Options: Only green / Only white / Red and blue / Green and yellow  
+   Options: Only green / Only white / Green and yellow / Red and blue  
    **Answer:** Red and blue. *Why:* Chlorophyll takes in mostly red and blue light. Choosing 'green' is a common mix-up. Green is the colour a leaf sends back most, which is why we see it.
 2. (write) Explain why a leaf looks green.  
    **Answer:** Chlorophyll takes in mostly red and blue light. More of the green light is sent back or passes through, and that green light reaches our eyes.. *Why:* A strong answer says the colour we see is the light the leaf does not keep. An answer such as 'because it uses green light' has it the wrong way round.
@@ -627,7 +627,7 @@ She ate the rice slowly. Then she went to find the blade.
 4. (count) A leaf holds 60 units of starch at dusk. The night is 12 hours. How many units an hour last until dawn?  
    **Answer:** 5. *Why:* 60 ÷ 12 = 5. At 5 units an hour the starch lasts exactly 12 hours.
 5. (mcq) Scientists made night come four hours early for thale cress plants. What did the plants do?  
-   Options: Used their starch more slowly / Used their starch faster / Stopped using starch / Made starch in the dark  
+   Options: Used their starch faster / Used their starch more slowly / Stopped using starch / Made starch in the dark  
    **Answer:** Used their starch more slowly. *Why:* The plants slowed down at once, and the starch still lasted until dawn. A plant makes no starch in the dark, because photosynthesis needs light.
 6. (fill) Every chlorophyll molecule has one atom of ____ at its centre.  
    **Answer:** ['magnesium']. *Why:* Magnesium sits in the middle of the chlorophyll molecule. A plant short of magnesium turns yellow.
@@ -659,7 +659,7 @@ She ate the rice slowly. Then she went to find the blade.
 1. (write) People say 'the energy is in the sugar'. What is the more exact way to say it?  
    **Answer:** The energy is in sugar and oxygen kept apart. It comes out when the two react and turn back into carbon dioxide and water.. *Why:* A strong answer brings in the oxygen. Sugar gives energy only when it reacts with oxygen, in a flame or in a cell.
 2. (mcq) Most bacteria at deep-sea hot springs still need one thing that photosynthesis made. What is it?  
-   Options: Sunlight / Oxygen / Starch / Chlorophyll  
+   Options: Sunlight / Starch / Oxygen / Chlorophyll  
    **Answer:** Oxygen. *Why:* They use oxygen to get energy from hydrogen sulphide. That oxygen was made by algae and plants far above, and was carried down in the sea water.
 3. (count) A square metre of paddy gives 300 grams of rice. You eat 150 grams a day. How many days does it last?  
    **Answer:** 2. *Why:* 300 ÷ 150 = 2. One square metre of field feeds you rice for only two days.
@@ -668,7 +668,7 @@ She ate the rice slowly. Then she went to find the blade.
 5. (perspective) Two groups of scientists talk about a leaf's starch at night.  
    **Answer:** A strong answer sees that both explain the same results, and suggests a test where the two would differ, such as changing the sugar level without changing the starch.. *Why:* This is a real, open argument. A good scientist can say what would change their mind.
 6. (mcq) How do satellites measure photosynthesis from space?  
-   Options: By the faint red glow of leaves / By counting trees / By weighing forests / By the smell of leaves  
+   Options: By counting trees / By the faint red glow of leaves / By weighing forests / By the smell of leaves  
    **Answer:** By the faint red glow of leaves. *Why:* Chlorophyll in living leaves gives off a very faint red glow while it works. Satellites have measured this glow over the whole Earth since 2011.
 7. (fill) Making food with energy from chemicals, not from light, is called ____.  
    **Answer:** ['chemosynthesis']. *Why:* Chemo means 'chemical' and photo means 'light'. Some bacteria make food by chemosynthesis.
@@ -677,7 +677,7 @@ She ate the rice slowly. Then she went to find the blade.
 9. (order) Put in order what happens to light energy in a leaf.  
    **Answer:** ['Chlorophyll catches a photon', 'An electron gains the energy', 'The energy reaches a reaction centre', 'Enzymes build sugar', 'Sugar is stored as starch']. *Why:* The light is caught first. The energy is passed on, then used to build sugar, and part of the sugar is stored as starch.
 10. (mcq) A plant short of magnesium turns yellow. Why?  
-   Options: They have too much starch / They get too much light / They cannot make enough chlorophyll / Magnesium is yellow  
+   Options: They cannot make enough chlorophyll / They have too much starch / They get too much light / Magnesium is yellow  
    **Answer:** They cannot make enough chlorophyll. *Why:* Every chlorophyll molecule needs one magnesium atom. With too little magnesium, less chlorophyll is made, and the yellow pigments show.
 11. (draw) Sketch a line graph of the starch in a leaf over 24 hours, from sunrise to the next sunrise.  
    **Answer:** A line that starts low at sunrise, rises through the day to a peak at sunset, then falls in a straight line through the night to nearly zero at the next sunrise.. *Why:* A strong sketch shows a steady fall at night, not a sudden drop. The line should reach almost zero at dawn, not hours before.
@@ -691,7 +691,7 @@ She ate the rice slowly. Then she went to find the blade.
 15. (sort) Sort these into 'settled' and 'still argued about'.  
    **Answer:** Chlorophyll holds a magnesium atom → Settled; Leaves use up most of their starch by dawn → Settled; Plants do division to share out starch → Still argued about; A green sea slug lives on sunlight → Still argued about; The sea does about half of all photosynthesis → Settled; Life began at deep-sea hot springs → Still argued about. *Why:* Science has both kinds of statement. Saying which is which is part of being honest about what we know.
 16. (mcq) Of 1,000 units of sunlight energy on a field, the crop stores about 10. What share is that?  
-   Options: 1 in 1,000 / 1 in 100 / 1 in 10 / Half  
+   Options: 1 in 1,000 / 1 in 10 / 1 in 100 / Half  
    **Answer:** 1 in 100. *Why:* 10 out of 1,000 is the same as 1 out of 100. Most of the light warms the field, passes through or is sent back.
 
 ## Videos
@@ -707,13 +707,13 @@ She ate the rice slowly. Then she went to find the blade.
    Options: An electron gains the energy / Starch appears / The leaf gets heavier / Oxygen is caught  
    **Answer:** An electron gains the energy. *Why:* The photon's energy lifts an electron in the chlorophyll. Sugar and starch come later, after the energy is passed on.
 3. (mcq) In the starch test, what is the job of the very hot water?  
-   Options: It turns starch blue / It adds sugar / It kills the cells and lets liquids in / It takes the green out  
+   Options: It turns starch blue / It adds sugar / It takes the green out / It kills the cells and lets liquids in  
    **Answer:** It kills the cells and lets liquids in. *Why:* Hot water stops the cells using starch and breaks their thin skins. Taking the green out is the job of the spirit.
 4. (mcq) When does a leaf on a sunny balcony hold the most starch?  
-   Options: At midnight / The same all day / Late afternoon / Just before sunrise  
+   Options: At midnight / The same all day / Just before sunrise / Late afternoon  
    **Answer:** Late afternoon. *Why:* Starch builds up all day and is used up all night. So it is highest late in the afternoon and lowest just before sunrise.
 5. (mcq) A green and white leaf is tested with iodine. Which parts turn blue-black?  
-   Options: Only the parts that were green / Only the parts that were white / The whole leaf / No part  
+   Options: Only the parts that were white / The whole leaf / Only the parts that were green / No part  
    **Answer:** Only the parts that were green. *Why:* Starch is made only where there is chlorophyll. Choosing 'the whole leaf' usually means thinking that light alone is enough.
 6. (mcq) A purple coleus leaf turns blue-black in the starch test. What does that show?  
    Options: Purple pigment makes starch / The test went wrong / Purple leaves need no light / It has chlorophyll under the purple  
@@ -722,21 +722,21 @@ She ate the rice slowly. Then she went to find the blade.
    Options: It is made in the root / As sucrose, through the phloem / As starch grains, through the soil / As chlorophyll, through the veins  
    **Answer:** As sucrose, through the phloem. *Why:* Starch does not dissolve, so it cannot travel. The leaf turns it into sucrose, which flows through the phloem. The root then stores it as starch again.
 8. (mcq) Why does a leaf store food as starch and not as dissolved sugar?  
-   Options: Starch does not dissolve or pull in water / Starch is sweeter / Starch is green / Starch catches light  
+   Options: Starch is sweeter / Starch is green / Starch does not dissolve or pull in water / Starch catches light  
    **Answer:** Starch does not dissolve or pull in water. *Why:* A lot of dissolved sugar would draw water into the cell and swell it. Starch sits as small grains and causes no such trouble.
 9. (truefalse) True or false: the fish in a fish curry needed sunlight.  
    **Answer:** True. *Why:* True. The fish ate smaller animals, who ate tiny sea algae, and the algae made food from sunlight.
 10. (mcq) What comes first in nearly every food chain?  
-   Options: A fungus / Soil / A producer that catches light / A small animal  
+   Options: A producer that catches light / A fungus / Soil / A small animal  
    **Answer:** A producer that catches light. *Why:* Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.
 11. (mcq) A leaf is in a dark room all night. What does it take in and give out?  
-   Options: Carbon dioxide in, oxygen out / Oxygen in, carbon dioxide out / Nothing at all, because the leaf is resting  
+   Options: Oxygen in, carbon dioxide out / Carbon dioxide in, oxygen out / Nothing at all, because the leaf is resting  
    **Answer:** Oxygen in, carbon dioxide out. *Why:* Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.
 12. (mcq) What feeds the giant tubeworms at hot springs on the deep sea floor?  
    Options: Nothing at all / Bacteria that use chemicals for energy / Seaweed growing on the rocks / Sunlight shining down  
    **Answer:** Bacteria that use chemicals for energy. *Why:* No light reaches the deep sea floor, so no seaweed grows there. Bacteria inside the tubeworms make food using energy from chemicals in the hot water.
 13. (mcq) Which of these do scientists still argue about?  
-   Options: Whether leaves hold chlorophyll / Whether iodine shows starch / Whether plants need light / How a plant sets the speed of starch use at night  
+   Options: How a plant sets the speed of starch use at night / Whether leaves hold chlorophyll / Whether iodine shows starch / Whether plants need light  
    **Answer:** How a plant sets the speed of starch use at night. *Why:* Everyone agrees that leaves use starch at a steady rate that lasts until dawn. How the plant sets that rate is not settled.
 
 ## Applications

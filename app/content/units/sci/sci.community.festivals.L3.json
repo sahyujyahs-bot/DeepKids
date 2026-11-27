@@ -576,10 +576,10 @@
       "q": "Which festival goes with kites flown from every rooftop?",
       "options": [
        "Onam",
-       "Uttarayan",
-       "Durga Puja"
+       "Durga Puja",
+       "Uttarayan"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Uttarayan is the January harvest festival in Gujarat, when families fly kites from their rooftops. Onam is Kerala's festival with a sadya and a pookalam. Durga Puja is known for its pandals."
      }
     },
@@ -718,10 +718,10 @@
       "t": "mcq",
       "q": "Republic Day remembers the day India's Constitution came into force. Which pile does it go in?",
       "options": [
-       "Sun, because it is always 26 January",
-       "Moon, because it moves each year"
+       "Moon, because it moves each year",
+       "Sun, because it is always 26 January"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Republic Day is always on 26 January, the date in 1950 when the Constitution came into force. Our national festivals follow the Sun calendar, so their dates never move."
      }
     },
@@ -1985,11 +1985,11 @@
    "t": "mcq",
    "p": "Why are mela stalls usually made of bamboo poles, rope and cloth?",
    "opts": [
-    "They are light, and quick to put up and take down",
     "They are the strongest materials there are",
-    "Bricks are not allowed at a mela"
+    "Bricks are not allowed at a mela",
+    "They are light, and quick to put up and take down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mela lasts a few days or weeks, so its stalls must go up and come down quickly. Bamboo and cloth are light and can be used again. Bamboo is strong for its weight, but bricks and steel are stronger. They would just take too long.",
    "outcome": 0
   },
@@ -1997,11 +1997,11 @@
    "t": "mcq",
    "p": "You get lost at a big mela. What is the best thing to do?",
    "opts": [
-    "Walk around until you find your family",
     "Go to the Lost and Found booth, or ask a police officer or a volunteer",
+    "Walk around until you find your family",
     "Leave the mela and walk home"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The Lost and Found booth, the police and the volunteers are there to help lost children. Your family will look for you there. Walking around makes you harder to find.",
    "outcome": 0
   },
@@ -2009,11 +2009,11 @@
    "t": "mcq",
    "p": "In Kerala, Onam comes just when the rice is harvested. Families cook a big meal with the new crop and share it. Why do so many festivals come at harvest time?",
    "opts": [
-    "People have new food to share, and want to give thanks for it",
     "Schools are closed then",
+    "People have new food to share, and want to give thanks for it",
     "It never rains at harvest time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "After the harvest, there is plenty of food and the hardest work is done. So people gather, share the new crop and give thanks. Schools and rain have nothing to do with it.",
    "outcome": 1
   },
@@ -2033,11 +2033,11 @@
    "t": "mcq",
    "p": "Why does Pongal come on 14 or 15 January almost every year?",
    "opts": [
-    "It follows the Sun, like our school calendar",
     "It follows the Moon",
-    "The government chose the date"
+    "The government chose the date",
+    "It follows the Sun, like our school calendar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Pongal is fixed by the Sun's place in the sky, so it stays in step with our Sun calendar. Festivals that follow the Moon, like Diwali, move.",
    "outcome": 3
   },
@@ -2045,11 +2045,11 @@
    "t": "mcq",
    "p": "Eid-ul-Fitr comes about 11 days earlier every year. Why?",
    "opts": [
-    "People choose an earlier day each year",
     "Twelve Moon months are about 11 days shorter than a Sun year",
+    "People choose an earlier day each year",
     "The Earth is speeding up"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Twelve Moon months are about 354 days, and a Sun year is about 365. The Islamic calendar follows only the Moon, so Eid slides 11 days earlier on our calendar each year.",
    "outcome": 3
   },
@@ -2069,11 +2069,11 @@
    "t": "mcq",
    "p": "Which of these is a national festival, celebrated by the whole country?",
    "opts": [
-    "Vishu",
     "Gandhi Jayanti",
+    "Vishu",
     "Durga Puja"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Gandhi Jayanti, on 2 October, is one of India's three national festivals, with Independence Day and Republic Day. Vishu and Durga Puja are celebrated mostly in some states.",
    "outcome": 4
   },
@@ -2107,11 +2107,11 @@
    "t": "mcq",
    "p": "How does a pinch of lime turn turmeric water into red aarathi water?",
    "opts": [
-    "Lime is a base, and turmeric turns red in bases",
     "Lime has red colour hidden inside it",
+    "Lime is a base, and turmeric turns red in bases",
     "Lime makes the water hot, and it burns"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lime is white, so it adds no red. It is a strong base, and turmeric turns red in bases. The same happens with soap and baking soda in the Turmeric Test.",
    "how": "a4",
    "outcome": 5
@@ -2132,11 +2132,11 @@
    "t": "mcq",
    "p": "What is Eidi?",
    "opts": [
-    "A sweet made of seviyan",
     "A small gift of money that elders give to children",
+    "A sweet made of seviyan",
     "The special Eid prayer"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Eidi is a gift of money that children get at Eid. Seviyan is the sweet dish, and the prayer is held at the mosque or idgah.",
    "outcome": 1
   },
@@ -2156,11 +2156,11 @@
    "t": "mcq",
    "p": "Why do many families light only diyas at Deepawali and few firecrackers?",
    "opts": [
-    "Crackers make smoke and noise that harm people and frighten animals",
     "Crackers can only be used at Christmas",
+    "Crackers make smoke and noise that harm people and frighten animals",
     "Diyas are brighter than the Moon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The smoke hurts weak lungs, and the loud noise frightens dogs, birds and cows. Diyas give a soft light without these harms.",
    "outcome": 1
   },
@@ -2192,11 +2192,11 @@
    "t": "mcq",
    "p": "At Sarhul in Jharkhand, which tree's flowers are offered in the sacred grove?",
    "opts": [
-    "Sal",
     "Neem",
+    "Sal",
     "Mango"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sarhul comes when the sal trees flower. The priest offers sal flowers to the Earth and the Sun. Neem flowers are used for Ugadi pachadi.",
    "outcome": 1
   },
@@ -2576,11 +2576,11 @@
      "t": "mcq",
      "p": "In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?",
      "opts": [
-      "Show that something is a base",
       "Show that something is an acid",
+      "Show that something is a base",
       "Make red aarathi water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.",
      "how": "e2"
     },
@@ -2702,11 +2702,11 @@
      "t": "mcq",
      "p": "Why is sakkarai pongal cooked with new rice at Pongal?",
      "opts": [
-      "The rice has just been harvested",
       "New rice is the only rice that boils over",
-      "Old rice cannot be cooked with jaggery"
+      "Old rice cannot be cooked with jaggery",
+      "The rice has just been harvested"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pongal is a harvest festival, and festival food often uses the crop that has just been harvested."
     },
     {
@@ -2800,10 +2800,10 @@
      "p": "You mix a mystery white powder in water and add it to turmeric water. It stays yellow. What can you say for sure?",
      "opts": [
       "The powder is an acid",
-      "The powder is not a base",
-      "The powder is salt"
+      "The powder is salt",
+      "The powder is not a base"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Turmeric stays yellow in acids and in things that are neither, so you cannot tell which the powder is. You can only say it is not a base. Hibiscus juice would tell you more."
     },
     {
@@ -2829,11 +2829,11 @@
      "t": "mcq",
      "p": "A seller at a mela wants her stall to survive a windy evening. Which change helps most?",
      "opts": [
-      "A heavier cloth roof",
       "Slanted poles from the corners to the ground, making triangles",
+      "A heavier cloth roof",
       "Taller poles"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.",
      "how": "c1"
     },

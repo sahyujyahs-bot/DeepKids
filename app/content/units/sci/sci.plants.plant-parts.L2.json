@@ -458,11 +458,11 @@
       "t": "mcq",
       "q": "A tiny crumb of potato sank. A big piece of brinjal floated. What does this show?",
       "options": [
-       "Big pieces always sink",
        "Size is not what matters. What is inside matters.",
+       "Big pieces always sink",
        "Potato only sinks in cold water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "If size decided, the tiny crumb would float and the big brinjal would sink. The opposite happened. So what is inside the part decides."
      },
      "adult": true
@@ -1265,10 +1265,10 @@
       "q": "Which plant keeps air tunnels in their stalks?",
       "options": [
        "Cactus",
-       "Lotus",
-       "Banyan"
+       "Banyan",
+       "Lotus"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A lotus grows their stem in pond mud, where there is almost no air. Air tunnels carry air down from the leaves."
      }
     }
@@ -1453,10 +1453,10 @@
       "q": "How does a banyan hold up a very long branch?",
       "options": [
        "The branch is made of stone",
-       "Roots grow down from the branch and act like pillars",
-       "The leaves hold it up"
+       "The leaves hold it up",
+       "Roots grow down from the branch and act like pillars"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Prop roots grow down from the branch into the soil and get thick. They hold the branch up, so the tree can spread very wide."
      }
     },
@@ -1522,11 +1522,11 @@
      "t": "mcq",
      "p": "In the float test, what happened to the piece of potato?",
      "opts": [
-      "It floated",
       "It sank",
+      "It floated",
       "It melted"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A potato is packed with stored food, with little room for air, so it sinks.",
      "context": "This question is about the float test. You put pieces of potato, carrot, brinjal, cucumber, a palak leaf and dry chana in a bowl of water, and see which float and which sink.",
      "how": "e1"
@@ -1677,10 +1677,10 @@
      "p": "Why does a lotus stem have holes in it?",
      "opts": [
       "So fish can swim through",
-      "They are tunnels that carry air down to the stem in the mud",
-      "To make the stem lighter to cook"
+      "To make the stem lighter to cook",
+      "They are tunnels that carry air down to the stem in the mud"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Mud at the bottom of a pond has almost no air. The tunnels carry air from the leaves down to the stem."
     },
     {
@@ -1962,11 +1962,11 @@
    "t": "mcq",
    "p": "Which part of the plant is a carrot?",
    "opts": [
-    "A root",
     "A leaf",
+    "A root",
     "A fruit"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A carrot grows down in the soil and stores food. It is a root. If you picked 'fruit', you may have thought that every orange food is a fruit.",
    "outcome": 0
   },
@@ -1974,11 +1974,11 @@
    "t": "mcq",
    "p": "Which of these is a seed?",
    "opts": [
-    "Palak",
     "Toor dal",
+    "Palak",
     "Sugarcane"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dal is a seed. Palak is a leaf and sugarcane is a stem.",
    "outcome": 0
   },
@@ -1999,11 +1999,11 @@
    "t": "mcq",
    "p": "Why do potato pieces and dry chana sink?",
    "opts": [
-    "They are packed with stored food",
     "They are full of air",
-    "They are green"
+    "They are green",
+    "They are packed with stored food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stored food is packed tight, with little room for air. The parts that are full of air are the ones that float.",
    "outcome": 2,
    "how": "e1"
@@ -2012,11 +2012,11 @@
    "t": "mcq",
    "p": "An onion is made of layers wrapped round each other. Which plant part are most of those layers?",
    "opts": [
-    "Fat leaves",
     "Roots",
-    "Seeds"
+    "Seeds",
+    "Fat leaves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most of an onion is fat leaves wrapped round each other. If you picked roots, you may have thought that anything that grows low down is a root.",
    "outcome": 3
   },
@@ -2024,11 +2024,11 @@
    "t": "mcq",
    "p": "Where does a lotus keep their stem?",
    "opts": [
-    "High in the air",
     "In the mud at the bottom of the pond",
+    "High in the air",
     "On top of a rock"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The lotus stem lies in the mud. Air tunnels bring air down to it.",
    "outcome": 3
   },
@@ -2048,11 +2048,11 @@
    "t": "mcq",
    "p": "Why does a cactus have a fat stem?",
    "opts": [
-    "To store water for dry months",
     "To float on water",
+    "To store water for dry months",
     "To hold up long branches"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cactus lives where it hardly rains, so their stem stores water. The lotus is the plant with leaves on the water, and the banyan is the one that holds up long branches.",
    "outcome": 4
   },

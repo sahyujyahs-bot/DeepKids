@@ -1392,10 +1392,10 @@
      "p": "Meera runs 100 metres in 20 seconds. Lakshmi runs 60 metres in 10 seconds. Who is faster?",
      "opts": [
       "Meera, because she ran farther",
-      "Lakshmi",
-      "They are equally fast"
+      "They are equally fast",
+      "Lakshmi"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Meera covers 5 metres in each second. Lakshmi covers 6. Choosing Meera compares only the distances and forgets the times.",
      "outcome": 0
     },
@@ -1550,10 +1550,10 @@
      "p": "Gita and Anu hop for 10 seconds with steps of the same size. Gita makes 9 hops and Anu makes 12. Who is faster?",
      "opts": [
       "Gita",
-      "Anu",
-      "They are equally fast"
+      "They are equally fast",
+      "Anu"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The time is the same, so the one who went farther is faster. Anu covered 12 hop-lengths and Gita covered 9.",
      "outcome": 0
     },
@@ -1578,10 +1578,10 @@
      "p": "Which of these is a complete way to state a speed?",
      "opts": [
       "40",
-      "40 kilometres",
-      "40 kilometres per hour"
+      "40 kilometres per hour",
+      "40 kilometres"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A speed needs a distance and a time together. '40' and '40 kilometres' leave out the time.",
      "outcome": 0
     }
@@ -1626,11 +1626,11 @@
      "t": "mcq",
      "p": "A bus goes 40 kilometres per hour. A passenger walks towards the back at 4 kilometres per hour. Compared with the road, her speed is",
      "opts": [
-      "44 kilometres per hour",
       "36 kilometres per hour",
+      "44 kilometres per hour",
       "4 kilometres per hour"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Her walking takes away from the bus's speed, since she goes the opposite way. 40 - 4 = 36. Adding is for walking towards the front.",
      "outcome": 3
     },
@@ -1746,11 +1746,11 @@
      "t": "mcq",
      "p": "Car A covers 30 metres in 5 seconds. Car B covers 42 metres in 7 seconds. What is true?",
      "opts": [
+      "They go at the same speed",
       "Car A is faster, it took less time",
-      "Car B is faster, it went farther",
-      "They go at the same speed"
+      "Car B is faster, it went farther"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Both go 6 metres in each second. Looking only at the time or only at the distance gives a wrong answer.",
      "outcome": 0
     },
@@ -1781,11 +1781,11 @@
      "t": "mcq",
      "p": "A radio signal, which travels at the speed of light, takes 20 minutes to reach Earth from a spacecraft. About how far away is the spacecraft?",
      "opts": [
-      "36 crore kilometres",
       "3.6 lakh kilometres",
+      "36 crore kilometres",
       "3,600 kilometres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "20 minutes is 1,200 seconds. Light covers 3 lakh kilometres in each second, so 3 lakh × 1,200 = 36 crore kilometres.",
      "outcome": 5
     }
@@ -1831,10 +1831,10 @@
      "p": "A boat goes 12 kilometres per hour in still water. The river flows at 4 kilometres per hour. How fast does the boat go down the river, compared with the bank?",
      "opts": [
       "8 kilometres per hour",
-      "12 kilometres per hour",
-      "16 kilometres per hour"
+      "16 kilometres per hour",
+      "12 kilometres per hour"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Going with the flow, the two speeds add, so 12 + 4 = 16. Going up the river would give 12 - 4 = 8.",
      "outcome": 3
     },
@@ -1950,11 +1950,11 @@
      "t": "mcq",
      "p": "A train going 100 kilometres per hour passes another going 60 kilometres per hour on the next track, in the opposite direction. How fast does one train's passenger see the other going?",
      "opts": [
+      "160 kilometres per hour",
       "40 kilometres per hour",
-      "100 kilometres per hour",
-      "160 kilometres per hour"
+      "100 kilometres per hour"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Going towards each other, the speeds add, so 100 + 60 = 160. The 40 would be right for trains going the same way.",
      "outcome": 3
     },
@@ -2005,11 +2005,11 @@
    "t": "mcq",
    "p": "A toy car covers 150 centimetres in 3 seconds. Which working finds its speed?",
    "opts": [
+    "150 ÷ 3, so 50 centimetres per second",
     "3 ÷ 150",
-    "150 × 3",
-    "150 ÷ 3, so 50 centimetres per second"
+    "150 × 3"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Speed is distance divided by time. 3 ÷ 150 gives seconds for each centimetre, which is the upside-down question. Multiplying gives nothing useful.",
    "outcome": 1
   },
@@ -2030,10 +2030,10 @@
    "p": "You time a car five times and get 3.1, 3.0, 3.4, 3.1 and 3.2 seconds. Why use the middle value?",
    "opts": [
     "One run is as good as five",
-    "A late or early finger spoils some runs",
-    "The car speeds up on every run"
+    "The car speeds up on every run",
+    "A late or early finger spoils some runs"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A finger on a stopwatch is never exactly on time, so single runs are a little off. The middle value is not pulled away by one odd run.",
    "outcome": 1
   },
@@ -2065,11 +2065,11 @@
    "t": "mcq",
    "p": "On a graph with time across and distance up, a line rises steadily, goes flat, then rises more steeply. What happened?",
    "opts": [
-    "Steady, stopped, then faster",
     "Fast, stopped, then slower",
-    "Steady, going back, then slower"
+    "Steady, going back, then slower",
+    "Steady, stopped, then faster"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The steepness shows the speed. Flat means the distance did not change, so the mover stopped. A steeper line afterwards means a higher speed.",
    "outcome": 2
   },
@@ -2077,11 +2077,11 @@
    "t": "mcq",
    "p": "A girl sleeps in a moving train. Which is true?",
    "opts": [
-    "Zero compared with everything",
     "Zero compared with the seat, large compared with the ground",
+    "Zero compared with everything",
     "She has no speed while asleep"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A speed always needs 'compared with what'. She is still compared with the seat, and she is moving compared with the ground. Being asleep changes nothing about the numbers.",
    "outcome": 3
   },
@@ -2113,11 +2113,11 @@
    "t": "mcq",
    "p": "How could anyone show that a continent moves 5 centimetres each year?",
    "opts": [
-    "Film it for an hour",
     "Measure one spot for years with satellites",
+    "Film it for an hour",
     "Measure it once with a long tape"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A speed that small needs a long time to build up a distance we can measure. A film of one hour would show nothing, and one measurement gives no change to divide by a time.",
    "outcome": 4
   },
@@ -2126,10 +2126,10 @@
    "p": "A spaceship moving at half the speed of light shines a torch forwards. Someone at rest measures the beam. What do they find?",
    "opts": [
     "One and a half times light's speed",
-    "Light's usual speed",
-    "Half of light's speed"
+    "Half of light's speed",
+    "Light's usual speed"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Everyone who measures light in empty space finds the same speed. That is different from a passenger walking in a bus, where speeds add. Scientists tested this many times and it holds.",
    "outcome": 5
   },
@@ -2138,10 +2138,10 @@
    "p": "Which question about speed has no agreed answer yet?",
    "opts": [
     "How fast sound travels in air",
-    "Why the universe has a top speed at all",
-    "How far a car goes in an hour at 30 kilometres per hour"
+    "How far a car goes in an hour at 30 kilometres per hour",
+    "Why the universe has a top speed at all"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The other two can be measured or worked out with a sum. Nobody has an agreed reason why light's speed is the limit, so the question is still open.",
    "outcome": 5
   }

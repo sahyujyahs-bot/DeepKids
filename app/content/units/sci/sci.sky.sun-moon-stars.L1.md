@@ -402,7 +402,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    Options: Feeling the sunshine on your hand / Drying clothes on a sunny line / Looking straight at the Sun / Sitting in the shade of a tree  
    **Answer:** 2. *Why:* Looking straight at the Sun, even for a moment, can hurt your eyes. The other three are safe.
 3. (mcq) Where will wet clothes dry fastest?  
-   Options: On a sunny balcony line / In a shady cupboard / Under the bed  
+   Options: In a shady cupboard / Under the bed / On a sunny balcony line  
    **Answer:** On a sunny balcony line. *Why:* The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster.
 4. (truefalse) The Moon is a ball of rock that goes round the Earth.  
    **Answer:** True. *Why:* True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light.
@@ -422,7 +422,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    **Answer:** ['warm', 'cool', 'warm', 'cool']. *Why:* Places where sunlight falls get warmer. Places in the shade get less of the Sun's heat, so they stay cooler.
 ### Sun, Moon and Stars (stretch) (stretch, 10 questions)
 1. (mcq) A solar water heater on a roof warms bath water. What does it use from the Sun?  
-   Options: Its heat / Moonlight / Starlight  
+   Options: Moonlight / Its heat / Starlight  
    **Answer:** Its heat. *Why:* Sunshine brings heat. The solar water heater catches the Sun's heat and uses it to warm the water.
 2. (order) Put these in order, 1 to 4: what happened in the torch star test? A grown-up reads each line.  
    **Answer:** [1, 2, 3, 4]. *Why:* First the star was made. It was hard to see in a bright place, and easy to see in the dark. So the torch had been shining all along.
@@ -455,19 +455,19 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    Options: Light and heat / Light and rain / Heat and wind  
    **Answer:** Light and heat. *Why:* The Sun gives light and heat together. You can feel the heat in a patch of sunshine.
 2. (mcq) Which of these is a star?  
-   Options: The Sun / The Moon / A cloud  
+   Options: The Moon / The Sun / A cloud  
    **Answer:** The Sun. *Why:* The Sun is a star: a huge ball of hot gas that makes its own light. The Moon and clouds only look bright when sunlight falls on them.
 3. (mcq) Why does the Moon look bright at night?  
    Options: The Sun shines on it / It has a fire inside / It is made of light  
    **Answer:** The Sun shines on it. *Why:* The Moon is a ball of rock. It makes no light of its own. Sunlight falls on it and bounces down to us.
 4. (mcq) Where are the stars in the daytime?  
-   Options: Still in the sky, hidden by the bright day sky / Asleep behind the clouds / Gone until night  
+   Options: Asleep behind the clouds / Gone until night / Still in the sky, hidden by the bright day sky  
    **Answer:** Still in the sky, hidden by the bright day sky. *Why:* The stars shine all the time. The Sun makes the day sky so bright that their small light cannot be seen.
 5. (mcq) In the torch star test, what changed between the bright window and the dark room?  
    Options: The light around the star / The torch / The size of the hole  
    **Answer:** The light around the star. *Why:* It was a fair test: the torch, the hole and the distance stayed the same. Only the light around the star changed.
 6. (mcq) Which of these is safe?  
-   Options: Feeling the Sun's warmth on your hand / Looking straight at the Sun for a moment / Looking at the Sun through sunglasses  
+   Options: Looking straight at the Sun for a moment / Looking at the Sun through sunglasses / Feeling the Sun's warmth on your hand  
    **Answer:** Feeling the Sun's warmth on your hand. *Why:* Feeling the warmth is safe. Looking at the Sun, even for a moment or through sunglasses, can hurt your eyes.
 7. (mcq) An ice cube is in a sunny spot. What will help it last longer?  
    Options: Putting a cardboard roof over it to make shade / Moving it closer to the window / Putting it on a black plate in the sun  
@@ -476,13 +476,13 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    Options: The one in the sunshine / The one in the shade / They feel the same  
    **Answer:** The one in the sunshine. *Why:* Sunshine brings heat. The spoon in the sunshine gets more of it.
 9. (mcq) Why is the sky bright in the daytime?  
-   Options: Sunlight lights up the air / The Moon is shining / The stars shine more by day  
+   Options: The Moon is shining / Sunlight lights up the air / The stars shine more by day  
    **Answer:** Sunlight lights up the air. *Why:* Sunlight lights up the air and makes the whole day sky bright. That bright sky hides the stars.
 10. (mcq) A total eclipse of the Sun makes the sky dark in the middle of the day. What can people see then?  
-   Options: Bright stars / Nothing at all / Only clouds  
+   Options: Nothing at all / Only clouds / Bright stars  
    **Answer:** Bright stars. *Why:* When the Moon covers the Sun, the sky goes dark, and bright stars appear. They were there all day.
 11. (mcq) You glue a paper moon on your night page. What lights the real Moon in the sky?  
-   Options: The Sun / The stars / Its own light  
+   Options: The stars / The Sun / Its own light  
    **Answer:** The Sun. *Why:* Sunlight falls on the Moon and bounces off it to our eyes. The Moon has no light of its own, and the stars are too far away to light it.
 
 ## Applications

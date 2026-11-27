@@ -1,9 +1,9 @@
 # Phones and the internet: using them kindly and safely
 `sci.community.phones-and-internet.L2`
 
-**Summary.** You type 'Fine' and press send. Your cousin reads it and feels hurt, though you were not angry at all, so what went wrong? In this lesson you find out how a phone carries a voice and a message across India in less than a second, and you test how much of a feeling is lost when a message has no face and no voice. Then you learn how to guard yourself and your devices against misuse, and why telling a trusted adult is the strongest thing you can do.
+**Summary.** You type 'Fine' and press send. Your cousin reads it and feels hurt, though you were not angry at all, so what went wrong? In this lesson you find out how a phone carries a voice and a message across India in less than a second. Then you test how much of a feeling is lost when a message has no face and no voice. Last, you learn how to guard yourself and your devices against misuse, and why telling a trusted adult is the strongest thing you can do.
 
-**Intro.** *Say 'Come here' in a happy voice. Now say it in an angry voice. Now write 'Come here' on a chit of paper. Which voice is on the paper?* The paper holds the two words and nothing else. Your face and your voice stayed with you. A phone message is like that chit. A phone can carry your words to Kochi or Kohima in less than a second. Today you find out how the phone does that, what gets left behind on the way, and how to use phones and other devices kindly and safely.
+**Intro.** *Say 'Come here' in a happy voice. Now say it in an angry voice. Now write 'Come here' on a chit of paper. Which voice is on the paper?* The paper holds the two words and nothing else. Your face and your voice stayed with you. A phone message is like that chit. A phone can carry your words to Kochi or Kohima in less than a second. Today you find out how the phone does that. You also find out what gets left behind on the way, and how to use phones and other devices kindly and safely.
 
 ## Learning outcomes
 0. I can say how a phone sends a voice or a message to someone far away.
@@ -11,7 +11,7 @@
 2. I can explain why a typed message is easy to read in the wrong way, and what I can do about it.
 3. I can name facts about me that are private, and say who I may share them with.
 4. I can tell when a phone or another device is being misused, by me or by someone else.
-5. I can say what to do when something on a screen feels wrong: stop, do not answer, keep it, and tell a trusted adult.
+5. When something on a screen feels wrong, I can do the four steps and say why the last one is to tell.
 6. I can ask two questions before I believe or pass on something I see on a screen.
 7. I can give one way a phone helps people and one way it can harm, and say why the same phone does both.
 
@@ -20,6 +20,7 @@
 - **signal**: A pattern that can travel from one place to another. *e.g.* A phone changes your voice into a signal, sends it, and the other phone changes it back into sound.
 - **microphone**: A tiny part that feels the shaking of your voice in the air. *e.g.* When you speak to a phone, the microphone feels your voice and the phone turns it into a signal.
 - **pattern**: Things that repeat or follow a plan, so they can be copied. *e.g.* Dot, dash, dot, dash is a pattern. A phone sends your voice as a pattern.
+- **patent**: A paper from the government that says who may make and sell a new invention. *e.g.* Bell got a patent for the telephone in 1876. Other people could not sell the same machine without asking him.
 - **mobile tower**: A tall metal frame that catches and sends the radio waves of phones. *e.g.* Your phone talks to the nearest mobile tower, and the tower passes the call on.
 - **radio waves**: A kind of light that our eyes cannot see. Phones use it to send signals through the air. *e.g.* A phone with no wire sends your call to the tower as radio waves.
 - **Wi-Fi**: Radio waves that join a phone to the internet inside a home or a shop. *e.g.* The little box in your house sends Wi-Fi, so the tablet can reach the internet with no wire.
@@ -27,6 +28,8 @@
 - **network**: Many things joined together so that things can pass between them. *e.g.* The lanes of a town form a network. The internet is a network of computers.
 - **cable**: A thick rope of wires or threads that carries electricity or messages. *e.g.* Cables under the sea join India to other countries.
 - **glass fibre**: A thread of glass as thin as a hair. Messages run along it as flashes of light. *e.g.* Inside a sea cable there are glass fibres carrying flashes of light.
+- **satellite**: A machine that goes round the Earth high up in space and can pass on signals. *e.g.* A satellite can carry a television programme to a village that is far from any cable.
+- **the cloud**: A name for big buildings full of computers that keep your photos and files. It is not in the sky. *e.g.* A photo saved 'in the cloud' sits on a computer in a building. The building needs electricity and cooling.
 - **packet**: One small piece of a message, sent with an address on it. *e.g.* A photo is cut into many packets. The other phone puts the packets back together.
 - **address**: The words or numbers that say where something should go. *e.g.* A letter has an address. Each packet on the internet has one too.
 - **mine**: A big hole dug in the ground to get rocks and metals out. *e.g.* The metals in a phone battery were dug out of a mine.
@@ -54,6 +57,7 @@
 - **advertisement**: A picture or a few words made to get you to buy something or want something. *e.g.* A video game shows an advertisement between two levels. The company earns money when you look.
 - **design**: The way a thing is planned and made, to make people do something. *e.g.* An app is designed so that the next video starts by itself. It is a plan, not an accident.
 - **screen time**: The hours you spend looking at a phone, a tablet, a computer or a television. *e.g.* Two hours of videos and one hour of drawing on a tablet are both screen time.
+- **social media**: Apps where people post pictures, videos and words for many others to see. *e.g.* A video that a person posts for friends to watch and comment on is on social media.
 - **short-sighted**: Able to see near things clearly but not things far away. *e.g.* A short-sighted child sees a book well and the board in class blurred.
 - **trusted adult**: A grown-up you know well who keeps you safe and listens to you. *e.g.* A parent, a grandparent, an older relative or a teacher can be a trusted adult.
 - **helpline**: A phone number that any person in trouble can call for help. *e.g.* Childline 1098 is a free helpline in India for children.
@@ -61,31 +65,32 @@
 - **screen lock**: A secret number or pattern that opens a phone. *e.g.* A screen lock keeps a lost phone from being opened by a stranger.
 - **download**: To bring a program or file from the internet onto your device. *e.g.* Ask a grown-up before you download any game, because a bad one can cause harm.
 - **device**: A machine you hold or use, such as a phone, a tablet, a computer or a smart television. *e.g.* A phone, a tablet and a talking speaker are all devices that join the internet.
-- **emergency**: A sudden danger when someone needs help at once. *e.g.* In an emergency a child can dial 112 from any phone, even a locked one.
+- **emergency**: A sudden danger when someone needs help at once. *e.g.* In an emergency a child can dial 112 from most phones, even a locked one.
 - **chatbot**: A computer program that answers in sentences when you type to it. *e.g.* A chatbot can sound very sure and still be wrong. Check with a grown-up.
 - **voice assistant**: A computer program that answers when you speak to a phone or a speaker. *e.g.* You ask a talking speaker for the weather. It answers, but it is a program and not your trusted adult.
 - **telegram**: A message tapped out in beeps along a wire, and then written on paper and delivered. *e.g.* For more than 160 years people in India sent telegrams. Each word cost money, so people chose words with care.
+- **electromagnetic wave**: A ripple of electricity and magnetism that travels through air, glass and empty space. Radio waves, light and X-rays are all kinds. *e.g.* Radio waves, the light from a torch and the flashes in a sea cable are all electromagnetic waves. They differ only in length.
 
 ## Explanations
 ### A phone carries your voice and your words to someone far away · *defined*
-**Definition:** A phone is a device that changes sound, words and pictures into a signal, sends the signal far away, and changes it back at the other end.
+**Definition:** A phone is a device that changes sound, words and pictures into a signal. It sends the signal far away and changes it back at the other end.
 
 When you speak, your voice shakes the air. A tiny part inside the phone, called a microphone, feels the shaking. The phone changes the shaking into a signal. A signal is a pattern that can travel. The signal travels to the other phone. That phone changes the pattern back into shaking air, and your friend hears you. A typed message and a photo travel the same way, as patterns.
 - e.g. A call from Chennai to Delhi covers about 1,800 kilometres. Your voice arrives in less than one second.
 - e.g. Shout from your balcony. Your real voice reaches about one street. A phone does not make your voice louder. The phone sends a pattern of your voice.
 - e.g. India has more than 100 crore mobile phone connections.
 - **Alexander Graham Bell, who received the first telephone patent in 1876:** Bell showed that a voice could travel along a wire as a changing electric current. He is usually named as the inventor of the telephone.
-- **Antonio Meucci, a poor Italian candle-maker in New York, and the inventor Elisha Gray:** Meucci built a working voice device years earlier and could not pay to keep his claim alive. Gray filed his own design on the same day as Bell. In 2002 the United States House of Representatives passed a resolution honouring Meucci's work. Historians still argue about who was first.
+- **Antonio Meucci, a poor Italian candle-maker in New York, and the inventor Elisha Gray:** Meucci said he built a voice device years earlier, and he could not pay to keep his claim alive. Gray filed his own design on the same day as Bell. In 2002 the United States House of Representatives passed a resolution honouring Meucci's work. Historians still argue about who was first.
 ### A mobile phone talks to a tower with radio waves that we cannot see · *defined*
 **Definition:** Radio waves are a kind of light that human eyes cannot see. A mobile phone sends and receives its signals as radio waves.
 
 A mobile phone has no wire. So how does the signal leave the phone? The phone sends radio waves. Radio waves belong to the same family as the light from a torch. Our eyes cannot see them. They pass through air, glass and most walls. The waves reach the nearest mobile tower. From the tower, the signal goes on through cables to the tower nearest your friend.
 - e.g. Walk into a lift or a basement and the call may break. Thick concrete and metal stop many of the radio waves.
-- e.g. A mobile tower in a city serves phones within about one or two kilometres of it. In open country one tower can reach much farther.
+- e.g. A mobile tower in a city often serves phones within about one or two kilometres of it. In open country one tower can reach much farther.
 - e.g. A radio, a television remote and Wi-Fi at home all use waves from this same family.
-- **Jagadish Chandra Bose, in Kolkata in 1895:** Bose sent very short radio waves across a hall and through walls. Reports of the time say the waves rang a bell and set off a little gunpowder in another room. He did not take out patents on this work, because he wanted everyone to be free to use it.
-- **Guglielmo Marconi, in 1901:** Marconi sent a radio signal across the Atlantic Ocean and built a business from it. Some historians have shown that the receiver he used was based on a design by Bose.
-- **Hedy Lamarr, a film actor, and George Antheil, a composer, in 1942:** They patented a way to make a radio signal hop quickly between channels so that nobody could block it. The idea was ignored for years. Ideas like theirs are used in Bluetooth and Wi-Fi today.
+- **Jagadish Chandra Bose, in Kolkata in 1895:** Bose sent very short radio waves across a hall and through walls. Reports of the time say the waves rang a bell and set off a little gunpowder in another room. He took out very few patents, because he wanted everyone to be free to use his work.
+- **Guglielmo Marconi, in 1901:** Marconi sent a radio signal across the Atlantic Ocean and built a business from it. Some historians argue that the receiver he used was based on a design by Bose.
+- **Hedy Lamarr, a film actor, and George Antheil, a composer, in 1942:** They patented a way to make a radio signal hop quickly between channels so that nobody could jam it with noise. The idea was ignored for years. Hopping ideas like theirs are used in Bluetooth today.
 ### The internet is millions of computers joined together, and many of the cables lie under the sea · *defined*
 **Definition:** The internet is a network: a very large number of computers and phones joined so that any one can send a message to any other.
 
@@ -102,12 +107,12 @@ The internet does not send your photo in one lump. Your phone cuts the photo int
 - e.g. Tear a drawing into 8 numbered pieces. Send them across the room with different people. The person at the other end can still rebuild the drawing from the numbers.
 - e.g. When a video stops and shows a turning circle, the phone is waiting for packets that are late.
 ### A phone is made from sand, rock and metals taken out of the Earth · *defined*
-**Definition:** A phone is built from many materials, including glass made from sand and more than 30 different metals dug from the ground.
+**Definition:** A phone is built from many materials. They include glass made from sand and over 30 different metals dug from the ground.
 
 A phone looks smooth and clean. The glass began as sand. The wires hold copper. The battery holds metals called lithium and cobalt. People dig these out of the ground in mines. Most of the world's cobalt comes from one country in Africa, the Democratic Republic of the Congo. So a phone is a piece of the Earth, shaped by many hands. An old phone thrown in a bin wastes those metals and can poison soil and water.
 - e.g. A phone holds a very small amount of gold, because gold carries electricity well and does not rust.
 - e.g. A shop that takes back old phones sends them to be taken apart, so the metals can be used again.
-- e.g. Using one phone for five years in place of two and a half means one phone fewer has to be dug out of the ground.
+- e.g. Suppose two phones would each last two and a half years. One phone that lasts five years takes the place of both, so one phone fewer has to be made from metals dug out of the ground.
 - **Amnesty International, in a report of 2016:** The report found children working in small cobalt mines in the Congo, digging by hand for very little money. It asked phone and battery companies to check where their cobalt comes from.
 - **Repair workers in markets such as Ritchie Street in Chennai and Nehru Place in Delhi:** A phone that can be opened and mended lasts years longer. Many repairers say phones are now glued shut so that people buy a new one instead.
 ### A sent message can be copied, so it cannot be fully taken back · *defined*
@@ -120,7 +125,7 @@ Words you say aloud fade from the air. A sent message does not fade. A copy sits
 ### A typed message leaves the face and the voice behind · *defined*
 **Definition:** Tone is the feeling that a voice and a face add to words. A typed message carries the words without the tone.
 
-When you talk, people read your face and hear your voice. That is how they know if you are joking. A typed message has only letters. So the reader has to guess your feeling, and often guesses wrongly. In 2005, a scientist named Justin Kruger and his team tested this. People who sent emails felt sure their tone would be understood about 78 times in 100. The readers got it right only about 56 times in 100. That is hardly better than tossing a coin.
+When you talk, people read your face and hear your voice. That is how they know if you are joking. A typed message has only letters. So the reader has to guess your feeling, and often guesses wrongly. In 2005, the psychologists Justin Kruger and Nicholas Epley and their team tested this. People who sent emails felt sure their tone would be understood about 78 times out of 100. The readers got it right only about 56 times out of 100. That is hardly better than tossing a coin.
 - e.g. 'Okay.' can mean 'Yes, happily', 'I am upset' or 'I am busy'. The letters are the same each time.
 - e.g. A voice note or a call carries your voice, so less is lost.
 - e.g. A small picture face, called an emoji, puts back a little of the missing feeling. Even emojis are read differently by different people.
@@ -129,7 +134,7 @@ When you talk, people read your face and hear your voice. That is how they know 
 ### Unkind messages hurt a real person, and doing it again and again is bullying · *defined*
 **Definition:** Bullying is hurting someone on purpose, again and again. When it is done with phones or the internet it is called cyberbullying.
 
-There is always a person at the other end of a message. That person has a body, and feelings show up in the body. A cruel message can make a child's stomach hurt or keep them awake. On a phone the hurt can follow a child home, into their own room, at any hour. Misuse of a phone includes sending mean words, leaving one child out of a group on purpose, and passing on a photo to make people laugh at someone.
+There is always a person at the other end of a message. That person has a body, and feelings show up in the body. A cruel message can make a child's stomach hurt or keep them awake. On a phone the hurt can follow a child home, into their own room, at any hour. Misuse of a phone includes sending mean words and leaving one child out of a group on purpose. It also includes passing on a photo to make people laugh at someone.
 - e.g. Three children make a group and name it after a classmate's stammer. That is bullying, even if each child sent only one message.
 - e.g. A test before sending: would I say this to their face, with their grandparent standing beside them?
 - e.g. If you see bullying in a group, you can refuse to pass it on, say a kind word to the child, and tell a trusted adult.
@@ -162,7 +167,7 @@ A photo of you is a piece of you that travels without you. So each person decide
 ### Not everything on a screen is true · *defined*
 **Definition:** A rumour is a story passed from person to person that nobody has checked.
 
-Anyone can type anything and send it to thousands of people. A false story often travels faster than a true one, because it is surprising. In 2018, the scientist Soroush Vosoughi and his team studied about 126,000 stories on one large social site. False stories reached people about six times faster than true ones. So before you believe or forward something, ask two questions. Who is saying this? How do they know?
+Anyone can type anything and send it to thousands of people. A false story often travels faster than a true one, because it is surprising. In 2018, the scientist Soroush Vosoughi and his team studied about 1.26 lakh stories (126,000) on one large social site. False stories reached people about six times faster than true ones. So before you believe or forward something, ask two questions. Who is saying this? How do they know?
 - e.g. A forwarded message says 'School is closed tomorrow because of rain'. The check is to ask the school or a teacher, not to forward the message.
 - e.g. A picture can be changed, and computer programs can now make pictures and voices of things that never happened.
 - e.g. A message that says 'Send this to ten people quickly' is asking you to skip the checking.
@@ -183,30 +188,30 @@ Have you ever meant to watch one video and watched six? That is partly by design
 
 To look at something near, small muscles inside your eyes squeeze. Held for an hour, they get tired, and you blink less, so your eyes feel dry. Eye doctors suggest the 20-20-20 habit. Every 20 minutes, look at something 20 feet away, which is about 6 metres, for 20 seconds. Bright screens late at night also matter. Your body reads bright light as daytime and holds back its sleep signal.
 - e.g. Look out of the window at the farthest tree or tower you can see. That rests the eye muscles.
-- e.g. In a study of 2015, the scientist Anne-Marie Chang found that adults who read on a bright screen before bed took about 10 minutes longer to fall asleep than when they read a paper book.
+- e.g. In a small study in 2015, the scientist Anne-Marie Chang asked adults to read on a bright screen before bed. They took about 10 minutes longer to fall asleep than when they read a paper book.
 - e.g. Keep the phone at arm's length, and out of the bedroom at night.
-- **The Indian Academy of Pediatrics, the children's doctors of India, in guidelines of 2021:** They advise less than 2 hours of screen time a day for children of 5 to 10 years, with play outdoors, sleep and family time coming first.
+- **The Indian Academy of Pediatrics, the children's doctors of India, in guidelines of 2021:** They advise less than 2 hours of screen time a day for children of 5 to 10 years. They say play outdoors, sleep and family time should come first.
 - **Eye researchers such as Pei-Chang Wu in Taiwan:** They find that time outdoors in daylight protects children's eyes from becoming short-sighted, and that the missing daylight may matter more than the screen itself.
 ### Is screen time bad for children? Scientists disagree · *debated*
 **Definition:** Scientists agree that sleep, play and time with people matter for children. They disagree about how much harm screens themselves do.
 
-You may have heard that screens are bad for children. The evidence is mixed. Some scientists find that children who use screens a lot are a little less happy. Others look at the same numbers and find the link is very small. It is also hard to know which comes first. Does the phone make a child sad, or does a sad child pick up the phone more? What a child does on the screen matters too. A video call with a grandparent is not the same as two hours of videos alone.
+You may have heard that screens are bad for children. The evidence is mixed. Some scientists find that children who use screens a lot are a little less happy. Others look at the same numbers and find the link is very small. It is also hard to know which comes first. Does the phone make a child sad, or does a sad child pick up the phone more? What a child does on the screen matters too. A video call with a grandparent is not the same as two hours of videos alone. Even the word 'time' hides a puzzle. Physicists have no final answer about what time itself is. Here 'screen time' only means hours counted on a clock, and a clock cannot tell what the child did in those hours.
 - e.g. One hour spent drawing on a tablet with a cousin, and one hour scrolling alone, both count as 'one hour of screen time'.
 - e.g. In November 2024, Australia passed a law that keeps children under 16 off social media apps. Other countries are watching to see what happens.
 - **Jean Twenge, a psychologist, in her book 'iGen' of 2017, and Jonathan Haidt in 'The Anxious Generation' of 2024:** They point out that sadness and worry among teenagers rose in several countries after about 2012, when smartphones became common. They argue that phones are a main cause.
-- **Amy Orben and Andrew Przybylski, in a study of 2019:** They studied records of more than 3 lakh young people. Screen use explained less than half of one part in a hundred of the differences in how happy the young people were. They wrote that eating potatoes had about as strong a link.
-- **Candice Odgers, a psychologist who studies children's lives:** She argues that blaming phones may hide other causes of unhappiness, such as poverty, loneliness and violence, and that for some lonely children the phone is where they find friends.
+- **Amy Orben and Andrew Przybylski, in a study of 2019:** They studied records of more than 3 lakh young people. Screen use explained less than half of one percent of the differences in how happy the young people were. They wrote that eating potatoes had about as strong a link.
+- **Candice Odgers, a psychologist who studies children's lives:** She argues that blaming phones may hide other causes of unhappiness, such as poverty, loneliness and violence. She adds that some lonely children find their friends on the phone.
 ### When something feels wrong: stop, do not answer, keep it, and tell a trusted adult · *defined*
-**Definition:** A trusted adult is a grown-up you know well who keeps you safe and listens to you, such as a parent, a grandparent, an older relative or a teacher.
+**Definition:** A trusted adult is a grown-up you know well, who keeps you safe and listens to you. A parent, a grandparent, an older relative or a teacher can be one.
 
 Your body often knows first. Your stomach tightens, or your face goes hot. If a message, a picture, a call or a person on a screen makes you feel scared, confused or dirty, do four things. Stop. Do not answer. Do not delete it, because the adult needs to see it. Tell a trusted adult the same day. It is never your fault, even if you pressed something you were told not to press. If the first adult does not listen, tell another.
 - e.g. Childline, on the number 1098, is a free phone service in India for any child who needs help. The emergency number 112 reaches the police, an ambulance or the fire service.
 - e.g. For money tricks on the phone, families in India can call the cyber helpline 1930.
 - e.g. Words you can use: 'Something on the phone scared me. Please look at it with me.'
 - **Children, when researchers ask why they did not tell anyone:** Many say they were afraid the phone would be taken away, or that they would be scolded. So the telling stops.
-- **Child-safety workers:** They ask parents to make one promise in advance: 'If you tell me, I will not be angry and I will not punish you for telling.' Children who have heard that promise tell sooner.
+- **Child-safety workers:** They ask parents to make one promise in advance. 'If you tell me, I will not be angry, and I will not punish you for telling'. Children who have heard such a promise are more likely to tell.
 ### Guard the device: a lock, an ask-first rule, and the same care for tablets, computers, televisions and speakers · *defined*
-**Definition:** Misuse of a device means using it to harm, to trick, to spy or to take what is not yours, or using someone's device without their leave.
+**Definition:** Misuse of a device means using it to harm, to trick, to spy or to take what is not yours. It also means using someone's device without their permission.
 
 A phone holds a family's photos, messages and money. So it needs a guard, like a front door. A screen lock is a secret number or pattern that opens the phone. Ask before you use anyone's device. Ask before you download an app, press a link or buy anything in a game. Tablets, computers, smart televisions and talking speakers are joined to the internet too. They can have cameras and microphones. The same rules guard all of them.
 - e.g. A found phone or a pen drive on the road is not yours to open. Give it to a grown-up.
@@ -214,13 +219,13 @@ A phone holds a family's photos, messages and money. So it needs a guard, like a
 - e.g. A device is also a thing that can be damaged. Keep it dry, do not charge it under a pillow where it can get hot, and never touch a charger with wet hands.
 - e.g. Looking through another person's messages without asking is misuse, even at home.
 ### A phone used well saves lives and joins people, and not everyone has one · *defined*
-**Definition:** A tool is neither good nor bad. What it does depends on how it is used and who gets to use it.
+**Definition:** A tool is not good or bad by itself. What it does depends on how it is used, how it is designed and who gets to use it.
 
-The same phone that can carry a cruel message can call an ambulance. Phones bring weather warnings to fishing boats. They let a child in Bengaluru see a grandparent in Shillong. They read text aloud for people who cannot see. A study on the Kerala coast shows how much they can change. Yet not every family has a phone. In India, far fewer women than men own a smartphone, so many women and girls are left out of what phones can do.
+One phone can be used to hurt someone, and that same phone can bring an ambulance. Phones bring weather warnings to fishing boats. They let a child in Bengaluru see a grandparent in Shillong. They read text aloud for people who cannot see. A study on the Kerala coast shows how much they can change. Yet not every family has a phone. In India, far fewer women than men own a smartphone, so many women and girls are left out of what phones can do.
 - e.g. Between 1997 and 2001, mobile towers came to the Kerala coast. The economist Robert Jensen found that fishers began to phone the markets from their boats to find where fish were needed. Fish that used to be thrown away unsold were no longer wasted, and prices became fairer.
-- e.g. In an emergency a child can dial 112 from any phone, even one that is locked.
+- e.g. In an emergency a child can dial 112 from most phones, even one that is locked.
 - e.g. A person who cannot hear can talk with friends by video in sign language.
-- **The GSMA, a worldwide group of mobile companies, in yearly reports on women and phones:** The reports find that in many countries women are less likely than men to own a phone, often because of cost and because families do not allow it.
+- **The GSMA, a worldwide group of mobile companies, in yearly reports on women and phones:** The reports find that in many countries women are less likely than men to own a phone. Often the reasons are cost and families who do not allow it.
 - **Some village councils and families in India:** They have stopped girls from having phones, saying it keeps them safe. Many girls and women's groups answer that this takes away their schooling, their work and their way to call for help.
 ### People are not the only beings who send messages far · *defined*
 **Definition:** Many living beings send signals over long distances, using sound, smell, touch and movement.
@@ -228,13 +233,13 @@ The same phone that can carry a cruel message can call an ambulance. Phones brin
 Long before phones, other beings were sending messages across forests and fields. Elephants make rumbles so deep that human ears cannot hear them. These rumbles carry for several kilometres. A honey bee who finds flowers comes home and dances, and her sisters read from the dance which way to fly and how far. The phone is one more way of sending a message, among very many on Earth.
 - e.g. A male koel calls from a mango tree in March, and a koel far across the neighbourhood answers.
 - e.g. Ants leave a line of smell on the ground. The ants who follow read the smell as 'food this way'.
-- **Katy Payne, who studied elephants in the 1980s:** She felt a throbbing in the air near elephants in a zoo, recorded it, and showed that elephants call to each other with sounds below human hearing.
+- **Katy Payne, who studied elephants in the 1980s:** She felt a throbbing in the air near elephants in a zoo and recorded it. She showed that elephants call to each other with sounds below human hearing.
 - **Karl von Frisch, who studied honey bees and shared a Nobel Prize in 1973:** He worked out the meaning of the bees' dance. Some scientists of his time doubted that an insect could do this, and later tests with radar tracking supported him.
 ### Some voices on a phone are computer programs. Do they understand? · *debated*
 **Definition:** A chatbot or a voice assistant is a computer program that answers in words. Scientists and philosophers disagree about whether such a program understands anything.
 
 Some voices that answer you are not people. A voice assistant and a chatbot are computer programs. They have learnt patterns from a huge amount of human writing. They can be helpful, and they can also be wrong while sounding sure. A program cannot come to your house to help you, so it is not your trusted adult. Does the program understand what it says? Science has no agreed test for understanding, and no final definition of it. So this question is open.
-- e.g. In 1966 Joseph Weizenbaum wrote a simple program named ELIZA that turned a person's sentences into questions. Many people who typed to ELIZA felt truly listened to, and this alarmed him.
+- e.g. In 1966 Joseph Weizenbaum wrote a simple program named ELIZA. It turned a person's sentences into questions. Many people who typed to ELIZA felt truly listened to. This alarmed him.
 - e.g. Ask a chatbot and a grandparent the same question about your own town. Notice who can say how they know.
 - **Alan Turing, a mathematician, in 1950:** He proposed a test. If you chat by typing and cannot tell the machine from a person, he said, it is fair to say the machine thinks.
 - **John Searle, a philosopher, in 1980:** He imagined a man in a room who follows a rule book to answer Chinese letters without knowing any Chinese. The answers are perfect, and the man understands nothing. Searle argued that a program is like that man.
@@ -242,20 +247,20 @@ Some voices that answer you are not people. A voice assistant and a chatbot are 
 ### Old tests for words: is it true, is it kind, is it useful, is this the right time? · *idea*
 **Definition:** Teachers in ancient India set out tests a person can put to their words before speaking. The same tests work for a message.
 
-People worried about hurtful words long before phones. About 2,500 years ago the Buddha gave five tests for speech. Is it said at the right time? Is it true? Is it gentle? Is it useful? Is it said with goodwill? In the Tamil book Tirukkural, the poet Tiruvalluvar wrote that using harsh words when sweet ones are at hand is like eating unripe fruit when ripe fruit is there. These are teachings and not science. You can still test them yourself.
+People worried about hurtful words long before phones. About 2,500 years ago the Buddha gave five tests for speech. Is it said at the right time? Is it true? Is it gentle? Is it useful? Is it said with goodwill? The Tamil book Tirukkural has a poem by Tiruvalluvar. Using harsh words when sweet ones are at hand, he wrote, is like eating unripe fruit when ripe fruit is there. These are teachings and not science. You can still test them yourself.
 - e.g. Before sending 'You were so slow in the race', try the tests. It may be true. Is it gentle? Is it useful? Is this the right time?
 - e.g. A true thing can be said kindly: 'I waited for you at the finish line.'
 - **The Buddha, in the Vaca Sutta, Anguttara Nikaya 5.198:** Speech is well spoken when it is timely, true, gentle, beneficial and spoken with a mind of goodwill.
 - **Tiruvalluvar, in the Tirukkural, chapter 10 on sweet speech, kural 100:** To speak harshly when kind words are available is like choosing the unripe fruit and leaving the ripe one.
-- **People who value plain speaking, in many cultures:** They warn that 'be kind' can be used to silence someone who must say a hard truth, such as a child who needs to report a wrong. A hard truth told to a trusted adult passes every test that matters.
+- **People who value plain speaking, in many cultures:** They warn that 'be kind' can be used to silence someone who must say a hard truth. An example is a child who needs to report a wrong. A hard truth told to a trusted adult passes every test that matters.
 
 ## Mostly agreed
-- Children who spend more time outdoors in daylight are less likely to become short-sighted. *How we know:* In a trial led by the eye doctor Pei-Chang Wu in Taiwan, reported in 2018, about 700 Class 1 children were followed for a year. Schools in one group sent children outdoors for more hours each week. Fewer children in that group became short-sighted, and their eyes changed more slowly.
+- Children who spend more time outdoors in daylight are less likely to become short-sighted. *How we know:* In a trial led by the eye doctor Pei-Chang Wu in Taiwan, reported in 2018, nearly 700 Class 1 children were followed for a year. Schools in one group sent children outdoors for more hours each week. Fewer children in that group became short-sighted, and their eyes changed more slowly.
 - Radio waves were predicted with mathematics before anyone had made or detected one. *How we know:* James Clerk Maxwell published equations in 1865 that said such waves must exist and must travel at the speed of light. Heinrich Hertz made and detected them in his laboratory in 1887 and 1888, and their speed matched.
-- Old phones and other electronic waste hold valuable metals and also poisons, and most of the world's electronic waste is not yet collected properly. *How we know:* The United Nations Global E-waste Monitor of 2024 counted about 62 billion kilograms of electronic waste made in 2022, and found that less than a quarter was recorded as collected and recycled properly.
+- Old phones and other electronic waste hold valuable metals and also poisons, and most of the world's electronic waste is not yet collected properly. *How we know:* The United Nations Global E-waste Monitor of 2024 counted the electronic waste made in 2022. It came to about 62 billion kilograms. Less than a quarter was recorded as collected and recycled properly.
 
 ## How we found out
-**James Clerk Maxwell, Heinrich Hertz, Jagadish Chandra Bose, Guglielmo Marconi, Hedy Lamarr, Martin Cooper, Radia Perlman, Tim Berners-Lee, The 1830s to 1995.** For most of history, people held that a message could go only as far and as fast as someone could carry it. A runner, a horse or a ship took the letter. This fitted everything people saw: words do not move by themselves. In the 1830s and 1840s the electric telegraph showed that a pattern of beeps could run along a wire far faster than any horse. India's first telegraph line was tried near Kolkata in 1850. In 1876 the telephone sent a voice along a wire. Still, people held that a wire was needed. In 1865 James Clerk Maxwell worked out with mathematics that invisible waves should be able to cross empty space. In 1887 Heinrich Hertz made such waves. In 1895, in Kolkata, Jagadish Chandra Bose sent them through walls. In 1901 Guglielmo Marconi sent a signal across an ocean. On 29 October 1969 two computers in California were joined, and the first message between them was 'LO', because the system crashed before the word 'LOGIN' was finished. That link grew into the internet. On 3 April 1973 the engineer Martin Cooper made the first call from a hand-held mobile phone. India's first mobile call was made on 31 July 1995.  
+**James Clerk Maxwell, Heinrich Hertz, Jagadish Chandra Bose, Guglielmo Marconi, Martin Cooper, Radia Perlman, The 1830s to 1995.** For most of history, a message could go only as far and as fast as someone could carry it. A runner, a horse or a ship took the letter. In the 1830s and 1840s the electric telegraph showed that a pattern of beeps could run along a wire far faster than any horse. India's first telegraph line was tried near Kolkata in 1850. In 1865 James Clerk Maxwell worked out with mathematics that invisible waves should be able to cross empty space. In 1876 the telephone sent a voice along a wire. In 1887 Heinrich Hertz made such waves. In 1895, in Kolkata, Jagadish Chandra Bose sent them through walls. In 1901 Guglielmo Marconi sent a signal across an ocean. On 29 October 1969 two computers in California were joined. Their first message was 'LO', because the system crashed before 'LOGIN' was finished. That link grew into the internet. On 3 April 1973 the engineer Martin Cooper made the first call from a hand-held mobile phone. In 1985 the engineer Radia Perlman made a rule that keeps messages between joined computers from going round in circles. India's first mobile call was made on 31 July 1995.  
 *What people believed before:* A message can travel only if a person or a wire carries it. This was believable because nobody could see or feel radio waves, and every message anyone had ever sent had needed a carrier.
 
 ## Challenging perspectives
@@ -267,7 +272,7 @@ People worried about hurtful words long before phones. About 2,500 years ago the
   Against: Radio waves from phones carry far too little energy to break the molecules in cells, which is how X-rays do harm. Brain cancer has not become more common in countries where nearly everyone now uses a phone.
 - **Children should not have a smartphone or social media until they are 14 or 16.** (The psychologist Jonathan Haidt and parent groups in several countries. Australia made a law for under-16s in 2024; *debated*)  
   For: Childhood needs free play, sleep and face-to-face friendship, and apps are designed to hold attention. A shared rule also frees each child from being the only one left out.  
-  Against: Researchers such as Candice Odgers say the evidence of harm is weak, that bans are hard to enforce, and that they cut off children who find help and friends online. Others say teaching safe use early works better than a wall.
+  Against: Researchers such as Candice Odgers say the evidence of harm is weak and that bans are hard to enforce. They add that bans cut off children who find help and friends online. Others say teaching safe use early works better than a wall.
 - **Writing and screens weaken memory and thinking, because people stop holding things in their own minds.** (Socrates, in Plato's dialogue Phaedrus (sections 274 to 275), said this of writing about 2,400 years ago. Some teachers say it of phones today; *debated*)  
   For: A study by Betsy Sparrow in 2011 found that people remember a fact less well when they expect to be able to look it up later.  
   Against: In the same study people remembered better where to find the fact. Writing, printing and libraries were each feared in their time, and each let people think about more than one memory can hold.
@@ -275,20 +280,20 @@ People worried about hurtful words long before phones. About 2,500 years ago the
 ## Roots
 You have tested how much of a feeling is lost when a message has no face. Now we ask what a message is, and what that tells us about ourselves and other people.
 
-**Deep truth.** You wrote one word on a chit, and your family guessed your feeling from it. They guessed wrongly about half the time. When they heard your voice, they guessed right far more often. The word on the chit never changed. So the meaning was not inside the word, and each reader finished the message in their own body.  
+**Deep truth.** You wrote one word on a chit, and your family guessed your feeling from it. They often guessed wrongly. When they heard your voice, they guessed right more often. The word on the chit never changed. So the meaning was not inside the word, and each reader finished the message in their own body.  
 *Habit it breaks:* We say 'I sent my message' as if the meaning travelled whole, like a parcel. That way of speaking puts all of the message on the sender's side and makes the reader only a receiver. The test shows the reader builds half of it.  
-*Evidence:* In the message without a face test, the same written word was read as happy by one person and as upset by another, and the number of right guesses rose when the voice was added and rose again when the face was added.
+*Evidence:* In the message without a face test, the same written word was often read as happy by one person and as upset by another. The number of right guesses rose when the voice was added. It rose again when the face was added.
 
 - *who am i:* You found that your feeling does not leave your body with your words. The other person has to grow it again in their own body. So you are not sealed off from others. A part of what you mean lives in whoever is listening to you.
 - *what is life:* Elephants rumble, bees dance and ants lay trails of smell. Living beings keep reaching towards one another with signals. A being with no way to send or receive would be alone in a way no living being ever is.
 - *what is this world:* Your voice becomes shaking air, then a pattern, then radio waves, then flashes of light in glass, then a feeling in a cousin far away. The world lets one pattern pass through all these forms. The phone, the sea cable and your cousin's ear are parts of one path.
 
-A phone seems to join two separate people with a line. The test suggests something closer. A message is not finished when it leaves you, and it is not finished until someone reads it. So one message is made by two people together. The same is true of every word spoken across a room. Consciousness is the ground that both people arise from, which is why one can grow the other's feeling at all. Many scientists do not take this last step, and their view is given below.
+A phone seems to join two separate people with a line. The test suggests something closer. A message is not finished when it leaves you, and it is not finished until someone reads it. So one message is made by two people together. The same is true of every word spoken across a room. Some teachers go one step further. They say that awareness is the ground that both people arise from, which is why one can grow the other's feeling at all. Many scientists do not take this last step, and their view is given below.
 
-- **Bhagavad Gita 17.15:** Words that cause no distress, that are true, pleasant and helpful, are called the discipline of speech. (The verse treats speaking as something you practise, like a sport. The lesson's test shows why practice is needed: the sender cannot feel how the words will land without stopping to imagine the reader.)
+- **Bhagavad Gita 17.15:** Words that cause no distress, that are true, pleasant and helpful, are called the discipline of speech. (The verse treats speaking as something you practise, like a sport. The lesson's test shows why practice is needed: the sender has no way to know how the words will land without stopping to imagine the reader.)
 - **Avatamsaka Sutra, the image of Indra's net, as explained by the Chinese Buddhist teacher Fazang in the 7th century CE:** Imagine a net that stretches without end, with a shining jewel at every knot. Each jewel reflects every other jewel. (The internet is a real net with a device at each knot, and each device can show what any other sends. The old image goes further than the cables do. It says each thing holds the others, and not only that they are joined.)
 - **Tirukkural, chapter 13 on self-control, kural 129:** A burn from fire heals inside. A wound burnt in by the tongue does not heal. (This meets the card about copies. A typed word stays on forty phones long after the sender has forgotten it.)
-- Science (debated): When people watch another person's face show a feeling, some of the same parts of their own brain and body become active as when they feel it themselves. Scientists link this to how we understand each other.
+- Science (debated): When people watch a face show a feeling, some parts of their own brain and body become active, just as when they feel it themselves. Scientists link this to how we understand each other.
 - Science (settled): Radio waves and the flashes of light in glass fibre are one kind of thing. They are electromagnetic waves, which are invisible ripples that travel through air, glass and even empty space. They differ only in length. Visible light is the same kind of wave.
 - Other view, Claude Shannon, the engineer who founded the mathematics of communication in 1948, and many scientists after him: Shannon wrote that the meaning of a message has nothing to do with the engineering problem. On this view a message is a pattern that is copied from one place to another, and feelings are separate events in two separate brains. Nothing is shared except the pattern.
 - Practice, One breath before send (3 min): Sit with your child and hold a phone that is switched off. Say: 'Think of someone you might send a message to. Close your eyes and see their face.' Wait. 'Now take one slow breath in, and one slow breath out. Imagine them reading your message. What does their face do?' Wait. 'That breath is your send button. Whenever you are about to send, take it first.' Do it three times, with three different people in mind.
@@ -380,9 +385,9 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
   *Parent does:* Cut out the 16 situation cards. Cut out one set of 3 answer cards for every player. Shuffle the situation cards. Read the three answers together.  
   *Parent says:* We will read a situation, and each choose what to do. There are three answers. Which of them is the one that you would use for a message that scares you?  
   *Child mode:* Cut out the cards. Learn the three answers: go ahead, ask first, stop and tell.
-  - Note: Cut out the cards for a younger child. Keep them in an envelope for next time.
+  - Note: A grown-up cuts the cards for a child under 8, because scissors are sharp. Keep them in an envelope for next time.
 - **g1s2 (15 min)**  
-  *Parent does:* Play 16 rounds. In each round, one player reads a situation aloud. Everyone chooses an answer in secret and shows it together. Then the reader reads the back. Talk about any answer that was different.  
+  *Parent does:* Play 16 rounds. In each round, one player reads a situation aloud, in the voice of a film announcer if they like. Everyone chooses an answer in secret and shows it together. Then the reader reads the back. Talk about any answer that was different.  
   *Parent says:* What did you choose? Why? What does the back say?  
   *Child mode:* Read a card. Choose an answer. Show it. Read the back. Count your points.
   - Note: If an answer was different from the back, ask why. A child's reason may show a good point. The back shows the safest answer.
@@ -431,14 +436,14 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
   *Child mode:* Count the ticks in each round. Say what you thought, what you saw, and why.
   - Ask: The words on the chit never changed. So where did the extra feeling come from in round 2 and round 3? (good: From the voice.; From the face.; The reader put the feeling together from what they heard and saw.)
   - Ask: What does this test not tell us? (good: How every person would do, because only two readers tried.; Whether a good actor gets more right than a shy child.; Whether emoji or a voice note would help.)
-  - Note: Typical results with two readers who know your child are 1 to 3 right for the chit, 3 to 5 for the voice and 4 to 6 for the face. Pure guessing gives about 2. Your numbers will differ, because a reader who knows your child well may do well even from the words. That is also a finding, so write it down. If the chit gets 5 or 6 right, the voice and face rounds will still usually score the same or higher.
+  - Note: Typical results with two readers who know your child are 1 to 3 right for the chit and 3 to 5 for the voice. For the face they are 4 to 6. Pure guessing gives about 2. Your numbers will differ, because a reader who knows your child well may do well even from the words. That is also a finding, so write it down. If the chit gets 5 or 6 right, the voice and face rounds will still usually score the same or higher.
   - Check: A reader gets 2 right on the chit round and 5 right on the voice round. What most likely helped? → **The voice gave the feeling**
   - Think: You can fix a message that is easy to misread. What could you add to a typed 'Fine.' so that your cousin reads it as you meant it?
 ### e2 · The cup phone: does the string need to be tight? (30 min)
 - **question:** Does the string of a cup phone have to be tight for a whisper to get through?
 - **predict:** Guess what happens if the string is tight, loose, or held by a finger in the middle. Say why you think so.
 - **fair test:** The same two cups, the same string, the same three words and the same quiet voice are used every time. Only the string changes: tight, loose, then pinched by a finger. Each way is tried three times with three different words, because one try can be a fluke.
-- **safety:** An adult makes the holes in the cups, because a pencil point is sharp and can slip.
+- **safety:** An adult makes the holes in the cups, because a pencil point is sharp and can slip. Never loop the string around a neck or a wrist, and watch that nobody trips on the string.
 - **record:** Draw the table. In each box, write a tick if the word was clear. Write a half tick if it was faint, and a cross if it was not heard. Then say or write what I thought, what I saw, and why.
 - **results table:** String | Word 1 heard? | Word 2 heard? | Word 3 heard?
 - **s1 (5 min) · grown-up needed**  
@@ -490,7 +495,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
   *Child mode:* Send three pieces by each road. They will arrive in a mixed order.
   - Ask: Why does each piece have a number? (good: So the pieces can be put back in order.; Because they arrive in a different order from the order they were sent.)
 - **a1s3 (5 min)**  
-  *Parent does:* The second person puts the pieces in order by the numbers and rebuilds the picture. Then do it again, but one piece is held back and never arrives. Ask the second person to say which number is missing and to ask for that piece again.  
+  *Parent does:* The second person puts the pieces in order by the numbers and rebuilds the picture. Then do it again, but one piece is held back and never arrives. Ask the second person to say which number is missing and to ask for that piece again. To make it a race, time the rebuilding with a clock, then swap places and see who is faster.  
   *Parent says:* Can you tell which piece is missing without seeing it? What does the phone do when a packet is lost?  
   *Child mode:* Put the pieces in order. One is missing. Say its number and ask for it again.
   - Note: A phone really does this. It notices the number that is missing and asks for that packet again.
@@ -581,7 +586,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 - **general:** A code word that only the family knows, changed when it has been said near a stranger.; A question that only the family can answer, such as the name of a family pet.; A rule that the child goes with nobody until a trusted adult they know has said yes face to face.
 - **creative:** A code that changes every week. A different member of the family chooses it each time, so choosing is a game.; A pair of words, one said by the child and one by the person, like a lock and key.; A drawn symbol that the person must show, made on a card that the child keeps inside a shoe.
 - **ch1s1 (5 min)**  
-  *Parent does:* The grown-up plays a person at the door. The person says, 'Your mother sent me to pick you up.' Ask your child how to find out if it is true. Let them think of two ideas without help.  
+  *Parent does:* The grown-up plays a person at the door. The person says, 'Your mother sent me to pick you up'. Ask your child how to find out if it is true. Let them think of two ideas without help.  
   *Parent says:* A person says your family sent them. How could you find out if it is true?  
   *Child mode:* Think of two ways to check that a person really comes from your family.
   - Ask: Why is a name or a smiling face not enough? (good: Anyone can say a name.; A kind face does not prove anything.)
@@ -636,7 +641,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 7. (write) A cousin might read 'Come here' as cross. What can you add so that she knows you are happy?  
    **Answer:** A good answer adds the feeling in one way. It might be 'Come here, I am so happy!', a smiling face, a voice note, or a call.. *Why:* The words alone carry no feeling. Anything that adds your voice, your face or your reason puts some feeling back.
 8. (draw) Draw how a voice goes from one phone to another. Show a microphone, a tower and a second phone.  
-   **Answer:** A phone with sound waves going in, wavy lines to a tower, a cable to a second tower, and curved lines to a second phone with sound coming out.. *Why:* The voice becomes a pattern, travels by radio waves and cables, and becomes sound again at the other end.
+   **Answer:** A phone with sound waves going in. Wavy lines go to a tower, a cable goes to a second tower, and curved lines go to a second phone with sound coming out.. *Why:* The voice becomes a pattern, travels by radio waves and cables, and becomes sound again at the other end.
 9. (perspective) Two views about children and phones.  
    **Answer:** Answers vary. A strong answer finds something true in both views. Outdoor play matters, and a phone can call for help. A rule can keep both.. *Why:* Both views are about real needs. A phone helps with calls and emergencies, and a child also needs play, sleep and time with people.
 10. (mcq) A funny photo is of your friend. She has not said yes. What do you do before sending it?  
@@ -688,7 +693,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 9. (perspective) Two views about posting a child's photo.  
    **Answer:** Answers vary. A strong answer says the child's wish matters, because the picture is of them. Both can be kept if the grandparent asks and shares only with people the family knows.. *Why:* Children have a right to privacy about their own picture, and love is a reason to share. Asking is a way to hold both.
 10. (draw) Draw a message's road to a cousin's phone in Kochi. Show a tower, a cable and the sea.  
-   **Answer:** A phone, a tower with wavy lines, a cable going along the ground and under the sea, another coast at Kochi, a tower and a second phone.. *Why:* A message goes as radio waves to a tower, then as light along cables under the sea, then as radio waves to the second phone.
+   **Answer:** A phone and a tower with wavy lines. A cable goes along the ground and under the sea to another coast at Kochi, where a tower sends the message to a second phone.. *Why:* A message goes as radio waves to a tower, then as light along cables under the sea, then as radio waves to the second phone.
 
 ## Videos
 - **How a phone call travels** (to be found, 5 min) id `4UWpiOCkTAM`: To see how a voice becomes a signal, travels to a tower and comes out as sound again. *Check:* Found by YouTube search: "How Does a Phone Call Find You? (Mobile Networks Explained Simply)" by ExplainHowFast. Title checked automatically; a parent may still preview it.
@@ -703,7 +708,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    Options: A thin wire runs from every phone / As radio waves that we cannot see / Her voice flies the whole way through the air  
    **Answer:** As radio waves that we cannot see. *Why:* Radio waves are light that our eyes cannot see, and they carry the signal to a tower. If you chose the wire, think about where the wire would be when you walk.
 3. (mcq) Which is the best description of the internet?  
-   Options: One huge computer in a city / Many computers and phones joined together / A cloud in the sky  
+   Options: One huge computer in a city / A cloud in the sky / Many computers and phones joined together  
    **Answer:** Many computers and phones joined together. *Why:* The internet is a network of many computers, joined by cables and radio waves. The word 'cloud' hides the real cables and buildings.
 4. (mcq) A phone cuts a big photo into pieces and numbers each piece. Why number them?  
    Options: To put them back in order at the end / To make the photo smaller / To keep strangers out  
@@ -715,13 +720,13 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    Options: A typed 'Fine.' / A voice note saying 'Fine!' warmly / A typed 'FINE'  
    **Answer:** A voice note saying 'Fine!' warmly. *Why:* A voice note carries the voice, so the reader hears the feeling. A typed word has none, and capital letters can sound angry.
 7. (mcq) Which of these is private information?  
-   Options: Your favourite fruit / Your home address / Your favourite song  
+   Options: Your favourite fruit / Your favourite song / Your home address  
    **Answer:** Your home address. *Why:* An address can lead a stranger to your door. A favourite fruit cannot lead anyone to you.
 8. (mcq) Who may know your password?  
    Options: Your best friend / Your parent / A kind person in a game  
    **Answer:** Your parent. *Why:* A password opens your account. A best friend today may not be one next month, and the password will still work.
 9. (mcq) A person in a game says, 'Keep this our secret.' What does this show?  
-   Options: A good friend is speaking / A sign to tell a trusted adult / It is a rule of the game  
+   Options: A good friend is speaking / It is a rule of the game / A sign to tell a trusted adult  
    **Answer:** A sign to tell a trusted adult. *Why:* A safe surprise, such as a birthday gift, is soon told. A secret that a stranger asks you to keep is a warning.
 10. (mcq) Which one is misuse of a device?  
    Options: Reading your uncle's messages without asking / Calling your grandmother with a parent beside you / Putting a screen lock on a phone  
@@ -730,24 +735,24 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    Options: A copy may already be on another phone / Deleted messages come back on Tuesdays / Messages never leave the phone  
    **Answer:** A copy may already be on another phone. *Why:* A sent message becomes a copy on someone else's device. Deleting removes only your own copy.
 12. (mcq) A scary picture arrives on a screen. Which first step is right?  
-   Options: Reply to ask who sent it / Stop, do not answer, keep it and tell an adult / Delete it at once so that nobody sees  
+   Options: Reply to ask who sent it / Delete it at once so that nobody sees / Stop, do not answer, keep it and tell an adult  
    **Answer:** Stop, do not answer, keep it and tell an adult. *Why:* The four steps keep you safe, and the adult needs to see the picture. Replying tells the sender that you are there.
 13. (mcq) Why should a child keep a scary message and not delete it?  
    Options: The adult needs to see it / Deleted messages come back to scare you / The phone breaks if a message is deleted  
    **Answer:** The adult needs to see it. *Why:* The adult can use the message to find who sent it and to help. Deleting it hides the proof.
 14. (mcq) A message says, 'Send this to ten people now!' What is the best first step?  
-   Options: Send it quickly before it expires / Ask who says it and how they know / Send it to ten people to be safe  
+   Options: Send it quickly before it expires / Send it to ten people to be safe / Ask who says it and how they know  
    **Answer:** Ask who says it and how they know. *Why:* The two questions slow things down. A rush is a warning sign, and a few seconds of checking cost nothing.
 15. (mcq) A forwarded message says the school is closed tomorrow. What is the best check?  
    Options: Ask a teacher or the school / Count how many times it was forwarded / See if it has a nice picture  
    **Answer:** Ask a teacher or the school. *Why:* Many forwards do not make a thing true. The school knows. Asking the one who really knows is the best check.
 16. (mcq) A phone calls an ambulance and also carries a cruel message. What does that show?  
-   Options: Phones are bad / The same tool can help or harm, depending on how it is used / Phones are good  
+   Options: Phones are bad / Phones are good / The same tool can help or harm, depending on how it is used  
    **Answer:** The same tool can help or harm, depending on how it is used. *Why:* A tool has no side. Its use decides what it does, and who has one decides who gets the help.
 
 ## Applications
-- Fishing families on the Kerala coast use mobile phones to hear weather warnings and to call the markets from their boats, to find where their catch will sell. This is one use of the same phone that can carry a cruel message.
-- Dialling 112 on any phone reaches the police, an ambulance or the fire service. This works even on a locked phone, so a child can call for help from a parent's phone.
+- Fishing families on the Kerala coast use mobile phones to hear weather warnings. They also call the markets from their boats, to find where their catch will sell. This is one use of the same phone that can carry a cruel message.
+- Dialling 112 on any phone reaches the police, an ambulance or the fire service. This works on most phones even when they are locked, so a child can call for help from a parent's phone.
 - A video call lets a child in Bengaluru see a grandparent in Shillong, and a child who cannot hear can talk with friends in sign language. A phone lets people stay close across great distances.
 - Phones and tablets can read text aloud for people who cannot see well. The same radio waves and packets carry the voice to the person who needs it.
 - Shops and vegetable sellers across India take payment by scanning a code with a phone. The payment is a message in packets, and the secret number that confirms it must never be shared.
@@ -766,7 +771,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 ## Open questions
 - **Do screens change how a child's attention grows?** Children who use screens a lot differ from other children in many ways, such as sleep, family income and how much adults talk with them. Scientists cannot fairly make some children use screens for years and others not, so they cannot yet separate the screen from the rest.
 - **Does a computer program that answers in sentences understand anything?** There is no agreed test for understanding and no final definition of it. Programs now pass tests that people once thought needed understanding, and experts still disagree about what that shows.
-- **Do the radio waves from phones and towers affect small beings such as bees and birds?** Some laboratory studies report changes in how bees behave near strong signals, and others find none. Studies in the open air cannot easily separate radio waves from pesticides, lost nesting places and other changes.
+- **Do the radio waves from phones and towers affect small beings such as bees and birds?** Some laboratory studies say bees behave differently near strong signals. Others find no change. Outdoors it is hard to tell radio waves apart from pesticides and lost nesting places.
 - **Why do false stories spread faster than true ones?** The 2018 study showed that they do on one large social site. Surprise seems to be part of the reason. Nobody has yet shown what would slow them without also silencing true stories.
 - **Why is it easier to be unkind on a screen than face to face?** Psychologists have several ideas: no face to see, a feeling of being hidden, and no answer coming back at once. Studies have not agreed on which matters most.
 
@@ -782,9 +787,9 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 ## Jokes
 - Why did the phone wear glasses? *It lost its contacts.*
 - What did the Wi-Fi say to the phone? *'I feel a strong connection!'*
-- Why did the koel never need a phone? *She already had a very good call.*
+- Why did the koel never need a phone? *He already had a very good call, and he never ran out of minutes.*
 - Why does an elephant never run out of data? *She sends her rumbles for free, and they travel for kilometres.*
-- Why is a sea cable always calm? *Even with the whole sea sitting on top of it, it just carries on working.*
+- What did the fish say about the cable on the sea floor? *'Everyone is talking over my head!'*
 - Why did the typed 'Okay.' get into trouble? *Nobody could see what face it was making.*
 - A 'puppy' on a game screen asked a child for her home address. What did her grandmother say? *'A real puppy has never asked for an address. It only asks for biscuits.'*
 - Why did the honey bee never lose her signal? *She sends her messages by dancing, and nobody has ever dropped a dance.*

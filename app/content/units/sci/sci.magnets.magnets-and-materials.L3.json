@@ -768,10 +768,10 @@
       "t": "mcq",
       "q": "Will a magnet attract a brass key?",
       "options": [
-       "Yes, because brass is a metal",
-       "No, brass has no iron in it"
+       "No, brass has no iron in it",
+       "Yes, because brass is a metal"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Brass is a metal made of copper and zinc. Neither is magnetic, so a magnet does not attract brass. Picking 'yes' usually means thinking all metals are magnetic. A magnet attracts only metals with iron, nickel or cobalt in them."
      }
     },
@@ -794,10 +794,10 @@
       "q": "Your compass points at an iron anchor instead of north. What do you do?",
       "options": [
        "Shake the compass hard",
-       "Move the iron far away from the compass",
-       "Add more iron next to it"
+       "Add more iron next to it",
+       "Move the iron far away from the compass"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The compass needle is a magnet, and a magnet and iron attract each other. Move the iron away, and the Earth's magnetic field can turn the needle back to north. Shaking the compass does not help, because the iron is still there, attracting the needle."
      }
     },
@@ -1029,11 +1029,11 @@
       "t": "mcq",
       "q": "After 50 strokes, the needle picks up a pin. What changed inside the needle?",
       "options": [
-       "The magnet rubbed some of its magnetism onto the needle",
        "The tiny magnets inside the needle now point the same way",
+       "The magnet rubbed some of its magnetism onto the needle",
        "The needle got hot from the rubbing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Nothing passed from the magnet to the needle. The stroking turned the needle's own tiny magnets, in its domains, to point the same way, so their forces add up. Picking 'rubbed some of its magnetism onto the needle' is a natural guess, and people believed it for centuries. But the magnet is no weaker afterwards. Picking 'got hot' mixes this up with rubbing your hands together. In fact, heat takes magnetism away."
      },
      "parent": "If the pin does not stick, your magnet is probably weak. Try 50 more strokes, or a stronger magnet. A small staple or a short piece of thin wire is lighter than a pin and easier to lift."
@@ -1225,11 +1225,11 @@
       "t": "mcq",
       "q": "A big fridge magnet held 1 clip. A tiny silver magnet held 12 clips. What does this show?",
       "options": [
-       "Bigger magnets are always stronger",
        "A small magnet can be much stronger than a big one",
+       "Bigger magnets are always stronger",
        "The tiny magnet was cheating"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Strength depends on what the magnet is made of and how well its tiny magnets are lined up, not on its size. Neodymium magnets are made of iron, neodymium and boron, with their tiny magnets lined up very well. Bendy fridge magnets are mostly rubber, with a little magnet powder mixed in. Picking 'bigger is stronger' is a natural guess. It is true only for magnets made of the same material."
      }
     },
@@ -1401,10 +1401,10 @@
       "q": "The black grains stuck to the magnet. What are they?",
       "options": [
        "Bits of the magnet that broke off",
-       "Magnetite, a mineral with iron in it",
-       "Ordinary sand that got dirty"
+       "Ordinary sand that got dirty",
+       "Magnetite, a mineral with iron in it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The black grains are magnetite, a mineral made of iron and oxygen. A magnet attracts it because it contains iron. Lodestones, the natural magnets people found long ago, are made of magnetite too. Picking 'bits of the magnet' is a fair guess, but the magnet was wrapped in plastic. Ordinary light-coloured sand grains are mostly quartz, which is not magnetic, so they fall off."
      }
     },
@@ -1514,11 +1514,11 @@
       "t": "mcq",
       "q": "The brass key and the copper coin did not stick, but the steel pin did. What does this show?",
       "options": [
-       "The magnet is broken",
        "Only some metals are magnetic",
+       "The magnet is broken",
        "Shiny things don't stick"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Magnets attract only metals with iron, nickel or cobalt in them. Steel is mostly iron, so the pin sticks. Brass and copper contain no iron, so they don't. Picking 'shiny things don't stick' is a good try at a pattern, but a shiny steel pin sticks while a shiny brass key does not."
      },
      "parent": "Your child will probably expect every metal to stick. The surprise is the point. Steel spoons and tumblers may or may not stick, depending on the steel. Indian coins differ too. Don't give away the answer before the test."
@@ -1619,11 +1619,11 @@
       "t": "mcq",
       "q": "In the pattern, the grains crowd most at the two ends of the magnet. Why?",
       "options": [
-       "The magnetic force is strongest at the ends, the poles",
        "The grains roll there because the paper slopes",
-       "The middle of the magnet is broken"
+       "The middle of the magnet is broken",
+       "The magnetic force is strongest at the ends, the poles"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A magnet's force is strongest at its two ends, called poles. The grains crowd there, and the curved lines start and end there. Picking 'the paper slopes' is a fair check to make. Test it by turning the paper around. The pattern stays with the magnet."
      }
     },
@@ -1871,10 +1871,10 @@
       "q": "How do scientists think young sea turtles find their way across the ocean?",
       "options": [
        "They follow the boats",
-       "They sense the strength and the angle of the Earth's magnetic field",
-       "They remember the shapes of the waves"
+       "They remember the shapes of the waves",
+       "They sense the strength and the angle of the Earth's magnetic field"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Experiments show that young turtles change direction when scientists change the magnetic field around them in a tank. Each part of the ocean has its own strength and angle of the Earth's magnetic field, like an address. Picking 'follow the boats' cannot be right. Turtles were crossing oceans for millions of years before there were boats."
      }
     }
@@ -1946,10 +1946,10 @@
       "q": "Why are auroras seen mostly near the North and South Poles?",
       "options": [
        "Because it is cold there",
-       "Because the Earth's magnetic field steers the Sun's tiny charged particles towards the poles",
-       "Because there is ice to reflect the light"
+       "Because there is ice to reflect the light",
+       "Because the Earth's magnetic field steers the Sun's tiny charged particles towards the poles"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The Earth's magnetic field lines dip down into the Earth near the poles. The Sun's charged particles are steered along those lines, so most of them reach the air near the poles. Picking 'cold' or 'ice' links auroras with what the poles look like, not with what causes them. In May 2024, a big solar storm made auroras visible as far south as Ladakh."
      }
     }
@@ -2353,12 +2353,12 @@
    "t": "mcq",
    "p": "Some steel pins fell into a box of brass buttons. What is the quickest way to get the pins out?",
    "opts": [
-    "Hold a magnet over the box",
     "Pour water into the box",
     "Shine a torch into the box",
+    "Hold a magnet over the box",
     "Shake the box hard"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The magnet attracts the steel pins but not the brass buttons, so the pins jump out and the buttons stay. Scrap dealers sort metals in the same way.",
    "outcome": 0
   },
@@ -2367,11 +2367,11 @@
    "p": "To make a needle into a magnet, how should you stroke it?",
    "opts": [
     "Back and forth, fast",
-    "Always in the same direction, lifting the magnet away each time",
     "In circles",
+    "Always in the same direction, lifting the magnet away each time",
     "Just once, very hard"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each stroke in the same direction turns more of the needle's tiny magnets to point the same way. Stroking back and forth turns them back again. Picking 'just once, very hard' usually means thinking that force matters more than repeating the stroke.",
    "outcome": 1,
    "how": "e1"
@@ -2380,12 +2380,12 @@
    "t": "mcq",
    "p": "A floating magnetised needle always turns to point north and south. Why?",
    "opts": [
-    "The Pole Star attracts it",
     "The Earth's magnetic field turns it",
+    "The Pole Star attracts it",
     "Water flows towards the north",
     "The bowl is magnetic"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The needle is a magnet, and the Earth's magnetic field turns it to line up north and south. Picking the Pole Star comes from an old idea. Stars have no effect on compasses, and a compass works in a closed room.",
    "outcome": 1,
    "how": "e1"
@@ -2408,12 +2408,12 @@
    "t": "mcq",
    "p": "In a fair test of which magnet is strongest, what should stay the same?",
    "opts": [
-    "The magnet",
     "The kind and size of paper clips",
+    "The magnet",
     "The number of clips each magnet holds",
     "Nothing needs to stay the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Everything except the magnet should stay the same, including the clips. If one magnet got smaller clips, it could hold more, and the test would not be fair. The number of clips is what we measure, so it changes.",
    "outcome": 2,
    "how": "e2"
@@ -2422,12 +2422,12 @@
    "t": "mcq",
    "p": "Every electron is a tiny magnet. Why aren't you magnetic?",
    "opts": [
-    "People have no electrons",
     "Your electrons are in pairs pointing opposite ways, so they cancel",
+    "People have no electrons",
     "Your electrons are too small",
     "Your body has no iron in it"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In most atoms, electrons are in pairs, and the two in each pair point their tiny magnets opposite ways. So they cancel out. Picking 'too small' sounds sensible, but iron's electrons are just as small. The difference is whether they cancel. Your body does have a little iron, in your blood, but those iron atoms are spread out, not lined up in domains.",
    "outcome": 3
   },
@@ -2436,11 +2436,11 @@
    "p": "What are domains?",
    "opts": [
     "The two ends of a magnet",
-    "Small regions inside iron where the atoms' tiny magnets point the same way",
     "A kind of magnet stone",
-    "The lines of the Earth's magnetic field"
+    "The lines of the Earth's magnetic field",
+    "Small regions inside iron where the atoms' tiny magnets point the same way"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Domains are small regions inside iron, where billions of atoms point their tiny magnets the same way. In a plain nail they point different ways. In a magnet they mostly line up. Picking 'the two ends' mixes domains up with poles.",
    "outcome": 3
   },
@@ -2448,12 +2448,12 @@
    "t": "mcq",
    "p": "A magnetised needle is heated until it glows red. When it cools, it no longer picks up a pin. Why?",
    "opts": [
-    "The heat burned the iron away",
     "The heat shook its tiny magnets out of line",
+    "The heat burned the iron away",
     "Hot things are never magnetic, even after they cool",
     "The pin got heavier"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Heat is atoms jiggling. At about 770 degrees Celsius, iron's tiny magnets jiggle out of line, and they stay jumbled after it cools. Stroking it again can line them up again. Picking 'burned away' is natural, but the needle is still there, still steel.",
    "outcome": 3,
    "how": "a7"
@@ -2463,11 +2463,11 @@
    "p": "What is a lodestone?",
    "opts": [
     "A stone that floats",
-    "A natural magnet made of the mineral magnetite",
     "A heavy iron weight on a ship",
-    "A magnet made in a factory"
+    "A magnet made in a factory",
+    "A natural magnet made of the mineral magnetite"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A lodestone is a piece of magnetite, a black mineral with iron in it, that is a magnet straight from the ground. People in Greece, China and India found them long ago.",
    "outcome": 4
   },
@@ -2475,12 +2475,12 @@
    "t": "mcq",
    "p": "Long ago, Indian surgeons used a magnet to help pull a smooth iron arrowhead out of a wound. Why does this work?",
    "opts": [
-    "The magnet attracts the iron, but not the skin",
     "The magnet makes the wound heal faster",
+    "The magnet attracts the iron, but not the skin",
     "A magnet attracts every metal",
     "The magnet pulls on the blood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A magnet attracts iron, but not skin or flesh. So it can pull on the arrowhead without tearing the body. A magnet does not attract every metal: brass and copper do not stick.",
    "outcome": 4
   },
@@ -2489,11 +2489,11 @@
    "p": "What makes the Earth a magnet?",
    "opts": [
     "A giant bar magnet buried at the North Pole",
-    "Liquid iron moving in the Earth's outer core",
     "The Moon pulling on the Earth",
+    "Liquid iron moving in the Earth's outer core",
     "Lodestones in the mountains"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Electric currents flow in the moving iron, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.",
    "outcome": 5
   },
@@ -2508,12 +2508,12 @@
    "t": "mcq",
    "p": "Which of these living things has been shown to use the Earth's magnetic field to find their way?",
    "opts": [
-    "Young loggerhead sea turtles",
     "Mango trees",
     "Rocks",
-    "Nobody: only compasses can"
+    "Nobody: only compasses can",
+    "Young loggerhead sea turtles"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' is wrong, because animals sensed the Earth's magnetic field long before people made compasses.",
    "outcome": 6
   },
@@ -2522,11 +2522,11 @@
    "p": "Do scientists know exactly how birds sense the Earth's magnetic field?",
    "opts": [
     "Yes, it is fully solved",
-    "No. The leading idea is a protein in their eyes, but it is still being tested",
     "Birds don't sense it at all",
-    "Yes, they have a tiny compass needle in their beaks"
+    "Yes, they have a tiny compass needle in their beaks",
+    "No. The leading idea is a protein in their eyes, but it is still being tested"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The leading idea is cryptochrome, a protein in birds' eyes that responds to magnetic fields. It is not yet fully proven. The beak idea was tested in 2012, and the iron cells there turned out to be immune cells that clean up the body, not magnetic sensors.",
    "outcome": 6
   }
@@ -2638,12 +2638,12 @@
      "t": "mcq",
      "p": "You stroke a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?",
      "opts": [
+      "The tiny magnets inside the needle now point the same way",
       "Some iron moved from the magnet into the needle",
       "The needle became heavier",
-      "The tiny magnets inside the needle now point the same way",
       "The needle became hotter"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Nothing passes from the magnet into the needle. The stroking turns the needle's own tiny magnets to point the same way, so their forces add up. A strong answer uses the words 'tiny magnets' and 'line up'.",
      "how": "e1"
     },
@@ -2660,10 +2660,10 @@
      "opts": [
       "Stroke the needle 100 more times",
       "Add salt to the water",
-      "Use hot water",
-      "Use a plastic or glass bowl instead"
+      "Use a plastic or glass bowl instead",
+      "Use hot water"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Some steel bowls are magnetic, so the bowl attracts the needle to its edge. A plastic or glass bowl is not magnetic, so only the Earth's magnetic field turns the needle. A strong answer says what was pulling the needle the wrong way.",
      "how": "e1"
     },
@@ -2711,12 +2711,12 @@
      "t": "mcq",
      "p": "You want to find out which of two magnets is stronger, using a paper clip chain. Which of these would make the test unfair?",
      "opts": [
-      "Using the same kind of clips for both magnets",
       "Using big clips for one magnet and small clips for the other",
+      "Using the same kind of clips for both magnets",
       "Counting the clips carefully",
       "Testing each magnet three times"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In a fair test, only one thing changes: the magnet. Small clips are lighter, so a magnet could hold more of them. Then we could not tell if the magnet or the clips made the difference.",
      "how": "e2"
     },
@@ -2775,12 +2775,12 @@
      "t": "mcq",
      "p": "Every electron is a tiny magnet, and copper has plenty of electrons. So why does a magnet not attract copper?",
      "opts": [
+      "In copper, the electrons' tiny magnets cancel each other out",
       "Copper has no electrons",
       "Copper is too heavy",
-      "In copper, the electrons' tiny magnets cancel each other out",
       "Copper is too shiny"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In copper, the electrons' tiny magnets cancel out. Most of copper's electrons are in pairs that point opposite ways. Copper's few spare electrons never line up together. In iron, many spare electrons line up with their neighbours, so their tiny magnets add up. 'No electrons' is wrong, because every atom has electrons."
     },
     {
@@ -2827,12 +2827,12 @@
      "t": "mcq",
      "p": "In the paper clip chain test, each magnet was tested three times. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should you do?",
      "opts": [
+      "The bar magnet's 2. Check the clips and try that magnet again",
       "The fridge magnet's 2. Ignore the fridge magnet",
       "The ceramic magnet's 5. Start again",
-      "Nothing looks odd",
-      "The bar magnet's 2. Check the clips and try that magnet again"
+      "Nothing looks odd"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The bar magnet held 6 clips twice, so 2 is very different. Maybe a clip was bent or the chain was knocked. Testing again shows whether 2 was a fluke. This is why we test each magnet three times.",
      "how": "e2"
     },
@@ -2840,12 +2840,12 @@
      "t": "mcq",
      "p": "You hold a compass next to a steel almirah, and the needle swings towards the almirah. Why?",
      "opts": [
-      "The almirah's iron attracts the needle, which is a magnet",
       "Compasses only work outdoors",
       "The almirah is cold",
+      "The almirah's iron attracts the needle, which is a magnet",
       "The almirah has its own north pole for the Earth"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A compass needle is a magnet, and a magnet and iron attract each other. The iron in the almirah turns the needle towards it, just as the iron pot did in the story 'The Iron Fish'. Move the compass far away and it points north again.",
      "how": "c2"
     },
@@ -2925,11 +2925,11 @@
      "p": "Scientists kept European robins, a kind of small bird, in a cage and changed the magnetic field around them with coils of wire. The robins then tried to fly in a different direction. Why is this good evidence that robins sense the magnetic field?",
      "opts": [
       "Robins like cages",
-      "The test was done at night",
       "Only the magnetic field was changed, and the robins changed too",
+      "The test was done at night",
       "Robins can see magnets"
      ],
-     "a": 2,
+     "a": 1,
      "why": "In a fair test, only one thing changes. Here the light, food and cage stayed the same and only the magnetic field changed. So the change in the robins' direction must come from the field. Wolfgang and Roswitha Wiltschko did tests like this from 1972."
     },
     {
@@ -2998,11 +2998,11 @@
      "p": "A scientist sees that tiny bacteria in a dish always swim towards the north. She turns a magnet around the dish, and the bacteria turn too. What is the best conclusion?",
      "opts": [
       "The bacteria are swimming towards the light",
+      "The bacteria respond to magnetic fields",
       "The dish is tilted",
-      "The bacteria can see the Pole Star",
-      "The bacteria respond to magnetic fields"
+      "The bacteria can see the Pole Star"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Changing only the magnetic field changed which way the bacteria swam. That is good evidence that they respond to magnetic fields. 'Towards the light' is a fair idea, but the light did not change. These magnetic bacteria build chains of magnetite crystals inside their bodies."
     },
     {
@@ -3042,24 +3042,24 @@
      "t": "mcq",
      "p": "You snap a bar magnet in half. What do you get?",
      "opts": [
-      "One piece that is only a north pole and one that is only a south pole",
       "Two smaller magnets, each with a north pole and a south pole",
+      "One piece that is only a north pole and one that is only a south pole",
       "Two pieces that are not magnets at all",
       "One magnet and one piece that is not a magnet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Most people guess that one half would be only a north pole and the other only a south pole. But the tiny magnets inside are still lined up in each half, so each half is a whole magnet with two poles. You can test this with a cheap broken fridge magnet."
     },
     {
      "t": "mcq",
      "p": "In 1904, the magnetic observatory in Colaba, Bombay, moved to Alibag, a quiet town across the bay. Electric trams were coming to Bombay. Why did the scientists move?",
      "opts": [
+      "The trams' electric currents would make magnetic fields and spoil the measurements",
       "The building fell down",
       "Alibag had better food",
-      "The trams' electric currents would make magnetic fields and spoil the measurements",
       "The trams were too loud"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Electric currents make magnetic fields. The observatory measured the Earth's magnetic field very carefully, and the trams' currents would have added their own fields to the readings."
     },
     {

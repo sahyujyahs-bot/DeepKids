@@ -610,7 +610,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 ## Worksheets
 ### Strange life cycles: cicada, salmon and jellyfish (core) (core, 15 questions)
 1. (mcq) What is unusual about the life cycle of a periodical cicada?  
-   Options: The whole population comes out in one year / The adults live for 17 years / The eggs are laid deep underground / The nymphs can fly  
+   Options: The adults live for 17 years / The whole population comes out in one year / The eggs are laid deep underground / The nymphs can fly  
    **Answer:** The whole population comes out in one year. *Why:* All the nymphs of a brood grow up together and come out in the same few evenings. The adults live only about a month, and the eggs are laid in twigs. Choosing '17 years as adults' mixes up the nymph and the adult.
 2. (truefalse) True or false: a cicada nymph sleeps through her years underground.  
    **Answer:** False. *Why:* False. The nymph digs, drinks sap from roots, grows and sheds her skin four times. She even counts the years by changes in the tree's sap.
@@ -623,7 +623,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 6. (sort) Sort these animals: breeds once in a life, or breeds many times.  
    **Answer:** Pacific salmon → Breeds once; hen → Breeds many times; mayfly → Breeds once; Asian elephant → Breeds many times; giant Pacific octopus → Breeds once; house crow → Breeds many times. *Why:* Pacific salmon, mayflies and octopuses put everything into one breeding and die. Hens, elephants and crows breed again and again.
 7. (mcq) How does a salmon find the stream where she hatched?  
-   Options: Mainly by its smell / By following older fish / By remembering what it looks like / Her parents lead her  
+   Options: By following older fish / Mainly by its smell / By remembering what it looks like / Her parents lead her  
    **Answer:** Mainly by its smell. *Why:* She learned the smell of her stream as a young fish and follows it back. Her parents died years before, so nobody leads her.
 8. (write) A bird eats the same number from a crowd of 10 and of 80. What does this mean for each cicada?  
    **Answer:** Each cicada in the crowd of 80 is much safer. The same small meal is shared among eight times as many, so each one's chance of being eaten is about eight times smaller.. *Why:* A strong answer talks about the share eaten, or each one's chance, and not only the number eaten.
@@ -650,7 +650,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 2. (write) Scientists made peach trees flower twice in one year. Cicadas on their roots came out a year early. What does this show?  
    **Answer:** It shows that the nymphs count the trees' yearly cycles and not real time. Two flowerings in one year counted as two years.. *Why:* A strong answer says what the cicadas were counting, and why two flowerings fooled them.
 3. (mcq) Salmon with plugged noses chose between two streams at random. What does this show?  
-   Options: They need smell to find home / Cotton makes fish ill / They find home by sight / They have no home stream  
+   Options: Cotton makes fish ill / They need smell to find home / They find home by sight / They have no home stream  
    **Answer:** They need smell to find home. *Why:* Fish with open noses chose their own branch, and fish who could not smell could not. So smell is what they use. Choosing 'cotton makes fish ill' is a fair worry, and it is why the open-nosed fish were handled the same way.
 4. (fill) Water moves through the thin skin of a cell towards the ____ side.  
    **Answer:** ['saltier', 'more salty', 'salty']. *Why:* Water moves towards the side with more salt. This movement is called osmosis.
@@ -665,7 +665,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 9. (write) A salmon dies in a mountain stream. Explain how part of her body can end up inside a tree.  
    **Answer:** Bears and birds carry dead salmon into the forest and leave parts of them. Insects, fungi and bacteria break the body down. The nitrogen from her body goes into the soil, and tree roots take it up.. *Why:* A strong answer gives the steps in order. An excellent one adds how we know: trees near salmon streams hold the heavier kind of nitrogen that comes from the sea.
 10. (mcq) Which of these animals is semelparous?  
-   Options: A mayfly / A hen / A hilsa / A house crow  
+   Options: A hen / A hilsa / A mayfly / A house crow  
    **Answer:** A mayfly. *Why:* A mayfly breeds once and dies within a day or two. A hen, a hilsa and a crow can all breed again. Choosing the hilsa mixes her up with the Pacific salmon.
 11. (draw) Draw three survival curves on one graph: elephant type, small bird type and fish type. Label each line.  
    **Answer:** The elephant line stays high and falls near the end. The bird line slopes down steadily. The fish line drops almost to zero at once and then runs flat.. *Why:* A strong drawing starts all three lines at the same point, at 100, and gives each a clearly different shape.
@@ -675,7 +675,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
    Options: Winged termites after rain / Periodical cicadas / Nesting olive ridley turtles / A tiger  
    **Answer:** 3. *Why:* Winged termites, periodical cicadas and nesting olive ridley turtles all arrive together in great numbers. A tiger lives and hunts alone.
 14. (mcq) A muscle cell and a nerve cell in the same body differ mainly in what?  
-   Options: Which genes are switched on / Which genes they carry / How old they are / What food reaches them  
+   Options: Which genes they carry / How old they are / Which genes are switched on / What food reaches them  
    **Answer:** Which genes are switched on. *Why:* Nearly every cell in a body carries the same genes. The kind of cell depends on which genes are in use. Choosing 'which genes they carry' is the old idea that John Gurdon's frog experiment showed to be wrong.
 15. (perspective) Three people talk about catching hilsa as the fish swim upriver to spawn.  
    **Answer:** A strong answer uses the life cycle: a fish caught on the way upriver has not yet laid her eggs, so that year's young are lost too. It also takes seriously the fishing family's need to eat during a ban.. *Why:* The scientist is right about the fish, and the other two are right about the people. Several states and Bangladesh now stop hilsa fishing for some weeks of the spawning season, and argue about how to support fishing families then.
@@ -683,7 +683,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 1. (write) No periodical cicada has a 12-year cycle. Give two different ideas scientists have about why 13 and 17 work better.  
    **Answer:** One idea: a predator with a cycle of 2, 3, 4 or 6 years would meet a 12-year cicada every time, but rarely a 13-year one. Another idea: broods with prime cycles rarely come out in the same year, so they seldom mix and spoil each other's timing.. *Why:* A strong answer gives two ideas and says that scientists have not settled which is right. A third idea, that 13 and 17 are partly chance, is also a good answer.
 2. (mcq) The bird in the Crowd Test was limited only by time. What else limits a real bird?  
-   Options: A stomach that gets full / The colour of the cicadas / The size of the towel / Nothing else limits her  
+   Options: The colour of the cicadas / A stomach that gets full / The size of the towel / Nothing else limits her  
    **Answer:** A stomach that gets full. *Why:* A real bird stops eating when she is full. That limit, like the time limit in the model, means a predator can eat only so many.
 3. (count) A pair of frogs lays 1,000 eggs. If every egg grew up, how many pairs would the next generation have?  
    **Answer:** 500. *Why:* 1,000 frogs make 1,000 ÷ 2 = 500 pairs. If each pair again laid 1,000 eggs, there would be 500,000 frogs in the generation after.
@@ -692,7 +692,7 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 5. (truefalse) True or false: a gut cell still carries the instructions for building a whole animal.  
    **Answer:** True. *Why:* True. John Gurdon put the nucleus of a tadpole's gut cell into an egg, and a whole frog grew. Nearly every cell keeps the full set of genes and uses only some of them.
 6. (mcq) Landlocked sockeye salmon never go to sea, yet they die after spawning. What does this suggest?  
-   Options: The long journey alone is not the cause / Fresh water slowly poisons them / They are not really salmon / They die of cold  
+   Options: Fresh water slowly poisons them / They are not really salmon / They die of cold / The long journey alone is not the cause  
    **Answer:** The long journey alone is not the cause. *Why:* These fish make only a short trip and still die. So the death is set off from inside the body, by hormones, when the fish spawns. The journey makes it harder but does not cause it.
 7. (sort) Sort these statements: settled by evidence, or still argued about.  
    **Answer:** Cicada nymphs count the trees' yearly cycles → Settled by evidence; Prime cycles protect cicadas from predators with cycles → Still argued about; Salmon follow smell to their home stream → Settled by evidence; Salmon steer by the Earth's magnetism in the open ocean → Still argued about; Some animals do not age at all → Still argued about; A medusa of the immortal jellyfish can become a polyp → Settled by evidence. *Why:* A settled statement has been tested many times with the same result. An argued one has some evidence, and scientists still disagree about it.
@@ -721,34 +721,34 @@ She did the sum on her fingers. Next time she would be thirteen. The time after 
 
 ## Quiz
 1. (mcq) Where does a periodical cicada spend most of her life?  
-   Options: Underground, as a nymph / In the treetops, as an adult / Inside an egg / In a stream  
+   Options: In the treetops, as an adult / Underground, as a nymph / Inside an egg / In a stream  
    **Answer:** Underground, as a nymph. *Why:* She is a nymph underground for 13 or 17 years and a winged adult for about a month.
 2. (mcq) Millions of cicadas come out within a few evenings. How does this help each one?  
-   Options: Predators get full, and most cicadas are left / They keep each other warm / Their noise frightens every bird away / They find food faster together  
+   Options: They keep each other warm / Their noise frightens every bird away / They find food faster together / Predators get full, and most cicadas are left  
    **Answer:** Predators get full, and most cicadas are left. *Why:* This is predator satiation. Birds and other predators eat all they can, and that is a small share of a huge crowd. The loud song is for finding mates.
 3. (mcq) A bird eats 10 insects from a crowd of 20 and 10 from 200. Which crowd is safer to be in?  
-   Options: The crowd of 200 / The crowd of 20 / Equally safe in both / It cannot be worked out  
+   Options: The crowd of 20 / Equally safe in both / The crowd of 200 / It cannot be worked out  
    **Answer:** The crowd of 200. *Why:* In the crowd of 20, half are eaten. In the crowd of 200, only 1 in 20 is eaten. The same meal is a much smaller share of the bigger crowd.
 4. (mcq) What does a young salmon learn before leaving for the sea?  
    Options: The smell of the home stream / The faces of her parents / The number of bends in the river / How to leap waterfalls  
    **Answer:** The smell of the home stream. *Why:* A young salmon imprints on the smell of the home stream and follows it back years later. Her parents died soon after spawning.
 5. (mcq) Which test best shows whether salmon need smell to find home?  
-   Options: Plug some noses and compare with open noses / Follow one fish up the river / Count the fish in the river / Smell the river water yourself  
+   Options: Follow one fish up the river / Count the fish in the river / Smell the river water yourself / Plug some noses and compare with open noses  
    **Answer:** Plug some noses and compare with open noses. *Why:* A fair test changes one thing, the sense of smell, and compares two groups. Following one fish or counting fish cannot show which sense is used.
 6. (mcq) What does 'semelparous' mean?  
-   Options: Breeds once and then dies / Breeds many times / Lives in both river and sea / Changes from male to female  
+   Options: Breeds many times / Breeds once and then dies / Lives in both river and sea / Changes from male to female  
    **Answer:** Breeds once and then dies. *Why:* A semelparous animal, such as a Pacific salmon or a mayfly, puts everything into one breeding. An animal who breeds many times is iteroparous.
 7. (mcq) Why can it work for a Pacific salmon to spend her whole body on one spawning?  
-   Options: Few would survive a second journey / Salmon dislike the sea / Eggs cannot hatch unless the parents die / The river is too warm to leave  
+   Options: Salmon dislike the sea / Eggs cannot hatch unless the parents die / The river is too warm to leave / Few would survive a second journey  
    **Answer:** Few would survive a second journey. *Why:* The return to the sea and a second climb up the river would kill most fish. So a salmon who holds something back for next time usually wastes what she held back.
 8. (mcq) A mother has a fixed amount of material for eggs. What must she give up to lay more eggs?  
    Options: The size of each egg / The colour of each egg / Her own fins / Nothing at all  
    **Answer:** The size of each egg. *Why:* The same material can be cut into a few big eggs or many small ones. More eggs means smaller eggs, each with less food for the baby.
 9. (mcq) Where the number of animals stays steady, about how many young from each pair live to breed?  
-   Options: About two / About half of the eggs / About a hundred / All of them  
+   Options: About half of the eggs / About a hundred / About two / All of them  
    **Answer:** About two. *Why:* About two, which just replaces the parents. This is true for an elephant with a few calves and for a fish with a million eggs.
 10. (mcq) What happens to the cells when the immortal jellyfish turns from a medusa into a polyp?  
-   Options: Many change from one kind of cell into another / All die, and a new egg grows / They stay exactly as they were / They are shed into the sea  
+   Options: All die, and a new egg grows / Many change from one kind of cell into another / They stay exactly as they were / They are shed into the sea  
    **Answer:** Many change from one kind of cell into another. *Why:* The medusa's own cells are reused, and many change kind by switching different genes on. This is called transdifferentiation.
 11. (mcq) A model uses rajma for cicadas and a child for a bird. What is the best thing to say about its results?  
    Options: They show an idea that real animals must confirm / They prove what real birds do / They tell us nothing / They are true only for rajma  

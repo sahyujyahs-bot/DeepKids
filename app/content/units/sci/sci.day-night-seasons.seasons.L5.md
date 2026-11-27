@@ -662,7 +662,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 3. (truefalse) The Earth is nearest to the Sun in June.  
    **Answer:** False. *Why:* False. The Earth is nearest in early January and farthest in early July. So nearness does not give India its summer.
 4. (mcq) A torch shines on a card. The card leans back. What happens to the patch of light?  
-   Options: It gets brighter and smaller / It gets longer and dimmer / It stays the same / It moves but keeps its size  
+   Options: It gets longer and dimmer / It gets brighter and smaller / It stays the same / It moves but keeps its size  
    **Answer:** It gets longer and dimmer. *Why:* The same light is spread over a longer patch, so each square gets less. If you chose 'the same', try it once more with a torch and a book.
 5. (order) Put these in order through one year, starting from 20 March.  
    **Answer:** ['March equinox', 'June solstice', 'September equinox', 'December solstice']. *Why:* The Earth passes the four marker days in this order, about three months apart.
@@ -671,7 +671,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 7. (count) The Sun rises at 6:00 and sets at 6:40 in the evening. How many minutes of daylight is that?  
    **Answer:** 760. *Why:* From 6:00 to 6:00 in the evening is 12 hours, which is 720 minutes. Add 40 minutes to get 760.
 8. (mcq) Where does the length of the day change least through the year?  
-   Options: Srinagar / Delhi / Chennai / Kanyakumari  
+   Options: Kanyakumari / Srinagar / Delhi / Chennai  
    **Answer:** Kanyakumari. *Why:* Kanyakumari is nearest the equator, where every day is close to 12 hours. The change grows as you go north.
 9. (draw) Draw the Sun and the Earth on 21 June. Show the axis, the equator and which half has summer.  
    **Answer:** The axis leans with its northern end towards the Sun. The half of the Earth facing the Sun is lit. The northern half is labelled summer and the southern half winter.. *Why:* A strong drawing shows the lean clearly and keeps the Earth about the same distance from the Sun as in any other month.
@@ -684,7 +684,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 13. (match) Match each season name to the people who use it.  
    **Answer:** Varsha → The Sanskrit six ritus; Munpani → The old Tamil six seasons; Makuru → The Noongar people of Australia; Akhet → The farmers of ancient Egypt; Grain Rain → The Chinese 24 solar terms. *Why:* Each people divided the year by what mattered on their own land: rain, dew, cold storms, a flooding river and the time to sow.
 14. (mcq) About when is Pongal, counted from the December solstice?  
-   Options: On the same day / About 3 weeks later / About 3 months later / About 3 weeks earlier  
+   Options: On the same day / About 3 months later / About 3 weeks earlier / About 3 weeks later  
    **Answer:** About 3 weeks later. *Why:* Pongal is about 14 January, 24 days after the solstice of about 21 December. About 1,700 years ago the two fell on the same day.
 15. (write) Why must the axis keep pointing the same way for the two hemispheres to swap seasons?  
    **Answer:** If the axis always leaned towards the Sun, the north would always have summer. Because it keeps pointing one way in space, the north leans towards the Sun on one side of the orbit and away from it on the other side.. *Why:* A strong answer says that the lean stays fixed while the Earth moves to the other side of the Sun.
@@ -692,7 +692,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 1. (count) A ring has 9 lit dots out of 12. Each dot is 2 hours. How many hours of daylight?  
    **Answer:** 18. *Why:* 9 times 2 is 18 hours. The other 3 dots are 6 hours of night.
 2. (mcq) A card leans until the torch patch is twice as long. How much light does each square get now?  
-   Options: Twice as much / The same / Half as much / None  
+   Options: Twice as much / Half as much / The same / None  
    **Answer:** Half as much. *Why:* The same light covers twice the area, so each square gets half. If you chose 'the same', remember that the torch did not get brighter.
 3. (truefalse) On an equinox, a place at the equator has the noon Sun overhead.  
    **Answer:** True. *Why:* True. On the two equinoxes the noon Sun is overhead at the equator, so that is a zero shadow day there.
@@ -707,7 +707,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 8. (order) Put these cities in order, from the smallest change in day length to the largest.  
    **Answer:** ['Kanyakumari', 'Chennai', 'Delhi', 'Srinagar']. *Why:* The change grows with distance from the equator: under 1 hour, about 1 and a half hours, about 3 and a half hours and about 4 and a half hours.
 9. (mcq) Why is Delhi's coldest week in January and not on 21 December?  
-   Options: The Earth is farthest from the Sun in January / The ground keeps losing heat for some weeks / January days are shorter than December days / The Sun gives less light in January  
+   Options: The ground keeps losing heat for some weeks / The Earth is farthest from the Sun in January / January days are shorter than December days / The Sun gives less light in January  
    **Answer:** The ground keeps losing heat for some weeks. *Why:* After the shortest day, the ground still loses more heat each night than it gains each day, for a few more weeks. The Earth is in fact nearest the Sun in January.
 10. (draw) Draw a year wheel with the six ritus. Mark where the two solstices fall on it.  
    **Answer:** Six equal parts in order: Vasanta, Grishma, Varsha, Sharad, Hemanta, Shishira. The June solstice falls in Grishma and the December solstice in Hemanta.. *Why:* A strong drawing puts the ritus in the right order and shows that each is about two months long.
@@ -745,7 +745,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 9. (write) Design a test to show that an upright Earth has no seasons. What would you change and count?  
    **Answer:** Carry a dotted ball round a lamp, first leaning and then upright. Keep the lamp, the ball and the distance the same. Count the lit dots on a ring at four places. Leaning gives different counts. Upright gives the same count everywhere.. *Why:* A strong answer changes only the lean, keeps everything else the same and names something to count.
 10. (mcq) Sulochana Gadgil described the monsoon as what?  
-   Options: A giant sea breeze / A rain belt that follows the overhead Sun / Wind made by the Earth's spin / Rain sent down by the Himalaya  
+   Options: A rain belt that follows the overhead Sun / A giant sea breeze / Wind made by the Earth's spin / Rain sent down by the Himalaya  
    **Answer:** A rain belt that follows the overhead Sun. *Why:* She showed that India's monsoon behaves like the band of rain clouds near the equator, moved north in summer. The sea breeze idea is Edmond Halley's, from 1686.
 11. (order) Put these planets in order, from the smallest lean to the largest.  
    **Answer:** ['Jupiter', 'Earth', 'Mars', 'Uranus']. *Why:* Jupiter leans about 3 degrees, the Earth about 23 and a half, Mars about 25 and Uranus about 98.
@@ -765,46 +765,46 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 
 ## Quiz
 1. (mcq) Which motion of the Earth gives us the year?  
-   Options: Rotation on its axis / Revolution round the Sun / The wobble of the axis / The Moon's orbit  
+   Options: Revolution round the Sun / Rotation on its axis / The wobble of the axis / The Moon's orbit  
    **Answer:** Revolution round the Sun. *Why:* One revolution round the Sun is one year. Rotation gives the day. If you chose rotation, think of a top that spins while it slides round a table.
 2. (mcq) About how long does the Earth take to go once round the Sun?  
-   Options: 24 hours / 29 and a half days / 365 days and 6 hours / 26,000 years  
+   Options: 365 days and 6 hours / 24 hours / 29 and a half days / 26,000 years  
    **Answer:** 365 days and 6 hours. *Why:* The extra 6 hours add up to one day in four years, which is why we have leap years.
 3. (mcq) In which month is the Earth nearest to the Sun?  
-   Options: January / April / June / September  
+   Options: April / January / June / September  
    **Answer:** January. *Why:* Early January. This is winter in the north, so nearness cannot be the cause of summer.
 4. (mcq) Why does slanting sunlight warm the ground less than light from overhead?  
-   Options: It comes from a cooler part of the Sun / It is spread over more ground / It travels more slowly / It is a different colour  
+   Options: It is spread over more ground / It comes from a cooler part of the Sun / It travels more slowly / It is a different colour  
    **Answer:** It is spread over more ground. *Why:* The same light covers a larger patch, so each square metre gets less. It also crosses more air on the way.
 5. (mcq) It is winter in Srinagar. What season is it in Sydney, Australia?  
-   Options: Winter / Summer / Monsoon / Sydney has no seasons  
+   Options: Winter / Monsoon / Sydney has no seasons / Summer  
    **Answer:** Summer. *Why:* When the northern end of the axis leans away from the Sun, the southern end leans towards it. If you chose winter, picture the leaning ball at place 3.
 6. (mcq) What would happen to the seasons if the Earth's axis stood upright?  
-   Options: Hotter summers / Seasons would swap / Almost no seasons / Longer winters  
+   Options: Almost no seasons / Hotter summers / Seasons would swap / Longer winters  
    **Answer:** Almost no seasons. *Why:* With no lean, every place would get the same slant of light and 12 hours of day all year.
 7. (mcq) On which day is the noon Sun overhead on the Tropic of Cancer?  
    Options: 20 March / 21 June / 23 September / 21 December  
    **Answer:** 21 June. *Why:* On the June solstice the northern end of the axis leans most towards the Sun.
 8. (mcq) What is true on the two equinoxes?  
-   Options: The Earth is nearest the Sun / Day and night are nearly equal everywhere / The Sun does not rise in India / It is the hottest day  
+   Options: The Earth is nearest the Sun / The Sun does not rise in India / Day and night are nearly equal everywhere / It is the hottest day  
    **Answer:** Day and night are nearly equal everywhere. *Why:* On an equinox the line between day and night passes through both poles, so every place gets about 12 hours of each.
 9. (mcq) Which city has the biggest difference between its longest and shortest day?  
-   Options: Kanyakumari / Chennai / Mumbai / Srinagar  
+   Options: Kanyakumari / Chennai / Srinagar / Mumbai  
    **Answer:** Srinagar. *Why:* Srinagar is furthest from the equator. Its longest day is about 4 and a half hours longer than its shortest.
 10. (mcq) The Sun stays up for about six months at the North Pole. Why is the pole still very cold?  
-   Options: The Sun never rises there / Its rays arrive at a slant and spread thin over the ground / The pole is the farthest place from the Sun / The Sun's day is short there  
+   Options: Its rays arrive at a slant and spread thin over the ground / The Sun never rises there / The pole is the farthest place from the Sun / The Sun's day is short there  
    **Answer:** Its rays arrive at a slant and spread thin over the ground. *Why:* The Sun does rise there in spring, and it stays up all summer. But it stays low in the sky, so its light spreads over a wide patch of ground. The pole is not the farthest place from the Sun, and the Sun's day is long there, not short.
 11. (mcq) What is a monsoon?  
-   Options: Any heavy rain / A wind that reverses with the seasons / A storm from the sea / The hottest month  
+   Options: Any heavy rain / A storm from the sea / A wind that reverses with the seasons / The hottest month  
    **Answer:** A wind that reverses with the seasons. *Why:* The word means season. The wind blows from the south-west sea in summer and from the north-east in winter.
 12. (mcq) The old Tamil calendar and the Sanskrit calendar both count how many seasons?  
    Options: Two / Four / Six / Twelve  
    **Answer:** Six. *Why:* Both count six, with different names and starting points. India's weather office counts four.
 13. (mcq) Why does Pongal now come about three weeks after the December solstice?  
-   Options: The Earth has slowed down / The axis slowly wobbles, shifting the stars / The calendar lost three weeks in 1957 / The Sun has moved  
+   Options: The axis slowly wobbles, shifting the stars / The Earth has slowed down / The calendar lost three weeks in 1957 / The Sun has moved  
    **Answer:** The axis slowly wobbles, shifting the stars. *Why:* Pongal follows the stars. Precession slowly shifts the stars behind the Sun, about one day in 70 years.
 14. (mcq) A seasons journal has five themes: plants, animals, weather, water and people. Which theme does this entry fit? 'The tap ran dry in April and is running again in July.'  
-   Options: Plants / Water / Weather / People  
+   Options: Plants / Weather / People / Water  
    **Answer:** Water. *Why:* That note is about water in the tap. A note about heat or wind would go under weather, and a note about who came to the house would go under people.
 
 ## Applications

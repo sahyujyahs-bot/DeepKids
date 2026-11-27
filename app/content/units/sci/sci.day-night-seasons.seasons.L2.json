@@ -460,11 +460,11 @@
       "t": "mcq",
       "q": "Chennai gets its big rains in November. When does Mumbai get its big rains?",
       "options": [
-       "June to September",
        "November",
-       "January"
+       "January",
+       "June to September"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mumbai gets its monsoon rain from June to September. Chennai gets its big rain later, from the northeast monsoon. If you chose November, look again at the Mumbai card."
      }
     }
@@ -785,11 +785,11 @@
       "t": "mcq",
       "q": "You are going to the beach in Chennai in May. Which shirt will keep you coolest in the sun?",
       "options": [
-       "A loose white cotton shirt",
        "A tight black shirt",
+       "A loose white cotton shirt",
        "A thick woollen sweater"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A white shirt reflects most of the sunlight, so it stays cooler, and loose cotton lets air move. If you chose the black shirt, remember that in the Black or White test the ice under the black cloth melted first."
      }
     }
@@ -913,11 +913,11 @@
       "t": "mcq",
       "q": "In Mumbai in July, an open packet of biscuits is left on the table. What will happen to the biscuits?",
       "options": [
-       "They will go soft",
        "They will get crisper",
+       "They will go soft",
        "Nothing will happen"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the monsoon the air is humid, and biscuits soak up water from the air. If you chose 'nothing', remember that the papad in the damp box went soft without touching the water."
      }
     }
@@ -992,11 +992,11 @@
       "t": "mcq",
       "q": "In a photo, a boy is wearing a raincoat and there are puddles on the road. Which season is it?",
       "options": [
-       "Monsoon",
        "Summer",
-       "Winter"
+       "Winter",
+       "Monsoon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A raincoat and puddles are clues for the rainy season, the monsoon. If you chose summer, look for clues of heat instead, like cotton clothes and bright, dry roads."
      }
     }
@@ -1461,11 +1461,11 @@
    "t": "mcq",
    "p": "In most of India, which season comes right after summer?",
    "opts": [
-    "The monsoon",
     "Winter",
+    "The monsoon",
     "Summer again"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In most of India, the monsoon rains come after the hot summer, from June.",
    "outcome": 0
   },
@@ -1473,11 +1473,11 @@
    "t": "mcq",
    "p": "Which of these changes from summer to winter?",
    "opts": [
-    "The clothes we wear",
     "The number of days in a week",
-    "The colour of the sky at night"
+    "The colour of the sky at night",
+    "The clothes we wear"
    ],
-   "a": 0,
+   "a": 2,
    "why": "People change their clothes with the seasons. A week always has 7 days.",
    "outcome": 1
   },
@@ -1498,11 +1498,11 @@
    "t": "mcq",
    "p": "Where does the monsoon rain usually arrive first?",
    "opts": [
-    "Kerala",
     "Delhi",
-    "Ladakh"
+    "Ladakh",
+    "Kerala"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The monsoon rain usually reaches Kerala around the first of June, then moves north.",
    "outcome": 2
   },
@@ -1510,11 +1510,11 @@
    "t": "mcq",
    "p": "When does Chennai get most of its rain?",
    "opts": [
-    "October to December",
     "March to May",
+    "October to December",
     "Only in January"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chennai gets most of its rain from the northeast monsoon, from October to December.",
    "outcome": 2
   },
@@ -1522,11 +1522,11 @@
    "t": "mcq",
    "p": "Why does a white cloth stay cooler in the sun?",
    "opts": [
-    "It reflects most of the sunlight",
     "It is colder inside",
-    "It has no sunlight on it"
+    "It has no sunlight on it",
+    "It reflects most of the sunlight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The sun shines on the white cloth too, but white sends most of the light back, so less turns into heat.",
    "outcome": 3
   },
@@ -1534,11 +1534,11 @@
    "t": "mcq",
    "p": "Why do male frogs croak loudly in the monsoon?",
    "opts": [
-    "To call female frogs",
     "Because they are cold",
+    "To call female frogs",
     "To stop the rain"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The monsoon is the frogs' breeding season. Males croak by the puddles to call females.",
    "outcome": 4
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "Pongal and the kites of Uttarayan both come in January. Which season is that in most of India?",
    "opts": [
-    "Winter",
     "Monsoon",
-    "Summer"
+    "Summer",
+    "Winter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "January is in the winter months, December to February.",
    "outcome": 5
   }
@@ -1708,11 +1708,11 @@
      "t": "mcq",
      "p": "Which of these is a monsoon clue?",
      "opts": [
-      "Frogs croaking at night",
       "Kites over Ahmedabad",
+      "Frogs croaking at night",
       "Mangoes on the cart"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Male frogs croak in the rainy season to call females. Kites over Ahmedabad come in January, and mangoes in summer."
     },
     {
@@ -1745,11 +1745,11 @@
      "t": "mcq",
      "p": "In November, it is raining hard in Chennai. What is the weather most likely to be in Mumbai?",
      "opts": [
-      "Dry and sunny",
       "Heavy monsoon rain",
-      "Snow"
+      "Snow",
+      "Dry and sunny"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mumbai's monsoon is from June to September. Chennai gets its big rain later, from the northeast monsoon."
     },
     {

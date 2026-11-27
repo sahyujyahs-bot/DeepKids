@@ -470,10 +470,10 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 ## Worksheets
 ### Energy, Building and Protection (core) (core, 17 questions)
 1. (mcq) Which job do rice, roti and ghee mostly do in a meal?  
-   Options: They give energy / They give vitamins to protect the eyes / They build bones only  
+   Options: They give vitamins to protect the eyes / They give energy / They build bones only  
    **Answer:** They give energy. *Why:* Rice and roti are rich in starch, and ghee is almost pure fat. Starch and fat are both fuels for the body. These foods do hold some other nutrients, but energy is their main job.
 2. (mcq) One kilocalorie is the heat needed to warm what by one degree Celsius?  
-   Options: One litre of water / One spoon of water / One kilogram of rice  
+   Options: One spoon of water / One kilogram of rice / One litre of water  
    **Answer:** One litre of water. *Why:* A kilocalorie is defined by water. It is the heat that warms one litre of water by one degree. That is why a thermometer and water can measure the energy in food.
 3. (truefalse) A gram of fat holds about twice as much energy as a gram of starch.  
    **Answer:** True. *Why:* True. Fat gives about 9 kilocalories in each gram, and starch gives about 4. That is why ghee and groundnuts hold so much energy.
@@ -482,7 +482,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 5. (match) Match each nutrient to what it does for the body.  
    **Answer:** Iron → helps the blood carry oxygen; Calcium → builds bones and teeth; Vitamin A → protects the eyes and the skin; Fibre → keeps the gut moving and feeds helpful bacteria. *Why:* Each of these is a protective nutrient with its own job. None of them gives energy, but the body cannot work properly without them.
 6. (mcq) Why does 100 grams of cooked rice hold less energy than 100 grams of raw rice?  
-   Options: Cooked rice has soaked up water, which adds weight and no energy / Cooking destroys the energy in rice / Cooked rice is smaller than raw rice  
+   Options: Cooking destroys the energy in rice / Cooked rice is smaller than raw rice / Cooked rice has soaked up water, which adds weight and no energy  
    **Answer:** Cooked rice has soaked up water, which adds weight and no energy. *Why:* The pan holds the same energy before and after cooking. The water adds weight, so the same energy is spread over more grams. If you chose 'cooking destroys energy', remember that energy is never lost.
 7. (sort) Sort each food by the job it does most.  
    **Answer:** ghee → Energy; egg → Body-building; guava → Protection; rice → Energy; paneer → Body-building; spinach → Protection. *Why:* Ghee and rice are mostly fat and starch. Egg and paneer are rich in protein. Guava and spinach are rich in vitamins and minerals. Many of these foods do a second job too.
@@ -493,7 +493,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 10. (write) A friend says milk is only good for strong bones. Name two other jobs that milk does for the body.  
    **Answer:** Milk gives energy, through its sugar and fat. It gives protein to build and mend muscle and skin. It also gives vitamins such as vitamin A and B12.. *Why:* A strong answer names at least two of the three jobs, energy, building and protection, and says which nutrient does each. This shows that one food can do all three jobs.
 11. (mcq) Which part of a food label lets you compare two different packets fairly?  
-   Options: The per 100 grams column / The picture on the front / The colour of the packet  
+   Options: The picture on the front / The colour of the packet / The per 100 grams column  
    **Answer:** The per 100 grams column. *Why:* Per 100 grams gives the numbers for the same weight of each food. A serving can be 10 grams in one packet and 40 grams in another.
 12. (count) A girl of nine needs about 1,800 kilocalories in a day. A snack bar holds 180 kilocalories. What fraction of her day's energy is in the bar?  
    **Answer:** One tenth.. *Why:* 180 out of 1,800 is the same as 1 out of 10. The bar holds one tenth of the day's energy.
@@ -509,13 +509,13 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
    **Answer:** Ragi flour and jaggery. The list starts with the biggest amount by weight, so the first two are the main ones.. *Why:* A strong answer names the first two ingredients and says that the list goes from the most to the least by weight.
 ### How the Numbers Work (stretch) (stretch, 16 questions)
 1. (mcq) A groundnut should give about 3 kilocalories, but the water above its flame gains only 1. What does this show?  
-   Options: Most of the heat escaped into the air, the tumbler and the smoke / Groundnuts hold less energy than the label says / The thermometer must be broken  
+   Options: Groundnuts hold less energy than the label says / Most of the heat escaped into the air, the tumbler and the smoke / The thermometer must be broken  
    **Answer:** Most of the heat escaped into the air, the tumbler and the smoke. *Why:* Energy is never lost, but a home flame warms the air, the metal and the smoke as well as the water. A closed chamber in a lab catches almost all of it.
 2. (mcq) Protein is called a body-building food. Which of these is also true?  
-   Options: The body can burn protein as fuel when it has little else / Protein can never be used as fuel / Protein holds no energy  
+   Options: Protein can never be used as fuel / Protein holds no energy / The body can burn protein as fuel when it has little else  
    **Answer:** The body can burn protein as fuel when it has little else. *Why:* Protein gives about 4 kilocalories in each gram, the same as starch. A body that has little carbohydrate or fat burns some protein. So a food's group is its usual job, not its only job.
 3. (mcq) A packet shows a small +F sign. What does it mean?  
-   Options: A vitamin or mineral has been added to the food / The food is fried / The food is made on a farm  
+   Options: The food is fried / The food is made on a farm / A vitamin or mineral has been added to the food  
    **Answer:** A vitamin or mineral has been added to the food. *Why:* +F means the food is fortified, which means a vitamin or mineral such as iron or vitamin A has been added on purpose. Fortified atta, oil, milk and rice help protect against common shortages.
 4. (truefalse) Jaggery is mostly sugar.  
    **Answer:** True. *Why:* True. Jaggery is about 95 percent sugar. It has a little iron and a few minerals, but it is still mostly sugar, and the body handles it much as it handles white sugar.
@@ -549,7 +549,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 2. (count) A groundnut kernel weighs 0.5 grams, and the label says 580 kilocalories in 100 grams. It burns under 50 millilitres of water, which rises 14 degrees. One kilocalorie warms 50 millilitres by 20 degrees. How much heat did the water gain, and what share of the nut's energy is that?  
    **Answer:** 0.7 kilocalories, about one quarter.. *Why:* The nut holds 0.5 times 5.8, which is 2.9 kilocalories. The water rose 14 degrees, which is 14 out of 20 of a kilocalorie, or 0.7. 0.7 out of 2.9 is about one quarter, so three quarters of the heat was lost.
 3. (mcq) A maker wants the front of a packet to show a lower energy number without changing the food. Which change would do it?  
-   Options: Make the serving size smaller / Add more flour / Print the label larger  
+   Options: Add more flour / Print the label larger / Make the serving size smaller  
    **Answer:** Make the serving size smaller. *Why:* The energy per serving gets smaller when the serving gets smaller, but the food is exactly the same. This is why per 100 grams is the fair way to compare.
 4. (count) A snack bar lists 140 kilocalories for a serving of 25 grams. How much energy is in 100 grams of the bar?  
    **Answer:** 560 kilocalories.. *Why:* 100 grams is 4 times 25 grams. So the energy is 4 times 140, which is 560. This is a very energy-dense food.
@@ -558,7 +558,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 6. (write) Rice and dal are traditionally eaten together. Using what you know about amino acids, explain why this pairing works. Then say what is wrong with the rule 'you must eat them at the same meal'.  
    **Answer:** Rice is low in the amino acid lysine and dal is low in methionine, so each one makes up for the other. But the body stores amino acids for a day, so eating them at different meals works too. The rule is stricter than needed.. *Why:* A strong answer names the idea that foods supply different amounts of the nine amino acids the body cannot make, and says that the body keeps a store across the day.
 7. (mcq) A teacher says a groundnut is a body-building food. Another says it is an energy food. Who is right?  
-   Options: Both, because it holds protein for building and fat for fuel / Only the first, because groups cannot overlap / Neither, because a groundnut is a plant  
+   Options: Only the first, because groups cannot overlap / Neither, because a groundnut is a plant / Both, because it holds protein for building and fat for fuel  
    **Answer:** Both, because it holds protein for building and fat for fuel. *Why:* A groundnut is about a quarter protein and nearly half fat. It does both jobs. The groups tell you a food's usual job, but most foods do more than one.
 8. (perspective) A school canteen can sell either packet snacks or home-cooked snacks such as sundal and fruit.  
    **Answer:** Answers vary. A strong answer weighs cost, taste, keeping time and nutrition, and names a way to check, such as reading the labels per 100 grams.. *Why:* Real choices have more than one side. A strong answer weighs several sides, and names a fact that would help.
@@ -586,25 +586,25 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 
 ## Quiz
 1. (mcq) Which food does all three jobs, giving energy, building material and protection?  
-   Options: Milk / White sugar / Plain water  
+   Options: White sugar / Milk / Plain water  
    **Answer:** Milk. *Why:* Milk has sugar and fat for energy, protein and calcium for building, and vitamins for protection. Sugar mostly gives energy, and water gives none of the three, though the body needs it.
 2. (mcq) Which nutrient holds the most energy in one gram?  
-   Options: Fat / Starch / Protein  
+   Options: Starch / Fat / Protein  
    **Answer:** Fat. *Why:* Fat gives about 9 kilocalories in each gram. Starch and protein give about 4. So a gram of fat holds a little more than twice as much.
 3. (mcq) What does one kilocalorie measure?  
    Options: Heat energy / Weight / Sweetness  
    **Answer:** Heat energy. *Why:* A kilocalorie is a unit of heat energy. It is the heat that warms a litre of water by one degree.
 4. (mcq) In a test that burns foods under water, why must each food be weighed first?  
-   Options: So the foods are compared by the same weight / So that the nut burns for longer / To find the colour of the nut  
+   Options: So that the nut burns for longer / So the foods are compared by the same weight / To find the colour of the nut  
    **Answer:** So the foods are compared by the same weight. *Why:* A heavier piece holds more energy. If the weights differ, the result tells you about the weight and not about the food. Equal weights make the test fair.
 5. (mcq) Which change would make a home nut test lose less heat?  
-   Options: Shield the flame from draughts and hold the tumbler close / Use a much bigger tumbler with more water / Use a nut that burns with a cooler flame  
+   Options: Use a much bigger tumbler with more water / Use a nut that burns with a cooler flame / Shield the flame from draughts and hold the tumbler close  
    **Answer:** Shield the flame from draughts and hold the tumbler close. *Why:* Less heat escapes when the flame is shielded from moving air and the tumbler is close. A bigger tumbler would only give a smaller rise in temperature.
 6. (mcq) On a packet, the first ingredient is sugar. What does that tell you?  
    Options: There is more sugar than any other single ingredient / Sugar was added first in the factory / The packet holds only sugar  
    **Answer:** There is more sugar than any other single ingredient. *Why:* Ingredients are listed from the most by weight to the least. The first one is the biggest part. Other sugars may be listed lower down.
 7. (mcq) A pack lists 80 kilocalories in a serving, and holds 6 servings. How much energy is in the whole pack?  
-   Options: 86 kilocalories / 480 kilocalories / 80 kilocalories  
+   Options: 86 kilocalories / 80 kilocalories / 480 kilocalories  
    **Answer:** 480 kilocalories. *Why:* Multiply the servings by the energy in one serving. 6 times 80 is 480. If you chose 80, you used the number for only one serving.
 8. (mcq) Which food has the least energy in 100 grams?  
    Options: Cucumber / Cooked rice / Raw rice  

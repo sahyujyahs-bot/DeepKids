@@ -685,7 +685,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 6. (sort) Sort these forces by whether the things must touch.  
    **Answer:** a hand pushing a door → Contact force; the Earth's pull on a falling mango → Non-contact force; the push of a table on a book → Contact force; a rope pulling a cart → Contact force; a magnet's pull on a pin → Non-contact force. *Why:* A hand, a table and a rope act only where they touch. Gravity and a magnet act across a gap.
 7. (mcq) A book rests on a level table and does not move. Which force stops it falling through the table?  
-   Options: Gravity / The normal force of the table / An applied force from the book / The weight of the table  
+   Options: Gravity / An applied force from the book / The weight of the table / The normal force of the table  
    **Answer:** The normal force of the table. *Why:* The table is squashed a tiny amount by the book, and it pushes back up. That push is the normal force. Gravity is what pulls the book down.
 8. (forces) A book rests on a level table. Show the forces on the book.  
    Options: gravity / normal force / applied force / friction  
@@ -695,7 +695,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 10. (write) Explain why the dough at the bottom of a pile of books is squashed more than the dough at the top.  
    **Answer:** The bottom dough has the weight of all the books above it, and the top dough has only one. Each book rests on the one below, so the load grows towards the bottom. A greater push squashes the dough more.. *Why:* A strong answer says that each level carries everything above it. It also says that more books mean a bigger push on the dough.
 11. (mcq) Which tool gives the same answer on the Earth and on the Moon?  
-   Options: A spring scale / A bathroom scale / A two-pan balance / A forcemeter  
+   Options: A two-pan balance / A spring scale / A bathroom scale / A forcemeter  
    **Answer:** A two-pan balance. *Why:* A two-pan balance compares one mass with another, so the pull of the world cancels out. The other three measure a pull or a push, which is smaller on the Moon.
 12. (truefalse) True or false: a table pushes up on a book because the table is squashed a tiny amount.  
    **Answer:** True. *Why:* True. The book squashes the table by a tiny amount. The squashed particles push back, and that push holds the book up.
@@ -708,7 +708,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
    **Answer:** ["The Earth's pull on the girl, down", "The scale's push on the girl, up", "The floor's push on the scale, up"]. *Why:* The girl stays still, so the scale pushes up on her as hard as gravity pulls her down. The scale reads that push. The floor must push up on the scale with the girl's weight and the scale's own weight.
 ### Weights on other worlds and force arrows (stretch) (stretch, 15 questions)
 1. (mcq) A 2 kilogram pack is at Jupiter's cloud tops, where each kilogram weighs about 25 newtons. About what does it weigh?  
-   Options: About 12 newtons / About 25 newtons / About 50 newtons / About 100 newtons  
+   Options: About 12 newtons / About 25 newtons / About 100 newtons / About 50 newtons  
    **Answer:** About 50 newtons. *Why:* Multiply the mass by the strength of gravity. 2 times 25 is 50 newtons. Choosing 25 forgets to multiply by the mass.
 2. (write) Saturn has 95 times the Earth's mass. Explain why its pull at the cloud tops is only a little bigger.  
    **Answer:** The pull depends on the mass of the world and on how far you are from its centre. Saturn's cloud tops are about 9.5 times as far from its centre as the Earth's surface is. The pull gets weaker by the distance multiplied by itself, so the distance counts twice. That cancels most of the extra mass.. *Why:* A strong answer says that distance from the centre matters, and that it counts twice because the pull gets weaker by the distance multiplied by itself. It does not say that gas has no weight.
@@ -735,7 +735,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 12. (write) In Lift, Press and Tilt, the scale read less on a tilted board. Explain why, with words and an arrow.  
    **Answer:** The slope only stops the packet sinking into the board. The board pushes straight out from its surface, and that push is smaller than the weight. Something else, such as the tape in the experiment, has to hold the packet so that it does not slide down the slope.. *Why:* A strong answer says that the normal force points straight out from the surface. On a slope it is smaller than the weight. It may draw a leaning arrow.
 13. (mcq) Which of these worlds gives the weakest pull at its surface?  
-   Options: Mars / The Moon / Mercury / Venus  
+   Options: Mars / Mercury / Venus / The Moon  
    **Answer:** The Moon. *Why:* The Moon's number is about 1.6 newtons for each kilogram. Mars and Mercury have 3.7, and Venus has 8.9.
 14. (order) Put these in order of how much a 10 kilogram bag weighs, from the smallest to the biggest.  
    **Answer:** ['On the Moon', 'On Mars', 'On the Earth', "At Jupiter's cloud tops"]. *Why:* The numbers are 1.6, 3.7, 9.8 and about 25 newtons for each kilogram. A bigger number means a bigger weight for the same mass.
@@ -748,7 +748,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 2. (count) A world has 2 times the Earth's mass and 1.25 times its width. About how many times as strong is its pull?  
    **Answer:** 1.3. *Why:* 1.25 times 1.25 is 1.5625. Then 2 divided by 1.5625 is about 1.3. So the pull is about 1.3 times the Earth's.
 3. (mcq) Mars has about twice the mass of Mercury, and both pull with 3.7 newtons for each kilogram. What explains this?  
-   Options: Mars is wider, so its surface is further from its centre / Mercury is closer to the Sun / Mars has an atmosphere / Weight does not depend on mass  
+   Options: Mercury is closer to the Sun / Mars has an atmosphere / Mars is wider, so its surface is further from its centre / Weight does not depend on mass  
    **Answer:** Mars is wider, so its surface is further from its centre. *Why:* Mars has more mass, which pulls harder. But its surface is further from its centre, which pulls less. Here the two effects cancel almost exactly.
 4. (perspective) Three people talk about gravity.  
    **Answer:** A strong answer uses the force view for bridges and everyday sums, because it is simple and accurate there. It may use the bending view to explain why every thing falls alike. It says that the views agree where they overlap.. *Why:* Each view works in its own place. Einstein's view explains more, and Newton's view is easier to use.
@@ -768,7 +768,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
 11. (draw) Draw the forces on the middle book of a pile of three equal books. Give each arrow a length.  
    **Answer:** A box for the middle book, with an arrow down for gravity of 1 unit, an arrow down for the top book's push of 1 unit, and an arrow up for the bottom book's push of 2 units.. *Why:* A strong drawing has two down arrows and one up arrow. The up arrow is as long as the two down arrows together, because the book is still.
 12. (mcq) The Earth pulls an apple with a force of 1 newton. How hard does the apple pull the Earth?  
-   Options: Almost nothing / 1 newton / 10 newtons / 1 newton, only while it falls  
+   Options: Almost nothing / 10 newtons / 1 newton, only while it falls / 1 newton  
    **Answer:** 1 newton. *Why:* Forces come in pairs. The apple pulls the Earth with the same force of 1 newton. The Earth is so massive that this pull moves it by too little to measure.
 13. (write) Many people think the normal force always equals the weight. Describe a home test that shows this is wrong.  
    **Answer:** Put a packet on a kitchen scale and press down on it with a finger. The scale reads more than the packet's weight, so the table's push is bigger than the weight. Lifting the packet with a string makes the reading smaller.. *Why:* A strong answer names a test with a scale, a finger or a string, and says what the reading does. It says why that shows the normal force can change.
@@ -784,28 +784,28 @@ Months later, Thenu sat in front of the television at home on the evening of the
 
 ## Quiz
 1. (mcq) Which of these is the same on every world?  
-   Options: Your weight / Your mass / The reading of a spring scale / The pull of gravity on you  
+   Options: Your mass / Your weight / The reading of a spring scale / The pull of gravity on you  
    **Answer:** Your mass. *Why:* Mass is the amount of matter in you, and you take it with you to every world. The other three change with the strength of gravity.
 2. (mcq) A bag has a mass of 4 kilograms. About what does it weigh on the Earth?  
    Options: 4 newtons / 40 newtons / 400 newtons / 0.4 newtons  
    **Answer:** 40 newtons. *Why:* Each kilogram weighs about 10 newtons on the Earth. So 4 kilograms weigh about 40 newtons.
 3. (mcq) A dog has a mass of 12 kilograms. About what does she weigh on the Moon, where each kilogram weighs 1.6 newtons?  
-   Options: About 19 newtons / About 120 newtons / About 7.5 newtons / About 12 newtons  
+   Options: About 120 newtons / About 19 newtons / About 7.5 newtons / About 12 newtons  
    **Answer:** About 19 newtons. *Why:* Multiply the mass by the strength of gravity. 12 times 1.6 is 19.2 newtons. Choosing 120 uses the Earth's number instead of the Moon's.
 4. (mcq) Why is the pull at Saturn's cloud tops only a little more than the Earth's?  
-   Options: Its cloud tops are far from its centre / Gas has no weight / Saturn is very cold / Saturn spins fast  
+   Options: Gas has no weight / Saturn is very cold / Saturn spins fast / Its cloud tops are far from its centre  
    **Answer:** Its cloud tops are far from its centre. *Why:* Saturn has 95 times the Earth's mass, which alone would give a much bigger pull. But its cloud tops are about 9.5 times as far from its centre. The pull gets weaker by the distance multiplied by itself, which is about 9.5 times 9.5, or 90. That cancels most of the extra mass.
 5. (mcq) What is the normal force?  
-   Options: The push of a surface on a thing pressing on it / The pull of gravity on a thing / A push from a hand / The force that slows a sliding thing  
+   Options: The pull of gravity on a thing / The push of a surface on a thing pressing on it / A push from a hand / The force that slows a sliding thing  
    **Answer:** The push of a surface on a thing pressing on it. *Why:* The normal force is the push of a surface on a thing that presses on it. It points straight out from the surface. Gravity is a different force, and friction slows sliding.
 6. (mcq) A packet rests on a kitchen scale. A string lifts it so the scale reads less. What happens to the packet's weight?  
    Options: It gets smaller / It stays the same / It gets bigger / It becomes zero  
    **Answer:** It stays the same. *Why:* Gravity pulls the packet just as hard as before. The reading is smaller because the string carries part of the weight, so the scale pushes less.
 7. (mcq) Which of these is an applied force?  
-   Options: The Earth pulling a mango / A hand pushing a swing / A magnet pulling a pin / A falling mango  
+   Options: A hand pushing a swing / The Earth pulling a mango / A magnet pulling a pin / A falling mango  
    **Answer:** A hand pushing a swing. *Why:* An applied force is a push or pull put on a thing by touching it. A hand on a swing does this. The Earth and a magnet act across a gap.
 8. (mcq) A ball leaves your hand and flies up. Which of these is true?  
-   Options: The push of your hand fades away slowly / The push of your hand ended when the ball left it / The ball carries the same push as before / The hand pulls the ball back  
+   Options: The push of your hand fades away slowly / The ball carries the same push as before / The push of your hand ended when the ball left it / The hand pulls the ball back  
    **Answer:** The push of your hand ended when the ball left it. *Why:* An applied force is a contact force, so it ends when the touching ends. After that, only gravity and the air act on the ball.
 9. (mcq) A book rests on a table. How long is the normal force arrow, compared with the gravity arrow?  
    Options: The same length, pointing up / Longer, pointing up / Shorter, pointing up / The same length, pointing down  
@@ -814,7 +814,7 @@ Months later, Thenu sat in front of the television at home on the evening of the
    Options: 2 centimetres / 3 centimetres / 5 centimetres / 8 centimetres  
    **Answer:** 8 centimetres. *Why:* The table must push up against the weight and the press together. 5 plus 3 is 8 newtons, so the arrow is 8 centimetres.
 11. (mcq) Which of these do scientists still not know?  
-   Options: Why the mass that pulls is the same as the mass that resists / Whether the Moon has gravity / Whether mass exists / How to measure mass  
+   Options: Whether the Moon has gravity / Whether mass exists / Why the mass that pulls is the same as the mass that resists / How to measure mass  
    **Answer:** Why the mass that pulls is the same as the mass that resists. *Why:* Every test finds that a thing's mass sets its weight and how hard it is to speed up. The two always match. Nobody has a final reason why.
 12. (mcq) Why is the bottom storey of a tall building built strongest?  
    Options: It carries the weight of every floor above it / It is heavier than the other floors / It is nearest to the Sun / It has the most people  

@@ -508,7 +508,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 2. (write) Say out loud, and a grown-up writes it down: in the Press or Grind test, which way broke the leaf into small bits? Say why that helps a cow.  
    **Answer:** Rubbing round and round tore the leaf into bits and made green juice. Pressing only flattened it. A cow rubs her flat back teeth from side to side, so the grass is ground up small.. *Why:* A strong answer gives the result of the test (rubbing tore the leaf) and links it to the side-to-side chewing of a cow.
 3. (mcq) Two frogs are the same size. One has short back legs and one has long back legs. Which frog most likely jumps farther?  
-   Options: The frog with short back legs / The frog with long back legs / They jump the same  
+   Options: The frog with short back legs / They jump the same / The frog with long back legs  
    **Answer:** The frog with long back legs. *Why:* Long legs that fold up can push on the ground for longer as they straighten. A longer push gives a faster start and a longer jump. That is what your bent knees showed in the Jump Test.
 4. (sort) Sort these animals by what they eat.  
    **Answer:** a cow → Plants (herbivore); a tiger → Other animals (carnivore); a crow → Both (omnivore); an elephant → Plants (herbivore); a kingfisher → Other animals (carnivore); most humans → Both (omnivore). *Why:* Cows and elephants eat plants. Tigers and kingfishers eat other animals. Crows and most humans eat both plants and animals.
@@ -555,25 +555,25 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 
 ## Quiz
 1. (mcq) How does an earthworm move without legs?  
-   Options: By flapping / By stretching and squeezing the body, while tiny bristles grip the soil / By jumping  
+   Options: By flapping / By jumping / By stretching and squeezing the body, while tiny bristles grip the soil  
    **Answer:** By stretching and squeezing the body, while tiny bristles grip the soil. *Why:* An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles grip the soil so she does not slide back. If you said jumping, think of the frog: jumping needs legs.
 2. (mcq) What do a bird's wings push on to hold the bird up?  
    Options: The air / The ground / The bird's own body  
    **Answer:** The air. *Why:* Wings push air down, and the air pushes the wings up. In Wing Push, you felt this when the flat notebook was hard to swing.
 3. (mcq) Why do a frog's back legs fold up in a Z shape when she sits?  
-   Options: To keep them warm / So they can straighten fast and give a long push when she jumps / Because they are broken  
+   Options: To keep them warm / Because they are broken / So they can straighten fast and give a long push when she jumps  
    **Answer:** So they can straighten fast and give a long push when she jumps. *Why:* Folded legs are ready to straighten. Long, folded legs push on the ground for a long time, so the frog jumps far.
 4. (mcq) Which teeth grind food into small bits?  
-   Options: The flat front teeth (incisors) / The pointed teeth (canines) / The wide back teeth (molars)  
+   Options: The flat front teeth (incisors) / The wide back teeth (molars) / The pointed teeth (canines)  
    **Answer:** The wide back teeth (molars). *Why:* Molars are wide and bumpy, and grind food. Incisors cut, and canines grip and tear. If you picked the front teeth, remember the cucumber bite in My Teeth Map: your front teeth made cuts, not mush.
 5. (mcq) A tiger has very long pointed canines. What does a tiger eat?  
-   Options: Grass / Meat / Nectar  
+   Options: Grass / Nectar / Meat  
    **Answer:** Meat. *Why:* Long canines grip and tear meat. A tiger is a carnivore. Grass-eaters like cows have wide, flat grinding teeth instead.
 6. (mcq) Which bird has a beak made for cracking seeds?  
    Options: A sparrow, with a short, thick beak / A kingfisher, with a long, sharp beak / A sunbird, with a long, curved beak  
    **Answer:** A sparrow, with a short, thick beak. *Why:* A short, thick beak is strong enough to crack seeds. A kingfisher's beak grabs fish, and a sunbird's beak reaches nectar.
 7. (mcq) Why does a duck have skin between her toes?  
-   Options: To push a lot of water back when she swims / To keep her feet clean / To help her fly  
+   Options: To keep her feet clean / To push a lot of water back when she swims / To help her fly  
    **Answer:** To push a lot of water back when she swims. *Why:* The web of skin makes the foot a wide paddle. The duck pushes water back, and the water pushes her forward.
 8. (mcq) Which of these animals moves mostly with fins?  
    Options: A rohu fish / A crow / A gecko  

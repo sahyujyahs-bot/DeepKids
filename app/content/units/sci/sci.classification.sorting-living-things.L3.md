@@ -581,12 +581,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 5. (sort) Sort these by the green cap at the top. Which have a green cap?  
    **Answer:** tomato → Green cap; brinjal → Green cap; green chilli → Green cap; cucumber → No green cap; capsicum → Green cap; pumpkin → No green cap. *Why:* Tomato, brinjal, chilli and capsicum are in the tomato family, and they all keep a green calyx. Cucumber and pumpkin are in the gourd family.
 6. (mcq) A tomato, a brinjal and a cucumber are cut open. Which one has seeds that look different from the other two?  
-   Options: Tomato / Brinjal / Cucumber  
+   Options: Cucumber / Tomato / Brinjal  
    **Answer:** Cucumber. *Why:* Tomato and brinjal seeds are small, flat and round. Cucumber seeds are longer and oval, with a pointed end.
 7. (fill) The green star on top of a tomato is called the ____.  
    **Answer:** ['calyx']. *Why:* The calyx is the ring of small green leaves that once held the flower.
 8. (mcq) Which feature do tulsi and mint share?  
-   Options: A round stem / A square stem / No smell / Leaves made of many leaflets  
+   Options: A round stem / No smell / Leaves made of many leaflets / A square stem  
    **Answer:** A square stem. *Why:* Tulsi and mint both have square stems, leaves in pairs and a strong smell. They are in the mint family.
 9. (write) A friend says, 'People are not animals.' What would you tell your friend? Use two things you know about your own body.  
    **Answer:** People are animals. We breathe, eat, grow and move. We have a backbone and hair, and a mother feeds her baby milk. So people are mammals and primates.. *Why:* People share the features of animals, so every scientific sort puts people with the other animals.
@@ -595,14 +595,14 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 11. (sort) Sort these into the big groups: plants, animals, fungi or bacteria.  
    **Answer:** tulsi → Plants; a goat → Animals; yeast → Fungi; curd bacteria → Bacteria. *Why:* Tulsi makes food from sunlight. A goat eats plants. Yeast feeds on sugar, like other fungi. Curd bacteria are single tiny cells.
 12. (mcq) A crow has a backbone and feathers. Which group are they NOT in?  
-   Options: Living thing / Animal / Backbone animal / Mammal  
+   Options: Living thing / Animal / Mammal / Backbone animal  
    **Answer:** Mammal. *Why:* A crow is a bird. Crows have feathers, not hair, so they are not mammals.
 13. (match) Match each food to its plant family.  
    **Answer:** Rice → grass family; Moong → bean family; Brinjal → tomato family; Pumpkin → gourd family. *Why:* Rice is a grass, moong grows in pods, brinjal keeps a green cap like the tomato, and pumpkin grows on a vine like the cucumber.
 14. (truefalse) A mushroom is a kind of plant.  
    **Answer:** False. *Why:* False. A mushroom is a fungus. They have no green leaves, cannot make food from sunlight, and make spores, not seeds.
 15. (mcq) Why do a tiger and a house cat look alike?  
-   Options: They live in the same places / They came from the same cat ancestors / They eat the same food / Someone painted them alike  
+   Options: They live in the same places / They eat the same food / Someone painted them alike / They came from the same cat ancestors  
    **Answer:** They came from the same cat ancestors. *Why:* Tigers and house cats are relatives. They inherited whiskers, claws they can pull in and rough tongues from the same long-ago ancestors.
 16. (draw) Draw two overlapping circles. Label one 'can fly' and one 'has hair'. Put a crow, a cat and a bat in the right places.  
    **Answer:** Crow in 'can fly' only, cat in 'has hair' only, bat in the middle.. *Why:* The bat can fly and has hair, so they go where the circles overlap. This drawing is called a Venn diagram.
@@ -621,14 +621,14 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    Options: Methi / Sugarcane / Brinjal / Cucumber  
    **Answer:** Sugarcane. *Why:* Sugarcane is a giant grass. Their leaves are long and narrow, with veins running side by side, like rice and wheat leaves.
 6. (mcq) A mushroom left a print of fine powder on paper overnight. What was the powder made of?  
-   Options: Seeds / Spores / Soil / Pollen  
+   Options: Spores / Seeds / Soil / Pollen  
    **Answer:** Spores. *Why:* Mushrooms make spores, each one a single cell. Millions together make the print.
 7. (fill) Fungi are more closely related to ____ than to plants.  
    **Answer:** ['animals']. *Why:* DNA comparisons show that fungi and animals share more recent ancestors than either shares with plants.
 8. (truefalse) Lions and tigers have had cubs together in zoos.  
    **Answer:** True. *Why:* True. The cubs are called ligers. Lions and tigers do not mate in the wild, so most scientists count them as two species.
 9. (mcq) The first question in a key is 'Is the leaf made of many small leaflets?' Which leaf goes on the 'yes' side?  
-   Options: Tulsi / Curry leaf / Money plant / Spinach  
+   Options: Curry leaf / Tulsi / Money plant / Spinach  
    **Answer:** Curry leaf. *Why:* A curry leaf is made of many small leaflets on one stalk. The others are single leaves.
 10. (sort) Sort these animals: does each one have a backbone?  
    **Answer:** crow → Backbone; ant → No backbone; fish → Backbone; earthworm → No backbone; frog → Backbone; snail → No backbone. *Why:* Crows, fish and frogs have backbones. Ants, earthworms and snails do not.
@@ -640,7 +640,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 13. (truefalse) A potato is in the tomato family.  
    **Answer:** True. *Why:* True. A potato plant has flowers and small green fruits like tiny tomatoes. The potato we eat is an underground stem.
 14. (mcq) Which of these is a primate?  
-   Options: A cow / A bonnet macaque / A crow / A dog  
+   Options: A bonnet macaque / A cow / A crow / A dog  
    **Answer:** A bonnet macaque. *Why:* A bonnet macaque has gripping hands, flat nails and eyes that face forward. Monkeys, apes and people are primates.
 15. (write) A farmer and a cook sort the same vegetables differently. Give one reason each might sort them.  
    **Answer:** The farmer sorts by family because relatives share pests and diseases. The cook sorts by cooking time or by dish.. *Why:* Each sort is right for its own job.
@@ -651,7 +651,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 1. (write) In Family Clues in the Vegetable Basket, you sorted vegetables by colour, and then by caps and seeds. The chilli moved from the cucumber's group to the tomato's group. Explain why, using the words 'relatives' and 'features'.  
    **Answer:** Colour put the chilli with the cucumber. But the chilli shares a green cap and small, flat, round seeds with the tomato. These features were inherited from shared ancestors, so the chilli and the tomato are relatives.. *Why:* Shared inherited features are clues to who is related.
 2. (mcq) Scientists compare one molecule found in every cell. Two tiny living things look the same, but their molecules are very different. What does this tell the scientists?  
-   Options: They look alike, but they may not be close relatives / They must be the same kind / Molecules tell you nothing / They are both plants  
+   Options: They must be the same kind / Molecules tell you nothing / They look alike, but they may not be close relatives / They are both plants  
    **Answer:** They look alike, but they may not be close relatives. *Why:* What is inside tells more about relatives than looks do. This is how archaea were found in 1977: they look like bacteria but are very different inside.
 3. (truefalse) Scientists have used the same big groups of life since 1735.  
    **Answer:** False. *Why:* False. Linnaeus used two kingdoms. Whittaker proposed five in 1969. Woese proposed three domains in 1990. Scientists still argue about them.
@@ -663,20 +663,20 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 6. (write) Your hand and a bat's wing have the same set of bones. What might this tell us?  
    **Answer:** People and bats are relatives. Both are mammals, and both inherited the same arm and hand bones from shared ancestors.. *Why:* The same bones used for different jobs are a strong clue to shared ancestors.
 7. (mcq) Horses and donkeys can have mules, but mules almost never have young. What do most scientists say?  
-   Options: Horses and donkeys are one species / Horses and donkeys are two species / Mules are a third species of horse / Nobody knows what a mule is  
+   Options: Horses and donkeys are two species / Horses and donkeys are one species / Mules are a third species of horse / Nobody knows what a mule is  
    **Answer:** Horses and donkeys are two species. *Why:* Members of one species can usually have young that also have young. Mules almost never do, so horses and donkeys count as two species.
 8. (write) Some people once sorted people into groups to say some groups were better. What does science say?  
    **Answer:** A sort only shows how people fall into groups for one question, such as height. All people are one species, and any two people are almost the same in their DNA. No sort makes anyone better.. *Why:* Sorting is a tool for questions, not a ranking of worth.
 9. (mcq) Archaea that make methane gas live in which of these places?  
-   Options: The mud of rice fields / Only on the Moon / Inside rocks in space / Nowhere on Earth now  
+   Options: Only on the Moon / The mud of rice fields / Inside rocks in space / Nowhere on Earth now  
    **Answer:** The mud of rice fields. *Why:* Methane-making archaea live in rice field mud, swamps and the stomachs of cows.
 10. (write) In the story The Terrace Garden Sickness, Kavya kept her colour sort for salads and used the family sort for the garden. Explain why both sorts are right.  
    **Answer:** The colour sort helps make a colourful salad. The family sort helps keep the garden healthy, because relatives get the same diseases. Each sort is right for its own job.. *Why:* Which sort is best depends on the question you need answered.
 11. (mcq) Why does a key use yes-or-no questions about things you can see?  
-   Options: So everyone reaches the same answer / Because it is shorter / So nobody can use it / Because animals like it  
+   Options: Because it is shorter / So everyone reaches the same answer / So nobody can use it / Because animals like it  
    **Answer:** So everyone reaches the same answer. *Why:* If everyone can check the answer by looking, everyone who uses the key reaches the same name.
 12. (mcq) About two million kinds of living things have names. One estimate says there may be about 8.7 million kinds of plants, animals and fungi. What does this show?  
-   Options: Scientists have named nearly all living things / Many kinds of living things have not been named yet / The estimate must be wrong / Nobody can count anything  
+   Options: Many kinds of living things have not been named yet / Scientists have named nearly all living things / The estimate must be wrong / Nobody can count anything  
    **Answer:** Many kinds of living things have not been named yet. *Why:* Two million is far fewer than 8.7 million, so many kinds are still unnamed. Nobody knows the true number.
 13. (truefalse) All living things sense the world around them and respond.  
    **Answer:** True. *Why:* True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in their own way.
@@ -698,13 +698,13 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    Options: Answer yes or no, then follow the arrow / Pick the leaf you like best / Guess the name at once / Count the veins  
    **Answer:** Answer yes or no, then follow the arrow. *Why:* Each question in a key has a yes or no answer, and each answer leads to the next question or to a name. Following the arrows gives everyone the same name.
 3. (mcq) A farmer's tomato plants died of a soil sickness. Which crop should the farmer avoid planting in that soil next?  
-   Options: Cucumber / Brinjal / Beans / Rice  
+   Options: Cucumber / Beans / Brinjal / Rice  
    **Answer:** Brinjal. *Why:* Brinjal is in the tomato family, and relatives often get the same diseases. Farmers sort crops by family for this reason.
 4. (mcq) Which features show that tomato, brinjal and chilli are relatives?  
-   Options: They are all red / A green cap and small, flat, round seeds / They are all sold in markets / They all taste spicy  
+   Options: A green cap and small, flat, round seeds / They are all red / They are all sold in markets / They all taste spicy  
    **Answer:** A green cap and small, flat, round seeds. *Why:* The green calyx and the small, flat, round seeds are shared features. Colour differs, and only the chilli is spicy.
 5. (mcq) Which herb has a square stem, like tulsi?  
-   Options: Coriander / Curry leaf / Mint / Spinach  
+   Options: Coriander / Mint / Curry leaf / Spinach  
    **Answer:** Mint. *Why:* Mint and tulsi are in the mint family, and most of the family have square stems. Coriander and curry leaf have round stems.
 6. (mcq) Which group are people in?  
    Options: Birds / Mammals / Fish / Insects  
@@ -713,22 +713,22 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    Options: Mammals / Primates / Animals / Backbone animals  
    **Answer:** Animals. *Why:* Animals is the biggest. Backbone animals are inside it, mammals inside those, and primates inside the mammals.
 8. (mcq) Why do relatives share features?  
-   Options: They copy each other / They inherited them from the same ancestors / They live in the same place / By luck  
+   Options: They inherited them from the same ancestors / They copy each other / They live in the same place / By luck  
    **Answer:** They inherited them from the same ancestors. *Why:* Living things get features from their parents, who got them from theirs. So relatives share features from shared ancestors.
 9. (mcq) A crow, a bat and a butterfly all have wings. Are they close relatives?  
    Options: Yes, because they all have wings / No, their wings are built differently and grew separately / Yes, they are all birds  
    **Answer:** No, their wings are built differently and grew separately. *Why:* Wings help each of them travel through the air, but the crow's wing has feathers, the bat's is skin on long fingers, and the butterfly's has no bones. Looks can mislead.
 10. (mcq) A mushroom is a...  
-   Options: Plant / Animal / Fungus / Bacterium  
+   Options: Plant / Fungus / Animal / Bacterium  
    **Answer:** Fungus. *Why:* Mushrooms are fungi, a kingdom of their own. They make spores, not seeds, and take food from around them.
 11. (mcq) Some tiny living things look just like bacteria, but inside their cells they are very different. How should scientists group them?  
-   Options: In a new big group of their own / With bacteria, because they look the same / With mammals / With insects  
+   Options: With bacteria, because they look the same / With mammals / In a new big group of their own / With insects  
    **Answer:** In a new big group of their own. *Why:* Looks can fool you. Carl Woese and George Fox compared a molecule every cell has and put these living things in a new group, the archaea.
 12. (mcq) Have scientists always used the same biggest groups of life?  
-   Options: Yes, since long ago / No, they have changed them as they found new clues / There are no big groups  
+   Options: Yes, since long ago / There are no big groups / No, they have changed them as they found new clues  
    **Answer:** No, they have changed them as they found new clues. *Why:* Scientists used two kingdoms in 1735, five kingdoms in 1969 and three domains in 1990. They still argue about the biggest groups.
 13. (mcq) A neem tree makes food from sunlight, through green leaves. Which big group is the neem tree in?  
-   Options: Plants / Animals / Fungi / Bacteria  
+   Options: Animals / Plants / Fungi / Bacteria  
    **Answer:** Plants. *Why:* Plants make food from sunlight. Animals eat other living things, fungi feed on things around them, and bacteria are single tiny cells.
 
 ## Applications

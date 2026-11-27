@@ -761,11 +761,11 @@
       "t": "mcq",
       "q": "Why does tumbler 0 get no colour and no essence?",
       "options": [
-       "So we have plain water to compare with",
        "To save colour",
-       "Because it is the last tumbler"
+       "Because it is the last tumbler",
+       "So we have plain water to compare with"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A control is the same as the others in everything except the thing you test. Tumbler 0 shows what plain water looks and smells like. So any difference in the other tumblers comes from the colour and the essence."
      },
      "context": "In this step, you set up the five tumblers and make the strong mix in tumbler 1."
@@ -781,11 +781,11 @@
       "t": "mcq",
       "q": "One spoonful of tumbler 1 goes into 200 millilitres of clean water. How much weaker is tumbler 2 than tumbler 1?",
       "options": [
-       "41 times weaker",
        "2 times weaker",
+       "41 times weaker",
        "The same strength"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The spoonful holds 5 millilitres and ends up in 205 millilitres. 205 divided by 5 is 41. So the colour and the scent in tumbler 2 are spread 41 times thinner."
      },
      "context": "In this step, you thin the mix out four times. Each tumbler gets weaker."
@@ -830,11 +830,11 @@
       "t": "mcq",
       "q": "Three cups, and only one has the scent. If a child just guesses, how often will they point to the right cup?",
       "options": [
-       "1 time in 3",
        "1 time in 2",
-       "Every time"
+       "Every time",
+       "1 time in 3"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With three cups and one odd cup, a pure guess is right one time in three. Three right guesses in a row by luck would be rare: 1 time in 27. So getting all three right means the nose really found it."
      },
      "context": "In this step, you use your nose to find where the smell stops. A die makes the test fair."
@@ -851,11 +851,11 @@
       "t": "mcq",
       "q": "Suppose a tumbler of thinned scented water looks like plain water, but a nose picks it out three times out of three. What does this show?",
       "options": [
-       "The scent is still there. The eyes stopped finding it before the nose did.",
        "The colour made the scent stronger.",
-       "That tumbler is the same as plain water."
+       "That tumbler is the same as plain water.",
+       "The scent is still there. The eyes stopped finding it before the nose did."
       ],
-      "a": 0,
+      "a": 2,
       "why": "Eyes found nothing, but the nose did, so something was still in the water. Looking is only one way of checking. The colour does not make the scent stronger: the colour and the scent are two separate things in the same water."
      },
      "context": "In this step, you say what you thought, what you found, and why."
@@ -1157,11 +1157,11 @@
       "t": "mcq",
       "q": "Why do we leave bowl 6 untouched?",
       "options": [
-       "It shows how much shine there is with no tool at all",
        "To save oil",
-       "To have an extra bowl"
+       "To have an extra bowl",
+       "It shows how much shine there is with no tool at all"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The control shows what the spill looks like with no clean-up. Without it we could not say how much any tool took away."
      },
      "context": "In this step, you score how much oil each tool left behind."
@@ -1298,11 +1298,11 @@
       "t": "mcq",
       "q": "In tumbler B the beam did not show, though there is salt in the water. What does this tell us?",
       "options": [
-       "Dissolved salt is too small to scatter the light",
        "Salt water is the same as milk water",
+       "Dissolved salt is too small to scatter the light",
        "The torch was too weak"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A beam shows up when tiny bits of milk or dust scatter the light towards your eyes. Dissolved salt is split into single tiny pieces that scatter almost no light. So a beam can show floating bits, but it cannot show dissolved things."
      },
      "context": "In this step, you shine the torch through each tumbler and look for a beam."
@@ -1827,11 +1827,11 @@
       "t": "mcq",
       "q": "Why does a real boom have a skirt that hangs under the water?",
       "options": [
-       "Oil can slip under a barrier that only floats on top",
        "To make the boom look bigger",
-       "To hold the boom in place with sand"
+       "To hold the boom in place with sand",
+       "Oil can slip under a barrier that only floats on top"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Oil floats on the surface, but moving water pushes it down and under a shallow barrier. A skirt reaches below the surface, so the oil cannot slip underneath."
      },
      "context": "In this step, you improve the boom and test it again."
@@ -1892,11 +1892,11 @@
    "t": "mcq",
    "p": "A cup of water looks exactly like tap water, but a nose can pick it out. What is the best explanation?",
    "opts": [
-    "Something is in the water that the eye cannot see but the nose can find",
     "The nose is always more correct than the eye",
+    "Something is in the water that the eye cannot see but the nose can find",
     "The cup is empty"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two senses check different things. The nose found something in the water that was too thin for the eye to see.",
    "outcome": 0
   },
@@ -1904,11 +1904,11 @@
    "t": "mcq",
    "p": "Which tool could lift a floating plastic bag off a pond?",
    "opts": [
-    "A net",
     "A cloth",
-    "A tumbler"
+    "A tumbler",
+    "A net"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A plastic bag floats and is big, so a net can lift it out.",
    "outcome": 1
   },
@@ -1916,11 +1916,11 @@
    "t": "mcq",
    "p": "Salty water is poured through a thick cloth. Why does it come out just as salty?",
    "opts": [
-    "Dissolved salt is in single tiny pieces that pass through the gaps",
     "The cloth adds salt",
-    "Salt cannot be seen"
+    "Salt cannot be seen",
+    "Dissolved salt is in single tiny pieces that pass through the gaps"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The gaps in a cloth are much bigger than the pieces of dissolved salt. So the salt goes through with the water.",
    "outcome": 1
   },
@@ -1928,11 +1928,11 @@
    "t": "mcq",
    "p": "A child sniffs three cups. Only one cup is scented. The child points to the right cup three times in a row. What is the best conclusion?",
    "opts": [
-    "The child probably smelled it, because guessing would rarely give three in a row",
     "The child must have looked",
+    "The child probably smelled it, because guessing would rarely give three in a row",
     "It proves the child has a very good nose"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Guessing right three times in a row happens only 1 time in 27. So it is likely the child smelled it, though one test cannot prove more than that.",
    "outcome": 2
   },
@@ -1976,11 +1976,11 @@
    "t": "mcq",
    "p": "What does the settling tank in a sewage plant do?",
    "opts": [
-    "Lets heavy bits sink to the bottom as sludge",
     "Kills the germs",
-    "Lets microbes breathe"
+    "Lets microbes breathe",
+    "Lets heavy bits sink to the bottom as sludge"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water stands still, and heavy bits sink. Killing germs happens in a later stage.",
    "outcome": 5
   },
@@ -1995,11 +1995,11 @@
    "t": "mcq",
    "p": "River A is marked 'best for outdoor bathing' and river B is marked 'best for drinking after treatment'. What does this show?",
    "opts": [
-    "Clean always means clean for a use",
     "River B is dirtier",
-    "Rivers cannot be tested"
+    "Rivers cannot be tested",
+    "Clean always means clean for a use"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each use has its own tests and limits. So the same water can pass for one use and fail for another.",
    "outcome": 6
   },
@@ -2027,11 +2027,11 @@
      "t": "mcq",
      "p": "You stir one spoonful of red water into a full tumbler of clean water. What has happened to the amount of red stuff?",
      "opts": [
-      "It is all still there, spread through more water",
       "Half of it has disappeared",
-      "It has all gone"
+      "It has all gone",
+      "It is all still there, spread through more water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mixing spreads the red stuff through more water, so each sip is paler. But nothing is destroyed when things mix. The amount stays the same, and only the strength falls.",
      "outcome": 0
     },
@@ -2039,11 +2039,11 @@
      "t": "mcq",
      "p": "After four steps of thinning, the colour is too faint to see. Which sentence is right?",
      "opts": [
-      "The colour is gone for good",
       "The colour is still there, but too thin for our eyes",
+      "The colour is gone for good",
       "The water has made new colour"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each step spread the colour through more water. The colour was too thin to show up to the eye, but it was still in the water, and a nose or an instrument may find what an eye cannot.",
      "outcome": 0
     },
@@ -2128,11 +2128,11 @@
      "t": "mcq",
      "p": "A thick cloth is held over a glass and salty water is poured through it. Is the water in the glass still salty?",
      "opts": [
-      "Yes, because salt is dissolved in single tiny pieces that pass through",
       "No, because the cloth catches salt",
-      "No, because cloth turns salt into water"
+      "No, because cloth turns salt into water",
+      "Yes, because salt is dissolved in single tiny pieces that pass through"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cloth has gaps that are far wider than a single piece of dissolved salt. So the salt goes through with the water. A cloth can only catch bits that are bigger than its gaps.",
      "outcome": 1
     },
@@ -2192,11 +2192,11 @@
      "t": "mcq",
      "p": "Why do fish gasp at the surface of a pond that has a lot of rotting waste in it?",
      "opts": [
-      "The microbes eating the waste have used up the oxygen in the water",
       "The waste is poisonous gas",
+      "The microbes eating the waste have used up the oxygen in the water",
       "The fish want to eat the waste"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes eating the waste breathe in oxygen, so there is less left for the fish. At the surface a little oxygen comes in from the air.",
      "outcome": 3
     },
@@ -2240,11 +2240,11 @@
      "t": "mcq",
      "p": "A river is marked 'best for outdoor bathing'. What does that tell you about drinking it straight from the river?",
      "opts": [
-      "Nothing: bathing water can still need cleaning before it is safe to drink",
       "It is also safe to drink",
+      "Nothing: bathing water can still need cleaning before it is safe to drink",
       "It is not safe to bathe in"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each use has its own tests and limits. Water can be fine for bathing and still need treatment before drinking. 'Clean' means clean for a use.",
      "outcome": 6
     }
@@ -2289,11 +2289,11 @@
      "t": "mcq",
      "p": "Health warnings tell some people to eat large sea fish, such as shark, less often than small fish. What is the reason?",
      "opts": [
-      "Large fish eat many fish and so keep more of the mercury in them",
       "Large fish taste bad",
+      "Large fish eat many fish and so keep more of the mercury in them",
       "Small fish have no mercury at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mercury is not passed out of a body quickly. A large fish eats many smaller fish over many years and keeps what is in them, so she holds the most.",
      "outcome": 4
     },
@@ -2345,11 +2345,11 @@
      "t": "mcq",
      "p": "In the third stage of a sewage plant, air is bubbled through the tank. Why?",
      "opts": [
-      "The microbes that clean the water need oxygen to breathe",
       "The air makes the water colder",
-      "The air pushes the sludge out"
+      "The air pushes the sludge out",
+      "The microbes that clean the water need oxygen to breathe"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The microbes that eat the waste breathe oxygen. Without bubbles, the oxygen would run out and they could not do the cleaning.",
      "outcome": 5
     },
@@ -2454,11 +2454,11 @@
      "t": "mcq",
      "p": "Which waste would use up the most oxygen in a pond?",
      "opts": [
-      "A bucket of leftover dal and rice",
       "A bucket of clean sand",
+      "A bucket of leftover dal and rice",
       "A bucket of small stones"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dal and rice are food for microbes. As the microbes eat it, they breathe in the oxygen. Sand and stones are not food, so they use none.",
      "outcome": 3
     }
@@ -2482,11 +2482,11 @@
      "t": "mcq",
      "p": "What is the best reason to measure water with an instrument, as well as looking and smelling?",
      "opts": [
-      "A measurement gives a number that different people can compare",
       "Instruments are always right",
-      "Looking never finds anything"
+      "Looking never finds anything",
+      "A measurement gives a number that different people can compare"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Eyes and noses differ from person to person. A number from a good instrument can be compared by anyone, and checked against a safe limit.",
      "outcome": 6
     },
@@ -2589,11 +2589,11 @@
      "t": "mcq",
      "p": "If the sea has a little mercury, which fish should people eat less often: a tiny sardine, or a large shark?",
      "opts": [
-      "A large shark, because she has eaten many fish and kept their mercury",
       "A tiny sardine, because she is smaller",
-      "Both hold the same amount"
+      "Both hold the same amount",
+      "A large shark, because she has eaten many fish and kept their mercury"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Mercury builds up along a food chain. A large fish at the top holds far more than a small one near the bottom.",
      "outcome": 4
     },
@@ -2653,11 +2653,11 @@
      "t": "mcq",
      "p": "A child gets 2 of 3 trials right in a three-cup sniff test. What is the best conclusion?",
      "opts": [
-      "It could easily be luck, so repeat with more trials",
       "The child definitely smelled it",
+      "It could easily be luck, so repeat with more trials",
       "The child definitely did not smell it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Getting 2 or more of 3 right by pure guessing happens about 1 time in 4. A better test has more trials.",
      "outcome": 2
     }

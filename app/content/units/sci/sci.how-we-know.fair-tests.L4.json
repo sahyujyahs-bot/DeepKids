@@ -699,11 +699,11 @@
       "t": "mcq",
       "q": "A test asks whether a longer rubber band shoots a paper ball farther. What is the thing that is measured?",
       "options": [
-       "How far the ball travels",
        "The length of the band",
-       "The weight of the ball"
+       "The weight of the ball",
+       "How far the ball travels"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The band length is the thing that is changed. The thing that is measured is the result, which is how far the ball goes. The ball and the pull-back stay the same."
      }
     },
@@ -892,11 +892,11 @@
       "t": "mcq",
       "q": "Two sets of times have averages of 2.0 and 1.2 seconds. Each set spreads by about 0.4. What does that suggest?",
       "options": [
-       "The gap is bigger than the wobble, so the difference is probably real",
        "The gap is smaller than the wobble, so we cannot tell",
-       "The test is not fair"
+       "The test is not fair",
+       "The gap is bigger than the wobble, so the difference is probably real"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A gap of 0.8 is twice the spread of 0.4 in each set. A gap bigger than the wobble is a good sign that the difference is real."
      }
     },
@@ -1028,11 +1028,11 @@
       "t": "mcq",
       "q": "In this test, which is the thing we change?",
       "options": [
-       "The length of the wings",
        "The time it takes to fall",
+       "The length of the wings",
        "The paper clip"
       ],
-      "a": 0,
+      "a": 1,
       "why": "We choose the wing length on purpose. The time is what we measure. The paper and the clip stay the same."
      }
     },
@@ -1048,11 +1048,11 @@
       "t": "mcq",
       "q": "Why must the three strips and the three clips be the same?",
       "options": [
-       "So only the wing length is different",
        "So the spinners look neat",
-       "So they fall faster"
+       "So they fall faster",
+       "So only the wing length is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the clips or the paper differed, the weight would change too. Then we could not tell whether the wings or the weight made the difference."
      }
     },
@@ -1228,11 +1228,11 @@
       "t": "mcq",
       "q": "Why must all 12 strips be cut from the same kind of paper and be the same size?",
       "options": [
-       "So only the shape is different",
        "So the bridges look the same",
-       "So they are all flat"
+       "So they are all flat",
+       "So only the shape is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the paper or the size differed, we could not tell whether the shape or the paper made the difference."
      }
     },
@@ -1390,11 +1390,11 @@
       "t": "mcq",
       "q": "Five measurements of a table are 120, 121, 120, 122 and 120 centimetres. What is the range?",
       "options": [
-       "2 centimetres",
        "120 centimetres",
-       "5 centimetres"
+       "5 centimetres",
+       "2 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The biggest is 122 and the smallest is 120. 122 take away 120 is 2. The range tells us how much the numbers spread."
      }
     },
@@ -1623,11 +1623,11 @@
       "t": "mcq",
       "q": "Two identical plates of ten seeds, with the same water, gave 7 and 9 sprouted seeds. What is the best thing to say?",
       "options": [
-       "The difference of 2 can come from chance alone",
        "The second plate got better water",
+       "The difference of 2 can come from chance alone",
        "The seeds in the first plate were weaker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Two plates treated the same way still differ, as two sets of coin tosses do. A difference of 2 between two single sets can be chance. We would need a bigger gap, or many more sets, to say a real cause is at work."
      }
     }
@@ -1706,11 +1706,11 @@
       "t": "mcq",
       "q": "Why do we plot the average and not a single try?",
       "options": [
-       "The average is steadier than one try",
        "The single try is always wrong",
-       "It is easier to draw"
+       "It is easier to draw",
+       "The average is steadier than one try"
       ],
-      "a": 0,
+      "a": 2,
       "why": "One try can be high or low by chance. The average of several tries is steadier, so the line shows the pattern more truly."
      }
     },
@@ -1825,11 +1825,11 @@
       "t": "mcq",
       "q": "Why does each amount of water get two katoris?",
       "options": [
-       "So we can see how much chance moves the counts",
        "Because we have six katoris",
-       "So the seeds are not lonely"
+       "So the seeds are not lonely",
+       "So we can see how much chance moves the counts"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Two katoris treated the same way show how much the numbers wobble by chance. If they are very different, we know the wobble is large."
      }
     },
@@ -1864,11 +1864,11 @@
       "t": "mcq",
       "q": "Katori C had 7 sprouted seeds and katori D had 9, both with one teaspoon. Katori E had 10 and F had 8, both with three teaspoons. What is the best thing to say?",
       "options": [
-       "We cannot tell whether one teaspoon and three teaspoons differ, because the two katoris with the same amount already differ by 2",
        "Three teaspoons is better, because E had 10",
-       "One teaspoon is better, because D had 9"
+       "One teaspoon is better, because D had 9",
+       "We cannot tell whether one teaspoon and three teaspoons differ, because the two katoris with the same amount already differ by 2"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Two katoris with the same water already differ by 2 seeds. The gap between the two amounts is smaller than that. The difference between none and some water is probably bigger than that wobble."
      }
     }
@@ -2004,11 +2004,11 @@
      "t": "mcq",
      "p": "A test asks whether a thicker straw lets more juice through in ten seconds. What is the thing that is changed?",
      "opts": [
-      "The thickness of the straw",
       "The amount of juice that passes",
-      "The ten seconds"
+      "The ten seconds",
+      "The thickness of the straw"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The straw is chosen on purpose. The amount of juice is what is measured, and the ten seconds is kept the same for every straw.",
      "outcome": 0
     },
@@ -2160,11 +2160,11 @@
      "t": "mcq",
      "p": "Why do we test at least three wing lengths and not just two?",
      "opts": [
-      "Three settings show the shape of the pattern, such as a steady rise or a levelling off",
       "Two settings are always wrong",
+      "Three settings show the shape of the pattern, such as a steady rise or a levelling off",
       "Three is easier to draw"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With two points you can only draw a straight line between them. A third point can show a bend or a flat part.",
      "outcome": 1
     },
@@ -2263,11 +2263,11 @@
      "t": "mcq",
      "p": "Two spinners both have an average fall time of 1.5 seconds. Spinner A's times range from 1.4 to 1.6. Spinner B's times range from 1.0 to 2.0. What is the best thing to say?",
      "opts": [
-      "Spinner A's times are steadier, because their range is smaller",
       "Spinner B is faster",
-      "They are exactly the same spinner"
+      "They are exactly the same spinner",
+      "Spinner A's times are steadier, because their range is smaller"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The averages match, but the range shows that B wobbles much more. The range tells you how much to trust a single drop.",
      "outcome": 3
     },
@@ -2295,11 +2295,11 @@
      "t": "mcq",
      "p": "One bridge held 10, 12, 11, 11 and 31 coins in five tries. What should you do first?",
      "opts": [
-      "Check what happened in the 31 coin try and repeat it",
       "Rub it out",
+      "Check what happened in the 31 coin try and repeat it",
       "Report the average of 15 without comment"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The 31 is far from the others. It may be a slip or a real result. Check and repeat before deciding. Reporting only the average of 15 would hide the odd one.",
      "outcome": 4
     },
@@ -2438,11 +2438,11 @@
      "t": "mcq",
      "p": "Why do scientists use a blind test?",
      "opts": [
-      "So the person measuring cannot let hope push the result",
       "So the test is quicker",
+      "So the person measuring cannot let hope push the result",
       "So nobody knows the answer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the measurer does not know which thing is which, they cannot lean towards the one they hope will win.",
      "outcome": 7
     },
@@ -2516,11 +2516,11 @@
      "t": "mcq",
      "p": "Which conclusion states its limit?",
      "opts": [
-      "In our test of three wing lengths, the longest wings gave the slowest fall",
       "The longest wing always gives the slowest fall",
+      "In our test of three wing lengths, the longest wings gave the slowest fall",
       "Wings are important"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The first conclusion says what was tested. 'Always' claims more than three wing lengths can show.",
      "outcome": 6
     },
@@ -2528,11 +2528,11 @@
      "t": "mcq",
      "p": "Two designs have averages of 20 and 25 and each set spreads by about 8. What is the best thing to say?",
      "opts": [
-      "The gap of 5 is smaller than the spread, so we cannot tell yet",
       "The second design is clearly bigger",
-      "The first design is clearly bigger"
+      "The first design is clearly bigger",
+      "The gap of 5 is smaller than the spread, so we cannot tell yet"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When the gap between averages is smaller than the spread, chance could explain it. More tries or a bigger change are needed.",
      "outcome": 3
     },
@@ -2599,11 +2599,11 @@
      "t": "mcq",
      "p": "Five bridge tries held 12, 12, 13, 12 and 25 coins. What is the average with all five, and without the 25?",
      "opts": [
-      "15 with all five, and 12.25 without the 25",
       "12 with all five",
+      "15 with all five, and 12.25 without the 25",
       "25 without the 25"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With all five, 74 divided by 5 is 14.8, about 15. Without the 25, 49 divided by 4 is about 12.25. The odd 25 pulls the average up, so check it before reporting.",
      "outcome": 4
     },
@@ -2712,11 +2712,11 @@
      "t": "mcq",
      "p": "In one class, taller children also had bigger shoe sizes. What is the best thing to say?",
      "opts": [
-      "Taller children tend to have bigger feet, but one does not make the other grow",
       "Bigger shoes make children grow",
-      "There is no pattern"
+      "There is no pattern",
+      "Taller children tend to have bigger feet, but one does not make the other grow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A growing body makes both height and feet bigger. The pattern is real, but one does not cause the other.",
      "outcome": 7
     },
@@ -2752,11 +2752,11 @@
    "t": "mcq",
    "p": "In a test, what is the 'thing you measure'?",
    "opts": [
-    "The result you record with a number and a unit",
     "The one thing you choose to change",
-    "Everything you keep the same"
+    "Everything you keep the same",
+    "The result you record with a number and a unit"
    ],
-   "a": 0,
+   "a": 2,
    "why": "We change one thing, measure a result, and keep the rest the same. The measurement is the result.",
    "outcome": 0
   },
@@ -2764,11 +2764,11 @@
    "t": "mcq",
    "p": "Why do scientists repeat each setting several times?",
    "opts": [
-    "Because one try can be high or low by chance",
     "Because the first try is always wrong",
+    "Because one try can be high or low by chance",
     "Because it looks more careful"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Small changes you cannot control make each try a little different. Several tries balance the highs and the lows.",
    "outcome": 2
   },
@@ -2800,11 +2800,11 @@
    "t": "mcq",
    "p": "One drop of a spinner took 28 tenths of a second and the other four took about 15. What should you do?",
    "opts": [
-    "Check what happened, repeat the drop and record it",
     "Rub it out",
-    "Use only the 28"
+    "Use only the 28",
+    "Check what happened, repeat the drop and record it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A far-out number may be a slip or a real result. Only checking and repeating will show which. Never hide it.",
    "outcome": 4
   },
@@ -2824,11 +2824,11 @@
    "t": "mcq",
    "p": "Which graph is best for the average fall time of a spinner at wing lengths of 4, 6 and 8 centimetres?",
    "opts": [
-    "A line graph",
     "A pictogram",
-    "A map"
+    "A map",
+    "A line graph"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wing length is an amount that can sit anywhere along a line, so a line graph shows how the time changes.",
    "outcome": 5
   },
@@ -2836,11 +2836,11 @@
    "t": "mcq",
    "p": "Two averages are 2.0 and 1.9 seconds and each set spreads by about 0.5. What is the best thing to say?",
    "opts": [
-    "The gap is smaller than the wobble, so we cannot tell yet",
     "The first is clearly bigger",
-    "The test is unfair"
+    "The test is unfair",
+    "The gap is smaller than the wobble, so we cannot tell yet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A gap of 0.1 is much smaller than a spread of 0.5, so chance could explain it.",
    "outcome": 6
   },
@@ -2884,11 +2884,11 @@
    "t": "mcq",
    "p": "Which of these is a thing to keep the same in a bridge test?",
    "opts": [
-    "The size of the paper strip",
     "The shape of the fold",
-    "The number of coins held"
+    "The number of coins held",
+    "The size of the paper strip"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The shape is what we change, and the coins held is what we measure. The paper size stays the same.",
    "outcome": 0
   },
@@ -2896,11 +2896,11 @@
    "t": "mcq",
    "p": "Wing lengths of 4, 6 and 8 centimetres gave average fall times of 12, 16 and 21 tenths of a second. Which sentence best describes the pattern?",
    "opts": [
-    "As the wing gets longer, the fall time gets longer",
     "The fall time stays the same whatever the wing length",
+    "As the wing gets longer, the fall time gets longer",
     "The shortest wing fell slowest"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The numbers rise as the wing length rises. A good description says this with the numbers. The other two sentences do not match the table.",
    "outcome": 1
   },
@@ -2920,11 +2920,11 @@
    "t": "mcq",
    "p": "You measure the hand span and the height of each child in a class. Which graph suits this best?",
    "opts": [
-    "A scatter graph, with one dot for each child",
     "A line graph that joins each child to the next child",
+    "A scatter graph, with one dot for each child",
     "A table that shows only the average height"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A scatter graph shows the two measurements for every child together. Joining one child to the next makes a path that means nothing. The average height alone hides the pairs.",
    "outcome": 5
   },
@@ -2956,11 +2956,11 @@
    "t": "mcq",
    "p": "Before a test with scissors and small coins, what should you do?",
    "opts": [
-    "Think about what could hurt, set up safely, and clean up at the end",
     "Start quickly and think about safety only if something goes wrong",
+    "Think about what could hurt, set up safely, and clean up at the end",
     "Skip safety, because it matters only in big experiments"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scissors can cut and small coins can be swallowed by a little child. Safety comes before the test, in the set-up, and after it, in the clean-up.",
    "outcome": 0
   },
@@ -2968,11 +2968,11 @@
    "t": "mcq",
    "p": "Which change would make the spinner test better?",
    "opts": [
-    "Drop from a higher mark, so the stopwatch wobble is a smaller part of the time",
     "Rub out the slowest time",
+    "Drop from a higher mark, so the stopwatch wobble is a smaller part of the time",
     "Use a different paper for each spinner"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A longer fall makes a late or early thumb matter less. Rubbing out a time hides evidence, and different paper breaks the fair test.",
    "outcome": 6
   },

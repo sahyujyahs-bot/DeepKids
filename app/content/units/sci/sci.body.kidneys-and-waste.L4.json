@@ -600,11 +600,11 @@
       "t": "mcq",
       "q": "Water is in the BACK pile and also in the OUT pile. Why?",
       "options": [
-       "The kidney takes back what the body needs",
        "The kidney treats water at random",
+       "The kidney takes back what the body needs",
        "Some water is too big for the filter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The tube takes back more water when the body is short of it, and less after a long drink. All water passes the filter, because water particles are very small."
      },
      "context": "This is the last step of Stopped, Back or Out. You sort the kidney cards into three piles and compare them."
@@ -754,11 +754,11 @@
       "t": "mcq",
       "q": "Which of these was made by your own cells?",
       "options": [
-       "The carbon dioxide in your breath",
        "Guava seeds in a stool",
+       "The carbon dioxide in your breath",
        "Sweetcorn skins in a stool"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your cells make carbon dioxide when they use food for energy. Guava seeds and sweetcorn skins are food that was never digested. They passed through the gut without entering a cell."
      },
      "context": "This is the last step of Which Way Out. You compare the cards under the gut sign with the other three piles."
@@ -1327,11 +1327,11 @@
       "t": "mcq",
       "q": "Of every 100 parts of liquid that the kidneys filter, about how many go back into the blood?",
       "options": [
-       "About 99",
        "About 50",
+       "About 99",
        "About 1"
       ],
-      "a": 0,
+      "a": 1,
       "why": "About 99 parts go back and about 1 part leaves as urine. If you chose 1, you may have swapped the two numbers."
      },
      "parent": "The 180 litres are filtered out of only about 3 litres of the watery part of an adult's blood. So that liquid is cleaned about 60 times a day.",
@@ -1741,12 +1741,12 @@
      "t": "mcq",
      "p": "What is excretion?",
      "opts": [
-      "Sending out wastes that cells have made",
       "Chewing food into small pieces",
       "Breathing in fresh air",
-      "Storing food as fat"
+      "Storing food as fat",
+      "Sending out wastes that cells have made"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Excretion is the removal of wastes made by the body's own cells, such as carbon dioxide and urea.",
      "outcome": 0
     },
@@ -1813,12 +1813,12 @@
      "t": "mcq",
      "p": "Which of these is too big to pass through the kidney's filter?",
      "opts": [
-      "A red blood cell",
       "Water",
       "Salt",
-      "Urea"
+      "Urea",
+      "A red blood cell"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Water, salt and urea are tiny dissolved particles. A red blood cell is a whole cell, far bigger than the holes.",
      "outcome": 3
     },
@@ -1900,12 +1900,12 @@
      "t": "mcq",
      "p": "Why is urine dark yellow after a hot afternoon with no water?",
      "opts": [
-      "The kidneys save water, so less water leaves",
       "The kidneys make extra yellow colour",
+      "The kidneys save water, so less water leaves",
       "The sun changes the colour of blood",
       "The bladder has become smaller"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When the body is short of water, the tubes take back nearly all of it. The same wastes leave in less water, so the colour is stronger.",
      "outcome": 6
     },
@@ -1959,12 +1959,12 @@
      "t": "mcq",
      "p": "A filter sorts things by one feature. Which one?",
      "opts": [
-      "Their size",
       "Their colour",
       "Their taste",
+      "Their size",
       "Their usefulness"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A filter is a set of holes. Things smaller than the holes pass, whatever their colour, taste or use.",
      "outcome": 3
     },
@@ -2027,12 +2027,12 @@
      "t": "mcq",
      "p": "You drink two tumblers of water. What do the tubes in your kidneys do next?",
      "opts": [
-      "Take back less water",
       "Take back more water",
       "Stop filtering",
-      "Take back more urea"
+      "Take back more urea",
+      "Take back less water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Your blood has more water than it needs. The tubes take back less of it, so more leaves as pale urine.",
      "outcome": 6
     },
@@ -2132,12 +2132,12 @@
      "t": "mcq",
      "p": "Why does garlic breath last after the teeth are brushed?",
      "opts": [
-      "A garlic chemical leaves through the lungs",
       "Garlic stains the teeth",
+      "A garlic chemical leaves through the lungs",
       "Toothpaste makes the smell stronger",
       "The nose remembers the smell"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A smelly chemical from garlic passes from the gut into the blood. It leaves through the lungs for hours.",
      "outcome": 1
     },
@@ -2191,12 +2191,12 @@
      "t": "mcq",
      "p": "A urine test finds sugar. What does this most likely mean?",
      "opts": [
-      "The blood holds too much sugar to take back",
       "The filter has stopped the sugar",
+      "The blood holds too much sugar to take back",
       "The person ate one sweet",
       "The bladder makes sugar"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sugar always passes the filter. The tubes take it back, but only up to a limit. Sugar in the urine is a sign of too much sugar in the blood, as in diabetes.",
      "outcome": 4
     },
@@ -2300,12 +2300,12 @@
      "t": "mcq",
      "p": "Most children sleep ten hours without a toilet visit. What is the best explanation?",
      "opts": [
-      "The kidneys make less urine at night",
       "The kidneys stop working at night",
       "The bladder doubles in size at night",
+      "The kidneys make less urine at night",
       "Cells make no waste at night"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At night the tubes take back more water, so less urine reaches the bladder. The kidneys never stop, and cells make waste all night.",
      "outcome": 6
     },
@@ -2322,12 +2322,12 @@
      "t": "mcq",
      "p": "Why does the liver change ammonia into urea?",
      "opts": [
-      "Ammonia is a poison, and urea is much safer",
       "Urea gives the body energy",
       "Ammonia is too big for the kidney's filter",
+      "Ammonia is a poison, and urea is much safer",
       "Urea makes urine yellow"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Even a little ammonia in the blood harms the brain. Urea can travel safely in the blood until the kidneys remove it.",
      "outcome": 0
     },
@@ -2347,12 +2347,12 @@
    "t": "mcq",
    "p": "Which three organs are the main ways out for the body's wastes?",
    "opts": [
-    "Lungs, kidneys and skin",
     "Heart, brain and stomach",
+    "Lungs, kidneys and skin",
     "Eyes, ears and nose",
     "Bones, muscles and teeth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The lungs remove carbon dioxide. The kidneys remove dissolved wastes. The skin lets out sweat.",
    "outcome": 1
   },
@@ -2360,12 +2360,12 @@
    "t": "mcq",
    "p": "Which waste leaves the body through the lungs?",
    "opts": [
-    "Carbon dioxide",
     "Urea",
     "Extra salt",
+    "Carbon dioxide",
     "Undigested food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Carbon dioxide is a gas. It passes from the blood into the air in the lungs, and you breathe it out.",
    "outcome": 1
   },
@@ -2386,12 +2386,12 @@
    "t": "mcq",
    "p": "Why must wastes leave the body?",
    "opts": [
-    "They would build up and poison the cells",
     "They take up too much room",
+    "They would build up and poison the cells",
     "They make the body too heavy",
     "They smell bad"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Cells make waste all the time. If it stayed in the blood, it would reach harmful levels within days.",
    "outcome": 0
   },
@@ -2412,12 +2412,12 @@
    "t": "mcq",
    "p": "What does the kidney's filter hold back?",
    "opts": [
-    "Blood cells and large proteins",
     "Water and salt",
+    "Blood cells and large proteins",
     "Sugar and urea",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The filter sorts by size. Cells and large proteins are too big for its holes. Water, salt, sugar and urea pass through.",
    "outcome": 3
   },
@@ -2445,12 +2445,12 @@
    "t": "mcq",
    "p": "In the Three Filters Test, which things passed through the tissue paper?",
    "opts": [
-    "The salt and the tea colour",
     "The tea leaves",
     "The flour",
-    "Nothing but water"
+    "Nothing but water",
+    "The salt and the tea colour"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Dissolved salt and dissolved tea colour are far smaller than the holes in a tissue. Leaves and flour grains are bigger.",
    "outcome": 5,
    "how": "e1"
@@ -2459,12 +2459,12 @@
    "t": "mcq",
    "p": "What is urine mostly made of?",
    "opts": [
-    "Water",
     "Urea",
+    "Water",
     "Salt",
     "Blood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Urine is about 95 parts water in every 100. Urea, salts and other wastes are dissolved in it.",
    "outcome": 6
   },
@@ -2472,12 +2472,12 @@
    "t": "mcq",
    "p": "What makes urine yellow?",
    "opts": [
-    "A waste made from old red blood cells",
     "The water we drink",
+    "A waste made from old red blood cells",
     "Salt from food",
     "Sugar from fruit"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When old red blood cells are broken down, a yellow waste called urobilin is left. The kidneys send it out.",
    "outcome": 6
   },
@@ -2485,12 +2485,12 @@
    "t": "mcq",
    "p": "What is the main job of sweat?",
    "opts": [
-    "To cool the body",
     "To remove most of the urea",
     "To clean the blood",
+    "To cool the body",
     "To carry carbon dioxide out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sweat cools you as its water evaporates. It carries only a little salt and a trace of urea.",
    "outcome": 1
   },
@@ -2498,12 +2498,12 @@
    "t": "mcq",
    "p": "What does a dialysis machine do?",
    "opts": [
-    "Cleans the blood when the kidneys cannot",
     "Pumps blood when the heart cannot",
+    "Cleans the blood when the kidneys cannot",
     "Breathes for the lungs",
     "Makes new kidneys"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In dialysis, blood flows past a sheet with tiny holes. Wastes pass out through the holes, and the cleaned blood returns to the body.",
    "outcome": 7
   }

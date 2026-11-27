@@ -477,7 +477,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 ## Worksheets
 ### Animal Number Detective (core) (core, 16 questions)
 1. (mcq) What is number sense?  
-   Options: A quick feeling for how many, without counting or number words / Knowing all the number words / Being good at sums  
+   Options: Knowing all the number words / Being good at sums / A quick feeling for how many, without counting or number words  
    **Answer:** A quick feeling for how many, without counting or number words. *Why:* Number sense is the quick feeling for 'how many' or 'which is more'. Chicks, fish and bees have this feeling, though they have no number words.
 2. (mcq) A chick has seen only yellow balls since she hatched. Five balls go behind one screen and two behind another. Which screen does she go to?  
    Options: The one with five / The one with two / She picks at random  
@@ -487,7 +487,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 4. (fill) Knowing a small number of things at one glance, without counting, is called ____.  
    **Answer:** ['subitising', 'subitizing']. *Why:* Subitising is the quick knowing of small numbers. People are usually good at it up to about four things.
 5. (mcq) Which pair of piles is hardest to tell apart at a glance?  
-   Options: 6 and 12 / 8 and 9 / 10 and 20  
+   Options: 8 and 9 / 6 and 12 / 10 and 20  
    **Answer:** 8 and 9. *Why:* 8 and 9 have a ratio close to 1, so they look almost the same. 6 and 12, and 10 and 20, each have a ratio of 1 to 2, which is easy.
 6. (truefalse) Counting and number sense are exactly the same thing.  
    **Answer:** False. *Why:* False. Number sense is a quick feeling. Counting is a method with rules: say the numbers in order, one for each thing, and the last number tells how many.
@@ -514,10 +514,10 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
    **Answer:** False. *Why:* False. A honeybee has about a million neurons and still handles number tasks. What a brain does depends on how it is wired, not only on its size.
 ### Ratios, Waiting and Fair Tests (stretch) (stretch, 17 questions)
 1. (mcq) Two piles have a ratio of 1 to 2. Which pair of numbers is that?  
-   Options: 10 and 20 / 10 and 12 / 10 and 15  
+   Options: 10 and 12 / 10 and 15 / 10 and 20  
    **Answer:** 10 and 20. *Why:* 20 is 2 times 10, so the ratio of 10 to 20 is 1 to 2. The other pairs are closer.
 2. (mcq) Babies six months old told 8 dots from 16 dots, but not 8 from 12. What does this show?  
-   Options: The ratio matters, and 1 to 2 is easier than 2 to 3 / Babies can count to 16 / Babies can see only 8 dots  
+   Options: Babies can count to 16 / Babies can see only 8 dots / The ratio matters, and 1 to 2 is easier than 2 to 3  
    **Answer:** The ratio matters, and 1 to 2 is easier than 2 to 3. *Why:* Fei Xu and Elizabeth Spelke found that babies used the ratio. 8 to 16 is 1 to 2, which is far from 1. 8 to 12 is 2 to 3, which is closer.
 3. (truefalse) Telling 20 from 30 is as easy as telling 20 from 21.  
    **Answer:** False. *Why:* False. 20 and 30 have a ratio of 2 to 3, and 20 and 21 have a ratio very close to 1. The closer the ratio is to 1, the harder.
@@ -542,12 +542,12 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 13. (count) Suppose a cuttlefish waits 2 minutes, which is 120 seconds, for her favourite food. A child waits 3 minutes for two raisins. How many seconds longer does the child wait?  
    **Answer:** 60. *Why:* 3 minutes is 180 seconds. 180 take away 120 is 60. The child waited 60 seconds longer.
 14. (mcq) Children waited much less when a grown-up had already broken a promise. What is the best reading of this?  
-   Options: Waiting depends on trust as well as on willpower / Those children had no self-control / Promises do not matter  
+   Options: Those children had no self-control / Waiting depends on trust as well as on willpower / Promises do not matter  
    **Answer:** Waiting depends on trust as well as on willpower. *Why:* If the later reward may not come, taking the small reward now is sensible. Waiting works only in a place you trust.
 15. (truefalse) If an animal waits for a better reward, scientists know exactly what she feels while she waits.  
    **Answer:** False. *Why:* False. Waiting can be measured, but what it feels like to wait cannot yet be measured in another being.
 16. (mcq) Why were stilts and stumps used on desert ants?  
-   Options: To change how long each step was, without changing the number of steps / To make the ants slower / To keep them off the hot sand  
+   Options: To make the ants slower / To change how long each step was, without changing the number of steps / To keep them off the hot sand  
    **Answer:** To change how long each step was, without changing the number of steps. *Why:* If ants count steps, longer legs should carry them too far and shorter legs not far enough. That is what happened.
 17. (odd) Which is the odd one out, and why? Knowing 3 dots at once. Knowing which pile has more. Counting 9 dots one by one. A chick picking the bigger group.  
    **Answer:** Counting 9 dots one by one, because it is a method with steps, not a quick feeling.. *Why:* The other three use the quick sense of number. Counting uses rules and steps.
@@ -555,10 +555,10 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 1. (write) Someone says, 'Animals have no number words, so they cannot have any sense of number.' Argue for or against, using one animal as evidence.  
    **Answer:** Against. A desert ant on stilts walked past her nest, so she counts steps without words. Number sense works with no words.. *Why:* A strong answer takes a side, names an animal and a finding, and says why the finding answers the claim.
 2. (mcq) A crow picks the pile with more peanuts. Which extra check best shows she uses number and not size?  
-   Options: Use bigger peanuts in the smaller pile, so both piles take up the same space / Use the same peanuts and the same pile size / Give her more time to look  
+   Options: Use the same peanuts and the same pile size / Give her more time to look / Use bigger peanuts in the smaller pile, so both piles take up the same space  
    **Answer:** Use bigger peanuts in the smaller pile, so both piles take up the same space. *Why:* If the smaller pile has bigger peanuts, the size and the space cannot give away the answer. Only the number is different.
 3. (mcq) A raven chooses a tool and uses it hours later. Which result would make 'she planned' hardest to doubt?  
-   Options: She picks the right tool for a task she has never seen before / She uses the tool she always uses / She picks a tool at random  
+   Options: She uses the tool she always uses / She picks a tool at random / She picks the right tool for a task she has never seen before  
    **Answer:** She picks the right tool for a task she has never seen before. *Why:* A new task cannot be solved by an old habit. If she still picks the right tool, planning is a better explanation.
 4. (truefalse) An animal that fails one number test has no sense of number.  
    **Answer:** False. *Why:* False. The test may have been unfair or too hard. Scientists try different tests before they decide.
@@ -567,7 +567,7 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 6. (count) In the same 10-round game, taking 1 seed each round gives 10 seeds. How many more seeds does waiting every round win in the deck with 8 Safe and 2 Thief rounds?  
    **Answer:** 14. *Why:* Waiting wins 24 and taking wins 10. 24 take away 10 is 14 more seeds.
 7. (mcq) In a deck with 2 Safe and 8 Thief rounds, which choice scores more over 10 rounds?  
-   Options: Taking: 10 seeds against 6 / Waiting: 24 seeds against 10 / Both score the same  
+   Options: Waiting: 24 seeds against 10 / Taking: 10 seeds against 6 / Both score the same  
    **Answer:** Taking: 10 seeds against 6. *Why:* Waiting wins 3 seeds on 2 Safe rounds, which is 6. Taking wins 10. In an untrustworthy place, waiting does not pay.
 8. (perspective) Two friends argue about bees and zero.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and describes a test, for example whether bees can use none in adding or subtracting.. *Why:* Both views have a point. The bees ranked none below one, but sums with zero are a bigger step, so more tests are needed.
@@ -580,14 +580,14 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 12. (sort) Sort each one into number sense or counting.  
    **Answer:** Choosing the bigger pile at a glance → Number sense; Saying one, two, three in order for each toy → Counting; A bee picking the card with fewer dots → Number sense; Knowing the last number you said tells how many → Counting. *Why:* Number sense is quick and needs no steps. Counting follows rules that people teach and practise.
 13. (mcq) A computer circuit of four neurons can estimate how many things it scans. What can we say?  
-   Options: A small circuit can do some number tasks, but this does not prove that a real bee works this way / Bees have only four neurons / Bees cannot count  
+   Options: Bees have only four neurons / A small circuit can do some number tasks, but this does not prove that a real bee works this way / Bees cannot count  
    **Answer:** A small circuit can do some number tasks, but this does not prove that a real bee works this way. *Why:* Vera Vasas and Lars Chittka showed a small circuit can work. Whether a real bee uses that circuit is a separate question for more tests.
 14. (draw) Design a quick test for a street dog, who has no number words. Draw the two plates, and write what you would control.  
    **Answer:** Two plates with different numbers of biscuit pieces, with a coin for sides. Controls: the size of the pieces, the smell, the side and a helper who does not know the answer.. *Why:* A strong design lists the clues the dog could use apart from number and shows how each is removed.
 15. (truefalse) In a good animal test, the person who sets up each try should always know the right answer.  
    **Answer:** False. *Why:* False. A person who knows the answer can give small signs without meaning to. A helper who does not know is safer.
 16. (mcq) How might number words help us to say big numbers exactly?  
-   Options: Words give each number its own name and place in a list, so we can say 17 and not just 'many' / Words make numbers bigger / Words have nothing to do with numbers  
+   Options: Words make numbers bigger / Words give each number its own name and place in a list, so we can say 17 and not just 'many' / Words have nothing to do with numbers  
    **Answer:** Words give each number its own name and place in a list, so we can say 17 and not just 'many'. *Why:* The quick sense of number is blurry for big numbers. Number words let people say exactly how many, as the research with the Pirahã community and others suggests.
 
 ## Videos
@@ -597,40 +597,40 @@ That night, while Vishnu dried his hair, Anju sat at the window and listened to 
 
 ## Quiz
 1. (mcq) Which is the best example of an animal using number sense?  
-   Options: A fish joins the larger of two groups of fish / A fish swims in a tank / A fish eats a worm  
+   Options: A fish swims in a tank / A fish eats a worm / A fish joins the larger of two groups of fish  
    **Answer:** A fish joins the larger of two groups of fish. *Why:* Choosing the larger group means telling which group has more, which is number sense. Swimming and eating do not need it.
 2. (mcq) A child tells 3 dots from 4 dots at a glance, but cannot tell 12 from 13. What best explains this?  
-   Options: The quick sense of number is sharp for small numbers and blurry when the ratio is close to 1 / The child has not learned maths / Dots are hard to see  
+   Options: The child has not learned maths / Dots are hard to see / The quick sense of number is sharp for small numbers and blurry when the ratio is close to 1  
    **Answer:** The quick sense of number is sharp for small numbers and blurry when the ratio is close to 1. *Why:* Small numbers can be known exactly. Bigger numbers are estimated, and close ratios blur together.
 3. (mcq) Which pair is the easiest to tell apart at a glance?  
-   Options: 5 and 10 / 20 and 22 / 50 and 52  
+   Options: 20 and 22 / 5 and 10 / 50 and 52  
    **Answer:** 5 and 10. *Why:* 5 and 10 have a ratio of 1 to 2. The other pairs have ratios very near 1, so they are much harder.
 4. (mcq) Two pairs of bean piles both differ by 6. One pair is 6 and 12. The other is 24 and 30. Why is the 6 and 12 pair easier?  
-   Options: 6 to 12 is a ratio of 1 to 2, which is far from 1 / It has more beans / Six beans are easier to see  
+   Options: It has more beans / 6 to 12 is a ratio of 1 to 2, which is far from 1 / Six beans are easier to see  
    **Answer:** 6 to 12 is a ratio of 1 to 2, which is far from 1. *Why:* Ratio matters more than the gap. 24 to 30 is 4 to 5, which is close to 1, so it is harder.
 5. (mcq) Which of these is counting, and not only number sense?  
-   Options: Touching each toy, saying the numbers in order, and using the last number as the total / Seeing two groups and knowing one is bigger / Walking to the bigger pile  
+   Options: Seeing two groups and knowing one is bigger / Walking to the bigger pile / Touching each toy, saying the numbers in order, and using the last number as the total  
    **Answer:** Touching each toy, saying the numbers in order, and using the last number as the total. *Why:* Counting follows rules: numbers in order, one for each thing, and the last number is the total. Number sense needs none of these.
 6. (mcq) A cuttlefish waits for a better food instead of taking a plain one. What does this show?  
-   Options: She can hold back a small reward now for a bigger one later / She cannot taste / She dislikes food  
+   Options: She cannot taste / She dislikes food / She can hold back a small reward now for a bigger one later  
    **Answer:** She can hold back a small reward now for a bigger one later. *Why:* This is self-control. Waiting is a choice, and the tests show she makes it.
 7. (mcq) Why might children wait less if a grown-up has already broken a promise?  
    Options: They may think the later reward will not come, so taking now is sensible / They are greedy / They forgot the rules  
    **Answer:** They may think the later reward will not come, so taking now is sensible. *Why:* Celeste Kidd and her team found that trust changes how long children wait. Waiting pays only in a reliable place.
 8. (mcq) A horse seems to count by tapping, but only when the owner can see the answer. What should a scientist check first?  
-   Options: Whether the horse is reading small signs from the owner / How loud the taps are / What colour the horse is  
+   Options: How loud the taps are / What colour the horse is / Whether the horse is reading small signs from the owner  
    **Answer:** Whether the horse is reading small signs from the owner. *Why:* If the horse is reading hidden signs, number is not needed. A helper who does not know the answer can check.
 9. (mcq) What does Morgan's canon ask a scientist to do?  
    Options: Check a simpler explanation before saying an animal used a high skill / Always say animals are as clever as people / Never test animals  
    **Answer:** Check a simpler explanation before saying an animal used a high skill. *Why:* C. Lloyd Morgan asked scientists to try the simplest explanation first. Frans de Waal added that we must also not deny a mind that the evidence shows.
 10. (mcq) What is anthropodenial?  
-   Options: Refusing to see a mind or feeling that the evidence shows / Giving animals human feelings with no evidence / Studying only humans  
+   Options: Giving animals human feelings with no evidence / Studying only humans / Refusing to see a mind or feeling that the evidence shows  
    **Answer:** Refusing to see a mind or feeling that the evidence shows. *Why:* Frans de Waal used this word for the opposite of anthropomorphism. Both are mistakes, and the fair way is to follow the evidence.
 11. (mcq) A honeybee has about a million neurons and still handles number tasks. What does this suggest?  
-   Options: The size of a brain is not the only thing that sets what it can do / Bees are as clever as people in every way / Neurons are not needed  
+   Options: Bees are as clever as people in every way / The size of a brain is not the only thing that sets what it can do / Neurons are not needed  
    **Answer:** The size of a brain is not the only thing that sets what it can do. *Why:* How a brain is wired matters, not only how big it is. A computer model with four neurons can estimate a number.
 12. (mcq) Desert ants on stilts walk past their nest. What does this suggest?  
-   Options: They keep count of their steps, and longer steps carry them too far / They cannot find their nest / They like stilts  
+   Options: They cannot find their nest / They keep count of their steps, and longer steps carry them too far / They like stilts  
    **Answer:** They keep count of their steps, and longer steps carry them too far. *Why:* The ants counted the same number of steps, but each step was longer, so they overshot. That points to step counting.
 
 ## Applications

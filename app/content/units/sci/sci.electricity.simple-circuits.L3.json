@@ -869,10 +869,10 @@
       "t": "mcq",
       "q": "A girl switches on the fan with wet hands after her bath. Safe or danger?",
       "options": [
-       "Safe, because the switch is plastic",
-       "Danger, because water lets electricity through her skin much more easily"
+       "Danger, because water lets electricity through her skin much more easily",
+       "Safe, because the switch is plastic"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wet skin lets electricity through far more easily than dry skin. Water can also get inside the switch. So always dry your hands first. Picking 'safe' is a good thought, because the switch cover is plastic, an insulator. But water can carry electricity past the plastic."
      }
     },
@@ -999,11 +999,11 @@
       "t": "mcq",
       "q": "A paper clip with a plastic coat does not light the bulb. Why?",
       "options": [
-       "The steel inside is too thin",
        "The plastic coat is an insulator, so the electricity cannot reach the steel",
+       "The steel inside is too thin",
        "Coloured things never conduct"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The plastic coat is an insulator. The wire ends touch only plastic, so the electricity cannot reach the steel inside. Scrape a little plastic off each end, and the clip lights the bulb. Picking 'too thin' is a fair guess, but the plain clip is just as thin and it works. Colour has nothing to do with it."
      }
     },
@@ -1018,11 +1018,11 @@
       "t": "mcq",
       "q": "Nearly all the conductors belonged to one group. Which group?",
       "options": [
-       "Shiny things",
        "Metals",
+       "Shiny things",
        "Heavy things"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Nearly all the conductors were metals: steel, copper, aluminium and brass. Pencil graphite is the odd one out, a conductor that is not a metal. Picking 'shiny things' is a good try at a pattern. But a glass bangle is shiny and does not conduct, and a dull steel key does."
      }
     }
@@ -1157,11 +1157,11 @@
       "t": "mcq",
       "q": "You make a gap after the bulb, on the way back to the cell. What happens?",
       "options": [
-       "The bulb stays lit, because the electricity has already passed it",
        "The bulb goes out, because the loop is broken",
+       "The bulb stays lit, because the electricity has already passed it",
        "The bulb glows half as bright"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The bulb goes out. Electricity flows only while the whole loop is complete, all the way back to the cell. A gap anywhere stops the flow everywhere. Picking 'stays lit' means thinking that electricity goes from the cell into the bulb and stops there. It actually goes round and back."
      }
     },
@@ -1315,11 +1315,11 @@
       "t": "mcq",
       "q": "Two cells face opposite ways, and the bulb does not light. Why?",
       "options": [
-       "The cells are both flat",
        "The two cells push opposite ways round the loop, so their pushes cancel",
+       "The cells are both flat",
        "Two cells are too strong for the bulb"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each cell pushes the electricity one way round the loop. When one is turned round, the two pushes are equal and opposite, and they cancel. Turn it back, and the bulb shines brighter than with one cell. Picking 'both flat' is a sensible guess, but the same cells lit the bulb a minute ago."
      }
     },
@@ -1673,10 +1673,10 @@
       "q": "What happens inside a torch when you slide the switch off?",
       "options": [
        "The cells stop making electricity forever",
-       "Two metal parts move apart, making a gap in the loop",
-       "The bulb takes all the electricity out"
+       "The bulb takes all the electricity out",
+       "Two metal parts move apart, making a gap in the loop"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Sliding the switch off moves two metal parts apart. The air gap between them is an insulator, so the loop is broken and the flow stops. The cells keep their stored energy until you switch on again. Picking 'stop forever' is not right, because switching on again lights the torch at once."
      }
     }
@@ -1760,11 +1760,11 @@
       "t": "mcq",
       "q": "Why is the paper clip switch built on cardboard?",
       "options": [
-       "Cardboard is an insulator, so the electricity can only cross the gap through the clip",
        "Cardboard is a conductor",
+       "Cardboard is an insulator, so the electricity can only cross the gap through the clip",
        "Cardboard is lighter than steel"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cardboard is an insulator. With the clip away, nothing can carry the electricity across the gap, so the bulb is off. On a steel plate, the steel would join the two pins, and the bulb would stay on all the time. Picking 'lighter' is true, but it is not the reason."
      }
     },
@@ -1939,10 +1939,10 @@
       "q": "Your shoebox light does not come on when you close the switch. What do you check first?",
       "options": [
        "Buy a new bulb",
-       "Follow the loop with your finger and look for a loose join or gap",
-       "Add more tape everywhere"
+       "Add more tape everywhere",
+       "Follow the loop with your finger and look for a loose join or gap"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most circuits that do not work have a gap, usually a loose join. Following the loop from + round to − finds it. A new bulb is only needed if the filament is broken. Tape helps hold joins, but tape over a gap does not close it, because tape is an insulator."
      }
     }
@@ -2091,11 +2091,11 @@
       "t": "mcq",
       "q": "Why does the sponge need a hole in it?",
       "options": [
-       "So the two foils can touch through it when pressed, and close the circuit",
        "To make it lighter",
+       "So the two foils can touch through it when pressed, and close the circuit",
        "So the electricity can be stored in the hole"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The sponge is an insulator that keeps the foils apart. The hole lets the foils touch only when you press. Then the gap closes and the bulb lights. Let go, and the sponge pushes them apart again. Picking 'stored in the hole' is not right, because electricity is not stored in a switch."
      }
     }
@@ -2156,11 +2156,11 @@
    "t": "mcq",
    "p": "Why must you never touch a switch with wet hands?",
    "opts": [
-    "Water makes the switch rusty",
     "Water lets electricity through your skin much more easily",
+    "Water makes the switch rusty",
     "Water turns the light off"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Wet skin lets electricity through far more easily than dry skin, so a shock is more likely. Picking 'rusty' is a real problem for switches over time, but it is not the danger to you.",
    "outcome": 1
   },
@@ -2207,12 +2207,12 @@
    "t": "mcq",
    "p": "Which of these is a conductor?",
    "opts": [
+    "A steel spoon",
     "A wooden ice-cream stick",
     "A plastic ruler",
-    "A steel spoon",
     "A glass bangle"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Steel is a metal, and metals are conductors, so the spoon lights the bulb in a circuit tester. Wood, plastic and glass are insulators.",
    "outcome": 4,
    "how": "e1"
@@ -2221,11 +2221,11 @@
    "t": "mcq",
    "p": "You test a paper clip with a pink plastic coat in a circuit tester. The bulb does not light. Why?",
    "opts": [
-    "Steel is an insulator",
     "The plastic coat is an insulator, so the electricity cannot reach the steel",
+    "Steel is an insulator",
     "Pink things never conduct"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The steel inside conducts, but the wire ends touch only plastic. Scrape the plastic off each end, and the bulb lights. Colour has nothing to do with it.",
    "outcome": 4,
    "how": "e1"
@@ -2247,11 +2247,11 @@
    "t": "mcq",
    "p": "Why was the paper clip switch built on cardboard and not on a steel plate?",
    "opts": [
-    "Cardboard is cheaper",
     "Steel would join the pins, so the bulb would never turn off",
+    "Cardboard is cheaper",
     "Steel would make the bulb dimmer"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Steel is a conductor. It would join the two pins all the time, so opening the clip would not break the loop. Cardboard is an insulator, so only the clip can join the pins.",
    "outcome": 5,
    "how": "a5"
@@ -2261,10 +2261,10 @@
    "p": "When a bulb lights, what happens to the electrons in the wire?",
    "opts": [
     "They are used up in the bulb",
-    "They go round the loop and come back to the cell",
-    "They stay still and the bulb pulls in light"
+    "They stay still and the bulb pulls in light",
+    "They go round the loop and come back to the cell"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The electrons go round the loop and come back. The same ones go round again and again. What the cell uses up is the energy in its chemicals. Picking 'used up' is the common idea that a cell is a tank of electricity.",
    "outcome": 3
   },
@@ -2414,12 +2414,12 @@
      "t": "mcq",
      "p": "In the conductor test, what did all the things that lit the bulb have in common?",
      "opts": [
-      "They were all metal",
       "They were all shiny",
+      "They were all metal",
       "They were all hard",
       "They were all heavy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every thing that lit the bulb was metal. Shiny is not the reason: a glass bangle is shiny but does not conduct. Hard is not the reason either: wood is hard, and soft foil conducts.",
      "how": "e1"
     },
@@ -2604,11 +2604,11 @@
      "t": "mcq",
      "p": "An old string of festival lights goes dark when just one bulb breaks. Why?",
      "opts": [
-      "The broken bulb makes a gap in the one loop that all the bulbs share",
       "All the other bulbs broke at the same moment",
+      "The broken bulb makes a gap in the one loop that all the bulbs share",
       "The plug got too hot and switched off"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In old light strings, every bulb is in one loop. A broken bulb leaves a gap, so electricity stops flowing through all of them. Many new strings are wired so that each bulb has its own path."
     },
     {
@@ -2748,32 +2748,32 @@
      "p": "A touch-me-not plant folds their leaves when you touch them. What travels along the leaf stalk to make this happen?",
      "opts": [
       "A sound",
-      "An electrical signal",
-      "A drop of water"
+      "A drop of water",
+      "An electrical signal"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A touch starts an electrical signal that travels along the leaf stalk, and the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago."
     },
     {
      "t": "mcq",
      "p": "A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?",
      "opts": [
-      "The crow touches only one wire, so there is no loop through their body",
       "Crows have thick feathers that are conductors",
+      "The crow touches only one wire, so there is no loop through their body",
       "The person is heavier than the crow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through their body. The person also touches the ground, so there is a path through the body to the earth."
     },
     {
      "t": "mcq",
      "p": "Why does a plug have at least two pins?",
      "opts": [
-      "One pin is a spare",
       "The electricity needs a way in and a way back, to make a loop",
+      "One pin is a spare",
       "So that the plug stands up straight"
      ],
-     "a": 1,
+     "a": 0,
      "why": "An iron or a fan is part of a loop, just like a bulb. The electricity needs one path in and one path back. Many plugs have a third pin, called earth, for safety."
     },
     {
@@ -2809,11 +2809,11 @@
      "t": "mcq",
      "p": "Before testing anything, you touch the two loose wire ends of your circuit tester together, and the bulb lights. Why is this a good first step?",
      "opts": [
-      "It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken",
       "It charges the cell",
+      "It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken",
       "It warms up the bulb so it lights faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.",
      "how": "e1"
     },
@@ -2821,11 +2821,11 @@
      "t": "mcq",
      "p": "In a steady hand game, the bulb lights when the wand touches the foil path. You cover the start of the path with tape, so you can rest the wand there. Why does this work?",
      "opts": [
-      "Tape is an insulator, so touching it leaves a gap",
       "Tape makes the cell weaker",
+      "Tape is an insulator, so touching it leaves a gap",
       "Tape is a conductor"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The wand and the path are the two sides of a gap. Touching metal to metal closes it. Tape is an insulator, so the gap stays open and the bulb stays dark.",
      "how": "c1"
     },
@@ -2847,11 +2847,11 @@
      "t": "mcq",
      "p": "An electrician's gloves are made of thick rubber. Why rubber, and not cotton?",
      "opts": [
-      "Rubber is an insulator, and it stays one even when it is wet",
       "Rubber is a conductor",
-      "Cotton is too hot to wear"
+      "Cotton is too hot to wear",
+      "Rubber is an insulator, and it stays one even when it is wet"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rubber stops electricity, and water cannot soak into it. Cotton soaks up sweat and water, and wet cloth lets electricity through. So rubber keeps the hands safe."
     },
     {

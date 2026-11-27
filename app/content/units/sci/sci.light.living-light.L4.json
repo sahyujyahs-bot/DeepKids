@@ -699,11 +699,11 @@
       "t": "mcq",
       "q": "In round 1, a player sees a flash when their marker is before the halfway number. What do they do?",
       "options": [
-       "Nothing, they carry on counting to their own flash number",
        "They flash at once",
-       "They go back to box 0 and stop"
+       "They go back to box 0 and stop",
+       "Nothing, they carry on counting to their own flash number"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The listen rule only lets you join a flash if your marker is at halfway or further. Before halfway, you carry on counting to your own number. Picking 'flash at once' makes everyone flash on every tick and ends the game with no pattern. Picking 'stop' means a firefly would stop flashing, which they do not do."
      },
      "context": "In this step, you play round 1 with the rule that lets you join flashes you see."
@@ -927,11 +927,11 @@
       "t": "mcq",
       "q": "The Moon looks bright at night. Which kind of light is the Moon?",
       "options": [
-       "Only bounced, because the Moon sends back sunlight",
        "Made by chemistry",
-       "Hot, because the Moon is lit by the Sun"
+       "Hot, because the Moon is lit by the Sun",
+       "Only bounced, because the Moon sends back sunlight"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Moon makes no light of its own. It sends sunlight back to us. Picking 'hot' mixes up the Moon with the Sun, which really is very hot. Picking 'made by chemistry' mixes it up with a firefly."
      },
      "context": "In this step, you practise with three cards before playing for real."
@@ -978,11 +978,11 @@
      "t": "mcq",
      "p": "Which list shows the four things a firefly's flash needs?",
      "opts": [
-      "Luciferin, luciferase, oxygen and ATP",
       "Luciferin, sunlight, water and sugar",
+      "Luciferin, luciferase, oxygen and ATP",
       "Luciferase, heat, oxygen and salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Luciferin gives out the light, luciferase is the helper, oxygen joins the reaction, and ATP carries the energy. Picking 'sunlight' mixes a firefly up with a glow-in-the-dark star, which stores light. A firefly makes new light and needs no heat or salt.",
      "outcome": 0
     },
@@ -1042,11 +1042,11 @@
      "t": "mcq",
      "p": "Raw potato fizzes in hydrogen peroxide, but boiled potato does not. What did boiling do to the enzyme?",
      "opts": [
-      "It bent the enzyme out of shape, so it could not help any more",
       "It made more enzyme",
+      "It bent the enzyme out of shape, so it could not help any more",
       "It made the potato lighter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An enzyme works by its shape. Heat bends the shape out, and then the enzyme cannot grip anything. Picking 'made more enzyme' goes the wrong way. Boiling takes helpers away, it does not add them.",
      "outcome": 1
     },
@@ -1108,11 +1108,11 @@
      "t": "mcq",
      "p": "Why do colours become hard to name in very dim light?",
      "opts": [
-      "Rod cells take over in dim light, and they cannot tell colours",
       "Colours only exist in the daytime",
-      "The pupil closes up and stops light"
+      "The pupil closes up and stops light",
+      "Rod cells take over in dim light, and they cannot tell colours"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In dim light, cone cells cannot catch enough light, and rod cells do the seeing. Rod cells cannot tell colours apart. Picking 'colours only exist in the daytime' mixes up the thing you are looking at with your eye. The thing does not change. Your eye does.",
      "outcome": 4
     },
@@ -1202,11 +1202,11 @@
      "t": "mcq",
      "p": "What does ATP do in a firefly's lantern?",
      "opts": [
-      "It carries the energy that gets the luciferin ready to react",
       "It is the light itself",
+      "It carries the energy that gets the luciferin ready to react",
       "It takes the place of oxygen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "ATP is the small packet of energy that cells spend. In the lantern it gets the luciferin ready, and then oxygen turns it into light. Picking 'the light itself' mixes up the energy that is spent with the light that comes out.",
      "outcome": 0
     },
@@ -1214,11 +1214,11 @@
      "t": "mcq",
      "p": "In 1947, a firefly lantern extract that had stopped glowing glowed again. What had William McElroy added?",
      "opts": [
-      "ATP",
       "Sugar",
+      "ATP",
       "Cold water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "ATP brought the glow back. This showed that a flash needs a payment of cell energy as well as luciferin, luciferase and oxygen.",
      "outcome": 0
     },
@@ -1332,11 +1332,11 @@
      "t": "mcq",
      "p": "In an Eyes in the Dark test, a child saw a hidden glow stick through 3 sheets of paper at 1 minute and through 8 sheets at 20 minutes. The glow stick and the sheets did not change. What is the best conclusion?",
      "opts": [
-      "The child's eyes became able to catch fainter light",
       "The glow stick got much brighter",
+      "The child's eyes became able to catch fainter light",
       "The sheets got thinner"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the stick and the sheets stayed the same, the part that changed must be the eye. The rod cells rebuilt their rhodopsin in the dark. Picking 'the stick got brighter' goes against what we know, because a glow stick slowly fades.",
      "outcome": 4
     },
@@ -1411,11 +1411,11 @@
      "t": "mcq",
      "p": "A shopkeeper's UV machine makes a banknote's thread glow. The glow stops the moment the machine is switched off. What kind of glow is it?",
      "opts": [
-      "Fluorescence",
       "Phosphorescence",
-      "Bioluminescence"
+      "Bioluminescence",
+      "Fluorescence"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A glow that stops at once when the light goes off is fluorescence. A stored glow would fade slowly. Bioluminescence is made by living beings, and a banknote is not alive.",
      "outcome": 2
     }
@@ -1440,11 +1440,11 @@
      "t": "mcq",
      "p": "A glow stick behind 10 sheets of paper cannot be seen at first. A friend says there is no light there. What is the best reply?",
      "opts": [
-      "There is light, but your eyes are not ready yet to see something so faint",
       "You are right, because you cannot see it",
+      "There is light, but your eyes are not ready yet to see something so faint",
       "The light only starts after 20 minutes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The glow stick gives out light all the time. After about twenty minutes in the dark, the eyes can catch it. 'You cannot see it' is different from 'it is not there'.",
      "outcome": 4
     },
@@ -1452,11 +1452,11 @@
      "t": "mcq",
      "p": "In the Helper That Heat Stops test, a boiled potato cube still fizzed a little in the hydrogen peroxide. What is the most likely reason?",
      "opts": [
-      "The middle of the cube did not get hot enough to bend all the enzyme",
       "Boiling makes more enzyme",
-      "The peroxide was too strong"
+      "The peroxide was too strong",
+      "The middle of the cube did not get hot enough to bend all the enzyme"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heat reaches the middle of a cube slowly. If it was not boiled long enough, some enzyme in the middle still works. Boiling longer or cutting smaller cubes would fix it.",
      "outcome": 1,
      "how": "e2"
@@ -1505,11 +1505,11 @@
      "t": "mcq",
      "p": "Look at the chart of foam heights. Which two glasses, compared with each other, show that heat stops the enzyme?",
      "opts": [
-      "A, with raw potato, and B, with boiled potato",
       "B, with boiled potato, and D, with no potato",
-      "C, with cold potato, and D, with no potato"
+      "C, with cold potato, and D, with no potato",
+      "A, with raw potato, and B, with boiled potato"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A and B hold the same potato, one raw and one heated. They differ in only one way, the heat, and the foam is very different. Glass D shows what the peroxide does with no potato at all.",
      "chart": {
       "type": "bar",
@@ -1633,11 +1633,11 @@
      "t": "mcq",
      "p": "Which observation best tells fluorescence from stored light?",
      "opts": [
-      "Whether the glow stops the moment the light shining on it is switched off",
       "The colour of the glow",
+      "Whether the glow stops the moment the light shining on it is switched off",
       "How big the glowing thing is"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Fluorescence stops at once when the light goes off. Stored light fades slowly. Colour and size do not tell them apart, because both kinds can glow in many colours.",
      "outcome": 2
     },
@@ -1771,11 +1771,11 @@
       "t": "mcq",
       "q": "Why must the stack, the stick and the seat stay in the same place for every test?",
       "options": [
-       "So only the time in the dark changes",
        "So the stick lasts longer",
-       "So the paper stays clean"
+       "So the paper stays clean",
+       "So only the time in the dark changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the stick moved closer next time, you would not know whether your eyes or the distance made the difference."
      },
      "context": "In this step, you prepare the stack of paper and the glow stick. They stay the same for every test."
@@ -1801,11 +1801,11 @@
       "t": "mcq",
       "q": "At 1 minute, your child sees the glow with only 2 sheets left on top. What does that tell you?",
       "options": [
-       "At first, their eyes could only catch a bright glow",
        "The glow stick was brightest at the start",
-       "The glow stick was broken"
+       "The glow stick was broken",
+       "At first, their eyes could only catch a bright glow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sheets hide light. Needing to take off many sheets means the glow had to be bright for the eyes to see it. Picking 'brightest at the start' misses that the stick hardly changes in 20 minutes. Picking 'broken' misses that the stick was fine and the eye was the part that changed."
      },
      "context": "In this step, you do the first test, after one minute in the dark."
@@ -1838,11 +1838,11 @@
       "t": "mcq",
       "q": "At 20 minutes, your child sees the glow with 9 sheets left. The glow stick has hardly changed. What does the change in numbers show?",
       "options": [
-       "Their eyes became able to catch fainter light",
        "The sheets became thinner",
+       "Their eyes became able to catch fainter light",
        "The room became lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The stick, the sheets and the room were the same. The only thing that changed was the child, and so their eyes must have changed. Over about twenty minutes, the rod cells built back their rhodopsin. Picking 'the room became lighter' misses that the room had no light."
      },
      "context": "In this step, you do the last test, at 20 minutes, and look at all four numbers together."
@@ -2019,11 +2019,11 @@
       "t": "mcq",
       "q": "The foam in glass A is made of tiny bubbles of a gas. Which gas is it?",
       "options": [
-       "Oxygen",
        "Steam",
+       "Oxygen",
        "Smoke"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The enzyme in raw potato breaks hydrogen peroxide into water and oxygen gas. Oxygen is the same gas that a firefly needs for a flash. Picking 'steam' misses that nothing was hot. Picking 'smoke' misses that nothing was burning."
      },
      "context": "In this step, a grown-up pours the peroxide into all four glasses. You watch and measure the foam."
@@ -2154,11 +2154,11 @@
       "t": "mcq",
       "q": "The highlighter line glows under the UV torch. What is the torch doing?",
       "options": [
-       "Giving the highlighter light that it turns into visible light",
        "Heating the highlighter until it glows",
-       "Shining visible light that bounces back"
+       "Shining visible light that bounces back",
+       "Giving the highlighter light that it turns into visible light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The torch shines UV light that our eyes cannot see. The highlighter takes in that energy and sends out visible light at the same moment. That is fluorescence. Picking 'heating' misses that the torch is cool. Picking 'bounces back' misses that UV is invisible, so a bounce would show nothing."
      },
      "context": "In this step, you test each thing under the UV torch. You write down what you see."
@@ -2276,11 +2276,11 @@
       "t": "mcq",
       "q": "When hands are taken away from the eyes in a bright room, what happens to the pupils?",
       "options": [
-       "They start wide and then get smaller",
        "They start small and then get wider",
+       "They start wide and then get smaller",
        "They stay the same size"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Under the hands, it was dark, so the pupils opened wide to let in more light. In bright light they shrink so less light gets in. Picking 'stay the same' misses that pupils change in about a second or two."
      },
      "context": "In this step, you cover your eyes and then watch the pupils shrink."
@@ -2393,11 +2393,11 @@
       "t": "mcq",
       "q": "Your child sees the glow through more sheets when looking beside it than when looking straight at it. What is the best explanation?",
       "options": [
-       "The middle of the retina has few rod cells, and the sides have many",
        "The glow is brighter at the sides",
+       "The middle of the retina has few rod cells, and the sides have many",
        "The paper is thinner at the sides"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The very centre of your retina is packed with cone cells, which need bright light. The areas around it have many more rod cells, which work in dim light. Picking 'brighter at the sides' misses that the stick did not move. Picking 'thinner paper' misses that the sheets were the same for both tests."
      },
      "context": "In this step, you look beside the stack and count the sheets."
@@ -2746,11 +2746,11 @@
       "t": "mcq",
       "q": "On night 2, you see more stars than on night 1, though the sky is the same. What are the best reasons?",
       "options": [
-       "Your eyes got used to the dark, and there were fewer bright lights around",
        "More stars came out",
+       "Your eyes got used to the dark, and there were fewer bright lights around",
        "The card window got bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Waiting makes the rod cells ready, and switching off lamps makes the sky darker around you. The stars were there all along. Picking 'more stars came out' misses that stars do not switch on at night. Picking 'the window got bigger' misses that the string keeps the window the same size."
      },
      "context": "In this step, you wait in the dark for 20 minutes and count the stars again on night 2."
@@ -2861,11 +2861,11 @@
       "t": "mcq",
       "q": "A code is just three quick flashes with no reply. Why is it easy for a trickster to copy?",
       "options": [
-       "Everything about it is visible, so the trickster can copy all of it",
        "Three flashes is too many",
-       "Flashes cannot be copied"
+       "Flashes cannot be copied",
+       "Everything about it is visible, so the trickster can copy all of it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A trickster copies what they can see. A secret that is not in the flash, such as a hidden change or an exact wait, is harder to copy. Picking 'flashes cannot be copied' misses that the trickster fireflies really do copy flashes."
      },
      "parent": "Be a fair trickster. Copy the flashes as well as you can, and do not guess at a secret. If you manage to copy your child's code, that is useful. It tells them what to change.",
@@ -2954,11 +2954,11 @@
       "t": "mcq",
       "q": "Why must every rule be tested with the same cards and start numbers?",
       "options": [
-       "So only the rule changes, and the result comes from the rule",
        "So the game takes longer",
+       "So only the rule changes, and the result comes from the rule",
        "So nobody wins"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If the cards changed too, a rule might look faster only because of an easy start."
      },
      "context": "In this step, you choose the rules to test and fix the cards and start numbers."
@@ -3064,11 +3064,11 @@
    "t": "mcq",
    "p": "A white shirt glows blue-white under a UV lamp. A friend says the shirt is bioluminescent. What is wrong with that?",
    "opts": [
-    "The shirt is not alive, and it needs the UV lamp to glow",
     "Shirts cannot glow at all",
+    "The shirt is not alive, and it needs the UV lamp to glow",
     "The glow is stored light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bioluminescence is light made by living beings, and it carries on with no other light. The shirt glows only while the lamp is on, so it is fluorescence. Picking 'stored light' mixes up two kinds of glow. A stored glow would linger after the lamp goes off.",
    "outcome": 2
   },
@@ -3088,11 +3088,11 @@
    "t": "mcq",
    "p": "You step from bright sunshine into a dark room and cannot see the chairs. A minute later you can see a little, and after twenty minutes you see a lot. What is the best explanation?",
    "opts": [
-    "Your eyes slowly get ready, as rod cells build back their light-catching chemical",
     "The chairs slowly become brighter",
-    "The room slowly gets lighter"
+    "The room slowly gets lighter",
+    "Your eyes slowly get ready, as rod cells build back their light-catching chemical"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Nothing in the room changed. Bright light had used up the rhodopsin in your rod cells, and in the dark it is slowly built back. Picking 'the room gets lighter' misses that a dark room has no new light coming in.",
    "outcome": 4
   },
@@ -3100,11 +3100,11 @@
    "t": "mcq",
    "p": "Faint stars seem to vanish when you stare straight at them, and come back when you look a little to one side. Why?",
    "opts": [
-    "The centre of the retina has few rod cells, and the sides have many",
     "Stars move when you look at them",
-    "Your pupils close when you stare"
+    "Your pupils close when you stare",
+    "The centre of the retina has few rod cells, and the sides have many"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rod cells catch faint light, and there are few in the very centre of the retina. Looking a little to the side puts the star's light on more rods. Picking 'stars move' misses that stars stay where they are.",
    "outcome": 4
   },
@@ -3124,11 +3124,11 @@
    "t": "mcq",
    "p": "A newborn bobtail squid has no glowing bacteria. How do they get them?",
    "opts": [
-    "They pick them up from the sea water",
     "They are born with them",
+    "They pick them up from the sea water",
     "They get them from their mother's food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A baby squid has no bacteria at first. They pick up the right kind from the sea water, and only one kind is allowed to stay. Picking 'born with them' misses that this partnership has to be set up again by each new squid.",
    "outcome": 5
   },
@@ -3136,11 +3136,11 @@
    "t": "mcq",
    "p": "There are two groups of fireflies with different beats. In group one, each firefly joins any flash they see once they are past halfway to their own flash. In group two, each firefly ignores every flash but their own. Which group will line up, and why?",
    "opts": [
-    "Group one, because answering each other's flashes pulls them into step",
     "Group two, because each keeps their own steady beat",
-    "Neither, because only a leader can line them up"
+    "Neither, because only a leader can line them up",
+    "Group one, because answering each other's flashes pulls them into step"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A firefly that joins a flash when they are past halfway pulls late fireflies into step, and after a few cycles the group flashes together. A group that ignores all flashes keeps its different beats and almost never lines up. Picking 'only a leader' misses what this lesson shows: no leader is needed.",
    "outcome": 6
   },
@@ -3160,11 +3160,11 @@
    "t": "mcq",
    "p": "A scientist adds the gene for a green glowing protein next to the gene for a nerve cell's protein. What does the green glow tell her?",
    "opts": [
-    "That the nerve cell's gene is working in that cell",
     "That the cell is hot",
+    "That the nerve cell's gene is working in that cell",
     "That the cell is dead"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The glowing gene is switched on wherever the gene beside it is switched on. So the green light marks where the gene is working. Picking 'hot' misses that this glow is cold.",
    "outcome": 7
   },
@@ -3172,11 +3172,11 @@
    "t": "mcq",
    "p": "Why is a bright lamp near a beach bad for baby turtles?",
    "opts": [
-    "They crawl towards the brightest horizon, so they may crawl away from the sea",
     "The lamp makes the sea warm",
+    "They crawl towards the brightest horizon, so they may crawl away from the sea",
     "The lamp makes the sand too hot"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hatchlings use the brightest, lowest horizon to find the sea. A lamp behind the beach can pull them the wrong way. Picking 'warm' misses that the harm is from the light, not from heat.",
    "outcome": 7
   }

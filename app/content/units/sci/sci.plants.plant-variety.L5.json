@@ -692,10 +692,10 @@
       "q": "Cycas looks like a short palm. Which group is Cycas in?",
       "options": [
        "Flowers, like the coconut palm",
-       "Cones, because Cycas makes big cones",
-       "Spores, like a fern"
+       "Spores, like a fern",
+       "Cones, because Cycas makes big cones"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cycas makes big cones and naked seeds, so they are in the cone group. They only look like a palm. A real palm, like the coconut, makes flowers and fruits."
      },
      "context": "This is the last step of Spore, Cone or Flower? Here you count your cards and talk about the plants that surprised you."
@@ -1196,11 +1196,11 @@
       "t": "mcq",
       "q": "A pine cone opened on a dry, sunny day. Why is that a good time for a pine tree's seeds to come out?",
       "options": [
-       "Dry winged seeds fly farther in dry air",
        "The seeds need to be warm to be eaten",
+       "Dry winged seeds fly farther in dry air",
        "Rain would wash the cone off the tree"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Pine seeds have a papery wing. A dry wing spins and glides on the wind, but a wet seed is heavy and drops straight down. So opening in dry weather sends the seeds farther."
      },
      "context": "This is the last step of the Pine Cone Weather Test. Here you see whether the soaked cone opens again, and count the spirals of scales."
@@ -1307,10 +1307,10 @@
       "q": "A fern leaf left a brown dust print on white paper. What is the dust?",
       "options": [
        "Seeds",
-       "Spores, each a single cell",
-       "Pollen from the fern's flowers"
+       "Pollen from the fern's flowers",
+       "Spores, each a single cell"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Ferns make spores, not seeds. A spore is one cell with almost no food. Ferns have no flowers, so the dust is not pollen."
      },
      "context": "This is the last step of the brown dots experiment. Here you look at what fell out of the fern leaf overnight."
@@ -1456,10 +1456,10 @@
       "q": "Which question is best for a key?",
       "options": [
        "Is the plant pretty?",
-       "Does the plant make seeds?",
-       "Is the plant big?"
+       "Is the plant big?",
+       "Does the plant make seeds?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Every plant either makes seeds or does not, so everyone gets the same answer. 'Pretty' and 'big' depend on who is looking, so two people could go down different arrows."
      },
      "context": "This is the last step of A Key for the Four Plant Groups. Here you design a key of your own and test it."
@@ -1580,11 +1580,11 @@
       "t": "mcq",
       "q": "On the family tree, why are the pine and the mango on one branch?",
       "options": [
-       "They both make seeds",
        "They are both tall trees",
+       "They both make seeds",
        "They both live in India"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Seeds appeared once, in one ancestor, and every seed plant came from that ancestor. Being tall or living in India does not show who is related to whom."
      },
      "context": "This is the last step of Draw the Family Tree from Clues. Here you think about what the branches of the tree mean."
@@ -2021,11 +2021,11 @@
       "t": "mcq",
       "q": "Why do aak seeds have silky hairs?",
       "options": [
-       "The hairs catch the wind, so the seeds fall slowly and drift far",
        "The hairs keep the seeds warm",
+       "The hairs catch the wind, so the seeds fall slowly and drift far",
        "The hairs make the seeds taste bad"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Silky hairs catch a lot of air for very little weight, so the seed falls slowly and the wind carries them away from the parent."
      },
      "context": "This is the last step of the flying seed challenge. Here you design your own flying seed and compare."
@@ -2088,11 +2088,11 @@
       "t": "mcq",
       "q": "A younger child got stuck on 'Does the plant have veins?'. What is the best fix?",
       "options": [
-       "Draw a leaf held up to light with lines showing",
        "Say the word 'veins' louder",
+       "Draw a leaf held up to light with lines showing",
        "Remove the question and guess"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A picture of veins in a leaf shows what to look for. Saying the word louder does not explain it, and guessing makes the key useless."
      },
      "context": "This is the last step of the picture key challenge. Here you test your key and improve it."
@@ -2112,11 +2112,11 @@
      "p": "Which of these plants makes spores, not seeds?",
      "opts": [
       "A mango tree",
-      "A maidenhair fern",
       "A deodar tree",
-      "A rice plant"
+      "A rice plant",
+      "A maidenhair fern"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Ferns make spores. The mango and rice make seeds in fruits, and the deodar makes seeds on cones. Choosing the deodar means thinking 'no flowers means no seeds', but conifers make seeds without flowers."
     },
     {
@@ -2218,12 +2218,12 @@
      "t": "mcq",
      "p": "Green moss grows on a wall in the monsoon. In April the same moss looks brown and dry. Why?",
      "opts": [
-      "Mosses grow and stay green only when they are wet",
       "Moss turns brown because they are old and dead",
       "Moss is green only in the dark",
-      "Someone painted the wall"
+      "Someone painted the wall",
+      "Mosses grow and stay green only when they are wet"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Mosses have no veins to bring up water, so they need rain and damp air. In dry weather they shut down and turn brown, and they turn green again with the first rain. Choosing 'dead' means not knowing that many mosses can survive drying."
     },
     {
@@ -2304,12 +2304,12 @@
      "t": "mcq",
      "p": "A dhania 'seed' splits into two halves when pressed. What does this show?",
      "opts": [
-      "A dhania 'seed' is really a tiny fruit with two seeds inside",
       "Dhania seeds are broken",
       "Dhania is a fern",
+      "A dhania 'seed' is really a tiny fruit with two seeds inside",
       "Dhania makes spores"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dhania is a flowering plant. What we call a seed is a small dry fruit, and each half holds one true seed. Seeds of flowering plants always form inside a fruit.",
      "how": "a1"
     },
@@ -2332,12 +2332,12 @@
      "t": "mcq",
      "p": "Why can a deodar grow 50 metres tall, while most mosses stay a few centimetres tall?",
      "opts": [
-      "A deodar has veins with stiff walls that carry water up and hold the tree up",
       "A deodar drinks more water",
+      "A deodar has veins with stiff walls that carry water up and hold the tree up",
       "Mosses grow only in the dark",
       "Mosses are always young"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Veins with lignin carry water high and hold a tall body up. Mosses have no such veins, so water moves only over their surface, which works for a few centimetres."
     },
     {
@@ -2495,12 +2495,12 @@
      "t": "mcq",
      "p": "A banyan tree is a flowering plant, but you never see their flowers. Where are they?",
      "opts": [
-      "Hidden inside the figs",
       "Underground",
       "Only on the hanging roots",
-      "Banyans have no flowers"
+      "Banyans have no flowers",
+      "Hidden inside the figs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Banyans and peepals keep hundreds of tiny flowers inside each young fig. Tiny fig wasps crawl in and carry pollen."
     },
     {
@@ -2573,12 +2573,12 @@
      "t": "mcq",
      "p": "Orchid seeds are as fine as dust and carry almost no food. What do they need before they can sprout?",
      "opts": [
-      "A fungus that gives them food",
       "Very hot sand",
       "A bird to eat them first",
+      "A fungus that gives them food",
       "Nothing at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Orchid seeds are like spores: light enough to travel far, but with no food store. In nature, they sprout only with help from a fungus that feeds them."
     },
     {
@@ -2665,12 +2665,12 @@
      "t": "mcq",
      "p": "Botanists have named about 295,000 flowering plants, 12,700 mosses, 10,500 ferns and 1,000 conifers and their relatives. About what fraction of these plants are flowering plants?",
      "opts": [
-      "About 9 in 10",
       "About half",
+      "About 9 in 10",
       "About 1 in 10",
       "About 1 in 4"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The total is about 318,500. 295,000 is a little over 9 tenths of that. So about 9 in every 10 named plants flower."
     },
     {
@@ -2759,12 +2759,12 @@
    "t": "mcq",
    "p": "A friend says, 'Plants with no flowers cannot make seeds.' Which plant shows this is wrong?",
    "opts": [
-    "A deodar, which makes seeds on cones",
     "A fern, which makes spores",
+    "A deodar, which makes seeds on cones",
     "A moss, which makes spores",
     "A rose, which has flowers"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Conifers like the deodar make seeds without flowers, on the scales of cones. Ferns and mosses make no seeds, so they don't prove the friend wrong.",
    "outcome": 0
   },
@@ -2772,12 +2772,12 @@
    "t": "mcq",
    "p": "What is inside a seed that is not inside a spore?",
    "opts": [
-    "A tiny young plant and a store of food",
     "Water only",
     "Pollen",
-    "Nothing: they are the same"
+    "Nothing: they are the same",
+    "A tiny young plant and a store of food"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A seed is many cells: a young plant, food and a coat. A spore is one cell with almost no food. That is why seeds are heavier.",
    "outcome": 1
   },
@@ -2785,12 +2785,12 @@
    "t": "mcq",
    "p": "Fine haldi powder blown by a fan travels far. Heavy rajma drops close. Fern spores are as tiny and light as haldi grains. What does this tell us about fern spores?",
    "opts": [
-    "Being tiny and light, spores can be carried far by gentle wind",
     "Spores are heavier than seeds",
+    "Being tiny and light, spores can be carried far by gentle wind",
     "Spores travel only on water",
     "Spores never leave the parent fern"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Haldi is about as fine as fern spores. Like the haldi, spores fall slowly, so even gentle wind carries them far.",
    "outcome": 1,
    "how": "e1"
@@ -2799,12 +2799,12 @@
    "t": "mcq",
    "p": "You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is the plant?",
    "opts": [
-    "A fern",
     "A conifer",
     "A flowering plant",
-    "A moss"
+    "A moss",
+    "A fern"
    ],
-   "a": 0,
+   "a": 3,
    "why": "No flowers, no cones, but veins and fronds: that is a fern. A moss would have no veins.",
    "outcome": 2
   },
@@ -2812,12 +2812,12 @@
    "t": "mcq",
    "p": "Why do most mosses grow only a few centimetres tall?",
    "opts": [
-    "They have no veins with stiff walls to carry water up and hold them up",
     "They are always young",
     "They grow only at night",
+    "They have no veins with stiff walls to carry water up and hold them up",
     "Insects eat their tops"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Without veins, water moves only over the moss's surface, which works over a few centimetres. Ferns and trees have veins, so they can grow tall.",
    "outcome": 3
   },
@@ -2825,12 +2825,12 @@
    "t": "mcq",
    "p": "Why do mosses and ferns need water to make new plants, but pines do not?",
    "opts": [
-    "Moss and fern male cells must swim to an egg, but pine pollen is carried by wind",
     "Pines drink more water",
     "Mosses and ferns are thirsty all the time",
+    "Moss and fern male cells must swim to an egg, but pine pollen is carried by wind",
     "Pines make spores"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In mosses and ferns, a male cell swims through a film of water to reach an egg. Seed plants use pollen, which needs no water to travel.",
    "outcome": 3
   },
@@ -2864,12 +2864,12 @@
    "t": "mcq",
    "p": "Why do most botanists today avoid calling mosses 'lower plants'?",
    "opts": [
-    "Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life",
     "Mosses are taller than trees",
     "Mosses came after flowering plants",
-    "Mosses have flowers"
+    "Mosses have flowers",
+    "Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, but a family tree branches like a bush.",
    "outcome": 5
   },

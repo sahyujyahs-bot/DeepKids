@@ -636,11 +636,11 @@
       "t": "mcq",
       "q": "In the game, why did the slow round give bigger crystals?",
       "options": [
-       "The dice were luckier",
        "Fewer new crystals started, so most squares joined the ones already there",
+       "The dice were luckier",
        "The grid was bigger"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both rounds had 12 squares. In the fast round, most squares started new crystals, so they stayed small. In the slow round, most squares joined crystals already growing. Salt water does the same: fast drying starts many crystals, slow drying feeds a few. Picking 'luck' is fair for one game, so play twice and see if it happens again. The grids were the same size."
      }
     },
@@ -839,10 +839,10 @@
       "q": "The plate dried fast and the glass dried slowly. What did you find?",
       "options": [
        "The plate grew bigger crystals",
-       "The glass grew fewer, bigger crystals, and both were cubes",
-       "The two dishes grew different shapes"
+       "The two dishes grew different shapes",
+       "The glass grew fewer, bigger crystals, and both were cubes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Slow drying lets a few crystals keep growing, so they get big. Fast drying starts thousands of crystals at once, so each stays tiny. Both were salt, so both grew cubes. Picking 'the plate' is a common guess, because it dried first. Picking 'different shapes' is worth checking with the phone: look again at single grains."
      },
      "parent": "Crystals from the glass are often 2 to 5 millimetres across, and sometimes bigger. The plate grains are about 1 millimetre or smaller. In a damp week the glass may still be wet on day 7: keep looking every day or two. Sometimes the salt climbs the side of the glass as a crust instead of growing cubes. If so, measure the biggest cube on the bottom. If your glass crystals are small too, the glass may have been too wide or the shelf too windy. Try again with the narrowest glass you have."
@@ -1022,10 +1022,10 @@
       "q": "You looked at salt, sugar and phitkari crystals. What did you find?",
       "options": [
        "All three are cubes",
-       "Each one has its own shape",
-       "Only salt has flat faces"
+       "Only salt has flat faces",
+       "Each one has its own shape"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Salt grows cubes with square faces. Phitkari grows double pyramids with triangle faces. Sugar grows slanted blocks. Each substance joins its particles in its own pattern, so each grows its own shape. Picking 'all cubes' is a fair guess before testing, because salt is the crystal we see most. Picking 'only salt' misses the shiny flat faces on the sugar and the phitkari."
      },
      "parent": "Sugar grains are small, so zoom in close. They are clear blocks with slanted ends, not cubes. A piece of kalkandu shows the same slanted faces, much bigger."
@@ -1135,10 +1135,10 @@
       "q": "You cracked a salt crystal. What did most of the pieces look like?",
       "options": [
        "Jagged, like broken glass",
-       "Smaller pieces with flat sides and square corners",
-       "Round, like tiny beads"
+       "Round, like tiny beads",
+       "Smaller pieces with flat sides and square corners"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Salt breaks most easily between its rows of particles. So the broken sides follow the same square pattern, and the pieces are small blocks. 'Jagged' is how glass breaks, because glass has no pattern inside. 'Round' is how worn sand grains look, after years of rubbing."
      },
      "parent": "Many pieces will have smooth, flat sides that meet at square corners, like tiny bricks. This splitting along flat sides is called cleavage. The pieces are tiny, so zoom in. Not every piece will be perfect, and some salt will turn to powder. That is normal. If most of it turns to powder, try again on a bigger grain, pressing even more slowly.",
@@ -1354,10 +1354,10 @@
       "q": "A clear boiled sweet and a piece of kalkandu are both made of sugar. Why is only the kalkandu a crystal?",
       "options": [
        "The sweet has a different kind of sugar",
-       "In the sweet, the sugar particles are jumbled, with no pattern",
-       "Kalkandu is harder"
+       "Kalkandu is harder",
+       "In the sweet, the sugar particles are jumbled, with no pattern"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The boiled sweet was cooled fast from very hot syrup, so its sugar particles froze in a jumble. Kalkandu grew slowly, with its particles joining in a pattern. Picking 'a different sugar' is a fair guess, but both are ordinary sugar. Picking 'harder' misses that the sweet is hard too."
      }
     }
@@ -1482,10 +1482,10 @@
       "q": "Your sugar crystals grew on a thread over ten days. What shape were they?",
       "options": [
        "Cubes, like salt",
-       "Slanted blocks, like shop kalkandu",
-       "Round balls"
+       "Round balls",
+       "Slanted blocks, like shop kalkandu"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Sugar particles join in their own pattern, so sugar grows slanted blocks, not cubes. Your crystals match the shop kalkandu, because it is the same sugar grown the same way. Picking 'cubes' is a good guess after the salt, but salt and sugar have different patterns. Picking 'round' is how they may look from far away, when many small crystals are stuck together."
      },
      "parent": "The crystals are safe to eat if the jar was clean and covered. Some kalkandu sold in India, often called thread mishri, still has the thread inside, because it is grown in just this way."
@@ -1682,10 +1682,10 @@
    "p": "You dry the same salt water on a wide plate and in a narrow glass. Which grows bigger crystals?",
    "opts": [
     "The plate, because it dries first",
-    "The glass, because it dries slowly",
-    "Both the same"
+    "Both the same",
+    "The glass, because it dries slowly"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Slow drying lets a few crystals keep growing. Picking 'the plate' is the common guess, because it finishes first, but it starts thousands of tiny crystals.",
    "outcome": 2,
    "how": "e1"
@@ -1695,10 +1695,10 @@
    "p": "In the Fast Plate or Slow Glass experiment, what was the same for the crystals from both dishes?",
    "opts": [
     "Their size",
-    "Their cube shape",
-    "How long they took"
+    "How long they took",
+    "Their cube shape"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Both were salt, so both grew cubes. The speed of drying changed their size, not their shape.",
    "outcome": 2,
    "how": "e1"
@@ -1720,11 +1720,11 @@
    "t": "mcq",
    "p": "Why do salt, sugar and phitkari each grow a different shape?",
    "opts": [
-    "They were grown in different glasses",
     "The particles of each one join in their own pattern",
+    "They were grown in different glasses",
     "They are different colours"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Each substance has its own pattern, and the shape shows the pattern. Picking 'different glasses' is worth testing: grow two in the same kind of glass, and they still differ.",
    "outcome": 3
   },
@@ -1733,10 +1733,10 @@
    "p": "Which of these is not a crystal?",
    "opts": [
     "Kalkandu",
-    "A glass bangle",
-    "Phitkari"
+    "Phitkari",
+    "A glass bangle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Glass has its particles in a jumble, so it is not a crystal. Kalkandu and phitkari have their particles in a pattern.",
    "outcome": 4
   },
@@ -1744,11 +1744,11 @@
    "t": "mcq",
    "p": "Two quartz crystals look very different. One is long and lopsided, and one is short and neat. What stays the same in every quartz crystal?",
    "opts": [
-    "Their size",
     "The angles between matching faces",
+    "Their size",
     "Their colour"
    ],
-   "a": 1,
+   "a": 0,
    "why": "However lopsided a crystal grows, its particles join in the same pattern, so the faces always meet at the same angles. Only the sizes of the faces change. Picking 'size' mixes up how big a crystal grew with how its particles join.",
    "outcome": 5
   },
@@ -1756,11 +1756,11 @@
    "t": "mcq",
    "p": "No two quartz crystals look exactly alike, yet they all follow one rule. Why is the rule hard to see?",
    "opts": [
-    "Their faces grow to different sizes, which hides that the angles stay the same",
     "They are all perfect cubes",
+    "Their faces grow to different sizes, which hides that the angles stay the same",
     "They are alive"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Uneven growth makes some faces big and others small, so the crystals look different. But measuring the angles shows the rule: they are the same every time.",
    "outcome": 5
   },
@@ -1769,10 +1769,10 @@
    "p": "You want big kalkandu crystals on a thread. What should you do?",
    "opts": [
     "Stir the syrup every day",
-    "Cool the syrup in cold water",
-    "Leave the syrup still for many days"
+    "Leave the syrup still for many days",
+    "Cool the syrup in cold water"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Slow, still growth gives big crystals. Stirring and fast cooling start too many small crystals at once, so the sugar comes out fine and sandy.",
    "outcome": 2
   }
@@ -1789,10 +1789,10 @@
      "p": "Which of these is a crystal?",
      "opts": [
       "A glass bangle",
-      "A grain of salt",
-      "Runny honey"
+      "Runny honey",
+      "A grain of salt"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A salt grain has its particles in a repeating pattern, so it has flat faces. A glass bangle has jumbled particles. Runny honey is a liquid."
     },
     {
@@ -1824,11 +1824,11 @@
      "t": "mcq",
      "p": "In the Fast Plate or Slow Glass test, you let the salt settle and pour off the clear salt water. Why not pour in everything, including the salt at the bottom?",
      "opts": [
-      "The undissolved salt would stay on the dish and look like crystals that grew",
       "The undissolved salt is a different kind of salt",
+      "The undissolved salt would stay on the dish and look like crystals that grew",
       "The tumbler would be too heavy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Salt that never dissolved is not crystals that grew from the water. Pouring off only the clear salt water means every crystal you see grew as the water dried.",
      "how": "e1"
     },
@@ -1916,11 +1916,11 @@
      "t": "mcq",
      "p": "A glass bangle breaks. What are the broken edges like?",
      "opts": [
-      "Flat, with square corners",
       "Curved and smooth",
+      "Flat, with square corners",
       "Long thin needles"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Glass has its particles in a jumble, so it breaks along curved lines. A crystal such as salt breaks along flat sides."
     },
     {
@@ -1961,10 +1961,10 @@
      "p": "Which is the best way to see the shape of a single sugar grain at home?",
      "opts": [
       "Look at the whole dabba from far away",
-      "Zoom in close on one grain with a phone camera on a dark plate",
-      "Dissolve it in water"
+      "Dissolve it in water",
+      "Zoom in close on one grain with a phone camera on a dark plate"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Sugar grains are small. Zooming in on one grain against a dark plate shows its flat faces. Dissolving it would break up the crystal."
     }
    ]
@@ -1979,22 +1979,22 @@
      "t": "mcq",
      "p": "Salt water is dried fast on a hot plate in the sun. What will you most likely get?",
      "opts": [
-      "One big cube",
       "A crust of many tiny grains",
+      "One big cube",
       "No salt at all"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Fast drying starts thousands of crystals at once, so each stays tiny. The salt is all still there, as a crust."
     },
     {
      "t": "mcq",
      "p": "Phitkari dissolves well in hot water. Hot phitkari water is left to cool overnight. Why do crystals grow?",
      "opts": [
-      "Cold water holds less phitkari, so the extra comes out as crystals",
       "The cold makes new phitkari",
-      "The water freezes"
+      "The water freezes",
+      "Cold water holds less phitkari, so the extra comes out as crystals"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hot water holds several times as much phitkari as cold. As it cools, the water cannot hold it all, so the extra crystallises.",
      "how": "e2"
     },
@@ -2116,11 +2116,11 @@
      "t": "mcq",
      "p": "Frost on the wall of a freezer is made of ice crystals. Where does the water in the frost come from?",
      "opts": [
-      "The water vapour in the air",
       "The metal of the freezer",
+      "The water vapour in the air",
       "Water leaking from the ice tray"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water vapour in the air freezes straight onto the cold wall as ice crystals."
     },
     {
@@ -2134,11 +2134,11 @@
      "t": "mcq",
      "p": "Which home place is best for growing big salt crystals?",
      "opts": [
-      "On the window sill in strong wind",
       "On a still shelf, in a narrow glass",
+      "On the window sill in strong wind",
       "Inside the fridge"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A still place and a narrow glass give slow evaporation, so a few crystals grow big. Wind dries it fast. The fridge is damp and cold, so the water hardly evaporates."
     }
    ]
@@ -2190,10 +2190,10 @@
      "p": "Two seed crystals are put in the same glass of salt water. One is a salt cube and one is a sugar grain. What will happen?",
      "opts": [
       "Both grow salt",
-      "The salt cube grows, and the sugar grain dissolves",
-      "Both stay the same"
+      "Both stay the same",
+      "The salt cube grows, and the sugar grain dissolves"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Salt water still has room for sugar, so the sugar grain dissolves. The salt particles join the salt cube, because it has their pattern."
     },
     {
@@ -2245,11 +2245,11 @@
      "t": "mcq",
      "p": "A salt crystal is cracked again and again into smaller and smaller pieces. What do the pieces keep?",
      "opts": [
-      "Flat sides and square corners",
       "Round edges",
-      "No pattern at all"
+      "No pattern at all",
+      "Flat sides and square corners"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each small piece is still made of particles in the same square pattern, so it still breaks into blocks with flat sides."
     },
     {

@@ -676,7 +676,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 ## Worksheets
 ### Material Detective (core) (core, 17 questions)
 1. (mcq) An old brown clay flower pot is dropped and breaks into small pieces. What are the pieces made of?  
-   Options: Baked clay / Flower pot / Small pots / Soil and seeds  
+   Options: Flower pot / Small pots / Soil and seeds / Baked clay  
    **Answer:** Baked clay. *Why:* The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object.
 2. (sort) On the Three-Heap Walk, you sort what you find into three heaps. Sort these.  
    **Answer:** a dry leaf → Natural, living or once living; a crow's feather → Natural, living or once living; a pebble → Natural, never living; sea water → Natural, never living; a glass bangle → Made by people; a paper cup → Made by people. *Why:* A leaf and a feather were part of living beings. A pebble and sea water were never alive. A bangle and a paper cup were made by people, even though their materials came from nature.
@@ -685,19 +685,19 @@ She did not sell it. She gave a pinch to everyone who passed.
 4. (match) Match each made thing to the raw material it started as.  
    **Answer:** a steel spoon → iron ore dug from the ground; a newspaper → wood from trees; a brick → clay; a coir rope → the husk of a coconut. *Why:* Every made thing can be traced back to something from nature. Coir comes from the hairy outside of a coconut.
 5. (mcq) 'A wooden table is natural, because wood is natural.' What does this sentence forget?  
-   Options: A carpenter cut and joined the wood, so the table was made by people / Wood is not really natural / Tables grow on trees / Nothing, the sentence is right  
+   Options: Wood is not really natural / Tables grow on trees / A carpenter cut and joined the wood, so the table was made by people / Nothing, the sentence is right  
    **Answer:** A carpenter cut and joined the wood, so the table was made by people. *Why:* The material, wood, is natural. But people made the table from it. A strong answer looks at both the material and what people did to it.
 6. (fill) A natural material before people change it, like cotton fluff or iron ore, is called a ____ material.  
    **Answer:** ['raw']. *Why:* Raw materials are what people start with. Spinning, baking, melting and mixing turn them into made materials.
 7. (mcq) Which of these was made by an animal, not by a plant or by people?  
-   Options: Honeycomb wax / Coir / Paper / Glass  
+   Options: Coir / Paper / Honeycomb wax / Glass  
    **Answer:** Honeycomb wax. *Why:* Bees make wax in their own bodies and build the honeycomb from it. Coir comes from a plant. Paper and glass are made by people. A strong answer says animals make materials too.
 8. (write) Choose something you used today, like your toothbrush or your plate. Trace its material back to nature, in three steps.  
    **Answer:** For example: my steel plate. A factory pressed it from a sheet of steel. The steel was made from iron melted out of iron ore. The iron ore was dug out of the ground.. *Why:* A strong answer ends in nature: a plant, an animal, the ground, the sea or the air. Each step is a real change people made.
 9. (order) Put the steps of making a clay diya in order.  
    **Answer:** order shown. *Why:* The clay is hidden in the soil. People separate it, shape it, dry it, then bake it. A strong answer puts drying before baking, because wet clay cracks in the fire.
 10. (mcq) A plate of sea water and a plate of rainwater are put in the sun. What will be left on each plate when it is dry?  
-   Options: Salt on the sea water plate, and almost nothing on the rainwater plate / Salt on both plates / Nothing on either plate / Sugar on the rainwater plate  
+   Options: Salt on both plates / Salt on the sea water plate, and almost nothing on the rainwater plate / Nothing on either plate / Sugar on the rainwater plate  
    **Answer:** Salt on the sea water plate, and almost nothing on the rainwater plate. *Why:* The salt was hidden in the sea water from the start. Rainwater has almost no salt. The sun takes only the water away. If you picked 'Salt on both plates', you may have thought that the sun makes salt. It only leaves behind what was already there.
 11. (write) Some people think salt is always made in a factory with chimneys and machines. You leave a shallow dish of sea water in the sun for a few days. What will you see? How could it change their mind?  
    **Answer:** A strong answer says a white crust of salt is left in the dish. Nobody made it. The sun took the water away into the air, and the salt that was in the sea water was left behind. So salt can come straight from the sea.. *Why:* A strong answer says what you would see, and uses it as evidence, not only what you think.
@@ -708,7 +708,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 14. (truefalse) Most plastic is made from petroleum, which formed from tiny sea creatures that died millions of years ago.  
    **Answer:** True. *Why:* True. Petroleum formed over millions of years from tiny living beings buried under the sea. So even plastic can be traced back to nature. A strong answer follows the journey past the factory.
 15. (mcq) Which of these has not been changed by people at all?  
-   Options: A coconut that fell from a tree / A coir doormat / A bottle of coconut oil / A spoon carved from coconut shell  
+   Options: A coir doormat / A bottle of coconut oil / A coconut that fell from a tree / A spoon carved from coconut shell  
    **Answer:** A coconut that fell from a tree. *Why:* The fallen coconut is just as it grew. The mat, the oil and the spoon were all made by people from parts of a coconut. A strong answer asks: did a person cut, press, spin or shape it?
 16. (write) Name one material that a plant makes and one that an animal makes. Say what people use each one for.  
    **Answer:** For example: a cotton plant makes cotton fluff, which people spin into thread for clothes. Silkworms make silk, which people weave into saris.. *Why:* A strong answer gives a real material, the living being who made it, and a real use.
@@ -716,7 +716,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** brass → copper and zinc; bronze → copper and tin; stainless steel → iron with a little carbon and chromium. *Why:* An alloy is a mixture, and each one has its own recipe. Steel is mostly iron, with carbon and sometimes chromium added to keep it from rusting.
 ### Journeys and Makers (stretch) (stretch, 17 questions)
 1. (mcq) Look at the chart from the salt experiment. Suppose you put a third plate of the same salty water in the shade, under a fan. When would it dry?  
-   Options: Sooner than the plate in still shade, because moving air helps water leave / After more than 3 days / Never / Exactly 1 day, because it is the same water  
+   Options: After more than 3 days / Never / Exactly 1 day, because it is the same water / Sooner than the plate in still shade, because moving air helps water leave  
    **Answer:** Sooner than the plate in still shade, because moving air helps water leave. *Why:* Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.
 2. (write) In the paper experiment, you looked closely at the torn edge of a newspaper. What did you see? What does it tell you paper is made of?  
    **Answer:** A strong answer says the torn edge was hairy, with tiny threads sticking out. These are plant fibres, usually from trees. So paper is a flat mat of tangled plant fibres.. *Why:* What the child saw is the evidence. The answer should link what they saw to the plant the paper came from.
@@ -724,12 +724,12 @@ She did not sell it. She gave a pinch to everyone who passed.
    Options: Use the same amount of pulp, press and dry both sheets the same way, and change only the grass / Make the grass sheet bigger / Dry the grass sheet in the sun and the other in the shade / Make only one sheet  
    **Answer:** Use the same amount of pulp, press and dry both sheets the same way, and change only the grass. *Why:* In a fair test, only one thing changes. If the sheets were pressed or dried differently, that could cause the roughness instead. A strong answer names what stays the same.
 4. (mcq) You heat two cups of the same milk. You add 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will you probably see?  
-   Options: More lumps in the cup with 4 teaspoons / More lumps in the cup with 1 teaspoon / The same lumps in both / No lumps in either  
+   Options: More lumps in the cup with 1 teaspoon / More lumps in the cup with 4 teaspoons / The same lumps in both / No lumps in either  
    **Answer:** More lumps in the cup with 4 teaspoons. *Why:* Vinegar makes the casein in milk come together into lumps. More vinegar makes more of it come together, up to a point. A strong answer links the amount of vinegar to the amount of lumps.
 5. (sort) Sort these by where their material came from.  
    **Answer:** a cotton sari → A plant; a coir rope → A plant; a lac bangle → An animal; a beeswax candle → An animal; a steel tumbler → The ground or the sea; a clay kulhad → The ground or the sea; sea salt → The ground or the sea; a silk thread → An animal. *Why:* Cotton and coir come from plants. Lac, beeswax and silk come from insects. Steel comes from iron ore, clay from the ground, and salt from the sea.
 6. (mcq) In the colour experiment, the beetroot cloth was bright pink. After washing, it was pale pink. What does this tell you?  
-   Options: Beetroot colour does not hold on to cotton well, so most of it washes out / Beetroot is not really pink / The soap made new colour / All plant colours wash out  
+   Options: Beetroot is not really pink / The soap made new colour / Beetroot colour does not hold on to cotton well, so most of it washes out / All plant colours wash out  
    **Answer:** Beetroot colour does not hold on to cotton well, so most of it washes out. *Why:* The colour came from the beetroot, but it did not hold on to the cloth. Onion skins and tea held on better. 'All plant colours wash out' is too big a rule to make from one cloth. Indigo, from a plant, lasts for years.
 7. (fill) Potters bake clay in a very hot oven called a ____. This changes the clay for ever, so it will not go soft in water.  
    **Answer:** ['kiln']. *Why:* A kiln is far hotter than a kitchen oven. The heat fuses the tiny grains of clay together.
@@ -742,7 +742,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 11. (truefalse) Paper wasps were making paper from chewed wood millions of years before people made paper.  
    **Answer:** True. *Why:* True. Paper wasps chew wood and mix it with their spit. It dries as paper for their nests. In 1719, René Réaumur watched them and suggested people could make paper from wood too. A strong answer says animals make materials too.
 12. (mcq) Which of these changes can be turned back?  
-   Options: Melting candle wax / Baking a clay pot / Burning paper / Cooking an egg  
+   Options: Baking a clay pot / Melting candle wax / Burning paper / Cooking an egg  
    **Answer:** Melting candle wax. *Why:* Melted wax goes hard again when it cools, so the change can be undone. The others change the material for ever. A strong answer asks: can I get the old material back?
 13. (write) In this lesson's story, Kashi's salt came straight from the sea. A packet of salt from a shop has been washed, dried and had iodine added. Is the shop salt still natural? Explain your thinking.  
    **Answer:** A strong answer says the salt itself is natural, because it came from the sea. But people cleaned it and added iodine, so the packet is a natural material changed by people. Either answer is fine if the reason looks at both the material and what people did.. *Why:* Many things in a kitchen are natural materials that people have changed a little.
@@ -751,7 +751,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 15. (draw) In the From Soil to Diya project, you shook soil and water in a bottle and let it settle. Draw the layers you saw, and label them.  
    **Answer:** Pebbles and sand at the bottom, then silt, then smooth clay, then cloudy or clear water at the top.. *Why:* Heavier grains sink first, so they are at the bottom. Clay grains are the finest, so they settle last, on top. A strong drawing labels the clay, because that is what the diya is made of.
 16. (mcq) Silk is strong and smooth, but it is costly. Why might people want to invent a made material like nylon?  
-   Options: It can do some of silk's jobs, like stockings and ropes, for less money / Silkworms had all died / Nylon grows faster than cotton / Nylon rots away quickly  
+   Options: Silkworms had all died / Nylon grows faster than cotton / It can do some of silk's jobs, like stockings and ropes, for less money / Nylon rots away quickly  
    **Answer:** It can do some of silk's jobs, like stockings and ropes, for less money. *Why:* Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. 'Nylon rots away quickly' is the opposite of the truth. Nylon is made from petroleum and lasts a very long time.
 17. (truefalse) A dot pressed into soft clay will still be there after the clay dries.  
    **Answer:** True. *Why:* True. Soft clay keeps the mark, and drying does not remove it. Pressing on dry clay is different, because it crumbles.
@@ -768,12 +768,12 @@ She did not sell it. She gave a pinch to everyone who passed.
 5. (write) A male weaver bird weaves his nest from strips of grass. A woman in Assam weaves a basket from strips of cane. Is the nest natural and the basket made by people? Where would you draw the line?  
    **Answer:** A strong answer compares the two carefully. Both use plant material and both are woven with skill. One answer: the nest is natural because an animal made the nest, and the basket is made by people. Another: people are animals too, so both are natural in a way. A strong answer says what it means by 'natural'.. *Why:* There is no single right answer. Good answers give a reason and notice that the line depends on how we define 'made by people'.
 6. (mcq) An old steel spoon is melted down and made into a steel tumbler. What happens to its iron atoms?  
-   Options: The same atoms are now in a new shape / They are destroyed in the furnace / New iron atoms are made / They turn into plastic atoms  
+   Options: They are destroyed in the furnace / New iron atoms are made / They turn into plastic atoms / The same atoms are now in a new shape  
    **Answer:** The same atoms are now in a new shape. *Why:* Melting changes the shape, not the atoms. The same iron atoms, made in stars long ago, are now in the tumbler. A strong answer says atoms are reused, never used up.
 7. (fill) People once believed that boiling water for a long time turned some of it into earth. Lavoisier weighed everything and showed the white powder came from the ____ pot, not from the water.  
    **Answer:** ['glass']. *Why:* The glass pot weighed less after 101 days, by about the weight of the powder. So the powder came from the glass. The water had not turned into earth.
 8. (mcq) Scientists worked out that by about 2020, everything people have made weighed about as much as all the living beings on Earth. In 1900 it was only a tiny part. What does this tell us?  
-   Options: People are now changing the Earth's materials on a huge scale / Living beings have stopped growing / Factories make materials from nothing / It does not matter  
+   Options: Living beings have stopped growing / Factories make materials from nothing / People are now changing the Earth's materials on a huge scale / It does not matter  
    **Answer:** People are now changing the Earth's materials on a huge scale. *Why:* All those roads, buildings and machines were made from sand, rock, ore and oil taken from the Earth. Factories do not make materials from nothing. The materials came from somewhere, and they had to be dug up.
 9. (mcq) In 2014, scientists described a new kind of rock found on a beach in Hawaii. Fires had melted plastic onto sand, shells and stones. What does this rock show?  
    Options: Made materials are now mixing into the Earth itself / Plastic is a natural rock / Rocks are made in factories / Sand turns into plastic  
@@ -781,7 +781,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 10. (write) In 1897, factory indigo began to be sold, much cheaper than plant indigo. Imagine you are an indigo farmer in Bihar who was forced to grow it. Would you be glad? What might worry you?  
    **Answer:** A strong answer gives both sides. Glad: I would no longer be forced to grow indigo, and could grow food for my family. Worried: people who earned money from making plant indigo would lose their work.. *Why:* A made copy of a natural material changes the lives of the people who grew it. There is no single right answer.
 11. (mcq) Here is a rule: 'Natural things are always safe, and things made by people are always harmful.' Which pair shows the rule is wrong both ways?  
-   Options: Snake venom is natural and harmful. A steel spoon is made by people and safe. / Honey is natural and safe. Plastic waste is made by people and harmful. / A neem leaf is natural. A brick is made by people. / Rain is natural and safe.  
+   Options: Honey is natural and safe. Plastic waste is made by people and harmful. / A neem leaf is natural. A brick is made by people. / Rain is natural and safe. / Snake venom is natural and harmful. A steel spoon is made by people and safe.  
    **Answer:** Snake venom is natural and harmful. A steel spoon is made by people and safe.. *Why:* Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. The honey and plastic pair agrees with the rule instead of testing it. A strong answer judges each material by what it does, not by where it came from.
 12. (draw) Draw the journey of one iron atom in four pictures: made inside a star, thrown into space, part of the young Earth, and now in your steel kadai.  
    **Answer:** Four boxes with arrows: a bright star, an explosion scattering dust, a rocky young Earth, and a kadai on a stove, with a dot for the same atom in each.. *Why:* A strong drawing shows the same atom all the way through. Atoms are not made in the kadai factory.
@@ -802,52 +802,52 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Quiz
 1. (mcq) A tumbler can be made of steel, glass or plastic. Steel, glass and plastic are…  
-   Options: Objects / Materials / Sources / Atoms  
+   Options: Objects / Sources / Materials / Atoms  
    **Answer:** Materials. *Why:* They are materials, what objects are made of. The tumbler is the object. Steel, glass and plastic are what it can be made of.
 2. (mcq) A woollen shawl has a journey from nature to the shop. Which step comes first?  
-   Options: A sheep grows a coat of wool / The wool is spun into yarn / The yarn is knitted into a shawl / The shawl is sold in a shop  
+   Options: The wool is spun into yarn / A sheep grows a coat of wool / The yarn is knitted into a shawl / The shawl is sold in a shop  
    **Answer:** A sheep grows a coat of wool. *Why:* The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. 'The shawl is sold in a shop' is the end of the journey, not the start in nature.
 3. (mcq) Which of these is natural?  
-   Options: A neem tree / A brick / A plastic bottle / A steel gate  
+   Options: A brick / A neem tree / A plastic bottle / A steel gate  
    **Answer:** A neem tree. *Why:* Nature made the neem tree. People made the others from natural materials. If you picked 'a brick', you remembered that clay is natural, but forgot that people baked it.
 4. (mcq) Look at a tulsi plant growing in a clay pot. Which is right?  
    Options: The plant is natural and the pot is made by people / Both are made by people / Both are natural  
    **Answer:** The plant is natural and the pot is made by people. *Why:* The tulsi plant grew from a seed. People may give water, but the plant did the growing, so the plant is natural. The pot was made by people. If you picked 'Both are made by people', you may have thought that whatever people look after is made by them.
 5. (mcq) How do people get glass from sand?  
-   Options: Melt it in a furnace / Spin it / Dry it in the sun / Soak it in water  
+   Options: Spin it / Melt it in a furnace / Dry it in the sun / Soak it in water  
    **Answer:** Melt it in a furnace. *Why:* Sand must be melted at a very high heat in a furnace. Drying in the sun is how people get salt, not glass. The sun is far too cool to melt sand.
 6. (mcq) Which of these changes is done by spinning?  
-   Options: Turning cotton fluff into thread / Turning sand into glass / Turning sea water into salt / Turning clay into a pot  
+   Options: Turning sand into glass / Turning cotton fluff into thread / Turning sea water into salt / Turning clay into a pot  
    **Answer:** Turning cotton fluff into thread. *Why:* Spinning twists short fibres into one long, strong thread. Sand is melted, sea water is dried and clay is baked. Each raw material needs its own kind of change.
 7. (mcq) In the salt experiment, which plate gave more salt?  
-   Options: About the same, because both had the same salt hidden in them / The sunny plate, because the sun makes salt / The shady plate, because shade makes salt  
+   Options: The sunny plate, because the sun makes salt / The shady plate, because shade makes salt / About the same, because both had the same salt hidden in them  
    **Answer:** About the same, because both had the same salt hidden in them. *Why:* The salt was in the water from the start. The sun only made the water leave faster. Many people think the sun makes salt. But salt is collected, not made.
 8. (mcq) Why did the wet paper pulp hold together as a sheet?  
-   Options: The plant fibres tangled and gripped each other / The net was sticky / Water is a glue  
+   Options: The net was sticky / The plant fibres tangled and gripped each other / Water is a glue  
    **Answer:** The plant fibres tangled and gripped each other. *Why:* Paper is a mat of tangled plant fibres. As the water left, the fibres tangled and gripped. Picking 'water is a glue' is a fair guess, but wet paper falls apart. It is the drying fibres that hold.
 9. (mcq) Which animal makes a material that people use for bangles and varnish?  
-   Options: The lac insect / The cow / The crow / The fish  
+   Options: The cow / The crow / The lac insect / The fish  
    **Answer:** The lac insect. *Why:* Lac insects on trees make a resin. People scrape it off for lac bangles, varnish and sealing wax. If you picked 'the cow', you may have been thinking of milk, which makes paneer and milk plastic, not lac.
 10. (mcq) Factory indigo is…  
-   Options: The same substance as plant indigo / A different colour from plant indigo / Made from sand  
+   Options: A different colour from plant indigo / The same substance as plant indigo / Made from sand  
    **Answer:** The same substance as plant indigo. *Why:* Chemists showed they are exactly the same substance. If you picked 'A different colour from plant indigo', you may have thought that a made copy can never match nature. This one does.
 11. (mcq) Everything, natural or made, is built from…  
-   Options: About 90 kinds of atom / Thousands of kinds of atom, one for each material / Only one kind of atom  
+   Options: Thousands of kinds of atom, one for each material / Only one kind of atom / About 90 kinds of atom  
    **Answer:** About 90 kinds of atom. *Why:* About 90 kinds of atom are found in nature. They join in different patterns to build everything. Picking 'one for each material' is a very common idea. But there is no 'wood atom' or 'plastic atom'.
 12. (mcq) Where were the carbon atoms in your pencil made?  
-   Options: Inside stars, long ago / In the pencil factory / In the tree  
+   Options: In the pencil factory / In the tree / Inside stars, long ago  
    **Answer:** Inside stars, long ago. *Why:* Carbon atoms were made in stars before the Earth formed. Picking 'in the tree' is close: trees take carbon from the air to build wood. But they collect carbon atoms. They do not make them.
 13. (mcq) Do scientists fully agree on where gold atoms were made?  
-   Options: No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too / Yes, gold is made in mines / Yes, gold is made in volcanoes  
+   Options: Yes, gold is made in mines / No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too / Yes, gold is made in volcanoes  
    **Answer:** No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too. *Why:* It is still being worked out. Mines are where we find gold, not where its atoms were made.
 14. (mcq) Who dug up the iron ore that became your steel kadai?  
-   Options: Miners, in places like Odisha and Jharkhand / Nobody, because steel is found ready-made / The shopkeeper who sold it / Only machines, with no people  
+   Options: Nobody, because steel is found ready-made / Miners, in places like Odisha and Jharkhand / The shopkeeper who sold it / Only machines, with no people  
    **Answer:** Miners, in places like Odisha and Jharkhand. *Why:* Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. It is not 'only machines', because people drive and fix the machines. Steel is not found ready-made, because iron must be melted out of rock.
 15. (mcq) Why is bronze called an alloy?  
-   Options: It is copper and tin melted together / It is one pure metal dug from the ground / It is a rock with metal inside / It is a plastic made to look like metal  
+   Options: It is one pure metal dug from the ground / It is a rock with metal inside / It is copper and tin melted together / It is a plastic made to look like metal  
    **Answer:** It is copper and tin melted together. *Why:* An alloy is a mixture of metals. Bronze is copper mixed with tin. A rock with metal inside is an ore, and bronze is made from metals that were already taken out of their ores. A pure metal is only one kind, so it is not an alloy.
 16. (mcq) Meera wants a pattern of dots on her clay diya. When is the best time to press the dots in?  
-   Options: While the clay is soft and damp / After the diya is completely dry / Only after it is baked in a kiln / It does not matter, clay always takes a mark  
+   Options: After the diya is completely dry / While the clay is soft and damp / Only after it is baked in a kiln / It does not matter, clay always takes a mark  
    **Answer:** While the clay is soft and damp. *Why:* Soft clay takes a mark easily and keeps it when it dries. Dry clay crumbles or cracks if you press it. Baked clay is as hard as a brick, so a toothpick leaves nothing. That is why potters decorate before drying.
 17. (mcq) You visit a carpenter in your lane and want to learn about wood. Which question will teach you most about where the wood came from?  
    Options: Which kind of tree gave this wood, and where did the tree grow? / How much does it cost? / Is it a nice day? / Do you like this chair?  

@@ -399,7 +399,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 ## Worksheets
 ### Which Way Is the Heat Going? (core) (core, 15 questions)
 1. (mcq) Which way does heat move by itself?  
-   Options: From a cooler thing to a hotter thing / From a hotter thing to a cooler thing / Only upwards  
+   Options: From a hotter thing to a cooler thing / From a cooler thing to a hotter thing / Only upwards  
    **Answer:** From a hotter thing to a cooler thing. *Why:* Heat moves by itself from hotter to cooler, until both are equally warm. 'Only upwards' is a common mix-up with hot air rising.
 2. (fill) Heat moving through a solid, from each tiny part to the part next to it, is called ____.  
    **Answer:** ['conduction']. *Why:* Conduction is how heat travels through a solid like a steel spoon.
@@ -417,7 +417,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 8. (write) Why does a dosa tawa have a metal plate but a wooden handle?  
    **Answer:** The metal plate is a good conductor, so heat from the flame moves quickly into the dosa. The wooden handle is an insulator, so the heat reaches the cook's hand only very slowly.. *Why:* A strong answer explains both parts: where the cook wants heat to go, and where not.
 9. (mcq) In a ladle test, a big butter dot is put at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?  
-   Options: The dots are different sizes, so size changes how fast they melt / The ladle is steel / The test used butter, not ghee  
+   Options: The ladle is steel / The test used butter, not ghee / The dots are different sizes, so size changes how fast they melt  
    **Answer:** The dots are different sizes, so size changes how fast they melt. *Why:* A big dot takes longer to melt than a tiny one. In a fair test only the distance should change, so every dot must be the same size.
 10. (label) Label this picture of a spoon in hot tea: the hot end, the cool end, and the way the heat moves.  
    **Answer:** The hot end is the part in the tea. The cool end is the top of the handle. An arrow goes from the hot end up to the cool end.. *Why:* Heat moves from the hot end towards the cool end.
@@ -426,7 +426,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 12. (write) Think about your own Ladle Line test, with butter dots on a steel ladle in hot water. Write what you think, what you saw, and why you think it happened.  
    **Answer:** What I think: heat travels up the steel slowly, nearest parts first. What I saw: the 2 cm peppercorn fell first, and each one after took longer. Why: each part has to warm before it can pass heat to the next.. *Why:* A strong answer uses the child's own times as evidence.
 13. (mcq) You hold a hot steel tumbler of milk. Which way does heat move?  
-   Options: From the tumbler into your hand / From your hand into the tumbler / Heat does not move  
+   Options: From your hand into the tumbler / From the tumbler into your hand / Heat does not move  
    **Answer:** From the tumbler into your hand. *Why:* Heat moves from the hotter tumbler into your cooler hand, so your hand warms up.
 14. (write) Find one thing in your kitchen that has a metal part and a wooden or plastic part. Name it and say why each part is made of its material.  
    **Answer:** For example, a tawa: the metal plate is a conductor so heat reaches the food, and the wooden handle is an insulator so heat reaches the hand slowly.. *Why:* A strong answer names a real object and links each material to where the heat should or should not go.
@@ -457,7 +457,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 11. (write) If a ladle were twice as long, would its top end get even hotter? Explain.  
    **Answer:** No. The top end would be further from the hot water. The heat would take longer to get there, and more would leak into the air on the way. So the top would stay cooler.. *Why:* A strong answer uses what the Ladle Line showed: further parts get heat later and less of it.
 12. (mcq) You want your hot tea to stay warm longer. Which cup is best?  
-   Options: A cup of thin steel / A cup with two walls and a layer of air between them / A cup of thin aluminium  
+   Options: A cup of thin steel / A cup of thin aluminium / A cup with two walls and a layer of air between them  
    **Answer:** A cup with two walls and a layer of air between them. *Why:* Air is an insulator, so a layer of air between two walls slows the heat leaving the tea. Thin steel and aluminium let heat out quickly.
 13. (write) Suppose the Ladle Line is repeated with a copper spoon of the same size instead of a steel one. What do you expect to happen to the times? Why?  
    **Answer:** The peppercorns fall sooner, and the far one is more likely to fall, because copper carries heat about 25 times faster than stainless steel.. *Why:* A strong answer predicts shorter times and gives the reason: copper is a better conductor.
@@ -471,7 +471,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 2. (perspective) A family is buying a new cooking vessel. Three people have different ideas.  
    **Answer:** A strong answer picks a side and uses a fact: copper is a much better conductor than steel, so it spreads heat evenly. It also admits a fair point, such as cost or cleaning, from another side.. *Why:* There is no single right answer. Each choice has a real trade-off.
 3. (mcq) Why do some steel vessels have a layer of copper or aluminium on the bottom?  
-   Options: To make them heavier / Copper and aluminium spread heat across the bottom faster than steel / To keep the food cold  
+   Options: Copper and aluminium spread heat across the bottom faster than steel / To make them heavier / To keep the food cold  
    **Answer:** Copper and aluminium spread heat across the bottom faster than steel. *Why:* Copper and aluminium are much better conductors than stainless steel. So the heat spreads across the whole bottom, and food is less likely to burn in one spot.
 4. (write) A blanket keeps you warm on a cold night. Does the blanket make heat? Explain where the warmth comes from.  
    **Answer:** No. The blanket makes no heat. Your body makes heat from food. The blanket and the air in it are insulators, so they slow your heat leaving into the cold room.. *Why:* A strong answer says the heat comes from the body, and the blanket only slows it escaping.
@@ -496,7 +496,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 14. (write) Your body is warmer than the room, so heat is leaving you all day. Why doesn't your body cool down to the temperature of the room?  
    **Answer:** Your body keeps making heat from the food you eat, so it replaces the heat it loses.. *Why:* A strong answer says heat is lost all the time and food energy replaces it.
 15. (mcq) A flask has two walls with almost no air in the gap between them. Why does this keep tea hot?  
-   Options: With almost nothing in the gap, there are very few particles to pass heat across / The gap makes new heat / The gap is cold  
+   Options: The gap makes new heat / The gap is cold / With almost nothing in the gap, there are very few particles to pass heat across  
    **Answer:** With almost nothing in the gap, there are very few particles to pass heat across. *Why:* Conduction needs particles to pass the heat on. With almost none in the gap, very little heat gets across.
 
 ## Videos
@@ -506,40 +506,40 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 
 ## Quiz
 1. (mcq) A cup of hot tea stands in a room. Which way does heat move?  
-   Options: From the room into the tea / From the tea into the room / It does not move  
+   Options: From the room into the tea / It does not move / From the tea into the room  
    **Answer:** From the tea into the room. *Why:* Heat moves from the hotter tea into the cooler room, until the tea is as warm as the room.
 2. (mcq) A steel spoon stands in hot milk. How does its handle get warm?  
-   Options: Hot milk climbs up inside the spoon / Heat is passed up the steel, from part to part / The air pushes cold out of the spoon  
+   Options: Hot milk climbs up inside the spoon / The air pushes cold out of the spoon / Heat is passed up the steel, from part to part  
    **Answer:** Heat is passed up the steel, from part to part. *Why:* This is conduction. Each part of the steel warms the part next to it. No milk climbs up.
 3. (mcq) Butter dots are put on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?  
-   Options: The 6 cm dot melts first / The 2 cm dot melts first, and the 6 cm dot much later or not at all / Both melt at the same moment  
+   Options: The 6 cm dot melts first / Both melt at the same moment / The 2 cm dot melts first, and the 6 cm dot much later or not at all  
    **Answer:** The 2 cm dot melts first, and the 6 cm dot much later or not at all. *Why:* Heat reaches the nearest part first. The far part waits much longer, and gets less heat, because some leaks into the air.
 4. (mcq) Which of these is a good conductor of heat?  
-   Options: A wooden spatula / An aluminium kadai / A plastic plate  
+   Options: An aluminium kadai / A wooden spatula / A plastic plate  
    **Answer:** An aluminium kadai. *Why:* Aluminium is a metal, and metals are good conductors of heat. Wood and plastic are insulators.
 5. (mcq) Why do pressure cookers have plastic handles?  
-   Options: Plastic is cheaper than metal / Plastic is an insulator, so the handle stays cool enough to hold / Plastic makes the food cook faster  
+   Options: Plastic is an insulator, so the handle stays cool enough to hold / Plastic is cheaper than metal / Plastic makes the food cook faster  
    **Answer:** Plastic is an insulator, so the handle stays cool enough to hold. *Why:* Heat moves through plastic very slowly, so the handle does not get hot quickly.
 6. (mcq) You hold an ice cube and your hand gets cold. Why?  
    Options: Cold moves from the ice into your hand / Heat moves from your hand into the ice / The ice is wet  
    **Answer:** Heat moves from your hand into the ice. *Why:* Heat moves from warmer to cooler. Your hand loses heat to the ice, so it feels cold, and the ice melts.
 7. (mcq) You want to test how far heat travels up a ladle. Which test is fair?  
-   Options: Dots of different sizes at different heights / Dots of the same size at different heights / One dot, moved about during the test  
+   Options: Dots of the same size at different heights / Dots of different sizes at different heights / One dot, moved about during the test  
    **Answer:** Dots of the same size at different heights. *Why:* In a fair test, only one thing changes. Here it is the height, so every dot must be the same size.
 8. (mcq) Why does a ladle for hot sambar have a long handle?  
-   Options: The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler / A long handle holds more sambar / Long steel is an insulator  
+   Options: A long handle holds more sambar / The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler / Long steel is an insulator  
    **Answer:** The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler. *Why:* Heat reaches far parts of a handle late and in small amounts, because it is passed on part by part and some leaks into the air.
 9. (mcq) How do the particles in a hot spoon pass heat along?  
-   Options: They flow up the handle like water / They shake faster and bump the particles next to them / They get bigger  
+   Options: They flow up the handle like water / They get bigger / They shake faster and bump the particles next to them  
    **Answer:** They shake faster and bump the particles next to them. *Why:* Hot particles shake faster. They bump their neighbours, which then shake faster too. The particles stay in place.
 10. (mcq) Which metal carries heat fastest?  
-   Options: Copper / Stainless steel / Lead  
+   Options: Stainless steel / Lead / Copper  
    **Answer:** Copper. *Why:* Copper is one of the best conductors of heat. Stainless steel and lead are much slower.
 11. (mcq) Butter dots on a steel ladle in hot water were timed. They fell at 1 minute, 3 minutes and 8 minutes. What does this show?  
    Options: Heat moved at one steady speed / Heat took longer and longer to reach parts further from the water / The water was getting hotter  
    **Answer:** Heat took longer and longer to reach parts further from the water. *Why:* The waits grew from 2 minutes to 5 minutes. Heat gets slower as it travels further along the steel.
 12. (mcq) Which of these is mostly conduction?  
-   Options: The Sun warming your face / A hot tawa cooking a thepla / Steam rising from a pot  
+   Options: The Sun warming your face / Steam rising from a pot / A hot tawa cooking a thepla  
    **Answer:** A hot tawa cooking a thepla. *Why:* The thepla touches the hot tawa, so heat passes straight into it. The Sun is radiation, and rising steam is convection.
 
 ## Applications

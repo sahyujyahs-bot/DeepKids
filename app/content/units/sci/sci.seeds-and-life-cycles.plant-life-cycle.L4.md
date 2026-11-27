@@ -679,19 +679,19 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 ## Worksheets
 ### Ripening and Ages (core) (core, 16 questions)
 1. (mcq) A hard green papaya is put in a paper bag with a very ripe banana. The papaya ripens sooner than a papaya left alone. What does the banana give off that helps the papaya ripen?  
-   Options: Ethylene, a gas / Oxygen / Sugar / Heat  
+   Options: Oxygen / Ethylene, a gas / Sugar / Heat  
    **Answer:** Ethylene, a gas. *Why:* A ripe banana gives off ethylene, a gas that raw fruit nearby can sense. It tells them to start ripening. Picking 'heat' is a common guess, but a banana gives off almost no heat. Picking 'sugar' mixes up what is inside the banana with what leaves it.
 2. (truefalse) A sour green grape put in a bag with a ripe banana will slowly turn sweet.  
    **Answer:** False. *Why:* False. Grapes are picked ripe, and they do not get sweeter after picking. Fruit such as bananas, mangoes and tomatoes keep ripening after picking, but grapes, oranges and pineapples do not.
 3. (mcq) Why does a mango taste sweeter when it is ripe than when it is raw?  
-   Options: Enzymes cut the stored starch into sugar / The mango takes in sugar from the air / The skin makes the inside sweeter / Water inside the mango turns into sugar  
+   Options: The mango takes in sugar from the air / Enzymes cut the stored starch into sugar / The skin makes the inside sweeter / Water inside the mango turns into sugar  
    **Answer:** Enzymes cut the stored starch into sugar. *Why:* A raw mango stores starch. When it ripens, enzymes cut the starch into sugar, and the amount of acid falls, so the fruit tastes sweeter. Picking 'from the air' is not right, because the fruit makes the change from its own stores.
 4. (fill) As a fruit ripens, enzymes cut the stored ____ into sugar.  
    **Answer:** ['starch']. *Why:* Raw fruit, such as a green banana, are full of starch. Ripening turns the starch into sugar, which is why a yellow banana is sweet and a green one is not.
 5. (write) Explain in two or three sentences why it helps a plant when their fruit turn soft, sweet and scented just when the seeds are ready.  
    **Answer:** A soft, sweet, scented fruit attracts animals such as birds, bats, monkeys and people. They eat the fruit and carry the seeds away, and drop them far from the parent plant. A hard sour green fruit stays untouched until the seeds are ready, so the plant keeps them safe.. *Why:* A strong answer links the changes to the seeds. Ripeness is a signal that says the seeds are ready to be carried.
 6. (mcq) Ripening mangoes are packed tightly in a sealed plastic box for several days. When the box is opened, it smells sour and many mangoes are spoiled. What is the best explanation?  
-   Options: Ripening fruit breathe, and in a sealed space the air runs low, so they spoil / The mangoes were too sweet / Sealing fruit always makes them ripen faster / The box got too much light  
+   Options: The mangoes were too sweet / Sealing fruit always makes them ripen faster / Ripening fruit breathe, and in a sealed space the air runs low, so they spoil / The box got too much light  
    **Answer:** Ripening fruit breathe, and in a sealed space the air runs low, so they spoil. *Why:* Fruit breathe oxygen even while they ripen. In a sealed box the oxygen falls, and the fruit spoil instead of ripening. Picking 'sealing always speeds ripening' mixes up holding in the gas with shutting out the air.
 7. (truefalse) Putting a hard green tomato in the fridge is a good way to make it ripen faster.  
    **Answer:** False. *Why:* False. Ripening is chemistry, and it runs slowly in the cold. A fruit from a warm place can also be damaged by a long spell in the cold. Ripen the fruit on a warm shelf, and cool it afterwards if it is ripe.
@@ -705,7 +705,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 11. (order) Put these in order for a carrot plant, from first to last.  
    **Answer:** order shown. *Why:* In the first year, the carrot makes leaves and stores food in the root. In the second year, the plant spends that food to flower and make seeds. Then the plant dies.
 12. (mcq) Coriander and palak often send up flower stalks and turn bitter in summer. What is the best explanation?  
-   Options: Long, hot days tell these plants that it is time to flower and make seed / Summer rain makes them bitter / They are tired of being picked / Their roots dry out  
+   Options: Summer rain makes them bitter / They are tired of being picked / Long, hot days tell these plants that it is time to flower and make seed / Their roots dry out  
    **Answer:** Long, hot days tell these plants that it is time to flower and make seed. *Why:* Palak and coriander are long-day plants. When days grow long and warm, they send up a flower stalk, which gardeners call bolting. Picking 'tired of being picked' puts the cause in the wrong place. The day length is the sign.
 13. (perspective) Three neighbours disagree about how to keep a bunch of palak fresh. Each gives advice.  
    **Answer:** A strong answer picks the second person's plan. Ripe bananas give off ethylene, which makes leaves yellow sooner, so keeping the palak away from fruit helps. A damp cloth keeps the leaves from drying out. The third person is right that the fridge slows ageing, but a sealed plastic bag can make leaves slimy. The first person is right that the palak is more likely to be used if it is in sight, but the bananas shorten its life. A strong answer gives each plan its due.. *Why:* Ethylene from ripe fruit pushes leaves to age. Cool, damp and airy storage keeps leaves fresh longest.
@@ -718,10 +718,10 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
    **Answer:** A mango stone is a seed, and a seed gets instructions from two parents, so each seedling is a little different. A grafted twig is a piece of the best tree, so the new branch has exactly the same instructions and bears the same fruit.. *Why:* A strong answer says that seeds mix instructions from two parents, and that a cutting or graft is a copy of one parent.
 ### Plants Over Time (stretch) (stretch, 16 questions)
 1. (mcq) A banana stem flowers once, makes one bunch and dies. Yet a banana clump can go on for decades. How?  
-   Options: New stems keep growing from suckers at the base / The old stem grows back / Seeds fall from the bunch / The roots die and grow again  
+   Options: The old stem grows back / Seeds fall from the bunch / New stems keep growing from suckers at the base / The roots die and grow again  
    **Answer:** New stems keep growing from suckers at the base. *Why:* Each banana stem lives about a year, but the clump sends up suckers, which become new stems. So the clump goes on while each stem has just one season. Picking 'seeds' is a common guess, but the bananas we eat are seedless.
 2. (mcq) Tulip bulbs sold in a warm country are kept in a cold store before they are planted. Why?  
-   Options: Tulips need a spell of cold before they will flower / Cold makes the bulbs sweeter / Cold kills germs / Cold keeps the bulbs from growing roots  
+   Options: Cold makes the bulbs sweeter / Cold kills germs / Tulips need a spell of cold before they will flower / Cold keeps the bulbs from growing roots  
    **Answer:** Tulips need a spell of cold before they will flower. *Why:* Tulips need a winter chill, which tells the plant that winter has passed. A warm-country grower gives the chill in a cold store. Picking 'kills germs' sounds sensible but does not explain the flowering.
 3. (fill) A tree that has 40 rings in a seasonal climate is about ____ years old.  
    **Answer:** ['40', 'forty']. *Why:* In a place with a wet and a dry season, a tree usually adds one ring a year. So 40 rings means about 40 years. It is a good guess but not perfect, because some years can leave a missing or double ring.
@@ -734,15 +734,15 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 7. (match) Match each stage of a fern's life to its job.  
    **Answer:** Frond with brown dots → makes and releases spores; Spore → lands on damp soil and grows into a tiny plant; Heart-shaped prothallus → makes eggs and sperm; Baby fern → grows into a big fern that makes spores. *Why:* A fern's life cycle goes round with two bodies. The big fern makes the spores. The tiny heart makes the eggs and sperm.
 8. (mcq) Why do ferns usually live in damp, shady places?  
-   Options: The sperm must swim through a film of water to reach the egg / Ferns dislike light / Ferns eat water / Ferns make flowers in the dark  
+   Options: Ferns dislike light / The sperm must swim through a film of water to reach the egg / Ferns eat water / Ferns make flowers in the dark  
    **Answer:** The sperm must swim through a film of water to reach the egg. *Why:* Fern sperm swim to the egg through a thin film of water, so ferns need damp places to reproduce. Picking 'dislike light' is a common idea. Many ferns do grow in sun if they have enough water.
 9. (sort) Sort these new plants. Are they a clone of one parent, or grown from seed?  
    **Answer:** a money plant cutting rooted in water → Clone of one parent; a grafted Alphonso mango tree → Clone of one parent; a banana sucker → Clone of one parent; a marigold grown from a seed → Grown from seed; a mango tree grown from a stone → Grown from seed; a wheat plant grown from a grain → Grown from seed. *Why:* Cuttings, grafts and suckers are pieces of one plant, so they are exact copies. Seeds mix instructions from two parents, so seedlings are all a little different.
 10. (mcq) Most bananas we eat are clones of just a few kinds. Why could one disease be a danger to all of them?  
-   Options: All the plants are exact copies, so they share the same weakness / Bananas cannot grow roots / Bananas have no leaves / Diseases like sweet fruit  
+   Options: Bananas cannot grow roots / All the plants are exact copies, so they share the same weakness / Bananas have no leaves / Diseases like sweet fruit  
    **Answer:** All the plants are exact copies, so they share the same weakness. *Why:* If every plant has the same instructions, a disease that can harm one can harm all. Seeds give variety, and in a field of seedlings some may resist the disease. Picking 'diseases like sweet fruit' misses the role of variety.
 11. (mcq) Flower growers in some places cover chrysanthemums with dark cloth in the evening, for part of the year. Why?  
-   Options: Chrysanthemums flower when nights are long, so the cloth tricks them into thinking the night is long / The cloth keeps off rain / The cloth stops insects / Chrysanthemums sleep in the evening  
+   Options: The cloth keeps off rain / The cloth stops insects / Chrysanthemums sleep in the evening / Chrysanthemums flower when nights are long, so the cloth tricks them into thinking the night is long  
    **Answer:** Chrysanthemums flower when nights are long, so the cloth tricks them into thinking the night is long. *Why:* Chrysanthemums are short-day plants. They flower when nights are long. Covering them in the evening makes the night longer and the day shorter, which tells the plant to flower. Growers use this to time their blooms for a festival.
 12. (perspective) Tree scientists disagree about whether old trees age the way animals do. Three of them give their views.  
    **Answer:** There is no single right answer. A strong answer uses facts such as that some trees keep making seeds into great age, and that big old trees can rot inside. It also says how to test the view, such as measuring the growth and seed output of trees of different ages. A strong answer gives each view its due.. *Why:* The question is still debated. Different kinds of tree behave in different ways, and it is hard to follow a tree for centuries.
@@ -753,21 +753,21 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 15. (draw) Draw a tree trunk cut across, showing about 10 rings. Make one ring very narrow and one very wide. Label the narrow ring with a likely cause, and the wide ring with a likely cause.  
    **Answer:** A circle with about ten rings of different widths. The narrow ring is labelled drought or dry year. The wide ring is labelled good rain year.. *Why:* A ring's width records how good the year was for the tree. Narrow means a hard year, and wide means a good year.
 16. (mcq) A leaf still on a plant has a patch covered with black paper for a week. What will you most likely see when you take the paper off?  
-   Options: The covered patch has turned yellow while the rest of the leaf is green / The whole leaf is green / The covered patch is darker green / The whole leaf is yellow  
+   Options: The whole leaf is green / The covered patch has turned yellow while the rest of the leaf is green / The covered patch is darker green / The whole leaf is yellow  
    **Answer:** The covered patch has turned yellow while the rest of the leaf is green. *Why:* The covered patch could not make food, so the plant began taking that part of the leaf apart. The rest of the leaf, which had light, stayed green. Picking 'darker green' mixes up the effect of light with the effect of dark.
 ### Plant Puzzles (challenge) (challenge, 16 questions)
 1. (fill) Growers thought that the heat from kerosene stoves coloured their lemons. To test this, scientists kept the ____ the same in every chamber and changed only the gas.  
    **Answer:** ['temperature', 'heat', 'warmth']. *Why:* A fair test changes one thing. Keeping the temperature the same and changing only the gas showed that the gas, not the heat, made the lemons turn yellow.
 2. (mcq) In a sealed plant chamber on a space station, ethylene made by the plants builds up. What is the likely result, and what do the crew do?  
-   Options: The plants age and drop leaves sooner, so the crew remove the gas / The plants grow faster, so the crew add more gas / Nothing happens / The plants make flowers at once  
+   Options: The plants grow faster, so the crew add more gas / The plants age and drop leaves sooner, so the crew remove the gas / Nothing happens / The plants make flowers at once  
    **Answer:** The plants age and drop leaves sooner, so the crew remove the gas. *Why:* Ethylene pushes leaves and fruit to age, so too much of it is harmful. In sealed chambers, the gas has to be removed. Picking 'grow faster' mixes up a ripening signal with a growth signal.
 3. (write) Many families in India have ripened mangoes in a basket of rice or straw for generations. Explain why this might work, using what you know about the ripening gas and warmth.  
    **Answer:** A heap of rice or straw holds the ethylene that the mangoes give off, so it stays close and builds up. The heap is also warm, and ripening is faster in warmth. Air can still seep in through the gaps. So the mangoes ripen together, kept warm and surrounded by their own gas.. *Why:* A strong answer links the heap to holding the gas, warmth and fresh air.
 4. (mcq) Why might a plant gain from taking leaves apart before dropping them?  
-   Options: It saves the nitrogen and minerals for the seeds or for next season / It makes the leaves bigger / It makes the leaf more colourful for visitors / It stops the roots from growing  
+   Options: It makes the leaves bigger / It saves the nitrogen and minerals for the seeds or for next season / It makes the leaf more colourful for visitors / It stops the roots from growing  
    **Answer:** It saves the nitrogen and minerals for the seeds or for next season. *Why:* Nitrogen and minerals are valuable, because the plant has had to gather them from the soil. Moving them out of the leaves before they fall lets the plant use them again. Picking 'colourful for visitors' is a guess, but yellow leaves are not meant to attract anyone.
 5. (mcq) In an experiment, a soybean plant that keeps the pods dies sooner than a plant whose flowers and pods are removed. Which idea does this best support?  
-   Options: The developing seeds help to end the life of the plant / Pods keep a plant alive / Soybeans never die / Pods make plants taller  
+   Options: Pods keep a plant alive / Soybeans never die / Pods make plants taller / The developing seeds help to end the life of the plant  
    **Answer:** The developing seeds help to end the life of the plant. *Why:* When the seeds are removed, the plant stays green for much longer. So the seeds seem to take part in ending the plant, either by drawing off the plant's food or by a chemical signal. Picking 'pods keep a plant alive' reads the result backwards.
 6. (perspective) Almost all the bananas in the world's shops are clones of a few kinds. Three people give their views.  
    **Answer:** A strong answer uses the idea that clones are copies and so share the same weaknesses, and seeds give variety. The farmer is right that clones are reliable and convenient. The disease scientist and the seed bank scientist are right that variety is a kind of insurance. A strong answer may suggest keeping many kinds, as the seed bank scientist says.. *Why:* Clones are convenient, but a field of identical plants can be wiped out by one disease. Keeping variety is a kind of insurance.
@@ -802,40 +802,40 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 
 ## Quiz
 1. (mcq) Which of these best explains why a ripe banana in a bag makes a raw mango ripen sooner?  
-   Options: The banana gives off a gas that the mango can sense / The banana's sugar flows into the mango / The banana warms the mango / The banana's skin sticks to the mango  
+   Options: The banana's sugar flows into the mango / The banana gives off a gas that the mango can sense / The banana warms the mango / The banana's skin sticks to the mango  
    **Answer:** The banana gives off a gas that the mango can sense. *Why:* The banana makes ethylene, which drifts through the air in the bag. Raw fruit have receptors that sense it, and they start to ripen too. Picking 'sugar flows' is a natural guess, but the banana and mango never touch.
 2. (mcq) As a mango ripens and tastes sweeter, what happens to the starch stored in the fruit?  
-   Options: Enzymes cut it into sugar / It turns into water / It stays the same / It turns into seeds  
+   Options: It turns into water / It stays the same / It turns into seeds / Enzymes cut it into sugar  
    **Answer:** Enzymes cut it into sugar. *Why:* Ripening turns stored starch into sugar. Picking 'stays the same' would leave the fruit hard and bland. Picking 'seeds' mixes up the food in a fruit with the new plants inside.
 3. (mcq) Which of these is the best way to ripen a hard green mango at home?  
-   Options: A paper bag with a ripe banana, opened each day for fresh air / A sealed plastic bag in the fridge / A closed tin with a lid taped shut / A bowl of cold water  
+   Options: A sealed plastic bag in the fridge / A closed tin with a lid taped shut / A bowl of cold water / A paper bag with a ripe banana, opened each day for fresh air  
    **Answer:** A paper bag with a ripe banana, opened each day for fresh air. *Why:* Ripening needs warmth, a little ethylene and fresh air. A paper bag keeps the gas close and lets air in when opened. The fridge slows ripening, and a sealed tin runs short of air.
 4. (mcq) A carrot plant stores food in the root in the first year. What does the plant do with the food in the second year?  
-   Options: Uses it to grow a flower stalk and make seeds / Makes a second, bigger carrot / Gives it away to the soil / Stores it for a third year  
+   Options: Makes a second, bigger carrot / Gives it away to the soil / Uses it to grow a flower stalk and make seeds / Stores it for a third year  
    **Answer:** Uses it to grow a flower stalk and make seeds. *Why:* A carrot is a biennial. The plant saves up food in year one, and spends it in year two on flowers and seeds. Then the plant dies. We usually eat the carrot before the plant flowers.
 5. (mcq) How does a fern make new ferns?  
-   Options: With tiny spores that grow into a heart-shaped plant / With flowers and seeds, like a rose / By dropping whole fronds / With roots only  
+   Options: With flowers and seeds, like a rose / By dropping whole fronds / With tiny spores that grow into a heart-shaped plant / With roots only  
    **Answer:** With tiny spores that grow into a heart-shaped plant. *Why:* A fern makes dust-like spores under the fronds. A spore grows on damp soil into a tiny heart-shaped plant, which makes eggs and sperm. The fertilised egg grows into a fern. Picking 'flowers and seeds' is the old mistaken idea about ferns.
 6. (mcq) A farmer takes a money plant cutting and roots it in water. How is the new plant related to the old plant?  
-   Options: It is an exact copy, a clone of the old plant / It is a different kind of plant / It is the old plant's child, a little different / It is half the old plant and half a new plant  
+   Options: It is a different kind of plant / It is the old plant's child, a little different / It is half the old plant and half a new plant / It is an exact copy, a clone of the old plant  
    **Answer:** It is an exact copy, a clone of the old plant. *Why:* A cutting is a piece of the parent, so it has exactly the same instructions. A plant from a seed gets instructions from two parents, so the new plant is a little different. Picking 'a little different' describes a seedling.
 7. (mcq) Which of these plants is most likely to need a spell of winter cold before it flowers?  
-   Options: Apple / Tomato / Moong / Sunflower  
+   Options: Tomato / Moong / Sunflower / Apple  
    **Answer:** Apple. *Why:* Apple trees come from cool places and need winter chill to flower well. Tomato, moong and sunflower flower without a cold spell. Picking 'tomato' mixes up fruit that grow in warmth with plants that need cold.
 8. (mcq) A tree has a very narrow ring among wide ones. What is the best explanation?  
-   Options: That year was hard for the tree, such as a year of little rain / The tree was cut that year / A bird ate the ring / The tree was planted that year  
+   Options: The tree was cut that year / That year was hard for the tree, such as a year of little rain / A bird ate the ring / The tree was planted that year  
    **Answer:** That year was hard for the tree, such as a year of little rain. *Why:* A tree grows less in a hard year, so the ring is narrow. A wide ring marks a good year. Picking 'planted that year' would put the narrow ring at the centre, in the first year, not among wide ones.
 9. (mcq) A palak leaf is kept in a dark cupboard for a week. What do you expect?  
-   Options: The leaf goes yellow, because the plant cannot make food from it and begins to take it apart / The leaf grows bigger / The leaf turns darker green / The leaf stays exactly the same  
+   Options: The leaf grows bigger / The leaf goes yellow, because the plant cannot make food from it and begins to take it apart / The leaf turns darker green / The leaf stays exactly the same  
    **Answer:** The leaf goes yellow, because the plant cannot make food from it and begins to take it apart. *Why:* Without light, a leaf cannot make food. The leaf starts to age, the chlorophyll is broken down, and the leaf turns yellow. Picking 'darker green' is the opposite of what happens.
 10. (mcq) Which of these plants flowers just once after waiting for many years, and then dies?  
-   Options: Talipot palm / Mango tree / Banyan tree / Neem tree  
+   Options: Mango tree / Talipot palm / Banyan tree / Neem tree  
    **Answer:** Talipot palm. *Why:* A talipot palm waits for more than 30 years, flowers once and dies. Mango, banyan and neem flower in many seasons. Picking 'banyan' mixes up a plant that lives long with a plant that flowers once.
 11. (mcq) The chart shows how soft three mangoes were after four days. How many softness points more did the mango in the bag with a ripe banana score than the mango left in the open?  
-   Options: 2 points more / 1 point more / 4 points more / 3 points more  
+   Options: 1 point more / 4 points more / 2 points more / 3 points more  
    **Answer:** 2 points more. *Why:* The mango with the banana scored 4 and the mango in the open scored 2. 4 take away 2 is 2. Picking 4 means reading only the first bar, not the difference.
 12. (mcq) Why do mango farmers graft a twig of their best tree onto young plants, instead of planting stones?  
-   Options: The twig grows into a branch that bears the same fruit as the best tree / Stones cannot grow / Grafts give more variety / A twig has more seeds  
+   Options: Stones cannot grow / Grafts give more variety / A twig has more seeds / The twig grows into a branch that bears the same fruit as the best tree  
    **Answer:** The twig grows into a branch that bears the same fruit as the best tree. *Why:* A graft is a piece of the best tree, so it gives the same fruit. Stones are seeds, and each seedling is a little different. Picking 'more variety' is the opposite, because a graft is a copy.
 
 ## Applications

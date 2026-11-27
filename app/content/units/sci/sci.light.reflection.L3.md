@@ -615,7 +615,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 ## Worksheets
 ### Mirror Detective (core) (core, 15 questions)
 1. (mcq) You take a mirror into a storeroom with no light at all and shut the door. What will you see in the mirror?  
-   Options: Nothing, because a mirror only sends back light that reaches it / Your face, because a mirror shines by itself / A faint glow from the glass  
+   Options: Your face, because a mirror shines by itself / Nothing, because a mirror only sends back light that reaches it / A faint glow from the glass  
    **Answer:** Nothing, because a mirror only sends back light that reaches it. *Why:* A mirror is not a light source. It only reflects light that comes from somewhere else, like the Sun or a bulb. With no light in the room, there is nothing to reflect. Picking 'your face' is a common idea, because mirrors look so bright in a lit room.
 2. (fill) When light hits a mirror, it reflects off at the same ____ that it came in.  
    **Answer:** ['angle']. *Why:* Light leaves a mirror at the same angle it arrived, on the other side, like a ball bouncing off a wall.
@@ -656,20 +656,20 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 3. (write) Two mirrors stand at an angle, with a toy between them. You make the gap between the mirrors smaller. Do you see more images of the toy or fewer? Explain why, using the word 'reflect'.  
    **Answer:** More images. Light from the toy reflects from one mirror to the other and back again. In a smaller gap, the light can bounce more times before it comes out to my eye. Each bounce makes another image.. *Why:* A strong answer explains it with light bouncing between the mirrors, not with the mirrors 'making' toys.
 4. (mcq) Why does a torch have a curved mirror behind the bulb?  
-   Options: To send the light forward in a strong beam / To make the bulb hotter / To keep the light inside  
+   Options: To make the bulb hotter / To keep the light inside / To send the light forward in a strong beam  
    **Answer:** To send the light forward in a strong beam. *Why:* The curved mirror catches light going backwards and sends it forward, so the beam is stronger.
 5. (match) Match each old mirror to what it was made of.  
    **Answer:** The first mirrors → still water; Mirrors in Anatolia 8,000 years ago → polished volcanic glass; Aranmula kannadi from Kerala → polished metal; Most mirrors today → glass with a thin metal layer. *Why:* People have always looked for smooth, shiny surfaces. Water came first, then volcanic glass called obsidian, then metals, then metal-backed glass.
 6. (mcq) Deep down, what sends light back from a mirror?  
-   Options: Free electrons in its thin metal layer / The glass at the front / Air behind the mirror  
+   Options: The glass at the front / Air behind the mirror / Free electrons in its thin metal layer  
    **Answer:** Free electrons in its thin metal layer. *Why:* Light shakes the free electrons in the thin metal layer, and they send the light back out. The glass is mostly there to keep the metal smooth and safe. Picking 'the glass' is very common, but clear glass on its own lets most light through.
 7. (mcq) The Sheesh Mahal, a palace hall at Amber Fort near Jaipur, is covered in tiny mirrors. Why does one lamp make it sparkle so much?  
-   Options: Each tiny mirror reflects the lamp's light to your eyes from a different place / The mirrors make their own light / The walls are see-through  
+   Options: The mirrors make their own light / Each tiny mirror reflects the lamp's light to your eyes from a different place / The walls are see-through  
    **Answer:** Each tiny mirror reflects the lamp's light to your eyes from a different place. *Why:* Each mirror bounces light towards you from a slightly different spot. So one lamp seems to become hundreds of sparkles.
 8. (sort) Sort these. Which ones have mirror-like parts in their bodies?  
    **Answer:** a cat (eyes) → Has mirror-like parts; a dog (eyes) → Has mirror-like parts; a scallop, a kind of shellfish (eyes) → Has mirror-like parts; a sardine (silvery scales) → Has mirror-like parts; a human (eyes) → Does not; an earthworm (skin) → Does not. *Why:* Cats and dogs have a reflecting layer at the back of their eyes. Scallops have tiny mirror eyes. Silvery fish have mirror scales. Human eyes have no reflecting layer, which is why they do not shine in headlights. An earthworm's skin is soft and damp, with no mirror parts.
 9. (mcq) Hill roads in the ghats have a round, bulging mirror at sharp bends. Why is a bulging mirror better there than a flat one?  
-   Options: It shows a wide view, so a driver sees a long stretch of road round the bend / It makes cars look bigger / It makes its own light at night  
+   Options: It makes cars look bigger / It makes its own light at night / It shows a wide view, so a driver sees a long stretch of road round the bend  
    **Answer:** It shows a wide view, so a driver sees a long stretch of road round the bend. *Why:* A bulging (convex) mirror spreads the rays out, so it shows much more of the road than a flat mirror of the same size. The things look smaller and further away, but the driver sees the whole bend.
 10. (draw) You use a mirror to bounce sunlight onto a shady wall. Draw the Sun, the mirror and the bright spot on the wall, with arrows for the light. Then draw where the spot goes if you tilt the mirror a little.  
    **Answer:** An arrow from the Sun to the mirror, and an arrow from the mirror to the spot on the wall. A second drawing shows the mirror tilted and the spot moved along the wall.. *Why:* A strong drawing shows the light reflecting off at the same angle it came in. When the mirror tilts, the reflected beam swings, so the spot moves. It moves further than you might expect.
@@ -688,18 +688,18 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 1. (perspective) Does a mirror really swap left and right? People explain it in different ways.  
    **Answer:** A strong answer uses a real test: when I raise my right hand, the image's hand is on the same side of the room, so nothing swapped side to side. It explains the feeling with Block's idea of turning round. It also admits the first view is right about how the image looks: like a person wearing the watch on the other wrist.. *Why:* Scientists agree on what the light does. People still argue about why it feels as if left and right are swapped.
 2. (mcq) Which fact best shows that light travels into our eyes, not out of them?  
-   Options: Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye / Mirrors are made of glass / Eyes are too small to send out light  
+   Options: Mirrors are made of glass / Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye / Eyes are too small to send out light  
    **Answer:** Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye. *Why:* If rays only went out of the eye, bright light could not hurt it. The pain and the bright patch show that light comes in.
 3. (mcq) Scientists wondered if nature works exactly the same in a mirror world. Which test could check this?  
-   Options: Set up an experiment and its exact mirror copy, and see if both give the same result / Look in a mirror and see if you are still there / Ask people whether mirrors are fair  
+   Options: Look in a mirror and see if you are still there / Ask people whether mirrors are fair / Set up an experiment and its exact mirror copy, and see if both give the same result  
    **Answer:** Set up an experiment and its exact mirror copy, and see if both give the same result. *Why:* To test it, you build the real setup and its mirror copy and compare them. When Chien-Shiung Wu did this in 1957, one force of nature, the weak force, did not act the same.
 4. (mcq) Astronauts left mirrors on the Moon in 1969. What do scientists use them for?  
-   Options: To measure how far away the Moon is, by bouncing laser light off them / To make the Moon brighter / To heat the Moon  
+   Options: To make the Moon brighter / To heat the Moon / To measure how far away the Moon is, by bouncing laser light off them  
    **Answer:** To measure how far away the Moon is, by bouncing laser light off them. *Why:* Scientists send a laser pulse to the Moon and time how long the reflection takes to come back. That tells them the distance very exactly. It shows the Moon moves about 3.8 cm further from Earth every year.
 5. (truefalse) The best mirrors scientists can make reflect every single bit of light.  
    **Answer:** False. *Why:* False. Even the best mirrors lose a tiny part of the light at every bounce, less than one part in ten thousand. No mirror is perfect.
 6. (mcq) In the mirror test, scientists put a mark on an animal where they can only see the mark in a mirror. In 2019, a tiny fish called a cleaner wrasse scraped at their mark. Why did this surprise scientists?  
-   Options: Many thought only big-brained animals could pass the mirror test / Fish cannot see / The mark was invisible  
+   Options: Fish cannot see / Many thought only big-brained animals could pass the mirror test / The mark was invisible  
    **Answer:** Many thought only big-brained animals could pass the mirror test. *Why:* Before 2019, the animals that had passed were mostly great apes, elephants, dolphins and magpies. The fish result made scientists argue about what the test really shows.
 7. (write) Someone says, 'The mirror in my room is so bright in the sun that it must make its own light.' Describe a test, with things you have at home, that shows whether this is right.  
    **Answer:** Take the mirror into a room or cupboard with no light and shut the door. If the mirror made its own light, it would glow. It does not glow, so it only reflects light that comes from somewhere else. I could also switch a torch on, and the mirror would shine only where the torch beam hits it.. *Why:* A strong answer plans a fair test: the same mirror, with light and then with none, and says what you would see in each case.
@@ -727,7 +727,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
 
 ## Quiz
 1. (mcq) What is reflection?  
-   Options: Light bouncing off a surface / Light made by a mirror / A shadow  
+   Options: Light made by a mirror / A shadow / Light bouncing off a surface  
    **Answer:** Light bouncing off a surface. *Why:* Reflection is light bouncing off a surface. Picking 'made by a mirror' means thinking a mirror is a light source. It is not.
 2. (mcq) You can see a book on the table. What lets you see it?  
    Options: Light reflects off the book into your eyes / The book makes its own light / Your eyes send light to the book  
@@ -739,7 +739,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    Options: A new, smooth steel plate / A sheet of sandpaper / A newspaper  
    **Answer:** A new, smooth steel plate. *Why:* Only a very smooth surface sends light back in neat order. Sandpaper and newspaper are rough, so they scatter light every way.
 5. (mcq) Hold a page with writing up to a mirror. Why does the writing look backwards?  
-   Options: The mirror shows the page as if you were looking at it from behind / The mirror flips each letter upside down / The mirror mixes the letters up  
+   Options: The mirror flips each letter upside down / The mirror shows the page as if you were looking at it from behind / The mirror mixes the letters up  
    **Answer:** The mirror shows the page as if you were looking at it from behind. *Why:* A mirror turns front and back round. So you see the page's words the way they look from behind, through thin paper. That is why they run right to left.
 6. (mcq) A chai stall owner paints a sign on the inside of her glass window, for people on the road to read. Why should she paint the letters backwards?  
    Options: So people on the road, who see the glass from the other side, read it the right way / Because she can only write backwards / So it looks like a secret code  
@@ -751,13 +751,13 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
    Options: Light from the toy bounces from one mirror to the other before it reaches your eye / Each mirror makes new toys / The glass splits the toy into pieces  
    **Answer:** Light from the toy bounces from one mirror to the other before it reaches your eye. *Why:* Each extra bounce between the mirrors sends the light to your eye from a new direction, so you see another image. The mirrors make no toys and no light.
 9. (mcq) Why does a car have side mirrors?  
-   Options: So the driver can see what is behind without turning round / To make the car look bigger / To light up the road  
+   Options: To make the car look bigger / So the driver can see what is behind without turning round / To light up the road  
    **Answer:** So the driver can see what is behind without turning round. *Why:* Light from cars behind reflects off the side mirror into the driver's eyes. A mirror makes no light, so it cannot light the road.
 10. (mcq) Why do big telescopes use curved mirrors?  
    Options: To gather faint starlight into one bright image / To keep the stars warm / To make the telescope lighter  
    **Answer:** To gather faint starlight into one bright image. *Why:* A curved mirror gathers lots of faint light into one small spot, so we can see very faraway stars.
 11. (mcq) Do scientists agree about what the mirror test shows?  
-   Options: No. They still argue, for example about a fish that passed / Yes. Only humans pass / Yes. Every animal passes  
+   Options: Yes. Only humans pass / No. They still argue, for example about a fish that passed / Yes. Every animal passes  
    **Answer:** No. They still argue, for example about a fish that passed. *Why:* Apes, elephants and magpies pass. In 2019 a small fish did too. Scientists still argue about what passing really means.
 
 ## Applications

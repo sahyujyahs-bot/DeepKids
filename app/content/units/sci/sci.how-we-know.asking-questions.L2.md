@@ -452,7 +452,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    Options: Does a pebble sink in water? / Does a lemon float? / Is a lemon prettier than a lime? / Does ice float?  
    **Answer:** 2. *Why:* Whether a lemon is prettier is what one person feels. The other three can be tested with a bowl of water.
 9. (mcq) In the Lucky Blow test, why do we roll 30 times each, and not just once?  
-   Options: One roll can be a fluke / To make the die tired / Because 30 is a lucky number  
+   Options: To make the die tired / Because 30 is a lucky number / One roll can be a fluke  
    **Answer:** One roll can be a fluke. *Why:* A die lands by chance, so one roll tells us almost nothing. Many rolls show what usually happens.
 10. (draw) Draw something you could test at home. Then say your test question, and a grown-up writes it.  
    **Answer:** A drawing of something to test, with a question like 'Does a lemon float?'. *Why:* A strong answer is a question that a test can answer, where everyone would see the same result.
@@ -468,7 +468,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 3. (order) Put these steps of a test in order.  
    **Answer:** ['Ask a question', 'Make a prediction and give a reason', 'Do the test and watch', 'Write down what happened']. *Why:* First you ask a question. Then you make a prediction with a reason, before testing. Then you do the test and write down the result.
 4. (mcq) We can never visit a star. But each material gives out its own colours of light. How could we still find out what stars are made of?  
-   Options: By looking at the colours in starlight / We can never know anything about it / By bringing back a piece of a star  
+   Options: We can never know anything about it / By bringing back a piece of a star / By looking at the colours in starlight  
    **Answer:** By looking at the colours in starlight. *Why:* Each material gives out its own pattern of colours. Matching the colours in starlight to these patterns shows that stars are mostly hydrogen and helium.
 5. (fill) Fill the gap: The grip between two things that touch is called ________.  
    **Answer:** friction. *Why:* Friction held the pencil in the packed rice. It gets stronger when things press harder together.
@@ -479,7 +479,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 8. (write) In Guess the Grains, your second prediction was probably closer. Say why, and a grown-up writes it.  
    **Answer:** For example: because I had counted one spoon first, so I knew about how many were in a spoon.. *Why:* A strong answer says the second prediction used evidence from the first count.
 9. (mcq) Forecasters say it will probably rain tomorrow. It doesn't. What does that show?  
-   Options: Weather can be predicted often, but not every time / Forecasts are always wrong / It will never rain again  
+   Options: Forecasts are always wrong / It will never rain again / Weather can be predicted often, but not every time  
    **Answer:** Weather can be predicted often, but not every time. *Why:* Weather depends on many things that keep changing. Forecasters use measurements and are right often, but not always.
 10. (sort) Sort these into 'Sure every time' and 'Chance each time'.  
    **Answer:** A dropped spoon falls → Sure every time; One coin shake lands heads → Chance each time; Ice melts in a hot room → Sure every time; One die roll shows a six → Chance each time. *Why:* Things that always happen the same way can be predicted each time. Coins and dice land by chance.
@@ -495,16 +495,16 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 
 ## Quiz
 1. (mcq) Which question can you test by trying?  
-   Options: Does a steel spoon sink in water? / Which colour is the prettiest? / Is Holi more fun than Pongal?  
+   Options: Which colour is the prettiest? / Does a steel spoon sink in water? / Is Holi more fun than Pongal?  
    **Answer:** Does a steel spoon sink in water?. *Why:* You can drop a spoon in water and everyone will see it sink. The other two are opinions: each person's answer is true for them.
 2. (mcq) 'Idli is tastier than dosa.' What kind of sentence is that?  
    Options: An opinion / A test result / A prediction  
    **Answer:** An opinion. *Why:* It is what one person likes. Someone else may like dosa more, and they are right for themselves.
 3. (mcq) Which one is a prediction?  
-   Options: The ice floated. / I think the ice will float, because ice in my drink floats. / I like ice.  
+   Options: The ice floated. / I like ice. / I think the ice will float, because ice in my drink floats.  
    **Answer:** I think the ice will float, because ice in my drink floats.. *Why:* A prediction says what you think will happen, and why, before the test. 'The ice floated' is a result, after the test.
 4. (mcq) When should you say your prediction?  
-   Options: Before the test / After the test / Only if you are sure  
+   Options: After the test / Only if you are sure / Before the test  
    **Answer:** Before the test. *Why:* A prediction comes before the test, so the test can show if it was right. After a test, anyone can say 'I knew it', even when they did not.
 5. (mcq) In the Rice Bottle Lift, the pencil slid out of loose rice. What made it lift later?  
    Options: Packing the rice tight by poking and tapping / Using a heavier bottle / Pulling faster  
@@ -513,7 +513,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    Options: Write down that it floated, and think about why / Pretend you said it would float / Stop doing tests  
    **Answer:** Write down that it floated, and think about why. *Why:* A wrong prediction shows which idea to change. Now you can wonder what makes a lemon float.
 7. (mcq) Which can you predict right every single time?  
-   Options: A spoon you let go of will fall / A coin will land heads / A die will show six  
+   Options: A coin will land heads / A spoon you let go of will fall / A die will show six  
    **Answer:** A spoon you let go of will fall. *Why:* The Earth pulls a spoon down every time. A coin and a die land by chance.
 8. (truefalse) If blowing on a die gave 6 sixes and not blowing gave 5, that proves blowing works.  
    **Answer:** False. *Why:* False. Counts like these change by chance. A difference of 1 is tiny. You would need to test many more times to see if there is a real difference.
@@ -521,13 +521,13 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    Options: It is one comet coming back, so it will return about 76 years after 1682 / The Moon will fall / It will rain tomorrow  
    **Answer:** It is one comet coming back, so it will return about 76 years after 1682. *Why:* The same path and the same gap of years suggest it is one comet that keeps coming back. A good prediction uses a pattern like this, and then a test can check it.
 10. (mcq) A comet comes back about every 76 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?  
-   Options: The pull of the big planets can slow it down / It gets tired / Comets always come early  
+   Options: It gets tired / The pull of the big planets can slow it down / Comets always come early  
    **Answer:** The pull of the big planets can slow it down. *Why:* Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.
 11. (mcq) Rohan predicted that the big ball would bounce higher, because it is heavier. The small ball bounced higher. What should he say?  
    Options: The result does not support my prediction, so I need to rethink my reason / The result supports my prediction / The test is wrong, so I will bounce them again until the big ball wins  
    **Answer:** The result does not support my prediction, so I need to rethink my reason. *Why:* The result and the prediction do not match, so the result does not support it. Rohan should write it down and change his idea. Bouncing again until the big ball wins would not be a fair look at what really happened.
 12. (mcq) Which question can a book or chart answer, when you cannot go and test it yourself?  
-   Options: What do giraffes eat in the wild? / Which fruit is the tastiest? / Is blue prettier than green?  
+   Options: Which fruit is the tastiest? / Is blue prettier than green? / What do giraffes eat in the wild?  
    **Answer:** What do giraffes eat in the wild?. *Why:* People who watched giraffes have written down what they eat, so a book can tell you. The other two are opinions, and no book can say which one is true for you.
 
 ## Applications

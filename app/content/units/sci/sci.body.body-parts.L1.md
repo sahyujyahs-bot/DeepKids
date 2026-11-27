@@ -425,7 +425,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 2. (match) Draw a line from each part to what it helps you do.  
    **Answer:** Eyes → see; Ears → hear; Nose → smell; Feet → walk. *Why:* Each part helps with its own jobs. Feet also help you stand and jump, and your nose also helps you breathe.
 3. (mcq) Your thumb is taped down. Which job will be the hardest?  
-   Options: Picking up a coin from the floor / Waving goodbye / Clapping your hands  
+   Options: Waving goodbye / Clapping your hands / Picking up a coin from the floor  
    **Answer:** Picking up a coin from the floor. *Why:* To pick up a flat coin, the thumb presses on one side and a finger on the other. Waving and clapping need no pinch, so they stay easy.
 4. (truefalse) Your elbow is a joint. It lets your arm bend.  
    **Answer:** True. *Why:* True. The elbow is where the bone of the upper arm meets the bones of the lower arm. Your arm bends there.
@@ -444,7 +444,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    **Answer:** 3. *Why:* Your knee, elbow and wrist are joints, where two bones meet and the body bends. Your nose does not bend like a joint.
 ### Thumbs, Joints and Other Animals (stretch) (stretch, 10 questions)
 1. (mcq) A newspaper tube is round your elbow, so your arm cannot bend. Which can you not do with that hand?  
-   Options: Put a biscuit in your mouth / Pick up a ball from the floor / Wave to your friend  
+   Options: Pick up a ball from the floor / Put a biscuit in your mouth / Wave to your friend  
    **Answer:** Put a biscuit in your mouth. *Why:* With the elbow kept straight, your arm cannot fold, so your hand cannot come back to your mouth. Picking up a ball and waving need no bending at the elbow.
 2. (order) Put these in order, from the top of your body to the bottom.  
    **Answer:** ['head', 'shoulder', 'knee', 'ankle']. *Why:* Your head is at the top. Your shoulders are below your neck. Your knees are in the middle of your legs. Your ankles are just above your feet.
@@ -461,7 +461,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 8. (perspective) A girl touched a hot tawa, and her hand jumped back before she felt the pain.  
    **Answer:** A strong answer picks a side with a reason. The message went from the hand to the spine and straight back, before the brain knew. Many scientists call this a reflex, and some say sensing and deciding happen all through the body.. *Why:* Scientists still argue about where deciding happens. Both views use the same fact: the hand moved before the first person knew it was hot.
 9. (mcq) What is an elephant's trunk?  
-   Options: A long nose and upper lip joined together / A long arm / A long tail at the front  
+   Options: A long arm / A long tail at the front / A long nose and upper lip joined together  
    **Answer:** A long nose and upper lip joined together. *Why:* An elephant's trunk is a nose and upper lip joined together. The elephant smells, breathes, drinks and picks things up with the trunk.
 10. (sort) Does each part mostly help you move, or mostly help you sense the world? Sort them.  
    **Answer:** legs → Move; eyes → Sense; arms → Move; ears → Sense; knees → Move; nose → Sense. *Why:* Legs, arms and knees move you about. Eyes, ears and nose take in what is around you. Your hands and skin do both.
@@ -479,16 +479,16 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    Options: Just above your foot / In the middle of your arm / On your face  
    **Answer:** Just above your foot. *Why:* Your ankle is the joint between your leg and your foot. It lets your foot point up and down.
 3. (mcq) Which part helps you smell a jasmine flower?  
-   Options: Your nose / Your chin / Your heel  
+   Options: Your chin / Your nose / Your heel  
    **Answer:** Your nose. *Why:* Your nose smells, and you breathe through your nose too.
 4. (mcq) In the thumb test, why was picking up rice harder with the thumb taped?  
-   Options: The fingers had no thumb to press against / The rice got heavier / The tape was too sticky  
+   Options: The rice got heavier / The tape was too sticky / The fingers had no thumb to press against  
    **Answer:** The fingers had no thumb to press against. *Why:* A pinch needs the thumb on one side and a finger on the other. With the thumb taped, the fingers could only press against each other.
 5. (mcq) Which job needs your thumb the most?  
-   Options: Doing up a button / Kicking a ball / Nodding your head  
+   Options: Kicking a ball / Nodding your head / Doing up a button  
    **Answer:** Doing up a button. *Why:* A button has to be pinched from both sides, by the thumb and a finger. Kicking and nodding do not use your thumb.
 6. (mcq) What is a joint?  
-   Options: A place where two bones meet, where you can bend / A kind of muscle / The hard part of a bone  
+   Options: A kind of muscle / The hard part of a bone / A place where two bones meet, where you can bend  
    **Answer:** A place where two bones meet, where you can bend. *Why:* At a joint, two bones meet. Bones do not bend, so your body bends at its joints.
 7. (mcq) Which of these is a joint?  
    Options: Your wrist / Your ear / Your hair  
@@ -500,7 +500,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
    Options: A thumb and four fingers / The same size / The same colour  
    **Answer:** A thumb and four fingers. *Why:* Almost every hand has a thumb and four fingers. But hands come in many sizes and colours.
 10. (mcq) Which animal has six legs?  
-   Options: An ant / A crow / A cat  
+   Options: A crow / An ant / A cat  
    **Answer:** An ant. *Why:* An ant has six legs and two feelers. A crow has two legs and a cat has four.
 
 ## Applications

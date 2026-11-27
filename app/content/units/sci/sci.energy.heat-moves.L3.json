@@ -673,11 +673,11 @@
       "t": "mcq",
       "q": "On a steel ladle in hot water, which peppercorn falls first?",
       "options": [
-       "The one at the top, because heat rises",
        "The one nearest the water",
+       "The one at the top, because heat rises",
        "They all fall at the same time"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The heat comes from the water, so it reaches the nearest part of the steel first. Picking 'the top' is a common guess, because hot air rises. But inside a solid, heat moves from hot to cool, whichever way that is. If you guessed 'all at once', look at your times: the heat needed time to travel."
      },
      "parent": "The waits usually grow longer. For example, the first dot may fall after 1 minute. The next may fall 3 minutes later, and the next 5 minutes after that. Each part of the ladle has to warm up before it can pass heat on. So every part further along has to wait longer than the part before it."
@@ -957,11 +957,11 @@
       "t": "mcq",
       "q": "Why did the ice in your fist melt faster?",
       "options": [
-       "Cold moved from the ice into your hand",
        "Heat moved from your warm hand into the ice",
+       "Cold moved from the ice into your hand",
        "Your hand squeezed the ice"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Heat moves from a warmer thing to a cooler one. Your hand was warmer than the ice, so heat moved into the ice and melted it. Your hand felt cold because it lost heat. Cold is not a thing that moves. Squeezing can break ice, but it does not melt much of it."
      }
     }
@@ -1199,10 +1199,10 @@
    "p": "A cup of hot tea stands in a room. Which way does heat move?",
    "opts": [
     "From the room into the tea",
-    "From the tea into the room",
-    "It does not move"
+    "It does not move",
+    "From the tea into the room"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Heat moves from the hotter tea into the cooler room, until the tea is as warm as the room.",
    "outcome": 0
   },
@@ -1211,10 +1211,10 @@
    "p": "A steel spoon stands in hot milk. How does its handle get warm?",
    "opts": [
     "Hot milk climbs up inside the spoon",
-    "Heat is passed up the steel, from part to part",
-    "The air pushes cold out of the spoon"
+    "The air pushes cold out of the spoon",
+    "Heat is passed up the steel, from part to part"
    ],
-   "a": 1,
+   "a": 2,
    "why": "This is conduction. Each part of the steel warms the part next to it. No milk climbs up.",
    "outcome": 1
   },
@@ -1223,10 +1223,10 @@
    "p": "Butter dots are put on a steel ladle at 2 cm and 6 cm above hot water. What will most likely happen?",
    "opts": [
     "The 6 cm dot melts first",
-    "The 2 cm dot melts first, and the 6 cm dot much later or not at all",
-    "Both melt at the same moment"
+    "Both melt at the same moment",
+    "The 2 cm dot melts first, and the 6 cm dot much later or not at all"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Heat reaches the nearest part first. The far part waits much longer, and gets less heat, because some leaks into the air.",
    "outcome": 2
   },
@@ -1234,11 +1234,11 @@
    "t": "mcq",
    "p": "Which of these is a good conductor of heat?",
    "opts": [
-    "A wooden spatula",
     "An aluminium kadai",
+    "A wooden spatula",
     "A plastic plate"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Aluminium is a metal, and metals are good conductors of heat. Wood and plastic are insulators.",
    "outcome": 3
   },
@@ -1246,11 +1246,11 @@
    "t": "mcq",
    "p": "Why do pressure cookers have plastic handles?",
    "opts": [
-    "Plastic is cheaper than metal",
     "Plastic is an insulator, so the handle stays cool enough to hold",
+    "Plastic is cheaper than metal",
     "Plastic makes the food cook faster"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Heat moves through plastic very slowly, so the handle does not get hot quickly.",
    "outcome": 3
   },
@@ -1270,11 +1270,11 @@
    "t": "mcq",
    "p": "You want to test how far heat travels up a ladle. Which test is fair?",
    "opts": [
-    "Dots of different sizes at different heights",
     "Dots of the same size at different heights",
+    "Dots of different sizes at different heights",
     "One dot, moved about during the test"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In a fair test, only one thing changes. Here it is the height, so every dot must be the same size.",
    "outcome": 4
   },
@@ -1282,11 +1282,11 @@
    "t": "mcq",
    "p": "Why does a ladle for hot sambar have a long handle?",
    "opts": [
-    "The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler",
     "A long handle holds more sambar",
+    "The heat takes a long time to reach the far end, and some leaks into the air, so the end stays cooler",
     "Long steel is an insulator"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heat reaches far parts of a handle late and in small amounts, because it is passed on part by part and some leaks into the air.",
    "outcome": 2
   },
@@ -1295,10 +1295,10 @@
    "p": "How do the particles in a hot spoon pass heat along?",
    "opts": [
     "They flow up the handle like water",
-    "They shake faster and bump the particles next to them",
-    "They get bigger"
+    "They get bigger",
+    "They shake faster and bump the particles next to them"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Hot particles shake faster. They bump their neighbours, which then shake faster too. The particles stay in place.",
    "outcome": 1
   },
@@ -1306,11 +1306,11 @@
    "t": "mcq",
    "p": "Which metal carries heat fastest?",
    "opts": [
-    "Copper",
     "Stainless steel",
-    "Lead"
+    "Lead",
+    "Copper"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Copper is one of the best conductors of heat. Stainless steel and lead are much slower.",
    "outcome": 3
   },
@@ -1331,10 +1331,10 @@
    "p": "Which of these is mostly conduction?",
    "opts": [
     "The Sun warming your face",
-    "A hot tawa cooking a thepla",
-    "Steam rising from a pot"
+    "Steam rising from a pot",
+    "A hot tawa cooking a thepla"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The thepla touches the hot tawa, so heat passes straight into it. The Sun is radiation, and rising steam is convection.",
    "outcome": 1
   }
@@ -1350,11 +1350,11 @@
      "t": "mcq",
      "p": "Which way does heat move by itself?",
      "opts": [
-      "From a cooler thing to a hotter thing",
       "From a hotter thing to a cooler thing",
+      "From a cooler thing to a hotter thing",
       "Only upwards"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Heat moves by itself from hotter to cooler, until both are equally warm. 'Only upwards' is a common mix-up with hot air rising."
     },
     {
@@ -1468,11 +1468,11 @@
      "t": "mcq",
      "p": "In a ladle test, a big butter dot is put at 2 cm and a tiny butter dot at 6 cm. Why is this not a fair test?",
      "opts": [
-      "The dots are different sizes, so size changes how fast they melt",
       "The ladle is steel",
-      "The test used butter, not ghee"
+      "The test used butter, not ghee",
+      "The dots are different sizes, so size changes how fast they melt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A big dot takes longer to melt than a tiny one. In a fair test only the distance should change, so every dot must be the same size."
     },
     {
@@ -1500,11 +1500,11 @@
      "t": "mcq",
      "p": "You hold a hot steel tumbler of milk. Which way does heat move?",
      "opts": [
-      "From the tumbler into your hand",
       "From your hand into the tumbler",
+      "From the tumbler into your hand",
       "Heat does not move"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heat moves from the hotter tumbler into your cooler hand, so your hand warms up."
     },
     {
@@ -1677,10 +1677,10 @@
      "p": "You want your hot tea to stay warm longer. Which cup is best?",
      "opts": [
       "A cup of thin steel",
-      "A cup with two walls and a layer of air between them",
-      "A cup of thin aluminium"
+      "A cup of thin aluminium",
+      "A cup with two walls and a layer of air between them"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Air is an insulator, so a layer of air between two walls slows the heat leaving the tea. Thin steel and aluminium let heat out quickly."
     },
     {
@@ -1748,11 +1748,11 @@
      "t": "mcq",
      "p": "Why do some steel vessels have a layer of copper or aluminium on the bottom?",
      "opts": [
-      "To make them heavier",
       "Copper and aluminium spread heat across the bottom faster than steel",
+      "To make them heavier",
       "To keep the food cold"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Copper and aluminium are much better conductors than stainless steel. So the heat spreads across the whole bottom, and food is less likely to burn in one spot."
     },
     {
@@ -1865,11 +1865,11 @@
      "t": "mcq",
      "p": "A flask has two walls with almost no air in the gap between them. Why does this keep tea hot?",
      "opts": [
-      "With almost nothing in the gap, there are very few particles to pass heat across",
       "The gap makes new heat",
-      "The gap is cold"
+      "The gap is cold",
+      "With almost nothing in the gap, there are very few particles to pass heat across"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Conduction needs particles to pass the heat on. With almost none in the gap, very little heat gets across."
     }
    ]

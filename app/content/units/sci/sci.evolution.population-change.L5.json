@@ -725,11 +725,11 @@
       "t": "mcq",
       "q": "Which of these makes two populations more alike?",
       "options": [
-       "Gene flow",
        "Genetic drift",
+       "Gene flow",
        "A new mutation in one of them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Gene flow carries versions from each population into the other, so their shares move closer. Drift moves each population in a direction of their own, so they grow apart. If you chose drift, look at your four islands in the Lucky Tumbler Test: they began alike and ended different."
      },
      "parent": "The piles come out as 3 mutation, 5 selection, 7 drift and 5 gene flow.",
@@ -830,11 +830,11 @@
       "t": "mcq",
       "q": "Why do reproductive barriers appear between two separated populations?",
       "options": [
-       "As side effects of each changing separately",
        "Because each wants to be a new species",
+       "As side effects of each changing separately",
        "Because a scientist names them differently"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each population changes through its own mutations, drift and selection. Some of those changes happen to affect season, signals or chromosomes, and so breeding. If you chose 'each wants to be a new species', remember that these changes built up while the two groups never met. A species is also not made by naming. The name comes after the barrier."
      },
      "parent": "A good answer says that nobody planned the barriers. They built up while the groups were apart.",
@@ -1384,11 +1384,11 @@
       "t": "mcq",
       "q": "A tumbler is half dark beans. You draw 4 with eyes shut. What is most likely true?",
       "options": [
-       "About half the time you get 2 dark",
        "You always get 2 dark",
-       "You never get 4 of one colour"
+       "You never get 4 of one colour",
+       "About half the time you get 2 dark"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small sample often differs from the whole. Exactly 2 dark comes up in about half the draws, and 1 or 3 dark in most of the others. If you chose 'always', look at your ten rows. Four of one colour is rare but possible: it comes up about once in 35 draws."
      },
      "parent": "This is the idea the whole unit rests on: a small sample rarely matches the whole exactly. In the Lucky Tumbler Test, the sample becomes the parents of the next round.",
@@ -1461,11 +1461,11 @@
       "t": "mcq",
       "q": "A population falls to 5 and grows back to 40. What has changed for good?",
       "options": [
-       "Some gene versions are gone",
        "Nothing, the number is the same",
-       "Every member is now stronger"
+       "Every member is now stronger",
+       "Some gene versions are gone"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The number recovered, but the 40 all descend from 5 survivors, who carried only some of the versions. If you chose 'nothing', count the kinds in your new population. If you chose 'stronger', remember that the survivors were picked by chance, and not for strength."
      },
      "parent": "The seals look healthy and their numbers are large. The loss shows only in their DNA, and it could matter if a new disease arrives.",
@@ -1611,11 +1611,11 @@
       "t": "mcq",
       "q": "A hybrid plant doubles all the chromosomes. Why is the new plant a new species?",
       "options": [
-       "They breed with their own kind but not with either parent",
        "They are bigger than the parents",
+       "They breed with their own kind but not with either parent",
        "They grow in a new place"
       ],
-      "a": 0,
+      "a": 1,
       "why": "After doubling, every chromosome has a partner, so the plant makes working pollen and eggs. But young from a cross back to a parent have unpartnered chromosomes again. If you chose 'bigger', that is often true of such plants, but size does not make a species. A barrier to breeding does."
      },
      "parent": "After doubling, all 8 strips pair. In the cross back, the 2 blue strips have no partners, so those young set little seed. Now the real numbers. A farmed wheat with 28 chromosomes gives 14. A wild goat grass with 14 gives 7. Their hybrid has 21, and doubling gives 42, which is bread wheat. This happened about 9,000 years ago. The farmed wheat with 28 was made the same way, from two wild grasses, long before.",
@@ -1691,11 +1691,11 @@
       "t": "mcq",
       "q": "A rare version is common on an island started by five founders. What is the simplest explanation?",
       "options": [
-       "One founder happened to carry the version",
        "The version helps on islands",
-       "The island caused the version"
+       "The island caused the version",
+       "One founder happened to carry the version"
       ],
-      "a": 0,
+      "a": 2,
       "why": "One in 5 is 20 in every 100, which is five times the mainland share of 4 in 100. No help from the version is needed. If you chose 'helps on islands', that could be true, but it would need evidence that carriers leave more young there."
      },
      "parent": "Most islands get no speckled bean at all, so the rare kind is missing there. A few islands get one, and on those the rare kind starts five times more common. Both results make an island differ from the mainland.",
@@ -1767,11 +1767,11 @@
       "t": "mcq",
       "q": "Two groups differ only in the shares of gene versions. What can one member's version tell you?",
       "options": [
-       "Very little about which group they are from",
        "Exactly which group they are from",
+       "Very little about which group they are from",
        "That the groups are different species"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both versions are found in both groups, so one member could come from either. If you chose 'exactly', look at your score in Which Bowl? Groups that differ only in shares, and that still exchange members, are one species."
      },
      "parent": "Human populations are like these bowls, for nearly every gene. About 85 parts in 100 of human genetic variety is found inside any one population. With many thousands of DNA letters read together, a scientist can usually tell where most of a person's ancestors lived. That works by adding up many small differences in shares. It does not mean any sharp line exists.",
@@ -1956,11 +1956,11 @@
       "t": "mcq",
       "q": "A road is raised so that animals can walk beneath. Why does this matter for the animals' genes?",
       "options": [
-       "Animals can reach mates on the other side",
        "The animals get more exercise",
-       "The road becomes shorter"
+       "The road becomes shorter",
+       "Animals can reach mates on the other side"
       ],
-      "a": 0,
+      "a": 2,
       "why": "An animal who crosses and has young carries gene versions to the other side. That is gene flow, and it keeps the two halves of the forest one population. Without it, each half is a smaller group, and smaller groups lose variety faster by drift."
      },
      "parent": "Good answers notice that different animals need different crossings. Shy animals want a wide, quiet gap. Frogs need damp ground. Tree-living monkeys and squirrels need a bridge of ropes or branches above the road.",
@@ -1980,12 +1980,12 @@
      "t": "mcq",
      "p": "What is genetic drift?",
      "opts": [
-      "A change in shares caused by chance",
       "A change caused by a useful feature",
       "Animals moving to a new place",
+      "A change in shares caused by chance",
       "A copying mistake in DNA"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Drift is change by chance alone. A useful feature spreading is natural selection, moving is gene flow, and a copying mistake is a mutation."
     },
     {
@@ -2077,12 +2077,12 @@
      "t": "mcq",
      "p": "Forty seeds of five kinds pass a bottleneck of five survivors. Which kind is most likely to be lost?",
      "opts": [
-      "The rarest kind",
       "The most common kind",
       "The largest kind",
+      "The rarest kind",
       "The darkest kind"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With only 2 seeds among 40, the rarest kind is seldom among 5 picked by chance. Size and colour play no part when the picking is blind.",
      "how": "a2"
     },
@@ -2134,12 +2134,12 @@
      "t": "mcq",
      "p": "Northern elephant seals number over 200,000. Why does their DNA have so little variety?",
      "opts": [
-      "All descend from about 20 survivors",
       "Seals do not have mutations",
       "The sea is the same everywhere",
+      "All descend from about 20 survivors",
       "They are all the same age"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hunting cut the seals to about 20. Those few carried only part of the old variety, and everyone since has inherited from them."
     },
     {
@@ -2181,12 +2181,12 @@
      "t": "mcq",
      "p": "What is gene flow?",
      "opts": [
-      "Gene versions moving between populations",
       "Genes changing by copying mistakes",
       "Genes being lost in a small group",
+      "Gene versions moving between populations",
       "Blood moving round the body"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gene flow happens when a member moves to another population and has young there. Copying mistakes are mutations, and loss in a small group is drift."
     },
     {
@@ -2309,12 +2309,12 @@
      "t": "mcq",
      "p": "A mule has 63 chromosomes. Why can a mule not have young?",
      "opts": [
-      "An odd number cannot be shared out evenly",
       "63 is too many for any animal",
       "Mules do not live long enough",
+      "An odd number cannot be shared out evenly",
       "Mules never meet other mules"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To make egg or sperm cells, chromosomes must pair up and separate. With 63, one is always left without a partner, so the cells do not get full sets."
     },
     {
@@ -2352,12 +2352,12 @@
      "t": "mcq",
      "p": "Eight pumas from Texas were released among the last Florida panthers. What did the pumas bring?",
      "opts": [
-      "Gene versions the panthers had lost",
       "A new kind of food",
       "A new mutation",
+      "Gene versions the panthers had lost",
       "Stronger muscles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The small panther population had lost much of its variety through drift and inbreeding. The pumas' young carried versions from a larger population."
     },
     {
@@ -2391,12 +2391,12 @@
      "t": "mcq",
      "p": "Bread wheat has 42 chromosomes, in sets of 7. How many sets is that?",
      "opts": [
-      "Six",
       "Two",
+      "Six",
       "Four",
       "Seven"
      ],
-     "a": 0,
+     "a": 1,
      "why": "42 ÷ 7 = 6. The six sets came from three wild grasses, two sets from each."
     },
     {
@@ -2464,12 +2464,12 @@
      "t": "mcq",
      "p": "Tomoko Ohta studied very slightly harmful gene versions. In which population can such a version spread?",
      "opts": [
-      "A small one, where drift is strong",
       "A huge one, where selection is strong",
+      "A small one, where drift is strong",
       "Any, at the same rate",
       "None, ever"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Weak selection removes a slightly harmful version from a large population. In a small population chance is stronger than such weak selection."
     },
     {
@@ -2544,12 +2544,12 @@
      "t": "mcq",
      "p": "Apple flies and hawthorn flies live in the same countryside. What mostly keeps them apart?",
      "opts": [
-      "Their fruits ripen at different times",
       "A river between them",
       "Different numbers of wings",
-      "They are different colours"
+      "They are different colours",
+      "Their fruits ripen at different times"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The flies mate on the fruit they use, and apples ripen weeks before hawthorn fruit. So most apple flies have finished mating before hawthorn flies come out."
     },
     {
@@ -2584,12 +2584,12 @@
    "t": "mcq",
    "p": "Beans are drawn blind, and neither colour is better. One colour still takes over. What is this called?",
    "opts": [
-    "Genetic drift",
     "Natural selection",
+    "Genetic drift",
     "Gene flow",
     "Mutation"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Change in shares by chance alone is genetic drift. Choosing natural selection would mean that one colour helped beans survive, and here neither did.",
    "outcome": 0
   },
@@ -2597,12 +2597,12 @@
    "t": "mcq",
    "p": "Why does chance change a population of 8 faster than a population of 800?",
    "opts": [
-    "A small sample often differs from the whole",
     "Small animals breed faster",
     "Small groups have more mutations",
-    "Large groups do not have genes"
+    "Large groups do not have genes",
+    "A small sample often differs from the whole"
    ],
-   "a": 0,
+   "a": 3,
    "why": "With few parents, a little luck moves the shares a long way. With many parents, lucky and unlucky members nearly cancel out.",
    "outcome": 1
   },
@@ -2617,12 +2617,12 @@
    "t": "mcq",
    "p": "A population is cut to 20 survivors and grows back to thousands. What is this event called?",
    "opts": [
-    "A bottleneck",
     "A corridor",
+    "A bottleneck",
     "A hybrid zone",
     "Chromosome doubling"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bottleneck squeezes a population through a few survivors. Their descendants carry only the versions those few had.",
    "outcome": 2
   },
@@ -2676,12 +2676,12 @@
    "t": "mcq",
    "p": "Which of these is a barrier that acts after two animals have mated?",
    "opts": [
-    "Their young cannot have young",
     "They breed in different months",
+    "Their young cannot have young",
     "Their songs differ",
     "A sea lies between them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A mule is healthy but cannot breed, so no genes pass on. The other three stop the two from meeting or choosing each other in the first place.",
    "outcome": 4
   },
@@ -2689,12 +2689,12 @@
    "t": "mcq",
    "p": "How can a new plant species form in a single generation?",
    "opts": [
-    "A hybrid's chromosomes double",
     "A plant grows very tall",
     "A seed lands on an island",
+    "A hybrid's chromosomes double",
     "A plant is watered more"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Doubling gives every chromosome a partner, so the plant sets seed with their own kind but not with either parent. Landing on an island starts a split that takes thousands of generations.",
    "outcome": 5
   },
@@ -2702,12 +2702,12 @@
    "t": "mcq",
    "p": "A feature is common in one population. What would show that the feature is useful?",
    "opts": [
-    "Members with the feature raise more young",
     "Nearly every member has the feature",
     "The feature looks well designed",
+    "Members with the feature raise more young",
     "The feature is very old"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Useful means leaving more young because of the feature, and that can be counted. Being common is not enough, because chance can make a feature common too.",
    "outcome": 6
   },

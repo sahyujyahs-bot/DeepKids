@@ -424,11 +424,11 @@
       "t": "mcq",
       "q": "The Moon token is on Ashwini tonight. Which nakshatra will the Moon be in tomorrow night?",
       "options": [
-       "Bharani",
        "Krittika",
+       "Bharani",
        "Revati"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Bharani comes just after Ashwini, and the Moon moves about one nakshatra a night, east among the stars, in the order of the ring. If you picked Revati, you counted backwards."
      }
     },
@@ -687,11 +687,11 @@
       "t": "mcq",
       "q": "From the side, what did the seven paper stars look like?",
       "options": [
-       "Still a perfect ladle",
        "Five close together, and two much further from Earth",
+       "Still a perfect ladle",
        "All in one straight row"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Five stars are about 80 light-years away, so their paper stars sit about 40 centimetres along their threads. Kratu is at 62 centimetres and Marichi at 52, much nearer the wall. If you saw a ladle from the side, check that you are halfway between the card and the wall, looking across the threads."
      }
     },
@@ -1054,10 +1054,10 @@
       "q": "The Greeks saw a hunter and Indian astronomers saw a deer's head in the same stars. Why?",
       "options": [
        "They were looking at different stars",
-       "People join the same stars into different pictures",
-       "The stars moved between Greece and India"
+       "The stars moved between Greece and India",
+       "People join the same stars into different pictures"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The stars are the same. The pictures come from the people who joined them. Every culture made its own pictures. If you picked 'the stars moved', that is a good thought, because stars do move, but only very slowly. Both pictures are about 2,000 years old or more."
      },
      "think": "If a child on another planet joined these dots, what might they see?"
@@ -1625,11 +1625,11 @@
    "t": "mcq",
    "p": "Most of the stars in a constellation are:",
    "opts": [
-    "at very different distances from us",
     "touching each other",
-    "all the same distance from us"
+    "all the same distance from us",
+    "at very different distances from us"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "Constellations join stars that lie in the same direction from Earth. Their distances are usually very different. The sky looks like a flat dome, which makes us think the stars are all the same distance away."
   },
@@ -1638,10 +1638,10 @@
    "p": "In the Thread Saptarishi model, you look at the paper stars from the side. What do you see?",
    "opts": [
     "A ladle, just like from the Earth card",
-    "Five paper stars close together, and two much further away",
-    "No paper stars at all"
+    "No paper stars at all",
+    "Five paper stars close together, and two much further away"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 1,
    "how": "e1",
    "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
@@ -1663,11 +1663,11 @@
    "t": "mcq",
    "p": "Tonight the Moon is in Rohini. About where will it be in two nights?",
    "opts": [
-    "Two nakshatras further east, in Ardra",
     "Still in Rohini",
-    "On the other side of the sky"
+    "On the other side of the sky",
+    "Two nakshatras further east, in Ardra"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 2,
    "why": "The Moon moves into about one new nakshatra each night. After Rohini comes Mrigashira, then Ardra."
   },
@@ -1675,11 +1675,11 @@
    "t": "mcq",
    "p": "The Greeks saw a hunter in the stars of Orion. Indian astronomers saw a deer's head there. What does this show?",
    "opts": [
-    "Different peoples join the same stars into different pictures",
     "The Greeks and Indians saw different stars",
-    "One of them was wrong"
+    "One of them was wrong",
+    "Different peoples join the same stars into different pictures"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "The stars are the same for everyone. The pictures and stories come from the people. Neither is wrong."
   },
@@ -1699,11 +1699,11 @@
    "t": "mcq",
    "p": "An astronomer compares today's sky with a star map made 1,600 years ago. Most stars match, but a few bright ones are in slightly different places. What does this show?",
    "opts": [
-    "Some stars really move, so slowly that it takes hundreds of years to notice",
     "The Earth goes round the Sun",
+    "Some stars really move, so slowly that it takes hundreds of years to notice",
     "Every star jumps about each night"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "why": "If the old map were simply careless, the mistakes would be everywhere. Only a few stars are out of place, so those stars have really moved. The 'fixed stars' move too, just very slowly."
   },
@@ -1723,11 +1723,11 @@
    "t": "mcq",
    "p": "You go onto the terrace to look for faint stars. What should you do first?",
    "opts": [
-    "Switch off nearby lights and wait about 20 minutes without looking at your phone",
     "Look at your phone to find the stars quickly",
-    "Shine a bright white torch at the sky"
+    "Shine a bright white torch at the sky",
+    "Switch off nearby lights and wait about 20 minutes without looking at your phone"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Your eyes need 20 to 30 minutes of darkness to see faint stars. A bright phone screen or white torch undoes it. A dim red light is fine."
   },
@@ -1755,12 +1755,12 @@
      "t": "mcq",
      "p": "What is a constellation?",
      "opts": [
-      "A group of stars that are close together in space",
       "A pattern of stars that people have named",
+      "A group of stars that are close together in space",
       "A kind of planet",
       "A very bright star"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A constellation is a pattern people see and name, such as the Saptarishi or Orion. Its stars are usually far apart in space. Picking 'close together in space' is the most common mistake. The Thread Saptarishi model shows why it is wrong: from the side, two paper stars were far behind the other five."
     },
     {
@@ -1808,10 +1808,10 @@
      "p": "In the Thread Saptarishi model, where must your eye be to see the seven paper stars make a ladle?",
      "opts": [
       "Anywhere in the room",
-      "At the hole in the Earth card",
-      "Right next to the wall"
+      "Right next to the wall",
+      "At the hole in the Earth card"
      ],
-     "a": 1,
+     "a": 2,
      "how": "e1",
      "context": "In the Thread Saptarishi experiment, seven threads run from a card with a hole (the Earth) to seven dots on a wall. A paper star sits on each thread at that star's real distance, 1 centimetre for every 2 light-years.",
      "why": "The paper stars line up into a ladle only when seen from the Earth card, because that is where all the threads start. One step to the side, and the shape bends. If you picked 'anywhere', try the model again from the side."
@@ -1905,11 +1905,11 @@
      "t": "mcq",
      "p": "Many Indian festivals fall on the day the Moon is in a certain nakshatra. Why does such a festival come on a different date of the English calendar each year?",
      "opts": [
-      "The Moon's trip round the nakshatras does not fit evenly into the English months",
       "The stars move to new places every year",
+      "The Moon's trip round the nakshatras does not fit evenly into the English months",
       "People choose a new date each year"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Moon goes round all the nakshatras in about 27 days. That does not divide evenly into the months of the English calendar, so the day the Moon reaches a nakshatra shifts from year to year."
     },
     {
@@ -2049,10 +2049,10 @@
      "p": "An astronomer compares her star positions with a star list made about 1,600 years earlier. Most stars match well, but a few bright ones are far out of place. What is the best explanation?",
      "opts": [
       "All the old positions were careless mistakes",
-      "Those few stars have really moved, slowly, over the centuries",
-      "Every star had moved by the same amount"
+      "Every star had moved by the same amount",
+      "Those few stars have really moved, slowly, over the centuries"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Careless mistakes would be spread over many stars, not only a few bright ones. So those few stars must have really moved. Picking 'careless mistakes' ignores that most stars matched."
     },
     {
@@ -2096,11 +2096,11 @@
      "t": "mcq",
      "p": "Arcturus, the nakshatra Swati, has moved about twice the width of the full Moon since Ptolemy's time, nearly 1,900 years ago. Why does it still look fixed to us?",
      "opts": [
-      "It moves too slowly to see in one life, because it is so far away",
       "It has stopped moving",
-      "Our eyes cannot see stars move"
+      "Our eyes cannot see stars move",
+      "It moves too slowly to see in one life, because it is so far away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A star racing through space shifts only a tiny bit in our sky in a lifetime, because it is so far away. Over thousands of years the tiny shifts add up."
     },
     {
@@ -2172,11 +2172,11 @@
      "t": "mcq",
      "p": "Five stars of the Saptarishi travel through space together. The other two travel in different directions. What will the ladle look like in about 50,000 years?",
      "opts": [
-      "Bent out of shape, because two stars have drifted away from the others",
       "Exactly the same, because stars are fixed",
+      "Bent out of shape, because two stars have drifted away from the others",
       "Bigger and brighter, because all seven moved together"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Stars that move in different directions slowly pull the pattern apart. Over tens of thousands of years, the two stars that travel differently drift out of the ladle."
     },
     {

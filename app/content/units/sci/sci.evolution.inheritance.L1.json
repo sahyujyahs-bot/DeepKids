@@ -365,10 +365,10 @@
       "q": "In the Coin Babies game, four Gumbi babies had the same two parents. What did you find?",
       "options": [
        "All four babies were the same",
-       "Each baby had a different mix of features",
-       "The babies looked like nobody"
+       "The babies looked like nobody",
+       "Each baby had a different mix of features"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each baby got some features from Amma Gumbi and some from Appa Gumbi, but a different mix each time. Brothers and sisters are like that too."
      },
      "parent": "Two babies can come out the same by chance, because the coin decides. If that happens, say so, and toss for two more babies."
@@ -725,11 +725,11 @@
       "t": "mcq",
       "q": "What did you find about the peas in your pods?",
       "options": [
-       "They were all exactly the same",
        "They were all green and round, but not the same size",
+       "They were all exactly the same",
        "They were all different kinds of seed"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All the peas were the same colour and shape, because they are all pea plant babies. But no two were exactly the same size. If you found two peas that seemed the same, look again with the magnifying glass."
      }
     },
@@ -1267,11 +1267,11 @@
      "t": "mcq",
      "p": "A black mother cat has four kittens. One is black, one ginger, one white and one patchy. What does this show?",
      "opts": [
-      "Each kitten got a different mix of features from the two parents",
       "Only the black kitten is really her baby",
-      "The kittens changed colour after they were born"
+      "The kittens changed colour after they were born",
+      "Each kitten got a different mix of features from the two parents"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Kittens of the same parents get different mixes. All four are her babies, and the colours were not changed after birth."
     },
     {
@@ -1373,10 +1373,10 @@
    "p": "Which of these is true for every person in the world?",
    "opts": [
     "We all have the same hair",
-    "We all need food, water and air",
-    "We are all the same height"
+    "We are all the same height",
+    "We all need food, water and air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every person needs food, water and air. Hair and height are different from person to person.",
    "outcome": 0
   },
@@ -1385,10 +1385,10 @@
    "p": "Two cousins were born on the same day. Are they the same in every way?",
    "opts": [
     "Yes, in every way",
-    "No, they are alike in some ways and different in others",
-    "They are different in every way"
+    "They are different in every way",
+    "No, they are alike in some ways and different in others"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The two cousins are both people, with two eyes and a beating heart. But each has their own features. Being born on the same day does not make two people the same.",
    "outcome": 0
   },
@@ -1396,11 +1396,11 @@
    "t": "mcq",
    "p": "What does it mean to inherit a feature?",
    "opts": [
-    "To get it from your parents before you are born",
     "To learn it at school",
-    "To buy it at a shop"
+    "To buy it at a shop",
+    "To get it from your parents before you are born"
    ],
-   "a": 0,
+   "a": 2,
    "why": "To inherit a feature is to get it from your parents. You get it before you are born.",
    "outcome": 1
   },
@@ -1420,11 +1420,11 @@
    "t": "mcq",
    "p": "Two sisters have the same Amma and Appa. Why do they look different?",
    "opts": [
-    "Each sister got a different mix of features from their parents",
     "Because one sister is older",
-    "Because they eat different food"
+    "Because they eat different food",
+    "Each sister got a different mix of features from their parents"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Children of the same parents each get a different mix of features. Being older or eating different food does not change the shape of a nose.",
    "outcome": 2
   },
@@ -1432,11 +1432,11 @@
    "t": "mcq",
    "p": "Pod 1 held 6 peas. Pod 2 held 8 peas. Both came from the same bag. What does this show?",
    "opts": [
-    "Pods of the same kind can hold different numbers of peas",
     "Pod 2 is not a pea pod",
-    "Peas grow after you open the pod"
+    "Peas grow after you open the pod",
+    "Pods of the same kind can hold different numbers of peas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every pod of the same kind of plant is a little different, so pods hold different numbers of peas.",
    "outcome": 3,
    "how": "e1"
@@ -1446,10 +1446,10 @@
    "p": "A girl feeds a crow and a street dog. Which of them are animals?",
    "opts": [
     "Only the crow and the dog",
-    "The crow, the dog and the girl",
-    "Only the dog"
+    "Only the dog",
+    "The crow, the dog and the girl"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Humans are animals too. A girl, a crow and a dog are all animals.",
    "outcome": 0
   },
@@ -1481,11 +1481,11 @@
    "t": "mcq",
    "p": "A woman had her long hair cut short. Will her children be born with short hair because of that?",
    "opts": [
-    "Yes, they get her short hair",
     "No, a haircut happens after birth and is not passed on",
+    "Yes, they get her short hair",
     "Yes, but only her daughters"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A haircut is something that happens to a person after birth. Children get features such as curly hair from their parents, but not a haircut or a cut on the knee.",
    "outcome": 4
   }

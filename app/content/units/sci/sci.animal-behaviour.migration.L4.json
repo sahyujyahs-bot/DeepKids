@@ -958,11 +958,11 @@
       "t": "mcq",
       "q": "A bird lands at wetland 2 with 0 beans left. Is she safe?",
       "options": [
-       "Yes, because she landed and can feed to fill up again",
        "No, because she has no beans",
+       "Yes, because she landed and can feed to fill up again",
        "Only if she rolls a 6"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bird is safe if she lands. At the wetland she feeds and fills up again. She falls only if she runs out of fuel in the air, between two places."
      }
     },
@@ -1529,11 +1529,11 @@
       "t": "mcq",
       "q": "Why is it a problem if one stopover is lost, even if other lakes are fine?",
       "options": [
-       "Some birds may run out of fuel before they reach the next place",
        "Birds only like one lake",
+       "Some birds may run out of fuel before they reach the next place",
        "Fish need the lake to stay"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A migrant carries only enough fuel for a certain distance. A lost stopover makes a longer gap, and long gaps are where birds run out of fuel."
      }
     }
@@ -1571,11 +1571,11 @@
    "t": "mcq",
    "p": "Which is the best reason that many birds migrate?",
    "opts": [
-    "The food they need is in different places at different times of the year",
     "They get bored of one place",
-    "Every bird is hurt by cold"
+    "Every bird is hurt by cold",
+    "The food they need is in different places at different times of the year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Migration follows food, space and safety for raising young. Cold is only one reason food runs short. Crows and sparrows stay through cold winters because they can still find food.",
    "outcome": 0
   },
@@ -1583,11 +1583,11 @@
    "t": "mcq",
    "p": "Why do so many birds travel to the far north to raise chicks in summer?",
    "opts": [
-    "The days are very long, so they have many hours to feed and food is plentiful",
     "The far north is warmer than India in summer",
-    "There are no other birds there"
+    "There are no other birds there",
+    "The days are very long, so they have many hours to feed and food is plentiful"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The tilt of the Earth gives the far north very long summer days. Plants, insects and mudflat animals thrive in that light. A bird can feed her chicks for many hours a day.",
    "outcome": 1
   },
@@ -1595,11 +1595,11 @@
    "t": "mcq",
    "p": "How different is the length of the day in Kerala in June and in December?",
    "opts": [
-    "Only a little different, about the same length",
     "Twice as long in June",
-    "There is no daylight in December"
+    "There is no daylight in December",
+    "Only a little different, about the same length"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Near the equator, day length changes only a little all year, a few minutes each week at most. The big changes are far north and far south.",
    "outcome": 1
   },
@@ -1631,11 +1631,11 @@
    "t": "mcq",
    "p": "What is a stopover?",
    "opts": [
-    "A place on a journey where a bird rests and feeds before flying on",
     "A place where a bird stays all year",
-    "The end of a bird's journey"
+    "The end of a bird's journey",
+    "A place on a journey where a bird rests and feeds before flying on"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A stopover is a refuelling place. The bird feeds there for days or weeks to build up fat for the next stage.",
    "outcome": 3
   },
@@ -1655,11 +1655,11 @@
    "t": "mcq",
    "p": "A small falcon is in a town for three weeks in October, then moves on to Africa. Which label do birders give her?",
    "opts": [
-    "Passage migrant",
     "Resident",
+    "Passage migrant",
     "Winter visitor"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A passage migrant stops only for days or weeks on the way somewhere else. A winter visitor stays for the whole northern winter. A resident stays all year.",
    "outcome": 4
   },
@@ -1691,11 +1691,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still not fully understand?",
    "opts": [
-    "How a young bird, who has never made the trip, times her journey and finds the way",
     "Whether birds travel from one country to another",
+    "How a young bird, who has never made the trip, times her journey and finds the way",
     "Whether birds store fat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "We know that day length and an inside yearly clock both play a part, but how they work together is still being studied. Rings and tags have shown that the journeys are real.",
    "outcome": 6
   },
@@ -1710,11 +1710,11 @@
    "t": "mcq",
    "p": "Rosy starlings fly from Russia and Mongolia to India each winter. What do they eat there that helps farmers?",
    "opts": [
-    "Locusts that harm crops",
     "Fish from the sea",
-    "Honey from flowers"
+    "Honey from flowers",
+    "Locusts that harm crops"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rosy starlings eat locusts. Locusts are insects that can swarm and destroy crops, so the winter visitors help farmers.",
    "outcome": 0
   }
@@ -1730,11 +1730,11 @@
      "t": "mcq",
      "p": "What does the word migration mean?",
      "opts": [
-      "A regular journey that an animal makes each year, going out and coming back",
       "Flying very high",
-      "Moving house once in a lifetime"
+      "Moving house once in a lifetime",
+      "A regular journey that an animal makes each year, going out and coming back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Migration is a regular, seasonal journey. The animal goes out and comes back, year after year.",
      "outcome": 0
     },
@@ -1795,11 +1795,11 @@
      "t": "mcq",
      "p": "Which holds more energy in each gram?",
      "opts": [
-      "Fat",
       "Sugar",
+      "Fat",
       "They hold the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A gram of fat holds more than twice as much energy as a gram of sugar. That is why a bird that must carry her fuel stores fat.",
      "outcome": 2
     },
@@ -1921,11 +1921,11 @@
      "t": "mcq",
      "p": "Which of these is also migration?",
      "opts": [
-      "A hilsa fish swimming from the sea up a river each monsoon to lay eggs",
       "A crow flying from a tree to a roof",
-      "A dog walking to a gate"
+      "A dog walking to a gate",
+      "A hilsa fish swimming from the sea up a river each monsoon to lay eggs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.",
      "outcome": 0
     },
@@ -1947,11 +1947,11 @@
      "t": "mcq",
      "p": "Crows stay in Delhi through cold winters, and pied cuckoos migrate across the sea to India in the warm monsoon. What does this show?",
      "opts": [
-      "Migration follows food and conditions for raising young, not only cold",
       "Cuckoos like rain more than crows",
-      "Crows cannot fly far"
+      "Crows cannot fly far",
+      "Migration follows food and conditions for raising young, not only cold"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If cold alone caused migration, crows would leave and cuckoos would stay. Both behaviours follow food, nesting and safety.",
      "outcome": 0
     },
@@ -2084,11 +2084,11 @@
      "t": "mcq",
      "p": "A bird waits at a stopover until the wind is behind her. Why?",
      "opts": [
-      "A tailwind carries her, so the flight costs less fuel",
       "She likes the wind",
+      "A tailwind carries her, so the flight costs less fuel",
       "Wind makes her feathers grow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tailwind pushes the bird along, so she saves energy. A headwind makes the same flight cost much more fuel.",
      "outcome": 3
     },
@@ -2131,11 +2131,11 @@
      "t": "mcq",
      "p": "About two thirds of the tidal mudflats of the Yellow Sea were lost over about 50 years. What is the most likely effect on waders that refuel there?",
      "opts": [
-      "Fewer places to feed, so fewer birds survive the journey",
       "More places to feed",
-      "No effect on birds"
+      "No effect on birds",
+      "Fewer places to feed, so fewer birds survive the journey"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Waders on that flyway refuel on the mudflats. Fewer mudflats means less food and a higher chance of falling short, and counts of several waders have dropped.",
      "outcome": 3
     },
@@ -2305,11 +2305,11 @@
      "t": "mcq",
      "p": "A scientist finds that a flock of waders arrives at a mudflat very thin and leaves two weeks later much heavier. What is the best conclusion?",
      "opts": [
-      "The mudflat is a refuelling stop where they build fat for the next stage",
       "The birds have lived there all year",
-      "The birds are ill"
+      "The birds are ill",
+      "The mudflat is a refuelling stop where they build fat for the next stage"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gaining weight in two weeks shows they are feeding well and storing fat. That is what a refuelling stop is for.",
      "outcome": 3
     }

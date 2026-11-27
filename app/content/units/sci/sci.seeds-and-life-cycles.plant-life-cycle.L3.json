@@ -881,11 +881,11 @@
       "t": "mcq",
       "q": "In a plant's life cycle, what comes after the fruit?",
       "options": [
-       "Nothing, the cycle has ended",
        "New seeds, which start the cycle again",
+       "Nothing, the cycle has ended",
        "Another flower straight away"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fruit holds new seeds. Each seed can grow into a new plant, so the cycle starts again. That is why it is a circle, not a line. Picking 'nothing' usually means thinking of life as a line with an end. Picking 'another flower' misses the seed stage in between."
      }
     },
@@ -1120,11 +1120,11 @@
       "t": "mcq",
       "q": "The green cap on top of a brinjal is…",
       "options": [
-       "Left over from the brinjal's flower",
        "A leaf that grew on the fruit later",
-       "A stalk added by the farmer"
+       "A stalk added by the farmer",
+       "Left over from the brinjal's flower"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The green cap is made of the sepals, the small green leaves that wrapped the flower bud. They stay on while the flower's base swells into the brinjal. Picking 'a leaf that grew later' is a fair guess, because the cap is green like a leaf. But it was there before the fruit, around the flower."
      },
      "parent": "Good answers name the green sepals on a tomato or brinjal, the crown of a pomegranate, or the dark tip of a banana. These are the flower's leftovers."
@@ -1164,11 +1164,11 @@
      "p": "Which part of a flower swells up to become the fruit?",
      "opts": [
       "The petals",
-      "The base in the very middle of the flower",
       "The green stalk",
+      "The base in the very middle of the flower",
       "The leaves around it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The swollen base in the middle of the flower holds tiny seed-starts. It grows into the fruit, and the seed-starts become seeds. Picking 'the petals' is a common idea, because petals are the biggest, brightest part. But the petals fall off. The fruit grows from the middle.",
      "art": "A flower cut in half with its swollen middle base glowing."
     },
@@ -1225,11 +1225,11 @@
      "p": "You tag a bhindi flower with a thread. Six days later, what will you most likely find on that spot?",
      "opts": [
       "The same flower, still open",
-      "A young bhindi pod",
       "A new leaf",
-      "Nothing at all"
+      "Nothing at all",
+      "A young bhindi pod"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A bhindi flower opens for one morning. Then its petals fall and its base grows into a pod, about a finger long after five or six days. Picking 'the same flower' means thinking flowers last a long time. Many last only a day. Some tagged flowers do fall off with no pod, which is normal.",
      "context": "In the Flower to Fruit experiment, you tie a loose thread around the stalk of an open flower, so you can find it again every day.",
      "how": "e1"
@@ -1281,11 +1281,11 @@
      "p": "Why do many plants make sweet, juicy fruits?",
      "opts": [
       "So that the plant has something to eat",
+      "So that animals eat them and carry the seeds far away",
       "To make the plant heavier",
-      "So that people can sell them",
-      "So that animals eat them and carry the seeds far away"
+      "So that people can sell them"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Animals eat the fruit and drop or spit out the seeds somewhere else, where the new plant has more room. Picking 'so people can sell them' puts us at the centre. Plants made fruits for millions of years before there were people."
     },
     {
@@ -1328,10 +1328,10 @@
      "p": "A pumpkin flower has no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
      "opts": [
       "Yes, if a bee visits",
-      "No. It is a male flower: it makes pollen, but no fruit",
-      "Yes, every flower becomes a fruit"
+      "Yes, every flower becomes a fruit",
+      "No. It is a male flower: it makes pollen, but no fruit"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A pumpkin plant has two kinds of flower. The female flower has a tiny green pumpkin behind the petals. The male flower has none, and only makes pollen. Picking 'if a bee visits' misses that there is nothing in this flower to grow into a pumpkin."
     },
     {
@@ -1361,11 +1361,11 @@
      "p": "Look at the chart of a tagged bhindi pod. On which day was it 6 centimetres long?",
      "opts": [
       "Day 2",
-      "Day 4",
       "Day 6",
-      "Day 0"
+      "Day 0",
+      "Day 4"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Find 6 on the side of the chart, then follow it across to the line. The line reaches 6 above Day 4. Picking Day 6 usually means reading the last day instead of the matching point.",
      "context": "In the Flower to Fruit experiment, you tie a thread on an open bhindi flower's stalk. Every day you measure what grows there.",
      "chart": {
@@ -1498,11 +1498,11 @@
      "t": "mcq",
      "p": "Suppose you do the Floating Leaves experiment again, but forget the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
      "opts": [
-      "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
       "Baking soda makes leaves lighter",
+      "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
       "The water was too cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "To make food, a leaf needs carbon dioxide as well as light. Baking soda gives off carbon dioxide into the water. Without it, the leaf can make very little oxygen, so few bubbles lift the circles. Picking 'makes leaves lighter' misses that the bubbles are what lift them.",
      "context": "In the Floating Leaves experiment, you push the air out of small circles of palak leaf so they sink, in water with a pinch of baking soda. Then you watch them in bright light.",
      "how": "e4"
@@ -1565,12 +1565,12 @@
      "t": "mcq",
      "p": "Which of these plants flower only once in their whole life, and then die?",
      "opts": [
+      "The bamboo in Mizoram that flowers after about 48 years",
       "Mango",
       "Neem",
-      "The bamboo in Mizoram that flowers after about 48 years",
       "Rose"
      ],
-     "a": 2,
+     "a": 0,
      "why": "That bamboo grows for about 48 years, flowers once, makes their seeds and dies. Mango, neem and rose are perennials that flower again and again. Picking mango may come from knowing mango trees take years to fruit. But once they start, they fruit every year."
     },
     {
@@ -1622,11 +1622,11 @@
      "p": "In 1938, scientists flashed a light in the middle of the night on plants that flower when nights are long. The plants did not flower. What does this tell us?",
      "opts": [
       "The light made the night warmer",
-      "The plants were measuring the length of the dark night, and the light broke it into two short nights",
       "The light hurt the plants",
+      "The plants were measuring the length of the dark night, and the light broke it into two short nights",
       "Plants cannot see light"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The plants count how long the dark lasts. One flash cut the long night into two short ones, so the plants sensed two short nights instead of one long one. Picking 'the light hurt the plants' is a careful guess. But the plants kept growing healthy leaves. They just did not flower.",
      "context": "Many plants flower only at a certain time of year. Scientists wanted to know how they tell the season."
     },
@@ -1634,12 +1634,12 @@
      "t": "mcq",
      "p": "A mango tree with very sweet mangoes is growing in your garden. You plant one of their mango stones. Will the new tree have exactly the same sweet mangoes?",
      "opts": [
-      "Yes, always",
       "Not always, because the seed got some of their instructions from the pollen of another tree",
+      "Yes, always",
       "No, mango stones never grow",
       "Only if you water them with sugar"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each seed gets instructions from both parents, so they can be a little different. That is why farmers grow their best mangoes by joining a twig of the sweet tree onto a young tree. This makes a copy. Picking 'yes, always' is a natural guess, since a mango seed always grows a mango tree. But the mangoes on the new tree can be different."
     },
     {
@@ -1687,12 +1687,12 @@
      "t": "mcq",
      "p": "In the 1950s, a disease wiped out most of the world's favourite banana, the Gros Michel. Why did it spread through so many farms?",
      "opts": [
+      "All the plants were copies of each other, so they all had the same weakness",
       "There was too much rain",
       "Bananas are always weak",
-      "All the plants were copies of each other, so they all had the same weakness",
       "The bananas were too ripe"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Bananas are grown from shoots, so the plants are clones. A disease that can harm one can harm them all. Picking 'too much rain' is a sensible guess about plant diseases. But the real problem was that there was no difference between the plants."
     },
     {
@@ -1713,11 +1713,11 @@
      "p": "In the Be Edmond experiment, you cover one pumpkin flower with a bag and add no pollen. It shrivels. You cover another with a bag and add pollen by hand. It grows. Why do you cover BOTH with bags?",
      "opts": [
       "To keep them warm",
+      "So that the bag is the same for both, and only the pollen is different",
       "To hide them from people",
-      "Because bags make fruits grow",
-      "So that the bag is the same for both, and only the pollen is different"
+      "Because bags make fruits grow"
      ],
-     "a": 3,
+     "a": 1,
      "why": "In a fair test, only one thing changes. If only one flower had a bag, you could not tell whether the bag or the pollen made the difference. Picking 'bags make fruits grow' cannot be right, because the flower with a bag and no pollen shrivelled.",
      "context": "In the Be Edmond experiment, you move pollen by hand from a male flower to a female flower on a pumpkin, gourd or cucumber vine.",
      "how": "e3"
@@ -1733,12 +1733,12 @@
      "t": "mcq",
      "p": "In 1982, small thale cress plants on a space station flowered and made seeds. Why was that important?",
      "opts": [
+      "It showed a plant can go round their whole life cycle in space",
       "It showed plants grow better in space",
       "It showed seeds can fly",
-      "It showed a plant can go round their whole life cycle in space",
       "It showed plants do not need water"
      ],
-     "a": 2,
+     "a": 0,
      "why": "People living far from Earth will need plants that can make new seeds there, again and again. Picking 'plants grow better in space' is not what was found. Growing plants in space is hard."
     },
     {
@@ -1989,11 +1989,11 @@
       "t": "mcq",
       "q": "Your tagged flower's petals fell off, and a little fruit grew in the same place. Which part of the flower became the fruit?",
       "options": [
-       "The petals",
        "The middle part, at the base of the flower",
+       "The petals",
        "The thread made it grow"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The petals fall off, but the swollen base in the middle of the flower stays and grows into the fruit. Picking 'the petals' is a common idea, because they are the biggest part of a flower. But they drop away. The fruit was hiding in the middle all along."
      }
     },
@@ -2325,11 +2325,11 @@
       "t": "mcq",
       "q": "The covered flower with no pollen went yellow and fell off. The covered flower with pollen grew. What does that show?",
       "options": [
-       "Yellow flowers never make fruit",
        "A female flower needs pollen to grow into a fruit",
+       "Yellow flowers never make fruit",
        "Bags stop fruits growing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both flowers had bags, so the bag was the same. Only the pollen was different. The one with pollen grew, so the pollen made the difference. Picking 'bags stop fruits growing' cannot be right, because the bagged flower with pollen grew too."
      }
     },
@@ -2485,11 +2485,11 @@
       "t": "mcq",
       "q": "Why did the leaf circles in the light float up?",
       "options": [
-       "The leaves made oxygen gas while making food, and the tiny bubbles lifted them",
        "The light pushed them up",
+       "The leaves made oxygen gas while making food, and the tiny bubbles lifted them",
        "The water in the light was different"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In light, the leaf circles take in carbon dioxide and make sugar, giving out oxygen. Tiny bubbles of oxygen fill the spaces inside them, like little floats. In the dark they cannot do this. Picking 'the water was different' would break our fair test. Both glasses had the same water, so only the light was different."
      }
     },
@@ -2665,10 +2665,10 @@
       "q": "You turn your wheel to 'new seeds'. What comes next as you keep turning?",
       "options": [
        "Flower",
-       "Seed, and then seedling again",
-       "The end"
+       "The end",
+       "Seed, and then seedling again"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The new seeds are the start of new plants. Each one can sprout into a seedling, so the wheel goes round again. Picking 'the end' usually means seeing a plant's life as a line. One plant dies, but the cycle carries on in their seeds."
      }
     }
@@ -2774,11 +2774,11 @@
       "t": "mcq",
       "q": "A new money plant grows from a stem cutting. How will the new plant compare with the plant the stem came from?",
       "options": [
-       "They will be an exact copy, a clone",
        "They will be a different kind of plant",
+       "They will be an exact copy, a clone",
        "They will need seeds to grow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A cutting carries exactly the same instructions as their parent, so they grow into a copy. Picking 'a different kind' is a fair worry. But a seed can mix instructions from two parents, and a cutting does not."
      },
      "think": "If every plant in a field is a copy of the same plant, what happens if a disease comes that they cannot fight?"
@@ -2843,11 +2843,11 @@
       "t": "mcq",
       "q": "Which part of the plant is a cauliflower?",
       "options": [
+       "A bunch of tiny flower buds",
        "A root",
-       "A fruit",
-       "A bunch of tiny flower buds"
+       "A fruit"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The white head of a cauliflower is hundreds of tiny flower buds packed tightly together. If you leave a cauliflower plant growing, the buds can open into small yellow flowers. Picking 'a fruit' is a fair guess, because we eat it like a vegetable. But it has no seeds inside, because the flowers have not opened yet."
      }
     },
@@ -3148,10 +3148,10 @@
       "q": "A thin green pod is growing where your moong flower was. What is the pod?",
       "options": [
        "A root growing in the air",
-       "The fruit, which grew from the flower and holds the new seeds",
-       "A new leaf"
+       "A new leaf",
+       "The fruit, which grew from the flower and holds the new seeds"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The pod is the moong plant's fruit. It grew from the base of the flower, and the new moong seeds grow inside it. Picking 'a new leaf' is a fair guess, because the young pod is thin and green. But it hangs where the flower was, and if you open it there are tiny seeds in a row."
      }
     },
@@ -3166,11 +3166,11 @@
       "t": "mcq",
       "q": "Your moong plant turns yellow and dries up after their pods ripen. What has happened?",
       "options": [
-       "They have finished their life cycle, as all annual plants do",
        "You did something wrong",
-       "They need more water"
+       "They need more water",
+       "They have finished their life cycle, as all annual plants do"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Moong is an annual. They go from seed to seed in one season, then die. Their new seeds carry the life cycle on. Picking 'you did something wrong' is a natural worry. But a yellow, dry moong plant with black pods has done exactly what they were meant to do."
      }
     },
@@ -3256,11 +3256,11 @@
       "t": "mcq",
       "q": "Why are bees so good at carrying pollen?",
       "options": [
+       "Their bodies are covered in fluffy hairs that pollen sticks to",
        "They eat the pollen and spit it out",
-       "They are very big",
-       "Their bodies are covered in fluffy hairs that pollen sticks to"
+       "They are very big"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A bee's body is covered in branched hairs. Pollen sticks to them as she crawls through a flower, and brushes off on the next flower. Picking 'they eat it and spit it out' is a fair guess, because bees do eat pollen. But the pollen that reaches the next flower is mostly the dust stuck on their hairs."
      }
     },
@@ -3389,10 +3389,10 @@
       "q": "You sow methi in one big batch in October. They flower for a few weeks and then they are finished. How could you keep having methi flowers for longer?",
       "options": [
        "Water them twice as much",
-       "Sow a small batch every two weeks",
-       "Sow all the seeds in one pot"
+       "Sow all the seeds in one pot",
+       "Sow a small batch every two weeks"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each batch goes round its life cycle on its own timetable. Sowing a little every two weeks means a new batch is always coming into flower. Watering them twice as much cannot change how long an annual's life cycle is. Too much water can even rot them."
      }
     },
@@ -3440,11 +3440,11 @@
    "p": "A moong seedling must grow many leaves before they can flower. Why?",
    "opts": [
     "Flowers grow out of old leaves",
-    "Leaves keep the flowers warm",
     "The leaves make the food the plant needs to build flowers, pods and seeds",
+    "Leaves keep the flowers warm",
     "Bees visit only plants with many leaves"
    ],
-   "a": 2,
+   "a": 1,
    "outcome": 0,
    "why": "Flowers, pods and seeds cost a lot of food. The leaves make that food from air and water, using sunlight. A tiny seedling has too few leaves to pay for them. Picking 'flowers grow out of old leaves' comes from seeing flowers among the leaves. But flowers grow from buds on the stem."
   },
@@ -3466,11 +3466,11 @@
    "p": "Suppose every flower on a brinjal plant is pinched off as soon as it opens. What will happen?",
    "opts": [
     "The plant makes bigger brinjals",
-    "The plant makes no brinjals",
     "The flowers grow back as brinjals",
-    "Nothing changes"
+    "Nothing changes",
+    "The plant makes no brinjals"
    ],
-   "a": 1,
+   "a": 3,
    "outcome": 1,
    "why": "Each brinjal grows from a flower. Take away every flower, and there is nothing left to swell into a fruit. Picking 'bigger brinjals' is a guess that the plant saves food. But with no flowers, there are no fruits to put that food into."
   },
@@ -3479,11 +3479,11 @@
    "p": "Peanuts grow under the ground. Did they grow from a flower?",
    "opts": [
     "No, they grow from the roots, like a carrot",
-    "No, they are swollen stems, like a potato",
     "Yes. After a flower gets pollen, a stalk grows down and pushes the young pod into the soil",
+    "No, they are swollen stems, like a potato",
     "No, peanuts grow from leaves"
    ],
-   "a": 2,
+   "a": 1,
    "outcome": 1,
    "why": "A peanut shell is a pod with seeds inside, so it is a fruit. The yellow flowers open above the ground. After pollination, a stalk grows down and pushes the young pod into the soil, where the pod ripens. Picking 'from the roots' is a natural guess, because we dig peanuts up. But roots do not hold seeds."
   },
@@ -3506,10 +3506,10 @@
    "opts": [
     "The plant grows new flowers",
     "The pods turn back into flowers",
-    "The seeds in the pods can grow into new moong plants",
-    "Nothing, it is over"
+    "Nothing, it is over",
+    "The seeds in the pods can grow into new moong plants"
    ],
-   "a": 2,
+   "a": 3,
    "outcome": 2,
    "why": "The old plant has finished, but their seeds start the next circle. Picking 'nothing, it is over' looks at the old plant only, and forgets their seeds."
   },
@@ -3534,10 +3534,10 @@
    "opts": [
     "Mango",
     "Neem",
-    "Coconut",
-    "Moong"
+    "Moong",
+    "Coconut"
    ],
-   "a": 3,
+   "a": 2,
    "outcome": 4,
    "why": "Moong is an annual and goes from seed to seed in two to three months. Mango, neem and coconut are perennials that take years to first flower. Picking mango may come from thinking fruit trees are quick, because mangoes come every summer. But a mango tree takes years to start."
   },
@@ -3546,11 +3546,11 @@
    "p": "Which of these can grow a new plant WITHOUT a seed?",
    "opts": [
     "A grain of rice",
-    "A sunflower seed",
     "A potato, from its eyes",
+    "A sunflower seed",
     "A moong seed"
    ],
-   "a": 2,
+   "a": 1,
    "outcome": 4,
    "why": "A potato is a swollen stem, and each eye can sprout a new plant, a copy of their parent. The others are all seeds. Picking a rice grain is a natural mistake, because we think of rice as food, not as seeds. But each rice grain is a seed, and they can sprout into a rice plant."
   },
@@ -3558,12 +3558,12 @@
    "t": "mcq",
    "p": "Where does most of a big tree's body come from?",
    "opts": [
-    "Rain only",
     "Carbon dioxide from the air, and water, put together using sunlight",
+    "Rain only",
     "The soil",
     "Fertiliser"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 5,
    "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 75 kilograms while their soil lost only about 60 grams."
   },
@@ -3571,12 +3571,12 @@
    "t": "mcq",
    "p": "In the Floating Leaves experiment, leaf circles floated up in bright light but stayed down in the dark. What made them float?",
    "opts": [
-    "Bubbles of oxygen the leaf made using light",
     "Hot water",
     "The soap",
-    "Wind"
+    "Wind",
+    "Bubbles of oxygen the leaf made using light"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 5,
    "why": "In light, leaves make sugar and give out oxygen, and the bubbles lift the circles. Both glasses had the same soap, so the soap cannot explain the difference. Only the light was different.",
    "context": "In the Floating Leaves experiment, you make small circles of palak leaf sink in water with a pinch of baking soda. One glass sits in bright light, one in the dark.",
@@ -3618,12 +3618,12 @@
    "t": "mcq",
    "p": "Do scientists know how bamboo counts about 48 years before they flower?",
    "opts": [
+    "No, it is still a mystery",
     "Yes, they count the monsoons",
     "Bamboo never flowers",
-    "No, it is still a mystery",
     "Yes, they have a clock in their roots"
    ],
-   "a": 2,
+   "a": 0,
    "outcome": 6,
    "why": "Nobody knows how bamboo keeps time for so long. There are ideas, but none has been proved. Picking 'they count the monsoons' is a clever guess that some people have made. But nobody has shown it is true."
   },

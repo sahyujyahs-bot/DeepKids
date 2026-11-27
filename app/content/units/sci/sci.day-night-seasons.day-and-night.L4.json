@@ -993,11 +993,11 @@
       "t": "mcq",
       "q": "Noon in Guwahati is at 11:30. Mumbai is 19 degrees of longitude to the west. About when is noon in Mumbai?",
       "options": [
+       "About 12:45",
        "About 11:30",
-       "About 12:00",
-       "About 12:45"
+       "About 12:00"
       ],
-      "a": 2,
+      "a": 0,
       "why": "19 degrees times 4 minutes is 76 minutes. 11:30 plus 76 minutes is about 12:46. The answer 11:30 is wrong, because it would mean noon is the same everywhere, and the data show it is not."
      },
      "context": "In this step, you look for the pattern between noon and longitude."
@@ -1111,11 +1111,11 @@
       "t": "mcq",
       "q": "The thread from the equator to the pole is 6 centimetres long. Where is the mark for two thirds of the way?",
       "options": [
-       "4 centimetres from the equator",
        "3 centimetres from the equator",
+       "4 centimetres from the equator",
        "5 centimetres from the equator"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Two thirds of 6 is 4, because 6 divided by 3 is 2 and 2 times 2 is 4."
      },
      "context": "In this step, you mark two more circles on the orange, one third and two thirds of the way from the equator to the pole."
@@ -1140,11 +1140,11 @@
       "t": "mcq",
       "q": "Each spot on the orange turns once in the same time. Which spot is carried fastest?",
       "options": [
-       "The one on the longest circle",
        "The one on the shortest circle",
-       "They are all carried at the same speed"
+       "They are all carried at the same speed",
+       "The one on the longest circle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A spot on a longer circle has further to go in the same time, so it must move faster. The answer 'the same speed' is wrong, because it would mean the size of the circle does not matter, and the thread shows that it does."
      },
      "context": "In this step, you measure the length of the three circles."
@@ -1267,11 +1267,11 @@
       "t": "mcq",
       "q": "One full spin of the Earth takes 23 hours 56 minutes. The Sun takes 24 hours to come back overhead. Why is there a gap?",
       "options": [
-       "The Earth also moves round the Sun, so it must turn a little more",
        "The Earth spins a little faster some days",
+       "The Earth also moves round the Sun, so it must turn a little more",
        "A clock hour is shorter than a real hour"
       ],
-      "a": 0,
+      "a": 1,
       "why": "While the Earth spins once, it also moves about 1 degree round the Sun. It must turn about 1 degree more, which takes about 4 minutes, to face the Sun again."
      },
      "context": "In this step, you connect the extra turn to the 4 minutes that a day is longer than a spin.",
@@ -1400,11 +1400,11 @@
       "t": "mcq",
       "q": "Why do we use a red torch and not a white one?",
       "options": [
-       "Red light disturbs animals and our own night vision less",
        "Red light is brighter",
+       "Red light disturbs animals and our own night vision less",
        "White light does not work at night"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Many animals are bothered by white light, and white light also makes our eyes lose their night sight for a while. Red light is gentler on both."
      },
      "context": "In this step, you look closely at the animals that gather around lights."
@@ -1513,11 +1513,11 @@
       "t": "mcq",
       "q": "Your child counts more stars after waiting in the dark. Why?",
       "options": [
-       "Their eyes have become better at seeing dim light",
        "More stars have come out",
-       "The tube has grown"
+       "The tube has grown",
+       "Their eyes have become better at seeing dim light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The stars were there the whole time. In the dark the eyes become more sensitive, so dim stars that were hidden become visible."
      },
      "context": "In this step, you give your eyes time to adjust and count again."
@@ -1797,11 +1797,11 @@
       "t": "mcq",
       "q": "In the morning the shadow of a pole pointed west. In the late afternoon, which way will it point?",
       "options": [
-       "East",
        "West",
-       "It will not move"
+       "It will not move",
+       "East"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the morning the Sun is in the east, so shadows point west. In the late afternoon the Sun is in the west, so shadows point east. The shadow moves because the Earth spins and the Sun seems to cross the sky."
      },
      "context": "In this step, you look at the afternoon sky and compare it with the morning."
@@ -1929,11 +1929,11 @@
       "t": "mcq",
       "q": "Why do we stand in exactly the same spot each night?",
       "options": [
-       "So the only thing that changes is the date",
        "So the star looks bigger",
-       "Because the star can see us"
+       "Because the star can see us",
+       "So the only thing that changes is the date"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The star's position against the edge depends on where our eyes are. If we move, we change the result. A fair test changes only one thing."
      },
      "context": "This is the first step of the Star Gate. You choose your spot and record the first night."
@@ -2031,11 +2031,11 @@
       "t": "mcq",
       "q": "Tokyo is 3 hours 30 minutes ahead of Chennai. It is 8 in the evening in Tokyo. What time is it in Chennai?",
       "options": [
-       "4:30 in the afternoon",
        "11:30 in the evening",
-       "12:30 in the afternoon"
+       "12:30 in the afternoon",
+       "4:30 in the afternoon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Tokyo is ahead, so Chennai is behind. 8 in the evening minus 3 hours 30 minutes is 4:30 in the afternoon."
      },
      "context": "In this step, you work out the allowed times in Chennai for each place."
@@ -2147,11 +2147,11 @@
      "t": "mcq",
      "p": "Seen from above the North Pole, which way does the Earth spin?",
      "opts": [
-      "Anticlockwise, from west to east",
       "Clockwise, from east to west",
-      "It does not spin, and the Sun goes round it"
+      "It does not spin, and the Sun goes round it",
+      "Anticlockwise, from west to east"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Earth turns from west to east. That is why the Sun seems to rise in the east and why places in the east see the Sun first.",
      "outcome": 0
     },
@@ -2159,11 +2159,11 @@
      "t": "mcq",
      "p": "City A is 5 degrees of longitude west of city B. When is the Sun at its highest in A, compared with B?",
      "opts": [
-      "About 20 minutes later",
       "About 20 minutes earlier",
+      "About 20 minutes later",
       "At the same time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "5 degrees times 4 minutes is 20 minutes. A is to the west, so the Sun reaches it later.",
      "outcome": 0
     },
@@ -2232,11 +2232,11 @@
      "t": "mcq",
      "p": "A circle drawn on a spinning ball is shorter near the pole than at the equator. Why does that make a spot near the pole move more slowly?",
      "opts": [
-      "It goes round a shorter path in the same time",
       "It is further from the Sun",
+      "It goes round a shorter path in the same time",
       "It is colder there"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every spot goes round once in 24 hours. A shorter path in the same time means a slower speed.",
      "outcome": 2
     },
@@ -2251,11 +2251,11 @@
      "t": "mcq",
      "p": "Why can we not feel the Earth spinning?",
      "opts": [
-      "It turns smoothly and steadily, and we are carried along with everything around us",
       "It is too slow to be real",
-      "We feel it, but we get used to it"
+      "We feel it, but we get used to it",
+      "It turns smoothly and steadily, and we are carried along with everything around us"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A smooth, steady motion cannot be felt. We feel bumps, starts and stops, like in a train. Everything around us is carried along too.",
      "outcome": 2
     },
@@ -2329,11 +2329,11 @@
      "t": "mcq",
      "p": "Two cities are on almost the same line of longitude, but one is much further north. When is the Sun highest in each?",
      "opts": [
-      "At almost the same clock time",
       "Much earlier in the northern city",
-      "Much later in the northern city"
+      "Much later in the northern city",
+      "At almost the same clock time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Noon depends on longitude only. Cities on the same line of longitude have their Sun at its highest at the same time, however far north or south they are.",
      "outcome": 0
     },
@@ -2360,11 +2360,11 @@
      "t": "mcq",
      "p": "Why does a bright star rise about 4 minutes earlier each night?",
      "opts": [
-      "The star is back after one spin, which is 4 minutes before the Sun is back",
       "The star moves closer to us each night",
-      "Our clocks run slow"
+      "Our clocks run slow",
+      "The star is back after one spin, which is 4 minutes before the Sun is back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A star returns after one spin of 23 hours 56 minutes. The clock day is 24 hours. So each night the star rises 4 minutes earlier by the clock.",
      "outcome": 4
     },
@@ -2441,11 +2441,11 @@
      "t": "mcq",
      "p": "What is slowing the Earth's spin?",
      "opts": [
-      "The Moon's pull on the oceans, which makes tides that rub on the sea floor",
       "The Earth is running out of energy from the Sun",
-      "The wind blowing against the ground"
+      "The wind blowing against the ground",
+      "The Moon's pull on the oceans, which makes tides that rub on the sea floor"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The tides raised by the Moon move over the sea floor and rub like a gentle brake. The Earth loses spin energy, and the Moon gains some and moves slowly away.",
      "outcome": 5
     },
@@ -2453,11 +2453,11 @@
      "t": "mcq",
      "p": "Fossil corals that lived about 400 million years ago show about 400 daily growth lines in each year. What does this suggest?",
      "opts": [
-      "A year had about 400 days, so each day was shorter than today's",
       "The year was longer than it is today",
-      "Corals grow faster than they used to"
+      "Corals grow faster than they used to",
+      "A year had about 400 days, so each day was shorter than today's"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The length of a year has stayed about the same. If a year had about 400 days, each day was about 22 hours long.",
      "outcome": 5
     },
@@ -2465,11 +2465,11 @@
      "t": "mcq",
      "p": "A barn owl finds a mouse in the dark mainly by her ears. What helps her work out where the sound is coming from?",
      "opts": [
-      "Her ears sit at different heights, so the sound reaches them at slightly different times",
       "She has one very large ear",
+      "Her ears sit at different heights, so the sound reaches them at slightly different times",
       "She hears best when she closes her eyes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Her left and right ears hear the rustle at slightly different moments and at slightly different loudness. Her brain uses the difference to find the direction and the height.",
      "outcome": 6
     },
@@ -2585,11 +2585,11 @@
      "t": "mcq",
      "p": "A jet flies west near 60 degrees north at about 835 kilometres an hour. That is the same speed as the ground there is carried east by the spin. What would the passengers see the Sun do?",
      "opts": [
-      "It would stay at nearly the same height for a long time",
       "The Sun would set faster than on the ground",
+      "It would stay at nearly the same height for a long time",
       "The Sun would rise in the west"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The plane moves west as fast as the ground is carried east. So it stays under the same part of the sky, and the Sun hardly moves.",
      "outcome": 2
     },
@@ -2597,11 +2597,11 @@
      "t": "mcq",
      "p": "Which statement about Venus is true?",
      "opts": [
-      "One spin takes longer than one trip round the Sun, and it spins backwards",
       "It spins faster than any other planet",
+      "One spin takes longer than one trip round the Sun, and it spins backwards",
       "It has a day of exactly 24 hours"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Venus spins once in 243 Earth days and goes round the Sun in 225 Earth days. It also spins the opposite way, so the Sun would rise in the west.",
      "outcome": 5
     },
@@ -2777,11 +2777,11 @@
    "t": "mcq",
    "p": "One spin of the Earth takes 23 hours 56 minutes, but a day is 24 hours. Why the 4 extra minutes?",
    "opts": [
-    "The Earth also moves round the Sun, so it must turn a little more to face the Sun again",
     "The Earth slows down at night",
-    "Clocks are set wrongly"
+    "Clocks are set wrongly",
+    "The Earth also moves round the Sun, so it must turn a little more to face the Sun again"
    ],
-   "a": 0,
+   "a": 2,
    "why": "After one spin the Earth has moved about 1 degree round the Sun. It needs about 1 degree more of turning, which takes about 4 minutes.",
    "outcome": 4
   },
@@ -2789,11 +2789,11 @@
    "t": "mcq",
    "p": "What is the main reason the Earth's days are slowly getting longer?",
    "opts": [
-    "Tides raised by the Moon act as a gentle brake",
     "The wind blows against the spin",
-    "The Sun's heat slows the Earth"
+    "The Sun's heat slows the Earth",
+    "Tides raised by the Moon act as a gentle brake"
    ],
-   "a": 0,
+   "a": 2,
    "why": "As the tides move over the sea floor, they rub and take energy from the Earth's spin.",
    "outcome": 5
   },
@@ -2801,11 +2801,11 @@
    "t": "mcq",
    "p": "A day on Jupiter lasts about 10 Earth hours. About how many Jupiter days fit into one Earth day of 24 hours?",
    "opts": [
-    "A little more than 2",
     "A little more than 1",
-    "About 10"
+    "About 10",
+    "A little more than 2"
    ],
-   "a": 0,
+   "a": 2,
    "why": "24 divided by 10 is 2.4. So Jupiter turns a little more than 2 times in an Earth day.",
    "outcome": 5
   },
@@ -2813,11 +2813,11 @@
    "t": "mcq",
    "p": "Why can streetlights on a beach harm baby turtles?",
    "opts": [
-    "They crawl towards the brightest horizon, and a streetlight can be brighter than the sea",
     "They are scared of the light",
+    "They crawl towards the brightest horizon, and a streetlight can be brighter than the sea",
     "The light is too warm for them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hatchlings use the bright, low horizon to find the sea. A road light can fool them into walking the wrong way.",
    "outcome": 6
   },
@@ -2825,11 +2825,11 @@
    "t": "mcq",
    "p": "Which night animal finds prey mainly by sensing warmth?",
    "opts": [
-    "An Indian rock python",
     "A barn owl",
-    "A bat"
+    "A bat",
+    "An Indian rock python"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A python has heat-sensing pits on her lips. An owl and a bat find prey mainly by hearing.",
    "outcome": 6
   },
@@ -2837,11 +2837,11 @@
    "t": "mcq",
    "p": "At 12 noon on the clock, which statement about Guwahati and Mumbai is true?",
    "opts": [
-    "The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai",
     "The Sun is at its highest in both",
+    "The Sun has already passed its highest in Guwahati and has not yet reached it in Mumbai",
     "The Sun is at its highest in Mumbai before Guwahati"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Guwahati is in the east, so its noon comes earlier, about 11:23. Mumbai's noon comes later, about 12:38.",
    "outcome": 0
   },
@@ -2894,12 +2894,12 @@
    "t": "mcq",
    "p": "It is noon in India. Which place on the globe is most likely to be in the middle of the night?",
    "opts": [
-    "New York in the USA",
     "Colombo in Sri Lanka",
     "Dhaka in Bangladesh",
+    "New York in the USA",
     "Kathmandu in Nepal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "New York is on the far side of the Earth from India, in the dark half. Colombo, Dhaka and Kathmandu are close to India and are in daylight at the same time.",
    "outcome": 0
   },
@@ -2907,12 +2907,12 @@
    "t": "mcq",
    "p": "Look at a globe. About how much of the Earth's surface is sea?",
    "opts": [
-    "Nearly three-quarters",
     "About half",
+    "Nearly three-quarters",
     "About half of half of it",
     "Almost all of it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Seven parts in every ten of the surface are sea, which is nearly three-quarters. Land is a little under one-third. So the globe looks mostly blue.",
    "outcome": 0
   }

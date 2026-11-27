@@ -388,7 +388,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 2. (draw) Draw your haldi paper. Colour the boxes that went red.  
    **Answer:** A yellow paper with red boxes for soap and cooking soda.. *Why:* A strong drawing shows which liquid was in each box, and colours only those that changed.
 3. (mcq) In the story, Meenakshi rubbed haldi paper hard with a dry finger, and it stayed yellow. Then soap turned it red. What did the rubbing show?  
-   Options: Rubbing is not what turns haldi red / Haldi never changes / Soap is not needed  
+   Options: Haldi never changes / Soap is not needed / Rubbing is not what turns haldi red  
    **Answer:** Rubbing is not what turns haldi red. *Why:* She tried the rubbing on its own, and nothing changed. So the red came from something else: the soap.
 4. (match) Draw a line from each person to what they found.  
    **Answer:** Tu Youyou → a medicine for malaria; Mary Anning → fossil bones of a sea animal; Janaki Ammal → new kinds of sugarcane; You → which liquids turn haldi red. *Why:* Each of these people was curious, asked a question and found something out. That includes you.
@@ -411,7 +411,7 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 2. (draw) Draw the red spot after you added lemon juice in Back to Yellow.  
    **Answer:** A yellow spot, or a pale orange one turning yellow.. *Why:* Lemon juice turns the red haldi colouring yellow again. A strong drawing shows the spot yellow.
 3. (mcq) In The Secret Red Message, your hidden soap word turned red when you brushed haldi water on it. What does that show?  
-   Options: The soap was still there, though you could not see it / Haldi can read / The paper was red  
+   Options: Haldi can read / The soap was still there, though you could not see it / The paper was red  
    **Answer:** The soap was still there, though you could not see it. *Why:* The dried soap was hard to see, but it was still on the paper. The haldi showed where it was.
 4. (truefalse) A strange new idea must be wrong.  
    **Answer:** False. *Why:* False. A strange idea is not always wrong, and not always right. Scientists test it to find out.
@@ -435,34 +435,34 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 
 ## Quiz
 1. (mcq) What does a scientist do?  
-   Options: Notices, asks questions and tests ideas / Only reads books / Only wears a white coat  
+   Options: Only reads books / Only wears a white coat / Notices, asks questions and tests ideas  
    **Answer:** Notices, asks questions and tests ideas. *Why:* Scientists find out by noticing, asking and testing. Anyone can do these things, with or without a white coat.
 2. (mcq) Who can be a scientist?  
-   Options: Only grown-up men / Anyone who is curious and tests their ideas / Only people from far away  
+   Options: Anyone who is curious and tests their ideas / Only grown-up men / Only people from far away  
    **Answer:** Anyone who is curious and tests their ideas. *Why:* Girls, boys, women and men from every country have made discoveries. Mary Anning started as a girl.
 3. (mcq) In the haldi test, which liquid turned the haldi red?  
    Options: Lemon juice / Sugar water / Soap water  
    **Answer:** Soap water. *Why:* Soap turns haldi red. Lemon juice and sugar water leave it yellow.
 4. (mcq) In the haldi test, why did each liquid get its own box?  
-   Options: So we could tell which liquid made the colour change / To make the paper look nice / Because the paper was too big  
+   Options: To make the paper look nice / So we could tell which liquid made the colour change / Because the paper was too big  
    **Answer:** So we could tell which liquid made the colour change. *Why:* If two liquids touched the same box, we would not know which one changed the colour. One liquid in each box keeps the test fair.
 5. (mcq) A scientist is looking for a new medicine. Where could she find a clue?  
-   Options: In old books about medicine, which she then tests / On the Moon / In a dream, with no test  
+   Options: On the Moon / In old books about medicine, which she then tests / In a dream, with no test  
    **Answer:** In old books about medicine, which she then tests. *Why:* Old books hold what people tried long ago. A clue from them is a start, but it must be tested. Tu Youyou found her clue this way.
 6. (mcq) Tu Youyou guessed that heat was spoiling the medicine. How did she find out if she was right?  
-   Options: She asked a king / She made it without much heat and tested it / She stopped looking  
+   Options: She asked a king / She stopped looking / She made it without much heat and tested it  
    **Answer:** She made it without much heat and tested it. *Why:* She tested her guess. The medicine made without much heat worked.
 7. (mcq) Where do discoveries in science come from?  
-   Options: People in every country / Only one country / Only rich countries  
+   Options: Only one country / Only rich countries / People in every country  
    **Answer:** People in every country. *Why:* Anyone who asks questions and tests them can find things out. Great scientists have come from India, China, England and everywhere else.
 8. (mcq) You guess that salt turns haldi red. What should you do?  
-   Options: Believe your guess / Test it with salt water on haldi paper / Ask a friend to guess too  
+   Options: Believe your guess / Ask a friend to guess too / Test it with salt water on haldi paper  
    **Answer:** Test it with salt water on haldi paper. *Why:* A guess needs a test. If you try salt water on haldi, you will see it stays yellow.
 9. (mcq) A red soap spot is on yellow haldi paper. You add lemon juice. What happens?  
-   Options: It turns black / It turns yellow again / It gets more red  
+   Options: It turns yellow again / It turns black / It gets more red  
    **Answer:** It turns yellow again. *Why:* Lemon turns the red haldi colouring back to yellow.
 10. (mcq) Long ago, Aryabhata said the Earth spins round. What do we see every day that fits his idea?  
-   Options: The Sun seems to rise and set / The Earth looks flat / The Earth is a square  
+   Options: The Earth looks flat / The Earth is a square / The Sun seems to rise and set  
    **Answer:** The Sun seems to rise and set. *Why:* As the Earth spins, our side turns towards the Sun and away again. So the Sun seems to rise and set. Aryabhata in India said the Earth spins.
 
 ## Applications

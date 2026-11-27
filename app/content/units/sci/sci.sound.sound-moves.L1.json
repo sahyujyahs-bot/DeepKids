@@ -539,11 +539,11 @@
       "t": "mcq",
       "q": "Your friend is far away, in front of you. Which way should the wide end of the cone point?",
       "options": [
-       "At your friend",
        "At the ceiling",
-       "Behind you"
+       "Behind you",
+       "At your friend"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cone keeps your voice from spreading to the sides, and sends more of it out of the wide end. So point the wide end at the person you want to hear you."
      },
      "parent": "A strong answer sounds like this. 'With the cone pointing at me, the words were clearest. Pointing at the wall, they were hard to hear. The cone sends the voice one way, instead of to every side.'"
@@ -893,11 +893,11 @@
       "t": "mcq",
       "q": "The walkers could not hear the whisper. What made it easier to hear?",
       "options": [
-       "Coming closer",
        "Going further away",
+       "Coming closer",
        "Closing their eyes tighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A sound spreads out as it travels, so it gets softer far away. Close to the whisperer, more of the whisper reaches your ears."
      },
      "parent": "Read the card to your child quietly, so they can whisper the word to you."
@@ -1214,11 +1214,11 @@
      "t": "mcq",
      "p": "In the Walk Away test, which sound faded first, after only a few steps?",
      "opts": [
-      "The rubbing fingers",
       "The spoon on the tumbler",
+      "The rubbing fingers",
       "Both faded at the same spot"
      ],
-     "a": 0,
+     "a": 1,
      "how": "e1",
      "why": "The finger rub is a very small sound to start with. It spreads out and fades after only a few steps. The tumbler makes a bigger sound, so it travels further."
     },
@@ -1484,11 +1484,11 @@
    "t": "mcq",
    "p": "What is the sound source when a pressure cooker whistles?",
    "opts": [
-    "The pressure cooker",
     "Your ears",
-    "The kitchen door"
+    "The kitchen door",
+    "The pressure cooker"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The sound source is the thing that makes the sound. The whistle starts at the cooker, then travels to you.",
    "outcome": 0
   },
@@ -1496,11 +1496,11 @@
    "t": "mcq",
    "p": "You can hear the neighbour's mixie through the wall. What does that show?",
    "opts": [
-    "Sound can travel through a wall",
     "The wall is making the sound",
-    "The mixie is in your flat"
+    "The mixie is in your flat",
+    "Sound can travel through a wall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The mixie is the source, in the neighbour's flat. Its sound travels through the wall to you. Sound can travel through things, as well as through air.",
    "outcome": 0
   },
@@ -1520,11 +1520,11 @@
    "t": "mcq",
    "p": "Why is a far-away drum softer than a drum next to you?",
    "opts": [
-    "Its sound has spread out more on the way",
     "The far drum is broken",
+    "Its sound has spread out more on the way",
     "Far drums are always smaller"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sound spreads out to every side as it travels. By the time it has come a long way, only a little of it reaches your ears.",
    "outcome": 1
   },
@@ -1532,11 +1532,11 @@
    "t": "mcq",
    "p": "A grown-up taps a tumbler in the middle of the room. Where can you hear it?",
    "opts": [
-    "In front, behind, at the sides and round the door",
     "Only in front",
+    "In front, behind, at the sides and round the door",
     "Only if you can see it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sound spreads out to every side from its source. In All Around the Tumbler, the tap reached every spot.",
    "outcome": 2,
    "how": "a1"
@@ -1545,11 +1545,11 @@
    "t": "mcq",
    "p": "What does a paper cone do to your voice?",
    "opts": [
-    "It sends more of it one way",
     "It makes it disappear",
+    "It sends more of it one way",
     "It sends it behind you"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cone stops your voice spreading out to the sides. More of it goes out of the wide end, so people in front hear you better.",
    "outcome": 3,
    "how": "e2"
@@ -1558,11 +1558,11 @@
    "t": "mcq",
    "p": "You see lightning, then hear thunder. Why does the thunder come later?",
    "opts": [
-    "The sound takes time to travel to you",
     "Thunder is made after the lightning",
-    "Your ears are slow"
+    "Your ears are slow",
+    "The sound takes time to travel to you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lightning and thunder are made at the same moment. The light reaches you almost at once. The sound takes longer to travel.",
    "outcome": 4
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "After a flash, you count to 2 before the thunder. Is the storm near or far?",
    "opts": [
-    "Quite near",
     "Very far away",
-    "You can't tell"
+    "You can't tell",
+    "Quite near"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A short count means the sound did not have far to travel. So the storm is quite near. A long count means it is far.",
    "outcome": 4,
    "how": "a2"

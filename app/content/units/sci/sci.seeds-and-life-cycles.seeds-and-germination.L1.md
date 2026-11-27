@@ -387,7 +387,7 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 ## Worksheets
 ### Seeds and Sprouting (core) (core, 11 questions)
 1. (mcq) In Peek Under the Soil, you dug up one chana seed each day. What came out of the seed first?  
-   Options: A leaf / A root / A flower  
+   Options: A root / A leaf / A flower  
    **Answer:** A root. *Why:* The root comes out first and grows down. The shoot comes later.
 2. (draw) Draw a chana seed under the soil on day 4. Show what is growing out of the seed.  
    **Answer:** A seed with a long white root going down, and maybe a small curled shoot.. *Why:* A strong drawing shows the root going down and longer than the shoot, all under the soil.
@@ -405,7 +405,7 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
    Options: A rajma / A pebble / A chana / A mango stone  
    **Answer:** 1. *Why:* A pebble is a small stone. Planted in damp soil, a pebble stays a pebble. The others are seeds and can grow.
 9. (mcq) A chana seed is planted in dry soil and never watered. What happens to the seed?  
-   Options: The seed grows fast / The seed stays the same / The seed turns into a pebble  
+   Options: The seed grows fast / The seed turns into a pebble / The seed stays the same  
    **Answer:** The seed stays the same. *Why:* A seed needs water to start growing. In dry soil the seed waits and does not grow.
 10. (perspective) Two friends in Guwahati look at a pot where they planted seeds three days ago. Nothing shows on top.  
    **Answer:** The second child, because our chana grew roots under the soil for days before anything showed. The first child is right that a seed can die, for example if the soil stays too wet.. *Why:* A strong answer uses the dug-up seeds as evidence, and fairly says that sometimes a seed does not grow.
@@ -444,10 +444,10 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
    Options: A new plant / A stone / Nothing ever  
    **Answer:** A new plant. *Why:* A seed holds a tiny baby plant. With water, the seed grows into a new plant.
 2. (mcq) What does a seed need to start growing?  
-   Options: Water / Sugar / Milk  
+   Options: Sugar / Water / Milk  
    **Answer:** Water. *Why:* A seed needs water to start growing. A dry seed waits.
 3. (mcq) Which part comes out of a seed first?  
-   Options: The leaf / The root / The flower  
+   Options: The root / The leaf / The flower  
    **Answer:** The root. *Why:* The root comes out first and grows down.
 4. (mcq) Which way does a root grow?  
    Options: Up into the air / Down into the soil / Round in circles  
@@ -456,16 +456,16 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
    Options: Grows up into the light / Drinks from the soil / Stays inside the seed  
    **Answer:** Grows up into the light. *Why:* The shoot grows up. The stem and leaves come from the shoot.
 6. (mcq) You plant a pumpkin seed. What will grow?  
-   Options: A mango tree / A pumpkin plant / A coconut palm  
+   Options: A pumpkin plant / A mango tree / A coconut palm  
    **Answer:** A pumpkin plant. *Why:* A seed grows into the same kind of plant as the plant the seed came from.
 7. (mcq) Why do we soak chana before planting?  
-   Options: So the seed can drink water and start growing / To make the chana taste nice / To wash off the colour  
+   Options: To make the chana taste nice / So the seed can drink water and start growing / To wash off the colour  
    **Answer:** So the seed can drink water and start growing. *Why:* Soaking gives the seed water, so the seed swells and starts to grow sooner.
 8. (mcq) You plant seeds in a cup. What should you do every few days?  
    Options: Touch the soil and water if dry / Pour in water until the cup overflows / Put the cup in the fridge  
    **Answer:** Touch the soil and water if dry. *Why:* Seeds need damp soil. Too much water makes them rot, so water only when the top is dry.
 9. (mcq) The shoot comes up bent over, like a finger. Why?  
-   Options: So the soil does not scrape the soft tip / So the shoot can hide from the sun / Because the shoot is tired  
+   Options: So the shoot can hide from the sun / So the soil does not scrape the soft tip / Because the shoot is tired  
    **Answer:** So the soil does not scrape the soft tip. *Why:* The bent shoot pushes up with its back first, so the soft tip stays safe.
 10. (mcq) Where do pumpkin seeds come from?  
    Options: From inside the pumpkin / From the roots / From the soil  

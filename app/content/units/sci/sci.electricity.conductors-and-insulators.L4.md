@@ -471,10 +471,10 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 ## Worksheets
 ### Conductor, Insulator or In Between (core) (core, 15 questions)
 1. (mcq) A tester's bulb lights when a key is put across the gap. What does that show?  
-   Options: The key makes electricity / The key lets current through / The key is a magnet  
+   Options: The key lets current through / The key makes electricity / The key is a magnet  
    **Answer:** The key lets current through. *Why:* The bulb lights only when the loop is complete, so the key must have carried the current across the gap. The cells make the push, not the key.
 2. (mcq) Which part of an electric wire is the insulator?  
-   Options: The plastic coat / The copper strands / The bare end  
+   Options: The copper strands / The bare end / The plastic coat  
    **Answer:** The plastic coat. *Why:* The plastic coat holds its charges still, so current stays in the copper. The bare end is copper too, left uncovered so it can be joined.
 3. (truefalse) A plastic ruler has no electric charges inside it.  
    **Answer:** False. *Why:* False. Every material is made of atoms full of charges. In plastic the charges are held in place. That is what makes plastic an insulator.
@@ -491,7 +491,7 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 9. (order) Put these in order, from conducts best to conducts least.  
    **Answer:** ['a copper wire', 'salt water', 'tap water', 'dry plastic']. *Why:* Copper has the most free charges. Salt water has many ions, tap water has few, and dry plastic has almost no free charge at all.
 10. (mcq) Why must hands be dry before touching a switch?  
-   Options: Wet hands are slippery / Water makes switches rust at once / Wet skin lets far more current through  
+   Options: Wet skin lets far more current through / Wet hands are slippery / Water makes switches rust at once  
    **Answer:** Wet skin lets far more current through. *Why:* Dry skin holds back most of a current. Wet skin is about 100 times easier to pass, and the water can also creep into the switch to the live metal.
 11. (write) Explain why an electric wire is made of two materials, not one.  
    **Answer:** The copper inside is a conductor, so it carries the current where it is needed. The plastic outside is an insulator, so the current cannot leave the copper to reach a hand or another wire.. *Why:* A strong answer names both jobs: leading the current, and keeping it in. It may add that two bare wires touching would make a short path.
@@ -500,16 +500,16 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 13. (label) Here is a three-pin plug with its cord. Label each part.  
    **Answer:** ['the thick, long top pin: earth pin', 'either lower pin: one of the two current pins', 'the part you hold: plastic body', 'the long covered wires: cord']. *Why:* The top pin is thicker and longer, so it joins first. The two lower pins carry the current in and out. The body and the cord's coat are insulators.
 14. (mcq) An LED glows in a cup of water where a torch bulb stays dark. Why?  
-   Options: The LED makes its own electricity / The LED needs far less current to glow / Torch bulbs never work in water  
+   Options: The LED needs far less current to glow / The LED makes its own electricity / Torch bulbs never work in water  
    **Answer:** The LED needs far less current to glow. *Why:* The same small current flows in both tests. It is enough for an LED and far too little for a bulb's thin wire to get hot.
 15. (write) Write one safety rule for your home. Then write the reason for it.  
    **Answer:** Any true rule with a correct reason. For example: I dry my hands before touching a switch, because wet skin lets about 100 times more current through.. *Why:* A strong answer gives a reason that uses conductors, insulators, ions or the size of the push. A rule with no reason is only half an answer.
 ### Ions, Bodies and Earth Wires (stretch) (stretch, 15 questions)
 1. (mcq) Salt and sugar both dissolve. Why does only salt make water conduct well?  
-   Options: Salt is heavier than sugar / Salt breaks into charged ions / Sugar blocks the wires  
+   Options: Salt is heavier than sugar / Sugar blocks the wires / Salt breaks into charged ions  
    **Answer:** Salt breaks into charged ions. *Why:* Salt splits into ions with plus and minus charges, which can carry current. Sugar molecules stay whole and have no charge to carry.
 2. (mcq) A bird stands with both feet on one bare power line and is unharmed. Why?  
-   Options: Birds are too small to conduct / Her feet are made of rubber / Nothing pushes current through her body  
+   Options: Nothing pushes current through her body / Birds are too small to conduct / Her feet are made of rubber  
    **Answer:** Nothing pushes current through her body. *Why:* Both feet are on the same wire, so there is no push from one foot to the other. If she touched a second wire or the tower, current would pass through her.
 3. (truefalse) A 1.5 volt cell is safe to hold because skin can hold back so gentle a push.  
    **Answer:** True. *Why:* True. Skin has a large resistance, and 1.5 volts sends almost no current through it. The same skin does not hold back 230 volts.
@@ -535,16 +535,16 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 13. (perspective) Three people disagree about what children should be told about water and electricity.  
    **Answer:** A strong answer picks a view and gives a reason from this lesson, such as: all everyday water has ions, or knowing about ions explains sweat and wet floors. It also gives one fair point to another view.. *Why:* There is no single right answer. The short rule is safe and slightly untrue. The full truth is exact and takes longer to learn. Each speaker is protecting something real.
 14. (mcq) Why may a phone charger have only two pins and no earth pin?  
-   Options: Its whole case is plastic, with no metal to touch / Chargers use no current / Phones are too small to be dangerous  
+   Options: Chargers use no current / Phones are too small to be dangerous / Its whole case is plastic, with no metal to touch  
    **Answer:** Its whole case is plastic, with no metal to touch. *Why:* An earth wire protects against a metal body going live. A charger wrapped fully in plastic has no metal body to protect. It still carries 230 volts inside, so a cracked charger is not safe.
 15. (label) Here are a wire and a nerve fibre, side by side. Label the conductor and the insulator in each.  
    **Answer:** ['the copper strands: conductor in the wire', 'the plastic coat: insulator on the wire', 'the salty water inside the fibre: conductor in the nerve', 'the fatty wrap called myelin: insulator on the nerve']. *Why:* Both are a conductor inside an insulating wrap. The wire uses free electrons in copper. The nerve uses ions in salty water, wrapped in fat.
 ### The Long Scale (challenge) (challenge, 15 questions)
 1. (mcq) Diamond and graphite are both pure carbon. Why does only graphite conduct?  
-   Options: Graphite is softer / Each atom in graphite has one electron free to move / Diamond is too clear  
+   Options: Each atom in graphite has one electron free to move / Graphite is softer / Diamond is too clear  
    **Answer:** Each atom in graphite has one electron free to move. *Why:* In diamond every outer electron is locked in a bond. In graphite the atoms sit in flat sheets, and one electron from each atom can move along the sheet. The atoms are the same. The joining is different.
 2. (mcq) What happens to air when lightning passes through it?  
-   Options: The air turns into metal / Nothing. Lightning goes round the air / A huge push tears electrons free, so the air conducts  
+   Options: A huge push tears electrons free, so the air conducts / The air turns into metal / Nothing. Lightning goes round the air  
    **Answer:** A huge push tears electrons free, so the air conducts. *Why:* Air insulates until the push is about 30,000 volts for each centimetre. Beyond that, electrons are pulled off the air's atoms and the air carries a current for a moment.
 3. (truefalse) Electricity takes only the easiest path, and none goes down any other path.  
    **Answer:** False. *Why:* False. Current shares itself among every path open to it. The easier path gets more, but a harder path, such as a person, still gets some.
@@ -570,7 +570,7 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 13. (perspective) Scientists disagree about what the electric signals in plants mean.  
    **Answer:** A strong answer picks a view, gives a reason, and suggests something to test, such as whether a plant acts differently after the same signal on different days, or whether blocking the signal changes what she does.. *Why:* Scientists have not settled this. Both sides accept the measurements. They differ on what counts as thinking, and that is partly a question about words and partly one for more experiments.
 14. (mcq) A tester's lamp stays dark on a wooden block. What can you safely say?  
-   Options: No charge can ever move in the block / Any current was too small for this lamp / The block is a perfect insulator  
+   Options: No charge can ever move in the block / The block is a perfect insulator / Any current was too small for this lamp  
    **Answer:** Any current was too small for this lamp. *Why:* A dark lamp shows only that the current was below what the lamp needs. A more sensitive tester, a harder push or a wet block could give a different result.
 15. (label) Here is a power-line tower. Label the conductor and the three things that keep the current in it.  
    **Answer:** ['the long cable: bare aluminium wire', 'the stack between cable and tower: ceramic discs', 'the space all round the cable: air', 'the tall frame: steel tower']. *Why:* The wire is bare because the air around it is the insulator. The ceramic discs hold the wire away from the steel tower, which is a conductor joined to the ground.
@@ -582,22 +582,22 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 
 ## Quiz
 1. (mcq) Riya, a girl in your class, tests five cups of water. She does not rinse the wires between cups. What goes wrong?  
-   Options: The wires stop working / Salt is carried into the next cup / Nothing goes wrong  
+   Options: The wires stop working / Nothing goes wrong / Salt is carried into the next cup  
    **Answer:** Salt is carried into the next cup. *Why:* A fair test changes one thing only. Salt left on the wires changes the next cup too, so its score is too high. If you chose 'nothing', think about what the wet wire ends are carrying.
 2. (mcq) Which tester can show the smallest current?  
-   Options: A tester with a red LED / A tester with a torch bulb / Both show exactly the same  
+   Options: A tester with a torch bulb / Both show exactly the same / A tester with a red LED  
    **Answer:** A tester with a red LED. *Why:* An LED glows with about a hundredth of the current a torch bulb needs. So it catches currents the bulb misses.
 3. (mcq) What is inside a copper wire before it is joined to a cell?  
    Options: Nothing. The cell fills it up / Tiny sparks waiting to jump / Free electrons, all along the wire  
    **Answer:** Free electrons, all along the wire. *Why:* The wire is already full of free electrons. The cell only pushes them. If you chose the first answer, think of the coin train: the coins were there before the push.
 4. (mcq) Why does rubber insulate?  
-   Options: Rubber has no electrons in it / Its electrons are held firmly by their atoms / Rubber is soft and bends  
+   Options: Its electrons are held firmly by their atoms / Rubber has no electrons in it / Rubber is soft and bends  
    **Answer:** Its electrons are held firmly by their atoms. *Why:* Every material has electrons. In rubber none are free to move, so a push moves almost no charge. Softness has nothing to do with it: hard glass insulates too.
 5. (mcq) You add salt to plain water one pinch at a time. What does the LED do?  
-   Options: It jumps from dark to full at one pinch / It does not change / It grows brighter with each pinch  
+   Options: It jumps from dark to full at one pinch / It grows brighter with each pinch / It does not change  
    **Answer:** It grows brighter with each pinch. *Why:* Each pinch adds more ions, and more ions carry more current. There is no pinch where water suddenly becomes a conductor.
 6. (mcq) Which of these conducts best?  
-   Options: Rainwater caught in a clean plastic bowl / Sea water / Filtered drinking water  
+   Options: Rainwater caught in a clean plastic bowl / Filtered drinking water / Sea water  
    **Answer:** Sea water. *Why:* Sea water holds the most ions by far. Rainwater holds the fewest of the three. The more ions, the better water conducts.
 7. (mcq) Why is 230 volts dangerous when 1.5 volts is not?  
    Options: The harder push drives a large current through a body / Mains is a different kind of electricity / A cell has no electricity in it  
@@ -605,22 +605,22 @@ That night the idlis were soft, and Nana gave Ilakkiya four. Imran lay awake aft
 8. (truefalse) Dry skin is a perfect insulator.  
    **Answer:** False. *Why:* False. Dry skin holds back much more than wet skin does, but never everything. At 230 volts enough current passes through dry skin to do harm.
 9. (mcq) Why are the handles of an electrician's pliers covered in rubber?  
-   Options: To make the pliers heavier / Only to give a better grip / So current cannot pass from the metal to the hand  
+   Options: To make the pliers heavier / So current cannot pass from the metal to the hand / Only to give a better grip  
    **Answer:** So current cannot pass from the metal to the hand. *Why:* The metal jaws may touch a live wire. The rubber is an insulator between the metal and the hand. A grip helps too, but it is not the main reason.
 10. (mcq) What does the earth wire join the metal body of a fridge to?  
-   Options: The ground / The switch / The bulb inside the fridge  
+   Options: The switch / The bulb inside the fridge / The ground  
    **Answer:** The ground. *Why:* The earth wire runs from the metal body to the ground. If a loose wire makes the body live, the current takes this easy path, and a safety switch cuts the supply.
 11. (mcq) Which sentence about conductors and insulators is the most accurate?  
-   Options: Every material is fully one or fully the other / Only metals have charges inside them / They are two ends of one long scale  
+   Options: Every material is fully one or fully the other / They are two ends of one long scale / Only metals have charges inside them  
    **Answer:** They are two ends of one long scale. *Why:* Materials range from silver to rubber, with pencil lead, salt water, silicon and skin in between. All materials have charges inside. What differs is how free the charges are.
 12. (mcq) A mixer gives your hand a tingle. What is the right thing to do?  
-   Options: Touch it again to make sure / Switch off at the main switch and tell a grown-up / Wipe it with a wet cloth and carry on  
+   Options: Switch off at the main switch and tell a grown-up / Touch it again to make sure / Wipe it with a wet cloth and carry on  
    **Answer:** Switch off at the main switch and tell a grown-up. *Why:* A tingle means current is reaching the metal body, so an insulator has failed. Cut the supply first, then get an electrician. Touching again, or adding water, gives the current a better path through you.
 13. (mcq) Someone is getting a shock from an appliance. What should you do first?  
-   Options: Switch off at the main switch without touching them / Pull them away with your hands / Throw water on the appliance  
+   Options: Pull them away with your hands / Throw water on the appliance / Switch off at the main switch without touching them  
    **Answer:** Switch off at the main switch without touching them. *Why:* A body conducts, so touching the person can pass the current through you too. Cutting the supply ends the danger for everyone. Water would make every path easier.
 14. (mcq) Which of these is still an open question for scientists?  
-   Options: Whether copper conducts / How ceramic superconductors work / Whether salt dissolves in water  
+   Options: How ceramic superconductors work / Whether copper conducts / Whether salt dissolves in water  
    **Answer:** How ceramic superconductors work. *Why:* Ceramic superconductors were found in 1986, and physicists still argue about what pairs up the electrons inside them. The other two were settled long ago.
 
 ## Applications

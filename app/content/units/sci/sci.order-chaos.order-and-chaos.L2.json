@@ -459,11 +459,11 @@
       "t": "mcq",
       "q": "The paper ball and the paper leaf weighed the same. Why did the leaf land in a new place each time?",
       "options": [
-       "The leaf was heavier",
        "The air pushed on its big flat side and made it swing",
+       "The leaf was heavier",
        "Gravity does not pull on flat things"
       ],
-      "a": 1,
+      "a": 0,
       "why": "They weighed the same, so weight was not the difference. The air pushed on the leaf's big flat side, and tiny changes in each drop sent it somewhere new. Gravity pulls on both."
      },
      "parent": "A strong answer uses the crosses as evidence: the red ones are bunched, the blue ones are spread out. Then it gives a reason about the shape and the air."
@@ -1018,11 +1018,11 @@
       "t": "mcq",
       "q": "Which of these can happen the same way again?",
       "options": [
-       "Rain splashing on a step",
        "A kolam drawn around nine dots",
+       "Rain splashing on a step",
        "A leaf falling from a tree"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A kolam follows a rule, so it can be drawn the same way again. Splashes and falling leaves are different every time."
      }
     },
@@ -1346,11 +1346,11 @@
      "t": "mcq",
      "p": "In the paper leaf test, which one landed inside the circle most often?",
      "opts": [
-      "The flat paper leaf",
       "The crumpled paper ball",
+      "The flat paper leaf",
       "Both the same"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The ball fell almost straight down, because the air could not push it about much. Choosing 'both the same' means thinking that the same weight gives the same fall. The test shows shape matters too.",
      "context": "This question is about the paper leaf test. You dropped a flat paper leaf and a crumpled paper ball ten times each, from the same height, and marked where each one landed.",
      "how": "e1"
@@ -1500,11 +1500,11 @@
      "t": "mcq",
      "p": "In the splash test, which drop made the most little dots around its splash?",
      "opts": [
-      "A drop from 30 centimetres",
       "A drop from one metre",
+      "A drop from 30 centimetres",
       "Both made the same number"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing \"the same number\" means thinking that the height of the drop makes no difference to the splash.",
      "context": "This question is about the splash test. You let drops of yellow haldi water fall onto white paper from the same height, and looked at each splash.",
      "how": "e2"
@@ -1623,10 +1623,10 @@
      "p": "Weather follows rules of air, water and heat. Why can't weather scientists say exactly what the weather will be a month from now?",
      "opts": [
       "Weather has no rules at all",
-      "Tiny changes in the air grow bigger over time",
-      "Nobody has ever tried"
+      "Nobody has ever tried",
+      "Tiny changes in the air grow bigger over time"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Weather is chaotic, like the falling leaf. Tiny changes in the air grow over the days. Choosing 'no rules at all' mixes up 'hard to predict' with 'has no rules'."
     }
    ]
@@ -1676,10 +1676,10 @@
    "p": "Which of these is a pattern?",
    "opts": [
     "Rajma beans tipped onto a plate",
-    "Clap, clap, stamp, clap, clap, stamp",
-    "A cloud changing shape"
+    "A cloud changing shape",
+    "Clap, clap, stamp, clap, clap, stamp"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A pattern repeats in the same way. Clap, clap, stamp repeats. The beans and the cloud never repeat.",
    "outcome": 0
   },
@@ -1687,11 +1687,11 @@
    "t": "mcq",
    "p": "You drop a crumpled paper ball ten times from the same height. Where does it land?",
    "opts": [
-    "Near the same spot every time",
     "In a new place far away each time",
+    "Near the same spot every time",
     "It floats and never lands"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The air cannot push the small round ball about much, so it falls nearly straight down every time.",
    "outcome": 1
   },
@@ -1699,11 +1699,11 @@
    "t": "mcq",
    "p": "You drop a flat paper leaf ten times from the same height. Where does it land?",
    "opts": [
-    "In exactly the same spot every time",
     "In a new place each time",
+    "In exactly the same spot every time",
     "Always in the middle of the circle"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The air pushes on the flat leaf and makes it swing. Tiny changes in each drop send it somewhere new.",
    "outcome": 1
   },
@@ -1711,11 +1711,11 @@
    "t": "mcq",
    "p": "Which two forces act on a falling leaf?",
    "opts": [
-    "Gravity pulling down and air pushing back",
     "Only gravity",
+    "Gravity pulling down and air pushing back",
     "Only the wind"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gravity pulls every falling thing down. The air pushes back against it as it falls. Even with no wind, the air still pushes.",
    "outcome": 2
   },
@@ -1723,11 +1723,11 @@
    "t": "mcq",
    "p": "Why can't you make a flat paper leaf land in the same place twice?",
    "opts": [
-    "The rules of falling change every time",
     "You can never let go of it in exactly the same way, and the air moves a tiny bit",
+    "The rules of falling change every time",
     "Paper is too heavy"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The rules stay the same. What changes are tiny things, like your fingers and the air. On a flat leaf, those tiny changes grow into a big difference.",
    "outcome": 2
   },
@@ -1759,11 +1759,11 @@
    "t": "mcq",
    "p": "A splash looks messy. Does it follow rules?",
    "opts": [
-    "Yes, the water follows the same rules every time",
     "No, messy things have no rules",
+    "Yes, the water follows the same rules every time",
     "Only on sunny days"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Messy does not mean there are no rules. The water always falls and spreads out by the same rules. Tiny changes make each splash different.",
    "outcome": 4
   },
@@ -1772,10 +1772,10 @@
    "p": "What do scientists call things that follow rules but never happen the same way twice?",
    "opts": [
     "Order",
-    "Chaos",
-    "A pattern"
+    "A pattern",
+    "Chaos"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Chaos is the word for things like falling leaves and weather. They follow rules, but tiny changes at the start make big changes at the end.",
    "outcome": 4
   },
@@ -1783,11 +1783,11 @@
    "t": "mcq",
    "p": "Is anything in the world truly random, with nothing at all deciding how it comes out?",
    "opts": [
+    "Scientists still argue about it",
     "Yes, scientists have proved it",
-    "No, scientists have proved it",
-    "Scientists still argue about it"
+    "No, scientists have proved it"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Some scientists think the tiniest particles are truly random. Others think there may be hidden rules. Nobody has settled this yet.",
    "outcome": 5
   }

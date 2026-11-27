@@ -769,10 +769,10 @@
       "q": "Bees carry pollen to a flower, but no seed forms. Which stage most likely failed?",
       "options": [
        "Pollination",
-       "Fertilisation",
-       "Germination"
+       "Germination",
+       "Fertilisation"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The pollen reached the flower, so pollination happened. A seed starts only when a male cell joins an egg cell, which is fertilisation. Choosing pollination usually means the two words are still mixed up."
      },
      "context": "This is the last step of Where Did the Cycle Stop. You finish the cards and think about which stage is the riskiest."
@@ -941,11 +941,11 @@
       "t": "mcq",
       "q": "Which of these plants has the shortest lifespan?",
       "options": [
+       "A paddy plant",
        "A coconut palm",
-       "A carrot",
-       "A paddy plant"
+       "A carrot"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A paddy plant is an annual and lives about 5 months. A carrot is a biennial and lives 2 years. A coconut palm is a perennial and lives about 80 years."
      },
      "context": "This is the last step of Longer or Shorter. You put all 18 plants in order of lifespan."
@@ -1083,11 +1083,11 @@
       "t": "mcq",
       "q": "In the Bad Year Test, why do you do three runs in each place, and not one?",
       "options": [
-       "Luck can make one run odd",
        "Three runs take less time",
-       "The die wears out after one run"
+       "The die wears out after one run",
+       "Luck can make one run odd"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each roll is chance, so one run can go unusually well or badly for a plant. Three runs show the pattern more clearly. Scientists repeat tests for the same reason."
      },
      "context": "In this step of the Bad Year Test you run 12 years in the old grove, three times."
@@ -1458,11 +1458,11 @@
       "t": "mcq",
       "q": "A tree lives 100 years and first flowers at 5 years. What share of the life passes before the first flower?",
       "options": [
-       "One twentieth",
        "One fifth",
-       "One half"
+       "One half",
+       "One twentieth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "5 ÷ 100 = 1 twentieth, which is 5 percent. Choosing one fifth usually means dividing 100 by 5 and reading the answer the wrong way round."
      },
      "context": "This is the last step of Stage Lengths. You draw the six bars and look for a pattern between short lives and long lives."
@@ -1553,11 +1553,11 @@
       "t": "mcq",
       "q": "A carrot plant is left in the ground for a second year. What happens to the stored food in the root?",
       "options": [
-       "The plant uses the food to flower and make seed",
        "The root grows twice as big",
-       "The root turns into a leaf"
+       "The root turns into a leaf",
+       "The plant uses the food to flower and make seed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A biennial stores food in year one and spends it on flowers and seeds in year two. A bigger root is a common guess, but the root shrinks as the food is used."
      },
      "context": "This is the last step of the Kitchen Plant Sort. You find which plants are farmed in a different way from how they live."
@@ -1794,11 +1794,11 @@
       "t": "mcq",
       "q": "Which fact is the strongest reason for growing a perennial grain?",
       "options": [
-       "Roots stay in the soil all year and hold it in heavy rain",
        "Perennial plants are always bigger",
-       "Perennial grains always give more grain"
+       "Perennial grains always give more grain",
+       "Roots stay in the soil all year and hold it in heavy rain"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Roots in the ground all year hold soil. The other two are not true: perennial grains so far give less grain than annual grains, and size does not set the yield."
      },
      "context": "This is the last step of the debate about perennial rice. You write your own view and say what evidence would change it."
@@ -2099,11 +2099,11 @@
       "t": "mcq",
       "q": "A field is cleared one year in three. In a test, the annual leaves 40 seeds and the perennial 36 on average. What does this tell you?",
       "options": [
-       "Neither plant is clearly better, so you need more runs",
        "The annual is always better",
-       "The perennial is always better"
+       "The perennial is always better",
+       "Neither plant is clearly better, so you need more runs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The averages are close, and one run can go either way. You need more runs before you pick. Choosing the annual because 40 is bigger forgets that chance moves each run."
      },
      "context": "This is the last step of the Fit the Plant to the Field challenge. You compare your plan with a plan that uses one plant everywhere."
@@ -2236,12 +2236,12 @@
      "t": "mcq",
      "p": "A bee leaves pollen on a flower. What must happen before a seed can start to form?",
      "opts": [
-      "A male cell joins an egg cell inside the flower",
       "The petals fall off",
       "The fruit turns ripe",
+      "A male cell joins an egg cell inside the flower",
       "The seed germinates"
      ],
-     "a": 0,
+     "a": 2,
      "why": "After pollination, a male cell from the pollen joins an egg cell inside the flower. That is fertilisation, and a seed starts only after that. Choosing the petals falling off mixes up a sign that often follows with the cause."
     },
     {
@@ -2335,12 +2335,12 @@
      "t": "mcq",
      "p": "Which stage does a fern never have?",
      "opts": [
-      "Pollination",
       "Germination",
       "Growth",
-      "Seed dispersal"
+      "Seed dispersal",
+      "Pollination"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A fern has no flowers, so a fern has no pollination. A fern spore germinates, the fern grows, and spores are carried away by wind. Choosing seed dispersal forgets that spores are dispersed too."
     },
     {
@@ -2354,12 +2354,12 @@
      "t": "mcq",
      "p": "Which plant can live for several thousand years?",
      "opts": [
-      "A bristlecone pine",
       "A mustard plant",
       "A moong plant",
-      "A paddy plant"
+      "A paddy plant",
+      "A bristlecone pine"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Bristlecone pines in California have been counted at nearly 5,000 years. Mustard, moong and paddy live a few months."
     },
     {
@@ -2395,12 +2395,12 @@
      "t": "mcq",
      "p": "A mustard plant lives 120 days and first flowers at day 40. What share of the life passes before the first flower?",
      "opts": [
-      "One third",
       "One half",
       "One quarter",
-      "Two thirds"
+      "Two thirds",
+      "One third"
      ],
-     "a": 0,
+     "a": 3,
      "why": "40 ÷ 120 = 1 third. One half would need 60 days, and one quarter would need 30 days."
     },
     {
@@ -2421,12 +2421,12 @@
      "t": "mcq",
      "p": "Which of these foods comes from a perennial plant?",
      "opts": [
-      "Pepper",
       "Rice",
       "Wheat",
-      "Moong"
+      "Moong",
+      "Pepper"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Pepper grows on a vine that lives for many years. Rice, wheat and moong are annuals."
     }
    ]
@@ -2506,12 +2506,12 @@
      "t": "mcq",
      "p": "A coconut palm first flowers at 8 years and lives 80 years. What share of life passes before the first flower?",
      "opts": [
-      "One tenth",
       "One eighth",
+      "One tenth",
       "One fifth",
       "One half"
      ],
-     "a": 0,
+     "a": 1,
      "why": "8 ÷ 80 = 1 tenth. One eighth comes from dividing 80 by 10 by mistake."
     },
     {
@@ -2541,12 +2541,12 @@
      "t": "mcq",
      "p": "A chrysanthemum plant flowers when the nights are long. Which part of the plant senses the length of the night?",
      "opts": [
-      "The leaves",
       "The buds",
       "The roots",
-      "The petals"
+      "The petals",
+      "The leaves"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Scientists covered or lit different parts of plants. They found that the leaves sense the night and send a signal to the buds."
     },
     {
@@ -2710,12 +2710,12 @@
      "t": "mcq",
      "p": "When a die clears the ground on a 1 or a 2, what do you expect in the Bad Year Test?",
      "opts": [
-      "Neither plant wins every run, and the totals are close",
       "The annual wins every run",
       "The perennial wins every run",
+      "Neither plant wins every run, and the totals are close",
       "Neither plant leaves any seeds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When clearing happens one year in three, the annual averages about 40 seeds and the perennial about 36. Either can win a single run, so you need several runs.",
      "how": "e1"
     },
@@ -2749,12 +2749,12 @@
      "t": "mcq",
      "p": "A core from a bristlecone pine shows 4,600 rings. Why do scientists say 'more than 4,600 years'?",
      "opts": [
-      "Some rings may be missing, so the count is low",
       "Rings grow twice a year",
       "The core is always cut in half",
-      "Bristlecone pines have no rings"
+      "Bristlecone pines have no rings",
+      "Some rings may be missing, so the count is low"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A tree can miss a ring in a very dry year, and the centre may have rotted away. The real age is probably higher than the count."
     },
     {
@@ -2858,12 +2858,12 @@
    "t": "mcq",
    "p": "Pollen lands on a flower. Later, a male cell joins an egg cell inside the flower. What is this stage called?",
    "opts": [
-    "Fertilisation",
     "Pollination",
     "Germination",
+    "Fertilisation",
     "Seed dispersal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The joining of a male cell and an egg cell is fertilisation. Choosing pollination means mixing up the carrying of pollen with the joining of cells.",
    "outcome": 0
   },
@@ -2871,12 +2871,12 @@
    "t": "mcq",
    "p": "Which stage comes straight after fertilisation?",
    "opts": [
-    "Fruit and seed formation",
     "Germination",
     "Pollination",
+    "Fruit and seed formation",
     "Flowering"
    ],
-   "a": 0,
+   "a": 2,
    "why": "After fertilisation, the egg cells grow into seeds and the flower around them grows into a fruit. Germination comes later, when a seed starts to grow.",
    "outcome": 0
   },
@@ -2884,12 +2884,12 @@
    "t": "mcq",
    "p": "How does a fern make new plants?",
    "opts": [
-    "With spores",
     "With seeds in a fruit",
     "With seeds on a cone",
+    "With spores",
     "With flowers"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ferns never flower. They make spores, which are single cells. Choosing cones means mixing up ferns with pines.",
    "outcome": 1
   },
@@ -2897,12 +2897,12 @@
    "t": "mcq",
    "p": "Which plant makes seeds without any flower or fruit?",
    "opts": [
-    "A deodar",
     "A fern",
     "A moss",
+    "A deodar",
     "A mango tree"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A deodar is a conifer, and makes seeds on the scales of cones. Ferns and mosses make spores, and the mango tree has flowers and fruit.",
    "outcome": 1
   },
@@ -2910,12 +2910,12 @@
    "t": "mcq",
    "p": "A plant grows leaves and a thick root in year one, flowers in year two and then dies. What is the plant?",
    "opts": [
-    "A biennial",
     "An annual",
     "A perennial",
+    "A biennial",
     "A non-flowering plant"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A biennial takes two years, and flowers in the second. An annual takes one season, and a perennial lives more than two years.",
    "outcome": 2
   },
@@ -2923,12 +2923,12 @@
    "t": "mcq",
    "p": "Which of these plants is a perennial?",
    "opts": [
-    "Tamarind",
     "Paddy",
     "Mustard",
+    "Tamarind",
     "Moong"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tamarind tree lives for many years. Paddy, mustard and moong live for one season.",
    "outcome": 2
   },
@@ -2936,12 +2936,12 @@
    "t": "mcq",
    "p": "Paddy lives about 150 days and first flowers at about day 90. What share of its life passes before the first flower?",
    "opts": [
-    "Three fifths",
     "One third",
     "One half",
+    "Three fifths",
     "Two fifths"
    ],
-   "a": 0,
+   "a": 2,
    "why": "90 ÷ 150 = 3 fifths, which is 60 percent. One third is the share for mustard.",
    "outcome": 3
   },
@@ -2949,12 +2949,12 @@
    "t": "mcq",
    "p": "Why do annuals do well in a field that is ploughed every year?",
    "opts": [
-    "Ploughing clears the ground, and annuals grow quickly from seed",
     "Ploughing helps perennial roots",
     "Annuals have deeper roots",
-    "Ploughing makes the soil colder"
+    "Ploughing makes the soil colder",
+    "Ploughing clears the ground, and annuals grow quickly from seed"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Ploughing clears the plants from the ground. An annual flowers young and leaves seeds before the next clearing, while a perennial loses the years it spent growing.",
    "outcome": 4
   },
@@ -2962,12 +2962,12 @@
    "t": "mcq",
    "p": "Why does a young perennial often leave fewer seeds than an annual in the first years?",
    "opts": [
-    "It spends food on roots and wood, and not on seeds",
     "It cannot make flowers",
     "It has no leaves",
+    "It spends food on roots and wood, and not on seeds",
     "It needs less water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Food spent on seeds cannot be spent on growing. A perennial grows first and makes seeds for many years afterwards.",
    "outcome": 4
   },
@@ -2975,12 +2975,12 @@
    "t": "mcq",
    "p": "A scientist drills a thin core out of a living tree and counts the rings. What does the count tell us?",
    "opts": [
-    "About how many years old the tree is",
     "How tall the tree will grow",
     "How many leaves the tree has",
+    "About how many years old the tree is",
     "What fruit the tree makes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In places with seasons, a tree adds one ring each year, so the count gives the age. The core does not harm the tree.",
    "outcome": 5
   },
@@ -3001,12 +3001,12 @@
    "t": "mcq",
    "p": "Which is a fair reason to grow perennial crops?",
    "opts": [
-    "Roots hold the soil all year",
     "Perennial crops always give more grain",
     "Perennial crops need no water",
-    "Perennial crops grow in one month"
+    "Perennial crops grow in one month",
+    "Roots hold the soil all year"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Roots in the soil hold it, and the farmer saves the work of sowing. But the farmer must wait some years for the first crop, and some perennial grains give less grain so far.",
    "outcome": 7
   }

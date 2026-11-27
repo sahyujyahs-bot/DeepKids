@@ -403,11 +403,11 @@
       "t": "mcq",
       "q": "From far away, the bunch of 15 holes looked like:",
       "options": [
-       "15 sharp lights",
        "one soft, fuzzy light",
+       "15 sharp lights",
        "nothing at all"
       ],
-      "a": 1,
+      "a": 0,
       "why": "From far away the gaps between the holes look too small for your eyes, so the lights blur into one glow. If you saw 15 sharp lights, walk further back, or make the holes closer together."
      }
     },
@@ -555,10 +555,10 @@
       "q": "With the short thread, the counts in the four directions were:",
       "options": [
        "much bigger towards the middle",
-       "about the same in every direction, within a few grains",
-       "zero everywhere"
+       "zero everywhere",
+       "about the same in every direction, within a few grains"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Close to the Sun, the grains are spread about evenly, so every direction gives a similar count. A few grains of difference is normal. The counts look as if the Sun is in the middle. That is exactly the mistake the Herschels made, because dust hid the faraway stars from them."
      }
     },
@@ -779,11 +779,11 @@
       "t": "mcq",
       "q": "When you zoomed in, the pale band was made of:",
       "options": [
+       "countless tiny stars",
        "clouds of water",
-       "milk",
-       "countless tiny stars"
+       "milk"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The pale band is made of stars. They are too close together for your eyes to see one by one, so from far away they blur into a glow."
      }
     },
@@ -877,11 +877,11 @@
       "t": "mcq",
       "q": "If our solar system were a coin, the Milky Way would be about as big as:",
       "options": [
+       "the distance from Kanyakumari to Delhi",
        "a room",
-       "a city",
-       "the distance from Kanyakumari to Delhi"
+       "a city"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The Milky Way is about 100,000 light-years across. At coin size, that is about 2,000 kilometres, close to the distance from Kanyakumari to Delhi."
      }
     },
@@ -1118,11 +1118,11 @@
       "t": "mcq",
       "q": "Looking from the Sun, which way would you see more stars?",
       "options": [
-       "Along the disc",
        "Up out of the disc",
-       "The same both ways"
+       "The same both ways",
+       "Along the disc"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The disc is thin, so looking up you soon come out of it. Looking along it, there are stars behind stars for thousands of light-years. That crowded direction is the pale band we call the Milky Way."
      }
     }
@@ -1453,10 +1453,10 @@
    "p": "What is a galaxy?",
    "opts": [
     "One very big star",
-    "A huge group of stars, gas and dust held together by gravity",
-    "A planet with many moons"
+    "A planet with many moons",
+    "A huge group of stars, gas and dust held together by gravity"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 0,
    "why": "A galaxy is a huge group of stars, gas and dust that gravity holds together. Picking 'one very big star' mixes up a galaxy with a star. The Sun is one star in our galaxy."
   },
@@ -1464,11 +1464,11 @@
    "t": "mcq",
    "p": "The Sun is:",
    "opts": [
-    "one of the stars of the Milky Way",
     "outside every galaxy",
-    "the centre of the Milky Way"
+    "the centre of the Milky Way",
+    "one of the stars of the Milky Way"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, because dust hid the faraway stars and fooled them."
   },
@@ -1500,11 +1500,11 @@
    "t": "mcq",
    "p": "You look at the faint glow of the Milky Way through a telescope. What do you see?",
    "opts": [
-    "It is a river of water",
     "It is made of countless stars",
+    "It is a river of water",
     "It is a cloud of gas"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 2,
    "why": "A telescope makes the gaps between the stars look bigger, so the glow breaks into stars. Our eyes alone see only the glow."
   },
@@ -1512,11 +1512,11 @@
    "t": "mcq",
    "p": "A galaxy shaped like a flat pinwheel with curved arms is called:",
    "opts": [
+    "a spiral galaxy",
     "an elliptical galaxy",
-    "an irregular galaxy",
-    "a spiral galaxy"
+    "an irregular galaxy"
    ],
-   "a": 2,
+   "a": 0,
    "outcome": 3,
    "why": "Spiral galaxies have curved arms winding out from a bright middle. Elliptical ones are smooth ovals, and irregular ones have no clear shape."
   },
@@ -1524,11 +1524,11 @@
    "t": "mcq",
    "p": "A galaxy that looks like a smooth, glowing egg with no arms is:",
    "opts": [
-    "elliptical",
     "spiral",
+    "elliptical",
     "irregular"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "Elliptical galaxies are smooth balls or eggs of mostly old stars. If you picked spiral, look for arms: an elliptical has none."
   },
@@ -1536,11 +1536,11 @@
    "t": "mcq",
    "p": "Some pulsing stars pulse more slowly when they are really brighter. Why is this so useful to astronomers?",
    "opts": [
-    "It tells us when a star will explode",
     "From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is",
+    "It tells us when a star will explode",
     "It shows which stars have planets"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 4,
    "why": "The pulse tells how bright the star really is. A star that is really bright but looks faint must be far away. So these stars work like distance markers in the sky."
   },
@@ -1548,11 +1548,11 @@
    "t": "mcq",
    "p": "Astronomers find a pulsing star in the fuzzy Andromeda patch and work out that it is millions of light-years away. Our galaxy is only about 100,000 light-years across. What does this show?",
    "opts": [
-    "Andromeda is a cloud of gas inside the Milky Way",
     "Andromeda is a galaxy far outside the Milky Way",
+    "Andromeda is a cloud of gas inside the Milky Way",
     "Andromeda is a planet"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 4,
    "why": "The star is far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe."
   },
@@ -1561,10 +1561,10 @@
    "p": "What is at the very centre of the Milky Way?",
    "opts": [
     "The Sun",
-    "A black hole about 4 million times as heavy as the Sun",
-    "Nothing at all"
+    "Nothing at all",
+    "A black hole about 4 million times as heavy as the Sun"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 5,
    "why": "Astronomers watched stars racing round an unseen object at the centre. It is a black hole called Sagittarius A star. The Sun is about 26,000 light-years away from it."
   },
@@ -1585,10 +1585,10 @@
    "p": "Why can't most people in Chennai see the Milky Way from home?",
    "opts": [
     "It is only in the sky in other countries",
-    "City lights make the sky glow and drown out its faint light",
-    "It only comes out in the daytime"
+    "It only comes out in the daytime",
+    "City lights make the sky glow and drown out its faint light"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 1,
    "why": "The Milky Way is in the sky over every country, but its light is faint. Street and building lights make the city sky glow, and that glow hides it. From a dark place, far from cities, it is easy to see."
   }
@@ -1604,11 +1604,11 @@
      "t": "mcq",
      "p": "The Milky Way is:",
      "opts": [
-      "our galaxy",
       "a planet",
+      "our galaxy",
       "a constellation"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Milky Way is the galaxy we live in. A constellation is a pattern of stars seen from Earth, and all those stars are inside the Milky Way."
     },
     {
@@ -1660,11 +1660,11 @@
      "how": "e1",
      "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
      "opts": [
-      "Why the Moon changes shape",
       "Why the Milky Way looks like a pale glow",
+      "Why the Moon changes shape",
       "Why the Sun is hot"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Many faint stars, close together as seen from Earth, blur into one glow, like the bunch of pinholes from far away."
     },
     {
@@ -1822,10 +1822,10 @@
      "p": "Andromeda has hundreds of billions of stars. Why does it look like one faint smudge to our eyes?",
      "opts": [
       "It is very small",
-      "It is so far away that its stars blur together",
-      "It has no stars, only gas"
+      "It has no stars, only gas",
+      "It is so far away that its stars blur together"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Andromeda is about 2 and a half million light-years away. From here its stars look far too close together, and are too faint, for our eyes to tell apart. It is like the bunch of pinholes in the Pinhole Galaxy experiment, seen from very far away."
     },
     {
@@ -1919,11 +1919,11 @@
      "how": "a2",
      "context": "In the Coin activity, a 1 rupee coin stands for the whole solar system, out to Neptune.",
      "opts": [
-      "Stars are very far apart compared with the size of a solar system",
       "The nearest star is inside our solar system",
+      "Stars are very far apart compared with the size of a solar system",
       "Stars are packed close together"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If a whole solar system is the size of a tiny coin, the next star is a football field away. Most of a galaxy is empty space between the stars."
     },
     {
@@ -2030,11 +2030,11 @@
      "t": "mcq",
      "p": "Light from Andromeda takes about 2 and a half million years to reach us. When you look at Andromeda tonight, what are you seeing?",
      "opts": [
-      "Andromeda as it is tonight",
       "Andromeda as it was 2 and a half million years ago",
+      "Andromeda as it is tonight",
       "Andromeda as it will be in the future"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The light set off 2 and a half million years ago. You see Andromeda as it was then, long before there were any humans to look."
     },
     {
@@ -2072,11 +2072,11 @@
      "t": "mcq",
      "p": "Henrietta Leavitt studied pulsing stars in the Small Magellanic Cloud. Why was it useful that all those stars are about the same distance from us?",
      "opts": [
-      "So she could see them with her own eyes",
       "So that a star that looked brighter really was brighter",
+      "So she could see them with her own eyes",
       "So they all pulsed at the same speed"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If the stars are all about the same distance away, the brighter-looking ones really are brighter. That let her see that the brighter ones pulse more slowly."
     },
     {

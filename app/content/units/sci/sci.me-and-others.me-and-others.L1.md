@@ -406,7 +406,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    Options: Air / Water / Food / A toy car  
    **Answer:** 3. *Why:* Every person needs air, water and food to live. A toy car is fun, but nobody needs one to live.
 7. (mcq) A girl, her father and her grandmother taste jaggery and karela with their eyes closed. Which food will all three most likely give a thumbs up?  
-   Options: Jaggery / Pavakkai (karela) / Neither  
+   Options: Pavakkai (karela) / Neither / Jaggery  
    **Answer:** Jaggery. *Why:* Sweet is a taste nearly everyone likes. Bitter foods like karela taste very different to different people, so they often get different thumbs.
 8. (draw) Draw one kind thing you can do for someone at home today.  
    **Answer:** Any kind act, such as carrying a bag, sharing a snack or giving a hug.. *Why:* A strong drawing shows the child helping another person or making them feel better.
@@ -433,7 +433,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 4. (perspective) Sneha, aged 6, lives in Pune. Her new friend Tanvi, aged 6, has just moved there from Kolkata.  
    **Answer:** A strong answer agrees with Tanvi: all people have the same parts inside and the same needs. Sneha is right that Tanvi looks and talks a little differently on the outside.. *Why:* People often think that looking different means being different inside. Inside, all people share the same body parts and almost all the same genes.
 5. (mcq) In the Who Said Hello? voice test, why were whispers harder to guess than talking?  
-   Options: A whisper has no buzz from the voice box, so voices sound more alike / Whispers come from further away / People change their names when they whisper  
+   Options: Whispers come from further away / People change their names when they whisper / A whisper has no buzz from the voice box, so voices sound more alike  
    **Answer:** A whisper has no buzz from the voice box, so voices sound more alike. *Why:* When we talk, the voice box in our throat buzzes, and each person's buzz is a little different. A whisper is only breath, so whispers sound more alike.
 6. (truefalse) Babies only a few hours old already like sweet tastes.  
    **Answer:** True. *Why:* True. Scientists have seen new babies relax at a drop of sweet water and screw up their faces at bitter. We are born liking sweet.
@@ -451,7 +451,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 12. (label) Here is a drawing of a child. Label the parts that every person has: eyes, ears, nose, mouth, hands.  
    **Answer:** ['eyes', 'ears', 'nose', 'mouth', 'hands']. *Why:* Every person has these body parts. This is one of the ways all people are similar.
 13. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?  
-   Options: The other man was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
+   Options: The same powder can taste different to different people / The other man was making it up / The powder had no taste for anyone  
    **Answer:** The same powder can taste different to different people. *Why:* Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people.
 14. (truefalse) Only a family with a mother and a father is a real family.  
    **Answer:** False. *Why:* False. Some children live with a grandmother, an aunt and uncle, or one parent. Every one of these is a real family.
@@ -465,25 +465,25 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 
 ## Quiz
 1. (mcq) Which one is true for every person?  
-   Options: They have curly hair / They need food / They like karela  
+   Options: They need food / They have curly hair / They like karela  
    **Answer:** They need food. *Why:* Every person needs food to live and grow. Hair and liking karela are different from person to person.
 2. (mcq) A sister and her brother both have two ears. The sister is tall and the brother is short. Which is a way they are different?  
-   Options: Their ears / How tall they are / That they both need sleep  
+   Options: Their ears / That they both need sleep / How tall they are  
    **Answer:** How tall they are. *Why:* The sister is tall and the brother is short, so their height is different. They are similar in having two ears and needing sleep.
 3. (mcq) Anu says mango is the best fruit. Her friend Joy says guava is the best. Who is right?  
-   Options: Only Anu / Only Joy / Both: people like different things  
+   Options: Only Anu / Both: people like different things / Only Joy  
    **Answer:** Both: people like different things. *Why:* A favourite fruit is about what each person likes, so both can be right. People like different things.
 4. (mcq) In a taste test, a grandmother gave karela a thumbs up and her grandchild, aged 6, gave a thumbs down. They ate the same karela. Why were the thumbs different?  
-   Options: One of them is wrong / The same food can taste different to different people / The grandmother ate a sweeter piece  
+   Options: One of them is wrong / The grandmother ate a sweeter piece / The same food can taste different to different people  
    **Answer:** The same food can taste different to different people. *Why:* The karela was the same. Each person's tongue, and the foods they are used to, are different. So neither of them is wrong.
 5. (mcq) What taste does karela have?  
-   Options: Sweet / Sour / Bitter  
+   Options: Bitter / Sweet / Sour  
    **Answer:** Bitter. *Why:* Karela is bitter. Some people find the bitter taste very strong, and others hardly mind it.
 6. (mcq) Which kind of food do nearly all people like, even new babies?  
    Options: A sweet food, like jaggery / A bitter food, like karela / A sour food, like lime  
    **Answer:** A sweet food, like jaggery. *Why:* People are born liking sweet tastes. Some people like bitter and sour foods, and some do not.
 7. (mcq) On her first day, a new girl sits alone at lunch. What is a kind thing to do?  
-   Options: Sit with her and ask her name / Point at her food / Pretend not to see her  
+   Options: Point at her food / Sit with her and ask her name / Pretend not to see her  
    **Answer:** Sit with her and ask her name. *Why:* Sitting with her and asking her name helps her feel welcome. Being kind means helping someone feel better.
 8. (mcq) Why is it kind to ask 'What do you like?' before giving someone a snack?  
    Options: Because people like different things / Because everyone likes the same snack / Because it makes them wait  
@@ -492,16 +492,16 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    Options: Elephants and rats / No animals at all / Only people  
    **Answer:** Elephants and rats. *Why:* Elephants soothe other elephants who are upset, and rats free other rats who are shut in. People are animals too, and we help each other as well.
 10. (mcq) In the Who Said Hello? voice test, why are the speakers' names written in a mixed-up order?  
-   Options: So the child cannot guess from the order / To make it noisy / So people get tired  
+   Options: To make it noisy / So people get tired / So the child cannot guess from the order  
    **Answer:** So the child cannot guess from the order. *Why:* If people spoke in the same order each time, the child could guess from the order and not the voice. Mixing it up makes the test fair.
 11. (mcq) What does a scientist do before a test?  
-   Options: Guesses what will happen, and says why / Writes the answer before looking / Skips the test  
+   Options: Writes the answer before looking / Guesses what will happen, and says why / Skips the test  
    **Answer:** Guesses what will happen, and says why. *Why:* A scientist guesses first and gives a reason. Then the test shows if the guess was right.
 12. (mcq) Three children are making a rangoli together. One child has finished her part and stands waiting. What is a good thing to do?  
-   Options: Ask what part she can help with, and join in / Take the colours and do it all alone / Walk away and say it is boring  
+   Options: Take the colours and do it all alone / Ask what part she can help with, and join in / Walk away and say it is boring  
    **Answer:** Ask what part she can help with, and join in. *Why:* A shared job goes well when each person has a part. Asking how to help lets everyone feel part of the group. Doing it all alone leaves the others out.
 13. (mcq) Sana's friend Ravi lives with his grandmother and his uncle. Sana lives with her mother, her father and her sister. What is the kind thing to say?  
-   Options: Families are all different, and Ravi's is a real family too / Ravi's family is not a proper family / Everyone must live like Sana does  
+   Options: Ravi's family is not a proper family / Families are all different, and Ravi's is a real family too / Everyone must live like Sana does  
    **Answer:** Families are all different, and Ravi's is a real family too. *Why:* Families come in many shapes, and each one is a real family. Saying a family is not proper hurts the child who lives in it.
 14. (mcq) A kitten comes to your door. Which is a kind way to meet her?  
    Options: Ask a grown-up, then stroke her gently and give her some water / Pull her tail to make her play / Shout loudly so that she runs to you  

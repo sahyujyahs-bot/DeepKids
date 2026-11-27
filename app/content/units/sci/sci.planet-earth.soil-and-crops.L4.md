@@ -717,7 +717,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 3. (fill) Water climbing up through the narrow gaps in soil is called capillary ____.  
    **Answer:** ['rise']. *Why:* Capillary rise is the climb of water through very narrow gaps against gravity, as in a wick or a cloth.
 4. (mcq) Water climbed about 1 centimetre in a cup of gravel and nearly to the top of a cup of sand. Why did gravel lift the water so little?  
-   Options: Gravel is heavier than sand / The gaps in gravel are too wide to pull the water up far / Gravel is dry inside  
+   Options: Gravel is heavier than sand / Gravel is dry inside / The gaps in gravel are too wide to pull the water up far  
    **Answer:** The gaps in gravel are too wide to pull the water up far. *Why:* Water is lifted by its stickiness to the grains at the edge of a gap. In very wide gaps most of the water is far from any grain, so the pull is weak. Weight is not what matters.
 5. (truefalse) A cover of dry leaves on top of a pot makes the soil under it lose water faster.  
    **Answer:** False. *Why:* False. The leaves shade the soil and block the wind, so less water evaporates. That is why farmers spread straw as mulch.
@@ -739,7 +739,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 13. (draw) Draw your Soil Jar after one minute and after one day. Show the layers and label sand, silt, clay and humus.  
    **Answer:** A jar with sand at the bottom, silt above it, cloudy clay water above that, and leaf bits floating on top. After one day the water is clearer.. *Why:* A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.
 14. (mcq) A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?  
-   Options: It was in the irrigation water, and stayed behind when the water evaporated / It fell from the sky in the rain / It was made by the roots of the crop  
+   Options: It fell from the sky in the rain / It was made by the roots of the crop / It was in the irrigation water, and stayed behind when the water evaporated  
    **Answer:** It was in the irrigation water, and stayed behind when the water evaporated. *Why:* All irrigation water carries a little dissolved salt. When the water evaporates or is used by plants, the salt stays behind and builds up.
 15. (truefalse) Moong, urad, chana and groundnut are all legumes.  
    **Answer:** True. *Why:* True. They all belong to the bean family and have seeds in pods. Their roots carry nodules with nitrogen-fixing bacteria.
@@ -750,7 +750,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 18. (order) Put these steps in order, from the air to the bean.  
    **Answer:** ['Nitrogen gas is in the air', 'Bacteria in a nodule change the gas into ammonia', 'The bean plant turns the ammonia into protein', 'The bean seed is full of protein', 'A family eats the bean as dal']. *Why:* Nitrogen gas is turned into ammonia by the bacteria, the plant builds it into protein, and the protein ends in the seed. We eat the seed.
 19. (mcq) What does a bean plant give the bacteria in her nodules?  
-   Options: Sugar / Nitrogen gas / Salt  
+   Options: Nitrogen gas / Sugar / Salt  
    **Answer:** Sugar. *Why:* The bean makes sugar in her leaves with the help of sunlight, and gives some to the bacteria. The bacteria give nitrogen in return.
 ### Climbing Water and Helping Roots (stretch) (stretch, 19 questions)
 1. (mcq) 100 millilitres of water is poured into each of two cups of soil. The first soil holds back 80 millilitres. The second holds back 30. Which soil has more clay?  
@@ -768,7 +768,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 6. (fill) About four fifths of the air is ____ gas.  
    **Answer:** ['nitrogen']. *Why:* Air is about 78 parts nitrogen in every 100. Plants cannot use it as a gas.
 7. (mcq) A nodule has a red-pink substance inside. What does it do?  
-   Options: It holds back oxygen, which would damage the nitrogen-fixing enzyme / It makes the bean sweet / It keeps the nodule warm  
+   Options: It makes the bean sweet / It holds back oxygen, which would damage the nitrogen-fixing enzyme / It keeps the nodule warm  
    **Answer:** It holds back oxygen, which would damage the nitrogen-fixing enzyme. *Why:* The enzyme the bacteria use to break the nitrogen bond is harmed by oxygen. The pink substance holds oxygen back so the enzyme keeps working.
 8. (sort) Sort these actions by what they do to the water in the soil of a field.  
    **Answer:** spreading straw between the rows → Saves water; leaving bare soil in the hot Sun → Wastes water; watering the roots with a slow drip → Saves water; flooding the whole field when only the roots need it → Wastes water; covering the soil with a plastic sheet → Saves water. *Why:* Covers slow evaporation and shade the soil. Drip watering wets only the roots. Bare soil in the Sun and flooding let more water go to the air or drain away.
@@ -784,7 +784,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 13. (match) Match each soil to the crop that suits it.  
    **Answer:** Heavy clay soil → rice and sugarcane; Loose sandy soil → groundnut and potato; Alluvial soil of a river plain → wheat, rice and most crops; Acidic soil with lime added → a field that can grow crops again. *Why:* Clay holds the water that rice and sugarcane need. Sandy soil is loose for pods and tubers. Alluvial soil suits most crops. Lime cancels some acid in poor soil, so crops can grow again.
 14. (mcq) Which field is most likely to get a white salt crust?  
-   Options: A dry field watered from a canal for many years / A forest floor that gets heavy rain every year / A field that has just been ploughed  
+   Options: A forest floor that gets heavy rain every year / A dry field watered from a canal for many years / A field that has just been ploughed  
    **Answer:** A dry field watered from a canal for many years. *Why:* Where rain is heavy it washes salt away. In a dry place, irrigation water evaporates and leaves its salt behind, year after year.
 15. (order) Put these in order to show how salt builds up in a dry irrigated field.  
    **Answer:** ['Canal water carrying a little salt is spread on the field', 'The Sun and the crop use up the water', 'The salt stays in the soil', 'Year after year, the salt builds up', 'A white crust forms on the top of the soil']. *Why:* Only the water leaves. The salt stays and adds up over the years.
@@ -798,7 +798,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
    **Answer:** ['neutral']. *Why:* Seven is neutral. Lower numbers are acidic and higher numbers are alkaline.
 ### Nitrogen, Salt and the Future of Soil (challenge) (challenge, 16 questions)
 1. (mcq) Water climbs 5 centimetres in one soil in 10 minutes, then stops. In a second soil it climbs 2 centimetres in 10 minutes, and keeps rising for hours. Which soil has the finer gaps?  
-   Options: The first / The second / You cannot tell  
+   Options: The second / The first / You cannot tell  
    **Answer:** The second. *Why:* Finer gaps pull harder, so water can keep rising, but water flows through them slowly. The soil where water climbs slowly and keeps going has the finer gaps.
 2. (write) A cotton wick from a bottle to a pot waters a plant with nothing pushing it. Explain why the water climbs, and why a thick wick moves more water than a thin one.  
    **Answer:** Water sticks to the fine threads and pulls the water behind it. A thick wick has more threads and more gaps, so more water moves at once.. *Why:* A strong answer names the stickiness between water and the threads, and says that more threads carry more water.
@@ -817,14 +817,14 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 9. (sort) Sort these statements by how sure scientists are.  
    **Answer:** Mulch reduces evaporation from soil → Settled; Legumes carry bacteria that fix nitrogen → Settled; A bean plant punishes nodules that give her little nitrogen → Argued about; Loosening soil with a hoe always saves water → Argued about; Irrigation water leaves salt behind → Settled. *Why:* The first, second and last have been measured again and again. The other two depend on the soil, the crop and how the evidence is read.
 10. (mcq) The air around a field is full of nitrogen. Why do plants still need fertiliser or bacteria to get nitrogen?  
-   Options: The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond / Nitrogen is a liquid / Nitrogen is too heavy for roots  
+   Options: Nitrogen is a liquid / Nitrogen is too heavy for roots / The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond  
    **Answer:** The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond. *Why:* Only bacteria with a special enzyme, or a factory using great heat and pressure, can break that bond.
 11. (match) Match each person to what they found.  
    **Answer:** Hermann Hellriegel and Hermann Wilfarth → peas starved in sand without help from soil bacteria; Martinus Beijerinck → grew the bacteria from the root nodules; Fritz Haber and Carl Bosch → made ammonia from nitrogen gas in a factory. *Why:* These three discoveries took people from knowing that beans help a field, to finding the bacteria, to fixing nitrogen in a factory.
 12. (write) Your dal is made of protein that holds nitrogen atoms. Write the journey of one nitrogen atom from the air to your body.  
    **Answer:** The atom was in nitrogen gas in the air. Bacteria in a nodule changed it into ammonia. The bean plant built it into protein in her seed. A family cooked the seed as dal, and the atom became part of a body.. *Why:* Any clear journey is good. A strong answer names the bacteria, the plant and the dal in the right order.
 13. (mcq) A farmer wants to lower the amount of fertiliser she buys. Which change helps most?  
-   Options: Grow a pulse in rotation and leave her roots and leaves in the field / Plant more rice / Leave the soil bare in the Sun  
+   Options: Plant more rice / Grow a pulse in rotation and leave her roots and leaves in the field / Leave the soil bare in the Sun  
    **Answer:** Grow a pulse in rotation and leave her roots and leaves in the field. *Why:* A pulse brings nitrogen into the soil through the bacteria in her roots. Leaving the roots and leaves in the field returns the nitrogen to the soil.
 14. (fill) The factory process that makes ammonia from nitrogen gas and hydrogen is named after two German chemists: the ____ process.  
    **Answer:** ['Haber-Bosch', 'Haber Bosch']. *Why:* Fritz Haber found the method in 1909 and Carl Bosch made it work in a factory a few years later.
@@ -840,25 +840,25 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 
 ## Quiz
 1. (mcq) Which soil lets water run through fastest?  
-   Options: Sand / Clay / Loam  
+   Options: Clay / Sand / Loam  
    **Answer:** Sand. *Why:* Sand has the biggest grains and the biggest gaps, so water runs straight through. Clay holds water in tiny gaps, and loam is in between.
 2. (mcq) Why do many gardeners like loam?  
    Options: It drains well and still holds water that roots can use / It is the lightest soil / It has no humus  
    **Answer:** It drains well and still holds water that roots can use. *Why:* Loam is a mix of sand, silt, clay and humus. The sand lets extra water out, and the finer grains and humus hold water for roots.
 3. (mcq) Why is topsoil the richest layer for a crop?  
-   Options: It is dark with humus, and most roots and soil life live in it / It is the deepest layer, so it is the oldest / It is made only of clay  
+   Options: It is the deepest layer, so it is the oldest / It is made only of clay / It is dark with humus, and most roots and soil life live in it  
    **Answer:** It is dark with humus, and most roots and soil life live in it. *Why:* Topsoil holds the most humus, the dark part made from rotted leaves and roots. Worms, fungi and bacteria live there and turn dead leaves into nutrients. The deeper subsoil is paler and holds less humus.
 4. (mcq) You shake soil in a jar of water and leave it for one minute. What has settled at the bottom?  
-   Options: Sand / Clay / Humus  
+   Options: Clay / Sand / Humus  
    **Answer:** Sand. *Why:* Sand grains are the biggest and heaviest, so they sink first. Silt settles over some hours, and the clay stays cloudy for a day or more. Humus is light and floats with the dead leaves.
 5. (mcq) A cup of gravel stood in water. The wet line climbed only about 1 centimetre. What is the best reason?  
-   Options: The gaps are too wide to lift the water far / Gravel is dry / Water cannot climb  
+   Options: Gravel is dry / Water cannot climb / The gaps are too wide to lift the water far  
    **Answer:** The gaps are too wide to lift the water far. *Why:* Water is lifted by its stickiness to the edges of narrow gaps. Wide gaps give a weak pull.
 6. (mcq) Water moves up through a wick with nobody pushing it. What does the lifting?  
    Options: Water sticking to the threads and to other water / A hidden pump / The Sun pushing down  
    **Answer:** Water sticking to the threads and to other water. *Why:* Water sticks to the surface of the threads, and pulls the water behind it. This is capillary rise.
 7. (mcq) A bare cup of soil dries more than a cup covered in dry leaves. Why?  
-   Options: The leaves shade the soil and block the wind, so less water evaporates / The leaves drink the water / The leaves are hot  
+   Options: The leaves drink the water / The leaves are hot / The leaves shade the soil and block the wind, so less water evaporates  
    **Answer:** The leaves shade the soil and block the wind, so less water evaporates. *Why:* Evaporation from the top of the soil is slowed by a cover of mulch.
 8. (mcq) Why does a farmer pull out weeds a few weeks after sowing?  
    Options: Weeds take water and nutrients from the young crop / Weeds make the soil salty / Weeds are always poisonous  
@@ -870,34 +870,34 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
    Options: Nitrogen, phosphorus and potassium / Nuts, plants and kernels / Nitrate, pepper and kale  
    **Answer:** Nitrogen, phosphorus and potassium. *Why:* The three numbers on the bag give the share of nitrogen, phosphorus and potassium.
 11. (mcq) Where does the nitrogen in a bean plant's protein first come from?  
-   Options: The air / The Sun / The rock  
+   Options: The Sun / The rock / The air  
    **Answer:** The air. *Why:* Bacteria in the nodules take nitrogen gas from the air and change it into ammonia.
 12. (mcq) What does a bean plant pay the bacteria in her root nodules?  
    Options: Sugar / Water only / Salt  
    **Answer:** Sugar. *Why:* The plant makes sugar in her leaves and gives some to the bacteria. The bacteria give nitrogen back.
 13. (mcq) A nodule cut in half is bright pink inside. What does this tell you?  
-   Options: The nodule is working / The nodule is rotten / The nodule is full of water  
+   Options: The nodule is rotten / The nodule is working / The nodule is full of water  
    **Answer:** The nodule is working. *Why:* The pink substance holds oxygen back, so the enzyme the bacteria use to fix nitrogen can work. A white or green nodule has stopped.
 14. (mcq) Why do farmers often follow a cereal with a pulse?  
    Options: The pulse puts nitrogen back and the next crop does better / The pulse is bigger / The cereal needs company  
    **Answer:** The pulse puts nitrogen back and the next crop does better. *Why:* A pulse works with bacteria that fix nitrogen, and the roots and leaves left behind add nitrogen. It also breaks the pest cycle of the cereal.
 15. (mcq) In very salty water, moong seeds did not sprout. What is the best reason?  
-   Options: Salty water holds on to its water so tightly that the seed cannot take it in / Salt is food for seeds / Salt makes the seed too heavy  
+   Options: Salt is food for seeds / Salt makes the seed too heavy / Salty water holds on to its water so tightly that the seed cannot take it in  
    **Answer:** Salty water holds on to its water so tightly that the seed cannot take it in. *Why:* Salty water holds its water tightly, so a seed or root finds it hard to drink. Too much salt also harms the seed.
 16. (mcq) A dry field watered from a canal for years gets a white crust. What is it?  
    Options: Salt left behind when the water evaporated / Frost / Chalk from the crops  
    **Answer:** Salt left behind when the water evaporated. *Why:* Water carries a little dissolved salt. The water goes into the air and the salt stays.
 17. (mcq) A soil card says nitrogen is low and humus is low. What is a good plan?  
-   Options: Grow a pulse and add compost / Add more salt / Plough the field and leave it bare  
+   Options: Add more salt / Grow a pulse and add compost / Plough the field and leave it bare  
    **Answer:** Grow a pulse and add compost. *Why:* A pulse brings in nitrogen and compost adds humus, so the plan fixes both problems.
 18. (mcq) A farmer's field has acidic, poor soil. Which plan helps most?  
-   Options: Spread lime to cancel some acid, and add compost / Add more rainwater to wash the field / Leave it bare and wait  
+   Options: Add more rainwater to wash the field / Leave it bare and wait / Spread lime to cancel some acid, and add compost  
    **Answer:** Spread lime to cancel some acid, and add compost. *Why:* Lime cancels some of the acid, and compost adds humus and nutrients. Heavy rain is what made the soil poor in the first place, because it washes nutrients away. A bare field will lose even more topsoil.
 19. (mcq) Which soil is carried down by rivers and suits most crops?  
-   Options: Alluvial soil / Acidic laterite soil / Pure sand  
+   Options: Acidic laterite soil / Pure sand / Alluvial soil  
    **Answer:** Alluvial soil. *Why:* Alluvial soil is a mix of sand, silt and clay left by rivers on plains and deltas, so it holds water and drains well. Laterite soil is poor in nutrients, and pure sand holds almost no water.
 20. (mcq) Which crop suits sandy soil, which drains fast and is loose?  
-   Options: Groundnut / Rice grown in standing water / Sugarcane, which needs a lot of water  
+   Options: Rice grown in standing water / Sugarcane, which needs a lot of water / Groundnut  
    **Answer:** Groundnut. *Why:* Loose sandy soil lets pods and tubers push through, and groundnut and potato grow well in it. Rice and sugarcane like clay, which holds water for long. Picking sugarcane is a natural guess, because it is a famous crop, but it needs more water than sand can hold.
 
 ## Applications

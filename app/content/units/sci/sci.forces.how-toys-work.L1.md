@@ -425,7 +425,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 1. (sort) Will it roll or stay still on a slope? A grown-up reads each one. Circle the rollers in red and the stay-stills in blue.  
    **Answer:** A ball → Rolls; A book → Stays still; An orange → Rolls; A matchbox → Stays still; A bottle on its side → Rolls; A flat eraser → Stays still. *Why:* Round things roll. Things with flat sides stay still, or slide if the slope is steep. A strong answer says round or flat.
 2. (mcq) A toy cart has one big wheel and one small wheel on the same bar. Which way does it go when you push it?  
-   Options: Round in a curve / Straight ahead / It does not move at all  
+   Options: Straight ahead / It does not move at all / Round in a curve  
    **Answer:** Round in a curve. *Why:* The big wheel goes further on each turn than the small one, so the cart turns, just as the paper cup does.
 3. (draw) Draw a toy that rolls. Colour the round parts that touch the ground.  
    **Answer:** A toy with round parts touching the ground, such as a car with wheels or a ball.. *Why:* A strong drawing shows that the parts touching the ground are round.
@@ -449,7 +449,7 @@ Ammamma clapped, and Tara wrote it in her science book.
    **Answer:** The wheel rolls round and round, and the cycle moves forward.. *Why:* A strong answer says the wheel is round, so it rolls, and the rolling moves the cycle.
 ### How Toys Move (stretch) (stretch, 10 questions)
 1. (mcq) A child drops a ball once on a soft pillow and once on hard tiles. Where does it bounce higher?  
-   Options: On the hard tiles / On the soft pillow / Just the same  
+   Options: On the soft pillow / Just the same / On the hard tiles  
    **Answer:** On the hard tiles. *Why:* A hard floor sends the ball back up. A soft pillow squashes and does not push back, so the ball hardly bounces.
 2. (write) In Book on Rollers, the heavy book was hard to push across the floor. On round pencils it was easy to push. Why? Say it out loud and a grown-up writes it.  
    **Answer:** The pencils are round, so they rolled, and the book rode along on top.. *Why:* A strong answer says the pencils rolled because they are round.
@@ -458,7 +458,7 @@ Ammamma clapped, and Tara wrote it in her science book.
 4. (draw) Draw the path a bottle makes when it rolls on the floor. Then draw the path a paper cup makes.  
    **Answer:** A straight line for the bottle and a curved line, part of a circle, for the cup.. *Why:* A strong drawing shows the bottle going straight and the cup curving round.
 5. (mcq) A top spins for longer on a smooth plate than on a rough mat. Why?  
-   Options: There is less rubbing on the plate / The plate is heavier / The mat is colder  
+   Options: The plate is heavier / The mat is colder / There is less rubbing on the plate  
    **Answer:** There is less rubbing on the plate. *Why:* Rubbing, called friction, slows a spinning top. A smooth plate rubs less than a rough mat, so the top spins for longer.
 6. (sort) Which ones bounce well, and which hardly bounce? A grown-up reads each one. Put a tick for bounces well and a cross for hardly bounces.  
    **Answer:** A rubber ball → Bounces well; A ball of wet atta dough → Hardly bounces; A tennis ball → Bounces well; A rolled-up sock → Hardly bounces; A crumpled paper ball → Hardly bounces. *Why:* A ball bounces well if it springs back into shape after it squashes. Dough and socks squash and stay soft, so they hardly bounce.
@@ -479,25 +479,25 @@ Ammamma clapped, and Tara wrote it in her science book.
 
 ## Quiz
 1. (mcq) Which of these will roll down a slope?  
-   Options: A round bottle on its side / A book / A matchbox  
+   Options: A book / A matchbox / A round bottle on its side  
    **Answer:** A round bottle on its side. *Why:* The bottle is round where it touches the slope, so it rolls. The book and the box have flat sides.
 2. (mcq) You let go of a box at the top of a gentle slope. What will it most likely do?  
-   Options: Stay still / Roll down / Bounce  
+   Options: Roll down / Stay still / Bounce  
    **Answer:** Stay still. *Why:* A box has flat sides, so on a gentle slope it stays still. On a steep slope it may slide.
 3. (mcq) A paper cup rolls on the floor. Why does it curve round?  
-   Options: Its wide end goes further on each turn than its narrow end / It is very light / The floor is round  
+   Options: It is very light / Its wide end goes further on each turn than its narrow end / The floor is round  
    **Answer:** Its wide end goes further on each turn than its narrow end. *Why:* On each turn, the wide end goes a long way and the narrow end a short way, so the cup turns.
 4. (mcq) Which of these will roll straight?  
-   Options: A bottle, the same width at both ends / A paper cup / An ice cream cone  
+   Options: A paper cup / An ice cream cone / A bottle, the same width at both ends  
    **Answer:** A bottle, the same width at both ends. *Why:* A thing the same width all along rolls straight. A cup or a cone curves round.
 5. (mcq) What happens to a rubber ball when it hits the floor?  
    Options: It squashes a little, then springs back / It stays perfectly round / It gets bigger  
    **Answer:** It squashes a little, then springs back. *Why:* A ball squashes for a moment and springs back into shape. That spring back sends it up.
 6. (mcq) A ball is dropped and bounces three times. How does each bounce compare with the one before?  
-   Options: Lower / Higher / The same  
+   Options: Higher / The same / Lower  
    **Answer:** Lower. *Why:* Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement. So each bounce is lower, until the ball stops.
 7. (mcq) When can a top stand up on its point?  
-   Options: While it spins / When it is still / Only on a carpet  
+   Options: When it is still / While it spins / Only on a carpet  
    **Answer:** While it spins. *Why:* A spinning top stands up on its point. When it stops spinning, it falls over.
 8. (mcq) Why does a spinning top slow down and fall in the end?  
    Options: Its point rubs on the floor / It gets heavier / The air holds it down  
@@ -506,10 +506,10 @@ Ammamma clapped, and Tara wrote it in her science book.
    Options: A spring / Water / A magnet  
    **Answer:** A spring. *Why:* Turning the key winds a metal spring tight. The spring unwinds and turns the wheels.
 10. (mcq) A ball rolls down a slope and nobody pushes it. What started it moving?  
-   Options: The slope / Its colour / Nothing at all  
+   Options: Its colour / Nothing at all / The slope  
    **Answer:** The slope. *Why:* The slope started it. Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.
 11. (mcq) A belan, the rolling pin for chapatis, rolls easily over the dough. Why?  
-   Options: It is round where it touches the dough / It is made of wood / It is heavy  
+   Options: It is made of wood / It is round where it touches the dough / It is heavy  
    **Answer:** It is round where it touches the dough. *Why:* A round thing rolls, because its round side touches the dough. Wood or weight does not make a flat box roll.
 
 ## Applications

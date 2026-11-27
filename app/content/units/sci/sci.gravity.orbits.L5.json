@@ -1024,11 +1024,11 @@
       "q": "Two satellites circle the Earth. One is twice as far from the Earth's centre as the other. Which takes longer for one trip?",
       "options": [
        "The nearer one",
-       "The farther one",
        "Both take the same time",
+       "The farther one",
        "It depends on their mass"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The farther satellite has a longer way round, and the weaker pull out there lets it move more slowly. Both make its trip longer. The mass of a satellite does not change its orbit. In your test, run A took almost three times as long as run C."
      },
      "parent": "Run A should take the longest and run C the shortest, with A close to three times C. The model leaves out a great deal. A thread pulls only along itself, air slows the pouch, and your hand keeps adding energy. Real satellites need no hand.",
@@ -1344,12 +1344,12 @@
       "t": "mcq",
       "q": "Why can a television dish stay fixed?",
       "options": [
-       "Its satellite is not moving",
        "Its satellite goes round once a day, in step with the Earth",
+       "Its satellite is not moving",
        "The signal comes from a tower",
        "The dish follows the satellite at night"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A geostationary satellite goes round the Earth once a day, above the equator. The ground below turns at the same rate, so the satellite stays over one spot. It is moving at about 3 kilometres every second. It only looks still from the ground."
      },
      "parent": "Dishes of one television company all point the same way. Another company may use a different satellite, so its dishes point a little differently. In the south of India the dishes tilt up steeply, and in the north they tilt lower.",
@@ -1598,12 +1598,12 @@
      "t": "mcq",
      "p": "A satellite's engine is switched off. Why does it keep going round?",
      "opts": [
-      "The air pushes it along",
       "Almost nothing is there to slow it",
+      "The air pushes it along",
       "The Earth's spin drags it",
       "It slows down and stops within a day"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Above the air there is almost no friction, so a moving thing keeps moving. On the ground, things stop because friction and air slow them. Gravity bends the satellite's path but does not slow it in a circular orbit.",
      "outcome": 1
     },
@@ -1612,11 +1612,11 @@
      "p": "A thing is launched level, above the air, at 5 kilometres every second. What happens?",
      "opts": [
       "It orbits in a circle",
-      "It falls back to the ground",
       "It escapes from the Earth",
+      "It falls back to the ground",
       "It hangs still"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Orbit just above the air needs about 7.8 kilometres every second. At 5, the thing falls faster than the ground curves away, so its path meets the ground. It does travel a very long way first.",
      "outcome": 2
     },
@@ -1625,11 +1625,11 @@
      "p": "Why do astronauts in the space station float?",
      "opts": [
       "Gravity does not reach that high",
-      "They fall together with the station",
       "The station spins them",
-      "There is no air to hold them down"
+      "There is no air to hold them down",
+      "They fall together with the station"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The station and everything in it fall round the Earth together, so the floor never pushes on anyone's feet. Gravity is almost as strong there as on the ground. Air does not hold people down anywhere.",
      "outcome": 3
     },
@@ -1638,11 +1638,11 @@
      "p": "Which orbit lets a satellite stay above one place in India?",
      "opts": [
       "A low polar orbit",
-      "A geostationary orbit",
       "Any orbit, if the engine is on",
+      "A geostationary orbit",
       "The Moon's orbit"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A geostationary satellite goes round once a day above the equator, in step with the turning Earth. A low satellite takes about 90 minutes for a trip, so it rushes past every place.",
      "outcome": 5
     },
@@ -1822,10 +1822,10 @@
      "opts": [
       "Four times as long",
       "Twice as long",
-      "The same time",
-      "Half as long"
+      "Half as long",
+      "The same time"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A stronger pull needs a faster circle. With four times the pull, the pouch must go about twice as fast, so ten rounds take about half the time. Expecting a heavier load to slow things down mixes up the load with the pouch.",
      "outcome": 4,
      "how": "e1"
@@ -1848,11 +1848,11 @@
      "p": "A spacecraft leaves the Earth faster than escape speed. Which is true?",
      "opts": [
       "It has left the Earth's gravity behind",
-      "It will not fall back to the Earth",
       "Its engine must stay on for ever",
-      "It stops when its fuel ends"
+      "It stops when its fuel ends",
+      "It will not fall back to the Earth"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Escape means it never falls back. The Earth's pull still reaches it and keeps slowing it, but never enough to bring it home. Above the air, a thing with no fuel keeps moving.",
      "outcome": 2
     },
@@ -2023,11 +2023,11 @@
      "p": "The Moon is 60 times as far from the Earth's centre as you are. How much weaker is the Earth's pull there?",
      "opts": [
       "60 times weaker",
-      "120 times weaker",
       "3,600 times weaker",
+      "120 times weaker",
       "It is not weaker"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The pull falls with the distance multiplied by itself. 60 times 60 is 3,600. Choosing 60 forgets that the pull spreads out in every direction, like light from a lamp.",
      "outcome": 1
     },
@@ -2036,11 +2036,11 @@
      "p": "An astronaut in orbit pushes a floating box with a mass of 100 kilograms. What does she find?",
      "opts": [
       "It moves at the lightest touch",
-      "It is hard to start and hard to stop",
       "It drops to the floor",
-      "It has lost its mass"
+      "It has lost its mass",
+      "It is hard to start and hard to stop"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The box is weightless, but it still has 100 kilograms of mass. Mass is what makes a thing hard to speed up or slow down. Astronauts have been bruised by forgetting this.",
      "outcome": 3
     },
@@ -2048,12 +2048,12 @@
      "t": "mcq",
      "p": "Stars at a galaxy's edge move faster than the rule for orbits predicts. What do most astronomers think?",
      "opts": [
-      "Unseen matter adds its pull",
       "The stars push themselves along",
       "The telescopes are faulty",
-      "Gravity stops at the edge"
+      "Gravity stops at the edge",
+      "Unseen matter adds its pull"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Most astronomers say unseen dark matter adds extra pull. A smaller group says the rule for gravity changes when the pull is very weak. Nobody has yet caught a particle of dark matter, so the question is open.",
      "outcome": 7
     },
@@ -2217,12 +2217,12 @@
    "t": "mcq",
    "p": "Which of these is an artificial satellite?",
    "opts": [
+    "Cartosat",
     "The Moon",
     "Titan",
-    "Cartosat",
     "The Earth"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Cartosat is a mapping satellite built by ISRO. The Moon and Titan are moons, and the Earth is a planet. Nobody made them.",
    "outcome": 0
   },
@@ -2230,12 +2230,12 @@
    "t": "mcq",
    "p": "What does a planet go round, and what does a moon go round?",
    "opts": [
-    "A planet: a star. A moon: a planet",
     "Both go round a star only",
     "A planet: a moon. A moon: a star",
+    "A planet: a star. A moon: a planet",
     "Neither goes round anything"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A planet is a satellite of a star, and a moon is a satellite of a planet. The Moon also travels round the Sun, along with the Earth.",
    "outcome": 0
   },
@@ -2243,11 +2243,11 @@
    "t": "mcq",
    "p": "What makes day and night on Earth?",
    "opts": [
-    "The Earth spinning on its axis, about once every 24 hours",
     "The Sun going round the Earth once each day",
-    "The Earth going round the Sun once each year"
+    "The Earth going round the Sun once each year",
+    "The Earth spinning on its axis, about once every 24 hours"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Earth turns round an imaginary line through its poles. The side facing the Sun has day, and the side turned away has night. The Sun does not go round the Earth. The trip round the Sun takes a year, so it is not what makes day and night.",
    "outcome": 0
   },
@@ -2256,11 +2256,11 @@
    "p": "Why does a satellite in orbit not hit the ground?",
    "opts": [
     "Gravity does not reach it",
-    "It falls, and the ground curves away as fast",
     "Thin air holds it up",
+    "It falls, and the ground curves away as fast",
     "Its engine holds it up"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The satellite falls all the time. It moves sideways so fast that the round Earth curves away beneath it by the same amount. Gravity does reach it, and its engine is off.",
    "outcome": 1
   },
@@ -2269,11 +2269,11 @@
    "p": "A satellite is in orbit above the air. What would it do if gravity vanished?",
    "opts": [
     "Stay where it is",
-    "Go straight on, away from the Earth",
     "Drop to the ground",
+    "Go straight on, away from the Earth",
     "Carry on in its circle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A moving thing goes straight unless something bends its path. Gravity is what bends a satellite's path into a circle. Without it, the satellite would leave along a straight line.",
    "outcome": 1
   },
@@ -2282,11 +2282,11 @@
    "p": "A thing above the air moves sideways at 9 kilometres every second. What is its path?",
    "opts": [
     "A circle",
-    "A stretched loop that comes back",
     "Straight down",
+    "A stretched loop that comes back",
     "A path that never comes back"
    ],
-   "a": 1,
+   "a": 2,
    "why": "It is faster than the 7.8 needed for a circle and slower than the 11.2 needed to escape. So it swings out on an ellipse and returns.",
    "outcome": 2
   },
@@ -2301,12 +2301,12 @@
    "t": "mcq",
    "p": "Imagine the space station standing still on a tower 400 kilometres tall. What would the astronauts feel?",
    "opts": [
-    "They would float",
     "Nearly their normal weight",
+    "They would float",
     "No weight at all",
     "One sixth of their weight"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Gravity at that height is almost nine tenths as strong as on the ground, and the tower's floor would push up on them. They float in orbit only because the floor is falling with them. One sixth is the Moon's surface.",
    "outcome": 3
   },
@@ -2315,11 +2315,11 @@
    "p": "Which of these satellites takes the longest to go once round the Earth?",
    "opts": [
     "One that is 400 kilometres up",
-    "One that is 20,000 kilometres up",
     "One that is 36,000 kilometres up",
+    "One that is 20,000 kilometres up",
     "They all take the same time"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The higher the orbit, the weaker the pull, the slower the satellite and the longer its way round. The three trips take about 92 minutes, 12 hours and 1 day.",
    "outcome": 4
   },
@@ -2327,12 +2327,12 @@
    "t": "mcq",
    "p": "You whirl a pouch on a thread and double the hanging load. To keep the same circle, how must you whirl?",
    "opts": [
-    "Faster",
     "More slowly",
     "At the same speed",
-    "It makes no difference"
+    "It makes no difference",
+    "Faster"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A stronger pull bends the path more sharply, so the pouch must go faster to stay out on the same circle. If you whirl at the old speed, the load pulls the pouch in.",
    "outcome": 4
   },
@@ -2341,11 +2341,11 @@
    "p": "Which satellite would you choose to photograph every village in India in sharp detail?",
    "opts": [
     "One in geostationary orbit",
-    "One in a low polar orbit",
     "One in orbit round the Moon",
+    "One in a low polar orbit",
     "A navigation satellite"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A low satellite is close enough to see detail. In a polar orbit, the Earth turns beneath it, so in time it passes over every village. A geostationary satellite is about 60 times farther away.",
    "outcome": 5
   },
@@ -2353,11 +2353,11 @@
    "t": "mcq",
    "p": "How can a satellite help forest teams find a fire early?",
    "opts": [
-    "It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads",
     "It measures how many trees stand in one place, from a spot on the ground",
+    "It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads",
     "It blows cool wind over the trees to stop the fire"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fire is much hotter than the forest around it, and a satellite camera can see that heat from space. The other two answers do not describe what a satellite does. It measures heat, not trees, and it cannot blow wind.",
    "outcome": 5
   },

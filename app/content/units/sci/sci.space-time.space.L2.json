@@ -490,10 +490,10 @@
       "q": "You stand twice as far from a bottle. How tall does the bottle look?",
       "options": [
        "Just as tall",
-       "About half as tall",
-       "Twice as tall"
+       "Twice as tall",
+       "About half as tall"
       ],
-      "a": 1,
+      "a": 2,
       "why": "From twice as far away, the bottle takes up about half as much of what you see, so it looks about half as tall. The bottle did not shrink. Only the distance changed."
      },
      "parent": "Usually the 2-step strip is close to half the 1-step strip, and about 3 to 5 of the 4-step strips fit along the 1-step one. Steps that are not quite even, or an arm that bends, make it less exact. A strong answer uses the strips as evidence: the bottle was the same, there was more space between your child and the bottle, and the strip was shorter.",
@@ -613,11 +613,11 @@
       "t": "mcq",
       "q": "In the mirror tunnel, what happened to the bindis farther down the tunnel?",
       "options": [
-       "They got bigger and brighter",
        "They got smaller and dimmer",
+       "They got bigger and brighter",
        "They all stayed the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each copy comes from light that bounced between the mirrors one more time than the copy before. So that light has travelled a longer way, and the copy looks farther away and smaller. A mirror also keeps a little light each time. So every copy is dimmer than the one before."
      },
      "parent": "Each copy looks smaller because it looks farther away, just as the bottle looked smaller from farther away in the Bottle Strip Test. A strong answer says the row faded out, and that you could not tell whether it really ended.",
@@ -786,11 +786,11 @@
       "t": "mcq",
       "q": "It is 4 steps to the door and 9 steps to the kitchen. Which is nearer?",
       "options": [
-       "The door",
        "The kitchen",
-       "They are the same"
+       "They are the same",
+       "The door"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fewer steps means less space between, so the door is nearer. 4 is less than 9."
      }
     }
@@ -940,11 +940,11 @@
       "t": "mcq",
       "q": "In the hiding game, the hider holds up 'Farther'. What should the seeker do?",
       "options": [
-       "Keep going the same way",
        "Turn and go back the other way",
+       "Keep going the same way",
        "Stand still"
       ],
-      "a": 1,
+      "a": 0,
       "why": "'Farther' means the space between the seeker and the tumbler is growing. Going back the other way makes it shrink again."
      }
     }
@@ -1075,10 +1075,10 @@
       "q": "Which of these is farthest from you?",
       "options": [
        "The Moon",
-       "A plane in the sky",
-       "The Sun"
+       "The Sun",
+       "A plane in the sky"
       ],
-      "a": 2,
+      "a": 1,
       "why": "A plane is about 10 kilometres up, the Moon about 384,000 kilometres away, and the Sun about 150 million kilometres away. The Sun is farthest by far."
      }
     }
@@ -1228,10 +1228,10 @@
       "q": "How did the small coin hide the big cupboard?",
       "options": [
        "The coin got bigger",
-       "The distances changed, so the cupboard looked smaller than the coin",
-       "The cupboard shrank"
+       "The cupboard shrank",
+       "The distances changed, so the cupboard looked smaller than the coin"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Neither the coin nor the cupboard changed size. When the cupboard is far away, or the coin is very near your eye, the coin takes up more of what you see than the cupboard does."
      }
     }
@@ -1273,11 +1273,11 @@
      "t": "mcq",
      "p": "In the bottle strip test, the strip from 4 steps was shorter than the strip from 1 step. Why?",
      "opts": [
-      "The bottle got smaller",
       "You were farther away, so the bottle looked smaller",
+      "The bottle got smaller",
       "The pencil got shorter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bottle and the pencil stayed the same. Only the distance changed. Choosing 'the bottle got smaller' means thinking far things really shrink. Walking back and picking up the same bottle shows they do not.",
      "context": "This question is about the bottle strip test. You measured how tall a bottle looked from 1, 2 and 4 steps away.",
      "how": "e1"
@@ -1410,11 +1410,11 @@
      "t": "mcq",
      "p": "In the mirror tunnel, how did each bindi look compared with the one before it?",
      "opts": [
-      "Smaller and dimmer",
       "Bigger and brighter",
+      "Smaller and dimmer",
       "Exactly the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.",
      "context": "This question is about the mirror tunnel. You held a small mirror facing a big mirror and counted the copies of a bindi.",
      "how": "e2"
@@ -1727,11 +1727,11 @@
    "t": "mcq",
    "p": "Which of these is nearest to you right now?",
    "opts": [
-    "Your nose",
     "The door",
-    "The Moon"
+    "The Moon",
+    "Your nose"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your nose is on your face, so there is almost no space between it and you. The door is a few steps away, and the Moon is very far.",
    "outcome": 1
   },
@@ -1740,10 +1740,10 @@
    "p": "You count 5 steps to the window and 9 steps to the door. Which is farther from you?",
    "opts": [
     "The window",
-    "The door",
-    "They are the same"
+    "They are the same",
+    "The door"
    ],
-   "a": 1,
+   "a": 2,
    "why": "More steps means more space between, so the door is farther. 9 is more than 5.",
    "outcome": 1
   },
@@ -1763,11 +1763,11 @@
    "t": "mcq",
    "p": "You lie on your bed and look at the ceiling fan. Which way are you looking?",
    "opts": [
-    "Up",
     "Down",
+    "Up",
     "Left"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The ceiling is high above you, so you look up. Down is toward the floor. Left is sideways, toward your left hand.",
    "outcome": 1
   },
@@ -1775,11 +1775,11 @@
    "t": "mcq",
    "p": "You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?",
    "opts": [
-    "Smaller",
     "Bigger",
+    "Smaller",
     "Just the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.",
    "outcome": 2,
    "how": "e1"
@@ -1795,11 +1795,11 @@
    "t": "mcq",
    "p": "The Sun is about 400 times wider than the Moon. Why does it look about the same size?",
    "opts": [
-    "It is also about 400 times farther away",
     "It is nearer than the Moon",
+    "It is also about 400 times farther away",
     "The Moon is really bigger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Far things look smaller. The Sun is much bigger, and also much farther away, so in the sky they look about the same.",
    "outcome": 3
   },
@@ -1844,11 +1844,11 @@
    "t": "mcq",
    "p": "What fills the space in your room between the bed and the wall?",
    "opts": [
-    "Nothing at all",
     "Air",
+    "Nothing at all",
     "Water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The space looks empty, but it is full of air. A shut bottle pushes back when you squeeze it, because it is full of air.",
    "outcome": 5
   },
@@ -1857,10 +1857,10 @@
    "p": "What is outer space like, out between the stars?",
    "opts": [
     "Full of air, like your room",
-    "Almost empty",
-    "Full of water"
+    "Full of water",
+    "Almost empty"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Out between the stars, there is only about one tiny bit of gas in a space the size of a sugar cube. It is almost empty.",
    "outcome": 5
   }

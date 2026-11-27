@@ -911,11 +911,11 @@
       "t": "mcq",
       "q": "A box opens by the top door or the side door. You showed the side door. Everyone in the chain then used the side door. What does that show?",
       "options": [
-       "The side door is the only way to open the box",
        "Each person learned the way from the person before them",
+       "The side door is the only way to open the box",
        "Everyone guessed the side door by luck"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both doors worked, so each person used the side door because they saw it. This is how traditions travel. Picking 'the only way' forgets that the top door works too. Luck is possible with only a few people. That is why it helps to give one extra person the box with no show."
      }
     }
@@ -1160,11 +1160,11 @@
       "t": "mcq",
       "q": "Young chimpanzees at Gombe learn termite fishing. What did the daughters do that helped them learn younger?",
       "options": [
-       "They watched their mothers fish more",
        "They played more",
-       "They were born knowing how"
+       "They were born knowing how",
+       "They watched their mothers fish more"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Daughters watched their mothers fish more than sons did, and they learned younger. Termite fishing is not an instinct: it takes young chimpanzees years to learn."
      },
      "parent": "Your child also had more practice in the second round, so this hints at what watching does; it does not prove it. To be fairer another day, let a friend practise 5 more times without watching and compare. Wipe up any honey straight away, or ants will find it."
@@ -1347,11 +1347,11 @@
       "t": "mcq",
       "q": "For 3 days, only the red plate had food. On day 4, both plates had food, and the first bird went straight to the red plate. What is the most likely reason?",
       "options": [
-       "Birds are born liking red",
        "The bird learned that the red plate had food before",
+       "Birds are born liking red",
        "The red plate was closer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The bird probably learned from what happened before that red meant food. Swapping the sides each day means it was the colour, not the place. One day's result can still be luck, or a different bird, which is why day 5 matters."
      }
     }
@@ -1430,11 +1430,11 @@
       "t": "mcq",
       "q": "Your top door takes 2 seconds to open. Your side door takes 10 seconds. What should you do before the Pass It On test?",
       "options": [
-       "Nothing, it's fine",
        "Make the side door easier, so both take about the same time",
+       "Nothing, it's fine",
        "Tape the top door shut"
       ],
-      "a": 1,
+      "a": 0,
       "why": "If one door is much easier, people will pick it whatever they saw. Then the test can't show copying. Taping one shut leaves only one way, so there is nothing to choose."
      }
     }
@@ -1500,11 +1500,11 @@
    "p": "A dog gets a biscuit each time he gives his paw. Soon he gives his paw as soon as someone holds out a hand. How did he learn?",
    "opts": [
     "He was born knowing it",
-    "From what happened before: the paw brought a biscuit",
     "By watching another dog",
+    "From what happened before: the paw brought a biscuit",
     "By luck"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The biscuit is a reward. Actions that bring a reward happen more often. That is how most dogs learn tricks.",
    "outcome": 1
   },
@@ -1512,12 +1512,12 @@
    "t": "mcq",
    "p": "At Gombe in Tanzania, young chimpanzees learn to fish for termites with grass stems. How do they mostly learn it?",
    "opts": [
-    "They are born knowing how",
     "By watching their mothers, for years",
+    "They are born knowing how",
     "Scientists teach them",
     "They read the termites' smell"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Young chimpanzees watch their mothers fish and practise for years. Daughters who watched more learned younger. Termite fishing is not an instinct.",
    "outcome": 2
   },
@@ -1525,12 +1525,12 @@
    "t": "mcq",
    "p": "Crows in Seattle, in America, scolded a person wearing a certain mask. Some of the scolding crows had never been caught or harmed. How did they learn the mask was dangerous?",
    "opts": [
-    "From other crows scolding the mask",
     "They were born afraid of masks",
     "The mask smelled bad",
+    "From other crows scolding the mask",
     "The person shouted at them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Crows that had never been caught learned from seeing other crows scold the mask. That is social learning. The scolding spread over the years.",
    "outcome": 2
   },
@@ -1551,12 +1551,12 @@
    "t": "mcq",
    "p": "What is the difference between imitation and emulation?",
    "opts": [
-    "Imitation copies the exact actions. Emulation copies the goal, in your own way.",
     "They mean the same thing",
     "Imitation is for animals, emulation is for people",
+    "Imitation copies the exact actions. Emulation copies the goal, in your own way.",
     "Emulation is copying sounds"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Imitation copies every step. Emulation sees what someone got, and gets it your own way. The chimpanzees with the clear box emulated. The children imitated.",
    "outcome": 3
   },
@@ -1565,11 +1565,11 @@
    "p": "In the Useless Step Test, why do you test one person at a time, with the others in another room?",
    "opts": [
     "So it is quicker",
-    "So each person copies only you, not the person before them",
     "So nobody eats the prize",
-    "Because the box is small"
+    "Because the box is small",
+    "So each person copies only you, not the person before them"
    ],
-   "a": 1,
+   "a": 3,
    "why": "If the next person watched, they might copy the person before instead of you. Then you would not know what your show did. Keeping things the same for every person makes the test fair.",
    "outcome": 4,
    "how": "e1"
@@ -1578,12 +1578,12 @@
    "t": "mcq",
    "p": "You do the Useless Step Test with 4 people. 3 of them tap the lid. What can you say?",
    "opts": [
-    "Everyone in the world taps the lid",
     "Most of the people you tested copied the useless tap",
+    "Everyone in the world taps the lid",
     "The tap opens the box",
     "Nobody copies"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your evidence is about the 4 people you tested. 3 out of 4 is most of them. To say more, you would need to test many more people.",
    "outcome": 4,
    "how": "e1"
@@ -1593,11 +1593,11 @@
    "p": "Great tits in Wytham Woods, in England, were shown a puzzle box that opened by sliding a door left or right. Each group kept using the way their first birds were taught. What is this called?",
    "opts": [
     "An instinct",
-    "A tradition",
     "Trial and error",
-    "An accident"
+    "An accident",
+    "A tradition"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A way of doing something that spreads by social learning and lasts in a group is a tradition. Both ways worked, so the birds were copying their group.",
    "outcome": 5
   },
@@ -1606,11 +1606,11 @@
    "p": "A young monkey starts washing her sweet potatoes in water, and the others in her group watch her. What is most likely to happen over the next few years?",
    "opts": [
     "She stops after a day",
-    "Many in her group start washing their food too",
     "No other monkey ever does it",
+    "Many in her group start washing their food too",
     "The sweet potatoes stop growing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Animals that watch others can copy a useful habit. So the habit spreads through the group and can last for many years. That is social learning.",
    "outcome": 5
   }
@@ -1670,12 +1670,12 @@
      "t": "mcq",
      "p": "Which of these is a reward for a dog learning to sit?",
      "opts": [
-      "A piece of biscuit",
       "A loud noise",
       "Being ignored",
+      "A piece of biscuit",
       "A bath"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less."
     },
     {
@@ -1696,12 +1696,12 @@
      "t": "mcq",
      "p": "In the Useless Step Test, why does the box need to be clear?",
      "opts": [
-      "So people can see that the tap does nothing",
       "So it looks nice",
+      "So people can see that the tap does nothing",
       "So the prize stays fresh",
       "Because steel boxes are heavy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With a clear box, anyone can see the tap and the turn do nothing. If people copy them anyway, they are copying a step they can see is useless. That is what makes the test interesting.",
      "how": "e1"
     },
@@ -1813,12 +1813,12 @@
      "t": "mcq",
      "p": "A crow pecks at a tied plastic bag in different places until one peck tears it open. What is this way of learning called?",
      "opts": [
-      "Trial and error",
       "Instinct",
       "Imitation",
+      "Trial and error",
       "A tradition"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Trying different ways until one works, and keeping the way that works, is trial and error. Imitation would mean copying another crow."
     },
     {
@@ -1852,12 +1852,12 @@
      "t": "mcq",
      "p": "Chaser heard a toy name she had never heard. Only one toy in front of her was new to her. She picked it. What did she do?",
      "opts": [
-      "She worked out that a new name must go with a new toy",
       "She picked at random",
+      "She worked out that a new name must go with a new toy",
       "She smelled the name",
       "She was born knowing the toy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She worked it out by leaving out the toys she already had names for. You do the same with a new word. Picking at random would not give the new toy every time."
     },
     {
@@ -1878,12 +1878,12 @@
      "t": "mcq",
      "p": "In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?",
      "opts": [
-      "Watching showed her how deep and how slowly to fish",
       "The honey got stickier",
       "She was born knowing",
-      "The bottle got bigger"
+      "The bottle got bigger",
+      "Watching showed her how deep and how slowly to fish"
      ],
-     "a": 0,
+     "a": 3,
      "why": "She copied the way her aunt pushed in deep and pulled out slowly. To be sure, she could try a few more dips without watching, to check it wasn't just practice.",
      "how": "a3"
     },
@@ -1954,12 +1954,12 @@
      "t": "mcq",
      "p": "In the Plate Lesson project, why do you swap the places of the red and blue plates each day?",
      "opts": [
-      "So the birds must learn the colour, not the place",
       "So the plates get the same sun",
       "To confuse the birds",
-      "Because birds like change"
+      "Because birds like change",
+      "So the birds must learn the colour, not the place"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If the red plate was always on the left, a bird might learn 'left means food'. Swapping makes the colour the only clue.",
      "how": "p1"
     },
@@ -2076,12 +2076,12 @@
      "t": "mcq",
      "p": "In the Pass It On test, one extra person got the box with no show, and picked the top door. Everyone in the chain used the side door, the one you showed. What does the extra person tell you?",
      "opts": [
-      "The side door is not the obvious choice, so the chain was copying",
       "The test failed",
       "The top door is broken",
+      "The side door is not the obvious choice, so the chain was copying",
       "Nothing at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The extra person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more people with no show would be better.",
      "how": "e2"
     },
@@ -2147,12 +2147,12 @@
      "t": "mcq",
      "p": "Pigeons gather at 7 every morning where a man scatters grain. One morning he does not come, but the pigeons still gather at 7. What had they learned?",
      "opts": [
-      "That grain comes at that place and time",
       "That the man is not needed",
+      "That grain comes at that place and time",
       "Nothing, it was luck",
       "That pigeons are born knowing the time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The grain came at that place and time day after day, so the pigeons linked the two. That is learning from what happened before. One missed morning is only one result, so watching more mornings would make it surer."
     },
     {

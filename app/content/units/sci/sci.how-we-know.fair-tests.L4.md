@@ -577,7 +577,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 ## Worksheets
 ### The Three Jobs and the Wobble (core) (core, 19 questions)
 1. (mcq) A test asks whether a thicker straw lets more juice through in ten seconds. What is the thing that is changed?  
-   Options: The thickness of the straw / The amount of juice that passes / The ten seconds  
+   Options: The amount of juice that passes / The ten seconds / The thickness of the straw  
    **Answer:** The thickness of the straw. *Why:* The straw is chosen on purpose. The amount of juice is what is measured, and the ten seconds is kept the same for every straw.
 2. (sort) A test asks whether more rubber bands make a toy car shoot farther. Sort each item into change, measure or keep the same.  
    **Answer:** the number of rubber bands → Change; how far the car rolls → Measure; the car → Keep the same; the floor → Keep the same; how far the launcher is pulled back → Keep the same. *Why:* The number of bands is the thing that is changed on purpose. The distance is the result. Everything else stays steady so that only the bands can explain a difference.
@@ -601,7 +601,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: the size of the paper strip / the gap between the books / the shape of the fold / the way the coins are added  
    **Answer:** 2. *Why:* The shape of the fold is the thing the test changes. The other three are kept the same.
 11. (mcq) Why do we test at least three wing lengths and not just two?  
-   Options: Three settings show the shape of the pattern, such as a steady rise or a levelling off / Two settings are always wrong / Three is easier to draw  
+   Options: Two settings are always wrong / Three settings show the shape of the pattern, such as a steady rise or a levelling off / Three is easier to draw  
    **Answer:** Three settings show the shape of the pattern, such as a steady rise or a levelling off. *Why:* With two points you can only draw a straight line between them. A third point can show a bend or a flat part.
 12. (truefalse) An odd result should be rubbed out so the table looks neat.  
    **Answer:** False. *Why:* False. An odd result may be a slip, or it may be real. Check it, repeat it and keep the record.
@@ -623,7 +623,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    **Answer:** 3. *Why:* Standing on a chair can cause a fall. A grown-up with an arm stretched up, standing on the floor, can drop from higher safely. The other three are safe habits.
 ### Averages, Ranges and Honest Conclusions (stretch) (stretch, 19 questions)
 1. (mcq) Two spinners both have an average fall time of 1.5 seconds. Spinner A's times range from 1.4 to 1.6. Spinner B's times range from 1.0 to 2.0. What is the best thing to say?  
-   Options: Spinner A's times are steadier, because their range is smaller / Spinner B is faster / They are exactly the same spinner  
+   Options: Spinner B is faster / They are exactly the same spinner / Spinner A's times are steadier, because their range is smaller  
    **Answer:** Spinner A's times are steadier, because their range is smaller. *Why:* The averages match, but the range shows that B wobbles much more. The range tells you how much to trust a single drop.
 2. (mcq) Children with bigger shoes score higher in a reading test. What is the best explanation?  
    Options: Age may be the hidden cause of both, because older children have bigger feet and read better / Big shoes help children read / Reading makes feet grow  
@@ -631,7 +631,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 3. (write) Bean plants in 3 pots in the sun grew 5 centimetres in a week on average. Bean plants in 3 pots in the shade grew 2 centimetres on average. Each set ranged by about 1 centimetre. Write a claim, evidence and a limit.  
    **Answer:** Claim: in our test, bean plants in the sun grew taller than those in the shade. Evidence: the averages were 5 and 2 centimetres, a gap of 3, bigger than the spread of about 1. Limit: we tested one kind of bean for one week.. *Why:* A strong answer has a claim that answers the question, evidence with numbers, and a limit that says what was not tested.
 4. (mcq) One bridge held 10, 12, 11, 11 and 31 coins in five tries. What should you do first?  
-   Options: Check what happened in the 31 coin try and repeat it / Rub it out / Report the average of 15 without comment  
+   Options: Rub it out / Check what happened in the 31 coin try and repeat it / Report the average of 15 without comment  
    **Answer:** Check what happened in the 31 coin try and repeat it. *Why:* The 31 is far from the others. It may be a slip or a real result. Check and repeat before deciding. Reporting only the average of 15 would hide the odd one.
 5. (sort) Judge each conclusion.  
    **Answer:** One try each: warm water dissolved sugar faster than cold, so warm water is always faster. → Goes too far; Three bridges of shape A held 11, 12 and 13 coins and three of shape B held 4, 5 and 4, so A held more in our test. → Supported; A coin gave 6 heads in 10 tosses, so it is unfair. → Can't tell yet; All the plants in the sun grew taller than the plants in the dark, in a test of 20 plants each. → Supported; Two plates of identical seeds sprouted 7 and 9, so the second plate had better seeds. → Can't tell yet; Spinners with long wings fell slower, so all objects with long wings fall slower. → Goes too far. *Why:* A conclusion is supported when the gap between results is bigger than the wobble, and it stays within what was tested. It goes too far when it claims more. We can't tell yet when the evidence is too small or too wobbly.
@@ -652,7 +652,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: Write the prediction before the test / Use a helper who does not know which spinner is which / Tell the timer which spinner should win / Share the numbers for others to check  
    **Answer:** 2. *Why:* Telling the timer what to expect invites the timer's hope to bend the result. The other three guard against it.
 13. (mcq) Why do scientists use a blind test?  
-   Options: So the person measuring cannot let hope push the result / So the test is quicker / So nobody knows the answer  
+   Options: So the test is quicker / So the person measuring cannot let hope push the result / So nobody knows the answer  
    **Answer:** So the person measuring cannot let hope push the result. *Why:* If the measurer does not know which thing is which, they cannot lean towards the one they hope will win.
 14. (perspective) In a balcony test, the corner with a tulsi pot had about one mosquito fewer a night than the corner without. The nightly counts ranged from 2 to 9. One friend says 'tulsi works'. Another says 'we cannot tell'. Who do you agree with?  
    **Answer:** A strong answer notes that the gap is smaller than the wobble, so the claim goes beyond the evidence, and suggests more nights or a bigger change. The first friend's hope is natural, but it should not bend the conclusion.. *Why:* Pick-a-side questions have no single right side. Marks go for comparing the gap with the wobble and for stating the other view fairly.
@@ -668,10 +668,10 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    **Answer:** ['7']. *Why:* One pleat sits between none and two, so its result should sit between 4 and 10. About 7 is a prediction, and the way to find out is to test it.
 ### Trusting a Test (challenge) (challenge, 18 questions)
 1. (mcq) Which conclusion states its limit?  
-   Options: In our test of three wing lengths, the longest wings gave the slowest fall / The longest wing always gives the slowest fall / Wings are important  
+   Options: The longest wing always gives the slowest fall / In our test of three wing lengths, the longest wings gave the slowest fall / Wings are important  
    **Answer:** In our test of three wing lengths, the longest wings gave the slowest fall. *Why:* The first conclusion says what was tested. 'Always' claims more than three wing lengths can show.
 2. (mcq) Two designs have averages of 20 and 25 and each set spreads by about 8. What is the best thing to say?  
-   Options: The gap of 5 is smaller than the spread, so we cannot tell yet / The second design is clearly bigger / The first design is clearly bigger  
+   Options: The second design is clearly bigger / The first design is clearly bigger / The gap of 5 is smaller than the spread, so we cannot tell yet  
    **Answer:** The gap of 5 is smaller than the spread, so we cannot tell yet. *Why:* When the gap between averages is smaller than the spread, chance could explain it. More tries or a bigger change are needed.
 3. (write) Plan the three jobs for this question: does the size of a paper boat change how many coins it holds before it sinks?  
    **Answer:** Change: the size of the boat. Measure: the number of coins held. Keep the same: the paper type, the shape, the basin of water, and the way coins are added. Repeat each size three times.. *Why:* A strong answer names one thing to change, one thing to measure with a unit, and a list of things kept the same.
@@ -680,7 +680,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 5. (perspective) A company gets a test result that its new product is not much better than the old one. A manager wants to leave that result out of the report. A scientist wants to report it. Who do you agree with?  
    **Answer:** A strong answer says that hiding results gives a false picture, and may harm people who rely on the product. The manager's worry about confusion can be met by explaining the result clearly.. *Why:* Pick-a-side questions have no single right side. Marks go for thinking about who is affected and for stating the other view fairly.
 6. (mcq) Five bridge tries held 12, 12, 13, 12 and 25 coins. What is the average with all five, and without the 25?  
-   Options: 15 with all five, and 12.25 without the 25 / 12 with all five / 25 without the 25  
+   Options: 12 with all five / 15 with all five, and 12.25 without the 25 / 25 without the 25  
    **Answer:** 15 with all five, and 12.25 without the 25. *Why:* With all five, 74 divided by 5 is 14.8, about 15. Without the 25, 49 divided by 4 is about 12.25. The odd 25 pulls the average up, so check it before reporting.
 7. (truefalse) Repeating a test many times removes all the wobble from the results.  
    **Answer:** False. *Why:* False. Repeating does not remove the wobble. It lets the highs and lows balance in the average, so the average is steadier than any single try.
@@ -701,7 +701,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 14. (draw) Four bridge shapes held on average 1, 8, 15 and 17 coins. Draw a bar chart with the shapes flat, channel, pleated and tube, and label the axes.  
    **Answer:** A bar chart with four bars of heights 1, 8, 15 and 17, labelled flat, channel, pleated and tube, with the vertical axis labelled coins held.. *Why:* A bar chart suits separate shapes. A strong chart labels both axes and gives a title, with the bars drawn to scale.
 15. (mcq) In one class, taller children also had bigger shoe sizes. What is the best thing to say?  
-   Options: Taller children tend to have bigger feet, but one does not make the other grow / Bigger shoes make children grow / There is no pattern  
+   Options: Bigger shoes make children grow / There is no pattern / Taller children tend to have bigger feet, but one does not make the other grow  
    **Answer:** Taller children tend to have bigger feet, but one does not make the other grow. *Why:* A growing body makes both height and feet bigger. The pattern is real, but one does not cause the other.
 16. (write) Mosquitoes were counted in two corners of a balcony on 14 evenings. The corner with a tulsi pot had 71 in total and the other corner had 84. Nightly counts ranged from 2 to 9. Write a careful conclusion.  
    **Answer:** In our test, the tulsi corner had slightly fewer mosquitoes, about one a night on average. But the nightly counts varied from 2 to 9, which is much more than that difference, so we cannot say the tulsi keeps mosquitoes away. We tested one pot only.. *Why:* A strong answer notes the small gap, compares it with the wobble, avoids a claim of cause and states a limit.
@@ -717,10 +717,10 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 
 ## Quiz
 1. (mcq) In a test, what is the 'thing you measure'?  
-   Options: The result you record with a number and a unit / The one thing you choose to change / Everything you keep the same  
+   Options: The one thing you choose to change / Everything you keep the same / The result you record with a number and a unit  
    **Answer:** The result you record with a number and a unit. *Why:* We change one thing, measure a result, and keep the rest the same. The measurement is the result.
 2. (mcq) Why do scientists repeat each setting several times?  
-   Options: Because one try can be high or low by chance / Because the first try is always wrong / Because it looks more careful  
+   Options: Because the first try is always wrong / Because one try can be high or low by chance / Because it looks more careful  
    **Answer:** Because one try can be high or low by chance. *Why:* Small changes you cannot control make each try a little different. Several tries balance the highs and the lows.
 3. (mcq) Four drops of a spinner take 14, 16, 15 and 15 tenths of a second. What is the average?  
    Options: 15 tenths / 14 tenths / 60 tenths  
@@ -729,16 +729,16 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: 4 / 17 / 15  
    **Answer:** 4. *Why:* The biggest is 17 and the smallest is 13. 17 take away 13 is 4.
 5. (mcq) One drop of a spinner took 28 tenths of a second and the other four took about 15. What should you do?  
-   Options: Check what happened, repeat the drop and record it / Rub it out / Use only the 28  
+   Options: Rub it out / Use only the 28 / Check what happened, repeat the drop and record it  
    **Answer:** Check what happened, repeat the drop and record it. *Why:* A far-out number may be a slip or a real result. Only checking and repeating will show which. Never hide it.
 6. (mcq) Why try three wing lengths and not only two?  
    Options: Three show the shape of the pattern / Two never work / Three is quicker  
    **Answer:** Three show the shape of the pattern. *Why:* Two points can only make a straight line. Three can show a bend or a flat part.
 7. (mcq) Which graph is best for the average fall time of a spinner at wing lengths of 4, 6 and 8 centimetres?  
-   Options: A line graph / A pictogram / A map  
+   Options: A pictogram / A map / A line graph  
    **Answer:** A line graph. *Why:* Wing length is an amount that can sit anywhere along a line, so a line graph shows how the time changes.
 8. (mcq) Two averages are 2.0 and 1.9 seconds and each set spreads by about 0.5. What is the best thing to say?  
-   Options: The gap is smaller than the wobble, so we cannot tell yet / The first is clearly bigger / The test is unfair  
+   Options: The first is clearly bigger / The test is unfair / The gap is smaller than the wobble, so we cannot tell yet  
    **Answer:** The gap is smaller than the wobble, so we cannot tell yet. *Why:* A gap of 0.1 is much smaller than a spread of 0.5, so chance could explain it.
 9. (mcq) Which sentence is the most careful conclusion?  
    Options: In our test of three fold shapes, the tube held the most coins / The tube is the strongest shape in the world / Paper is always weak  
@@ -750,16 +750,16 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: Because their hopes cannot bend the timing / Because they time faster / Because the spinners fall slower  
    **Answer:** Because their hopes cannot bend the timing. *Why:* If you do not know which is which, you cannot lean towards the one you hope will win.
 12. (mcq) Which of these is a thing to keep the same in a bridge test?  
-   Options: The size of the paper strip / The shape of the fold / The number of coins held  
+   Options: The shape of the fold / The number of coins held / The size of the paper strip  
    **Answer:** The size of the paper strip. *Why:* The shape is what we change, and the coins held is what we measure. The paper size stays the same.
 13. (mcq) Wing lengths of 4, 6 and 8 centimetres gave average fall times of 12, 16 and 21 tenths of a second. Which sentence best describes the pattern?  
-   Options: As the wing gets longer, the fall time gets longer / The fall time stays the same whatever the wing length / The shortest wing fell slowest  
+   Options: The fall time stays the same whatever the wing length / As the wing gets longer, the fall time gets longer / The shortest wing fell slowest  
    **Answer:** As the wing gets longer, the fall time gets longer. *Why:* The numbers rise as the wing length rises. A good description says this with the numbers. The other two sentences do not match the table.
 14. (mcq) A bar chart shows the average mosquitoes counted a night in three rooms: hall 4, kitchen 9 and bedroom 6. How many more mosquitoes did the kitchen have than the hall?  
    Options: 5 more / 9 more / 13 more  
    **Answer:** 5 more. *Why:* The kitchen bar reaches 9 and the hall bar reaches 4. 9 take away 4 is 5. Thirteen is the two numbers added together, which says nothing about the gap.
 15. (mcq) You measure the hand span and the height of each child in a class. Which graph suits this best?  
-   Options: A scatter graph, with one dot for each child / A line graph that joins each child to the next child / A table that shows only the average height  
+   Options: A line graph that joins each child to the next child / A scatter graph, with one dot for each child / A table that shows only the average height  
    **Answer:** A scatter graph, with one dot for each child. *Why:* A scatter graph shows the two measurements for every child together. Joining one child to the next makes a path that means nothing. The average height alone hides the pairs.
 16. (mcq) A 4 centimetre wing had an average of 12 tenths of a second and a 6 centimetre wing had 16. What is the best prediction for a 5 centimetre wing?  
    Options: About 14 tenths / About 20 tenths / Exactly 14 tenths, so there is no need to test  
@@ -768,10 +768,10 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
    Options: The long number looks more exact than your timing really is / Stopwatches cannot show decimals / Long numbers are always wrong  
    **Answer:** The long number looks more exact than your timing really is. *Why:* Your timing is only good to about a tenth of a second, so the extra digits are not real. Write only as many digits as your measuring can support.
 18. (mcq) Before a test with scissors and small coins, what should you do?  
-   Options: Think about what could hurt, set up safely, and clean up at the end / Start quickly and think about safety only if something goes wrong / Skip safety, because it matters only in big experiments  
+   Options: Start quickly and think about safety only if something goes wrong / Think about what could hurt, set up safely, and clean up at the end / Skip safety, because it matters only in big experiments  
    **Answer:** Think about what could hurt, set up safely, and clean up at the end. *Why:* Scissors can cut and small coins can be swallowed by a little child. Safety comes before the test, in the set-up, and after it, in the clean-up.
 19. (mcq) Which change would make the spinner test better?  
-   Options: Drop from a higher mark, so the stopwatch wobble is a smaller part of the time / Rub out the slowest time / Use a different paper for each spinner  
+   Options: Rub out the slowest time / Drop from a higher mark, so the stopwatch wobble is a smaller part of the time / Use a different paper for each spinner  
    **Answer:** Drop from a higher mark, so the stopwatch wobble is a smaller part of the time. *Why:* A longer fall makes a late or early thumb matter less. Rubbing out a time hides evidence, and different paper breaks the fair test.
 20. (mcq) If air push on the wings is why longer wings fall slowly, which new test fits?  
    Options: Wings of the same length but wider, with everything else the same, to see if they fall more slowly / Change the wing width and the weight of the clip together / Time only one drop of one spinner  

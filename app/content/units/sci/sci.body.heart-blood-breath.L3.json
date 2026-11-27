@@ -719,10 +719,10 @@
       "q": "Look at the bar chart. Which bar is tallest?",
       "options": [
        "Sitting still",
-       "Just after jumping",
-       "After 2 minutes of rest"
+       "After 2 minutes of rest",
+       "Just after jumping"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Just after jumping, the muscles were working hard and needed lots of oxygen, so the heart beat fastest. Picking 'after rest' usually means thinking the heart keeps speeding up after you stop. In fact it starts slowing down straight away."
      }
     },
@@ -842,11 +842,11 @@
       "t": "mcq",
       "q": "The glass you breathed into turned milky. The room-air glass stayed clear. What does that tell us?",
       "options": [
-       "Breathed-out air has more carbon dioxide than room air",
        "Breath has dirt in it",
-       "The straw was dirty"
+       "The straw was dirty",
+       "Breathed-out air has more carbon dioxide than room air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Limewater turns milky when carbon dioxide goes through it. Your breath turned it milky fast, so your breath has much more carbon dioxide than room air. Your cells made that carbon dioxide when they used food for energy. Picking 'dirt' usually means thinking breath is dusty. But the milky white is chalk, a new substance made when carbon dioxide meets the lime."
      },
      "wait": "Do this on day 2."
@@ -1019,11 +1019,11 @@
       "t": "mcq",
       "q": "An ordinary breath out measured 200 ml. Your biggest breath out measured 1,500 ml. Which is true?",
       "options": [
-       "You use only a small part of your lungs in an ordinary breath",
        "Your lungs are full of water",
-       "An ordinary breath uses all your lungs"
+       "An ordinary breath uses all your lungs",
+       "You use only a small part of your lungs in an ordinary breath"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your biggest breath was more than 7 times your ordinary one. So most of the time you only use a small part of what your lungs can hold. The rest is spare, ready for running and shouting. Picking 'uses all your lungs' usually means thinking every breath is as big as it can be."
      }
     },
@@ -1130,11 +1130,11 @@
       "t": "mcq",
       "q": "Why does a heartbeat sound louder through the funnel stethoscope than with just your ear?",
       "options": [
-       "The funnel catches the sound from a wide patch and the tube carries it to your ear",
        "The funnel makes new sounds",
+       "The funnel catches the sound from a wide patch and the tube carries it to your ear",
        "The tube has a battery"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sound from the heart spreads out through the chest. The wide funnel catches it from a big patch, and the tube carries it straight to your ear without spreading out again. Picking 'makes new sounds' usually means thinking the tool adds the sound. It only collects it."
      },
      "think": "In the story, Helen Taussig could hardly hear, so she felt heartbeats with her fingers. Can you feel one with your hand flat on someone's chest?",
@@ -1218,11 +1218,11 @@
       "t": "mcq",
       "q": "When you pull the bottom balloon down, the lung balloon fills up. Why?",
       "options": [
-       "Pulling down makes more room inside, and air from outside pushes in",
        "The bottom balloon blows air into it",
-       "The lung balloon pulls air in by itself"
+       "The lung balloon pulls air in by itself",
+       "Pulling down makes more room inside, and air from outside pushes in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Pulling the bottom down makes the space inside the bottle bigger. Air from outside then pushes in through the neck and fills the balloon. Your diaphragm does the same. Picking 'the lung pulls air in by itself' is a very common idea. But lungs cannot move by themselves. They fill because the chest makes room."
      },
      "ask": [
@@ -1313,11 +1313,11 @@
       "t": "mcq",
       "q": "Your hand got tired after one minute of squeezing. Why doesn't your heart get tired the same way?",
       "options": [
-       "Heart muscle is special: it rests between every beat and has lots of blood bringing it oxygen",
        "The heart only beats when you are awake",
+       "Heart muscle is special: it rests between every beat and has lots of blood bringing it oxygen",
        "The heart doesn't really squeeze"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Heart muscle is different from arm muscle. After each squeeze it relaxes for a moment, and its own blood vessels keep bringing it plenty of oxygen. Picking 'only when awake' is not right. Your heart beats in your sleep too, only a bit slower."
      },
      "think": "Your heart beats more than 100,000 times a day. How many times has it beaten since you woke up today?",
@@ -1469,11 +1469,11 @@
       "t": "mcq",
       "q": "After slow breathing, many people's pulse goes down a little. Why might that be?",
       "options": [
-       "Long, slow breaths out send a calming message to the heart",
        "Breathing slowly stops the heart",
+       "Long, slow breaths out send a calming message to the heart",
        "Your fingers got tired"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your heart and breath are linked by nerves. Each long breath out gives the heart a small 'slow down' message. Picking 'stops the heart' is not right: the heart keeps its own beat and only changes speed a little. If your pulse did not drop, that is fine too. Your heart was already calm."
      },
      "think": "When you feel angry or scared, what could you do with your breath?",
@@ -1552,11 +1552,11 @@
       "t": "mcq",
       "q": "Why are there so many kidney beans and only one chickpea in our blood jar?",
       "options": [
-       "Blood has hundreds of red cells for every white cell",
        "White cells are bigger, so we need fewer",
+       "Blood has hundreds of red cells for every white cell",
        "We ran out of chickpeas"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In real blood, red cells are by far the biggest crowd. There are about 600 to 700 red cells for every white cell. That is because every part of your body needs oxygen all the time. White cells are only needed where germs get in. Picking 'white cells are bigger' is partly right. White cells really are bigger, about twice as wide. But that is not why there are fewer."
      }
     },
@@ -1696,11 +1696,11 @@
       "t": "mcq",
       "q": "A red blood cell leaves the right side of the heart. Where does it go first?",
       "options": [
-       "To the lungs, to pick up oxygen",
        "Straight to the legs",
-       "To the tummy"
+       "To the tummy",
+       "To the lungs, to pick up oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The right side of the heart sends blood to the lungs first, to pick up oxygen. Then it comes back to the left side, which sends it to the body. Picking 'straight to the legs' usually means picturing one big loop. In fact there are two loops, joined at the heart."
      }
     },
@@ -1731,11 +1731,11 @@
       "t": "mcq",
       "q": "The 'You are running!' card lets you move extra squares. Why is that like real life?",
       "options": [
-       "When you run, the heart pumps faster, so blood goes round faster",
        "Running makes your blood thinner",
+       "When you run, the heart pumps faster, so blood goes round faster",
        "Red cells have legs"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When you run, your muscles need oxygen faster. So the heart beats faster and harder, and the blood goes round more quickly. Picking 'thinner blood' is a guess many people make, but blood does not get thinner. It just moves faster."
      }
     },
@@ -1825,11 +1825,11 @@
       "t": "mcq",
       "q": "In the Chalk Heart Relay, more oxygen balls reached the body basket in the RUNNING A RACE minute than in the SLEEPING minute. Why?",
       "options": [
-       "The red blood cells went round faster, like blood does when the heart beats faster",
        "There were more players",
+       "The red blood cells went round faster, like blood does when the heart beats faster",
        "The basket got bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When you run, the heart beats faster, so blood goes round more quickly. Faster trips deliver more oxygen to the muscles that need it. Picking 'more players' is a sensible thing to check, but the players stayed the same. Only the speed changed."
      }
     },
@@ -2009,11 +2009,11 @@
       "t": "mcq",
       "q": "When you let go of a squeezed bottle under water, water rushes in. Why?",
       "options": [
-       "The bottle springs back to its shape and makes room, so the water outside pushes in",
        "The bottle sucks with a muscle",
-       "Water likes plastic"
+       "Water likes plastic",
+       "The bottle springs back to its shape and makes room, so the water outside pushes in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When the squeezed bottle springs back, there is more room inside. The water outside is pushed in to fill it. Your heart fills the same way when it relaxes. Your lungs fill the same way when the diaphragm makes room. Picking 'sucks with a muscle' is how it feels, but the bottle has no muscle. It just makes room."
      }
     },
@@ -2099,11 +2099,11 @@
       "t": "mcq",
       "q": "Why should you test all the designs on the same person, in the same spot?",
       "options": [
-       "So only the design changes, and the test is fair",
        "Because other people don't have hearts",
-       "To save time"
+       "To save time",
+       "So only the design changes, and the test is fair"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If you changed the person or the spot, you would not know whether the design or the person made the difference. Changing only one thing makes it a fair test. Picking 'to save time' is a nice bonus, but it is not the reason."
      }
     },
@@ -2130,12 +2130,12 @@
      "t": "mcq",
      "p": "You feel your heartbeat most strongly on the left side of your chest. Where does your heart sit?",
      "opts": [
-      "In the middle of the chest, tipped a little, so the strongest beat is felt on the left.",
       "On the left side. The whole heart is on the left.",
+      "In the middle of the chest, tipped a little, so the strongest beat is felt on the left.",
       "On the right side.",
       "In the tummy."
      ],
-     "a": 0,
+     "a": 1,
      "why": "The heart sits in the middle of the chest, between the two lungs. Its bottom tip points to the left, and that is where the beat feels strongest. That is why so many people think the whole heart is on the left."
     },
     {
@@ -2328,12 +2328,12 @@
      "t": "mcq",
      "p": "A drop of blood leaves the right side of your heart. Where does it go first?",
      "opts": [
-      "To the lungs",
       "To the brain",
       "To the toes",
-      "To the stomach"
+      "To the stomach",
+      "To the lungs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The right side of the heart sends blood to the lungs to pick up oxygen. It comes back to the left side, which sends it to the body. Picking 'brain' or 'toes' usually means picturing just one loop."
     },
     {
@@ -2349,12 +2349,12 @@
      "how": "e2",
      "context": "This question is about the milky breath experiment. Limewater is made by stirring chuna into water and letting it settle. It goes milky when carbon dioxide bubbles through it.",
      "opts": [
-      "Only the breath glass goes milky, because breath has much more carbon dioxide",
       "Only the room-air glass goes milky, because of the oxygen",
       "Both stay clear",
+      "Only the breath glass goes milky, because breath has much more carbon dioxide",
       "Both go milky at the same speed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Limewater goes milky with carbon dioxide, not oxygen. Your cells make carbon dioxide, and you breathe it out. Breathed-out air has about 100 times more carbon dioxide than room air. It is true that room air has more oxygen, but oxygen does not turn limewater milky."
     },
     {
@@ -2381,12 +2381,12 @@
      "p": "In the upside-down bottle experiment, a child's ordinary breath pushed out about 300 ml of air. Her mother's ordinary breath pushed out about 500 ml. The child says, 'So my lungs are worse.' What is a better explanation?",
      "how": "e3",
      "opts": [
-      "The child's body is smaller, so her lungs are smaller and she needs less air in each breath",
       "The child was not trying",
       "Her mother has three lungs",
+      "The child's body is smaller, so her lungs are smaller and she needs less air in each breath",
       "Adults breathe out water instead of air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A smaller body has smaller lungs and needs less air with each breath. Children also take more breaths each minute than grown-ups. So a smaller breath is not a worse one."
     },
     {
@@ -2403,11 +2403,11 @@
      "how": "a4",
      "context": "A pulse watcher is a toothpick standing in a pea-sized ball of dough, placed over the pulse on your wrist.",
      "opts": [
-      "The artery under it bulges each time the heart pushes blood",
       "The dough is alive",
+      "The artery under it bulges each time the heart pushes blood",
       "Your bones move"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each heartbeat sends a push of blood that makes the artery bulge a tiny bit. The bulge tips the toothpick. Picking 'bones move' is a fair guess, but your arm is still. The ticks match your heartbeat."
     },
     {
@@ -2416,12 +2416,12 @@
      "how": "a2",
      "context": "The bottle lung is a model of breathing made from a cut-off plastic bottle, a balloon inside it as a lung, and another balloon stretched across the bottom as the diaphragm.",
      "opts": [
-      "It fills up, because pulling down makes more room and the outside air pushes in",
       "It goes flat, because pulling squeezes it",
       "Nothing happens to it",
+      "It fills up, because pulling down makes more room and the outside air pushes in",
       "It pops"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pulling the bottom down makes more room inside the bottle. Air from outside pushes in through the neck and fills the balloon. Your diaphragm does the same when it moves down."
     },
     {
@@ -2467,12 +2467,12 @@
      "t": "mcq",
      "p": "Octopuses have blue blood. Why?",
      "opts": [
-      "They carry oxygen with copper instead of iron",
       "They live in blue water",
       "Their blood is cold",
-      "They eat blue food"
+      "They eat blue food",
+      "They carry oxygen with copper instead of iron"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Our red cells carry oxygen with iron, which looks red. Octopus blood carries oxygen with copper, which looks blue. Picking 'blue water' usually means thinking colour comes from where an animal lives."
     },
     {
@@ -2549,24 +2549,24 @@
      "t": "mcq",
      "p": "Blood leaves the heart in arteries and comes back in veins. But your eyes cannot see how it gets from the arteries to the veins. What would you expect to find in a thin slice of lung under a microscope?",
      "opts": [
-      "Tiny blood vessels, called capillaries, joining the arteries to the veins",
       "Holes in the wall between the two sides of the heart",
       "A liver making fresh blood",
-      "Tiny doors that let air into the blood"
+      "Tiny doors that let air into the blood",
+      "Tiny blood vessels, called capillaries, joining the arteries to the veins"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If blood goes round and round, something must link arteries to veins. Capillaries are those tiny tubes, too thin to see without a microscope."
     },
     {
      "t": "mcq",
      "p": "About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. What do a candle flame and the cells in your body both need?",
      "opts": [
-      "Oxygen and something to use as fuel",
       "Only water",
       "Only sunlight",
+      "Oxygen and something to use as fuel",
       "Carbon dioxide and nothing else"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A candle burns wax with oxygen. Your cells use oxygen to release energy from food. Both give out carbon dioxide. But a cell does it slowly and gently, so it gives warmth, not flames."
     },
     {
@@ -2607,12 +2607,12 @@
      "t": "mcq",
      "p": "A person gets a new heart from a donor. The nerves from the brain are not joined to the new heart. What happens?",
      "opts": [
-      "The new heart still beats, by its own pacemaker spark",
       "The heart cannot beat",
+      "The new heart still beats, by its own pacemaker spark",
       "The person needs to think 'beat' every second",
       "The brain grows a new nerve that same day"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The heart makes its own beat with a little patch of pacemaker cells. Nerves only speed it up or slow it down. Picking 'think beat' usually means thinking the brain controls every heartbeat."
     },
     {
@@ -2633,12 +2633,12 @@
      "t": "mcq",
      "p": "At the top of a high mountain, people breathe faster even when they are resting. Why?",
      "opts": [
-      "Each breath has less oxygen in it, so they need more breaths",
       "Mountains are scary",
       "The air is heavier",
+      "Each breath has less oxygen in it, so they need more breaths",
       "It is colder"
      ],
-     "a": 0,
+     "a": 2,
      "why": "High up, the air is thinner. Each breath brings in less oxygen, so you breathe faster to get enough. People who live high up, in Ladakh for example, grow used to this. It is colder on mountains, but cold is not the main reason."
     },
     {
@@ -2688,24 +2688,24 @@
      "t": "mcq",
      "p": "Why are the lungs made of hundreds of millions of tiny air sacs, instead of two big empty bags?",
      "opts": [
-      "Many tiny sacs have a huge surface, so lots of oxygen can pass into the blood at once",
       "To make the lungs heavier",
       "To hold water",
+      "Many tiny sacs have a huge surface, so lots of oxygen can pass into the blood at once",
       "To make sounds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many tiny bubbles have far more surface than one big bag. More surface means more places for oxygen to cross into the blood. Spread flat, a grown-up's air sacs would cover nearly a badminton court."
     },
     {
      "t": "mcq",
      "p": "Why can't we breathe on the Moon, even with strong lungs?",
      "opts": [
-      "There is no air there to push into our lungs",
       "The Moon is too cold",
       "The Moon is too bright",
-      "Our diaphragm stops working"
+      "Our diaphragm stops working",
+      "There is no air there to push into our lungs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Breathing in works because outside air pushes in when the diaphragm makes room. On the Moon there is no air at all, so nothing can push in. Astronauts take their own air with them."
     },
     {
@@ -2740,12 +2740,12 @@
    "t": "mcq",
    "p": "What is the heart?",
    "opts": [
-    "A muscle that pumps blood",
     "A bag of air",
+    "A muscle that pumps blood",
     "A bone",
     "A part of the brain"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The heart is a hollow muscle that squeezes to push blood round the body. Picking 'a bag of air' mixes it up with the lungs.",
    "outcome": 0
   },
@@ -2753,12 +2753,12 @@
    "t": "mcq",
    "p": "Where does blood go after it leaves the heart?",
    "opts": [
-    "Round the body and back to the heart",
     "Out of the body",
+    "Round the body and back to the heart",
     "Into the stomach to be used up",
     "It stays in the heart"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Blood goes round in a loop and always comes back to the heart. Picking 'used up' was Galen's old idea, which William Harvey showed was wrong.",
    "outcome": 0
   },
@@ -2781,12 +2781,12 @@
    "t": "mcq",
    "p": "Why do we count the pulse two times?",
    "opts": [
-    "Because one count can be a mistake",
     "Because we have two wrists",
+    "Because one count can be a mistake",
     "To make the heart beat faster",
     "Because it is the rule"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Anyone can lose count once. Two counts that agree make us more sure. Picking 'two wrists' is a funny guess, but we count on the same wrist both times.",
    "outcome": 1
   },
@@ -2807,12 +2807,12 @@
    "t": "mcq",
    "p": "How do you breathe out?",
    "opts": [
-    "The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out",
     "The lungs suck the air out",
     "The heart blows the air out",
+    "The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out",
     "Air leaks out through the skin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When the diaphragm relaxes, it goes back up like a dome. The chest gets smaller, and the air inside is squeezed out. Lungs do not move by themselves.",
    "outcome": 2
   },
@@ -2820,12 +2820,12 @@
    "t": "mcq",
    "p": "A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?",
    "opts": [
-    "Platelets, which stick together to plug the cut",
     "Red blood cells, which carry oxygen",
     "Plasma, the watery part",
+    "Platelets, which stick together to plug the cut",
     "Oxygen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Platelets are tiny pieces that stick together at a cut and help make a scab. Red blood cells carry oxygen. Plasma carries food and waste.",
    "outcome": 3
   },
@@ -2833,12 +2833,12 @@
    "t": "mcq",
    "p": "Blood from a clinic is left standing in a tube. A yellow, watery part rises to the top. What is it?",
    "opts": [
-    "Plasma, which carries food, water and waste",
     "Oxygen",
+    "Plasma, which carries food, water and waste",
     "White blood cells",
     "Fat from food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plasma is the yellow, watery part of blood. The red cells are heavier and sink. Plasma carries food, water and waste round the body.",
    "outcome": 3
   },
@@ -2885,12 +2885,12 @@
    "t": "mcq",
    "p": "Who showed in 1628 that blood goes round and round the body?",
    "opts": [
-    "William Harvey",
     "Galen",
     "René Laennec",
+    "William Harvey",
     "Aristotle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "William Harvey counted, measured and tested, and showed that blood circulates. Galen believed blood was made and used up. Laennec invented the stethoscope much later, in 1816.",
    "outcome": 5
   },
@@ -2898,12 +2898,12 @@
    "t": "mcq",
    "p": "Blood leaves the right side of the heart and comes back to the left side. Where does it go in between, and why?",
    "opts": [
-    "To the lungs, to pick up oxygen",
     "To the brain, so we can think",
     "Nowhere, it goes straight through the heart",
+    "To the lungs, to pick up oxygen",
     "To the stomach, to pick up air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The right side of the heart pumps blood to the lungs. There it picks up oxygen and comes back to the left side, which pumps it to the rest of the body.",
    "outcome": 5
   },
@@ -2924,12 +2924,12 @@
    "t": "mcq",
    "p": "Where does most of the oxygen in the air come from?",
    "opts": [
-    "Plants on land and tiny algae in the sea",
     "Cars",
+    "Plants on land and tiny algae in the sea",
     "Our lungs",
     "Rocks"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants and tiny algae in the sea give out oxygen when they make food in sunlight. Scientists estimate about half comes from the sea. Our lungs only take oxygen in.",
    "outcome": 6
   }

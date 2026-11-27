@@ -869,11 +869,11 @@
       "t": "mcq",
       "q": "A ruler rubbed on wool pushes the balloon away. What do you know about the ruler?",
       "options": [
-       "It has the same kind of charge as the balloon",
        "It has no charge",
-       "It has the opposite kind of charge"
+       "It has the opposite kind of charge",
+       "It has the same kind of charge as the balloon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A push needs the same kind of charge on both things. The balloon took electrons from the wool, so it is minus. So the ruler is minus too, and it took electrons from the wool. If you picked no charge, remember that a thing with no charge can only pull the balloon, never push it."
      },
      "context": "In this step, you rub each of the five things on wool and test it against the balloon. You write R, A or 0 for each."
@@ -1054,11 +1054,11 @@
       "t": "mcq",
       "q": "Two balloons rubbed 20 times each hang further apart than after 5 rubs. What does this show?",
       "options": [
-       "More rubbing gave each balloon more charge, so they push harder",
        "The balloons became lighter",
+       "More rubbing gave each balloon more charge, so they push harder",
        "The wool pushed the balloons apart"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each rub moves more electrons onto the balloon, so each balloon has more charge, and the push between them is bigger. The balloons do not get lighter, and the wool is far away by then."
      },
      "context": "In this step, you rub each balloon twenty times and measure the gap one last time."
@@ -1169,11 +1169,11 @@
       "t": "mcq",
       "q": "The foil ball touched the balloon, and then it was pushed away. What does that show?",
       "options": [
-       "The ball took some of the balloon's charge, so both now have the same kind of charge",
        "The ball became heavier",
-       "The balloon lost all its charge"
+       "The balloon lost all its charge",
+       "The ball took some of the balloon's charge, so both now have the same kind of charge"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Touching let some electrons run from the balloon onto the metal ball. Now both have minus charge, and two minus charges push apart. The ball did not get heavier, and the balloon kept most of its charge."
      },
      "context": "In this step, you bring a charged balloon to the foil ball. You watch it jump, touch and then swing away."
@@ -1316,11 +1316,11 @@
       "t": "mcq",
       "q": "A plastic spoon touches the charged ball. The ball is still pushed away by the balloon. What does this show?",
       "options": [
-       "Plastic does not let the charge run away",
        "Plastic is a conductor",
-       "The ball has no charge"
+       "The ball has no charge",
+       "Plastic does not let the charge run away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the charge had run away, the ball would have been pulled closer. It was still pushed, so the charge stayed on the ball. That is what an insulator does. A conductor would have let it go, through your hand and body."
      },
      "parent": "Expect the steel spoon, the coin, the pencil lead and your fingers to remove the charge. The plastic spoon and the dry paper keep it. The wooden spoon and the cotton thread may remove a little, slowly, and more on a damp day. Compare every thing with the control. A neutral ball is also pulled towards the balloon, so test fast and do not let the ball and the balloon touch. A damp day makes more things conduct.",
@@ -1445,11 +1445,11 @@
       "t": "mcq",
       "q": "Two T strips push apart. A T strip and a B strip pull together. What does this show?",
       "options": [
-       "T and B carry opposite kinds of charge",
        "T and B carry the same kind of charge",
+       "T and B carry opposite kinds of charge",
        "Only T is charged"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Same kinds of charge push apart, and different kinds pull together. The two Ts push, so they have the same kind. A T and a B pull, so they have opposite kinds. If B were neutral it would pull a T only weakly, and the two Bs would not push each other."
      },
      "context": "In this step, you test which strips push and which pull. This tells you if the charges are the same or opposite."
@@ -1911,11 +1911,11 @@
      "t": "mcq",
      "p": "Clear tape is peeled off a table, and nobody rubs it, yet it ends up charged. What does this show?",
      "opts": [
-      "Touching and pulling apart is enough to move charge",
       "Tape always carries a charge",
+      "Touching and pulling apart is enough to move charge",
       "Friction heat makes the charge"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Nothing rubbed the tape, so heat from rubbing cannot be the cause. Touching and then separating two materials is enough to move electrons from one to the other. Rubbing only helps by making more of the two surfaces touch.",
      "outcome": 0
     }
@@ -1943,11 +1943,11 @@
      "t": "mcq",
      "p": "A piece of cotton meets wool, and later meets polythene. Which is right?",
      "opts": [
-      "Cotton is minus with wool and plus with polythene",
       "Cotton is plus with both",
+      "Cotton is minus with wool and plus with polythene",
       "Cotton is minus with both"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wool is higher on the ladder, so it gives electrons to cotton. Polythene is lower, so cotton gives electrons to it. The cotton plays both roles.",
      "outcome": 3
     },
@@ -2122,11 +2122,11 @@
      "t": "mcq",
      "p": "Two rubbed balloons push each other with some force at 1 centimetre apart. How strong is the push when they are 3 centimetres apart?",
      "opts": [
-      "One ninth as strong",
       "One third as strong",
+      "One ninth as strong",
       "The same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "3 centimetres is 3 times as far. The push divides by 3 times 3, which is 9. That is why two balloons that push hard at 1 centimetre hardly push at 10.",
      "outcome": 5
     },
@@ -2161,11 +2161,11 @@
      "t": "mcq",
      "p": "Wool and nylon are close neighbours on the ladder. Why is a ladder a poor guide to rubbing them together?",
      "opts": [
-      "Their difference is so small that damp air, dirt or how hard you rub can reverse the result",
       "Wool and nylon are both insulators",
+      "Their difference is so small that damp air, dirt or how hard you rub can reverse the result",
       "Wool and nylon have no electrons"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Materials far apart give a big, steady difference. Close neighbours give a small difference, which small changes in the surface can flip. Published tables disagree about neighbours for this reason.",
      "outcome": 2
     },
@@ -2206,11 +2206,11 @@
      "t": "mcq",
      "p": "Why does a brush of many thin metal threads remove charge from paper better than one flat metal strip?",
      "opts": [
-      "Each thread tip is a sharp point, and charge leaks into the air easily from a point",
       "Threads are lighter",
-      "A flat strip has no electrons"
+      "A flat strip has no electrons",
+      "Each thread tip is a sharp point, and charge leaks into the air easily from a point"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Charge crowds at points and the field there is strong enough to carry charge into the air. A hundred tips leak a lot more charge than one smooth edge.",
      "outcome": 4
     },
@@ -2329,11 +2329,11 @@
    "t": "mcq",
    "p": "A comb rubbed on a shawl gains 5 billion electrons. How many has the shawl lost?",
    "opts": [
-    "5 billion",
     "10 billion",
+    "5 billion",
     "None, since charge was made"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Charge is never made or destroyed. What one thing gains, the other loses.",
    "outcome": 0
   },
@@ -2341,11 +2341,11 @@
    "t": "mcq",
    "p": "Which result proves that a rubbed straw is charged?",
    "opts": [
-    "It pushes away a charged balloon",
     "It picks up bits of paper",
-    "It sticks to a wall"
+    "It sticks to a wall",
+    "It pushes away a charged balloon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Paper and walls are pulled even when they are neutral. Only a push shows that two things have the same kind of charge.",
    "outcome": 1
   },
@@ -2389,11 +2389,11 @@
    "t": "mcq",
    "p": "Why does touching an earthed metal pipe calm static on a sheet of paper?",
    "opts": [
-    "The pipe gives the charge a metal path to the ground",
     "The pipe is colder than the paper",
-    "The pipe is heavier than the paper"
+    "The pipe is heavier than the paper",
+    "The pipe gives the charge a metal path to the ground"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An earthed pipe is joined to the ground by metal. Charge flows along it into the large Earth.",
    "outcome": 4
   },
@@ -2437,11 +2437,11 @@
    "t": "mcq",
    "p": "Which place most needs to guard against static sparks?",
    "opts": [
-    "A flour mill",
     "A library",
+    "A flour mill",
     "A bus stop"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fine flour dust in the air can burn very fast if a spark lights it. Mills keep the air damp and earth every metal part.",
    "outcome": 6
   },
@@ -2449,11 +2449,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
-    "What exactly moves, and why, when two surfaces touch and part",
     "Whether charge is ever made from nothing",
-    "Whether the same kinds of charge push apart"
+    "Whether the same kinds of charge push apart",
+    "What exactly moves, and why, when two surfaces touch and part"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The other two are settled. Electrons, ions and tiny pieces of material have each been proposed for the first.",
    "outcome": 7
   },

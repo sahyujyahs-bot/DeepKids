@@ -523,11 +523,11 @@
       "t": "mcq",
       "q": "In the Blackest Black experiment, the hole in the box looks darker than the black paper. Why?",
       "options": [
-       "Almost no light comes back out of the hole",
        "The hole is painted blacker",
+       "Almost no light comes back out of the hole",
        "Dark is stored in the box"
       ],
-      "a": 0,
+      "a": 1,
       "why": "We see a thing when light comes from it to our eyes. Black paper sends back a little light. Light that goes into the hole is taken in by the inside of the box, so almost none comes back. Where no light comes from, we see darkness."
      },
      "parent": "Listen for this idea: the light goes into the hole and does not come back out, so almost none reaches your eyes. If your child says only that the hole is black, ask where the light went."
@@ -832,11 +832,11 @@
       "t": "mcq",
       "q": "You see the Moon in the evening. The bright side faces the place where the Sun has just set. What does this show?",
       "options": [
-       "The Moon's light comes from the Sun",
        "The Moon makes light on one side only",
+       "The Moon's light comes from the Sun",
        "The Sun is behind the Moon"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bright side of the Moon always faces the Sun, wherever the Sun is. That is because the Moon's light is sunlight bouncing off it."
      }
     }
@@ -1125,11 +1125,11 @@
       "t": "mcq",
       "q": "In the Sun and Moons game, a Moon must freeze when the Sun turns away. Why?",
       "options": [
-       "No light reaches that Moon, and Moons make none of their own",
        "The player is tired",
-       "The Moon shines only on Sundays"
+       "The Moon shines only on Sundays",
+       "No light reaches that Moon, and Moons make none of their own"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A Moon has no light of its own. It shines only while sunlight reaches it. When the light stops arriving, it goes dark."
      }
     }
@@ -1238,11 +1238,11 @@
       "t": "mcq",
       "q": "You light your room with a paper Moon and a torch. What is the torch like?",
       "options": [
-       "The Sun",
        "The Moon",
-       "A star at night"
+       "A star at night",
+       "The Sun"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The torch is the light source, like the Sun. The paper Moon only sends the light on, like the real Moon."
      }
     }
@@ -1323,11 +1323,11 @@
       "t": "mcq",
       "q": "You light the hidden picture with a mirror. Where did the light on the picture start?",
       "options": [
-       "At the torch",
        "At the mirror",
+       "At the torch",
        "At the picture"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The mirror makes no light. It only sends on the torch's light. Every way that works starts with a light source."
      }
     }
@@ -1381,11 +1381,11 @@
      "t": "mcq",
      "p": "A torch shines on different sheets in the dark, and each sheet bounces light onto a card of pictures. Which sheet will let you see the most pictures?",
      "opts": [
-      "White paper",
       "Black cloth",
+      "White paper",
       "Newspaper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "White paper sends back most of the light that falls on it. Black cloth takes in most of it, and newspaper is in between.",
      "how": "e1"
     },
@@ -1406,11 +1406,11 @@
      "t": "mcq",
      "p": "Which of these places would be the darkest?",
      "opts": [
-      "Inside a shut steel cupboard",
       "Under a thin white sheet",
+      "Inside a shut steel cupboard",
       "Behind a glass window"
      ],
-     "a": 0,
+     "a": 1,
      "why": "No light can get into a shut cupboard, so nothing is lit and it is dark. Light passes through glass and a thin sheet."
     },
     {
@@ -1524,11 +1524,11 @@
      "t": "mcq",
      "p": "On a dark road, why is a person in a white shirt easier to see than a person in a black shirt?",
      "opts": [
-      "The white shirt sends back more of the light that falls on it",
       "The white shirt makes its own light",
-      "The black shirt makes the road darker"
+      "The black shirt makes the road darker",
+      "The white shirt sends back more of the light that falls on it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "White sends back most of the light that falls on it, as the white paper did in the Paper Moon test. Black takes most of it in."
     },
     {
@@ -1588,11 +1588,11 @@
      "t": "mcq",
      "p": "In the daytime, the Moon looks pale and faint. Why?",
      "opts": [
-      "The sky around it is bright too",
       "The Moon makes less light in the day",
-      "It is a different Moon"
+      "It is a different Moon",
+      "The sky around it is bright too"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Moon reflects the same sunlight all the time. At night the sky around it is black, so it looks bright. In the day the sky is bright too, so the Moon looks pale."
     }
    ]
@@ -1614,11 +1614,11 @@
      "t": "mcq",
      "p": "Moon rock is dark grey. It reflects only about one tenth of the sunlight that falls on it. Why can the Moon still light up a terrace?",
      "opts": [
-      "Sunlight is very, very strong",
       "The Moon is very hot",
-      "The Moon stores light in the day"
+      "The Moon stores light in the day",
+      "Sunlight is very, very strong"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sunlight is so strong that even one tenth of it, bounced off the Moon, is enough to see by at night."
     },
     {
@@ -1683,11 +1683,11 @@
      "t": "mcq",
      "p": "If the Sun suddenly stopped shining, what would happen to the Moon about eight minutes later?",
      "opts": [
-      "It would go dark",
       "It would keep shining",
-      "It would shine brighter"
+      "It would shine brighter",
+      "It would go dark"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sunlight takes about eight minutes to reach the Moon. After that, no more light would arrive, so the Moon would have nothing to send on."
     },
     {
@@ -1732,11 +1732,11 @@
    "t": "mcq",
    "p": "Which of these is a light source?",
    "opts": [
-    "A tube light",
     "The Moon",
-    "A mirror"
+    "A mirror",
+    "A tube light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tube light makes its own light. The Moon and a mirror only send on light from somewhere else.",
    "outcome": 0
   },
@@ -1756,11 +1756,11 @@
    "t": "mcq",
    "p": "Where does the Moon's light come from?",
    "opts": [
-    "The Sun",
     "Fire inside the Moon",
-    "The stars"
+    "The stars",
+    "The Sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Moon is a ball of rock. Sunlight bounces off it and comes to us.",
    "outcome": 1
   },
@@ -1780,11 +1780,11 @@
    "t": "mcq",
    "p": "Which side of the Moon is bright?",
    "opts": [
-    "The side facing the Sun",
     "The side facing the stars",
-    "The top side"
+    "The top side",
+    "The side facing the Sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sunlight falls on the side facing the Sun, so that side is bright. The other side is dark.",
    "outcome": 1
   },
@@ -1792,11 +1792,11 @@
    "t": "mcq",
    "p": "You shine a torch on white paper in the dark. The paper lights up your drawing. What is the paper like?",
    "opts": [
-    "The Moon",
     "The Sun",
-    "A star"
+    "A star",
+    "The Moon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The paper sends on the torch's light, the way the Moon sends on the Sun's light.",
    "outcome": 2,
    "how": "e1"
@@ -1805,11 +1805,11 @@
    "t": "mcq",
    "p": "Which sheet sends back the least torch light?",
    "opts": [
-    "Black cloth",
     "White paper",
-    "Newspaper"
+    "Newspaper",
+    "Black cloth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Black cloth takes in most of the light that falls on it, so it sends back the least.",
    "outcome": 2,
    "how": "e1"
@@ -1818,11 +1818,11 @@
    "t": "mcq",
    "p": "What is darkness?",
    "opts": [
-    "Where no light is arriving",
     "A black gas that fills rooms",
-    "A kind of shadow-light"
+    "A kind of shadow-light",
+    "Where no light is arriving"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Darkness is the absence of light. Where no light arrives, we see dark.",
    "outcome": 3
   },
@@ -1843,11 +1843,11 @@
    "t": "mcq",
    "p": "Why must you never look straight at the Sun?",
    "opts": [
-    "It can hurt your eyes for ever",
     "It makes the Sun go out",
-    "It makes the Moon dark"
+    "It makes the Moon dark",
+    "It can hurt your eyes for ever"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Sun is far brighter than any other light source we have. Looking straight at it can damage your eyes, and the damage may not heal.",
    "outcome": 5
   }

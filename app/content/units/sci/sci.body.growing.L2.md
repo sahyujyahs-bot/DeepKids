@@ -401,7 +401,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 5. (truefalse) True or false: grown-ups keep getting taller every year.  
    **Answer:** False. *Why:* False. Most people stop getting taller at about 15 to 18. Some older people even get a little shorter.
 6. (mcq) You want to see if you have grown since last month. When should you measure yourself?  
-   Options: At the same time of day as last month / Any time at all / Only after playing outside  
+   Options: Any time at all / At the same time of day as last month / Only after playing outside  
    **Answer:** At the same time of day as last month. *Why:* Height changes during the day. Measuring at the same time each time is fair, so only real growth shows.
 7. (sort) Sort these into things that help a body grow, and things that slow growing down.  
    **Answer:** sleeping well at night → Helps growing; being ill again and again → Slows growing; eating dal, eggs and greens → Helps growing; not getting enough food → Slows growing. *Why:* Bones and muscles are built from food. In deep sleep the body makes more growth hormone, which tells bones to grow. Long illness and hunger slow growing down.
@@ -441,7 +441,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 2. (perspective) Two scientists are arguing about how babies grow.  
    **Answer:** A strong answer picks one side, then suggests a test: measure a baby very carefully, many times, in the same way each day, and see whether the jumps stay.. *Why:* This is still argued about. A good answer suggests careful, repeated measuring, like the Measure the Wriggler challenge.
 3. (mcq) In the WHO growth study, well-fed, healthy babies in India, Ghana, Brazil and Norway were measured. What did the scientists find?  
-   Options: They grew almost the same / Indian babies always grew much less / Norwegian babies always grew much less  
+   Options: Indian babies always grew much less / They grew almost the same / Norwegian babies always grew much less  
    **Answer:** They grew almost the same. *Why:* Healthy babies with good food and care grew almost the same in all six countries. So food and health matter a lot.
 4. (draw) Draw a picture graph of how tall a person is at 0, 1, 7, 15 and 30 years old.  
    **Answer:** Five people getting taller quickly at first, then more slowly, with the 15-year-old and 30-year-old close in height.. *Why:* A strong graph shows fast growing as a baby, steady growing in childhood, and no growing after the teens.
@@ -465,25 +465,25 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
 
 ## Quiz
 1. (mcq) Which life stage comes right after toddler?  
-   Options: Child / Teenager / Baby  
+   Options: Teenager / Child / Baby  
    **Answer:** Child. *Why:* The stages go baby, toddler, child, teenager, adult, older adult.
 2. (mcq) When do people grow fastest after they are born?  
-   Options: In their first year / When they are about 7 / When they are adults  
+   Options: When they are about 7 / When they are adults / In their first year  
    **Answer:** In their first year. *Why:* A baby grows about 25 centimetres in the first year. That is the fastest growing after birth.
 3. (mcq) About how much does a child of 7 grow in one year?  
-   Options: About 5 or 6 centimetres / About 50 centimetres / Nothing at all  
+   Options: About 50 centimetres / About 5 or 6 centimetres / Nothing at all  
    **Answer:** About 5 or 6 centimetres. *Why:* Children grow slowly and steadily, about 5 or 6 centimetres a year. 50 centimetres is the length of a newborn.
 4. (mcq) When are most people a little taller?  
    Options: In the morning, after sleep / In the evening, after a busy day / Exactly the same all day  
    **Answer:** In the morning, after sleep. *Why:* At night the discs in the backbone fill up again. During the day they are squashed a little.
 5. (mcq) What are the soft pads between the bones of your backbone called?  
-   Options: Discs / Muscles / Teeth  
+   Options: Muscles / Teeth / Discs  
    **Answer:** Discs. *Why:* They are called discs. They squash a little in the day and fill up at night.
 6. (mcq) You measure yourself every month. What makes your measuring fair?  
-   Options: The same wall, the same book, the same time of day, heels down / A different wall each month / Standing on tiptoes  
+   Options: A different wall each month / The same wall, the same book, the same time of day, heels down / Standing on tiptoes  
    **Answer:** The same wall, the same book, the same time of day, heels down. *Why:* If everything else stays the same, only real growing can change the line.
 7. (mcq) Why do we measure three times, not once?  
-   Options: One try can be a little wrong / Three is a lucky number / To make the line darker  
+   Options: Three is a lucky number / To make the line darker / One try can be a little wrong  
    **Answer:** One try can be a little wrong. *Why:* Small changes in standing or holding the book make tiny mistakes. Three tries show the real height better.
 8. (mcq) Which of these helps a child's body grow?  
    Options: Good food and sleep / Staying awake late every night / Skipping meals  
@@ -492,7 +492,7 @@ Arjun had stopped crying. He stood against the door on his tiptoes. "Me too," he
    Options: 3 millimetres more / 13 millimetres more / 5 millimetres more  
    **Answer:** 3 millimetres more. *Why:* 8 take away 5 is 3. The first child's height changed 3 millimetres more than the other child's.
 10. (mcq) A newborn is about 50 centimetres long. A girl of 7 is about 120 centimetres. Is the girl more than twice as long as the newborn?  
-   Options: Yes, two newborns make 100, and she is 120 / No, she is less than twice as long / They are the same  
+   Options: No, she is less than twice as long / They are the same / Yes, two newborns make 100, and she is 120  
    **Answer:** Yes, two newborns make 100, and she is 120. *Why:* 50 and 50 make 100. 120 is more than 100, so she is more than twice as long.
 
 ## Applications

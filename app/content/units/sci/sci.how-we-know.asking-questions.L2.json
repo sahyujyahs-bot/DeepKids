@@ -427,10 +427,10 @@
       "t": "mcq",
       "q": "Which pile does 'Which song is the best song?' go in?",
       "options": [
-       "We can test it by trying",
-       "We can't test it by trying"
+       "We can't test it by trying",
+       "We can test it by trying"
       ],
-      "a": 1,
+      "a": 0,
       "why": "It is an opinion. Each person likes different songs, and no test can show one right answer. If you chose 'test it', think: what would you do, and would everyone agree?"
      }
     },
@@ -547,11 +547,11 @@
       "t": "mcq",
       "q": "You predicted the lemon would sink, but it floated. What gets you a point?",
       "options": [
-       "Saying a reason for your prediction",
        "Pretending you said 'float'",
+       "Saying a reason for your prediction",
        "Nothing, because you were wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In this game a reason always earns a point, even when the prediction is wrong. A reason shows which idea to change. Pretending is never allowed, because then the test can't teach you anything."
      }
     },
@@ -937,10 +937,10 @@
       "q": "Can anyone predict every coin shake right?",
       "options": [
        "Yes, if they try hard",
-       "No, each shake lands by chance",
-       "Yes, grown-ups can"
+       "Yes, grown-ups can",
+       "No, each shake lands by chance"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A coin lands heads or tails by chance, so nobody can predict one shake for sure. Over many shakes, about half come out heads. If you chose 'yes', look at your crosses: you tried hard and still got some wrong."
      }
     }
@@ -1305,11 +1305,11 @@
    "t": "mcq",
    "p": "Which question can you test by trying?",
    "opts": [
-    "Does a steel spoon sink in water?",
     "Which colour is the prettiest?",
+    "Does a steel spoon sink in water?",
     "Is Holi more fun than Pongal?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You can drop a spoon in water and everyone will see it sink. The other two are opinions: each person's answer is true for them.",
    "outcome": 0
   },
@@ -1330,10 +1330,10 @@
    "p": "Which one is a prediction?",
    "opts": [
     "The ice floated.",
-    "I think the ice will float, because ice in my drink floats.",
-    "I like ice."
+    "I like ice.",
+    "I think the ice will float, because ice in my drink floats."
    ],
-   "a": 1,
+   "a": 2,
    "why": "A prediction says what you think will happen, and why, before the test. 'The ice floated' is a result, after the test.",
    "outcome": 1
   },
@@ -1341,11 +1341,11 @@
    "t": "mcq",
    "p": "When should you say your prediction?",
    "opts": [
-    "Before the test",
     "After the test",
-    "Only if you are sure"
+    "Only if you are sure",
+    "Before the test"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A prediction comes before the test, so the test can show if it was right. After a test, anyone can say 'I knew it', even when they did not.",
    "outcome": 1
   },
@@ -1379,11 +1379,11 @@
    "how": "a1",
    "p": "Which can you predict right every single time?",
    "opts": [
-    "A spoon you let go of will fall",
     "A coin will land heads",
+    "A spoon you let go of will fall",
     "A die will show six"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth pulls a spoon down every time. A coin and a die land by chance.",
    "outcome": 4
   },
@@ -1411,11 +1411,11 @@
    "t": "mcq",
    "p": "A comet comes back about every 76 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?",
    "opts": [
-    "The pull of the big planets can slow it down",
     "It gets tired",
+    "The pull of the big planets can slow it down",
     "Comets always come early"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.",
    "outcome": 5
   },
@@ -1435,11 +1435,11 @@
    "t": "mcq",
    "p": "Which question can a book or chart answer, when you cannot go and test it yourself?",
    "opts": [
-    "What do giraffes eat in the wild?",
     "Which fruit is the tastiest?",
-    "Is blue prettier than green?"
+    "Is blue prettier than green?",
+    "What do giraffes eat in the wild?"
    ],
-   "a": 0,
+   "a": 2,
    "why": "People who watched giraffes have written down what they eat, so a book can tell you. The other two are opinions, and no book can say which one is true for you.",
    "outcome": 0
   }
@@ -1564,11 +1564,11 @@
      "how": "e2",
      "p": "In the Lucky Blow test, why do we roll 30 times each, and not just once?",
      "opts": [
-      "One roll can be a fluke",
       "To make the die tired",
-      "Because 30 is a lucky number"
+      "Because 30 is a lucky number",
+      "One roll can be a fluke"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A die lands by chance, so one roll tells us almost nothing. Many rolls show what usually happens."
     },
     {
@@ -1668,11 +1668,11 @@
      "t": "mcq",
      "p": "We can never visit a star. But each material gives out its own colours of light. How could we still find out what stars are made of?",
      "opts": [
-      "By looking at the colours in starlight",
       "We can never know anything about it",
-      "By bringing back a piece of a star"
+      "By bringing back a piece of a star",
+      "By looking at the colours in starlight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each material gives out its own pattern of colours. Matching the colours in starlight to these patterns shows that stars are mostly hydrogen and helium."
     },
     {
@@ -1707,11 +1707,11 @@
      "t": "mcq",
      "p": "Forecasters say it will probably rain tomorrow. It doesn't. What does that show?",
      "opts": [
-      "Weather can be predicted often, but not every time",
       "Forecasts are always wrong",
-      "It will never rain again"
+      "It will never rain again",
+      "Weather can be predicted often, but not every time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Weather depends on many things that keep changing. Forecasters use measurements and are right often, but not always."
     },
     {

@@ -376,11 +376,11 @@
       "t": "mcq",
       "q": "A friend whispers a secret to you. Which sense organ do you use?",
       "options": [
-       "Your ears",
        "Your tongue",
-       "Your skin"
+       "Your skin",
+       "Your ears"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Ears hear sounds, and a whisper is a very quiet sound. The tongue tastes and the skin feels touch."
      }
     }
@@ -513,11 +513,11 @@
       "t": "mcq",
       "q": "The listener's eyes were shut. Which sense organ found the sounds?",
       "options": [
-       "The ears",
        "The tongue",
-       "The skin of the feet"
+       "The skin of the feet",
+       "The ears"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Ears are the sense organ for hearing. The sound travelled through the air to the listener's ears."
      }
     }
@@ -749,11 +749,11 @@
       "t": "mcq",
       "q": "With your eyes shut, you smelled the orange before you reached the plate. Why?",
       "options": [
-       "Tiny bits from the orange peel floated through the air into my nose",
        "My nose touched the orange",
-       "I heard the orange"
+       "I heard the orange",
+       "Tiny bits from the orange peel floated through the air into my nose"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Tiny bits from the peel float in the air. When they reach your nose, you smell the orange. Your nose never touched it."
      },
      "think": "When you smell an orange, is a little bit of the orange inside your nose?"
@@ -841,11 +841,11 @@
       "t": "mcq",
       "q": "Which sense organ told you that the jaggery is sweet?",
       "options": [
-       "The tongue",
        "The ears",
+       "The tongue",
        "The eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The tongue tastes sweet, sour, salty and bitter. Eyes can see the jaggery is brown, but only the tongue tastes the sweet."
      },
      "parent": "For touch, many children point to their hands. Tell them that the skin all over the body feels touch, even the skin on their back and feet."
@@ -939,11 +939,11 @@
       "t": "mcq",
       "q": "In the dark, which sense stops working?",
       "options": [
-       "Hearing",
        "Seeing",
+       "Hearing",
        "Smelling"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Eyes need light to see. In the dark, no light reaches your eyes. Ears, nose, tongue and skin still work."
      },
      "parent": "Your eyes are not switched off in the dark. They need light coming from things to see them. With no light, there is nothing for them to catch."
@@ -1210,11 +1210,11 @@
       "t": "mcq",
       "q": "Which page of your book could have jasmine flowers on it?",
       "options": [
-       "The nose page",
        "The ears page",
-       "The tongue page"
+       "The tongue page",
+       "The nose page"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Jasmine has a strong sweet smell, so the nose page is a good fit. The eyes page could have them too, because jasmine is white and pretty."
      }
     }
@@ -1302,11 +1302,11 @@
       "t": "mcq",
       "q": "Which sense does a doorbell that flashes a light use?",
       "options": [
-       "Seeing",
        "Hearing",
-       "Tasting"
+       "Tasting",
+       "Seeing"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flashing light reaches the eyes, so it uses seeing. It works for someone who cannot hear."
      }
     }
@@ -1669,10 +1669,10 @@
    "p": "Which one is the sense organ for touch?",
    "opts": [
     "Tongue",
-    "Skin",
-    "Ears"
+    "Ears",
+    "Skin"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Skin covers your whole body and feels touch: rough, smooth, soft, hard, warm and cold.",
    "outcome": 0
   },
@@ -1680,11 +1680,11 @@
    "t": "mcq",
    "p": "Which one is NOT one of the five best-known senses?",
    "opts": [
+    "Jumping",
     "Seeing",
-    "Smelling",
-    "Jumping"
+    "Smelling"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Jumping is something your body does. Seeing, hearing, smelling, tasting and touching are the five best-known senses.",
    "outcome": 0
   },
@@ -1693,10 +1693,10 @@
    "p": "Standing far away from a plate of jalebis, which of these can you NOT do?",
    "opts": [
     "See the jalebis",
-    "Smell the jalebis",
-    "Taste the jalebis"
+    "Taste the jalebis",
+    "Smell the jalebis"
    ],
-   "a": 2,
+   "a": 1,
    "why": "You can see and smell from far away. To taste, the jalebi must be on your tongue.",
    "outcome": 1
   },
@@ -1716,11 +1716,11 @@
    "t": "mcq",
    "p": "You smell sambar from your bedroom. What reached your nose?",
    "opts": [
-    "Tiny bits from the sambar, floating in the air",
     "The sound of the sambar",
+    "Tiny bits from the sambar, floating in the air",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Tiny bits from the hot sambar float through the air. When they reach your nose, you smell sambar.",
    "outcome": 2
   },
@@ -1740,11 +1740,11 @@
    "t": "mcq",
    "p": "How does an ant smell?",
    "opts": [
-    "With her feelers",
     "With her feet",
+    "With her feelers",
     "Ants have no sense of smell"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An ant smells with the two feelers on her head. That is how ants follow a smell trail to food.",
    "outcome": 3
   },
@@ -1752,11 +1752,11 @@
    "t": "mcq",
    "p": "A touch-me-not plant folds their leaves when you touch them. What does that show?",
    "opts": [
-    "The plant senses touch",
     "The plant is asleep",
-    "The wind did it"
+    "The wind did it",
+    "The plant senses touch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The leaves fold right after a touch, so the plant sensed the touch and answered.",
    "outcome": 3
   },
@@ -1764,11 +1764,11 @@
    "t": "mcq",
    "p": "In the Smell Steps test, one plate has an orange and one plate is empty. Why is there an empty plate?",
    "opts": [
-    "To check you are not just guessing",
     "To count how many steps you take",
-    "To make the room smell nice"
+    "To make the room smell nice",
+    "To check you are not just guessing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If you smell nothing at the empty plate, then the smell you find at the other plate really came from the orange. That makes the test fair.",
    "outcome": 4
   },

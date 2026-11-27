@@ -695,11 +695,11 @@
       "t": "mcq",
       "q": "The white cloud above a boiling kettle can be seen. What is it?",
       "options": [
-       "Tiny drops of liquid water floating in air",
        "Water as a gas",
+       "Tiny drops of liquid water floating in air",
        "Smoke from the kettle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water as a gas is invisible. The white cloud forms where the hot vapour cools and turns into tiny drops of liquid. Choosing 'water as a gas' mixes up steam with the mist it turns into."
      },
      "context": "This is the last step of Solid, Liquid, Gas, or a Mix of States? Here you count your cards and talk about the surprises."
@@ -800,11 +800,11 @@
       "t": "mcq",
       "q": "In Bean Gas, no bean was told where to go. Why did the beans end up spread over the board?",
       "options": [
-       "Chance moves give many more spread-out arrangements than gathered ones",
        "The walls pushed the beans apart",
+       "Chance moves give many more spread-out arrangements than gathered ones",
        "The die sends beans to the far corner"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each bean only wanders. But six beans can be spread out in thousands of ways. They can all sit in one quarter in very few ways. So chance alone spreads them, and keeps them spread. A gas fills its container in the same way."
      },
      "context": "This is the last step of Bean Gas. Here you check whether the beans stay spread out once they have filled the box."
@@ -1039,11 +1039,11 @@
       "t": "mcq",
       "q": "In Two Balloons on a Hanger, the carbon dioxide balloon sank lower than the air balloon. Both were the same size. What does that show?",
       "options": [
-       "Carbon dioxide is heavier than air, litre for litre",
        "Air has no mass at all",
+       "Carbon dioxide is heavier than air, litre for litre",
        "The carbon dioxide balloon held a liquid"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both gases have mass, and carbon dioxide has more of it in the same space. Choosing 'air has no mass' forgets that the air balloon was held up by the air around it. The balloon held only gas: a balloon with liquid in it would not be a fair test."
      },
      "context": "This is the last step of Two Balloons on a Hanger. Here you explain why the carbon dioxide balloon was heavier, and why the air balloon added almost nothing."
@@ -1494,11 +1494,11 @@
       "t": "mcq",
       "q": "Smoke filled one jar. Then a second jar was joined to it. What did the smoke do?",
       "options": [
-       "It spread through both jars and looked thinner",
        "It stayed in the first jar only",
-       "It grew, so both jars looked just as grey"
+       "It grew, so both jars looked just as grey",
+       "It spread through both jars and looked thinner"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A gas spreads into all the space it can reach. No new smoke was made, so the same amount in twice the space looks thinner."
      },
      "context": "This is the last step of Smoke in Two Jars. Here you say what the smoke did when it was given twice the space."
@@ -1589,11 +1589,11 @@
       "t": "mcq",
       "q": "A deep breath pushed 1,500 ml of water out of an upturned bottle. What does that tell you?",
       "options": [
-       "The breath was about 1,500 ml of gas",
        "The breath had a mass of 1,500 grams",
+       "The breath was about 1,500 ml of gas",
        "The water turned into air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A gas takes up space, so the breath took the place of 1,500 ml of water. Its mass is tiny: about 1.2 grams a litre, so under 2 grams. The water did not change into anything. It was pushed out into the bucket."
      },
      "context": "This is the last step of How Much Gas Is One Breath? Here you measure your deepest breath and compare it with a quiet one."
@@ -1686,11 +1686,11 @@
       "t": "mcq",
       "q": "In 100 particles of dry air, about how many are nitrogen?",
       "options": [
-       "About 78",
        "About 21",
+       "About 78",
        "About 1"
       ],
-      "a": 0,
+      "a": 1,
       "why": "About 78 in 100 are nitrogen and about 21 are oxygen. Many people guess that air is mostly oxygen, because oxygen is the gas we need. Nitrogen goes in and out of our lungs unchanged."
      },
      "context": "This is the last step of 100 Grains of Air. Here you see how rare carbon dioxide is in the air."
@@ -1782,11 +1782,11 @@
       "t": "mcq",
       "q": "A gas can be compressed into less space, but a liquid cannot. Why?",
       "options": [
-       "Gas particles have gaps between them, and liquid particles touch",
        "Gas particles are soft and liquid particles are hard",
-       "A liquid is heavier than a gas"
+       "A liquid is heavier than a gas",
+       "Gas particles have gaps between them, and liquid particles touch"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Compressing a gas pushes its particles into the empty space between them. In a liquid the particles already touch, so there is nowhere for them to go. The particles themselves do not get smaller or softer."
      },
      "context": "This is the last step of Coins on the Floor. Here you squash the gas and the liquid, to see which can be compressed."
@@ -2093,11 +2093,11 @@
       "t": "mcq",
       "q": "One sticky square caught far more specks than the other four. What is the fairest thing to say?",
       "options": [
-       "More dust floated in the air at that place",
        "The other four places have perfectly clean air",
-       "That place has no air fit to breathe"
+       "That place has no air fit to breathe",
+       "More dust floated in the air at that place"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The count compares the dust that floated past each square. It does not show that the other places are clean. The smallest bits and the gases do not show on a sticky square."
      },
      "context": "This is the last step of Five Sticky Squares. Here you count the specks on each square and compare the five places."
@@ -2186,11 +2186,11 @@
       "t": "mcq",
       "q": "A cloth mask lets air through but stops much of the dust. Why?",
       "options": [
-       "Dust bits are much bigger than gas particles",
        "The cloth makes new clean air",
-       "Air is lighter than dust and floats past"
+       "Air is lighter than dust and floats past",
+       "Dust bits are much bigger than gas particles"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Gas particles are far smaller than the gaps between threads, so they pass through. A bit of dust is many thousands of times bigger and gets caught on the threads. The cloth makes no air. It only sorts the gas from the solid bits."
      },
      "context": "This is the last step of the mask challenge. Here you test your own design and choose the best filter."
@@ -2273,11 +2273,11 @@
       "t": "mcq",
       "q": "Gas from a fizz pushed 900 ml of water out of an upturned bottle. What is the volume of the gas caught?",
       "options": [
-       "About 900 ml",
        "About 900 grams",
-       "Nothing, because a gas takes up no space"
+       "Nothing, because a gas takes up no space",
+       "About 900 ml"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The gas took the place of the water, so its volume is the volume of water pushed out. Millilitres measure space, and grams measure mass. 900 ml of carbon dioxide has a mass of under 2 grams."
      },
      "context": "This is the last step of Catch the Gas and Measure It. Here you repeat the measurement and improve your method."
@@ -2296,12 +2296,12 @@
      "t": "mcq",
      "p": "Which of these is a gas at room temperature?",
      "opts": [
-      "Oxygen",
       "Coconut oil",
       "Salt",
-      "Honey"
+      "Honey",
+      "Oxygen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Oxygen is a gas: it has no shape or volume of its own. Coconut oil and honey are liquids, and salt is a solid."
     },
     {
@@ -2413,12 +2413,12 @@
      "t": "mcq",
      "p": "Baking soda is added to vinegar, and the mix fizzes. What state is the new substance in the bubbles?",
      "opts": [
-      "A gas",
       "A liquid",
       "A solid",
-      "No new substance is made"
+      "No new substance is made",
+      "A gas"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bubbles are carbon dioxide, a gas made when the solid and the liquid meet. Choosing 'no new substance' treats the fizz as air that was hiding in the vinegar."
     },
     {
@@ -2527,12 +2527,12 @@
      "t": "mcq",
      "p": "Why does a gas spread out to fill a whole room?",
      "opts": [
-      "Its particles fly freely in all directions",
       "Its particles grow bigger",
       "The walls pull the gas towards them",
+      "Its particles fly freely in all directions",
       "Air pushes it into the corners"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gas particles are not held together. Each flies until it hits something, so in time they are spread through all the space. The particles do not grow, and nothing pulls or pushes them into place."
     },
     {
@@ -2619,12 +2619,12 @@
      "t": "mcq",
      "p": "A balloon of air hangs from a balance in a room. Why does the air inside add almost nothing?",
      "opts": [
-      "The air around the balloon holds it up",
       "Air has no mass",
       "The rubber is too thin to hold mass",
-      "The air inside has leaked out"
+      "The air inside has leaked out",
+      "The air around the balloon holds it up"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The air inside has mass, but the air outside pushes the balloon up by nearly the same amount. Choosing 'air has no mass' forgets that a pumped ball gets heavier.",
      "how": "e1"
     },
@@ -2840,12 +2840,12 @@
      "t": "mcq",
      "p": "A sticky square by the road catches 40 specks. One in a bedroom catches 5. What is the fairest conclusion?",
      "opts": [
-      "More dust floats in air by the road",
       "The bedroom air has no dust at all",
       "Road air holds 40 kinds of gas",
+      "More dust floats in air by the road",
       "The bedroom square was not sticky"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The squares compare the dust that floats past. Five specks is still some dust, and the smallest bits do not show at all.",
      "how": "p1"
     },
@@ -2918,12 +2918,12 @@
      "t": "mcq",
      "p": "Why is the mix of gases in air almost the same in Chennai and in Shimla?",
      "opts": [
-      "Winds stir the air, and gases mix",
       "Each city makes its own air",
       "The heavy gases all stay in Chennai",
-      "Mountain air has no nitrogen"
+      "Mountain air has no nitrogen",
+      "Winds stir the air, and gases mix"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Gases spread to fill the space they reach, and winds mix the whole atmosphere. Shimla has less air in each breath than Chennai, but the same mix."
     },
     {
@@ -2953,12 +2953,12 @@
    "t": "mcq",
    "p": "A tumbler is pushed mouth-down into water, and the inside stays mostly dry. Why?",
    "opts": [
-    "The air inside takes up the space",
     "Glass pushes water away",
     "The water is too heavy to rise",
+    "The air inside takes up the space",
     "The tumbler is too small"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Air is a substance that takes up space, so the water has no room to rise. The glass and the size of the tumbler make no difference.",
    "outcome": 0
   },
@@ -2966,12 +2966,12 @@
    "t": "mcq",
    "p": "Which test best shows that a gas has mass?",
    "opts": [
-    "A fizzing mix gets lighter as gas leaves",
     "A balloon feels smooth",
     "Smoke looks grey",
+    "A fizzing mix gets lighter as gas leaves",
     "Wind moves the leaves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If mass leaves the scale when only gas leaves, the gas must have mass. Wind shows that air can push, but not that it has mass.",
    "outcome": 0
   },
@@ -2979,12 +2979,12 @@
    "t": "mcq",
    "p": "Perfume is opened in one corner of a closed room. An hour later, where is the smell?",
    "opts": [
-    "Everywhere in the room",
     "Only in that corner",
     "Only near the floor",
-    "Only near the ceiling"
+    "Only near the ceiling",
+    "Everywhere in the room"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The particles of a gas keep moving until they are spread through all the space they can reach.",
    "outcome": 1
   },
@@ -2992,12 +2992,12 @@
    "t": "mcq",
    "p": "In which state are the particles far apart and flying freely in all directions?",
    "opts": [
-    "Gas",
     "Liquid",
     "Solid",
+    "Gas",
     "All three states"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a solid and a liquid the particles touch. Only in a gas are they far apart and free.",
    "outcome": 1
   },
@@ -3018,12 +3018,12 @@
    "t": "mcq",
    "p": "A litre of milk is poured from a jug into a wide pan. What stays the same?",
    "opts": [
-    "Its volume",
     "Its shape",
+    "Its volume",
     "Its height in the vessel",
     "Nothing stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A liquid takes the shape of its container but keeps its volume. A litre is still a litre in any vessel.",
    "outcome": 2
   },
@@ -3031,12 +3031,12 @@
    "t": "mcq",
    "p": "Which gas makes up about one-fifth of the air, and is the gas our bodies use?",
    "opts": [
-    "Oxygen",
     "Nitrogen",
     "Carbon dioxide",
-    "Argon"
+    "Argon",
+    "Oxygen"
    ],
-   "a": 0,
+   "a": 3,
    "why": "About 21 in every 100 particles of air are oxygen. Nitrogen is nearly four-fifths, but our bodies breathe it in and out unchanged.",
    "outcome": 3
   },
@@ -3069,12 +3069,12 @@
    "t": "mcq",
    "p": "Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?",
    "opts": [
-    "Its particles are heavier, and just as many",
     "It holds a liquid",
+    "Its particles are heavier, and just as many",
     "It is colder",
     "It was blown up harder"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same space holds about the same number of gas particles. Carbon dioxide particles have about one and a half times the mass of air particles.",
    "outcome": 5,
    "how": "e1"
@@ -3096,12 +3096,12 @@
    "t": "mcq",
    "p": "What is PM2.5?",
    "opts": [
-    "Tiny solid and liquid bits floating in air",
     "A gas that plants make",
     "A kind of oxygen",
-    "The name of a weather app"
+    "The name of a weather app",
+    "Tiny solid and liquid bits floating in air"
    ],
-   "a": 0,
+   "a": 3,
    "why": "PM2.5 is not a gas. It is bits smaller than 2.5 thousandths of a millimetre, small enough to reach deep into the lungs.",
    "outcome": 6
   },
@@ -3109,12 +3109,12 @@
    "t": "mcq",
    "p": "Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?",
    "opts": [
-    "Two things differ, so the cause is unclear",
     "Bigger balloons always win",
+    "Two things differ, so the cause is unclear",
     "A fair test needs three balloons",
     "The balloons must be the same colour"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test only one thing changes. If the gas and the size both differ, either could explain the result.",
    "outcome": 7
   }

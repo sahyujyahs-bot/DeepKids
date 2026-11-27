@@ -753,11 +753,11 @@
       "t": "mcq",
       "q": "You lay down like a cat and breathed slowly. What is your heart doing now?",
       "options": [
-       "Beating faster",
        "Beating slower",
+       "Beating faster",
        "Not beating"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Slow breaths let the body settle, so the heart beats slower than it did after the tiger stomping. The fast stomping had made it beat fast."
      },
      "parent": "Be honest with your child: the tiger heart came from stomping, not from anger. But anger and fear also make the heart beat fast and the breath quick, and slow breathing helps the body settle."
@@ -1000,11 +1000,11 @@
       "t": "mcq",
       "q": "Another child tears your drawing. You feel angry. What helps most?",
       "options": [
-       "Tearing their drawing too",
        "Telling them, 'I am angry. That was my drawing.'",
+       "Tearing their drawing too",
        "Pretending you feel nothing"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Saying the feeling in words lets the other child know, and often makes the anger smaller. Tearing their drawing hurts them and keeps the anger going. Pretending hides the feeling but does not help it change."
      }
     }
@@ -1559,11 +1559,11 @@
    "t": "mcq",
    "p": "Which of these is a feeling?",
    "opts": [
-    "Scared",
     "A spoon",
+    "Scared",
     "Blue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scared is a feeling. A spoon is a thing, and blue is a colour.",
    "outcome": 0
   },
@@ -1572,10 +1572,10 @@
    "p": "Your heart beats fast and you want to run. Which feeling is this most likely to be?",
    "opts": [
     "Calm",
-    "Scared",
-    "Sleepy"
+    "Sleepy",
+    "Scared"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Fear makes the heart beat fast and gets the body ready to run. Calm and sleepy make the body slow.",
    "outcome": 1
   },
@@ -1595,11 +1595,11 @@
    "t": "mcq",
    "p": "In the story Chinnu's Sandcastle, Chinnu felt happy, then angry, then calm, then happy again, all in one evening at the beach. What does this show?",
    "opts": [
-    "Feelings change through the day",
     "A feeling stays all day",
-    "Only sad feelings change"
+    "Only sad feelings change",
+    "Feelings change through the day"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Chinnu's feelings changed again and again. Feelings come and go.",
    "outcome": 3
   },
@@ -1619,11 +1619,11 @@
    "t": "mcq",
    "p": "Where do feelings happen?",
    "opts": [
-    "In the whole body: heart, tummy, face and thoughts",
     "Only in the head",
-    "Only on the face"
+    "Only on the face",
+    "In the whole body: heart, tummy, face and thoughts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When you are scared, your heart beats fast. When you are angry, your face gets hot. When you are sad, your throat gets tight. Feelings happen in the whole body.",
    "outcome": 1
   },
@@ -1643,11 +1643,11 @@
    "t": "mcq",
    "p": "Why does saying 'I am cross' help?",
    "opts": [
-    "It often makes the feeling a little smaller, and others know how you feel",
     "It makes the feeling bigger",
+    "It often makes the feeling a little smaller, and others know how you feel",
     "It does nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists have found that putting a feeling into words often makes it a little smaller. It also lets others know, so they can help.",
    "outcome": 1
   },
@@ -1655,11 +1655,11 @@
    "t": "mcq",
    "p": "In the story Chinnu's Sandcastle, a boy broke Chinnu's sandcastle. She felt angry and sad at the same time. Can two feelings come at once?",
    "opts": [
-    "Yes, two feelings can come together",
     "No, only one feeling at a time",
+    "Yes, two feelings can come together",
     "Only on the beach"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Two or more feelings often come together, like angry and sad when something you made is broken.",
    "outcome": 0
   },
@@ -1667,11 +1667,11 @@
    "t": "mcq",
    "p": "A dog jumps and wags her tail when her friend comes home. What feeling does the dog most likely have?",
    "opts": [
-    "Happy",
     "Sleepy",
-    "Scared"
+    "Scared",
+    "Happy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A wagging tail and jumping usually show a happy, excited dog. Humans and other animals have feelings.",
    "outcome": 0
   }

@@ -449,7 +449,7 @@ Kutti was already lying in the new patch.
    **Answer:** looking at a shadow → Safe; looking at the Sun through sunglasses → Not safe; feeling which cheek is warm, with eyes closed → Safe; staring at the Sun for one second → Not safe; seeing which wall is brightly lit → Safe. *Why:* Sunlight is strong enough to hurt the back of the eye, even through sunglasses. Shadows, warmth and lit walls show where the Sun is without looking at it.
 ### The Sun's path and our shadows (stretch) (stretch, 10 questions)
 1. (mcq) Your shadow points west and is very long. Is it morning or evening?  
-   Options: Morning / Evening / Noon  
+   Options: Evening / Noon / Morning  
    **Answer:** Morning. *Why:* A shadow points away from the Sun. Pointing west means the Sun is in the east, low down. A low Sun in the east means morning.
 2. (perspective) Three friends are arguing about the Sun's path.  
    **Answer:** A strong answer picks a side and uses evidence. The first person is right about what we see. The second person is right about why: the Earth turns. The third person is right that we cannot tell it from the ground.. *Why:* Scientists agree the Earth turns, and that explains the sky most simply. But from the ground, the Sun really does appear to move. Each friend sees part of it.
@@ -474,7 +474,7 @@ Kutti was already lying in the new patch.
 1. (write) Many people think the Sun goes round the Earth, because that is what it looks like. What would you show a friend to help them think again? You can say it and a grown-up can write it down.  
    **Answer:** For example: a train ride, where still trees seem to move because we are moving. Or the sun patch, which moved though nothing in the room moved.. *Why:* A strong answer uses something the friend can see or try, and explains that something moving can make still things seem to move.
 2. (mcq) In Bengaluru, on a day in late April, a girl stands in the sun at noon. Her shadow hides right under her feet. Why?  
-   Options: The Sun is straight overhead / The Sun has gone behind a cloud / Shadows stop working in April  
+   Options: The Sun has gone behind a cloud / The Sun is straight overhead / Shadows stop working in April  
    **Answer:** The Sun is straight overhead. *Why:* On Zero Shadow Day, the noon Sun is straight overhead. The light falls straight down, so the shadow is right under her.
 3. (mcq) You want to dry clothes in the sun all afternoon. Your balcony faces east. Is it a good place?  
    Options: No, an east balcony gets the morning sun, not the afternoon sun / Yes, an east balcony is sunny all day / Yes, because the Sun sets in the east  
@@ -501,34 +501,34 @@ Kutti was already lying in the new patch.
 
 ## Quiz
 1. (mcq) On which side of the sky does the Sun set?  
-   Options: West / East / Straight overhead  
+   Options: East / West / Straight overhead  
    **Answer:** West. *Why:* The Sun sets in the west every evening. It rises in the east, on the opposite side.
 2. (mcq) When is the Sun highest in the sky?  
    Options: Around noon / Just after sunrise / Just before sunset  
    **Answer:** Around noon. *Why:* The Sun seems to climb through the morning, is highest around noon, and sinks in the afternoon.
 3. (mcq) Why does the Sun seem to move across the sky?  
-   Options: The Earth turns once a day / The Sun runs round the Earth / The clouds push the Sun along  
+   Options: The Sun runs round the Earth / The clouds push the Sun along / The Earth turns once a day  
    **Answer:** The Earth turns once a day. *Why:* The Earth rotates, carrying us with it. From the ground, that makes the Sun seem to move. The Sun is not going round us.
 4. (mcq) You are on a train. The trees outside seem to rush backwards. What is really moving?  
    Options: The train / The trees / Nothing  
    **Answer:** The train. *Why:* The train moves, so still things outside appear to move the other way. The turning Earth makes the Sun appear to move in the same way.
 5. (mcq) At what time of day is your shadow shortest?  
-   Options: Around noon / At 8 in the morning / At 5 in the evening  
+   Options: At 8 in the morning / Around noon / At 5 in the evening  
    **Answer:** Around noon. *Why:* Around noon the Sun is high, so its light comes from above and your body blocks only a small patch near your feet.
 6. (mcq) Why is your shadow long in the early morning?  
-   Options: The Sun is low, so its light comes in sideways / You are taller in the morning / The Sun is closer in the morning  
+   Options: You are taller in the morning / The Sun is low, so its light comes in sideways / The Sun is closer in the morning  
    **Answer:** The Sun is low, so its light comes in sideways. *Why:* A low Sun shines sideways, so your body blocks the light over a long stretch of ground.
 7. (mcq) In the morning, the Sun is in the east. Which way do shadows point?  
-   Options: West / East / Up  
+   Options: East / Up / West  
    **Answer:** West. *Why:* A shadow falls on the side away from the light. With the Sun in the east, shadows point west.
 8. (mcq) Your shadow is in front of you as you walk. Where is the Sun?  
-   Options: Behind you / In front of you / Under your feet  
+   Options: In front of you / Under your feet / Behind you  
    **Answer:** Behind you. *Why:* A shadow points away from the Sun. If your shadow is in front, the Sun must be behind you.
 9. (mcq) You mark the corner of a sun patch every 5 minutes. Each mark is further from the first one. What does this show?  
-   Options: The sun patch moves slowly and steadily / The sun patch stays still / The sun patch moves only when you look away  
+   Options: The sun patch stays still / The sun patch moves only when you look away / The sun patch moves slowly and steadily  
    **Answer:** The sun patch moves slowly and steadily. *Why:* The marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.
 10. (mcq) What is the safe way to find where the Sun is?  
-   Options: Look at a shadow. The Sun is on the opposite side / Look at the Sun for just a second / Look at the Sun through sunglasses  
+   Options: Look at the Sun for just a second / Look at a shadow. The Sun is on the opposite side / Look at the Sun through sunglasses  
    **Answer:** Look at a shadow. The Sun is on the opposite side. *Why:* Looking at the Sun, even briefly or with sunglasses, can hurt the back of your eyes. A shadow tells you where the Sun is without any danger.
 11. (mcq) The shadow of a lamp post points towards the temple. Where is the Sun?  
    Options: On the side of the lamp post away from the temple / Above the temple / Under the lamp post  

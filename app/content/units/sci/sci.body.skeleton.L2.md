@@ -520,28 +520,28 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
    Options: About 206 / About 20 / About 2,000  
    **Answer:** About 206. *Why:* A grown-up has about 206 bones. A newborn baby has more pieces, about 300, and many of them join as the child grows.
 3. (mcq) What is a joint?  
-   Options: A place where two bones meet / The middle of a bone / A kind of muscle  
+   Options: The middle of a bone / A kind of muscle / A place where two bones meet  
    **Answer:** A place where two bones meet. *Why:* A joint is where two bones meet. Your body bends at its joints.
 4. (mcq) Your elbow bends and straightens like a door. What kind of joint is it?  
-   Options: A hinge joint / A ball and socket joint / It is not a joint  
+   Options: A ball and socket joint / It is not a joint / A hinge joint  
    **Answer:** A hinge joint. *Why:* A hinge joint moves one way and back, like a door. The elbow and knee are hinge joints.
 5. (mcq) Which of these joints can move round in a circle?  
-   Options: The hip / The knee / The elbow  
+   Options: The knee / The hip / The elbow  
    **Answer:** The hip. *Why:* The hip is a ball and socket joint, like the shoulder. The knee and elbow are hinges.
 6. (mcq) What do your ribs do?  
-   Options: Keep your heart and lungs safe / Help you see / Make your hair grow  
+   Options: Help you see / Make your hair grow / Keep your heart and lungs safe  
    **Answer:** Keep your heart and lungs safe. *Why:* The ribs make a cage of bone round the heart and lungs.
 7. (mcq) What would a body be like with no bones at all?  
-   Options: Floppy, like an empty sock / Just the same / Stiff, like a ruler  
+   Options: Just the same / Stiff, like a ruler / Floppy, like an empty sock  
    **Answer:** Floppy, like an empty sock. *Why:* Bones hold the body up. Without them, a body would flop, like the empty sock in the Floppy Sock Arm activity.
 8. (mcq) How does a muscle move a bone?  
    Options: It gets shorter and pulls / It pushes the bone away / It gets longer and pushes  
    **Answer:** It gets shorter and pulls. *Why:* Muscles can only pull. They get shorter and harder as they pull a bone.
 9. (mcq) A nurse puts a plaster cast on a broken arm. Why?  
-   Options: To keep the pieces still while the bone cells mend it / Because the cast makes new bone / To keep the arm warm  
+   Options: Because the cast makes new bone / To keep the arm warm / To keep the pieces still while the bone cells mend it  
    **Answer:** To keep the pieces still while the bone cells mend it. *Why:* Bone is alive. Bone cells build new bone across the crack. The cast only holds the pieces still so they join straight.
 10. (mcq) Why can a broken bone mend, when a cracked stone cannot?  
-   Options: Bone is alive and has living cells / Bone is softer than stone / Bone is made of water  
+   Options: Bone is softer than stone / Bone is alive and has living cells / Bone is made of water  
    **Answer:** Bone is alive and has living cells. *Why:* Living bone cells build new bone. A stone has no living cells, so a crack in a stone stays.
 
 ## Applications

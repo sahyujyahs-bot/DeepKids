@@ -587,14 +587,14 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 14. (perspective) A factory's smoke is making the town's air dirty. What should be done?  
    **Answer:** Any view with a reason from the unit. One reason is that the gases travel hundreds of kilometres, so a tall chimney only moves the harm. Another is that a scrubber costs money that someone has to pay.. *Why:* Each speaker has a real point. A strong answer uses a fact about how the gases travel or how a scrubber works.
 15. (mcq) Why is a lake with no river flowing out usually salty?  
-   Options: Salts arrive and only water leaves / Salt falls into it with the rain / Fish living there make salt / Its bed is always made of salt  
+   Options: Salt falls into it with the rain / Fish living there make salt / Its bed is always made of salt / Salts arrive and only water leaves  
    **Answer:** Salts arrive and only water leaves. *Why:* Rivers bring a little dissolved rock. Water leaves such a lake only by evaporating, and the salts stay behind and build up.
 ### Follow the gas, follow the salt (stretch, 15 questions)
 1. (mcq) You breathe in air with 78 parts nitrogen. What does your body do with the nitrogen?  
-   Options: Breathes it out unchanged / Burns it for energy / Turns it into oxygen / Stores it in the bones  
+   Options: Burns it for energy / Breathes it out unchanged / Turns it into oxygen / Stores it in the bones  
    **Answer:** Breathes it out unchanged. *Why:* Nitrogen reacts with very few things. Your body breathes it out again, still 78 parts in 100.
 2. (mcq) One rain has a pH of 4.6. Clean rain has a pH of 5.6. How do they compare?  
-   Options: The first is 10 times as acid / The first is slightly more acid / They are equally acid / The clean rain is more acid  
+   Options: The first is slightly more acid / The first is 10 times as acid / They are equally acid / The clean rain is more acid  
    **Answer:** The first is 10 times as acid. *Why:* Each whole step down the pH scale means 10 times more acid. From 5.6 to 4.6 is one whole step.
 3. (truefalse) Sea water is an acid.  
    **Answer:** False. *Why:* False. Sea water is slightly basic, with a pH of about 8. Dissolved carbon dioxide is making it a little less basic.
@@ -612,7 +612,7 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 9. (fill) The slow breaking of rock by rain, air and living beings is called ____.  
    **Answer:** ['weathering']. *Why:* Rain is a weak acid. Over thousands of years it dissolves part of the rock, and what stays behind becomes soil.
 10. (mcq) Why does crushed shell turn sour pink water back to purple?  
-   Options: It reacts with the acid, using it up / It soaks up the pink colour / It makes the water colder / It adds more water  
+   Options: It soaks up the pink colour / It makes the water colder / It adds more water / It reacts with the acid, using it up  
    **Answer:** It reacts with the acid, using it up. *Why:* Shell is calcium carbonate. It reacts with the acid, so less acid is left and the indicator goes back to purple.
 11. (write) In the Lemon Drop Test, marble was marked and granite was not. Explain why, using the words calcium carbonate.  
    **Answer:** Marble is calcium carbonate. Acid reacts with calcium carbonate and makes bubbles of gas. It dissolves a little of the surface, so the shine is lost. Granite is made of minerals that acid hardly touches.. *Why:* A strong answer names what marble is made of and says the acid reacted with it. It also says that granite did not react.
@@ -629,13 +629,13 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
    Options: An unknown heavier gas in the air / A fault in the scales / Damp inside the jars / Oxygen left in the nitrogen  
    **Answer:** An unknown heavier gas in the air. *Why:* The nitrogen from air held a little argon, which is heavier. A small difference that keeps coming back is a clue, not a mistake.
 2. (mcq) A lake on granite is turning acid. Which action stops the cause?  
-   Options: Fitting scrubbers at power stations / Adding limestone to the lake / Adding more fish / Building a taller chimney  
+   Options: Adding limestone to the lake / Adding more fish / Fitting scrubbers at power stations / Building a taller chimney  
    **Answer:** Fitting scrubbers at power stations. *Why:* A scrubber stops the gas that makes the acid. Limestone helps the lake for a time, but it is used up while the acid rain goes on.
 3. (mcq) Which test would show that fresh-tasting river water holds dissolved minerals?  
-   Options: Dry a plateful and look for a film / Look at it through a magnifier / Shake it hard in a bottle / Smell it  
+   Options: Look at it through a magnifier / Shake it hard in a bottle / Smell it / Dry a plateful and look for a film  
    **Answer:** Dry a plateful and look for a film. *Why:* Dissolved minerals are too small to see and too few to taste. When the water evaporates they stay behind as a faint film.
 4. (mcq) As the air gains carbon dioxide, sea water becomes less basic. Why?  
-   Options: The gas dissolves and makes a weak acid / The sea gets warmer / Salt slowly turns into acid / Rivers bring more salt  
+   Options: The sea gets warmer / Salt slowly turns into acid / The gas dissolves and makes a weak acid / Rivers bring more salt  
    **Answer:** The gas dissolves and makes a weak acid. *Why:* Carbon dioxide dissolves in the sea, as it does in a raindrop, and makes carbonic acid. The pH of the sea surface has fallen from about 8.2 to 8.1.
 5. (truefalse) The sea gets saltier every year.  
    **Answer:** False. *Why:* False. Rivers add salts, but salts also leave the sea slowly. They are buried in mud and in beds of rock salt. So the saltiness stays about the same.
@@ -667,39 +667,39 @@ Behind them Aachi's rake scraped and crunched. By evening there was a new white 
 
 ## Quiz
 1. (mcq) Which list gives the three main gases of dry air, largest first?  
-   Options: Nitrogen, oxygen, argon / Oxygen, nitrogen, carbon dioxide / Oxygen, carbon dioxide, nitrogen / Nitrogen, carbon dioxide, oxygen  
+   Options: Oxygen, nitrogen, carbon dioxide / Oxygen, carbon dioxide, nitrogen / Nitrogen, carbon dioxide, oxygen / Nitrogen, oxygen, argon  
    **Answer:** Nitrogen, oxygen, argon. *Why:* Dry air is 78 parts nitrogen, 21 parts oxygen and nearly 1 part argon. Carbon dioxide is far less than 1 part.
 2. (mcq) About how much of the air is carbon dioxide?  
-   Options: 4 parts in 10,000 / 4 parts in 100 / 21 parts in 100 / About half  
+   Options: 4 parts in 100 / 4 parts in 10,000 / 21 parts in 100 / About half  
    **Answer:** 4 parts in 10,000. *Why:* Carbon dioxide is rare in air. Breathed-out air holds about 4 parts in 100, which may be why many people choose that number.
 3. (mcq) What is most of the salt in sea water?  
-   Options: Common salt, the salt we eat / Sugar / Chalk / Baking soda  
+   Options: Sugar / Chalk / Common salt, the salt we eat / Baking soda  
    **Answer:** Common salt, the salt we eat. *Why:* About 85 grams in every 100 grams of sea salt are common salt, sodium chloride.
 4. (mcq) Rivers taste fresh. How do they still make the sea salty?  
-   Options: They bring a little dissolved rock / They wash salt off the beaches / They freeze and leave salt behind / They do not. Fish make the salt  
+   Options: They wash salt off the beaches / They freeze and leave salt behind / They do not. Fish make the salt / They bring a little dissolved rock  
    **Answer:** They bring a little dissolved rock. *Why:* River water holds a very small amount of dissolved rock. It adds up, because the salts stay in the sea when the water evaporates.
 5. (mcq) When sea water evaporates, what goes into the air?  
-   Options: Only the water / The water and the salt together / Only the salt / Nothing at all  
+   Options: The water and the salt together / Only the salt / Only the water / Nothing at all  
    **Answer:** Only the water. *Why:* Water turns into vapour and rises. Salt cannot evaporate in the sun, so it stays. That is how a salt pan works.
 6. (mcq) Which four parts make up soil?  
-   Options: Minerals, humus, water and air / Sand, stones, roots and worms / Rock, salt, water and ash / Clay, cement, water and air  
+   Options: Sand, stones, roots and worms / Rock, salt, water and ash / Minerals, humus, water and air / Clay, cement, water and air  
    **Answer:** Minerals, humus, water and air. *Why:* Soil is mineral grains, humus, water and air. About half of good soil is the water and air in the gaps.
 7. (mcq) Why is clean rain slightly acid?  
-   Options: Carbon dioxide dissolves in it / Salt from the sea rises into it / Sunlight turns water sour / All dust in the air is acid  
+   Options: Salt from the sea rises into it / Sunlight turns water sour / Carbon dioxide dissolves in it / All dust in the air is acid  
    **Answer:** Carbon dioxide dissolves in it. *Why:* A raindrop falls through air and dissolves a little carbon dioxide, which makes a weak acid. Salt does not rise with the vapour.
 8. (mcq) Which two kinds of gas cause most acid rain?  
-   Options: Sulfur dioxide and nitrogen oxides / Oxygen and nitrogen / Argon and water vapour / Carbon dioxide and oxygen  
+   Options: Oxygen and nitrogen / Sulfur dioxide and nitrogen oxides / Argon and water vapour / Carbon dioxide and oxygen  
    **Answer:** Sulfur dioxide and nitrogen oxides. *Why:* Sulfur dioxide and nitrogen oxides turn into strong acids in clouds. Carbon dioxide makes only the weak acid of clean rain.
 9. (truefalse) Gases from a chimney in one country can fall as acid rain in another country.  
    **Answer:** True. *Why:* True. Wind carries the gases for hundreds of kilometres. Smoke from other countries in Europe fell as acid rain on Sweden and Norway.
 10. (mcq) Two lakes get the same acid rain. Which lake stays healthier?  
-   Options: The lake on limestone / The lake on granite / The deeper lake / Both stay the same  
+   Options: The lake on granite / The lake on limestone / The deeper lake / Both stay the same  
    **Answer:** The lake on limestone. *Why:* Limestone reacts with the acid and neutralises it. Granite does not, so a lake on granite turns acid.
 11. (mcq) What does acid rain do to a marble carving over many years?  
-   Options: Dissolves the surface and blurs it / Makes the marble harder / Turns the marble into granite / Nothing at all  
+   Options: Makes the marble harder / Dissolves the surface and blurs it / Turns the marble into granite / Nothing at all  
    **Answer:** Dissolves the surface and blurs it. *Why:* Acid reacts with the calcium carbonate of marble and dissolves a little each time. Sharp edges slowly become blurred.
 12. (mcq) What is the lasting way to stop acid rain?  
-   Options: Stop the gases at the chimney / Build taller chimneys / Add limestone to every lake / Cover the lakes  
+   Options: Build taller chimneys / Add limestone to every lake / Stop the gases at the chimney / Cover the lakes  
    **Answer:** Stop the gases at the chimney. *Why:* Scrubbers and cleaner fuel stop the gases from reaching the air. Taller chimneys only move the acid, and limestone is used up.
 
 ## Applications

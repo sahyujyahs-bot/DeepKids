@@ -436,7 +436,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 4. (write) Say out loud, and a grown-up writes it down: why did the 8-piece chain wrap round the tumbler better than the whole straw?  
    **Answer:** Because it could bend at many joints. Each piece tilted a little, and the tilts added up.. *Why:* A strong answer says the chain bent at the joints between the pieces, and that more joints made a rounder curve.
 5. (mcq) Which clue tells you for sure that an animal is a bird?  
-   Options: Feathers / Four legs / Lives in a tree  
+   Options: Four legs / Lives in a tree / Feathers  
    **Answer:** Feathers. *Why:* Only birds have feathers. Monkeys and squirrels live in trees too, and birds have two legs, not four.
 6. (truefalse) A snake's skin is slimy and wet.  
    **Answer:** False. *Why:* False. Snake skin is dry. Snakes are reptiles, with dry scales. Frogs and toads are the ones with damp skin.
@@ -450,7 +450,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
    **Answer:** 6. *Why:* A crow has 2 legs, a cow has 4 and a cobra has none. 2 and 4 and 0 make 6. Legs alone do not tell you the group.
 ### Telling the Groups Apart (stretch) (stretch, 10 questions)
 1. (mcq) A tadpole lives in a pond. What does a tadpole breathe with?  
-   Options: Gills / Lungs / Feathers  
+   Options: Lungs / Gills / Feathers  
    **Answer:** Gills. *Why:* A tadpole breathes with gills, like a fish. When the tadpole becomes a frog, the frog breathes with lungs and through the damp skin.
 2. (write) An olive ridley turtle swims in the sea all her life. Why is she not a fish? Give two clues. A grown-up can write down what you say.  
    **Answer:** She breathes air with lungs, not gills. She has dry scales and a shell. She lays her eggs on a beach.. *Why:* A strong answer gives two clues that show she is a reptile: lungs, dry scales, eggs laid on land.
@@ -476,7 +476,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 2. (perspective) Two scientists argue about where birds belong.  
    **Answer:** A strong answer picks a side with a reason, and sees that both are right about something. Feathers make birds easy to tell apart. But birds and crocodiles really are close relatives.. *Why:* Scientists really do argue about this. It depends whether groups are for telling animals apart, or for showing who is related to whom.
 3. (mcq) A caecilian lives in wet soil in the Western Ghats. They have no legs, smooth damp skin and no scales. Which group are they in?  
-   Options: Reptiles, like snakes / Amphibians, like frogs / Invertebrates, like earthworms  
+   Options: Amphibians, like frogs / Reptiles, like snakes / Invertebrates, like earthworms  
    **Answer:** Amphibians, like frogs. *Why:* Smooth, damp skin with no scales is the amphibian clue. A caecilian has a backbone, so a caecilian is not an invertebrate. Having no legs is not enough to make an animal a snake.
 4. (draw) In the Bendy Backbone test you tried 1, 2, 4 and 8 pieces. Predict and draw what a chain of 16 pieces would look like round the tumbler.  
    **Answer:** An almost perfect circle round the tumbler, with almost no gaps.. *Why:* A strong drawing shows that 16 pieces curve even more closely than 8, because there are even more joints, each tilting a little.
@@ -491,7 +491,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 9. (order) Put these animals in order, from the fewest vertebrae to the most.  
    **Answer:** ['a frog', 'you', 'a snake']. *Why:* A frog has about nine vertebrae, you have 33, and a snake has a few hundred.
 10. (mcq) Which of these animals is an invertebrate?  
-   Options: A crab / A shark / A toad  
+   Options: A shark / A toad / A crab  
    **Answer:** A crab. *Why:* A crab has a hard shell outside and no backbone. A shark is a fish and a toad is an amphibian, so both have a backbone.
 
 ## Videos
@@ -501,25 +501,25 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 
 ## Quiz
 1. (mcq) What is your backbone made of?  
-   Options: One long, stiff bone / A chain of many small bones / Soft muscle with no bones  
+   Options: One long, stiff bone / Soft muscle with no bones / A chain of many small bones  
    **Answer:** A chain of many small bones. *Why:* Your backbone is a chain of 33 small bones called vertebrae. You can feel them as bumps when you bend.
 2. (mcq) In the Bendy Backbone test, which chain wrapped round the tumbler best?  
-   Options: The whole straw / The straw in 2 pieces / The straw in 8 pieces  
+   Options: The whole straw / The straw in 8 pieces / The straw in 2 pieces  
    **Answer:** The straw in 8 pieces. *Why:* More pieces meant more joints. Each joint tilted a little, and together they curved round the tumbler.
 3. (mcq) Which of these is a vertebrate?  
    Options: An ant / A crow / A prawn  
    **Answer:** A crow. *Why:* A crow has a backbone, so a crow is a vertebrate. Ants and prawns have no backbone.
 4. (mcq) Which group has smooth, damp skin and starts life as tadpoles?  
-   Options: Reptiles / Amphibians / Birds  
+   Options: Amphibians / Reptiles / Birds  
    **Answer:** Amphibians. *Why:* Frogs and toads are amphibians. They have smooth, damp skin and begin life in water as tadpoles.
 5. (mcq) How does a fish take in oxygen?  
-   Options: With gills / With lungs / Through feathers  
+   Options: With lungs / Through feathers / With gills  
    **Answer:** With gills. *Why:* A fish takes water in through the mouth and over the gills. The gills take oxygen from the water.
 6. (mcq) What is true of every mammal?  
-   Options: They can fly / The mothers feed their babies milk / They lay eggs with hard shells  
+   Options: The mothers feed their babies milk / They can fly / They lay eggs with hard shells  
    **Answer:** The mothers feed their babies milk. *Why:* Every mammal mother makes milk for her young. Only a few mammals fly, and birds are the ones that lay hard-shelled eggs.
 7. (mcq) A bat flies with wings. Which group is a bat in?  
-   Options: Birds, because bats fly / Mammals, because bats have fur and drink milk / Reptiles, because bats like the dark  
+   Options: Mammals, because bats have fur and drink milk / Birds, because bats fly / Reptiles, because bats like the dark  
    **Answer:** Mammals, because bats have fur and drink milk. *Why:* Flying is only one clue. A bat has fur, and the mother feeds her baby milk, so a bat is a mammal.
 8. (mcq) A house gecko lives near the tube light. What covers a gecko's skin?  
    Options: Dry scales / Feathers / Fur  

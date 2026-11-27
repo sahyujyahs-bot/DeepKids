@@ -381,7 +381,7 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
    **Answer:** A strong answer picks one and gives a reason. Covering is quick and needs no watching, which helps a bird watcher. Food tells you how to look after an animal, which helps a zoo keeper or a vet.. *Why:* Both ways are good. Each one is better for a different job.
 ### Covering, Legs and Food (stretch) (stretch, 10 questions)
 1. (mcq) The Indian pangolin is covered in hard scales. A pangolin also has hair on the belly, and the mother feeds her baby milk. Which group is a pangolin in?  
-   Options: Animals with hair who feed milk, like the cow / Snakes / Birds  
+   Options: Snakes / Birds / Animals with hair who feed milk, like the cow  
    **Answer:** Animals with hair who feed milk, like the cow. *Why:* Hair and milk put the pangolin with the mammals, like cows, bats and us. The scales alone could fool you.
 2. (sort) Sort these animals by their number of legs.  
    **Answer:** snake → No legs; fish → No legs; crow → 2 legs; you → 2 legs; frog → 4 legs; gecko → 4 legs; ant → 6 legs; butterfly → 6 legs; spider → 8 legs. *Why:* Snakes and fish have no legs. The crow and you have 2. The frog and the gecko have 4. The ant and the butterfly are insects with 6. The spider has 8.
@@ -413,25 +413,25 @@ Miss Selvi saw the two charts and smiled. "How did you find out?" she asked.
    Options: A fruit bat / A parrot / A gecko  
    **Answer:** A parrot. *Why:* Only birds have feathers, and a parrot is a bird. A fruit bat has fur, and a gecko has tiny scales.
 2. (mcq) Which of these animals is covered in scales?  
-   Options: A frog / A rat snake / A goat  
+   Options: A frog / A goat / A rat snake  
    **Answer:** A rat snake. *Why:* A rat snake has dry scales. A frog has bare, wet skin, and a goat has hair.
 3. (mcq) An insect, like a cockroach, has how many legs?  
    Options: 4 / 6 / 8  
    **Answer:** 6. *Why:* Every insect has 6 legs. A spider has 8, so a spider is not an insect.
 4. (mcq) Which animal has no legs?  
-   Options: An earthworm / A frog / A hen  
+   Options: A frog / An earthworm / A hen  
    **Answer:** An earthworm. *Why:* An earthworm moves by stretching and squeezing their body. A frog has 4 legs and a hen has 2.
 5. (mcq) A goat eats only leaves and grass. What is a goat?  
-   Options: A herbivore / A carnivore / An omnivore  
+   Options: A carnivore / An omnivore / A herbivore  
    **Answer:** A herbivore. *Why:* An animal who eats only plants is a herbivore, a plant-eater.
 6. (mcq) A gecko by the tube light eats moths and flies. What is a gecko?  
    Options: A plant-eater / A meat-eater / Eats both  
    **Answer:** A meat-eater. *Why:* Moths and flies are animals, so a gecko is a meat-eater, a carnivore. A gecko would be in the 'eats both' group only if the gecko ate plants too.
 7. (mcq) Which is one way a crow and a cow are similar?  
-   Options: Both have feathers / Both have 4 legs / Both have eyes and eat food  
+   Options: Both have eyes and eat food / Both have feathers / Both have 4 legs  
    **Answer:** Both have eyes and eat food. *Why:* Both have eyes and both eat. Only the crow has feathers, and only the cow has 4 legs.
 8. (mcq) Sorted by legs, who goes in the same group as you?  
-   Options: A crow / A cow / A spider  
+   Options: A cow / A spider / A crow  
    **Answer:** A crow. *Why:* A crow has 2 legs, like you. Humans are animals, and we share the 2-legs group with birds.
 9. (mcq) Sorted by covering, the hen goes with the crow. Sorted by food, who else joins them?  
    Options: A cow / An ant / A tiger  

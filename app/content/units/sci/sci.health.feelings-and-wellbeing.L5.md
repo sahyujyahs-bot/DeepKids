@@ -597,7 +597,7 @@ On Monday she came out two minutes early again. Three children were already stan
 ## Worksheets
 ### Happy places, feelings that spread, and kind and safe actions (core, 15 questions)
 1. (mcq) Which three things make a place a happy one?  
-   Options: Safety, belonging and care for the place / New paint, big rooms and loud music / Rules, bells and silence / Prizes, uniforms and tall walls  
+   Options: New paint, big rooms and loud music / Rules, bells and silence / Prizes, uniforms and tall walls / Safety, belonging and care for the place  
    **Answer:** Safety, belonging and care for the place. *Why:* A happy place is one where people are safe, everyone belongs, and the place is cared for. Paint, size and prizes can help, but they do not make a place happy on their own.
 2. (match) Match each action to what it does.  
    **Answer:** Say it calmly → Uses a steady voice and few words; Stand beside → Sits or stands with the person; Put it right → Does the helpful thing yourself; Tell a grown-up → Gets help from someone you trust. *Why:* These are four ways to step in that are kind and safe. Each does a different job, and a situation may need more than one.
@@ -606,14 +606,14 @@ On Monday she came out two minutes early again. Three children were already stan
 4. (truefalse) In a fair test of hurry words, the bottle and the chana must change in every run.  
    **Answer:** False. *Why:* False. In a fair test only one thing changes, which is what the helper says. The bottle, the chana and the hand height stay the same, so that any difference comes from the words.
 5. (mcq) People copy what they see others do in a place. What is 'what most people here do' called?  
-   Options: A social norm / A stress response / A barrier / A charter  
+   Options: A stress response / A social norm / A barrier / A charter  
    **Answer:** A social norm. *Why:* A social norm is what most people in a place do, or think they should do. A stress response is the body getting ready for action. A barrier stops people, and a charter is a list of agreed rules.
 6. (sort) Sort each one. Is it a barrier, or does it remove a barrier?  
    **Answer:** a step with no ramp → Barrier; a ramp beside the steps → Removes a barrier; a switch too high to reach → Barrier; a notice with pictures as well as words → Removes a barrier; a door 60 cm wide → Barrier; a wide door with a handrail → Removes a barrier. *Why:* A barrier is anything that stops some people from using a place. A ramp, pictures and a wide door let more people in.
 7. (truefalse) Friendly teasing that both people enjoy is bullying.  
    **Answer:** False. *Why:* False. Bullying hurts, frightens or leaves out the same person again and again, and the person finds it hard to stop it. Friendly teasing is fun for both and stops when one says stop.
 8. (mcq) What does the stress response do to the body?  
-   Options: Speeds the heart and tightens the muscles / Slows the heart and loosens the muscles / Stops all breathing / Makes the body colder only  
+   Options: Slows the heart and loosens the muscles / Stops all breathing / Speeds the heart and tightens the muscles / Makes the body colder only  
    **Answer:** Speeds the heart and tightens the muscles. *Why:* When something seems urgent or unsafe, the body gets ready for action. Adrenaline speeds the heart, breathing quickens and the muscles tighten.
 9. (fill) Dignity of labour means that every honest ____ deserves equal respect.  
    **Answer:** ['job', 'work']. *Why:* Dignity of labour means every honest job deserves equal respect, including jobs that are poorly paid, such as cleaning.
@@ -628,14 +628,14 @@ On Monday she came out two minutes early again. Three children were already stan
 14. (order) Put these in order, from first to last, when someone shouts 'faster!' at you.  
    **Answer:** ['Brain treats the moment as urgent', 'Adrenaline enters the blood', 'Heart beats faster', 'Hands feel tight and aim worse']. *Why:* The brain first treats the words as urgent. The adrenal glands release adrenaline. The heart speeds up, and the muscles tighten, so hands aim less well.
 15. (mcq) A friend says someone is hurting her, and asks you to keep it secret. What should you do?  
-   Options: Tell a trusted grown-up / Keep the secret / Tell the whole class / Wait for a year  
+   Options: Keep the secret / Tell the whole class / Wait for a year / Tell a trusted grown-up  
    **Answer:** Tell a trusted grown-up. *Why:* A secret about someone being hurt is too big for a child to carry. A trusted grown-up can get help. Telling is how your friend gets help.
 ### Why people copy, what barriers do, and how to step in (stretch, 15 questions)
 1. (mcq) Riders dropped more paper beside scribbled walls than beside clean walls. What does this show?  
-   Options: People copy what they see others do / Scribbles make people hungry / Riders cannot read / Clean walls are slippery  
+   Options: Scribbles make people hungry / Riders cannot read / People copy what they see others do / Clean walls are slippery  
    **Answer:** People copy what they see others do. *Why:* A scribbled wall says that people here break rules, so more riders dropped paper. Nobody told them anything. The place gave the message.
 2. (mcq) Which is the kindest and safest first action when you see someone being teased?  
-   Options: Say 'Stop, that is not funny' calmly / Join in so you are not next / Shout and push the teaser / Walk away and say nothing  
+   Options: Join in so you are not next / Say 'Stop, that is not funny' calmly / Shout and push the teaser / Walk away and say nothing  
    **Answer:** Say 'Stop, that is not funny' calmly. *Why:* A calm, short sentence can stop teasing without anyone being hurt. Joining in or pushing adds to the harm, and saying nothing gives the teaser an audience.
 3. (mcq) Why does one wrapper on the ground lead to more wrappers?  
    Options: People copy a sign that others have littered / Wind carries wrappers together / Wrappers attract insects / Bins are far away  
@@ -667,13 +667,13 @@ On Monday she came out two minutes early again. Three children were already stan
    **Answer:** ['out']. *Why:* A long out-breath slows the heart a little. The body can then settle sooner.
 ### Testing ideas about feelings, norms and kindness (challenge, 15 questions)
 1. (mcq) A test finds that hurried hands miss more. How could you show that the words, not only the speed, caused it?  
-   Options: Hurry yourself with no words, then compare / Use a bigger bottle / Test one run only / Use fewer chana  
+   Options: Use a bigger bottle / Test one run only / Hurry yourself with no words, then compare / Use fewer chana  
    **Answer:** Hurry yourself with no words, then compare. *Why:* If the hand also misses more when it hurries itself in silence, the speed alone matters. If it misses more only with the hurry words, the words matter. Changing the bottle, the run count or the chana would not separate these.
 2. (mcq) A park sign says 'Most visitors take wood.' Which sign would work better?  
-   Options: Please leave the wood where it is / Thieves will be caught / Many visitors take wood / Wood is very valuable  
+   Options: Thieves will be caught / Many visitors take wood / Wood is very valuable / Please leave the wood where it is  
    **Answer:** Please leave the wood where it is. *Why:* A sign that says many people break a rule makes breaking it look normal. A simple, friendly request that shows the right action worked better in tests.
 3. (mcq) Cameras filmed real street quarrels, and someone helped in most. What does this suggest about crowds?  
-   Options: Crowds do not always stop people helping / Crowds always help / Cameras scare helpers / Quarrels are rare  
+   Options: Crowds always help / Crowds do not always stop people helping / Cameras scare helpers / Quarrels are rare  
    **Answer:** Crowds do not always stop people helping. *Why:* An old idea says that nobody helps when many are watching. Real films suggest that in most quarrels someone steps in. Scientists still argue about how well the old idea fits real life.
 4. (truefalse) People are kind only because they are taught rules and given prizes.  
    **Answer:** False. *Why:* False. Toddlers help others before anyone has taught them, and rats free trapped companions. Teaching and the community shape kindness, but they are not the only source.
@@ -707,16 +707,16 @@ On Monday she came out two minutes early again. Three children were already stan
 
 ## Quiz
 1. (mcq) Which place is most likely to be a happy one?  
-   Options: A plain room where people greet and help each other / A grand hall where people ignore each other / A new building where older children push / A big field with no rules  
+   Options: A grand hall where people ignore each other / A new building where older children push / A big field with no rules / A plain room where people greet and help each other  
    **Answer:** A plain room where people greet and help each other. *Why:* A happy place is made mostly by how the people in it treat each other. A plain room with kind people is happier than a fine one with unkind people.
 2. (mcq) One child starts to giggle and the whole row soon giggles. What is happening?  
-   Options: A feeling is spreading from person to person / The row is learning a rule / Everyone is tired / The teacher is cross  
+   Options: The row is learning a rule / A feeling is spreading from person to person / Everyone is tired / The teacher is cross  
    **Answer:** A feeling is spreading from person to person. *Why:* This is emotional contagion. A feeling spreads through faces and voices, mostly without anyone choosing it.
 3. (mcq) Which substance enters the blood when the body gets ready for urgent action?  
-   Options: Adrenaline / Insulin / Calcium / Chlorophyll  
+   Options: Insulin / Calcium / Adrenaline / Chlorophyll  
    **Answer:** Adrenaline. *Why:* The two small adrenal glands above the kidneys release adrenaline. It speeds the heart within seconds.
 4. (mcq) Why does a fair test take turns between two kinds of run?  
-   Options: So practice does not fool the result / So nobody gets bored / So the helper can rest / So the numbers are bigger  
+   Options: So nobody gets bored / So the helper can rest / So practice does not fool the result / So the numbers are bigger  
    **Answer:** So practice does not fool the result. *Why:* If one kind came first, practice would help the later kind and the result would be unfair. Taking turns spreads the practice evenly.
 5. (mcq) Which shows respect for a person who cleans a school?  
    Options: Learn her name and greet her / Leave your rubbish on the floor / Ignore her / Tease her  
@@ -725,18 +725,18 @@ On Monday she came out two minutes early again. Three children were already stan
    Options: A person in a 65 cm wide wheelchair / A child on foot / A grandfather with a stick / A person with a school bag  
    **Answer:** A person in a 65 cm wide wheelchair. *Why:* A 65 cm wide chair cannot pass a 60 cm gap. A barrier is anything that stops some people from using a place.
 7. (mcq) A bigger child pushes a smaller child and says 'Tell anyone and you are next.' What is the best action?  
-   Options: Tell a trusted grown-up at once / Push the bigger child / Laugh and walk away / Keep it secret  
+   Options: Push the bigger child / Tell a trusted grown-up at once / Laugh and walk away / Keep it secret  
    **Answer:** Tell a trusted grown-up at once. *Why:* Someone is being hurt and threatened. A child should not step in alone. A trusted grown-up can make it stop.
 8. (mcq) Why is picking up the first wrapper better than picking up the tenth?  
    Options: Fewer wrappers mean fewer people copy / The first one is heavier / Bins are nearer then / Nobody sees the tenth  
    **Answer:** Fewer wrappers mean fewer people copy. *Why:* A mess feeds itself. With few wrappers few people add one, and with many wrappers most do. So the first wrapper matters most.
 9. (mcq) Which of these can help a big feeling settle?  
-   Options: Breathing out slowly, longer than breathing in / Holding your breath / Keeping the feeling secret / Shouting at someone  
+   Options: Holding your breath / Breathing out slowly, longer than breathing in / Keeping the feeling secret / Shouting at someone  
    **Answer:** Breathing out slowly, longer than breathing in. *Why:* A slow, long out-breath slows the heart a little. Naming the feeling, moving and talking to someone you trust also help.
 10. (truefalse) A feeling that is too big to carry alone should be told to a trusted grown-up.  
    **Answer:** True. *Why:* True. People of every age ask for help with big feelings, and it is a sensible thing to do. Keep telling until someone listens.
 11. (mcq) When do people feel they belong in a place?  
-   Options: Everyone is greeted and gets a turn / Only the best get a turn / New children wait outside / Rules are never explained  
+   Options: Only the best get a turn / New children wait outside / Rules are never explained / Everyone is greeted and gets a turn  
    **Answer:** Everyone is greeted and gets a turn. *Why:* Belonging means that everyone is greeted, can take part and gets a turn. It is one of the four things that make a place happy.
 
 ## Applications

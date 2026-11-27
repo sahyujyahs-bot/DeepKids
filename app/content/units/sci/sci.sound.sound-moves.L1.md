@@ -416,7 +416,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 2. (draw) Draw a bell in the middle of the page. Draw sound lines going out from the bell. Which ways do they go?  
    **Answer:** Sound lines going out on every side of the bell: up, down, left and right.. *Why:* A strong drawing shows the sound spreading out to every side, not only one way.
 3. (mcq) In the Walk Away test, which sound faded first, after only a few steps?  
-   Options: The rubbing fingers / The spoon on the tumbler / Both faded at the same spot  
+   Options: The spoon on the tumbler / The rubbing fingers / Both faded at the same spot  
    **Answer:** The rubbing fingers. *Why:* The finger rub is a very small sound to start with. It spreads out and fades after only a few steps. The tumbler makes a bigger sound, so it travels further.
 4. (truefalse) Someone claps their hands behind you. You cannot hear the clap, because you are not facing them.  
    **Answer:** False. *Why:* False. A sound spreads out to every side. You can hear a clap from behind you, as you heard the tumbler from behind in All Around the Tumbler.
@@ -466,28 +466,28 @@ It was only a whisper. But across the road, the light blinked off and on again.
    Options: It travels through the air / Your ears go to the bell / It does not reach you  
    **Answer:** It travels through the air. *Why:* The sound starts at the bell and travels through the air to your ears. Your ears stay where they are and catch it.
 2. (mcq) What is the sound source when a pressure cooker whistles?  
-   Options: The pressure cooker / Your ears / The kitchen door  
+   Options: Your ears / The kitchen door / The pressure cooker  
    **Answer:** The pressure cooker. *Why:* The sound source is the thing that makes the sound. The whistle starts at the cooker, then travels to you.
 3. (mcq) You can hear the neighbour's mixie through the wall. What does that show?  
-   Options: Sound can travel through a wall / The wall is making the sound / The mixie is in your flat  
+   Options: The wall is making the sound / The mixie is in your flat / Sound can travel through a wall  
    **Answer:** Sound can travel through a wall. *Why:* The mixie is the source, in the neighbour's flat. Its sound travels through the wall to you. Sound can travel through things, as well as through air.
 4. (mcq) Which sound can you hear from furthest away?  
    Options: A spoon tapped hard on a steel plate / Fingers rubbing together / A soft whisper  
    **Answer:** A spoon tapped hard on a steel plate. *Why:* A hard tap on steel makes a big sound to start with. It can spread out a long way and still be loud enough to hear.
 5. (mcq) Why is a far-away drum softer than a drum next to you?  
-   Options: Its sound has spread out more on the way / The far drum is broken / Far drums are always smaller  
+   Options: The far drum is broken / Its sound has spread out more on the way / Far drums are always smaller  
    **Answer:** Its sound has spread out more on the way. *Why:* A sound spreads out to every side as it travels. By the time it has come a long way, only a little of it reaches your ears.
 6. (mcq) A grown-up taps a tumbler in the middle of the room. Where can you hear it?  
-   Options: In front, behind, at the sides and round the door / Only in front / Only if you can see it  
+   Options: Only in front / In front, behind, at the sides and round the door / Only if you can see it  
    **Answer:** In front, behind, at the sides and round the door. *Why:* A sound spreads out to every side from its source. In All Around the Tumbler, the tap reached every spot.
 7. (mcq) What does a paper cone do to your voice?  
-   Options: It sends more of it one way / It makes it disappear / It sends it behind you  
+   Options: It makes it disappear / It sends more of it one way / It sends it behind you  
    **Answer:** It sends more of it one way. *Why:* The cone stops your voice spreading out to the sides. More of it goes out of the wide end, so people in front hear you better.
 8. (mcq) You see lightning, then hear thunder. Why does the thunder come later?  
-   Options: The sound takes time to travel to you / Thunder is made after the lightning / Your ears are slow  
+   Options: Thunder is made after the lightning / Your ears are slow / The sound takes time to travel to you  
    **Answer:** The sound takes time to travel to you. *Why:* Lightning and thunder are made at the same moment. The light reaches you almost at once. The sound takes longer to travel.
 9. (mcq) After a flash, you count to 2 before the thunder. Is the storm near or far?  
-   Options: Quite near / Very far away / You can't tell  
+   Options: Very far away / You can't tell / Quite near  
    **Answer:** Quite near. *Why:* A short count means the sound did not have far to travel. So the storm is quite near. A long count means it is far.
 10. (mcq) Why can you hear an ambulance siren from far away?  
    Options: It is a big sound to start with, so it can spread a long way and still be heard / The siren sends its sound only to your ears / Sound does not get softer when it travels  

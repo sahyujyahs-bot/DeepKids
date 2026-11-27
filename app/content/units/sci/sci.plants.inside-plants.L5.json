@@ -831,11 +831,11 @@
      "p": "Which tissue carries water up from the roots?",
      "opts": [
       "Phloem",
-      "Xylem",
       "Epidermis",
+      "Xylem",
       "Cambium"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Xylem carries water and minerals upward. Choosing phloem mixes up the two pipes: phloem carries sugar."
     },
     {
@@ -843,11 +843,11 @@
      "p": "Which pipes are made of living cells?",
      "opts": [
       "Xylem vessels",
-      "Sieve tubes in the phloem",
       "Both kinds",
-      "Neither kind"
+      "Neither kind",
+      "Sieve tubes in the phloem"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Sieve tubes are living cells. Xylem vessels are dead and empty when they work. Choosing 'both' is a fair guess, because we expect every part of a living plant to be alive."
     },
     {
@@ -948,11 +948,11 @@
      "p": "Where are the water pipes in a carrot root?",
      "opts": [
       "In a ring near the skin",
-      "In the core at the centre",
       "Scattered everywhere",
-      "A carrot has none"
+      "A carrot has none",
+      "In the core at the centre"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In a root the xylem is in the centre. In Pipe Maps the dye showed up in the carrot's pale core. A ring near the skin is the pattern of a stem.",
      "how": "e1"
     },
@@ -1004,12 +1004,12 @@
      "t": "mcq",
      "p": "A teak stump has one very narrow ring among wide ones. What is the most likely cause?",
      "opts": [
-      "A year with little rain",
       "A year with two summers",
+      "A year with little rain",
       "Someone painted the tree",
       "A bird nested in the tree"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A narrow ring means the tree grew little that year. In teak the usual cause is a poor monsoon. Insects or a fire can do it too."
     },
     {
@@ -1031,12 +1031,12 @@
      "t": "mcq",
      "p": "Why must a xylem cell die before carrying water?",
      "opts": [
-      "Dead cells weigh less",
       "An empty tube lets water through",
+      "Dead cells weigh less",
       "Dead cells make sugar",
       "To save food"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A living cell is full of contents that would block the flow. Only an empty tube lets water pass easily. The death is switched on by the cell's own genes."
     },
     {
@@ -1109,12 +1109,12 @@
      "t": "mcq",
      "p": "A stem bends in the wind. Where does strong tissue help it most?",
      "opts": [
-      "In the very centre",
       "Near the outside",
+      "In the very centre",
       "Only at the bottom",
       "Only in the leaves"
      ],
-     "a": 1,
+     "a": 0,
      "why": "When a rod bends, the outside is stretched and squeezed most. So strong tissue near the outside resists bending best. A root is pulled, not bent, so its strong tissue is in the centre."
     },
     {
@@ -1230,12 +1230,12 @@
      "t": "mcq",
      "p": "The early wood in a growth ring looks pale. Why?",
      "opts": [
-      "Its cells are wide, with thin walls",
       "Its cells are narrow, with thick walls",
       "It is full of sugar",
+      "Its cells are wide, with thin walls",
       "It has been dead for longer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Early in the season the tree makes wide pipes with thin walls, so there is more empty space and less wall. Late wood has narrow cells with thick walls, so it looks darker."
     }
    ]
@@ -1300,12 +1300,12 @@
      "t": "mcq",
      "p": "Why do scientists compare the rings of many trees before trusting a date?",
      "opts": [
-      "One tree can have false or missing rings",
       "Old trees are hard to find",
       "Rings fade in sunlight",
-      "Every tree has a different pattern"
+      "Every tree has a different pattern",
+      "One tree can have false or missing rings"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A single tree may skip a ring in a very bad year or add a false one. A pattern shared by many trees is far more trustworthy. Trees of one region share their pattern, which is what makes matching possible."
     },
     {
@@ -1364,12 +1364,12 @@
      "t": "mcq",
      "p": "Why could the first land plants, without xylem, not grow tall?",
      "opts": [
-      "They could not lift water or stand stiff",
       "There was not enough sunlight",
       "The air had no carbon dioxide",
+      "They could not lift water or stand stiff",
       "They had no seeds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Without stiff pipes, water must soak slowly from cell to cell, and nothing hard holds the plant up. Xylem solved both problems at once."
     },
     {
@@ -1664,11 +1664,11 @@
       "q": "In Pipe Maps, a stem that stood in dye showed a ring of dots. What is each dot?",
       "options": [
        "A drop of dye that soaked in from the side",
-       "The cut end of a bundle of water pipes",
        "A seed starting to form",
-       "A hole made by an insect"
+       "A hole made by an insect",
+       "The cut end of a bundle of water pipes"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Each dot is the cut end of a vascular bundle, and the dye stains its xylem pipes. Choosing 'soaked in from the side' forgets that the cut was made above the water line. Cutting the stem along its length shows the dots are long lines."
      },
      "context": "This is the last step of Pipe Maps. Here you say what the three dye patterns were, and think about why they differ."
@@ -1947,11 +1947,11 @@
       "t": "mcq",
       "q": "Banana strings, orange threads and leaf stalk strings all run the same way. Which way?",
       "options": [
-       "Round the fruit or stalk in rings",
        "Lengthwise, from the stalk end outward",
+       "Round the fruit or stalk in rings",
        "In no pattern at all"
       ],
-      "a": 1,
+      "a": 0,
       "why": "They all run lengthwise from where the part joins the plant. That fits pipes that carry water and food in from the plant. Rings would fit a wrapping, not a pipe."
      },
      "context": "This is the last step of String Hunt. Here you compare strings from a banana, an orange and a leaf stalk."
@@ -2042,12 +2042,12 @@
       "t": "mcq",
       "q": "In a carrot, the cambium is the thin line between the core and the outer ring. What lies inside that line?",
       "options": [
-       "Phloem",
        "Xylem",
+       "Phloem",
        "Bark",
        "Skin"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The cambium makes xylem on its inner side and phloem on its outer side, in a carrot as in a tree trunk. So the core is xylem. Choosing phloem mixes up the two sides."
      },
      "context": "This is the last step of the Sweet Ring. Here you count which part of the carrot tasted sweeter and learn which tissue is which."
@@ -2138,11 +2138,11 @@
       "t": "mcq",
       "q": "A coconut leaf has straight veins lying side by side. How are the pipe bundles arranged in a coconut trunk?",
       "options": [
-       "In one ring under the bark",
        "Scattered all through the trunk",
+       "In one ring under the bark",
        "Only in the very centre"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Coconut is a monocot, like grass, maize and sugarcane. Monocots have bundles scattered through the stem. A single ring under the bark is the pattern of mango, neem and most other broad-leaved trees."
      },
      "context": "This is the last step of Ring or Scatter. Here you link the pattern of pipes in a stem to the pattern of veins in a leaf."
@@ -2310,11 +2310,11 @@
       "q": "Why does a teak tree make one clear ring each year?",
       "options": [
        "Teak is very hard wood",
-       "Teak stops growing in the dry season",
        "Teak grows near villages",
+       "Teak stops growing in the dry season",
        "Teak is planted in rows"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A ring shows where growth stopped and started again. Teak drops their leaves and rests in the dry season, once a year. A tree that never stops growing leaves no clear line. Hardness has nothing to do with it."
      },
      "context": "This is the last step of Read a Tree's Diary. Here you think about which trees keep a diary in rings and which do not."
@@ -2395,11 +2395,11 @@
       "t": "mcq",
       "q": "A nail is hammered into a trunk 1 metre above the ground. Ten years later the tree is twice as tall. How high is the nail?",
       "options": [
-       "2 metres",
        "Still 1 metre",
+       "2 metres",
        "Half a metre"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A tree grows taller only at the tips of the shoots. The trunk below does not stretch, so the nail stays at 1 metre. Choosing 2 metres means thinking the whole trunk stretches, as a child's leg does."
      },
      "context": "This is the last step of Wood Hunt. Here you think about where a tree grows, using a puzzle about a nail."
@@ -2493,12 +2493,12 @@
       "t": "mcq",
       "q": "Why does a xylem pipe need walls hardened with lignin?",
       "options": [
-       "To make the water sweet",
        "To stop the pull on the water squashing the pipe",
+       "To make the water sweet",
        "To keep sunlight out",
        "To make the pipe heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water in the xylem is pulled from above. That pull would flatten a soft pipe, as a paper straw flattens when you suck hard. Lignin keeps the pipe open and also helps hold the plant up."
      },
      "context": "This is the last step of Build the Two Pipes. Here you pour rice through paper models of xylem and phloem and compare them."
@@ -2638,11 +2638,11 @@
       "q": "In gootee, a ring of bark is removed from a branch. Why do roots grow at the upper edge of the ring?",
       "options": [
        "Water collects there",
-       "Sugar coming down the phloem collects there",
        "The upper edge gets more light",
+       "Sugar coming down the phloem collects there",
        "Roots always grow upward"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The phloem in the bark is cut, so sugar from the leaves cannot pass and collects above the ring. That food feeds new roots. Water is not blocked, because it travels in the wood."
      },
      "context": "This is the last day of the Gootee project. A branch that grew roots above a ring of removed bark is cut off and planted."
@@ -2819,10 +2819,10 @@
       "q": "In a real young stem, which tissue both carries water and helps hold the stem up?",
       "options": [
        "Phloem",
-       "Xylem",
-       "Epidermis"
+       "Epidermis",
+       "Xylem"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Xylem pipes have hard walls full of lignin. They carry water, and their stiffness helps hold the stem up. Phloem is soft, and the epidermis is a thin skin."
      },
      "context": "This is the last step of Build a Working Stem. Here you improve your model stem and name the tissue each part stands for."
@@ -2901,12 +2901,12 @@
    "t": "mcq",
    "p": "The cut face of a stem shows bundles scattered all over it. Which plant is this most likely to be?",
    "opts": [
-    "Maize",
     "Mango",
+    "Maize",
     "Tulsi",
     "Hibiscus"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Maize is a grass, and grasses are monocots with scattered bundles. Mango, tulsi and hibiscus have their bundles in a ring.",
    "outcome": 2
   },
@@ -2927,12 +2927,12 @@
    "t": "mcq",
    "p": "A bare teak tree starts growing new leaves. Where does the food to build them come from?",
    "opts": [
-    "From the soil",
     "From stores in the trunk and roots",
+    "From the soil",
     "From the air",
     "From rain water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "With no leaves, nothing is making sugar. The stores in the trunk and roots become sources, and the phloem carries their food up to the buds.",
    "outcome": 3
   },
@@ -2940,12 +2940,12 @@
    "t": "mcq",
    "p": "A wire has been tight round a trunk for years. The leaves are green, but the tree is weakening. Why?",
    "opts": [
-    "Water cannot rise",
     "Sugar cannot reach the roots",
+    "Water cannot rise",
     "The wire poisons the tree",
     "The leaves get too much sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The wire chokes the phloem in the inner bark, so sugar cannot get down to the roots. Water still rises in the wood, which is why the leaves stay green.",
    "outcome": 4
   },
@@ -2979,12 +2979,12 @@
    "t": "mcq",
    "p": "Why can ring counting fail for a tree in a forest that is warm and wet all year?",
    "opts": [
-    "Growth never stops, so no clear lines form",
     "The wood is too hard to cut",
     "Such trees have no xylem",
-    "The rings are too wide to see"
+    "The rings are too wide to see",
+    "Growth never stops, so no clear lines form"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A ring line forms where growth stops and starts again. A tree that grows all year may leave no clear line to count.",
    "outcome": 5
   },
@@ -2992,12 +2992,12 @@
    "t": "mcq",
    "p": "In a dye test, why do we cut the stem above the level of the coloured water?",
    "opts": [
-    "To see only colour that travelled up inside",
     "The stem is softer there",
     "To save dye",
-    "The cut looks neater"
+    "The cut looks neater",
+    "To see only colour that travelled up inside"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Below the water line, colour may have soaked in from the side. Above it, any colour must have been carried up inside the stem. This keeps the evidence clean.",
    "outcome": 6,
    "how": "e1"

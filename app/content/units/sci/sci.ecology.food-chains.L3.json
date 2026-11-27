@@ -1069,11 +1069,11 @@
       "t": "mcq",
       "q": "If all the frogs disappeared from a rice field, what would most likely happen to the grasshoppers?",
       "options": [
-       "They would increase, because fewer animals eat them",
        "They would all die too",
-       "Nothing would change"
+       "Nothing would change",
+       "They would increase, because fewer animals eat them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Frogs eat grasshoppers. With no frogs, fewer grasshoppers are eaten, so their numbers usually go up. Then they may eat more of the rice. Picking 'they would all die' usually means thinking that if one animal goes, everything in their chain goes. But the grasshopper did not need the frog. The frog needed the grasshopper."
      },
      "think": "Which card, if you pulled it out, would break the most arrows? Is that the most important living thing in the web?",
@@ -1232,11 +1232,11 @@
       "t": "mcq",
       "q": "In the game, what usually happens a few rounds after the deer become very many?",
       "options": [
-       "The tigers increase, then the deer fall",
        "The tigers all starve",
-       "The deer keep growing for ever"
+       "The deer keep growing for ever",
+       "The tigers increase, then the deer fall"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With lots of deer, each dropped tiger lands on more of them. So the tigers eat well, survive and have cubs. More tigers then eat more deer, and the deer fall. Picking 'the tigers all starve' mixes up the order: tigers starve when deer are few, not when they are many. The deer cannot grow for ever, because the forest only has grass for 40."
      },
      "think": "Real scientists found this same pattern in 100 years of fur-trade records of lynx and hares in Canada. How do you think they counted wild animals so long ago?",
@@ -1272,11 +1272,11 @@
      "p": "Which of these is a producer?",
      "opts": [
       "A cow",
-      "A mango tree",
       "A mushroom",
-      "A tiger"
+      "A tiger",
+      "A mango tree"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A mango tree makes their own food from sunlight, air and water, so the tree is a producer. Picking the mushroom is a common mix-up, because mushrooms grow from the ground like plants. But a mushroom cannot make food from light. They eat dead things, so they are a decomposer."
     },
     {
@@ -1391,12 +1391,12 @@
      "t": "mcq",
      "p": "Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?",
      "opts": [
+      "Sugar and chapati came from plants and carry food energy. Salt has none.",
       "Ants cannot see salt",
       "Ants only like white things",
-      "Salt is too heavy for ants",
-      "Sugar and chapati came from plants and carry food energy. Salt has none."
+      "Salt is too heavy for ants"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.",
      "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
      "chart": {
@@ -1433,12 +1433,12 @@
      "t": "mcq",
      "p": "In the ant test, why did we put one square with nothing on it?",
      "opts": [
-      "To see how many ants walk onto a square just by chance",
       "To make the test harder",
+      "To see how many ants walk onto a square just by chance",
       "To give the ants a rest",
       "Because we ran out of food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The empty square shows how many ants arrive by accident. If the sugar square has many more than the empty one, we know the sugar attracted them. Picking 'to give the ants a rest' is a kind idea, but it would not help us learn anything.",
      "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
      "how": "e1"
@@ -1486,11 +1486,11 @@
      "p": "Look at the chart. The grass in a field holds 1,000 units of food energy. About how much reaches the frogs?",
      "opts": [
       "About 1,000 units",
+      "About 10 units",
       "About 500 units",
-      "About 250 units",
-      "About 10 units"
+      "About 250 units"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Only about a tenth passes on at each step. 1,000 becomes 100 for the grasshoppers, then 10 for the frogs. Picking 250 usually means sharing the energy equally among four animals. But each animal only gets what the one before did not use up.",
      "context": "This chart shows a field food chain: grass, grasshoppers, frogs, snakes. At each step, only about one tenth of the food energy passes on.",
      "chart": {
@@ -1536,11 +1536,11 @@
      "p": "Where does most of the food energy go at each step of a food chain?",
      "opts": [
       "It goes back into the Sun",
-      "It is used for living, and ends up as heat",
       "It is passed on to the next animal",
-      "It is stored for ever in the animal's bones"
+      "It is stored for ever in the animal's bones",
+      "It is used for living, and ends up as heat"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Animals use most of their food to move, breathe, grow and stay warm. That energy leaves as heat. Picking 'passed on' is the mistake this question checks for: only a small part is passed on.",
      "how": "a3",
      "context": "In Run and Feel the Warmth, you ran on the spot for one minute and felt yourself get hot."
@@ -1585,11 +1585,11 @@
      "p": "Posters once told people that sparrows only eat rice, so the sparrows were chased away until most died. The next year, insects ate far more of the rice. What had the posters missed?",
      "opts": [
       "Sparrows eat only grass",
-      "Sparrows also eat caterpillars and other insects that eat rice",
       "Sparrows never eat anything",
+      "Sparrows also eat caterpillars and other insects that eat rice",
       "Sparrows eat cats"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Sparrows feed caterpillars and other insects to their chicks. So sparrows are part of a web. They eat some rice, but they also eat the insects that eat rice. Take the sparrows away, and the insects eat in peace.",
      "context": "Sparrows eat some grain, but they also catch insects to feed their chicks."
     },
@@ -1634,12 +1634,12 @@
      "t": "mcq",
      "p": "Look at the chart. Which plant was eaten most?",
      "opts": [
-      "Hibiscus",
       "Tulsi",
       "Grass",
+      "Hibiscus",
       "They were all the same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The hibiscus had 9 bitten leaves out of 20, more than the grass (5) or the tulsi (2). Picking tulsi usually means reading the shortest bar as the 'winner'. Here, the tallest bar means the most bites.",
      "context": "In the Leaf Bite Survey, you look at 20 leaves on each of three plants and count how many have bites or holes.",
      "chart": {
@@ -1671,12 +1671,12 @@
      "t": "mcq",
      "p": "In the Leaf Bite Survey, why do we look at exactly 20 leaves on each plant?",
      "opts": [
-      "So the test is fair, and we can compare the plants",
       "Because 20 is a lucky number",
       "So we finish quickly",
-      "Because plants have only 20 leaves"
+      "Because plants have only 20 leaves",
+      "So the test is fair, and we can compare the plants"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Suppose we looked at 50 leaves on one plant and 10 on another. The first would seem to have more bites, just because we looked more. Using the same number makes it fair. Picking 'so we finish quickly' is true but not the reason.",
      "context": "In the Leaf Bite Survey, you look at 20 leaves on each of three plants and count how many have bites or holes.",
      "how": "e2"
@@ -1687,10 +1687,10 @@
      "opts": [
       "The shore would have more kinds of living things than before",
       "Nothing would change",
-      "The starfish would grow back the next day",
-      "Mussels would take over the rocks, and fewer kinds of living things could live there"
+      "Mussels would take over the rocks, and fewer kinds of living things could live there",
+      "The starfish would grow back the next day"
      ],
-     "a": 3,
+     "a": 2,
      "why": "Without starfish, nothing keeps the mussels in check. They cover the rocks and crowd out other living things. Picking 'more kinds' is a natural guess, since one predator is gone. But that predator kept the mussels from taking over.",
      "context": "Starfish are hunters on rocky shores. Mussels are shellfish that cling to the rocks and crowd together."
     },
@@ -1814,12 +1814,12 @@
      "t": "mcq",
      "p": "What happens to the carbon atoms in a leaf that a goat eats?",
      "opts": [
+      "They become part of the goat, or are breathed out into the air",
       "They turn into energy and disappear",
       "They go back into the Sun",
-      "They are destroyed inside the goat",
-      "They become part of the goat, or are breathed out into the air"
+      "They are destroyed inside the goat"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Atoms are never destroyed. The goat builds some into their body and breathes some out. Picking 'turn into energy and disappear' mixes up atoms with energy. Energy is used up as heat. Atoms go round and round.",
      "how": "a6",
      "context": "In Journey of a Carbon Atom, you rolled a dice to move one carbon atom between the air, a leaf, a goat, a tiger, the soil and a mushroom."
@@ -1836,12 +1836,12 @@
      "t": "mcq",
      "p": "In the Deer and Tiger Toss game, which usually comes first?",
      "opts": [
+      "The most deer, then the most tigers",
       "Neither, the numbers never change",
       "The most tigers, then the most deer",
-      "Both at exactly the same time",
-      "The most deer, then the most tigers"
+      "Both at exactly the same time"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The tigers can only increase once there are many deer to eat. So the deer peak first, and the tigers a few rounds later. Picking 'the most tigers first' would mean tigers grow without food.",
      "context": "In the Deer and Tiger Toss game, card tigers are dropped onto paper deer. Tigers that catch enough deer survive and have cubs. The deer that are left have babies.",
      "how": "g2"
@@ -1892,12 +1892,12 @@
      "t": "mcq",
      "p": "Which web is likely to be harder to break?",
      "opts": [
-      "A web where each animal eats many different things",
       "They are all equally hard to break",
       "A web where each animal eats only one thing",
-      "A web with only two living things"
+      "A web with only two living things",
+      "A web where each animal eats many different things"
      ],
-     "a": 0,
+     "a": 3,
      "why": "If an animal has many foods, losing one food is not a disaster. Picking 'only one thing' is the opposite: then losing one food means starving. Scientists still argue about very big, complicated webs, but this simple idea holds well."
     },
     {
@@ -1932,12 +1932,12 @@
      "t": "mcq",
      "p": "Some places put gambusia fish in ponds to eat mosquito larvae. Later, the fish also ate the eggs of local fish and frogs. What does this show?",
      "opts": [
-      "Frogs eat gambusia",
       "Adding an animal to a web can change more than you planned",
+      "Frogs eat gambusia",
       "Mosquitoes are not in food webs",
       "Fish never eat mosquito larvae"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat."
     },
     {
@@ -2444,11 +2444,11 @@
       "t": "mcq",
       "q": "A gecko eats a moth by the light. When the moth was a caterpillar, they ate leaves. Which is the full food chain?",
       "options": [
-       "Leaves → moth → gecko",
        "Light → moth → gecko",
-       "Gecko → moth → leaves"
+       "Gecko → moth → leaves",
+       "Leaves → moth → gecko"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Food chains start with the producer, the plant that made the food. The moth's body was built from leaves they ate as a caterpillar. The gecko eats the moth. Picking 'light' is a clever mistake: the light brought the moth there, but the light is not food. The moth's energy came from leaves, and the leaves' energy came from the Sun."
      }
     }
@@ -2540,10 +2540,10 @@
       "t": "mcq",
       "q": "A crow eats a caterpillar. The caterpillar ate a mango leaf. Which way does the first arrow point?",
       "options": [
-       "From the mango leaf to the caterpillar",
-       "From the caterpillar to the mango leaf"
+       "From the caterpillar to the mango leaf",
+       "From the mango leaf to the caterpillar"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The arrow points from the food to the eater. The food goes out of the leaf and into the caterpillar, so the arrow goes from the leaf to the caterpillar. Picking the other way usually means the arrow was drawn like a finger pointing at the food. In a food chain, it points to the mouth."
      }
     },
@@ -2631,11 +2631,11 @@
       "t": "mcq",
       "q": "The field started with 100 grains of food. How much reached the snake?",
       "options": [
-       "One tiny crumb, a tenth of one grain",
        "100 grains",
+       "One tiny crumb, a tenth of one grain",
        "About 25 grains, a quarter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At each step, only about a tenth passes on. 100 becomes 10, 10 becomes 1, and 1 becomes one tenth of a grain. The rest was used for living: growing, moving, breathing, keeping warm. Picking 'about a quarter' usually means sharing the food out equally among the four. But food is not shared out. Each eater gets only what the one before them did not use up."
      }
     },
@@ -2703,11 +2703,11 @@
       "t": "mcq",
       "q": "After running, you feel hot. Where did that heat come from?",
       "options": [
-       "From the energy in the food you ate",
        "From the sunshine on your skin",
-       "From the floor"
+       "From the floor",
+       "From the energy in the food you ate"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your muscles used energy from your food to move you. Most of that energy became heat, which is why you got hot. The heat then leaves your skin and warms the air a little. Picking 'sunshine' is a sensible guess on a sunny day. But you get hot running indoors too, because the heat is made inside you."
      }
     },
@@ -2791,11 +2791,11 @@
       "t": "mcq",
       "q": "In the wool web, the grass let go. Which living thing felt it, even though they never eat grass?",
       "options": [
-       "The tiger, because the deer they eat needed the grass",
        "Nobody, because only grass-eaters are affected",
-       "Only the Sun"
+       "Only the Sun",
+       "The tiger, because the deer they eat needed the grass"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The tiger eats deer, and deer eat grass. When the grass goes, the deer go hungry, and then the tiger does too. In a web, a change travels along the threads to animals far away. Picking 'only grass-eaters' means looking at one link instead of the whole web."
      }
     },
@@ -2872,11 +2872,11 @@
       "t": "mcq",
       "q": "Each plankton had 1 red dot. How many dots did the osprey end up with?",
       "options": [
-       "40 dots, all of them",
        "1 dot",
-       "5 dots"
+       "5 dots",
+       "40 dots, all of them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each small fish ate 5 plankton, so they had 5 dots. Each big fish ate 4 small fish, so they had 20 dots. The osprey ate both big fish, so they had 40 dots. The poison stayed in each body and was passed up. Picking '1 dot' means thinking the bird only gets as much as one plankton. But the bird ate everything the fish ate."
      }
     },
@@ -2967,11 +2967,11 @@
       "t": "mcq",
       "q": "What happens to the carbon atoms in a tiger's body after the tiger dies?",
       "options": [
-       "Decomposers break the body down, and the atoms go back to the soil and air",
        "They disappear for ever",
-       "They stay in the bones for ever"
+       "They stay in the bones for ever",
+       "Decomposers break the body down, and the atoms go back to the soil and air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Atoms are never destroyed. Beetles, fungi and bacteria eat the tiger's body. They breathe out some of the tiger's carbon into the air, and some goes into the soil. A plant can then use that carbon again. Picking 'disappear' mixes up atoms with energy. Energy is used up as heat. Atoms are not."
      }
     }
@@ -3162,11 +3162,11 @@
       "t": "mcq",
       "q": "Why are poison sprays not the best way to stop mosquitoes?",
       "options": [
-       "They also kill the frogs, fish and dragonflies that eat mosquitoes",
        "Mosquitoes like the smell",
-       "They make the water deeper"
+       "They make the water deeper",
+       "They also kill the frogs, fish and dragonflies that eat mosquitoes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sprays kill many insects and can harm frogs and fish. That takes away the mosquito's predators. Mosquitoes breed fast, so they can come back before their predators do. Picking 'mosquitoes like the smell' is a guess with no evidence. The real problem is what the spray does to the rest of the web."
      }
     },
@@ -3314,11 +3314,11 @@
    "p": "One link is missing from this food chain: ____ → grasshopper → garden lizard → crow. What should go at the start?",
    "opts": [
     "A tiger",
-    "Grass",
     "Sunlight",
+    "Grass",
     "A stone"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every food chain starts with a producer, a plant. The grasshopper eats the grass. Picking 'sunlight' is a clever guess, because sunlight feeds the plant. But sunlight is not a living thing, so it is not a link in the chain.",
    "outcome": 0
   },
@@ -3340,10 +3340,10 @@
    "p": "Which is a correct food chain?",
    "opts": [
     "Kingfisher → small fish → mosquito larva → algae",
-    "Small fish → algae → kingfisher → mosquito larva",
-    "Algae → mosquito larva → small fish → kingfisher"
+    "Algae → mosquito larva → small fish → kingfisher",
+    "Small fish → algae → kingfisher → mosquito larva"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The chain starts with the producer, algae, and each arrow points to the eater. Picking the chain that starts with the kingfisher means the chain is in reverse, with the arrows pointing at the food.",
    "outcome": 0
   },
@@ -3352,10 +3352,10 @@
    "p": "A mongoose eats snakes, eggs, insects and fruit. What is the mongoose?",
    "opts": [
     "A producer",
-    "A herbivore",
-    "An omnivore"
+    "An omnivore",
+    "A herbivore"
    ],
-   "a": 2,
+   "a": 1,
    "why": "An omnivore eats both plants and animals. The fruit is from a plant. The snakes, eggs and insects come from animals. Picking 'herbivore' counts only the fruit.",
    "outcome": 1
   },
@@ -3375,11 +3375,11 @@
    "t": "mcq",
    "p": "In a pond, kingfishers eat small fish, and small fish eat mosquito larvae. If all the kingfishers left, what would most likely happen first?",
    "opts": [
+    "The small fish would increase",
     "The mosquito larvae would increase",
-    "The pond plants would die",
-    "The small fish would increase"
+    "The pond plants would die"
    ],
-   "a": 2,
+   "a": 0,
    "why": "With no kingfishers eating them, more small fish survive. Later, with more small fish, fewer mosquito larvae would be left. Picking 'larvae increase' skips a step in the web.",
    "outcome": 2
   },
@@ -3387,11 +3387,11 @@
    "t": "mcq",
    "p": "A bulbul eats figs, insects and flower nectar. One year the fig tree nearby has no fruit. Why does the bulbul not starve?",
    "opts": [
+    "The bulbul is part of a food web, so they can eat insects and nectar instead",
     "Bulbuls do not need food",
-    "Another bird brings figs",
-    "The bulbul is part of a food web, so they can eat insects and nectar instead"
+    "Another bird brings figs"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Most animals eat many kinds of food. In a web, losing one food is not a disaster. If the bulbul ate only figs, they would be in trouble.",
    "outcome": 2
   },
@@ -3415,10 +3415,10 @@
    "p": "A family can eat rice grown on a field. Or they can feed that rice to chickens and eat the chickens. Which way feeds more people from the same field?",
    "opts": [
     "Both feed exactly the same number",
-    "Eating the rice",
-    "Eating the chickens"
+    "Eating the chickens",
+    "Eating the rice"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The chickens use most of the rice's energy for living. Only about a tenth reaches the people. So eating the rice itself feeds many more people. Picking 'the same' forgets the energy lost at each step.",
    "outcome": 3
   },
@@ -3426,11 +3426,11 @@
    "t": "mcq",
    "p": "In the ant test, why did we put all four squares at the same distance from the ants' trail?",
    "opts": [
-    "Because ants cannot walk far",
     "So the only difference between the squares was the food",
+    "Because ants cannot walk far",
     "So the squares looked neat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "If one square were closer, more ants might reach it just because it was near. Keeping the distance the same means the food is the only thing that changes. That makes the test fair.",
    "outcome": 4,
    "context": "In the ant test, you put four paper squares near some ants: one with sugar, one with salt, one with a piece of chapati, and one with nothing. Then you count the ants on each.",
@@ -3440,11 +3440,11 @@
    "t": "mcq",
    "p": "In the Leaf Bite Survey, the hibiscus had 9 bitten leaves out of 20, the grass had 5 and the tulsi had 2. What is a good way to compare them at a glance?",
    "opts": [
-    "A bar chart with one bar for each plant",
     "A drawing of one leaf",
-    "Writing the numbers in one long sentence"
+    "Writing the numbers in one long sentence",
+    "A bar chart with one bar for each plant"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bar chart puts the three numbers side by side. The tallest bar shows the plant eaten most. A table works well too.",
    "outcome": 4,
    "context": "In the Leaf Bite Survey, you look at 20 leaves on each of three plants and count how many have bites or holes.",
@@ -3455,10 +3455,10 @@
    "p": "In Poison Climbs the Chain, each plankton had 1 red dot. The osprey, a fish-eating bird, ended up with 40. Why did the osprey get so many?",
    "opts": [
     "The dots grew on their own",
-    "Ospreys make poison",
-    "The osprey ate many fish, and each fish had eaten many plankton"
+    "The osprey ate many fish, and each fish had eaten many plankton",
+    "Ospreys make poison"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Each eater keeps the poison from everything they ate. So it builds up at every step, and the top eater holds the most. This is called biomagnification.",
    "outcome": 5,
    "how": "a5",
@@ -3505,11 +3505,11 @@
    "t": "mcq",
    "p": "A poison kills most of the frogs in a paddy field. What will most likely happen next?",
    "opts": [
-    "The insects and mosquitoes will multiply",
     "The rice plants will grow faster",
+    "The insects and mosquitoes will multiply",
     "The insects will become fewer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Frogs eat insects and mosquitoes. With the frogs gone, nothing keeps them down, so they multiply. The rice and the people then suffer. Picking 'fewer insects' forgets that the frogs were the hunters.",
    "outcome": 2
   },
@@ -3517,11 +3517,11 @@
    "t": "mcq",
    "p": "There is little grass in a forest in a dry year. What will most likely follow?",
    "opts": [
-    "The forest can feed fewer deer, and later fewer tigers",
     "The forest will have more deer, because they eat less",
+    "The forest can feed fewer deer, and later fewer tigers",
     "Nothing will change, because tigers do not eat grass"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The deer eat the grass, so less grass means fewer deer fed. Tigers then have less prey. Picking 'nothing will change' forgets that a food chain is joined from bottom to top.",
    "outcome": 3
   },
@@ -3529,11 +3529,11 @@
    "t": "mcq",
    "p": "Why do the deer in a forest with tigers not keep growing in number for ever?",
    "opts": [
-    "Tigers eat some of them, and the food is limited",
     "Deer stop having young when they see a tiger",
-    "Tigers only eat plants and leaves"
+    "Tigers only eat plants and leaves",
+    "Tigers eat some of them, and the food is limited"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tigers hunt deer, and grass is limited, so both keep deer numbers down. When deer are few, tigers go hungry and become fewer too. They keep each other's numbers in check.",
    "outcome": 6
   }

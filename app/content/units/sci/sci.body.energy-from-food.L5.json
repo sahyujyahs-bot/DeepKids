@@ -695,11 +695,11 @@
       "t": "mcq",
       "q": "Could a body do only anabolism, building up, and no catabolism at all?",
       "options": [
-       "No, because building needs energy from breaking down",
        "Yes, if the body ate enough food",
-       "Yes, but only while asleep"
+       "Yes, but only while asleep",
+       "No, because building needs energy from breaking down"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Every join costs ATP, and ATP is loaded by breaking molecules down. Choosing 'if it ate enough' forgets that food gives no energy until it is broken down. Plants are a special case: light loads their ATP by day, and they still break sugar down as well."
      },
      "context": "This is the last step of Break or Build? Here you look at how the two piles depend on each other."
@@ -836,10 +836,10 @@
       "q": "In Budget Day, a player with an empty BLOOD box and an empty STORE must pay from BODY. What does this copy?",
       "options": [
        "A body that stops needing energy",
-       "A starving body breaks down its own muscle",
-       "A body turning heat back into food"
+       "A body turning heat back into food",
+       "A starving body breaks down its own muscle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The cost of staying alive must always be paid. When food and stores run out, the body breaks down its own protein for fuel. Choosing 'stops needing energy' is the mistake the game is built to show: a living body never stops needing energy."
      },
      "context": "This is the last step of Budget Day. Here you look at where the energy ended up."
@@ -1047,11 +1047,11 @@
       "t": "mcq",
       "q": "Bottle A had yeast and warm water but no food, and its balloon stayed flat. What does that show?",
       "options": [
-       "The gas comes from yeast breaking down food",
        "The yeast in bottle A were dead",
-       "Warm water alone makes the gas"
+       "Warm water alone makes the gas",
+       "The gas comes from yeast breaking down food"
       ],
-      "a": 0,
+      "a": 2,
       "why": "All four bottles had the same living yeast and the same warm water. Only the bottles with a food the yeast could break down made gas. Choosing 'warm water' forgets that bottle A had warm water too."
      },
      "think": "Sugar might give off gas in warm water without any yeast. What fifth bottle would you add to check that?",
@@ -1509,10 +1509,10 @@
       "q": "Children put on weight most slowly at about four to five years old. What does the bean count suggest?",
       "options": [
        "Children eat nothing at that age",
-       "The brain is using much of the energy then",
-       "Muscles use most of the energy then"
+       "Muscles use most of the energy then",
+       "The brain is using much of the energy then"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A study in 2014 found that body growth is slowest at the ages when the brain uses the most glucose. Energy spent in one place cannot be spent in another. Choosing 'muscles' forgets that resting muscle uses little."
      },
      "parent": "The study is by Christopher Kuzawa and colleagues. It shows that the two things happen at the same ages. It does not prove that one causes the other.",
@@ -1736,11 +1736,11 @@
       "t": "mcq",
       "q": "A moong seedling grows 8 centimetres in the dark. Scientists dry and weigh such seedlings. What do they find?",
       "options": [
-       "The dry seedling weighs less than the dry seed",
        "The dry seedling weighs much more than the dry seed",
+       "The dry seedling weighs less than the dry seed",
        "The weight is exactly the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The seedling is bigger, but most of the extra size is water. Part of the stored food was broken down for energy, and its carbon left as carbon dioxide. Choosing 'much more' is natural, but without light the seedling has taken in no new food."
      },
      "parent": "This is catabolism and anabolism in one small body. The seedling breaks down the stored starch and protein. Some of it is used for energy, and some is rebuilt into roots and stems. You can plant the seedlings in a pot afterwards, and they will turn green in the light.",
@@ -1830,11 +1830,11 @@
       "t": "mcq",
       "q": "A sparrow fluffs up their feathers on a cold morning. How does this save food?",
       "options": [
+       "Less heat leaves, so less fuel is needed",
        "The feathers make extra heat",
-       "Fluffing stops the sparrow feeling hungry",
-       "Less heat leaves, so less fuel is needed"
+       "Fluffing stops the sparrow feeling hungry"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Fluffed feathers hold a thicker layer of still air, which slows the heat leaving the body. The body then needs to break down less fuel to stay warm. Choosing 'the feathers make heat' is the blanket mistake: feathers make no heat."
      },
      "context": "This is the last step of Hold It at 37. Here you build and test your own design."
@@ -2009,13 +2009,13 @@
      "t": "mcq",
      "p": "A tumbler of warm water goes cool in an hour, and you do not. Why?",
      "opts": [
-      "Your cells keep making heat from food",
       "Your skin stops all heat leaving",
+      "Your cells keep making heat from food",
       "The room heats you but not the water",
       "Water cannot hold heat"
      ],
      "how": "a1",
-     "a": 0,
+     "a": 1,
      "why": "You lose heat to the room all the time, just as the water does. Your cells replace it by breaking down food. Choosing 'skin stops heat' is the blanket mistake: skin only slows the heat.",
      "outcome": 2
     },
@@ -2061,13 +2061,13 @@
      "t": "mcq",
      "p": "Which gas filled the balloons in the Yeast Fuel Test?",
      "opts": [
+      "Carbon dioxide",
       "Oxygen",
       "Steam",
-      "Ordinary air from the room",
-      "Carbon dioxide"
+      "Ordinary air from the room"
      ],
      "how": "e1",
-     "a": 3,
+     "a": 0,
      "why": "Yeast give off carbon dioxide when they break sugar down. Choosing 'oxygen' mixes yeast up with a plant in sunlight, which gives off oxygen.",
      "outcome": 6
     },
@@ -2103,11 +2103,11 @@
      "p": "Where does the body keep its large, long-lasting store of energy?",
      "opts": [
       "In the blood",
+      "In body fat",
       "In the stomach",
-      "In the bones",
-      "In body fat"
+      "In the bones"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Fat holds the most energy for each gram. Glycogen in the liver and muscles is a smaller, quicker store. The blood carries only a little fuel at any moment.",
      "outcome": 4
     },
@@ -2172,12 +2172,12 @@
      "t": "mcq",
      "p": "After a meal, where do most of the atoms of the fuel your cells burned end up?",
      "opts": [
+      "In the air, as carbon dioxide you breathed out",
       "In the toilet",
       "They turn into energy",
-      "In the air, as carbon dioxide you breathed out",
       "They stay in the stomach"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The carbon atoms leave as carbon dioxide in your breath, and the hydrogen atoms leave in water. Choosing 'turn into energy' is a common mistake: atoms are not turned into energy in a body.",
      "outcome": 5
     },
@@ -2201,11 +2201,11 @@
      "p": "Why does the liver break down glycogen at night?",
      "opts": [
       "To make you sleepy",
-      "To keep glucose in the blood while you are not eating",
       "To cool the body",
-      "To store more fat"
+      "To store more fat",
+      "To keep glucose in the blood while you are not eating"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Your brain needs glucose all night, and you are not eating. The liver lets glucose out of its glycogen store to keep the blood level steady.",
      "outcome": 4
     },
@@ -2241,11 +2241,11 @@
      "p": "Which meal costs the body the most energy to digest and store, for the same energy eaten?",
      "opts": [
       "One rich in fat",
-      "One rich in protein",
       "One rich in sugar",
-      "They all cost the same"
+      "They all cost the same",
+      "One rich in protein"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Protein costs the most to handle, carbohydrate less, and fat the least. Choosing 'the same' is reasonable if you have not met the thermic effect of food.",
      "outcome": 2
     },
@@ -2319,12 +2319,12 @@
      "t": "mcq",
      "p": "A person's body uses up 10 kilograms of stored fat. About how much of it leaves through the lungs?",
      "opts": [
-      "About 8 kilograms",
       "About 1 kilogram",
       "None of it",
-      "All 10 kilograms"
+      "All 10 kilograms",
+      "About 8 kilograms"
      ],
-     "a": 0,
+     "a": 3,
      "why": "About 8.4 kilograms leave as carbon dioxide, and the other 1.6 kilograms leave as water. The carbon atoms of the fat are breathed out.",
      "outcome": 5
     },
@@ -2376,11 +2376,11 @@
      "p": "Yeast, rice plants and people all break glucose down by the same first ten steps. What is the best explanation?",
      "opts": [
       "It is a coincidence",
+      "They share an ancestor who had those steps",
       "They copied the steps from each other",
-      "It is the only way sugar can ever break",
-      "They share an ancestor who had those steps"
+      "It is the only way sugar can ever break"
      ],
-     "a": 3,
+     "a": 1,
      "why": "The matching steps and matching enzymes are evidence that all three come from one early ancestor. Choosing 'the only way' is a fair thought, but some microbes break glucose down by other paths.",
      "outcome": 1
     },
@@ -2402,12 +2402,12 @@
      "t": "mcq",
      "p": "Why does a cell break glucose down in many small steps and not in one big step?",
      "opts": [
+      "Small steps let it catch energy in ATP",
       "One step would take too long",
       "Small steps use less glucose",
-      "To make more carbon dioxide",
-      "Small steps let it catch energy in ATP"
+      "To make more carbon dioxide"
      ],
-     "a": 3,
+     "a": 0,
      "why": "One big step would let all the energy out as heat at once, as a flame does. Small steps let the cell load ATP along the way.",
      "outcome": 1
     },
@@ -2543,11 +2543,11 @@
      "p": "A lotus flower stays near 32 degrees Celsius on a cool night. Where does the heat come from?",
      "opts": [
       "Sunlight stored in the petals",
-      "The flower's cells breaking down stored food fast",
       "Warm water in the pond",
+      "The flower's cells breaking down stored food fast",
       "Insects sleeping inside it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Lotus cells break down stored food very quickly, and let the energy out as heat. Choosing 'stored sunlight' is close in one way: the food was made with sunlight, but the heat comes from breaking it down.",
      "outcome": 7
     }
@@ -2572,12 +2572,12 @@
    "t": "mcq",
    "p": "Where do your cells get the energy to build new molecules?",
    "opts": [
-    "From breaking other molecules down",
     "From the blanket around the body",
     "From oxygen alone",
-    "From water"
+    "From water",
+    "From breaking other molecules down"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Breaking food molecules down loads ATP, and building spends it. Oxygen helps to break food down, but oxygen is not the fuel.",
    "outcome": 1
   },
@@ -2585,12 +2585,12 @@
    "t": "mcq",
    "p": "Why are you warm even when you sleep?",
    "opts": [
+    "Your cells break down food all the time, and heat escapes",
     "The bed stores heat for you",
     "Your heart heats the blood like a stove",
-    "You stop losing heat at night",
-    "Your cells break down food all the time, and heat escapes"
+    "You stop losing heat at night"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Every step of metabolism lets some energy escape as heat, and metabolism never stops. Choosing 'the bed' is the blanket mistake: bedding only slows the heat leaving.",
    "outcome": 2
   },
@@ -2598,12 +2598,12 @@
    "t": "mcq",
    "p": "Why do you feel a little warmer after a meal?",
    "opts": [
+    "Digesting and storing food uses extra energy",
     "Food stays hot in the stomach for hours",
     "Eating stops heat leaving the skin",
-    "The meal turns straight into heat",
-    "Digesting and storing food uses extra energy"
+    "The meal turns straight into heat"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The body spends extra ATP on digesting, absorbing and storing the meal, and that ends as heat. This is the thermic effect of food.",
    "outcome": 2
   },
@@ -2613,10 +2613,10 @@
    "opts": [
     "All the muscles together",
     "The skin",
-    "The brain, liver, heart and kidneys together",
-    "The bones"
+    "The bones",
+    "The brain, liver, heart and kidneys together"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Those four organs are about one twentieth of the body's weight and use more than half of its resting energy. Resting muscle uses little for its size.",
    "outcome": 3
   },
@@ -2625,11 +2625,11 @@
    "p": "What is glycogen?",
    "opts": [
     "A kind of body fat",
-    "A store of glucose in the liver and muscles",
     "A gas that yeast give off",
+    "A store of glucose in the liver and muscles",
     "An enzyme in saliva"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Glycogen is many glucose units joined in a branching chain. It is the body's quick, small store of fuel.",
    "outcome": 4
   },
@@ -2650,13 +2650,13 @@
    "t": "mcq",
    "p": "In the Yeast Fuel Test, why did one bottle have yeast but no food?",
    "opts": [
-    "To show the gas comes from breaking down food",
     "To save sugar",
+    "To show the gas comes from breaking down food",
     "To give the yeast a rest",
     "To make the test longer"
    ],
    "how": "e1",
-   "a": 0,
+   "a": 1,
    "why": "That bottle is the comparison. It had the same yeast and water, so any extra gas in the other bottles must come from the food.",
    "outcome": 6
   },
@@ -2673,10 +2673,10 @@
    "opts": [
     "Shrews are greedier",
     "Elephants do not use energy",
-    "Shrew food has no energy",
-    "A small warm body loses heat fast"
+    "A small warm body loses heat fast",
+    "Shrew food has no energy"
    ],
-   "a": 3,
+   "a": 2,
    "why": "A small body has a lot of skin for its weight, so it loses heat quickly and must make more heat for each gram.",
    "outcome": 7
   },

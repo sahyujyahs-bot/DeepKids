@@ -498,10 +498,10 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 ## Worksheets
 ### Rings, halves, spirals and segments (core, 15 questions)
 1. (mcq) What is a body plan?  
-   Options: The basic layout of an animal's body / A list of what an animal eats / The place where an animal lives / The colour of an animal's skin  
+   Options: A list of what an animal eats / The place where an animal lives / The colour of an animal's skin / The basic layout of an animal's body  
    **Answer:** The basic layout of an animal's body. *Why:* A body plan says which parts a body has and how they are arranged. Two animals with very different colours and homes can share one body plan.
 2. (mcq) Which animal has matching parts arranged all the way round a middle point?  
-   Options: A sea anemone / A crow / An earthworm / A house gecko  
+   Options: A crow / An earthworm / A sea anemone / A house gecko  
    **Answer:** A sea anemone. *Why:* A sea anemone has a ring of tentacles round one mouth. A crow, an earthworm and a gecko each have a head end and two matching sides.
 3. (fill) An animal with one head end and matching left and right sides has ____ symmetry.  
    **Answer:** ['bilateral']. *Why:* Bilateral symmetry means two matching sides. There is exactly one line that cuts such a body into matching halves.
@@ -512,7 +512,7 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 6. (sort) Sort these animals. Does each one have a head end?  
    **Answer:** fish → Has a head end; ant → Has a head end; frog → Has a head end; jellyfish → Has no head end; sea anemone → Has no head end; sponge → Has no head end. *Why:* An animal who travels front end first has eyes and a mouth gathered at that end. Animals who drift or stay fixed have no front, so they have no head.
 7. (mcq) In the Lopsided Roller test, the roller with one big ball and one small ball curved. Why?  
-   Options: The big ball rolls further each turn / The small ball is heavier / The floor slopes to one side / The pencil is too long  
+   Options: The small ball is heavier / The floor slopes to one side / The big ball rolls further each turn / The pencil is too long  
    **Answer:** The big ball rolls further each turn. *Why:* Both balls turn together on one pencil. In one turn the big ball covers more floor than the small ball. So the big ball's side gets ahead, and the roller curves.
 8. (truefalse) Insects, prawns and centipedes all have bodies built in segments.  
    **Answer:** True. *Why:* True. All three have a row of repeated parts. In an insect the segments are joined into a head, a thorax and an abdomen.
@@ -565,20 +565,20 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 14. (label) Label four sides of this fish: front end, tail end, back and belly.  
    **Answer:** ['Front end: where the mouth and eyes are', 'Tail end: where the tail fin is', 'Back: the upper side, towards the surface', 'Belly: the lower side, towards the river bed']. *Why:* A two-sided body has a front and a tail that differ, and a back and a belly that differ. The left and right sides are the only pair that match.
 15. (mcq) An adult flatfish lies on one side, with both eyes on the upper side. What does this show?  
-   Options: Not every two-sided animal stays matched / Flatfish are built in rings / Flatfish have no head / Flatfish have no backbone  
+   Options: Flatfish are built in rings / Flatfish have no head / Not every two-sided animal stays matched / Flatfish have no backbone  
    **Answer:** Not every two-sided animal stays matched. *Why:* A young flatfish has matching sides. As she grows, one eye moves across her head. Body plans have exceptions, and they can change during one life.
 ### Testing ideas about body plans (challenge, 15 questions)
 1. (mcq) Two animals share a ring shape. What is the best way to check whether they are close relatives?  
-   Options: Compare their young and their genes / Compare their colours / Compare where they live / Count their arms  
+   Options: Compare their colours / Compare where they live / Count their arms / Compare their young and their genes  
    **Answer:** Compare their young and their genes. *Why:* Shape alone can mislead, as it did with starfish and jellyfish. Young forms and genes carry more of an animal's family history.
 2. (mcq) A lopsided roller curves left. You add dough to the small ball until both balls match. What should happen?  
-   Options: The roller goes nearly straight / The roller curves left more sharply / The roller curves right in a circle / The roller stops rolling  
+   Options: The roller curves left more sharply / The roller goes nearly straight / The roller curves right in a circle / The roller stops rolling  
    **Answer:** The roller goes nearly straight. *Why:* The curve came from the unequal balls. With equal balls, both sides cover the same distance in each turn, so the path is straight.
 3. (mcq) Sponge cells were pushed apart through cloth. Over some days they crawled together again. What does this show?  
    Options: Sponge cells can find their own kind / Sponges are plants / Cloth makes cells grow / The cells were not alive  
    **Answer:** Sponge cells can find their own kind. *Why:* Each cell moved, met other sponge cells and joined them. H. V. Wilson first showed this in 1907.
 4. (mcq) A prawn's segments carry feelers, jaws, walking legs and swimming legs. What does this show about segments?  
-   Options: Repeated parts can change for different jobs / Every segment must stay the same / Segments are only for bending / Prawns have too many legs  
+   Options: Every segment must stay the same / Segments are only for bending / Prawns have too many legs / Repeated parts can change for different jobs  
    **Answer:** Repeated parts can change for different jobs. *Why:* All these parts grow from segments built on one pattern. Repeating a part and then changing some copies gives a body many tools.
 5. (truefalse) The same family of genes marks out head to tail in a fly and in a human.  
    **Answer:** True. *Why:* True. These are the Hox genes. Finding them in such different animals was strong evidence that all two-sided animals share an ancestor.
@@ -610,40 +610,40 @@ On Sunday Devika telephoned. "Does your round boat still not know where it is go
 
 ## Quiz
 1. (mcq) Which list names four animal body plans?  
-   Options: Rings, two halves, spirals, segments / Fur, feathers, scales, skin / Run, swim, fly, crawl / Egg, larva, pupa, adult  
+   Options: Fur, feathers, scales, skin / Run, swim, fly, crawl / Rings, two halves, spirals, segments / Egg, larva, pupa, adult  
    **Answer:** Rings, two halves, spirals, segments. *Why:* A body plan is a layout. Fur and feathers are coverings, running and swimming are ways to move, and egg to adult is a life cycle.
 2. (mcq) What does radial symmetry mean?  
-   Options: Matching parts arranged round a middle / One left side and one right side / A body with no pattern / A body made of one cell  
+   Options: One left side and one right side / A body with no pattern / Matching parts arranged round a middle / A body made of one cell  
    **Answer:** Matching parts arranged round a middle. *Why:* Radial symmetry is the ring plan. The parts are arranged round a middle point, like the spokes of a cycle wheel.
 3. (mcq) A jellyfish's mouth is under the middle of her body. Why does that suit a drifting life?  
    Options: Food can arrive from any side / She swims fast, head first / Her shell needs the room / She needs no food  
    **Answer:** Food can arrive from any side. *Why:* A drifting animal meets the water equally on all sides. A mouth in the middle is the same distance from every tentacle.
 4. (mcq) What does every two-sided animal have?  
-   Options: A front end and one middle line / Matching parts round a centre / A shell that coils / No fixed shape  
+   Options: Matching parts round a centre / A shell that coils / No fixed shape / A front end and one middle line  
    **Answer:** A front end and one middle line. *Why:* A two-sided animal has a front end, a tail end and one line down the middle. The left and right sides on either side of that line match.
 5. (mcq) Why do matching left and right sides help an animal who travels?  
-   Options: Both sides push equally, so she goes straight / They make her lighter / They let her see behind / They keep her warm  
+   Options: They make her lighter / They let her see behind / They keep her warm / Both sides push equally, so she goes straight  
    **Answer:** Both sides push equally, so she goes straight. *Why:* If one side pushed harder, the animal would curve. Equal sides give equal pushes and a straight path.
 6. (mcq) A roller has a big left ball and a small right ball. Which way will it curve?  
-   Options: To the right, towards the small ball / To the left, towards the big ball / It will go straight / It will roll backwards  
+   Options: To the left, towards the big ball / It will go straight / It will roll backwards / To the right, towards the small ball  
    **Answer:** To the right, towards the small ball. *Why:* The big ball covers more floor in each turn, so the left side gets ahead. The roller swings round towards the small ball.
 7. (mcq) What is a segment?  
    Options: One of a row of repeated body parts / One coil of a shell / A kind of cell / The front end of an animal  
    **Answer:** One of a row of repeated body parts. *Why:* Segments are parts built on one pattern and repeated along the body, as in an earthworm or a centipede.
 8. (mcq) Which part of your own body is built in repeated segments?  
-   Options: Your backbone and ribs / Your nose / Your tongue / Your navel  
+   Options: Your nose / Your tongue / Your navel / Your backbone and ribs  
    **Answer:** Your backbone and ribs. *Why:* Your backbone is a row of alike bones, and your ribs repeat in pairs. Humans are segmented animals on the inside.
 9. (mcq) Why does a snail's shell coil as the snail grows?  
-   Options: A coil stays compact and easy to carry / The snail spins while she sleeps / The wind twists the shell / A coil is heavier  
+   Options: The snail spins while she sleeps / The wind twists the shell / A coil is heavier / A coil stays compact and easy to carry  
    **Answer:** A coil stays compact and easy to carry. *Why:* The shell grows only at the opening, so it gets longer all the time. Coiling keeps that long cone low and compact.
 10. (mcq) Which of these is one of the four main kinds of animal tissue?  
-   Options: Nerve tissue / Finger tissue / Shell tissue / Water tissue  
+   Options: Finger tissue / Shell tissue / Nerve tissue / Water tissue  
    **Answer:** Nerve tissue. *Why:* The four kinds are covering tissue, connecting tissue, muscle tissue and nerve tissue. A finger is a body part made of all four.
 11. (mcq) What is an organ?  
-   Options: A body part built from several tissues / A single cell / A group of animals / A kind of shell  
+   Options: A single cell / A group of animals / A body part built from several tissues / A kind of shell  
    **Answer:** A body part built from several tissues. *Why:* An organ, such as a heart or an eye, is built from several tissues that work together.
 12. (mcq) A dolphin and a shark have the same body shape. Does this prove they are close relatives?  
-   Options: No. Similar lives can give similar shapes / Yes. Shape always shows family / Yes. Both live in the sea / No. Sharks have no body plan  
+   Options: Yes. Shape always shows family / Yes. Both live in the sea / No. Sharks have no body plan / No. Similar lives can give similar shapes  
    **Answer:** No. Similar lives can give similar shapes. *Why:* A dolphin is a mammal and a shark is a fish. Both swim fast, and fast swimming suits a smooth, pointed body. Shape alone does not prove family.
 
 ## Applications

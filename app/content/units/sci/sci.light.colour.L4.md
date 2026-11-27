@@ -523,7 +523,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
    Options: Yellow / Brown / Dark green  
    **Answer:** Yellow. *Why:* Each torch adds its light to the spot. Red plus green looks yellow. Picking 'brown' is common, because red paint and green paint make brown. But torches add light, and paints take light away.
 2. (mcq) A green torch and a blue torch shine on one spot of a white wall. What colour does the spot look?  
-   Options: Cyan, a bright blue-green / Yellow / Magenta  
+   Options: Yellow / Magenta / Cyan, a bright blue-green  
    **Answer:** Cyan, a bright blue-green. *Why:* Green plus blue makes cyan, a bright blue-green. Yellow is made by red plus green, and magenta is made by red plus blue.
 3. (fill) Red light and blue light shining together make a bright pink-purple called ____.  
    **Answer:** ['magenta']. *Why:* Red plus blue light, with no green, makes magenta. It is not in the rainbow. Your eyes and brain make it.
@@ -541,7 +541,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 9. (write) In Two Torches, Two Shadows, a red torch and a green torch shine on a white wall, with a pencil in front. One shadow of the pencil is green, not black. Explain in two or three sentences why it is green.  
    **Answer:** The pencil blocked the red torch at that spot. The green torch's light still reached it. So the shadow was lit by green light only, and it looked green.. *Why:* A strong answer says that a shadow is only dark where all the light is blocked. Where just one light is blocked, the other light still lands there.
 10. (mcq) A green leaf is held under a pure red light. What does the leaf look like?  
-   Options: Nearly black / Bright green / Bright red  
+   Options: Bright green / Nearly black / Bright red  
    **Answer:** Nearly black. *Why:* The leaf sends back only green light. A pure red light has almost no green in it, so the leaf has little to send back. Picking 'bright green' forgets that a thing can only show the colours that fall on it.
 11. (fill) A yellow cloth looks bright in red light and in green light, but dark in ____ light.  
    **Answer:** ['blue']. *Why:* Yellow cloth sends back red and green, and takes away blue. In blue light it has almost nothing to send back.
@@ -553,26 +553,26 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 14. (order) Put these three stage looks in order, from the least light on the stage to the most.  
    **Answer:** order shown. *Why:* Each lamp adds more light. One lamp gives the least, two give more, and three give the most. All three together look white.
 15. (mcq) From far away, a square of thin red and green stripes looks yellowish-brown. Where does the mixing happen?  
-   Options: In your eye / On the paper / Inside the pen  
+   Options: On the paper / In your eye / Inside the pen  
    **Answer:** In your eye. *Why:* The stripes never mix on the paper. From far away, their light lands on the same cone cells in your eye and adds up there.
 16. (write) A friend says, 'Red and green make brown, because that is what paints do.' Write two sentences to help your friend. What is different about lights?  
    **Answer:** Paints take colours away from the light, so mixing them makes things darker and browner. Lights add colours, so red and green lights together make yellow, which is brighter.. *Why:* A strong answer says the two kinds of mixing do opposite things: paints take away and lights add.
 ### Adding and Taking Away Colours (stretch) (stretch, 17 questions)
 1. (mcq) A phone screen can show a bright yellow, but it has no yellow dots. How does it do it?  
-   Options: It lights its red and green dots together / It uses a special yellow filter / It turns the blue dots black  
+   Options: It uses a special yellow filter / It lights its red and green dots together / It turns the blue dots black  
    **Answer:** It lights its red and green dots together. *Why:* Red and green light together look yellow to your eyes. A screen only needs red, green and blue dots to show nearly every colour.
 2. (mcq) Cyan paint sends back green and blue light and takes away red. Yellow paint sends back red and green and takes away blue. Mixed together, which colour do both paints send back?  
    Options: Green / Red / Blue  
    **Answer:** Green. *Why:* Green is the only colour that both paints send back. Red is taken away by the cyan, and blue is taken away by the yellow. So the mix looks green.
 3. (mcq) Why do colour printers add black ink to cyan, magenta and yellow?  
-   Options: The three together make a muddy dark colour, not a deep black / Black ink is cheaper than the other colours / Black is a primary colour of paint  
+   Options: Black ink is cheaper than the other colours / The three together make a muddy dark colour, not a deep black / Black is a primary colour of paint  
    **Answer:** The three together make a muddy dark colour, not a deep black. *Why:* Cyan, magenta and yellow together take away most light, but not all. The result is a dark brownish grey. A separate black ink gives a true black and sharp letters.
 4. (truefalse) A screen with red, green and blue dots can show every colour that the human eye can see.  
    **Answer:** False. *Why:* False. Screens show a very large range of colours, but a pure green or blue-green, like the light of a laser, is stronger than any screen can make.
 5. (fill) After staring at a green shape and looking at a white wall, you may see a pink ghost. This is called an ____.  
    **Answer:** ['afterimage']. *Why:* An afterimage is made in your eye. The cone cells that sensed green tired, so white looks a little pink for a moment.
 6. (mcq) You stare at a red square, then look at a white wall and see a faint blue-green square. Where is that blue-green square?  
-   Options: Only in your eyes and brain / On the wall / On the red square  
+   Options: On the wall / Only in your eyes and brain / On the red square  
    **Answer:** Only in your eyes and brain. *Why:* The wall is plain white. The ghost square is made by tired cone cells in your eye. If you look at a different wall, it follows your eyes.
 7. (sort) Sort these. Seen through red cellophane, does each ink on white paper seem to vanish, or look dark?  
    **Answer:** red ink → Seems to vanish; yellow ink → Seems to vanish; green ink → Looks dark; blue ink → Looks dark; black ink → Looks dark. *Why:* Red cellophane lets only red light through. The white paper, the red ink and the yellow ink all send back plenty of red, so they look alike. Green, blue and black inks send back almost no red, so they look dark.
@@ -581,7 +581,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 9. (write) Explain why red cellophane and green cellophane held together in front of a torch let almost no light through.  
    **Answer:** The red cellophane lets red light through and takes away the other colours, including green. The green cellophane then takes away the red light that got through. So almost no light gets past both sheets.. *Why:* A strong answer follows the light through the first sheet and then the second. It says what each sheet lets through and what it takes away.
 10. (mcq) A navy cloth and a black cloth look alike under a warm yellowish bulb. Where would be the best place to tell them apart?  
-   Options: By a window in daylight / Under a dimmer warm bulb / In the dark  
+   Options: Under a dimmer warm bulb / In the dark / By a window in daylight  
    **Answer:** By a window in daylight. *Why:* Daylight holds plenty of blue light, so the navy cloth has blue to send back and looks clearly blue. A warm bulb gives out little blue.
 11. (draw) Draw a red, a green and a blue torch shining on one spot of a white wall. Label the colour in the middle. Label the colour where just two beams overlap.  
    **Answer:** The three beams overlap in the middle, which looks white. Red and green overlap as yellow. Green and blue overlap as cyan. Red and blue overlap as magenta.. *Why:* Each pair of lights makes a secondary colour, and all three together make white.
@@ -592,7 +592,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 14. (write) A cloth looks maroon in the shop and a brownish red at home. Give two reasons why its colour might look different.  
    **Answer:** The lamps in the shop and the light at home are not the same mix of colours, so the cloth has different light to send back. Also, my brain may adjust for the light differently in a bright shop and a dim room.. *Why:* A strong answer gives two reasons: the light is different, and the brain's adjustment is different. Colour depends on the light as well as on the cloth.
 15. (mcq) A mix of red and green light looks the same as pure yellow light to your eyes. What does this tell us?  
-   Options: Our eyes cannot tell apart different mixes that give the same three signals / Red and green light are really yellow / Yellow light does not exist  
+   Options: Red and green light are really yellow / Our eyes cannot tell apart different mixes that give the same three signals / Yellow light does not exist  
    **Answer:** Our eyes cannot tell apart different mixes that give the same three signals. *Why:* Your eyes only report three signals. Different mixes of light can give the same three signals, and then they look the same to us.
 16. (odd) Which is the odd one out? Yellow and blue paint stirred together, a yellow sheet over a cyan sheet, two highlighters crossing, red and green torches on a wall. Say why.  
    **Answer:** red and green torches on a wall. *Why:* The torches add light together. The other three take colours away from the light, so they get darker. Only the torches get brighter.
@@ -600,12 +600,12 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
    **Answer:** Both look dark. The leaf sends back green and the flower sends back red and green, and a blue light has almost none of either. Both have little to send back, so both look dark.. *Why:* A strong answer says that a thing can only send back colours that fall on it. A blue light has almost no red or green.
 ### Three Signals, Many Colours (challenge) (challenge, 16 questions)
 1. (mcq) An instrument called a spectrometer splits light by wavelength. A scientist points it at a yellow lamp, and then at a screen showing yellow. What does the instrument show?  
-   Options: Different wavelengths, even though they look alike / Exactly the same wavelengths / No light from the screen  
+   Options: Exactly the same wavelengths / No light from the screen / Different wavelengths, even though they look alike  
    **Answer:** Different wavelengths, even though they look alike. *Why:* The yellow lamp has light of one yellow wavelength. The screen has a red wavelength and a green wavelength, but no yellow. Our eyes cannot tell them apart, but the instrument can.
 2. (write) Thomas Young guessed in 1802 that the eye has only three kinds of detector. Name two things you saw or did in this lesson that fit his guess.  
    **Answer:** Red and green torches made a yellow wall, so two lights could stand in for one colour. Phone screens show every colour with only red, green and blue dots. If the eye had a separate detector for yellow, red plus green might not look yellow.. *Why:* A strong answer gives two pieces of evidence and says how each one fits the idea of three detectors.
 3. (mcq) A dog has two kinds of cone cell. Which statement fits best?  
-   Options: Some colours that differ to us may look alike to a dog / A dog sees only black and white / A dog sees more colours than we do  
+   Options: A dog sees only black and white / A dog sees more colours than we do / Some colours that differ to us may look alike to a dog  
    **Answer:** Some colours that differ to us may look alike to a dog. *Why:* Tests on dogs suggest they tell blue and yellow apart, but mix up red and green. With two signals instead of three, a dog can tell fewer colours apart.
 4. (mcq) Many birds have four kinds of cone cell. What could this let a bird do?  
    Options: Tell apart some mixes of light that look the same to us / See in total darkness / See only black and white  
@@ -619,17 +619,17 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 8. (sort) Sort these. Do scientists agree on it, or does nobody know yet?  
    **Answer:** Red and green light together look yellow. → Scientists agree; Filters take colours away from white light. → Scientists agree; Most people have three kinds of cone cell. → Scientists agree; What yellow feels like inside another person. → Nobody knows yet; Exactly how the brain turns cone signals into the feeling of a colour. → Nobody knows yet. *Why:* The first three have been tested many times. What colour feels like from the inside, and how signals become a feeling, are still open questions.
 9. (mcq) You have red, green and blue stage lamps, and you want a pale pink glow. Which plan is best?  
-   Options: A strong red lamp with weaker green and blue lamps / Only the blue lamp / Only the green lamp  
+   Options: Only the blue lamp / Only the green lamp / A strong red lamp with weaker green and blue lamps  
    **Answer:** A strong red lamp with weaker green and blue lamps. *Why:* Pink is red mixed with a little white. A strong red with weaker green and blue adds the white to the red. Only blue or only green would not give any red.
 10. (write) Plan a fair test to find out whether the distance of the torches from the wall changes the colour made by a red torch and a green torch. Say what you change, what you keep the same, and what you look for.  
    **Answer:** I change the distance of the green torch from the wall: 50 centimetres, 1 metre and 2 metres. I keep the red torch, the wall, the room and the cellophane the same. I look at the colour of the overlap each time and write it down. I try each distance twice.. *Why:* A strong answer changes only one thing, keeps the rest the same, repeats the test and says what it will look at. A fainter green torch should make the overlap look more orange.
 11. (perspective) What are the three primary colours? People give different answers.  
    **Answer:** A strong answer says that the right set depends on whether you are mixing light or taking colours away. It uses Two Torches, Two Shadows and Highlighter Layers as evidence.. *Why:* There is no single set of basic colours for everything. For lights, red, green and blue work best. For inks, cyan, magenta and yellow work best.
 12. (mcq) Many people looked at the same photo of a dress and saw different colours. What best explains it?  
-   Options: Their brains guessed different colours for the light that fell on the dress / Some people have no cone cells / The photo changed between looks  
+   Options: Some people have no cone cells / Their brains guessed different colours for the light that fell on the dress / The photo changed between looks  
    **Answer:** Their brains guessed different colours for the light that fell on the dress. *Why:* The brain tries to remove the colour of the light to find the true colour of a thing. In a photo with unclear light, brains can guess differently.
 13. (mcq) A TV looks like a smooth picture from the sofa, but like separate coloured dots from one centimetre away. Why?  
-   Options: From far away, the dots are too small and close for the eye to tell apart, so their light blends / The dots move apart when you step back / The TV changes its picture when you come near  
+   Options: The dots move apart when you step back / From far away, the dots are too small and close for the eye to tell apart, so their light blends / The TV changes its picture when you come near  
    **Answer:** From far away, the dots are too small and close for the eye to tell apart, so their light blends. *Why:* Your eye can only tell dots apart if they are far enough apart. Further away, their light lands on the same cone cells and adds up.
 14. (draw) Draw a white wall lit by a red torch on the left and a blue torch on the right, with a pencil in front. Colour the lit wall and the two shadows.  
    **Answer:** The middle where both lights reach looks magenta. The shadow where the red light is blocked looks blue. The shadow where the blue light is blocked looks red.. *Why:* Each shadow takes the colour of the light that still reaches it.
@@ -645,13 +645,13 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 
 ## Quiz
 1. (mcq) Which three colours of light make white when they are shone together on one spot of a white wall?  
-   Options: Red, green and blue / Red, yellow and blue / Cyan, magenta and yellow  
+   Options: Red, yellow and blue / Cyan, magenta and yellow / Red, green and blue  
    **Answer:** Red, green and blue. *Why:* Red, green and blue lights add up to white. Red, yellow and blue are the old painters' set. Cyan, magenta and yellow are the three inks of a printer.
 2. (mcq) A pencil stands in front of a wall lit by a red torch and a green torch. What colour is the shadow where the red light is blocked?  
-   Options: Green / Red / Black  
+   Options: Red / Green / Black  
    **Answer:** Green. *Why:* Where the red light is blocked, only the green light still reaches the wall, so the shadow looks green.
 3. (mcq) A yellow sheet and a cyan sheet are held together in front of a white torch. What colour comes out?  
-   Options: Green / White / Red  
+   Options: White / Green / Red  
    **Answer:** Green. *Why:* Yellow lets red and green through. Cyan lets green and blue through. Only green gets past both. Each sheet takes colours away.
 4. (mcq) A blue shirt is lit by a pure red light. What does it look like?  
    Options: Nearly black / Bright blue / Bright red  
@@ -660,25 +660,25 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
    Options: Most eyes have three kinds of cone cell, and colour is built from their three signals / Three is a magic number in nature / The lights hide the other colours inside them  
    **Answer:** Most eyes have three kinds of cone cell, and colour is built from their three signals. *Why:* The eye turns all light into three signals. Lights that give the right three signals can look like any colour.
 6. (mcq) A newspaper photo is made of tiny dots of four inks. Why does it look like a smooth picture from a metre away?  
-   Options: The dots are too small and close to tell apart, so their light blends in the eye / The dots move together / The ink spreads out  
+   Options: The dots move together / The ink spreads out / The dots are too small and close to tell apart, so their light blends in the eye  
    **Answer:** The dots are too small and close to tell apart, so their light blends in the eye. *Why:* Your eye cannot tell tiny dots apart from far away. Their light lands on the same cone cells and adds up.
 7. (mcq) Which sentence best explains why red and green torches make a yellow wall?  
-   Options: Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow / Red and green paint make yellow / There was yellow hiding in the torches  
+   Options: Red and green paint make yellow / There was yellow hiding in the torches / Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow  
    **Answer:** Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow. *Why:* Reasoning says why. It uses what lights do and what the eye does. It does not use paint, because paint takes colours away.
 8. (mcq) Which of these do scientists not know yet?  
-   Options: How three signals in the brain become the feeling of a colour / That filters take colours away / That red and green light look yellow together  
+   Options: That filters take colours away / How three signals in the brain become the feeling of a colour / That red and green light look yellow together  
    **Answer:** How three signals in the brain become the feeling of a colour. *Why:* Filters taking colours away, and red and green light looking yellow together, have both been tested many times. How signals become a feeling is still an open question.
 9. (mcq) Which two lights shining together make magenta?  
-   Options: Red and blue / Red and green / Green and blue  
+   Options: Red and green / Green and blue / Red and blue  
    **Answer:** Red and blue. *Why:* Red plus blue light makes magenta. Red plus green makes yellow. Green plus blue makes cyan.
 10. (mcq) You stare at a bright green shape and then see a pink ghost on a white wall. What made the pink?  
-   Options: Tired cone cells in your eye / A pink spot on the wall / The green shape glowing  
+   Options: A pink spot on the wall / Tired cone cells in your eye / The green shape glowing  
    **Answer:** Tired cone cells in your eye. *Why:* The cone cells that sense green tired while you stared. On white they answered less than usual, so the white looked a little pink.
 11. (mcq) A yellow cloth is held in blue light. What does it look like?  
-   Options: Dark / Bright yellow / Bright blue  
+   Options: Bright yellow / Bright blue / Dark  
    **Answer:** Dark. *Why:* Yellow cloth sends back red and green, and a blue light has almost none of either.
 12. (mcq) Cyan ink and yellow ink are printed on the same spot of a page. What colour does the spot look?  
-   Options: Green / Red / White  
+   Options: Red / White / Green  
    **Answer:** Green. *Why:* Cyan ink takes away red and yellow ink takes away blue. Only green is left.
 
 ## Applications

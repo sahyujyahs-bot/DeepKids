@@ -624,12 +624,12 @@
       "t": "mcq",
       "q": "Drying pushes building blocks together into chains. Which idea does this support?",
       "options": [
-       "Warm pools on land",
        "Deep-sea vents",
        "Neither idea",
-       "It proves life began in pools"
+       "It proves life began in pools",
+       "Warm pools on land"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Pools dry and fill again, and the deep sea never dries. So this finding supports pools. It does not prove anything alone, because one finding is one piece of evidence."
      },
      "context": "This is the last step of Vent, Pool or Both. Here you weigh all the evidence together."
@@ -731,12 +731,12 @@
       "t": "mcq",
       "q": "With a careless copier, which RNA chain is most likely to be copied perfectly?",
       "options": [
-       "A short chain",
        "A long chain",
+       "A short chain",
        "All chains are copied equally well",
        "No chain can ever be copied"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every letter is one more chance of a mistake, so a short chain is copied perfectly more often. Choosing the long chain mixes up the size of the prize with the chance of winning it."
      },
      "context": "This is the last step of Copy or Crash. Here you say what the two games show about early RNA."
@@ -940,12 +940,12 @@
       "t": "mcq",
       "q": "Soap makes less foam in very salty water. What is the best explanation?",
       "options": [
-       "Salt pushes soap out of the water",
        "Salt kills the soap",
        "Salty water is too heavy to shake",
+       "Salt pushes soap out of the water",
        "The salt uses up all the air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Dissolved salt makes soap molecules clump into solid specks, so fewer are free to line up into skins. Choosing 'kills' treats soap as alive. Choosing 'too heavy' or 'air' misses that the same shaking and the same air were used in every bottle."
      },
      "context": "This is the last step of the Salt Water Skin Test. Here you say what you found and what it means for the first cell skins."
@@ -1082,12 +1082,12 @@
       "t": "mcq",
       "q": "Why does hot water rise through cold water?",
       "options": [
-       "Hot water is lighter for its size",
        "Heat always travels upwards",
        "The colour pulls the water up",
+       "Hot water is lighter for its size",
        "Cold water sucks the hot water up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Heated water spreads out a little, so the same amount takes more room and is lighter for its size. The heavier cold water pushes it up. Choosing 'heat always travels upwards' mixes up heat with hot water. Heat can travel in any direction."
      },
      "context": "This is the last step of Hot Vent in a Jar. Here you explain why hot water rises, and what that means at a vent."
@@ -1230,12 +1230,12 @@
       "t": "mcq",
       "q": "On your arm span model, where do the first animals big enough to see belong?",
       "options": [
-       "About a hand's length from the Today fingertip",
        "Right in the middle of your chest",
        "At the far fingertip",
+       "About a hand's length from the Today fingertip",
        "At the far shoulder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Animals big enough to see appeared about 570 million years ago, which is about one eighth of Earth's history. Choosing the middle of the chest is the commonest guess. It shows how short the time of animals feels until you measure it."
      },
      "context": "This is the last step of Deep Time on Your Arms. Here you compare your guesses with the measured places."
@@ -1343,12 +1343,12 @@
       "t": "mcq",
       "q": "In the alkaline vent idea, what gave the first chemistry of life its energy?",
       "options": [
-       "The difference between vent water and sea water",
        "Sunlight shining on the vent",
        "Lightning striking the sea",
+       "The difference between vent water and sea water",
        "The colour of the chimneys"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The idea says energy came from alkaline water and acid sea water meeting across a thin wall. Sunlight does not reach the deep sea floor, so choosing sunlight mixes vents up with plants."
      },
      "context": "This is the last step of Acid Sea, Alkaline Vent. Here an alkaline liquid and an acid liquid meet on one strip."
@@ -1516,12 +1516,12 @@
       "t": "mcq",
       "q": "Bacteria, archaea, yeast and humans all have ribosomes. What is the simplest explanation?",
       "options": [
-       "Their shared ancestor had ribosomes",
        "Each invented ribosomes separately",
        "Ribosomes spread between them like a cold",
+       "Their shared ancestor had ribosomes",
        "It is only a coincidence"
       ],
-      "a": 0,
+      "a": 2,
       "why": "One ancestor passing a feature down is far simpler than four separate inventions of the same complicated machine. Choosing 'each invented' would need the same unlikely thing to happen four times."
      },
      "context": "This is the last step of Find the Ancestor. Here you use the table to say what LUCA was like."
@@ -1609,12 +1609,12 @@
       "t": "mcq",
       "q": "A pool of water with building blocks in it dries up. What happens to the building blocks?",
       "options": [
-       "They are crowded close together",
        "They leave with the water",
        "They spread further apart",
-       "Nothing changes for them"
+       "Nothing changes for them",
+       "They are crowded close together"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Only the water leaves, so the dissolved things are packed into less space. Choosing 'they leave with the water' is a common idea. The white ring of salt on your plate shows that they stay."
      },
      "context": "This is the last step of Drying Drops. Here you look at the dried drops and explain what drying did."
@@ -1823,12 +1823,12 @@
      "t": "mcq",
      "p": "Which three things do scientists look for together in a first cell?",
      "opts": [
-      "A skin, copied instructions and an energy supply",
       "Eyes, legs and a mouth",
+      "A skin, copied instructions and an energy supply",
       "Sunlight, soil and air",
       "A nucleus, a brain and blood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A cell needs a membrane, instructions that can be copied, and steady energy. Choosing sunlight, soil and air lists what a plant needs today, not what a first cell needed."
     },
     {
@@ -1913,12 +1913,12 @@
      "t": "mcq",
      "p": "Why does RNA solve the puzzle of 'which came first, instructions or workers'?",
      "opts": [
-      "RNA can do both jobs",
       "RNA is the strongest molecule",
       "RNA is found only in humans",
-      "RNA needs no building blocks"
+      "RNA needs no building blocks",
+      "RNA can do both jobs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "RNA carries instructions in its letters and can also act as a catalyst. Choosing 'strongest' is the opposite of the truth: RNA is fragile, which is one problem for the idea."
     },
     {
@@ -2034,12 +2034,12 @@
      "t": "mcq",
      "p": "What is the best evidence inside your own cells for an RNA world?",
      "opts": [
-      "The ribosome's working part is RNA",
       "Cells contain a lot of water",
       "DNA is kept in the nucleus",
+      "The ribosome's working part is RNA",
       "Cells are too small to see"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The machine that builds every protein has RNA at its working centre. That looks like a leftover from a time when RNA did the work. The other facts are true but say nothing about RNA coming first."
     },
     {
@@ -2060,12 +2060,12 @@
      "t": "mcq",
      "p": "A die is rolled once for each letter. A 1 is a mistake. Which chain is copied perfectly most often?",
      "opts": [
-      "A chain of 4 letters",
       "A chain of 8 letters",
       "A chain of 12 letters",
-      "All three equally often"
+      "All three equally often",
+      "A chain of 4 letters"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Each letter is one more chance to roll a 1. Four rolls avoid a 1 about half the time. Twelve rolls avoid it about one time in nine.",
      "how": "g2"
     },
@@ -2144,12 +2144,12 @@
      "t": "mcq",
      "p": "Four very different living beings all have ribosomes. What does that suggest?",
      "opts": [
-      "Their shared ancestor had ribosomes",
       "Ribosomes are easy to invent",
+      "Their shared ancestor had ribosomes",
       "They all live in the same place",
       "They all eat the same food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A complicated feature shared by all branches was most likely inherited from one ancestor. Inventing the same machine four separate times is far less likely.",
      "how": "a3"
     },
@@ -2261,12 +2261,12 @@
      "t": "mcq",
      "p": "Foam was 6 cm in plain water and 2 cm in sea-salty water. How do the two compare?",
      "opts": [
-      "Plain water gave 3 times as much",
       "Plain water gave 4 times as much",
       "Sea-salty water gave 3 times as much",
-      "They were the same"
+      "They were the same",
+      "Plain water gave 3 times as much"
      ],
-     "a": 0,
+     "a": 3,
      "why": "6 ÷ 2 = 3. The plain bottle had three times as much foam. Subtracting gives the difference, 4 centimetres, which is not 'times as much'.",
      "how": "e1"
     },
@@ -2441,12 +2441,12 @@
    "t": "mcq",
    "p": "What did a first cell need, as far as scientists can tell?",
    "opts": [
-    "A skin, copied instructions and energy",
     "Sunlight, leaves and roots",
     "A heart, lungs and a brain",
-    "Only water"
+    "Only water",
+    "A skin, copied instructions and energy"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every cell has a membrane, instructions that are copied, and a steady energy supply. Water is needed too, but water alone is not enough.",
    "outcome": 0
   },
@@ -2454,12 +2454,12 @@
    "t": "mcq",
    "p": "What warms the water of an alkaline vent?",
    "opts": [
-    "Sea water reacting with rock",
     "Melted rock from a volcano",
+    "Sea water reacting with rock",
     "Sunlight",
     "Animals living in the chimney"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sea water reacts with olivine rock, and the reaction gives out heat. Melted rock is what heats a black smoker, so that choice mixes up the two kinds of vent.",
    "outcome": 1
   },
@@ -2467,12 +2467,12 @@
    "t": "mcq",
    "p": "Who makes the food at a deep-sea vent?",
    "opts": [
-    "Microbes, using energy from chemicals",
     "Seaweed, using sunlight",
     "Fish, by hunting",
+    "Microbes, using energy from chemicals",
     "Nobody, the animals do not eat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bacteria and archaea make sugar using energy from chemicals such as hydrogen sulfide. No light reaches the vent, so seaweed is not found there.",
    "outcome": 1
   },
@@ -2500,12 +2500,12 @@
    "t": "mcq",
    "p": "In very salty water, soap makes little foam. What does this suggest about the first cell skins?",
    "opts": [
-    "Simple fatty skins may form badly in sea water",
     "Cells are made of soap",
     "Salt is alive",
-    "The sea has no fatty molecules"
+    "The sea has no fatty molecules",
+    "Simple fatty skins may form badly in sea water"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Fatty acids behave like soap, and salt pushes them out of the water. This is an argument for fresh water pools. A later test showed that a mixture of fatty molecules can form skins in salty water.",
    "outcome": 3,
    "how": "e1"
@@ -2514,12 +2514,12 @@
    "t": "mcq",
    "p": "Why are three bottles of the same size, shaken 20 times each, used in the foam test?",
    "opts": [
-    "So that only the salt differs",
     "So that the foam looks nicer",
     "Because three is a lucky number",
-    "So that the soap dissolves faster"
+    "So that the soap dissolves faster",
+    "So that only the salt differs"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fair test only one thing changes. Then any difference in the foam must come from the salt.",
    "outcome": 3,
    "how": "e1"
@@ -2556,12 +2556,12 @@
    "t": "mcq",
    "p": "How do scientists work out what LUCA was like, with no fossil of LUCA?",
    "opts": [
-    "From features that all living cells share",
     "From drawings made long ago",
     "By guessing",
-    "From dinosaur bones"
+    "From dinosaur bones",
+    "From features that all living cells share"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A feature shared by every branch of life was most likely inherited from the shared ancestor. So what all cells share tells us what LUCA had.",
    "outcome": 5
   },
@@ -2576,12 +2576,12 @@
    "t": "mcq",
    "p": "Which of these is known, and not just an idea?",
    "opts": [
-    "Fatty molecules form skins by themselves",
     "Life began in a warm pool",
     "RNA came before proteins",
+    "Fatty molecules form skins by themselves",
     "LUCA lived at a vent"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Anyone can watch fatty molecules form skins, and it has been seen under microscopes many times. The other three are hypotheses that are still being tested.",
    "outcome": 6
   }

@@ -430,11 +430,11 @@
       "t": "mcq",
       "q": "Why do we read each list twice?",
       "options": [
-       "Because one try can be a fluke",
        "To make the lists longer",
+       "Because one try can be a fluke",
        "Because the stopwatch needs it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A stumble or a cough can change one time. If both tries show the same pattern, we can trust the result more."
      }
     },
@@ -804,11 +804,11 @@
       "t": "mcq",
       "q": "In this game, can the person who goes first ever win?",
       "options": [
-       "No, because the other player can always add one",
        "Yes, if they say a crore",
-       "Yes, if they say it very fast"
+       "Yes, if they say it very fast",
+       "No, because the other player can always add one"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Any number plus one is a bigger number. So whoever answers second can always win. That means there is no biggest number."
      }
     },
@@ -978,11 +978,11 @@
       "t": "mcq",
       "q": "Why does a number line in a maths book have an arrow at the end?",
       "options": [
-       "To show the numbers go on for ever",
        "To show where the page ends",
+       "To show the numbers go on for ever",
        "To point to the biggest number"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The arrow means 'and so on, for ever'. The page ends, but the numbers do not."
      }
     }
@@ -1458,11 +1458,11 @@
      "t": "mcq",
      "p": "A child says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?",
      "opts": [
-      "The mother, because she can always add one",
       "The child, if she says a very big number",
+      "The mother, because she can always add one",
       "Nobody can say who wins"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Whoever adds one can always beat the other number. So the mother always wins. That is why there is no biggest number."
     },
     {
@@ -1599,11 +1599,11 @@
      "t": "mcq",
      "p": "The Yajurveda has a list of number names that ends with 'parardha', a 1 followed by 12 zeros. What comes after parardha?",
      "opts": [
-      "Parardha plus one, and many more numbers",
       "Nothing, because parardha is the end",
-      "Infinity, the next number"
+      "Infinity, the next number",
+      "Parardha plus one, and many more numbers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The old list of names stops at parardha, but the numbers do not. You can always add one or another zero. Infinity is not the next number."
     },
     {
@@ -1662,11 +1662,11 @@
      "t": "mcq",
      "p": "Someone says 'infinity plus one'. What do mathematicians say about this?",
      "opts": [
-      "Infinity is not a counting number, so adding one does not give a new counting number",
       "It is a number one bigger than infinity",
-      "It is the same as 2"
+      "It is the same as 2",
+      "Infinity is not a counting number, so adding one does not give a new counting number"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Infinity is not a counting number, so you can't add one to it the way you add one to 5. Infinity plus one is still endless. In Class 5 you meet the careful way mathematicians compare endless collections."
     },
     {
@@ -1714,11 +1714,11 @@
      "t": "mcq",
      "p": "Suppose a whole room were filled with sand. Is the number of grains infinite?",
      "opts": [
-      "No. It is a huge number, but the room has an end, so the grains can be given a number",
       "Yes. Sand is always infinite",
+      "No. It is a huge number, but the room has an end, so the grains can be given a number",
       "Sand is too small to count"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Very many is not the same as endless. You could count a spoonful and multiply, as you did with rice in the experiment 'How Many Grains of Rice in a Cup?'. Only something with no end can be infinite."
     },
     {
@@ -1774,11 +1774,11 @@
      "t": "mcq",
      "p": "Jeremy Harper counted out loud to 10,00,000 in 89 days. About how many numbers did he count each day?",
      "opts": [
-      "About 11,000",
       "About 100",
+      "About 11,000",
       "About 10,00,000"
      ],
-     "a": 0,
+     "a": 1,
      "why": "10,00,000 divided by 89 is about 11,236. So he counted a little over eleven thousand numbers each day, in about 16 hours."
     },
     {
@@ -1832,11 +1832,11 @@
      "t": "mcq",
      "p": "Here are one child's times for reading three lists of 20 numbers aloud: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, and 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
      "opts": [
-      "Even longer than 48 seconds",
       "About 9 seconds",
-      "Exactly 23 seconds"
+      "Exactly 23 seconds",
+      "Even longer than 48 seconds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bigger numbers have more words, such as 'ninety-eight lakh seventy-six thousand five hundred and forty-one'. So the time keeps growing. This is why counting gets slower and slower.",
      "how": "e1"
     },
@@ -1873,11 +1873,11 @@
      "t": "mcq",
      "p": "A shop has 25 sacks of rice. Each sack holds about 10 lakh grains. About how many grains are in the shop?",
      "opts": [
-      "About 2 crore 50 lakh",
       "Infinitely many",
+      "About 2 crore 50 lakh",
       "About 25 lakh"
      ],
-     "a": 0,
+     "a": 1,
      "why": "25 times 10 lakh is 250 lakh. 100 lakh is one crore, so 250 lakh is 2 crore 50 lakh. A huge number, but it is a number."
     },
     {
@@ -1919,11 +1919,11 @@
      "t": "mcq",
      "p": "Which of these is a question nobody can answer yet?",
      "opts": [
-      "Does space go on for ever?",
       "Is there a biggest counting number?",
-      "How many digits does one crore have?"
+      "How many digits does one crore have?",
+      "Does space go on for ever?"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nobody knows whether space is infinite. But we do know there is no biggest counting number, and that one crore, 1,00,00,000, has 8 digits."
     },
     {
@@ -2024,11 +2024,11 @@
    "t": "mcq",
    "p": "Why is there no biggest number?",
    "opts": [
-    "Any number plus one is a bigger number",
     "Big numbers are too hard to say",
+    "Any number plus one is a bigger number",
     "Nobody has counted that far yet"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Whatever number you choose, adding one gives a bigger one. So there can never be a biggest. 'Too hard to say' is about people, not about numbers.",
    "outcome": 0
   },
@@ -2036,12 +2036,12 @@
    "t": "mcq",
    "p": "What does infinity mean?",
    "opts": [
-    "Without end",
     "The biggest number",
     "A crore crore",
+    "Without end",
     "Zero"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Infinity means without end. Choosing 'the biggest number' is the most common mistake. If infinity were a number, you could add one to it.",
    "outcome": 1
   },
@@ -2049,11 +2049,11 @@
    "t": "mcq",
    "p": "Can anyone count to infinity?",
    "opts": [
-    "No, because there is always a next number",
     "Yes, if they count very fast",
-    "Yes, if they count for a whole year"
+    "Yes, if they count for a whole year",
+    "No, because there is always a next number"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every number has a next number, so the counting never finishes. Counting fast or for a long time only gets you to a bigger number.",
    "outcome": 1
   },
@@ -2074,11 +2074,11 @@
    "t": "mcq",
    "p": "A teaspoon holds about 200 grains of rice. A tumbler holds 40 teaspoons. What does this tell you?",
    "opts": [
-    "The tumbler holds about 8,000 grains, a big but finite number",
     "The tumbler holds infinitely many grains",
+    "The tumbler holds about 8,000 grains, a big but finite number",
     "The tumbler holds 240 grains"
    ],
-   "a": 0,
+   "a": 1,
    "why": "200 times 40 is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.",
    "outcome": 3,
    "how": "e2"
@@ -2124,11 +2124,11 @@
    "t": "mcq",
    "p": "Some people say the grains of sand on all the beaches are infinite. What would you tell them?",
    "opts": [
-    "The sand has a number, even if it is huge, because the beaches do not go on for ever",
     "The sand really is infinite",
+    "The sand has a number, even if it is huge, because the beaches do not go on for ever",
     "Sand can't be counted at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A beach has an end, so its grains can be given a number, even a huge one. A huge number is still a number. Archimedes showed this long ago.",
    "outcome": 5
   },
@@ -2136,11 +2136,11 @@
    "t": "mcq",
    "p": "Which question about infinity does nobody know the answer to yet?",
    "opts": [
-    "Does space go on for ever?",
     "Is there a biggest number?",
+    "Does space go on for ever?",
     "Is a crore bigger than a lakh?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nobody knows yet whether space is infinite. But we do know there is no biggest number, and that a crore is a hundred lakh.",
    "outcome": 5
   }

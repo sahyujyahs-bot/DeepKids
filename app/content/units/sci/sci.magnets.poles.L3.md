@@ -429,10 +429,10 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    Options: They attract / They repel / Nothing happens  
    **Answer:** They attract. *Why:* Unlike poles attract. A north pole and a south pole are unlike poles. A strong answer says the rule, not just the answer.
 2. (mcq) Push two south poles towards each other. What do you feel?  
-   Options: A pull / A push / Nothing  
+   Options: A pull / Nothing / A push  
    **Answer:** A push. *Why:* Two south poles are like poles, and like poles repel. So you feel a push, even before the magnets touch.
 3. (mcq) Roll a bar magnet in a pile of paper clips. Where do most clips cling?  
-   Options: In the middle / At the two ends / All along it evenly  
+   Options: At the two ends / In the middle / All along it evenly  
    **Answer:** At the two ends. *Why:* A magnet's force is strongest at its poles. On a bar magnet, the poles are at the two ends. Picking 'the middle' usually means thinking the force is strongest where the magnet is thickest or heaviest.
 4. (mcq) A bar magnet floats on a plastic lid in a tub of water. It stops turning. What does its north pole point to?  
    Options: North / The nearest wall / Up  
@@ -457,19 +457,19 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
 13. (perspective) Two friends each have an unmarked bar magnet. They disagree about how to find its north pole.  
    **Answer:** Both ways work. Floating the magnet needs no other magnet, only a tub of water, and it shows why the pole is called north. Holding it near a marked magnet is quicker, but only works if the marked magnet is marked correctly. A strong answer picks one way with a reason and says what is good about the other.. *Why:* There is no single right answer. Each way has a strength. Peregrinus used floating in 1269, then used one known magnet to test others.
 14. (mcq) Two bar magnets are attracting each other. You turn one of them round, end to end. What happens now?  
-   Options: They repel / They attract more strongly / Nothing changes  
+   Options: They attract more strongly / Nothing changes / They repel  
    **Answer:** They repel. *Why:* Turning one magnet round changes which poles face each other. Unlike poles became like poles, and like poles repel.
 15. (write) Predict: a bar magnet floats on a lid in a tub. A friend holds the north end of another magnet 3 cm from the floating magnet's south end. What does the lid do, and why?  
    **Answer:** The lid moves towards the friend's magnet, because a north pole and a south pole attract.. *Why:* A strong answer names the two poles that face each other and uses the rule, not only the result.
 ### Poles Puzzles (stretch) (stretch, 15 questions)
 1. (mcq) The carriages of a toy train have magnets at each end. One carriage will not join the next. What should you try first?  
-   Options: Turn that carriage round / Glue it on / Use a heavier carriage  
+   Options: Glue it on / Turn that carriage round / Use a heavier carriage  
    **Answer:** Turn that carriage round. *Why:* If like poles are facing, the carriages repel. Turning one round makes unlike poles face, and they attract.
 2. (mcq) You move a magnet slowly towards a floating magnet boat. When does the boat start to move?  
-   Options: As soon as the magnet is in the room / Only when the magnets touch / When the magnet comes within a few centimetres  
+   Options: As soon as the magnet is in the room / When the magnet comes within a few centimetres / Only when the magnets touch  
    **Answer:** When the magnet comes within a few centimetres. *Why:* Magnetic force gets weaker very quickly with distance. Far away it is too weak to move the boat. Within a few centimetres it is strong enough.
 3. (mcq) Two bendy fridge magnets slide smoothly one way but bump the other way. What does that tell you?  
-   Options: The magnet is broken / Its face has stripes of north and south poles / It has no poles  
+   Options: Its face has stripes of north and south poles / The magnet is broken / It has no poles  
    **Answer:** Its face has stripes of north and south poles. *Why:* Each bump is the magnet crossing a stripe that attracts and then one that repels. So the face has many poles in stripes.
 4. (truefalse) True or false: the north pole of a bar magnet is stronger than the south pole.  
    **Answer:** False. *Why:* False. Both poles of a bar magnet are equally strong. A strong answer suggests a test: count the paper clips each end can pick up.
@@ -499,10 +499,10 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    **Answer:** The boat moved towards your south end → Unlike poles attract; The boats pushed apart at first → Like poles repel; One boat then turned round → A free magnet is twisted by the push; Fridge magnets bumped as they slid → Their faces have stripes of poles. *Why:* Each thing you saw has a reason from the rule of poles, or from the stripes of poles on a bendy magnet.
 ### Free Magnets (challenge) (challenge, 15 questions)
 1. (mcq) Petrus Peregrinus drew a wheel with iron teeth and a magnet, and thought it would turn forever, because the south pole would push the iron away. What was wrong?  
-   Options: Iron is attracted by both poles / The wheel was too heavy / Magnets do not work in Italy  
+   Options: The wheel was too heavy / Magnets do not work in Italy / Iron is attracted by both poles  
    **Answer:** Iron is attracted by both poles. *Why:* A magnet attracts plain iron with both poles. So no pole pushed the teeth away, and the wheel could not keep turning.
 2. (mcq) On 14 February 1982, a detector at Stanford University recorded one signal that looked like a north pole on its own. Why do scientists still say nobody knows if such poles exist?  
-   Options: The signal was never seen again / The detector was a toy / It was on a holiday  
+   Options: The detector was a toy / The signal was never seen again / It was on a holiday  
    **Answer:** The signal was never seen again. *Why:* In science, one result that never happens again is not enough. Many bigger searches since have found nothing.
 3. (truefalse) True or false: a magnet hanging on a thread can stay facing a magnet that repels it, without turning, for as long as you like.  
    **Answer:** False. *Why:* False. A magnet on a thread is free to turn. When repelled, it twists round until unlike poles face, and then it is attracted.
@@ -542,7 +542,7 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    Options: Poles / Sides / Corners  
    **Answer:** Poles. *Why:* The ends, where the force is strongest, are called poles: a north pole and a south pole.
 2. (mcq) You hold a north pole near another north pole. What happens?  
-   Options: They repel / They attract / Nothing  
+   Options: They attract / They repel / Nothing  
    **Answer:** They repel. *Why:* Like poles repel. Picking 'attract' mixes up the rule.
 3. (mcq) You hold a south pole near a north pole. What happens?  
    Options: They attract / They repel / Nothing  
@@ -560,16 +560,16 @@ On Saturday, the fifty trains went to Bengaluru. Every carriage could join every
    Options: Turn and stick together / Stay apart / Sink  
    **Answer:** Turn and stick together. *Why:* They push apart, but the push twists them. One turns until unlike poles face, then they attract.
 8. (mcq) In the Magnet Boats test, why do you let go gently, without pushing?  
-   Options: So only the magnets move the boats / So the water stays warm / So the boats go faster  
+   Options: So the water stays warm / So the boats go faster / So only the magnets move the boats  
    **Answer:** So only the magnets move the boats. *Why:* A fair test changes only one thing. A push from your hand would mix up the result.
 9. (mcq) A magnet is cut in two. What does each piece have?  
-   Options: A north and a south pole / Only one pole / No poles  
+   Options: Only one pole / A north and a south pole / No poles  
    **Answer:** A north and a south pole. *Why:* Each piece is a whole magnet with both poles.
 10. (mcq) The Earth's magnetic pole in the Arctic attracts the north pole of a compass. What kind of pole is it?  
-   Options: A south pole / A north pole / Not a pole  
+   Options: A north pole / Not a pole / A south pole  
    **Answer:** A south pole. *Why:* Unlike poles attract, so it must be a magnetic south pole, even though it is in the north.
 11. (mcq) Why does a bendy fridge magnet bump when you slide it across another one?  
-   Options: It has stripes of north and south poles / It is wet / It is broken  
+   Options: It is wet / It has stripes of north and south poles / It is broken  
    **Answer:** It has stripes of north and south poles. *Why:* The face has thin stripes of poles. As you slide across them, the magnets attract, then repel, then attract again.
 
 ## Applications

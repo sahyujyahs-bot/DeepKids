@@ -1504,10 +1504,10 @@
      "p": "In the dough test, which piece could not become a soft ball again?",
      "opts": [
       "The squashed piece",
-      "The frozen piece",
-      "The cooked piece"
+      "The cooked piece",
+      "The frozen piece"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The tawa changed the dough into roti, a new material. Picking the frozen piece may mean the child did not wait for it to warm up in their hands.",
      "context": "This question is about the dough test. You squashed one piece of atta dough, put one in the freezer and a grown-up cooked one on a hot tawa. Then you tried to make each one a soft ball again.",
      "how": "e1"
@@ -1856,11 +1856,11 @@
    "t": "mcq",
    "p": "You squash a ball of dough flat. What is it made of now?",
    "opts": [
-    "Atta dough, the same as before",
     "A new material",
-    "Roti"
+    "Roti",
+    "Atta dough, the same as before"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Squashing changes only the shape. It is still the same dough. Picking 'roti' mixes up squashing with cooking.",
    "outcome": 0,
    "how": "e1"
@@ -1895,11 +1895,11 @@
    "t": "mcq",
    "p": "Which one is most likely to snap if you bend it a lot?",
    "opts": [
-    "A rubber eraser",
     "A toothpick",
+    "A rubber eraser",
     "A kitchen sponge"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A dry toothpick bends only a little, then snaps. The eraser and sponge spring back.",
    "outcome": 2,
    "how": "e2"
@@ -1908,11 +1908,11 @@
    "t": "mcq",
    "p": "Ghee goes hard in the fridge. Can this change be undone?",
    "opts": [
-    "Yes, it melts when it is warmed",
     "No, it stays hard for ever",
+    "Yes, it melts when it is warmed",
     "Only if you add water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Cooling made the ghee solid, and warming melts it again. This is a reversible change.",
    "outcome": 3
   },
@@ -1920,11 +1920,11 @@
    "t": "mcq",
    "p": "In a kitchen, what makes most of the changes that cannot be undone?",
    "opts": [
-    "Squashing",
     "Heating",
+    "Squashing",
     "Cooling"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Heating makes roti, dosa, popcorn and boiled eggs, which never go back. Squashing and cooling can usually be undone.",
    "outcome": 4
   },
@@ -1944,11 +1944,11 @@
    "t": "mcq",
    "p": "Before the dough test, what should you do first?",
    "opts": [
-    "Guess what will happen, and say why",
     "Read the answer",
+    "Guess what will happen, and say why",
     "Cook all three pieces"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists guess first and give a reason. Then the test shows if the guess was right.",
    "outcome": 5
   },

@@ -613,11 +613,11 @@
       "t": "mcq",
       "q": "A thermometer hangs in full sun. What goes wrong?",
       "options": [
-       "It reads too high, because sunlight heats it",
        "It reads too low",
+       "It reads too high, because sunlight heats it",
        "Nothing goes wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sunlight heats the thermometer itself, so it shows more than the air's temperature. Weather stations keep thermometers in the shade for this reason."
      }
     },
@@ -689,10 +689,10 @@
       "q": "The 'wind' waves a newspaper from the south wall. What should the vane say?",
       "options": [
        "A north wind",
-       "A south wind",
-       "An east wind"
+       "An east wind",
+       "A south wind"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The wind comes from the south, so it is a south wind, and the vane points south. Saying 'a north wind' names where the wind is going, which is the common mix-up."
      }
     },
@@ -851,11 +851,11 @@
       "t": "mcq",
       "q": "Which of your readings is likely to be closest to the weather report?",
       "options": [
-       "The one in the sun",
        "The one in the shade, or under the paper roof",
+       "The one in the sun",
        "None of them could ever be close"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Weather stations keep their thermometers in a white shaded box, so they measure the air. Your shade and paper-roof readings were made the same way. Your street may still be a degree or two different from the weather station, which is often at an airport."
      }
     },
@@ -999,10 +999,10 @@
       "q": "The wide dabba and the narrow glass both have water about 12 mm deep. Which one caught more water?",
       "options": [
        "The narrow glass",
-       "The wide dabba",
-       "They caught the same amount"
+       "They caught the same amount",
+       "The wide dabba"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The wide dabba caught more water, because more rain fell on its wider opening. But it spread that water over a wider floor, so the depth came out the same. Picking 'the same amount' mixes up how deep the water is with how much water there is."
      }
     },
@@ -1130,11 +1130,11 @@
       "t": "mcq",
       "q": "On a clear day, when is the shade temperature usually highest?",
       "options": [
+       "In the middle of the afternoon",
        "At sunrise",
-       "At noon, exactly",
-       "In the middle of the afternoon"
+       "At noon, exactly"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The ground and buildings keep taking in sunlight and warming the air for hours after noon. Until mid-afternoon they gain more heat than they lose. Picking 'at noon' makes sense, because the sunlight is strongest then, but the air takes time to catch up."
      }
     },
@@ -1345,11 +1345,11 @@
       "t": "mcq",
       "q": "You wave a fan at the wind vane from the east. Where does the arrow point?",
       "options": [
-       "East, at the fan",
        "West, away from the fan",
-       "It spins round and round"
+       "It spins round and round",
+       "East, at the fan"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The wind pushes harder on the big tail, so the tail swings away from the wind. That turns the arrow to face into the wind, towards where it comes from. Picking 'away from the fan' is the most common mix-up: arrows usually point the way things move."
      }
     },
@@ -1546,11 +1546,11 @@
       "t": "mcq",
       "q": "Why does a sunny ledge get hotter than the air just above it?",
       "options": [
-       "Clear air lets most sunlight pass through, but the ledge takes it in",
        "The ledge is closer to the Sun",
-       "Air can never get warm"
+       "Air can never get warm",
+       "Clear air lets most sunlight pass through, but the ledge takes it in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Sunlight passes through clear air without warming it much. The ledge takes in the light and heats up, and then it warms the air touching it. That is why a thermometer must not touch a sunny wall or ledge. The ledge is not really closer to the Sun in any way that matters."
      }
     }
@@ -1663,10 +1663,10 @@
       "q": "You keep a weather diary for a week. The afternoon is warmer than the morning on all seven days. What is the best thing to say?",
       "options": [
        "Afternoons are always warmer, everywhere, forever",
-       "In this week, at my home, afternoons were warmer than mornings",
-       "My thermometer must be broken"
+       "My thermometer must be broken",
+       "In this week, at my home, afternoons were warmer than mornings"
       ],
-      "a": 1,
+      "a": 2,
       "why": "One week at one home shows a pattern for that week and that place. To say more, you would need more weeks and more places. That is why weather stations keep records for many years."
      }
     }
@@ -1858,12 +1858,12 @@
    "t": "mcq",
    "p": "One thermometer hangs in the sun and one in the shade, a metre apart. Which reads higher?",
    "opts": [
-    "The one in the sun",
     "The one in the shade",
     "They read the same",
-    "Neither works outside"
+    "Neither works outside",
+    "The one in the sun"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Sunlight heats the thermometer in the sun, so it reads higher than the air. Picking 'the same' means thinking a thermometer only feels the air.",
    "outcome": 0
   },
@@ -1871,12 +1871,12 @@
    "t": "mcq",
    "p": "What does a thermometer in the shade show?",
    "opts": [
-    "The temperature of the air",
     "How bright the sunlight is",
     "How much rain will fall",
+    "The temperature of the air",
     "The wind speed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In the shade, only the air warms or cools the thermometer, so it shows the air's temperature.",
    "outcome": 0
   },
@@ -1884,12 +1884,12 @@
    "t": "mcq",
    "p": "In the Sun or Shade test, why do we keep the thermometer at the same height and on the same thread each time?",
    "opts": [
-    "So that only the sunlight changes, and the test is fair",
     "So it looks neat",
     "Because the thread is magic",
-    "So it reads higher"
+    "So it reads higher",
+    "So that only the sunlight changes, and the test is fair"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A fair test changes only one thing. Here that thing is the sunlight.",
    "outcome": 1,
    "how": "e1"
@@ -1898,12 +1898,12 @@
    "t": "mcq",
    "p": "Rain fills a narrow straight glass to 15 mm. A wide straight dabba stands next to it. How deep is the water in the dabba?",
    "opts": [
-    "About 15 mm",
     "Much more than 15 mm",
     "Much less than 15 mm",
-    "It is empty"
+    "It is empty",
+    "About 15 mm"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Straight-sided containers fill to the same depth in the same rain. The dabba holds more water, at the same depth.",
    "outcome": 2,
    "how": "e2"
@@ -1924,11 +1924,11 @@
    "t": "mcq",
    "p": "On a windy day, the rain falls at a slant. What is the wind doing to the rain?",
    "opts": [
-    "Pushing the falling drops sideways",
     "Making the drops fall straight down faster",
-    "Making the drops smaller"
+    "Making the drops smaller",
+    "Pushing the falling drops sideways"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wind pushes the falling drops sideways, so the rain slants. Wind does not make the drops smaller, and gravity still pulls them down.",
    "outcome": 2
   },
@@ -1936,12 +1936,12 @@
    "t": "mcq",
    "p": "Rainfall is measured as...",
    "opts": [
-    "a depth, in millimetres",
     "a weight, in kilograms",
     "a temperature, in degrees",
-    "a number of drops"
+    "a number of drops",
+    "a depth, in millimetres"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Rain is measured as the depth of water it makes, in millimetres. That way, any straight-sided gauge gives the same answer.",
    "outcome": 2
   },
@@ -1949,12 +1949,12 @@
    "t": "mcq",
    "p": "A wind vane's arrow points north. What is the wind called?",
    "opts": [
-    "A north wind, coming from the north",
     "A south wind, going south",
     "A west wind",
-    "No wind"
+    "No wind",
+    "A north wind, coming from the north"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A vane points into the wind, to where it comes from. Winds are named for where they come from.",
    "outcome": 3,
    "how": "a2"
@@ -1977,12 +1977,12 @@
    "t": "mcq",
    "p": "On a dry day, you write '0 mm' in your weather diary. Is that useful?",
    "opts": [
-    "Yes, a dry day is a real reading",
     "No, only rainy days count",
     "No, you should guess a number",
-    "Only if it is cloudy"
+    "Only if it is cloudy",
+    "Yes, a dry day is a real reading"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A dry day is part of the record. Leaving it out would make the week look wetter than it was.",
    "outcome": 4
   },
@@ -2003,12 +2003,12 @@
    "t": "mcq",
    "p": "A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?",
    "opts": [
-    "The lowest air temperature that day was 27 °C",
     "27 mm of rain fell",
     "The wind blew at 27",
+    "The lowest air temperature that day was 27 °C",
     "It was 27 °C at noon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Min is the minimum, the lowest temperature of the day, usually just before sunrise.",
    "outcome": 6
   }
@@ -2069,12 +2069,12 @@
      "t": "mcq",
      "p": "A wind vane points east. Where is the wind coming from?",
      "opts": [
-      "From the east",
       "From the west",
       "From the north",
+      "From the east",
       "It is not blowing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A wind vane points into the wind, to where it comes from. So it is an east wind. Picking 'west' is the common mix-up of thinking the arrow shows where the wind is going.",
      "how": "a2"
     },
@@ -2233,11 +2233,11 @@
      "p": "Which of these tells you the most about how strong the wind is, without any tool?",
      "opts": [
       "Whether the sky is blue",
-      "Whether big branches are swaying",
       "Whether the road is dry",
+      "Whether big branches are swaying",
       "Whether it is morning"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Wind moves things: leaves, branches, clothes, flags. The bigger the thing it moves, the stronger the wind.",
      "how": "a3"
     }
@@ -2254,11 +2254,11 @@
      "p": "At 7 in the morning, a shade thermometer in Kochi reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?",
      "opts": [
       "About 24 °C",
-      "About 26 °C",
       "About 32 °C",
+      "About 26 °C",
       "About 50 °C"
      ],
-     "a": 2,
+     "a": 1,
      "why": "On a clear day the air keeps warming after noon, until the middle of the afternoon. So it will probably be a little warmer than at noon. 50 °C is far too high for shade air in Kochi.",
      "how": "e3"
     },
@@ -2393,12 +2393,12 @@
      "t": "mcq",
      "p": "Why are weather screens painted white?",
      "opts": [
-      "White reflects most sunlight, so the box stays cool",
       "White is easy to see from far away",
       "Paint keeps insects out",
+      "White reflects most sunlight, so the box stays cool",
       "Weather scientists like white"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A white surface reflects most sunlight. A dark box would heat up in the sun, warm the air inside, and the thermometer would read too high."
     },
     {
@@ -2466,12 +2466,12 @@
      "t": "mcq",
      "p": "In Korea in 1441, people stopped measuring rain by digging into the soil. Why was the soil a poor rain gauge?",
      "opts": [
-      "Soil is too heavy to carry",
       "Dry soil soaks up more rain than wet soil, so the same rain gave different answers",
+      "Soil is too heavy to carry",
       "Soil turns into mud",
       "Kings did not like digging"
      ],
-     "a": 1,
+     "a": 0,
      "why": "How deep the soil got wet depended on how dry it was before, and on the kind of soil. A metal vessel soaks up nothing, so it measures only the rain."
     },
     {
@@ -2538,12 +2538,12 @@
      "t": "mcq",
      "p": "A week of weather diary readings in Kochi, in July, shows the wind coming from the southwest on 6 days out of 7. What is the best conclusion?",
      "opts": [
-      "The southwest monsoon wind was blowing that week",
       "The vane is stuck",
       "Winds never change",
-      "The wind was going towards the southwest"
+      "The wind was going towards the southwest",
+      "The southwest monsoon wind was blowing that week"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In July, the southwest monsoon brings winds from the southwest over Kerala. The vane pointed southwest, into the wind. Picking 'going towards the southwest' is the common mix-up about which way a vane points."
     },
     {

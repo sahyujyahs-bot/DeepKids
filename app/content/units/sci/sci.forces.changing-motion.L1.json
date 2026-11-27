@@ -772,11 +772,11 @@
       "t": "mcq",
       "q": "An auto slows down at a red light. What made it slow down?",
       "options": [
-       "Its brakes pushed against the turning wheels",
        "The red light pulled it back",
+       "Its brakes pushed against the turning wheels",
        "It ran out of speed by itself"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A moving thing slows down when something pushes against its movement. The brakes press on the wheels and slow them down."
      }
     }
@@ -1085,11 +1085,11 @@
       "t": "mcq",
       "q": "You are walking fast and want to stop. What do your feet do?",
       "options": [
-       "Push forward against the floor",
        "Push back, like when you start",
-       "Nothing at all"
+       "Nothing at all",
+       "Push forward against the floor"
       ],
-      "a": 0,
+      "a": 2,
       "why": "To start, your feet push back on the floor. To stop, they push forward. The floor pushes back on you, against your movement, and you stop."
      }
     }
@@ -1259,11 +1259,11 @@
       "t": "mcq",
       "q": "The ball stopped sooner on a towel than on the bare floor. Why?",
       "options": [
-       "The towel rubbed against the ball more, pushing against its movement",
        "The towel pulled the ball forward",
+       "The towel rubbed against the ball more, pushing against its movement",
        "The ball was too heavy to roll"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The rubbing between the towel and the ball pushes against the ball's movement. The bigger rubbing on a towel slows it down sooner. This rubbing is called friction."
      }
     }
@@ -1374,11 +1374,11 @@
      "t": "mcq",
      "p": "You flick a bottle cap gently. It goes 2 tiles. Then you flick it hard. What will happen?",
      "opts": [
-      "It goes further than 2 tiles",
       "It goes only 1 tile",
-      "It does not move"
+      "It does not move",
+      "It goes further than 2 tiles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bigger push makes a bigger change. The hard flick makes the cap faster, so it goes further before it stops.",
      "how": "e2"
     },
@@ -1524,11 +1524,11 @@
      "t": "mcq",
      "p": "Two trolleys get the same gentle push. One is empty and one is full of heavy bags. Which one speeds up more?",
      "opts": [
-      "The empty trolley",
       "The full trolley",
+      "The empty trolley",
       "They speed up the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A heavy thing needs a bigger push to change its speed. The same push changes the empty trolley more."
     },
     {
@@ -1541,11 +1541,11 @@
      "t": "mcq",
      "p": "A cricketer pulls her hands back as she catches a fast ball. Why?",
      "opts": [
-      "The ball slows down over a longer time, so it stings less",
       "The ball goes faster",
+      "The ball slows down over a longer time, so it stings less",
       "Her hands get bigger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Pulling the hands back gives the ball more time to slow down. The push on her hands is then smaller."
     }
    ]
@@ -1568,11 +1568,11 @@
    "t": "mcq",
    "p": "A ball is rolling away from you. You tap it gently from behind. What happens?",
    "opts": [
-    "It goes faster",
     "It slows down",
-    "It stops"
+    "It stops",
+    "It goes faster"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A push the same way a thing is moving makes it go faster.",
    "outcome": 1
   },
@@ -1580,11 +1580,11 @@
    "t": "mcq",
    "p": "A ball is rolling towards you. You put your flat hand in front of it. What happens?",
    "opts": [
-    "It stops",
     "It goes faster",
+    "It stops",
     "It jumps over your hand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your hand pushes against the way the ball is moving, so it stops.",
    "outcome": 2
   },
@@ -1604,11 +1604,11 @@
    "t": "mcq",
    "p": "Which flick sends a bottle cap furthest?",
    "opts": [
-    "A hard flick",
     "A gentle flick",
+    "A hard flick",
     "No flick"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bigger push makes a bigger change, so a hard flick makes the cap faster and it goes further.",
    "outcome": 3
   },
@@ -1616,11 +1616,11 @@
    "t": "mcq",
    "p": "Why does a rolling ball slow down and stop on the floor?",
    "opts": [
-    "The floor and the air push against it",
     "Nothing pushes it. It just stops",
-    "It runs out of roll"
+    "It runs out of roll",
+    "The floor and the air push against it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The floor rubs against the ball and the air pushes on it. These small pushes against its movement slow it down.",
    "outcome": 4
   },
@@ -1628,11 +1628,11 @@
    "t": "mcq",
    "p": "You open a drawer by its handle, and it slides towards you. What started it moving?",
    "opts": [
-    "A pull",
     "A push from behind",
-    "No force at all"
+    "No force at all",
+    "A pull"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A force is a push or a pull. Pulling the handle makes the drawer start to move.",
    "outcome": 0
   },
@@ -1640,11 +1640,11 @@
    "t": "mcq",
    "p": "You are on a swing and want it to go slower. What can you do?",
    "opts": [
-    "Drag your feet on the ground",
     "Ask for a push from behind",
-    "Lean forward hard"
+    "Lean forward hard",
+    "Drag your feet on the ground"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your feet on the ground push against the swing's movement, so it slows down.",
    "outcome": 2
   },
@@ -1652,11 +1652,11 @@
    "t": "mcq",
    "p": "You guess that a tap from the front will make a ball go faster. You test it, and the ball slows down. What should you say?",
    "opts": [
-    "My guess was wrong. A tap from the front slows it down.",
     "The test was wrong.",
+    "My guess was wrong. A tap from the front slows it down.",
     "I will still say it goes faster."
    ],
-   "a": 0,
+   "a": 1,
    "why": "A good scientist trusts what the test shows, and changes their idea. A wrong guess is how we learn.",
    "outcome": 5
   },

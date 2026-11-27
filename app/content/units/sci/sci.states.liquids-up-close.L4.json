@@ -666,10 +666,10 @@
       "q": "A: a fish 1 metre down. B: a fish 3 metres down. Where is the push of water bigger?",
       "options": [
        "At A",
-       "At B",
-       "The same"
+       "The same",
+       "At B"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The deeper fish has more water above her, so she feels a bigger push. If you picked A, you may have thought that being nearer the top means a stronger push. Same would be right only if both fish were at the same depth."
      }
     },
@@ -1064,11 +1064,11 @@
       "t": "mcq",
       "q": "The two marks, 3 metres apart, are the same height from the floor. Why?",
       "options": [
-       "The water in the hose settles at the same level at both ends",
        "The wall is the same colour",
+       "The water in the hose settles at the same level at both ends",
        "The hose is longer than the wall"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water that can flow freely settles to the same level everywhere it is joined. So the water at both ends stands at the same height. The colour of the wall and the length of the hose have nothing to do with the water level."
      }
     },
@@ -1328,11 +1328,11 @@
       "t": "mcq",
       "q": "You squeezed one side of the bottle, and the water shot out of four holes at once. What does this show?",
       "options": [
-       "A push on a trapped liquid goes to every part of it",
        "Water likes to go round corners",
-       "The holes are all the same size"
+       "The holes are all the same size",
+       "A push on a trapped liquid goes to every part of it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The push you made on the water did not stay where your hand was. It travelled through the water to every hole. This is the rule that hydraulic machines use. The holes are the same size, but that does not explain why they all squirted at once."
      },
      "think": "Where else have you seen a push travel through a liquid? Think of a brake, or a syringe."
@@ -1423,11 +1423,11 @@
       "t": "mcq",
       "q": "Where does a dam wall need to be the thickest?",
       "options": [
-       "At the bottom, where the water is deepest and the push is the biggest",
        "At the top, where it is highest",
-       "Everywhere the same"
+       "Everywhere the same",
+       "At the bottom, where the water is deepest and the push is the biggest"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The push of the water is biggest at the bottom, so the wall must be strongest there. The top is the highest part, but the push there is the smallest, so it does not need to be thick. A wall that is the same everywhere would waste material at the top and risk breaking at the bottom."
      }
     },
@@ -1533,11 +1533,11 @@
       "t": "mcq",
       "q": "When you drink through a straw, what pushes the drink up?",
       "options": [
-       "The air pressure outside pushes down on the drink in the glass",
        "Your mouth pulls the drink up like a rope",
-       "The straw makes the water lighter"
+       "The straw makes the water lighter",
+       "The air pressure outside pushes down on the drink in the glass"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Drawing in your breath lowers the pressure inside the straw. The air outside is pushing on the surface of the drink, and this push drives the drink up the straw. 'Pulls like a rope' is how it feels, but the test with the sealed bottle shows it cannot be right. The straw does not make the water lighter."
      }
     },
@@ -1769,11 +1769,11 @@
       "t": "mcq",
       "q": "Raising the bottle onto a higher stool made the jet land farther. Why?",
       "options": [
-       "The jet had more time to fall before it hit the floor",
        "The push of the water was stronger",
-       "The hole was bigger"
+       "The hole was bigger",
+       "The jet had more time to fall before it hit the floor"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The jet leaves the hole at the same speed, but it has more time in the air before it hits the floor. So it travels farther. The push of the water depends on the depth above the hole, and that did not change. The hole is the same size."
      }
     },
@@ -1820,11 +1820,11 @@
    "t": "mcq",
    "p": "What does the push of water at a point depend on?",
    "opts": [
-    "How deep the point is",
     "How wide the container is",
-    "How much water is in the container"
+    "How much water is in the container",
+    "How deep the point is"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The push comes from the water straight above the point, so it depends on the depth only. The width and the amount of water do not change it.",
    "outcome": 3
   },
@@ -1832,11 +1832,11 @@
    "t": "mcq",
    "p": "When you dive deeper and deeper in a pool, your ears start to hurt. Why?",
    "opts": [
-    "The push of the water on your ears gets bigger with depth",
     "The water gets colder",
+    "The push of the water on your ears gets bigger with depth",
     "The water gets lighter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The deeper you go, the more water there is above you, so it pushes harder on your ears.",
    "outcome": 2
   },
@@ -1844,11 +1844,11 @@
    "t": "mcq",
    "p": "A kettle has water in it. How high does the water stand in the spout, compared with the body?",
    "opts": [
-    "The same height",
     "Higher in the spout",
-    "Higher in the body"
+    "Higher in the body",
+    "The same height"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water in joined containers settles at the same level, whatever their shapes.",
    "outcome": 4
   },
@@ -1856,11 +1856,11 @@
    "t": "mcq",
    "p": "A closed pipe is full of liquid. You push on a piston at one end. What happens?",
    "opts": [
-    "The push goes to every part of the liquid",
     "The push stays at the piston",
-    "The liquid disappears"
+    "The liquid disappears",
+    "The push goes to every part of the liquid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A push on a trapped liquid is passed on equally to every part of it. This is why hydraulic machines work.",
    "outcome": 5
   },
@@ -1911,11 +1911,11 @@
    "t": "mcq",
    "p": "When you drink through a straw, what pushes the drink up the straw?",
    "opts": [
-    "The air pressure on the drink in the glass",
     "Your mouth, which pulls like a rope",
+    "The air pressure on the drink in the glass",
     "The colour of the straw"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Drawing in your breath lowers the pressure in the straw. The air pushing on the drink in the glass is what drives it up.",
    "outcome": 1
   },
@@ -1942,11 +1942,11 @@
    "t": "mcq",
    "p": "A big piston has 10 times the area of a small piston, and the two are joined by a liquid. You push the small piston. What do you gain and what do you lose at the big piston?",
    "opts": [
-    "Ten times the force, but the big piston moves one tenth as far",
     "Ten times the force and ten times the distance",
-    "The same force but more distance"
+    "The same force but more distance",
+    "Ten times the force, but the big piston moves one tenth as far"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The same pressure on a bigger area gives a bigger force. But the same amount of liquid moves the big piston a shorter way.",
    "outcome": 5
   }
@@ -1962,11 +1962,11 @@
      "t": "mcq",
      "p": "What does the word pressure mean?",
      "opts": [
-      "How hard something pushes on each small part of a surface",
       "How heavy something is",
-      "How hot something is"
+      "How hot something is",
+      "How hard something pushes on each small part of a surface"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pressure is the push on each small bit of a surface. The same weight on a smaller area makes a bigger pressure. Picking 'how heavy' leaves out the area that the push is spread over.",
      "outcome": 1
     },
@@ -1974,11 +1974,11 @@
      "t": "mcq",
      "p": "A swimmer swims from 1 metre deep to 3 metres deep. What happens to the push of the water on her?",
      "opts": [
-      "It gets bigger",
       "It gets smaller",
-      "It stays the same"
+      "It stays the same",
+      "It gets bigger"
      ],
-     "a": 0,
+     "a": 2,
      "why": "There is more water above her at 3 metres, so the push is bigger. The deeper you go, the bigger the push.",
      "outcome": 2
     },
@@ -1998,11 +1998,11 @@
      "t": "mcq",
      "p": "A clear hose full of water has its two ends held against a wall, 3 metres apart. What do you expect about the water in the two ends?",
      "opts": [
-      "It stands at the same height in both ends",
       "It stands higher in the end held lower",
+      "It stands at the same height in both ends",
       "It stands higher in the end that is wider"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water that can flow freely settles to the same level everywhere it is joined. If one end were higher, the push would move water until the two levels were equal.",
      "outcome": 4
     },
@@ -2186,10 +2186,10 @@
      "p": "A tank and a thin tube are both filled with water to a depth of 3 metres. Which has the bigger push on each bit of its bottom?",
      "opts": [
       "The tank",
-      "The tube",
-      "They are the same"
+      "They are the same",
+      "The tube"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The push depends only on the depth. The tank pushes on a bigger area, so its total force is bigger, but each bit feels the same push.",
      "outcome": 3
     },
@@ -2209,11 +2209,11 @@
      "t": "mcq",
      "p": "Coconut oil 20 centimetres deep pushes less on the bottom of a jar than water 20 centimetres deep, though coconut oil is thicker. Why?",
      "opts": [
-      "Coconut oil is lighter for its size",
       "Coconut oil is slower",
-      "Coconut oil has no weight"
+      "Coconut oil has no weight",
+      "Coconut oil is lighter for its size"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The push comes from the weight of the liquid above. Oil is lighter than water for the same amount. How thick or runny a liquid is does not change the pressure.",
      "outcome": 2
     },
@@ -2420,11 +2420,11 @@
      "t": "mcq",
      "p": "A dam holds back water 30 metres deep. Every 10 metres of water pushes about as hard as the air does. Leave out the air itself. About how many times as hard as the air does the water push at the bottom?",
      "opts": [
-      "3 times",
       "30 times",
-      "The same as the air"
+      "The same as the air",
+      "3 times"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Every 10 metres of water adds about the push of the air. 30 divided by 10 is 3, so the water at the bottom pushes about 3 times as hard as the air does.",
      "outcome": 6
     },
@@ -2456,11 +2456,11 @@
      "t": "mcq",
      "p": "A bucket has one hole 8 centimetres below the water surface and another 2 centimetres below. How do the speeds of the two jets compare?",
      "opts": [
-      "The deeper jet is faster",
       "They are the same",
+      "The deeper jet is faster",
       "The shallower jet is faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The push is bigger at the deeper hole, so the water leaves it faster.",
      "outcome": 2
     },
@@ -2468,11 +2468,11 @@
      "t": "mcq",
      "p": "A giraffe has a very high blood pressure. What is the best reason?",
      "opts": [
-      "Her heart has to push blood up her long neck to her head",
       "Giraffes are very heavy",
+      "Her heart has to push blood up her long neck to her head",
       "Giraffes drink lots of water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Blood is a liquid, and the push needed to lift it grows with the height. A long neck needs a high pressure from the heart.",
      "outcome": 6
     },

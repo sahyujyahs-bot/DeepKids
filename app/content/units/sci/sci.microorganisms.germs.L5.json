@@ -992,11 +992,11 @@
       "t": "mcq",
       "q": "A family boils all their water. Which illness does this shield not protect against?",
       "options": [
-       "Typhoid",
        "Diabetes",
+       "Typhoid",
        "Cholera"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Boiling kills germs in water, so it protects against typhoid and cholera. Diabetes has no germ in the water behind it, so another shield is needed. Picking typhoid or cholera usually means forgetting that those two travel by water."
      },
      "context": "This is the last step of Which Shield? Here you count your cards and think about which illnesses have no germ to block."
@@ -1167,10 +1167,10 @@
       "q": "A map has 14 ill houses. Only 5 stand beside an earlier ill house. About 2 fell ill each day. Which rule made this map?",
       "options": [
        "The catching rule",
-       "The not-catching rule",
-       "Nobody can tell from a map"
+       "Nobody can tell from a map",
+       "The not-catching rule"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Under the catching rule every ill house but the first stands beside an earlier one, and the daily numbers grow. Here most ill houses have no earlier ill neighbour and the daily number is steady. Picking 'the catching rule' usually means counting any ill neighbours as proof. Some houses are neighbours by chance."
      },
      "parent": "This takes you about 8 minutes. To save time, your child can make the second pair while you make the first. A child working alone repeats steps 2 to 4 and sees whether the result holds.",
@@ -1311,11 +1311,11 @@
       "t": "mcq",
       "q": "A man smoked all his life and stayed well until he was 90. What does this show?",
       "options": [
-       "Tobacco is harmless",
        "A risk raises the chance but does not decide",
+       "Tobacco is harmless",
        "He must have had special lungs"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In the tobacco group about half the people stayed well, and the tobacco still tripled the number who fell ill. One person's story cannot show what a risk does. Picking 'tobacco is harmless' usually means judging from one case and not from the whole group."
      },
      "context": "In this step of the Risk Dice Test you compare a group of 30 people with tobacco and 30 without. You ask what the result can tell you about any one person."
@@ -1534,10 +1534,10 @@
       "q": "A person with a cough rests in a room. Which gives the people who visit the best protection?",
       "options": [
        "Door and window both shut",
-       "One window open",
-       "A window and the door on the far side open"
+       "A window and the door on the far side open",
+       "One window open"
       ],
-      "a": 2,
+      "a": 1,
       "why": "With two openings on different sides, air flows through the room and carries floating particles out, as in bottle C. One opening lets air out only slowly, as in bottle B. Picking 'both shut' usually means thinking that outside air brings the illness in."
      },
      "parent": "A strong answer says that smoke leaves when fresh air can flow through and push it out. Smoke is not germs. But the fine particles from a cough float and move in the same way.",
@@ -1624,11 +1624,11 @@
       "t": "mcq",
       "q": "Most of a family's illnesses are colds and coughs. Which road do these mostly use?",
       "options": [
-       "Air",
        "Water and food",
+       "Air",
        "Insects and ticks"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Colds and coughs are caused by viruses that travel in the breath of other people. Picking water and food usually means thinking of any stomach upset. Colds can also pass by touch, but the air is the main road."
      },
      "context": "This is the last step of Our Family's Illness List. Here you count the catching illnesses and find the road that came up most."
@@ -1809,11 +1809,11 @@
       "t": "mcq",
       "q": "A grown-up's face droops, one arm is weak and speech is slurred, all of a sudden. What do you do first?",
       "options": [
-       "Call 108 at once",
        "Wait to see if it passes",
+       "Call 108 at once",
        "Give the person a drink of water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "These are the signs of a stroke, which is a blocked or burst artery in the brain. Every minute without help harms more brain cells. Picking 'wait' is the most common mistake, because the signs may ease for a short time."
      },
      "context": "This is the last step of Our Emergency Card. Here you practise a call to 108, saying who you are, where you are, who is ill and what happened."
@@ -2495,11 +2495,11 @@
      "p": "Which of these diseases is caused by a germ?",
      "opts": [
       "Diabetes",
-      "Typhoid",
       "Anaemia",
-      "Asthma"
+      "Asthma",
+      "Typhoid"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Typhoid is caused by a bacterium who travels in water and food. Diabetes, anaemia and asthma begin inside the body, and no germ causes them.",
      "outcome": 0
     },
@@ -2589,12 +2589,12 @@
      "t": "mcq",
      "p": "Which protection blocks the mosquito road?",
      "opts": [
-      "A net over the bed",
       "A mask",
+      "A net over the bed",
       "Boiled water",
       "Washing hands"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A net keeps the mosquito from biting. A mask works on the air road, boiled water on the water road, and hand washing on the touch road.",
      "outcome": 2
     },
@@ -2628,10 +2628,10 @@
      "p": "Which of these diseases does a mosquito net not protect against?",
      "opts": [
       "Malaria",
-      "Filariasis",
-      "Cholera"
+      "Cholera",
+      "Filariasis"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Cholera travels by water and food, so a net does nothing against it. Malaria and filariasis are both carried by mosquitoes.",
      "outcome": 2
     },
@@ -2793,12 +2793,12 @@
      "t": "mcq",
      "p": "What does a risk factor do?",
      "opts": [
-      "Raises the chance of a disease",
       "Decides who falls ill",
       "Makes a disease catching",
+      "Raises the chance of a disease",
       "Cures a disease"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A risk factor changes how many people in a group fall ill. It does not decide what happens to any one person. Picking 'decides who falls ill' is the most common mistake.",
      "outcome": 3
     },
@@ -2815,11 +2815,11 @@
      "p": "What causes a heart attack?",
      "opts": [
       "A germ in the blood",
-      "A blocked artery of the heart",
       "Too much sleep",
+      "A blocked artery of the heart",
       "Cold weather"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A fatty layer narrows an artery, and a clot can block it. The heart muscle beyond the block gets no oxygen. Germs and cold weather are not the cause.",
      "outcome": 3
     },
@@ -2879,11 +2879,11 @@
      "t": "mcq",
      "p": "On a map, no ill house stands beside an earlier ill house. What does this suggest?",
      "opts": [
-      "The illness does not pass from person to person",
       "The illness is very contagious",
+      "The illness does not pass from person to person",
       "Everyone has the same germ"
      ],
-     "a": 0,
+     "a": 1,
      "how": "e1",
      "why": "A catching illness leaves chains, with each new ill house beside an earlier one. Scattered houses suggest the cases are not linked by contact. Mosquito diseases can look like this too, so the next step is to find what the ill people share.",
      "outcome": 4
@@ -2917,11 +2917,11 @@
      "t": "mcq",
      "p": "A child sits beside a classmate who has HIV. Which of these is safe?",
      "opts": [
-      "Sharing a tiffin box",
       "Sharing a used needle",
-      "Sharing a bandage with blood on it"
+      "Sharing a bandage with blood on it",
+      "Sharing a tiffin box"
      ],
-     "a": 0,
+     "a": 2,
      "why": "HIV does not pass by food, touch, toilets or mosquitoes. It passes by infected blood, a few body fluids and from mother to baby. A used needle or a bloody bandage can carry blood.",
      "outcome": 5
     },
@@ -3026,11 +3026,11 @@
      "t": "mcq",
      "p": "A child had measles. Now she breathes fast, has chest pain and brings up yellow phlegm. What is the family's worry, and what should they do?",
      "opts": [
-      "Pneumonia, which can follow measles, so they go to a doctor today",
       "A plain cold, so she should rest and wait a week",
-      "Dehydration, so she needs only ORS"
+      "Dehydration, so she needs only ORS",
+      "Pneumonia, which can follow measles, so they go to a doctor today"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fast breathing, chest pain and phlegm are signs of pneumonia, which can follow measles, flu or chickenpox. It is dangerous and needs a doctor at once.",
      "outcome": 1
     }
@@ -3046,11 +3046,11 @@
      "t": "mcq",
      "p": "Many ill people live around one well, and the nurses who care for them stay well. What is the best next step?",
      "opts": [
-      "Find what the ill share, and test the well",
       "Send everyone out of the village",
+      "Find what the ill share, and test the well",
       "Give every person an antibiotic"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A cluster and well nurses suggest a shared cause and not person-to-person spread. The next step is to test what they share and see if the cases stop when it is removed.",
      "outcome": 4
     },
@@ -3058,11 +3058,11 @@
      "t": "mcq",
      "p": "Which fact is the best evidence that a disease does not pass from person to person?",
      "opts": [
-      "Nurses who care for patients every day stay well",
       "Many patients live in one town",
+      "Nurses who care for patients every day stay well",
       "Patients feel very ill"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the disease passed from person to person, the nurses would fall ill. Dr Goldberger used this clue for pellagra. Many patients in one town, or feeling very ill, tell us nothing about the road.",
      "outcome": 4
     },
@@ -3070,11 +3070,11 @@
      "t": "mcq",
      "p": "A catching illness spreads through a school. Why do the daily cases first climb fast?",
      "opts": [
-      "Each ill child passes it on to more children",
       "Children get tired of school",
-      "The germ gets stronger each day"
+      "The germ gets stronger each day",
+      "Each ill child passes it on to more children"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each ill child can pass the germ to several others, so the number grows each day. It slows when fewer children are left to catch it, or when people take protection.",
      "outcome": 4
     },
@@ -3082,11 +3082,11 @@
      "t": "mcq",
      "p": "One sickle cell gene protects against malaria. Why is the gene common where malaria has been common?",
      "opts": [
-      "Carriers of one copy survived malaria more often",
       "Malaria causes the gene",
-      "Mosquitoes carry the gene"
+      "Mosquitoes carry the gene",
+      "Carriers of one copy survived malaria more often"
      ],
-     "a": 0,
+     "a": 2,
      "why": "People with one copy are well and are less likely to die of malaria. So they had more children, and the gene stayed common. People with two copies have a serious disease.",
      "outcome": 6
     },
@@ -3208,11 +3208,11 @@
      "t": "mcq",
      "p": "Which of these would lower the chance of a heart attack?",
      "opts": [
-      "Daily movement and no tobacco",
       "A mosquito net",
-      "Boiled water"
+      "Boiled water",
+      "Daily movement and no tobacco"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A heart attack comes from a blocked artery, and movement, no tobacco and less salt and fried food lower the chance. A net and boiled water protect against infections.",
      "outcome": 3
     },
@@ -3240,11 +3240,11 @@
    "t": "mcq",
    "p": "What is a vector?",
    "opts": [
-    "An animal who carries a germ between people",
     "A medicine that kills germs",
+    "An animal who carries a germ between people",
     "A symptom of a fever"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A vector carries a germ from one person to the next. A female Anopheles mosquito is the vector of malaria. A medicine is not a vector, and a fever is a symptom.",
    "outcome": 1
   },
@@ -3276,11 +3276,11 @@
    "t": "mcq",
    "p": "Which shield protects against typhoid?",
    "opts": [
-    "Boiled water and washed hands",
     "A mosquito net",
+    "Boiled water and washed hands",
     "An open window"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Typhoid travels by water and food. Boiling water and washing hands block that road. A net blocks mosquitoes, and an open window thins germs in the air.",
    "outcome": 2
   },
@@ -3296,10 +3296,10 @@
    "p": "Which of these diseases is non-infectious?",
    "opts": [
     "Measles",
-    "Asthma",
-    "Chickenpox"
+    "Chickenpox",
+    "Asthma"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Asthma is the airways reacting to smoke, dust or pollen, and no germ causes it. Measles and chickenpox are caused by viruses.",
    "outcome": 0
   },
@@ -3319,11 +3319,11 @@
    "t": "mcq",
    "p": "In diabetes, what stays too high in the blood?",
    "opts": [
-    "Sugar",
     "Iron",
-    "Germs"
+    "Germs",
+    "Sugar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Insulin lets sugar pass from the blood into the cells. In diabetes there is too little insulin, or the cells do not respond to it, so sugar stays in the blood.",
    "outcome": 3
   },
@@ -3364,11 +3364,11 @@
    "t": "mcq",
    "p": "Which of these is something scientists still argue about?",
    "opts": [
-    "Whether too little early contact with microbes raises allergies",
     "Whether hand washing prevents cholera",
+    "Whether too little early contact with microbes raises allergies",
     "Whether mosquitoes carry malaria"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The hygiene hypothesis is still being tested. Hand washing and the mosquito road of malaria are settled facts.",
    "outcome": 6
   },
@@ -3376,11 +3376,11 @@
    "t": "mcq",
    "p": "Plants cannot be given a vaccine like a calf. How can a farmer stop a plant germ from spreading?",
    "opts": [
-    "Pick off the ill leaves, wash the tools and sow seed from healthy plants",
     "Do nothing, because plants never fall ill from germs",
+    "Pick off the ill leaves, wash the tools and sow seed from healthy plants",
     "Water the plants only at night, which kills every germ"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants do fall ill from germs. Removing ill leaves, cleaning tools and using healthy seed block the roads the germs travel. Watering at night kills nothing.",
    "outcome": 0
   },
@@ -3388,11 +3388,11 @@
    "t": "mcq",
    "p": "Why do doctors want street dogs to be vaccinated against rabies?",
    "opts": [
-    "It protects the dogs and the people they might bite",
     "It stops the dogs from barking",
-    "A vaccinated dog's bite never needs washing"
+    "A vaccinated dog's bite never needs washing",
+    "It protects the dogs and the people they might bite"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rabies passes by a bite. A vaccinated dog does not get rabies, so she cannot pass it on. Any bite must still be washed with soap and running water.",
    "outcome": 2
   },
@@ -3400,11 +3400,11 @@
    "t": "mcq",
    "p": "Which is a time to wash your hands with soap?",
    "opts": [
-    "After using the toilet and before eating",
     "Only when your hands look dirty",
-    "Only when you have a cold"
+    "Only when you have a cold",
+    "After using the toilet and before eating"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Germs on hands cannot be seen. The toilet and the meal are the two most important times, because hands carry germs from stools to the mouth.",
    "outcome": 2
   },
@@ -3412,11 +3412,11 @@
    "t": "mcq",
    "p": "Which is the best way to wash your hands?",
    "opts": [
-    "Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse",
     "A quick rinse under the tap",
-    "Wipe them on your clothes"
+    "Wipe them on your clothes",
+    "Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soap lifts the germs off the skin, and the rubbing reaches the places where germs hide. A quick rinse or a wipe leaves most of them behind.",
    "outcome": 2
   },
@@ -3436,11 +3436,11 @@
    "t": "mcq",
    "p": "A boy has coughed for three weeks. What should his family do?",
    "opts": [
-    "Take him to a doctor for a test",
     "Wait, because a cough always goes away",
-    "Give him a cold bath"
+    "Give him a cold bath",
+    "Take him to a doctor for a test"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cough that lasts more than two weeks can be TB. TB is cured with medicine taken every day, and the tests and medicine are free at government health centres.",
    "outcome": 1
   },
@@ -3448,11 +3448,11 @@
    "t": "mcq",
    "p": "Hari got wet in the rain and two days later he has a cold. What most likely caused the cold?",
    "opts": [
-    "A cold virus he breathed in from someone who had it",
     "The rain on his hair",
+    "A cold virus he breathed in from someone who had it",
     "Not eating enough amla"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cold needs a virus. Rain has no cold virus in it. The virus was probably around before he got wet.",
    "outcome": 1
   },
@@ -3460,11 +3460,11 @@
    "t": "mcq",
    "p": "How do scabies mites pass from one child to another?",
    "opts": [
-    "By skin and by shared clothes, towels and bedding",
     "By a mosquito bite",
+    "By skin and by shared clothes, towels and bedding",
     "By drinking water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scabies is a touch-road disease. The mites walk from skin to skin and onto cloth that is shared. A mosquito or water cannot carry them.",
    "outcome": 1
   },
@@ -3472,11 +3472,11 @@
    "t": "mcq",
    "p": "Why should people not spit in the street?",
    "opts": [
-    "Spit from a person with a cold or TB carries germs onto the ground",
     "Spit makes the road wet",
-    "Spit is a waste of water"
+    "Spit is a waste of water",
+    "Spit from a person with a cold or TB carries germs onto the ground"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Spit carries the germs that were in the mouth and chest. A child who plays there can pick them up. Keeping the street clean blocks that road.",
    "outcome": 2
   }

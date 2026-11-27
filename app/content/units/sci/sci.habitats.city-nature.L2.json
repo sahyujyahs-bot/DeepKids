@@ -757,11 +757,11 @@
       "t": "mcq",
       "q": "Which round usually gives the fewest words heard?",
       "options": [
-       "Round 2: soft words with the noise on",
        "Round 1: soft words with no noise",
-       "Round 3: loud words with the noise on"
+       "Round 3: loud words with the noise on",
+       "Round 2: soft words with the noise on"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The loud noise covered the soft words, so many were lost. With no noise, soft words were easy to hear. With the noise on, a loud voice got through again. Many city birds sing louder or higher over traffic, for the same reason."
      }
     }
@@ -919,11 +919,11 @@
       "t": "mcq",
       "q": "Why do pigeons like window ledges?",
       "options": [
-       "Ledges are like the cliff ledges where wild pigeons nest",
        "Ledges are warm like an oven",
+       "Ledges are like the cliff ledges where wild pigeons nest",
        "Pigeons can only stand on stone"
       ],
-      "a": 0,
+      "a": 1,
       "why": "City pigeons come from wild rock doves, who nest on cliff ledges and in caves. A window ledge on a tall building is like a cliff ledge to a pigeon."
      }
     }
@@ -989,11 +989,11 @@
       "t": "mcq",
       "q": "On a hot afternoon, where would a street dog most likely sleep?",
       "options": [
-       "In the shade of a tree or a parked car",
        "In the middle of the sunny road",
-       "On top of a hot metal gate"
+       "On top of a hot metal gate",
+       "In the shade of a tree or a parked car"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The shade is cooler, as you felt with your hand. Dogs choose cool places to rest on hot days."
      }
     }
@@ -1147,11 +1147,11 @@
       "t": "mcq",
       "q": "Suppose you see a gecko by the light at dusk and a squirrel on the tree at noon. What does this show?",
       "options": [
-       "Different beings use the street at different times",
        "Geckos and squirrels are the same",
-       "Nobody lives on the street at night"
+       "Nobody lives on the street at night",
+       "Different beings use the street at different times"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Some beings are active in the day, like squirrels. Some are nocturnal, like geckos. The same street is busy at every hour, with different beings."
      }
     }
@@ -1235,11 +1235,11 @@
       "t": "mcq",
       "q": "Why would a quiet zone near the trees help the birds?",
       "options": [
-       "Their songs would not be covered by noise",
        "Quiet makes the trees grow taller",
-       "Birds cannot fly near noise"
+       "Birds cannot fly near noise",
+       "Their songs would not be covered by noise"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Birds sing to find mates and to mark their homes. In a quiet place, their songs can be heard much farther."
      }
     }
@@ -1402,11 +1402,11 @@
      "t": "mcq",
      "p": "Traffic noise is mostly a low, deep rumble. Which bird song is easiest to hear over the rumble?",
      "opts": [
-      "A high, sharp song",
       "A low, deep song",
+      "A high, sharp song",
       "A very soft song"
      ],
-     "a": 0,
+     "a": 1,
      "why": "High notes sit above the low rumble, so they are not covered as much. This is why great tits in noisy city places sing higher songs."
     },
     {
@@ -1544,11 +1544,11 @@
    "t": "mcq",
    "p": "What is a habitat?",
    "opts": [
-    "The place where a living being lives and finds what they need",
     "Only a forest far away",
+    "The place where a living being lives and finds what they need",
     "A kind of food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A habitat gives water, food, air, shelter and the right warmth. A city is a habitat too.",
    "outcome": 0
   },
@@ -1556,11 +1556,11 @@
    "t": "mcq",
    "p": "Which of these beings lives in Indian cities?",
    "opts": [
-    "The palm squirrel",
     "The blue whale",
-    "The polar bear"
+    "The polar bear",
+    "The palm squirrel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Palm squirrels live in trees in towns all over India. Whales live in the sea and polar bears in the far north.",
    "outcome": 0
   },
@@ -1568,11 +1568,11 @@
    "t": "mcq",
    "p": "A crow wants a safe place high up for her nest. What does a street tree give her?",
    "opts": [
-    "A high fork in the branches for a stick nest",
     "A cave to hide in",
-    "A pond to swim in"
+    "A pond to swim in",
+    "A high fork in the branches for a stick nest"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Crows build stick nests high in the fork of a branch, where the nest is safer.",
    "outcome": 1
   },
@@ -1580,11 +1580,11 @@
    "t": "mcq",
    "p": "Koels, barbets and fruit bats all visit a peepal tree. Why?",
    "opts": [
-    "To eat the small figs",
     "To drink the sap",
+    "To eat the small figs",
     "To hide from the rain only"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Peepal trees grow many small figs, and many birds, squirrels and bats eat them.",
    "outcome": 1
   },
@@ -1592,11 +1592,11 @@
    "t": "mcq",
    "p": "Wild pigeons nest on cliff ledges. Where do city pigeons often nest?",
    "opts": [
-    "On window ledges and air conditioner boxes",
     "In holes in the ground",
-    "Under water"
+    "Under water",
+    "On window ledges and air conditioner boxes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A ledge on a tall building is like a ledge on a cliff.",
    "outcome": 2
   },
@@ -1629,11 +1629,11 @@
    "t": "mcq",
    "p": "In the Words in the Noise experiment, why did the listener face the wall?",
    "opts": [
-    "So they could not read the speaker's lips",
     "So the noise was quieter",
-    "So they could see the words"
+    "So they could see the words",
+    "So they could not read the speaker's lips"
    ],
-   "a": 0,
+   "a": 2,
    "how": "e1",
    "why": "If the listener saw the lips move, they could guess words without hearing them. Facing the wall makes it a test of hearing only.",
    "outcome": 3
@@ -1642,11 +1642,11 @@
    "t": "mcq",
    "p": "What do many birds who live by busy roads do?",
    "opts": [
-    "Sing louder, higher, or at quieter times",
     "Stop singing for ever",
-    "Sing only underwater"
+    "Sing only underwater",
+    "Sing louder, higher, or at quieter times"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They change their songs so other birds can still hear them over the traffic.",
    "outcome": 4
   },
@@ -1654,11 +1654,11 @@
    "t": "mcq",
    "p": "City birds sing loudly to be heard over the traffic. If the roads suddenly went quiet for weeks, what would you expect the birds to do?",
    "opts": [
-    "Sing more softly",
     "All fly away",
+    "Sing more softly",
     "Sing much louder"
    ],
-   "a": 0,
+   "a": 1,
    "why": "With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in San Francisco in 2020, the birds sang more softly.",
    "outcome": 4
   },
@@ -1666,11 +1666,11 @@
    "t": "mcq",
    "p": "You see a street dog with puppies under a car. What is the kind and safe thing to do?",
    "opts": [
-    "Watch from a distance and leave them in peace",
     "Pick up a puppy to hold",
-    "Shout so they move away"
+    "Shout so they move away",
+    "Watch from a distance and leave them in peace"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mother dog protects her puppies and may bite if you come close. Watching from a distance keeps everyone safe.",
    "outcome": 5
   }

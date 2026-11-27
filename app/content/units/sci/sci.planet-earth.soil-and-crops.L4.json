@@ -1182,11 +1182,11 @@
       "t": "mcq",
       "q": "Why do we fill all three cups to the same line and tap them five times?",
       "options": [
-       "So the cups look neat",
        "So only the size of the grains is different",
+       "So the cups look neat",
        "So the water has less to climb"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In a fair test, only one thing changes. If one cup were packed tighter or filled higher, you would not know whether the grains or the packing made the difference."
      },
      "context": "In this step you fill three cups with the same height of dry material."
@@ -1239,10 +1239,10 @@
       "q": "The gravel cup stayed almost dry, and the sand cup was wet to the top. What does this show?",
       "options": [
        "Gravel is heavier than sand",
-       "Very wide gaps cannot lift water far",
-       "Sand is made of water"
+       "Sand is made of water",
+       "Very wide gaps cannot lift water far"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water is pulled up by its stickiness to the grains at the edges of a gap. In very wide gaps most of the water is too far from a grain to be pulled. In narrow gaps all the water is close to a grain, so it is lifted. Gravel is heavier than sand, but weight is not the cause."
      },
      "context": "This step asks you to say what you found, what you saw and why. Scientists call it claim, evidence and reasoning."
@@ -1415,11 +1415,11 @@
       "t": "mcq",
       "q": "Why is one saucer given plain water with no salt?",
       "options": [
-       "To show how the seeds sprout without any salt",
        "To make the test longer",
+       "To show how the seeds sprout without any salt",
        "To have one saucer that looks different"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The plain saucer is the comparison. If the seeds in plain water sprout well, then any seeds that do not sprout in the salty saucers fail because of the salt, and not because the seeds were old."
      },
      "context": "In this step you make four waters with different amounts of salt."
@@ -1470,11 +1470,11 @@
       "t": "mcq",
       "q": "A farmer's field has a white crust of salt on the top after many years of watering. Why are the seeds she sows there growing badly?",
       "options": [
-       "The salt makes it hard for seeds and roots to take in water",
        "The salt makes the soil too cold",
-       "The salt feeds the seeds too much"
+       "The salt feeds the seeds too much",
+       "The salt makes it hard for seeds and roots to take in water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Salty water holds on to its water tightly, so seeds and roots find it hard to drink. That is what happened in the salty saucers. Salt is not a food for plants, so more of it does not feed them more."
      },
      "context": "This step asks you to say what you found, what you saw and why."
@@ -1673,11 +1673,11 @@
       "t": "mcq",
       "q": "A gardener covers the soil of a pot with dry leaves in summer. What is she trying to do?",
       "options": [
-       "Slow down evaporation from the soil",
        "Make the soil hotter",
-       "Stop the plant growing"
+       "Stop the plant growing",
+       "Slow down evaporation from the soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The leaves shade the soil and stop the wind from reaching it, so less water escapes into the air. Mulch also breaks down into humus over time."
      },
      "context": "This step asks you to say what you found, what you saw and why."
@@ -1811,11 +1811,11 @@
       "t": "mcq",
       "q": "A soil makes a long smooth ribbon when wet. What does this say about the soil?",
       "options": [
-       "It has a lot of clay in it",
        "It is mostly sand",
-       "It has no water in it"
+       "It has no water in it",
+       "It has a lot of clay in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Clay grains are the smallest and stickiest, so they hold together in a long ribbon. Sand grains are too big and smooth to stick, so a sandy soil falls apart."
      },
      "context": "In this step you make a ribbon from each soil, to feel how much clay it has."
@@ -2013,11 +2013,11 @@
       "t": "mcq",
       "q": "A cut nodule is bright pink inside. What does this tell you?",
       "options": [
-       "The nodule is working and fixing nitrogen",
        "The nodule is full of juice",
+       "The nodule is working and fixing nitrogen",
        "The nodule is rotting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The pink comes from a substance the nodule makes to hold oxygen back, because oxygen damages the enzyme the bacteria use to fix nitrogen. A white or green nodule is no longer working."
      },
      "context": "In this step you cut open a nodule to see if it is working."
@@ -2101,11 +2101,11 @@
       "t": "mcq",
       "q": "The card says nitrogen is low and humus is low. Which two things help most?",
       "options": [
-       "Grow a pulse and add compost",
        "Add salt and grow rice again",
-       "Leave the field bare and do nothing"
+       "Leave the field bare and do nothing",
+       "Grow a pulse and add compost"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A pulse brings nitrogen into the soil, and compost adds humus. Salt would harm the crop, and doing nothing leaves both problems."
      },
      "context": "In this step you choose what the field needs."
@@ -2211,11 +2211,11 @@
       "t": "mcq",
       "q": "The all-clay plate cracked and the sandy plate hardly did. What is the best reason?",
       "options": [
-       "Clay holds a lot of water and shrinks a lot as it dries",
        "Sand is heavier than clay",
+       "Clay holds a lot of water and shrinks a lot as it dries",
        "Clay is hotter than sand"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Clay grains are tiny and hold a lot of water between them. As the water leaves, the clay shrinks, and the shrinking pulls it apart into cracks. Sand holds little water and hardly shrinks."
      },
      "context": "In this step you look at the two plates after one day."
@@ -2313,11 +2313,11 @@
       "t": "mcq",
       "q": "The ash water turns the purple liquid blue-green. What does this tell you?",
       "options": [
-       "Ash is alkaline",
        "Ash is acidic",
+       "Ash is alkaline",
        "Ash has no effect"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Blue-green is the colour the purple liquid turns in an alkaline liquid, like baking soda. Many chalky soils and ash are alkaline too."
      },
      "context": "In this step you test soil water and ash (or chalk) water with the purple liquid."
@@ -2400,11 +2400,11 @@
       "t": "mcq",
       "q": "In the jar, the layer at the very bottom is made of the biggest grains. What is it?",
       "options": [
-       "Sand",
        "Clay",
+       "Sand",
        "Humus"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The biggest grains are the heaviest, so they sink first and make the bottom layer. Clay grains are the smallest and settle last, or stay floating as cloudy water. Humus is light and floats."
      }
     },
@@ -2557,11 +2557,11 @@
       "t": "mcq",
       "q": "Methi in the pot that grew moong stands taller and greener. What is the best explanation?",
       "options": [
-       "Bacteria in the moong roots added nitrogen to the soil",
        "Methi likes the smell of moong",
+       "Bacteria in the moong roots added nitrogen to the soil",
        "The moong plants kept the Sun off"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Moong roots carry nitrogen-fixing bacteria, and the roots left in the pot add nitrogen as they rot. Methi leaves use nitrogen to grow green. Other differences between the pots can also matter, so this is a hint, and not a proof."
      }
     }
@@ -2665,11 +2665,11 @@
       "t": "mcq",
       "q": "Your wick pulled water from the bottle into the soil. What lifted the water?",
       "options": [
-       "Water sticking to the threads of the cloth and pulling the water behind it",
        "The wick pumped the water",
-       "The soil sucked the water"
+       "The soil sucked the water",
+       "Water sticking to the threads of the cloth and pulling the water behind it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The wick works like the cup of sand in the Water Climb test. Water sticks to the fine threads, and pulls on the water behind it, so it climbs. Nothing pumps it and nothing sucks it."
      }
     }
@@ -2827,10 +2827,10 @@
      "p": "Water climbed about 1 centimetre in a cup of gravel and nearly to the top of a cup of sand. Why did gravel lift the water so little?",
      "opts": [
       "Gravel is heavier than sand",
-      "The gaps in gravel are too wide to pull the water up far",
-      "Gravel is dry inside"
+      "Gravel is dry inside",
+      "The gaps in gravel are too wide to pull the water up far"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Water is lifted by its stickiness to the grains at the edge of a gap. In very wide gaps most of the water is far from any grain, so the pull is weak. Weight is not what matters.",
      "outcome": 1,
      "how": "e1"
@@ -2963,11 +2963,11 @@
      "t": "mcq",
      "p": "A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?",
      "opts": [
-      "It was in the irrigation water, and stayed behind when the water evaporated",
       "It fell from the sky in the rain",
-      "It was made by the roots of the crop"
+      "It was made by the roots of the crop",
+      "It was in the irrigation water, and stayed behind when the water evaporated"
      ],
-     "a": 0,
+     "a": 2,
      "why": "All irrigation water carries a little dissolved salt. When the water evaporates or is used by plants, the salt stays behind and builds up.",
      "outcome": 5
     },
@@ -3017,11 +3017,11 @@
      "t": "mcq",
      "p": "What does a bean plant give the bacteria in her nodules?",
      "opts": [
-      "Sugar",
       "Nitrogen gas",
+      "Sugar",
       "Salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bean makes sugar in her leaves with the help of sunlight, and gives some to the bacteria. The bacteria give nitrogen in return.",
      "outcome": 4
     }
@@ -3108,11 +3108,11 @@
      "t": "mcq",
      "p": "A nodule has a red-pink substance inside. What does it do?",
      "opts": [
-      "It holds back oxygen, which would damage the nitrogen-fixing enzyme",
       "It makes the bean sweet",
+      "It holds back oxygen, which would damage the nitrogen-fixing enzyme",
       "It keeps the nodule warm"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The enzyme the bacteria use to break the nitrogen bond is harmed by oxygen. The pink substance holds oxygen back so the enzyme keeps working.",
      "outcome": 4
     },
@@ -3228,11 +3228,11 @@
      "t": "mcq",
      "p": "Which field is most likely to get a white salt crust?",
      "opts": [
-      "A dry field watered from a canal for many years",
       "A forest floor that gets heavy rain every year",
+      "A dry field watered from a canal for many years",
       "A field that has just been ploughed"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Where rain is heavy it washes salt away. In a dry place, irrigation water evaporates and leaves its salt behind, year after year.",
      "outcome": 5
     },
@@ -3299,11 +3299,11 @@
      "t": "mcq",
      "p": "Water climbs 5 centimetres in one soil in 10 minutes, then stops. In a second soil it climbs 2 centimetres in 10 minutes, and keeps rising for hours. Which soil has the finer gaps?",
      "opts": [
-      "The first",
       "The second",
+      "The first",
       "You cannot tell"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Finer gaps pull harder, so water can keep rising, but water flows through them slowly. The soil where water climbs slowly and keeps going has the finer gaps.",
      "outcome": 1
     },
@@ -3412,11 +3412,11 @@
      "t": "mcq",
      "p": "The air around a field is full of nitrogen. Why do plants still need fertiliser or bacteria to get nitrogen?",
      "opts": [
-      "The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond",
       "Nitrogen is a liquid",
-      "Nitrogen is too heavy for roots"
+      "Nitrogen is too heavy for roots",
+      "The two atoms in each nitrogen molecule are held together very strongly, and plants cannot break the bond"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Only bacteria with a special enzyme, or a factory using great heat and pressure, can break that bond.",
      "outcome": 4
     },
@@ -3452,11 +3452,11 @@
      "t": "mcq",
      "p": "A farmer wants to lower the amount of fertiliser she buys. Which change helps most?",
      "opts": [
-      "Grow a pulse in rotation and leave her roots and leaves in the field",
       "Plant more rice",
+      "Grow a pulse in rotation and leave her roots and leaves in the field",
       "Leave the soil bare in the Sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A pulse brings nitrogen into the soil through the bacteria in her roots. Leaving the roots and leaves in the field returns the nitrogen to the soil.",
      "outcome": 4
     },
@@ -3494,11 +3494,11 @@
    "t": "mcq",
    "p": "Which soil lets water run through fastest?",
    "opts": [
-    "Sand",
     "Clay",
+    "Sand",
     "Loam"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sand has the biggest grains and the biggest gaps, so water runs straight through. Clay holds water in tiny gaps, and loam is in between.",
    "outcome": 0
   },
@@ -3518,11 +3518,11 @@
    "t": "mcq",
    "p": "Why is topsoil the richest layer for a crop?",
    "opts": [
-    "It is dark with humus, and most roots and soil life live in it",
     "It is the deepest layer, so it is the oldest",
-    "It is made only of clay"
+    "It is made only of clay",
+    "It is dark with humus, and most roots and soil life live in it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Topsoil holds the most humus, the dark part made from rotted leaves and roots. Worms, fungi and bacteria live there and turn dead leaves into nutrients. The deeper subsoil is paler and holds less humus.",
    "outcome": 0
   },
@@ -3530,11 +3530,11 @@
    "t": "mcq",
    "p": "You shake soil in a jar of water and leave it for one minute. What has settled at the bottom?",
    "opts": [
-    "Sand",
     "Clay",
+    "Sand",
     "Humus"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sand grains are the biggest and heaviest, so they sink first. Silt settles over some hours, and the clay stays cloudy for a day or more. Humus is light and floats with the dead leaves.",
    "outcome": 0
   },
@@ -3542,11 +3542,11 @@
    "t": "mcq",
    "p": "A cup of gravel stood in water. The wet line climbed only about 1 centimetre. What is the best reason?",
    "opts": [
-    "The gaps are too wide to lift the water far",
     "Gravel is dry",
-    "Water cannot climb"
+    "Water cannot climb",
+    "The gaps are too wide to lift the water far"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water is lifted by its stickiness to the edges of narrow gaps. Wide gaps give a weak pull.",
    "outcome": 1,
    "how": "e1"
@@ -3567,11 +3567,11 @@
    "t": "mcq",
    "p": "A bare cup of soil dries more than a cup covered in dry leaves. Why?",
    "opts": [
-    "The leaves shade the soil and block the wind, so less water evaporates",
     "The leaves drink the water",
-    "The leaves are hot"
+    "The leaves are hot",
+    "The leaves shade the soil and block the wind, so less water evaporates"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Evaporation from the top of the soil is slowed by a cover of mulch.",
    "outcome": 2,
    "how": "e3"
@@ -3616,11 +3616,11 @@
    "t": "mcq",
    "p": "Where does the nitrogen in a bean plant's protein first come from?",
    "opts": [
-    "The air",
     "The Sun",
-    "The rock"
+    "The rock",
+    "The air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bacteria in the nodules take nitrogen gas from the air and change it into ammonia.",
    "outcome": 4
   },
@@ -3640,11 +3640,11 @@
    "t": "mcq",
    "p": "A nodule cut in half is bright pink inside. What does this tell you?",
    "opts": [
-    "The nodule is working",
     "The nodule is rotten",
+    "The nodule is working",
     "The nodule is full of water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The pink substance holds oxygen back, so the enzyme the bacteria use to fix nitrogen can work. A white or green nodule has stopped.",
    "outcome": 4
   },
@@ -3664,11 +3664,11 @@
    "t": "mcq",
    "p": "In very salty water, moong seeds did not sprout. What is the best reason?",
    "opts": [
-    "Salty water holds on to its water so tightly that the seed cannot take it in",
     "Salt is food for seeds",
-    "Salt makes the seed too heavy"
+    "Salt makes the seed too heavy",
+    "Salty water holds on to its water so tightly that the seed cannot take it in"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Salty water holds its water tightly, so a seed or root finds it hard to drink. Too much salt also harms the seed.",
    "outcome": 5,
    "how": "e2"
@@ -3689,11 +3689,11 @@
    "t": "mcq",
    "p": "A soil card says nitrogen is low and humus is low. What is a good plan?",
    "opts": [
-    "Grow a pulse and add compost",
     "Add more salt",
+    "Grow a pulse and add compost",
     "Plough the field and leave it bare"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pulse brings in nitrogen and compost adds humus, so the plan fixes both problems.",
    "outcome": 6
   },
@@ -3701,11 +3701,11 @@
    "t": "mcq",
    "p": "A farmer's field has acidic, poor soil. Which plan helps most?",
    "opts": [
-    "Spread lime to cancel some acid, and add compost",
     "Add more rainwater to wash the field",
-    "Leave it bare and wait"
+    "Leave it bare and wait",
+    "Spread lime to cancel some acid, and add compost"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lime cancels some of the acid, and compost adds humus and nutrients. Heavy rain is what made the soil poor in the first place, because it washes nutrients away. A bare field will lose even more topsoil.",
    "outcome": 6
   },
@@ -3713,11 +3713,11 @@
    "t": "mcq",
    "p": "Which soil is carried down by rivers and suits most crops?",
    "opts": [
-    "Alluvial soil",
     "Acidic laterite soil",
-    "Pure sand"
+    "Pure sand",
+    "Alluvial soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Alluvial soil is a mix of sand, silt and clay left by rivers on plains and deltas, so it holds water and drains well. Laterite soil is poor in nutrients, and pure sand holds almost no water.",
    "outcome": 6
   },
@@ -3725,11 +3725,11 @@
    "t": "mcq",
    "p": "Which crop suits sandy soil, which drains fast and is loose?",
    "opts": [
-    "Groundnut",
     "Rice grown in standing water",
-    "Sugarcane, which needs a lot of water"
+    "Sugarcane, which needs a lot of water",
+    "Groundnut"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Loose sandy soil lets pods and tubers push through, and groundnut and potato grow well in it. Rice and sugarcane like clay, which holds water for long. Picking sugarcane is a natural guess, because it is a famous crop, but it needs more water than sand can hold.",
    "outcome": 6
   }

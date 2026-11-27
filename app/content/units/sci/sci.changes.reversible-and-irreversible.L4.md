@@ -495,10 +495,10 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 ## Worksheets
 ### Can it go back? (core, 16 questions)
 1. (mcq) What is a reversible change?  
-   Options: A change that can be undone / A change that makes a new substance / A change that needs a stove / A change that happens fast  
+   Options: A change that makes a new substance / A change that can be undone / A change that needs a stove / A change that happens fast  
    **Answer:** A change that can be undone. *Why:* A reversible change can be undone, and you have the same substance again. A change that makes a new substance usually has no way back.
 2. (mcq) Which of these changes is irreversible?  
-   Options: Toasting bread / Melting ghee / Freezing water / Folding paper  
+   Options: Melting ghee / Toasting bread / Freezing water / Folding paper  
    **Answer:** Toasting bread. *Why:* Toasting makes new brown substances that stay. Melted ghee sets, ice melts and folded paper unfolds.
 3. (fill) Salt stirred into water can be got back by letting the water ____.  
    **Answer:** ['evaporate', 'dry up', 'dry']. *Why:* The water goes into the air as vapour and the salt cannot, so the salt is left on the plate.
@@ -509,7 +509,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 6. (sort) Sort these changes. Is each one reversible or irreversible?  
    **Answer:** an ice cube melting → Reversible; an egg boiling → Irreversible; a towel drying → Reversible; a matchstick burning → Irreversible; sugar dissolving in water → Reversible; dosa batter cooking → Irreversible. *Why:* Melting, drying and dissolving leave the same substance, so they go back. Boiling an egg, burning and cooking batter make changes that cooling does not undo.
 7. (mcq) Raw flour is stirred into cold water and left to stand. What happens?  
-   Options: Most of it settles to the bottom / It turns into a thick paste / It dissolves and cannot be seen / It turns brown  
+   Options: It turns into a thick paste / Most of it settles to the bottom / It dissolves and cannot be seen / It turns brown  
    **Answer:** Most of it settles to the bottom. *Why:* Raw starch grains do not dissolve or swell in cold water. They hang in the water for a while and then sink. Flour turns to paste only when it is heated.
 8. (truefalse) Cooked flour paste turns back into dry flour when it cools.  
    **Answer:** False. *Why:* False. Heat made the starch grains swell and burst, and a burst grain cannot close again. Cooled paste stays paste.
@@ -518,10 +518,10 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 10. (fill) Heat makes the long protein chains in an egg unfold and ____ together.  
    **Answer:** ['tangle', 'stick', 'join']. *Why:* The unfolded chains catch on each other and make a net that holds the water still. That is why a cooked egg white is solid.
 11. (mcq) Why does boiled rice never turn brown in the pot?  
-   Options: Boiling water is not hot enough / Rice has nothing in it to brown / The lid keeps the light out / The water washes the brown away  
+   Options: Rice has nothing in it to brown / Boiling water is not hot enough / The lid keeps the light out / The water washes the brown away  
    **Answer:** Boiling water is not hot enough. *Why:* Browning needs a dry surface hotter than about 140 degrees Celsius. Boiling water stays at 100 degrees Celsius. Rice does brown when it is roasted in a dry pan.
 12. (mcq) Wet cement becomes a hard floor. What kind of change is this?  
-   Options: Irreversible: cement reacts with the water / Reversible: the cement only dries / Reversible: the cement freezes / No change at all  
+   Options: Reversible: the cement only dries / Reversible: the cement freezes / Irreversible: cement reacts with the water / No change at all  
    **Answer:** Irreversible: cement reacts with the water. *Why:* Cement reacts with water and grows tiny crystals. Rain softens dried mud again, and rain does not soften set cement.
 13. (write) Explain in two sentences why melted ghee is still ghee.  
    **Answer:** Melting only changes ghee from a solid to a liquid. When it cools it sets again, and it looks, smells and tastes as it did before.. *Why:* A strong answer says that no new substance was made, and gives the evidence: the ghee comes back when it cools.
@@ -533,19 +533,19 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    **Answer:** ['frying', 'fry']. *Why:* Frying uses hot oil. Steaming uses hot steam, boiling uses water at its boiling point, and roasting and baking use dry heat. Each one changes the food for good.
 ### Same substance or new substance? (stretch, 16 questions)
 1. (mcq) Tearing paper makes no new substance. Why does it still not go back?  
-   Options: The torn fibres cannot be rejoined / The paper turns into ash / The paper dissolves in the air / Torn paper is a new substance  
+   Options: The paper turns into ash / The paper dissolves in the air / The torn fibres cannot be rejoined / Torn paper is a new substance  
    **Answer:** The torn fibres cannot be rejoined. *Why:* Paper is a mat of tiny plant fibres. Tearing pulls them apart, and nothing puts each fibre back in its old place. The pieces are still paper.
 2. (mcq) A phone battery is charged. What does the charging do?  
    Options: Pushes a chemical change backwards / Fills the battery with new metal / Melts the inside of the battery / Dries the battery out  
    **Answer:** Pushes a chemical change backwards. *Why:* Using the battery runs a chemical change one way. Charging uses electrical energy to run it the other way. This is a chemical change that goes back with work.
 3. (mcq) A careful cook adds salt a pinch at a time. Why?  
-   Options: Extra salt cannot be taken out again / Salt melts slowly / Salt costs a lot / Salt burns quickly  
+   Options: Salt melts slowly / Salt costs a lot / Salt burns quickly / Extra salt cannot be taken out again  
    **Answer:** Extra salt cannot be taken out again. *Why:* Salt dissolves into the whole dish, and no cook can pick it out. Too little salt can be fixed by adding more. Too much cannot be fixed.
 4. (mcq) Which pair shows one substance in two states?  
    Options: Ice and steam / Bread and toast / Milk and curd / Iron and rust  
    **Answer:** Ice and steam. *Why:* Ice and steam are both water. Toast, curd and rust each hold new substances that the bread, the milk and the iron did not have.
 5. (mcq) Raw rajma can make people ill. Why is well-boiled rajma safe?  
-   Options: Heat changes the harmful protein for good / Water washes the beans clean / Boiling adds vitamins / The skins fall off  
+   Options: Water washes the beans clean / Boiling adds vitamins / Heat changes the harmful protein for good / The skins fall off  
    **Answer:** Heat changes the harmful protein for good. *Why:* Raw rajma holds a protein that upsets the gut. About half an hour of hard boiling denatures it, and it stays changed after the beans cool.
 6. (truefalse) Every change that makes no new substance can be undone.  
    **Answer:** False. *Why:* False. Tearing paper, grinding wheat and breaking a glass make no new substance, and none of them goes back.
@@ -578,10 +578,10 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: Unfolding does not break the chain / Proteins are made of starch / Heat was used to fold it / The protein was a new substance  
    **Answer:** Unfolding does not break the chain. *Why:* A broken chain could not fold into its old shape. The chain stayed whole, and its shape was lost and found again.
 3. (mcq) Which test best shows whether a colour change is reversible?  
-   Options: Try a way back and compare / See how dark the colour is / Smell the new colour / Wait for one minute  
+   Options: See how dark the colour is / Try a way back and compare / Smell the new colour / Wait for one minute  
    **Answer:** Try a way back and compare. *Why:* How a change looks does not tell you whether it goes back. You have to try a way back and compare the result with what you started with.
 4. (mcq) Masons keep a new concrete roof wet for many days. Why?  
-   Options: Cement needs water to react and harden / Wet concrete dries faster / Water makes the roof lighter / Water stops the roof from melting  
+   Options: Wet concrete dries faster / Water makes the roof lighter / Cement needs water to react and harden / Water stops the roof from melting  
    **Answer:** Cement needs water to react and harden. *Why:* Cement hardens by a chemical change with water. If the concrete dries too soon, the change stops early and the roof is weaker.
 5. (truefalse) A change that makes a new substance can never be pushed backwards.  
    **Answer:** False. *Why:* False. Charging a battery pushes its chemical change backwards. Blood picks up oxygen in the lungs and lets it go again in the muscles.
@@ -616,13 +616,13 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: Ghee setting on a cold day / Rice cooking / Paper burning / Milk souring  
    **Answer:** Ghee setting on a cold day. *Why:* Set ghee melts again with a little warmth. Cooking, burning and souring all make new substances.
 2. (mcq) Sand is stirred into water. What is the way back?  
-   Options: Let it settle, then pour off the water / Freeze the water / Heat it until it browns / There is no way back  
+   Options: Freeze the water / Heat it until it browns / There is no way back / Let it settle, then pour off the water  
    **Answer:** Let it settle, then pour off the water. *Why:* Sand does not dissolve. It sinks, and the water can be poured off or strained through a cloth.
 3. (mcq) In a reversible change, what stays the same?  
-   Options: The substance / The shape / The temperature / The state  
+   Options: The shape / The temperature / The substance / The state  
    **Answer:** The substance. *Why:* Shape, temperature and state may all change. What stays is the substance: water is still water, and wax is still wax.
 4. (mcq) Steam turns to drops on a cold lid. What are the drops made of?  
-   Options: Water, the same as before / A new liquid / Melted steel from the lid / Air  
+   Options: A new liquid / Melted steel from the lid / Water, the same as before / Air  
    **Answer:** Water, the same as before. *Why:* Condensing is a change of state. The water particles that left the pot as vapour have gathered again as liquid water.
 5. (mcq) Which of these shows that a new substance has formed?  
    Options: A new colour and smell that stay / The thing got wet / The thing changed shape / The thing got colder  
@@ -631,28 +631,28 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    Options: They swell and burst / They melt into oil / They turn into protein / They sink faster  
    **Answer:** They swell and burst. *Why:* Hot water gets into the grains, and they swell to many times their size and burst. This is called gelatinising, and it thickens the water.
 7. (mcq) Why does egg white turn from runny to solid when it is heated?  
-   Options: Proteins unfold and join into a net / The water in it freezes / The shell presses on it / Air leaves the egg  
+   Options: The water in it freezes / The shell presses on it / Air leaves the egg / Proteins unfold and join into a net  
    **Answer:** Proteins unfold and join into a net. *Why:* Heat shakes the folded protein chains open. The open chains stick to each other and hold the water still.
 8. (mcq) A square of brown toast is left to cool. What happens to its colour?  
    Options: It stays brown / It fades to white / It turns to steam / It soaks into the plate  
    **Answer:** It stays brown. *Why:* The brown comes from new substances made by the Maillard reaction. Taking the heat away does not turn them back.
 9. (mcq) How can you find out whether a change is reversible?  
-   Options: Try a way back and compare / Ask whether heat was used / See how fast it happened / Weigh the thing once  
+   Options: Ask whether heat was used / See how fast it happened / Try a way back and compare / Weigh the thing once  
    **Answer:** Try a way back and compare. *Why:* Heat and speed are poor guides. Melting uses heat and goes back. You have to try a way back and compare with what you started with.
 10. (mcq) Wheat ground into atta is still wheat. Can the grinding be undone?  
-   Options: No, the bits cannot be rejoined / Yes, by cooling the atta / Yes, by adding water / Yes, by sieving the atta  
+   Options: Yes, by cooling the atta / No, the bits cannot be rejoined / Yes, by adding water / Yes, by sieving the atta  
    **Answer:** No, the bits cannot be rejoined. *Why:* No new substance was made, but nothing joins the powder into whole grains again. A physical change can be irreversible.
 11. (mcq) Why does a shuffled pack of cards almost never come back in order?  
    Options: Mixed orders far outnumber sorted ones / The cards stick together / Shuffling makes new cards / The pack is too heavy  
    **Answer:** Mixed orders far outnumber sorted ones. *Why:* Each shuffle gives another order of the cards. Nearly all the possible orders are mixed ones, so the sorted order almost never comes up.
 12. (mcq) Why can an old steel tumbler be made into a new one?  
-   Options: Melting steel is a reversible change / Steel grows back by itself / Rust turns into steel in the sun / Steel never changes at all  
+   Options: Steel grows back by itself / Rust turns into steel in the sun / Melting steel is a reversible change / Steel never changes at all  
    **Answer:** Melting steel is a reversible change. *Why:* Steel melts in a furnace and sets again as steel. Because this change goes back, steel can be used again and again.
 13. (mcq) Which of these foods is usually eaten with no cooking at all?  
-   Options: A cucumber salad / Boiled rice / Fried puri / Roasted peanuts  
+   Options: Boiled rice / Fried puri / Roasted peanuts / A cucumber salad  
    **Answer:** A cucumber salad. *Why:* A cucumber salad is cut and eaten raw. Rice is boiled, puri is fried, and peanuts are roasted, so all three are cooked.
 14. (mcq) Which of these changes happens in a few minutes?  
-   Options: Toast browning on a tawa / A child growing taller / Many trees losing their leaves / A seed becoming a big tree  
+   Options: A child growing taller / Many trees losing their leaves / A seed becoming a big tree / Toast browning on a tawa  
    **Answer:** Toast browning on a tawa. *Why:* Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years. A seed becoming a big tree takes many years too. Speed does not decide if a change can go back.
 
 ## Applications

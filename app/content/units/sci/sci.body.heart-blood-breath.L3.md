@@ -596,7 +596,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 ## Worksheets
 ### Heart and Breath Detective (core) (core, 15 questions)
 1. (mcq) You feel your heartbeat most strongly on the left side of your chest. Where does your heart sit?  
-   Options: In the middle of the chest, tipped a little, so the strongest beat is felt on the left. / On the left side. The whole heart is on the left. / On the right side. / In the tummy.  
+   Options: On the left side. The whole heart is on the left. / In the middle of the chest, tipped a little, so the strongest beat is felt on the left. / On the right side. / In the tummy.  
    **Answer:** In the middle of the chest, tipped a little, so the strongest beat is felt on the left.. *Why:* The heart sits in the middle of the chest, between the two lungs. Its bottom tip points to the left, and that is where the beat feels strongest. That is why so many people think the whole heart is on the left.
 2. (fill) Blood goes away from the heart in tubes called ____. It comes back in tubes called ____.  
    **Answer:** ['arteries', 'veins']. *Why:* Arteries carry blood away from the heart. Veins carry it back. A way to remember: Artery and Away both start with A.
@@ -630,27 +630,27 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** True. *Why:* True. Smoke carries tiny bits that get stuck deep in the air sacs. They make it harder for oxygen to get into the blood. That is why we stay away from smoke.
 ### Two Circles and a Great Swap (stretch) (stretch, 16 questions)
 1. (mcq) A drop of blood leaves the right side of your heart. Where does it go first?  
-   Options: To the lungs / To the brain / To the toes / To the stomach  
+   Options: To the brain / To the toes / To the stomach / To the lungs  
    **Answer:** To the lungs. *Why:* The right side of the heart sends blood to the lungs to pick up oxygen. It comes back to the left side, which sends it to the body. Picking 'brain' or 'toes' usually means picturing just one loop.
 2. (write) The wall of the left side of the heart is much thicker than the right. Explain why.  
    **Answer:** The left side has to push blood all round the body, to the head and down to the toes. The right side only pushes it a short way, to the lungs next door. A bigger job needs a stronger muscle.. *Why:* A strong answer compares the two journeys and links a longer push to a thicker muscle.
 3. (mcq) You squeeze room air through one glass of limewater with a bottle. You blow your breath through another glass. Before you start, someone says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?  
-   Options: Only the breath glass goes milky, because breath has much more carbon dioxide / Only the room-air glass goes milky, because of the oxygen / Both stay clear / Both go milky at the same speed  
+   Options: Only the room-air glass goes milky, because of the oxygen / Both stay clear / Only the breath glass goes milky, because breath has much more carbon dioxide / Both go milky at the same speed  
    **Answer:** Only the breath glass goes milky, because breath has much more carbon dioxide. *Why:* Limewater goes milky with carbon dioxide, not oxygen. Your cells make carbon dioxide, and you breathe it out. Breathed-out air has about 100 times more carbon dioxide than room air. It is true that room air has more oxygen, but oxygen does not turn limewater milky.
 4. (truefalse) The air you breathe out has no oxygen left in it.  
    **Answer:** False. *Why:* False. Breathed-out air still has about 16 parts oxygen in every 100. You only use a little from each breath. That is why a rescue breath can help someone.
 5. (order) Put the path of air in order, from outside your body to your blood.  
    **Answer:** order shown. *Why:* Air goes in through the nose, down the windpipe, along branching tubes, into the tiny air sacs. Then oxygen passes into the blood.
 6. (mcq) In the upside-down bottle experiment, a child's ordinary breath pushed out about 300 ml of air. Her mother's ordinary breath pushed out about 500 ml. The child says, 'So my lungs are worse.' What is a better explanation?  
-   Options: The child's body is smaller, so her lungs are smaller and she needs less air in each breath / The child was not trying / Her mother has three lungs / Adults breathe out water instead of air  
+   Options: The child was not trying / Her mother has three lungs / The child's body is smaller, so her lungs are smaller and she needs less air in each breath / Adults breathe out water instead of air  
    **Answer:** The child's body is smaller, so her lungs are smaller and she needs less air in each breath. *Why:* A smaller body has smaller lungs and needs less air with each breath. Children also take more breaths each minute than grown-ups. So a smaller breath is not a worse one.
 7. (fill) Every cell uses ____ to break up food and get energy out. This is called respiration.  
    **Answer:** ['oxygen']. *Why:* Cells join oxygen with food to release energy. Carbon dioxide and water are left over.
 8. (mcq) A pulse watcher is a toothpick stuck in a dough ball on your wrist. Why does it tick?  
-   Options: The artery under it bulges each time the heart pushes blood / The dough is alive / Your bones move  
+   Options: The dough is alive / The artery under it bulges each time the heart pushes blood / Your bones move  
    **Answer:** The artery under it bulges each time the heart pushes blood. *Why:* Each heartbeat sends a push of blood that makes the artery bulge a tiny bit. The bulge tips the toothpick. Picking 'bones move' is a fair guess, but your arm is still. The ticks match your heartbeat.
 9. (mcq) In the bottle lung model, you pull the stretched balloon at the bottom down. What happens to the balloon lung inside, and why?  
-   Options: It fills up, because pulling down makes more room and the outside air pushes in / It goes flat, because pulling squeezes it / Nothing happens to it / It pops  
+   Options: It goes flat, because pulling squeezes it / Nothing happens to it / It fills up, because pulling down makes more room and the outside air pushes in / It pops  
    **Answer:** It fills up, because pulling down makes more room and the outside air pushes in. *Why:* Pulling the bottom down makes more room inside the bottle. Air from outside pushes in through the neck and fills the balloon. Your diaphragm does the same when it moves down.
 10. (match) In the Jar of Blood activity, you made a model of blood from kitchen things. Match each part of blood to its job.  
    **Answer:** Red blood cells → carry oxygen; White blood cells → fight germs; Platelets → stick together to plug a cut; Plasma → the watery part that carries food and waste. *Why:* Blood looks like one red liquid, but it is a crowd of different parts, each with a job.
@@ -659,7 +659,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 12. (write) Blood goes from the heart to the lungs, then back to the heart, and only then out to the body. Why do you think it comes back to the heart before it goes to the body?  
    **Answer:** Squeezing through the tiny tubes in the lungs slows the blood down and takes away its push. So it comes back to the heart, and the strong left side gives it a second, harder push to reach the head and the toes.. *Why:* This is why we have two circles. A strong answer says the blood loses its push in the lungs and needs a fresh push from the heart to get all round the body.
 13. (mcq) Octopuses have blue blood. Why?  
-   Options: They carry oxygen with copper instead of iron / They live in blue water / Their blood is cold / They eat blue food  
+   Options: They live in blue water / Their blood is cold / They eat blue food / They carry oxygen with copper instead of iron  
    **Answer:** They carry oxygen with copper instead of iron. *Why:* Our red cells carry oxygen with iron, which looks red. Octopus blood carries oxygen with copper, which looks blue. Picking 'blue water' usually means thinking colour comes from where an animal lives.
 14. (draw) Draw the figure of eight of blood. Put the heart in the middle, the lungs on the top loop, and the body on the bottom loop. Colour blood bright red after the lungs and darker red after the body.  
    **Answer:** A figure of eight with the heart in the middle. Bright red goes from the lungs to the heart and out to the body. Darker red comes back from the body to the heart and on to the lungs.. *Why:* Blood gets bright red in the lungs, where it picks up oxygen. It gets darker red in the body, where it gives oxygen away.
@@ -669,10 +669,10 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** oxygen → To the cells; sugar from food → To the cells; carbon dioxide → Away from the cells; water → To the cells; waste that the kidneys clean out → Away from the cells. *Why:* Blood is a delivery service that goes both ways. It brings oxygen, food and water to every cell, and takes waste away to the lungs and kidneys.
 ### Heart Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) Blood leaves the heart in arteries and comes back in veins. But your eyes cannot see how it gets from the arteries to the veins. What would you expect to find in a thin slice of lung under a microscope?  
-   Options: Tiny blood vessels, called capillaries, joining the arteries to the veins / Holes in the wall between the two sides of the heart / A liver making fresh blood / Tiny doors that let air into the blood  
+   Options: Holes in the wall between the two sides of the heart / A liver making fresh blood / Tiny doors that let air into the blood / Tiny blood vessels, called capillaries, joining the arteries to the veins  
    **Answer:** Tiny blood vessels, called capillaries, joining the arteries to the veins. *Why:* If blood goes round and round, something must link arteries to veins. Capillaries are those tiny tubes, too thin to see without a microscope.
 2. (mcq) About 240 years ago, the French scientist Antoine Lavoisier showed that breathing is like a very slow burning. What do a candle flame and the cells in your body both need?  
-   Options: Oxygen and something to use as fuel / Only water / Only sunlight / Carbon dioxide and nothing else  
+   Options: Only water / Only sunlight / Oxygen and something to use as fuel / Carbon dioxide and nothing else  
    **Answer:** Oxygen and something to use as fuel. *Why:* A candle burns wax with oxygen. Your cells use oxygen to release energy from food. Both give out carbon dioxide. But a cell does it slowly and gently, so it gives warmth, not flames.
 3. (perspective) A mouse's heart beats about 500 times a minute, and a mouse lives about 2 years. An elephant's heart beats about 30 times a minute, and an elephant lives about 60 years. Do slow hearts mean long lives?  
    **Answer:** A strong answer picks a view and uses evidence, such as the mouse and elephant numbers, or the human exception. It then gives a fair reply from another view. For example, a fixed number of heartbeats cannot be the whole story if exercise speeds the heart up but helps people live longer.. *Why:* Scientists agree on the pattern: small animals have faster hearts and shorter lives. They argue about whether each animal really gets a fixed number of heartbeats, because humans and birds break the rule.
@@ -681,24 +681,24 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 5. (truefalse) Plants only make oxygen and never use it.  
    **Answer:** False. *Why:* False. Many people think this. Plants respire day and night, using oxygen like us. In sunlight they also make much more oxygen than they use.
 6. (mcq) A person gets a new heart from a donor. The nerves from the brain are not joined to the new heart. What happens?  
-   Options: The new heart still beats, by its own pacemaker spark / The heart cannot beat / The person needs to think 'beat' every second / The brain grows a new nerve that same day  
+   Options: The heart cannot beat / The new heart still beats, by its own pacemaker spark / The person needs to think 'beat' every second / The brain grows a new nerve that same day  
    **Answer:** The new heart still beats, by its own pacemaker spark. *Why:* The heart makes its own beat with a little patch of pacemaker cells. Nerves only speed it up or slow it down. Picking 'think beat' usually means thinking the brain controls every heartbeat.
 7. (write) Breathing runs by itself, but you can also control it. Why is it useful that you can control your breathing?  
    **Answer:** So I can hold my breath under water, blow out candles, speak and sing, and calm myself down by breathing slowly.. *Why:* Speaking, singing, swimming and calming down all need control over breath. A strong answer gives at least two uses.
 8. (write) Is your breath part of you, or part of the world? Explain your thinking.  
    **Answer:** Any thoughtful answer. For example: It is both. The air was outside me, then inside me, and then it goes back out to plants and other people.. *Why:* There is no single right answer. A strong answer notices that the same air moves in and out, so the line between me and the world is not sharp.
 9. (mcq) At the top of a high mountain, people breathe faster even when they are resting. Why?  
-   Options: Each breath has less oxygen in it, so they need more breaths / Mountains are scary / The air is heavier / It is colder  
+   Options: Mountains are scary / The air is heavier / Each breath has less oxygen in it, so they need more breaths / It is colder  
    **Answer:** Each breath has less oxygen in it, so they need more breaths. *Why:* High up, the air is thinner. Each breath brings in less oxygen, so you breathe faster to get enough. People who live high up, in Ladakh for example, grow used to this. It is colder on mountains, but cold is not the main reason.
 10. (sort) Sort these. Is it true now, or an old idea that was shown wrong?  
    **Answer:** Blood goes round and round → True now; Blood soaks through holes in the heart's middle wall → Old idea, shown wrong; The heart is where we think → Old idea, shown wrong; The heart makes its own beat → True now; Blood is made fresh and used up like fuel → Old idea, shown wrong; Blood picks up oxygen in the lungs → True now. *Why:* Old ideas were changed when people looked, measured and counted more carefully.
 11. (write) A grown-up's heart muscle can hardly repair itself. But a zebrafish, a small striped fish, can grow back part of their heart. Why do you think scientists study zebrafish hearts?  
    **Answer:** To find out how the fish repair their hearts, so that one day doctors might help human hearts repair themselves after damage.. *Why:* Learning how other animals do something can give us ideas for helping people. This is still being studied.
 12. (mcq) Why are the lungs made of hundreds of millions of tiny air sacs, instead of two big empty bags?  
-   Options: Many tiny sacs have a huge surface, so lots of oxygen can pass into the blood at once / To make the lungs heavier / To hold water / To make sounds  
+   Options: To make the lungs heavier / To hold water / Many tiny sacs have a huge surface, so lots of oxygen can pass into the blood at once / To make sounds  
    **Answer:** Many tiny sacs have a huge surface, so lots of oxygen can pass into the blood at once. *Why:* Many tiny bubbles have far more surface than one big bag. More surface means more places for oxygen to cross into the blood. Spread flat, a grown-up's air sacs would cover nearly a badminton court.
 13. (mcq) Why can't we breathe on the Moon, even with strong lungs?  
-   Options: There is no air there to push into our lungs / The Moon is too cold / The Moon is too bright / Our diaphragm stops working  
+   Options: The Moon is too cold / The Moon is too bright / Our diaphragm stops working / There is no air there to push into our lungs  
    **Answer:** There is no air there to push into our lungs. *Why:* Breathing in works because outside air pushes in when the diaphragm makes room. On the Moon there is no air at all, so nothing can push in. Astronauts take their own air with them.
 14. (write) You want to test if slow breathing calms the heart, as in the Cooling Cloud activity. Someone says, 'Just count your pulse once before and once after.' How could you make your test fairer and more sure?  
    **Answer:** Count each time twice, because one count can be a mistake. Sit the same way the whole time, and rest first so the pulse is steady. Also try sitting for the same time with ordinary breathing, to see if just sitting slows the heart too.. *Why:* A strong answer repeats the counts, keeps everything else the same, and compares with ordinary breathing, so you know it was the slow breathing that made the difference.
@@ -714,28 +714,28 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 
 ## Quiz
 1. (mcq) What is the heart?  
-   Options: A muscle that pumps blood / A bag of air / A bone / A part of the brain  
+   Options: A bag of air / A muscle that pumps blood / A bone / A part of the brain  
    **Answer:** A muscle that pumps blood. *Why:* The heart is a hollow muscle that squeezes to push blood round the body. Picking 'a bag of air' mixes it up with the lungs.
 2. (mcq) Where does blood go after it leaves the heart?  
-   Options: Round the body and back to the heart / Out of the body / Into the stomach to be used up / It stays in the heart  
+   Options: Out of the body / Round the body and back to the heart / Into the stomach to be used up / It stays in the heart  
    **Answer:** Round the body and back to the heart. *Why:* Blood goes round in a loop and always comes back to the heart. Picking 'used up' was Galen's old idea, which William Harvey showed was wrong.
 3. (mcq) You count your pulse for 15 seconds and get 22 beats. About how many beats is that in one minute?  
    Options: 88 / 44 / 22 / 37  
    **Answer:** 88. *Why:* One minute is four lots of 15 seconds. 22 + 22 + 22 + 22 = 88. Picking 44 means doubling, which gives only 30 seconds.
 4. (mcq) Why do we count the pulse two times?  
-   Options: Because one count can be a mistake / Because we have two wrists / To make the heart beat faster / Because it is the rule  
+   Options: Because we have two wrists / Because one count can be a mistake / To make the heart beat faster / Because it is the rule  
    **Answer:** Because one count can be a mistake. *Why:* Anyone can lose count once. Two counts that agree make us more sure. Picking 'two wrists' is a funny guess, but we count on the same wrist both times.
 5. (mcq) What happens when your diaphragm tightens and moves down?  
    Options: Your chest gets bigger and air flows into your lungs / Air is pushed out / Your heart stops / Food goes down  
    **Answer:** Your chest gets bigger and air flows into your lungs. *Why:* When the diaphragm moves down, it makes room in your chest, and air pushes in to fill it. Picking 'air is pushed out' is the opposite: that happens when it relaxes and goes up.
 6. (mcq) How do you breathe out?  
-   Options: The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out / The lungs suck the air out / The heart blows the air out / Air leaks out through the skin  
+   Options: The lungs suck the air out / The heart blows the air out / The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out / Air leaks out through the skin  
    **Answer:** The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out. *Why:* When the diaphragm relaxes, it goes back up like a dome. The chest gets smaller, and the air inside is squeezed out. Lungs do not move by themselves.
 7. (mcq) A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?  
-   Options: Platelets, which stick together to plug the cut / Red blood cells, which carry oxygen / Plasma, the watery part / Oxygen  
+   Options: Red blood cells, which carry oxygen / Plasma, the watery part / Platelets, which stick together to plug the cut / Oxygen  
    **Answer:** Platelets, which stick together to plug the cut. *Why:* Platelets are tiny pieces that stick together at a cut and help make a scab. Red blood cells carry oxygen. Plasma carries food and waste.
 8. (mcq) Blood from a clinic is left standing in a tube. A yellow, watery part rises to the top. What is it?  
-   Options: Plasma, which carries food, water and waste / Oxygen / White blood cells / Fat from food  
+   Options: Oxygen / Plasma, which carries food, water and waste / White blood cells / Fat from food  
    **Answer:** Plasma, which carries food, water and waste. *Why:* Plasma is the yellow, watery part of blood. The red cells are heavier and sink. Plasma carries food, water and waste round the body.
 9. (mcq) You feel scared, and your heart starts pounding even though you are sitting still. Why?  
    Options: Your body is getting ready to run, just in case / Your heart is broken / You forgot to breathe / Sitting makes the heart fast  
@@ -747,16 +747,16 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    Options: Playing and running every day / Breathing smoke / Sitting all day / Never getting out of breath  
    **Answer:** Playing and running every day. *Why:* Exercise makes the heart and lungs strong. Smoke harms them. Getting out of breath while playing is good for you.
 12. (mcq) Who showed in 1628 that blood goes round and round the body?  
-   Options: William Harvey / Galen / René Laennec / Aristotle  
+   Options: Galen / René Laennec / William Harvey / Aristotle  
    **Answer:** William Harvey. *Why:* William Harvey counted, measured and tested, and showed that blood circulates. Galen believed blood was made and used up. Laennec invented the stethoscope much later, in 1816.
 13. (mcq) Blood leaves the right side of the heart and comes back to the left side. Where does it go in between, and why?  
-   Options: To the lungs, to pick up oxygen / To the brain, so we can think / Nowhere, it goes straight through the heart / To the stomach, to pick up air  
+   Options: To the brain, so we can think / Nowhere, it goes straight through the heart / To the lungs, to pick up oxygen / To the stomach, to pick up air  
    **Answer:** To the lungs, to pick up oxygen. *Why:* The right side of the heart pumps blood to the lungs. There it picks up oxygen and comes back to the left side, which pumps it to the rest of the body.
 14. (mcq) You breathe out carbon dioxide. Where might it go next?  
    Options: Into a plant. Plants take in carbon dioxide through their leaves to make food in sunlight / Back into your lungs for ever / Into the ground, where it turns to stone / Nowhere. It disappears.  
    **Answer:** Into a plant. Plants take in carbon dioxide through their leaves to make food in sunlight. *Why:* Plants take in carbon dioxide and use it, with sunlight and water, to make their food. They give out oxygen, which people and animals breathe in. So we share air with plants.
 15. (mcq) Where does most of the oxygen in the air come from?  
-   Options: Plants on land and tiny algae in the sea / Cars / Our lungs / Rocks  
+   Options: Cars / Plants on land and tiny algae in the sea / Our lungs / Rocks  
    **Answer:** Plants on land and tiny algae in the sea. *Why:* Plants and tiny algae in the sea give out oxygen when they make food in sunlight. Scientists estimate about half comes from the sea. Our lungs only take oxygen in.
 
 ## Applications

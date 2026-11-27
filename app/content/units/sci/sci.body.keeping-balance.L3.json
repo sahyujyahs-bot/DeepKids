@@ -796,11 +796,11 @@
       "t": "mcq",
       "q": "The Brain says 'Snow on the mountain!' What does your body do?",
       "options": [
-       "Shiver and hug yourself",
        "Wipe sweat and fan yourself",
-       "Go red in the face"
+       "Go red in the face",
+       "Shiver and hug yourself"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the cold, your muscles shiver to make heat, and hugging yourself keeps heat in. Sweating and red cheeks are for losing heat, which you do when you are too hot. Mixing them up is common, so try acting out one hot card and one cold card again."
      },
      "context": "This is the main part of Brain Says, the acting game about keeping warm or cool."
@@ -1053,12 +1053,12 @@
      "t": "mcq",
      "p": "A camel in the desert lets their body warm up by about 6 degrees during the day, then cools at night. Why might this help them?",
      "opts": [
+      "They sweat less, so they save water",
       "Camels like being hot",
       "It makes them run faster",
-      "They sweat less, so they save water",
       "It helps them see"
      ],
-     "a": 2,
+     "a": 0,
      "why": "If the camel kept their body at one exact warmth, they would have to sweat a lot in the hot day. By letting their warmth rise, they save water. Then they cool off at night for free."
     },
     {
@@ -1192,10 +1192,10 @@
      "opts": [
       "Water goes straight into the brain",
       "Thirst was never real",
-      "The body predicts, using messages from the mouth and throat",
-      "The tummy makes water"
+      "The tummy makes water",
+      "The body predicts, using messages from the mouth and throat"
      ],
-     "a": 2,
+     "a": 3,
      "why": "In mice, scientists found that brain cells for thirst switch off soon after drinking. Your body predicts that water is coming. This is part of a debate about whether the body mostly reacts or mostly predicts."
     },
     {
@@ -1217,11 +1217,11 @@
      "t": "mcq",
      "p": "Two children play in the same hot sun. One wears a thick woollen jumper. The other wears a thin cotton shirt. Who finds it easier to cool down?",
      "opts": [
-      "The one in wool, because wool is warm",
       "The one in cotton, because air can reach the skin and sweat can dry",
+      "The one in wool, because wool is warm",
       "Both the same, because sweat comes out cold"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Sweat cools only when it dries. Thick wool holds the sweat and the heat next to the skin. Thin cotton lets air in, so the sweat can dry and carry heat away."
     },
     {
@@ -1253,10 +1253,10 @@
      "opts": [
       "A humid, still monsoon day",
       "A day when the matka is painted with oil paint",
-      "A hot, dry, breezy day in May",
-      "A day with no water inside"
+      "A day with no water inside",
+      "A hot, dry, breezy day in May"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Drying water cools the matka. Dry, moving air dries it fastest. Humid, still air dries it slowly. Oil paint would block the tiny holes, so no water could reach the outside.",
      "how": "e3"
     },
@@ -1272,11 +1272,11 @@
      "p": "Some scientists say the body mostly predicts what it will need, not only reacts. Which is an example of predicting?",
      "opts": [
       "You shiver after you are already cold",
-      "Your mouth waters when you smell food cooking",
       "You sweat after you are already hot",
+      "Your mouth waters when you smell food cooking",
       "You pull your hand from a hot pan after it hurts"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A watering mouth gets ready for food before it arrives. The other three happen after the change. This idea is called allostasis, and scientists still argue how important it is."
     },
     {
@@ -1290,11 +1290,11 @@
      "p": "A person who is very hot has stopped sweating and has hot, dry skin. They are confused. What should happen?",
      "opts": [
       "Give them a blanket",
-      "Tell them to run to cool down",
       "Get them into shade, cool them with water, and call a doctor straight away",
+      "Tell them to run to cool down",
       "Wait and see"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Hot, dry skin and confusion can be signs of heatstroke. The body's cooling has stopped working. This needs a doctor fast. Shade and wet cloths help while you wait."
     },
     {
@@ -1302,11 +1302,11 @@
      "p": "Why does your body need food even when you are sitting still?",
      "opts": [
       "It doesn't need any food when still",
-      "To keep making heat and running the pumps in every cell",
       "Only to grow hair",
-      "To make your bones heavier"
+      "To make your bones heavier",
+      "To keep making heat and running the pumps in every cell"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Even at rest you give off about as much heat as an old 100 watt bulb. Every cell also pumps salt to keep the inside of the cell just right. All of this needs energy from food."
     },
     {
@@ -1345,12 +1345,12 @@
      "t": "mcq",
      "p": "Lotus flowers can keep themselves at about 30 to 35 degrees on a cool night. What does this tell us?",
      "opts": [
-      "Lotus flowers have fur",
       "Some plants can do a kind of warmth homeostasis too",
+      "Lotus flowers have fur",
       "Plants are animals",
       "The pond is boiling"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Scientists measured sacred lotus flowers in 1996 and found they keep themselves warm. Balance-keeping is not only for animals."
     },
     {
@@ -1537,11 +1537,11 @@
       "t": "mcq",
       "q": "In the sweaty tumbler test, the wet cloth tumbler cooled more. Why?",
       "options": [
-       "The water drying from the cloth carried heat away",
        "Wet cloth is made of colder cotton",
+       "The water drying from the cloth carried heat away",
        "The dry cloth made heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "As the water in the cloth evaporates into the moving air, the fastest water molecules fly off and take heat with them. That cools the tumbler. Picking 'colder cotton' usually means thinking wet things are cold by themselves. But the cloth was wetted with room-warm water. It got cold because it was drying. Picking 'the dry cloth made heat' mixes up keeping heat in with making heat."
      },
      "how": "e1",
@@ -1697,11 +1697,11 @@
       "t": "mcq",
       "q": "After running, your face felt hot, but your temperature under your arm changed by less than one degree. Why?",
       "options": [
-       "Your body sweated and sent blood to the skin to get rid of the extra heat",
        "Running does not make any heat",
+       "Your body sweated and sent blood to the skin to get rid of the extra heat",
        "The thermometer was broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Running makes lots of heat in your muscles. But your body got rid of it fast, by sweating and sending warm blood to your skin. That is homeostasis keeping your inside steady. Picking 'running makes no heat' misses why your face got hot. It is worth checking whether the thermometer is broken, but most children who try this find only a small change."
      },
      "parent": "A good answer: What I think: my body keeps my inside steady. What I saw: my temperature went from 36.5 to 36.8 and back to 36.6, but my face felt very hot. Why: I sweated and my skin got red, so the heat got out.",
@@ -2170,11 +2170,11 @@
       "t": "mcq",
       "q": "In the Body Council play, the Salt Sensor says 'The blood is too salty!' Which team does the mayor send?",
       "options": [
-       "The Thirst Team",
        "The Shiver Team",
-       "The Sweat Team"
+       "The Sweat Team",
+       "The Thirst Team"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Salty blood means too little water. Feeling thirsty makes you drink, which adds water back. Sending the Sweat Team would make it worse, because sweating loses water. Sending the Shiver Team is for cold, not for water."
      },
      "context": "This is the main part of the Body Council play. The Brain Mayor decides which team to send."
@@ -2570,11 +2570,11 @@
    "t": "mcq",
    "p": "A girl plays in the noon sun. Then she sits in a room with the AC on. What happens to the temperature inside her body?",
    "opts": [
-    "It goes up to match the sun",
     "It stays close to 37 degrees the whole time",
+    "It goes up to match the sun",
     "It goes down to match the AC"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Her skin feels hot and then cool, but her inside stays near 37 degrees. Her body sweats in the sun and saves heat in the cold room. That is homeostasis.",
    "outcome": 0
   },
@@ -2583,10 +2583,10 @@
    "p": "Which of these is an example of homeostasis?",
    "opts": [
     "Your hair growing longer",
-    "A tumbler of tea cooling down",
-    "Your body keeping its water just right on a hot day"
+    "Your body keeping its water just right on a hot day",
+    "A tumbler of tea cooling down"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Homeostasis means keeping the inside steady. The tea just drifts to the room's warmth, and growing hair is change, not balance.",
    "outcome": 0
   },
@@ -2594,11 +2594,11 @@
    "t": "mcq",
    "p": "After a bath, you stand wet in front of a fan and feel chilly. Why?",
    "opts": [
-    "The water on your skin dries and carries heat away",
     "The fan makes cold air inside itself",
+    "The water on your skin dries and carries heat away",
     "Bath water is always colder than the air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fan does not make cold air. It helps the water on your skin dry, and drying takes heat from you. Sweat cools you in the same way.",
    "outcome": 1
   },
@@ -2631,11 +2631,11 @@
    "p": "Dark yellow pee usually means…",
    "opts": [
     "You drank too much water",
-    "You need to drink more water",
     "You are very cold",
-    "You ate too much sugar"
+    "You ate too much sugar",
+    "You need to drink more water"
    ],
-   "a": 1,
+   "a": 3,
    "why": "When you are low on water, your kidneys save it, so you make less pee and it is darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.",
    "outcome": 2
   },
@@ -2645,10 +2645,10 @@
    "opts": [
     "It keeps acting for ever",
     "It forgets",
-    "It checks again, and stops when things are just right",
-    "It starts growing"
+    "It starts growing",
+    "It checks again, and stops when things are just right"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A feedback loop checks again. If you kept sweating for ever, you would get too cold and lose too much water.",
    "outcome": 3
   },
@@ -2657,10 +2657,10 @@
    "p": "A geyser switches off when its water reaches the set warmth. Which part of your body does the same job as the geyser's thermostat?",
    "opts": [
     "Your sweat glands",
-    "Your skin",
-    "The hypothalamus in your brain"
+    "The hypothalamus in your brain",
+    "Your skin"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The thermostat compares the water with the set number and decides. In you, the hypothalamus compares your warmth with 'just right' and decides. Sweat glands only act on the order.",
    "outcome": 3
   },
@@ -2668,12 +2668,12 @@
    "t": "mcq",
    "p": "In the Sweaty Tumbler Test, two tumblers of warm water stood by a fan, one in a wet cloth and one in a dry cloth. Why did we use the same tumblers and the same water?",
    "opts": [
-    "To save washing up",
     "To make it a fair test, so only the wet cloth was different",
+    "To save washing up",
     "Because the fan needs it",
     "So the water would boil"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In a fair test, you change only one thing. Then you know that thing caused the difference. Here, it was the wet cloth.",
    "outcome": 4,
    "how": "e1"
@@ -2682,11 +2682,11 @@
    "t": "mcq",
    "p": "Why does an elephant flap their big ears on a hot day?",
    "opts": [
-    "To make heat",
     "Moving air cools the warm blood flowing through the ears",
+    "To make heat",
     "To shade their eyes from the sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An elephant's ears are thin and full of blood vessels. Flapping moves air over them, so the blood loses heat before it flows back into the body.",
    "outcome": 5
   },
@@ -2694,11 +2694,11 @@
    "t": "mcq",
    "p": "Honeybees keep their hive close to 35 degrees. What do they do on a very hot day?",
    "opts": [
-    "Fan their wings and spread drops of water, which dry and cool the hive",
     "Fly towards the sun",
-    "Sit still and wait"
+    "Sit still and wait",
+    "Fan their wings and spread drops of water, which dry and cool the hive"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bees bring water and spread it in the hive. Then they fan their wings, and the drying water carries heat away. It is the same trick as sweating.",
    "outcome": 5
   },
@@ -2707,11 +2707,11 @@
    "p": "Which of these do scientists still NOT know for sure?",
    "opts": [
     "That sweat cools us by drying",
-    "Why our just-right number is about 37 degrees",
     "That shivering makes heat",
-    "That thirst makes us drink"
+    "That thirst makes us drink",
+    "Why our just-right number is about 37 degrees"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The other three are well tested. Scientists have ideas about why we are about 37 degrees, like keeping fungi out, but no sure answer yet.",
    "outcome": 6
   },
@@ -2719,12 +2719,12 @@
    "t": "mcq",
    "p": "Why is a very humid heatwave more dangerous than a dry one at the same temperature?",
    "opts": [
+    "Sweat cannot dry well, so the body cannot cool itself",
     "Humid air has no oxygen",
     "Humid air makes you shiver",
-    "Sweat cannot dry well, so the body cannot cool itself",
     "It isn't more dangerous"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.",
    "outcome": 6
   },
@@ -2732,12 +2732,12 @@
    "t": "mcq",
    "p": "What carries the waste your kidneys remove out of your body?",
    "opts": [
-    "Water, which leaves the body as pee",
     "Your breath, which carries the waste out as air",
     "Your food, which takes the waste back into your blood",
+    "Water, which leaves the body as pee",
     "Nothing: the waste stays in your blood for ever"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your kidneys filter waste out of your blood and mix it into water to make pee. Breath does not carry the kidneys' waste, and the waste does not stay in the blood.",
    "outcome": 2
   },
@@ -2745,12 +2745,12 @@
    "t": "mcq",
    "p": "Ravi plays cricket for two hours on a hot May afternoon. What should he do about water?",
    "opts": [
-    "Drink water through the day, and more than usual, because sweat takes water out of him",
     "Drink nothing, because sweat is not pee and so does not count",
     "Drink one big glass at bedtime and nothing during the game",
+    "Drink water through the day, and more than usual, because sweat takes water out of him",
     "Skip water, because the match is only two hours long"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sweat is water leaving the body, so he must drink water to replace it. Drinking through the day works better than one big glass at bedtime, which does nothing for the water he lost at the match.",
    "outcome": 2
   }

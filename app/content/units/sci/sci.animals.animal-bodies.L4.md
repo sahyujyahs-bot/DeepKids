@@ -494,10 +494,10 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 ## Worksheets
 ### Core worksheet: problem, part and price (core, 17 questions)
 1. (mcq) What is the best way to start understanding an odd body part?  
-   Options: Ask what problem it solves and what it costs / Ask what colour it is / Ask whether the animal likes it  
+   Options: Ask what colour it is / Ask what problem it solves and what it costs / Ask whether the animal likes it  
    **Answer:** Ask what problem it solves and what it costs. *Why:* An odd part is usually an answer to a problem in the animal's way of life, and every answer has a price. Colour and liking do not tell you what the part is for.
 2. (mcq) What is inside a camel's hump?  
-   Options: Fat / Water / Air  
+   Options: Water / Air / Fat  
    **Answer:** Fat. *Why:* The hump is a lump of fat, which the camel uses for energy when food is scarce. Many people think it is water, but when camels were studied, the water they lost came from their whole body.
 3. (truefalse) The same amount of fat keeps heat in better when it is spread all over a body than when it is lumped in one place.  
    **Answer:** True. *Why:* True. When the fat is in one lump, heat can escape from the rest of the body. In the Ice Test, the cloth wrapped all around slowed the melting. The cloth lumped on top did little, because the sides were open.
@@ -533,13 +533,13 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    **Answer:** A snowshoe. *Why:* A snowshoe is wide, so it spreads a person's weight over more snow, and the snow holds. A nail and a knife do the opposite. They put all the push on a tiny patch.
 ### Stretch worksheet: gains, costs and different answers (stretch, 15 questions)
 1. (mcq) In an ice test, a block with cloth all around melts least. A block with the same cloth lumped on top melts almost as much as a bare block. What does this show?  
-   Options: Insulation helps only where it covers / Cloth makes ice melt faster / Cloth on top works better than cloth all around  
+   Options: Cloth makes ice melt faster / Cloth on top works better than cloth all around / Insulation helps only where it covers  
    **Answer:** Insulation helps only where it covers. *Why:* Heat reaches the block through the parts that stay bare. A lump on the top does little for the sides. This is why a camel's fat in a hump does not trap the heat of her whole body.
 2. (mcq) Why does a camel's temperature rising by day save her water?  
-   Options: A body allowed to warm up does not need to sweat as much / A hot body drinks less / Sweat is cooler when the body is hotter  
+   Options: A hot body drinks less / A body allowed to warm up does not need to sweat as much / Sweat is cooler when the body is hotter  
    **Answer:** A body allowed to warm up does not need to sweat as much. *Why:* Sweating cools the body but loses water. If a camel lets her body warm up, she needs less sweating, so she saves water.
 3. (mcq) A giraffe stretches her neck all her life. Will her calf have a longer neck because of that?  
-   Options: No, a calf inherits only what her mother was born with / Yes, stretching passes on to the calf / Yes, but only a little  
+   Options: Yes, stretching passes on to the calf / No, a calf inherits only what her mother was born with / Yes, but only a little  
    **Answer:** No, a calf inherits only what her mother was born with. *Why:* What an animal does in her life does not change what she passes on. Giraffe necks became long because longer-necked giraffes in each generation reached more food and had more young.
 4. (truefalse) In warm water, an octopus's blue blood carries more oxygen than red blood does.  
    **Answer:** False. *Why:* False. The copper-based blue blood works well in cold water with little oxygen, but it carries less oxygen than red blood in warm water. This is one of the prices of being an octopus.
@@ -573,7 +573,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    Options: The tyre touches the sand over a bigger patch, so the pressure is smaller / The tractor gets lighter / The sand gets harder  
    **Answer:** The tyre touches the sand over a bigger patch, so the pressure is smaller. *Why:* A softer tyre flattens where it meets the ground, so the same weight is shared over a bigger patch. The tractor has the same weight, and the sand is not changed.
 3. (mcq) A study with high-speed video of woodpeckers found that the head acts like a stiff hammer. Which idea does this study cast doubt on?  
-   Options: That the skull works mainly as a shock absorber / That woodpeckers hit trees / That woodpeckers have beaks  
+   Options: That woodpeckers hit trees / That woodpeckers have beaks / That the skull works mainly as a shock absorber  
    **Answer:** That the skull works mainly as a shock absorber. *Why:* The older idea says the skull and tongue bones take up most of the knock. The video study suggests the head passes most of its energy into the wood instead. Scientists are still testing both.
 4. (truefalse) An animal that needs a new body part will grow it during her lifetime.  
    **Answer:** False. *Why:* False. Needing a part does not make it appear. Small differences already exist in each generation, and the animals with helpful ones survive and have more young.
@@ -607,25 +607,25 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 
 ## Quiz
 1. (mcq) A bird has a very long, thin, curved beak. What should you ask first?  
-   Options: What problem does this beak solve? / How old is the bird? / What is her favourite colour?  
+   Options: How old is the bird? / What is her favourite colour? / What problem does this beak solve?  
    **Answer:** What problem does this beak solve?. *Why:* An odd part is an answer to a problem in the animal's way of living. Asking about the problem leads you to the food, the place and the price.
 2. (mcq) A camel keeps her fat in one hump, not all over her body. What is the best reason?  
-   Options: The rest of her skin stays thin, so her body heat can leave / Fat is too heavy to spread out / Fat only grows on the back  
+   Options: Fat is too heavy to spread out / The rest of her skin stays thin, so her body heat can leave / Fat only grows on the back  
    **Answer:** The rest of her skin stays thin, so her body heat can leave. *Why:* Fat is insulation. A layer all over would trap her heat, and she would have to sweat more and lose water.
 3. (mcq) A thin, hungry camel's hump flops to one side. What does this tell you?  
    Options: Her body has been using up the fat in it / The hump was full of water and it leaked / She has grown a new hump  
    **Answer:** Her body has been using up the fat in it. *Why:* The hump is a store of fat. When food is scarce, her body uses it up and the hump shrinks and flops. It is not a tank of water.
 4. (mcq) The same weight stands on a narrow foot and on a wide foot on soft dough. Which sinks deeper, and why?  
-   Options: The narrow foot, because the same weight is on a smaller patch / The wide foot, because it is bigger / Both sink the same, because the weight is the same  
+   Options: The wide foot, because it is bigger / Both sink the same, because the weight is the same / The narrow foot, because the same weight is on a smaller patch  
    **Answer:** The narrow foot, because the same weight is on a smaller patch. *Why:* Pressure is weight divided by area. The narrow foot puts all the weight on a smaller area, so each small patch is pushed harder.
 5. (mcq) A camel's wide foot floats on sand. What is a likely price?  
-   Options: It slips on wet clay / It makes her too light / It stops her from running  
+   Options: It makes her too light / It slips on wet clay / It stops her from running  
    **Answer:** It slips on wet clay. *Why:* A wide pad shares her weight on soft ground, but on slippery clay it has little grip. Every good part is good for one kind of place.
 6. (mcq) Why do most woodpeckers have two toes pointing backwards?  
-   Options: To grip a straight trunk / To swim / To scratch the ground for seeds  
+   Options: To swim / To scratch the ground for seeds / To grip a straight trunk  
    **Answer:** To grip a straight trunk. *Why:* Two toes forward and two back make a strong clamp on a trunk. Her stiff tail props her at the same time.
 7. (mcq) What do scientists say about how a woodpecker's head survives the hits?  
-   Options: They are still testing whether the skull absorbs the shock or acts like a stiff hammer / It is settled that the head has a built-in cushion / It is settled that her brain is never hurt  
+   Options: It is settled that the head has a built-in cushion / They are still testing whether the skull absorbs the shock or acts like a stiff hammer / It is settled that her brain is never hurt  
    **Answer:** They are still testing whether the skull absorbs the shock or acts like a stiff hammer. *Why:* Older books said she has a shock absorber, but a video study in 2022 found the head works more like a stiff hammer. The question is still open, and we can say so.
 8. (mcq) How does an octopus move away fast from danger?  
    Options: She squirts water out of her funnel and shoots the other way / She flaps her wings / She runs on her bones  
@@ -634,16 +634,16 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    Options: She has no bones, so only her beak is hard / She is made of water / She can shrink her beak  
    **Answer:** She has no bones, so only her beak is hard. *Why:* The beak is the one big hard part. The rest of her body is soft and flows through any gap that the beak can pass.
 10. (mcq) Which of these is evidence, not a claim, about the Ice Test?  
-   Options: Block B had the least water in the glass / Fat all over is always best / Insulation traps heat  
+   Options: Fat all over is always best / Block B had the least water in the glass / Insulation traps heat  
    **Answer:** Block B had the least water in the glass. *Why:* Evidence is what you measured or saw. A claim says what you think is true. Reasoning explains why the evidence supports the claim.
 11. (mcq) Which is the best explanation of how camels came to have wide pads?  
-   Options: Calves born with wider pads survived better on sand and left more calves / Camels stretched their feet to fit the sand / Camels wanted wider feet  
+   Options: Camels stretched their feet to fit the sand / Camels wanted wider feet / Calves born with wider pads survived better on sand and left more calves  
    **Answer:** Calves born with wider pads survived better on sand and left more calves. *Why:* Wanting or stretching does not change what an animal passes on. Helpful differences spread because those animals survive and have more young.
 12. (mcq) Octopus eyes and human eyes both have lenses, yet the animals are not close relatives. What best explains this?  
-   Options: Both met the same problem, focusing light, and each found its own answer / An octopus is a kind of human / They share a recent ancestor with lens eyes  
+   Options: An octopus is a kind of human / They share a recent ancestor with lens eyes / Both met the same problem, focusing light, and each found its own answer  
    **Answer:** Both met the same problem, focusing light, and each found its own answer. *Why:* This is convergent evolution. A lens is a good answer to the problem of seeing a sharp image, so it appeared twice, from different bodies.
 13. (mcq) Which of these animals is an omnivore?  
-   Options: A human, who eats rice, dal, fruit and fish / A cow, who eats only grass and leaves / A tiger, who eats only deer  
+   Options: A cow, who eats only grass and leaves / A tiger, who eats only deer / A human, who eats rice, dal, fruit and fish  
    **Answer:** A human, who eats rice, dal, fruit and fish. *Why:* A human eats both plants and animals, so a human is an omnivore. A cow is a herbivore, and a tiger is a carnivore.
 
 ## Applications

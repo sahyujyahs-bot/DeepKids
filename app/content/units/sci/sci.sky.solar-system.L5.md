@@ -588,7 +588,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 4. (truefalse) A moon can be wider than a planet.  
    **Answer:** True. *Why:* True. Ganymede and Titan are both wider than Mercury. A moon is named for what it goes round, not for its size.
 5. (mcq) Ganymede is 5,268 km wide and Mercury is 4,879 km wide. What is Ganymede?  
-   Options: A planet, because it is wider than Mercury / A moon, because it goes round Jupiter / A dwarf planet, because it is smaller than Jupiter / A star  
+   Options: A moon, because it goes round Jupiter / A planet, because it is wider than Mercury / A dwarf planet, because it is smaller than Jupiter / A star  
    **Answer:** A moon, because it goes round Jupiter. *Why:* Ganymede goes round Jupiter, so it is a moon. Choosing 'a planet' uses width as the test. Width is not one of the tests.
 6. (sort) Sort these worlds by shape. Is each one round or lumpy?  
    **Answer:** The Earth → Round; Pluto → Round; Ceres → Round; Phobos → Lumpy; Eros → Lumpy; Deimos → Lumpy. *Why:* A world with enough mass pulls every part towards its centre, and becomes a ball. Phobos, Deimos and Eros are only 12 to 34 km wide, so their pull is too weak.
@@ -604,7 +604,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 11. (count) A ball of dough is 4 times as wide as a small ball. How many small balls make it?  
    **Answer:** 64. *Why:* A ball 4 times as wide is also 4 times as tall and 4 times as deep. So it holds 4 x 4 x 4 = 64 small balls.
 12. (mcq) The Moon is about a quarter as wide as the Earth. About how many Moons would fit inside the Earth?  
-   Options: About 4 / About 16 / About 50 / About 400  
+   Options: About 4 / About 16 / About 400 / About 50  
    **Answer:** About 50. *Why:* The Earth is nearly 4 times as wide, so the Moon fits in about 4 x 4 x 4 = 64 times. The true figure is about 49, because the Moon is a little more than a quarter as wide.
 13. (perspective) Should Pluto be called a planet?  
    **Answer:** Any view with a fact. One reason for the first: Pluto shares its path with thousands of icy bodies. One for the second: Pluto is round, has air and has five moons. One for the third: Eris, found in 2005, has more mass than Pluto, so the list of planets would keep growing.. *Why:* A strong answer uses a real fact, such as the Kuiper belt, Pluto's moons or Eris. It treats the other views fairly. Scientists still argue about this.
@@ -615,10 +615,10 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
    **Answer:** 3. *Why:* Ceres goes round the Sun, in the asteroid belt. The Moon is a natural satellite, and the other two are artificial satellites.
 ### Balance points, scales and cubes (stretch, 16 questions)
 1. (mcq) One world has 3 times the mass of its partner. How much nearer the balance point is the heavy world?  
-   Options: 3 times nearer / The same distance / Half as near / 9 times nearer  
+   Options: The same distance / Half as near / 3 times nearer / 9 times nearer  
    **Answer:** 3 times nearer. *Why:* The heavy world sits as many times nearer the balance point as it is times heavier. With 3 times the mass, it is 3 times nearer.
 2. (mcq) Balls of 4 pieces and 1 piece sit at the ends of a 20 cm pencil. Where is the balance point?  
-   Options: 4 cm from the heavy end / 5 cm from the heavy end / 10 cm from the heavy end / 16 cm from the heavy end  
+   Options: 5 cm from the heavy end / 10 cm from the heavy end / 4 cm from the heavy end / 16 cm from the heavy end  
    **Answer:** 4 cm from the heavy end. *Why:* The pencil is cut into 4 + 1 = 5 equal parts, and the balance point is 1 part from the heavy end. 20 ÷ 5 = 4 cm. The middle, 10 cm, is only right for equal balls.
 3. (truefalse) The Earth stays still while the Moon goes round it.  
    **Answer:** False. *Why:* False. Both go round their balance point. The Earth's circle is small, about 4,700 km from its centre, because the Earth is 81 times as heavy.
@@ -659,7 +659,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 3. (truefalse) Two worlds with exactly the same mass have their balance point halfway between them.  
    **Answer:** True. *Why:* True. Each world is as far from the point as the other, so the point is halfway. The balance point only moves towards the heavier one.
 4. (mcq) The Sun and Jupiter share a balance point just above the Sun's surface. What does this show?  
-   Options: Jupiter is wider than the Sun / The Sun moves a little as Jupiter goes round / Jupiter does not go round the Sun / The Sun has no gravity  
+   Options: Jupiter is wider than the Sun / Jupiter does not go round the Sun / The Sun moves a little as Jupiter goes round / The Sun has no gravity  
    **Answer:** The Sun moves a little as Jupiter goes round. *Why:* The Sun goes round the balance point too, in a small circle. It does so once in about 12 years, as Jupiter goes round.
 5. (count) In A Thousand Grains of Rice, the Sun has 998.6 grains and Jupiter 1. How many grains are left for everything else?  
    **Answer:** 0.4. *Why:* 1,000 − 998.6 − 1 = 0.4 grains. All the other planets, moons, asteroids and comets together are less than half a grain.
@@ -676,7 +676,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 11. (order) Put these in order, from nearest to furthest from the Sun.  
    **Answer:** ['Neptune', 'The end of the Kuiper belt', "The edge of the Sun's bubble", 'The Oort cloud']. *Why:* Neptune is 30 astronomical units out. The Kuiper belt reaches about 50. The Sun's bubble ends about 120 out. The Oort cloud may reach about 100,000.
 12. (mcq) Nobody has seen the Oort cloud. How do astronomers know it is probably there?  
-   Options: A telescope photographed it / Comets seem to come from far away in every direction / Voyager 1 flew through it / Moon rock holds pieces of it  
+   Options: Comets seem to come from far away in every direction / A telescope photographed it / Voyager 1 flew through it / Moon rock holds pieces of it  
    **Answer:** Comets seem to come from far away in every direction. *Why:* Astronomers worked out where comets come from by studying their paths. Voyager 1 will need about 300 years to reach the Oort cloud.
 13. (truefalse) A planet with a heavier moon wobbles more than one with a lighter moon, at the same distance.  
    **Answer:** True. *Why:* True. A heavier moon pulls the balance point further from the planet's middle, so the planet goes round in a bigger circle. This is how astronomers find planets round other stars.
@@ -692,40 +692,40 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 
 ## Quiz
 1. (mcq) Which is the largest of the four rocky planets?  
-   Options: Mercury / Venus / The Earth / Mars  
+   Options: Mercury / Venus / Mars / The Earth  
    **Answer:** The Earth. *Why:* The Earth is 12,742 km wide, a little wider than Venus at 12,104 km. Mars and Mercury are much smaller.
 2. (mcq) Which of these is true of the Earth and no other planet?  
-   Options: It has seas of liquid water on its surface / It has a moon / It has air / It goes round the Sun  
+   Options: It has a moon / It has air / It has seas of liquid water on its surface / It goes round the Sun  
    **Answer:** It has seas of liquid water on its surface. *Why:* Other planets have moons, air and orbits. Only the Earth has liquid water on its surface, and it is the only world where we know living beings exist.
 3. (mcq) Which of these bodies goes round a planet?  
-   Options: Ceres / The Moon / Eris / Vesta  
+   Options: The Moon / Ceres / Eris / Vesta  
    **Answer:** The Moon. *Why:* The Moon goes round the Earth. Ceres, Eris and Vesta all go round the Sun.
 4. (mcq) Which of these is most likely to be lumpy?  
-   Options: The Earth / The Moon / Phobos, 22 km wide / Ceres, 940 km wide  
+   Options: The Earth / Phobos, 22 km wide / The Moon / Ceres, 940 km wide  
    **Answer:** Phobos, 22 km wide. *Why:* A small body has weak gravity, so it cannot pull its bumps down. Phobos is shaped like a potato. The other three are round.
 5. (mcq) Titan, a moon of Saturn, is 5,150 km wide. Mercury is 4,879 km wide. What can you say?  
-   Options: Titan is a planet / A moon can be wider than a planet / Mercury must be a moon / Titan goes round the Sun  
+   Options: A moon can be wider than a planet / Titan is a planet / Mercury must be a moon / Titan goes round the Sun  
    **Answer:** A moon can be wider than a planet. *Why:* Titan is wider than Mercury, but it goes round Saturn, so it is a moon. Choosing 'Titan is a planet' uses width as the test.
 6. (mcq) Where is the balance point of the Earth and the Moon?  
-   Options: Halfway between them / Inside the Earth, about 4,700 km from its centre / At the Moon's centre / Outside the Earth, near the Moon  
+   Options: Inside the Earth, about 4,700 km from its centre / Halfway between them / At the Moon's centre / Outside the Earth, near the Moon  
    **Answer:** Inside the Earth, about 4,700 km from its centre. *Why:* The Earth has 81 times the Moon's mass. 384,400 ÷ 82 is about 4,700 km. The Earth's radius is 6,371 km, so the point is inside it.
 7. (mcq) A heavy ball and a light ball turn on a thread tied at their balance point. Which ball makes the smaller circle?  
    Options: The heavy ball / The light ball / Neither, because the heavy ball stays still  
    **Answer:** The heavy ball. *Why:* The heavy ball is nearer the balance point, so its circle is smaller. It still goes round, as it did in The Two-Ball Balance.
 8. (mcq) With the Earth as a marble, the Sun is a ball as tall as a grown-up. About how far apart are they?  
-   Options: About 2 metres / About 20 metres / About 190 metres / About 19 kilometres  
+   Options: About 190 metres / About 2 metres / About 20 metres / About 19 kilometres  
    **Answer:** About 190 metres. *Why:* The Sun is about 11,700 Earth-widths away. A marble 1.6 cm wide gives about 187 metres.
 9. (mcq) A ball is twice as wide as another, made of the same dough. How much more dough does it hold?  
    Options: 2 times / 4 times / 8 times / 16 times  
    **Answer:** 8 times. *Why:* It is twice as wide, as tall and as deep. 2 x 2 x 2 = 8.
 10. (mcq) How does the Sun's mass compare with the mass of all the planets together?  
-   Options: About equal / About 10 times as much / More than 700 times as much / A little less  
+   Options: More than 700 times as much / About equal / About 10 times as much / A little less  
    **Answer:** More than 700 times as much. *Why:* The Sun has about 333,000 Earth masses. All the planets together have about 450. So the Sun has more than 700 times as much.
 11. (mcq) Pluto goes round the Sun and is round. Which test does it fail?  
-   Options: It does not go round the Sun / It is not round / It has not cleared its path / It has no moon  
+   Options: It does not go round the Sun / It is not round / It has no moon / It has not cleared its path  
    **Answer:** It has not cleared its path. *Why:* Pluto shares its path with thousands of icy bodies. That is why it is a dwarf planet.
 12. (mcq) Voyager 1 left the Sun's bubble of gas in 2012. Has it left the solar system?  
-   Options: Yes, completely / It depends on how the edge is measured / No, it is still between Mars and Jupiter / Nobody can tell where it is  
+   Options: It depends on how the edge is measured / Yes, completely / No, it is still between Mars and Jupiter / Nobody can tell where it is  
    **Answer:** It depends on how the edge is measured. *Why:* By the Sun's wind, it has left. By the Sun's gravity, it is still deep inside. There is no single agreed edge.
 13. (mcq) On a clear night in India, the stars seem to circle round one point in the north sky. Why does the Pole Star hardly seem to move?  
    Options: It sits almost exactly over the Earth's north pole, the point the spin turns round / It is a planet that stands still in the sky / It is the nearest star to the Earth / The Earth stops spinning for the Pole Star  

@@ -904,10 +904,10 @@
       "q": "Blight hits Chak-hao. No family has Chak-hao in a seed jar. Can anyone plant it again?",
       "options": [
        "Yes, from the seed shop",
-       "No, it is extinct",
-       "Yes, next year"
+       "Yes, next year",
+       "No, it is extinct"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In this game, a variety is extinct when it is in no field and no jar. Seed saved in a jar is the only way back. This is why people save seed from the harvest every year."
      },
      "ask": [
@@ -1082,11 +1082,11 @@
       "t": "mcq",
       "q": "You marked 40 beans. In the second scoop of 40 beans, 8 have a dot. About how many beans are in the jar?",
       "options": [
-       "About 80 beans",
        "About 200 beans",
+       "About 80 beans",
        "About 320 beans"
       ],
-      "a": 1,
+      "a": 0,
       "why": "8 of the 40 beans in the scoop are marked, which is 1 in 5. The 40 marked beans are about 1 in 5 of the whole jar. So the jar holds about 5 times 40, which is 200. Picking 80 means adding instead of multiplying."
      },
      "parent": "If R is 0, there is nothing to divide by. Put the beans back, shake, and scoop again. Write down that you had to do this, because it tells you something about small samples."
@@ -1268,11 +1268,11 @@
       "t": "mcq",
       "q": "Why do all four cups get the same number of seeds and the same amount of liquid?",
       "options": [
-       "So only the liquid is different",
        "So all the cups look neat",
-       "So the seeds do not get lonely"
+       "So the seeds do not get lonely",
+       "So only the liquid is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one cup had more seeds or more water, we would not know whether the liquid or the amount made the difference."
      }
     },
@@ -1427,11 +1427,11 @@
       "t": "mcq",
       "q": "Funnel C and funnel D hold the same soil to the same height. What is different about them?",
       "options": [
-       "D is pressed down, so it has less air space",
        "D has more soil",
+       "D is pressed down, so it has less air space",
        "D has a different kind of soil"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Pressing squeezes out the air spaces between soil grains, and water travels through those spaces. Roads, roofs and trampled paths have the same effect, so rain runs off them instead of soaking in."
      }
     },
@@ -1578,11 +1578,11 @@
       "t": "mcq",
       "q": "A child grows up seeing few sparrows and thinks that is how it has always been. Her grandmother remembers many. What is this called?",
       "options": [
-       "A shifting baseline",
        "A mark and recapture",
-       "A tiger corridor"
+       "A tiger corridor",
+       "A shifting baseline"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A baseline is the amount we start from. Each generation takes the nature they first met as normal. So a slow loss is not noticed. Records, like old photos or bird counts, help us to check."
      },
      "think": "What would you want a child 50 years from now to remember about today?"
@@ -1692,11 +1692,11 @@
       "t": "mcq",
       "q": "You spooned water from the left hole, and the water in the right hole also fell. What does this show?",
       "options": [
-       "The wells share one water table under the ground",
        "The right hole leaked",
-       "Sand soaks up all water"
+       "Sand soaks up all water",
+       "The wells share one water table under the ground"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The water in the sand is joined, so taking it from one place lowers it nearby. This is why a new borewell can dry up an old well next to it."
      },
      "parent": "Typical result: the left well empties and the right well falls, often by half or more, though it varies with the sand. Wet sand drains slowly, so wait a minute and measure again. If the right hole barely moves, the sand may be very coarse or wet. Move the holes closer together and try again."
@@ -1904,11 +1904,11 @@
       "t": "mcq",
       "q": "Why can scientists tell one tiger from another by their stripes?",
       "options": [
-       "Each tiger has a different stripe pattern",
        "All tigers have the same stripes",
-       "Tigers wear name tags"
+       "Tigers wear name tags",
+       "Each tiger has a different stripe pattern"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Like fingerprints, the pattern of stripes is different on every tiger, and the pattern does not change over her life. So a photo from a camera trap is like a fingerprint card."
      },
      "parent": "Write down how many you matched out of the total. Smudged prints are hard to match, which is a good thing to talk about: camera trap photos can be blurry too. Two to four children: each makes a set, and the others try to match them."
@@ -2027,11 +2027,11 @@
       "t": "mcq",
       "q": "A bee visits a flower for nectar and carries pollen to the next flower. What does this help the plant do?",
       "options": [
-       "Make seeds and fruit",
        "Grow taller",
-       "Make more petals"
+       "Make more petals",
+       "Make seeds and fruit"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Pollen carried from one flower to another lets the flower make seeds and fruit. When flowers lose their visitors, many crops make less fruit."
      },
      "think": "What would happen to a plant that lost all her visitors?"
@@ -2282,11 +2282,11 @@
       "t": "mcq",
       "q": "In a real city, why does less rain soak into the ground than in a forest?",
       "options": [
-       "Roofs and roads send the rain into drains",
        "Rain falls more slowly in cities",
+       "Roofs and roads send the rain into drains",
        "City soil is made of stone"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Roofs, roads and pavements are hard, so rain runs off them into drains and out to sea. A forest floor soaks the rain in. A recharge pit gives the rain a way back to the ground."
      }
     }
@@ -2396,11 +2396,11 @@
      "t": "mcq",
      "p": "Which of these can be used for ever, if we take no more than nature replaces each year?",
      "opts": [
-      "Fish in a lake",
       "Coal under the ground",
+      "Fish in a lake",
       "Iron ore in a mountain"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 1,
      "why": "Fish have young every year, so a lake can keep giving fish if enough are left to breed. Coal and iron ore took millions of years to form. Choosing coal or iron ore would mean believing that everything natural grows back, and these do not."
     },
@@ -2408,11 +2408,11 @@
      "t": "mcq",
      "p": "A pond gains 8 new fish every year, and the villagers catch 8 fish every year. What happens to the number of fish over the years?",
      "opts": [
-      "It stays about the same",
       "It keeps growing",
-      "It keeps falling"
+      "It keeps falling",
+      "It stays about the same"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 0,
      "why": "What comes in equals what goes out, so the stock stays steady. If the catch were bigger than the new fish, the pond would slowly empty."
     },
@@ -2434,11 +2434,11 @@
      "t": "mcq",
      "p": "You mark 20 beans and mix them into a jar. You scoop 30 beans and find 5 marked ones. About how many beans are in the jar?",
      "opts": [
-      "About 60",
       "About 120",
+      "About 60",
       "About 150"
      ],
-     "a": 1,
+     "a": 0,
      "outcome": 2,
      "how": "e1",
      "why": "5 of the 30 beans in the scoop are marked, which is 1 in 6. The 20 marked beans are about 1 in 6 of the jar. So the jar holds about 6 times 20, which is 120. An answer of 150 comes from adding numbers instead of using the fraction."
@@ -2541,11 +2541,11 @@
      "t": "mcq",
      "p": "A group of animals falls to very few, and people stop hunting them. Why might they still not recover?",
      "opts": [
-      "Too few parents are left to have enough young",
       "The animals forget how to breed",
-      "The forest will not let them back"
+      "The forest will not let them back",
+      "Too few parents are left to have enough young"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 3,
      "why": "Young come from parents. With very few parents, few young are born, and the few animals may be too far apart to find each other. Animals do not forget how to breed, so that choice is wrong."
     },
@@ -2559,11 +2559,11 @@
      "t": "mcq",
      "p": "Which of these is a protected place that a village, not the government, has kept for hundreds of years?",
      "opts": [
-      "A sacred grove",
       "A zoo",
+      "A sacred grove",
       "A tiger reserve gate"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 4,
      "why": "Villages in Kerala, Karnataka, Meghalaya and other states kept sacred groves for hundreds of years. Zoos and tiger reserves are run by the government."
     },
@@ -2631,11 +2631,11 @@
      "t": "mcq",
      "p": "In a district, rain soaks in and adds 60 units of water to the ground each year, and the wells take out 80 units. What happens to the water table over the years?",
      "opts": [
-      "It falls",
       "It rises",
+      "It falls",
       "It stays the same"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 5,
      "why": "More goes out than goes in, 80 against 60, so the stock falls by 20 units every year. As in a bank account, the balance falls if you take out more than you put in."
     },
@@ -2643,11 +2643,11 @@
      "t": "mcq",
      "p": "Why can digging a deeper borewell fail to solve a water shortage in the long run?",
      "opts": [
-      "It takes more from the same shrinking store of water",
       "Deeper water is always dirty",
+      "It takes more from the same shrinking store of water",
       "Deeper wells make less rain"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 5,
      "why": "A deeper well reaches lower water, but if the store keeps falling, the new well also runs dry in time. Recharge is what fills the store again."
     },
@@ -2725,11 +2725,11 @@
      "t": "mcq",
      "p": "Which method can count how many tigers live in a forest, without disturbing any of them?",
      "opts": [
-      "Camera traps, with each tiger recognised by her stripes",
       "Asking one villager for a guess",
+      "Camera traps, with each tiger recognised by her stripes",
       "Counting one footprint on a path"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 2,
      "why": "Every tiger has a different stripe pattern, so photos from many cameras show how many different tigers there are. One guess or one footprint is too little."
     },
@@ -2865,11 +2865,11 @@
      "t": "mcq",
      "p": "In a mark and recapture count, the marked fish are brighter and easier to catch than the others. How does this change the estimate?",
      "opts": [
-      "The estimate comes out too low",
       "The estimate comes out too high",
-      "The estimate does not change"
+      "The estimate does not change",
+      "The estimate comes out too low"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 2,
      "why": "More marked fish are caught than a fair sample would give, so the fraction marked looks bigger. A bigger fraction marked makes the lake seem smaller than it is."
     },
@@ -3025,11 +3025,11 @@
    "t": "mcq",
    "p": "A pond makes 6 new fish a year, and the village catches 9 fish a year. What will happen to the pond over time?",
    "opts": [
-    "The number of fish will fall",
     "The number of fish will stay the same",
+    "The number of fish will fall",
     "The number of fish will rise"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "More fish leave the pond than are born, so the stock falls each year. When there are fewer parents, fewer young are born, and the fall can speed up."
   },
@@ -3037,11 +3037,11 @@
    "t": "mcq",
    "p": "What does a scientist do in mark and recapture?",
    "opts": [
-    "Marks some animals, lets them go, catches a second sample, and uses the fraction marked to estimate the whole group",
     "Counts every animal one by one",
-    "Weighs all the animals in the group"
+    "Weighs all the animals in the group",
+    "Marks some animals, lets them go, catches a second sample, and uses the fraction marked to estimate the whole group"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 2,
    "why": "Mark and recapture works when counting every animal is impossible. The fraction of marked animals in the second sample is about the same as the fraction marked in the whole group."
   },
@@ -3050,10 +3050,10 @@
    "p": "A jar holds 50 marked beans among all its beans. A scoop of 20 beans has 5 marked ones. About how many beans are in the jar?",
    "opts": [
     "About 100",
-    "About 200",
-    "About 500"
+    "About 500",
+    "About 200"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 2,
    "why": "5 of the 20 beans in the scoop are marked, which is 1 in 4. The 50 marked beans are 1 in 4 of the jar. So the jar holds about 4 times 50, which is 200."
   },
@@ -3097,11 +3097,11 @@
    "t": "mcq",
    "p": "What is the water table?",
    "opts": [
-    "The top of the water stored in the ground",
     "A table for water jugs",
+    "The top of the water stored in the ground",
     "The pipe that carries water to a house"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 5,
    "why": "Water soaks into the tiny spaces in sand and rock, and the top of that water is the water table. It rises with recharge and falls when we pump out more than soaks in."
   },
@@ -3109,11 +3109,11 @@
    "t": "mcq",
    "p": "A disease kills one kind of rice in a village that grows five kinds. What is most likely to happen?",
    "opts": [
-    "The other four kinds keep growing, so most of the harvest survives",
     "All the rice dies",
-    "The disease helps the other rice grow"
+    "The disease helps the other rice grow",
+    "The other four kinds keep growing, so most of the harvest survives"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "A disease usually harms one variety more than others. This is why farmers who grow many varieties are safer. Seed saved from the lost kind could grow that rice again."
   },
@@ -3121,11 +3121,11 @@
    "t": "mcq",
    "p": "A fisher brings home the same weight of fish every day, but the fish are smaller each year. What does this suggest?",
    "opts": [
-    "The fish are being caught before they grow and have young",
     "The fish are getting healthier",
+    "The fish are being caught before they grow and have young",
     "The lake is getting bigger"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "Smaller fish mean younger fish. If fish are caught young, fewer reach the age to breed. The weight in the basket can hide this."
   },
@@ -3145,11 +3145,11 @@
    "t": "mcq",
    "p": "Elinor Ostrom studied many real commons. What did she find?",
    "opts": [
-    "Many communities managed shared things well for hundreds of years by making their own rules",
     "Shared things are always used up",
-    "Only governments can manage shared things"
+    "Only governments can manage shared things",
+    "Many communities managed shared things well for hundreds of years by making their own rules"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 6,
    "why": "Ostrom found that communities with clear rules, ways of watching and fair penalties could look after commons. She won the Nobel Prize in Economics in 2009 for this work."
   },

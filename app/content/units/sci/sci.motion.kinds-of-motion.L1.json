@@ -572,11 +572,11 @@
       "t": "mcq",
       "q": "Why did the rubber ball bounce and the dough did not?",
       "options": [
-       "The ball springs back to its shape, and the dough stays squashed",
        "The dough is heavier",
+       "The ball springs back to its shape, and the dough stays squashed",
        "The ball was dropped from higher"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both were dropped from the same height. The rubber ball springs back to round and pushes off the floor. The dough stays flat."
      },
      "think": "What else at home springs back when you squeeze it?"
@@ -680,11 +680,11 @@
       "t": "mcq",
       "q": "Which way of moving is turning round and round in one place?",
       "options": [
-       "Spinning",
        "Sliding",
-       "Bouncing"
+       "Bouncing",
+       "Spinning"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Spinning is turning round in one place. Sliding is moving along while rubbing, and bouncing is springing back up."
      }
     }
@@ -844,11 +844,11 @@
       "t": "mcq",
       "q": "What stayed still while the bag swung?",
       "options": [
-       "The door handle",
        "The orange",
+       "The door handle",
        "The bottom of the bag"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A swinging thing hangs from one point that stays still. The bag hung from the handle and moved back and forth below it."
      }
     }
@@ -936,11 +936,11 @@
       "t": "mcq",
       "q": "A pencil spins on the floor. Which part moves round in the biggest circle?",
       "options": [
-       "Its two ends",
        "Its middle",
+       "Its two ends",
        "No part moves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A spinning thing turns round its middle. The middle stays put, and the ends travel round in the biggest circle."
      },
      "parent": "Rubbing on the floor slows each one down. A plate or a top on its point often spins longest.",
@@ -1608,11 +1608,11 @@
      "t": "mcq",
      "p": "Why do suitcases have wheels?",
      "opts": [
-      "Rolling is easier than sliding",
       "Wheels make them lighter",
-      "Wheels look nice"
+      "Wheels look nice",
+      "Rolling is easier than sliding"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A rolling wheel hardly rubs the floor, so a small pull moves a heavy suitcase. Without wheels it would scrape and slide."
     },
     {
@@ -1806,11 +1806,11 @@
    "t": "mcq",
    "p": "A ceiling fan turns round and round in one place. How does it move?",
    "opts": [
-    "It spins",
     "It slides",
+    "It spins",
     "It bounces"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Spinning is turning round in one place.",
    "outcome": 0
   },
@@ -1830,11 +1830,11 @@
    "t": "mcq",
    "p": "Which of these swings?",
    "opts": [
-    "A bag hanging on a door handle",
     "A ball on a slope",
-    "A box pushed on the floor"
+    "A box pushed on the floor",
+    "A bag hanging on a door handle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A swinging thing hangs from one point and goes back and forth.",
    "outcome": 2
   },
@@ -1842,11 +1842,11 @@
    "t": "mcq",
    "p": "You must move a heavy round tin across the floor with a small push. What should you do?",
    "opts": [
-    "Lay it on its side and roll it",
     "Push it standing up",
-    "Fill it with more rice"
+    "Fill it with more rice",
+    "Lay it on its side and roll it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rolling hardly rubs the floor, so a small push moves it. Sliding it standing up rubs its whole bottom.",
    "outcome": 3,
    "how": "e1"
@@ -1855,11 +1855,11 @@
    "t": "mcq",
    "p": "A ball of atta dough falls on the floor. What happens?",
    "opts": [
-    "It goes flat and does not bounce",
     "It bounces high",
+    "It goes flat and does not bounce",
     "It rolls away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Dough squashes and stays squashed. It does not spring back, so it does not bounce.",
    "outcome": 4,
    "how": "e2"
@@ -1880,11 +1880,11 @@
    "t": "mcq",
    "p": "A child finds a heavy box very hard to drag. What could help?",
    "opts": [
-    "Put it on a cart with wheels",
     "Make it heavier",
+    "Put it on a cart with wheels",
     "Drag it more slowly on its side"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wheel rolls and hardly rubs the ground, so heavy things move with a small push.",
    "outcome": 3
   },
@@ -1892,11 +1892,11 @@
    "t": "mcq",
    "p": "You guess the dabba will go further standing flat. What should you do next?",
    "opts": [
-    "Test it, and see what happens",
     "Ask someone and believe them",
-    "Give up"
+    "Give up",
+    "Test it, and see what happens"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess is checked by a test. Push the dabba both ways with the same push and count the tiles.",
    "outcome": 5
   },
@@ -1904,11 +1904,11 @@
    "t": "mcq",
    "p": "A rolling pin goes over and over as it moves along the kitchen floor. How does it move?",
    "opts": [
-    "It rolls",
     "It swings",
+    "It rolls",
     "It bounces"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rolling is turning over and over while moving along.",
    "outcome": 2
   },
@@ -1916,11 +1916,11 @@
    "t": "mcq",
    "p": "What does a rubber ball do for a moment when it hits the floor?",
    "opts": [
-    "It squashes a little, then springs back",
     "It spins in one place",
+    "It squashes a little, then springs back",
     "It slides along the floor"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The ball squashes a little where it hits, then springs back to round and pushes itself up.",
    "outcome": 4
   }

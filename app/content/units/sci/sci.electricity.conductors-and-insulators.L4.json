@@ -934,11 +934,11 @@
       "t": "mcq",
       "q": "The bulb stayed dark on the tomato slice. The LED glowed. What is the best conclusion?",
       "options": [
-       "The tomato lets a small current through",
        "The bulb is broken",
+       "The tomato lets a small current through",
        "The tomato is an insulator"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The LED needs far less current than the bulb. A glow in the LED shows that some current passed, too little for the bulb. If you chose the insulator, remember that a dark bulb only tells you the current was below what a bulb needs. The bulb lit on the spoon, so it is not broken."
      },
      "context": "In this step, you ask the same things again with a more sensitive tester."
@@ -1458,10 +1458,10 @@
    "p": "Riya, a girl in your class, tests five cups of water. She does not rinse the wires between cups. What goes wrong?",
    "opts": [
     "The wires stop working",
-    "Salt is carried into the next cup",
-    "Nothing goes wrong"
+    "Nothing goes wrong",
+    "Salt is carried into the next cup"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fair test changes one thing only. Salt left on the wires changes the next cup too, so its score is too high. If you chose 'nothing', think about what the wet wire ends are carrying.",
    "outcome": 0
   },
@@ -1469,11 +1469,11 @@
    "t": "mcq",
    "p": "Which tester can show the smallest current?",
    "opts": [
-    "A tester with a red LED",
     "A tester with a torch bulb",
-    "Both show exactly the same"
+    "Both show exactly the same",
+    "A tester with a red LED"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An LED glows with about a hundredth of the current a torch bulb needs. So it catches currents the bulb misses.",
    "how": "e2",
    "outcome": 0
@@ -1494,11 +1494,11 @@
    "t": "mcq",
    "p": "Why does rubber insulate?",
    "opts": [
-    "Rubber has no electrons in it",
     "Its electrons are held firmly by their atoms",
+    "Rubber has no electrons in it",
     "Rubber is soft and bends"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every material has electrons. In rubber none are free to move, so a push moves almost no charge. Softness has nothing to do with it: hard glass insulates too.",
    "outcome": 1
   },
@@ -1507,10 +1507,10 @@
    "p": "You add salt to plain water one pinch at a time. What does the LED do?",
    "opts": [
     "It jumps from dark to full at one pinch",
-    "It does not change",
-    "It grows brighter with each pinch"
+    "It grows brighter with each pinch",
+    "It does not change"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Each pinch adds more ions, and more ions carry more current. There is no pinch where water suddenly becomes a conductor.",
    "how": "e1",
    "outcome": 2
@@ -1520,10 +1520,10 @@
    "p": "Which of these conducts best?",
    "opts": [
     "Rainwater caught in a clean plastic bowl",
-    "Sea water",
-    "Filtered drinking water"
+    "Filtered drinking water",
+    "Sea water"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Sea water holds the most ions by far. Rainwater holds the fewest of the three. The more ions, the better water conducts.",
    "outcome": 2
   },
@@ -1551,10 +1551,10 @@
    "p": "Why are the handles of an electrician's pliers covered in rubber?",
    "opts": [
     "To make the pliers heavier",
-    "Only to give a better grip",
-    "So current cannot pass from the metal to the hand"
+    "So current cannot pass from the metal to the hand",
+    "Only to give a better grip"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The metal jaws may touch a live wire. The rubber is an insulator between the metal and the hand. A grip helps too, but it is not the main reason.",
    "outcome": 4
   },
@@ -1562,11 +1562,11 @@
    "t": "mcq",
    "p": "What does the earth wire join the metal body of a fridge to?",
    "opts": [
-    "The ground",
     "The switch",
-    "The bulb inside the fridge"
+    "The bulb inside the fridge",
+    "The ground"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The earth wire runs from the metal body to the ground. If a loose wire makes the body live, the current takes this easy path, and a safety switch cuts the supply.",
    "outcome": 4
   },
@@ -1575,10 +1575,10 @@
    "p": "Which sentence about conductors and insulators is the most accurate?",
    "opts": [
     "Every material is fully one or fully the other",
-    "Only metals have charges inside them",
-    "They are two ends of one long scale"
+    "They are two ends of one long scale",
+    "Only metals have charges inside them"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Materials range from silver to rubber, with pencil lead, salt water, silicon and skin in between. All materials have charges inside. What differs is how free the charges are.",
    "outcome": 5
   },
@@ -1586,11 +1586,11 @@
    "t": "mcq",
    "p": "A mixer gives your hand a tingle. What is the right thing to do?",
    "opts": [
-    "Touch it again to make sure",
     "Switch off at the main switch and tell a grown-up",
+    "Touch it again to make sure",
     "Wipe it with a wet cloth and carry on"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A tingle means current is reaching the metal body, so an insulator has failed. Cut the supply first, then get an electrician. Touching again, or adding water, gives the current a better path through you.",
    "outcome": 6
   },
@@ -1598,11 +1598,11 @@
    "t": "mcq",
    "p": "Someone is getting a shock from an appliance. What should you do first?",
    "opts": [
-    "Switch off at the main switch without touching them",
     "Pull them away with your hands",
-    "Throw water on the appliance"
+    "Throw water on the appliance",
+    "Switch off at the main switch without touching them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A body conducts, so touching the person can pass the current through you too. Cutting the supply ends the danger for everyone. Water would make every path easier.",
    "outcome": 6
   },
@@ -1610,11 +1610,11 @@
    "t": "mcq",
    "p": "Which of these is still an open question for scientists?",
    "opts": [
-    "Whether copper conducts",
     "How ceramic superconductors work",
+    "Whether copper conducts",
     "Whether salt dissolves in water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ceramic superconductors were found in 1986, and physicists still argue about what pairs up the electrons inside them. The other two were settled long ago.",
    "outcome": 7
   }
@@ -1630,11 +1630,11 @@
      "t": "mcq",
      "p": "A tester's bulb lights when a key is put across the gap. What does that show?",
      "opts": [
-      "The key makes electricity",
       "The key lets current through",
+      "The key makes electricity",
       "The key is a magnet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bulb lights only when the loop is complete, so the key must have carried the current across the gap. The cells make the push, not the key.",
      "outcome": 0
     },
@@ -1642,11 +1642,11 @@
      "t": "mcq",
      "p": "Which part of an electric wire is the insulator?",
      "opts": [
-      "The plastic coat",
       "The copper strands",
-      "The bare end"
+      "The bare end",
+      "The plastic coat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The plastic coat holds its charges still, so current stays in the copper. The bare end is copper too, left uncovered so it can be joined.",
      "outcome": 4
     },
@@ -1770,11 +1770,11 @@
      "t": "mcq",
      "p": "Why must hands be dry before touching a switch?",
      "opts": [
+      "Wet skin lets far more current through",
       "Wet hands are slippery",
-      "Water makes switches rust at once",
-      "Wet skin lets far more current through"
+      "Water makes switches rust at once"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Dry skin holds back most of a current. Wet skin is about 100 times easier to pass, and the water can also creep into the switch to the live metal.",
      "outcome": 3
     },
@@ -1818,11 +1818,11 @@
      "t": "mcq",
      "p": "An LED glows in a cup of water where a torch bulb stays dark. Why?",
      "opts": [
-      "The LED makes its own electricity",
       "The LED needs far less current to glow",
+      "The LED makes its own electricity",
       "Torch bulbs never work in water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The same small current flows in both tests. It is enough for an LED and far too little for a bulb's thin wire to get hot.",
      "outcome": 0
     },
@@ -1847,10 +1847,10 @@
      "p": "Salt and sugar both dissolve. Why does only salt make water conduct well?",
      "opts": [
       "Salt is heavier than sugar",
-      "Salt breaks into charged ions",
-      "Sugar blocks the wires"
+      "Sugar blocks the wires",
+      "Salt breaks into charged ions"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Salt splits into ions with plus and minus charges, which can carry current. Sugar molecules stay whole and have no charge to carry.",
      "outcome": 2
     },
@@ -1858,11 +1858,11 @@
      "t": "mcq",
      "p": "A bird stands with both feet on one bare power line and is unharmed. Why?",
      "opts": [
+      "Nothing pushes current through her body",
       "Birds are too small to conduct",
-      "Her feet are made of rubber",
-      "Nothing pushes current through her body"
+      "Her feet are made of rubber"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Both feet are on the same wire, so there is no push from one foot to the other. If she touched a second wire or the tower, current would pass through her.",
      "outcome": 3
     },
@@ -2016,11 +2016,11 @@
      "t": "mcq",
      "p": "Why may a phone charger have only two pins and no earth pin?",
      "opts": [
-      "Its whole case is plastic, with no metal to touch",
       "Chargers use no current",
-      "Phones are too small to be dangerous"
+      "Phones are too small to be dangerous",
+      "Its whole case is plastic, with no metal to touch"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An earth wire protects against a metal body going live. A charger wrapped fully in plastic has no metal body to protect. It still carries 230 volts inside, so a cracked charger is not safe.",
      "outcome": 4
     },
@@ -2055,11 +2055,11 @@
      "t": "mcq",
      "p": "Diamond and graphite are both pure carbon. Why does only graphite conduct?",
      "opts": [
-      "Graphite is softer",
       "Each atom in graphite has one electron free to move",
+      "Graphite is softer",
       "Diamond is too clear"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In diamond every outer electron is locked in a bond. In graphite the atoms sit in flat sheets, and one electron from each atom can move along the sheet. The atoms are the same. The joining is different.",
      "outcome": 1
     },
@@ -2067,11 +2067,11 @@
      "t": "mcq",
      "p": "What happens to air when lightning passes through it?",
      "opts": [
+      "A huge push tears electrons free, so the air conducts",
       "The air turns into metal",
-      "Nothing. Lightning goes round the air",
-      "A huge push tears electrons free, so the air conducts"
+      "Nothing. Lightning goes round the air"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Air insulates until the push is about 30,000 volts for each centimetre. Beyond that, electrons are pulled off the air's atoms and the air carries a current for a moment.",
      "outcome": 5
     },
@@ -2211,10 +2211,10 @@
      "p": "A tester's lamp stays dark on a wooden block. What can you safely say?",
      "opts": [
       "No charge can ever move in the block",
-      "Any current was too small for this lamp",
-      "The block is a perfect insulator"
+      "The block is a perfect insulator",
+      "Any current was too small for this lamp"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A dark lamp shows only that the current was below what the lamp needs. A more sensitive tester, a harder push or a wet block could give a different result.",
      "outcome": 0
     },

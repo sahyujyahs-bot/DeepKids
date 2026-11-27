@@ -519,10 +519,10 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 ## Worksheets
 ### Bones, muscles and skeletons (core, 15 questions)
 1. (mcq) Which bones make a hard box round the brain?  
-   Options: The skull / The ribs / The pelvis / The femur  
+   Options: The ribs / The skull / The pelvis / The femur  
    **Answer:** The skull. *Why:* The skull is a box of bones round the brain. The ribs guard the heart and lungs, and the pelvis guards the bladder and lower gut.
 2. (mcq) Which word means that a muscle gets shorter and pulls?  
-   Options: Contracts / Relaxes / Moults / Stretches  
+   Options: Relaxes / Contracts / Moults / Stretches  
    **Answer:** Contracts. *Why:* A muscle contracts when it shortens and pulls on a bone. It relaxes when it stops pulling.
 3. (fill) The longest bone in the body is the thigh bone, also called the ____.  
    **Answer:** ['femur']. *Why:* The femur runs from the hip to the knee. In a grown-up it is about a quarter of the person's height.
@@ -542,7 +542,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 10. (fill) A strong cord that joins a muscle to a bone is called a ____.  
    **Answer:** ['tendon']. *Why:* Bend your arm and press into the bend of your elbow. The tight cord you feel is the tendon of your biceps.
 11. (mcq) Why must a young cockroach moult?  
-   Options: Her hard coat cannot stretch / Her coat gets dirty / She wants a new colour / Her legs fall off  
+   Options: Her coat gets dirty / Her hard coat cannot stretch / She wants a new colour / Her legs fall off  
    **Answer:** Her hard coat cannot stretch. *Why:* An exoskeleton is hard and fixed in size. To grow, the cockroach splits the old coat and grows a bigger one.
 12. (write) Explain in two sentences why your arm needs both a biceps and a triceps.  
    **Answer:** The biceps can only pull the forearm up, because a muscle cannot push. The triceps on the other side pulls the forearm back down to straighten the arm.. *Why:* A strong answer says that muscles only pull, and that the two muscles pull in opposite directions.
@@ -555,13 +555,13 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
    **Answer:** Ragi. *Why:* Ragi, milk, curd, sesame seeds and drumstick leaves are rich in calcium. Sugar, oil and salt have almost none.
 ### How skeletons work (stretch, 16 questions)
 1. (mcq) The biceps joins the forearm close to the elbow. What does the body gain from this?  
-   Options: The hand moves far and fast / The muscle pulls less hard / The arm weighs less / The elbow bends both ways  
+   Options: The muscle pulls less hard / The arm weighs less / The elbow bends both ways / The hand moves far and fast  
    **Answer:** The hand moves far and fast. *Why:* A short pull close to the joint swings the hand a long way, quickly. The cost is that the muscle must pull much harder than the load weighs.
 2. (mcq) Which part of bone stops a crack from running straight through it?  
-   Options: The collagen fibres / The hard mineral / The marrow / The blood  
+   Options: The hard mineral / The marrow / The blood / The collagen fibres  
    **Answer:** The collagen fibres. *Why:* Collagen fibres lie across the path of a crack and hold the two sides together. The mineral makes bone hard, but mineral alone would snap like chalk.
 3. (mcq) An astronaut floats in space for six months. What happens to her leg bones?  
-   Options: They lose bone and get weaker / They grow longer / They turn into cartilage / Nothing changes  
+   Options: They grow longer / They lose bone and get weaker / They turn into cartilage / Nothing changes  
    **Answer:** They lose bone and get weaker. *Why:* Bone cells build bone where it is loaded. In space the legs carry no weight, so bone is removed faster than it is built.
 4. (truefalse) A tortoise can climb out of her shell.  
    **Answer:** False. *Why:* False. The shell is made from her ribs and backbone, grown wide and joined together. It is part of her skeleton.
@@ -592,13 +592,13 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
    **Answer:** 7. *Why:* 33 take away 26 is 7. The lowest bones join together as you grow, so the number drops.
 ### Testing ideas about skeletons (challenge, 15 questions)
 1. (mcq) A ruler arm's band is tied at 10 centimetres. The load is at 30 centimetres. How hard must the band pull?  
-   Options: About 3 times the load / One third of the load / The same as the load / About 30 times the load  
+   Options: One third of the load / About 3 times the load / The same as the load / About 30 times the load  
    **Answer:** About 3 times the load. *Why:* The load is 3 times as far from the turning point as the band is. So the band must pull about 3 times as hard as the load pulls down.
 2. (mcq) A mole digs hard. A horse runs fast. In which animal is the arm muscle joined further from the joint?  
-   Options: The mole / The horse / Both the same / Neither has arm muscles  
+   Options: The horse / Both the same / The mole / Neither has arm muscles  
    **Answer:** The mole. *Why:* A muscle joined further from the joint gives more force and less speed, which suits digging. A muscle joined close to the joint gives speed, which suits running.
 3. (mcq) Which test best shows that mineral is what makes bone stiff?  
-   Options: Soak one bone in vinegar, one in water / Weigh a bone on a kitchen scale / Paint a bone white / Measure how long a bone is  
+   Options: Weigh a bone on a kitchen scale / Soak one bone in vinegar, one in water / Paint a bone white / Measure how long a bone is  
    **Answer:** Soak one bone in vinegar, one in water. *Why:* Vinegar dissolves the mineral, and the bone goes bendy. The bone in water shows that soaking alone does not do this.
 4. (mcq) The oldest fish fossils with bone have bony plates in the skin and no bony backbone. What does this suggest?  
    Options: Bone began on the outside of the body / Fish once had no skin / Backbones are older than skin / Bone was always inside the body  
@@ -633,37 +633,37 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 
 ## Quiz
 1. (mcq) About how many bones does a grown-up human have?  
-   Options: About 200 / About 20 / About 2,000 / About 60  
+   Options: About 20 / About 2,000 / About 60 / About 200  
    **Answer:** About 200. *Why:* The usual count is 206. A baby has more separate pieces, and some join together during childhood.
 2. (mcq) Where are more than half of your bones?  
-   Options: In your hands and feet / In your skull / In your backbone / In your ribs  
+   Options: In your skull / In your hands and feet / In your backbone / In your ribs  
    **Answer:** In your hands and feet. *Why:* Each hand has 27 bones and each foot has 26. That makes 106 of the 206.
 3. (mcq) What does the red marrow inside your bones make?  
-   Options: New blood cells / New teeth / Sweat / Hair  
+   Options: New teeth / Sweat / New blood cells / Hair  
    **Answer:** New blood cells. *Why:* Red marrow makes about two million new blood cells every second. Making blood is one of the hidden jobs of the skeleton.
 4. (mcq) The backbone protects a thick bundle of nerves. What is the bundle called?  
-   Options: The spinal cord / The tendon / The marrow / The growth plate  
+   Options: The tendon / The marrow / The growth plate / The spinal cord  
    **Answer:** The spinal cord. *Why:* The spinal cord runs through holes in the vertebrae. It carries signals between the brain and the body.
 5. (mcq) Which two materials together make bone both hard and tough?  
-   Options: Mineral and collagen fibres / Fat and water / Chitin and wax / Cartilage and skin  
+   Options: Fat and water / Mineral and collagen fibres / Chitin and wax / Cartilage and skin  
    **Answer:** Mineral and collagen fibres. *Why:* The mineral of calcium and phosphate makes bone hard. The collagen fibres make it tough, so that it does not snap.
 6. (mcq) Where does a child's long bone grow longer?  
-   Options: At growth plates near its ends / In the middle of the bone / Inside the marrow / At the skin  
+   Options: In the middle of the bone / At growth plates near its ends / Inside the marrow / At the skin  
    **Answer:** At growth plates near its ends. *Why:* Growth plates are bands of cartilage near each end of a long bone. New cartilage is made there, and bone replaces it.
 7. (mcq) Your elbow is bent. Which muscle must contract to straighten it?  
-   Options: The triceps, at the back of the arm / The biceps, at the front of the arm / The calf muscle / No muscle is needed  
+   Options: The biceps, at the front of the arm / The triceps, at the back of the arm / The calf muscle / No muscle is needed  
    **Answer:** The triceps, at the back of the arm. *Why:* The triceps pulls on the back of the forearm and straightens the elbow. The biceps bends it, and a muscle cannot push.
 8. (mcq) In a fair test of a ruler arm, what is the one thing you change?  
-   Options: The place where the band is tied / The number of coins / The height the coins are lifted / The rubber band  
+   Options: The number of coins / The height the coins are lifted / The place where the band is tied / The rubber band  
    **Answer:** The place where the band is tied. *Why:* The coins, the band and the lifting height stay the same. Then any change in the stretch of the band must come from the tying place.
 9. (mcq) A muscle is joined to a bone very close to the joint. What does that mean for its pull?  
-   Options: It must pull much harder than the load / It pulls less hard than the load / It pulls exactly as hard as the load / It does not need to pull  
+   Options: It pulls less hard than the load / It pulls exactly as hard as the load / It does not need to pull / It must pull much harder than the load  
    **Answer:** It must pull much harder than the load. *Why:* A pull close to the turning point has to be bigger to hold up a load far away. Your arm muscles pull about 8 times harder than the load in your hand.
 10. (mcq) Which of these animals has an exoskeleton?  
-   Options: A prawn / A frog / An earthworm / A shark  
+   Options: A frog / A prawn / An earthworm / A shark  
    **Answer:** A prawn. *Why:* A prawn has a hard coat on the outside. A frog and a shark have a skeleton inside, and an earthworm has no hard skeleton.
 11. (mcq) What is one cost of having an exoskeleton?  
-   Options: The animal is soft after each moult / The animal has no muscles / The animal has no joints / The skeleton makes too much blood  
+   Options: The animal has no muscles / The animal is soft after each moult / The animal has no joints / The skeleton makes too much blood  
    **Answer:** The animal is soft after each moult. *Why:* A hard coat cannot stretch, so it must be shed. Until the new coat hardens, the animal is soft and easy to catch.
 12. (mcq) A human arm and a bat's wing have the same bones. Why?  
    Options: Humans and bats share ancestors / Both are used for flying / Bats copied humans / It is only a chance likeness  

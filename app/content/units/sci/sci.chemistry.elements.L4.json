@@ -531,11 +531,11 @@
       "t": "mcq",
       "q": "Which three elements are all non-metals that are in your body?",
       "options": [
-       "Oxygen, carbon and nitrogen",
        "Iron, gold and silver",
+       "Oxygen, carbon and nitrogen",
        "Helium, neon and mercury"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Oxygen, carbon and nitrogen are non-metals, and with hydrogen they make 96 parts in 100 of your weight. Iron, gold and silver are metals. If you chose helium, neon and mercury, check the cards: none of those is needed by the body."
      },
      "context": "This is the last step of Three of a Kind. You sort the element cards into metals and non-metals."
@@ -683,11 +683,11 @@
       "t": "mcq",
       "q": "What does the symbol Na stand for?",
       "options": [
-       "Sodium",
        "Nitrogen",
+       "Sodium",
        "Neon"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Na is sodium, from its Latin name natrium. Nitrogen is N and neon is Ne. If you chose one of those, look again at the second letter."
      },
      "parent": "'Ferrous' is on iron tablets and syrup. NPK is on fertiliser bags: nitrogen, phosphorus and potassium.",
@@ -867,11 +867,11 @@
       "t": "mcq",
       "q": "In the Black Test, which heap stayed white on the hot tawa?",
       "options": [
-       "Salt",
        "Sugar",
+       "Salt",
        "Rice"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Salt holds no carbon, so heat leaves nothing black behind. Sugar and rice hold carbon and turn dark. If you chose sugar, remember that looking alike does not mean being made of the same elements."
      },
      "parent": "The black crumb leaves a grey-black mark, like a pencil or charcoal. All three are carbon.",
@@ -1073,11 +1073,11 @@
       "t": "mcq",
       "q": "In Shine, Bend, Ring, why is every thing dropped from the same height?",
       "options": [
-       "So only the thing itself changes",
        "So the plate does not break",
+       "So only the thing itself changes",
        "So the test goes faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A higher drop makes a louder sound from anything. Keeping the height the same means a different sound comes from the thing itself. If you chose another answer, remember that a fair test changes one thing at a time."
      },
      "parent": "The foil pad hardly sounds, because it is thin, light and crumpled. Tap an aluminium vessel with a spoon to hear that aluminium does ring.",
@@ -1212,11 +1212,11 @@
       "t": "mcq",
       "q": "Hydrogen is 62 of every 100 atoms in you, but only 10 parts in 100 of your weight. Why?",
       "options": [
-       "Hydrogen atoms are very light",
        "Hydrogen atoms are very large",
+       "Hydrogen atoms are very light",
        "Hydrogen leaks out of the body"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hydrogen atom is the lightest atom. An oxygen atom weighs about 16 times as much. So many hydrogen atoms add up to little weight. If you chose another answer, compare one oxygen atom with sixteen hydrogen atoms: they weigh the same."
      },
      "parent": "Both boxes are correct. One answers 'which atoms carry most weight?' and the other answers 'which atoms are most common?'",
@@ -1650,12 +1650,12 @@
      "t": "mcq",
      "p": "What is an element?",
      "opts": [
-      "A substance with one kind of atom",
       "Any substance that is a solid",
       "A mixture of many metals",
+      "A substance with one kind of atom",
       "The smallest living thing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An element has only one kind of atom. Gold has only gold atoms. A mixture or a compound has more than one kind.",
      "outcome": 0
     },
@@ -2072,12 +2072,12 @@
      "t": "mcq",
      "p": "Where were the carbon atoms in your body first made?",
      "opts": [
-      "Inside stars",
       "Inside the Earth",
       "In green leaves",
-      "In the sea"
+      "In the sea",
+      "Inside stars"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Stars build carbon from helium. Leaves take carbon from the air and join it into sugar, but they do not make the atoms.",
      "outcome": 0
     },
@@ -2143,12 +2143,12 @@
      "t": "mcq",
      "p": "An atom has 79 protons. What must it be?",
      "opts": [
-      "Gold",
       "Any heavy metal",
       "Silver or gold",
+      "Gold",
       "It depends on its weight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The number of protons decides the element. Every atom with 79 protons is gold, and no other element has 79.",
      "outcome": 0
     },
@@ -2233,12 +2233,12 @@
      "t": "mcq",
      "p": "Deep inside Jupiter, hydrogen behaves as a metal. What is different there?",
      "opts": [
-      "How hard the atoms are squeezed",
       "The kind of atom",
       "The atomic number",
+      "How hard the atoms are squeezed",
       "The symbol"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The atoms are still hydrogen, with 1 proton each. The enormous pressure frees their electrons to move, which is what makes a metal.",
      "outcome": 4
     },
@@ -2361,12 +2361,12 @@
    "t": "mcq",
    "p": "What does the symbol K stand for?",
    "opts": [
-    "Potassium",
     "Calcium",
     "Carbon",
+    "Potassium",
     "Copper"
    ],
-   "a": 0,
+   "a": 2,
    "why": "K is potassium, from its Latin name kalium. Calcium is Ca, carbon is C and copper is Cu.",
    "outcome": 1
   },
@@ -2387,12 +2387,12 @@
    "t": "mcq",
    "p": "Which of these is a non-metal?",
    "opts": [
-    "Nitrogen",
     "Sodium",
     "Calcium",
+    "Nitrogen",
     "Zinc"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Nitrogen is a non-metal gas. Sodium and calcium are metals, even though we never see them as metal in food.",
    "outcome": 3
   },
@@ -2413,12 +2413,12 @@
    "t": "mcq",
    "p": "Graphite is carbon, a non-metal, yet it carries electricity. What does this show?",
    "opts": [
-    "Some elements do not fit one side neatly",
     "Carbon is really a metal",
+    "Some elements do not fit one side neatly",
     "Electricity is a useless test",
     "Graphite is not an element"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Graphite has one property of metals and lacks the others. The two groups are useful, but a few elements sit between them.",
    "outcome": 4
   },
@@ -2426,12 +2426,12 @@
    "t": "mcq",
    "p": "Which four elements make up 96 parts in every 100 of your weight?",
    "opts": [
-    "Oxygen, carbon, hydrogen, nitrogen",
     "Calcium, iron, sodium, potassium",
+    "Oxygen, carbon, hydrogen, nitrogen",
     "Carbon, calcium, iron, oxygen",
     "Hydrogen, helium, oxygen, iron"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Oxygen is 65, carbon 18, hydrogen 10 and nitrogen 3. All four are non-metals. Calcium and iron matter, but they weigh little.",
    "outcome": 5
   },
@@ -2452,12 +2452,12 @@
    "t": "mcq",
    "p": "Which element has the most atoms in your body?",
    "opts": [
-    "Hydrogen",
     "Oxygen",
+    "Hydrogen",
     "Carbon",
     "Calcium"
    ],
-   "a": 0,
+   "a": 1,
    "why": "About 62 of every 100 atoms in you are hydrogen. Oxygen wins by weight, because each oxygen atom is 16 times as heavy.",
    "outcome": 6
   },
@@ -2465,12 +2465,12 @@
    "t": "mcq",
    "p": "Bread turns black when it burns. What is the black?",
    "opts": [
-    "Carbon left behind from the bread",
     "Paint from the flame",
     "Dirt from the tawa",
+    "Carbon left behind from the bread",
     "Iron from the bread"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bread is made of carbon compounds. Heat drives off the other elements and leaves carbon. Salt on the same tawa stays white, so the flame adds no black.",
    "outcome": 7
   },

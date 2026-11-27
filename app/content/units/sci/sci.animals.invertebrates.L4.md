@@ -602,7 +602,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 ## Worksheets
 ### Breathing Detective (core) (core, 16 questions)
 1. (mcq) In Colour Cubes, the colour crept in about the same distance whatever the size of the piece. Why did the big cube keep a clear middle?  
-   Options: The colour could not travel far enough into the middle in that time / The big cube was made of different jelly / Colour only goes into small things  
+   Options: The big cube was made of different jelly / Colour only goes into small things / The colour could not travel far enough into the middle in that time  
    **Answer:** The colour could not travel far enough into the middle in that time. *Why:* The edge was about the same width on every piece. The middle of the big cube was too far from the edge for the colour to reach in 40 minutes. The jelly was the same, and colour does go into big things, just slowly.
 2. (truefalse) A particle that drifts to a place twice as far takes about twice as long.  
    **Answer:** False. *Why:* False. Drifting is a random wander, so each step forward can be undone by a step back. Twice as far takes about four times as long.
@@ -633,20 +633,20 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 14. (draw) Draw an ant. Show where the air goes in and how it reaches her legs.  
    **Answer:** An ant with holes along her sides, thick tubes running inward, and fine branches reaching the head, tummy and legs.. *Why:* A strong drawing shows spiracles on the sides, tubes that branch into finer ones, and branches that reach the legs and head.
 15. (mcq) What does the gill bailer of a crab do?  
-   Options: It pushes water over her gills / It catches food / It helps her to walk  
+   Options: It catches food / It pushes water over her gills / It helps her to walk  
    **Answer:** It pushes water over her gills. *Why:* The gill bailer is a flap near her mouth that beats back and forth. It draws water past her gills so fresh water with new oxygen keeps arriving.
 16. (truefalse) A coconut crab breathes air and would drown in deep water.  
    **Answer:** True. *Why:* True. Her gill chamber has become lung-like. She is a crab, but a crab that breathes like a land animal.
 ### Surface and Distance (stretch) (stretch, 17 questions)
 1. (mcq) A cube 1 centimetre wide has 6 square centimetres of outside and 1 cubic centimetre of inside. A cube 2 centimetres wide has 24 square centimetres outside and 8 cubic centimetres inside. How does the outside for each bit of inside change?  
-   Options: It is half as much / It is the same / It is twice as much  
+   Options: It is the same / It is twice as much / It is half as much  
    **Answer:** It is half as much. *Why:* The small cube has 6 square centimetres of outside for 1 cubic centimetre of inside. The big cube has 24 square centimetres of outside for 8 cubic centimetres of inside, which works out to 3 square centimetres for each one. Three is half of six, so each bit of inside has half as much outside.
 2. (count) A cube is 4 centimetres wide. How many square centimetres of outside does it have?  
    **Answer:** 96. *Why:* Each face is 4 times 4, which is 16 square centimetres. Six faces make 6 times 16, which is 96 square centimetres.
 3. (fill) Going twice as far takes about ____ times as long.  
    **Answer:** ['4', 'four']. *Why:* Distance doubles, and the time goes up by 2 times 2, which is 4. This is true for drifting but not for walking in a straight line.
 4. (mcq) Air holds about 30 times more oxygen than the same amount of water. A crab needs the oxygen from 3 litres of air. About how much water must pass over her gills?  
-   Options: About 90 litres / About 3 litres / About 30 litres  
+   Options: About 3 litres / About 90 litres / About 30 litres  
    **Answer:** About 90 litres. *Why:* Water has about one-thirtieth the oxygen, so she needs about 30 times as much. 3 times 30 is 90 litres. This is why gills need a lot of moving water.
 5. (truefalse) Cold water usually holds more dissolved oxygen than warm water.  
    **Answer:** True. *Why:* True. Warm water holds less. A hot, still pond can run short of oxygen for the animals living in it.
@@ -655,7 +655,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 7. (fill) Blood that stays inside tubes all the way round is called ____ circulation.  
    **Answer:** ['closed']. *Why:* Closed circulation is found in people, earthworms and octopuses. Blood that leaves the tubes is open circulation.
 8. (mcq) An ant manages with open blood. What is the reason?  
-   Options: Her air tubes bring the oxygen, not her blood / Her blood is red / She is too big for closed blood  
+   Options: Her blood is red / Her air tubes bring the oxygen, not her blood / She is too big for closed blood  
    **Answer:** Her air tubes bring the oxygen, not her blood. *Why:* In an insect the air tubes take oxygen straight to the cells. The blood does not have to carry it fast, so a simple heart and open blood are enough.
 9. (odd) Which one has open blood, and is the odd one out? Earthworm, octopus, person, crab.  
    **Answer:** Crab, because the others have closed blood.. *Why:* Earthworms, octopuses and people all keep their blood in tubes. A crab's haemolymph leaves the tubes and soaks round her organs.
@@ -674,7 +674,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 16. (draw) Draw a spider from below. Show a book lung as a stack of thin plates, and label the air opening.  
    **Answer:** A spider's belly with a small slit, and a stack of thin plates like pages inside it.. *Why:* A strong drawing shows the plates as thin and stacked, so they have a lot of surface in a small space.
 17. (mcq) In Drop and Stir, the stirred glass was evenly coloured in seconds, but the still glass stayed patchy. What does this suggest about how a crab breathes?  
-   Options: Moving water brings fresh water to the gills much faster than waiting / Stirring makes more oxygen / Crabs stir the water for fun  
+   Options: Stirring makes more oxygen / Crabs stir the water for fun / Moving water brings fresh water to the gills much faster than waiting  
    **Answer:** Moving water brings fresh water to the gills much faster than waiting. *Why:* Still water spreads slowly, so the water next to the gills would soon run out of oxygen. A gill bailer keeps fresh water arriving.
 ### Why Size Matters for Breath (challenge) (challenge, 16 questions)
 1. (count) A cube 6 centimetres wide has 216 cubic centimetres inside and 216 square centimetres outside. A cube 12 centimetres wide has 1,728 cubic centimetres inside and 864 square centimetres outside. How many cubic centimetres of inside are there for each square centimetre of outside in the 12 centimetre cube?  
@@ -687,7 +687,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 4. (truefalse) The blood of some crabs and spiders turns blue when it meets oxygen.  
    **Answer:** True. *Why:* True. Their blood-like liquid carries oxygen using a copper-based substance, which is blue when it holds oxygen. Our blood uses iron, which is red.
 5. (mcq) A crab lives in warm water that holds little oxygen. Which change would help a bigger crab get enough?  
-   Options: More gill surface and faster flow of water over it / A thicker skin / Sleeping all day  
+   Options: A thicker skin / Sleeping all day / More gill surface and faster flow of water over it  
    **Answer:** More gill surface and faster flow of water over it. *Why:* More surface lets more oxygen drift in, and faster flow keeps fresh water arriving. Thicker skin would slow the drift down.
 6. (match) Match each animal to her trick for getting air.  
    **Answer:** Diving beetle → Carries a bubble of air under her wing covers; Mosquito larva → Hangs at the top of the water to reach the air; Young dragonfly → Has gills inside her tail end; Pond snail → Swims up to fill her lung. *Why:* Each animal lives where air is hard to reach, and each has found her own way. This shows that one problem can have many solutions.
@@ -698,7 +698,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 9. (sort) Sort each fact by whether it is true of insect air tubes or crab gills.  
    **Answer:** Open to the air through small holes in the sides → Insect air tubes; Need water to flow over them → Crab gills; End right beside the cells → Insect air tubes; Sit in a chamber under the shell → Crab gills; Often closed to save water → Insect air tubes; Pass oxygen to blood, which carries it round → Crab gills. *Why:* Insects breathe air through spiracles and tubes that end beside the cells. Crabs breathe water over gills, and their blood carries the oxygen onward.
 10. (mcq) Scientists disagree about why the giant insects of long ago died out. What is the honest thing to say?  
-   Options: Several ideas fit the facts, and nobody knows for sure / Oxygen was the only cause / Birds ate them all  
+   Options: Oxygen was the only cause / Several ideas fit the facts, and nobody knows for sure / Birds ate them all  
    **Answer:** Several ideas fit the facts, and nobody knows for sure. *Why:* Oxygen, flying hunters and body weight are all suggested. The fossils have gaps, so we cannot yet tell which, or which together, is right.
 11. (truefalse) A land snail breathes with gills.  
    **Answer:** False. *Why:* False. A land snail has a lung, a wet pocket under her shell, with a small opening called the breathing pore.
@@ -711,7 +711,7 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 15. (draw) Draw two bodies, one thin and one thick. Show with arrows how oxygen can reach the middle of each.  
    **Answer:** A thin body with short arrows through the skin, and a thick body with branching tubes, folds or a pump bringing the air inside.. *Why:* A strong drawing shows that a thin body needs only short arrows from the outside, while a thick body needs tubes, folds or a pump to bring the air closer.
 16. (mcq) When is a still, weedy pond lowest in oxygen?  
-   Options: Just before sunrise / In the middle of a sunny afternoon / Just after sunset  
+   Options: In the middle of a sunny afternoon / Just after sunset / Just before sunrise  
    **Answer:** Just before sunrise. *Why:* In the dark, the plants cannot make oxygen, but plants and animals keep using it. By dawn the night's use has added up, and the oxygen is lowest.
 
 ## Videos
@@ -721,25 +721,25 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
 
 ## Quiz
 1. (mcq) How does the time a drifting particle takes change when the distance doubles?  
-   Options: Twice as far takes about four times as long / Twice as far takes twice as long / Distance makes no difference to the time  
+   Options: Twice as far takes twice as long / Distance makes no difference to the time / Twice as far takes about four times as long  
    **Answer:** Twice as far takes about four times as long. *Why:* Drifting is a random wander, so each step forward can be undone. The time goes up with the square of the distance.
 2. (mcq) Which has more outside for each bit of inside?  
-   Options: A small cube / A big cube / They are the same  
+   Options: A big cube / They are the same / A small cube  
    **Answer:** A small cube. *Why:* Take a 1 centimetre cube and a 2 centimetre cube. The small one has 6 square centimetres of outside for 1 cubic centimetre of inside. The big one has 24 square centimetres of outside for 8 cubic centimetres of inside, which is only 3 square centimetres of outside for each cubic centimetre.
 3. (mcq) Which animal gets most of her air through her skin?  
-   Options: An earthworm / A mud crab / An ant  
+   Options: A mud crab / An ant / An earthworm  
    **Answer:** An earthworm. *Why:* The earthworm is thin and has a wet skin. The crab uses gills, and the ant uses air tubes.
 4. (mcq) A caterpillar has a row of dark dots down her sides. What are they for?  
-   Options: They let air in to her air tubes / They are her eyes / They are where she tastes  
+   Options: They are her eyes / They let air in to her air tubes / They are where she tastes  
    **Answer:** They let air in to her air tubes. *Why:* They are spiracles. Air goes in through them and along the tubes to the parts that need it.
 5. (mcq) Why can a thin flatworm breathe through her skin alone, but a thick crab cannot?  
    Options: Oxygen drifts only a short way, so a thick body has a middle too far from the outside / Flatworms do not need oxygen / Crabs have no skin  
    **Answer:** Oxygen drifts only a short way, so a thick body has a middle too far from the outside. *Why:* Thin bodies keep every cell near the outside. A thick body needs gills, tubes or lungs to bring the outside closer.
 6. (mcq) A fish farmer sees fish gasping at dawn in a still, warm tank. What should she do first?  
-   Options: Add air to the water, move it, and cool it / Feed them more / Add salt  
+   Options: Feed them more / Add salt / Add air to the water, move it, and cool it  
    **Answer:** Add air to the water, move it, and cool it. *Why:* Still, warm water holds little oxygen, and the night has used it up. Moving and aerating the water brings oxygen back.
 7. (mcq) Whose blood carries most of the oxygen to the cells?  
-   Options: A person / An ant / A caterpillar  
+   Options: An ant / A caterpillar / A person  
    **Answer:** A person. *Why:* People carry oxygen in red blood. In ants and caterpillars, air tubes take the oxygen directly to the cells.
 8. (mcq) In open circulation, the blood-like liquid does what?  
    Options: It leaves the vessels and soaks round the organs / It stays inside tubes all the way round / It is replaced by air  
@@ -748,13 +748,13 @@ A week later, Ammamma took the red thread off the post. 'So it was not luck,' sh
    Options: Only the shape of the sugar / The amount of water and the amount of sugar / The size of the glass  
    **Answer:** Only the shape of the sugar. *Why:* A fair test changes one thing. Everything else, such as the water and the amount of sugar, stays the same.
 10. (mcq) Which of these do scientists still argue about?  
-   Options: Why the giant insects died out / Whether insects have air tubes / Whether crabs have gills  
+   Options: Whether insects have air tubes / Whether crabs have gills / Why the giant insects died out  
    **Answer:** Why the giant insects died out. *Why:* Insects do have air tubes and crabs do have gills. Why the giants disappeared is not settled.
 11. (mcq) A spider has thin plates stacked inside her belly. What are they called?  
-   Options: Book lungs / Gills / Spiracles  
+   Options: Gills / Book lungs / Spiracles  
    **Answer:** Book lungs. *Why:* A book lung is a stack of thin plates, like the pages of a book. Air flows between them and blood flows through them.
 12. (mcq) In Colour Cubes, a thin slice was coloured right through but the 2 centimetre cube kept a clear middle. Why?  
-   Options: The middle of the big cube was too far from the edge for the colour to reach in that time / The slice was a different jelly / The big cube had no room  
+   Options: The slice was a different jelly / The big cube had no room / The middle of the big cube was too far from the edge for the colour to reach in that time  
    **Answer:** The middle of the big cube was too far from the edge for the colour to reach in that time. *Why:* The colour crept in about the same few millimetres on each piece. The slice was thin enough to be reached from both sides, and the big cube was not.
 
 ## Applications

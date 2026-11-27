@@ -891,11 +891,11 @@
       "t": "mcq",
       "q": "Why do planets seem to wander among the stars?",
       "options": [
-       "They are much nearer than the stars, and they go round the Sun like the Earth",
        "They are lost",
+       "They are much nearer than the stars, and they go round the Sun like the Earth",
        "The stars are moving and the planets are still"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Planets are our neighbours, going round the Sun. As they and the Earth move, they seem to drift past the far-off stars. The stars move too, but they are so far away that their patterns hardly change in a whole human life. Picking 'the stars are moving' mixes up which is near and which is far."
      },
      "think": "The stars do move, but so slowly that our eyes cannot see it. Would the Saptarishi look the same to your grandparents as it does to you? Why?"
@@ -966,11 +966,11 @@
      "p": "What is the Sun?",
      "opts": [
       "A planet",
-      "A star",
       "The biggest moon",
+      "A star",
       "A fire of burning coal"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Sun is a star, the nearest one to us. Picking 'a fire of burning coal' is a sensible guess, because it is hot and bright. But a coal Sun would have burnt out long ago. The Sun shines by fusion, atoms joining together."
     },
     {
@@ -999,12 +999,12 @@
      "t": "mcq",
      "p": "In the near lamp, far lamp test, what happened to the torch as it moved far away?",
      "opts": [
-      "It looked smaller and dimmer",
       "It looked bigger",
       "It went out",
-      "It changed colour"
+      "It changed colour",
+      "It looked smaller and dimmer"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The torch did not change at all. Its light spread out over the long distance, so less reached your eye. Picking 'it went out' usually means the far dot was so faint it was hard to see. Look carefully: it is still there, just small.",
      "context": "In the near lamp, far lamp test, a helper holds a torch and walks slowly away from you in a dark place.",
      "how": "e1"
@@ -1022,12 +1022,12 @@
      "t": "mcq",
      "p": "Why does the Sun look so much bigger than other stars?",
      "opts": [
-      "It is the biggest star in the universe",
       "It is much nearer to us",
+      "It is the biggest star in the universe",
       "It is on fire",
       "The other stars are switched off in the day"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The Sun is our nearest star. Other stars are hundreds of thousands of times further away. Picking 'the biggest star' is a common guess. In fact many stars are far bigger than the Sun."
     },
     {
@@ -1058,11 +1058,11 @@
      "t": "mcq",
      "p": "Soon after sunset, you see a very bright dot in the west. It shines steadily and does not twinkle. What is it most likely to be?",
      "opts": [
-      "A star",
       "A planet",
+      "A star",
       "A firefly"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Planets usually shine steadily, while stars twinkle. A bright steady dot in the west after sunset is very often Venus. Picking 'a star' is natural, because people call Venus the evening star. But it is a planet."
     },
     {
@@ -1078,12 +1078,12 @@
      "t": "mcq",
      "p": "Why can't we see stars in the daytime?",
      "opts": [
-      "They go away in the day",
       "The sunlit sky is too bright",
+      "They go away in the day",
       "Stars only shine at night",
       "Clouds always cover them"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The stars are still there in the day, shining as always. Sunlight lights up our air, which drowns out their faint light. Picking 'stars only shine at night' is very common. Stars shine all the time. We just cannot see them against the bright sky."
     },
     {
@@ -1118,11 +1118,11 @@
      "t": "mcq",
      "p": "In the Own Light or Reflected Light test, you made the room dark. Which of these could you still see with the torch switched off?",
      "opts": [
+      "A lit phone screen",
       "The steel plate",
-      "The white ball",
-      "A lit phone screen"
+      "The white ball"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A phone screen makes its own light, so you can see it in the dark. The plate and the ball make no light, so they vanished until the torch shone on them.",
      "context": "In the Own Light or Reflected Light test, you put a steel plate, a white ball and a phone screen on a table and make the room dark.",
      "how": "e2"
@@ -1201,11 +1201,11 @@
      "p": "What makes the Sun shine?",
      "opts": [
       "Burning coal and wood",
-      "Hydrogen joining up to make helium, deep inside it",
       "Reflecting light from other stars",
+      "Hydrogen joining up to make helium, deep inside it",
       "Electricity"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Deep in the Sun, hydrogen atoms are squeezed so hard they join into helium, and that gives out huge energy. This is called fusion. Picking 'reflecting light from other stars' mixes the Sun up with the Moon, which only reflects light. The Sun is a light source."
     },
     {
@@ -1262,24 +1262,24 @@
      "t": "mcq",
      "p": "Venus is the brightest dot in the evening sky, after the Moon. Why is it so bright?",
      "opts": [
-      "It is near to us, and covered in white clouds that reflect lots of sunlight",
       "It makes its own light",
       "It is a star",
+      "It is near to us, and covered in white clouds that reflect lots of sunlight",
       "It is on fire"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Venus comes closer to us than any other planet, and its thick white clouds reflect most of the sunlight that hits them. Picking 'it is a star' is natural, because it is called the evening star. But Venus is a planet. It makes no light of its own."
     },
     {
      "t": "mcq",
      "p": "In the pinhole Sun experiment, what is the small bright circle on the white paper?",
      "opts": [
-      "A picture of the Sun, made by sunlight through the tiny hole",
       "A shadow of the card",
+      "A picture of the Sun, made by sunlight through the tiny hole",
       "The Moon",
       "Just a hole in the paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Light from every part of the Sun passes through the pinhole and lands on the paper, making a small round picture of the Sun. If a cloud passes, you see it cross the circle. Picking 'a shadow' is a common idea. But a shadow is dark, and this circle is bright.",
      "context": "In the pinhole Sun experiment, you stand with your back to the Sun and let sunlight through a tiny hole in foil onto white paper.",
      "how": "e3"
@@ -1366,24 +1366,24 @@
      "t": "mcq",
      "p": "A star is 500 light-years away. When did the light you see tonight leave it?",
      "opts": [
-      "About 500 years ago",
       "Tonight",
       "About 500 seconds ago",
-      "It never left. The star is right here"
+      "It never left. The star is right here",
+      "About 500 years ago"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A light-year is how far light goes in a year. So light from 500 light-years away has been travelling for about 500 years. Picking 'tonight' is very natural, because the starlight seems to arrive instantly. But even light needs time to cross such a distance."
     },
     {
      "t": "mcq",
      "p": "Why can't the Sun be a giant fire of burning coal?",
      "opts": [
-      "A coal Sun would have burnt out in a few thousand years, but the Earth is billions of years old",
       "Coal is too heavy to float in space",
       "Coal burns blue, and the Sun is white",
+      "A coal Sun would have burnt out in a few thousand years, but the Earth is billions of years old",
       "There is no reason, it could be coal"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Even a Sun-sized ball of coal would burn out in a few thousand years. Fire also needs oxygen from air, and space has none. Picking 'too heavy to float' is a common idea. But the Sun does not need to float. Its own gravity holds it together. The Sun shines by fusion."
     },
     {
@@ -1403,12 +1403,12 @@
      "t": "mcq",
      "p": "In old Indian astronomy, the Sun and the Moon were counted among the nine grahas, along with five planets. How do scientists sort them today?",
      "opts": [
-      "The Sun is a star, the Moon is a moon, and the five are planets",
       "All seven are planets",
       "All seven are stars",
-      "The Sun and the Moon are both planets"
+      "The Sun and the Moon are both planets",
+      "The Sun is a star, the Moon is a moon, and the five are planets"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Ancient sky-watchers grouped together everything that moved against the stars. Today we sort by what things are: the Sun makes its own light, the Moon goes round the Earth, and the planets go round the Sun. Picking 'all seven are planets' follows the old grouping. That grouping was about how they move, not what they are.",
      "context": "Long ago, sky-watchers in India grouped together the lights that move against the fixed stars. They called them grahas."
     },
@@ -1416,12 +1416,12 @@
      "t": "mcq",
      "p": "How do scientists know what stars are made of, without ever going there?",
      "opts": [
-      "They split starlight into colours and read the dark lines in it",
       "Space rocks bring pieces of stars to Earth",
       "They guess",
+      "They split starlight into colours and read the dark lines in it",
       "Astronauts have visited stars"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each kind of atom leaves its own pattern of lines in starlight, like a fingerprint. Picking 'astronauts have visited stars' is a common idea. No person or spacecraft has ever reached another star. The nearest would take tens of thousands of years with today's rockets."
     },
     {
@@ -1472,12 +1472,12 @@
      "t": "mcq",
      "p": "Moonlight falls on your face. When did that light leave the Sun?",
      "opts": [
-      "About 8 minutes ago",
       "About 1 month ago",
+      "About 8 minutes ago",
       "It did not come from the Sun. It was made on the Moon",
       "At the very start of the universe"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sunlight takes about 8 minutes to reach the Moon, and just over 1 more second to reflect down to you. Picking 'made on the Moon' means the Moon is still being thought of as a light source. It only reflects the Sun's light.",
      "context": "Light from the Sun takes about 8 minutes to reach the Earth and the Moon. Light from the Moon takes just over 1 second to reach us."
     },
@@ -1494,12 +1494,12 @@
      "t": "mcq",
      "p": "Imagine you lived on a planet going round a very faraway star. What would our Sun look like from there?",
      "opts": [
-      "One small point of light, a star",
       "A huge bright ball",
+      "One small point of light, a star",
       "You could not see it at all, because the Sun only shines on Earth",
       "A moon"
      ],
-     "a": 0,
+     "a": 1,
      "why": "From very far away, our Sun would look like one more star in the sky. Picking 'only shines on Earth' is a common idea. But the Sun sends light out in every direction, across the whole galaxy."
     }
    ]
@@ -1579,10 +1579,10 @@
       "q": "The torch looked tiny and dim far away. Why?",
       "options": [
        "It shrank as it moved",
-       "It was far away, so its light spread out and less reached my eyes",
-       "The batteries ran out"
+       "The batteries ran out",
+       "It was far away, so its light spread out and less reached my eyes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Nothing about the torch changed. Its light spread out over the long distance, so only a little reached your eyes. Picking 'the batteries ran out' is a sensible guess. But when it came back, it was just as bright as before. Distance alone made it look small and dim."
      }
     },
@@ -1892,11 +1892,11 @@
       "t": "mcq",
       "q": "When the paper was further from the pinhole, the Sun's picture was…",
       "options": [
-       "Bigger and a bit dimmer",
        "Smaller",
+       "Bigger and a bit dimmer",
        "Exactly the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The light from the Sun spreads out after it goes through the hole, so the further the paper, the bigger the picture. At 1 metre it is about 1 centimetre wide, and at 2 metres about 2 centimetres. The same light is spread over a bigger circle, so it looks dimmer. Picking 'smaller' usually comes from thinking further means smaller, as in the near lamp, far lamp test, where the torch looked smaller when it was further away. Here the hole is making a picture, and the picture grows."
      },
      "parent": "If the spot at 2 metres is too faint to measure, keep the paper in shade, or measure only at 50 centimetres and 1 metre. The pattern is still clear."
@@ -2109,10 +2109,10 @@
       "q": "In the model, the mustard seed Earth is 24 metres from the football Sun. Where would the nearest other star be?",
       "options": [
        "On the next table",
-       "At the end of the street",
-       "About as far away as London is from Delhi"
+       "About as far away as London is from Delhi",
+       "At the end of the street"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The nearest other star is about 270,000 times as far as the Sun. 24 metres times 270,000 is about 6,500 kilometres, close to the distance from Delhi to London. Picking 'the end of the street' is a very common guess. Space is far emptier than almost anyone imagines."
      },
      "think": "In the model, the nearest other star is a football as far away as London. Could you see that football from here? Why do stars look like tiny dots?"
@@ -2304,11 +2304,11 @@
       "t": "mcq",
       "q": "Over five nights, which usually moves a long way against the stars?",
       "options": [
-       "The Moon",
        "The stars",
+       "The Moon",
        "Nothing moves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Moon goes round the Earth in about a month. So at the same time each evening it is a big step further east, about one fist's width at arm's length, or a little more. Its lit part also changes shape. Planets move too, but in five nights you may not notice. The stars keep their patterns. Picking 'the stars' usually comes from seeing the whole sky turn during one night. That turning is the Earth spinning, and the stars keep their shapes."
      },
      "think": "The Moon takes about a month to go round the Earth. If you kept this diary for a whole month, what would happen to the Moon's shape?"
@@ -2399,11 +2399,11 @@
       "t": "mcq",
       "q": "The light from the Pole Star set off a few hundred years ago. So when you see the Pole Star, you are seeing…",
       "options": [
-       "The star as it was a few hundred years ago",
        "The star as it is right now",
+       "The star as it was a few hundred years ago",
        "A picture someone painted"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light takes time to travel, so we always see a star as it was when its light left. Picking 'as it is right now' is very natural, because light seems to arrive instantly. Over short distances it nearly does. Across space, even light takes years."
      },
      "think": "If someone on a planet 300 light-years away looked at the Earth through a giant telescope tonight, what would they see?"
@@ -2747,11 +2747,11 @@
    "t": "mcq",
    "p": "A bicycle reflector glows brightly when a car's headlights shine on it, and is dark otherwise. Which object in the sky is it most like?",
    "opts": [
-    "The Moon, which shines only when sunlight falls on it",
     "The Sun",
+    "The Moon, which shines only when sunlight falls on it",
     "A star"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "A reflector makes no light. It sends back light that falls on it, just as the Moon and the planets send back sunlight. The Sun and other stars make their own light. Picking 'a star' fits how bright the reflector looks, but not where its light comes from."
   },
@@ -2759,11 +2759,11 @@
    "t": "mcq",
    "p": "Titan, one of Saturn's moons, is bigger than the planet Mercury. So why is Titan called a moon and not a planet?",
    "opts": [
-    "Titan goes round a planet, Saturn. Mercury goes round the Sun",
     "Titan is made of ice",
+    "Titan goes round a planet, Saturn. Mercury goes round the Sun",
     "Moons are always bigger than planets"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "What makes a moon is what it goes round, not its size. A moon goes round a planet. A planet goes round the Sun. Picking 'made of ice' is a fair guess, but some moons, like ours, are rock."
   },
@@ -2771,11 +2771,11 @@
    "t": "mcq",
    "p": "In the near lamp, far lamp test, the torch looked tiny and dim at 40 steps. What does this tell us about stars?",
    "opts": [
-    "Stars could be huge suns that look tiny because they are very far away",
     "Stars are tiny, like sparks",
-    "Stars are torches"
+    "Stars are torches",
+    "Stars could be huge suns that look tiny because they are very far away"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The torch did not change. Only its distance did. So a tiny-looking star could be a giant sun, very far away. Picking 'stars are tiny' means trusting how big something looks, without asking how far away it is.",
    "outcome": 1,
    "context": "In the near lamp, far lamp test, a helper walks away from you with a torch, and you watch how big and bright it looks.",
@@ -2785,11 +2785,11 @@
    "t": "mcq",
    "p": "Your friend says, 'The Sun must be the biggest star, because it looks the biggest.' Which fact shows why this reasoning is not enough?",
    "opts": [
-    "A torch looks smaller when it is further away, though it does not change",
     "A steel plate only shines when light falls on it",
-    "A tiny pinhole makes a round picture of the Sun"
+    "A tiny pinhole makes a round picture of the Sun",
+    "A torch looks smaller when it is further away, though it does not change"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
    "why": "The torch never changed, yet it looked smaller far away. So how big a light looks depends on how far away it is, not only on how big it is. The Sun looks biggest because it is nearest. Many stars are bigger."
   },
@@ -2821,11 +2821,11 @@
    "t": "mcq",
    "p": "How many planets go round our Sun?",
    "opts": [
-    "Eight",
     "Nine",
+    "Eight",
     "Five"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "There are eight: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Picking nine comes from the years when Pluto was counted. Picking five comes from the planets you can see without a telescope."
   },
@@ -2833,11 +2833,11 @@
    "t": "mcq",
    "p": "What keeps the Earth going round the Sun?",
    "opts": [
-    "The Sun's gravity",
     "Wind blowing in space",
-    "The Moon pushing it"
+    "The Moon pushing it",
+    "The Sun's gravity"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Earth is always moving forwards, and the Sun's gravity keeps bending its path into a loop. Picking 'wind' is a creative guess, but space has no air, so there is no wind.",
    "outcome": 3,
    "context": "In the Planet Dance, family members walk round a person who is the Sun, as the planets go round the real Sun.",
@@ -2847,11 +2847,11 @@
    "t": "mcq",
    "p": "Where in the Sun does fusion, hydrogen joining up to make helium, happen?",
    "opts": [
-    "Deep in the centre, where it is hottest and most squeezed",
     "On the outside, in flames",
-    "All over the surface, like a fire"
+    "All over the surface, like a fire",
+    "Deep in the centre, where it is hottest and most squeezed"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Atoms only join when they are squeezed very hard and very hot. That happens only in the Sun's centre, at about 15 million degrees. The energy then takes a very long time to work its way out to the surface. Picking 'flames' imagines the Sun as a fire, but there is no burning."
   },
@@ -2859,11 +2859,11 @@
    "t": "mcq",
    "p": "The Sun has been shining for about four and a half billion years. What has been happening to the hydrogen in its centre all that time?",
    "opts": [
-    "Slowly turning into helium, so there is less hydrogen and more helium",
     "Burning away into smoke",
-    "Staying exactly the same"
+    "Staying exactly the same",
+    "Slowly turning into helium, so there is less hydrogen and more helium"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Every second, fusion turns a huge amount of hydrogen into helium. The Sun is so big that it has enough hydrogen for about 5 billion more years. Picking 'smoke' imagines burning, but fusion makes helium, not smoke."
   },
@@ -2883,11 +2883,11 @@
    "t": "mcq",
    "p": "Do scientists fully agree on how the Moon was born?",
    "opts": [
-    "No. Most think a planet crashed into the young Earth, but they still argue about the details",
     "Yes. It was always there",
+    "No. Most think a planet crashed into the young Earth, but they still argue about the details",
     "Yes. The Earth caught it as it passed by"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The giant crash idea is the favourite, but scientists still argue about exactly how it happened. Picking 'the Earth caught it' is an old idea. Moon rocks are too like Earth rocks for that to fit well.",
    "outcome": 5
   },
@@ -2895,11 +2895,11 @@
    "t": "mcq",
    "p": "Where were most of the atoms in your bones and blood made?",
    "opts": [
-    "Inside stars, long ago",
     "In your kitchen",
+    "Inside stars, long ago",
     "On the Moon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Calcium, iron, carbon and oxygen were all made inside stars that died before the Sun was born. Picking 'in your kitchen' is funny and half true. Your food is where your body gets them, but the atoms themselves were made in stars.",
    "outcome": 6
   },
@@ -2907,11 +2907,11 @@
    "t": "mcq",
    "p": "Do other stars have planets?",
    "opts": [
-    "Yes. Scientists have found more than 6,000 of them",
     "No. Only the Sun has planets",
-    "Nobody can ever know"
+    "Nobody can ever know",
+    "Yes. Scientists have found more than 6,000 of them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Since 1992, astronomers have found more than 6,000 planets round other stars. Picking 'nobody can ever know' was a fair answer before then. Now we have the evidence.",
    "outcome": 6
   },
@@ -2919,11 +2919,11 @@
    "t": "mcq",
    "p": "In a solar eclipse, the Moon covers most of the Sun. Is it safe to look straight at the Sun then?",
    "opts": [
-    "No. The small part still showing is bright enough to burn your eyes, and you would feel no pain while it happened",
     "Yes, because most of the Sun is hidden",
-    "Yes, if you look for less than a minute"
+    "Yes, if you look for less than a minute",
+    "No. The small part still showing is bright enough to burn your eyes, and you would feel no pain while it happened"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 7,
    "why": "Even a thin edge of the Sun is far too bright for eyes. The back of the eye has no pain sensors, so the harm happens without hurting. Watch an eclipse with a pinhole viewer instead, with your back to the Sun."
   },
@@ -2931,11 +2931,11 @@
    "t": "mcq",
    "p": "What shape are the Sun, the Earth and the Moon?",
    "opts": [
-    "Round, like a ball",
     "Flat, like a plate",
+    "Round, like a ball",
     "Square, like a box"
    ],
-   "a": 0,
+   "a": 1,
    "why": "All three are round, like balls. A ball in a torch beam shows the same thing as the Moon: one side is lit and the other side is dark. A plate or a box would not look like that from every side.",
    "outcome": 0
   }

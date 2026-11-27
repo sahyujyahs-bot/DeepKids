@@ -485,7 +485,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 3. (truefalse) A string that is half as long vibrates twice as fast and gives a note one octave higher. True or false?  
    **Answer:** True. *Why:* True. Halving the length doubles the number of vibrations each second, which is one octave. This rule works for strings and for air columns.
 4. (mcq) A bansuri gives its lowest note when all its holes are covered. What is the best reason?  
-   Options: The air column is at its longest / The air column is at its shortest / The player blows harder / The bamboo is heavier  
+   Options: The air column is at its shortest / The player blows harder / The air column is at its longest / The bamboo is heavier  
    **Answer:** The air column is at its longest. *Why:* Covering the holes makes the whole length of the tube vibrate, which is the longest air column and the lowest note. Uncovering holes shortens the air column and raises the note.
 5. (order) Blow across three bottles: one empty, one with 200 millilitres of water and one with 400 millilitres. Put them in order from the lowest note to the highest.  
    **Answer:** order shown. *Why:* More water leaves less air, and a shorter air column gives a higher note when you blow. So the empty bottle is lowest and the fullest is highest.
@@ -497,7 +497,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 8. (fill) The mix of overtones in a sound gives it its ____, so a flute and a violin sound different on the same note.  
    **Answer:** ['timbre']. *Why:* Timbre is the quality of a sound. It depends on which overtones are strong and which are weak.
 9. (mcq) A damp finger squeaks on glass, but a dry finger hardly does. What is the best reason?  
-   Options: A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that / A damp finger is heavier / A dry finger makes no vibration at all / The glass is warmer when damp  
+   Options: A damp finger is heavier / A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that / A dry finger makes no vibration at all / The glass is warmer when damp  
    **Answer:** A squeak needs the finger to stick and slip again and again, and a dry finger grips too hard to do that. *Why:* A squeak is a fast rhythm of gripping and slipping. If the grip is too strong, the finger drags. If it is too weak, the finger glides. Damp is in the middle.
 10. (truefalse) When you whisper, your vocal folds buzz very quietly. True or false?  
    **Answer:** False. *Why:* False. In a whisper, the vocal folds do not buzz. Air rushes through a gap in the throat and makes a hiss. You can feel the difference by touching your throat.
@@ -507,7 +507,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 12. (sort) Sort these sounds into the four ways a sound can start.  
    **Answer:** a tabla skin → A solid thing shakes; a bottle blown across → Air shakes in a space; a clap → A sudden pop; a squeaky hinge → Stick and slip; a temple bell → A solid thing shakes; a whistle → Air shakes in a space; a balloon bursting → A sudden pop; a cricket's chirp → Stick and slip. *Why:* Skins and bells are shaking solids. Bottles and whistles work by air shaking in a space. A clap and a balloon are one sudden push. A hinge and a cricket rub two surfaces that stick and slip.
 13. (mcq) How can you find how far away lightning is?  
-   Options: Count the seconds between the flash and the thunder, and divide by three to get kilometres / Count the flashes in a minute / Listen for how loud the thunder is / Measure how bright the flash is  
+   Options: Count the flashes in a minute / Listen for how loud the thunder is / Measure how bright the flash is / Count the seconds between the flash and the thunder, and divide by three to get kilometres  
    **Answer:** Count the seconds between the flash and the thunder, and divide by three to get kilometres. *Why:* Light arrives almost at once, and sound travels about a kilometre in three seconds. So the gap in seconds divided by three is the distance in kilometres.
 14. (write) Is every sound a steady note? Give two sounds that are not steady notes, and say why.  
    **Answer:** A clap and a hiss are not steady notes. A clap is one sudden push of air, and a hiss is a jumble of many pitches with no steady one.. *Why:* A strong answer names two sounds, such as a clap, a pop, a hiss or a crash, and says that they have no single steady pitch.
@@ -517,20 +517,20 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    **Answer:** A bottle with a lot of water has a short air column marked at the top and gives the higher note. A bottle with a little water has a long air column and gives the lower note.. *Why:* A strong drawing shows the air column as the empty part of each bottle, shorter in the fuller one, and gives the higher note to the fuller bottle.
 ### Notes, Overtones and Whistles (stretch) (stretch, 17 questions)
 1. (mcq) A closed pipe 17 centimetres long gives about 500 hertz. About what note does a closed pipe 34 centimetres long give?  
-   Options: About 250 hertz / About 500 hertz / About 1000 hertz / About 125 hertz  
+   Options: About 500 hertz / About 250 hertz / About 1000 hertz / About 125 hertz  
    **Answer:** About 250 hertz. *Why:* Doubling the length halves the number of vibrations each second. 500 divided by 2 is 250. That is one octave lower.
 2. (mcq) A string vibrates 200 times each second. You press it at its middle so only half can shake. What happens?  
-   Options: It vibrates about 400 times each second, one octave higher / It vibrates about 100 times each second / It stays at 200 / It stops vibrating  
+   Options: It vibrates about 100 times each second / It stays at 200 / It stops vibrating / It vibrates about 400 times each second, one octave higher  
    **Answer:** It vibrates about 400 times each second, one octave higher. *Why:* Half the length means twice the vibrations each second. 200 times 2 is 400. Picking 100 reverses the rule.
 3. (fill) A string two thirds as long as another vibrates one and a half times as fast and gives the note Pa above Sa. So Sa and Pa have a ratio of 3 to ____.  
    **Answer:** ['2', 'two']. *Why:* One and a half is the same as 3 over 2. Sa and Pa have a ratio of 3 to 2, which is what makes them agree.
 4. (truefalse) A hollow bamboo pole that moans in the wind is vibrating like a stretched string. True or false?  
    **Answer:** False. *Why:* False. The air in the hollow pole is what shakes. The wind flips from side to side at the edge of the opening, and the air inside picks the note. The bamboo itself hardly moves.
 5. (mcq) Why can a flute player move the note up by blowing harder?  
-   Options: The edge tone speeds up and jumps to a higher resonance of the air column / Blowing harder makes the flute shorter / The flute gets colder / The player's lips vibrate faster  
+   Options: Blowing harder makes the flute shorter / The flute gets colder / The player's lips vibrate faster / The edge tone speeds up and jumps to a higher resonance of the air column  
    **Answer:** The edge tone speeds up and jumps to a higher resonance of the air column. *Why:* Faster air makes faster swirls at the edge, and the edge tone locks on to a higher resonance of the air column. The flute itself does not change.
 6. (mcq) Why does a thin wire hum at a higher note in the wind than a thick wire?  
-   Options: The swirls behind a thin wire flip from side to side more often / Thin wires are lighter / Thin wires are colder / The wind blows harder on thin wires  
+   Options: Thin wires are lighter / Thin wires are colder / The swirls behind a thin wire flip from side to side more often / The wind blows harder on thin wires  
    **Answer:** The swirls behind a thin wire flip from side to side more often. *Why:* The rate of the flips grows as the wire gets thinner. The thin wire gives faster swirls, so a higher hum. Weight and temperature are not the cause.
 7. (sort) Sort each description into 'fundamental' or 'overtone'.  
    **Answer:** a string swinging as one big loop → Fundamental; a string swinging in two halves at once → Overtone; the lowest and usually strongest vibration → Fundamental; a higher vibration that sounds along with the main note → Overtone; the part that sets the pitch you hear → Fundamental; the part that shapes the timbre → Overtone. *Why:* The fundamental is the slowest vibration and sets the pitch. Overtones are faster vibrations above it, and the mix of them gives the sound its timbre.
@@ -539,7 +539,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 9. (match) Match each action to what is shaking.  
    **Answer:** Tapping a glass bottle → The glass and the water; Blowing across a bottle → The air column; Humming → The vocal folds; Drawing a bow across a violin string → The string, driven by stick and slip. *Why:* Different actions make different things shake. Knowing what shakes explains the note.
 10. (mcq) Why does thunder arrive after you see the lightning?  
-   Options: Sound travels much more slowly than light / Thunder happens later than lightning / The sky is cloudy / Light is louder  
+   Options: Thunder happens later than lightning / The sky is cloudy / Sound travels much more slowly than light / Light is louder  
    **Answer:** Sound travels much more slowly than light. *Why:* Lightning and thunder start together. Light reaches you almost at once, and sound travels about a kilometre in three seconds.
 11. (mcq) A mosquito's wings beat about 500 times each second and a bee's about 230. Which whines higher, and why?  
    Options: The mosquito, because her wings vibrate faster / The bee, because she is bigger / They sound the same / The bee, because her wings are slower  
@@ -558,10 +558,10 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    **Answer:** The oil made the surfaces slide smoothly, so they no longer stick. Without sticking and slipping again and again, there is no fast vibration, and the squeak stops.. *Why:* A strong answer says that a squeak is a rhythm of sticking and slipping and that oil removes the sticking.
 ### Numbers, Pipes and Open Questions (challenge) (challenge, 16 questions)
 1. (mcq) The note of a closed pipe, in hertz, is about 343 divided by four times its length in metres. About what note does a closed pipe 0.25 metres long give?  
-   Options: About 343 hertz / About 686 hertz / About 86 hertz / About 1372 hertz  
+   Options: About 686 hertz / About 343 hertz / About 86 hertz / About 1372 hertz  
    **Answer:** About 343 hertz. *Why:* Four times 0.25 is 1. 343 divided by 1 is 343. Picking 86 divides 343 by four and forgets to multiply the four by the length first.
 2. (mcq) A closed pipe gives 300 hertz. Its length is cut in half. About what note does it give now?  
-   Options: About 600 hertz / About 150 hertz / About 300 hertz / About 900 hertz  
+   Options: About 150 hertz / About 600 hertz / About 300 hertz / About 900 hertz  
    **Answer:** About 600 hertz. *Why:* Halving the length doubles the vibrations each second. 300 times 2 is 600, one octave higher.
 3. (fill) Marin Mersenne found that a string vibrates faster when it is shorter, tighter or ____.  
    **Answer:** ['thinner']. *Why:* A thin string has less mass to move, so it vibrates faster. A thick string vibrates more slowly.
@@ -571,17 +571,17 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
    Options: About 3 kilometres / About 1 kilometre / About 9 kilometres / About 27 kilometres  
    **Answer:** About 3 kilometres. *Why:* Sound travels about a kilometre in three seconds. 9 divided by 3 is 3 kilometres.
 6. (mcq) A finger takes half a second to cross a window and squeaks at 800 hertz. About how many sticks and slips happen in that sweep?  
-   Options: About 400 / About 40 / About 800 / About 1600  
+   Options: About 40 / About 800 / About 400 / About 1600  
    **Answer:** About 400. *Why:* 800 vibrations each second for half a second is 800 times a half, which is 400. Picking 800 forgets that the sweep only lasted half a second.
 7. (fill) A grown-up man's voice buzz is about 110 hertz. In 2 seconds, his vocal folds open and close about ____ times.  
    **Answer:** ['220']. *Why:* 110 vibrations each second times 2 seconds is 220.
 8. (match) Match each thing to the idea that explains it.  
    **Answer:** Tanpura strings tuned to Pa and Sa → Notes that agree, with a simple ratio of 3 to 2; A bottle that sings when blown across → An edge tone joined to an air column; A snapping shrimp's loud bang → A bubble collapsing; Wind humming in a wire → Swirls flipping from side to side. *Why:* Each sound has a cause that you can name. Naming it is a first step to testing it.
 9. (mcq) In 1971, John Coltman found that listeners could not tell flutes with walls of different materials apart. What does this suggest?  
-   Options: The wall material matters much less than the shape of the air column / Flutes make no sound / Metal flutes sound the best / Listeners do not hear well  
+   Options: Flutes make no sound / The wall material matters much less than the shape of the air column / Metal flutes sound the best / Listeners do not hear well  
    **Answer:** The wall material matters much less than the shape of the air column. *Why:* If listeners cannot tell the walls apart, then the material has little effect on the sound. The air column carries most of the sound. Some players still disagree.
 10. (mcq) The Tsimane people of Bolivia did not prefer sweet pairs of notes to rough ones. What does this suggest?  
-   Options: Part of what sounds sweet is learned from the music around us / The Tsimane cannot hear / Ratios do not exist / Sweet notes are the same for all people  
+   Options: The Tsimane cannot hear / Part of what sounds sweet is learned from the music around us / Ratios do not exist / Sweet notes are the same for all people  
    **Answer:** Part of what sounds sweet is learned from the music around us. *Why:* If sweetness were fully built into the ear, every group would show it. The result suggests that learning plays a part. It does not show that ratios do not exist.
 11. (write) Explain why a bottle gives opposite orders of notes when it is tapped and when it is blown across. Use the words 'shaking' and 'air column'.  
    **Answer:** When you tap the bottle, the glass and the water are shaking, and more water is more to shake, so the note is lower. When you blow across it, the air column is shaking, and more water makes the air column shorter, so the note is higher.. *Why:* A strong answer says what is shaking in each case and links it to the direction of the change.
@@ -603,40 +603,40 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 
 ## Quiz
 1. (mcq) A sound starts when something pushes on the air. Which of these does not push on the air?  
-   Options: A plucked string / A clap / A stream of air across an edge / A stone lying perfectly still  
+   Options: A plucked string / A clap / A stone lying perfectly still / A stream of air across an edge  
    **Answer:** A stone lying perfectly still. *Why:* Something has to move to push the air. A stone lying still does nothing to the air. A string, a clap and a moving air stream all push it.
 2. (mcq) What does the hertz count?  
-   Options: Vibrations each second / How loud a sound is / How far a sound travels / How long a note lasts  
+   Options: How loud a sound is / How far a sound travels / Vibrations each second / How long a note lasts  
    **Answer:** Vibrations each second. *Why:* One hertz is one vibration each second. Loudness is a different idea.
 3. (mcq) Two strings are the same except that one is half as long. Compared with the long one, the short one vibrates...  
-   Options: twice as fast / half as fast / at the same speed / four times as fast  
+   Options: half as fast / twice as fast / at the same speed / four times as fast  
    **Answer:** twice as fast. *Why:* Halving the length doubles the vibrations each second, which is one octave higher.
 4. (mcq) What does timbre tell you about a sound?  
-   Options: Which instrument or voice is making it, even when the pitch is the same / How loud it is / How far away it is / How long it lasts  
+   Options: How loud it is / How far away it is / How long it lasts / Which instrument or voice is making it, even when the pitch is the same  
    **Answer:** Which instrument or voice is making it, even when the pitch is the same. *Why:* Timbre is the quality of a sound, which comes from the mix of overtones. Loudness and distance are different ideas.
 5. (mcq) You touch a vibrating string lightly at its middle. What do you hear?  
-   Options: A note one octave higher, with a pure bell-like sound / A note one octave lower / No sound at all / A louder sound at the same pitch  
+   Options: A note one octave lower / No sound at all / A louder sound at the same pitch / A note one octave higher, with a pure bell-like sound  
    **Answer:** A note one octave higher, with a pure bell-like sound. *Why:* The touch stops the whole-string vibration and leaves the two-half vibration, which is one octave higher.
 6. (mcq) You blow across two identical bottles. One has 100 millilitres of water and the other has 300 millilitres. Which gives the higher note, and why?  
-   Options: The 300 millilitre bottle, because its air column is shorter / The 100 millilitre bottle, because its air column is shorter / The 300 millilitre bottle, because the water is heavier / They give the same note  
+   Options: The 100 millilitre bottle, because its air column is shorter / The 300 millilitre bottle, because the water is heavier / The 300 millilitre bottle, because its air column is shorter / They give the same note  
    **Answer:** The 300 millilitre bottle, because its air column is shorter. *Why:* More water leaves less air, so the air column is shorter, and a shorter air column gives a higher note. Picking 'heavier' is the reasoning for tapping, not blowing.
 7. (mcq) What makes the note of a flute?  
-   Options: Air in the tube, set shaking by a stream of air across an edge / The metal of the flute shaking / The player's voice / The player's lips buzzing  
+   Options: The metal of the flute shaking / The player's voice / Air in the tube, set shaking by a stream of air across an edge / The player's lips buzzing  
    **Answer:** Air in the tube, set shaking by a stream of air across an edge. *Why:* A flute is a tube of air. The air stream across the edge sets the air column shaking, and the length of the column picks the note.
 8. (mcq) Which of these makes a sound from one sudden push of air, with no steady pitch?  
-   Options: A clap / A tuning fork / A flute note / A tanpura string  
+   Options: A tuning fork / A flute note / A tanpura string / A clap  
    **Answer:** A clap. *Why:* A clap is one sudden squeeze of air. The other three give steady notes.
 9. (mcq) A squeak happens when two surfaces...  
-   Options: stick and slip again and again / stay perfectly still / slide with no grip at all / get hot and melt  
+   Options: stay perfectly still / slide with no grip at all / get hot and melt / stick and slip again and again  
    **Answer:** stick and slip again and again. *Why:* A squeak is a very fast rhythm of gripping and slipping. If there is no grip, or too much, there is no squeak.
 10. (mcq) In a whisper, what turns the hiss into 'ee' or 'oo'?  
    Options: The shape of the mouth / The buzz of the vocal folds / The lungs / The ears  
    **Answer:** The shape of the mouth. *Why:* A whisper has no buzz. The mouth shape boosts different parts of the hiss for each vowel.
 11. (mcq) Which statement about vocal folds is true?  
-   Options: They buzz when you speak or hum, and do not buzz when you whisper / They buzz when you whisper / They only buzz when you shout / They do not move  
+   Options: They buzz when you whisper / They only buzz when you shout / They buzz when you speak or hum, and do not buzz when you whisper / They do not move  
    **Answer:** They buzz when you speak or hum, and do not buzz when you whisper. *Why:* The vocal folds buzz for speech, singing and humming. In a whisper, air only hisses through a gap.
 12. (mcq) Which of these is still an open question for scientists?  
-   Options: Why some pairs of notes sound sweet to nearly everyone / Whether vibrations make sound / Whether a clap is louder than a whisper / Whether strings vibrate  
+   Options: Whether vibrations make sound / Whether a clap is louder than a whisper / Whether strings vibrate / Why some pairs of notes sound sweet to nearly everyone  
    **Answer:** Why some pairs of notes sound sweet to nearly everyone. *Why:* Scientists agree that vibrations make sound. Why certain pairs of notes feel sweet is still debated, with ideas from physics, the ear and learning.
 
 ## Applications

@@ -564,7 +564,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 4. (truefalse) When the boxes covering a straight line are cut to half their width, the line touches the same number of boxes.  
    **Answer:** False. *Why:* False. Boxes half as wide need twice as many to cover the same line, so the count doubles. A filled page would need 4 times as many.
 5. (mcq) A coast's box count goes up by 3 times each time the boxes are halved. Which description fits?  
-   Options: It is rougher than a straight line, and between a line and a page / It is a straight line / It is a filled page / It has no roughness  
+   Options: It is a straight line / It is a filled page / It is rougher than a straight line, and between a line and a page / It has no roughness  
    **Answer:** It is rougher than a straight line, and between a line and a page. *Why:* A straight line gives 2 times and a filled page 4 times. A ratio of 3 is in between, so the coast is rougher than a line but does not fill the page.
 6. (match) Match each word to what it means.  
    **Answer:** Archimedean spiral → Equal gaps between the turns; Logarithmic spiral → Each turn a fixed fraction wider; Iteration → Repeating one step on its own result; Dimension → How size grows when a shape is doubled; Cluster → A growing group of things stuck together. *Why:* These five words are the vocabulary of this lesson. A strong answer could give an example of each: a rope coil, a shell, folding a strip again and again, a line, and the shape from the Stick and Wander game.
@@ -573,12 +573,12 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 8. (order) Put the steps for making one round of a Koch curve in order.  
    **Answer:** ['Draw a straight line', 'Mark the line in thirds', 'Rub out the middle third of the line', 'Draw a tent whose two sides are as long as the piece you rubbed out']. *Why:* First you need a line, then you mark the thirds so you know which piece to remove. Only after rubbing out the middle third can you put the tent in its place.
 9. (mcq) A Koch curve is 27 centimetres long. After one round it is 36 centimetres long. How long is it after two rounds?  
-   Options: 45 centimetres / 48 centimetres / 54 centimetres / 72 centimetres  
+   Options: 45 centimetres / 54 centimetres / 72 centimetres / 48 centimetres  
    **Answer:** 48 centimetres. *Why:* Each round multiplies the length by 4 over 3, which is adding one third. One third of 36 is 12, and 36 plus 12 is 48.
 10. (fill) A line made of 4 pieces, each 9 centimetres long, is ____ centimetres long in all.  
    **Answer:** ['36']. *Why:* 4 times 9 is 36. This is the length of a Koch curve after one round, starting from 27 centimetres.
 11. (mcq) Each whorl of a shell is 1.5 times as wide as the one before. The biggest whorl is 36 millimetres wide. How wide is the whorl just before it?  
-   Options: 18 millimetres / 24 millimetres / 30 millimetres / 54 millimetres  
+   Options: 18 millimetres / 30 millimetres / 24 millimetres / 54 millimetres  
    **Answer:** 24 millimetres. *Why:* To go backwards, divide by 1.5. 36 divided by 1.5 is 24. The answer 54 goes the wrong way, and 18 divides by 2 instead of 1.5.
 12. (truefalse) A small shell and a big shell of the same kind have the same shape, because each whorl is the same fraction wider than the last.  
    **Answer:** True. *Why:* True. Growing by a fixed fraction keeps the shape the same. The big shell is the small shell scaled up.
@@ -593,10 +593,10 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    **Answer:** The leaves numbered 0 to 4 in order round the stem, each a little further round, with a curved arrow in the direction they turn.. *Why:* Leaves are numbered in the order they grow up the stem. In the view from above, the numbers go round the centre in one direction.
 ### Roughness, Spirals and Cause (stretch) (stretch, 17 questions)
 1. (mcq) A rough coastline has a roughness number of 1.5. What does that tell you?  
-   Options: It is rougher than a coast with 1.3, and does not fill the page / It is 1.5 kilometres long / It has 1.5 bays / It is exactly a straight line  
+   Options: It is 1.5 kilometres long / It is rougher than a coast with 1.3, and does not fill the page / It has 1.5 bays / It is exactly a straight line  
    **Answer:** It is rougher than a coast with 1.3, and does not fill the page. *Why:* The roughness number is between 1 for a straight line and 2 for a filled page. A larger number means a rougher edge that covers more of the page.
 2. (mcq) Which of these has a roughness number closest to 2?  
-   Options: A straight line / A gently curving road / A line so crinkly that it nearly fills the page / A circle drawn with a compass  
+   Options: A straight line / A gently curving road / A circle drawn with a compass / A line so crinkly that it nearly fills the page  
    **Answer:** A line so crinkly that it nearly fills the page. *Why:* A roughness number near 2 means the line nearly fills the page. A straight line, a gentle curve and a circle all have a number near 1.
 3. (fill) Each round of a Koch curve multiplies the length by 4 over ____.  
    **Answer:** ['3', 'three']. *Why:* Four pieces each a third as long as the old piece make 4 thirds of the old length. So each round multiplies the length by 4 over 3.
@@ -620,7 +620,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 11. (sort) Sort each spiral by what makes it.  
    **Answer:** a cyclone over the Bay of Bengal → Moving air bent by the Earth's spin; a snail shell → Each coil a fixed fraction wider; the arms of a galaxy → Waves of squeezing in stars and gas; a nautilus shell → Each coil a fixed fraction wider; a hurricane over the Atlantic → Moving air bent by the Earth's spin. *Why:* The same spiral shape comes from three different causes. A shape does not tell you why it is there.
 12. (mcq) Walkers wander at random and stick to a growing cluster. Why do the tips grow fastest?  
-   Options: A wandering walker meets a tip before it reaches a hollow / Tips are heavier than hollows / Walkers prefer to stick to arms / The die points towards the tips  
+   Options: Tips are heavier than hollows / A wandering walker meets a tip before it reaches a hollow / Walkers prefer to stick to arms / The die points towards the tips  
    **Answer:** A wandering walker meets a tip before it reaches a hollow. *Why:* A walker coming from outside meets the parts that stick out first. Those parts catch the most walkers and grow, while the hollows between arms stay hidden.
 13. (write) A rope coil and a shell are both spirals. Explain one way they are the same and one way they are different.  
    **Answer:** Both wind round a centre and get wider as they go out. The rope adds the same amount each turn, so its gaps are equal. The shell multiplies by a fixed fraction, so its gaps grow and its shape stays the same.. *Why:* A strong answer names a similarity, such as winding round a centre, and the key difference between adding the same amount and multiplying by the same fraction.
@@ -658,7 +658,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 10. (match) Match each cause to what it helps to make.  
    **Answer:** Tips catch more walkers → A branching cluster; The Earth's spin bending moving air → A cyclone's spiral; Two chemicals spreading and reacting → Stripes on an angelfish; Each coil a fixed fraction wider → The shape of a shell. *Why:* Each shape has its own cause. One explanation does not cover all of them, so a strong answer gives the evidence for each.
 11. (mcq) A computer model makes stripes like a zebra's. Does this prove that zebras make their stripes in the same way?  
-   Options: No, a model that makes the right picture is not proof of the process / Yes, it proves it / Only if the model is complicated / Only if the stripes are black and white  
+   Options: Yes, it proves it / Only if the model is complicated / Only if the stripes are black and white / No, a model that makes the right picture is not proof of the process  
    **Answer:** No, a model that makes the right picture is not proof of the process. *Why:* Many different processes can make the same picture. To show that the animal uses the process, scientists must find the chemicals or test what changes when they are altered.
 12. (write) A tree, a river delta and a lung all branch. Say what each one needs to reach or collect, and why branching helps.  
    **Answer:** A tree needs to reach light with many leaves and carry water to them. A river delta collects water from a wide area into one river. A lung needs to bring air close to blood over a very large surface. Branching lets one trunk reach or collect from every part of a space.. *Why:* A strong answer names a job for each, and links branching to reaching every part of a space from one place.
@@ -667,7 +667,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 14. (label) Label the drawing of a shell with three whorl widths 24, 36 and 54 millimetres. Write the ratio between each neighbouring pair.  
    **Answer:** An arrow between 24 and 36 marked 1.5 and an arrow between 36 and 54 marked 1.5.. *Why:* 36 divided by 24 is 1.5, and 54 divided by 36 is 1.5. The same ratio each time is the sign of a shell that keeps the same shape.
 15. (mcq) A plant turned each leaf by exactly 1 over 3 of a circle. What would happen to the leaves?  
-   Options: They would line up in three straight rows and shade each other / They would spread evenly with no overlap / They would curl up / They would line up in one row  
+   Options: They would spread evenly with no overlap / They would curl up / They would line up in one row / They would line up in three straight rows and shade each other  
    **Answer:** They would line up in three straight rows and shade each other. *Why:* Three turns of a third make a whole circle, so every third leaf sits directly above another. The leaves stack in three rows and shade the ones below.
 
 ## Videos
@@ -686,28 +686,28 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
    Options: 2.4 / 14 / 0.4 / 34  
    **Answer:** 2.4. *Why:* 24 divided by 10 is 2.4. The ratio is between 2 for a line and 4 for a page, so the coast has a roughness number of about 1.3.
 4. (mcq) In a Koch curve, what do you do to every straight piece in each round?  
-   Options: Replace its middle third with two sides of a tent / Cut it in half / Double its length / Colour it in  
+   Options: Cut it in half / Replace its middle third with two sides of a tent / Double its length / Colour it in  
    **Answer:** Replace its middle third with two sides of a tent. *Why:* The rule is to cut out the middle third and put in the two sides of a tent. This makes every piece into four shorter pieces.
 5. (mcq) Why can a Koch curve have endless length and still fit on a page?  
-   Options: Each round adds length, but the tents get smaller and stay on the page / The page stretches / The line becomes invisible / The curve never starts  
+   Options: The page stretches / The line becomes invisible / Each round adds length, but the tents get smaller and stay on the page / The curve never starts  
    **Answer:** Each round adds length, but the tents get smaller and stay on the page. *Why:* Each round multiplies the length by 4 over 3, so there is no limit. But the new tents are tiny and stay near the old line, so the curve never leaves the page.
 6. (mcq) Which statement describes how a snail shell grows?  
-   Options: Each whorl is a fixed fraction wider than the last / Each whorl is the same amount wider than the last / Each whorl is narrower than the last / Each whorl has a random width  
+   Options: Each whorl is the same amount wider than the last / Each whorl is narrower than the last / Each whorl is a fixed fraction wider than the last / Each whorl has a random width  
    **Answer:** Each whorl is a fixed fraction wider than the last. *Why:* A shell grows by multiplying by the same fraction, so the shape stays the same. Adding the same amount is how a rope coil grows.
 7. (mcq) Two whorls of a broken shell are 45 and 30 millimetres wide. Each whorl is the same number of times wider than the one before. How wide is the next smaller whorl?  
-   Options: 15 millimetres / 20 millimetres / 25 millimetres / 22.5 millimetres  
+   Options: 15 millimetres / 25 millimetres / 22.5 millimetres / 20 millimetres  
    **Answer:** 20 millimetres. *Why:* 45 divided by 30 is 1.5. To go backwards, divide by 1.5, and 30 divided by 1.5 is 20. Subtracting 15 would be wrong, because a shell multiplies and does not add.
 8. (mcq) A plant turns 1 over 3 of a circle from one leaf to the next. How many degrees is that?  
    Options: 60 / 90 / 120 / 180  
    **Answer:** 120. *Why:* A full circle is 360 degrees, and 360 divided by 3 is 120 degrees.
 9. (mcq) Which turn between leaves is closest to the golden angle?  
-   Options: 3 over 8 of a circle / 1 over 2 of a circle / 1 over 4 of a circle / 1 over 3 of a circle  
+   Options: 1 over 2 of a circle / 1 over 4 of a circle / 1 over 3 of a circle / 3 over 8 of a circle  
    **Answer:** 3 over 8 of a circle. *Why:* 3 over 8 of a circle is 135 degrees, which is the closest to the golden angle of about 137.5 degrees. 1 over 3 is 120 degrees, 1 over 4 is 90 and 1 over 2 is 180.
 10. (mcq) Which problem does the branching of the airways help a lung solve?  
-   Options: Fitting a very large surface for air into a small space / Making the voice louder / Keeping the chest light / Keeping all dust out  
+   Options: Making the voice louder / Keeping the chest light / Keeping all dust out / Fitting a very large surface for air into a small space  
    **Answer:** Fitting a very large surface for air into a small space. *Why:* Oxygen can only pass into the blood through a thin surface. Branching packs a surface about as big as half a tennis court into the chest.
 11. (mcq) Why do cyclones spiral?  
-   Options: The Earth's spin bends air rushing in to a low-pressure centre / Cyclones grow by a fixed fraction like shells / Water drains in a sink / Waves of squeezing move through stars  
+   Options: Cyclones grow by a fixed fraction like shells / The Earth's spin bends air rushing in to a low-pressure centre / Water drains in a sink / Waves of squeezing move through stars  
    **Answer:** The Earth's spin bends air rushing in to a low-pressure centre. *Why:* Air moving over a long distance is bent by the spin of the Earth. Air rushing into a low-pressure centre is bent into a spiral.
 12. (mcq) A shell and a cyclone are both spirals. What does this tell you?  
    Options: The same shape can come from different causes / They have the same cause / Cyclones are made of shells / Shells make storms  

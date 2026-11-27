@@ -317,7 +317,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 1. (sort) Circle in green the things a plant needs. Cross out the things a plant does not need.  
    **Answer:** water → A plant needs this; sunlight → A plant needs this; sweets → A plant does not need this; a toy → A plant does not need this; air → A plant needs this; milk → A plant does not need this. *Why:* Plants need water, light and air. They make their own food, so they do not need sweets or milk.
 2. (mcq) In Three Plates of Methi, what came out of the wet seeds on plate 2 on day 2?  
-   Options: Tiny white roots / Green leaves / Flowers  
+   Options: Green leaves / Tiny white roots / Flowers  
    **Answer:** Tiny white roots. *Why:* Wet seeds soak up water, swell and put out a tiny white root first. The leaves come later.
 3. (draw) In Three Plates of Methi, some sprouts grew under the bowl and some grew by the window. Draw both. Colour them the colours you saw.  
    **Answer:** Tall, thin, yellow sprouts for the bowl. Short sprouts with green leaves for the window.. *Why:* A strong drawing shows both the colour and the shape: the sprouts from the dark are yellow, taller and thinner.
@@ -338,7 +338,7 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
    **Answer:** The second child is closer: on day 6, the yellow sprouts turned green in the light. But the first child is right that they are weaker: they are thin and some fell over.. *Why:* A strong answer uses the day 6 result, and is fair to both: the sprouts were alive and could turn green, but they were thin and weak.
 ### Light and Water (stretch) (stretch, 11 questions)
 1. (mcq) You put methi seeds on wet tissue under a clear glass bowl. What colour will the sprouts be?  
-   Options: Green / Yellow / No sprouts at all  
+   Options: Yellow / Green / No sprouts at all  
    **Answer:** Green. *Why:* Light goes through clear glass, so the sprouts still get light. They will be green.
 2. (match) Draw a line from each sign to what the plant is short of.  
    **Answer:** Tall, thin, yellow sprouts → Light; Droopy leaves and dry soil → Water; Pale leaves inside a cabbage → Light; Soft brown roots in soggy soil → Too much water. *Why:* Yellow, thin sprouts and pale leaves mean little light. Droopy leaves and dry soil mean little water. Roots in soggy soil cannot get air.
@@ -369,34 +369,34 @@ Kannan put his bucket away in the cupboard. 'My bucket's house can be in there,'
 
 ## Quiz
 1. (mcq) What do plants need to grow?  
-   Options: Light and water / Sweets and toys / Milk and biscuits  
+   Options: Sweets and toys / Milk and biscuits / Light and water  
    **Answer:** Light and water. *Why:* Plants need light and water. They make their own food, so they do not need sweets or milk.
 2. (mcq) Methi seeds sat on a dry plate for two days. What happened?  
-   Options: They sprouted / Nothing, they stayed dry seeds / They turned green  
+   Options: They sprouted / They turned green / Nothing, they stayed dry seeds  
    **Answer:** Nothing, they stayed dry seeds. *Why:* Seeds need water to sprout. Dry seeds stay as they are.
 3. (mcq) Methi sprouts grew under an upturned steel bowl. What did they look like?  
-   Options: Short and green / Tall, thin and yellow / Blue  
+   Options: Short and green / Blue / Tall, thin and yellow  
    **Answer:** Tall, thin and yellow. *Why:* In the dark, methi sprouts come up yellow, tall and thin.
 4. (mcq) Yellow methi sprouts from under the bowl were put on the windowsill for a day. What happened?  
-   Options: They turned green / They turned red / They stayed yellow for ever  
+   Options: They turned red / They turned green / They stayed yellow for ever  
    **Answer:** They turned green. *Why:* In the light, the methi made their green. Most sprouts turn green within a day.
 5. (mcq) What made the green colour in the methi leaves?  
-   Options: The water / The methi plant / The steel plate  
+   Options: The methi plant / The water / The steel plate  
    **Answer:** The methi plant. *Why:* The plant makes their own green, when they sense light.
 6. (mcq) Where do plants make their food?  
-   Options: In their green leaves / In the soil / In the kitchen  
+   Options: In the soil / In the kitchen / In their green leaves  
    **Answer:** In their green leaves. *Why:* Plants make food in their green leaves, using light, air and water. Many people think plants eat soil, but the roots only take in water and minerals.
 7. (mcq) A plant has droopy leaves and dry soil. What does the plant need?  
-   Options: Water / Darkness / A new pot  
+   Options: Darkness / A new pot / Water  
    **Answer:** Water. *Why:* Droopy leaves and dry soil mean the plant is short of water.
 8. (mcq) Is a soggy pot that never dries good for a plant?  
-   Options: Yes, more water is always better / No, roots need air too  
+   Options: No, roots need air too / Yes, more water is always better  
    **Answer:** No, roots need air too. *Why:* Roots that sit in soggy soil for days cannot get air and can rot. Damp soil is just right.
 9. (mcq) In Three Plates of Methi, what did a good scientist do before lifting the bowl?  
-   Options: Guessed what would happen, and said why / Threw the seeds away / Painted the sprouts  
+   Options: Threw the seeds away / Painted the sprouts / Guessed what would happen, and said why  
    **Answer:** Guessed what would happen, and said why. *Why:* Scientists guess first, then look carefully, then say what they saw.
 10. (mcq) Two plates of methi seeds got the same water. One was under a bowl and one was in the light. Why did both get the same water?  
-   Options: So that light was the only difference / Because we had extra water / So the bowl would float  
+   Options: Because we had extra water / So that light was the only difference / So the bowl would float  
    **Answer:** So that light was the only difference. *Why:* When only one thing is different, we know that thing made the change. Here, the only difference was light.
 
 ## Applications

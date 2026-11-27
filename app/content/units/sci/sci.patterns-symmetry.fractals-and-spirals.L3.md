@@ -501,7 +501,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 6. (sort) Sort these into two groups: things with a spiral, and things with branches inside branches.  
    **Answer:** a snail shell → Spiral; a murukku → Spiral; a pineapple's scales → Spiral; your lungs' airways → Branches inside branches; a leaf's veins → Branches inside branches; a fern frond → Branches inside branches. *Why:* Shells, murukku and pineapple scales wind round a centre. Lungs, leaf veins and ferns split into smaller and smaller parts.
 7. (mcq) Why do your lungs have so many tiny branching airways?  
-   Options: To make a huge surface for oxygen to pass into the blood / To make your chest look bigger / To keep food out / Because they are broken  
+   Options: To make your chest look bigger / To make a huge surface for oxygen to pass into the blood / To keep food out / Because they are broken  
    **Answer:** To make a huge surface for oxygen to pass into the blood. *Why:* Oxygen passes into the blood through a thin, wet surface. Branching packs a very large surface into your chest.
 8. (perspective) Two friends measured the same stretch of the Gujarat coast on a map. One used a 4 cm strip and got 20 cm. The other used a 1 cm strip and got 31 cm.  
    **Answer:** A strong answer says both numbers are true for the strip used. The short strip followed more bends, so it gave more. The friend with the 4 cm strip is right that the coast did not grow. The friend with the 1 cm strip is right that the short strip followed more of the coast.. *Why:* This tests the central idea: a bendy edge's length depends on the size of the step. Neither friend made a mistake.
@@ -519,16 +519,16 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 14. (truefalse) You can keep breaking a cauliflower floret for ever, and every piece will still look like a cauliflower.  
    **Answer:** False. *Why:* False. After a few breaks the pieces are too small to keep the shape. A real cauliflower is a fractal only over a few sizes.
 15. (mcq) Why do you mark one scale before counting the spiral rows on a pineapple?  
-   Options: So you know when you are back at the start and do not count a row twice / So the pineapple ripens faster / So the scales stay clean / So you can eat that scale first  
+   Options: So the pineapple ripens faster / So you know when you are back at the start and do not count a row twice / So the scales stay clean / So you can eat that scale first  
    **Answer:** So you know when you are back at the start and do not count a row twice. *Why:* The rows wind all the way round. Without a mark you cannot tell where you started, and you may count a row twice.
 ### Spirals, Shells and Coasts (stretch) (stretch, 15 questions)
 1. (mcq) Measure the Kerala coast and the Gujarat coast on a map, first with a long strip, then with a short one. Which coast's length grows more?  
-   Options: Gujarat, because it has more bends / Kerala, because it is in the south / Both grow by exactly the same / Neither grows at all  
+   Options: Kerala, because it is in the south / Both grow by exactly the same / Gujarat, because it has more bends / Neither grows at all  
    **Answer:** Gujarat, because it has more bends. *Why:* Gujarat has big gulfs and bays for the short strip to go into. Kerala's coast is fairly smooth, so there is little extra to follow.
 2. (perspective) A sunflower makes each new seed in the biggest gap left by the others. Three people explain how.  
    **Answer:** A strong answer picks one explanation and gives a reason. It also sees that they can fit together: the growing tip senses where the most auxin is left and starts the seed in that gap, and that packs the seeds well.. *Why:* These are three real ways of explaining the same pattern. They answer different parts of the question.
 3. (mcq) Place beans on a paper clock, each one 15 minutes round from the last and a little further out. What will you see?  
-   Options: Four straight spokes with gaps between / Even spirals that fill the circle / One straight line / A square  
+   Options: Even spirals that fill the circle / One straight line / A square / Four straight spokes with gaps between  
    **Answer:** Four straight spokes with gaps between. *Why:* 15 minutes is a quarter circle, so every fourth bean lands on the same spoke. A turn of about 23 minutes, close to the golden angle, fills the circle instead.
 4. (write) A snail's shell is small at the centre and wide at the opening. Explain how the snail gave the shell that shape, starting with the snail's problem.  
    **Answer:** The snail keeps growing but cannot leave their shell. So they add new shell at the opening, a little wider each time. The tube winds round and gets wider, so it becomes a spiral.. *Why:* A strong answer starts with the snail's problem, then says how adding at the opening solves it and makes the spiral.
@@ -537,7 +537,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 6. (draw) Draw the pattern left by paint pulled apart between two sheets. Then draw an arrow to show where the air pushed in.  
    **Answer:** A branching, tree-like pattern, with arrows pointing in from the edge along the fingers.. *Why:* Air pushes in from the edge. The fingers of air that get ahead grow fastest and split, leaving branches of paint.
 7. (mcq) Why does a snowflake grow six long arms?  
-   Options: Its six corners stick out into the moist air and grow fastest / Someone shapes it in the cloud / It is cut by the wind / It melts into arms  
+   Options: Someone shapes it in the cloud / It is cut by the wind / It melts into arms / Its six corners stick out into the moist air and grow fastest  
    **Answer:** Its six corners stick out into the moist air and grow fastest. *Why:* Water vapour freezes onto the parts that stick out furthest. So the corners grow into arms, and bumps on the arms grow into side branches.
 8. (match) Match each living thing to the problem their shape helps with.  
    **Answer:** Branching lungs → getting enough oxygen into the blood; A fern's leaflets on leaflets → catching light in a shady forest; Branching leaf veins → bringing water to every part of the leaf; A snail's widening shell → growing bigger without leaving home. *Why:* Each shape solves a real problem for the living being. Start with the problem, and the shape makes sense.
@@ -560,12 +560,12 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 1. (perspective) Spain said its border with Portugal was 987 km. Portugal said 1,214 km.  
    **Answer:** Richardson is right that a shorter step gives a longer border. To match, both countries should agree on the same step size or map scale and say it with the number.. *Why:* This is the real puzzle Richardson solved. A strong answer suggests agreeing on the measuring step.
 2. (mcq) On the paper clock, you turn your beans by 22 minutes each time, instead of 23. What will you most likely see?  
-   Options: The beans start to line up into spokes again / Exactly the same even spirals / All the beans in one place / A perfect square  
+   Options: Exactly the same even spirals / The beans start to line up into spokes again / All the beans in one place / A perfect square  
    **Answer:** The beans start to line up into spokes again. *Why:* The golden angle is about 23 minutes. Turns a little away from it slowly line the beans up into spokes, with gaps. This is why the exact angle matters to the plant.
 3. (write) Your lungs, a neem tree and the river Ganga's delta all branch. Choose two of them. For each, say what problem branching solves.  
    **Answer:** Lungs: branching makes a huge surface to take oxygen into the blood. Tree: branching holds leaves out in every direction to catch light. Delta: the river splits as it drops its mud, spreading water over a wide area.. *Why:* A strong answer gives each one's own problem, not just 'it is a fractal'.
 4. (mcq) Mandelbrot wrote that 'clouds are not spheres, mountains are not cones'. What did he mean?  
-   Options: Rough natural shapes are better described by fractals than by smooth shapes / Clouds and mountains are not real / Clouds are square / Mountains are getting smaller  
+   Options: Clouds and mountains are not real / Rough natural shapes are better described by fractals than by smooth shapes / Clouds are square / Mountains are getting smaller  
    **Answer:** Rough natural shapes are better described by fractals than by smooth shapes. *Why:* Spheres and cones are smooth. Clouds and mountains have bumps on bumps at many sizes, which fractals describe well.
 5. (truefalse) A real fern frond has leaflets on leaflets forever, at smaller and smaller sizes.  
    **Answer:** False. *Why:* False. A real fern stops after a few levels. Fractals in nature repeat only between a biggest and a smallest size. Only a mathematical fractal goes on forever.
@@ -611,7 +611,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
    Options: The detailed maps showed more small bends / The sea moved back / Gujarat grew bigger / The old map was upside down  
    **Answer:** The detailed maps showed more small bends. *Why:* The coast did not change. More detailed maps show smaller bends, and following them adds length.
 5. (mcq) Why does a tree have branches that split into smaller branches?  
-   Options: To hold leaves out in every direction to catch sunlight / To look nice for people / Because the wind breaks them / To stop birds sitting on it  
+   Options: To look nice for people / Because the wind breaks them / To hold leaves out in every direction to catch sunlight / To stop birds sitting on it  
    **Answer:** To hold leaves out in every direction to catch sunlight. *Why:* A tree needs sunlight on as many leaves as possible. Branching spreads leaves through the space around the tree.
 6. (mcq) A fern grows in a shady forest. How do the leaflets on leaflets help the fern?  
    Options: They spread a lot of leaf to catch the little light there is / They keep the fern cool / They stop the fern growing / They hold water like a cup  
@@ -620,19 +620,19 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
    Options: 13 / 8 / 4 / 100  
    **Answer:** 13. *Why:* Many pineapples have 8 one way and 13 the other. Both are Fibonacci numbers next to each other.
 8. (mcq) In a sunflower, where does each new seed grow?  
-   Options: In the biggest gap left by the seeds before it / On top of the last seed / Always at the outside edge / Anywhere at random  
+   Options: On top of the last seed / Always at the outside edge / Anywhere at random / In the biggest gap left by the seeds before it  
    **Answer:** In the biggest gap left by the seeds before it. *Why:* New seeds start at the centre, each in the biggest gap, about 137 and a half degrees round from the last. This packs them with no big gaps.
 9. (mcq) How does a snail make their shell bigger?  
    Options: They add new, wider shell at the opening / They move into a bigger shell / The whole shell stretches / They grow a new shell every year  
    **Answer:** They add new, wider shell at the opening. *Why:* A snail never leaves their shell. They add new shell at the opening, a little wider each time, so it winds into a spiral.
 10. (mcq) Which part of a snail's shell is the oldest?  
-   Options: The tiny curl at the centre / The wide edge at the opening / All parts are the same age / The bottom  
+   Options: The wide edge at the opening / All parts are the same age / The bottom / The tiny curl at the centre  
    **Answer:** The tiny curl at the centre. *Why:* The shell grows at the opening, so the curl at the centre was made first, when the snail was a baby.
 11. (mcq) Why do the six corners of a snowflake grow into long arms?  
-   Options: They stick out into the moist air, so water freezes on them fastest / The wind blows them into shape / They are heavier / A cloud cuts them into shape  
+   Options: The wind blows them into shape / They are heavier / They stick out into the moist air, so water freezes on them fastest / A cloud cuts them into shape  
    **Answer:** They stick out into the moist air, so water freezes on them fastest. *Why:* The parts that stick out furthest meet the most water vapour, so they grow fastest. Bumps on the arms grow into side branches the same way.
 12. (mcq) Paint pulled apart between two sheets leaves a pattern like a tree. Who drew the branches?  
-   Options: Nobody: air pushed in and the fingers that got ahead grew fastest / The person pulling / The sheets / The paint was already in branches  
+   Options: The person pulling / The sheets / The paint was already in branches / Nobody: air pushed in and the fingers that got ahead grew fastest  
    **Answer:** Nobody: air pushed in and the fingers that got ahead grew fastest. *Why:* Air fingers that get a little ahead grow faster and split, leaving branches of paint. The pattern grows by itself.
 
 ## Applications

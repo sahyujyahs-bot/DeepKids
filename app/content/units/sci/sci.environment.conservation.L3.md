@@ -546,7 +546,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 ## Worksheets
 ### Grow Back or Run Out (core) (core, 19 questions)
 1. (mcq) You cut wheat and moong plants 2 centimetres above the soil. Four days later, which will be taller?  
-   Options: The moong / The wheat / Both the same, 2 centimetres  
+   Options: The wheat / The moong / Both the same, 2 centimetres  
    **Answer:** The wheat. *Why:* Wheat grows from the bottom of each leaf, so the cut leaves keep pushing up. Moong grows from the tip of each stem, and the tips were cut off. Picking 'both the same' means thinking no plant can grow after cutting.
 2. (fill) Using and protecting something carefully, so that it lasts, is called ____.  
    **Answer:** ['conservation']. *Why:* Conservation means taking care that soil, water, forests and animals last. A strong answer could add an example, such as picking a few curry leaves from each branch.
@@ -559,7 +559,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 6. (write) Why can a cow eat the same field of grass every day without finishing it? Use the words 'growing point' in your answer.  
    **Answer:** A grass leaf's growing point is at the bottom, near the soil. The cow bites off the top and leaves the growing point, so the leaf keeps growing.. *Why:* A strong answer says where the growing point is, and that the cow does not eat the growing point.
 7. (mcq) On a hot afternoon, a buffalo walks into a pond and lies there with only her head showing. Why?  
-   Options: She is looking for fish / She heats up fast and is cooling down / She is washing off milk  
+   Options: She is looking for fish / She is washing off milk / She heats up fast and is cooling down  
    **Answer:** She heats up fast and is cooling down. *Why:* A buffalo has dark skin and few sweat glands, so she gets hot quickly in the sun. Lying in water or mud, called wallowing, cools her. That is why buffaloes need a pond or a shower in summer.
 8. (draw) Draw one cut wheat plant and one cut moong plant, four days after the Cutting Test. Mark with a dot where each plant grows from.  
    **Answer:** The wheat is taller, with flat leaf tips and a dot near the soil. The moong is a short stump, with the dot at the top of the stem, where the tip was cut off.. *Why:* A strong drawing shows the difference in height and puts the growing point low for wheat and at the stem tip for moong.
@@ -592,7 +592,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 1. (write) Someone says, 'To make grass grow back faster, cut it right down at the soil.' What is wrong with this idea?  
    **Answer:** The growing point of a grass leaf is at the bottom, near the soil. Cutting right at the soil can damage it, and leaves no green to make food. Grass grows back best when some leaf is left.. *Why:* A strong answer uses where the growing point is, and why leaves are needed.
 2. (mcq) Why does a moong stem stop getting taller after its tip is cut off?  
-   Options: Moong grows from the tip of the stem / Moong does not need light / The soil was too wet  
+   Options: Moong does not need light / Moong grows from the tip of the stem / The soil was too wet  
    **Answer:** Moong grows from the tip of the stem. *Why:* Moong makes new stem at the tip, so cutting the tip takes away the growing part. A bud lower down may slowly grow a side shoot. Picking 'too wet' means looking for a cause that was the same for both plants.
 3. (write) Herders in Rajasthan walk their sheep and camels to new places through the year. Why does this help the land?  
    **Answer:** Each place gets time for the plants to grow back before the animals return, so no place is eaten bare.. *Why:* A strong answer links moving to regrowth and to stopping overgrazing.
@@ -608,7 +608,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 8. (match) Match each word to what it means.  
    **Answer:** Graze → to eat grass and low plants a little at a time; Overgrazing → eating plants faster than they grow back; Groundwater → water that fills the gaps in soil and rock underground; Pollinate → to carry pollen from one flower to another; Wallow → to lie in water or mud to cool down. *Why:* These words come up all through the unit. A strong answer could give an example of each.
 9. (mcq) In a city, roofs and roads cover most of the ground, and the wells are going dry. Why would a rule that every building must catch its rain help?  
-   Options: Rain sent into pits soaks down and refills the groundwater, instead of running into drains / Rain is damaging the roofs / The sea is too full  
+   Options: Rain is damaging the roofs / The sea is too full / Rain sent into pits soaks down and refills the groundwater, instead of running into drains  
    **Answer:** Rain sent into pits soaks down and refills the groundwater, instead of running into drains. *Why:* When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater that wells draw on.
 10. (fill) A honeybee carries pollen from flower to flower while she drinks nectar. This helps the flowers make seeds and fruit. We say the bee ____ the flowers.  
    **Answer:** ['pollinates']. *Why:* To pollinate is to carry pollen between flowers. Many crops, like mangoes and many vegetables, give more fruit when bees visit them.
@@ -619,7 +619,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 13. (truefalse) A silkworm caterpillar can live well on any kind of leaf.  
    **Answer:** False. *Why:* False. Silkworms eat mulberry leaves and almost nothing else. Silk farmers grow mulberry fields to feed them.
 14. (mcq) Buffaloes are kept out of a bird wetland to protect the nests. But the buffaloes had been eating a tall grass there. What might go wrong?  
-   Options: The grass may spread over the shallow water that water birds need / More birds will come than ever / The water will dry up at once  
+   Options: More birds will come than ever / The water will dry up at once / The grass may spread over the shallow water that water birds need  
    **Answer:** The grass may spread over the shallow water that water birds need. *Why:* The buffaloes kept the grass down. Without them, it can spread over the open water many water birds use. Taking one animal out can change the whole place.
 15. (order) Put the journey of rain in a rainwater harvesting building in order.  
    **Answer:** ['Rain falls on the terrace', 'A pipe carries it to a pit of stones and sand', 'The water soaks into the ground', 'A borewell pumps it up later']. *Why:* The rain is caught high up, led down, soaked into the ground, and used later.
@@ -631,7 +631,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 18. (write) Write three harmful effects of soil erosion: one for farms, one for rivers and ponds, and one for wells.  
    **Answer:** Farms give less food, because the best soil has gone. Rivers and ponds fill with silt and hold less water, so floods come more easily. Wells and streams run dry, because rain runs off bare ground and does not soak in.. *Why:* A strong answer links each effect to a cause, such as silt, runoff or the loss of the top layer of soil.
 19. (mcq) A village cuts the forest above its stream. After two monsoons the stream floods, and then it is dry in summer. Why?  
-   Options: Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly / The forest used to make the rain stop / The stream was always like that  
+   Options: The forest used to make the rain stop / Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly / The stream was always like that  
    **Answer:** Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly. *Why:* A forest slows the rain so it soaks in and feeds the stream little by little. Bare ground sends it all down at once, and nothing is stored.
 20. (truefalse) India allows lions and tigers to be used in circuses.  
    **Answer:** False. *Why:* False. India has banned the use of lions, tigers, bears and monkeys in circuses, because animals made to perform are often beaten and kept in tiny cages.
@@ -641,7 +641,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 2. (perspective) People argue about whether village buffaloes should graze inside Keoladeo National Park.  
    **Answer:** A strong answer uses what happened after 1982, when the grass spread, and also admits a fair point, such as nests being trampled or too many buffaloes harming the land.. *Why:* This is a real trade-off. The number of animals, and how they are managed, matters.
 3. (mcq) A family mows their lawn very short every two days in May. The lawn turns brown and thin. Why?  
-   Options: The grass has too little leaf left to make food, and uses up its stores / Grass does not grow in May / The mower makes the grass cold  
+   Options: Grass does not grow in May / The grass has too little leaf left to make food, and uses up its stores / The mower makes the grass cold  
    **Answer:** The grass has too little leaf left to make food, and uses up its stores. *Why:* Grass needs leaves to catch sunlight and make food. When grass is cut too often and too short, the plants use up the food stored in their roots. This is like overgrazing.
 4. (write) Why do you think grasses keep their growing points low, near the soil? Think about who eats grass.  
    **Answer:** Cows, goats, deer and insects eat grass all the time. A growing point near the soil is below where teeth bite, so the grass survives being eaten and grows again.. *Why:* A strong answer links where the growing point is to the grass's own problem: being eaten often.
@@ -653,7 +653,7 @@ I do not know if she will ever see it full of us again. But I know what we were 
 7. (draw) Draw a grass leaf just after it is cut, and the same leaf three days later. Use an arrow to show where the new part grew.  
    **Answer:** The second leaf is taller, with the same flat tip, and an arrow at the bottom near the soil showing new leaf added there.. *Why:* A strong drawing keeps the flat cut tip and adds the new growth at the base.
 8. (mcq) The trees on a hillside in the Western Ghats are cut down. In the next monsoon, what will the stream at the bottom of the hill look like?  
-   Options: Clearer than before / Muddier, carrying soil from the bare slope / Just the same  
+   Options: Clearer than before / Just the same / Muddier, carrying soil from the bare slope  
    **Answer:** Muddier, carrying soil from the bare slope. *Why:* Without roots and fallen leaves, the rain washes soil off the slope into the stream. That is soil erosion, and the stream turns brown.
 9. (truefalse) A honeybee that drinks from a flower sprayed with poison can be harmed.  
    **Answer:** True. *Why:* True. Many insect poisons sprayed on crops also harm bees. That is why bees need flowers that have not been sprayed.
@@ -688,19 +688,19 @@ I do not know if she will ever see it full of us again. But I know what we were 
 
 ## Quiz
 1. (mcq) Which animal gives people silk?  
-   Options: The honeybee / The silkworm caterpillar / The sheep  
+   Options: The silkworm caterpillar / The honeybee / The sheep  
    **Answer:** The silkworm caterpillar. *Why:* Silk is the thread a silkworm caterpillar spins to make her cocoon. Bees give honey, and sheep give wool.
 2. (mcq) You cut the top off lawn grass and the top off a tulsi plant. Which one grows taller again from the same leaf or stem?  
-   Options: The tulsi / The grass / Neither  
+   Options: The tulsi / Neither / The grass  
    **Answer:** The grass. *Why:* Grass grows from the bottom of the leaf, so the cut leaf keeps growing. Tulsi grows from the tips of their stems, so they make new side shoots instead.
 3. (mcq) What is overgrazing?  
    Options: Animals eating plants faster than they grow back / Animals eating only the tops of grass / Planting too much grass  
    **Answer:** Animals eating plants faster than they grow back. *Why:* Overgrazing leaves the ground bare. Eating only the tops, slowly, lets grass grow back.
 4. (mcq) In the Cutting Test, why do we measure 3 wheat plants and not just 1?  
-   Options: One plant might be odd / Three is a lucky number / Wheat grows in threes  
+   Options: Three is a lucky number / One plant might be odd / Wheat grows in threes  
    **Answer:** One plant might be odd. *Why:* One plant might be weak or damaged. Measuring three shows what most plants do.
 5. (mcq) Which of these is conservation?  
-   Options: Picking a few curry leaves from each branch, so the plant grows more / Cutting the whole curry leaf plant at once / Pulling the plant out by the roots  
+   Options: Cutting the whole curry leaf plant at once / Picking a few curry leaves from each branch, so the plant grows more / Pulling the plant out by the roots  
    **Answer:** Picking a few curry leaves from each branch, so the plant grows more. *Why:* Conservation is taking in a way that lets the plant keep growing. Taking everything leaves nothing to grow back.
 6. (mcq) Arjun brushes his teeth with the tap running. His sister Priya uses a mug of water. Who uses less water?  
    Options: Arjun / Priya / They use the same  
@@ -709,16 +709,16 @@ I do not know if she will ever see it full of us again. But I know what we were 
    Options: The grass grows tall and spreads over the open water / Too much rain falls / The birds plant more grass  
    **Answer:** The grass grows tall and spreads over the open water. *Why:* The buffaloes had kept the grass short. Without them, it grows over the open water. This happened at Keoladeo after 1982.
 8. (mcq) Why does soil under grass wash away less than bare soil?  
-   Options: Roots hold it, and leaves soften the drops / Grass makes the rain lighter / Grass soil is heavier  
+   Options: Grass makes the rain lighter / Roots hold it, and leaves soften the drops / Grass soil is heavier  
    **Answer:** Roots hold it, and leaves soften the drops. *Why:* Roots grip the soil grains, and leaves stop the drops hitting the soil hard.
 9. (mcq) What does a hen need to stay healthy?  
    Options: A dry, clean coop / A deep pond / Mulberry leaves  
    **Answer:** A dry, clean coop. *Why:* Damp and dirt bring disease to hens. Ponds are for buffaloes, and mulberry leaves are for silkworms.
 10. (mcq) In a city, why does less rain soak into the ground?  
-   Options: Roads and buildings cover the soil / City rain is heavier / City soil is full of water  
+   Options: City rain is heavier / City soil is full of water / Roads and buildings cover the soil  
    **Answer:** Roads and buildings cover the soil. *Why:* Rain runs off roads and roofs into drains. Rainwater harvesting sends it back into the ground.
 11. (mcq) Why do many countries, India among them, have laws against beating, starving or neglecting animals?  
-   Options: Animals feel pain and need care, and they cannot speak up for themselves / To stop people keeping cows / So anyone can keep wild animals  
+   Options: To stop people keeping cows / Animals feel pain and need care, and they cannot speak up for themselves / So anyone can keep wild animals  
    **Answer:** Animals feel pain and need care, and they cannot speak up for themselves. *Why:* Animals can suffer, so the law protects them from cruelty. People may keep animals, but must care for them.
 12. (mcq) In the Bare Tub Test, what must be the same for both tubs?  
    Options: The soil, the tilt and the amount of water / The plants / Nothing  
@@ -727,31 +727,31 @@ I do not know if she will ever see it full of us again. But I know what we were 
    Options: At the bottom, near the soil / At the tip / In the roots only  
    **Answer:** At the bottom, near the soil. *Why:* The new leaf is made at the bottom and pushes up. That is why the cut tips stay flat as the leaf grows.
 14. (mcq) Why can erosion on a bare hillside make floods worse in the river below?  
-   Options: Silt fills the river bed, so it holds less water and spills over / Soil makes the rain heavier / Erosion makes the monsoon last longer  
+   Options: Soil makes the rain heavier / Silt fills the river bed, so it holds less water and spills over / Erosion makes the monsoon last longer  
    **Answer:** Silt fills the river bed, so it holds less water and spills over. *Why:* The washed-away soil settles in the river as silt. With less room, the river spills over its banks more easily.
 15. (mcq) Why do farmers on a hillside cut flat steps called terraces?  
-   Options: The steps slow the water so it soaks in and carries less soil / The steps make the hill taller / The steps keep the plants from growing  
+   Options: The steps make the hill taller / The steps keep the plants from growing / The steps slow the water so it soaks in and carries less soil  
    **Answer:** The steps slow the water so it soaks in and carries less soil. *Why:* On a steep slope water rushes down and drags soil with it. On steps it slows down and soaks into the ground.
 16. (mcq) A row of tall trees stands at the edge of a dry field. How does it protect the soil?  
-   Options: It slows the wind, so less soil blows away / It makes rain fall / It makes the soil heavier  
+   Options: It makes rain fall / It makes the soil heavier / It slows the wind, so less soil blows away  
    **Answer:** It slows the wind, so less soil blows away. *Why:* Wind picks up dry, bare soil. A windbreak slows the wind near the ground, so it carries less.
 17. (mcq) How does a forest help to stop both floods and dry streams?  
-   Options: Roots and leaves slow the rain, so it soaks in and reaches streams slowly / The trees drink all the rain / The trees make the rain stop  
+   Options: The trees drink all the rain / Roots and leaves slow the rain, so it soaks in and reaches streams slowly / The trees make the rain stop  
    **Answer:** Roots and leaves slow the rain, so it soaks in and reaches streams slowly. *Why:* In a forest, rain soaks into the soil and comes out slowly in streams. On bare ground it rushes away at once.
 18. (mcq) Why is a forest cooler than bare ground nearby?  
-   Options: Shade, and the water vapour that leaves give out / Forests are always higher up / Trees make the sun weaker  
+   Options: Forests are always higher up / Trees make the sun weaker / Shade, and the water vapour that leaves give out  
    **Answer:** Shade, and the water vapour that leaves give out. *Why:* Leaves block sunlight, and they also give out water vapour, which cools the air around them.
 19. (mcq) Why do many families respect cows, buffaloes and goats?  
-   Options: They give milk, curd and company, and need care every day / They never need food or water / They are bigger than people  
+   Options: They never need food or water / They give milk, curd and company, and need care every day / They are bigger than people  
    **Answer:** They give milk, curd and company, and need care every day. *Why:* These animals give a lot to a family and depend on the family for food, water and shade. Respect means caring for them every day.
 20. (mcq) Which animal helps people by carrying loads across the sand in the Thar desert?  
-   Options: A camel / A silkworm / A honeybee  
+   Options: A silkworm / A honeybee / A camel  
    **Answer:** A camel. *Why:* Camels are strong and can walk far in the desert. A silkworm gives silk, and a honeybee gives honey.
 21. (mcq) Why is a small cage bad for a bird?  
    Options: Birds are made to fly, and a small cage hurts her / Birds like to be alone / Birds do not need food in a cage  
    **Answer:** Birds are made to fly, and a small cage hurts her. *Why:* A bird's body is made for flying. In a small cage she cannot stretch her wings, and she can become ill and unhappy.
 22. (mcq) What does organic farming leave out?  
-   Options: Chemical fertiliser and pesticide / Water and sunlight / Seeds  
+   Options: Water and sunlight / Seeds / Chemical fertiliser and pesticide  
    **Answer:** Chemical fertiliser and pesticide. *Why:* Organic farming uses compost, cow dung manure and neem. Every farm still needs seeds, water and sunlight.
 
 ## Applications

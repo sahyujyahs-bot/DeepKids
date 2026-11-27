@@ -527,10 +527,10 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 7. (truefalse) In a Mexican wave, every person stays in their own seat.  
    **Answer:** True. *Why:* True. Each person only stands up and sits down. The standing up travels round the stadium.
 8. (mcq) You push the water in a tray the same way each time. The wave takes 5 seconds in 1 cm of water and 3 seconds in 4 cm. What does this show?  
-   Options: Deeper water carries the wave faster / Shallow water carries the wave faster / The depth makes no difference  
+   Options: Shallow water carries the wave faster / Deeper water carries the wave faster / The depth makes no difference  
    **Answer:** Deeper water carries the wave faster. *Why:* A shorter time means a faster wave. The wave was faster in 4 cm of water, and the push did not change, so the depth made the difference.
 9. (mcq) Which of these could you use as a medium for a wave at home?  
-   Options: A dupatta / A bucket of water / A spring toy / All of these  
+   Options: A dupatta / All of these / A bucket of water / A spring toy  
    **Answer:** All of these. *Why:* A wave can travel through cloth, water, a spring and many other materials.
 10. (mcq) You tap the side of a bowl of water and a bowl of set curd. Where do the waves last longer?  
    Options: In the water / In the curd / The same in both  
@@ -554,13 +554,13 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
    Options: 3 seconds / 9 seconds / 6 seconds  
    **Answer:** 9 seconds. *Why:* Each trip takes 3 seconds. Three trips take 3 + 3 + 3 = 9 seconds, or 3 times 3.
 3. (mcq) When you make a shake wave on a spring toy, how does a paper tag on one coil move?  
-   Options: Sideways and back, across the spring / Along the spring to the far end / It does not move at all  
+   Options: Along the spring to the far end / It does not move at all / Sideways and back, across the spring  
    **Answer:** Sideways and back, across the spring. *Why:* In a shake wave the coils move sideways and back while the bump travels along. The tag moves with its coil, then comes back.
 4. (mcq) In the straw wave machine, why did the wave slow down when it reached the straws with dough on their ends?  
-   Options: The tape was sticky / The heavy straws pass the twist on more slowly / The first push got tired  
+   Options: The heavy straws pass the twist on more slowly / The tape was sticky / The first push got tired  
    **Answer:** The heavy straws pass the twist on more slowly. *Why:* Heavy-ended straws are slower to start turning, so they pass the twist on more slowly. The material sets the speed, as the depth did in the tray.
 5. (mcq) A garden spider sits in the middle of her web. How does she know where an insect has landed?  
-   Options: She hears it buzzing / She sees it with her sharp eyes / She feels the waves of shaking along the threads with her legs  
+   Options: She hears it buzzing / She feels the waves of shaking along the threads with her legs / She sees it with her sharp eyes  
    **Answer:** She feels the waves of shaking along the threads with her legs. *Why:* Many web-building spiders see poorly. The spider rests her legs on the threads, and the waves from a struggling insect tell her which way to run.
 6. (order) Put these in order, from the water where a wave would travel slowest to the water where it would travel fastest.  
    **Answer:** ['water 1 cm deep', 'water 2 cm deep', 'water 4 cm deep']. *Why:* Deeper water carries a long water wave faster.
@@ -585,19 +585,19 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
    **Answer:** A side view of a tray with a wavy water surface, the top labelled crest and the bottom labelled trough.. *Why:* A strong drawing shows the water level, the wave shape, and both labels in the right places.
 ### Waves Inside the Earth (challenge) (challenge, 15 questions)
 1. (mcq) Two trays have water 4 cm deep. Tray A is 30 cm long and tray B is 60 cm long. The same wave goes there and back once in each. Which takes longer?  
-   Options: Tray A / Tray B, about twice as long / Both take the same time  
+   Options: Tray A / Both take the same time / Tray B, about twice as long  
    **Answer:** Tray B, about twice as long. *Why:* The depth is the same, so the wave goes at the same speed. Tray B is twice as long, so the trip takes about twice as long.
 2. (mcq) A tsunami travels about 800 km in an hour over the deep ocean. Near the shore it slows to about 40 km in an hour. Why does it slow down?  
-   Options: The water near the shore is shallow / The wave runs out of energy / The wind pushes against it  
+   Options: The wave runs out of energy / The wind pushes against it / The water near the shore is shallow  
    **Answer:** The water near the shore is shallow. *Why:* Like the wave in the Tray Test, a tsunami slows down in shallow water. It still carries most of its energy, which is why it grows tall and dangerous.
 3. (mcq) Sound goes faster through steel than through air. What does this tell you?  
-   Options: Steel sounds are louder / Sound is made of steel / The material sets the speed of a wave  
+   Options: Steel sounds are louder / The material sets the speed of a wave / Sound is made of steel  
    **Answer:** The material sets the speed of a wave. *Why:* Sound waves, like water waves, travel at a speed set by the material they pass through.
 4. (mcq) In 1929, a big earthquake shook New Zealand. Machines on the far side of the world recorded faint waves where a fully liquid core would leave none. What did Inge Lehmann conclude?  
-   Options: The machines were broken / The core has a solid ball inside it / The Earth is hollow  
+   Options: The core has a solid ball inside it / The machines were broken / The Earth is hollow  
    **Answer:** The core has a solid ball inside it. *Why:* Lehmann showed that a solid inner core would bend the waves so that some reach those places. More sensitive machines confirmed this in 1970.
 5. (mcq) You push the water in a tray once. The wave fades after one trip. What would help you see it for longer?  
-   Options: Use deeper water, so the bottom slows the wave less / Use a smaller tray / Push it sideways  
+   Options: Use a smaller tray / Push it sideways / Use deeper water, so the bottom slows the wave less  
    **Answer:** Use deeper water, so the bottom slows the wave less. *Why:* In very shallow water, rubbing against the bottom takes the wave's energy quickly. In deeper water the wave lasts longer. A torch at a slant also helps.
 6. (sort) Sort these waves by what they travel through.  
    **Answer:** a tsunami → Water; a temple bell's sound → Air; earthquake shaking → Solid; sunlight → Empty space too; ripples in a bucket → Water; a spider feeling her web shake → Solid. *Why:* A medium can be a liquid, a solid or a gas like air. Light is special: it can cross empty space.
@@ -627,25 +627,25 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
 
 ## Quiz
 1. (mcq) You float a leaf in the middle of a bucket and tap the water at one side. What does the leaf do?  
-   Options: It sails to the far side / It bobs up and down and stays near the middle / It sinks to the bottom  
+   Options: It sails to the far side / It sinks to the bottom / It bobs up and down and stays near the middle  
    **Answer:** It bobs up and down and stays near the middle. *Why:* The ripples pass under the leaf, so the leaf bobs up and down. The ripples carry energy, not water, so the leaf stays near the middle. 'Sails to the far side' is what happens when you blow on the water, which pushes the water itself.
 2. (mcq) What is a wave?  
-   Options: Water moving from one place to another / Energy travelling through a material while the material stays in place / Anything that goes up and down  
+   Options: Energy travelling through a material while the material stays in place / Water moving from one place to another / Anything that goes up and down  
    **Answer:** Energy travelling through a material while the material stays in place. *Why:* A wave is travelling energy. The material, such as water or a rope, moves a little and stays where it is. A swing goes up and down too, but nothing travels from it, so going up and down is not enough to make a wave.
 3. (mcq) You send the same wave across a tray. First the water is 1 cm deep, then 4 cm deep. When is the wave faster?  
-   Options: At 1 cm / At 4 cm / The same at both depths  
+   Options: At 4 cm / At 1 cm / The same at both depths  
    **Answer:** At 4 cm. *Why:* Deeper water carries this kind of wave faster. In 4 cm of water it goes about twice as fast as in 1 cm. If you picked 'the same', you may be thinking the push sets the speed. The push was the same both times, but the water was not.
 4. (mcq) You time a wave in a tray at different water depths. Why must you push the water the same way every time?  
-   Options: So that only the depth changes, and we know the depth made the difference / So the water does not spill / So the stopwatch works  
+   Options: So the water does not spill / So the stopwatch works / So that only the depth changes, and we know the depth made the difference  
    **Answer:** So that only the depth changes, and we know the depth made the difference. *Why:* In a fair test only one thing changes. If the push changed too, we could not tell whether the depth or the push made the wave faster.
 5. (mcq) Which of these is NOT a wave?  
-   Options: A Mexican wave at a cricket match / Ripples on a pond / Water flowing out of a tap  
+   Options: Water flowing out of a tap / A Mexican wave at a cricket match / Ripples on a pond  
    **Answer:** Water flowing out of a tap. *Why:* Water from a tap travels, so it is a flow, not a wave. In a Mexican wave and in ripples, the energy travels while the people or the water stay in place.
 6. (mcq) A Mexican wave runs round a stadium. What do the people do?  
-   Options: Each person stands up and sits down in their seat / People run round the stadium / Only the first person moves  
+   Options: People run round the stadium / Each person stands up and sits down in their seat / Only the first person moves  
    **Answer:** Each person stands up and sits down in their seat. *Why:* Each person stays in their seat. The standing up is passed from one person to the next, and that is what travels round.
 7. (mcq) What is the crest of a wave?  
-   Options: Its lowest point / Its highest point / The distance between two waves  
+   Options: Its highest point / Its lowest point / The distance between two waves  
    **Answer:** Its highest point. *Why:* The crest is the top of a wave. The lowest point is the trough. The distance from one crest to the next is the wavelength.
 8. (mcq) Ripples on a bucket have a crest every 2 cm. What is their wavelength?  
    Options: 1 cm / 2 cm / 4 cm  
@@ -654,7 +654,7 @@ Meenakshi grinned. "Yes. In deep water, the push is passed on faster. It is like
    Options: It slows down and grows taller / It speeds up and gets lower / It stops at once  
    **Answer:** It slows down and grows taller. *Why:* In shallow water the wave slows down, just as in the Tray Test. The water behind is still in deeper water and moving faster, so it catches up and the wave piles up taller.
 10. (mcq) Fishermen far out at sea, in deep water, sometimes did not notice the 2004 tsunami passing under their boats. Why?  
-   Options: In deep water the tsunami was low and very long / The tsunami was asleep / Boats cannot float on a tsunami  
+   Options: The tsunami was asleep / Boats cannot float on a tsunami / In deep water the tsunami was low and very long  
    **Answer:** In deep water the tsunami was low and very long. *Why:* In deep water a tsunami is less than a metre high and more than 100 kilometres long, so a boat only rises and falls very gently. It grows tall only near the shore.
 11. (mcq) Nobody can dig to the centre of the Earth. How can scientists find out what is inside?  
    Options: Dig a very deep hole / Time when earthquake waves arrive at machines around the world / Look through a telescope  

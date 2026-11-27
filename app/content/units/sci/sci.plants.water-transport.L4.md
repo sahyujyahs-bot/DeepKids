@@ -536,7 +536,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 5. (sort) Sort each situation by what happens to the water in the root.  
    **Answer:** soil that has just had fresh water → Water goes into the root; soil flooded with sea water → Water leaves the root; soil after a good flush of fresh rain → Water goes into the root; a pot with far too much fertiliser → Water leaves the root; soil dried to a pull number of 1.5 around a bean root at 1.2 → Water leaves the root; damp garden soil after a short shower → Water goes into the root. *Why:* Water goes into the root when the root holds water tighter than the soil does. It leaves when the soil holds water tighter. Salt, fertiliser and very dry soil all make the soil's hold tighter.
 6. (mcq) Where do more than 95 of every 100 drops of water that enter a plant's roots end up?  
-   Options: Used up to build the plant's body / Let out into the air through the leaves as vapour / Kept in the stem  
+   Options: Let out into the air through the leaves as vapour / Used up to build the plant's body / Kept in the stem  
    **Answer:** Let out into the air through the leaves as vapour. *Why:* Only 1 or 2 drops in every 100 are used to build the plant. Nearly all the rest travels through and leaves as vapour through the stomata.
 7. (order) Put these in order along the path of a drop of water, from the ground to the sky.  
    **Answer:** ['Wet soil', 'A root hair', 'A root cell', 'The xylem in the stem', 'A leaf cell', 'The air outside']. *Why:* The pull number rises at each step, so water flows from the soil, through the root, up the stem, into the leaf, and out into the air.
@@ -551,7 +551,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 12. (draw) Draw a cell in plain water and a cell in strong salt water. Use arrows to show which way water moves, and show how each cell looks.  
    **Answer:** The first cell is plump with arrows pointing into it. The second is shrunken with arrows pointing out of it.. *Why:* A strong drawing shows arrows going into the cell in plain water, which then swells, and arrows going out of the cell in salt water, which then shrinks and goes limp.
 13. (mcq) After many years of watering from a canal, a farmer finds a white crust on the soil. Where did the crust most likely come from?  
-   Options: Salt that was in the water and stayed when the water evaporated / Chalk that rose from deep in the ground / Dust blown in by the wind  
+   Options: Chalk that rose from deep in the ground / Dust blown in by the wind / Salt that was in the water and stayed when the water evaporated  
    **Answer:** Salt that was in the water and stayed when the water evaporated. *Why:* Canal and well water carries a little dissolved salt. When the water evaporates or goes up through plants, the salt stays behind and builds up. That is why white crusts form on salty fields.
 14. (perspective) Two children each have a pot plant. A bucket of salty pond water is nearby.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason with pull numbers or salt, and describes a fair test, such as watering two pots of the same plant, one with pond water and one with rain water, and watching them for days.. *Why:* Both are views a person could hold. The first child is right that a plant needs water. The second child is right that salt changes how tightly water is held. A fair test settles it.
@@ -559,7 +559,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
    **Answer:** Rain water, because it has almost no salt. The other three have a lot of dissolved salt.. *Why:* Sea water, flooded pond water and over-fertilised soil all hold their water tightly, because they have a lot of dissolved salt. Rain water holds its water loosely.
 ### Wet but thirsty (stretch) (stretch, 17 questions)
 1. (mcq) On a hot, dry afternoon, what do the guard cells of a bean leaf do to save water?  
-   Options: They lose their potassium and water, go flat, and shut the stomata / They swell and open the stomata wider / They make new water  
+   Options: They swell and open the stomata wider / They lose their potassium and water, go flat, and shut the stomata / They make new water  
    **Answer:** They lose their potassium and water, go flat, and shut the stomata. *Why:* A plant in danger of drying out makes a chemical signal. It tells the guard cells to let go of potassium. Water follows out, they go flat, and the holes close.
 2. (fill) A waxy coat on the outside of a leaf is called the ________.  
    **Answer:** cuticle. *Why:* The cuticle is waterproof. It cuts down how much water escapes through the leaf's skin, so most of the loss goes through the stomata.
@@ -594,14 +594,14 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 16. (odd) Which one is the odd one out, and why? A cucumber with salt on it, a field flooded with sea water, a pot with too much fertiliser, a dry seed in plain water.  
    **Answer:** The dry seed in plain water, because water goes into the seed. In the other three, water leaves the plant.. *Why:* A dry seed holds water extremely tightly, so the seed pulls water in and swells. The other three all have a place holding water tighter than the plant does.
 17. (mcq) An aphid pushes a tiny tube into a stem and sweet liquid oozes out. Which tubes did she tap?  
-   Options: The phloem / The xylem / The root hairs  
+   Options: The xylem / The phloem / The root hairs  
    **Answer:** The phloem. *Why:* Phloem sap is sweet because it carries sugar made in the leaves. Xylem sap is mostly water with a few minerals.
 ### Wet but thirsty (challenge) (challenge, 15 questions)
 1. (mcq) When the soil dries, a plant makes the sap in her root cells thicker. What does that do?  
-   Options: It raises her pull number, so she can still pull water from soil that holds it tightly / It stops the leaves losing water / It makes the soil wetter  
+   Options: It stops the leaves losing water / It makes the soil wetter / It raises her pull number, so she can still pull water from soil that holds it tightly  
    **Answer:** It raises her pull number, so she can still pull water from soil that holds it tightly. *Why:* Sugars and minerals make the sap hold water tighter. So the root can keep winning water from drier soil, up to a limit.
 2. (mcq) A bean root cell has a pull number of 1.2. The soil around it has a pull number of 1.5. What happens?  
-   Options: Water leaves the root and goes into the soil, and the bean wilts / Water goes into the root, and the bean grows / Nothing moves  
+   Options: Water goes into the root, and the bean grows / Nothing moves / Water leaves the root and goes into the soil, and the bean wilts  
    **Answer:** Water leaves the root and goes into the soil, and the bean wilts. *Why:* The soil's number is bigger, so water moves toward the soil. This is the wilting point. At this point a plant cannot recover without more water in the soil.
 3. (truefalse) If a plant wilts at midday on a hot day, the soil must be short of water.  
    **Answer:** False. *Why:* False. On a hot day the leaves can lose water faster than the roots can pull it in, even from wet soil. Many plants wilt at midday and recover in the evening.
@@ -616,7 +616,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 8. (count) 6 grams of salt are stirred into 200 millilitres of water. At the same strength, how much salt would there be in 1 litre? Sea water has about 35 grams in a litre. How many grams less than sea water is that?  
    **Answer:** 30 grams in a litre, which is 5 grams less than sea water. *Why:* 1 litre is 5 times 200 millilitres, so 5 times 6 grams is 30 grams. 35 take away 30 is 5 grams less per litre.
 9. (mcq) Why does the water in the tubes of a Rhizophora mangrove taste almost fresh?  
-   Options: Her roots keep most of the salt out as the water goes in / She has no salt in her body / The sea water around her is fresh  
+   Options: She has no salt in her body / Her roots keep most of the salt out as the water goes in / The sea water around her is fresh  
    **Answer:** Her roots keep most of the salt out as the water goes in. *Why:* Most Rhizophora mangroves block more than 90 of every 100 grains of salt at the root. The water that gets into the xylem is nearly fresh.
 10. (write) Using the words 'pull number', explain why a person who drinks sea water gets thirstier.  
    **Answer:** Sea water has a bigger pull number than the water in the person's body, so it holds its water tighter than the body does. The body loses water getting rid of the salt, so the person gets thirstier.. *Why:* A strong answer says that sea water is saltier than the body's fluids, so drinking it does not help the body keep water. The idea matches what happens to a plant in salty soil.
@@ -648,36 +648,36 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
    Options: From inside the mango cells / Out of the salt / Out of the air  
    **Answer:** From inside the mango cells. *Why:* Salt has no water to give. The mango cells are mostly water. The salt held water tighter than they did, so water left them.
 4. (mcq) What does a root hair do for a plant?  
-   Options: It gives a huge surface for taking in water and slips between soil grains / It carries sugar to the roots / It lets water vapour out  
+   Options: It carries sugar to the roots / It gives a huge surface for taking in water and slips between soil grains / It lets water vapour out  
    **Answer:** It gives a huge surface for taking in water and slips between soil grains. *Why:* Root hairs are thin tubes that grow out of root cells. They are so thin and so many that they make the root's surface very large.
 5. (mcq) Why must a root cell hold water tighter than the soil does?  
    Options: Because water only moves toward the tighter hold / Because roots like to be thirsty / Because the soil is always dry  
    **Answer:** Because water only moves toward the tighter hold. *Why:* If the soil held its water tighter, water would flow out of the root. So a root must keep her sap thick enough to hold water tighter than the soil does.
 6. (mcq) Along a plant's path from soil to sky, where is the biggest step in pull number?  
-   Options: Between the leaf and the dry air / Between the soil and the root / Between the root and the stem  
+   Options: Between the soil and the root / Between the root and the stem / Between the leaf and the dry air  
    **Answer:** Between the leaf and the dry air. *Why:* The leaf is about 1.5 and dry air is about 94. All the steps inside the plant are tiny compared with this.
 7. (mcq) What happens to a stoma when its guard cells lose water?  
-   Options: It shuts / It opens wider / It turns into a root hair  
+   Options: It opens wider / It shuts / It turns into a root hair  
    **Answer:** It shuts. *Why:* Guard cells hold the hole open only when they are plump with water. When they lose it they go flat and the hole shuts.
 8. (mcq) You want to see the stomata on a leaf. Which tool helps most, and where do you look?  
-   Options: A hand lens, looking closely at the underside of the leaf / A ruler, measuring the length of the leaf / A thermometer, held against the top of the leaf  
+   Options: A ruler, measuring the length of the leaf / A thermometer, held against the top of the leaf / A hand lens, looking closely at the underside of the leaf  
    **Answer:** A hand lens, looking closely at the underside of the leaf. *Why:* Stomata are too small to see clearly with the eye alone. A hand lens shows them as tiny openings, and many leaves have more of them on the underside. A ruler and a thermometer cannot show the openings.
 9. (truefalse) A rice seedling in a field flooded with sea water has plenty of water to drink.  
    **Answer:** False. *Why:* False. The water is there, but it is held tightly by the salt. The seedling cannot pull it into her roots.
 10. (mcq) A ring of bark is cut off a branch. The leaves above the ring stay green for weeks. What does this show?  
-   Options: Water goes up in the wood, which the ring did not cut / Leaves do not need water / Sugar goes up the wood  
+   Options: Leaves do not need water / Water goes up in the wood, which the ring did not cut / Sugar goes up the wood  
    **Answer:** Water goes up in the wood, which the ring did not cut. *Why:* The xylem is inside the wood, so it kept bringing water up. The ring cut the phloem in the bark, which carries sugar down.
 11. (mcq) Which of these helps a mangrove live in sea water?  
-   Options: Roots that keep most of the salt out / Leaves that stay white / Roots that never touch water  
+   Options: Leaves that stay white / Roots that never touch water / Roots that keep most of the salt out  
    **Answer:** Roots that keep most of the salt out. *Why:* Different mangroves use different methods. Some keep salt out at the root, some push it out through leaf glands, and some store it in old leaves.
 12. (mcq) Why do wet clothes dry slowly on a damp monsoon day?  
    Options: Damp air has a small pull number, so it pulls less water from the cloth / Rain adds more water to the clothes / Clothes dry only at night  
    **Answer:** Damp air has a small pull number, so it pulls less water from the cloth. *Why:* Water leaves the cloth toward the bigger pull number. Damp air has a smaller number than dry air, so the pull is weaker and drying is slow.
 13. (mcq) A cabbage leaf has a waxy coat on its top. What does the coat do?  
-   Options: It is waterproof, so less water escapes from the leaf / It is sweet, so insects come to the leaf / It lets water soak in through the top of the leaf  
+   Options: It is sweet, so insects come to the leaf / It lets water soak in through the top of the leaf / It is waterproof, so less water escapes from the leaf  
    **Answer:** It is waterproof, so less water escapes from the leaf. *Why:* The waxy coat keeps water in, so less water escapes through the leaf's skin. Wax pushes water away, which is why a drop sits as a bead. A coat that let water soak in would not cut water loss.
 14. (mcq) A student tests how salt affects sprouting with four cups of seeds. What must stay the same in all four cups?  
-   Options: The seeds, the towel, the amount of water and the place / The amount of salt / The number of sprouts  
+   Options: The amount of salt / The seeds, the towel, the amount of water and the place / The number of sprouts  
    **Answer:** The seeds, the towel, the amount of water and the place. *Why:* In a fair test only one thing changes. Here that is the salt. Everything else must be the same, so that salt is the only possible cause of any difference.
 
 ## Applications

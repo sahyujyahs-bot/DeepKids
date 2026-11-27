@@ -690,14 +690,14 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 3. (fill) A material that a magnet attracts is called ____.  
    **Answer:** ['magnetic']. *Why:* Magnetic means a magnet attracts it. It does not mean the thing is itself a magnet. A nail is magnetic, but on its own it is not a magnet.
 4. (mcq) Before testing, a girl guesses that a magnet will pick up a tiny piece of aluminium foil, because the foil is so light. What will happen?  
-   Options: The foil will not move, because aluminium is not magnetic, however light it is / The foil will jump up, because it is light / The foil will stick only if it is crumpled into a ball / The foil will jump up and then fall off  
+   Options: The foil will jump up, because it is light / The foil will not move, because aluminium is not magnetic, however light it is / The foil will stick only if it is crumpled into a ball / The foil will jump up and then fall off  
    **Answer:** The foil will not move, because aluminium is not magnetic, however light it is. *Why:* A magnet attracts what a thing is made of, not how light it is. Aluminium is not magnetic, so even a tiny scrap does not move. A heavy iron nail does. A strong answer says that weight is not what matters.
 5. (write) Your steel spoon sticks to a magnet, but your steel tumbler does not. Both are called steel. How can that be?  
    **Answer:** Steel is not one material. It is a mixture, called an alloy, of iron with other things. The spoon is made of a steel that is magnetic. The tumbler is made of a stainless steel with nickel added, and that mixture is not magnetic.. *Why:* A strong answer uses the idea that steel is a mixture, and that the exact mixture decides whether a magnet attracts it.
 6. (truefalse) A magnet must touch a paper clip to attract it.  
    **Answer:** False. *Why:* False. The magnetic force acts across a gap. A clip jumps up to a magnet before they touch.
 7. (mcq) A fridge magnet holds a drawing on the fridge door. What does the paper do?  
-   Options: It is magnetic / It glues the magnet on / It lets the magnetic force act through it on to the steel door / It makes the magnet stronger  
+   Options: It is magnetic / It glues the magnet on / It makes the magnet stronger / It lets the magnetic force act through it on to the steel door  
    **Answer:** It lets the magnetic force act through it on to the steel door. *Why:* Paper is not magnetic, so the magnetic force acts straight through it. The magnet and the steel door attract each other, and the paper is held between them. Many people think the magnet is holding the paper itself.
 8. (order) Put the steps of a magnet test in the right order.  
    **Answer:** ['Guess what will stick', 'Hold the magnet on each object for three seconds', 'Write the result in the table', 'Look for a pattern']. *Why:* We guess first, so that we notice when we are surprised. Then we test every object the same way, write down the results, and look for a pattern.
@@ -710,7 +710,7 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 12. (perspective) Selvi runs a scrap shop, a kabadi shop, in Madurai. She has a heap of iron nails, copper wire, aluminium cans, brass taps and old steel tumblers. Her family argue about how to sort it.  
    **Answer:** A strong answer uses what a magnet can and cannot do. Everyone uses the magnet first, because it lifts out iron and steel fast and surely. But the magnet cannot tell apart the things it does not attract: copper, brass, aluminium and the steel that does not stick. Those need eyes, colour and weight. A strong answer also weighs time against money. Priya's plan gets the best price but takes longest. Anil's is fastest but sells cheap. Selvi's is in between.. *Why:* There is no single right answer. It depends on how much time the shop has and how much each metal sells for. Real scrap shops use a magnet first and then sort by colour and weight.
 13. (mcq) A girl puts a magnet in a plastic bag and drags it through sand from the beach. Tiny black grains cling to the bag. What can she say?  
-   Options: The black grains are gold / The black grains are plastic / The sand is wet / The black grains have iron, or another magnetic material, in them  
+   Options: The black grains have iron, or another magnetic material, in them / The black grains are gold / The black grains are plastic / The sand is wet  
    **Answer:** The black grains have iron, or another magnetic material, in them. *Why:* A magnet attracts only magnetic materials, so the grains must contain one. Most are magnetite, a mineral made of iron and oxygen. The bag lets her pull the magnet out and drop the grains onto paper.
 14. (write) In the Great Magnet Test, you tested 16 objects with a magnet. Which result surprised you most? Write what you guessed, what happened, and what you learned.  
    **Answer:** For example: I guessed the steel tumbler would stick, because it is metal. It did not stick. I learned that some steels are not magnetic, so I must test, not guess.. *Why:* A strong answer has all three parts, and uses the child's own result.
@@ -719,13 +719,13 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
    **Answer:** 2. *Why:* A fridge magnet, a lodestone and a compass needle are all magnets. Each one has a north and a south pole and can pick up a pin by itself. A plain iron nail is magnetic, which means a magnet attracts it. But on its own it cannot pick up a pin. A strong answer explains the difference between 'magnetic' and 'a magnet'.
 ### Through things, and inside things (stretch, 15 questions)
 1. (mcq) In the Make a Nail a Magnet experiment, the steel nail picked up 6 clips while touching the magnet. The copper wire picked up none. What does the copper result tell you?  
-   Options: The copper wire was too thin / Copper cannot become a magnet, even when it touches one / The magnet was weak / Copper needs longer to become a magnet  
+   Options: Copper cannot become a magnet, even when it touches one / The copper wire was too thin / The magnet was weak / Copper needs longer to become a magnet  
    **Answer:** Copper cannot become a magnet, even when it touches one. *Why:* While it touched the magnet, the nail became a magnet for a while and held clips. Copper is not magnetic, so a magnet cannot turn it into one. The same magnet worked on the nail, so the magnet was not weak.
 2. (mcq) A magnet is held over a pin, first with a plastic plate between them, then with a steel plate that a magnet sticks to between them. What will happen each time?  
-   Options: The pin jumps up both times / The pin jumps up through the steel but not the plastic / Through the plastic, the pin jumps up. Through the steel plate, it hardly moves, because the magnet sticks to the steel plate instead / The pin does not move either time  
+   Options: The pin jumps up both times / The pin jumps up through the steel but not the plastic / The pin does not move either time / Through the plastic, the pin jumps up. Through the steel plate, it hardly moves, because the magnet sticks to the steel plate instead  
    **Answer:** Through the plastic, the pin jumps up. Through the steel plate, it hardly moves, because the magnet sticks to the steel plate instead. *Why:* Plastic is not magnetic, so the force acts through it. A magnetic steel plate is attracted itself, and it takes up most of the magnet's force, so very little reaches the pin. Try it with a plastic plate and a steel plate that a magnet sticks to.
 3. (mcq) In the Through the Paper experiment, the bar magnet worked through 30 sheets, and the small fridge magnet worked through 10. Someone says, 'So the bar magnet is exactly 3 times as strong.' What is the best answer?  
-   Options: Yes, 30 is 3 times 10, so it is exactly 3 times as strong / No, the fridge magnet is stronger / No, paper is magnetic / The bar magnet is stronger, but the sheets do not tell us exactly how many times stronger  
+   Options: Yes, 30 is 3 times 10, so it is exactly 3 times as strong / No, the fridge magnet is stronger / The bar magnet is stronger, but the sheets do not tell us exactly how many times stronger / No, paper is magnetic  
    **Answer:** The bar magnet is stronger, but the sheets do not tell us exactly how many times stronger. *Why:* Counting sheets puts the magnets in order: more sheets means stronger. But a magnet's force falls quickly with distance, not evenly, so the numbers do not say exactly 'how many times'. A strong answer says what the test can tell us and what it cannot.
 4. (fill) A tiny region inside iron where the tiny magnets of all the atoms point the same way is called a ____.  
    **Answer:** ['domain']. *Why:* A domain holds billions of atoms, with their tiny magnets all pointing the same way. A plain nail is full of domains that point in different directions.
@@ -745,7 +745,7 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
    Options: Nothing, because water blocks magnetism / The pin floats to the top by itself / The pin follows it up the side, because the force acts through glass and water / The glass becomes a magnet  
    **Answer:** The pin follows it up the side, because the force acts through glass and water. *Why:* Glass and water are not magnetic, so the magnetic force acts through them. The pin follows the magnet up the inside of the glass. A strong answer says that the force needs no gap of air.
 12. (mcq) A girl drops her bar magnet on a hard floor again and again. Later it picks up fewer pins. What is the best explanation?  
-   Options: The knocks turned some of its domains out of line, so it got weaker / The floor took the iron out of the magnet / The magnet became non-magnetic metal / Pins get heavier over time  
+   Options: The floor took the iron out of the magnet / The magnet became non-magnetic metal / The knocks turned some of its domains out of line, so it got weaker / Pins get heavier over time  
    **Answer:** The knocks turned some of its domains out of line, so it got weaker. *Why:* Hard knocks turn some domains out of line, so the magnet gets weaker. Nothing is taken away. The same atoms are there, but fewer of their tiny magnets point the same way.
 13. (truefalse) A rusty iron nail still sticks to a magnet.  
    **Answer:** True. *Why:* True. Brown rust is only very weakly magnetic, but there is iron under the rust, and the magnet attracts that.
@@ -755,7 +755,7 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
    **Answer:** True. *Why:* True. Aluminium is attracted extremely weakly. A fridge magnet is too weak for us to notice it, but a much stronger magnet shows it. So 'non-magnetic' really means 'too weak for us to notice'.
 ### Think like a magnet scientist (challenge, 15 questions)
 1. (mcq) Andre Geim, a scientist, made a live frog float inside a very strong magnet. What does this show?  
-   Options: Frogs contain a lot of iron / The magnet is a lodestone / Even things we call non-magnetic respond a tiny bit to a magnet / Frogs are lighter than air  
+   Options: Even things we call non-magnetic respond a tiny bit to a magnet / Frogs contain a lot of iron / The magnet is a lodestone / Frogs are lighter than air  
    **Answer:** Even things we call non-magnetic respond a tiny bit to a magnet. *Why:* A magnet very weakly repels water and many other things. A huge magnet repels a frog strongly enough to hold the frog up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed.
 2. (write) The Earth's core is mostly iron, and a compass points north. Someone says, 'So there must be a giant iron magnet in the middle of the Earth.' What is wrong with this idea?  
    **Answer:** The core is far hotter than 770 degrees Celsius, the Curie point of iron. Above it, iron cannot stay a magnet, because its tiny magnets cannot stay lined up. So the field must be made another way. Scientists think it comes from liquid iron flowing in the outer core.. *Why:* A strong answer uses the Curie point, and says what scientists think makes the field instead.
@@ -764,7 +764,7 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 4. (truefalse) A coin with nickel in it must stick to a magnet.  
    **Answer:** False. *Why:* False. What matters is the whole mixture. Cupronickel, copper with about a quarter nickel, is used for coins in many countries, and a magnet does not attract it. Many newer Indian coins are made of a steel that does stick. Test the coins in your purse to find out.
 5. (mcq) A magnet cannot tell a brass key from an aluminium key. Which test could?  
-   Options: Use a bigger magnet / Heat both red-hot / Soak both in water / Feel how heavy each one is, and look at its colour  
+   Options: Feel how heavy each one is, and look at its colour / Use a bigger magnet / Heat both red-hot / Soak both in water  
    **Answer:** Feel how heavy each one is, and look at its colour. *Why:* Brass is heavier and yellow. Aluminium is lighter and silver-grey. A bigger magnet still attracts neither of them. Here a magnet is the wrong tool, and a strong answer picks a test that looks at a different property.
 6. (write) Plan a fair test to find out which of two magnets is stronger, using sheets of paper. Say what you will change, what you will keep the same, and what you will count.  
    **Answer:** I will change only the magnet. I will keep the same paper clip, the same kind of paper and the same table. I will count how many sheets each magnet can attract the clip through. I will try each magnet three times, in case one try is a fluke.. *Why:* A fair test changes one thing, keeps everything else the same, and repeats each try.
@@ -781,7 +781,7 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 12. (order) Put these in order, to show what happens when a magnet comes near a plain nail and then goes away.  
    **Answer:** ['The magnet comes close to the nail', "The nail's domains turn to point the magnet's way", 'The nail is a magnet for a while, and the two attract', 'The magnet is taken away', 'Most domains turn back, and the nail stops being a magnet']. *Why:* Each step causes the next. This is why a magnet attracts a nail that is not a magnet itself.
 13. (mcq) Michael Faraday hung a bar of heavy glass between the two ends of a very strong electromagnet. When he switched it on, the glass turned to lie across the gap. An iron bar would have turned the other way. What does this show?  
-   Options: Glass is a magnet / Glass contains iron / Glass is pushed away very weakly by a magnet, unlike iron / The electromagnet was broken  
+   Options: Glass is a magnet / Glass is pushed away very weakly by a magnet, unlike iron / Glass contains iron / The electromagnet was broken  
    **Answer:** Glass is pushed away very weakly by a magnet, unlike iron. *Why:* Iron is drawn in towards the magnet's ends, so an iron bar points along the gap. The glass was pushed away from both ends, so it lay across the gap. Faraday found that almost every material responds to a magnet, in one way or the other.
 14. (mcq) Iron stops being magnetic at about 770 degrees Celsius, and nickel at about 358. A steel nail and a nickel strip are both heated to 500 degrees. Which one can a magnet still attract?  
    Options: Only the nickel strip / Both of them / Only the steel nail / Neither of them  
@@ -796,25 +796,25 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
 
 ## Quiz
 1. (mcq) What does non-magnetic mean?  
-   Options: It is not a metal / A magnet does not attract it, or attracts it too weakly to notice / It is broken / It is too heavy  
+   Options: A magnet does not attract it, or attracts it too weakly to notice / It is not a metal / It is broken / It is too heavy  
    **Answer:** A magnet does not attract it, or attracts it too weakly to notice. *Why:* Non-magnetic means a magnet does not attract it. Picking 'not a metal' often means thinking all metals are magnetic. Aluminium is a metal, and it is non-magnetic.
 2. (mcq) A girl predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?  
-   Options: Test again until it sticks / Say the magnet is broken / Write down what happened and change her idea / Hide the diya  
+   Options: Test again until it sticks / Say the magnet is broken / Hide the diya / Write down what happened and change her idea  
    **Answer:** Write down what happened and change her idea. *Why:* A surprise teaches us something. We write down what happened, and change our idea. Picking 'test again until it sticks' means wanting to be right more than wanting to learn.
 3. (mcq) Which metals does a magnet attract?  
-   Options: Iron, nickel and cobalt / Gold, silver and copper / Aluminium, brass and tin / All metals  
+   Options: Gold, silver and copper / Aluminium, brass and tin / All metals / Iron, nickel and cobalt  
    **Answer:** Iron, nickel and cobalt. *Why:* Only iron, nickel and cobalt are magnetic at room temperature. Picking 'all metals' is the most common mistake about magnets.
 4. (mcq) In which pair does a magnet attract BOTH things?  
-   Options: A copper wire and a steel nail / A steel nail and a steel paper clip / Aluminium foil and a steel pin / A brass key and a steel pin  
+   Options: A steel nail and a steel paper clip / A copper wire and a steel nail / Aluminium foil and a steel pin / A brass key and a steel pin  
    **Answer:** A steel nail and a steel paper clip. *Why:* The nail and the clip both contain iron. In every other pair, one of the two things is copper, aluminium or brass, which a magnet does not attract.
 5. (mcq) Look at the table. What does it show about other metals, such as aluminium, copper and brass?  
-   Options: All of them stuck / Half of them stuck / None of them stuck / Only the shiny ones stuck  
+   Options: All of them stuck / None of them stuck / Half of them stuck / Only the shiny ones stuck  
    **Answer:** None of them stuck. *Why:* In the table, 0 of the other metals stuck and 4 did not stick. Picking 'all of them stuck' often means believing that all metals are magnetic, before looking at the results.
 6. (mcq) A girl finds that the bottom of her steel pan sticks to a magnet, but its sides do not. What is the best explanation?  
-   Options: The sides are plastic / Magnets only stick to the bottoms of things / The magnet is too weak for the sides / The bottom has a disc of magnetic steel, and the sides are a steel mixture that is not magnetic  
+   Options: The sides are plastic / The bottom has a disc of magnetic steel, and the sides are a steel mixture that is not magnetic / Magnets only stick to the bottoms of things / The magnet is too weak for the sides  
    **Answer:** The bottom has a disc of magnetic steel, and the sides are a steel mixture that is not magnetic. *Why:* Steel is a mixture, and the mixtures differ. Many pans have sides of nickel-rich stainless steel, with a magnetic steel disc fixed to the bottom so they work on an induction stove. Picking 'plastic' often means thinking a thing that does not stick cannot be metal.
 7. (mcq) What is brass made from?  
-   Options: Copper and zinc / Iron and carbon / Copper and tin / Aluminium and iron  
+   Options: Iron and carbon / Copper and zinc / Copper and tin / Aluminium and iron  
    **Answer:** Copper and zinc. *Why:* Brass is copper and zinc. Steel is iron and carbon. Bronze is copper and tin. Neither copper nor zinc is magnetic, and brass is not magnetic either.
 8. (mcq) A girl puts a pin on her open palm and holds a magnet under her hand. When she moves the magnet, the pin moves too. What does this show?  
    Options: Her hand is magnetic / The magnetic force acts through her hand / The pin is stuck to her skin / The magnet has to touch the pin  
@@ -823,16 +823,16 @@ So Zainab taught her. She guided her grandmother's fingers until Dadi could feel
    Options: Paper is magnetic / The clip got heavier / The magnet is too far away to attract the clip / The magnet got hot  
    **Answer:** The magnet is too far away to attract the clip. *Why:* A magnet's force gets weaker quickly as the gap grows. The thick stack does not block the force. It makes the gap too big.
 10. (mcq) A magnet sticks to a gold-coloured chain. What is the best conclusion?  
-   Options: It is pure gold / It is silver / It is plastic / It is not pure gold  
+   Options: It is pure gold / It is not pure gold / It is silver / It is plastic  
    **Answer:** It is not pure gold. *Why:* Gold is not magnetic. So a chain that sticks must have a magnetic metal in it, and it cannot be pure gold. Picking 'pure gold' often means thinking magnets are attracted to precious metals.
 11. (mcq) A key does not stick to a magnet. Which is the best thing to say?  
-   Options: It might be brass, aluminium, copper or a steel that does not stick. We cannot tell which / It is brass / It is plastic / It is steel  
+   Options: It is brass / It is plastic / It is steel / It might be brass, aluminium, copper or a steel that does not stick. We cannot tell which  
    **Answer:** It might be brass, aluminium, copper or a steel that does not stick. We cannot tell which. *Why:* A magnet only tells us whether it attracts a thing. A magnet does not attract many different metals, so a no tells us little. A magnet is best at saying yes to iron, nickel and cobalt.
 12. (mcq) How does a scrap dealer use a magnet?  
-   Options: To find gold / To lift iron and steel out of a mixed heap / To melt metal / To clean metal  
+   Options: To find gold / To melt metal / To clean metal / To lift iron and steel out of a mixed heap  
    **Answer:** To lift iron and steel out of a mixed heap. *Why:* A big magnet lifts iron and steel and leaves the rest. Aluminium, copper and brass, which are worth more, are sorted by other tests.
 13. (mcq) Why is iron magnetic?  
-   Options: It is shiny / It is heavy / The tiny magnets of its atoms point the same way, in domains / It is very hard  
+   Options: The tiny magnets of its atoms point the same way, in domains / It is shiny / It is heavy / It is very hard  
    **Answer:** The tiny magnets of its atoms point the same way, in domains. *Why:* Each iron atom is a tiny magnet, and the tiny magnets of neighbouring atoms point the same way, in domains. A nearby magnet turns the domains to point its way, and then attracts the iron. Picking 'shiny' or 'heavy' often means choosing something we can see, not what is inside.
 14. (mcq) Why does a red-hot steel nail not stick to a magnet?  
    Options: Heat jiggles the atoms so much that the tiny magnets cannot line up / It is too bright / It has become aluminium / It has become a magnet  

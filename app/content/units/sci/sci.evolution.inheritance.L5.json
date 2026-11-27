@@ -648,11 +648,11 @@
       "t": "mcq",
       "q": "Identical twins have the same DNA but different fingerprints. What does this show?",
       "options": [
-       "Fingerprints are not shaped by genes alone",
        "Fingerprints have nothing to do with genes",
-       "The twins are not really identical"
+       "The twins are not really identical",
+       "Fingerprints are not shaped by genes alone"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The general pattern of a fingerprint runs in families, so genes play a part. The fine detail forms from small chance differences before birth. If you chose 'nothing to do with genes', remember that relatives often share the same kind of pattern."
      },
      "parent": "Eleven of the 20 cards belong in the middle. That is the point of the game. Very few features come from one side only.",
@@ -956,11 +956,11 @@
       "t": "mcq",
       "q": "In the Sibling Share Test, the coin is tossed for every pair of chromosomes. What does the coin toss stand for?",
       "options": [
-       "Chance decides which of a pair goes into the egg or sperm",
        "The mother chooses her best chromosomes",
-       "The baby picks the chromosomes they want"
+       "The baby picks the chromosomes they want",
+       "Chance decides which of a pair goes into the egg or sperm"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When an egg cell or a sperm cell forms, each pair of chromosomes separates, and which partner goes in is chance. If you chose 'the mother chooses', remember that nobody can pick. That is why each child is a surprise."
      },
      "parent": "Check that each child has exactly 6 boxes in red or yellow and 6 in blue or green. That is half from each parent, every time.",
@@ -1206,11 +1206,11 @@
       "t": "mcq",
       "q": "In the Two Bulbs, Two Homes Test, why do you compare two bowls of the same bulb?",
       "options": [
-       "Same DNA, so any difference comes from the place",
        "To have spare cloves if some rot",
+       "Same DNA, so any difference comes from the place",
        "Because one bulb is not enough to eat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cloves of one bulb are clones. If the warm bowl and the cold bowl of bulb A differ, DNA cannot be the cause, so the place must be. If you chose 'spare cloves', remember that the two bowls sit in different homes on purpose."
      },
      "parent": "Shoots grown in the dark are pale yellow. That is expected, and it is the same for all four bowls.",
@@ -1369,11 +1369,11 @@
       "t": "mcq",
       "q": "In the haemoglobin gene, the codon GAG becomes GTG. What happens to the protein chain?",
       "options": [
-       "One amino acid changes, from Glu to Val",
        "Every amino acid after it changes",
-       "The chain stops at that point"
+       "The chain stops at that point",
+       "One amino acid changes, from Glu to Val"
       ],
-      "a": 0,
+      "a": 2,
       "why": "GTG stands for Val, so only the seventh amino acid changes. The codons before and after are read as before, because the letters still fall into the same threes. If you chose 'every amino acid after it', remember that a letter was swapped, not added or removed."
      },
      "parent": "The seventh codon is now GTG, which is Val. Nothing else changes. This is a real mutation. It makes haemoglobin molecules stick together in rods, and the rods bend red blood cells into a curved shape. A person who inherits it from both parents has sickle cell disease. A person with one changed copy is usually well. Now try changing letter 21 from G to A. The codon becomes GAA, which is still Glu. So some changes do nothing at all.",
@@ -1442,11 +1442,11 @@
       "t": "mcq",
       "q": "Any two people match in about 999 of every 1,000 DNA letters. What does this tell us?",
       "options": [
-       "People who look very different are still almost the same underneath",
        "People who look alike have the same DNA",
-       "Only family members share DNA"
+       "Only family members share DNA",
+       "People who look very different are still almost the same underneath"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The features we notice, such as skin colour and hair, depend on a tiny share of the letters. Almost all of the rest is the same in everyone. If you chose 'only family members', remember that every human shares most of their DNA with every other human."
      },
      "parent": "The answer is about 3 million letters. It is a large number and a tiny share at the same time. Most of the differences are found among people of the same region, not between regions. Two neighbours can differ as much as two people from different continents.",
@@ -1554,11 +1554,11 @@
       "t": "mcq",
       "q": "Identical twins match in a feature 80 times in 100. Fraternal twins match 40 times in 100. What does this show?",
       "options": [
-       "Genes matter a lot, and something else matters too",
        "Only genes matter for this feature",
-       "Only the home matters for this feature"
+       "Only the home matters for this feature",
+       "Genes matter a lot, and something else matters too"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Identical twins match twice as often, so genes make a big difference. But they do not match every time, and they have the same DNA. So something besides genes is also at work. If you chose 'only genes', look again at the 20 identical pairs who did not match."
      },
      "parent": "If identical twins are treated more alike, some of their likeness comes from surroundings and gets counted as genes. Scientists argue about how much this matters. It is one reason to check twin results against adopted children.",
@@ -1707,11 +1707,11 @@
       "t": "mcq",
       "q": "A family has four daughters and no sons. What is the best explanation?",
       "options": [
-       "Chance: an X sperm arrived first each time",
        "The mother's body makes only girls",
-       "The family ate the wrong food"
+       "The family ate the wrong food",
+       "Chance: an X sperm arrived first each time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each baby has one chance in two of being XX, whatever came before. Four the same in a row, girls or boys, happens in about 1 family in 8. Every egg carries an X, so the mother's cells cannot be the cause. If you chose 'the mother's body', look at your egg column again."
      },
      "parent": "Four XX in a row has a chance of 1 in 16, and so has four XY. So about 1 family of four in 8 has children all of one sex, by chance alone.",
@@ -1901,11 +1901,11 @@
       "t": "mcq",
       "q": "The real genetic code has 64 codons for 20 amino acids and stop. Why is having spare codons useful?",
       "options": [
-       "Several codons mean the same thing, so some mutations change nothing",
        "The spare codons are never used",
+       "Several codons mean the same thing, so some mutations change nothing",
        "Spare codons make the DNA shorter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Most amino acids have two or more codons, and these often differ only in the last letter. So a mutation in that letter leaves the protein the same. If you chose 'never used', remember that GAG and GAA are both in use, and both mean Glu."
      },
      "parent": "Scientists now store photographs and books in DNA made in the laboratory, using codes of this kind. In 2012 a team led by George Church wrote a whole book in DNA.",
@@ -1925,12 +1925,12 @@
      "t": "mcq",
      "p": "Which four letters is DNA written in?",
      "opts": [
-      "A, T, C and G",
       "A, B, C and D",
       "X and Y only",
+      "A, T, C and G",
       "0 and 1"
      ],
-     "a": 0,
+     "a": 2,
      "why": "DNA has four bases, called A, T, C and G. X and Y are the names of two chromosomes, not of DNA letters."
     },
     {
@@ -2091,12 +2091,12 @@
      "t": "mcq",
      "p": "A mutation changes the codon GAG to GAA. Both mean the amino acid Glu. What happens to the protein?",
      "opts": [
-      "Nothing changes",
       "One amino acid changes",
       "The chain stops early",
+      "Nothing changes",
       "The protein doubles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Several codons can stand for the same amino acid. If the new codon means the same thing, the protein is the same. Many mutations are like this."
     },
     {
@@ -2137,12 +2137,12 @@
      "t": "mcq",
      "p": "Cloves from one garlic bulb grow long shoots in a warm place and short shoots in the fridge. Why?",
      "opts": [
-      "Same DNA, different surroundings",
       "The cold changed their DNA letters",
       "The cloves had different parents",
+      "Same DNA, different surroundings",
       "Garlic has no DNA"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Cloves of one bulb are clones. The DNA is the same, so the difference comes from the warmth. The cold slows growth. It does not rewrite the letters.",
      "how": "e2"
     },
@@ -2212,24 +2212,24 @@
      "t": "mcq",
      "p": "Identical twins always match in a feature. Fraternal twins often differ. What mostly sets this feature?",
      "opts": [
-      "Genes",
       "The shared home",
+      "Genes",
       "Chance alone",
       "School"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both kinds of twins share a home. Only identical twins share all their DNA. So if only they always match, genes are setting the feature."
     },
     {
      "t": "mcq",
      "p": "Identical twins and fraternal twins match equally often in a feature. What mostly sets this feature?",
      "opts": [
-      "Something the twins share at home",
       "Genes",
+      "Something the twins share at home",
       "The Y chromosome",
       "Mutations"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If more shared DNA brings no more likeness, genes are not making the difference. What both kinds of twins share is their home."
     },
     {
@@ -2285,12 +2285,12 @@
      "t": "mcq",
      "p": "In one group of people, the heritability of height is 80 in 100. What does this mean?",
      "opts": [
-      "Most height differences there go with DNA differences",
       "80 per cent of your height comes from genes",
       "Height cannot be changed by food",
+      "Most height differences there go with DNA differences",
       "80 people in 100 are tall"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heritability describes the differences in one group in one place. It says nothing about one person, and it changes if the surroundings change."
     },
     {
@@ -2384,12 +2384,12 @@
      "t": "mcq",
      "p": "What is an epigenetic mark?",
      "opts": [
-      "A chemical tag that helps switch genes on or off",
       "A changed DNA letter",
       "An extra chromosome",
-      "A kind of amino acid"
+      "A kind of amino acid",
+      "A chemical tag that helps switch genes on or off"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A tag sits on the DNA or on the proteins around it. The letters stay the same. A changed letter is a mutation, which is a different thing."
     },
     {
@@ -2448,12 +2448,12 @@
      "t": "mcq",
      "p": "Bacteria given the human insulin gene make human insulin. Why does this work?",
      "opts": [
-      "Almost all living beings read DNA with the same code",
       "Bacteria are tiny humans",
       "Insulin is not a protein",
-      "The gene turns the bacteria into human cells"
+      "The gene turns the bacteria into human cells",
+      "Almost all living beings read DNA with the same code"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A codon means the same amino acid in a bacterium, a banyan and a person. So a bacterium's ribosomes read the human gene correctly."
     },
     {
@@ -2504,12 +2504,12 @@
      "t": "mcq",
      "p": "A mother has blood group A and a father has group B. Their child has group O. How?",
      "opts": [
-      "Each parent carried a hidden O version",
       "The child's blood changed after birth",
+      "Each parent carried a hidden O version",
       "A mutation must have happened",
       "Blood groups are not inherited"
      ],
-     "a": 0,
+     "a": 1,
      "why": "O is recessive. A parent with one A and one O has group A but can pass on the O. A child who gets O from both has group O."
     },
     {
@@ -2602,12 +2602,12 @@
    "t": "mcq",
    "p": "What does one codon stand for?",
    "opts": [
-    "One amino acid, or 'stop'",
     "One whole protein",
     "One chromosome",
-    "One parent"
+    "One parent",
+    "One amino acid, or 'stop'"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A codon is three DNA letters. Each one names an amino acid or tells the ribosome to stop. A whole protein needs many codons.",
    "outcome": 0
   },
@@ -2615,12 +2615,12 @@
    "t": "mcq",
    "p": "Which of these is the biggest?",
    "opts": [
-    "A chromosome",
     "A gene",
     "A codon",
+    "A chromosome",
     "A DNA letter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A chromosome is one long piece of DNA that holds hundreds or thousands of genes. A gene holds many codons, and a codon is three letters.",
    "outcome": 0
   },
@@ -2628,12 +2628,12 @@
    "t": "mcq",
    "p": "One DNA letter changes inside a gene. What can happen to the protein?",
    "opts": [
-    "Nothing, or one amino acid changes, or an early stop",
     "It always becomes harmful",
     "It always stays the same",
-    "The gene disappears"
+    "The gene disappears",
+    "Nothing, or one amino acid changes, or an early stop"
    ],
-   "a": 0,
+   "a": 3,
    "why": "It depends on the new codon. It may mean the same amino acid, a different one, or stop. Choosing 'always harmful' forgets that many mutations change nothing.",
    "outcome": 1
   },
@@ -2641,12 +2641,12 @@
    "t": "mcq",
    "p": "Why do two children of the same parents get different DNA?",
    "opts": [
-    "Chance picks one of each pair for every egg and sperm",
     "The second child gets what is left over",
+    "Chance picks one of each pair for every egg and sperm",
     "Parents' DNA changes every year",
     "Each child chooses their genes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each egg and each sperm gets one chromosome from every pair, picked by chance. So each child starts from a different mix. Nothing is used up.",
    "outcome": 2
   },
@@ -2654,12 +2654,12 @@
    "t": "mcq",
    "p": "How much of their parents' DNA copies do a sister and brother share?",
    "opts": [
-    "About half on average, but it varies",
     "Exactly half, always",
     "All of it",
+    "About half on average, but it varies",
     "None of it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The average is half. Real pairs of siblings run from about 37 to about 62 in every 100. Choosing 'exactly half' mixes up siblings with a parent and child.",
    "outcome": 2
   },
@@ -2687,12 +2687,12 @@
    "t": "mcq",
    "p": "Which chromosome does every egg cell of a human mother carry?",
    "opts": [
-    "An X",
     "A Y",
     "Either X or Y",
+    "An X",
     "Neither"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mother's cells have two X chromosomes, so each egg gets an X. The sperm carries an X or a Y, and that settles XX or XY.",
    "outcome": 4
   },
@@ -2700,12 +2700,12 @@
    "t": "mcq",
    "p": "Which of these shows the same kind of DNA giving two different results?",
    "opts": [
-    "A queen bee and a worker bee",
     "A cat and a dog",
     "A pea plant and a rice plant",
+    "A queen bee and a worker bee",
     "A horse and a donkey"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A queen and a worker grow from the same kind of egg and differ because of feeding. The other pairs are different species with different DNA.",
    "outcome": 5
   },
@@ -2726,12 +2726,12 @@
    "t": "mcq",
    "p": "Why is 'how many centimetres of my height come from genes?' a question with no answer?",
    "opts": [
-    "Every centimetre needs both genes and surroundings",
     "Nobody has measured it yet",
     "Height has nothing to do with genes",
+    "Every centimetre needs both genes and surroundings",
     "Height comes only from food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Genes and surroundings work together, like the length and width of a rectangle. You cannot split the area into a part from each side.",
    "outcome": 6
   },
@@ -2739,12 +2739,12 @@
    "t": "mcq",
    "p": "Twins of both kinds nearly always speak the same language as their twin. What does this show?",
    "opts": [
-    "Surroundings set which language you speak",
     "Genes set which language you speak",
     "Twins cannot learn languages",
-    "Language is set by chance"
+    "Language is set by chance",
+    "Surroundings set which language you speak"
    ],
-   "a": 0,
+   "a": 3,
    "why": "If genes set it, identical twins would match more often than fraternal twins. Both kinds match equally, because both share a home.",
    "outcome": 7
   }

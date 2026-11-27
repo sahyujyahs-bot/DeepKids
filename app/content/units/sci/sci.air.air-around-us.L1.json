@@ -624,11 +624,11 @@
       "t": "mcq",
       "q": "The bag puffed up under the bed and inside the empty bucket. What does that show?",
       "options": [
-       "Those places had no air",
        "There is air even in places that look empty",
+       "Those places had no air",
        "The bag made the air"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The flat, twisted bag stayed flat because nothing could get in. The open bag puffed up everywhere because it scooped up air that was already there. Air fills every space that looks empty."
      }
     }
@@ -722,11 +722,11 @@
       "t": "mcq",
       "q": "The grown-up never touched your skin. What did you feel?",
       "options": [
-       "Moving air pushed by the notebook",
        "Nothing at all",
-       "The notebook touching you"
+       "The notebook touching you",
+       "Moving air pushed by the notebook"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The notebook pushed the air, and the moving air pressed on your skin. You felt air you could not see."
      },
      "parent": "Many children feel the air best on the cheek and on the arm, where tiny hairs bend in the moving air. The thick skin on the sole of the foot often feels it least. Your child's results may differ, and that is fine."
@@ -810,11 +810,11 @@
       "t": "mcq",
       "q": "You sat still and felt no air. Then you waved and felt air at once. What does that show?",
       "options": [
-       "The air came in when you waved",
        "The air was there all the time, and you felt it when it moved",
+       "The air came in when you waved",
        "There is no air in a still room"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Waving does not make air. It moves the air that was already there. You feel air when it moves against your skin."
      }
     }
@@ -1189,11 +1189,11 @@
    "t": "mcq",
    "p": "Where is there air?",
    "opts": [
-    "Only outside",
     "All around us, indoors and outdoors",
+    "Only outside",
     "Only near a fan"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Air is everywhere around us, even in a still room and under the bed. Outside, we often feel it more, because it moves.",
    "outcome": 0
   },
@@ -1214,10 +1214,10 @@
    "p": "You catch air in a bag and twist it shut. Then you press the bag. What happens?",
    "opts": [
     "It goes flat at once",
-    "It pushes back on your hands",
-    "It turns into water"
+    "It turns into water",
+    "It pushes back on your hands"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The air inside takes up room, so the bag pushes back like a soft pillow. A bag with no air goes flat.",
    "outcome": 3,
    "how": "e1"
@@ -1238,11 +1238,11 @@
    "t": "mcq",
    "p": "Why do you feel air on your face when you run, but not when you sit still?",
    "opts": [
-    "Running moves you through the air, so it rushes against your skin",
     "Running makes new air",
+    "Running moves you through the air, so it rushes against your skin",
     "Air only comes out when you run"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The air is there all the time. When you run, you move through it, and it presses on your face.",
    "outcome": 1
   },
@@ -1250,11 +1250,11 @@
    "t": "mcq",
    "p": "You guess that a closed cupboard has no air. Then you test it, and the bag puffs up. What do you do with your guess?",
    "opts": [
-    "Say it was right anyway",
     "Say what you really saw, and change your guess",
+    "Say it was right anyway",
     "Test again until the bag stays flat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A test shows what is true, even when it is not what we guessed. A wrong guess is how we learn.",
    "outcome": 5,
    "how": "e1"
@@ -1276,10 +1276,10 @@
    "p": "You cannot see the wind. How can you tell which way it is blowing?",
    "opts": [
     "Look for blue lines in the air",
-    "Watch what it pushes, like leaves, smoke and clothes",
-    "Listen for a bell"
+    "Listen for a bell",
+    "Watch what it pushes, like leaves, smoke and clothes"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Wind pushes things along with it. Leaves, smoke and clothes all lean or move the way the wind is going.",
    "outcome": 2
   },
@@ -1312,10 +1312,10 @@
    "p": "Which of these keeps the air clean and fresh?",
    "opts": [
     "Cutting down the trees along a road",
-    "Planting trees near our homes and schools",
-    "Burning plastic and rubbish in the open"
+    "Burning plastic and rubbish in the open",
+    "Planting trees near our homes and schools"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.",
    "outcome": 4
   },
@@ -1441,11 +1441,11 @@
      "t": "mcq",
      "p": "You sit very still in a room with the fan off. You feel no air on your arm. Why?",
      "opts": [
-      "There is no air in the room",
       "The air is not moving",
+      "There is no air in the room",
       "Your arm is asleep"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The air is there, but it is still. You will feel it when it moves, or when you move through it.",
      "how": "a1"
     },
@@ -1503,10 +1503,10 @@
      "p": "In Catch the Air, you squeezed the bag flat, twisted it shut and pulled the sides. Why did it stay flat?",
      "opts": [
       "The bag was broken",
-      "No air could get in",
-      "Air is too heavy to go in"
+      "Air is too heavy to go in",
+      "No air could get in"
      ],
-     "a": 1,
+     "a": 2,
      "why": "With the neck twisted shut, no air could get in, so there was nothing to make the bag fat. This shows that the fat bags really had air in them.",
      "how": "e1"
     },
@@ -1604,11 +1604,11 @@
      "t": "mcq",
      "p": "In Bubble Blowing, what is inside a bubble you blew?",
      "opts": [
-      "Your breath, which is air",
       "Nothing at all",
+      "Your breath, which is air",
       "Only water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A bubble is a thin skin of soapy water with your breath inside. Your breath is air.",
      "how": "a3"
     },

@@ -782,11 +782,11 @@
       "t": "mcq",
       "q": "A leaf has 48 units of starch at dusk, and the night is 12 hours long. Which steady rate uses it all exactly by dawn?",
       "options": [
-       "4 units an hour",
        "6 units an hour",
-       "12 units an hour"
+       "12 units an hour",
+       "4 units an hour"
       ],
-      "a": 0,
+      "a": 2,
       "why": "48 ÷ 12 = 4. At 4 units an hour the starch lasts exactly 12 hours. At 6 units an hour it would run out after 8 hours, and the plant would go hungry for the last 4."
      },
      "context": "This is the last step of Starch Bank. Here you compare the broken clock with the working clock."
@@ -990,11 +990,11 @@
       "t": "mcq",
       "q": "In Dawn Leaf, Dusk Leaf, a leaf picked at sunrise stays pale with iodine. What is the best explanation?",
       "options": [
+       "The plant used up the starch during the night",
        "Iodine does not work in the morning",
-       "The leaf never made any starch",
-       "The plant used up the starch during the night"
+       "The leaf never made any starch"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The leaf made starch in yesterday's light. During the night the plant turned it back into sugar and used it, so little is left at sunrise. Choosing 'never made any' forgets that the dusk leaves from the same plant were full of starch."
      },
      "context": "This is the last step of Dawn Leaf, Dusk Leaf. Here you explain your results."
@@ -1199,10 +1199,10 @@
       "q": "A boiled egg is on your plate. Where does the egg's trail lead?",
       "options": [
        "Hen, and it stops there",
-       "Straight to the Sun",
-       "Hen, then grain plants, then the Sun"
+       "Hen, then grain plants, then the Sun",
+       "Straight to the Sun"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The hen made the egg from the grain she ate, and the grain plants made the grain with sunlight. Stopping at the hen leaves out what the hen ate. The Sun cannot make an egg without a plant and a hen in between."
      },
      "context": "This is the last step of Plate to Sun. Here you look at where all the trails end."
@@ -1285,11 +1285,11 @@
       "t": "mcq",
       "q": "A raw banana goes blue-black with iodine, and a very ripe one hardly changes. Why?",
       "options": [
-       "The ripe banana turned starch into sugar",
        "The ripe banana lost all its food",
-       "Iodine only works on green things"
+       "Iodine only works on green things",
+       "The ripe banana turned starch into sugar"
       ],
-      "a": 0,
+      "a": 2,
       "why": "As a banana ripens, the fruit breaks starch chains into sugars. Sugar gives no colour with iodine, and it tastes sweet. The food is still there in a different form. Iodine works on white rice, so it does not need anything green."
      },
      "context": "This is the last step of the Banana Clock. Here you link the starch to the sweetness."
@@ -1379,10 +1379,10 @@
       "q": "Chlorophyll in a glass of spirit glows red in violet light. A living leaf hardly glows at all. Why?",
       "options": [
        "The leaf has less chlorophyll than the glass",
-       "Living leaves catch no violet light",
-       "In the leaf, the caught energy is passed on and used"
+       "In the leaf, the caught energy is passed on and used",
+       "Living leaves catch no violet light"
       ],
-      "a": 2,
+      "a": 1,
       "why": "In a leaf, chlorophyll hands the caught energy on to be used for making sugar. In the glass it has nowhere to send the energy, so the energy comes back out as red light and heat. A leaf has plenty of chlorophyll, and it catches violet light well."
      },
      "context": "This is the last step of the Red Glow. Here you shine violet light through the chlorophyll."
@@ -1605,10 +1605,10 @@
       "q": "A chlorophyll molecule catches a photon. What happens to the photon?",
       "options": [
        "It turns into a grain of starch",
-       "It is gone, and its energy is now in an electron",
-       "It stays inside the leaf as light"
+       "It stays inside the leaf as light",
+       "It is gone, and its energy is now in an electron"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A photon is a packet of energy. When it is caught, the photon no longer exists, and an electron in the chlorophyll holds its energy. Light is not stored as light. Starch is made of atoms from air and water, and the photon's energy only helped to join them."
      },
      "context": "This is the last step of A Photon's Journey. Here you check the comic by following the energy."
@@ -1829,12 +1829,12 @@
      "t": "mcq",
      "p": "What does chlorophyll do in a leaf?",
      "opts": [
-      "It keeps the leaf stiff",
       "It catches light",
+      "It keeps the leaf stiff",
       "It carries water",
       "It joins sugar into starch"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Chlorophyll is the pigment that catches light. Choosing 'joins sugar into starch' mixes up the catcher with the builders. Enzymes do the building.",
      "outcome": 0
     },
@@ -1990,12 +1990,12 @@
      "t": "mcq",
      "p": "Why is the leaf warmed in spirit during the starch test?",
      "opts": [
-      "To take the green colour out",
       "To add starch to the leaf",
       "To make the leaf sweet",
-      "To kill germs on the leaf"
+      "To kill germs on the leaf",
+      "To take the green colour out"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Chlorophyll dissolves in spirit. With the green gone, the blue-black of the iodine is easy to see. Spirit adds nothing to the leaf.",
      "outcome": 1
     },
@@ -2068,10 +2068,10 @@
      "opts": [
       "Only green",
       "Only white",
-      "Red and blue",
-      "Green and yellow"
+      "Green and yellow",
+      "Red and blue"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Chlorophyll takes in mostly red and blue light. Choosing 'green' is a common mix-up. Green is the colour a leaf sends back most, which is why we see it.",
      "outcome": 0
     },
@@ -2101,12 +2101,12 @@
      "t": "mcq",
      "p": "Scientists made night come four hours early for thale cress plants. What did the plants do?",
      "opts": [
-      "Used their starch more slowly",
       "Used their starch faster",
+      "Used their starch more slowly",
       "Stopped using starch",
       "Made starch in the dark"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The plants slowed down at once, and the starch still lasted until dawn. A plant makes no starch in the dark, because photosynthesis needs light.",
      "outcome": 4
     },
@@ -2322,11 +2322,11 @@
      "p": "Most bacteria at deep-sea hot springs still need one thing that photosynthesis made. What is it?",
      "opts": [
       "Sunlight",
-      "Oxygen",
       "Starch",
+      "Oxygen",
       "Chlorophyll"
      ],
-     "a": 1,
+     "a": 2,
      "why": "They use oxygen to get energy from hydrogen sulphide. That oxygen was made by algae and plants far above, and was carried down in the sea water.",
      "outcome": 6
     },
@@ -2367,12 +2367,12 @@
      "t": "mcq",
      "p": "How do satellites measure photosynthesis from space?",
      "opts": [
-      "By the faint red glow of leaves",
       "By counting trees",
+      "By the faint red glow of leaves",
       "By weighing forests",
       "By the smell of leaves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Chlorophyll in living leaves gives off a very faint red glow while it works. Satellites have measured this glow over the whole Earth since 2011.",
      "outcome": 0
     },
@@ -2417,12 +2417,12 @@
      "t": "mcq",
      "p": "A plant short of magnesium turns yellow. Why?",
      "opts": [
+      "They cannot make enough chlorophyll",
       "They have too much starch",
       "They get too much light",
-      "They cannot make enough chlorophyll",
       "Magnesium is yellow"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Every chlorophyll molecule needs one magnesium atom. With too little magnesium, less chlorophyll is made, and the yellow pigments show.",
      "outcome": 0
     },
@@ -2506,11 +2506,11 @@
      "p": "Of 1,000 units of sunlight energy on a field, the crop stores about 10. What share is that?",
      "opts": [
       "1 in 1,000",
-      "1 in 100",
       "1 in 10",
+      "1 in 100",
       "Half"
      ],
-     "a": 1,
+     "a": 2,
      "why": "10 out of 1,000 is the same as 1 out of 100. Most of the light warms the field, passes through or is sent back.",
      "outcome": 5
     }
@@ -2550,10 +2550,10 @@
    "opts": [
     "It turns starch blue",
     "It adds sugar",
-    "It kills the cells and lets liquids in",
-    "It takes the green out"
+    "It takes the green out",
+    "It kills the cells and lets liquids in"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Hot water stops the cells using starch and breaks their thin skins. Taking the green out is the job of the spirit.",
    "outcome": 1
   },
@@ -2563,10 +2563,10 @@
    "opts": [
     "At midnight",
     "The same all day",
-    "Late afternoon",
-    "Just before sunrise"
+    "Just before sunrise",
+    "Late afternoon"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Starch builds up all day and is used up all night. So it is highest late in the afternoon and lowest just before sunrise.",
    "outcome": 2
   },
@@ -2574,12 +2574,12 @@
    "t": "mcq",
    "p": "A green and white leaf is tested with iodine. Which parts turn blue-black?",
    "opts": [
-    "Only the parts that were green",
     "Only the parts that were white",
     "The whole leaf",
+    "Only the parts that were green",
     "No part"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Starch is made only where there is chlorophyll. Choosing 'the whole leaf' usually means thinking that light alone is enough.",
    "outcome": 3
   },
@@ -2613,12 +2613,12 @@
    "t": "mcq",
    "p": "Why does a leaf store food as starch and not as dissolved sugar?",
    "opts": [
-    "Starch does not dissolve or pull in water",
     "Starch is sweeter",
     "Starch is green",
+    "Starch does not dissolve or pull in water",
     "Starch catches light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A lot of dissolved sugar would draw water into the cell and swell it. Starch sits as small grains and causes no such trouble.",
    "outcome": 4
   },
@@ -2633,12 +2633,12 @@
    "t": "mcq",
    "p": "What comes first in nearly every food chain?",
    "opts": [
+    "A producer that catches light",
     "A fungus",
     "Soil",
-    "A producer that catches light",
     "A small animal"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.",
    "outcome": 5
   },
@@ -2646,11 +2646,11 @@
    "t": "mcq",
    "p": "A leaf is in a dark room all night. What does it take in and give out?",
    "opts": [
-    "Carbon dioxide in, oxygen out",
     "Oxygen in, carbon dioxide out",
+    "Carbon dioxide in, oxygen out",
     "Nothing at all, because the leaf is resting"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.",
    "outcome": 4
   },
@@ -2671,12 +2671,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
+    "How a plant sets the speed of starch use at night",
     "Whether leaves hold chlorophyll",
     "Whether iodine shows starch",
-    "Whether plants need light",
-    "How a plant sets the speed of starch use at night"
+    "Whether plants need light"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Everyone agrees that leaves use starch at a steady rate that lasts until dawn. How the plant sets that rate is not settled.",
    "outcome": 7
   }

@@ -875,10 +875,10 @@
       "q": "In Read My Face, which round is usually hardest to guess?",
       "options": [
        "Face and body together",
-       "Face only",
-       "Body only, with the face turned away"
+       "Body only, with the face turned away",
+       "Face only"
       ],
-      "a": 2,
+      "a": 1,
       "why": "We read most feelings from faces, especially eyes and mouths. Dogs look at our faces for the same reason. Picking 'face and body together' is often a slip: that round has the most clues, so it is usually easiest."
      },
      "context": "This is the main part of Read My Face, a game about feelings and faces."
@@ -1215,11 +1215,11 @@
       "t": "mcq",
       "q": "In the Clever Hans test, what usually happens when the helper does not know where the coin is?",
       "options": [
+       "The guesser gets fewer right, about 3 out of 10, like lucky guessing",
        "The guesser gets more right",
-       "The guesser gets about the same",
-       "The guesser gets fewer right, about 3 out of 10, like lucky guessing"
+       "The guesser gets about the same"
       ],
-      "a": 2,
+      "a": 0,
       "why": "With 3 cups, a lucky guess is right about 1 time in 3, so about 3 out of 10. When the helper knows, their face gives tiny clues, so scores are often higher. When nobody near knows, the clues disappear. Picking 'more right' usually means not yet seeing that the face was where the clues came from."
      },
      "how": "e2",
@@ -1356,10 +1356,10 @@
       "q": "In the pointing test, why did we rub the treat on both bowls?",
       "options": [
        "To make the bowls taste nice",
-       "So the dog cannot find the treat just by smell",
-       "To make the dog hungrier"
+       "To make the dog hungrier",
+       "So the dog cannot find the treat just by smell"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Dogs have amazing noses. If only one bowl smelled of food, the dog might follow their nose, not your finger. Then we would not be testing pointing at all. Picking 'hungrier' is a kind thought, but it does not make the test fair."
      },
      "how": "e3"
@@ -1475,11 +1475,11 @@
       "t": "mcq",
       "q": "Two puppies are rolling and nipping, with loose wagging tails, and they keep swapping who is on top. What is it?",
       "options": [
-       "A real fight",
        "Play",
+       "A real fight",
        "They are hunting"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In play, animals take turns being on top, their bodies are loose, and nobody gets hurt. In a real fight, bodies are stiff, teeth show and one animal runs away. Picking 'real fight' is a careful guess, because play can look rough."
      },
      "context": "This is the main step of Play Spotters. You watch and count play signs.",
@@ -1642,11 +1642,11 @@
       "t": "mcq",
       "q": "In the Training Game, what does each clap teach the learner?",
       "options": [
-       "That they have finished",
        "That what they just did is a step closer",
+       "That they have finished",
        "That they did something wrong"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A clap is a reward that marks the exact moment the learner got closer. Animals learn this way too, one small step at a time. Picking 'did something wrong' mixes up a reward with a telling-off."
      },
      "context": "This is the main part of the Training Game. The learner works out a secret action from claps alone."
@@ -1722,10 +1722,10 @@
       "q": "A dog has their tail tucked between their legs and their ears flat back. What are they probably feeling?",
       "options": [
        "Happy",
-       "Scared",
-       "Hungry"
+       "Hungry",
+       "Scared"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A tucked tail and flat ears usually mean a dog is scared. A scared dog may snap if you go close, so give them space. Picking 'happy' often comes from thinking any moving tail means happy."
      },
      "context": "This is the main step of Reading a Dog. You name dog moods from pictures or a real dog."
@@ -1889,10 +1889,10 @@
       "q": "In the mirror test, a dog ignores the mark on their head. What is the fairest thing to say?",
       "options": [
        "Dogs do not know themselves at all",
-       "The test may not suit dogs, because dogs use smell more than sight",
-       "Dogs cannot see mirrors"
+       "Dogs cannot see mirrors",
+       "The test may not suit dogs, because dogs use smell more than sight"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Dogs mostly fail the mirror test, but they sniff their own changed smell for longer. So a test made for eyes may be unfair to an animal that lives by their nose. Picking 'do not know themselves at all' goes further than the evidence."
      },
      "context": "This step of Mirror, Mirror tells which animals pass the mirror test, and why it may be unfair."
@@ -2062,11 +2062,11 @@
       "t": "mcq",
       "q": "In Crow Friends, the line went down from 22 minutes on day 1 to 3 minutes on day 7. What is the best explanation?",
       "options": [
-       "The crows got hungrier",
        "The crows learned when and where food comes",
+       "The crows got hungrier",
        "Crows like yellow caps"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The same place, time and cap every day gave the crows a pattern to learn. Coming sooner each day is a sign of learning and memory. Picking 'hungrier' is possible on one day, but not every day for a week. To test the cap, you would need to change only the cap, and keep everything else the same."
      },
      "context": "This is day 7 of Crow Friends. You draw your results as a line chart."
@@ -2146,10 +2146,10 @@
       "q": "In Hook It Like Betty, why does a straight pipe cleaner fail?",
       "options": [
        "It is too short",
-       "It has nothing to catch the handle",
-       "It is too soft"
+       "It is too soft",
+       "It has nothing to catch the handle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A straight stick just slides past the handle. A hook catches it. Betty seemed to see this and bent the wire. Picking 'too short' usually means the bottle is very tall, so check the length first."
      },
      "context": "This is the main step of Hook It Like Betty. The child tries to make a working tool."
@@ -2228,11 +2228,11 @@
       "t": "mcq",
       "q": "In Build a Puzzle Feeder, the dog took 3 minutes on day 1 and 1 minute on day 2. What does that show?",
       "options": [
-       "The dog learned and remembered how to solve the puzzle",
        "The puzzle got easier by itself",
+       "The dog learned and remembered how to solve the puzzle",
        "The dog was not hungry on day 1"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Getting faster at the same puzzle is a sign of learning and memory. Picking 'not hungry' could be true for one day, so a scientist would test on more days to be sure."
      },
      "context": "This is the main step of Build a Puzzle Feeder. You watch an animal solve the puzzle and time them."
@@ -2259,12 +2259,12 @@
      "t": "mcq",
      "p": "Which of these is play?",
      "opts": [
-      "A dog eating their dinner",
       "Two puppies chasing each other with wagging tails",
+      "A dog eating their dinner",
       "A cat running from a big dog",
       "A crow building a nest"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Play is done for fun, when safe and relaxed. Eating, running from danger and nest building all have a job to do right now. Picking 'running from a big dog' means a chase was seen as play, but that cat is scared, not relaxed."
     },
     {
@@ -2303,11 +2303,11 @@
      "t": "mcq",
      "p": "In the Clever Hans Test, the guesser found the coin more often when the helper knew where it was. Nobody spoke or pointed. What gave the guesser the clue?",
      "opts": [
-      "Tiny changes in the helper's face and eyes, made without meaning to",
       "The coin made a sound under the cup",
-      "The cups were different colours"
+      "The cups were different colours",
+      "Tiny changes in the helper's face and eyes, made without meaning to"
      ],
-     "a": 0,
+     "a": 2,
      "why": "People give away what they know with tiny glances and small changes in their face, without noticing. A horse called Clever Hans read these clues too. Picking 'a sound' is worth checking, which is why the test also needs rounds where the helper does not know.",
      "how": "e2",
      "context": "In the Clever Hans Test, a guesser tried to find a coin under one of 3 cups by watching the face of a helper who knew where the coin was."
@@ -2323,11 +2323,11 @@
      "t": "mcq",
      "p": "Why did we rub the treat on both bowls in the dog pointing test?",
      "opts": [
-      "So both bowls smell the same, and the dog must use our pointing",
       "To clean the bowls",
-      "So the dog gets two treats"
+      "So the dog gets two treats",
+      "So both bowls smell the same, and the dog must use our pointing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dogs have powerful noses. If only one bowl smelled of food, the dog could follow their nose instead of the pointing. Picking 'two treats' misses the point of a fair test.",
      "context": "This question is about the pointing test. A treat is hidden under one of two bowls, and a person points at it to see if a dog follows the point.",
      "how": "e3"
@@ -2456,12 +2456,12 @@
      "t": "mcq",
      "p": "Look at the chart. The guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does the blind round tell us?",
      "opts": [
-      "3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know",
       "The guesser was having a bad day",
       "The guesser can see through cups",
-      "The blind round is not needed"
+      "The blind round is not needed",
+      "3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With 3 cups, a lucky guess is right about 1 time in 3, which is about 3 in 10. In the blind round the guesser did no better than luck. So the 8 out of 10 must have come from the helper's face. Picking 'bad day' is possible once, but repeating the test would show the same pattern.",
      "context": "This question is about the Clever Hans test. A guesser tries to find a coin under one of 3 cups by watching a helper's face. In one round the helper knows where the coin is. In the other, the helper does not know.",
      "chart": {
@@ -2637,11 +2637,11 @@
      "t": "mcq",
      "p": "Brian Hare's team found that pet dogs follow pointing better than chimpanzees. Why might that be?",
      "opts": [
-      "Dogs have lived with people for thousands of years",
       "Dogs have bigger brains than chimpanzees",
+      "Dogs have lived with people for thousands of years",
       "Chimpanzees cannot see fingers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dogs have lived alongside people for a very long time, and grow up watching us. Dogs do not have bigger brains than chimpanzees. Chimpanzees can see fingers fine, but are less tuned to follow them."
     },
     {
@@ -2679,11 +2679,11 @@
      "t": "mcq",
      "p": "In the Training Game, the learner heard a clap each time they moved closer to the secret action. How is this like teaching a dog to roll over?",
      "opts": [
-      "The dog gets a small reward for each step closer, so they learn step by step",
       "The dog is born knowing how to roll over",
+      "The dog gets a small reward for each step closer, so they learn step by step",
       "The dog learns by being told the whole action in words"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.",
      "how": "a3",
      "context": "In the Training Game, one player had to find a secret action, and the only clue was a clap each time they got closer."
@@ -2756,11 +2756,11 @@
      "t": "mcq",
      "p": "Our last shared ancestor with octopuses lived more than 500 million years ago, and was a small worm-like animal. What does this suggest?",
      "opts": [
-      "Clever minds grew more than once, on different branches of life",
       "Octopuses are our close cousins",
+      "Clever minds grew more than once, on different branches of life",
       "Octopuses copied humans"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Octopuses became clever on a very different branch of life from us. So clever minds may have grown up more than once. Picking 'close cousins' misses how long ago we split."
     },
     {
@@ -2826,11 +2826,11 @@
      "t": "mcq",
      "p": "Sarah Jelbert and her team gave New Caledonian crows a choice. A treat floated in a tube of water, and another treat sat on top of a tube of sand. The crows could drop stones into either tube. Which did the crows choose more often?",
      "opts": [
-      "The water tube, because stones raise water but not sand",
       "The sand tube, because sand is easier to see",
-      "Both tubes the same"
+      "Both tubes the same",
+      "The water tube, because stones raise water but not sand"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dropping stones into water raises the water, and the treat comes up. Sand does not rise in the same way. The crows chose the water tube more often, so they seemed to understand what the stones would do.",
      "how": "e1",
      "context": "In the Thirsty Crow Test, you dropped big stones, small stones or pieces of thermocol into a glass of water, and counted how many it took to raise the water to a line."
@@ -2839,11 +2839,11 @@
      "t": "mcq",
      "p": "Conwy Lloyd Morgan said: choose the simplest explanation that fits. A cat opens a door by pulling the handle. What is the simplest explanation?",
      "opts": [
-      "They understand how hinges work",
       "They learned by trying, and pulling the handle worked",
+      "They understand how hinges work",
       "Someone trained them secretly"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The simplest explanation is learning by trying, like Thorndike's cats in puzzle boxes. Picking 'understands hinges' may be true, but we would need more tests to show it."
     },
     {
@@ -2903,11 +2903,11 @@
      "t": "mcq",
      "p": "You want to test whether a neighbour's pet dog follows pointing. Which plan is fairest?",
      "opts": [
-      "Hide a treat under one bowl and point at it once",
       "Rub the treat on both bowls, hide it under one, and do many tries, some with pointing and some without",
+      "Hide a treat under one bowl and point at it once",
       "Point at the bowl and only give the dog the treat if they go there"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Rubbing the treat on both bowls stops the dog using smell. Many tries, with and without pointing, show whether pointing makes a difference. One try could be luck. Giving the treat only for the pointed bowl would teach the dog during the test.",
      "context": "This question is about a test of whether a dog follows a pointing finger. A treat is hidden under one of two bowls."
     }
@@ -2945,11 +2945,11 @@
    "t": "mcq",
    "p": "What is learning?",
    "opts": [
-    "Being born knowing something",
     "Changing what you do because of what happened before",
+    "Being born knowing something",
     "Growing up"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Learning comes from experience. Picking 'born knowing' mixes it up with instinct.",
    "outcome": 0
   },
@@ -2957,11 +2957,11 @@
    "t": "mcq",
    "p": "Which is a true example of an animal playing?",
    "opts": [
-    "Bumblebees rolling little balls with no reward",
     "A hen laying an egg",
-    "A cow eating grass"
+    "A cow eating grass",
+    "Bumblebees rolling little balls with no reward"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bees rolled balls for nothing but the rolling. Laying eggs and eating have a job to do right now.",
    "outcome": 0
   },
@@ -2969,11 +2969,11 @@
    "t": "mcq",
    "p": "In 2002, Betty, a New Caledonian crow, bent a straight piece of wire into a hook to lift a bucket of food out of a tube. Why did this surprise scientists?",
    "opts": [
-    "She made a new tool for a new problem, from a material crows never meet in the wild",
     "Crows had never been seen eating before",
-    "She asked a person for help"
+    "She asked a person for help",
+    "She made a new tool for a new problem, from a material crows never meet in the wild"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Using a tool you find is clever. Bending a wire into the right shape for a problem you have never met is harder, and few animals had been seen doing it. Picking 'asked a person' is wrong, because Betty did it on her own.",
    "outcome": 1
   },
@@ -2993,11 +2993,11 @@
    "t": "mcq",
    "p": "A person points at one of two bowls. What do most pet dogs do?",
    "opts": [
-    "Go to the bowl the person pointed at",
     "Look at the finger and do nothing",
-    "Always go to the left bowl"
+    "Always go to the left bowl",
+    "Go to the bowl the person pointed at"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most dogs follow pointing. Many untrained street dogs in India do too.",
    "outcome": 2
   },
@@ -3032,10 +3032,10 @@
    "p": "A horse seems to answer sums by tapping his hoof. But he gets them wrong whenever the person asking does not know the answer. What is the best explanation?",
    "opts": [
     "He gets tired when the sums are hard",
-    "He is reading the answer from the asker's face, without the asker meaning to give it",
-    "The sums are harder when the asker does not know them"
+    "The sums are harder when the asker does not know them",
+    "He is reading the answer from the asker's face, without the asker meaning to give it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the horse really did sums, it would not matter who asked. He fails only when the asker does not know, so he must be reading tiny clues in the asker's face. This is why scientists use blind tests.",
    "outcome": 4
   },
@@ -3055,11 +3055,11 @@
    "t": "mcq",
    "p": "Which statement do most scientists agree on?",
    "opts": [
-    "Many animals learn, remember and solve problems",
     "Only humans think",
-    "Insects definitely feel exactly what we feel"
+    "Insects definitely feel exactly what we feel",
+    "Many animals learn, remember and solve problems"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Learning and memory are tested and agreed. What insects feel is still argued about.",
    "outcome": 5
   },
@@ -3068,10 +3068,10 @@
    "p": "What is still argued about?",
    "opts": [
     "Whether crows use tools",
-    "Whether fish and insects feel pain",
-    "Whether dogs learn"
+    "Whether dogs learn",
+    "Whether fish and insects feel pain"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Crow tools and dog learning are well tested. Feelings in fish and insects are still debated.",
    "outcome": 5
   },

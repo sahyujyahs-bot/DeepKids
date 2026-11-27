@@ -546,7 +546,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: 1 / 2 / 5 / 10  
    **Answer:** 5. *Why:* Five repeating seed rows around the centre give order 5. It matches itself 5 times in one full turn.
 11. (mcq) A butterfly needs two matching wings. What is the main reason?  
-   Options: To look pretty / So both wings push the same amount of air and she flies straight / To hide from the rain / So she can fold them into a box  
+   Options: To look pretty / To hide from the rain / So both wings push the same amount of air and she flies straight / So she can fold them into a box  
    **Answer:** So both wings push the same amount of air and she flies straight. *Why:* When both wings push the same amount of air, she flies straight to flowers and away from birds. A butterfly with one big wing would turn in circles.
 12. (write) In your bubble raft, the middle bubbles and the edge bubbles were made of the same soap, under the same lid. Why were they different shapes?  
    **Answer:** The middle bubbles were pressed equally on every side by bubbles of the same size, so they became even, six-sided cells. The edge bubbles had bubbles on one side only and open water or the plate on the other. The push was not even, so they were lopsided.. *Why:* A strong answer names what was the same (soap, lid, size) and what was different (the push around each bubble), and links the difference to the shape.
@@ -568,7 +568,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 4. (order) Put the steps of the bubble raft experiment in order.  
    **Answer:** ['Mix dishwashing liquid, sugar and water and pour the soapy water into a plate', 'Blow gently through a straw to make same-sized bubbles', 'Lay a clear lid gently on top', 'Count the walls of 5 middle and 5 edge bubbles']. *Why:* First make the soapy layer, then the bubbles, then flatten them, then count. Counting both middle and edge bubbles lets you compare.
 5. (mcq) In a raft of soap bubbles, one bubble in the middle is much smaller than its neighbours. How many walls is it most likely to have?  
-   Options: Fewer than 6 / Exactly 6 / More than 6 / None  
+   Options: Exactly 6 / More than 6 / None / Fewer than 6  
    **Answer:** Fewer than 6. *Why:* Smaller bubbles in a foam tend to have fewer walls, and bigger ones more. Only bubbles of the same size, pressed equally, come out as six-sided hexagons.
 6. (truefalse) 'Every real snowflake is perfectly symmetrical.' Is this true?  
    **Answer:** False. *Why:* False. Most real snowflakes are a little uneven, broken or stuck to others. The perfect ones in books were picked out by photographers. A strong answer says why some are uneven: one side met slightly different air, or the snowflake bumped into something.
@@ -593,19 +593,19 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    **Answer:** A strong answer uses evidence: bubbles show that pressing and pulling can make hexagons without a plan, and hexagons really do use the least wall. It also gives the bees credit: scientists still argue how much the bees shape the cells and how much the wax does, and recent studies suggest bees build the walls directly. A strong answer says this is still argued.. *Why:* This is a real debate among scientists. There is no single settled answer, so a good answer argues with evidence and admits what is unknown.
 ### Symmetry Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Which capital letter has both a line of symmetry and order 2 rotational symmetry?  
-   Options: H / A / S / F  
+   Options: A / S / F / H  
    **Answer:** H. *Why:* H matches when folded across the middle or down the middle, and it looks the same after half a turn. A has only a fold line, S only a turn, and F neither.
 2. (mcq) A shape has 4 lines of symmetry. What is the smallest order of rotational symmetry it can have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* A flat shape with 4 lines of symmetry, like a square, also matches itself 4 times in one turn. Flipping a shape over one mirror line and then over another is the same as turning it. So a shape with several mirror lines always has rotational symmetry too.
 3. (mcq) You fold a paper square into 8 layers and cut a snowflake. How many arms will it have?  
-   Options: 6 / 4 or 8 / 12 / 3  
+   Options: 6 / 12 / 4 or 8 / 3  
    **Answer:** 4 or 8. *Why:* Folding into 8 gives a four-fold or eight-fold pattern, not six. A real snowflake has six arms. To get six, you fold the paper into three after the first two folds.
 4. (mcq) A snowflake falls past a warm chimney, so one side meets warmer air than the other. What will its arms most likely look like?  
-   Options: All six still match perfectly / The arms on the warm side grow differently from the others / It will grow eight arms / It becomes a bubble  
+   Options: All six still match perfectly / It will grow eight arms / It becomes a bubble / The arms on the warm side grow differently from the others  
    **Answer:** The arms on the warm side grow differently from the others. *Why:* The arms match only when they all meet the same air. If one side meets different air, those arms grow differently and the symmetry breaks. The break shows where the air was different.
 5. (mcq) A bubble raft sits right next to a ruler lying in the plate. What will the bubbles touching the ruler look like?  
-   Options: Hexagons like the middle ones / Flat on the side touching the ruler / Perfect circles / Triangles  
+   Options: Hexagons like the middle ones / Perfect circles / Flat on the side touching the ruler / Triangles  
    **Answer:** Flat on the side touching the ruler. *Why:* The ruler presses on one side only, so the walls touching it are straight and the bubbles are lopsided, like the edge bubbles at the rim of the plate. Wherever the push changes, the shape changes.
 6. (sort) Sort these living things by their symmetry.  
    **Answer:** a crow → Bilateral (left and right); a jellyfish → Radial (all the way round); an earthworm → Bilateral (left and right); a hibiscus flower → Radial (all the way round); a tulsi flower → Bilateral (left and right); a sea anemone → Radial (all the way round). *Why:* Animals that move forward, like a crow and an earthworm, are bilateral. A tulsi flower is bilateral too, with a landing lip. A jellyfish, a sea anemone and a hibiscus flower are the same all the way round.
@@ -635,7 +635,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 
 ## Quiz
 1. (mcq) You fold a picture of a butterfly down the middle, and the two halves match exactly. What is the fold called?  
-   Options: A line of symmetry / A centre / An order / A hexagon  
+   Options: A centre / A line of symmetry / An order / A hexagon  
    **Answer:** A line of symmetry. *Why:* The fold that splits a shape into two matching halves is a line of symmetry, also called a mirror line. 'Centre' is the point a shape turns around, which is for rotational symmetry.
 2. (mcq) A ceiling fan has three blades. With the fan switched off, you turn it slowly. How many times does it look exactly the same in one full turn?  
    Options: 1 / 2 / 3 / 6  
@@ -644,10 +644,10 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: The letter S / The letter A / A butterfly / A square  
    **Answer:** The letter S. *Why:* The letter S looks the same after half a turn, but no fold makes its halves match. The letter A and a butterfly have a line of symmetry but no rotational symmetry. A square has both.
 4. (mcq) You make a raft of same-sized soap bubbles and cover it with a clear lid. What shape are most of the bubbles in the middle?  
-   Options: Circles / Squares / Six-sided / Triangles  
+   Options: Six-sided / Circles / Squares / Triangles  
    **Answer:** Six-sided. *Why:* Each bubble in the middle is pressed equally by about six neighbours, and the walls meet three at a time at equal angles. So most become six-sided. If you guessed squares, try it: four walls meeting at a point slide apart into threes.
 5. (mcq) In a bubble raft, why are the bubbles at the edge lopsided?  
-   Options: They are older bubbles / They are pressed by bubbles on one side only / The soap is thinner at the edge / The lid is bent  
+   Options: They are pressed by bubbles on one side only / They are older bubbles / The soap is thinner at the edge / The lid is bent  
    **Answer:** They are pressed by bubbles on one side only. *Why:* An edge bubble has neighbours on one side and open water or the plate on the other. The push is not the same all round, so the shape is not even. The middle bubbles have the same push from every side.
 6. (mcq) Why does a snowflake have six arms?  
    Options: Clouds are six-sided / In ice, water molecules join in rings of six / Snowflakes are cut by the wind / Cold air has six directions  
@@ -659,16 +659,16 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
    Options: Bees can find her and land from any side / Even petals make more pollen / Even petals keep the rain off / Bees eat the petals  
    **Answer:** Bees can find her and land from any side. *Why:* A round, even flower is easy for a bee to spot and can be visited from any direction. Experiments show many bees prefer symmetrical patterns. The plant gains because the bee carries her pollen to the next flower.
 9. (mcq) A tulsi flower has one line of symmetry and a lip at the bottom. How does this help the plant?  
-   Options: The lip holds water / Bees land on the lip the same way up every time, so pollen touches the same place on each bee / The lip scares away ants / It makes the flower bigger  
+   Options: The lip holds water / The lip scares away ants / Bees land on the lip the same way up every time, so pollen touches the same place on each bee / It makes the flower bigger  
    **Answer:** Bees land on the lip the same way up every time, so pollen touches the same place on each bee. *Why:* A bee always lands on the lip the right way up. So the pollen is put on the same part of her body each time, and touches the next flower in the right place.
 10. (mcq) Why do fish, ants and people have a left side and a right side that nearly match?  
-   Options: They move forward, so they meet the world front first and their two sides meet it in the same way / Their mothers fold them / Water makes them even / They live in cities  
+   Options: Their mothers fold them / Water makes them even / They move forward, so they meet the world front first and their two sides meet it in the same way / They live in cities  
    **Answer:** They move forward, so they meet the world front first and their two sides meet it in the same way. *Why:* Animals that move forward have their mouth and eyes at the front, and their left and right sides meet the world in the same way. Animals that drift, like jellyfish, are often the same all the way round.
 11. (mcq) A kolam is made by drawing one quarter, then turning and drawing the same quarter three more times. What order of rotational symmetry does it have?  
    Options: 1 / 2 / 4 / 8  
    **Answer:** 4. *Why:* Four matching quarters, each a quarter turn apart, make the kolam look the same 4 times in one full turn.
 12. (mcq) A money plant beside a window has more leaves on the window side. What does this break in her symmetry tell you?  
-   Options: The window side got more light / She is ill / The pot is cracked / Plants always grow on one side  
+   Options: She is ill / The pot is cracked / The window side got more light / Plants always grow on one side  
    **Answer:** The window side got more light. *Why:* A break in symmetry is a clue that one side met something different. Here, light came from the window, and the plant grew more leaves where she could make more food.
 
 ## Applications

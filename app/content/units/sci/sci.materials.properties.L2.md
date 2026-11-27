@@ -339,7 +339,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Waterproof → does not let water through; Transparent → you can see clearly through it; Opaque → lets no light through; Stretchy → gets longer when you pull it. *Why:* These are four of the property words in this lesson.
 2. (mcq) In the light and water test, what happened to the teaspoon of water on the clear polythene?  
-   Options: It ran into the tumbler / It sat on top, and the tumbler stayed dry / It soaked into the polythene  
+   Options: It sat on top, and the tumbler stayed dry / It ran into the tumbler / It soaked into the polythene  
    **Answer:** It sat on top, and the tumbler stayed dry. *Why:* Polythene has no holes or gaps, so the water could not get through. Picking 'ran into the tumbler' may mean thinking see-through things let water through.
 3. (sort) Sort these into 'lets light through' and 'blocks light'.  
    **Answer:** kitchen foil → Blocks light; clear polythene → Lets light through; a glass tumbler → Lets light through; a steel plate → Blocks light; a tea strainer → Lets light through; a wooden door → Blocks light. *Why:* Glass and polythene let light through the material itself. A tea strainer lets it through its holes. Foil, steel and wood are opaque.
@@ -363,7 +363,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    **Answer:** Clear polythene. *Why:* Clear polythene is waterproof and transparent, so it does both jobs. Foil is waterproof but opaque. Newspaper lets water through.
 ### Strong, Stretchy, See-Through (stretch) (stretch, 11 questions)
 1. (mcq) In the pull, not push activity, what happened when you tried to push the toy with the thread?  
-   Options: The toy moved away fast / The thread bent and went floppy, and the toy stayed still / The thread broke  
+   Options: The toy moved away fast / The thread broke / The thread bent and went floppy, and the toy stayed still  
    **Answer:** The thread bent and went floppy, and the toy stayed still. *Why:* A thread is strong when pulled, but it bends when pushed. So it cannot push a toy.
 2. (write) Say out loud, and a grown-up writes it down: why does a rubber band hold a bundle of pencils tighter than a cotton thread?  
    **Answer:** The rubber band is stretched round the pencils, and it pulls back to get shorter. When pencils come out, it shrinks and stays tight. The thread cannot shrink, so it goes loose.. *Why:* A strong answer says the band is stretchy and springs back. The thread stays the same length.
@@ -397,16 +397,16 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    Options: You can see clearly through it / It lets no light through / It soaks up water  
    **Answer:** It lets no light through. *Why:* Opaque materials, like foil and wood, let no light through. Picking 'see clearly through it' mixes it up with transparent.
 2. (mcq) Which of these is transparent?  
-   Options: A glass tumbler / A steel tumbler / A wooden spoon  
+   Options: A steel tumbler / A wooden spoon / A glass tumbler  
    **Answer:** A glass tumbler. *Why:* You can see clearly through glass. Steel and wood are opaque.
 3. (mcq) You pour a teaspoon of water on kitchen foil over a tumbler. What happens?  
-   Options: The water sits on top / The water drips into the tumbler / The foil soaks it up  
+   Options: The water drips into the tumbler / The water sits on top / The foil soaks it up  
    **Answer:** The water sits on top. *Why:* Foil has no holes, so it is waterproof. Picking 'soaks it up' mixes foil up with paper or cloth.
 4. (mcq) You can see through clear polythene. Why does water still stay on top of it?  
    Options: The polythene has no holes for water, and light goes through the plastic itself / The water is too heavy / The polythene is wet already  
    **Answer:** The polythene has no holes for water, and light goes through the plastic itself. *Why:* Water needs a gap to get through. Light can pass through the plastic itself. Picking 'too heavy' may mean thinking heavy things cannot pass through holes.
 5. (mcq) Why does a tea strainer let water through?  
-   Options: It is made of steel / It is full of small holes / It is shiny  
+   Options: It is full of small holes / It is made of steel / It is shiny  
    **Answer:** It is full of small holes. *Why:* Water goes through the holes. A steel plate has no holes, and keeps water out.
 6. (mcq) Which two properties does a window need most?  
    Options: Stretchy and soft / Transparent and waterproof / Opaque and absorbent  
@@ -421,7 +421,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
    Options: Clear polythene / A net with tiny holes / Kitchen foil  
    **Answer:** A net with tiny holes. *Why:* A net lets air through its holes but the holes are too small for mosquitoes. Polythene and foil would block the air.
 10. (mcq) Before you test a material, what should you do first?  
-   Options: Guess what will happen, and say why / Read the answer / Test it many times without thinking  
+   Options: Read the answer / Test it many times without thinking / Guess what will happen, and say why  
    **Answer:** Guess what will happen, and say why. *Why:* A guess with a reason helps you notice if the test surprises you.
 
 ## Applications

@@ -619,7 +619,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 ## Worksheets
 ### Nutrients, diseases and plates (core, 18 questions)
 1. (mcq) What is a balanced diet?  
-   Options: Enough of every nutrient for one person's body / As much food as a person can eat / Only fruit and vegetables / The same plate for every person  
+   Options: As much food as a person can eat / Only fruit and vegetables / The same plate for every person / Enough of every nutrient for one person's body  
    **Answer:** Enough of every nutrient for one person's body. *Why:* A balanced diet gives one person enough of every nutrient, with water and fibre, and not too much of any. 'As much as you can eat' and 'the same for everyone' both ignore what one body needs.
 2. (match) Match each deficiency disease to the nutrient that is missing.  
    **Answer:** Night blindness → Vitamin A; Scurvy → Vitamin C; Rickets → Vitamin D; Anaemia → Iron; Goitre → Iodine; Beriberi → Vitamin B1. *Why:* Each nutrient does its own job, so each lack shows in its own way: in the eyes, the gums, the bones, the blood, the neck or the nerves.
@@ -635,7 +635,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 7. (truefalse) Sunlight that comes through closed window glass makes vitamin D in the skin.  
    **Answer:** False. *Why:* False. Glass blocks the rays that make vitamin D. The skin needs direct sunlight, with the Sun high in the sky.
 8. (mcq) Why is iodine added to salt, and not to sweets?  
-   Options: Nearly everyone eats a little salt daily / Salt tastes better with iodine / Sweets already hold iodine / Iodine makes salt whiter  
+   Options: Salt tastes better with iodine / Sweets already hold iodine / Iodine makes salt whiter / Nearly everyone eats a little salt daily  
    **Answer:** Nearly everyone eats a little salt daily. *Why:* Rich and poor eat salt every day in nearly the same small amount. So everyone gets enough iodine and nobody gets far too much.
 9. (fill) The red substance in blood that carries oxygen and holds iron is called ____.  
    **Answer:** ['haemoglobin']. *Why:* Each haemoglobin molecule holds four atoms of iron. With too little iron the body makes too little haemoglobin, and less oxygen is carried.
@@ -650,7 +650,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 14. (order) Put these in order, from the largest amount a child needs each day to the smallest.  
    **Answer:** ['Protein', 'Vitamin C', 'Iron', 'Iodine']. *Why:* A child needs about 30 grams of protein and 50 milligrams of vitamin C. They need about 16 to 28 milligrams of iron and 100 micrograms of iodine. A milligram is a thousandth of a gram, and a microgram is a thousandth of a milligram.
 15. (mcq) A child sees well at noon but stumbles in a dim room. Which nutrient may be short?  
-   Options: Vitamin A / Vitamin C / Calcium / Iodine  
+   Options: Vitamin C / Vitamin A / Calcium / Iodine  
    **Answer:** Vitamin A. *Why:* The eye builds its dim-light substance from vitamin A. Trouble seeing at dusk, called night blindness, is the first sign of too little.
 16. (sort) Sort each food into healthy food or junk food.  
    **Answer:** dal and rice → Healthy food; a packet of chips → Junk food; a guava → Healthy food; a sweet fizzy drink → Junk food; ragi porridge → Healthy food; fried packet snacks → Junk food. *Why:* Junk food has a lot of sugar, salt or fat but few vitamins and minerals. A little now and then does no harm. The problem is when it takes the place of healthy food.
@@ -661,10 +661,10 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
    **Answer:** Pale nails and gums → Iron; Sores at the corners of the mouth → B vitamins; Bleeding gums → Vitamin C; Crooked legs in a child → Vitamin D. *Why:* Each nutrient does its own job, so each lack shows in its own way.
 ### Why each habit works (stretch, 18 questions)
 1. (mcq) Why does a squeeze of lemon on kala chana help the body?  
-   Options: Vitamin C helps the gut absorb iron / Lemon adds a lot of protein / Lemon removes the fibre / Sour food kills all microbes  
+   Options: Lemon adds a lot of protein / Vitamin C helps the gut absorb iron / Lemon removes the fibre / Sour food kills all microbes  
    **Answer:** Vitamin C helps the gut absorb iron. *Why:* The iron in plant foods is hard to absorb. Vitamin C in the same meal changes the iron into a form that crosses the gut wall more easily.
 2. (mcq) Boiled cabbage water cleared the blue liquid in 2 teaspoons. Cold cabbage water took 7. What follows?  
-   Options: More vitamin C moved into the boiled water / Boiling made new vitamin C / Cold water destroys vitamin C / The cabbage held no vitamin C  
+   Options: Boiling made new vitamin C / Cold water destroys vitamin C / The cabbage held no vitamin C / More vitamin C moved into the boiled water  
    **Answer:** More vitamin C moved into the boiled water. *Why:* Fewer teaspoons means more vitamin C in each teaspoon. Heat softened the cells of the leaf, so more of the vitamin leaked into the water.
 3. (mcq) A girl of 36 kilograms needs 2,060 kilocalories. A woman of 55 kilograms needs 1,660. Who needs more for each kilogram?  
    Options: The girl: about 57 against about 30 / The woman: about 57 against about 30 / They need the same / It cannot be worked out  
@@ -697,7 +697,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 16. (write) Explain two harms of eating too much junk food.  
    **Answer:** Sugar harms the teeth. Salt, over many years, can raise blood pressure. Too much fat builds up in the body.. *Why:* A strong answer names two different harms and ties each to its cause.
 17. (mcq) From six months a baby needs soft top food. Which is a good top food?  
-   Options: A mash of rice, dal and a little milk / A fizzy drink / A packet of chips / Strong tea  
+   Options: A fizzy drink / A packet of chips / Strong tea / A mash of rice, dal and a little milk  
    **Answer:** A mash of rice, dal and a little milk. *Why:* A baby needs soft, plain food with protein. A rice and dal mash is easy to eat and gives energy and protein.
 18. (truefalse) A sick person should eat only sweet things, so they can feel better.  
    **Answer:** False. *Why:* A sick person needs energy foods and also protective foods such as fruit, vegetables, dal and milk.
@@ -706,10 +706,10 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
    Options: So only the addition could explain a recovery / So the cook had less work / So the sailors would not quarrel / So the food lasted longer  
    **Answer:** So only the addition could explain a recovery. *Why:* This was James Lind's test in 1747. Everything else was the same. So the quick recovery of the pair given oranges and lemons could only be due to the fruit.
 2. (mcq) In a test of iodised salt, some villages were given plain salt. Why?  
-   Options: To compare with villages given iodised salt / Because iodine had run out / Because plain salt is cheaper / To punish those villages  
+   Options: Because iodine had run out / Because plain salt is cheaper / To compare with villages given iodised salt / To punish those villages  
    **Answer:** To compare with villages given iodised salt. *Why:* Goitre might have fallen for some other reason, such as better roads or more food. Only a comparison group shows what the iodine itself did.
 3. (mcq) Which is the best evidence that tea with a meal reduces the iron absorbed?  
-   Options: Less traced iron reached the blood with tea / Tea is dark in colour / Tea drinkers say they feel tired / Tea plants grow in iron-poor soil  
+   Options: Tea is dark in colour / Tea drinkers say they feel tired / Less traced iron reached the blood with tea / Tea plants grow in iron-poor soil  
    **Answer:** Less traced iron reached the blood with tea. *Why:* Scientists gave meals holding iron atoms they could trace, and measured how much reached the blood. A measurement beats a guess from colour or from feelings.
 4. (truefalse) A slow time in the Dark Room Test proves that a child is short of vitamin A.  
    **Answer:** False. *Why:* False. The time depends mostly on how dark the room is and how bright the light was before. Age matters too. Only a doctor can tell whether vitamin A is short.
@@ -736,7 +736,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
 15. (match) Match each observation to what it shows.  
    **Answer:** Only sailors given citrus fruit recovered → A missing food substance can cause disease; A covered eye still sees after a flash → Light changes something inside the eye; One twin of a pair gets kwashiorkor → Diet alone does not explain kwashiorkor; A pencil's shadow is shortest at noon → The Sun is highest at noon; Two rice slips build only 4 bricks → The scarcest unit sets the limit. *Why:* Each observation is evidence, and each conclusion says only what that evidence supports.
 16. (mcq) A lychee seller says, 'These came from our village orchard this morning.' What is a good reason to buy them?  
-   Options: They are fresh, local and in season / They are out of season / They are packed in plastic / They came a long way  
+   Options: They are out of season / They are packed in plastic / They are fresh, local and in season / They came a long way  
    **Answer:** They are fresh, local and in season. *Why:* Local fruit in season is fresh and often cheaper.
 17. (write) A girl has started her periods and is often tired. Name two cheap foods that may help, and say why.  
    **Answer:** Bajra and green leaves are rich in iron. A girl loses some blood each month, so she needs more iron. A squeeze of lemon helps the body take in iron.. *Why:* A strong answer names two cheap iron foods and links them to the iron lost each month.
@@ -751,67 +751,67 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
    Options: Ragi dosa, sambar, greens, curd and a guava / White rice with ghee and sugar / Chips, biscuits and a sweet drink / Three kinds of fruit and nothing else  
    **Answer:** Ragi dosa, sambar, greens, curd and a guava. *Why:* The first meal has a millet, a pulse, a green vegetable, curd and a vitamin C fruit. The others each leave out protein, iron or energy.
 2. (mcq) A person's gums bleed and small wounds do not heal. Which nutrient is most likely missing?  
-   Options: Vitamin C / Iodine / Vitamin D / Calcium  
+   Options: Iodine / Vitamin C / Vitamin D / Calcium  
    **Answer:** Vitamin C. *Why:* Vitamin C helps build collagen, the strong threads in gums, skin and blood vessels. Without it they weaken. The disease is scurvy.
 3. (mcq) Which cheap food helps most to prevent night blindness?  
-   Options: Drumstick leaves / Polished white rice / Sugar / Tea  
+   Options: Polished white rice / Sugar / Tea / Drumstick leaves  
    **Answer:** Drumstick leaves. *Why:* Drumstick leaves are rich in carotene, which the body turns into vitamin A. Rice, sugar and tea hold almost none.
 4. (mcq) What is hidden hunger?  
-   Options: Lacking a vitamin or mineral while feeling full / Feeling hungry between meals / Hiding food to eat later / Eating too fast to taste the food  
+   Options: Feeling hungry between meals / Hiding food to eat later / Eating too fast to taste the food / Lacking a vitamin or mineral while feeling full  
    **Answer:** Lacking a vitamin or mineral while feeling full. *Why:* Fullness reports energy and bulk. A person can feel full and still be short of iron, iodine or vitamin A.
 5. (mcq) Who needs the most energy for each kilogram of body weight?  
    Options: A child of 2 years / A woman who works at a desk / A grandmother of 70 years / A man who works at a desk  
    **Answer:** A child of 2 years. *Why:* A child of 2 needs about 85 kilocalories for each kilogram, because they are growing fast. A grown-up at a desk needs about 30.
 6. (mcq) Why does a breastfeeding mother need extra food?  
-   Options: She makes milk that feeds a growing baby / Her stomach has grown bigger / She sleeps less at night / Milk needs extra salt  
+   Options: Her stomach has grown bigger / She makes milk that feeds a growing baby / She sleeps less at night / Milk needs extra salt  
    **Answer:** She makes milk that feeds a growing baby. *Why:* She makes about 750 millilitres of milk a day. Everything in it comes from her own food and body, and it costs her about 600 kilocalories.
 7. (mcq) Why should the water from boiled vegetables go into the dish?  
-   Options: Vitamins have dissolved into it / It holds most of the protein / It holds all the fibre / It makes the dish cook faster  
+   Options: It holds most of the protein / It holds all the fibre / It makes the dish cook faster / Vitamins have dissolved into it  
    **Answer:** Vitamins have dissolved into it. *Why:* Vitamin C and the B vitamins dissolve in water. Pouring the water away throws them out. Rasam, sambar and kootu keep it.
 8. (mcq) Why do rice and dal together give better protein than rice alone?  
-   Options: Each supplies a building unit the other lacks / Dal makes the rice softer / Rice has no protein at all / Together they hold more water  
+   Options: Dal makes the rice softer / Rice has no protein at all / Each supplies a building unit the other lacks / Together they hold more water  
    **Answer:** Each supplies a building unit the other lacks. *Why:* Rice is short of lysine and dal is short of methionine. The body builds with complete sets, so together they build more.
 9. (mcq) Why are iron tablets taken only on the advice of a health worker?  
    Options: Too much iron is poisonous / Iron tablets taste bitter / Iron works only at night / Tablets hold no real iron  
    **Answer:** Too much iron is poisonous. *Why:* The body needs a measured amount. A large dose of iron can poison a child. Health workers give the dose that suits the person.
 10. (mcq) In a fair test of two ways of cooking cabbage, what must stay the same?  
-   Options: The cabbage, the water and the time / Only the colour of the vessel / Nothing needs to stay the same / Only the person who cooks  
+   Options: Only the colour of the vessel / Nothing needs to stay the same / The cabbage, the water and the time / Only the person who cooks  
    **Answer:** The cabbage, the water and the time. *Why:* A fair test changes one thing. If the amount of cabbage, the water and the time are equal, any difference comes from the cooking method.
 11. (mcq) Goitre fell only in villages that were given iodised salt. What did that show?  
-   Options: Too little iodine was the main cause / Goitre spreads from person to person / Plain salt causes goitre / Hill air causes goitre  
+   Options: Goitre spreads from person to person / Too little iodine was the main cause / Plain salt causes goitre / Hill air causes goitre  
    **Answer:** Too little iodine was the main cause. *Why:* The villages differed in one thing, the iodine in their salt. So the fall in goitre was due to iodine. Plain salt did not cause goitre. It only failed to prevent it.
 12. (mcq) Which food is a good source of calcium for strong bones?  
-   Options: Ragi / Sugar / Plain oil / Tea  
+   Options: Sugar / Plain oil / Tea / Ragi  
    **Answer:** Ragi. *Why:* Ragi has a lot of calcium. Milk, curd and sesame seeds do too. Sugar and oil have none, and tea has almost none.
 13. (mcq) A child eats chips and sweets every day instead of dal, rice and vegetables. What may happen over time?  
-   Options: The child may gain weight and lack vitamins and minerals / The child will get stronger bones / The child will see better in the dark / Nothing  
+   Options: The child will get stronger bones / The child will see better in the dark / The child may gain weight and lack vitamins and minerals / Nothing  
    **Answer:** The child may gain weight and lack vitamins and minerals. *Why:* Junk food has a lot of sugar, salt and fat, and few vitamins or minerals. It becomes a problem when it takes the place of healthy food.
 14. (mcq) A girl looks tired, and her nails and gums look pale. Which problem may she have?  
-   Options: Anaemia / Rickets / Goitre / Night blindness  
+   Options: Rickets / Anaemia / Goitre / Night blindness  
    **Answer:** Anaemia. *Why:* Pale gums and nails can be a sign of anaemia, caused by too little iron. A doctor must check it.
 15. (mcq) Which of these helps to prevent rickets?  
-   Options: Fish oil and sunlight / Chilli / Soda / Salt only  
+   Options: Chilli / Soda / Salt only / Fish oil and sunlight  
    **Answer:** Fish oil and sunlight. *Why:* Vitamin D helps the gut take in calcium for bones. Fish oil has vitamin D, and sunlight on the skin makes it.
 16. (mcq) A boy has sores at the corners of his mouth and dry, cracked skin. Which food may help?  
-   Options: Whole grains, curd and green leaves / Only sweets / Only fizzy drinks / Only chips  
+   Options: Only sweets / Whole grains, curd and green leaves / Only fizzy drinks / Only chips  
    **Answer:** Whole grains, curd and green leaves. *Why:* These signs can come from a lack of B vitamins. Whole grains, curd and green leaves hold B vitamins.
 17. (mcq) From what age does a baby need soft top food as well as mother's milk?  
-   Options: Six months / One week / Two months / Four years  
+   Options: One week / Six months / Two months / Four years  
    **Answer:** Six months. *Why:* Until six months, mother's milk alone is enough. After that, the baby needs soft top food as well.
 18. (mcq) Which food is cheap and rich in iron for a girl who has started her periods?  
-   Options: Bajra and green leaves / White sugar / Fizzy drinks / Sweet biscuits  
+   Options: White sugar / Bajra and green leaves / Fizzy drinks / Sweet biscuits  
    **Answer:** Bajra and green leaves. *Why:* Girls who have started periods lose some blood each month, so they need more iron. Bajra and greens are rich in iron.
 19. (mcq) A person who is sick needs which kind of food to recover?  
-   Options: Energy foods and protective foods such as fruit, vegetables and dal / Only sweets / Only tea / No food  
+   Options: Only sweets / Energy foods and protective foods such as fruit, vegetables and dal / Only tea / No food  
    **Answer:** Energy foods and protective foods such as fruit, vegetables and dal. *Why:* A sick person needs energy to stay strong, and vitamins and minerals to fight infection.
 20. (mcq) Why is a mother's own food important for a breastfeeding baby?  
    Options: Her milk is most complete when she eats enough protein / It changes the baby's colour / The baby eats her plate / It has no effect  
    **Answer:** Her milk is most complete when she eats enough protein. *Why:* A mother who eats well makes milk that gives the baby all that the baby needs.
 21. (mcq) Why do people in Mexico soak maize in lime water before cooking?  
-   Options: It sets free vitamin B3 in the grain / It makes it red / It makes it sweet / It removes calcium  
+   Options: It makes it red / It makes it sweet / It sets free vitamin B3 in the grain / It removes calcium  
    **Answer:** It sets free vitamin B3 in the grain. *Why:* This old way of cooking frees niacin (vitamin B3), which is locked in maize. It also adds calcium.
 22. (mcq) Why is a local, seasonal fruit often better than one from far away out of season?  
-   Options: It is fresher and often cheaper / It is always sweeter / It has no seeds / It has more sugar  
+   Options: It is always sweeter / It has no seeds / It is fresher and often cheaper / It has more sugar  
    **Answer:** It is fresher and often cheaper. *Why:* A local fruit has less far to travel, so it is fresher. In season it tends to cost less.
 
 ## Applications

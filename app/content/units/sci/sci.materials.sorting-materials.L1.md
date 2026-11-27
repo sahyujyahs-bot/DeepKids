@@ -407,10 +407,10 @@ She smiled and fell asleep.
    Options: A bottle cap / A comb / A steel spoon / A bucket  
    **Answer:** 2. *Why:* A bottle cap, a comb and a bucket are usually plastic. A steel spoon is metal. It is shiny and cold, and it rings when tapped.
 4. (mcq) A key, a coin and a spoon are put together in one group. What question was asked?  
-   Options: Is it metal? / Is it soft? / Is it see-through?  
+   Options: Is it soft? / Is it metal? / Is it see-through?  
    **Answer:** Is it metal?. *Why:* A key, a coin and a spoon are all metal. None of them is soft or see-through.
 5. (mcq) Which of these is a good question for sorting a heap of things into two groups?  
-   Options: Is it made of wood? / Is it nice? / Is it a good day?  
+   Options: Is it nice? / Is it a good day? / Is it made of wood?  
    **Answer:** Is it made of wood?. *Why:* A good sorting question has a clear answer, yes or no, for every thing. 'Is it nice?' is different for each person.
 6. (truefalse) All metal things sink in water.  
    **Answer:** False. *Why:* False. In the Sink or Float Sort, the steel katori floated. Big steel ships float too, because their shape holds air.
@@ -424,7 +424,7 @@ She smiled and fell asleep.
    **Answer:** For example, a pressure cooker with a metal pot and a black plastic handle, in two colours.. *Why:* A strong drawing shows two clear parts, each a different material, and the child can name both.
 ### Sorting Materials (stretch) (stretch, 11 questions)
 1. (mcq) You have a clear bottle. You do not know if it is glass or plastic. What is a good test?  
-   Options: Tap it with a spoon and listen / Look at its colour / Count how many you have  
+   Options: Look at its colour / Count how many you have / Tap it with a spoon and listen  
    **Answer:** Tap it with a spoon and listen. *Why:* Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you.
 2. (sort) Sort these by the question 'Will it float in water?'  
    **Answer:** A pencil → Floated; A coin → Sank; A wooden spoon → Floated; A key → Sank; A steel katori, right way up → Floated; A steel spoon → Sank. *Why:* Wood floated. The solid metal things sank. The katori floated because its shape held air.
@@ -478,13 +478,13 @@ She smiled and fell asleep.
    Options: Their shape holds a lot of air inside / Steel always floats / The sea is too deep for them to sink  
    **Answer:** Their shape holds a lot of air inside. *Why:* A ship is a huge hollow shape, like a giant katori. The air inside helps the water hold it up.
 9. (mcq) Before testing, you guess that the pencil will float. What should you do next?  
-   Options: Test it in the water and see / Change your guess without testing / Say you were right without testing  
+   Options: Change your guess without testing / Say you were right without testing / Test it in the water and see  
    **Answer:** Test it in the water and see. *Why:* A guess is where science starts. Then you test it, and the test shows if the guess was right.
 10. (mcq) You guessed that all the metal things would sink. The katori floated. What does that tell you?  
    Options: Your guess was wrong for the katori, so you learned something new / The test went wrong / The katori is not really metal  
    **Answer:** Your guess was wrong for the katori, so you learned something new. *Why:* The katori is metal, and it floated. When a test does not match a guess, you learn something new.
 11. (mcq) In a key of yes or no questions, what does each answer tell you?  
-   Options: Which question to ask next / What colour the thing is / How heavy the thing is  
+   Options: What colour the thing is / How heavy the thing is / Which question to ask next  
    **Answer:** Which question to ask next. *Why:* Each yes or no answer sends you to the next question, until you reach one thing. The colour and the weight do not set the path in a key.
 
 ## Applications

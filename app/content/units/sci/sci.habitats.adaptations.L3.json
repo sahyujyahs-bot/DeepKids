@@ -606,11 +606,11 @@
       "t": "mcq",
       "q": "A cave is always dark. Which feature helps most?",
       "options": [
-       "Thick waxy coat",
        "Lateral line",
+       "Thick waxy coat",
        "Hump of fat"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A lateral line feels the water moving, so a cave fish can find food and avoid rocks without seeing. A waxy coat saves water, and a hump stores fat. Both help in a desert, not in the dark."
      }
     },
@@ -701,11 +701,11 @@
       "t": "mcq",
       "q": "Why do real penguins keep shuffling round in a huddle?",
       "options": [
-       "So every penguin gets a turn in the warm middle",
        "Because they are bored",
+       "So every penguin gets a turn in the warm middle",
        "To find food"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The penguins on the outside face the icy wind and lose heat fastest. By shuffling, each penguin takes turns on the outside and in the warm middle. Scientists filming huddles saw the whole crowd move in small steps, like a slow wave. Picking 'to find food' is a fair guess, but there is no food on the ice. They find it in the sea."
      }
     }
@@ -1139,11 +1139,11 @@
       "t": "mcq",
       "q": "After 5 hours, the plain leaf hangs floppy but the coated leaf still stands out. Why?",
       "options": [
-       "The jelly fed the leaf",
        "The jelly coat slowed down the water escaping from the leaf, so it kept its water",
+       "The jelly fed the leaf",
        "The coated leaf was a stronger leaf"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A leaf is firm when its cells are full of water. Water escapes from a picked leaf through its surface and its tiny holes. The jelly covered them, so the coated leaf kept its water and stayed firm. Picking 'the jelly fed the leaf' is a natural guess, but petroleum jelly is not food for a plant. A cactus's thick waxy coat works the same way, all their life."
      },
      "parent": "A spinach leaf under a fan usually goes limp within 2 to 4 hours. A thicker leaf, like money plant, can take a day, so check the leaf the next morning instead. If both leaves stay firm, move the plate into the sun. If they still look the same, say so honestly in your record: this test did not show a difference."
@@ -1230,11 +1230,11 @@
       "t": "mcq",
       "q": "How does a blind cave fish find their way in the dark?",
       "options": [
-       "They have a row of sensors along their sides that feel the water moving",
        "They glow",
-       "They just bump into things"
+       "They just bump into things",
+       "They have a row of sensors along their sides that feel the water moving"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fish's lateral line feels the water moving around them, much as your hand felt the spoon's ripples. Moving animals, and water flowing past rocks, all make ripples. Picking 'they glow' mixes cave fish up with some deep-sea fish, which make their own light. Cave fish usually do not."
      }
     }
@@ -1695,10 +1695,10 @@
       "q": "Which is the best way to explain an adaptation?",
       "options": [
        "Name the feature only: 'A camel has a hump.'",
-       "Say the problem, then how the feature helps: 'The desert has little water, so a camel's body loses very little.'",
-       "Say what it looks like: 'A camel is brown.'"
+       "Say what it looks like: 'A camel is brown.'",
+       "Say the problem, then how the feature helps: 'The desert has little water, so a camel's body loses very little.'"
       ],
-      "a": 1,
+      "a": 2,
       "why": "An adaptation always solves a problem. Saying the problem first shows why the feature matters. Naming the feature alone does not say how it helps. The colour of an animal can be an adaptation too, but only if you say what problem it solves."
      }
     }
@@ -1896,11 +1896,11 @@
    "p": "What is an adaptation?",
    "opts": [
     "Any change in the weather",
-    "A feature of body or behaviour that helps a living thing live in their habitat",
     "A kind of habitat",
-    "Something a living thing buys"
+    "Something a living thing buys",
+    "A feature of body or behaviour that helps a living thing live in their habitat"
    ],
-   "a": 1,
+   "a": 3,
    "why": "An adaptation is a feature, like a camel's padded feet, or a way of behaving, like a lizard hiding at noon, that helps a living thing live and have young in their habitat.",
    "outcome": 0
   },
@@ -1908,12 +1908,12 @@
    "t": "mcq",
    "p": "A person moves from Bengaluru to hot Chennai. After two weeks they start to sweat sooner on hot days. What is this called?",
    "opts": [
-    "An adaptation passed on to their children",
     "Acclimatising: their body getting used to a new place in their own life",
+    "An adaptation passed on to their children",
     "Hibernation",
     "Echolocation"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Changes that happen in your own life, as your body gets used to a place, are called acclimatising. They are not passed on to your children. Picking 'an adaptation passed on' mixes up the two.",
    "outcome": 0
   },
@@ -1921,12 +1921,12 @@
    "t": "mcq",
    "p": "Three paper towels are wetted the same way. One is left flat, one is rolled up tight, and one is covered with plastic. Which one dries first?",
    "opts": [
-    "The flat one",
     "The rolled one",
+    "The flat one",
     "The covered one",
     "They all dry at the same time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water escapes only where the towel touches the air. The flat towel has all of its surface open to the air, so its water escapes fastest. Rolling hides most of the surface, and the plastic covers it.",
    "outcome": 5,
    "how": "e1"
@@ -1948,12 +1948,12 @@
    "t": "mcq",
    "p": "What is inside a camel's hump?",
    "opts": [
-    "Water",
     "Mostly fat",
+    "Water",
     "Air",
     "Sand"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The hump is mostly fat. A camel saves water by losing very little of it, for example by letting their body warm up during the day instead of sweating. Picking 'water' is a very common idea, but Bodil and Knut Schmidt-Nielsen showed it is wrong.",
    "outcome": 6
   },
@@ -1962,11 +1962,11 @@
    "p": "A fennec fox lives in the hot Sahara Desert. They have very big ears. How do big ears help them?",
    "opts": [
     "They help them hear the rain",
-    "Heat leaves their blood through the thin skin of their ears, which cools them down",
     "They keep sand out",
+    "Heat leaves their blood through the thin skin of their ears, which cools them down",
     "They store water"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Blood flows close to the skin in the big, thin ears, and heat escapes from it into the air. That cools the fox. An Arctic fox, which lives in the cold, has small ears that lose little heat.",
    "outcome": 1
   },
@@ -2014,11 +2014,11 @@
    "p": "Some mangrove trees grow in salty mud on the coast. Why do they have roots that stick up out of the mud?",
    "opts": [
     "To catch fish",
-    "Because the mud under water has very little air, and these roots take in air",
     "To hold salt",
+    "Because the mud under water has very little air, and these roots take in air",
     "To climb out"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Wet mud has very little air in it. Roots that poke up out of the mud can take in air, so the tree's roots get what they need.",
    "outcome": 3
   },
@@ -2027,11 +2027,11 @@
    "p": "A cat's eyes shine in a torch beam at night. Why?",
    "opts": [
     "Cats' eyes make their own light",
-    "A shiny layer at the back of the eye reflects the light back",
     "The torch is broken",
-    "Cats are scared"
+    "Cats are scared",
+    "A shiny layer at the back of the eye reflects the light back"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Many night animals have a shiny layer at the back of the eye. It reflects light back through the eye, which helps them see in dim light. It does not make light.",
    "outcome": 4,
    "how": "a4"
@@ -2041,11 +2041,11 @@
    "p": "Some fish live in dark caves and have no eyes. How do they find their food?",
    "opts": [
     "They wait for sunlight",
-    "They use their lateral line, which feels the water move, and many taste buds",
     "They use their eyes",
-    "They never eat"
+    "They never eat",
+    "They use their lateral line, which feels the water move, and many taste buds"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Cave fish feel the water moving with their lateral line, and find food by taste and touch. In total darkness, eyes cannot help them.",
    "outcome": 4
   }
@@ -2073,12 +2073,12 @@
      "t": "mcq",
      "p": "Which animal is best suited to icy Ladakh?",
      "opts": [
-      "A snow leopard",
       "A frog",
       "A camel",
+      "A snow leopard",
       "A mudskipper"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A snow leopard has thick fur, a long thick tail and small ears, which keep them warm in the snow."
     },
     {
@@ -2190,11 +2190,11 @@
      "t": "mcq",
      "p": "Why does a cactus have spines instead of flat leaves?",
      "opts": [
-      "Flat leaves would lose too much water in the dry air",
       "Spines make them grow faster",
-      "Spines help them swim"
+      "Spines help them swim",
+      "Flat leaves would lose too much water in the dry air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Flat leaves have a big surface, and water escapes through it. Spines lose very little water, and also protect the cactus from thirsty animals."
     },
     {
@@ -2265,11 +2265,11 @@
      "t": "mcq",
      "p": "In the three wet leaves test, why must all three towels go under the same fan?",
      "opts": [
-      "So they look nice together",
       "So that only the shape and covering change, and the test is fair",
+      "So they look nice together",
       "So the fan dries them faster"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If one towel had more wind, we could not tell whether its shape or the wind made it dry faster. A fair test changes only one thing.",
      "how": "e1"
     },
@@ -2289,33 +2289,33 @@
      "t": "mcq",
      "p": "A camel's body warms up by about 6 degrees on a hot day, and cools down at night. How does this help them?",
      "opts": [
-      "They save the water they would use up sweating to stay cool",
       "It helps them run faster",
-      "It keeps them awake"
+      "It keeps them awake",
+      "They save the water they would use up sweating to stay cool"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sweating cools a body but uses up water. By letting their body warm up, the camel sweats much less, and the night air cools them down again for free."
     },
     {
      "t": "mcq",
      "p": "An Arctic fox has small ears. A fennec fox in the desert has huge ears. Why the difference?",
      "opts": [
-      "Small ears lose less heat in the cold, and big ears get rid of heat in the desert",
       "The desert fox needs to hear better",
+      "Small ears lose less heat in the cold, and big ears get rid of heat in the desert",
       "Arctic foxes are younger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heat escapes from the blood through the thin skin of the ears. In the cold, small ears keep warmth in. In the heat, big ears help the fox cool down."
     },
     {
      "t": "mcq",
      "p": "Why do some mangrove trees push salt out through their leaves?",
      "opts": [
-      "Because they grow in salty sea water, and too much salt would harm them",
       "To make the leaves taste good",
+      "Because they grow in salty sea water, and too much salt would harm them",
       "To attract birds"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mangroves grow where the sea comes in every day. Some keep salt out at their roots, and others, like the grey mangrove, push the extra salt out through their leaves."
     },
     {
@@ -2450,10 +2450,10 @@
      "p": "A shark is a fish and a dolphin is a mammal. Why do they have such similar shapes?",
      "opts": [
       "They are close cousins",
-      "Both must swim fast in water, and that problem led to the same shape",
-      "Dolphins copied sharks"
+      "Dolphins copied sharks",
+      "Both must swim fast in water, and that problem led to the same shape"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Unrelated living things in similar places often end up with similar shapes. Scientists call this convergent evolution."
     },
     {
@@ -2499,11 +2499,11 @@
      "t": "mcq",
      "p": "Why might a cactus grow slowly?",
      "opts": [
-      "Opening their tiny leaf holes only at night lets in less air for making food",
       "They have too much water",
+      "Opening their tiny leaf holes only at night lets in less air for making food",
       "They are always cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Saving water has a cost. With their stomata closed by day, a cactus takes in less air, and they need air to make food."
     },
     {

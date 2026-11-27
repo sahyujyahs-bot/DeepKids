@@ -386,10 +386,10 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 7. (label) Idli, sambar and a banana are on a plate. Write G for grow, E for energy or P for protect.  
    **Answer:** E next to the idli, G next to the sambar, P next to the banana. The banana could also get an E.. *Why:* Idli is mostly rice starch. Sambar is made with dal, a grow food, and vegetables. A banana is a protect food, and it also gives sugar for energy.
 8. (mcq) You eat a big plate of sweets, and now you do not want your dinner. What is the problem?  
-   Options: Sweets filled you up, so there is no room for grow and protect foods / Sweets have too much protein / There is no problem  
+   Options: Sweets have too much protein / There is no problem / Sweets filled you up, so there is no room for grow and protect foods  
    **Answer:** Sweets filled you up, so there is no room for grow and protect foods. *Why:* Sweets give lots of energy but do little to help you grow or stay well. When they fill the tummy, the body misses the foods that build and protect it.
 9. (mcq) A friend says: 'Only sweet foods give us sugar.' What would you tell your friend?  
-   Options: Rice and chapati give sugar too, because the body cuts their starch into sugar / Your friend is right / Sugar comes only from sugarcane  
+   Options: Your friend is right / Rice and chapati give sugar too, because the body cuts their starch into sugar / Sugar comes only from sugarcane  
    **Answer:** Rice and chapati give sugar too, because the body cuts their starch into sugar. *Why:* Starch is sugar pieces joined in chains. Spit and the gut cut the chains, so starchy foods give sugar even when they do not taste sweet.
 10. (truefalse) A guava can taste sweet and still be a protect food.  
    **Answer:** True. *Why:* True. A guava has some sugar, and lots of vitamin C. Taste does not tell you a food's job.
@@ -409,7 +409,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 5. (truefalse) Everyone's spit thins starch paste at exactly the same speed.  
    **Answer:** False. *Why:* False. People have different amounts of amylase in their spit, so some people's spit thins the paste faster than others'.
 6. (mcq) You want a drink after playing. Which is the everyday drink, not a treat?  
-   Options: Plain water / A bottle of sweet fizzy drink / A packet of sweet fruit drink  
+   Options: A bottle of sweet fizzy drink / Plain water / A packet of sweet fruit drink  
    **Answer:** Plain water. *Why:* Water has no sugar and gives your body the water it lost. Sweet drinks are treats, because of all their sugar.
 7. (write) Say it out loud, and a grown-up writes it: a friend says, 'If a food is healthy, I can eat as much as I like.' What would you tell them?  
    **Answer:** Even healthy foods are best in a mix. If you eat only one food, you miss the other jobs.. *Why:* A strong answer says that the body needs all three jobs, so a plate of only one food, even a healthy one, leaves something out.
@@ -424,7 +424,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 11. (write) Say it out loud, and a grown-up writes it: your friend says, 'Water is not food, so it does nothing for me.' What would you say?  
    **Answer:** Water gives no energy, but more than half of my body is water. It carries food parts in my blood and leaves as sweat to cool me, so I must keep drinking.. *Why:* A strong answer says water is not a food that gives energy or builds muscle, and also says what it does for the body.
 12. (mcq) Your grandfather has a cut on his hand. Which meal helps it heal best?  
-   Options: Dal, an egg and a guava / Only sweet tea / A packet of chips  
+   Options: Only sweet tea / Dal, an egg and a guava / A packet of chips  
    **Answer:** Dal, an egg and a guava. *Why:* Dal and egg give protein to build new skin. A guava gives vitamin C to help the cut close. Sweet tea and chips give little of either.
 
 ## Videos
@@ -434,7 +434,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 
 ## Quiz
 1. (mcq) What are the three main jobs of food?  
-   Options: Grow, go and protect / Sweet, sour and salty / Hot, cold and warm  
+   Options: Sweet, sour and salty / Grow, go and protect / Hot, cold and warm  
    **Answer:** Grow, go and protect. *Why:* Food helps your body grow and mend, gives it energy, and protects it from illness. Sweet, sour and salty are tastes, not jobs.
 2. (mcq) Which of these is a grow food?  
    Options: Rice / Dal / Jalebi  
@@ -443,10 +443,10 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    Options: Spinach / Chapati / Chips  
    **Answer:** Spinach. *Why:* Spinach and other greens give vitamins and minerals that help you stay well.
 4. (mcq) In the spit test, the rice paste with water stayed thick. The one with spit went runny. Why?  
-   Options: Spit cuts starch into sugar / Spit is colder than water / Spit is thicker than water  
+   Options: Spit is colder than water / Spit is thicker than water / Spit cuts starch into sugar  
    **Answer:** Spit cuts starch into sugar. *Why:* Spit has amylase, which cuts the long starch chains that keep the paste thick.
 5. (mcq) Spit has amylase, which cuts starch. You stir spit into a bowl of thick curd. Why does the curd not go runny?  
-   Options: Curd is thick from milk protein, not starch / There was too much curd / The curd was cold  
+   Options: There was too much curd / The curd was cold / Curd is thick from milk protein, not starch  
    **Answer:** Curd is thick from milk protein, not starch. *Why:* Amylase cuts starch. Curd is thick because milk protein has set, not because of starch, so amylase does not thin it.
 6. (mcq) Which food is mostly starch, so it gives you energy?  
    Options: Ragi mudde / Boiled egg / Cucumber  
@@ -455,27 +455,27 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    Options: It has lots of sugar and very little that helps you grow or stay well / It has too much protein / It has no water in it  
    **Answer:** It has lots of sugar and very little that helps you grow or stay well. *Why:* Many sweet fizzy drinks have 4 to 5 teaspoons of sugar in a glass, and almost nothing else that helps you grow or stay well.
 8. (mcq) Milk helps you grow, gives energy and keeps bones strong. What does this show?  
-   Options: One food can do more than one job / Milk is a treat / Milk has no protein  
+   Options: Milk is a treat / Milk has no protein / One food can do more than one job  
    **Answer:** One food can do more than one job. *Why:* Most foods are a mix. Milk gives protein, fat, sugar and calcium.
 9. (mcq) Before the Spit Test, you guess that the bowl of rice paste with water will go runniest. It stays thick. What should you say?  
-   Options: My guess was wrong. Spit did something water did not. / The test is broken. / Water always makes things runny.  
+   Options: The test is broken. / My guess was wrong. Spit did something water did not. / Water always makes things runny.  
    **Answer:** My guess was wrong. Spit did something water did not.. *Why:* A good scientist changes their idea when the test shows something new.
 10. (mcq) Why did the two paste bowls get the same amount of paste?  
-   Options: So that only one thing changed, and the test was fair / To save paste / So the bowls looked nice  
+   Options: To save paste / So that only one thing changed, and the test was fair / So the bowls looked nice  
    **Answer:** So that only one thing changed, and the test was fair. *Why:* In a fair test, only one thing changes. Here it was what we stirred into the paste: water or spit.
 11. (truefalse) A small treat at a festival is fine, as part of a meal with grow, go and protect foods.  
    **Answer:** True. *Why:* True. Treats are part of the fun of festivals. The trouble comes when treats are eaten often and push other foods out.
 12. (mcq) Moong, masoor and chana are dried seeds that we cook as dal. Which food family are they?  
-   Options: Cereals / Pulses / Fruits  
+   Options: Pulses / Cereals / Fruits  
    **Answer:** Pulses. *Why:* Pulses are dried seeds of bean and lentil plants, and they give protein. Cereals are grains like rice and wheat. Fruits grow on plants as fleshy, often sweet, parts.
 13. (mcq) You scrape your knee. Which meal helps new skin grow back?  
-   Options: Dal, rice and a guava / A packet of chips and a sweet fizzy drink / Only a plate of jalebi  
+   Options: A packet of chips and a sweet fizzy drink / Dal, rice and a guava / Only a plate of jalebi  
    **Answer:** Dal, rice and a guava. *Why:* The protein in dal helps build new skin, and the vitamin C in a guava helps the cut close. Chips, fizzy drinks and jalebi are treats with little of either.
 14. (mcq) After a hot game your shirt is wet with sweat. Why should you drink water?  
-   Options: Your body lost water in the sweat and needs it back / Water gives you the energy that rice gives / Water builds muscle, like dal  
+   Options: Water gives you the energy that rice gives / Water builds muscle, like dal / Your body lost water in the sweat and needs it back  
    **Answer:** Your body lost water in the sweat and needs it back. *Why:* Sweat is mostly water, so you must replace it. Water gives no energy and does not build muscle, but food cannot do its work without it.
 15. (mcq) Why does a baby of four months get only milk, and not rice and dal?  
-   Options: Milk has all a tiny baby needs, and the baby's body is not ready for other food yet / Babies do not need to grow / Rice and dal are poison for everyone  
+   Options: Babies do not need to grow / Milk has all a tiny baby needs, and the baby's body is not ready for other food yet / Rice and dal are poison for everyone  
    **Answer:** Milk has all a tiny baby needs, and the baby's body is not ready for other food yet. *Why:* A tiny baby's body can manage milk, and milk gives all three jobs. Soft foods start slowly at about six months. Babies grow very fast, and rice and dal are fine later.
 
 ## Applications

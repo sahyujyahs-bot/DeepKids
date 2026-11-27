@@ -680,11 +680,11 @@
       "t": "mcq",
       "q": "The cards CO and CO₂ have the same two elements. Are they the same substance?",
       "options": [
-       "No. CO₂ has one more oxygen atom.",
        "Yes. The elements are the same.",
-       "Yes. The small 2 changes nothing."
+       "Yes. The small 2 changes nothing.",
+       "No. CO₂ has one more oxygen atom."
       ],
-      "a": 0,
+      "a": 2,
       "why": "Carbon monoxide, CO, is a poison. Carbon dioxide, CO₂, is the gas you breathe out. If you chose yes, look at the cards H₂O and H₂O₂ as well. One atom more makes a different substance."
      },
      "parent": "The pairs are CO and CO₂, H₂O and H₂O₂, and O₂ and O₃. NaHCO₃ and Na₂CO₃ are also close.",
@@ -845,11 +845,11 @@
       "t": "mcq",
       "q": "You hold 2 H cards and 2 O cards. Which formula on the recipe sheet uses all four?",
       "options": [
-       "H₂O₂, hydrogen peroxide",
        "H₂O, water",
+       "H₂O₂, hydrogen peroxide",
        "Two lots of H₂O"
       ],
-      "a": 0,
+      "a": 1,
       "why": "H₂O₂ needs 2 hydrogen atoms and 2 oxygen atoms. Water needs only one O, so one card would be left over. Two water molecules would need 4 hydrogen atoms."
      },
      "parent": "A leftover Na with no Cl, or a lone N, shows the main idea. A formula needs exact numbers, and nearly right does not count.",
@@ -998,11 +998,11 @@
       "t": "mcq",
       "q": "In Count the Drops, why do you stir after every drop?",
       "options": [
-       "So the iodine meets all the lemon juice",
        "So the glass looks nicer",
-       "So the drops fall faster"
+       "So the drops fall faster",
+       "So the iodine meets all the lemon juice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The iodine loses its colour only where it meets lemon juice. Stirring brings them together. If you chose another answer, try one drop without stirring. A coloured patch stays where the drop fell."
      },
      "parent": "Near the end the colour fades more slowly, so wait for the full count of ten. If glass 1 clears fewer than 4 drops, double the lemon juice in every glass. If it is still clearing after 30 drops, start again with half as much juice in every glass.",
@@ -1181,11 +1181,11 @@
       "t": "mcq",
       "q": "In Water from a Dry Powder, why is the plate cooled and dried before every check?",
       "options": [
-       "So old drops are not counted again",
        "So the plate looks shiny",
-       "So the powder cools down"
+       "So the powder cools down",
+       "So old drops are not counted again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A wet plate would look wet whatever the powder did. A warm plate would let the water escape as gas. If you chose another answer, remember that a fair test starts the same way every time."
      },
      "parent": "After a minute or two the powder seems to shiver, and small puffs lift it. That is gas leaving. The plate should come away with a mist or clear drops in the middle. By 5 minutes there is usually less.",
@@ -1289,11 +1289,11 @@
       "t": "mcq",
       "q": "Which of these tells you what salt is made of?",
       "options": [
-       "NaCl",
        "Uppu",
-       "Namak"
+       "Namak",
+       "NaCl"
       ],
-      "a": 0,
+      "a": 2,
       "why": "NaCl says that salt has sodium and chlorine, one for one. Uppu and namak are good names, and millions of people use them. But a name like these does not say what the substance is made of."
      },
      "think": "Is one of these names more real than the others?",
@@ -1512,11 +1512,11 @@
       "t": "mcq",
       "q": "A tube lists sodium fluoride. Which two elements are in it?",
       "options": [
-       "Sodium and fluorine",
        "Sulfur and iron",
-       "Sodium and flour"
+       "Sodium and flour",
+       "Sodium and fluorine"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The first word names the metal, sodium. The second word is the other element with its ending changed to ide, so fluoride comes from fluorine. Its formula is NaF. If you chose sulfur and iron, check the key: sulfur is S and iron is Fe."
      },
      "parent": "Sodium usually wins. Sodium chloride is NaCl, potassium chloride is KCl and sodium fluoride is NaF.",
@@ -1601,11 +1601,11 @@
       "t": "mcq",
       "q": "What is the difference between Co and CO?",
       "options": [
-       "Co is one element. CO is two.",
        "Nothing. They are the same.",
+       "Co is one element. CO is two.",
        "CO is a louder way to write Co."
       ],
-      "a": 0,
+      "a": 1,
       "why": "Co is cobalt, a metal. CO is one carbon atom and one oxygen atom, which is the gas carbon monoxide. If you chose another answer, remember that every capital letter starts a new symbol."
      },
      "parent": "No element symbol contains J or Q, so Jaya and Qasim cannot be written. With this key there is also no way to write a D.",
@@ -1826,12 +1826,12 @@
      "t": "mcq",
      "p": "What does the small 2 in H₂O tell you?",
      "opts": [
-      "Each molecule has two hydrogen atoms",
       "Each molecule has two oxygen atoms",
       "There are two molecules of water",
-      "Water is twice as heavy as air"
+      "Water is twice as heavy as air",
+      "Each molecule has two hydrogen atoms"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A small number counts the atoms of the symbol just before it. The 2 comes after the H, so it counts hydrogen atoms.",
      "outcome": 1
     },
@@ -1891,12 +1891,12 @@
      "t": "mcq",
      "p": "Which of these is the formula of carbon dioxide?",
      "opts": [
-      "CO₂",
       "CO",
+      "CO₂",
       "Co",
       "C₂O"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Di means two. Carbon dioxide has one carbon atom and two oxygen atoms. CO is carbon monoxide, and Co is the metal cobalt.",
      "outcome": 1
     },
@@ -1958,12 +1958,12 @@
      "t": "mcq",
      "p": "What does the formula NaCl tell you about salt?",
      "opts": [
-      "One sodium for every chlorine",
       "More sodium than chlorine",
       "Sodium, carbon and iodine",
-      "Two atoms in each grain"
+      "Two atoms in each grain",
+      "One sodium for every chlorine"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Na is sodium and Cl is chlorine, with no numbers, so they are one to one. Cl is one symbol. It is not carbon followed by another element.",
      "outcome": 3
     },
@@ -2018,12 +2018,12 @@
      "t": "mcq",
      "p": "Why is the second letter of a symbol always small?",
      "opts": [
-      "So Co and CO cannot be confused",
       "Because small letters are quicker to write",
       "Because the second atom is smaller",
+      "So Co and CO cannot be confused",
       "To save ink"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Every capital letter starts a new symbol. Co is one element, cobalt. CO is two elements, carbon and oxygen.",
      "outcome": 0
     }
@@ -2039,12 +2039,12 @@
      "t": "mcq",
      "p": "Carbon monoxide is CO. Carbon dioxide is CO₂. What is the difference between their molecules?",
      "opts": [
-      "CO₂ has one more oxygen atom",
       "CO₂ has one more carbon atom",
+      "CO₂ has one more oxygen atom",
       "CO₂ is two molecules of CO",
       "There is no difference"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The small 2 counts oxygen atoms. That one extra atom makes a different gas. Carbon monoxide is a deadly poison.",
      "outcome": 2
     },
@@ -2052,12 +2052,12 @@
      "t": "mcq",
      "p": "Which pair shows two different substances made of the same two elements?",
      "opts": [
-      "H₂O and H₂O₂",
       "H₂O and NaCl",
       "O₂ and N₂",
+      "H₂O and H₂O₂",
       "CO₂ and NaCl"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water and hydrogen peroxide are both made of hydrogen and oxygen. The numbers differ, so the substances differ.",
      "outcome": 2
     },
@@ -2065,12 +2065,12 @@
      "t": "mcq",
      "p": "Salt has no separate molecules. So what does its formula NaCl mean?",
      "opts": [
-      "Equal numbers of sodium and chlorine",
       "One sodium atom in each grain",
       "One molecule made of two atoms",
-      "Salt is half metal"
+      "Salt is half metal",
+      "Equal numbers of sodium and chlorine"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Salt is a crystal in which sodium and chlorine atoms alternate. The formula gives the ratio, which is one to one.",
      "outcome": 3
     },
@@ -2252,12 +2252,12 @@
      "t": "mcq",
      "p": "A white powder has the formula KCl. Heated alone, could it give off water?",
      "opts": [
-      "No. It has no hydrogen or oxygen.",
       "Yes. Every powder holds some water.",
       "Yes, if it is heated long enough.",
-      "Only if the powder is white."
+      "Only if the powder is white.",
+      "No. It has no hydrogen or oxygen."
      ],
-     "a": 0,
+     "a": 3,
      "why": "Water is H₂O. Heating only rearranges the atoms a substance already has. KCl has potassium and chlorine atoms only.",
      "outcome": 6
     },
@@ -2265,12 +2265,12 @@
      "t": "mcq",
      "p": "Which part of a formula did people have to measure to find?",
      "opts": [
-      "The small numbers",
       "The capital letters",
+      "The small numbers",
       "The small letters",
       "The order of the letters"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The letters were agreed by people. The numbers of atoms had to be found by measuring, as with the gases from split water.",
      "outcome": 7
     },
@@ -2292,12 +2292,12 @@
      "t": "mcq",
      "p": "Vitamin B12 has the formula C₆₃H₈₈CoN₁₄O₁₄P. What does Co stand for?",
      "opts": [
-      "One atom of cobalt",
       "Carbon and oxygen",
       "Carbon monoxide",
-      "A printing mistake"
+      "A printing mistake",
+      "One atom of cobalt"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A capital letter followed by a small letter is one symbol. Co is cobalt. Carbon and oxygen would be written CO.",
      "outcome": 0
     },
@@ -2430,12 +2430,12 @@
    "t": "mcq",
    "p": "What does the formula H₂O say?",
    "opts": [
-    "Two hydrogen atoms and one oxygen atom",
     "Two oxygen atoms and one hydrogen atom",
     "Two molecules of water",
+    "Two hydrogen atoms and one oxygen atom",
     "Hydrogen and oxygen in any amounts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The small 2 follows the H, so it counts hydrogen atoms. The O has no number, so there is one oxygen atom.",
    "outcome": 1
   },
@@ -2443,12 +2443,12 @@
    "t": "mcq",
    "p": "Which symbol stands for sodium?",
    "opts": [
-    "Na",
     "So",
     "S",
+    "Na",
     "Sn"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Na comes from natrium, the old Latin name of sodium. S is sulfur and Sn is tin.",
    "outcome": 0
   },
@@ -2469,12 +2469,12 @@
    "t": "mcq",
    "p": "CO and CO₂ are made of the same two elements. Are they the same substance?",
    "opts": [
-    "No. The number of oxygen atoms differs.",
     "Yes. The elements are the same.",
     "Yes. The 2 is only decoration.",
+    "No. The number of oxygen atoms differs.",
     "No. CO has no carbon in it."
    ],
-   "a": 0,
+   "a": 2,
    "why": "One atom more makes a different substance. CO is a poisonous gas, and CO₂ is the gas you breathe out.",
    "outcome": 2
   },
@@ -2482,12 +2482,12 @@
    "t": "mcq",
    "p": "What does the formula NaCl say about a grain of salt?",
    "opts": [
-    "Equal numbers of sodium and chlorine atoms",
     "Only two atoms in the whole grain",
+    "Equal numbers of sodium and chlorine atoms",
     "It is made of separate molecules",
     "More chlorine than sodium"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Salt is a crystal with no separate molecules. Its formula gives the ratio, one sodium for every chlorine.",
    "outcome": 3
   },
@@ -2495,12 +2495,12 @@
    "t": "mcq",
    "p": "Why does twice as much lemon juice clear about twice as much iodine?",
    "opts": [
-    "Their molecules react in fixed counts",
     "Lemon juice is sour",
     "The iodine gets tired",
+    "Their molecules react in fixed counts",
     "More juice is wetter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One vitamin C molecule in the juice changes one iodine molecule. So the amounts go up together.",
    "outcome": 4,
    "how": "e1"
@@ -2516,12 +2516,12 @@
    "t": "mcq",
    "p": "Which name tells you the most about what a substance is made of?",
    "opts": [
-    "Sodium chloride",
     "Salt",
     "Uppu",
+    "Sodium chloride",
     "Namak"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A chemical name contains the names of the elements. Sodium chloride holds sodium and chlorine.",
    "outcome": 5
   },
@@ -2529,12 +2529,12 @@
    "t": "mcq",
    "p": "Two substances have the same formula. What can still be different?",
    "opts": [
-    "How the atoms are arranged",
     "The kinds of atoms",
     "The number of atoms",
-    "Nothing at all"
+    "Nothing at all",
+    "How the atoms are arranged"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A formula gives the kinds of atoms and the numbers. It leaves out the arrangement. Glucose and fructose are an example.",
    "outcome": 6
   },

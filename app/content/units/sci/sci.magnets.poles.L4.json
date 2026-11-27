@@ -683,10 +683,10 @@
       "q": "A magnet is held 1 centimetre from a ball of aluminium foil. What does it do?",
       "options": [
        "Attracts it",
-       "Repels it",
-       "Does nothing to it"
+       "Does nothing to it",
+       "Repels it"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Aluminium is not a magnetic material, so a magnet does nothing to it. If you chose attract, you may have thought every metal is magnetic. Only iron, steel, nickel and cobalt are strongly magnetic."
      },
      "context": "In this step, you play one practice card to learn how the tokens work."
@@ -865,11 +865,11 @@
       "t": "mcq",
       "q": "Two magnets are taped side by side with a north pole next to a south pole. Compared with one magnet on its own, the reach is...",
       "options": [
-       "Much bigger",
        "About the same, or smaller",
+       "Much bigger",
        "Exactly double"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fields of the two magnets point against each other, so they partly cancel. The pair reaches less far than the like-pole pair, and often less than one magnet. If you chose bigger, you may have counted the strength of each magnet and forgotten which way each field points."
      },
      "context": "In this step, you measure the reach of two magnets side by side with unlike poles together, and compare it with the other set-ups."
@@ -1077,11 +1077,11 @@
       "t": "mcq",
       "q": "Where do the field lines you drew leave the magnet and where do they end up?",
       "options": [
-       "They leave the south pole and end at the north pole",
        "They leave the north pole and end at the south pole",
+       "They leave the south pole and end at the north pole",
        "They leave from the middle of the magnet"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The red end of a compass shows the direction of the field. It points away from the north pole and towards the south pole, so the lines leave the north pole and enter the south pole. If you chose the other way, check the arrows you drew, because the lines can be drawn the wrong way round if you used the white end."
      },
      "context": "In this step, you look at your lines and say what they show."
@@ -1474,11 +1474,11 @@
       "t": "mcq",
       "q": "A tin lid between a magnet and a clip stops the clip from moving. Why?",
       "options": [
-       "The lid is thick",
        "The lid takes the magnetic field into itself",
+       "The lid is thick",
        "The lid makes the clip heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Iron and steel gather the field into themselves, so little of it gets through to the other side. Paper, cloth and plastic do not do that. If you chose thick, remember that the wood was just as thick and did not block."
      },
      "context": "In this step, you test each thing and record whether the clip still moves."
@@ -1588,11 +1588,11 @@
       "t": "mcq",
       "q": "Why do the iron filings line up along the field lines?",
       "options": [
-       "Each filing becomes a tiny magnet and turns to follow the field",
        "The magnet pulls them into curved shapes",
+       "Each filing becomes a tiny magnet and turns to follow the field",
        "The filings are attracted to the paper"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each filing becomes a tiny temporary magnet in the field and turns, like a very small compass needle, to line up along it. The lines are the filings, not threads in space. If you chose the second, remember that the lines are a way of showing direction."
      },
      "context": "In this step, you draw the picture and compare it with your compass lines."
@@ -1797,11 +1797,11 @@
       "t": "mcq",
       "q": "A magnet leads a clip through 3 centimetres of card but not 5. You tape a second magnet beside it, north to north. What is the best prediction?",
       "options": [
-       "It will now lead through about 4 centimetres",
        "It will now lead through 6 centimetres exactly",
+       "It will now lead through about 4 centimetres",
        "It will lead through the same 3 centimetres, no more"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Two magnets side by side with like poles together add their fields, so the reach grows. But the pull fades so fast with distance that the reach grows only a little. If you chose 6 centimetres, you assumed that twice the magnets give twice the reach."
      },
      "context": "In this step, you measure the thickness the magnet reached through and test two magnets together.",
@@ -1912,11 +1912,11 @@
       "t": "mcq",
       "q": "Two identical magnets are side by side, with a north pole next to a south pole. Why is the pair quieter than one magnet?",
       "options": [
-       "The two fields point opposite ways and partly cancel",
        "The magnets are twice as heavy",
-       "The compass is attracted to both equally"
+       "The compass is attracted to both equally",
+       "The two fields point opposite ways and partly cancel"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At a distance, the field of one magnet points one way and the field of the other points the opposite way, so they largely cancel. The magnets are not weaker. Their fields work against each other. If you chose heavier, remember that weight does not change a magnetic field."
      },
      "context": "In this step, you draw your quietest pair and explain why it is quiet."
@@ -2095,12 +2095,12 @@
      "t": "mcq",
      "p": "A magnet is held 2 centimetres from a clip, with a sheet of paper between them. What happens?",
      "opts": [
-      "The clip is pulled, because paper does not block the field",
       "The clip is not pulled, because the paper is in the way",
       "The clip is pushed away",
-      "The paper is pulled instead"
+      "The paper is pulled instead",
+      "The clip is pulled, because paper does not block the field"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Paper does not block a magnetic field, so the clip is pulled as if nothing were there."
     },
     {
@@ -2133,11 +2133,11 @@
      "p": "Which of these best describes a magnetic field?",
      "opts": [
       "A metal wire inside the magnet",
-      "The region around a magnet where its force can be felt",
       "The paint on a magnet",
-      "The weight of a magnet"
+      "The weight of a magnet",
+      "The region around a magnet where its force can be felt"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A field is the region around a magnet where the magnetic force acts. At every spot in it, the force has a strength and a direction."
     },
     {
@@ -2171,11 +2171,11 @@
      "p": "Two identical bar magnets are taped side by side with their north poles together. Compared with one magnet, the pair reaches...",
      "opts": [
       "Much less far",
-      "A little further",
       "Exactly twice as far",
-      "The same"
+      "The same",
+      "A little further"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The fields point the same way and add, so the pair reaches further. But the pull fades so fast with distance that the reach grows only a little.",
      "how": "e1"
     },
@@ -2183,12 +2183,12 @@
      "t": "mcq",
      "p": "A compass is placed at 10 centimetres and 20 centimetres from a magnet. At 10 it turns 54 degrees, and at 20 it turns 15. What does this show?",
      "opts": [
-      "The turn dropped to less than half when the distance doubled",
       "The turn halved exactly",
       "The turn did not change",
-      "The turn doubled"
+      "The turn doubled",
+      "The turn dropped to less than half when the distance doubled"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Half of 54 is 27, and the turn at 20 centimetres was 15, which is less than half. The pull fades faster than the distance grows.",
      "how": "e3"
     },
@@ -2196,12 +2196,12 @@
      "t": "mcq",
      "p": "A shop stores bar magnets in a box in pairs, with the north pole of one next to the south pole of the other. Why?",
      "opts": [
-      "The fields partly cancel, so less field leaks out and the magnets stay strong",
       "The magnets get heavier",
       "It saves space only",
+      "The fields partly cancel, so less field leaks out and the magnets stay strong",
       "Magnets cannot touch their own kind"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With unlike poles together, the two fields point opposite ways and largely cancel outside. The magnets also hold each other's domains in line."
     },
     {
@@ -2222,10 +2222,10 @@
      "opts": [
       "12 centimetres",
       "6 centimetres",
-      "A bit more than 3 centimetres, but much less than 12",
-      "Less than 3 centimetres"
+      "Less than 3 centimetres",
+      "A bit more than 3 centimetres, but much less than 12"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The pull fades so fast with distance that a much stronger magnet reaches only a little further."
     },
     {
@@ -2380,12 +2380,12 @@
      "t": "mcq",
      "p": "A compass held 1 metre from a bar magnet points almost exactly north. Why?",
      "opts": [
-      "The magnet's field is too weak that far away, so the Earth's field decides",
       "The compass is broken",
       "Magnets only work within 10 centimetres",
-      "North always wins"
+      "North always wins",
+      "The magnet's field is too weak that far away, so the Earth's field decides"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The pull fades very quickly with distance. At 1 metre, the Earth's weak field is stronger than the magnet's."
     },
     {
@@ -2393,11 +2393,11 @@
      "p": "A magnet is 100 times stronger than another. A friend says it will reach 100 times as far. A better prediction is...",
      "opts": [
       "Exactly 100 times as far",
-      "Only a few times as far",
       "The same distance",
+      "Only a few times as far",
       "Less far"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The pull fades so fast with distance that a much stronger magnet reaches only a few times further."
     },
     {
@@ -2416,12 +2416,12 @@
      "t": "mcq",
      "p": "A stainless steel katori does not stick to a magnet. A spoon next to it is also stainless steel. What should you do?",
      "opts": [
-      "Assume the spoon will not stick either",
       "Test the spoon with a magnet",
+      "Assume the spoon will not stick either",
       "Assume the spoon will stick",
       "Ask the katori"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Different kinds of stainless steel behave differently. Some are magnetic and some are not, so each thing must be tested."
     },
     {
@@ -2539,12 +2539,12 @@
    "t": "mcq",
    "p": "How can a magnet move a paper clip that it does not touch?",
    "opts": [
-    "The magnet has a magnetic field around it, and the clip is inside the field",
     "Air carries the force from the magnet to the clip",
+    "The magnet has a magnetic field around it, and the clip is inside the field",
     "The clip is attracted to the table",
     "A thread connects them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A magnet fills the space around it with a field. A clip inside that field becomes a temporary magnet and is pulled.",
    "outcome": 0
   },
@@ -2553,11 +2553,11 @@
    "p": "The red end of a compass needle is held near the south pole of a bar magnet. What does it do?",
    "opts": [
     "It points away from the pole",
-    "It points towards the pole",
     "It spins round and round",
+    "It points towards the pole",
     "It does nothing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The red end is a north-seeking end. It is pulled towards a south pole.",
    "outcome": 1
   },
@@ -2578,12 +2578,12 @@
    "t": "mcq",
    "p": "Which statement about the pull of a magnet is true?",
    "opts": [
-    "It stays the same at any distance",
     "It fades quickly as you move away",
+    "It stays the same at any distance",
     "It gets stronger as you move away",
     "It stops suddenly at 1 metre"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The field spreads out and bends back, so the pull fades very quickly with distance.",
    "outcome": 3
   },
@@ -2591,12 +2591,12 @@
    "t": "mcq",
    "p": "Two identical magnets are side by side, with a north pole next to a south pole. What happens to the field far away?",
    "opts": [
-    "The fields partly cancel",
     "The fields double",
+    "The fields partly cancel",
     "The fields disappear for ever",
     "Nothing changes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fields point opposite ways and partly cancel outside the pair.",
    "outcome": 4
   },
@@ -2604,12 +2604,12 @@
    "t": "mcq",
    "p": "Which of these would stop a magnet from pulling a clip on the other side?",
    "opts": [
-    "A sheet of glass",
     "A thick iron plate",
+    "A sheet of glass",
     "A glass of water",
     "A sheet of paper"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Iron takes the field into itself. The others let the field pass.",
    "outcome": 5
   },
@@ -2617,12 +2617,12 @@
    "t": "mcq",
    "p": "Using field lines, why do unlike poles attract and like poles repel?",
    "opts": [
-    "They are two different forces",
     "They come from one field, and the lines join unlike poles and bunch between like poles",
+    "They are two different forces",
     "Because north is stronger than south",
     "Because of gravity"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Both come from the same field. Lines join unlike poles, and meet and push apart between like poles.",
    "outcome": 6
   },
@@ -2643,12 +2643,12 @@
    "t": "mcq",
    "p": "Does a magnet's field exist in empty space, with no air at all?",
    "opts": [
-    "Yes, it works in a vacuum too",
     "No, it needs air",
     "Only in water",
-    "Only for small magnets"
+    "Only for small magnets",
+    "Yes, it works in a vacuum too"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The Earth's magnetic field reaches far into space. Magnets work in a vacuum.",
    "outcome": 0
   },
@@ -2656,12 +2656,12 @@
    "t": "mcq",
    "p": "A small magnet is moved to twice the distance from a clip. The pull on the clip becomes...",
    "opts": [
+    "Much less than half",
     "The same",
     "Exactly half",
-    "Much less than half",
     "Double"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The pull fades much faster than the distance grows. Doubling the distance cuts the pull by much more than half.",
    "outcome": 3
   },
@@ -2682,12 +2682,12 @@
    "t": "mcq",
    "p": "Why do scientists repeat a test three times and find the mean?",
    "opts": [
-    "One try may be a slip, and the mean gives a fairer answer",
     "To make the test last longer",
+    "One try may be a slip, and the mean gives a fairer answer",
     "Because three is a lucky number",
     "The mean is always the biggest reading"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A single reading can be off by a slip. The mean of several readings is a fairer answer and shows if one reading does not fit.",
    "outcome": 2
   }

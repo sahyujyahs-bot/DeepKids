@@ -576,7 +576,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 9. (label) Label the earthworm: rings, bristles, slimy skin, mouth end.  
    **Answer:** The mouth is at the pointed front end. The body is made of rings. Tiny bristles stick out from each ring. The whole body is covered in slimy skin.. *Why:* Each part helps the worm live in soil: rings and bristles for moving, slime for breathing.
 10. (mcq) In the Worm Tunnels test, why did we pack both cups of soil the same?  
-   Options: So that only the tunnels were different / Because packed soil is prettier / So that the water would go cold  
+   Options: Because packed soil is prettier / So that the water would go cold / So that only the tunnels were different  
    **Answer:** So that only the tunnels were different. *Why:* In a fair test, only one thing changes. If one cup were packed harder, we could not tell whether the tunnels or the packing made the difference.
 11. (sort) Sort these crops by the soil they grow best in.  
    **Answer:** cotton → Black soil; ragi → Red soil; rice → River soil; groundnut → Red soil; wheat → River soil. *Why:* Cotton likes the water-holding black soil. Ragi and groundnut grow well in red soil. Rice and wheat grow in river plains and deltas.
@@ -596,14 +596,14 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 1. (write) In the Soil Jar experiment, the soil settled into layers. Use the layers to explain why soil is a mix and not one material.  
    **Answer:** If soil were one material, it would all sink or float together. Instead, sand, silt and clay settled at different speeds, and plant bits floated. So soil is made of different parts mixed together.. *Why:* A strong answer uses the different settling speeds as evidence for a mix.
 2. (mcq) Two soils are tested in jars. Soil A has a thick sand layer and almost no clay. Soil B has a thick clay layer. Which soil will water drain through faster?  
-   Options: Soil A, the sandy one / Soil B, the clayey one / They will be the same  
+   Options: Soil B, the clayey one / They will be the same / Soil A, the sandy one  
    **Answer:** Soil A, the sandy one. *Why:* Sand grains are big, with big gaps between them, so water runs through fast. Clay grains are tiny, with tiny gaps, so water moves slowly and is held.
 3. (order) Put the journey of a grain in order, from rock to rice field.  
    **Answer:** ['Sun and rain crack a rock on a hill', 'A piece breaks off and rolls into a river', 'The river knocks it into tiny grains', 'The river lays the grains down in a delta', 'Worms and roots mix the grains with humus', 'Rice grows in the field']. *Why:* This is how much of the river soil in the Kaveri and Godavari deltas was made: weathering, then rivers carrying and breaking the grains, then laying them down, then living things making it into topsoil.
 4. (perspective) A family on a hill farm is deciding what to do with a bare, steep field before the monsoon.  
    **Answer:** A strong answer picks a side with a reason about erosion, such as roots holding soil or walls slowing water, and admits a fair point from another side, such as the need to plant on time.. *Why:* There is no single right answer. Each idea weighs work, time and the risk of losing topsoil.
 5. (mcq) Old worm tunnels in a field often have roots growing down inside them. Why do roots grow there?  
-   Options: The soil in a tunnel is loose and has air and water / Roots are afraid of worms / The tunnels are full of sunlight  
+   Options: Roots are afraid of worms / The soil in a tunnel is loose and has air and water / The tunnels are full of sunlight  
    **Answer:** The soil in a tunnel is loose and has air and water. *Why:* Worm tunnels are open paths, with air, water and castings rich in nutrients. A root senses these and grows where it is easiest and best.
 6. (write) Earthworms move away from a bright torch held over their soil. How does this help them live?  
    **Answer:** In bright light, birds can see them easily. The sun also dries their skin, and they need damp skin to breathe. Moving away from light keeps them safe and damp.. *Why:* A strong answer links the behaviour to the worm's problem: drying out and being seen.
@@ -612,7 +612,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 8. (fill) A grain of clay is much ____ than a grain of sand.  
    **Answer:** ['smaller']. *Why:* Clay grains are the smallest grains in soil. Hundreds could fit across one sand grain.
 9. (mcq) Why does the black soil of the Deccan crack open in summer?  
-   Options: It has lots of clay, which swells when wet and shrinks as it dries / Earthquakes crack it / The cotton roots pull it apart  
+   Options: Earthquakes crack it / It has lots of clay, which swells when wet and shrinks as it dries / The cotton roots pull it apart  
    **Answer:** It has lots of clay, which swells when wet and shrinks as it dries. *Why:* Clay soaks up water and swells, then shrinks as it dries. Black soil is full of clay, so the shrinking opens deep cracks.
 10. (match) Match each soil to where in India much of it is found.  
    **Answer:** Red soil → Tamil Nadu and Karnataka; Black soil → the Deccan plateau; River soil → the Ganga plains and the river deltas; Laterite → Kerala and the west coast. *Why:* Each soil formed from the rock and the weather in its own region.
@@ -621,7 +621,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 12. (sort) Sort these ways rock is broken up.  
    **Answer:** a root growing in a crack → By living things; hot days and cool nights → By weather; a river rolling stones → By moving water; water freezing in a crack → By weather; waves on a rocky beach → By moving water; an earthworm grinding grains in their gut → By living things. *Why:* Rock is broken by weather, by living things, and by moving water. Earthworms grind soil grains a little in their gut, so they belong with living things.
 13. (mcq) You shake pieces of chalk in a closed jar of water for a long time. A white powder collects at the bottom. What does this show about stones in a river?  
-   Options: Stones knock against each other and break into tiny grains like silt and clay / Stones melt in water / The water turns into salt  
+   Options: Stones melt in water / Stones knock against each other and break into tiny grains like silt and clay / The water turns into salt  
    **Answer:** Stones knock against each other and break into tiny grains like silt and clay. *Why:* The powder is tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river. Over a long time this is how rock becomes part of soil.
 14. (write) Many people think plants eat soil to grow. Use what you know to say what plants really take from the soil.  
    **Answer:** Plants take water and small amounts of nutrients from the soil, and the soil holds them up. Most of a plant's body is made from air and water, joined together using sunlight.. *Why:* A strong answer separates what comes from the soil (water and nutrients) from what comes from air and light.
@@ -649,7 +649,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 8. (order) Put these grains in order from the biggest to the smallest.  
    **Answer:** ['a pebble', 'sand', 'silt', 'clay']. *Why:* Pebbles are bigger than sand, sand is bigger than silt, and clay is the smallest. This is also the order they settle in water.
 9. (mcq) A farmer near Thanjavur grows rice in the same field every year and never adds manure. What will slowly happen?  
-   Options: The soil will lose nutrients and the crops will get smaller / The soil will turn into rock / Nothing, because rice adds nutrients  
+   Options: The soil will turn into rock / The soil will lose nutrients and the crops will get smaller / Nothing, because rice adds nutrients  
    **Answer:** The soil will lose nutrients and the crops will get smaller. *Why:* Each harvest carries away nutrients from the field. Without manure, compost or fertiliser to put them back, the soil slowly gets poorer.
 10. (draw) Design a balcony box that turns your family's fallen leaves and peels into humus. Draw it and label how air, water and worms or other decomposers get in.  
    **Answer:** A box or bucket with holes for air, a lid against rain, layers of peels and dry leaves, and a tray underneath for drips.. *Why:* A strong design gives decomposers food, air, water and shade, the things they need.
@@ -662,7 +662,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 14. (label) Label the parts of this drawing of soil up close: sand grain, silt grain, clay, humus, water, air, root hair.  
    **Answer:** The largest grains are sand. Smaller grains are silt. The tiny flakes are clay. The dark bit is humus. The gaps hold water drops and air bubbles. A thin root hair passes between the grains.. *Why:* Each part has a job. Grains come from rock. Humus comes from dead plants. Water and air in the gaps keep roots alive.
 15. (mcq) Why does a jar of soil from under a big old tree usually have more floating bits than a jar of sand from a building site?  
-   Options: Leaves have fallen and rotted there for years, adding humus / Trees make sand / Building sand has been cleaned of rock  
+   Options: Trees make sand / Building sand has been cleaned of rock / Leaves have fallen and rotted there for years, adding humus  
    **Answer:** Leaves have fallen and rotted there for years, adding humus. *Why:* Under a tree, leaves keep falling and decomposing, so the soil gathers humus. Building sand is rock grains with almost no dead plant material.
 16. (write) A hill farm loses a little soil every monsoon. Name three people or things, besides the farmer, who lose something when the soil washes away.  
    **Answer:** The cows and goats lose grass to eat. The village well may have less water. The canal or tank fills up with mud and holds less water. The people downstream may get floods.. *Why:* A strong answer sees that lost soil harms more than the farm. It silts up water, it can bring floods, and it takes away the grass that animals eat.
@@ -674,49 +674,49 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 
 ## Quiz
 1. (mcq) What is most of the solid part of soil made of?  
-   Options: Tiny grains of broken rock / Dead leaves / Water  
+   Options: Dead leaves / Water / Tiny grains of broken rock  
    **Answer:** Tiny grains of broken rock. *Why:* Most of the solid part of soil is rock broken into sand, silt and clay. Humus from dead plants is a smaller part, and water fills some of the gaps.
 2. (mcq) You shake pot soil in a jar of water and put the jar down. Which layer reaches the bottom first?  
-   Options: Clay / Sand / Humus  
+   Options: Sand / Clay / Humus  
    **Answer:** Sand. *Why:* Sand grains are the biggest and heaviest, so they sink in seconds. Clay grains are so small they take a day or more. Humus bits often float.
 3. (mcq) You sieve soil and mix it with water in a jar. After the water is left still, how do you get clay?  
-   Options: Pour off the water, and keep the fine mud that settled on top / Boil the soil / Heat the jar in the sun until the water is gone  
+   Options: Boil the soil / Pour off the water, and keep the fine mud that settled on top / Heat the jar in the sun until the water is gone  
    **Answer:** Pour off the water, and keep the fine mud that settled on top. *Why:* The fine grains of silt and clay sink slowly and form the mud on top. Pouring off the water leaves that mud, which you can shape. Boiling or heating the jar changes the soil for no reason.
 4. (mcq) Where does humus come from?  
-   Options: From rocks melting / From dead plants and animals that decomposers have broken down / From rain water  
+   Options: From dead plants and animals that decomposers have broken down / From rocks melting / From rain water  
    **Answer:** From dead plants and animals that decomposers have broken down. *Why:* Humus is the dark part of soil made when fungi, bacteria, earthworms and other decomposers break down dead leaves, roots and animals.
 5. (mcq) How does humus help a plant?  
    Options: It holds water like a sponge and gives nutrients / It makes the soil hard / It keeps the sunlight off the roots  
    **Answer:** It holds water like a sponge and gives nutrients. *Why:* Humus soaks up water and holds it near the roots. As it breaks down further, it releases nutrients that plants need.
 6. (mcq) A peepal plant grows in a crack in an old wall. What happens to the wall over many years?  
-   Options: Nothing, because roots are soft / The roots grow thicker and push the crack wider / The wall turns into a tree  
+   Options: The roots grow thicker and push the crack wider / Nothing, because roots are soft / The wall turns into a tree  
    **Answer:** The roots grow thicker and push the crack wider. *Why:* Roots grow thicker as the plant grows, and they push with great force. This is one way rock and stone are broken up by living things.
 7. (mcq) You pour water on two cups of packed soil. One cup has pencil holes. What happens?  
-   Options: The cup with holes soaks up the water much faster / Both soak it up at the same speed / The cup with holes keeps a puddle on top  
+   Options: Both soak it up at the same speed / The cup with holes soaks up the water much faster / The cup with holes keeps a puddle on top  
    **Answer:** The cup with holes soaks up the water much faster. *Why:* The holes are open paths, like worm tunnels. Water runs down them quickly. On packed soil with no holes, the water sits on top.
 8. (mcq) Why do farmers like earthworms in their fields?  
-   Options: Worms eat the crops' pests / Worm tunnels let in air and water, and their castings are rich in nutrients / Worms keep the soil dry  
+   Options: Worms eat the crops' pests / Worms keep the soil dry / Worm tunnels let in air and water, and their castings are rich in nutrients  
    **Answer:** Worm tunnels let in air and water, and their castings are rich in nutrients. *Why:* Worm tunnels help air and rain into the soil and give roots easy paths. Worm castings hold nutrients plants can use.
 9. (mcq) After rain, you turn over a flowerpot and find long, brown, many-legged creatures that curl up. What are they probably?  
-   Options: Millipedes, who eat dead leaves in the damp soil / Earthworms, who have no legs / Centipedes, who have a single pair of legs on each ring  
+   Options: Earthworms, who have no legs / Centipedes, who have a single pair of legs on each ring / Millipedes, who eat dead leaves in the damp soil  
    **Answer:** Millipedes, who eat dead leaves in the damp soil. *Why:* Millipedes have two pairs of short legs on almost every ring, and many curl up when touched. They live in damp soil and eat dead leaves, so they help make humus. Earthworms have no legs. Centipedes have one pair on each ring.
 10. (mcq) Why is the red soil of Tamil Nadu and Karnataka red?  
-   Options: It has iron in it, the same way rust is red / Red flowers have rotted into it / It is very hot  
+   Options: Red flowers have rotted into it / It has iron in it, the same way rust is red / It is very hot  
    **Answer:** It has iron in it, the same way rust is red. *Why:* Red soil holds iron. Iron that has joined with oxygen, like rust, is red.
 11. (mcq) Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?  
-   Options: Crops can keep drinking for weeks after the rain / The soil stays cold / Water makes the soil black  
+   Options: The soil stays cold / Water makes the soil black / Crops can keep drinking for weeks after the rain  
    **Answer:** Crops can keep drinking for weeks after the rain. *Why:* Black soil is full of clay, which holds water. So crops like cotton can keep growing well into the dry season. It is also called black cotton soil.
 12. (mcq) A farmer sows rice weeks after the first rains. What may go wrong?  
    Options: The rains may end before the grain is full, so the harvest is smaller / The seeds will turn into wheat / Nothing, the soil is the same  
    **Answer:** The rains may end before the grain is full, so the harvest is smaller. *Why:* Seeds sprout well when the soil is damp and warm. A crop sown late may run short of water and give a small yield. Sowing on time also lets the plants grow before pests and the hot weeks arrive. Rice seeds give rice and never wheat.
 13. (mcq) Why is soil that washes away in a storm such a big loss?  
-   Options: New soil takes hundreds of years to form / Soil cannot get wet again / The rain takes the soil to the Moon  
+   Options: Soil cannot get wet again / The rain takes the soil to the Moon / New soil takes hundreds of years to form  
    **Answer:** New soil takes hundreds of years to form. *Why:* Soil forms very slowly from rock and dead plants. It can take up to a thousand years to make one centimetre. Soil lost in a storm cannot be quickly replaced.
 14. (mcq) Why do check dams have gaps, called outlets, instead of being solid walls?  
    Options: So the water slows down and passes through, and the soil settles behind / So the water cannot get in / So the wall is cheaper  
    **Answer:** So the water slows down and passes through, and the soil settles behind. *Why:* A solid wall could burst or flood the field. A check dam with an outlet slows the water. It drops its soil behind the wall and lets the rest pass. Check dams are built across slopes, rivers and drains.
 15. (mcq) What happens to a well or a canal when soil keeps washing into it?  
-   Options: It fills up with mud and holds less water / It gets deeper / It is not changed  
+   Options: It gets deeper / It is not changed / It fills up with mud and holds less water  
    **Answer:** It fills up with mud and holds less water. *Why:* Eroded soil settles at the bottom of wells, canals and rivers, so they hold less water. A river with a lot of mud in it can also flood sooner. Soil washed off the farm can harm farms that are far downstream.
 16. (mcq) Fast rain water runs down a bare slope for years, in the same path. What does the land look like later?  
    Options: It has a deep groove called a gully / It is flat and smooth / It has a new hill  

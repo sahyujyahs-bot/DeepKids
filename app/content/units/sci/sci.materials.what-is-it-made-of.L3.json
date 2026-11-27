@@ -902,10 +902,10 @@
       "q": "Who made a cultured pearl?",
       "options": [
        "Only people",
-       "Only the oyster",
-       "Both: the oyster made the pearl, but people started it"
+       "Both: the oyster made the pearl, but people started it",
+       "Only the oyster"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The oyster made every layer of the pearl. But people put the bead inside and looked after the oyster. So it is a good tricky case, and the line between natural and made is not always sharp. If you picked 'only people', you may have thought that a farm makes everything on it. 'Only the oyster' leaves out the farmer's part."
      }
     },
@@ -1056,11 +1056,11 @@
       "t": "mcq",
       "q": "Why does the wet pulp hold together as a sheet?",
       "options": [
-       "The fibres tangle and grip each other as the water goes",
        "We added glue",
-       "The net melts into it"
+       "The net melts into it",
+       "The fibres tangle and grip each other as the water goes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Paper is a mat of plant fibres. As the water drains and is pressed out, the fibres tangle, and they grip each other more as they dry. No glue is needed. Picking 'glue' is a sensible guess, because things that stick usually need glue. Factories add a little starch to some paper, but the tangled fibres do most of the work."
      }
     },
@@ -1682,10 +1682,10 @@
       "q": "Trace a plastic comb back to where its material came from. Where does the journey end?",
       "options": [
        "At a factory, because plastic is invented there",
-       "At oil deep underground, made from ancient sea life",
-       "Nowhere: plastic comes from nothing"
+       "Nowhere: plastic comes from nothing",
+       "At oil deep underground, made from ancient sea life"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most plastic is made from petroleum and natural gas. These formed deep underground over millions of years, from tiny living things in ancient seas. If you picked 'At a factory', you stopped the journey too soon. The factory changes the oil, but it does not make the material from nothing."
      }
     },
@@ -1772,10 +1772,10 @@
       "q": "Which heap does a piece of cotton string go in?",
       "options": [
        "Natural, once living",
-       "Natural, never living",
-       "Made by people"
+       "Made by people",
+       "Natural, never living"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The cotton came from a plant, which was alive. But people picked, spun and twisted the fibres into string. So the string is made by people, from a natural, once-living material. If you picked 'Natural, once living', you looked only at the source and left out what people did."
      }
     }
@@ -1933,10 +1933,10 @@
       "q": "Who makes the salt in Gujarat's Little Rann of Kutch?",
       "options": [
        "Machines that make salt from nothing",
-       "Families who let salty water dry in the sun in big pans",
-       "Farmers who grow salt in fields from seeds"
+       "Farmers who grow salt in fields from seeds",
+       "Families who let salty water dry in the sun in big pans"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In the Little Rann of Kutch, families called Agariyas pump up salty underground water into big flat pans. The sun dries the water away, and the salt is left. They collect it by hand. If you picked 'Machines that make salt from nothing', you may have thought that made things are made from nothing. Salt is collected, not made, and it is not grown from seed."
      }
     }
@@ -2019,11 +2019,11 @@
       "t": "mcq",
       "q": "Why does twisting make a strong thread from short cotton fibres?",
       "options": [
-       "Twisting makes the short fibres wrap around each other and grip",
        "Twisting makes the fibres longer",
-       "Twisting glues the fibres together"
+       "Twisting glues the fibres together",
+       "Twisting makes the short fibres wrap around each other and grip"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each cotton fibre is only a few centimetres long. Twisted together, the fibres press against each other and grip, so the thread is much stronger than any one fibre. Nothing is added and the fibres do not grow."
      }
     },
@@ -2104,11 +2104,11 @@
       "t": "mcq",
       "q": "A wooden spoon and a plastic spoon are both made mostly of…",
       "options": [
-       "Carbon and hydrogen atoms, with oxygen in the wood, in different patterns",
        "Completely different atoms that have nothing in common",
+       "Carbon and hydrogen atoms, with oxygen in the wood, in different patterns",
        "Wood atoms and plastic atoms"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Wood and plastic are both made mostly of carbon and hydrogen, and wood has a lot of oxygen too. They are different because the atoms are joined in different patterns. Picking 'wood atoms and plastic atoms' is a very common idea. But there is no such thing as a wood atom. Wood is made of ordinary atoms, like everything else."
      }
     }
@@ -2280,11 +2280,11 @@
       "t": "mcq",
       "q": "In the bottle, why is the clay on the top?",
       "options": [
-       "Clay grains are the tiniest, so they sink last",
        "Clay floats like oil",
+       "Clay grains are the tiniest, so they sink last",
        "Someone poured it in last"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Big, heavy grains like sand sink fast. The tiny grains of clay sink very slowly, so they settle last, on top. Picking 'clay floats' is a fair guess. But clay does sink if you wait long enough. It is just slow."
      },
      "parent": "If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay. If you have less, make a smaller diya. If your soil has hardly any clay, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it."
@@ -2333,11 +2333,11 @@
       "t": "mcq",
       "q": "Water dripped on our air-dried diya makes it go soft. The kiln-baked diya stays hard. Why?",
       "options": [
-       "Baking in a kiln changes clay for ever, into hard pottery",
        "The bought diya has paint on it",
+       "Baking in a kiln changes clay for ever, into hard pottery",
        "Our clay was the wrong colour"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Air-drying only takes the water out, so wet clay can soften again. A kiln heats clay so much that its tiny grains change and fuse together. Then it can never turn back into soft clay. That is why pots and bricks are baked. Picking 'paint' is a sensible guess, but most diyas are not painted where water touched them."
      }
     }
@@ -2418,11 +2418,11 @@
       "t": "mcq",
       "q": "After the picnic, what happens to a leaf plate thrown on the soil?",
       "options": [
-       "It decomposes into soil in weeks or months",
        "It stays for hundreds of years",
+       "It decomposes into soil in weeks or months",
        "It melts in the sun"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Leaves are made by living plants. Tiny living things in the soil, like bacteria and fungi, break them down into soil. Scientists say they decompose. Some plastics stay for hundreds of years, because tiny living things can hardly break them down. Leaves are not like that."
      }
     },
@@ -2568,12 +2568,12 @@
      "t": "mcq",
      "p": "An old brown clay flower pot is dropped and breaks into small pieces. What are the pieces made of?",
      "opts": [
-      "Baked clay",
       "Flower pot",
       "Small pots",
-      "Soil and seeds"
+      "Soil and seeds",
+      "Baked clay"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object."
     },
     {
@@ -2649,12 +2649,12 @@
      "t": "mcq",
      "p": "'A wooden table is natural, because wood is natural.' What does this sentence forget?",
      "opts": [
-      "A carpenter cut and joined the wood, so the table was made by people",
       "Wood is not really natural",
       "Tables grow on trees",
+      "A carpenter cut and joined the wood, so the table was made by people",
       "Nothing, the sentence is right"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The material, wood, is natural. But people made the table from it. A strong answer looks at both the material and what people did to it."
     },
     {
@@ -2669,12 +2669,12 @@
      "t": "mcq",
      "p": "Which of these was made by an animal, not by a plant or by people?",
      "opts": [
-      "Honeycomb wax",
       "Coir",
       "Paper",
+      "Honeycomb wax",
       "Glass"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bees make wax in their own bodies and build the honeycomb from it. Coir comes from a plant. Paper and glass are made by people. A strong answer says animals make materials too."
     },
     {
@@ -2705,12 +2705,12 @@
      "t": "mcq",
      "p": "A plate of sea water and a plate of rainwater are put in the sun. What will be left on each plate when it is dry?",
      "opts": [
-      "Salt on the sea water plate, and almost nothing on the rainwater plate",
       "Salt on both plates",
+      "Salt on the sea water plate, and almost nothing on the rainwater plate",
       "Nothing on either plate",
       "Sugar on the rainwater plate"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The salt was hidden in the sea water from the start. Rainwater has almost no salt. The sun takes only the water away. If you picked 'Salt on both plates', you may have thought that the sun makes salt. It only leaves behind what was already there."
     },
     {
@@ -2759,12 +2759,12 @@
      "t": "mcq",
      "p": "Which of these has not been changed by people at all?",
      "opts": [
-      "A coconut that fell from a tree",
       "A coir doormat",
       "A bottle of coconut oil",
+      "A coconut that fell from a tree",
       "A spoon carved from coconut shell"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The fallen coconut is just as it grew. The mat, the oil and the spoon were all made by people from parts of a coconut. A strong answer asks: did a person cut, press, spin or shape it?"
     },
     {
@@ -2806,12 +2806,12 @@
      "t": "mcq",
      "p": "Look at the chart from the salt experiment. Suppose you put a third plate of the same salty water in the shade, under a fan. When would it dry?",
      "opts": [
-      "Sooner than the plate in still shade, because moving air helps water leave",
       "After more than 3 days",
       "Never",
-      "Exactly 1 day, because it is the same water"
+      "Exactly 1 day, because it is the same water",
+      "Sooner than the plate in still shade, because moving air helps water leave"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.",
      "how": "e2",
      "context": "In the salt experiment, you put the same salty water on two plates. One plate went in the sun and one in the shade. You waited for each to dry.",
@@ -2861,12 +2861,12 @@
      "t": "mcq",
      "p": "You heat two cups of the same milk. You add 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will you probably see?",
      "opts": [
-      "More lumps in the cup with 4 teaspoons",
       "More lumps in the cup with 1 teaspoon",
+      "More lumps in the cup with 4 teaspoons",
       "The same lumps in both",
       "No lumps in either"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Vinegar makes the casein in milk come together into lumps. More vinegar makes more of it come together, up to a point. A strong answer links the amount of vinegar to the amount of lumps.",
      "how": "e4",
      "context": "In the milk plastic experiment, you added vinegar to hot milk, strained out the lumps and shaped them. They dried hard."
@@ -2920,12 +2920,12 @@
      "t": "mcq",
      "p": "In the colour experiment, the beetroot cloth was bright pink. After washing, it was pale pink. What does this tell you?",
      "opts": [
-      "Beetroot colour does not hold on to cotton well, so most of it washes out",
       "Beetroot is not really pink",
       "The soap made new colour",
+      "Beetroot colour does not hold on to cotton well, so most of it washes out",
       "All plant colours wash out"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The colour came from the beetroot, but it did not hold on to the cloth. Onion skins and tea held on better. 'All plant colours wash out' is too big a rule to make from one cloth. Indigo, from a plant, lasts for years.",
      "how": "e3",
      "context": "In the colour experiment, you dyed white cotton cloths with turmeric, onion skins, tea and beetroot. Then you washed them to see which colours stayed."
@@ -3003,12 +3003,12 @@
      "t": "mcq",
      "p": "Which of these changes can be turned back?",
      "opts": [
-      "Melting candle wax",
       "Baking a clay pot",
+      "Melting candle wax",
       "Burning paper",
       "Cooking an egg"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Melted wax goes hard again when it cools, so the change can be undone. The others change the material for ever. A strong answer asks: can I get the old material back?"
     },
     {
@@ -3045,12 +3045,12 @@
      "t": "mcq",
      "p": "Silk is strong and smooth, but it is costly. Why might people want to invent a made material like nylon?",
      "opts": [
-      "It can do some of silk's jobs, like stockings and ropes, for less money",
       "Silkworms had all died",
       "Nylon grows faster than cotton",
+      "It can do some of silk's jobs, like stockings and ropes, for less money",
       "Nylon rots away quickly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. 'Nylon rots away quickly' is the opposite of the truth. Nylon is made from petroleum and lasts a very long time."
     },
     {
@@ -3128,12 +3128,12 @@
      "t": "mcq",
      "p": "An old steel spoon is melted down and made into a steel tumbler. What happens to its iron atoms?",
      "opts": [
-      "The same atoms are now in a new shape",
       "They are destroyed in the furnace",
       "New iron atoms are made",
-      "They turn into plastic atoms"
+      "They turn into plastic atoms",
+      "The same atoms are now in a new shape"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Melting changes the shape, not the atoms. The same iron atoms, made in stars long ago, are now in the tumbler. A strong answer says atoms are reused, never used up."
     },
     {
@@ -3149,12 +3149,12 @@
      "t": "mcq",
      "p": "Scientists worked out that by about 2020, everything people have made weighed about as much as all the living beings on Earth. In 1900 it was only a tiny part. What does this tell us?",
      "opts": [
-      "People are now changing the Earth's materials on a huge scale",
       "Living beings have stopped growing",
       "Factories make materials from nothing",
+      "People are now changing the Earth's materials on a huge scale",
       "It does not matter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "All those roads, buildings and machines were made from sand, rock, ore and oil taken from the Earth. Factories do not make materials from nothing. The materials came from somewhere, and they had to be dug up.",
      "context": "Emily Elhacham, Ron Milo and others in Israel worked this out in 2020."
     },
@@ -3182,12 +3182,12 @@
      "t": "mcq",
      "p": "Here is a rule: 'Natural things are always safe, and things made by people are always harmful.' Which pair shows the rule is wrong both ways?",
      "opts": [
-      "Snake venom is natural and harmful. A steel spoon is made by people and safe.",
       "Honey is natural and safe. Plastic waste is made by people and harmful.",
       "A neem leaf is natural. A brick is made by people.",
-      "Rain is natural and safe."
+      "Rain is natural and safe.",
+      "Snake venom is natural and harmful. A steel spoon is made by people and safe."
      ],
-     "a": 0,
+     "a": 3,
      "why": "Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. The honey and plastic pair agrees with the rule instead of testing it. A strong answer judges each material by what it does, not by where it came from."
     },
     {
@@ -3241,11 +3241,11 @@
    "p": "A tumbler can be made of steel, glass or plastic. Steel, glass and plastic are…",
    "opts": [
     "Objects",
-    "Materials",
     "Sources",
+    "Materials",
     "Atoms"
    ],
-   "a": 1,
+   "a": 2,
    "why": "They are materials, what objects are made of. The tumbler is the object. Steel, glass and plastic are what it can be made of.",
    "outcome": 0
   },
@@ -3253,12 +3253,12 @@
    "t": "mcq",
    "p": "A woollen shawl has a journey from nature to the shop. Which step comes first?",
    "opts": [
-    "A sheep grows a coat of wool",
     "The wool is spun into yarn",
+    "A sheep grows a coat of wool",
     "The yarn is knitted into a shawl",
     "The shawl is sold in a shop"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. 'The shawl is sold in a shop' is the end of the journey, not the start in nature.",
    "outcome": 0
   },
@@ -3266,12 +3266,12 @@
    "t": "mcq",
    "p": "Which of these is natural?",
    "opts": [
-    "A neem tree",
     "A brick",
+    "A neem tree",
     "A plastic bottle",
     "A steel gate"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nature made the neem tree. People made the others from natural materials. If you picked 'a brick', you remembered that clay is natural, but forgot that people baked it.",
    "outcome": 1
   },
@@ -3291,12 +3291,12 @@
    "t": "mcq",
    "p": "How do people get glass from sand?",
    "opts": [
-    "Melt it in a furnace",
     "Spin it",
+    "Melt it in a furnace",
     "Dry it in the sun",
     "Soak it in water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sand must be melted at a very high heat in a furnace. Drying in the sun is how people get salt, not glass. The sun is far too cool to melt sand.",
    "outcome": 2
   },
@@ -3304,12 +3304,12 @@
    "t": "mcq",
    "p": "Which of these changes is done by spinning?",
    "opts": [
-    "Turning cotton fluff into thread",
     "Turning sand into glass",
+    "Turning cotton fluff into thread",
     "Turning sea water into salt",
     "Turning clay into a pot"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Spinning twists short fibres into one long, strong thread. Sand is melted, sea water is dried and clay is baked. Each raw material needs its own kind of change.",
    "outcome": 2
   },
@@ -3317,11 +3317,11 @@
    "t": "mcq",
    "p": "In the salt experiment, which plate gave more salt?",
    "opts": [
-    "About the same, because both had the same salt hidden in them",
     "The sunny plate, because the sun makes salt",
-    "The shady plate, because shade makes salt"
+    "The shady plate, because shade makes salt",
+    "About the same, because both had the same salt hidden in them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The salt was in the water from the start. The sun only made the water leave faster. Many people think the sun makes salt. But salt is collected, not made.",
    "outcome": 3,
    "context": "In the salt experiment, you put the same salty water on two plates. One plate went in the sun and one in the shade. You waited for each to dry.",
@@ -3331,11 +3331,11 @@
    "t": "mcq",
    "p": "Why did the wet paper pulp hold together as a sheet?",
    "opts": [
-    "The plant fibres tangled and gripped each other",
     "The net was sticky",
+    "The plant fibres tangled and gripped each other",
     "Water is a glue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Paper is a mat of tangled plant fibres. As the water left, the fibres tangled and gripped. Picking 'water is a glue' is a fair guess, but wet paper falls apart. It is the drying fibres that hold.",
    "outcome": 3,
    "context": "In the paper experiment, you mashed old newspaper into pulp, lifted it on a netted frame and let it dry.",
@@ -3345,12 +3345,12 @@
    "t": "mcq",
    "p": "Which animal makes a material that people use for bangles and varnish?",
    "opts": [
-    "The lac insect",
     "The cow",
     "The crow",
+    "The lac insect",
     "The fish"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lac insects on trees make a resin. People scrape it off for lac bangles, varnish and sealing wax. If you picked 'the cow', you may have been thinking of milk, which makes paneer and milk plastic, not lac.",
    "outcome": 4
   },
@@ -3358,11 +3358,11 @@
    "t": "mcq",
    "p": "Factory indigo is…",
    "opts": [
-    "The same substance as plant indigo",
     "A different colour from plant indigo",
+    "The same substance as plant indigo",
     "Made from sand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chemists showed they are exactly the same substance. If you picked 'A different colour from plant indigo', you may have thought that a made copy can never match nature. This one does.",
    "outcome": 4
   },
@@ -3370,11 +3370,11 @@
    "t": "mcq",
    "p": "Everything, natural or made, is built from…",
    "opts": [
-    "About 90 kinds of atom",
     "Thousands of kinds of atom, one for each material",
-    "Only one kind of atom"
+    "Only one kind of atom",
+    "About 90 kinds of atom"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About 90 kinds of atom are found in nature. They join in different patterns to build everything. Picking 'one for each material' is a very common idea. But there is no 'wood atom' or 'plastic atom'.",
    "outcome": 5,
    "how": "a6"
@@ -3383,11 +3383,11 @@
    "t": "mcq",
    "p": "Where were the carbon atoms in your pencil made?",
    "opts": [
-    "Inside stars, long ago",
     "In the pencil factory",
-    "In the tree"
+    "In the tree",
+    "Inside stars, long ago"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Carbon atoms were made in stars before the Earth formed. Picking 'in the tree' is close: trees take carbon from the air to build wood. But they collect carbon atoms. They do not make them.",
    "outcome": 5,
    "how": "a7"
@@ -3396,11 +3396,11 @@
    "t": "mcq",
    "p": "Do scientists fully agree on where gold atoms were made?",
    "opts": [
-    "No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too",
     "Yes, gold is made in mines",
+    "No. Many think gold was made when neutron stars crashed. Others think exploding stars made some too",
     "Yes, gold is made in volcanoes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "It is still being worked out. Mines are where we find gold, not where its atoms were made.",
    "outcome": 6
   },
@@ -3408,12 +3408,12 @@
    "t": "mcq",
    "p": "Who dug up the iron ore that became your steel kadai?",
    "opts": [
-    "Miners, in places like Odisha and Jharkhand",
     "Nobody, because steel is found ready-made",
+    "Miners, in places like Odisha and Jharkhand",
     "The shopkeeper who sold it",
     "Only machines, with no people"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. It is not 'only machines', because people drive and fix the machines. Steel is not found ready-made, because iron must be melted out of rock.",
    "outcome": 6
   },
@@ -3421,12 +3421,12 @@
    "t": "mcq",
    "p": "Why is bronze called an alloy?",
    "opts": [
-    "It is copper and tin melted together",
     "It is one pure metal dug from the ground",
     "It is a rock with metal inside",
+    "It is copper and tin melted together",
     "It is a plastic made to look like metal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An alloy is a mixture of metals. Bronze is copper mixed with tin. A rock with metal inside is an ore, and bronze is made from metals that were already taken out of their ores. A pure metal is only one kind, so it is not an alloy.",
    "outcome": 2
   },
@@ -3434,12 +3434,12 @@
    "t": "mcq",
    "p": "Meera wants a pattern of dots on her clay diya. When is the best time to press the dots in?",
    "opts": [
-    "While the clay is soft and damp",
     "After the diya is completely dry",
+    "While the clay is soft and damp",
     "Only after it is baked in a kiln",
     "It does not matter, clay always takes a mark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Soft clay takes a mark easily and keeps it when it dries. Dry clay crumbles or cracks if you press it. Baked clay is as hard as a brick, so a toothpick leaves nothing. That is why potters decorate before drying.",
    "outcome": 3
   },

@@ -426,31 +426,31 @@ At night the lights went out for a while, as they sometimes did in the rain. The
    Options: Ears / Eyes / Nose  
    **Answer:** Ears. *Why:* Ears are the sense organ for hearing. Sound travels through the air into them.
 2. (mcq) Which one is the sense organ for touch?  
-   Options: Tongue / Skin / Ears  
+   Options: Tongue / Ears / Skin  
    **Answer:** Skin. *Why:* Skin covers your whole body and feels touch: rough, smooth, soft, hard, warm and cold.
 3. (mcq) Which one is NOT one of the five best-known senses?  
-   Options: Seeing / Smelling / Jumping  
+   Options: Jumping / Seeing / Smelling  
    **Answer:** Jumping. *Why:* Jumping is something your body does. Seeing, hearing, smelling, tasting and touching are the five best-known senses.
 4. (mcq) Standing far away from a plate of jalebis, which of these can you NOT do?  
-   Options: See the jalebis / Smell the jalebis / Taste the jalebis  
+   Options: See the jalebis / Taste the jalebis / Smell the jalebis  
    **Answer:** Taste the jalebis. *Why:* You can see and smell from far away. To taste, the jalebi must be on your tongue.
 5. (mcq) Which two senses need the thing to touch you?  
    Options: Seeing and hearing / Tasting and touching / Smelling and seeing  
    **Answer:** Tasting and touching. *Why:* Tasting needs the food on your tongue, and touching needs the thing on your skin. Seeing, hearing and smelling work from far away.
 6. (mcq) You smell sambar from your bedroom. What reached your nose?  
-   Options: Tiny bits from the sambar, floating in the air / The sound of the sambar / Nothing at all  
+   Options: The sound of the sambar / Tiny bits from the sambar, floating in the air / Nothing at all  
    **Answer:** Tiny bits from the sambar, floating in the air. *Why:* Tiny bits from the hot sambar float through the air. When they reach your nose, you smell sambar.
 7. (mcq) Why is the smell of a peeled orange stronger when you are close to the plate?  
    Options: More tiny smell bits reach your nose / Your eyes help your nose / The orange gets bigger  
    **Answer:** More tiny smell bits reach your nose. *Why:* Near the plate there are more of the tiny bits in the air, so more of them go into your nose.
 8. (mcq) How does an ant smell?  
-   Options: With her feelers / With her feet / Ants have no sense of smell  
+   Options: With her feet / With her feelers / Ants have no sense of smell  
    **Answer:** With her feelers. *Why:* An ant smells with the two feelers on her head. That is how ants follow a smell trail to food.
 9. (mcq) A touch-me-not plant folds their leaves when you touch them. What does that show?  
-   Options: The plant senses touch / The plant is asleep / The wind did it  
+   Options: The plant is asleep / The wind did it / The plant senses touch  
    **Answer:** The plant senses touch. *Why:* The leaves fold right after a touch, so the plant sensed the touch and answered.
 10. (mcq) In the Smell Steps test, one plate has an orange and one plate is empty. Why is there an empty plate?  
-   Options: To check you are not just guessing / To count how many steps you take / To make the room smell nice  
+   Options: To count how many steps you take / To make the room smell nice / To check you are not just guessing  
    **Answer:** To check you are not just guessing. *Why:* If you smell nothing at the empty plate, then the smell you find at the other plate really came from the orange. That makes the test fair.
 11. (mcq) Why does every round of the Smell Steps test start at the same line?  
    Options: So the rounds are fair to compare / So the orange smells nicer / So the orange is bigger  

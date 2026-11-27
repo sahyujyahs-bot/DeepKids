@@ -481,11 +481,11 @@
       "t": "mcq",
       "q": "You let go of a book and a ball at the top of a slope. What happens?",
       "options": [
-       "The ball rolls, and the book stays still",
        "The book rolls, and the ball stays still",
-       "Both stay still"
+       "Both stay still",
+       "The ball rolls, and the book stays still"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A ball is round all over, so it rolls. A book has flat sides, so it stays still, or slides if the slope is steep."
      },
      "parent": "Wait for your child's own words first. Then say it plainly: round things roll. The cup's wide end goes further on each turn than its narrow end, so the cup turns. The bottle is the same at both ends, so it goes straight."
@@ -610,11 +610,11 @@
       "t": "mcq",
       "q": "You drop a ball from the height of your head. How high will it bounce back?",
       "options": [
-       "Not as high as your head",
        "Higher than your head",
+       "Not as high as your head",
        "Exactly as high as your head"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dropped ball never bounces back as high as it fell from. Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement."
      },
      "parent": "Say it plainly after your child's own words. A higher drop gives a higher bounce, but the ball never comes back to the hand. Each bounce makes a sound and a tiny bit of warmth, and these use up some of the ball's movement."
@@ -783,11 +783,11 @@
       "t": "mcq",
       "q": "Zainab and Lakshmi have the same kind of wind-up toy. Zainab winds hers with three turns. Lakshmi winds hers with ten turns. Whose toy goes further?",
       "options": [
-       "Lakshmi's toy",
        "Zainab's toy",
+       "Lakshmi's toy",
        "They go just as far"
       ],
-      "a": 0,
+      "a": 1,
       "why": "More turns wind the spring tighter. The toy gives back what you put in, so more winding makes it go further."
      }
     }
@@ -867,11 +867,11 @@
       "t": "mcq",
       "q": "You need to move a heavy box across the floor. What would help most?",
       "options": [
-       "Putting round rods under it",
        "Putting a flat book under it",
-       "Pushing it from the top"
+       "Pushing it from the top",
+       "Putting round rods under it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Round rods roll, so the box rides along on them. That is much easier than dragging it."
      }
     }
@@ -1077,11 +1077,11 @@
       "t": "mcq",
       "q": "You let go of a round steel tumbler lying on its side on a slope. What will it do?",
       "options": [
-       "Roll",
        "Bounce",
-       "Stay still"
+       "Stay still",
+       "Roll"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tumbler on its side is round where it touches the slope, so it rolls."
      }
     }
@@ -1159,11 +1159,11 @@
       "t": "mcq",
       "q": "You roll your ball at the bottles, but it stops before it reaches them. What should you try?",
       "options": [
-       "A bigger push",
        "A gentler push",
+       "A bigger push",
        "Throwing a book instead"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger push makes the ball roll faster and further before rubbing on the floor slows it down."
      }
     }
@@ -1270,11 +1270,11 @@
       "t": "mcq",
       "q": "You colour half of your top red and half yellow. What colour will you see while it spins fast?",
       "options": [
-       "Orange",
        "Pure red",
-       "Pure blue"
+       "Pure blue",
+       "Orange"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Spinning fast mixes the red and yellow in the eye, so the top looks orange."
      }
     }
@@ -1355,11 +1355,11 @@
       "t": "mcq",
       "q": "Why do two cups taped wide end to wide end roll straight?",
       "options": [
-       "Both ends are now the same width",
        "They are heavier",
+       "Both ends are now the same width",
        "The tape pushes them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both ends now go the same distance on each turn, so nothing turns them to the side."
      }
     }
@@ -1414,11 +1414,11 @@
      "t": "mcq",
      "p": "A toy cart has one big wheel and one small wheel on the same bar. Which way does it go when you push it?",
      "opts": [
-      "Round in a curve",
       "Straight ahead",
-      "It does not move at all"
+      "It does not move at all",
+      "Round in a curve"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The big wheel goes further on each turn than the small one, so the cart turns, just as the paper cup does.",
      "how": "e1"
     },
@@ -1545,11 +1545,11 @@
      "t": "mcq",
      "p": "A child drops a ball once on a soft pillow and once on hard tiles. Where does it bounce higher?",
      "opts": [
-      "On the hard tiles",
       "On the soft pillow",
-      "Just the same"
+      "Just the same",
+      "On the hard tiles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A hard floor sends the ball back up. A soft pillow squashes and does not push back, so the ball hardly bounces."
     },
     {
@@ -1589,11 +1589,11 @@
      "t": "mcq",
      "p": "A top spins for longer on a smooth plate than on a rough mat. Why?",
      "opts": [
-      "There is less rubbing on the plate",
       "The plate is heavier",
-      "The mat is colder"
+      "The mat is colder",
+      "There is less rubbing on the plate"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rubbing, called friction, slows a spinning top. A smooth plate rubs less than a rough mat, so the top spins for longer.",
      "how": "p1"
     },
@@ -1691,11 +1691,11 @@
    "t": "mcq",
    "p": "Which of these will roll down a slope?",
    "opts": [
-    "A round bottle on its side",
     "A book",
-    "A matchbox"
+    "A matchbox",
+    "A round bottle on its side"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bottle is round where it touches the slope, so it rolls. The book and the box have flat sides.",
    "outcome": 0
   },
@@ -1703,11 +1703,11 @@
    "t": "mcq",
    "p": "You let go of a box at the top of a gentle slope. What will it most likely do?",
    "opts": [
-    "Stay still",
     "Roll down",
+    "Stay still",
     "Bounce"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A box has flat sides, so on a gentle slope it stays still. On a steep slope it may slide.",
    "outcome": 0
   },
@@ -1715,11 +1715,11 @@
    "t": "mcq",
    "p": "A paper cup rolls on the floor. Why does it curve round?",
    "opts": [
-    "Its wide end goes further on each turn than its narrow end",
     "It is very light",
+    "Its wide end goes further on each turn than its narrow end",
     "The floor is round"
    ],
-   "a": 0,
+   "a": 1,
    "why": "On each turn, the wide end goes a long way and the narrow end a short way, so the cup turns.",
    "outcome": 1,
    "how": "e1"
@@ -1728,11 +1728,11 @@
    "t": "mcq",
    "p": "Which of these will roll straight?",
    "opts": [
-    "A bottle, the same width at both ends",
     "A paper cup",
-    "An ice cream cone"
+    "An ice cream cone",
+    "A bottle, the same width at both ends"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A thing the same width all along rolls straight. A cup or a cone curves round.",
    "outcome": 1
   },
@@ -1752,11 +1752,11 @@
    "t": "mcq",
    "p": "A ball is dropped and bounces three times. How does each bounce compare with the one before?",
    "opts": [
-    "Lower",
     "Higher",
-    "The same"
+    "The same",
+    "Lower"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each bounce makes a sound and a tiny bit of warmth. These use up some of the ball's movement. So each bounce is lower, until the ball stops.",
    "outcome": 2
   },
@@ -1764,11 +1764,11 @@
    "t": "mcq",
    "p": "When can a top stand up on its point?",
    "opts": [
-    "While it spins",
     "When it is still",
+    "While it spins",
     "Only on a carpet"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A spinning top stands up on its point. When it stops spinning, it falls over.",
    "outcome": 3
   },
@@ -1800,11 +1800,11 @@
    "t": "mcq",
    "p": "A ball rolls down a slope and nobody pushes it. What started it moving?",
    "opts": [
-    "The slope",
     "Its colour",
-    "Nothing at all"
+    "Nothing at all",
+    "The slope"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The slope started it. Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.",
    "outcome": 5
   },
@@ -1812,11 +1812,11 @@
    "t": "mcq",
    "p": "A belan, the rolling pin for chapatis, rolls easily over the dough. Why?",
    "opts": [
-    "It is round where it touches the dough",
     "It is made of wood",
+    "It is round where it touches the dough",
     "It is heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A round thing rolls, because its round side touches the dough. Wood or weight does not make a flat box roll.",
    "outcome": 0
   }

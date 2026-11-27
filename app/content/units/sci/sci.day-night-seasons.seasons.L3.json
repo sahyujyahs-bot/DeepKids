@@ -1023,11 +1023,11 @@
       "t": "mcq",
       "q": "The torch gave out the same light each time. When it shone at a slant, the patch was bigger. What happened to the light in each square?",
       "options": [
-       "Each square got less light, because the same light was spread over more squares",
        "Each square got more light, because the patch was bigger",
-       "Each square got the same light"
+       "Each square got the same light",
+       "Each square got less light, because the same light was spread over more squares"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The same amount of light was spread over more squares, so each square got a smaller share. That is why the slanting patch looked dimmer. Thinking a bigger patch means more light is a common guess, but the torch did not get any stronger."
      }
     },
@@ -1738,11 +1738,11 @@
       "t": "mcq",
       "q": "Why should the water in a bird bowl be changed every day?",
       "options": [
-       "So mosquitoes cannot lay eggs and breed in it",
        "So it stays deep",
-       "So birds don't get bored"
+       "So birds don't get bored",
+       "So mosquitoes cannot lay eggs and breed in it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mosquitoes lay eggs in still water, and the young take about a week to grow into adults. Changing the water every day stops them, and keeps it clean for the birds."
      }
     }
@@ -1813,11 +1813,11 @@
       "t": "mcq",
       "q": "Why did the shaded box keep its ice longer?",
       "options": [
-       "The shade stopped much of the sunlight from reaching the box",
        "The shade made cold",
-       "The ice in that box was colder to start"
+       "The ice in that box was colder to start",
+       "The shade stopped much of the sunlight from reaching the box"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The shade stopped much of the sunlight before it reached the box, so less heat got in. A shade makes no cold. It only keeps the Sun's heat out. Both ice cubes were the same at the start, so that is not the reason."
      }
     }
@@ -1889,11 +1889,11 @@
    "t": "mcq",
    "p": "Which of these changes comes round again in the same way every year?",
    "opts": [
-    "Mangoes coming to the market in April and May",
     "A sapling growing into a tall tree",
-    "The sky turning orange at sunset"
+    "The sky turning orange at sunset",
+    "Mangoes coming to the market in April and May"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The seasons repeat every year. A tree growing tall takes many years and happens only once. A sunset change takes only minutes.",
    "outcome": 0
   },
@@ -1901,11 +1901,11 @@
    "t": "mcq",
    "p": "In the Straight or Slanting test, you shone a torch on squared paper. What happened to the patch of light when the torch shone at a slant, from the same distance?",
    "opts": [
-    "The patch got bigger and dimmer",
     "The patch got smaller",
+    "The patch got bigger and dimmer",
     "The torch got brighter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same light spread over more squares, so the patch was bigger and dimmer. Each square got less light.",
    "outcome": 1,
    "how": "e2"
@@ -1914,11 +1914,11 @@
    "t": "mcq",
    "p": "Around 21 March and 23 September, how long are day and night in India?",
    "opts": [
-    "Nearly equal, about 12 hours each",
     "The day is much longer than the night",
+    "Nearly equal, about 12 hours each",
     "The night is much longer than the day"
    ],
-   "a": 0,
+   "a": 1,
    "why": "These two days are called equinoxes, and day and night are nearly the same length. The day is longest around 21 June and shortest around 21 December.",
    "outcome": 1,
    "how": "a6"
@@ -1927,11 +1927,11 @@
    "t": "mcq",
    "p": "You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?",
    "opts": [
-    "Green and yellow",
     "Only green",
+    "Green and yellow",
     "Red and blue"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A green leaf gives a green band and a yellow band. The yellow is in the leaf all along, hidden under the green. When the green fades, the yellow shows.",
    "outcome": 3,
    "how": "e1"
@@ -1940,11 +1940,11 @@
    "t": "mcq",
    "p": "Why do leaves often turn yellow before they fall?",
    "opts": [
-    "The tree breaks down the green, and the yellow that was there shows",
     "The leaf is painted by the sun",
-    "Yellow is the colour of dry soil"
+    "Yellow is the colour of dry soil",
+    "The tree breaks down the green, and the yellow that was there shows"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Before dropping a leaf, the tree breaks down the green chlorophyll and takes useful nutrients back. The yellow pigments stay longer, so the leaf looks yellow.",
    "outcome": 3
   },
@@ -1952,11 +1952,11 @@
    "t": "mcq",
    "p": "Why do many trees in India drop their leaves from about February to May?",
    "opts": [
-    "The soil is dry, and leaves lose water all the time",
     "It is too cold for leaves",
+    "The soil is dry, and leaves lose water all the time",
     "The leaves are too heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the dry months there is little rain, and leaves lose water every day. Dropping leaves helps a tree save water until the rains.",
    "outcome": 2
   },
@@ -1964,11 +1964,11 @@
    "t": "mcq",
    "p": "Why do frogs lay their eggs in the rainy season?",
    "opts": [
-    "Their eggs and tadpoles need water, and the puddles fill then",
     "It is too hot in winter",
+    "Their eggs and tadpoles need water, and the puddles fill then",
     "The rain washes the eggs clean"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Frog eggs and tadpoles must live in water. The monsoon fills puddles and ponds, so that is when frogs call and lay eggs.",
    "outcome": 4
   },
@@ -2000,11 +2000,11 @@
    "t": "mcq",
    "p": "A gardener puts one plant in a dark box every afternoon, so that plant gets short days. The plant in the box flowers. The same kind of plant left outside does not flower yet. What does this show?",
    "opts": [
-    "Many plants use the length of the day and night to know when to flower",
     "Plants flower only when they are very big",
+    "Many plants use the length of the day and night to know when to flower",
     "Plants flower only in the rain"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only the length of light and dark was changed, and the flowering changed. So the length of the day, or really the length of the night, tells many plants the season.",
    "outcome": 6
   },
@@ -2012,11 +2012,11 @@
    "t": "mcq",
    "p": "Sevanthi flowers when the nights are long. When are the nights longest in India?",
    "opts": [
-    "Around December",
     "Around June",
-    "Around April"
+    "Around April",
+    "Around December"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The nights are longest around 21 or 22 December, so sevanthi flowers in the cool months.",
    "outcome": 2
   },
@@ -2036,11 +2036,11 @@
    "t": "mcq",
    "p": "Why do people celebrate spring, with Vasant Panchami, Holi or Ugadi?",
    "opts": [
-    "The cold ends, and new leaves, flowers and warm sunshine come back",
     "The big rains have arrived and the rice is ready to sow",
+    "The cold ends, and new leaves, flowers and warm sunshine come back",
     "The days are getting shorter and the nights are getting longer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Spring follows winter, and the land turns green and flowery again. The big rains come later, from June in most of India. In spring the days are growing longer, not shorter.",
    "outcome": 5
   },
@@ -2048,11 +2048,11 @@
    "t": "mcq",
    "p": "In Punjab's cool months, which dish do many families make with greens from the winter fields?",
    "opts": [
-    "Sarson da saag with makki di roti",
     "Cold buttermilk with nungu",
+    "Sarson da saag with makki di roti",
     "Hilsa fish curry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mustard greens, called sarson, grow in the winter fields, and the saag made from them is eaten hot with maize roti. Buttermilk and nungu are summer foods. Hilsa swim up Bengal's rivers in the rains.",
    "outcome": 5
   },
@@ -2060,11 +2060,11 @@
    "t": "mcq",
    "p": "Why do friends put their weekly notes on one big chart, instead of each keeping their own page?",
    "opts": [
-    "Side by side, the notes show patterns that one page cannot",
     "A chart makes the changes happen faster",
+    "Side by side, the notes show patterns that one page cannot",
     "One person's notes are never true"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When many notes are put side by side by week, you can see what changed together and what changed first. A chart does not change the tree. One person's notes can be true, but alone they may be a fluke.",
    "outcome": 3,
    "how": "a7"
@@ -2138,11 +2138,11 @@
      "p": "In which months does Chennai get most of its rain?",
      "opts": [
       "June to September",
-      "October to December",
       "January to March",
-      "April and May"
+      "April and May",
+      "October to December"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Chennai gets most of its rain from the north-east monsoon, from October to December. Most of the rest of India gets most rain from June to September. Picking June to September is right for Kochi or Mumbai, but not for Chennai."
     },
     {
@@ -2376,11 +2376,11 @@
      "t": "mcq",
      "p": "In the Straight or Slanting test, a torch lights 30 squares when it shines straight down. Held very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?",
      "opts": [
-      "About a third as much",
       "Three times as much",
+      "About a third as much",
       "The same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The same light is spread over 3 times as many squares, 90 instead of 30. So each square gets about a third of the light. That is why the low Sun of a winter evening feels weak.",
      "how": "e2"
     },
@@ -2476,11 +2476,11 @@
      "t": "mcq",
      "p": "Every year, fishing at sea is stopped on the east coast from 15 April to 14 June. Why?",
      "opts": [
-      "Many fish breed then, so leaving them alone means more fish later",
       "The sea is too hot",
+      "Many fish breed then, so leaving them alone means more fish later",
       "Fishers take a holiday"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many fish breed in these weeks. If they are caught then, fewer young fish are born, and there are fewer fish in the years after. The fishing ban protects them."
     },
     {
@@ -2534,11 +2534,11 @@
      "t": "mcq",
      "p": "You want to test whether sevanthi plants flower because of long nights. Which test is fairest?",
      "opts": [
-      "Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered",
       "Two pots in different places, one in sun and one in shade",
-      "One pot watched for a whole year"
+      "One pot watched for a whole year",
+      "Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different."
     },
     {
@@ -2639,11 +2639,11 @@
      "t": "mcq",
      "p": "Street lights shine all night near some trees in a city. What might happen to a plant that uses night length to know when to flower?",
      "opts": [
-      "The plant might flower at the wrong time, or not at all",
       "The plant will flower twice as much",
-      "Nothing, because plants only feel daytime light"
+      "Nothing, because plants only feel daytime light",
+      "The plant might flower at the wrong time, or not at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bright light at night can make the night seem short to a plant. A plant that flowers in long nights might then flower late, or not at all. Scientists have found street lights can change when some plants flower and when their leaves fall."
     },
     {
@@ -2693,11 +2693,11 @@
      "t": "mcq",
      "p": "A scientist wants to find out if mango trees in Tamil Nadu are flowering earlier than 50 years ago. What would help most?",
      "opts": [
-      "Old written records of flowering dates, year after year",
       "A photo of one mango tree today",
-      "Asking one person which month they like best"
+      "Asking one person which month they like best",
+      "Old written records of flowering dates, year after year"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To see a change over 50 years, you need records from 50 years ago to compare with today. A single photo or one opinion cannot show a change over time."
     },
     {

@@ -537,7 +537,7 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
 6. (order) Put the steps of a torch's energy chain in order.  
    **Answer:** ['Stored chemical energy in the cell', 'Electrical energy round the loop', 'Light and warmth from the bulb', 'A slightly warmer wall and room']. *Why:* The energy starts in the cell, is carried round the loop, becomes light and warmth in the bulb, and ends as warmth in the room.
 7. (mcq) A paper cup slides and stops. What changed its movement energy into warmth?  
-   Options: Friction with the table / The cup getting tired / Gravity pulling it down  
+   Options: The cup getting tired / Gravity pulling it down / Friction with the table  
    **Answer:** Friction with the table. *Why:* Friction between the cup and the table changes movement into warmth. Gravity pulls down, and does not slow a cup sliding on a level table.
 8. (truefalse) Pushing hard on a wall that does not move does work on the wall.  
    **Answer:** False. *Why:* False. In science, work is a force moving a thing. The wall does not move, so no energy passes to it.
@@ -548,7 +548,7 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
 11. (write) A football rolls across a field and stops. A friend says its energy is gone. What would you say to her?  
    **Answer:** The energy is not gone. Friction with the grass and the air changed the ball's movement into warmth. The grass, the ball and the air are each a tiny bit warmer.. *Why:* A strong answer says where the energy went and that the amount is the same as before.
 12. (mcq) A mixer grinder makes chutney. Which is spread-out energy?  
-   Options: The roar and the warm jar / The turning blades / The cut coconut  
+   Options: The turning blades / The cut coconut / The roar and the warm jar  
    **Answer:** The roar and the warm jar. *Why:* The mixer is built to turn its blades and cut. The noise and warmth are energy that went where it was not wanted.
 13. (odd) Which is the odd one out, and why? A kettle, an iron, a geyser, a fan.  
    **Answer:** The fan, because it changes electrical energy mainly into movement. The other three change it mainly into heat.. *Why:* Look at the main form that comes out. Three give heat and one gives movement.
@@ -596,7 +596,7 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
    **Answer:** Only the surface. *Why:* In a fair test only one thing changes. Here it is the surface. If the marble or the start mark changed too, you could not tell what made the difference.
 ### Where does it all go? (challenge) (challenge, 16 questions)
 1. (mcq) Julius Robert Mayer said in 1842 that movement and heat are the same thing in two forms. Which finding fits his idea?  
-   Options: Rubbing always makes warmth / A heavy wheel turns for ever / Cold flows out of ice  
+   Options: A heavy wheel turns for ever / Rubbing always makes warmth / Cold flows out of ice  
    **Answer:** Rubbing always makes warmth. *Why:* If movement and heat are one, then lost movement must show up as warmth, and it does. No wheel has ever turned for ever.
 2. (truefalse) An energy chain for a bus could begin with sunlight that fell millions of years ago.  
    **Answer:** True. *Why:* True. Diesel is made from tiny sea beings that lived long ago and stored the energy of sunlight. That stored energy is what moves the bus.
@@ -629,7 +629,7 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
 15. (write) The total energy in the world never changes. So why do people say we must save energy?  
    **Answer:** What we can run short of is gathered energy in a useful form, such as fuel, food and charged batteries. Once it has spread out as warmth it is very hard to use again. Saving energy means spreading it out more slowly.. *Why:* A strong answer separates the amount of energy, which is fixed, from how gathered and useful it is, which runs down.
 16. (mcq) You push a toy car 2 metres. Then you push it just as hard for 4 metres. Which push did more work?  
-   Options: The second push / Both the same / Neither did any work  
+   Options: Both the same / Neither did any work / The second push  
    **Answer:** The second push. *Why:* Work depends on the force and on how far the thing moves. The same force over twice the distance does twice the work.
 
 ## Videos
@@ -639,16 +639,16 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
 
 ## Quiz
 1. (mcq) A hot dosa is put on a cold steel plate. The plate warms up. What is this?  
-   Options: An energy transfer / A change of form / Energy being made  
+   Options: A change of form / An energy transfer / Energy being made  
    **Answer:** An energy transfer. *Why:* Heat passes from the dosa to the plate, and it is heat before and after. That is a transfer. If you chose a change of form, look for a new form. There is none here.
 2. (mcq) You ring a cycle bell with your thumb. Which change of form happens?  
-   Options: Movement into sound / Sound into light / Heat into movement  
+   Options: Sound into light / Heat into movement / Movement into sound  
    **Answer:** Movement into sound. *Why:* Your thumb moves the lever, the bell shakes, and the shaking air is sound. If you chose another, say each form aloud and check that it is really there.
 3. (mcq) Which energy chain fits a torch?  
-   Options: Stored → electrical → light and warmth / Light → electrical → stored / Movement → sound → light  
+   Options: Light → electrical → stored / Stored → electrical → light and warmth / Movement → sound → light  
    **Answer:** Stored → electrical → light and warmth. *Why:* The cell holds stored chemical energy. It becomes electrical energy in the wires and then light and a little warmth in the bulb. The second chain runs backwards, which is what a solar panel does.
 4. (mcq) A marble rolls down a slope. What happens to its energy on the way down?  
-   Options: Stored energy changes into movement energy / Movement energy changes into stored energy / New energy is made by rolling  
+   Options: Movement energy changes into stored energy / New energy is made by rolling / Stored energy changes into movement energy  
    **Answer:** Stored energy changes into movement energy. *Why:* It loses height and gains speed, so stored energy is changing into movement energy. Rolling makes no new energy. The energy was put in when the marble was lifted.
 5. (mcq) A ball rolls across the floor and stops. Where is its movement energy now?  
    Options: Warmth in the floor, ball and air / Nowhere. It is gone. / Back inside the ball as movement  
@@ -656,22 +656,22 @@ That night Kabilan lay on a mat near the shed. The wheel stood still in the dark
 6. (truefalse) A flat torch cell shows that energy can be used up and destroyed.  
    **Answer:** False. *Why:* False. The energy that was stored in the cell is now warmth spread through the room. What ran out was energy gathered in one place.
 7. (mcq) A marble starts 5 centimetres high and pushes a cup 4 centimetres. From 10 centimetres high, about how far will it push?  
-   Options: About 4 centimetres / About 8 centimetres / About 40 centimetres  
+   Options: About 8 centimetres / About 4 centimetres / About 40 centimetres  
    **Answer:** About 8 centimetres. *Why:* Twice the height stores twice the energy, and that pushes the cup about twice as far: about 8 centimetres. If you chose 4, you expected height not to matter. Try the test again and compare.
 8. (mcq) In the marble and cup test, why is each start mark tried three times?  
    Options: One roll can go crooked / To tire the marble out / To make the cup lighter  
    **Answer:** One roll can go crooked. *Why:* A single roll can be odd. Three rolls let you take the middle value, which a single odd roll cannot spoil. The marble and the cup do not change.
 9. (mcq) For a ceiling fan, which is the useful energy?  
-   Options: Movement of the air / Warmth of the motor / Hum of the motor  
+   Options: Warmth of the motor / Hum of the motor / Movement of the air  
    **Answer:** Movement of the air. *Why:* A fan is built to move air. The warm motor and the hum are energy that spread out where we did not want it.
 10. (mcq) On a cold night in Ooty, a family is glad of the warmth from an old bulb. Is that warmth wasted?  
-   Options: No. Tonight they want it. / Yes. Warmth is always waste. / Yes. It is destroyed.  
+   Options: Yes. Warmth is always waste. / No. Tonight they want it. / Yes. It is destroyed.  
    **Answer:** No. Tonight they want it.. *Why:* Useful means 'what we wanted'. Tonight the warmth is wanted, so it is useful. Energy is never destroyed, and no form of energy is waste by its nature.
 11. (mcq) In which of these is work done on the thing, in the scientist's meaning?  
-   Options: Lifting a bucket from a well / Holding a bag still / Pushing a wall that stays put  
+   Options: Holding a bag still / Lifting a bucket from a well / Pushing a wall that stays put  
    **Answer:** Lifting a bucket from a well. *Why:* Work needs a force and a movement. The bucket moves up, so energy passes to it. The bag and the wall do not move, so no energy passes to them, though your muscles still spend energy.
 12. (mcq) Which is the best description of what physicists mean by energy?  
-   Options: A number whose total never changes / An invisible liquid in things / The tiredness you feel  
+   Options: An invisible liquid in things / A number whose total never changes / The tiredness you feel  
    **Answer:** A number whose total never changes. *Why:* Energy is a number that can be worked out for anything, and its total stays the same through every change. Nobody has found a liquid, and what energy is underneath is still unknown.
 13. (truefalse) Scientists know exactly what energy is made of.  
    **Answer:** False. *Why:* False. They can work out the amount exactly, and it always balances. What energy is, underneath the sums, is an open question.

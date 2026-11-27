@@ -542,11 +542,11 @@
       "t": "mcq",
       "q": "Which roof would suit a place with very heavy monsoon rain?",
       "options": [
-       "A flat mud roof",
        "A steep tiled roof",
+       "A flat mud roof",
        "A roof of loose leaves with no slope"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A steep roof sheds rain fast, before it can soak in or leak. A flat mud roof suits a dry place like Ladakh, but heavy rain would soak and soften it."
      }
     }
@@ -814,11 +814,11 @@
       "t": "mcq",
       "q": "When you pushed the triangle, why did it not lean like the square?",
       "options": [
-       "It was made of stronger card",
        "To lean, one of its sides would have to get longer or shorter",
+       "It was made of stronger card",
        "It had fewer pins, so it was lighter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both frames used the same card and the same pins. A triangle with three fixed sides can only make one shape. To lean, a side would have to stretch or squash. A square can lean just by turning its corners, with no side changing length."
      }
     },
@@ -1709,11 +1709,11 @@
       "t": "mcq",
       "q": "One side of your hut leans when you push it. What is the best fix?",
       "options": [
-       "Add more tape to the corners",
        "Add a stick from one corner of that side to the opposite corner",
+       "Add more tape to the corners",
        "Make the sticks longer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A stick from corner to corner, called a brace, turns the leaning square into two triangles, and triangles cannot lean. More tape helps only a little, because a taped corner can still bend."
      }
     }
@@ -1888,11 +1888,11 @@
    "t": "mcq",
    "p": "What does a shelter protect us from?",
    "opts": [
-    "Only from rain",
     "Rain, sun, heat, cold, wind and danger",
+    "Only from rain",
     "Only from animals"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A shelter protects from all of these. Choosing only one leaves out the others.",
    "outcome": 0
   },
@@ -1912,11 +1912,11 @@
    "t": "mcq",
    "p": "You push a square frame of card strips sideways. What happens?",
    "opts": [
-    "It stays square",
     "It leans and folds flat",
+    "It stays square",
     "It becomes a triangle"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The square's corners turn like hinges, so it leans. Choosing 'stays square' usually means thinking more strips make it stronger.",
    "outcome": 1,
    "how": "e1"
@@ -1986,10 +1986,10 @@
    "p": "Water was poured on a flat tray and on a tray tilted on four books. What happened?",
    "opts": [
     "Both dried at the same time",
-    "The water ran off the tilted tray fast and stayed on the flat one",
-    "The water stayed on the tilted tray"
+    "The water stayed on the tilted tray",
+    "The water ran off the tilted tray fast and stayed on the flat one"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water flows downhill. The steeper the slope, the faster it runs off.",
    "outcome": 4,
    "how": "e2"
@@ -2035,11 +2035,11 @@
    "t": "mcq",
    "p": "In an earthquake, why is a heavy roof more dangerous than a light one?",
    "opts": [
-    "Heavy roofs are pushed harder by the shaking and hurt more if they fall",
     "Heavy roofs let rain in",
+    "Heavy roofs are pushed harder by the shaking and hurt more if they fall",
     "Heavy roofs are hotter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The shaking pushes heavy things harder, and a falling heavy roof is the main danger. In Kutch in 2001, many bhungas with light roofs stood.",
    "outcome": 3
   },
@@ -2059,11 +2059,11 @@
    "t": "mcq",
    "p": "A small room has no window, and many people sit in it for a long time. What happens?",
    "opts": [
-    "The air gets stale and stuffy, because no fresh air comes in",
     "The room gets more daylight",
+    "The air gets stale and stuffy, because no fresh air comes in",
     "The walls become stronger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Breath and cooking smoke stay in the room, and nothing brings fresh air in. A window or a gap lets stale air out and fresh air in.",
    "outcome": 0
   },
@@ -2103,11 +2103,11 @@
      "t": "mcq",
      "p": "In the Push Test, you pushed the top of a square card frame sideways. What happened?",
      "opts": [
-      "It stayed square",
       "It leaned into a diamond and folded flat",
+      "It stayed square",
       "One strip broke"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The corners of a square turn like hinges, so the square leans and folds without any strip changing length.",
      "how": "e1"
     },
@@ -2115,11 +2115,11 @@
      "t": "mcq",
      "p": "Which of these frames keeps its shape when pushed?",
      "opts": [
+      "A triangle",
       "A square",
-      "A rectangle",
-      "A triangle"
+      "A rectangle"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A triangle cannot change shape unless one side changes length. Squares and rectangles can lean by turning their corners."
     },
     {
@@ -2243,11 +2243,11 @@
      "t": "mcq",
      "p": "In the card frames of the Push Test, what is each split pin?",
      "opts": [
-      "A brace",
       "A joint, where two strips meet",
+      "A brace",
       "A load"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A joint is the place where two parts of a frame meet and are fixed together."
     },
     {
@@ -2371,10 +2371,10 @@
      "p": "You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?",
      "opts": [
       "Yes, any extra strip stops leaning",
-      "No, it makes two smaller rectangles, which can still lean",
-      "Only if the strip is thicker"
+      "Only if the strip is thicker",
+      "No, it makes two smaller rectangles, which can still lean"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A strip from the middle of the top to the middle of the bottom makes two smaller rectangles, not triangles. Rectangles still lean. The brace must go from corner to corner."
     },
     {
@@ -2388,11 +2388,11 @@
      "t": "mcq",
      "p": "In the Kutch earthquake of 2001, many bhungas with light roofs stood. Why is a light roof safer in an earthquake?",
      "opts": [
-      "A light roof is cheaper",
       "If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less",
+      "A light roof is cheaper",
       "A light roof keeps the house cool"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The shaking ground pushes heavy things harder, and a falling heavy roof is the main danger. A light roof both moves less and hurts less if it falls."
     },
     {
@@ -2468,11 +2468,11 @@
      "t": "mcq",
      "p": "Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?",
      "opts": [
-      "Saves bricks and keeps the room cooler",
       "Lets rats live in the wall",
-      "Makes the wall heavier"
+      "Makes the wall heavier",
+      "Saves bricks and keeps the room cooler"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The air gap means fewer bricks are needed, and still air slows heat coming through the wall. The name comes from the shape of the brick pattern, not from rats."
     },
     {
@@ -2535,10 +2535,10 @@
      "p": "You want a light frame for a balcony tent. Which one will stay up best in the wind?",
      "opts": [
       "Four sticks in a square",
-      "Sticks in triangles, with a brace on each side",
-      "One tall stick in the middle"
+      "One tall stick in the middle",
+      "Sticks in triangles, with a brace on each side"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Triangles and braces stop the frame leaning in a sideways push from the wind. A square can fold, and one stick can tip over."
     },
     {

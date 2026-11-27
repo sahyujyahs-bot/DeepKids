@@ -480,25 +480,25 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
 
 ## Quiz
 1. (mcq) Which of these moves in a straight line?  
-   Options: A lift going up / A ceiling fan / A swing  
+   Options: A ceiling fan / A swing / A lift going up  
    **Answer:** A lift going up. *Why:* A lift moves along a straight line. A fan goes round, and a swing goes back and forth.
 2. (mcq) Which of these goes round?  
-   Options: A drawer / A toothbrush / A potter's wheel  
+   Options: A potter's wheel / A drawer / A toothbrush  
    **Answer:** A potter's wheel. *Why:* A potter's wheel turns round its middle.
 3. (mcq) A cradle rocks in the hall. What path does it take?  
-   Options: Straight / Back and forth / Round  
+   Options: Straight / Round / Back and forth  
    **Answer:** Back and forth. *Why:* A cradle goes one way, then back again, over and over.
 4. (mcq) A girl walks straight down the corridor. What path do her arms take?  
-   Options: Back and forth / Round / They stay still  
+   Options: Round / Back and forth / They stay still  
    **Answer:** Back and forth. *Why:* While she walks straight, her arms swing back and forth. One body can move in two paths at once.
 5. (mcq) An auto goes along a straight road. What do its wheels do?  
-   Options: They go back and forth / They stay still / They go round  
+   Options: They go round / They go back and forth / They stay still  
    **Answer:** They go round. *Why:* The auto goes straight while each wheel goes round its middle.
 6. (mcq) A gecko sits on the wall, level with a ceiling fan. The fan blades go round. What path do the blades seem to take to the gecko?  
-   Options: A bigger circle / Back and forth / The blades seem to stand still  
+   Options: Back and forth / A bigger circle / The blades seem to stand still  
    **Answer:** Back and forth. *Why:* From the side, the gecko sees each blade move only left and right, so a round path looks like back and forth.
 7. (mcq) Which of these starts moving with no push or pull?  
-   Options: A football / A curtain / A crow  
+   Options: A football / A crow / A curtain  
    **Answer:** A crow. *Why:* A crow starts and stops by herself. A football and a curtain need a push from a foot or the wind.
 8. (mcq) Which of these is moved by the wind?  
    Options: An ant / A kite / A goat  
@@ -507,7 +507,7 @@ That night, Revathi lay in bed and looked up at the fan. From below, the blades 
    Options: You stay exactly on the line / You walk faster / You drift off the line a little  
    **Answer:** You drift off the line a little. *Why:* Without your eyes, small turns add up and you drift.
 10. (mcq) You guess that the keys will look round from every side. What should you do next?  
-   Options: Test it by looking from the side / Ask a friend and believe them / Give up  
+   Options: Ask a friend and believe them / Give up / Test it by looking from the side  
    **Answer:** Test it by looking from the side. *Why:* A guess is checked by a test. You can lie down and look at the keys from the side.
 
 ## Applications

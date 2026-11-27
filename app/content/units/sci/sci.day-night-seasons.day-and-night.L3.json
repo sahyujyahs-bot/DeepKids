@@ -941,11 +941,11 @@
       "t": "mcq",
       "q": "In the game, why did some players have night?",
       "options": [
-       "Their backs were turned to the Sun",
        "The Sun moved away from them",
+       "Their backs were turned to the Sun",
        "The Sun switched off"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Sun player stayed in the same place the whole time. Night came to the players whose side of the ring faced away from it. That is just how night happens on the real Earth. Picking 'the Sun moved' is the old idea that the Sun goes round us. Picking 'switched off' mixes up night with a light being turned off. The Sun shines all the time."
      }
     },
@@ -989,11 +989,11 @@
      "p": "For thousands of years, most people believed the Sun travels round the Earth each day. What really makes night come?",
      "opts": [
       "The Sun goes behind the hills",
-      "Our side of the Earth spins round, away from the Sun",
       "The Sun switches off",
-      "Clouds cover the Sun"
+      "Clouds cover the Sun",
+      "Our side of the Earth spins round, away from the Sun"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The Earth spins once in about 24 hours. Each place turns into the sunlight, which is day, then away from it, which is night. The Sun shines all the time. The old idea matched what people saw, which is why it lasted so long.",
      "art": "The Earth half lit by the Sun, with a spin arrow."
     },
@@ -1023,23 +1023,23 @@
      "p": "In which direction does the Sun seem to rise?",
      "opts": [
       "North",
-      "South",
       "East",
+      "South",
       "West"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The Earth turns from west to east, so the Sun seems to come up in the east. Picking 'west' swaps sunrise and sunset."
     },
     {
      "t": "mcq",
      "p": "Today the Earth spins once in about 24 hours, so Chennai gets about 12 hours of night. If the Earth spun twice as fast, about how long would the night be?",
      "opts": [
-      "About 6 hours",
       "About 12 hours",
+      "About 6 hours",
       "About 24 hours",
       "There would be no night"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Twice as fast means one spin takes 12 hours instead of 24. Chennai would spend about half of that turned away from the Sun, so about 6 hours of night. A strong answer links the length of a night to how fast the Earth spins."
     },
     {
@@ -1053,11 +1053,11 @@
      "p": "You shine a torch at a ball in a dark room. Which part of the ball is like night?",
      "opts": [
       "The side facing the torch",
-      "The side facing away from the torch",
       "The whole ball",
-      "No part"
+      "No part",
+      "The side facing away from the torch"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The side facing away from the torch gets no light, like the night side of the Earth. Picking 'the whole ball' forgets that the torch always lights one half.",
      "how": "e1"
     },
@@ -1149,12 +1149,12 @@
      "t": "mcq",
      "p": "In the morning, the Sun is in the east. Which way does your shadow point?",
      "opts": [
-      "East, towards the Sun",
       "West, away from the Sun",
+      "East, towards the Sun",
       "Straight down",
       "There is no shadow in the morning"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A shadow always falls on the side away from the light. Picking 'towards the Sun' is a common mix-up. Try it outside tomorrow morning and see.",
      "how": "e2"
     },
@@ -1191,12 +1191,12 @@
      "t": "mcq",
      "p": "In June, the Sun rises in Dong, Arunachal Pradesh, at about 4 in the morning by the clock. In Bhuj, Kutch, it rises at about 6. Why?",
      "opts": [
-      "Dong is higher up in the mountains",
       "Dong is further east, so it turns into the sunlight first",
+      "Dong is higher up in the mountains",
       "The clocks in Dong are wrong",
       "The Sun is closer to Dong"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'higher up' sounds sensible, but height makes only a tiny difference. Picking 'closer to Dong' imagines the Sun as a nearby lamp. It is 150 million kilometres away, the same for both."
     },
     {
@@ -1382,24 +1382,24 @@
      "t": "mcq",
      "p": "A star rises above a rooftop at 9:00 tonight. When will it rise above the same rooftop tomorrow?",
      "opts": [
-      "At 9:00 exactly",
       "At about 8:56",
+      "At 9:00 exactly",
       "At about 9:04",
       "At midnight"
      ],
-     "a": 1,
+     "a": 0,
      "why": "One spin measured against the stars takes about 23 hours and 56 minutes. So stars come back 4 minutes earlier each night. Picking '9:00 exactly' assumes a spin is exactly 24 hours. Our 24-hour day is measured by the Sun, not the stars."
     },
     {
      "t": "mcq",
      "p": "In Paris, a Foucault pendulum's swing goes all the way round in about 32 hours. In Delhi it takes about 50 hours. At the North Pole, how long would it take?",
      "opts": [
-      "About 24 hours",
       "About 100 hours",
       "It would never turn",
+      "About 24 hours",
       "About 1 hour"
      ],
-     "a": 0,
+     "a": 2,
      "why": "At the North Pole, the floor turns all the way round under the pendulum once a day, so the swing goes round in about 24 hours. Closer to the equator it takes longer. Exactly on the equator, it would not turn at all. Picking 'about 100 hours' gets the pattern backwards: the swing takes less time nearer the Pole, not more."
     },
     {
@@ -1413,11 +1413,11 @@
      "p": "On the International Space Station, astronauts see about 16 sunrises every 24 hours. Why?",
      "opts": [
       "The Sun moves faster in space",
-      "The station goes round the Earth about 16 times a day, in and out of the Earth's shadow",
       "Space has no night",
-      "They have very short days because they sleep less"
+      "They have very short days because they sleep less",
+      "The station goes round the Earth about 16 times a day, in and out of the Earth's shadow"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The station circles the Earth every 90 minutes or so. Each time round, it passes into the Earth's shadow and out again. Picking 'the Sun moves faster in space' still pictures the Sun as the mover."
     },
     {
@@ -1425,11 +1425,11 @@
      "p": "The Sun you see touching the horizon at sunset is actually already just below it. Why can you still see it?",
      "opts": [
       "Your eyes are too slow",
-      "The air bends the sunlight a little, lifting the picture of the Sun",
       "The Sun is very big",
+      "The air bends the sunlight a little, lifting the picture of the Sun",
       "Mirrors in the sky"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Air bends light a little, like water bends a straw in a glass. Near the horizon, this lifts the picture of the Sun, so we see the Sun for about 2 extra minutes at sunset. Picking 'eyes too slow' is a clever guess about light taking time, but that is a different effect."
     },
     {
@@ -1451,11 +1451,11 @@
      "p": "Why is the night sky dark, when there are billions of stars?",
      "opts": [
       "The stars switch off at night",
-      "The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see",
       "Clouds block them",
-      "The Moon hides them"
+      "The Moon hides them",
+      "The universe had a beginning, so light from the furthest stars has not reached us, and far light is stretched too dim to see"
      ],
-     "a": 1,
+     "a": 3,
      "why": "This puzzle troubled scientists for centuries. Edgar Allan Poe, a writer, guessed the first part of the answer in 1848. Picking 'clouds' explains why we sometimes see fewer stars, but not why the sky between the stars is black on a clear night. Stars do not switch off at night either. They shine all the time."
     },
     {
@@ -1469,11 +1469,11 @@
      "p": "Cyclones in the Bay of Bengal spin anticlockwise. Which way do cyclones spin near Australia, south of the equator?",
      "opts": [
       "Also anticlockwise",
-      "Clockwise",
       "They do not spin",
+      "Clockwise",
       "It changes every day"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Earth's spin turns giant storms one way north of the equator and the other way south of it. Picking 'also anticlockwise' assumes the spin pushes the same way everywhere."
     },
     {
@@ -1673,11 +1673,11 @@
       "t": "mcq",
       "q": "In the experiment, what made the dots go from day into night?",
       "options": [
-       "The torch moving",
        "The ball turning",
+       "The torch moving",
        "The torch getting dimmer"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The torch stayed still on its books the whole time. Only the ball turned. So day and night came from the turning. Picking 'the torch moving' is the everyday feeling that the Sun travels. Picking 'dimmer' imagines night as the Sun fading. It never fades."
      },
      "think": "Right now, is somebody on the real Earth just going into the night?"
@@ -1820,11 +1820,11 @@
       "t": "mcq",
       "q": "In the shadow stick experiment, when was the shadow shortest?",
       "options": [
-       "Early morning",
        "Around noon",
+       "Early morning",
        "Late afternoon"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Around noon the Sun is highest, so the light comes from nearly above, and the stick blocks only a little of it. Picking 'early morning' usually means thinking the morning sun is the strongest. In fact a low Sun makes the longest shadows."
      }
     },
@@ -1967,10 +1967,10 @@
       "q": "When the stool turned, what did the pendulum's swing do?",
       "options": [
        "It turned with the stool",
-       "It kept swinging the same way, and the line turned under it",
-       "It stopped"
+       "It stopped",
+       "It kept swinging the same way, and the line turned under it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A swinging pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the weight. So the line turns away under the swing. Picking 'turned with the stool' is what most people expect. That is why this test is so surprising."
      },
      "parent": "The swing may drift a little on its own, because the string twists. A quarter turn of the stool is far bigger than that drift, so you can still see the difference."
@@ -2061,11 +2061,11 @@
       "t": "mcq",
       "q": "When was it night for your nose?",
       "options": [
-       "When my back was to the Sun",
        "When the Sun walked away",
-       "When I closed my eyes"
+       "When I closed my eyes",
+       "When my back was to the Sun"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun stood still the whole time. It was night when your nose had turned away from it. That is how the real Earth works. Picking 'when the Sun walked away' is the old idea that the Sun goes round us."
      }
     },
@@ -2486,11 +2486,11 @@
       "t": "mcq",
       "q": "What is the dark band low in the eastern sky just after sunset?",
       "options": [
-       "A long cloud",
        "The shadow of the Earth on the air",
+       "A long cloud",
        "Smoke"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The Earth blocks the sunlight and casts a shadow, just like a ball under a torch. After sunset, we can see that shadow on the air in the east. Picking 'a cloud' or 'smoke' is a fair guess, but the band is there on clear evenings everywhere, and it always faces away from the Sun."
      }
     }
@@ -2788,12 +2788,12 @@
    "t": "mcq",
    "p": "Right now it is night in Chennai. What is the Sun doing?",
    "opts": [
-    "Still shining, on the side of the Earth that faces it",
     "Switched off until morning",
+    "Still shining, on the side of the Earth that faces it",
     "Hiding behind the Moon",
     "Resting behind the hills"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.",
    "outcome": 0
   },
@@ -2801,12 +2801,12 @@
    "t": "mcq",
    "p": "Is it true that at night we are in the Earth's own shadow?",
    "opts": [
-    "Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun",
     "No. Night is the Moon's shadow",
     "No. Night is when clouds cover the Sun",
+    "Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun",
     "No. Shadows only happen in the day"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.",
    "outcome": 1,
    "context": "In the torch and ball experiment, a torch is the Sun and a ball is the Earth.",
@@ -2831,12 +2831,12 @@
    "t": "mcq",
    "p": "The Earth turns from west to east. Which way does the Sun seem to move across our sky?",
    "opts": [
-    "From east to west",
     "From west to east",
+    "From east to west",
     "From north to south",
     "It does not seem to move"
    ],
-   "a": 0,
+   "a": 1,
    "why": "We turn towards the east, so the Sun seems to slide the other way, from east to west. It rises in the east and sets in the west.",
    "outcome": 2
   },
@@ -2858,11 +2858,11 @@
    "p": "How long does one spin of the Earth take, from one noon to the next?",
    "opts": [
     "About 12 hours",
-    "About 24 hours",
     "About 7 days",
-    "About 365 days"
+    "About 365 days",
+    "About 24 hours"
    ],
-   "a": 1,
+   "a": 3,
    "why": "One day and one night together take about 24 hours. Picking '12 hours' counts only the daytime. Picking '365 days' mixes up the spin with the trip round the Sun.",
    "outcome": 3
   },
@@ -2870,12 +2870,12 @@
    "t": "mcq",
    "p": "Look at the clock showing the time the Sun rose in Mumbai on a day in June. What time is it?",
    "opts": [
-    "6 o'clock",
     "12 o'clock",
     "6:30",
+    "6 o'clock",
     "5:45"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The short hand points at 6 and the long hand points at 12. So it is 6 o'clock. Picking '12 o'clock' reads the long hand as the hour hand. The short hand shows the hour.",
    "outcome": 3,
    "art": "A round clock face with the short hand on 6 and the long hand on 12, a small sunrise drawn beside it."
@@ -2884,11 +2884,11 @@
    "t": "mcq",
    "p": "Which sees the sunrise first, Chennai or Mumbai?",
    "opts": [
-    "Chennai, because it is further east",
     "Mumbai, because it is a bigger city",
-    "Both at the same time, because India has one clock"
+    "Both at the same time, because India has one clock",
+    "Chennai, because it is further east"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'the same time' is a common mix-up. India has one clock time, but the Sun does not follow our clock.",
    "outcome": 4
   },
@@ -2896,12 +2896,12 @@
    "t": "mcq",
    "p": "The Earth spins fast: at the equator, the ground moves about 1,670 kilometres every hour. Why are we not thrown off?",
    "opts": [
-    "The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out",
     "The air presses us down",
     "We are glued on by our shoes",
-    "The spin stops at night"
+    "The spin stops at night",
+    "The Earth's pull, called gravity, holds us far more strongly than the spin pushes us out"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Gravity pulls everything towards the middle of the Earth. The spin does push us outwards a tiny bit, but gravity is about 300 times stronger. Picking 'the air presses us down' is a common idea, but air pressure pushes from every side, not only down.",
    "outcome": 4
   },
@@ -2910,11 +2910,11 @@
    "p": "In 1851, Léon Foucault hung a long pendulum in Paris. Over many hours, its swing seemed to turn round the floor. What did this show?",
    "opts": [
     "The pendulum was broken",
-    "The Earth turns under the pendulum",
     "Wind pushed it",
+    "The Earth turns under the pendulum",
     "The Sun pulled it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A pendulum keeps swinging the same way unless something pushes it sideways. So it was the floor, and the Earth, that turned. Picking 'wind' is a sensible doubt. But the swing turned at the same slow, steady rate, in the same direction, hour after hour, which wind would not do.",
    "outcome": 5,
    "context": "A pendulum is a weight on a string or wire that swings to and fro.",
@@ -2924,12 +2924,12 @@
    "t": "mcq",
    "p": "Kanyakumari is in the far south of India. Delhi is in the north. From which city does Dhruva Tara, the Pole Star, look lower in the sky?",
    "opts": [
-    "Kanyakumari, because the further south you live, the lower it sits",
     "Delhi, because the further north you live, the lower it sits",
+    "Kanyakumari, because the further south you live, the lower it sits",
     "It looks the same height from both",
     "It cannot be seen from either city"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Pole Star sits above the North Pole. Its height in your sky is about the same as how far north of the equator you live. Kanyakumari is about 8 degrees north, so the star is very low. Delhi is about 28 degrees north, so it is much higher.",
    "outcome": 5
   },
@@ -2944,12 +2944,12 @@
    "t": "mcq",
    "p": "Why do we use a model, like a torch and a ball, to understand day and night?",
    "opts": [
-    "We are tiny and stand on the Earth, so we cannot see it turn from where we are",
     "Because the real Sun is switched off at night",
     "Because the Earth is flat",
-    "Because models are always more correct than the real thing"
+    "Because models are always more correct than the real thing",
+    "We are tiny and stand on the Earth, so we cannot see it turn from where we are"
    ],
-   "a": 0,
+   "a": 3,
    "why": "From the ground, it looks as if the Sun moves and the Earth stands still. A model lets us look from outside, the way an astronaut would, and see the turning. Picking 'models are always more correct' goes too far: a model is only useful if it matches what we see.",
    "outcome": 6
   },
@@ -2957,12 +2957,12 @@
    "t": "mcq",
    "p": "A woman flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?",
    "opts": [
-    "Her body clock is still on Chennai time",
     "The air on the plane made her tired",
+    "Her body clock is still on Chennai time",
     "New York has no proper night",
     "She ate too much"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.",
    "outcome": 7
   },
@@ -2970,12 +2970,12 @@
    "t": "mcq",
    "p": "A touch-me-not plant was kept in a dark cupboard. The plant's leaves still opened and closed each day. What does this show?",
    "opts": [
-    "The plant has their own body clock",
     "Light got into the cupboard",
+    "The plant has their own body clock",
     "Plants do not need light",
     "The plant was broken"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The plant kept their daily rhythm with no sunlight, so the timer must be inside them. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.",
    "outcome": 7
   }

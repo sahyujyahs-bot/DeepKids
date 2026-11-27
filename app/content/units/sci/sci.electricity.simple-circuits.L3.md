@@ -572,7 +572,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 6. (sort) You test each of these in a circuit tester. Sort them. Will the bulb light, or stay dark?  
    **Answer:** steel spoon → Bulb lights; one-rupee coin → Bulb lights; aluminium foil → Bulb lights; safety pin → Bulb lights; plastic ruler → Bulb stays dark; rubber band → Bulb stays dark; wooden ice-cream stick → Bulb stays dark; paper → Bulb stays dark. *Why:* The metal things are conductors, so they complete the loop. Plastic, rubber, wood and paper are insulators, so they leave a gap.
 7. (mcq) In the conductor test, what did all the things that lit the bulb have in common?  
-   Options: They were all metal / They were all shiny / They were all hard / They were all heavy  
+   Options: They were all shiny / They were all metal / They were all hard / They were all heavy  
    **Answer:** They were all metal. *Why:* Every thing that lit the bulb was metal. Shiny is not the reason: a glass bangle is shiny but does not conduct. Hard is not the reason either: wood is hard, and soft foil conducts.
 8. (truefalse) Aluminium foil is thin and soft, not hard like a key. So foil will not light the bulb.  
    **Answer:** False. *Why:* False. Foil is a metal, so it is a conductor, however thin and soft it is. What matters is the material, not how hard or thick it is.
@@ -607,7 +607,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 6. (sort) Each of these is touched to both ends of a circuit tester. Sort them. Will the bulb light, or stay dark?  
    **Answer:** paper clip with a plastic coat → Bulb stays dark; the same clip with the coat scraped off the ends → Bulb lights; a pencil, touching only the wood → Bulb stays dark; pencil lead touching both ends → Bulb lights; a steel tumbler → Bulb lights; a key wrapped in tape → Bulb stays dark. *Why:* Only the material the wire ends touch matters. A plastic coat, wood or tape is an insulator and leaves a gap, even with metal inside. Pencil lead lights the bulb only dimly.
 7. (mcq) An old string of festival lights goes dark when just one bulb breaks. Why?  
-   Options: The broken bulb makes a gap in the one loop that all the bulbs share / All the other bulbs broke at the same moment / The plug got too hot and switched off  
+   Options: All the other bulbs broke at the same moment / The broken bulb makes a gap in the one loop that all the bulbs share / The plug got too hot and switched off  
    **Answer:** The broken bulb makes a gap in the one loop that all the bulbs share. *Why:* In old light strings, every bulb is in one loop. A broken bulb leaves a gap, so electricity stops flowing through all of them. Many new strings are wired so that each bulb has its own path.
 8. (order) Put these in order, from the weakest push to the strongest.  
    **Answer:** ['one AA cell', 'two AA cells in a row', 'a wall socket in India']. *Why:* One AA cell is 1.5 volts. Two in a row facing the same way are 3 volts. A wall socket is 230 volts, about 150 times one cell, which is why it is never for experiments.
@@ -631,30 +631,30 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 2. (write) Galvani's test had a brass hook, an iron rail and a wet frog's leg. Volta's pile had zinc discs, copper discs and cloth soaked in salty water. What did both set-ups have in common?  
    **Answer:** Both had two different metals: brass and iron, or zinc and copper. Both had something wet and salty between them: the frog's leg or the salty cloth. Two different metals with something wet between them make electricity.. *Why:* A strong answer finds both things they share: two different metals, and something wet between them.
 3. (mcq) A touch-me-not plant folds their leaves when you touch them. What travels along the leaf stalk to make this happen?  
-   Options: A sound / An electrical signal / A drop of water  
+   Options: A sound / A drop of water / An electrical signal  
    **Answer:** An electrical signal. *Why:* A touch starts an electrical signal that travels along the leaf stalk, and the leaves fold. Jagadish Chandra Bose measured electrical signals in plants in Kolkata over a hundred years ago.
 4. (mcq) A crow sits on a power line and is not hurt. A person standing on the ground who touches the same line can be killed. Why the difference?  
-   Options: The crow touches only one wire, so there is no loop through their body / Crows have thick feathers that are conductors / The person is heavier than the crow  
+   Options: Crows have thick feathers that are conductors / The crow touches only one wire, so there is no loop through their body / The person is heavier than the crow  
    **Answer:** The crow touches only one wire, so there is no loop through their body. *Why:* Electricity flows only round a loop. The crow touches one wire and nothing else, so there is no path through their body. The person also touches the ground, so there is a path through the body to the earth.
 5. (mcq) Why does a plug have at least two pins?  
-   Options: One pin is a spare / The electricity needs a way in and a way back, to make a loop / So that the plug stands up straight  
+   Options: The electricity needs a way in and a way back, to make a loop / One pin is a spare / So that the plug stands up straight  
    **Answer:** The electricity needs a way in and a way back, to make a loop. *Why:* An iron or a fan is part of a loop, just like a bulb. The electricity needs one path in and one path back. Many plugs have a third pin, called earth, for safety.
 6. (order) Put these in order, following the electricity from the socket, round an iron and back.  
    **Answer:** ['the socket', 'one pin of the plug', 'one wire in the cable', 'the heating coil inside the iron', 'the other wire in the cable', 'the other pin, back into the socket']. *Why:* An iron is one big loop, like a torch. The electricity goes out through one pin and wire, through the coil that gets hot, and back through the other wire and pin.
 7. (write) Your friend says, "A cell is like a water tank full of electricity, and the bulb drinks it up." What would you tell your friend? Use evidence from your experiments.  
    **Answer:** I would tell my friend that the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts the bulb out, just like a gap before it. What a cell runs out of is the energy in its chemicals.. *Why:* A strong answer corrects the idea and backs it with a result from the Where Is the Gap? experiment.
 8. (mcq) Before testing anything, you touch the two loose wire ends of your circuit tester together, and the bulb lights. Why is this a good first step?  
-   Options: It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken / It charges the cell / It warms up the bulb so it lights faster  
+   Options: It charges the cell / It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken / It warms up the bulb so it lights faster  
    **Answer:** It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken. *Why:* A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.
 9. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. You cover the start of the path with tape, so you can rest the wand there. Why does this work?  
-   Options: Tape is an insulator, so touching it leaves a gap / Tape makes the cell weaker / Tape is a conductor  
+   Options: Tape makes the cell weaker / Tape is an insulator, so touching it leaves a gap / Tape is a conductor  
    **Answer:** Tape is an insulator, so touching it leaves a gap. *Why:* The wand and the path are the two sides of a gap. Touching metal to metal closes it. Tape is an insulator, so the gap stays open and the bulb stays dark.
 10. (draw) Design a steady hand game. Draw the foil path, the wand, the cell and the bulb, and mark where the gap is.  
    **Answer:** A wavy foil path joined to one end of the cell. A wand joined to the bulb, and the bulb joined to the other end of the cell. The gap is between the wand and the path.. *Why:* The game works because the wand and the path are the two ends of a gap. A shaky hand closes it.
 11. (draw) Draw a loop with one cell, one bulb and two paper clip switches, so the bulb lights only when both switches are closed.  
    **Answer:** One loop with both switches in it, one after the other. If either switch is open, there is a gap, so the bulb is dark. Only when both are closed is the loop complete.. *Why:* A strong drawing puts both switches in the same loop, so each one can make a gap. A machine that must not start by accident can use two switches like this.
 12. (mcq) An electrician's gloves are made of thick rubber. Why rubber, and not cotton?  
-   Options: Rubber is an insulator, and it stays one even when it is wet / Rubber is a conductor / Cotton is too hot to wear  
+   Options: Rubber is a conductor / Cotton is too hot to wear / Rubber is an insulator, and it stays one even when it is wet  
    **Answer:** Rubber is an insulator, and it stays one even when it is wet. *Why:* Rubber stops electricity, and water cannot soak into it. Cotton soaks up sweat and water, and wet cloth lets electricity through. So rubber keeps the hands safe.
 13. (fill) Three AA cells sit in a row. Two face the same way, and the third is turned round. Together they push with ____ volts.  
    **Answer:** ['1.5', '1.5 volts']. *Why:* The two cells facing the same way push with 3 volts. The turned-round cell pushes back with 1.5 volts. 3 minus 1.5 leaves 1.5 volts, the same as one cell on its own.
@@ -673,7 +673,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    Options: A TV remote / A wall clock / A mixer-grinder / A torch  
    **Answer:** A mixer-grinder. *Why:* A mixer-grinder has a wire and a plug, so it uses mains electricity. The remote, the clock and the torch run on cells. Picking the clock is easy to do, because some big clocks are plugged in, but most wall clocks use one AA cell.
 2. (mcq) Why must you never touch a switch with wet hands?  
-   Options: Water makes the switch rusty / Water lets electricity through your skin much more easily / Water turns the light off  
+   Options: Water lets electricity through your skin much more easily / Water makes the switch rusty / Water turns the light off  
    **Answer:** Water lets electricity through your skin much more easily. *Why:* Wet skin lets electricity through far more easily than dry skin, so a shock is more likely. Picking 'rusty' is a real problem for switches over time, but it is not the danger to you.
 3. (mcq) How many volts is a wall socket in India?  
    Options: 1.5 volts / 12 volts / 230 volts / 2 volts  
@@ -685,19 +685,19 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    Options: The bulb stays lit / The bulb goes out at once / The bulb gets slowly dimmer  
    **Answer:** The bulb goes out at once. *Why:* A gap anywhere in the loop stops the flow everywhere at once. Picking 'stays lit' means thinking electricity flows into the bulb and stops. It actually goes round and back to the cell.
 6. (mcq) Which of these is a conductor?  
-   Options: A wooden ice-cream stick / A plastic ruler / A steel spoon / A glass bangle  
+   Options: A steel spoon / A wooden ice-cream stick / A plastic ruler / A glass bangle  
    **Answer:** A steel spoon. *Why:* Steel is a metal, and metals are conductors, so the spoon lights the bulb in a circuit tester. Wood, plastic and glass are insulators.
 7. (mcq) You test a paper clip with a pink plastic coat in a circuit tester. The bulb does not light. Why?  
-   Options: Steel is an insulator / The plastic coat is an insulator, so the electricity cannot reach the steel / Pink things never conduct  
+   Options: The plastic coat is an insulator, so the electricity cannot reach the steel / Steel is an insulator / Pink things never conduct  
    **Answer:** The plastic coat is an insulator, so the electricity cannot reach the steel. *Why:* The steel inside conducts, but the wire ends touch only plastic. Scrape the plastic off each end, and the bulb lights. Colour has nothing to do with it.
 8. (mcq) A switch is turned off. What is inside it?  
    Options: Two metal parts touching / A gap of air between two metal parts / A tiny cell  
    **Answer:** A gap of air between two metal parts. *Why:* When a switch is off, its metal parts are apart, with air between them. Air is an insulator, so the loop is broken. When it is on, they touch and the loop is complete.
 9. (mcq) Why was the paper clip switch built on cardboard and not on a steel plate?  
-   Options: Cardboard is cheaper / Steel would join the pins, so the bulb would never turn off / Steel would make the bulb dimmer  
+   Options: Steel would join the pins, so the bulb would never turn off / Cardboard is cheaper / Steel would make the bulb dimmer  
    **Answer:** Steel would join the pins, so the bulb would never turn off. *Why:* Steel is a conductor. It would join the two pins all the time, so opening the clip would not break the loop. Cardboard is an insulator, so only the clip can join the pins.
 10. (mcq) When a bulb lights, what happens to the electrons in the wire?  
-   Options: They are used up in the bulb / They go round the loop and come back to the cell / They stay still and the bulb pulls in light  
+   Options: They are used up in the bulb / They stay still and the bulb pulls in light / They go round the loop and come back to the cell  
    **Answer:** They go round the loop and come back to the cell. *Why:* The electrons go round the loop and come back. The same ones go round again and again. What the cell uses up is the energy in its chemicals. Picking 'used up' is the common idea that a cell is a tank of electricity.
 11. (mcq) Galvani thought the electricity that made a dead frog's leg twitch came from inside the frog. Volta then made electricity with discs of two metals and salty cloth, with no frog at all. What does Volta's test show?  
    Options: Frogs make no electricity at all / Two different metals with something wet between them make electricity, even with no frog / The twitching was caused by the weather  

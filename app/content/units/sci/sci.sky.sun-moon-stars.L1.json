@@ -572,11 +572,11 @@
       "t": "mcq",
       "q": "You put one ice cube in the sunshine and one in the shade. Which melts first?",
       "options": [
-       "The one in the sunshine",
        "The one in the shade",
+       "The one in the sunshine",
        "Both at the same time"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sunshine brings heat from the Sun. The ice in the sunshine gets more heat, so it melts first."
      }
     }
@@ -1280,11 +1280,11 @@
       "t": "mcq",
       "q": "You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",
       "options": [
-       "The roof makes shade, so less sunshine reaches the ice",
        "Cardboard is cold",
-       "The roof makes the ice heavier"
+       "The roof makes the ice heavier",
+       "The roof makes shade, so less sunshine reaches the ice"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The roof blocks the sunshine. The ice sits in shade, so less of the Sun's heat reaches it."
      }
     }
@@ -1347,11 +1347,11 @@
      "t": "mcq",
      "p": "Where will wet clothes dry fastest?",
      "opts": [
-      "On a sunny balcony line",
       "In a shady cupboard",
-      "Under the bed"
+      "Under the bed",
+      "On a sunny balcony line"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster."
     },
     {
@@ -1461,11 +1461,11 @@
      "t": "mcq",
      "p": "A solar water heater on a roof warms bath water. What does it use from the Sun?",
      "opts": [
-      "Its heat",
       "Moonlight",
+      "Its heat",
       "Starlight"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sunshine brings heat. The solar water heater catches the Sun's heat and uses it to warm the water."
     },
     {
@@ -1592,11 +1592,11 @@
    "t": "mcq",
    "p": "Which of these is a star?",
    "opts": [
-    "The Sun",
     "The Moon",
+    "The Sun",
     "A cloud"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun is a star: a huge ball of hot gas that makes its own light. The Moon and clouds only look bright when sunlight falls on them.",
    "outcome": 0
   },
@@ -1616,11 +1616,11 @@
    "t": "mcq",
    "p": "Where are the stars in the daytime?",
    "opts": [
-    "Still in the sky, hidden by the bright day sky",
     "Asleep behind the clouds",
-    "Gone until night"
+    "Gone until night",
+    "Still in the sky, hidden by the bright day sky"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stars shine all the time. The Sun makes the day sky so bright that their small light cannot be seen.",
    "outcome": 3
   },
@@ -1641,11 +1641,11 @@
    "t": "mcq",
    "p": "Which of these is safe?",
    "opts": [
-    "Feeling the Sun's warmth on your hand",
     "Looking straight at the Sun for a moment",
-    "Looking at the Sun through sunglasses"
+    "Looking at the Sun through sunglasses",
+    "Feeling the Sun's warmth on your hand"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Feeling the warmth is safe. Looking at the Sun, even for a moment or through sunglasses, can hurt your eyes.",
    "outcome": 4
   },
@@ -1677,11 +1677,11 @@
    "t": "mcq",
    "p": "Why is the sky bright in the daytime?",
    "opts": [
-    "Sunlight lights up the air",
     "The Moon is shining",
+    "Sunlight lights up the air",
     "The stars shine more by day"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sunlight lights up the air and makes the whole day sky bright. That bright sky hides the stars.",
    "outcome": 3
   },
@@ -1689,11 +1689,11 @@
    "t": "mcq",
    "p": "A total eclipse of the Sun makes the sky dark in the middle of the day. What can people see then?",
    "opts": [
-    "Bright stars",
     "Nothing at all",
-    "Only clouds"
+    "Only clouds",
+    "Bright stars"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When the Moon covers the Sun, the sky goes dark, and bright stars appear. They were there all day.",
    "outcome": 3
   },
@@ -1701,11 +1701,11 @@
    "t": "mcq",
    "p": "You glue a paper moon on your night page. What lights the real Moon in the sky?",
    "opts": [
-    "The Sun",
     "The stars",
+    "The Sun",
     "Its own light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sunlight falls on the Moon and bounces off it to our eyes. The Moon has no light of its own, and the stars are too far away to light it.",
    "outcome": 2
   }

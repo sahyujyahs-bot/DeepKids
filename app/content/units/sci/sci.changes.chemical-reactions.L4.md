@@ -497,7 +497,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 ## Worksheets
 ### New substance, or the same substance? (core, 15 questions)
 1. (mcq) What is a chemical reaction?  
-   Options: A change that makes new substances / Any change that makes bubbles / A change of shape or size / Any change caused by heat  
+   Options: Any change that makes bubbles / A change that makes new substances / A change of shape or size / Any change caused by heat  
    **Answer:** A change that makes new substances. *Why:* A chemical reaction turns substances into new substances with different properties. Bubbles and heat can also come with changes that make nothing new, such as boiling.
 2. (truefalse) When ice melts, a new substance is made.  
    **Answer:** False. *Why:* False. Ice and water are the same substance in two states. Melting is a physical change, and the water can freeze again.
@@ -510,10 +510,10 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 6. (match) Match each sign of a reaction to an example.  
    **Answer:** A gas appears → Lime juice fizzes on baking soda; The colour changes → Black tea turns pale with lime juice; A new solid appears → Warm milk makes white lumps with lime juice; It gets cooler by itself → Vinegar cools as baking soda fizzes in it; Light is given off → A sparkler glows. *Why:* These are the five common signs. Each one is a clue that a new substance may be forming.
 7. (mcq) Which gas is in the bubbles when vinegar meets baking soda?  
-   Options: Oxygen / Carbon dioxide / Steam / Hydrogen  
+   Options: Carbon dioxide / Oxygen / Steam / Hydrogen  
    **Answer:** Carbon dioxide. *Why:* The bubbles are carbon dioxide, one of the three products. If you chose steam, remember that nothing was heated.
 8. (mcq) Which two things does iron need in order to rust?  
-   Options: Heat and light / Salt and sand / Oxygen and water / Nitrogen and dust  
+   Options: Heat and light / Oxygen and water / Salt and sand / Nitrogen and dust  
    **Answer:** Oxygen and water. *Why:* Rust forms when iron reacts with oxygen and water. Salt makes rusting faster, but iron rusts without it.
 9. (truefalse) Boiling water bubbles, so boiling is a chemical reaction.  
    **Answer:** False. *Why:* False. The bubbles in boiling water are water that has turned into a gas. No new substance is made. Bubbles are only a clue.
@@ -526,7 +526,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 13. (draw) Draw two hydrogen molecules and one oxygen molecule turning into two water molecules. Count the atoms on each side.  
    **Answer:** On the left, two pairs of small circles and one pair of large circles. On the right, two groups, each with one large circle and two small circles. Both sides are labelled '6 atoms'.. *Why:* A strong drawing uses the same atoms on both sides. There are 4 hydrogen atoms and 2 oxygen atoms before and after.
 14. (mcq) A tumbler of vinegar gets cooler when baking soda fizzes in it. Why?  
-   Options: Bubbles are always cold / Baking soda is kept in the fridge / The steel loses its shine / The reaction takes in heat  
+   Options: Bubbles are always cold / The reaction takes in heat / Baking soda is kept in the fridge / The steel loses its shine  
    **Answer:** The reaction takes in heat. *Why:* This reaction takes heat in from the liquid and the tumbler, so they cool down. Burning does the opposite and gives heat out.
 15. (fill) Complete the word equation: iron + oxygen + water → ____.  
    **Answer:** ['rust']. *Why:* Rust is the product. It is brown and crumbly, unlike the hard grey iron.
@@ -535,7 +535,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
    Options: A banana turning brown / A matchstick burning / Sugar dissolving in tea / An iron nail rusting  
    **Answer:** 2. *Why:* Sugar in tea has only dissolved. The tea tastes sweet, so the sugar is still there. The other three make new substances.
 2. (mcq) Salt seems to disappear in water. How could you show that the salt is still there?  
-   Options: Let the water dry and look for salt / Stir for much longer / Add more salt / Shake the tumbler hard  
+   Options: Stir for much longer / Let the water dry and look for salt / Add more salt / Shake the tumbler hard  
    **Answer:** Let the water dry and look for salt. *Why:* When the water dries, the same salt is left behind. That shows the salt only dissolved, and no new substance was made.
 3. (truefalse) A product always looks and behaves like a blend of its reactants.  
    **Answer:** False. *Why:* False. A product has its own properties. Sodium burns in water and chlorine is poisonous, yet together they make table salt.
@@ -568,7 +568,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
    **Answer:** A candle burning. *Why:* Burning gives out heat and light. The fizz takes heat in, and a leaf takes light in. Melting ice takes heat in too, and is not a reaction at all.
 ### Atoms, energy and evidence (challenge, 15 questions)
 1. (mcq) Four iron atoms and six oxygen atoms react to make rust. How many atoms are in the rust?  
-   Options: Ten / Two / Six / Twenty-four  
+   Options: Two / Six / Twenty-four / Ten  
    **Answer:** Ten. *Why:* 4 and 6 make 10. A reaction regroups atoms and loses none. If you chose two, you counted the groups of rust and not the atoms.
 2. (count) A rust group has 2 iron and 3 oxygen atoms. How many groups do 10 iron and 12 oxygen make?  
    **Answer:** 4. *Why:* 12 oxygen atoms make 4 groups, because 12 divided by 3 is 4. Those groups use 8 iron atoms. The oxygen runs out first, and 2 iron atoms are left over.
@@ -577,7 +577,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 4. (truefalse) Water is made from hydrogen and oxygen, so water burns as hydrogen does.  
    **Answer:** False. *Why:* False. Water is a new substance with its own properties. It puts fires out, although hydrogen burns and oxygen helps things to burn.
 5. (mcq) Two clear liquids are mixed, and nothing can be seen to change. What can you say?  
-   Options: No reaction happened / A reaction may or may not have happened / A reaction certainly happened / The liquids have vanished  
+   Options: A reaction may or may not have happened / No reaction happened / A reaction certainly happened / The liquids have vanished  
    **Answer:** A reaction may or may not have happened. *Why:* Some reactions show no sign that eyes can see. To find out, you would test what the mixture does. A sign is only a clue, and not seeing a sign does not prove that nothing happened either.
 6. (write) A white powder has no label. Without tasting, how could you test whether the powder is baking soda?  
    **Answer:** Put a little of the powder on a plate and drop vinegar or lime juice on it. Baking soda fizzes at once. To be sure, do the same with powder that is known to be baking soda and compare.. *Why:* A strong answer tests what the powder does, and compares it with known baking soda. Salt, sugar and flour do not fizz.
@@ -588,7 +588,7 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
 9. (perspective) Salt is stirred into water until it can no longer be seen. Chemists describe this change in different ways.  
    **Answer:** Any view with a reason. One reason is that the salt comes back unchanged. Another is that salty water does something that neither dry salt nor pure water does.. *Why:* Working chemists hold each of these views. A strong answer uses evidence, such as what comes back on drying, and is fair to another view.
 10. (mcq) Why is no gold made when lead is heated with other substances?  
-   Options: The fire is never hot enough / Gold is too heavy to make / Reactions cannot change one atom into another / Lead and gold never touch  
+   Options: The fire is never hot enough / Reactions cannot change one atom into another / Gold is too heavy to make / Lead and gold never touch  
    **Answer:** Reactions cannot change one atom into another. *Why:* A reaction only regroups atoms. Lead atoms stay lead atoms. Alchemists tried for about two thousand years and never made gold.
 11. (truefalse) Every chemical reaction either gives out energy or takes energy in.  
    **Answer:** True. *Why:* True. Burning and rusting give out heat. The fizz of vinegar and baking soda takes heat in, and a leaf takes in light.
@@ -612,16 +612,16 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
    Options: Milk turning into curd / Water freezing into ice / Sugar dissolving in tea / Paper being cut  
    **Answer:** Milk turning into curd. *Why:* Curd bacteria change milk sugar into an acid, and the milk sets. Freezing, dissolving and cutting make nothing new.
 2. (mcq) In a word equation, what does the arrow mean?  
-   Options: Is the same as / React and make / Is bigger than / Mix and stir  
+   Options: React and make / Is the same as / Is bigger than / Mix and stir  
    **Answer:** React and make. *Why:* The reactants are on the left and the products on the right. The arrow says that the reactants react and make the products.
 3. (mcq) Vinegar and baking soda react. Which list gives the products?  
-   Options: Oxygen and vinegar / Rust and water / Carbon dioxide, water and a salt / Baking soda and steam  
+   Options: Oxygen and vinegar / Rust and water / Baking soda and steam / Carbon dioxide, water and a salt  
    **Answer:** Carbon dioxide, water and a salt. *Why:* The gas is carbon dioxide. Water and a salt called sodium acetate stay behind in the liquid.
 4. (mcq) Which of these is not a sign of a reaction?  
-   Options: A gas appears / The colour changes / The mix warms up by itself / A solid dissolves and disappears  
+   Options: A gas appears / A solid dissolves and disappears / The colour changes / The mix warms up by itself  
    **Answer:** A solid dissolves and disappears. *Why:* Dissolving makes no new substance, and the solid comes back when the liquid dries. The other three are signs.
 5. (mcq) A fizzy drink bubbles when the bottle is opened. Why is this not proof of a reaction?  
-   Options: The gas was already dissolved in the drink / Bubbles are never a sign / The drink is too cold to react / Only solids can react  
+   Options: Bubbles are never a sign / The drink is too cold to react / Only solids can react / The gas was already dissolved in the drink  
    **Answer:** The gas was already dissolved in the drink. *Why:* The gas was pushed into the drink at the factory and comes out when the cap is opened. No new substance is made, so bubbles alone prove nothing.
 6. (mcq) What is the surest way to tell that a new substance has formed?  
    Options: See whether it looks different / Test whether it behaves differently / Smell it / Count the bubbles  
@@ -630,19 +630,19 @@ That evening Devika squeezed half a lime into a tumbler and added a pinch of sod
    Options: Iron and paint / Water and salt only / Iron, oxygen and water / Old iron and dirt  
    **Answer:** Iron, oxygen and water. *Why:* Rust is the product when iron reacts with oxygen and water. It is a new substance, and it is no longer iron metal.
 8. (mcq) Why does a coat of zinc stop a steel bucket from rusting?  
-   Options: It makes the bucket heavier / It keeps the bucket cold / It soaks up all the rust / It keeps oxygen and water off the iron  
+   Options: It makes the bucket heavier / It keeps oxygen and water off the iron / It keeps the bucket cold / It soaks up all the rust  
    **Answer:** It keeps oxygen and water off the iron. *Why:* Iron rusts only where oxygen and water reach it. The zinc coat covers the iron. This is called galvanising.
 9. (mcq) Six atoms go into a chemical reaction. How many atoms come out?  
-   Options: Six / Fewer than six / More than six / None  
+   Options: Fewer than six / Six / More than six / None  
    **Answer:** Six. *Why:* A reaction regroups atoms. It does not make or destroy any, so six go in and six come out.
 10. (mcq) Why does an open bowl get lighter while vinegar and baking soda fizz in it?  
-   Options: Atoms are destroyed / Carbon dioxide gas leaves the bowl / The vinegar dries up at once / Baking soda weighs nothing  
+   Options: Atoms are destroyed / The vinegar dries up at once / Carbon dioxide gas leaves the bowl / Baking soda weighs nothing  
    **Answer:** Carbon dioxide gas leaves the bowl. *Why:* The gas has weight, and it floats away. No atom is destroyed. If the gas were caught, the total weight would stay the same.
 11. (mcq) Which reaction takes heat in, so that the mixture feels cooler?  
    Options: A candle burning / Iron powder rusting in a hand warmer / Vinegar with baking soda / Sugar reacting with oxygen in your cells  
    **Answer:** Vinegar with baking soda. *Why:* The fizz of vinegar and baking soda takes heat in. The other three give heat out.
 12. (mcq) Which reaction happens inside the cells of your body?  
-   Options: Iron and oxygen make rust / Sodium and chlorine make salt / Quicklime and water make chuna / Sugar and oxygen make carbon dioxide and water  
+   Options: Iron and oxygen make rust / Sodium and chlorine make salt / Sugar and oxygen make carbon dioxide and water / Quicklime and water make chuna  
    **Answer:** Sugar and oxygen make carbon dioxide and water. *Why:* Your cells react sugar with the oxygen you breathe in. The reaction gives the energy you use to move, think and keep warm.
 
 ## Applications

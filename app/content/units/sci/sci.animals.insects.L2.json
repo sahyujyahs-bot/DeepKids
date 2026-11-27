@@ -544,11 +544,11 @@
       "t": "mcq",
       "q": "Why do earthworms choose damp places?",
       "options": [
-       "They breathe through their skin, and the skin must stay damp",
        "They like the colour of damp paper",
+       "They breathe through their skin, and the skin must stay damp",
        "Damp paper is warmer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An earthworm breathes through the skin, which only works when the skin is damp. If you chose warmth, remember that both sides were in the same room and under the same cover."
      }
     },
@@ -717,11 +717,11 @@
       "t": "mcq",
       "q": "On an insect, where do all six legs join the body?",
       "options": [
-       "The head",
        "The middle part, the thorax",
+       "The head",
        "The back part, the abdomen"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All six legs join the thorax, the middle part. The head has the eyes, mouth and antennae."
      }
     }
@@ -1520,11 +1520,11 @@
      "t": "mcq",
      "p": "Silk is a strong, thin thread made inside an animal's body. Which of these animals makes silk?",
      "opts": [
-      "A spider",
       "A honeybee",
-      "A cockroach"
+      "A cockroach",
+      "A spider"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A spider makes silk at the back end of her body, and uses it for her web."
     },
     {
@@ -1657,11 +1657,11 @@
      "t": "mcq",
      "p": "Which of these gives the best reason why a small ant can carry a big crumb?",
      "opts": [
-      "Ants eat a lot of sugar",
       "A small body is very light for the strength of the muscles",
+      "Ants eat a lot of sugar",
       "Ants have more legs than people"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A small body weighs very little compared with how strong the muscles are, so there is strength left over for a load. Sugar and the number of legs do not explain it."
     },
     {
@@ -1797,10 +1797,10 @@
    "p": "How many legs does every grown-up insect have?",
    "opts": [
     "Four",
-    "Six",
-    "Eight"
+    "Eight",
+    "Six"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every grown-up insect has six legs, three on each side. Ants, bees and butterflies all have six.",
    "outcome": 0
   },
@@ -1844,11 +1844,11 @@
    "t": "mcq",
    "p": "How does an earthworm move without legs?",
    "opts": [
-    "The body squeezes and stretches, and tiny bristles grip the soil",
     "The worm rolls like a ball",
-    "The worm jumps"
+    "The worm jumps",
+    "The body squeezes and stretches, and tiny bristles grip the soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Muscles make the body long and thin, then short and fat. Tiny bristles on each ring hold on to the soil, so the worm moves forward.",
    "outcome": 2
   },
@@ -1868,11 +1868,11 @@
    "t": "mcq",
    "p": "In the crumb test, what did the ants usually do with the biggest crumbs?",
    "opts": [
-    "Carried them away fast",
     "Crowded on them and bit off small bits",
+    "Carried them away fast",
     "Ran away from them"
    ],
-   "a": 1,
+   "a": 0,
    "how": "e1",
    "why": "The biggest crumbs were too big for one ant to carry, so many ants crowded on them and took small bits home. If you picked 'carried them away', look again at how many big crumbs were left.",
    "outcome": 4
@@ -1881,11 +1881,11 @@
    "t": "mcq",
    "p": "In the crumb test, why did we put all 20 crumbs along one line, with the sizes mixed up?",
    "opts": [
-    "So every size was the same distance from the ants",
     "So the paper looked nice",
+    "So every size was the same distance from the ants",
     "So the ants could not find them"
    ],
-   "a": 0,
+   "a": 1,
    "how": "e1",
    "why": "Mixing the sizes along one line makes the test fair. No size was closer to the ants than another.",
    "outcome": 4
@@ -1894,11 +1894,11 @@
    "t": "mcq",
    "p": "A small ant can carry a load bigger than her own head. A person cannot carry a load bigger than their own body. Why can the ant carry so much?",
    "opts": [
-    "A small body is very light for the strength of the muscles",
     "Ants eat more food than people",
+    "A small body is very light for the strength of the muscles",
     "Ants have stronger bones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small body weighs very little compared with the strength of the muscles. Ants have no bones inside at all. Their hard skin is on the outside.",
    "outcome": 5
   },
@@ -1906,11 +1906,11 @@
    "t": "mcq",
    "p": "What does a honeybee's dance tell her sisters?",
    "opts": [
-    "That she is tired",
     "Which way to fly, and how far, to find flowers",
+    "That she is tired",
     "That it will rain"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The waggle dance shows which way to fly and how far. A bee learns where the flowers are, and tells her sisters.",
    "outcome": 5
   },
@@ -1918,11 +1918,11 @@
    "t": "mcq",
    "p": "After the first monsoon rains, winged termites fly up out of the ground. Why?",
    "opts": [
-    "To find a mate and start a new family",
     "To escape the rain and drown",
-    "To drink from the puddles"
+    "To drink from the puddles",
+    "To find a mate and start a new family"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Winged termites fly out to find a mate and start a new colony. Most of them are eaten by birds and lizards before they manage it. They are not trying to escape the rain, and puddles are not their reason to fly.",
    "outcome": 0
   }

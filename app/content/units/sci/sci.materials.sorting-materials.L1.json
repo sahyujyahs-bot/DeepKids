@@ -911,11 +911,11 @@
       "t": "mcq",
       "q": "Why do people sort paper, plastic and metal into different bags?",
       "options": [
-       "Each one is made into new things in a different way",
        "It makes the bags look nicer",
+       "Each one is made into new things in a different way",
        "Paper and metal are the same, so it does not matter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Old paper is soaked and pressed into new paper. Old metal is melted to make new metal. Old plastic is cut and melted too. Each needs its own factory, so they must be sorted first."
      }
     }
@@ -1065,11 +1065,11 @@
       "t": "mcq",
       "q": "Why can a pressure cooker go in the metal basket and the not-metal basket?",
       "options": [
-       "It is made of metal and plastic and rubber",
        "It is very heavy",
-       "It is used in the kitchen"
+       "It is used in the kitchen",
+       "It is made of metal and plastic and rubber"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The pot is metal. The handle is plastic and the ring is rubber. A thing made of more than one material can belong to more than one group."
      }
     }
@@ -1173,11 +1173,11 @@
       "t": "mcq",
       "q": "A steel katori is made of the same material as which of these?",
       "options": [
-       "A steel spoon",
        "A dupatta",
-       "A newspaper"
+       "A newspaper",
+       "A steel spoon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A katori and a spoon are both steel, a metal. They have different shapes, but the same material."
      }
     }
@@ -1275,11 +1275,11 @@
       "t": "mcq",
       "q": "You sort your toys by the question 'Is it soft?' Where does a cloth rabbit go?",
       "options": [
-       "In the soft group",
        "In the hard group",
+       "In the soft group",
        "In the metal group"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A cloth rabbit is soft, so it answers yes to the question 'Is it soft?'. It goes in the soft group."
      }
     }
@@ -1380,11 +1380,11 @@
       "t": "mcq",
       "q": "Why are ice-cream sticks better than coins for a raft?",
       "options": [
-       "Wood floated in the Sink or Float Sort, and the coin sank",
        "The sticks are a nicer colour",
-       "The coins are too round"
+       "The coins are too round",
+       "Wood floated in the Sink or Float Sort, and the coin sank"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the Sink or Float Sort, wood floated and the coin sank. A raft needs things that float, so the test tells us what to choose."
      }
     }
@@ -1481,22 +1481,22 @@
      "t": "mcq",
      "p": "A key, a coin and a spoon are put together in one group. What question was asked?",
      "opts": [
-      "Is it metal?",
       "Is it soft?",
+      "Is it metal?",
       "Is it see-through?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A key, a coin and a spoon are all metal. None of them is soft or see-through."
     },
     {
      "t": "mcq",
      "p": "Which of these is a good question for sorting a heap of things into two groups?",
      "opts": [
-      "Is it made of wood?",
       "Is it nice?",
-      "Is it a good day?"
+      "Is it a good day?",
+      "Is it made of wood?"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A good sorting question has a clear answer, yes or no, for every thing. 'Is it nice?' is different for each person."
     },
     {
@@ -1558,11 +1558,11 @@
      "t": "mcq",
      "p": "You have a clear bottle. You do not know if it is glass or plastic. What is a good test?",
      "opts": [
-      "Tap it with a spoon and listen",
       "Look at its colour",
-      "Count how many you have"
+      "Count how many you have",
+      "Tap it with a spoon and listen"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you."
     },
     {
@@ -1822,11 +1822,11 @@
    "t": "mcq",
    "p": "Before testing, you guess that the pencil will float. What should you do next?",
    "opts": [
-    "Test it in the water and see",
     "Change your guess without testing",
-    "Say you were right without testing"
+    "Say you were right without testing",
+    "Test it in the water and see"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess is where science starts. Then you test it, and the test shows if the guess was right.",
    "outcome": 4
   },
@@ -1846,11 +1846,11 @@
    "t": "mcq",
    "p": "In a key of yes or no questions, what does each answer tell you?",
    "opts": [
-    "Which question to ask next",
     "What colour the thing is",
-    "How heavy the thing is"
+    "How heavy the thing is",
+    "Which question to ask next"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each yes or no answer sends you to the next question, until you reach one thing. The colour and the weight do not set the path in a key.",
    "outcome": 0
   }

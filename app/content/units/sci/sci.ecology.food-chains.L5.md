@@ -576,7 +576,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 ## Worksheets
 ### Reading a Food Web (core) (core, 15 questions)
 1. (mcq) In a food web, what does an arrow from grass to hare mean?  
-   Options: The hare eats the grass / The grass eats the hare / The hare hides in the grass / The grass grows near hares  
+   Options: The grass eats the hare / The hare hides in the grass / The grass grows near hares / The hare eats the grass  
    **Answer:** The hare eats the grass. *Why:* An arrow points from the food to the eater, the way the food goes. Reading it backwards is a common slip, because we think of the hunter going towards the food.
 2. (truefalse) True or false: every food chain in a web starts with a producer.  
    **Answer:** True. *Why:* True. Only producers make food from sunlight, air and water. A strong answer adds that every animal eats plants, or eats animals who ate plants.
@@ -587,7 +587,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 5. (match) Match each word to what it means.  
    **Answer:** Producer → makes food from sunlight, air and water; Predator → hunts and eats other animals; Prey → is hunted and eaten; Scavenger → eats animals who are already dead; Decomposer → breaks dead things down into the soil. *Why:* These words are needed to talk about any food web. A strong answer could give an example of each from a paddy field.
 6. (mcq) Sea otters eat sea urchins, and urchins eat kelp. Hunters kill most of the otters. What happens to the kelp?  
-   Options: The kelp grows thicker / The kelp is eaten down / Nothing changes  
+   Options: The kelp is eaten down / The kelp grows thicker / Nothing changes  
    **Answer:** The kelp is eaten down. *Why:* With few otters, the urchins multiply and eat the kelp down. Choosing 'grows thicker' means following only one step. The change passes down two links.
 7. (write) In the Two Webs Test, the wide web had more beings left. Explain why, using the word 'food'.  
    **Answer:** In the wide web, most animals had more than one food. When one food was taken away, they still had another to eat. In the narrow web each animal had only one food, so they starved when that food went.. *Why:* A strong answer says that the number of foods each eater has made the difference. It uses a result from the test.
@@ -605,13 +605,13 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 13. (perspective) A rat snake is found in a paddy field. Two neighbours disagree about what to do.  
    **Answer:** A strong answer uses the web: the snake eats rats, and rats eat paddy, so killing the snake costs grain. It also takes the fear seriously: some snakes are dangerous, so people should learn to tell them apart and wear shoes in the field.. *Why:* Both neighbours care about the village. The web shows what killing the snake would cost, and the fear shows what people need to feel safe.
 14. (mcq) Why does a frog lay thousands of eggs, while a tigress has only two to four cubs?  
-   Options: Frogs live much longer than tigers / Most frog eggs and tadpoles are eaten / Tigers have less food than frogs  
+   Options: Most frog eggs and tadpoles are eaten / Frogs live much longer than tigers / Tigers have less food than frogs  
    **Answer:** Most frog eggs and tadpoles are eaten. *Why:* Most of a frog's young become food for others, so she needs thousands for a few to be left. A tigress's cubs are seldom eaten, and she guards each one.
 15. (write) In the Leaky Bottle, the level stayed still while water ran through. How is a deer herd like that?  
    **Answer:** Fawns are born and deer die all the time, like water running in and out. If births and deaths match, the number of deer stays about the same, like the water level.. *Why:* A strong answer matches the tap to births, the hole to deaths and the level to the number of deer.
 ### Following a Change (stretch) (stretch, 15 questions)
 1. (mcq) Owls eat rats, and rats eat paddy. All the owls leave a field. Which is the indirect effect?  
-   Options: There are more rats / There is less paddy / There are fewer owl nests  
+   Options: There is less paddy / There are more rats / There are fewer owl nests  
    **Answer:** There is less paddy. *Why:* More rats is the direct effect, along one link. Less paddy is indirect, because it reaches the paddy through the rats.
 2. (write) Insect poison sprayed on paddy also kills the spiders. Explain why the plant-sucking insects may then become more, not fewer.  
    **Answer:** Spiders eat the plant-sucking insects. The poison kills the spiders as well as some of the insects. The insects who are left breed quickly, and now few spiders are there to eat them.. *Why:* A strong answer names the link from the insect to the spider. It says that prey usually multiply faster than their predators.
@@ -657,7 +657,7 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
 5. (truefalse) True or false: if a population stays the same size, no animals in that population are dying.  
    **Answer:** False. *Why:* False. Animals are born and die all the time. The number stays the same when births and deaths match, as the level did in the Leaky Bottle.
 6. (mcq) A second equal hole dropped the Leaky Bottle's level from 12 cm to 3 cm. Why not to 6 cm?  
-   Options: The second hole was bigger / Shallow water leaves each hole more slowly / The tap slowed down  
+   Options: The second hole was bigger / The tap slowed down / Shallow water leaves each hole more slowly  
    **Answer:** Shallow water leaves each hole more slowly. *Why:* At 6 cm deep, each jet is only a little slower than at 12 cm. So two holes still let out more than the tap brings in. The level keeps falling until two slow jets together match the tap.
 7. (write) Mizoram's bamboo fruits all together, once in about 48 years. Give one way this could help the bamboo's seeds.  
    **Answer:** There is far more fruit at once than the rats and birds can eat. So many seeds are left to grow. In the long gap between, there is no fruit, so the seed eaters stay few.. *Why:* A strong answer says that a flood of food swamps the eaters. It may add that this is an idea that is hard to test.
@@ -693,30 +693,30 @@ Zuali never rubbed out the drawing on the floor. Under the bamboo fruit she wrot
    Options: Herbivore only / Decomposer / Omnivore and scavenger / Producer  
    **Answer:** Omnivore and scavenger. *Why:* Hares and fruit make a jackal an omnivore. Feeding on dead animals makes a jackal a scavenger too. Many animals fit more than one group.
 3. (mcq) What do decomposers do in a food web?  
-   Options: Return dead matter to the soil / Hunt the top predators / Make food from sunlight / Eat only living plants  
+   Options: Hunt the top predators / Make food from sunlight / Return dead matter to the soil / Eat only living plants  
    **Answer:** Return dead matter to the soil. *Why:* Fungi and bacteria break dead plants and animals down into simple matter. Plants take that matter up again through their roots.
 4. (mcq) Owls eat rats, and rats eat paddy. More owls come to a field. What is the indirect effect?  
-   Options: Fewer rats / More rats / Fewer owls / More paddy  
+   Options: Fewer rats / More rats / More paddy / Fewer owls  
    **Answer:** More paddy. *Why:* Fewer rats is the direct effect. More paddy is the indirect effect, because it reaches the paddy through the rats.
 5. (truefalse) True or false: a leopard can change how much grass grows, without ever eating grass.  
    **Answer:** True. *Why:* True. Leopards eat chital, and chital eat grass. Fewer leopards can mean more chital and less grass. This is an indirect effect.
 6. (mcq) The grass disappears from two webs. In which web do more animals starve?  
-   Options: Where each animal eats several foods / Where each animal eats one food / The same number in both  
+   Options: Where each animal eats several foods / The same number in both / Where each animal eats one food  
    **Answer:** Where each animal eats one food. *Why:* An animal with one food starves when that food goes. An animal with several foods can turn to another. That is what the Two Webs Test showed.
 7. (mcq) A forest has about 500 chital year after year. What must be true?  
-   Options: No chital are born / No chital die / Births and deaths roughly match / The chital never move  
+   Options: No chital are born / No chital die / The chital never move / Births and deaths roughly match  
    **Answer:** Births and deaths roughly match. *Why:* Chital are born and die all the time. The number stays steady because the two roughly match, as the water level did in the Leaky Bottle.
 8. (mcq) Why can rats multiply much faster than the owls who eat them?  
    Options: Rats have many young, several times a year / Rats live much longer than owls / Owls eat only one rat a year  
    **Answer:** Rats have many young, several times a year. *Why:* A rat has 6 to 8 young at a time, several times a year. An owl raises a few chicks a year. Prey usually breed faster than their predators.
 9. (mcq) Hares suddenly have much more food. Hares suddenly get much more food. When will the number of lynx who eat hares rise?  
-   Options: In the same week / Before the hares do / A year or two later / Never  
+   Options: A year or two later / In the same week / Before the hares do / Never  
    **Answer:** A year or two later. *Why:* First the hares increase. Then more lynx kittens live and grow. The eaters follow their food late.
 10. (mcq) Why has lantana spread so widely through India's forests?  
    Options: Lantana is native to India / Few animals here eat lantana / Lantana needs no light  
    **Answer:** Few animals here eat lantana. *Why:* Lantana came from the Americas. Deer and cattle here avoid the leaves, so little holds lantana back.
 11. (mcq) One kind of starfish is removed from a rocky shore for some years. What follows?  
-   Options: Nothing changes / More kinds of animals move in / Mussels take over and other kinds are lost  
+   Options: Mussels take over and other kinds are lost / Nothing changes / More kinds of animals move in  
    **Answer:** Mussels take over and other kinds are lost. *Why:* The starfish ate mussels and kept space open on the rock. Without them, mussels crowded the others out. One predator was holding the whole community together.
 
 ## Applications

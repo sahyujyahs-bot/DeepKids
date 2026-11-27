@@ -364,10 +364,10 @@
       "q": "Which question tells you the most at the start?",
       "options": [
        "Is it the red cup?",
-       "Is it soft?",
-       "Is it my shoe?"
+       "Is it my shoe?",
+       "Is it soft?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "'Is it soft?' splits the whole room into soft things and hard things. Naming one thing only checks one thing."
      },
      "think": "What makes a question a good question?"
@@ -491,10 +491,10 @@
       "q": "You rolled WHY and turned over the card Ice in a glass. Which is a good question to ask?",
       "options": [
        "Ice is cold.",
-       "Why does ice get smaller in a glass?",
-       "I like ice."
+       "I like ice.",
+       "Why does ice get smaller in a glass?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A good question starts with the rolled word and asks about the thing. Now you can watch the ice and find out."
      }
     }
@@ -848,10 +848,10 @@
       "q": "When did you notice more about the elaichi?",
       "options": [
        "After one quick look",
-       "After looking slowly and using more senses",
-       "Both were the same"
+       "Both were the same",
+       "After looking slowly and using more senses"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Looking slowly, and using your hands, ears and nose too, gives you many more clues than one quick look."
      }
     },
@@ -1178,11 +1178,11 @@
       "t": "mcq",
       "q": "Your dabba with 3 coins sounds just like the secret dabba. What does that tell you?",
       "options": [
-       "The secret dabba probably has 3 coins too",
        "The secret dabba is empty",
-       "Nothing at all"
+       "Nothing at all",
+       "The secret dabba probably has 3 coins too"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When two dabbas of the same kind sound and feel the same, they probably hold the same things. Opening the lid checks it."
      }
     }
@@ -1221,10 +1221,10 @@
    "p": "You see a snail on the balcony wall. Which one is a question?",
    "opts": [
     "The snail is slow.",
-    "Why does the snail leave a shiny line?",
-    "I like snails."
+    "I like snails.",
+    "Why does the snail leave a shiny line?"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A question asks something you want to find out. 'Why does the snail leave a shiny line?' asks. The other two only tell.",
    "outcome": 0
   },
@@ -1232,11 +1232,11 @@
    "t": "mcq",
    "p": "You want to find out why the ceiling fan makes a clicking sound. What should you do first?",
    "opts": [
-    "Watch and listen to the fan closely",
     "Decide it is broken",
+    "Watch and listen to the fan closely",
     "Forget about it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Observing closely comes first. You may see where the click comes from, and how often it comes.",
    "outcome": 0
   },
@@ -1244,11 +1244,11 @@
    "t": "mcq",
    "p": "Which question can you answer by looking closely at one ant?",
    "opts": [
-    "How many legs does the ant have?",
     "Who will win the cricket match?",
+    "How many legs does the ant have?",
     "What is my friend's name?"
    ],
-   "a": 0,
+   "a": 1,
    "why": "You can count the ant's legs by looking closely. The other questions have nothing to do with the ant.",
    "outcome": 1
   },
@@ -1257,10 +1257,10 @@
    "p": "To observe a flower closely, what should you do?",
    "opts": [
     "Look at the flower from across the room, once",
-    "Look closely, smell the flower and gently touch the petals",
-    "Close your eyes and guess"
+    "Close your eyes and guess",
+    "Look closely, smell the flower and gently touch the petals"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Observing means using your senses carefully, and looking more than once. Each sense gives a different clue.",
    "outcome": 1
   },
@@ -1268,11 +1268,11 @@
    "t": "mcq",
    "p": "Which sense must you never use on a mystery thing?",
    "opts": [
-    "Hearing",
     "Tasting",
+    "Hearing",
     "Seeing"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A mystery thing might be unsafe to eat. Scientists taste only things they know are food.",
    "outcome": 1
   },
@@ -1306,11 +1306,11 @@
    "t": "mcq",
    "p": "You guessed rice, but the dabba had dal in it. What is the best thing to do?",
    "opts": [
-    "Feel bad and stop",
     "Say which clue fooled you, and try again",
+    "Feel bad and stop",
     "Say you were right anyway"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Rice and dal sound alike. Knowing which clue fooled you helps you next time. That is how scientists learn from a wrong guess.",
    "outcome": 3
   },
@@ -1318,11 +1318,11 @@
    "t": "mcq",
    "p": "You guess what is in a shut dabba. Why do you open it at the end?",
    "opts": [
-    "To check if your clues led you to the right answer",
     "Because shaking is boring",
+    "To check if your clues led you to the right answer",
     "To eat what is inside"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Clues help you guess. Opening the lid checks the guess.",
    "how": "e1",
    "outcome": 3
@@ -1331,11 +1331,11 @@
    "t": "mcq",
    "p": "Nobody can dig to the middle of the Earth. How can scientists find out what is there?",
    "opts": [
-    "By studying how earthquake shaking travels through the Earth",
     "Only by guessing",
-    "By looking down a deep well"
+    "By looking down a deep well",
+    "By studying how earthquake shaking travels through the Earth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.",
    "outcome": 4
   },
@@ -1343,11 +1343,11 @@
    "t": "mcq",
    "p": "You want to smell the elaichi pod that a grown-up has opened. What is the safe way?",
    "opts": [
-    "Wave the smell towards your nose with your hand",
     "Push your nose right inside and sniff hard",
+    "Wave the smell towards your nose with your hand",
     "Taste a tiny bit to check"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Waving brings a little of the smell to you. A strong sniff can hurt your nose, and you never taste a mystery thing.",
    "outcome": 1
   },
@@ -1429,11 +1429,11 @@
      "t": "mcq",
      "p": "A girl hears a tap-tap at her window every morning. What is the best thing to do first?",
      "opts": [
-      "Watch quietly to see what makes the sound",
       "Say it is a ghost",
+      "Watch quietly to see what makes the sound",
       "Shut the curtain and forget it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Watching quietly is observing. It gives real clues, for example that a bird is pecking at his own reflection."
     },
     {
@@ -1507,22 +1507,22 @@
      "t": "mcq",
      "p": "You smell something sweet from the kitchen. What is the best way to find out what it is?",
      "opts": [
-      "Go and look, and ask what is cooking",
       "Say nothing and wonder all day",
-      "Taste everything in the kitchen"
+      "Taste everything in the kitchen",
+      "Go and look, and ask what is cooking"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Looking and asking are safe ways to get clues. Tasting unknown things is not."
     },
     {
      "t": "mcq",
      "p": "You want to know if your glass of milk is hot. What is the safest way to find out first?",
      "opts": [
-      "Look for steam and gently touch the outside of the glass",
       "Gulp it fast",
+      "Look for steam and gently touch the outside of the glass",
       "Put your finger in the milk"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you."
     },
     {
@@ -1631,11 +1631,11 @@
      "t": "mcq",
      "p": "A doctor wants to know if your heart is beating well. She cannot see inside you. What does she do?",
      "opts": [
-      "She listens with a stethoscope",
       "She opens you up",
-      "She guesses"
+      "She guesses",
+      "She listens with a stethoscope"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sound of your heart is a clue. A stethoscope helps her hear it clearly."
     },
     {
@@ -1683,11 +1683,11 @@
      "t": "mcq",
      "p": "You hear a drip, drip at night. Which question would help you find out most?",
      "opts": [
-      "Where is the sound coming from?",
       "Is it a nice sound?",
+      "Where is the sound coming from?",
       "Should I go to sleep?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Knowing where the sound comes from tells you where to look next: the tap, the window or the roof."
     },
     {

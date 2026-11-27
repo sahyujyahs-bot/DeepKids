@@ -721,11 +721,11 @@
       "t": "mcq",
       "q": "In Energy Dominoes, the last card is the wind turbine. Which card can follow it?",
       "options": [
-       "The LED bulb",
        "The mridangam",
+       "The LED bulb",
        "The paddy plant"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A wind turbine gives out electrical energy, and an LED bulb takes electrical energy in. The mridangam takes in movement and the paddy plant takes in light. If you chose the mridangam, look again at what the turbine gives OUT, not what goes into it."
      },
      "context": "This is the main part of Energy Dominoes. You take turns to join changer cards, so that the energy out of one is the energy into the next."
@@ -892,11 +892,11 @@
       "t": "mcq",
       "q": "In the game, a lamp has a self-charging battery that never needs a charger. Which label is right?",
       "options": [
-       "Impossible",
        "Goes on",
+       "Impossible",
        "Stops"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A battery gives out only the energy that was put in, and the lamp's light and heat use it up. If you chose Goes on, ask what puts new energy in. If you chose Stops, you are close, but the claim says it never stops, which cannot be true."
      },
      "context": "This is the main part of Will It Keep Going? You sort the cards and give reasons."
@@ -1281,11 +1281,11 @@
       "t": "mcq",
       "q": "In the Fan and the Ice, the cube in the wind melted faster. Why?",
       "options": [
-       "Moving air brought the room's warmth to the ice faster",
        "The fan made the air hotter",
+       "Moving air brought the room's warmth to the ice faster",
        "The fan made the air colder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The fan does not change how warm the air is. It moves air, and moving air brings the room's heat energy to the ice faster. If you chose colder air, the cube would have lasted longer. If you chose hotter air, remember that a thermometer in the wind reads the same as one in still air."
      },
      "context": "This is the last step of the Fan and the Ice. Here you say what a fan really does."
@@ -1664,11 +1664,11 @@
       "t": "mcq",
       "q": "You see a wire lying on the road after a storm. What should you do?",
       "options": [
-       "Stay far away and tell a grown-up",
        "Move it with a stick",
-       "Step over it quickly"
+       "Step over it quickly",
+       "Stay far away and tell a grown-up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fallen wire may still carry electricity, and wet ground or a stick can carry it to you. The only safe action is to keep far away and tell a grown-up. If you chose the stick, remember that wet wood carries electricity too."
      },
      "context": "This is the sorting part of Danger Spotters. Here you decide which problem is most dangerous."
@@ -1848,11 +1848,11 @@
       "t": "mcq",
       "q": "What pushed the balloon along the string?",
       "options": [
-       "The air rushing out of the neck",
        "The string pulling it",
+       "The air rushing out of the neck",
        "The straw making new energy"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The squeezed air held stored energy. When it rushed out backwards, it pushed the balloon forwards. The string only guided the balloon. The straw makes no energy, because no machine does."
      },
      "parent": "This is the same push that sends a rocket up. The hot gas rushes out of the back, and the rocket moves the other way. In science it is called action and reaction, and children will meet it in later classes.",
@@ -2235,12 +2235,12 @@
     {
      "t": "mcq",
      "p": "Which of these does an ordinary wooden table NOT have?",
-     "a": 2,
+     "a": 1,
      "why": "A table has heat energy, chemical energy in the wood, stored energy of its height and energy in its mass. No electricity flows through it unless it is wired up.",
      "opts": [
       "Heat energy",
-      "Chemical energy in the wood",
       "Electrical energy flowing through it",
+      "Chemical energy in the wood",
       "Energy in its mass"
      ],
      "outcome": 3
@@ -2409,13 +2409,13 @@
     {
      "t": "mcq",
      "p": "A freezer bottle made more clicks than a fridge bottle. Why?",
-     "a": 0,
+     "a": 3,
      "why": "Both bottles stood in the same warm room. The colder bottle had a bigger gap to the room's temperature, so heat moved in faster and the air expanded faster.",
      "opts": [
-      "A bigger difference moves heat in faster",
       "The freezer bottle was heavier",
       "The freezer bottle had more air",
-      "The freezer made the coin lighter"
+      "The freezer made the coin lighter",
+      "A bigger difference moves heat in faster"
      ],
      "how": "e1",
      "outcome": 4
@@ -2448,12 +2448,12 @@
     {
      "t": "mcq",
      "p": "In the Fan and the Ice, which is the best reason for the faster melting?",
-     "a": 0,
+     "a": 2,
      "why": "The fan did not make the air colder, or the cube would have lasted longer. It moved the room's air, so more warmth reached the ice every minute.",
      "opts": [
-      "Moving air brought the room's heat to the ice faster",
       "The fan made colder air",
       "The fan's motor heated the ice",
+      "Moving air brought the room's heat to the ice faster",
       "The screen was colder"
      ],
      "how": "e2",
@@ -2746,13 +2746,13 @@
     {
      "t": "mcq",
      "p": "A cup of tea cools to room temperature. Where has its heat energy gone?",
-     "a": 0,
+     "a": 3,
      "why": "Energy is never destroyed. The tea's heat moved into the cooler air and table, which are now a little warmer. It is still there, spread too thin to use.",
      "opts": [
-      "Into the air and the table",
       "It has been destroyed",
       "Into the cup's handle only",
-      "It has turned into cold"
+      "It has turned into cold",
+      "Into the air and the table"
      ],
      "outcome": 1
     },
@@ -2774,11 +2774,11 @@
     {
      "t": "mcq",
      "p": "Why does a fan feel cooler when your skin is wet with sweat?",
-     "a": 0,
+     "a": 1,
      "why": "Drying takes heat from the skin. Moving air carries the wet air away, so sweat dries faster and your skin cools faster. A fan does not make the air colder.",
      "opts": [
-      "Moving air dries the sweat faster, taking heat",
       "The fan makes colder air",
+      "Moving air dries the sweat faster, taking heat",
       "The sweat is colder than the air",
       "The fan makes more sweat"
      ],
@@ -2880,12 +2880,12 @@
     {
      "t": "mcq",
      "p": "A town has no electricity for a whole day. Which of these still works?",
-     "a": 1,
+     "a": 2,
      "why": "A gas stove runs on the chemical energy of cooking gas, not on electricity. The pump, the lift and the fridge motor all need electricity.",
      "opts": [
       "The roof tank pump",
-      "A gas stove lit with a match",
       "A lift",
+      "A gas stove lit with a match",
       "A fridge motor"
      ],
      "outcome": 6
@@ -2930,24 +2930,24 @@
   {
    "t": "mcq",
    "p": "A ceiling fan, a mixie and a loudspeaker all do what with energy?",
-   "a": 0,
+   "a": 3,
    "why": "Every machine is an energy changer. It takes energy in one form and gives it out in others. If you chose 'make new energy', remember that no machine has ever made any.",
    "opts": [
-    "Change it from one form to another",
     "Make new energy",
     "Use it up for ever",
-    "Store it for later"
+    "Store it for later",
+    "Change it from one form to another"
    ],
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "A phone charger feels warm. Where did the warmth come from?",
-   "a": 0,
+   "a": 1,
    "why": "Every machine gives out a little heat. A warm charger is normal. It shows some of the energy going in has become heat instead of charge.",
    "opts": [
-    "Some of the electrical energy changed to heat",
     "The charger made heat from nothing",
+    "Some of the electrical energy changed to heat",
     "The phone made it first",
     "A warm charger is broken"
    ],
@@ -2956,12 +2956,12 @@
   {
    "t": "mcq",
    "p": "Which chain of energy is in the right order?",
-   "a": 0,
+   "a": 2,
    "why": "Sunlight is the start of most chains. A plant uses sunlight to make rice, and your muscles run on the rice. The other orders put a step before the one that makes it.",
    "opts": [
-    "Sun, paddy plant, rice, muscles",
     "Rice, Sun, muscles, paddy plant",
     "Muscles, rice, paddy plant, Sun",
+    "Sun, paddy plant, rice, muscles",
     "Paddy plant, muscles, rice, Sun"
    ],
    "outcome": 2
@@ -2982,12 +2982,12 @@
   {
    "t": "mcq",
    "p": "A table stands still in a room. Which statement is true?",
-   "a": 0,
+   "a": 2,
    "why": "The particles of the wood always shake, and that is heat energy. A table is still on the outside and busy on the inside.",
    "opts": [
-    "It holds heat energy, because its particles move",
     "It has no energy until it is pushed",
     "It has energy only if it is hot",
+    "It holds heat energy, because its particles move",
     "It has energy only when it is lit"
    ],
    "outcome": 3
@@ -2995,11 +2995,11 @@
   {
    "t": "mcq",
    "p": "By itself, heat energy moves from where to where?",
-   "a": 0,
+   "a": 1,
    "why": "Heat moves by itself only from warmer to cooler. In the Clicking Coin Test, heat moved from the warm room into the cold bottle.",
    "opts": [
-    "From a warmer thing to a cooler thing",
     "From a cooler thing to a warmer thing",
+    "From a warmer thing to a cooler thing",
     "From a heavy thing to a light thing",
     "From a big thing to a small thing"
    ],
@@ -3023,12 +3023,12 @@
   {
    "t": "mcq",
    "p": "A fan blows on an ice cube and it melts faster. What did the fan do?",
-   "a": 0,
+   "a": 2,
    "why": "A fan only moves air. Moving air brings the room's heat to the ice faster, so the ice melts sooner.",
    "opts": [
-    "Moved the room's warm air onto the ice faster",
     "Made the air hotter",
     "Made colder air",
+    "Moved the room's warm air onto the ice faster",
     "Made more ice"
    ],
    "how": "e2",
@@ -3050,24 +3050,24 @@
   {
    "t": "mcq",
    "p": "Why must your hands be dry before you touch a switch?",
-   "a": 0,
+   "a": 3,
    "why": "Water with salts in it carries electricity, and your body does too. Dry skin is much safer.",
    "opts": [
-    "Wet skin lets electricity pass more easily",
     "Wet hands make the switch rust",
     "Water makes the bulb brighter",
-    "Dry hands switch things on faster"
+    "Dry hands switch things on faster",
+    "Wet skin lets electricity pass more easily"
    ],
    "outcome": 6
   },
   {
    "t": "mcq",
    "p": "An engine turns heat into movement. What must it have besides a hot place?",
-   "a": 0,
+   "a": 1,
    "why": "Heat does work only as it passes from a hotter place to a colder place. With no colder place, nothing makes the engine move.",
    "opts": [
-    "A colder place to send some heat to",
     "A bigger fire",
+    "A colder place to send some heat to",
     "A heavier wheel",
     "More fuel only"
    ],
@@ -3077,12 +3077,12 @@
    "t": "mcq",
    "p": "Why do we call wind and flowing water renewable sources?",
    "opts": [
-    "The Sun renews them every day",
     "People can store them in tanks",
+    "The Sun renews them every day",
     "They are free to buy",
     "They never move"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun heats the air and the sea, which drives the wind and the rain that fills rivers. Coal and petrol took millions of years to form, so they are not renewable.",
    "outcome": 2
   },
@@ -3103,12 +3103,12 @@
    "t": "mcq",
    "p": "A windmill's blades turn in the wind. What work did old windmills do on farms?",
    "opts": [
-    "Pumped water up from wells and ground grain",
     "Made the wind blow harder",
     "Cooled the grain store",
+    "Pumped water up from wells and ground grain",
     "Lit the fields at night"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Moving air carries energy. A windmill changes it into the turning of a pump or a grindstone. It does not make wind or light.",
    "outcome": 2
   },
@@ -3116,12 +3116,12 @@
    "t": "mcq",
    "p": "You let go of a blown-up balloon with its mouth open, and it shoots across the room. What does this show?",
    "opts": [
-    "Moving air carries energy that can push",
     "Air has no energy",
     "The balloon makes new energy",
+    "Moving air carries energy that can push",
     "The air outside is colder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The air rushes out one way and pushes the balloon the other way. The energy in the squeezed air does work. No machine makes new energy.",
    "outcome": 5
   },
@@ -3155,12 +3155,12 @@
    "t": "mcq",
    "p": "Why does soaking dal before cooking save cooking gas?",
    "opts": [
-    "Soaked dal is soft and cooks in fewer minutes",
     "Soaked dal makes the flame hotter",
+    "Soaked dal is soft and cooks in fewer minutes",
     "Soaked dal weighs less",
     "Water in the dal makes gas"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A shorter cooking time means less time with the flame on. The flame is not hotter, and the dal makes no gas. Gas is saved only by shorter burning.",
    "outcome": 6
   }

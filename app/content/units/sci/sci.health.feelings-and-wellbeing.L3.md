@@ -486,7 +486,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 10. (odd) Which one is the odd one out, and why? Heart beats faster, breath gets quicker, hands sweat, hair grows longer.  
    **Answer:** hair grows longer. *Why:* A strong feeling like fear quickly speeds the heart, quickens the breath and makes the hands sweat. Hair grows slowly all the time, whatever you feel.
 11. (mcq) Which of these shows respect?  
-   Options: Hugging a cousin even when she says no / Asking 'Can I hug you?' and waiting for the answer / Laughing when a friend cries / Taking a friend's pencil without asking  
+   Options: Asking 'Can I hug you?' and waiting for the answer / Hugging a cousin even when she says no / Laughing when a friend cries / Taking a friend's pencil without asking  
    **Answer:** Asking 'Can I hug you?' and waiting for the answer. *Why:* Respect means treating someone's body, feelings and choices as important. Asking first and listening to the answer does that.
 12. (order) Put the steps for a big feeling in order.  
    **Answer:** order shown. *Why:* Stopping gives the body time to calm a little. Naming the feeling often makes it smaller. Then it is easier to choose well.
@@ -510,7 +510,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 6. (match) Match each need to how much a child of 8 needs, or how often.  
    **Answer:** Sleep → about 9 to 12 hours a night; Active play → about an hour every day; Washing hands → before eating and after the toilet; Talking about feelings → whenever something feels big. *Why:* These are what children's doctors suggest. Sleep and play keep the body well and also make feelings easier to handle.
 7. (mcq) After a bad night's sleep, a girl snapped at her brother over a small thing. What is the best explanation?  
-   Options: She is an unkind person / Too little sleep makes small things feel bigger and makes people cross more easily / Her brother deserved it / Sleep has nothing to do with feelings  
+   Options: She is an unkind person / Her brother deserved it / Too little sleep makes small things feel bigger and makes people cross more easily / Sleep has nothing to do with feelings  
    **Answer:** Too little sleep makes small things feel bigger and makes people cross more easily. *Why:* Body and feelings affect each other. Tiredness makes it harder to stay calm. It does not mean she is unkind.
 8. (draw) Draw your calm corner plan. Label three things in it and say how each one helps.  
    **Answer:** Any plan that fits in a small space, with three labelled things, such as a cushion for comfort, a calm bottle to watch, and a picture card for slow breathing.. *Why:* A calm corner works best when the child chooses what helps them.
@@ -525,10 +525,10 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 13. (write) A classmate sits alone and looks sad. Write one thing you could say first, and one kind thing you could offer to do.  
    **Answer:** A strong answer starts with a question such as 'Are you all right?' and offers something real, such as sitting together or listening.. *Why:* Asking first checks the guess. Then the kind act fits what the classmate really needs.
 14. (mcq) In the Face Test, why must the same person make every face in all three rounds?  
-   Options: So the guesser gets tired / So only the hidden part of the face changes, and nothing else / So the faces look the same / So the guesser can guess the order  
+   Options: So only the hidden part of the face changes, and nothing else / So the guesser gets tired / So the faces look the same / So the guesser can guess the order  
    **Answer:** So only the hidden part of the face changes, and nothing else. *Why:* A fair test changes one thing at a time. If a different person made the faces, you would not know if the hidden part or the person made the difference.
 15. (mcq) Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?  
-   Options: Rats can feel something like joy / Rats are afraid of hands / Rats notice nothing at all / Rats are hungry  
+   Options: Rats are afraid of hands / Rats can feel something like joy / Rats notice nothing at all / Rats are hungry  
    **Answer:** Rats can feel something like joy. *Why:* Coming back for more tickling suggests the rats enjoy it. Cautious scientists add that we cannot ask a rat what it feels like.
 16. (truefalse) A polite smile is always easy to spot, because it never crinkles the eyes.  
    **Answer:** False. *Why:* False. Many people can crinkle their eyes on purpose, so even the eyes give a clue, not a proof.
@@ -550,7 +550,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 8. (fill) A smile that lifts the cheeks and crinkles the corners of the eyes is called a ____ smile.  
    **Answer:** ['Duchenne']. *Why:* It is named after Guillaume Duchenne, who photographed face muscles in 1862.
 9. (mcq) Why might a new child in class look cross on the first day?  
-   Options: The child must be rude / Feeling scared or nervous can make a face look tight and cross / The child does not like anyone / Faces always show exactly what we feel  
+   Options: The child must be rude / The child does not like anyone / Feeling scared or nervous can make a face look tight and cross / Faces always show exactly what we feel  
    **Answer:** Feeling scared or nervous can make a face look tight and cross. *Why:* Fear and nervousness can tighten the face, so a nervous child can look cross. This is why asking matters.
 10. (write) Is a calm corner more useful for the body or for the feelings? Explain your answer.  
    **Answer:** Both. It helps the feelings settle, and as feelings calm, the heart and breath slow down too. Body and feelings change together.. *Why:* A strong answer explains that body and feelings are linked.
@@ -572,40 +572,40 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 
 ## Quiz
 1. (mcq) Which of these is a feeling?  
-   Options: Jealous / Tall / Hungry for rice / Brown  
+   Options: Tall / Jealous / Hungry for rice / Brown  
    **Answer:** Jealous. *Why:* Jealous is a feeling. Tall and brown describe how something looks. Hunger is a body need, though it can make you grumpy.
 2. (mcq) When you are scared, what happens to your heart?  
-   Options: It stops / It beats faster / It beats slower / Nothing happens  
+   Options: It stops / It beats slower / Nothing happens / It beats faster  
    **Answer:** It beats faster. *Why:* Fear releases adrenaline, which makes the heart beat faster so the body is ready to act.
 3. (mcq) What is the surest way to know how a friend feels?  
    Options: Look at their face / Ask them kindly / Guess from their clothes / Ask someone else  
    **Answer:** Ask them kindly. *Why:* A face gives clues, but faces can be mixed up or hidden. Asking lets them tell you.
 4. (mcq) How many hours of sleep does a child of 8 need each night?  
-   Options: About 5 / About 7 / About 9 to 12 / About 15  
+   Options: About 5 / About 9 to 12 / About 7 / About 15  
    **Answer:** About 9 to 12. *Why:* Children aged 6 to 12 need about 9 to 12 hours of sleep a night.
 5. (mcq) Your little cousin says 'No, I don't want a hug.' What shows respect?  
    Options: Hug her anyway / Say 'OK' and give her a wave instead / Tell her she is rude / Laugh  
    **Answer:** Say 'OK' and give her a wave instead. *Why:* Respect means listening when someone says no about their own body.
 6. (mcq) Many people feel happy when they share a treat with a friend. What does this show about happiness?  
-   Options: Happiness can come from giving, not only from getting / Only getting things makes us happy / Sharing always makes people angry / Feelings never change  
+   Options: Only getting things makes us happy / Sharing always makes people angry / Feelings never change / Happiness can come from giving, not only from getting  
    **Answer:** Happiness can come from giving, not only from getting. *Why:* Giving can make us feel good inside. Scientists found that even children under two looked happier giving a treat than getting one.
 7. (mcq) How can you often tell a real, happy smile from a polite one?  
-   Options: A real smile uses only the mouth / A real smile also crinkles the corners of the eyes / A real smile moves the ears / You cannot tell: they are the same  
+   Options: A real smile also crinkles the corners of the eyes / A real smile uses only the mouth / A real smile moves the ears / You cannot tell: they are the same  
    **Answer:** A real smile also crinkles the corners of the eyes. *Why:* A happy smile lifts the cheeks and crinkles the eye corners. A polite smile often uses only the mouth.
 8. (mcq) Someone says animals do not have the face muscles people use to show feelings. How could you check?  
-   Options: Compare the faces and face muscles of people with apes, monkeys and dogs / Ask a friend / Look at one photo of a person / Nobody can check  
+   Options: Ask a friend / Compare the faces and face muscles of people with apes, monkeys and dogs / Look at one photo of a person / Nobody can check  
    **Answer:** Compare the faces and face muscles of people with apes, monkeys and dogs. *Why:* Comparing is how you find out. Charles Darwin did this and found that people and other animals share face muscles and expressions.
 9. (mcq) Your tummy flutters before a dance show. Where is this feeling happening?  
-   Options: Only in your mind / In your body as well as your mind / Only in your feet / Nowhere  
+   Options: Only in your mind / Only in your feet / Nowhere / In your body as well as your mind  
    **Answer:** In your body as well as your mind. *Why:* Nervousness changes the body, including the tummy. A feeling happens in the whole body.
 10. (mcq) Which helps a big angry feeling settle best?  
-   Options: Shouting louder / Hitting a pillow while thinking about the person / Stopping, breathing slowly and naming the feeling / Hiding it forever  
+   Options: Stopping, breathing slowly and naming the feeling / Shouting louder / Hitting a pillow while thinking about the person / Hiding it forever  
    **Answer:** Stopping, breathing slowly and naming the feeling. *Why:* Stopping and naming the feeling helps it settle. A 2002 study found hitting a punching bag while angry made people more aggressive.
 11. (mcq) In the Face Test, which feeling is usually easiest to read from the mouth alone?  
-   Options: Scared / Happy / Surprised / Angry  
+   Options: Happy / Scared / Surprised / Angry  
    **Answer:** Happy. *Why:* A happy mouth turns up, which is very easy to see. Scared, surprised and angry show more in the eyes and eyebrows.
 12. (mcq) Your classmate uses a wheelchair. Which one shows respect?  
-   Options: Ask what help she wants, and wait for her answer / Push her chair without asking, so she gets there faster / Make a joke about how she moves  
+   Options: Push her chair without asking, so she gets there faster / Ask what help she wants, and wait for her answer / Make a joke about how she moves  
    **Answer:** Ask what help she wants, and wait for her answer. *Why:* Respect means asking first and listening to her choice. Pushing her chair without asking takes away her choice, and a joke about how she moves hurts her feelings.
 
 ## Applications

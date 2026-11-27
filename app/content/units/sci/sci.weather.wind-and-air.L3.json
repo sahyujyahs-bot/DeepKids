@@ -747,11 +747,11 @@
       "t": "mcq",
       "q": "At the bottom of the open fridge, the smoke flowed out and down to the floor. Why?",
       "options": [
-       "The fridge has a fan that blows it out",
        "The cold air inside is heavier than the room air, so it pours out and sinks",
+       "The fridge has a fan that blows it out",
        "The smoke is afraid of the cold"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Cold air is denser than warm air, so a litre of it is heavier. When the door opens, the cold air pours out at the bottom and sinks to the floor, carrying the smoke. Picking 'a fan' is a good guess, and some fridges do have a small fan inside, but it is behind a cover and does not blow out of the door. The flow happens in any fridge, and it stops when the door closes."
      }
     },
@@ -941,11 +941,11 @@
       "t": "mcq",
       "q": "The clip rose much faster near the fan. Why?",
       "options": [
-       "The wind is faster near the fan, and faster wind pushes the blades much harder",
        "The fan pulls the clip up",
-       "The windmill is closer to the electricity"
+       "The windmill is closer to the electricity",
+       "The wind is faster near the fan, and faster wind pushes the blades much harder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The air leaving a fan spreads out and slows down as it goes. Near the fan the wind is fast, and a fast wind pushes much harder on the tilted blades, so they turn faster and wind the thread faster. Picking 'the fan pulls the clip up' mixes the fan with a magnet. The clip is lifted by the thread, which the turning axle winds up."
      },
      "parent": "A good answer sounds like this. What I think: a stronger wind does the job faster. What I saw: near the fan the clip took about 15 seconds, and far away about 45 seconds. Why: near the fan the air moves faster and pushes the blades harder."
@@ -1078,11 +1078,11 @@
       "t": "mcq",
       "q": "The soil got warmer than the water in the sun. On a real coast in the afternoon, which way will the breeze blow?",
       "options": [
-       "From the sea onto the land",
        "From the land out to sea",
+       "From the sea onto the land",
        "Straight up into the sky"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the afternoon the land is warmer, so the air over it is warmer and lighter, and it rises. The cooler, heavier air over the sea slides in under it. That is the sea breeze. 'From the land' is the answer for night-time, when the land has cooled faster than the sea."
      }
     }
@@ -1480,11 +1480,11 @@
       "t": "mcq",
       "q": "With the fan off, the kite flew when you walked. Why?",
       "options": [
-       "Walking pulled the kite through the air, so air moved past it",
        "The kite remembered the fan's wind",
+       "Walking pulled the kite through the air, so air moved past it",
        "Your walking made the room warmer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A kite needs air moving past it. Walking pulls the kite through still air, which is the same as air blowing past it. That is why kite flyers run on a still day. Picking 'warmer' mixes this up with how winds start outdoors."
      }
     },
@@ -1730,11 +1730,11 @@
       "t": "mcq",
       "q": "In Kochi, a tissue strip tied to a window streamed away from the sea at 3 pm on most days. What is the best explanation?",
       "options": [
-       "In the afternoon the land is warmer, so a sea breeze blows in",
        "The sea is blowing harder in the afternoon",
+       "In the afternoon the land is warmer, so a sea breeze blows in",
        "The strip was tied the wrong way"
       ],
-      "a": 0,
+      "a": 1,
       "why": "By afternoon the sun has warmed the land much more than the sea. The air over the land rises, and the cool sea air slides in under it. The sea is not doing the blowing. 'The sea is blowing' is how we usually talk, but the warm land is what starts the breeze."
      }
     }
@@ -1927,13 +1927,13 @@
    "t": "mcq",
    "p": "What is wind?",
    "opts": [
-    "Air moving past something",
     "A gas made by trees",
     "Water vapour",
+    "Air moving past something",
     "The sound of air"
    ],
    "outcome": 0,
-   "a": 0,
+   "a": 2,
    "why": "Wind is air moving past something. 'A gas made by trees' is an old idea. In fact, the wind moves the trees."
   },
   {
@@ -1941,26 +1941,26 @@
    "p": "A flat football is pumped up and weighed again. How has its weight changed?",
    "opts": [
     "It is lighter",
-    "It is a little heavier",
     "It weighs the same",
-    "It has no weight"
+    "It has no weight",
+    "It is a little heavier"
    ],
    "outcome": 0,
-   "a": 1,
+   "a": 3,
    "why": "More air has been squeezed into the ball, and air has weight. So the ball is a little heavier. Picking 'lighter' comes from thinking air makes things float."
   },
   {
    "t": "mcq",
    "p": "When the fridge door opens, where does the cold air go?",
    "opts": [
+    "Out at the bottom and down to the floor",
     "Up to the ceiling",
     "It stays inside",
-    "Out at the bottom and down to the floor",
     "Out at the top only"
    ],
    "outcome": 1,
    "how": "e1",
-   "a": 2,
+   "a": 0,
    "why": "Cold air is heavier for its size, so it pours out at the bottom and sinks to the floor. Picking 'up to the ceiling' mixes it up with warm air."
   },
   {
@@ -1980,13 +1980,13 @@
    "t": "mcq",
    "p": "Puri is a town by the sea. Which way does the breeze usually blow there in the afternoon?",
    "opts": [
-    "From the sea onto the land",
     "From the land out to sea",
     "Straight down",
+    "From the sea onto the land",
     "There is no breeze by the sea"
    ],
    "outcome": 2,
-   "a": 0,
+   "a": 2,
    "why": "In the afternoon the land is warmer than the sea, so a sea breeze flows in from the sea. 'From the land out to sea' describes the land breeze, which blows at night."
   },
   {
@@ -2008,12 +2008,12 @@
    "p": "What holds a kite up in the sky?",
    "opts": [
     "It is lighter than air",
-    "Moving air pushes on its tilted face, and the string holds it",
     "The tail lifts it",
-    "It floats like a balloon"
+    "It floats like a balloon",
+    "Moving air pushes on its tilted face, and the string holds it"
    ],
    "outcome": 3,
-   "a": 1,
+   "a": 3,
    "why": "Moving air pushes on the kite's tilted face, and the string holds it against the wind, so the push holds it up. Picking 'it is lighter than air' is a common guess, but a kite falls when the wind stops."
   },
   {
@@ -2049,12 +2049,12 @@
    "p": "What does a wind turbine do?",
    "opts": [
     "It makes wind",
-    "It uses the wind to turn a generator and make electricity",
     "It stores rain",
-    "It measures the temperature"
+    "It measures the temperature",
+    "It uses the wind to turn a generator and make electricity"
    ],
    "outcome": 4,
-   "a": 1,
+   "a": 3,
    "why": "The wind turns its blades, and the blades turn a generator, which makes electricity. Picking 'makes wind' mixes it up with a fan."
   },
   {
@@ -2063,24 +2063,24 @@
    "opts": [
     "There are no such winds",
     "The Moon makes the winds",
-    "The sea blows them",
-    "The Sun's heating drives the winds"
+    "The Sun's heating drives the winds",
+    "The sea blows them"
    ],
    "outcome": 5,
-   "a": 3,
+   "a": 2,
    "why": "The Sun heats the Earth most near the equator. Warm air rises there and cooler air flows in to take its place, so the winds keep blowing the same way. The Earth's spin bends them."
   },
   {
    "t": "mcq",
    "p": "A kite gets stuck on an electric wire. What should you do?",
    "opts": [
+    "Leave it and tell a grown-up",
     "Pull the string hard",
     "Climb up and get it",
-    "Leave it and tell a grown-up",
     "Throw a stick at it"
    ],
    "outcome": 6,
-   "a": 2,
+   "a": 0,
    "why": "Never pull the string or climb to reach it. Electric wires can kill. Leave the kite and tell a grown-up."
   }
  ],
@@ -2096,12 +2096,12 @@
      "p": "You hold a tissue strip and walk fast across a room with the fan off. The strip streams out behind you. Why?",
      "opts": [
       "The room had a hidden wind",
-      "You were moving through the air, so air moved past the strip",
       "Tissue always floats",
-      "Your hand was warm"
+      "Your hand was warm",
+      "You were moving through the air, so air moved past the strip"
      ],
      "how": "a1",
-     "a": 1,
+     "a": 3,
      "why": "The air in the room stayed still, but you moved through it, so air rushed past the strip. Wind is air moving past something, whichever one is moving. A strong answer says the strip moved through the air."
     },
     {
@@ -2298,11 +2298,11 @@
      "opts": [
       "The fridge sucks in air with a pump",
       "Smoke likes cold places",
-      "Warm air flows in at the top to replace the cold air pouring out at the bottom",
-      "The light inside pulls the smoke"
+      "The light inside pulls the smoke",
+      "Warm air flows in at the top to replace the cold air pouring out at the bottom"
      ],
      "how": "e1",
-     "a": 2,
+     "a": 3,
      "why": "Cold air is pouring out at the bottom. Warm room air flows in at the top to take its place. A strong answer links the top and the bottom: one flow out, one flow in."
     },
     {
@@ -2317,12 +2317,12 @@
      "p": "In Soil or Water, the soil got warmer in the sun. Then both bowls went into the shade. What usually happens?",
      "opts": [
       "The water cools faster",
-      "The soil cools faster",
       "Neither cools at all",
-      "Both cool at exactly the same speed"
+      "Both cool at exactly the same speed",
+      "The soil cools faster"
      ],
      "how": "e3",
-     "a": 1,
+     "a": 3,
      "why": "Soil warms quickly and also cools quickly. Water warms and cools slowly. That is why, at night, the land becomes cooler than the sea, and the land breeze blows."
     },
     {
@@ -2359,13 +2359,13 @@
      "t": "mcq",
      "p": "In one family's test of the Windmill That Lifts, the clip took 15 seconds at 50 cm from the fan and 45 seconds at 150 cm. What does this show?",
      "opts": [
-      "Faster wind makes the windmill work faster",
       "The clip is heavier far from the fan",
+      "Faster wind makes the windmill work faster",
       "Distance has nothing to do with it",
       "The fan is weaker on the left"
      ],
      "how": "e2",
-     "a": 0,
+     "a": 1,
      "why": "Near the fan the wind was faster, and the windmill did the same job in a third of the time. Faster wind pushes much harder, so the blades turn faster."
     },
     {
@@ -2385,12 +2385,12 @@
      "t": "mcq",
      "p": "You want to fly a patang from your building. Which place is safest?",
      "opts": [
+      "An open terrace with a railing, away from electric wires",
       "The edge of a roof with no railing",
       "The road in front of the building",
-      "An open terrace with a railing, away from electric wires",
       "Next to the electric pole, where it is windy"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A terrace with a railing, away from wires, is safest. Never fly a kite near electric wires, from a roof edge, or on a road."
     },
     {
@@ -2445,11 +2445,11 @@
      "p": "Bengaluru is far from the sea. Will a sea breeze reach it every afternoon?",
      "opts": [
       "Yes, every afternoon",
-      "No, it is too far from the sea",
       "Only at night",
-      "Only when it rains"
+      "Only when it rains",
+      "No, it is too far from the sea"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A sea breeze travels many kilometres inland, but not hundreds. Bengaluru is about 300 kilometres from the nearest sea, too far. Its breezes have other causes."
     },
     {
@@ -2552,12 +2552,12 @@
      "t": "mcq",
      "p": "A room has a window near the floor and a ventilator near the ceiling. On a hot day, how will air flow through the room?",
      "opts": [
-      "In at the low window, out at the high ventilator",
       "In at the high ventilator, out at the low window",
+      "In at the low window, out at the high ventilator",
       "It will not move at all",
       "Only in at both, never out"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The warm air in the room rises and goes out of the high ventilator. Cooler air from outside comes in at the low window to take its place. This is the Open Fridge experiment the other way round: there, cold air poured out at the bottom and warm air went in at the top."
     },
     {
@@ -2591,12 +2591,12 @@
      "t": "mcq",
      "p": "Wind farms are built on hill gaps, coasts and open plains, not in the middle of a city. Why?",
      "opts": [
-      "Wind is stronger and steadier in open places",
       "Cities have no air",
+      "Wind is stronger and steadier in open places",
       "Turbines need to be near the sea to make electricity",
       "Wind only blows over hills"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Buildings slow the wind and make it gusty. In open places the wind is stronger and steadier, and a faster wind pushes the blades much harder, so the turbine makes more electricity."
     },
     {
@@ -2604,12 +2604,12 @@
      "p": "There are two windmills. One has 4 paper blades. The other has 4 card blades twice as big. At 150 cm from the fan, which will probably lift more clips?",
      "opts": [
       "The small paper blades",
-      "The big card blades",
       "Both exactly the same",
+      "The big card blades",
       "Neither will turn"
      ],
      "how": "c1",
-     "a": 1,
+     "a": 2,
      "why": "Bigger blades catch more wind and get a bigger push. Stiff card also keeps its tilt. So the big card blades will probably lift more. The only way to be sure is to test."
     },
     {

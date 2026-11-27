@@ -579,10 +579,10 @@
       "t": "mcq",
       "q": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair?",
       "options": [
-       "Fair, because only the wrapping is different",
-       "Unfair, because two wrappings were used"
+       "Unfair, because two wrappings were used",
+       "Fair, because only the wrapping is different"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Only the wrapping changes. The idlis, the time and the way they are checked are the same, so any difference must come from the wrapping."
      }
     },
@@ -1318,10 +1318,10 @@
       "q": "Where should you write 'seconds' in the table?",
       "options": [
        "After every number",
-       "Once, in each column heading",
-       "Nowhere"
+       "Nowhere",
+       "Once, in each column heading"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Writing the unit in the heading tells everyone what every number in that column means, and keeps the table tidy."
      }
     },
@@ -1790,11 +1790,11 @@
    "p": "What is a fair test?",
    "opts": [
     "A test where everyone wins",
-    "A test where you change only one thing and keep everything else the same",
     "A test you do only once",
+    "A test where you change only one thing and keep everything else the same",
     "A test that agrees with your guess"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fair test changes only one thing. Then any difference in the result must come from that one thing.",
    "outcome": 0
   },
@@ -1815,12 +1815,12 @@
    "t": "mcq",
    "p": "One tomato plant sits on the sunny balcony and is watered every day. Another sits inside and is not watered. The balcony plant grows better. What is wrong with this test?",
    "opts": [
-    "Nothing, it is fair",
     "Two things were different: the light and the water",
+    "Nothing, it is fair",
     "It used plants",
     "It should have used three plants"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Light and water were both different, so nobody can tell which one helped the balcony plant.",
    "outcome": 1
   },
@@ -1842,12 +1842,12 @@
    "t": "mcq",
    "p": "In the Brown Apple Test, which of these should be the same for every slice?",
    "opts": [
-    "What you put on it",
     "The apple it was cut from",
+    "What you put on it",
     "Its colour at the end",
     "Its label"
    ],
-   "a": 1,
+   "a": 0,
    "why": "All slices come from one apple. Different apples can brown at different speeds, so using two apples would be unfair.",
    "outcome": 2,
    "how": "e1"
@@ -1857,11 +1857,11 @@
    "p": "You throw a paper ball once underarm and it goes in. You throw once overarm and miss. What should you do next?",
    "opts": [
     "Decide underarm is better",
-    "Throw many more times each, the same way",
     "Stop playing",
-    "Use a different bucket"
+    "Use a different bucket",
+    "Throw many more times each, the same way"
    ],
-   "a": 1,
+   "a": 3,
    "why": "One throw can be a fluke. Ten throws each give a much better answer.",
    "outcome": 4,
    "how": "e2"
@@ -1871,11 +1871,11 @@
    "p": "In a results table, where do you write the unit, such as 'seconds'?",
    "opts": [
     "After every number",
-    "In the column heading",
     "At the very bottom",
-    "You don't need units"
+    "You don't need units",
+    "In the column heading"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The unit goes once in the heading, for example 'Time (seconds)'. It tells everyone what all the numbers in that column mean.",
    "outcome": 3
   },
@@ -1884,11 +1884,11 @@
    "p": "A table for Ten Throws says: underarm 7 out of 10, overarm 4 out of 10. What can you say from it?",
    "opts": [
     "Overarm got more in",
-    "Underarm got more in, in this test",
     "They were the same",
+    "Underarm got more in, in this test",
     "You can't say anything"
    ],
-   "a": 1,
+   "a": 2,
    "why": "7 is more than 4. So in this test of ten throws each, more went in underarm. Repeating the test would make you surer.",
    "outcome": 3,
    "how": "e2"
@@ -1897,12 +1897,12 @@
    "t": "mcq",
    "p": "Why does a cut apple slice turn brown?",
    "opts": [
-    "It is dirty",
     "Substances in the broken cells meet oxygen in the air",
+    "It is dirty",
     "The knife was steel",
     "Light shines on it"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Cutting breaks the apple's cells. Their substances meet the oxygen in the air, and an enzyme makes brown substances.",
    "outcome": 5,
    "how": "e1"
@@ -1911,12 +1911,12 @@
    "t": "mcq",
    "p": "A ship's doctor wants to find which treatment cures sailors sick with scurvy. He splits them into six pairs. To make it a fair test, what should be different between the pairs?",
    "opts": [
-    "The treatment they are given",
     "The food they eat",
     "The part of the ship they sleep in",
-    "The illness they have"
+    "The illness they have",
+    "The treatment they are given"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every pair should have the same food, the same place to sleep and the same illness. Only the treatment changes, so if one pair gets better, it must be the treatment that helped.",
    "outcome": 6
   },
@@ -1937,12 +1937,12 @@
    "t": "mcq",
    "p": "Your test shows something you didn't expect. What is the best thing to do?",
    "opts": [
-    "Change the result to match your guess",
     "Keep the result, check the test was fair, and repeat it",
+    "Change the result to match your guess",
     "Throw the table away",
     "Say the test is broken"
    ],
-   "a": 1,
+   "a": 0,
    "why": "An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.",
    "outcome": 5
   },
@@ -1950,11 +1950,11 @@
    "t": "mcq",
    "p": "A block graph shows underarm at 7 and overarm at 4 balls in. Which is right?",
    "opts": [
-    "Underarm's block is taller, so more balls went in underarm",
     "Overarm's block is taller, because it is thrown harder",
+    "Underarm's block is taller, so more balls went in underarm",
     "You cannot tell anything from a block graph"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A taller block means a bigger number. Here 7 is more than 4. A block graph is a picture of the table, so you can read it the same way.",
    "outcome": 3
   },
@@ -1962,11 +1962,11 @@
    "t": "mcq",
    "p": "In the Brown Apple Test, how do you record how brown each slice looks, when a number will not do?",
    "opts": [
-    "Draw each slice, colour it as it looks, and label it",
     "Do not record it at all",
+    "Draw each slice, colour it as it looks, and label it",
     "Write 'apple' for every slice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A labelled drawing shows what you saw. A table of times and numbers cannot show shades, and leaving it out loses evidence.",
    "outcome": 3
   },
@@ -1974,11 +1974,11 @@
    "t": "mcq",
    "p": "Before Ten Throws, you see water spilled on the floor near the bucket. What should you do?",
    "opts": [
-    "Wipe it up first, then start",
     "Start, and just throw carefully",
+    "Wipe it up first, then start",
     "Throw harder, so you get it done quickly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A wet floor is a hazard, because someone could slip. Checking for hazards comes before the test starts.",
    "outcome": 2
   },
@@ -2005,12 +2005,12 @@
     {
      "t": "mcq",
      "p": "Which floats longer: a paper boat folded from newspaper, or one folded from a notebook page? Which test is fair?",
-     "a": 1,
+     "a": 2,
      "why": "The boats must be the same size, and they must float in the same water at the same time. Only the paper is different.",
      "opts": [
       "A big newspaper boat in a bucket and a small notebook boat in a pond",
-      "Two boats of the same size, put on the water at the same time in the same bucket",
-      "A wet boat and a dry boat"
+      "A wet boat and a dry boat",
+      "Two boats of the same size, put on the water at the same time in the same bucket"
      ]
     },
     {
@@ -2121,11 +2121,11 @@
     {
      "t": "mcq",
      "p": "A results table has a column headed 'Height'. What is missing from the heading?",
-     "a": 0,
+     "a": 1,
      "why": "The unit is missing. 'Height (cm)' tells everyone the numbers are centimetres.",
      "opts": [
-      "The unit, such as (cm)",
       "A colour",
+      "The unit, such as (cm)",
       "The date"
      ]
     },
@@ -2255,11 +2255,11 @@
     {
      "t": "mcq",
      "p": "Paper plane A is thrown three times: 3 m, 4 m, 3 m. Plane B is thrown three times: 6 m, 1 m, 3 m. What can you say?",
-     "a": 1,
+     "a": 0,
      "why": "A's throws are close together. B had one long throw, 6 m, which may be a fluke. Both planes went 10 m in total, so you can't yet say which is better. More throws are needed.",
      "opts": [
-      "Plane B is better because it went 6 m once",
       "You can't be sure yet: B's 6 m may be a fluke, and both went 10 m in total",
+      "Plane B is better because it went 6 m once",
       "Plane A is broken"
      ]
     },
@@ -2317,12 +2317,12 @@
     {
      "t": "mcq",
      "p": "Kavya's family did the Family Balance Table. Look at their table. Who balanced longest in total?",
-     "a": 1,
+     "a": 2,
      "why": "Paati's times add to 60 seconds, Kavya's to 45 and Appa's to 30. Paati balanced longest.",
      "opts": [
       "Kavya",
-      "Her grandmother, Paati",
-      "Her father, Appa"
+      "Her father, Appa",
+      "Her grandmother, Paati"
      ],
      "how": "a2",
      "chart": {
@@ -2360,11 +2360,11 @@
      "t": "mcq",
      "p": "A table shows three bounces for each ball. The rubber ball bounced 45, 44 and 46 centimetres. The tennis ball bounced 38, 40 and 39 centimetres. What can you say?",
      "opts": [
-      "The rubber ball bounced higher on every try, so it is probably bouncier",
       "The tennis ball is bouncier because it is lighter",
+      "The rubber ball bounced higher on every try, so it is probably bouncier",
       "You can say nothing from three tries"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Every rubber ball bounce was higher than every tennis ball bounce, and the three tries of each ball were close together. That is good evidence."
     },
     {
@@ -2524,11 +2524,11 @@
     {
      "t": "mcq",
      "p": "In a fair test of salt on ice, the salted cube makes more water in 15 minutes. But the salt itself has also dissolved into the water. What does this mean?",
-     "a": 1,
+     "a": 0,
      "why": "The salt adds a little to the liquid, so the comparison is not perfect. Noticing hidden differences like this is what good scientists do. If the difference is bigger than the salt alone could add, it still shows that the salt melted more ice.",
      "opts": [
-      "The test is useless",
       "The salt adds a little to the water, so a small difference might not mean much",
+      "The test is useless",
       "Salt cannot dissolve"
      ]
     },
@@ -2579,12 +2579,12 @@
     {
      "t": "mcq",
      "p": "A shop says its new soap 'kills 99% of germs'. Which question best checks if this is a fair claim?",
-     "a": 1,
+     "a": 2,
      "why": "To know the soap helps, you must compare it with something, like plain soap. A claim with no comparison doesn't tell you much.",
      "opts": [
       "What colour is the soap?",
-      "Compared with what? Did plain soap kill as many?",
-      "How much does it cost?"
+      "How much does it cost?",
+      "Compared with what? Did plain soap kill as many?"
      ]
     },
     {

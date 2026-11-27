@@ -430,10 +430,10 @@
       "t": "mcq",
       "q": "Is the oldest person always at the back of the line?",
       "options": [
-       "Yes, always",
-       "No, it depends on what we line up by"
+       "No, it depends on what we line up by",
+       "Yes, always"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The oldest person is at the back when we line up by age. But when we line up by height or by who woke first, they may be somewhere else. Each line sorts by one thing."
      }
     }
@@ -938,10 +938,10 @@
       "q": "Which of these is a real family?",
       "options": [
        "Only a mother, a father and children",
-       "Only a big joint family",
-       "Every one of the six families"
+       "Every one of the six families",
+       "Only a big joint family"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Each of the six families has grown-ups who look after a child. Families come in many kinds, and every kind is a real family."
      }
     }
@@ -1343,10 +1343,10 @@
      "p": "In the shirt test, your eyes were covered. Circle what you used to guess whose shirt it was.",
      "opts": [
       "My eyes",
-      "My nose",
-      "My ears"
+      "My ears",
+      "My nose"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Your eyes were covered, so only your nose could work.",
      "how": "e1"
     },
@@ -1461,11 +1461,11 @@
      "t": "mcq",
      "p": "Here are two shirts. A mother wore one all night. The other was just washed. Which one smells of a person?",
      "opts": [
-      "The one the mother wore",
       "The one just washed",
+      "The one the mother wore",
       "Both the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why the Whose Cloth Is This? test has one washed shirt that nobody wore.",
      "how": "e1"
     },
@@ -1603,11 +1603,11 @@
      "t": "mcq",
      "p": "Scientists found that people in one home share many skin microbes. A grandmother goes to stay for two weeks with her daughter's family. What do you guess will happen?",
      "opts": [
-      "She will share more microbes with her daughter's family",
       "All her microbes will go away",
-      "Nothing will change at all"
+      "Nothing will change at all",
+      "She will share more microbes with her daughter's family"
      ],
-     "a": 0,
+     "a": 2,
      "why": "People who live together share more skin microbes. So she will likely share more with her daughter's family. Scientists are still finding out how long shared microbes stay."
     },
     {
@@ -1716,11 +1716,11 @@
    "t": "mcq",
    "p": "What is a family?",
    "opts": [
-    "People who belong to each other and look after each other",
     "Only people who look the same",
+    "People who belong to each other and look after each other",
     "Everyone on your street"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A family is people who belong together and care for each other. Family members do not always look alike.",
    "outcome": 0
   },
@@ -1740,11 +1740,11 @@
    "t": "mcq",
    "p": "In a family tree, where do the grandparents go?",
    "opts": [
-    "At the top",
     "At the bottom",
+    "At the top",
     "In the middle, beside the children"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The oldest people go at the top, then their children, and the youngest at the bottom. That makes three generations.",
    "outcome": 0
   },
@@ -1752,11 +1752,11 @@
    "t": "mcq",
    "p": "A girl lives with her mother and her grandmother. Is that a family?",
    "opts": [
-    "Yes",
     "No, there is no father",
+    "Yes",
     "No, it is too small"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Her mother and grandmother look after her. Families come in many kinds, and this is one.",
    "outcome": 1
   },
@@ -1764,11 +1764,11 @@
    "t": "mcq",
    "p": "Rohan lives with his parents and his sister in a flat in Mumbai. What kind of family is this?",
    "opts": [
-    "A nuclear family",
     "A joint family",
+    "A nuclear family",
     "Not a family"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Parents and children living on their own are a nuclear family. A joint family also has grandparents, uncles and aunts in the same house. Both are real families.",
    "outcome": 1
   },
@@ -1788,11 +1788,11 @@
    "t": "mcq",
    "p": "Who often leads an Asian elephant family?",
    "opts": [
-    "An older female",
     "The youngest calf",
+    "An older female",
     "A grown-up male"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Elephant families are mothers, daughters, aunts and young ones. An older female often leads. Grown-up males leave.",
    "outcome": 1
   },
@@ -1800,11 +1800,11 @@
    "t": "mcq",
    "p": "In an ant nest, who lays the eggs?",
    "opts": [
-    "The queen",
     "The biggest worker ant",
-    "The baby ants"
+    "The baby ants",
+    "The queen"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The queen lays the eggs. The worker ants are her daughters.",
    "outcome": 1
   },
@@ -1812,11 +1812,11 @@
    "t": "mcq",
    "p": "Can people tell their family apart by smell alone?",
    "opts": [
-    "Yes, often they can",
     "No, only dogs can",
+    "Yes, often they can",
     "Only with their eyes open"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists found that mothers, brothers and sisters can pick out a family member's worn shirt by smell. You may have done it too.",
    "outcome": 2,
    "how": "e1"
@@ -1825,11 +1825,11 @@
    "t": "mcq",
    "p": "You do the shirt test once and get one guess right. Why should you do it again?",
    "opts": [
-    "One right guess could be luck",
     "To make it take longer",
-    "Because the first time is always wrong"
+    "Because the first time is always wrong",
+    "One right guess could be luck"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess can be right by luck. If you are right two times, it is more likely your nose really knows.",
    "outcome": 4,
    "how": "e1"
@@ -1838,11 +1838,11 @@
    "t": "mcq",
    "p": "Why do we use the same kind of tumbler for every shirt?",
    "opts": [
-    "So the tumblers give no clue",
     "Because steel smells nice",
-    "So the shirts stay clean"
+    "So the shirts stay clean",
+    "So the tumblers give no clue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If one tumbler looked or felt different, it could give a clue. Same tumblers make a fair test.",
    "outcome": 4,
    "how": "e1"
@@ -1863,11 +1863,11 @@
    "t": "mcq",
    "p": "A girl and her mother hug every day. What passes between them?",
    "opts": [
-    "Tiny microbes from their skin",
     "Nothing at all",
+    "Tiny microbes from their skin",
     "Their height"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When people touch, some skin microbes move across. People who live together share many microbes.",
    "outcome": 3
   },

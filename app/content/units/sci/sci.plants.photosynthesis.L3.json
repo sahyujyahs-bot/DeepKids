@@ -788,11 +788,11 @@
       "q": "In the Leaf Kitchen, what comes out besides the sugar?",
       "options": [
        "Soil",
-       "Oxygen",
        "Carbon dioxide",
+       "Oxygen",
        "Nothing"
       ],
-      "a": 1,
+      "a": 2,
       "why": "When a leaf makes sugar, oxygen is left over. It goes out into the air, and we breathe it. Picking 'carbon dioxide' usually means thinking plants give out the same gas we breathe out. Leaves take carbon dioxide in, and give oxygen out. Picking 'soil' usually means thinking the plant's food comes from the soil."
      }
     },
@@ -839,11 +839,11 @@
       "q": "In the game, your plant was built from sugar. Where did the sugar come from?",
       "options": [
        "The soil",
-       "Sunlight, water and carbon dioxide",
        "The coins on the mat",
+       "Sunlight, water and carbon dioxide",
        "Rain only"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Every space on the plant mat was paid for with sugar, and every sugar was made in a leaf from sunlight, water and carbon dioxide. Real plants work the same way. Picking 'the soil' is the most common idea, even among grown-ups. The soil gives only water and a pinch of minerals."
      }
     }
@@ -1050,12 +1050,12 @@
      "t": "mcq",
      "p": "Someone says, 'Plants take in oxygen to make their food, just like we do.' What have they mixed up?",
      "opts": [
-      "To make food, a leaf takes in carbon dioxide and gives out oxygen",
       "Plants do not make food at all",
       "Plants take in smoke",
-      "Nothing, they are right"
+      "Nothing, they are right",
+      "To make food, a leaf takes in carbon dioxide and gives out oxygen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Photosynthesis takes in carbon dioxide and gives out oxygen. The speaker is half right about one thing: plants also use a little oxygen all the time to get energy from their sugar, as we do. A strong answer separates making food from using it."
     },
     {
@@ -1106,12 +1106,12 @@
      "t": "mcq",
      "p": "In The Starch Picture, the black paper is clipped on both sides of the leaf, top and bottom. Why?",
      "opts": [
-      "So no light at all reaches that part of the leaf",
       "So the leaf does not fall off",
+      "So no light at all reaches that part of the leaf",
       "To keep the leaf warm",
       "To stop the iodine getting in"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The test asks: does a leaf make starch only where light falls? So the covered part must get no light at all, from above or below. A strong answer says what the test is checking.",
      "how": "e2",
      "context": "In The Starch Picture, you clip a black paper shape on a leaf for two sunny days. Then you test the leaf for starch with iodine, which turns blue-black on starch."
@@ -1214,12 +1214,12 @@
      "t": "mcq",
      "p": "Look at the chart from Count the Bubbles. About how many bubbles would you expect in one minute with the lamp 30 cm away?",
      "opts": [
-      "About 10",
       "About 40",
       "None",
-      "About 30"
+      "About 30",
+      "About 10"
      ],
-     "a": 0,
+     "a": 3,
      "why": "30 cm is between 20 cm, which gave 16 bubbles, and 40 cm, which gave 6. So the answer should be between 6 and 16. Picking 'about 40' would mean the plant made more oxygen in dimmer light. A strong answer uses the pattern to predict.",
      "how": "e3",
      "context": "In Count the Bubbles, a water plant sits in a glass of water. They give off bubbles of oxygen as they make food. A lamp is put close by, far away, or switched off.",
@@ -1287,12 +1287,12 @@
      "t": "mcq",
      "p": "In The Starch Picture, a grown-up washed the green colour out of the leaf with spirit before the iodine went on. Why?",
      "opts": [
-      "The green colour would hide the blue-black colour",
       "The spirit makes more starch",
       "Iodine only works on pale things",
+      "The green colour would hide the blue-black colour",
       "The green colour is poisonous"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Iodine turns blue-black on starch, but the green chlorophyll would hide that colour. Washing it out lets the picture show. A strong answer says what the step was for.",
      "how": "e2",
      "context": "In The Starch Picture, you clip a black paper shape on a leaf for two sunny days. Then you test the leaf for starch with iodine, which turns blue-black on starch."
@@ -1301,12 +1301,12 @@
      "t": "mcq",
      "p": "Scientists once thought the oxygen a leaf gives out comes from carbon dioxide. In 1941, a test with a special kind of oxygen showed where it really comes from. Where?",
      "opts": [
-      "From water, split by light's energy",
       "From the soil",
       "From the sunlight itself",
+      "From water, split by light's energy",
       "From the leaf's own body"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Scientists had believed it came from carbon dioxide, which was a sensible guess. A test settled it."
     },
     {
@@ -1443,12 +1443,12 @@
      "t": "mcq",
      "p": "Van Helmont decided that his willow tree was made of water. What did he not know about?",
      "opts": [
-      "The carbon dioxide in the air, which plants build with",
       "The soil",
       "The rain",
+      "The carbon dioxide in the air, which plants build with",
       "The roots"
      ],
-     "a": 0,
+     "a": 2,
      "why": "He saw that the soil hardly changed, and he gave only water, so water seemed the only answer. Nobody yet knew that air has a gas in it that plants build into sugar. Water does give the hydrogen. A strong answer says he was partly right.",
      "context": "Nearly 400 years ago, Jan Baptist van Helmont grew a willow in a weighed pot of soil for five years, giving the tree only rainwater."
     }
@@ -1489,12 +1489,12 @@
      "t": "mcq",
      "p": "Lynn Margulis argued in 1967 that chloroplasts, the tiny green parts in leaf cells, were once something else. Many scientists thought she was wrong. Now most agree with her. What were chloroplasts once?",
      "opts": [
-      "Free-living cyanobacteria, taken inside a bigger cell long ago",
       "Grains of soil",
       "Drops of rain",
-      "Tiny insects"
+      "Tiny insects",
+      "Free-living cyanobacteria, taken inside a bigger cell long ago"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Chloroplasts have their own small set of genes and split in two like bacteria. That evidence convinced other scientists. A strong answer notes that an idea many people rejected turned out to be right."
     },
     {
@@ -1523,12 +1523,12 @@
      "t": "mcq",
      "p": "In 1771, Joseph Priestley put a mint plant in a closed jar where a candle had burned out. Some days later, a candle could burn in the jar again. Why?",
      "opts": [
-      "The plant had given out oxygen, which a flame needs",
       "The plant had made the jar warmer",
+      "The plant had given out oxygen, which a flame needs",
       "The plant had eaten the smoke",
       "The candle had grown back"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A flame uses up oxygen. In light, the mint plant made oxygen by photosynthesis, so the air could keep a flame going again. Priestley did not yet know the name of the gas. A strong answer names oxygen and the light the plant needed."
     },
     {
@@ -1542,12 +1542,12 @@
      "t": "mcq",
      "p": "A field of crops stores only about 2 out of every 100 parts of the sunlight that falls on it. What happens to most of the rest?",
      "opts": [
-      "It bounces away, or warms the leaves and the ground",
       "It is stored in the soil",
       "It is turned into oxygen",
+      "It bounces away, or warms the leaves and the ground",
       "It goes back to the Sun"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most sunlight is reflected, or soaks in and becomes warmth. Leaves often get more light than they can use. Picking 'turned into oxygen' mixes up energy with atoms. The oxygen comes from water."
     },
     {
@@ -1569,12 +1569,12 @@
      "t": "mcq",
      "p": "Astronauts are planning a greenhouse on Mars, lit by lamps. Why would they choose red and blue lamps, not green ones?",
      "opts": [
-      "Chlorophyll soaks up red and blue light best, and bounces much of the green away",
       "Green lamps are too bright",
       "Plants on Mars are red",
+      "Chlorophyll soaks up red and blue light best, and bounces much of the green away",
       "Red and blue lamps are warmer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Leaves use mostly red and blue light. Much green light bounces off, so green lamps would feed the plants less well for the same electricity. A strong answer links the lamp colour to what chlorophyll does.",
      "how": "c1",
      "context": "In Lunch on Mars, you design a greenhouse where plants make food and air for astronauts."
@@ -1822,12 +1822,12 @@
       "t": "mcq",
       "q": "In a test like this, only the discs in cup A floated: light and baking soda water. What does that show?",
       "options": [
-       "Leaves need light and carbon dioxide to make oxygen",
        "Leaves need only water",
        "Leaves float in the dark",
-       "Baking soda makes anything float"
+       "Baking soda makes anything float",
+       "Leaves need light and carbon dioxide to make oxygen"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Cup B had carbon dioxide but no light, and stayed sunk. Cup C had light but almost no carbon dioxide, and stayed sunk. Only cup A had both, so only cup A made oxygen. Picking 'baking soda makes anything float' is a fair worry. But cup B had baking soda too, and its discs did not float. That is why we had three cups."
      },
      "chart": {
@@ -2175,12 +2175,12 @@
       "t": "mcq",
       "q": "With the lamp 10 cm away, the plant made 30 bubbles a minute. At 40 cm, they made 6. With the lamp off, they made none. What does this show?",
       "options": [
-       "More light makes the plant make oxygen faster",
        "The lamp's heat makes the bubbles",
+       "More light makes the plant make oxygen faster",
        "The plant makes bubbles best in the dark",
        "Distance does not matter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The closer the lamp, the brighter the light on the plant, and the faster they made oxygen. With no light, they made none. Picking 'the lamp's heat' is a good scientist's worry. That is why we used a cool LED bulb. It hardly warmed the water, but it still changed the bubbles."
      },
      "chart": {
@@ -2395,12 +2395,12 @@
       "t": "mcq",
       "q": "The limewater turned milky when you breathed into it. What does that show?",
       "options": [
-       "Your breath has carbon dioxide in it",
        "Your breath has milk in it",
        "Straws make water milky",
-       "Your breath is dirty"
+       "Your breath is dirty",
+       "Your breath has carbon dioxide in it"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Limewater turns milky when carbon dioxide gets into it. The cloudiness is tiny bits of chalk, made when carbon dioxide meets the lime. So your breath carries carbon dioxide out of your body. Picking 'your breath is dirty' is a natural thought. But carbon dioxide is not dirt. It is a clean gas, and leaves build food from it."
      }
     },
@@ -2506,12 +2506,12 @@
       "t": "mcq",
       "q": "The chalk showed a green band and a yellow band. Why do old leaves turn yellow before they fall?",
       "options": [
-       "The green chlorophyll breaks down, and the yellow that was always there shows through",
        "The leaf is painted yellow by the sun",
        "The leaf drinks yellow water",
+       "The green chlorophyll breaks down, and the yellow that was always there shows through",
        "Yellow is made only in autumn"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The chalk shows that a green leaf already has yellow colours hidden in it. The green chlorophyll covers them up. When a leaf gets old, the plant breaks down their chlorophyll first, to save the useful parts. Then the yellow shows. Picking 'painted by the sun' usually means thinking the colour comes from outside the leaf."
      },
      "parent": "Chalk bands can be faint. You may see only a green band and a pale yellow one, and the yellow can be hard to see. If you see only green, the colours still came apart a little: the green travelled with the spirit. Try again with more leaf and less spirit."
@@ -2596,12 +2596,12 @@
       "t": "mcq",
       "q": "You built a sugar and had 12 red balls left over. What are they in a real leaf?",
       "options": [
-       "Oxygen, which floats out into the air",
        "Soil",
+       "Oxygen, which floats out into the air",
        "More carbon dioxide",
        "Nothing, they disappear"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The leftover red balls are oxygen atoms. They pair up to make oxygen molecules, which float out of the leaf for us to breathe. Picking 'they disappear' usually means thinking things can vanish. In real life, atoms are never lost. They are only rearranged."
      }
     },
@@ -2688,12 +2688,12 @@
       "t": "mcq",
       "q": "20 grams of twigs burned down to less than 1 gram of ash. Where did most of the wood go?",
       "options": [
-       "Into the air, as carbon dioxide and water vapour",
        "Into the ground",
+       "Into the air, as carbon dioxide and water vapour",
        "It turned into nothing",
        "Into the ash"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Burning joins the wood's carbon and hydrogen with oxygen again. They leave as carbon dioxide and water vapour, the same gases the tree built the wood from. The little ash is the minerals that came from the soil. Picking 'nothing' usually means thinking things can vanish. Atoms never vanish. They only move and rearrange."
      },
      "parent": "A kitchen scale may show 0 or 1 gram for the ash, because it is so light. Both mean almost nothing was left. The rest went into the air as carbon dioxide and water vapour."
@@ -2893,12 +2893,12 @@
       "t": "mcq",
       "q": "Suppose the dry plants weighed more than the dry seeds, and the soil weighed almost the same as at the start. Where did most of the plants come from?",
       "options": [
-       "The air, as carbon dioxide",
        "The soil",
        "The pot",
-       "The ruler"
+       "The ruler",
+       "The air, as carbon dioxide"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The soil hardly changed, so the plants did not come from the soil. Dried plants have no water left in them. So most of what is left was built from carbon dioxide in the air, using sunlight. Picking 'the soil' is the old idea van Helmont tested. If plants ate soil, the soil would have got lighter. Your scale may show the soil 10 or 20 grams lighter or heavier. That is mostly damp left in the soil, or crumbs lost. A kitchen scale cannot measure a change as small as the plants' few grams. But it does show the soil did not lose a big amount."
      },
      "chart": {
@@ -3007,12 +3007,12 @@
       "t": "mcq",
       "q": "Mars air is mostly carbon dioxide. Why is that good news for the plants?",
       "options": [
-       "Carbon dioxide is what leaves build sugar from",
        "Carbon dioxide is a kind of water",
+       "Carbon dioxide is what leaves build sugar from",
        "Plants breathe it like we breathe oxygen, and need nothing else",
        "It keeps Mars warm enough"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Leaves take in carbon dioxide and build sugar from it, so Mars has plenty of one ingredient. Picking 'need nothing else' misses that plants also need light and water, and oxygen for their own respiration. The thin, cold Mars air also cannot keep a plant alive outside, which is why the greenhouse is sealed."
      }
     },
@@ -3100,12 +3100,12 @@
       "t": "mcq",
       "q": "Suppose you put your cup in brighter light AND added more baking soda at the same time. Your discs floated faster. What can you say?",
       "options": [
-       "Something helped, but you can't tell which change did it",
        "Brighter light is the reason",
        "Baking soda is the reason",
+       "Something helped, but you can't tell which change did it",
        "Leaves don't need light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "You changed two things at once. So either one, or both together, might have made the difference. To find out, you must change only one thing at a time. Picking 'brighter light is the reason' is a good guess, but this test cannot prove it."
      },
      "parent": "Brighter light and a little more baking soda usually help the most. Very hot water damages the leaf, so keep it only slightly warm. Some leaves, like thick waxy ones, are hard to sink in the syringe."
@@ -3167,12 +3167,12 @@
    "t": "mcq",
    "p": "What is photosynthesis?",
    "opts": [
-    "How a leaf makes food from light, water and carbon dioxide",
     "How a plant drinks water",
     "How a plant eats soil",
+    "How a leaf makes food from light, water and carbon dioxide",
     "How a flower makes seeds"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Photosynthesis means putting together with light. Picking 'drinks water' is close, because water is one ingredient. But photosynthesis is making food. Picking 'eats soil' is the most common wrong idea about plants.",
    "outcome": 0
   },
@@ -3208,12 +3208,12 @@
    "t": "mcq",
    "p": "You drop iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
    "opts": [
-    "The potato has starch in it, and the sugar does not",
     "The sugar has more starch than the potato",
     "Iodine only works on cold foods",
-    "Both have the same amount of starch"
+    "Both have the same amount of starch",
+    "The potato has starch in it, and the sugar does not"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Iodine turns blue-black only on starch. Sugar is what leaves make first, and plants join sugars into starch to store them. So sugar itself stays brown. Picking 'sugar has more starch' mixes up the two.",
    "outcome": 2,
    "how": "e2",
@@ -3224,11 +3224,11 @@
    "p": "Most of a tree's dry weight came from where?",
    "opts": [
     "The soil",
-    "Carbon dioxide in the air",
     "Fertiliser",
-    "Sunlight"
+    "Sunlight",
+    "Carbon dioxide in the air"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Leaves build the tree from carbon dioxide, with a little water. Picking 'sunlight' is close. Sunlight gives the energy, but the building blocks come from air. Picking 'the soil' is the oldest wrong idea.",
    "outcome": 3
   },
@@ -3250,12 +3250,12 @@
    "t": "mcq",
    "p": "Why do leaves look green?",
    "opts": [
-    "Chlorophyll bounces green light back",
     "Chlorophyll soaks up green light",
     "Leaves drink green water",
-    "Leaves are green on the inside only"
+    "Leaves are green on the inside only",
+    "Chlorophyll bounces green light back"
    ],
-   "a": 0,
+   "a": 3,
    "why": "We see the colour that bounces back. Chlorophyll uses red and blue, and bounces green. Picking 'soaks up green' is the most common mix-up.",
    "outcome": 4
   },
@@ -3276,12 +3276,12 @@
    "t": "mcq",
    "p": "A potato is kept in a dark cupboard for a month. They grow long white shoots, and the potato gets lighter. Where did the food for the shoots come from?",
    "opts": [
-    "The starch stored in the potato, which they use up",
     "Light in the cupboard",
     "Soil stuck to the skin",
-    "Nowhere, shoots need no food"
+    "Nowhere, shoots need no food",
+    "The starch stored in the potato, which they use up"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In the dark, the potato cannot photosynthesise. So they live on the starch their leaves made last season. They use oxygen to get energy from it, and that is why they get lighter. Picking 'light in the cupboard' forgets that a dark cupboard has almost none.",
    "outcome": 5
   },
@@ -3289,12 +3289,12 @@
    "t": "mcq",
    "p": "A leopard eats a goat. Where did the leopard's energy first come from?",
    "opts": [
-    "The Sun, caught by the grass the goat ate",
     "The goat only",
+    "The Sun, caught by the grass the goat ate",
     "The leopard's own body",
     "The soil"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Energy passes along a food chain. It starts as sunlight caught by a plant. Picking 'the goat only' stops one step too soon.",
    "outcome": 5
   },
@@ -3302,12 +3302,12 @@
    "t": "mcq",
    "p": "Priestley's plants sometimes freshened the air in a jar and sometimes did not. In 1779, Jan Ingenhousz found what made the difference. What was it?",
    "opts": [
-    "Light: plants freshen air only in light, with their green parts",
     "The size of the jar",
     "The colour of the flowers",
+    "Light: plants freshen air only in light, with their green parts",
     "The kind of soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ingenhousz did hundreds of tests in one summer. Plants gave out oxygen only in light, and only from their green parts. Picking 'the kind of soil' is the old idea that plants are made of soil.",
    "outcome": 6
   },
@@ -3315,12 +3315,12 @@
    "t": "mcq",
    "p": "Where did the oxygen in Earth's air first come from?",
    "opts": [
-    "Tiny cyanobacteria in the sea, over a very long time",
     "Volcanoes",
     "The first trees",
-    "It was always there"
+    "It was always there",
+    "Tiny cyanobacteria in the sea, over a very long time"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Cyanobacteria made it by photosynthesis, long before trees existed. Picking 'the first trees' is a common guess. But trees came about 2 billion years later.",
    "outcome": 6
   },
@@ -3328,12 +3328,12 @@
    "t": "mcq",
    "p": "Is it fully known why leaves are green rather than black?",
    "opts": [
-    "No, there are several ideas and scientists still argue",
     "Yes, completely",
+    "No, there are several ideas and scientists still argue",
     "Leaves are really black",
     "Nobody has ever wondered"
    ],
-   "a": 0,
+   "a": 1,
    "why": "It is still an open question. Picking 'yes, completely' is understandable, because chlorophyll's colour is well known. Why plants ended up with that colour is the puzzle.",
    "outcome": 6
   }

@@ -732,7 +732,7 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
 ## Worksheets
 ### Sunlight, black and shiny, and the jobs of a box cooker (core) (core, 16 questions)
 1. (mcq) Which of these uses sunlight directly, with no machine?  
-   Options: Drying vadam on a terrace / A ceiling fan / A gas stove / A mixer  
+   Options: A ceiling fan / A gas stove / A mixer / Drying vadam on a terrace  
    **Answer:** Drying vadam on a terrace. *Why:* Drying lets the Sun's energy send the water away as vapour, with no machine. A fan and a mixer use electricity, and a stove burns gas. If you chose one of those, look for the job that needs only open sky.
 2. (fill) A small LED bulb uses about 10 watts. About ____ of them use as much as 1,000 watts.  
    **Answer:** ['100']. *Why:* 1,000 ÷ 10 = 100. This is how many bulbs one square metre of noon sunlight could run, if all of it could be used.
@@ -768,14 +768,14 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
    **Answer:** Three real examples, such as drying clothes, daylight in a room and warm water from a rooftop heater. A strong answer says what is slower or missing on a cloudy week, such as clothes taking longer to dry or lamps staying on.. *Why:* A good answer is specific to the family's day.
 ### Heat coming in, heat leaving, and the water heater (stretch) (stretch, 16 questions)
 1. (mcq) A bucket fills while its drain is open, and the level stops rising. What does this match in a sunlit tumbler?  
-   Options: Heat leaves as fast as it comes in / The Sun stops shining / The water is full of heat / The black turns white  
+   Options: The Sun stops shining / The water is full of heat / Heat leaves as fast as it comes in / The black turns white  
    **Answer:** Heat leaves as fast as it comes in. *Why:* The level stops when water leaves as fast as it enters. A tumbler's temperature stops when heat leaves as fast as sunlight brings it in.
 2. (fill) Warm water is a little ____ than the same amount of cold water, so it rises.  
    **Answer:** ['lighter']. *Why:* Warm water spreads out a little, so a litre of it weighs slightly less than a litre of cold water.
 3. (truefalse) With its tank lower than its tubes, a heater would still move warm water up with no pump.  
    **Answer:** False. *Why:* False. Warm water rises, so it needs the tank above the tubes. A tank lower down would have nothing to push the warm water to it.
 4. (mcq) You lift the lid of a hot box for ten seconds and the temperature drops at once. What left?  
-   Options: Warm air / Light / Black paper / Foil  
+   Options: Light / Black paper / Warm air / Foil  
    **Answer:** Warm air. *Why:* The warm air carried its heat away. This is why the cover's main job is holding the warm air in.
 5. (order) Put the journey of the water in a solar water heater in order, first to last.  
    **Answer:** ['Black tubes absorb light and warm the water', 'Warm water, now lighter, rises into the tank', 'Cold water from the tank sinks down into the tubes', 'The wrapped tank keeps the water hot until morning']. *Why:* The Sun warms the tube water, and the warm water rises into the tank. Cold water takes its place, and the wrapped tank stores the heat.
@@ -788,7 +788,7 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
 9. (count) A box has a clear cover of 0.1 square metre. About how many watts of noon sunlight fall on it?  
    **Answer:** 100. *Why:* 0.1 × 1,000 = 100 watts. A small catching area catches few watts.
 10. (mcq) A solar street lamp lights up at night. Where does the night's energy come from?  
-   Options: The day's sunlight, stored in a battery / Moonlight / The lamp's own heat / The air  
+   Options: Moonlight / The lamp's own heat / The air / The day's sunlight, stored in a battery  
    **Answer:** The day's sunlight, stored in a battery. *Why:* The panel works by day and fills a battery. The battery lights the lamp after dark.
 11. (truefalse) Solar cells work in space, where there is no air.  
    **Answer:** True. *Why:* True. Sunlight crosses empty space, and a cell needs only light. Vanguard 1 ran on solar cells in 1958.
@@ -797,7 +797,7 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
 13. (perspective) Should big solar parks be built on desert grazing land?  
    **Answer:** Answers vary. A strong answer asks who uses the land, how many birds live there and whether roofs could do the job instead.. *Why:* No single view is wrong. Each describes a real cost or a real gain.
 14. (mcq) A solar cell is dark blue or black. What does the colour tell you?  
-   Options: It absorbs light and reflects little / It makes heat / It stores electricity / It needs shade  
+   Options: It makes heat / It stores electricity / It absorbs light and reflects little / It needs shade  
    **Answer:** It absorbs light and reflects little. *Why:* A dark surface absorbs most light. A solar cell needs to absorb light so photons can free its electrons.
 15. (write) Which would suit a school kitchen better, a dish cooker or a box cooker? Which would suit one family? Say why.  
    **Answer:** A strong answer says a dish cooker gets very hot and cooks large amounts quickly but needs turning. A box cooker is cheap, needs less turning and suits one family's dal and rice. Either answer is fine if the reason is clear.. *Why:* The best design depends on how many people eat, when they eat and what they cook.
@@ -805,21 +805,21 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
    **Answer:** The solar cell. It turns light straight into electricity. The others use the Sun's heat.. *Why:* A cell needs no heating step. In fact, it works better when it stays cool.
 ### Where the energy goes, and what science cannot yet say (challenge) (challenge, 16 questions)
 1. (mcq) A panel turns 20 of every 100 parts of sunlight into electricity. Where do most of the other 80 parts go?  
-   Options: Mostly into heat in the panel, and some is reflected / They vanish / They wait for the night / They become more electrons  
+   Options: They vanish / Mostly into heat in the panel, and some is reflected / They wait for the night / They become more electrons  
    **Answer:** Mostly into heat in the panel, and some is reflected. *Why:* Energy is not lost. It turns into heat, or the light bounces away. Thinking the rest vanishes forgets that the total stays the same.
 2. (truefalse) However good its lid and walls, a box in steady sunshine keeps heating its water for ever.  
    **Answer:** False. *Why:* False. No lid or wall is perfect. The hotter the water gets, the faster heat leaves it, until the heat leaving equals the heat arriving. Then the temperature levels off.
 3. (fill) A tumbler gets hotter while heat comes in ____ than it leaves.  
    **Answer:** ['faster']. *Why:* When heat in is bigger than heat out, the temperature rises. When they are equal, it stays the same.
 4. (mcq) Which sentence is the most accurate?  
-   Options: The cooker holds the Sun's heat and slows its leaving / The cooker makes heat / The cooker makes the Sun hotter / The foil creates light  
+   Options: The cooker makes heat / The cooker makes the Sun hotter / The cooker holds the Sun's heat and slows its leaving / The foil creates light  
    **Answer:** The cooker holds the Sun's heat and slows its leaving. *Why:* A cooker adds no energy. It lets sunlight in and slows the heat's leaving, so the heat builds up.
 5. (write) Feynman wrote that physics today has no knowledge of what energy is. Yet engineers use energy sums. How can both be true?  
    **Answer:** Energy is a number that physicists work out for light, heat and movement, and the total stays the same. The sums predict what happens and work, even though nobody can say what energy finally is. A strong answer gives an example of a sum that works.. *Why:* Science can use an idea well and still not know its deepest meaning. Saying so is honest.
 6. (order) Put these in order from the least to the most noon sunlight falling on them.  
    **Answer:** ['Half a newspaper, 0.5 square metre', 'A terrace square, 1 square metre', 'A rooftop panel, 2 square metres', 'Bhadla Solar Park, 56 square kilometres']. *Why:* Watts grow with the area. They are 500, 1,000 and 2,000 for the first three, and tens of crores for the park.
 7. (mcq) Without gases in the air, Earth's average would be about 18 degrees below zero. What does this share with the Sun Box?  
-   Options: Both slow the leaving of heat / Both make heat / Both have glass / Both use foil  
+   Options: Both make heat / Both have glass / Both slow the leaving of heat / Both use foil  
    **Answer:** Both slow the leaving of heat. *Why:* Gases such as water vapour and carbon dioxide absorb some of the infrared that leaves the Earth, and so slow its leaving. The box does the same with its cover.
 8. (draw) Draw both tumblers' temperatures in the Sun Box test, start to finish. Show where each line levels off.  
    **Answer:** Both lines start at the same temperature. The open tumbler's line rises a little and flattens early at a lower temperature. The box tumbler's line rises more and flattens later at a higher one.. *Why:* Both lines flatten when the heat leaving equals the heat coming in. The box's line flattens higher because its heat leaves more slowly.
@@ -828,7 +828,7 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
 10. (count) A panel gives 400 watts. Heat cuts its output by 15 of every 100. About how many watts does it give then?  
    **Answer:** 340. *Why:* 15 of every 100 of 400 is 60. 400 − 60 = 340 watts.
 11. (mcq) A family cooks at 8 in the evening. Their cooker works at noon. Which change helps most?  
-   Options: Keep the cooked food hot in a packed, insulated container / Paint the box white / Take off the lid / Use a smaller mirror  
+   Options: Paint the box white / Take off the lid / Use a smaller mirror / Keep the cooked food hot in a packed, insulated container  
    **Answer:** Keep the cooked food hot in a packed, insulated container. *Why:* Packed straw or cloth slows the heat's leaving for hours. The other changes bring less light in or let heat out.
 12. (write) Write one question about sunlight or energy that nobody can answer yet. Say how someone might start to find out.  
    **Answer:** Any real open question, such as what energy is, or how the Sun's corona is hotter than its surface. A strong answer names a first step, such as a measurement or a test.. *Why:* A good question can be tested or compared, even if nobody knows the answer yet.
@@ -851,40 +851,40 @@ Arokiamary considered this while she ate. 'We decide how long it stays,' she sai
    Options: 200 / 1,000 / 2,000 / 20,000  
    **Answer:** 2,000. *Why:* 1,000 watts fall on each square metre, and the panel covers 2, so 2 × 1,000 = 2,000. Choosing 1,000 counts one square metre only. Multiply by the area.
 2. (mcq) A black scooter seat is too hot to sit on, though nothing touched it. What made it hot?  
-   Options: Sunlight that the seat absorbed turned into heat / The seat made its own heat / Hot air from under the seat rose into it  
+   Options: The seat made its own heat / Sunlight that the seat absorbed turned into heat / Hot air from under the seat rose into it  
    **Answer:** Sunlight that the seat absorbed turned into heat. *Why:* Light that a dark surface absorbs turns into heat in that surface. The seat has no flame or wire and makes no energy of its own.
 3. (mcq) A friend colours the inside of a box cooker white. What happens to the heat inside?  
-   Options: It rises, because white is bright / It is lower, because white sends light away / It stays the same  
+   Options: It rises, because white is bright / It stays the same / It is lower, because white sends light away  
    **Answer:** It is lower, because white sends light away. *Why:* White reflects much of the light, so less is absorbed and less turns into heat. Black is the colour that absorbs.
 4. (mcq) Which part of a box cooker mostly stops warm air from blowing away?  
    Options: The foil flap / The black lining / The clear cover / The box's shadow  
    **Answer:** The clear cover. *Why:* The clear cover lets light in and holds the warm air in. The foil flap sends more light in, and the black lining absorbs light.
 5. (mcq) In the Sun Box test, the box adds no heat. Why is its water hotter?  
-   Options: The box makes extra heat / Heat leaves the water in the box more slowly / More air reaches the box water / The foil adds heat  
+   Options: The box makes extra heat / More air reaches the box water / Heat leaves the water in the box more slowly / The foil adds heat  
    **Answer:** Heat leaves the water in the box more slowly. *Why:* The box slows the heat's leaving. Both tumblers get the same sunlight, but the box tumbler loses heat more slowly. Foil sends light in and makes no heat.
 6. (mcq) A black tumbler in open sun stops at 45 degrees Celsius while the Sun still shines. Why?  
-   Options: Sunlight has stopped arriving / Heat leaves as fast as sunlight brings it in / Black stops absorbing when warm / The water is full of heat  
+   Options: Sunlight has stopped arriving / Black stops absorbing when warm / Heat leaves as fast as sunlight brings it in / The water is full of heat  
    **Answer:** Heat leaves as fast as sunlight brings it in. *Why:* As the tumbler warms, it loses heat faster. At 45 degrees the heat leaving equals the heat arriving, so the temperature stays steady.
 7. (mcq) You want to test only the clear cover. Which test is fair?  
-   Options: Two matching boxes side by side, one with a cover and one without / One box with a cover on Monday and without on Tuesday / A large box with a cover against a small box without  
+   Options: One box with a cover on Monday and without on Tuesday / Two matching boxes side by side, one with a cover and one without / A large box with a cover against a small box without  
    **Answer:** Two matching boxes side by side, one with a cover and one without. *Why:* A fair test changes one thing and keeps the Sun the same. Different days or different boxes change more than one thing.
 8. (mcq) Why is the tank of a solar water heater above its tubes?  
    Options: Warmed water rises, so it flows up into the tank / A heavy tank needs to be high / Warm water is heavier and sinks into the tank / The Sun is higher up  
    **Answer:** Warmed water rises, so it flows up into the tank. *Why:* Warm water is a little lighter, so cold water pushes it up and it moves into the tank with no pump. Warm water sinking is the wrong way round.
 9. (mcq) Many solar heater tubes have two glass walls with no air between them. What does this do?  
-   Options: Slows heat leaking out, like a flask / Lets in more light / Makes the water flow faster / Keeps the tubes cool  
+   Options: Lets in more light / Makes the water flow faster / Keeps the tubes cool / Slows heat leaking out, like a flask  
    **Answer:** Slows heat leaking out, like a flask. *Why:* With no air between the walls, very little heat can pass through. The water stays hot. The tubes are made to hold heat, not to cool.
 10. (mcq) A rooftop panel gives less electricity on a hot afternoon than on a cold clear day. Why?  
-   Options: Hot silicon pushes its electrons less strongly / A hot day has less sunlight / Cold air has more photons / Panels need heat to start  
+   Options: A hot day has less sunlight / Hot silicon pushes its electrons less strongly / Cold air has more photons / Panels need heat to start  
    **Answer:** Hot silicon pushes its electrons less strongly. *Why:* A solar cell uses light, not heat. Warm silicon gives a smaller push to the freed electrons, so the panel gives less electricity.
 11. (mcq) Which statement is true?  
-   Options: A solar cell heats water to make electricity / A solar cooker turns light into electricity / A solar cell turns light into electricity without heating anything first / Both a cooker and a cell need a mirror  
+   Options: A solar cell heats water to make electricity / A solar cooker turns light into electricity / Both a cooker and a cell need a mirror / A solar cell turns light into electricity without heating anything first  
    **Answer:** A solar cell turns light into electricity without heating anything first. *Why:* A solar cell frees electrons with light and needs no heating step. A cooker turns light into heat. Neither needs a mirror, though a flap helps a cooker.
 12. (mcq) A solar cooker is slow and fails in the monsoon. What is the fairest conclusion?  
    Options: Solar cookers are useless / They suit some kitchens and need better design for others / Families who stopped using them were wrong / Only the mirror matters  
    **Answer:** They suit some kitchens and need better design for others. *Why:* People disagree about solar cookers. They fit some families well and others poorly, so the honest answer names who they suit and what to improve.
 13. (mcq) Which question about energy has no agreed answer yet?  
-   Options: How many watts fall on a square metre at noon? / What energy finally is / Whether sunlight crosses empty space / Whether black paper absorbs light  
+   Options: How many watts fall on a square metre at noon? / Whether sunlight crosses empty space / Whether black paper absorbs light / What energy finally is  
    **Answer:** What energy finally is. *Why:* Physicists calculate energy and trust the sums. They have no final answer to what it is. The other questions have been measured.
 
 ## Applications

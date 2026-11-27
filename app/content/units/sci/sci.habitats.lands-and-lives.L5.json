@@ -1055,11 +1055,11 @@
       "t": "mcq",
       "q": "Why are all three paper trunks the same height and width?",
       "options": [
-       "So that only the buttresses differ",
        "So that they use less paper",
+       "So that only the buttresses differ",
        "So that they look like one family"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes one thing only. With the same trunk, any difference in the results must come from the buttresses. If you chose 'so that they use less paper', remember that saving paper does not change which tree falls first."
      },
      "parent": "Tape each triangle on both of its sides, so that it stands square to the trunk. If a trunk leans, trim its bottom edge flat with scissors.",
@@ -1327,11 +1327,11 @@
       "t": "mcq",
       "q": "A short, wide tower stood in the wind, and a tall, thin tower won in still air. What does this show?",
       "options": [
-       "The best design depends on the land",
        "Short towers are always better",
-       "Tall towers are always better"
+       "Tall towers are always better",
+       "The best design depends on the land"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tower was right for the land that tested it and wrong for the other. If you chose 'short towers are always better', look again at the Still Land score, where the tall tower won."
      },
      "parent": "In most homes the Still Land towers grow taller and thinner, to about a metre. The Wind Land towers stay under half a metre and grow wide feet. After the swap, the tall tower falls in the wind and scores 0. The wide tower stands in still air but scores less than the tall one. Write down what you really found. The reason: each village improved its tower using only its own land's test. With the same paper, height and a wide base compete, so each land pushed the design a different way. Real knowledge grows the same way, over hundreds of years. Pokkali rice was chosen by tidal fields, kunds by desert storms, and stilt houses by floods. Moved to another land, each may fail, as the tall tower did.",
@@ -1506,11 +1506,11 @@
       "t": "mcq",
       "q": "Why do three seeds sit on the high bank away from the strip?",
       "options": [
-       "To compare with the seeds on the strip",
        "Because the strip is too narrow",
+       "To compare with the seeds on the strip",
        "To have spare seeds to eat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The seeds away from the strip show what roots do with no guide. Without them you could not say that the strip made the difference. If you chose 'because the strip is too narrow', notice that the strip is 3 centimetres wide and has room."
      },
      "parent": "The cotton and the tissue should be wet through but not dripping. The two spare seeds replace any that do not swell. The closed lid keeps the air inside damp, so that the root tips do not dry out.",
@@ -1859,11 +1859,11 @@
       "t": "mcq",
       "q": "Why is the land behind the Western Ghats drier than the coast?",
       "options": [
-       "The air drops its rain while climbing the hills",
        "The far side is farther from the Sun",
+       "The air drops its rain while climbing the hills",
        "The hills block the Sun's heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Wet air cools as it climbs, and cool air gives up water as rain. Little is left for the far side, which is called the rain shadow. If you chose an answer about the Sun, remember that both sides get the same sunshine."
      },
      "parent": "Air rising up a slope spreads out and cools, as the breath cooled on the steel. The vapour turns into drops and falls on the sea side. The air that sinks on the far side has less water and warms up again. That dry side is the rain shadow. The same thing on a larger scale makes Ladakh a desert behind the Himalaya.",
@@ -2569,12 +2569,12 @@
      "t": "mcq",
      "p": "What is an ecological region?",
      "opts": [
-      "A large area with its own climate",
       "A state with its own language",
+      "A large area with its own climate",
       "Any place that has a forest",
       "The capital city of a country"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An ecological region is a large area with its own climate, landforms, plants and animals. Its edges follow rain and height, and state borders do not matter to it.",
      "outcome": 0
     },
@@ -2582,12 +2582,12 @@
      "t": "mcq",
      "p": "Which four things decide most of what can live in a region?",
      "opts": [
-      "Sun, Moon, stars and clouds",
       "Rain, height, salt and soil",
+      "Sun, Moon, stars and clouds",
       "Roads, towns, shops and schools",
       "Colour, shape, size and smell"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Rain decides between forest and desert. Height decides how cold the air is. Salt and soil decide which plants can grow in the ground.",
      "outcome": 0
     },
@@ -2713,12 +2713,12 @@
      "t": "mcq",
      "p": "How do buttress roots help a tall rainforest tree?",
      "opts": [
+      "They make her base wider",
       "They reach water deep down",
       "They frighten animals away",
-      "They make her base wider",
       "They store rainwater"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A wide base means the tree must lean much farther before she falls. Her other roots are shallow, because the soil's plant food is near the top.",
      "outcome": 3
     },
@@ -2870,12 +2870,12 @@
      "t": "mcq",
      "p": "Why do islands and high hilltops hold many endemic living beings?",
      "opts": [
-      "They are cut off from other places",
       "They get the most rain",
+      "They are cut off from other places",
       "They have the most people",
       "They are closest to the Sun"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Living beings who are cut off for a very long time change in their own way. Sea cuts off an island, and hot valleys cut off a cold hilltop.",
      "outcome": 4
     },
@@ -2884,11 +2884,11 @@
      "p": "Why does a living root bridge suit Meghalaya better than a wooden one?",
      "opts": [
       "Wooden bridges are too heavy",
-      "Cut wood rots fast in heavy rain",
       "Wood is hard to find there",
-      "Living roots cross in one month"
+      "Living roots cross in one month",
+      "Cut wood rots fast in heavy rain"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The Khasi hills get about 12 metres of rain a year. Dead wood rots in a few years, and a living root grows thicker each year.",
      "outcome": 5
     },
@@ -2896,12 +2896,12 @@
      "t": "mcq",
      "p": "The sangai deer lives on one lake only. What follows for her safety?",
      "opts": [
+      "Harm to that lake harms every sangai",
       "She must be very common",
       "She can move to another lake",
-      "Harm to that lake harms every sangai",
       "She is safe everywhere else"
      ],
-     "a": 2,
+     "a": 0,
      "why": "An endemic being has one home. If the floating mats of Loktak Lake are harmed, there is no second place where sangai live.",
      "outcome": 4
     },
@@ -3247,12 +3247,12 @@
      "t": "mcq",
      "p": "A new rice gave double the grain in tests. What should a coastal farmer ask first?",
      "opts": [
-      "Where was it tested?",
       "What colour is the grain?",
       "Who sells the seed?",
-      "How old is the variety?"
+      "How old is the variety?",
+      "Where was it tested?"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A result is true for the land where the test was done. A field of shallow fresh water does not test a rice for salt or deep floods.",
      "outcome": 6
     },
@@ -3260,12 +3260,12 @@
      "t": "mcq",
      "p": "Bog layers showed grass on the Nilgiris 20,000 years ago. Which idea did this overturn?",
      "opts": [
-      "That bogs are wet",
       "That the grasslands were ruined forest",
+      "That bogs are wet",
       "That the Nilgiris are hills",
       "That grass needs rain"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Foresters had thought the grass was waste land left after people destroyed a forest. The layers showed that the grass was far older than any herd or plantation.",
      "outcome": 7
     },
@@ -3274,11 +3274,11 @@
      "p": "Why is Ladakh both cold and dry?",
      "opts": [
       "It has sandy soil",
-      "It has few trees",
       "It is high, and behind the Himalaya",
+      "It has few trees",
       "It is far from any river"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Height makes the air cold. The Himalaya stop the monsoon, so Ladakh lies in a rain shadow. Leh gets about 4 centimetres of rain a year.",
      "outcome": 2
     },
@@ -3287,11 +3287,11 @@
      "p": "Corals turn white, and may die, when the sea does what?",
      "opts": [
       "Has a very high tide",
+      "Stays too warm for weeks",
       "Has too many fish",
-      "Becomes fresh after rain",
-      "Stays too warm for weeks"
+      "Becomes fresh after rain"
      ],
-     "a": 3,
+     "a": 1,
      "why": "In water that stays too warm, corals push out the tiny algae who live inside them and share food. Without the algae they are white, and they slowly starve.",
      "outcome": 3
     },
@@ -3425,12 +3425,12 @@
    "t": "mcq",
    "p": "Which of these is an ecological region?",
    "opts": [
-    "The Thar desert",
     "The city of Chennai",
     "A cricket ground",
+    "The Thar desert",
     "A school"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An ecological region is a large area with its own climate, plants and animals. A city or a school is a place people built inside a region.",
    "outcome": 0
   },
@@ -3439,11 +3439,11 @@
    "p": "Two towns get the same sea wind. One lies behind a range of hills. Which town gets less rain?",
    "opts": [
     "It changes every day",
-    "The town behind the hills",
     "The town on the sea side",
-    "Both get the same"
+    "Both get the same",
+    "The town behind the hills"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The air drops most of its rain while climbing the side facing the wind. The town behind the hills is in the rain shadow.",
    "outcome": 2
   },
@@ -3465,11 +3465,11 @@
    "p": "What do a mangrove's breathing roots take in?",
    "opts": [
     "Salt",
+    "Air",
     "Sunlight",
-    "Mud",
-    "Air"
+    "Mud"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Waterlogged mud has almost no air, and roots need oxygen. The breathing roots take in air at low tide.",
    "outcome": 3
   },
@@ -3477,12 +3477,12 @@
    "t": "mcq",
    "p": "What is a coral reef built from?",
    "opts": [
-    "The stony cups of tiny animals",
     "Sand pressed hard by waves",
+    "The stony cups of tiny animals",
     "Dead seaweed",
     "Lava from a volcano"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each coral animal builds a hard cup of lime. Over thousands of years the cups pile up into a reef.",
    "outcome": 3
   },
@@ -3504,11 +3504,11 @@
    "p": "Which place lies farthest south in India?",
    "opts": [
     "Kochi",
-    "Chennai",
     "Indira Point",
+    "Chennai",
     "Kanyakumari"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Indira Point is on Great Nicobar Island. Kanyakumari is the southern tip of the mainland only.",
    "outcome": 1
   },
@@ -3518,10 +3518,10 @@
    "opts": [
     "One person invents it in a year",
     "People copy it from a book",
-    "It appears by chance, untested",
-    "Many generations keep what works"
+    "Many generations keep what works",
+    "It appears by chance, untested"
    ],
-   "a": 3,
+   "a": 2,
    "why": "People try things, keep what works, warn their children about what failed, and change a little in each generation.",
    "outcome": 5
   },
@@ -3529,12 +3529,12 @@
    "t": "mcq",
    "p": "A design wins in one land and fails in another. What is the most likely reason?",
    "opts": [
-    "The two lands test it differently",
     "The builders were careless",
+    "The two lands test it differently",
     "The design was never good",
     "The materials were different"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the Two Lands Test the tall tower won in still air and fell in wind. A design fits the land that tested it.",
    "outcome": 6,
    "how": "e2"
@@ -3544,11 +3544,11 @@
    "p": "A village behind trees had less damage than a village on open shore. What else must you check?",
    "opts": [
     "The day of the week",
-    "Their distance and height from the sea",
     "The names of the two villages",
+    "Their distance and height from the sea",
     "The colour of the houses"
    ],
-   "a": 1,
+   "a": 2,
    "why": "If the safer village was also farther away or higher, the trees may not be the reason. A fair comparison changes one thing only.",
    "outcome": 7
   },
@@ -3569,12 +3569,12 @@
    "t": "mcq",
    "p": "A forest gets about 40 centimetres of rain a year. Its trees have thorns and small leaves. Which kind of forest is it?",
    "opts": [
+    "Thorn forest",
     "Evergreen forest",
     "Moist deciduous forest",
-    "Thorn forest",
     "Mangrove forest"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Thorn forest grows where less than 75 centimetres of rain falls. Evergreen forest needs about 200 centimetres or more, and mangroves need salty tidal mud.",
    "outcome": 0
   },
@@ -3582,12 +3582,12 @@
    "t": "mcq",
    "p": "Why do the trees of a deciduous forest drop their leaves in the dry months?",
    "opts": [
-    "To save water when little rain falls",
     "Because the sea air is too salty",
     "To make room for birds' nests",
-    "Because the Sun burns the leaves in winter"
+    "Because the Sun burns the leaves in winter",
+    "To save water when little rain falls"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Leaves lose water into the air. With no leaves, a tree loses very little, and she lives through the dry months. The new leaves come with the rain.",
    "outcome": 0
   },
@@ -3595,12 +3595,12 @@
    "t": "mcq",
    "p": "Lac, used to make bangles, is made by what?",
    "opts": [
-    "Tiny insects living on tree twigs",
     "Fishers on the coast",
     "The roots of mangrove trees",
-    "A mine under the forest"
+    "A mine under the forest",
+    "Tiny insects living on tree twigs"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Lac insects make the sticky resin on twigs. So the trees must stay standing for the lac to be gathered. It is a gift of the forest, and not a mineral.",
    "outcome": 5
   },
@@ -3608,12 +3608,12 @@
    "t": "mcq",
    "p": "Which animal is best known to be protected by Kaziranga National Park in Assam?",
    "opts": [
-    "The one-horned rhinoceros",
     "The Asiatic lion",
+    "The one-horned rhinoceros",
     "The snow leopard",
     "The Nilgiri tahr"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Kaziranga guards the one-horned rhinoceros. The Asiatic lion lives at Gir in Gujarat, the snow leopard in the high Himalaya, and the Nilgiri tahr in the Western Ghats.",
    "outcome": 1
   },
@@ -3621,12 +3621,12 @@
    "t": "mcq",
    "p": "Which of these would you find on the coast at Puri, and not in the Thar?",
    "opts": [
-    "A fishing boat pulled up on the sand",
     "A kund that catches rain",
+    "A fishing boat pulled up on the sand",
     "A khejri tree",
     "A camel herd"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Puri has the sea, so families fish from boats. The kund, the khejri tree and the camel belong to the dry Thar, where families save every drop of rain.",
    "outcome": 1
   },
@@ -3647,12 +3647,12 @@
    "t": "mcq",
    "p": "A friend spent her holidays on a camel in the sand dunes near Jaisalmer. Which of India's ten ecological regions is that?",
    "opts": [
-    "The Desert",
     "The Himalaya",
+    "The Desert",
     "The Coasts",
     "The Western Ghats"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Jaisalmer lies in the Thar, which belongs to the Desert region. The Semi-arid region is the dry band around it.",
    "outcome": 1
   },
@@ -3660,12 +3660,12 @@
    "t": "mcq",
    "p": "Which of these rivers begins in the Western Ghats?",
    "opts": [
-    "The Kaveri",
     "The Ganga",
     "The Brahmaputra",
+    "The Kaveri",
     "The Indus"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Kaveri, the Krishna and the Godavari begin in the Ghats. The Ganga begins in the Himalaya, and the Brahmaputra and the Indus begin high in Tibet.",
    "outcome": 1
   },
@@ -3673,12 +3673,12 @@
    "t": "mcq",
    "p": "The sea pulls far back from the beach, and the fish are lying on the sand. What should you do?",
    "opts": [
-    "Run to high ground at once",
     "Walk out to pick up the fish",
     "Wait on the beach to see what happens",
+    "Run to high ground at once",
     "Swim out to look"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A sea that pulls far back can be the first sign of a tsunami. The big waves come back within minutes. Running to high ground is what saves lives.",
    "outcome": 7
   },
@@ -3686,12 +3686,12 @@
    "t": "mcq",
    "p": "Which part of India's natural heritage can never be made again once it has been used up?",
    "opts": [
-    "Coal and iron in the ground",
     "Bamboo in a grove",
+    "Coal and iron in the ground",
     "Lac on the twigs",
     "New leaves on sal trees"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Coal and iron took millions of years to form. Bamboo, lac and leaves grow again within a year or a few years.",
    "outcome": 5
   }

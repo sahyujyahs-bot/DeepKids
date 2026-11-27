@@ -514,7 +514,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 4. (sort) Sort each liquid by whether it is an acid, neutral or a base.  
    **Answer:** lemon juice → Acid; pure water → Neutral; soapy water → Base; vinegar → Acid; cooking soda water → Base; milk of magnesia → Base. *Why:* Lemon juice and vinegar are below 7, so they are acids. Soapy water, cooking soda water and milk of magnesia are above 7, so they are bases. Pure water is at 7.
 5. (mcq) On the pH scale, each step down means:  
-   Options: ten times as many hydrogen ions / one more hydrogen ion / the same number of hydrogen ions but a sourer taste  
+   Options: one more hydrogen ion / the same number of hydrogen ions but a sourer taste / ten times as many hydrogen ions  
    **Answer:** ten times as many hydrogen ions. *Why:* The pH scale goes up and down in tenfold steps. A drop of one number means ten times as many hydrogen ions. Adding one more ion each time would be like the equal steps on a ruler, and the pH scale does not work like a ruler.
 6. (count) Vinegar has a pH of 3 and a drink has a pH of 5. How many times as many hydrogen ions does the vinegar have?  
    **Answer:** 100. *Why:* From pH 5 down to pH 3 is two steps. Each step is ten times, so 10 times 10 is 100. The vinegar has 100 times as many hydrogen ions.
@@ -524,7 +524,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 8. (match) Match each place in the body to its usual pH.  
    **Answer:** Empty stomach → 1 to 2; Skin surface → about 5; Saliva → 6 to 7; Blood → 7.35 to 7.45. *Why:* Each part of the body is held at the pH its job needs. The stomach is strongly acidic, the skin is a little acidic, saliva is nearly neutral and blood is held in a very narrow range.
 9. (mcq) What does an antacid do?  
-   Options: It uses up some of the acid with a base / It stops the stomach making acid for a day / It adds acid to wash the food pipe  
+   Options: It stops the stomach making acid for a day / It uses up some of the acid with a base / It adds acid to wash the food pipe  
    **Answer:** It uses up some of the acid with a base. *Why:* An antacid is a base. It reacts with the acid already in the stomach and uses it up. It does not stop the stomach making more, which is why the relief wears off.
 10. (truefalse) Heartburn happens in the heart.  
    **Answer:** False. *Why:* False. Heartburn happens in the food pipe, when stomach acid splashes up and burns it. The name comes from where it feels, in the chest near the heart.
@@ -542,10 +542,10 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
    **Answer:** ['A big meal fills the stomach', 'The ring of muscle at the top of the stomach opens when it should not', 'Acid splashes up into the food pipe', 'The food pipe has no mucus shield, so it burns', 'An antacid uses up some of the acid and the burning fades']. *Why:* The acid must splash up before it can burn. The antacid comes last, because it works on acid that is already there.
 ### Ten times, mucus and the bacterium (stretch) (stretch, 17 questions)
 1. (mcq) One drink reads pH 4 and another reads pH 6. Which statement is right?  
-   Options: The pH 4 drink has 100 times as many hydrogen ions / The pH 6 drink has 100 times as many hydrogen ions / They differ by only 2 hydrogen ions  
+   Options: The pH 6 drink has 100 times as many hydrogen ions / They differ by only 2 hydrogen ions / The pH 4 drink has 100 times as many hydrogen ions  
    **Answer:** The pH 4 drink has 100 times as many hydrogen ions. *Why:* A lower pH means more hydrogen ions, and two steps down is ten times ten, which is 100. The numbers differ by 2, but the amounts differ by 100 times.
 2. (mcq) Why does pepsin stop working in the small intestine?  
-   Options: The pH there is near neutral, and pepsin works best in strong acid / The small intestine has no protein / Pepsin is washed away by water  
+   Options: The small intestine has no protein / The pH there is near neutral, and pepsin works best in strong acid / Pepsin is washed away by water  
    **Answer:** The pH there is near neutral, and pepsin works best in strong acid. *Why:* Each enzyme works best at its own pH. Pepsin works best at pH 2, and it stops near pH 7. The body neutralises the acid with bicarbonate after the stomach, so that the intestine's own enzymes can work.
 3. (truefalse) Past the target colour, adding more antacid powder makes the mixture more acidic.  
    **Answer:** False. *Why:* False. Once the acid is used up, extra base makes the mixture basic. In the Antacid Showdown, the extra scoops pushed the colour past purple towards blue.
@@ -556,7 +556,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 6. (count) A drink has a pH of 2 and water has a pH of 6. How many times as many hydrogen ions does the drink have?  
    **Answer:** 10000. *Why:* From pH 6 down to pH 2 is four steps. 10 times 10 times 10 times 10 is 10,000. The drink has 10,000 times as many.
 7. (mcq) Here are the results of an antacid test. Which powder did not use up the acid, and how can you tell?  
-   Options: Salt, because it reached the limit of 8 scoops without matching the target / Cooking soda, because it needed the fewest scoops / Eggshell, because it needed the same as cooking soda  
+   Options: Cooking soda, because it needed the fewest scoops / Eggshell, because it needed the same as cooking soda / Salt, because it reached the limit of 8 scoops without matching the target  
    **Answer:** Salt, because it reached the limit of 8 scoops without matching the target. *Why:* A powder that reaches the limit without matching the target did not use up the acid. Salt is not a base, so this is what we expect. The other powders matched in 3 or 4 scoops.
 8. (sort) Sort each place by how acidic it usually is.  
    **Answer:** empty stomach → Strong acid; blood → Near neutral; skin surface → A little acid; saliva → Near neutral; tea garden soil → A little acid. *Why:* The stomach is strongly acidic. Blood and saliva sit near neutral. Skin and tea soil are a little acidic, at about pH 5.
@@ -573,7 +573,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 14. (draw) Draw a dye ladder of five cups that shows how the colour fades when every step is ten times weaker.  
    **Answer:** Five cups in a row, each with a colour much paler than the one before, with a label such as 1 in 10, 1 in 100, 1 in 1,000 and 1 in 10,000 under them.. *Why:* A strong drawing shows the colour getting very pale quickly, and labels each cup with how many times weaker it is.
 15. (mcq) Why does Helicobacter pylori make ammonia?  
-   Options: To make a base around herself that protects her from acid / To eat the stomach wall / To make the stomach more acidic  
+   Options: To eat the stomach wall / To make the stomach more acidic / To make a base around herself that protects her from acid  
    **Answer:** To make a base around herself that protects her from acid. *Why:* Ammonia is a base. The bacterium breaks down urea into ammonia, and the ammonia makes a little cloud of neutral liquid around her. It protects her from the acid.
 16. (truefalse) A bacterium can live in the stomach even though the stomach holds a strong acid.  
    **Answer:** True. *Why:* True. Helicobacter pylori lives in the mucus and makes ammonia, a base, around herself. Other microbes grow in acid too, such as the bacteria in curd.
@@ -600,7 +600,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 9. (draw) Draw the stomach as an acid room, the small intestine as a near-neutral room and the bicarbonate that comes between them.  
    **Answer:** A drawing with a strongly coloured stomach, a pale intestine, and an arrow from the pancreas carrying bicarbonate into the start of the intestine.. *Why:* A strong drawing shows the pancreas adding bicarbonate between the two rooms, so that the pH changes from about 2 to about 7.
 10. (mcq) Why should cabbage water not be used alone to decide if a liquid is safe to drink?  
-   Options: The colour is only a rough guide and says nothing about whether a liquid is harmful / Cabbage water is always purple / Cabbage water only works on fruit  
+   Options: Cabbage water is always purple / Cabbage water only works on fruit / The colour is only a rough guide and says nothing about whether a liquid is harmful  
    **Answer:** The colour is only a rough guide and says nothing about whether a liquid is harmful. *Why:* An indicator tells only about the pH, and only roughly. Many harmful liquids have a pH near 7. Never taste or drink something because of its colour.
 11. (sort) Sort each statement by how sure scientists are.  
    **Answer:** Stomach acid is hydrochloric acid → Settled; Strong stomach acid evolved because our ancestors ate old meat → An idea; Why most people with Helicobacter pylori never get an ulcer → Open; Blood is held between pH 7.35 and 7.45 → Settled. *Why:* What the stomach acid is and what blood pH is have been measured many times. The old-meat idea was suggested in 2015 and is not settled. Why most carriers never get an ulcer is still being studied.
@@ -622,7 +622,7 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
 
 ## Quiz
 1. (mcq) What does pH measure?  
-   Options: How many free hydrogen ions a watery liquid holds / How hot a liquid is / How thick a liquid is  
+   Options: How hot a liquid is / How many free hydrogen ions a watery liquid holds / How thick a liquid is  
    **Answer:** How many free hydrogen ions a watery liquid holds. *Why:* pH counts the free hydrogen ions in a watery liquid. A low pH means many, and a high pH means few. It does not measure heat or thickness.
 2. (mcq) A liquid has a pH of 9. What is it?  
    Options: A weak base / A strong acid / Neutral  
@@ -631,25 +631,25 @@ Vimala tore him a strip. That evening, she dipped one into the glass of buttermi
    Options: A has 10 times as many hydrogen ions as B / A has 3 times as many as B / A and B are almost the same  
    **Answer:** A has 10 times as many hydrogen ions as B. *Why:* The scale goes in tenfold steps. A is one step lower, so it has ten times as many hydrogen ions. Seeing them as almost the same is a common mistake.
 4. (mcq) Which of these gives the most exact reading of pH?  
-   Options: A pH meter / Cabbage water / Tasting the liquid  
+   Options: Cabbage water / A pH meter / Tasting the liquid  
    **Answer:** A pH meter. *Why:* A pH meter reads to a hundredth of a step. Cabbage water gives only a rough colour. Tasting is never safe, because many strong acids and bases burn.
 5. (mcq) The middle of the stomach is at about pH 2, but the layer touching the wall is near pH 7. Why?  
    Options: The mucus holds bicarbonate, which uses up acid before it reaches the wall / The wall makes more acid than the middle / The food neutralises the wall  
    **Answer:** The mucus holds bicarbonate, which uses up acid before it reaches the wall. *Why:* Mucus traps bicarbonate, a base. It neutralises acid as it creeps through, so the wall stays close to neutral.
 6. (mcq) What is heartburn?  
-   Options: Acid splashing up into the food pipe, which has no mucus shield / A pain in the heart muscle / Food that is too hot  
+   Options: A pain in the heart muscle / Food that is too hot / Acid splashing up into the food pipe, which has no mucus shield  
    **Answer:** Acid splashing up into the food pipe, which has no mucus shield. *Why:* Heartburn happens in the food pipe, not the heart. The food pipe has no mucus shield, so stomach acid burns it.
 7. (mcq) Which of these is NOT an antacid?  
-   Options: Table salt / Cooking soda / Magnesium hydroxide  
+   Options: Cooking soda / Table salt / Magnesium hydroxide  
    **Answer:** Table salt. *Why:* An antacid must be a base. Cooking soda and magnesium hydroxide are bases. Table salt is neutral, and it did nothing in the Antacid Showdown.
 8. (mcq) In a fair test of antacids, what must stay the same?  
    Options: The amount of acid, the size of the scoop and the stirring / The kind of powder / The number of scoops  
    **Answer:** The amount of acid, the size of the scoop and the stirring. *Why:* A fair test changes only one thing, which here is the powder. Everything else stays the same, so that any difference comes from the powder.
 9. (mcq) Blood stays near pH 7.4 while the stomach is at pH 2. What does this show?  
-   Options: Different parts of the body are held at different pH for their jobs / The body made a mistake / Blood is more acidic than the stomach  
+   Options: The body made a mistake / Different parts of the body are held at different pH for their jobs / Blood is more acidic than the stomach  
    **Answer:** Different parts of the body are held at different pH for their jobs. *Why:* Each part of the body needs its own pH. The stomach's acid does a digesting job, and the blood's narrow range keeps cells working.
 10. (mcq) Doctors believed no bacterium could live in stomach acid. Which finding showed they were wrong?  
-   Options: Helicobacter pylori was found living in the stomach, and antibiotics cured ulcers / Antacids cured every ulcer / Taking away spicy food made every ulcer vanish  
+   Options: Antacids cured every ulcer / Taking away spicy food made every ulcer vanish / Helicobacter pylori was found living in the stomach, and antibiotics cured ulcers  
    **Answer:** Helicobacter pylori was found living in the stomach, and antibiotics cured ulcers. *Why:* A bacterium was found living in the stomach, and killing it with antibiotics cured ulcers for good. Antacids and plain food changes did not.
 11. (truefalse) A change from pH 6 to pH 5 means ten times as many hydrogen ions.  
    **Answer:** True. *Why:* True. One step down the scale is ten times as many hydrogen ions. A small change in the number is a large change in the liquid.

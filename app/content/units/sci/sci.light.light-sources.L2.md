@@ -461,14 +461,14 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
 1. (sort) A grown-up reads out each thing. Does it make its own light, or does it only send on light? Colour the light sources yellow.  
    **Answer:** The Sun → Light source; The Moon → Sends on light; A tube light → Light source; A white wall → Sends on light; A lit diya → Light source; A steel plate → Sends on light. *Why:* The Sun, the tube light and the diya make their own light. The Moon, the wall and the plate only send on light that falls on them.
 2. (mcq) A torch shines on different sheets in the dark, and each sheet bounces light onto a card of pictures. Which sheet will let you see the most pictures?  
-   Options: White paper / Black cloth / Newspaper  
+   Options: Black cloth / White paper / Newspaper  
    **Answer:** White paper. *Why:* White paper sends back most of the light that falls on it. Black cloth takes in most of it, and newspaper is in between.
 3. (draw) Draw the Sun, the Moon and your home at night. Draw arrows to show how the light gets to your window.  
    **Answer:** An arrow from the Sun to the Moon, and an arrow from the Moon to the home.. *Why:* A strong drawing starts the light at the Sun, not at the Moon, and shows the light bouncing off the Moon.
 4. (truefalse) A white kolam on a doorstep makes its own light at dusk.  
    **Answer:** False. *Why:* False. A kolam only sends on light that falls on it from the sky. It is easy to see because white sends back a lot of light.
 5. (mcq) Which of these places would be the darkest?  
-   Options: Inside a shut steel cupboard / Under a thin white sheet / Behind a glass window  
+   Options: Under a thin white sheet / Inside a shut steel cupboard / Behind a glass window  
    **Answer:** Inside a shut steel cupboard. *Why:* No light can get into a shut cupboard, so nothing is lit and it is dark. Light passes through glass and a thin sheet.
 6. (match) Draw a line from each thing to where its light comes from.  
    **Answer:** The Moon → The Sun; A white page lit by a lamp at night → The lamp; A diya → Its own flame. *Why:* The Moon sends on sunlight, and the page sends on lamplight. The diya makes its own light.
@@ -491,7 +491,7 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
 4. (truefalse) If you wait long enough in a room with no light at all, your eyes will get used to it and you will see.  
    **Answer:** False. *Why:* False. Eyes get used to dim light, not to no light. With no light at all, nothing can come from the things to your eyes.
 5. (mcq) On a dark road, why is a person in a white shirt easier to see than a person in a black shirt?  
-   Options: The white shirt sends back more of the light that falls on it / The white shirt makes its own light / The black shirt makes the road darker  
+   Options: The white shirt makes its own light / The black shirt makes the road darker / The white shirt sends back more of the light that falls on it  
    **Answer:** The white shirt sends back more of the light that falls on it. *Why:* White sends back most of the light that falls on it, as the white paper did in the Paper Moon test. Black takes most of it in.
 6. (order) Put the journey of moonlight in order, from start to end.  
    **Answer:** ['It leaves the Sun', 'It reaches the Moon', 'It bounces off the grey rock', 'It lands on your face']. *Why:* Moonlight starts at the Sun, travels to the Moon, bounces off its rock and comes down to us.
@@ -502,13 +502,13 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
 9. (draw) Draw a shut box with a small hole in its side, and a piece of black paper next to it. Colour the hole and the black paper. Make the darker one darker.  
    **Answer:** The hole is coloured darker than the black paper.. *Why:* Black paper sends back a little light. Almost no light comes back out of the hole, so it looks darkest.
 10. (mcq) In the daytime, the Moon looks pale and faint. Why?  
-   Options: The sky around it is bright too / The Moon makes less light in the day / It is a different Moon  
+   Options: The Moon makes less light in the day / It is a different Moon / The sky around it is bright too  
    **Answer:** The sky around it is bright too. *Why:* The Moon reflects the same sunlight all the time. At night the sky around it is black, so it looks bright. In the day the sky is bright too, so the Moon looks pale.
 ### Thinking About Light (challenge) (challenge, 10 questions)
 1. (write) Many people think the Moon gives light because it is so bright at night. What could you look at to show them where its light comes from? Say it, and a grown-up writes it.  
    **Answer:** Look at which side of the Moon is bright: it always faces where the Sun is or where it set. Or show them the Paper Moon test, where the paper went dark when the torch went off.. *Why:* A strong answer names something you can really see or do, not just 'a book says so'.
 2. (mcq) Moon rock is dark grey. It reflects only about one tenth of the sunlight that falls on it. Why can the Moon still light up a terrace?  
-   Options: Sunlight is very, very strong / The Moon is very hot / The Moon stores light in the day  
+   Options: The Moon is very hot / The Moon stores light in the day / Sunlight is very, very strong  
    **Answer:** Sunlight is very, very strong. *Why:* Sunlight is so strong that even one tenth of it, bounced off the Moon, is enough to see by at night.
 3. (perspective) Two friends in Kolkata, Moushumi and Joy, do the Paper Moon test. They ask which sheet bounces light best.  
    **Answer:** Both can be right in different ways. Foil sends light in one direction, so it makes a very bright patch where it points. White paper spreads light everywhere, so it lights the whole card more evenly.. *Why:* A strong answer sees that 'best' depends on what you want: one bright spot, or light spread all round.
@@ -517,7 +517,7 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
 5. (sort) Sort these into 'makes light' and 'only sends light on'.  
    **Answer:** Lightning → Makes light; A cat's eyes shining in a torch beam → Only sends light on; A glow-worm → Makes light; A bicycle reflector → Only sends light on; A star → Makes light. *Why:* Lightning, glow-worms and stars make their own light. A cat's eyes and a bicycle reflector shine only when light falls on them.
 6. (mcq) If the Sun suddenly stopped shining, what would happen to the Moon about eight minutes later?  
-   Options: It would go dark / It would keep shining / It would shine brighter  
+   Options: It would keep shining / It would shine brighter / It would go dark  
    **Answer:** It would go dark. *Why:* Sunlight takes about eight minutes to reach the Moon. After that, no more light would arrive, so the Moon would have nothing to send on.
 7. (draw) Draw a picture that shows darkness. Darkness is no light, so how did you show it? Write one sentence.  
    **Answer:** Any honest drawing, for example a black shut cupboard, with a sentence like: I drew no light reaching inside.. *Why:* A strong answer sees that we draw darkness by leaving out light, or by showing that light is blocked.
@@ -535,34 +535,34 @@ I do not know if she is still here. But as I dug my nest tonight, I looked up th
 
 ## Quiz
 1. (mcq) Which of these is a light source?  
-   Options: A tube light / The Moon / A mirror  
+   Options: The Moon / A mirror / A tube light  
    **Answer:** A tube light. *Why:* A tube light makes its own light. The Moon and a mirror only send on light from somewhere else.
 2. (mcq) Which of these only sends on light and makes none of its own?  
    Options: A white wall / A diya flame / A tube light  
    **Answer:** A white wall. *Why:* A diya and a tube light make their own light. A white wall only sends on light that falls on it.
 3. (mcq) Where does the Moon's light come from?  
-   Options: The Sun / Fire inside the Moon / The stars  
+   Options: Fire inside the Moon / The stars / The Sun  
    **Answer:** The Sun. *Why:* The Moon is a ball of rock. Sunlight bounces off it and comes to us.
 4. (mcq) What is the Moon made of?  
    Options: Grey rock and dust / Hot gas, like the Sun / Ice that glows  
    **Answer:** Grey rock and dust. *Why:* Astronauts brought back Moon rock and dust. They are dark grey and make no light.
 5. (mcq) Which side of the Moon is bright?  
-   Options: The side facing the Sun / The side facing the stars / The top side  
+   Options: The side facing the stars / The top side / The side facing the Sun  
    **Answer:** The side facing the Sun. *Why:* Sunlight falls on the side facing the Sun, so that side is bright. The other side is dark.
 6. (mcq) You shine a torch on white paper in the dark. The paper lights up your drawing. What is the paper like?  
-   Options: The Moon / The Sun / A star  
+   Options: The Sun / A star / The Moon  
    **Answer:** The Moon. *Why:* The paper sends on the torch's light, the way the Moon sends on the Sun's light.
 7. (mcq) Which sheet sends back the least torch light?  
-   Options: Black cloth / White paper / Newspaper  
+   Options: White paper / Newspaper / Black cloth  
    **Answer:** Black cloth. *Why:* Black cloth takes in most of the light that falls on it, so it sends back the least.
 8. (mcq) What is darkness?  
-   Options: Where no light is arriving / A black gas that fills rooms / A kind of shadow-light  
+   Options: A black gas that fills rooms / A kind of shadow-light / Where no light is arriving  
    **Answer:** Where no light is arriving. *Why:* Darkness is the absence of light. Where no light arrives, we see dark.
 9. (mcq) In a test of different sheets under one torch, why do we keep the torch and the card in the same places?  
    Options: So only the sheet changed, to make the test fair / Because the torch was heavy / So the pictures would not move  
    **Answer:** So only the sheet changed, to make the test fair. *Why:* In a fair test, we change only one thing. Then we know the sheet made the difference.
 10. (mcq) Why must you never look straight at the Sun?  
-   Options: It can hurt your eyes for ever / It makes the Sun go out / It makes the Moon dark  
+   Options: It makes the Sun go out / It makes the Moon dark / It can hurt your eyes for ever  
    **Answer:** It can hurt your eyes for ever. *Why:* The Sun is far brighter than any other light source we have. Looking straight at it can damage your eyes, and the damage may not heal.
 
 ## Applications

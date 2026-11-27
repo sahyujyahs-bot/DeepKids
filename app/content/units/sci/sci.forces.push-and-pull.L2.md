@@ -383,10 +383,10 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 2. (match) Draw a line from each giver to the thing it moves.  
    **Answer:** The wind → A kite rises; The Earth → A mango falls; A magnet → A steel pin jumps; Your breath → A soap bubble floats away. *Why:* Each giver gives a push or a pull. The wind pushes the kite, the Earth pulls the mango, the magnet pulls the pin, and your breath pushes the bubble.
 3. (mcq) In the Secret Packet test, why do you shut your eyes?  
-   Options: So you cannot see the packet go in / So the bag gets lighter / So the packet is quieter  
+   Options: So the bag gets lighter / So you cannot see the packet go in / So the packet is quieter  
    **Answer:** So you cannot see the packet go in. *Why:* With your eyes shut, you can only feel. That way the test checks your hand, not your eyes.
 4. (mcq) Which bag pulls your hand down more?  
-   Options: The bag with two full water bottles / The empty bag / Both the same  
+   Options: The empty bag / The bag with two full water bottles / Both the same  
    **Answer:** The bag with two full water bottles. *Why:* The bottles are heavy, so the Earth pulls that bag down harder. A strong answer says the heavy bag gives a bigger pull.
 5. (draw) Draw one force in your home. Draw who or what gives the force, and the thing it moves.  
    **Answer:** Any real push or pull, with the giver and the thing moved, such as a hand opening a door or a fan blowing a paper.. *Why:* A strong drawing shows both parts of a force: the giver and the thing that is pushed or pulled.
@@ -405,7 +405,7 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
    Options: A mango falls from a tree / Rain falls from a cloud / A kite rises in the wind / A ball rolls down a slope  
    **Answer:** 2. *Why:* The kite rises because the wind pushes it up. The Earth pulls things down, not up.
 2. (mcq) A bucket is pulled up a well with a rope. Is the rope's force a push or a pull?  
-   Options: A pull / A push / Not a force  
+   Options: A push / Not a force / A pull  
    **Answer:** A pull. *Why:* The rope pulls the bucket up towards the person above. Every pull is a force.
 3. (order) Put the steps of the Secret Packet test in order.  
    **Answer:** order shown. *Why:* We guess first, so the test can check the guess. We count at the end to compare the two bags.
@@ -428,7 +428,7 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 1. (write) Think of the Secret Packet test with just one water bottle in the bag. Would the packet be easier or harder to feel than in the bag with two bottles? Why? Say it out loud, and a grown-up can write it down.  
    **Answer:** Easier, because the packet is a bigger part of what the hand holds when there is only one bottle.. *Why:* A strong answer uses the idea that a hand compares a change with what it already holds.
 2. (mcq) Your hand missed the packet in the heavy bag. What could help you feel it better?  
-   Options: Lift the bag up and down gently / Hold the bag very, very still / Hold it behind your back  
+   Options: Hold the bag very, very still / Lift the bag up and down gently / Hold it behind your back  
    **Answer:** Lift the bag up and down gently. *Why:* Lifting helps a little, because your muscles and joints join in. Ernst Weber found that people compare weights better when they lift them.
 3. (perspective) The first child touches the leaf of a touch-me-not plant, and the leaves fold up.  
    **Answer:** A strong answer picks a side and gives a reason, such as the leaves folding within seconds of the push. It also notes that both sides agree the plant sensed the push.. *Why:* Plants sense pushes and pulls. Whether to call this feeling is still argued about. A strong answer is fair to both sides.
@@ -456,31 +456,31 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 
 ## Quiz
 1. (mcq) Which of these is a force?  
-   Options: Kicking a ball / The colour of a ball / The name of a ball  
+   Options: The colour of a ball / Kicking a ball / The name of a ball  
    **Answer:** Kicking a ball. *Why:* A kick is a push, and every push is a force. A colour or a name does not push or pull.
 2. (mcq) A kite goes up on a windy day at the Uttarayan kite festival in Gujarat. What gives the push?  
-   Options: The wind / The sky / Nothing  
+   Options: The sky / Nothing / The wind  
    **Answer:** The wind. *Why:* The wind pushes the kite up. If you chose 'nothing', you may think a force must be seen. Look at what the kite does instead.
 3. (mcq) A mango falls from a tree in Ratnagiri, in Maharashtra. What pulls it down?  
-   Options: The Earth / The leaves / Nothing pulls it  
+   Options: The leaves / The Earth / Nothing pulls it  
    **Answer:** The Earth. *Why:* The Earth pulls everything down. That pull is called gravity.
 4. (mcq) A fridge magnet holds a paper up. Can you see the magnet's force?  
-   Options: No, but we see that the paper stays up / Yes, it looks like a thin line / Only in the dark  
+   Options: Yes, it looks like a thin line / No, but we see that the paper stays up / Only in the dark  
    **Answer:** No, but we see that the paper stays up. *Why:* No force can be seen. We know the magnet's force is there because the paper does not fall.
 5. (mcq) Which job needs the biggest pull?  
    Options: Pulling a full bucket of water up from a well / Pulling a feather off a pillow / Pulling a tissue from a box  
    **Answer:** Pulling a full bucket of water up from a well. *Why:* The full bucket is heaviest, so it needs the biggest pull. A strong reason talks about how heavy the thing is.
 6. (mcq) You shut your eyes and hold an empty cloth bag. A grown-up slips in a small rice packet. What will most likely happen?  
-   Options: You feel it / You feel nothing / The bag feels lighter  
+   Options: You feel nothing / You feel it / The bag feels lighter  
    **Answer:** You feel it. *Why:* The packet is a big part of what you hold, so your hand notices the extra pull.
 7. (mcq) You shut your eyes and hold a cloth bag with two full water bottles in it. A grown-up slips in a small rice packet. What will most likely happen?  
    Options: You often cannot tell / You feel it every time / The bag falls  
    **Answer:** You often cannot tell. *Why:* The packet is a tiny part of what you hold, so your hand often misses it. If you chose 'every time', you may think a hand feels any small extra weight.
 8. (mcq) Which one of these is a pull?  
-   Options: A magnet drawing a steel pin towards itself / A foot kicking a ball / A fan blowing a paper away  
+   Options: A foot kicking a ball / A magnet drawing a steel pin towards itself / A fan blowing a paper away  
    **Answer:** A magnet drawing a steel pin towards itself. *Why:* A magnet moves the pin towards itself, so it pulls. A kick and a fan's wind both push things away.
 9. (mcq) How can you tell that a force is big?  
-   Options: It does a big job, like lifting something heavy / You can see it clearly / It makes a loud sound  
+   Options: You can see it clearly / It makes a loud sound / It does a big job, like lifting something heavy  
    **Answer:** It does a big job, like lifting something heavy. *Why:* We cannot see a force. We tell a big one from a small one by what it does.
 10. (mcq) A child pushes a swing, and a crow pulls a twig from a broom. Which of these is a force?  
    Options: Both of them / Only the child's push / Only the crow's pull  

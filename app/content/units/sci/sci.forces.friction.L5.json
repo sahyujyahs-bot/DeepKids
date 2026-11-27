@@ -704,11 +704,11 @@
       "t": "mcq",
       "q": "On a table dusted with powder, the same shove sends a coin further. Why?",
       "options": [
-       "The powder gives the coin extra speed",
        "The powder makes friction smaller, so the coin's energy lasts longer",
+       "The powder gives the coin extra speed",
        "The powder makes the coin lighter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The shove gives the coin the same kinetic energy as before. Powder is a lubricant, so the friction force is smaller and the energy lasts for a longer slide. The powder does not push the coin or change its weight."
      },
      "context": "This is the last step of Shove Coin. Here you add up the points and compare the three surfaces."
@@ -912,11 +912,11 @@
       "t": "mcq",
       "q": "In the Stopping Distance Test, the marble started twice as far up the ramp and rolled about twice as far. Why?",
       "options": [
-       "The marble was heavier the second time",
        "The marble had about twice the energy to lose",
+       "The marble was heavier the second time",
        "The towel became smoother"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Starting twice as high gives the marble about twice the kinetic energy at the bottom. The towel takes away about the same energy in every centimetre, so twice the energy lasts about twice the distance. The marble and the towel did not change."
      },
      "context": "This is the last step of the Stopping Distance Test. Here you explain your results and draw the friction arrow."
@@ -1105,11 +1105,11 @@
       "t": "mcq",
       "q": "In the Warm Coin Test, a firm press warmed the coin more than a light press. Why?",
       "options": [
-       "A firm press makes a bigger friction force",
        "A firm press squeezes heat out of the fingers",
-       "A firm press makes the coin slide faster"
+       "A firm press makes the coin slide faster",
+       "A firm press makes a bigger friction force"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Pressing harder makes the friction force bigger. The energy turned into heat is the friction force multiplied by the distance rubbed. So the same strokes with a bigger force make more heat. The speed and the strokes stayed the same."
      },
      "context": "This is the last step of the Warm Coin Test. Here you explain what made the coin warmer."
@@ -1294,10 +1294,10 @@
       "q": "A katori stands on a cloth. The cloth is pulled slowly and the katori moves with it. Which force moved the katori?",
       "options": [
        "Gravity",
-       "Friction from the cloth",
-       "The push of the air"
+       "The push of the air",
+       "Friction from the cloth"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Only the cloth touched the katori, and friction is the force between touching surfaces. Friction from the cloth pushed the katori the way the cloth moved. Gravity pulls down, not sideways, and the air hardly pushes at all."
      },
      "context": "This is the last step of the Riding Katori. Here you show the friction in each pull and find the rule."
@@ -1661,11 +1661,11 @@
       "t": "mcq",
       "q": "How does a pencil leave a mark on paper?",
       "options": [
-       "Friction pulls thin flakes of graphite off the tip",
        "The pencil melts onto the paper",
-       "Ink flows out of the tip"
+       "Ink flows out of the tip",
+       "Friction pulls thin flakes of graphite off the tip"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper is rough, and friction with it pulls thin flakes of graphite off the pencil tip. The flakes stay on the paper as the mark. Nothing melts, and a pencil holds no ink."
      },
      "context": "This is the last step of Pencil, Eraser, Match. Here you sort the three uses of friction."
@@ -1777,10 +1777,10 @@
       "q": "A chopping board slides on the kitchen counter while you cut. Which fix makes sense?",
       "options": [
        "A drop of oil under the board",
-       "A damp cloth under the board",
-       "Polishing the counter"
+       "Polishing the counter",
+       "A damp cloth under the board"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The board needs more friction, and a damp cloth grips both the board and the counter. Oil and polish are for making friction smaller, so the board would slide more."
      },
      "context": "This is day 3 of the Home Friction Service. Here you test the five places again and write up the results."
@@ -1866,11 +1866,11 @@
       "t": "mcq",
       "q": "A bed of loose gravel stops a runaway lorry in a short distance. Why?",
       "options": [
-       "The gravel pushes against the wheels with a very big force",
        "The gravel makes the lorry lighter",
+       "The gravel pushes against the wheels with a very big force",
        "The gravel cools the brakes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The wheels sink into the loose gravel and must push it aside. That is a very big force against the movement. So the lorry's kinetic energy is used up in a short distance."
      },
      "context": "This is the last step of the Escape Lane. Here you build and test your own design."
@@ -1955,11 +1955,11 @@
       "t": "mcq",
       "q": "Engine oil keeps the moving parts of an engine cooler. What are the two ways it does this?",
       "options": [
-       "It makes friction smaller, and it carries heat away",
        "It makes friction bigger, and it traps heat",
-       "It makes the parts lighter, and it stops them moving"
+       "It makes the parts lighter, and it stops them moving",
+       "It makes friction smaller, and it carries heat away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Oil between the parts makes the friction force smaller, so less heat is made. The oil also flows, and it carries heat away from the hottest parts."
      },
      "context": "This is the last step of the Cool Coin. Here you test your own design."
@@ -1978,12 +1978,12 @@
      "t": "mcq",
      "p": "What must be true before friction can act between two things?",
      "opts": [
-      "They must touch",
       "They must be moving",
       "They must be heavy",
-      "They must be rough"
+      "They must be rough",
+      "They must touch"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Friction is a contact force, so the two surfaces must touch. Choosing 'moving' forgets static friction, which acts on things that are still.",
      "outcome": 0
     },
@@ -2081,12 +2081,12 @@
      "t": "mcq",
      "p": "In the Stopping Distance Test, the marble stopped sooner on a towel than on a bedsheet. What does that show?",
      "opts": [
-      "The towel pushed back with a bigger force",
       "The marble was slower on the towel's ramp",
       "The bedsheet made the marble heavier",
+      "The towel pushed back with a bigger force",
       "The towel had less friction"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The marble had the same energy at the bottom each time. The towel used that energy up in a shorter distance, so its force against the marble was bigger.",
      "how": "e1",
      "outcome": 2
@@ -2203,12 +2203,12 @@
      "t": "mcq",
      "p": "Why do your palms get warm when you rub them together?",
      "opts": [
-      "Friction turns the movement into heat",
       "Rubbing squeezes blood into the palms",
+      "Friction turns the movement into heat",
       "The air between them catches fire",
       "Skin stores heat until it is rubbed"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your arm muscles give the hands kinetic energy, and friction between the palms turns it into heat. Nothing was stored in the skin beforehand.",
      "outcome": 4
     }
@@ -2261,12 +2261,12 @@
      "t": "mcq",
      "p": "A marble starts twice as high on the same ramp and towel. About how far does it roll?",
      "opts": [
-      "About twice as far",
       "The same distance",
       "About half as far",
+      "About twice as far",
       "About ten times as far"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Twice the height gives about twice the kinetic energy at the bottom. The towel takes away about the same energy in each centimetre, so the marble rolls about twice as far.",
      "how": "e1",
      "outcome": 5
@@ -2364,12 +2364,12 @@
      "t": "mcq",
      "p": "In the Warm Coin Test, a firm press warmed the coin more than a light press. Why?",
      "opts": [
-      "The friction force was bigger",
       "The coin moved faster",
       "The cardboard was hotter to begin with",
-      "The coin became heavier"
+      "The coin became heavier",
+      "The friction force was bigger"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A firmer press makes a bigger friction force. Energy turned into heat is force multiplied by distance, so the same strokes make more heat.",
      "how": "e2",
      "outcome": 4
@@ -2498,12 +2498,12 @@
      "t": "mcq",
      "p": "A train's wheels spin on wet rails. Why does the loco pilot lower the power before using sand?",
      "opts": [
-      "A spinning wheel grips less",
       "The engine needs to rest",
       "Sand works only on a cold rail",
-      "Less power makes the train lighter"
+      "Less power makes the train lighter",
+      "A spinning wheel grips less"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Sliding friction is smaller than the biggest static friction. So a wheel that spins grips less than one that holds. Lowering the power lets the wheel stop slipping, and the sand then adds grip.",
      "outcome": 1
     },
@@ -2649,11 +2649,11 @@
    "p": "Which of these is a contact force?",
    "opts": [
     "Gravity on a falling mango",
-    "Friction on a sliding coin",
     "A magnet's force on a pin",
-    "The Earth's pull on the Moon"
+    "The Earth's pull on the Moon",
+    "Friction on a sliding coin"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Friction acts only where two surfaces touch. The other three act across a gap, so they are non-contact forces.",
    "outcome": 0
   },
@@ -2661,12 +2661,12 @@
    "t": "mcq",
    "p": "A carrom coin slides to the right. Which way does friction push the coin?",
    "opts": [
-    "To the left",
     "To the right",
     "Downward",
+    "To the left",
     "Upward"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The coin slides to the right over the board. Friction acts against that slide, so it points to the left.",
    "outcome": 1
   },
@@ -2674,12 +2674,12 @@
    "t": "mcq",
    "p": "You start to walk forward. Which way does friction from the floor push your back foot?",
    "opts": [
-    "Forward",
     "Backward",
+    "Forward",
     "Downward",
     "There is no friction"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your foot pushes backward on the floor and would slide backward without friction. So friction on the foot points forward. Choosing 'backward' means using the rule 'friction is against movement', which is only half right.",
    "outcome": 1
   },
@@ -2687,12 +2687,12 @@
    "t": "mcq",
    "p": "A train's wheels spin on wet rails, and the train stays still. What is missing?",
    "opts": [
-    "Enough friction between wheels and rails",
     "Enough power in the engine",
+    "Enough friction between wheels and rails",
     "Enough weight in the coaches",
     "Enough air in front"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The engine is turning the wheels, so power is not the problem. The rails must push the wheels forward by friction, and wet rails give too little.",
    "outcome": 1
   },
@@ -2700,12 +2700,12 @@
    "t": "mcq",
    "p": "In a stopping distance test, why do you roll the marble three times on each surface?",
    "opts": [
-    "One run can be a fluke",
     "The marble needs to warm up",
+    "One run can be a fluke",
     "Three is a lucky number",
     "The surface changes each time"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A small push or a wrinkle can spoil one run. Three runs and a mean give a number you can trust more.",
    "outcome": 2
   },
@@ -2713,12 +2713,12 @@
    "t": "mcq",
    "p": "Which pair names useful friction first, and unwanted friction second, on a bicycle?",
    "opts": [
-    "Brake pads, then the axle",
     "The axle, then brake pads",
+    "Brake pads, then the axle",
     "The chain, then the tyres",
     "The axle, then the chain"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Brake pads must grip the rim, so friction there is useful. An axle must turn easily, so friction there wastes the rider's effort.",
    "outcome": 3
   },
@@ -2740,12 +2740,12 @@
    "t": "mcq",
    "p": "After a rolling ball stops, where has its kinetic energy gone?",
    "opts": [
-    "Into heat in the ball, floor and air",
     "Nowhere: it was destroyed",
     "Back into the hand that rolled it",
+    "Into heat in the ball, floor and air",
     "Into the ball's weight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Friction and air resistance turn kinetic energy into heat. The heat spreads out, so we do not notice it, but the energy still exists.",
    "outcome": 4
   },
@@ -2753,12 +2753,12 @@
    "t": "mcq",
    "p": "A cycle goes twice as fast and brakes in the same way. About how far does it need to stop?",
    "opts": [
-    "Four times as far",
     "Twice as far",
+    "Four times as far",
     "The same distance",
     "Half as far"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Twice the speed means four times the kinetic energy. The same braking force needs four times the distance to turn it all into heat.",
    "outcome": 5
   },
@@ -2766,12 +2766,12 @@
    "t": "mcq",
    "p": "Which force from water acts on a boat even when the boat is still?",
    "opts": [
-    "Upthrust",
     "Water resistance",
     "Sliding friction",
+    "Upthrust",
     "Traction"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Upthrust pushes up on anything in water, moving or still. Water resistance acts only when the boat moves through the water.",
    "outcome": 6
   },
@@ -2779,12 +2779,12 @@
    "t": "mcq",
    "p": "Which of these is still not fully understood by scientists?",
    "opts": [
-    "Exactly how sliding atoms turn movement into heat",
     "Whether friction makes heat",
+    "Exactly how sliding atoms turn movement into heat",
     "Whether oil makes friction smaller",
     "Whether friction needs touching surfaces"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists agree that friction makes heat, that oil lowers friction and that friction is a contact force. The exact steps by which sliding atoms pass on their energy are still being studied.",
    "outcome": 7
   },

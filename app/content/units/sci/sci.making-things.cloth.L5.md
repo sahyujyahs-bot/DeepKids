@@ -624,7 +624,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 ## Worksheets
 ### Threads, cloth and stitches (core) (core, 15 questions)
 1. (mcq) What is weaving?  
-   Options: Twisting fibres into yarn / Crossing two sets of threads, over and under / Pulling one thread into loops / Printing colour on cloth  
+   Options: Twisting fibres into yarn / Pulling one thread into loops / Crossing two sets of threads, over and under / Printing colour on cloth  
    **Answer:** Crossing two sets of threads, over and under. *Why:* Weaving crosses warp threads and weft threads at right angles. Twisting fibres is spinning, and pulling one thread into loops is knitting. Choosing one of those means the three words need another look.
 2. (fill) The threads that run along the length of a woven cloth are called the ____.  
    **Answer:** ['warp']. *Why:* The warp is stretched tight on the loom first. The weft is then woven across it.
@@ -641,7 +641,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 8. (draw) Draw the path of one thread in a woven cloth and in a knitted cloth, side by side.  
    **Answer:** The woven thread goes straight across, over one thread and under the next. The knitted thread goes up and down in a row of loops.. *Why:* A strong drawing shows the woven thread almost straight and the knitted thread looping, so it is clear which has spare length.
 9. (mcq) Which bird stitches the edges of a leaf together to hold a nest?  
-   Options: Baya weaver / Crow / Tailorbird / Kingfisher  
+   Options: Tailorbird / Baya weaver / Crow / Kingfisher  
    **Answer:** Tailorbird. *Why:* The tailorbird pierces the leaf edges and pulls plant fibre or spider silk through. The baya weaver weaves a hanging nest from strips of grass.
 10. (odd) Three of these are natural fibres. Which one is the odd one out?  
    Options: Cotton / Jute / Polyester / Wool  
@@ -659,7 +659,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
    **Answer:** A cut edge of woven cloth will fray, because the threads along the edge have nothing outside them to hold them in. A hem folds the cut edge inside and stitches it down, so the threads cannot slide out.. *Why:* A strong answer says what fraying is and how the fold stops it, as in the Fray Test.
 ### Testing cloth and choosing fibres (stretch) (stretch, 17 questions)
 1. (mcq) One row of thread pulled from 5 cm of T-shirt cloth is 18 cm long. What does this show?  
-   Options: The cloth was measured wrongly / The thread is made of rubber / The thread runs in loops / Cotton grows when it is cut  
+   Options: The thread runs in loops / The cloth was measured wrongly / The thread is made of rubber / Cotton grows when it is cut  
    **Answer:** The thread runs in loops. *Why:* The thread is more than 3 times as long as the cloth is wide, so it must be folded into loops. That spare length is where the stretch comes from.
 2. (write) In the Leaky Seam Test, the longest stitches leaked most. Explain why, using the words 'needle holes' and 'gap'.  
    **Answer:** A running stitch pins the two cloths together only at the needle holes. Between the holes the cloths can pull apart and leave a gap. When the holes are 1 cm apart the gap is wide enough for a mustard seed. Short stitches leave only small gaps.. *Why:* A strong answer links the length of the stitch to the size of the gap, and the size of the gap to the size of the seed.
@@ -670,7 +670,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 5. (sort) Sort these cloths by how the pattern is made.  
    **Answer:** Kanchipuram border → Woven in; bandhani → Tied and dyed; kantha → Stitched; jamdani → Woven in; Pochampally ikat → Tied and dyed; Toda embroidery → Stitched; kasuti → Stitched; Paithani → Woven in. *Why:* Kanchipuram borders, jamdani and Paithani patterns are made on the loom with coloured threads. Bandhani and Pochampally ikat are tied and dyed. Kantha, Toda embroidery and kasuti are stitched with a needle.
 6. (mcq) Which is the safest to wear beside a gas stove?  
-   Options: A polyester jacket / A cotton kurta / A nylon dupatta / An acrylic sweater  
+   Options: A cotton kurta / A polyester jacket / A nylon dupatta / An acrylic sweater  
    **Answer:** A cotton kurta. *Why:* Synthetic fibres melt near a flame and stick to the skin. Cotton can burn, but it does not melt and stick.
 7. (draw) Draw a seam with long running stitches, pulled open. Mark the place where a seed could pass.  
    **Answer:** Two cloths pulled apart with thread crossing between them like the rungs of a ladder. The gaps between the rungs are marked.. *Why:* A strong drawing shows the cloth pinned only at the needle holes and open between them.
@@ -683,7 +683,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 11. (match) Match each fibre to a job it suits.  
    **Answer:** Jute → a sack for rice; Wool → a winter shawl; Cotton → a bath towel; Coir → a doormat for the monsoon; Nylon → a school bag for rainy days. *Why:* Each fibre is chosen for what it does: jute is strong and cheap, wool traps air, cotton takes in water, coir stands up to water, and nylon keeps water out.
 12. (mcq) Why is denim blue outside and pale inside?  
-   Options: Only the outside is dyed / The inside is washed more often / The blue threads lie mostly on the outside / The inside is a different cloth  
+   Options: Only the outside is dyed / The blue threads lie mostly on the outside / The inside is washed more often / The inside is a different cloth  
    **Answer:** The blue threads lie mostly on the outside. *Why:* Denim is a twill. Its blue warp threads pass over three white weft threads and under one, so the outside shows mostly blue and the inside mostly white.
 13. (odd) Three of these are knitted. Which one is the odd one out?  
    Options: T-shirt / Sock / Sweater / Sari  
@@ -709,7 +709,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 5. (truefalse) True or false: yarn spun from torn-up old clothes is as strong as yarn spun from new fibre.  
    **Answer:** False. *Why:* False. Tearing cloth back into fibre shortens the fibres. Short fibres overlap less, so the recycled yarn is weaker.
 6. (mcq) The body louse lives only in clothing. What can their DNA help scientists find out?  
-   Options: What colour the first clothes were / Who invented the needle / Roughly when people began to wear clothes / How cotton was first spun  
+   Options: What colour the first clothes were / Who invented the needle / How cotton was first spun / Roughly when people began to wear clothes  
    **Answer:** Roughly when people began to wear clothes. *Why:* Body lice could not exist before clothes. Their DNA shows when they split from head lice, at least 83,000 years ago, so clothes are at least that old.
 7. (write) Someone says natural fibres are always better for the Earth. Give one piece of evidence for and one against.  
    **Answer:** For: cotton, wool and jute rot back into soil, while polyester lasts for centuries and sheds plastic microfibres. Against: growing cotton takes a great deal of water, hundreds to thousands of litres for one T-shirt by different estimates, and often much pesticide.. *Why:* A strong answer gives real evidence on both sides before deciding.
@@ -739,22 +739,22 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 
 ## Quiz
 1. (mcq) In woven cloth, what does the weft thread do?  
-   Options: It runs along the length, held tight / It runs across, over and under the warp / It loops through itself / It holds the hem down  
+   Options: It runs across, over and under the warp / It runs along the length, held tight / It loops through itself / It holds the hem down  
    **Answer:** It runs across, over and under the warp. *Why:* The weft runs across the cloth, over and under the warp threads. The warp is the set held tight along the length. If you chose loops, that is knitting.
 2. (mcq) Under a lens, a cloth shows columns of tiny V-shaped loops. How was it made?  
-   Options: It was knitted / It was woven / It was printed / It was embroidered  
+   Options: It was woven / It was printed / It was embroidered / It was knitted  
    **Answer:** It was knitted. *Why:* Rows of loops mean knitting. Woven cloth shows two sets of threads crossing at right angles.
 3. (mcq) Why does knitted cotton stretch more than woven cotton?  
-   Options: Its cotton is softer / Its thread is thinner / It has rubber in it / Its looped thread can open out  
+   Options: Its cotton is softer / Its looped thread can open out / Its thread is thinner / It has rubber in it  
    **Answer:** Its looped thread can open out. *Why:* A knitted row holds 3 or 4 times as much thread as the cloth is wide, bent into loops. A pull opens the loops. The cotton itself is the same.
 4. (mcq) A cotton fibre is only 3 cm long. How can a cotton yarn be many metres long?  
-   Options: The fibres are glued end to end / Each fibre is stretched out / Twisted fibres overlap and grip each other / The fibres are tied in knots  
+   Options: The fibres are glued end to end / Each fibre is stretched out / The fibres are tied in knots / Twisted fibres overlap and grip each other  
    **Answer:** Twisted fibres overlap and grip each other. *Why:* Spinning overlaps the fibres and twists them. The twist presses them together, and friction stops them sliding apart. Nothing is glued or tied.
 5. (mcq) Which of these fibres comes from an animal?  
-   Options: Jute / Pashmina / Polyester / Linen  
+   Options: Jute / Polyester / Pashmina / Linen  
    **Answer:** Pashmina. *Why:* Pashmina is the under-hair of a goat from Ladakh. Jute and linen come from plant stems, and polyester from a factory.
 6. (mcq) What is inside a silk cocoon just before the moth comes out?  
-   Options: An egg / A mulberry leaf / A pupa / Nothing  
+   Options: A pupa / An egg / A mulberry leaf / Nothing  
    **Answer:** A pupa. *Why:* The caterpillar spins the cocoon and becomes a pupa inside. The pupa then becomes the moth. The egg stage came much earlier.
 7. (mcq) Two seams join the same cloth, one with long stitches and one with short. Which lets more seeds through?  
    Options: The seam with long stitches / The seam with short stitches / Both let the same number through / Neither lets any through  
@@ -762,19 +762,19 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 8. (truefalse) True or false: the selvedge of a cloth frays faster than a cut edge.  
    **Answer:** False. *Why:* False. At the selvedge the weft turns back into the cloth, so there are no cut ends to slide out. A cut edge frays.
 9. (mcq) In which of these is the pattern stitched on with a needle?  
-   Options: Pochampally ikat / Bandhani / Ajrakh / Kasuti  
+   Options: Kasuti / Pochampally ikat / Bandhani / Ajrakh  
    **Answer:** Kasuti. *Why:* Kasuti is embroidery from Karnataka. Ikat and bandhani are tied and dyed, and ajrakh is printed with wooden blocks.
 10. (mcq) What does a tailorbird use to stitch a leaf?  
-   Options: Wet mud / Plant fibre or spider silk / Strips of grass woven over and under / Their own feathers  
+   Options: Wet mud / Strips of grass woven over and under / Their own feathers / Plant fibre or spider silk  
    **Answer:** Plant fibre or spider silk. *Why:* A tailorbird pierces the leaf edge and pulls fibre or spider silk through. Weaving strips of grass is the baya weaver's way.
 11. (mcq) An old cotton sari is too thin to wear. Which use keeps it as cloth?  
    Options: Burning it / Tearing it into fibre / Stitching it into a kantha quilt / Throwing it away  
    **Answer:** Stitching it into a kantha quilt. *Why:* In a kantha quilt the layers of old sari are still cloth, joined by running stitch. Tearing it into fibre keeps only the fibre.
 12. (mcq) A cook wants to dye a white cloth yellow with marigold flowers. Which way works?  
-   Options: Boil marigold petals in water, strain the liquid, and soak the cloth in it / Boil the cloth in plain water until it turns yellow / Sew marigold petals onto the cloth / Freeze the petals and iron them onto the cloth  
+   Options: Boil the cloth in plain water until it turns yellow / Boil marigold petals in water, strain the liquid, and soak the cloth in it / Sew marigold petals onto the cloth / Freeze the petals and iron them onto the cloth  
    **Answer:** Boil marigold petals in water, strain the liquid, and soak the cloth in it. *Why:* Boiling plant parts puts their colour into the water. Straining removes the bits, and the cloth soaks up the colour. Plain water has no colour to give, so the cloth would stay white.
 13. (mcq) You sew a running stitch, and one thread breaks. What is most likely to happen?  
-   Options: Only the one stitch with the break comes loose / The rest of the line can slide loose and come undone / The cloth becomes stronger / Nothing, because the stitches hold each other  
+   Options: The rest of the line can slide loose and come undone / Only the one stitch with the break comes loose / The cloth becomes stronger / Nothing, because the stitches hold each other  
    **Answer:** The rest of the line can slide loose and come undone. *Why:* In a running stitch one thread runs through every stitch. When it breaks, the rest of the line can slide out. 'Only one stitch' is a fair guess, but it is not what the single thread does.
 
 ## Applications

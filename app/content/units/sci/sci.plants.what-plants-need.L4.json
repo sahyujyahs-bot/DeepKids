@@ -736,12 +736,12 @@
       "t": "mcq",
       "q": "In the game, each tree pays 1 sugar at the end of every round. What does this stand for?",
       "options": [
-       "Respiration, which every living being does all the time",
        "A tax on the trees",
+       "Respiration, which every living being does all the time",
        "The cost of the cards",
        "Sugar running away"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every living cell burns sugar for energy all the time. In the game, paying 1 sugar each round stands for that. Trees do it too, even in the dark."
      },
      "context": "In this step you play the first two rounds and see what each side has and needs."
@@ -947,12 +947,12 @@
       "t": "mcq",
       "q": "A plant has pale yellow old leaves, green new leaves and well-drained soil. Which diagnosis is most likely?",
       "options": [
-       "Short of nitrogen",
        "Roots have no air",
        "Too much fertiliser",
-       "Too little light"
+       "Too little light",
+       "Short of nitrogen"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Nitrogen moves from old leaves to new growth, so the old leaves yellow first. Well-drained soil rules out drowned roots, and a plant short of light would stretch."
      },
      "context": "In this step you play the first six cards and learn how to score."
@@ -998,12 +998,12 @@
      "t": "mcq",
      "p": "A plant stands in soaked soil and their leaves droop. What is the best explanation?",
      "opts": [
-      "The roots have no air, so they cannot take up water",
       "The plant has too much sunlight",
       "The plant is asleep",
-      "The soil has run out of water"
+      "The soil has run out of water",
+      "The roots have no air, so they cannot take up water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Water fills all the gaps and pushes out the air. Roots without oxygen cannot work, so the leaves droop as if the plant were thirsty. A plant in soaked soil does not lack water.",
      "outcome": 0
     },
@@ -1029,12 +1029,12 @@
      "t": "mcq",
      "p": "You pour water onto 100 millilitres of dry soil. 40 millilitres go in before the water reaches the top. What does this show?",
      "opts": [
-      "About 40 out of every 100 millilitres of the soil were gaps",
       "The soil weighs 40 grams",
       "The soil is 40 per cent water",
+      "About 40 out of every 100 millilitres of the soil were gaps",
       "Only 40 millilitres of the soil is useful"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The water filled the gaps and pushed the air out. So the water that went in equals the gaps that were there. 40 out of 100 were gaps.",
      "outcome": 1,
      "how": "e1",
@@ -1082,12 +1082,12 @@
      "t": "mcq",
      "p": "A path that people walk on every day has few plants. What is the best reason?",
      "opts": [
-      "Walking packs the soil, squeezing the gaps so roots get little air",
       "People take the minerals away on their feet",
+      "Walking packs the soil, squeezing the gaps so roots get little air",
       "Soil on paths is always poisonous",
       "Plants dislike the sound of walking"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Packed soil has fewer and smaller gaps, so there is less air for roots. In the Soil Breath test, packed soil took in less water than loose soil.",
      "outcome": 1
     },
@@ -1141,12 +1141,12 @@
      "t": "mcq",
      "p": "A farmer grows black gram after a crop of rice in the same field. What is the farmer making use of?",
      "opts": [
-      "Bacteria in the dal's roots that put nitrogen into the soil",
       "A way of making the soil harder",
       "A way of scaring away insects",
+      "Bacteria in the dal's roots that put nitrogen into the soil",
       "A way of drying the soil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rice takes nitrogen out of the soil. A legume such as black gram has root nodules with bacteria that fix nitrogen from the air, and leaves some for the next crop.",
      "outcome": 5
     },
@@ -1210,12 +1210,12 @@
      "t": "mcq",
      "p": "Which is the most useful first check for a drooping plant in a pot?",
      "opts": [
-      "Push a finger into the soil and feel whether it is wet or dry, and check the drain hole",
       "Add fertiliser at once",
+      "Push a finger into the soil and feel whether it is wet or dry, and check the drain hole",
       "Move the plant into a dark cupboard",
       "Water the plant again just in case"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The soil tells you whether the problem is too little water or too much. The drain hole tells you whether water can get out. Acting before checking can make a drowning plant worse.",
      "outcome": 0
     }
@@ -1231,12 +1231,12 @@
      "t": "mcq",
      "p": "Bean seedlings grew in three jars. Jar A had plain water and the seedlings were pale and small. Jar B had a small dose of fertiliser and the seedlings were green and tall. Jar C had a big dose and the seedlings were short with brown root tips. What does the difference between B and C show?",
      "opts": [
-      "More fertiliser is not always better, because too much can harm roots",
       "More fertiliser is always better",
+      "More fertiliser is not always better, because too much can harm roots",
       "Fertiliser has no effect",
       "Brown tips mean the roots are healthy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A small dose gave the best growth, and a large dose harmed the roots. A plant needs minerals, but a strong dose of salts can scorch the roots. The plain water jar shows that the seedlings do need minerals.",
      "outcome": 3,
      "how": "e2",
@@ -1246,12 +1246,12 @@
      "t": "mcq",
      "p": "Why can a plant surrounded by air still be short of nitrogen?",
      "opts": [
-      "The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed",
       "There is no nitrogen in air",
+      "The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed",
       "Plants breathe only oxygen",
       "Nitrogen is poisonous to plants"
      ],
-     "a": 0,
+     "a": 1,
      "why": "About 78 parts in 100 of the air is nitrogen gas. Its atoms are joined too strongly for a plant to use. Bacteria, lightning and factories must first fix it into forms such as nitrate.",
      "outcome": 5
     },
@@ -1276,12 +1276,12 @@
      "t": "mcq",
      "p": "A plant has plenty of nitrogen and potassium but very little phosphorus. A farmer adds a lot more nitrogen. What does the shortest plank idea predict?",
      "opts": [
-      "Little change, because phosphorus is still the shortest supply",
       "The plant will grow twice as fast",
       "The plant will make their own phosphorus",
+      "Little change, because phosphorus is still the shortest supply",
       "The plant will stop needing phosphorus"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Growth is held back by the shortest supply. Adding more of a mineral that is already plentiful does not help until the limiting one is supplied.",
      "outcome": 4
     },
@@ -1409,12 +1409,12 @@
      "t": "mcq",
      "p": "Why did the chemistry of Fritz Haber and Carl Bosch matter for feeding people?",
      "opts": [
-      "It let factories fix nitrogen from the air into fertiliser on a huge scale",
       "It made soil from rock",
       "It taught plants to fix their own nitrogen",
-      "It made rain"
+      "It made rain",
+      "It let factories fix nitrogen from the air into fertiliser on a huge scale"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Before the early 1900s, nitrogen for crops came from manure, legumes and a few mineral deposits. Factory ammonia gave much more. It is estimated to feed roughly half the people alive today.",
      "outcome": 5
     },
@@ -1445,12 +1445,12 @@
      "t": "mcq",
      "p": "In 2023, a group of scientists reviewed the studies on fungus networks in forests. They said that some popular claims go beyond the evidence. What does this show about science?",
      "opts": [
-      "Scientists check each other's claims, and claims should match the evidence",
       "Science is always wrong",
       "Popular books are always right",
-      "Fungus networks do not exist"
+      "Fungus networks do not exist",
+      "Scientists check each other's claims, and claims should match the evidence"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The reviewers did not say that fungus networks do not exist. They said that some claims were stronger than the studies. Checking and correcting is how science works.",
      "outcome": 7
     }
@@ -1466,12 +1466,12 @@
      "t": "mcq",
      "p": "Here are the results for three soils in the Soil Breath test. Which soil has the most room for air for roots to breathe?",
      "opts": [
-      "Loose garden soil",
       "Sand",
+      "Loose garden soil",
       "Packed garden soil",
       "They all have exactly the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bar for loose garden soil is the tallest, at 44. Packed soil has the smallest. Packing squeezes the gaps, so there is less air for roots.",
      "outcome": 1,
      "how": "e1",
@@ -1501,12 +1501,12 @@
      "t": "mcq",
      "p": "In the Soil Breath test, you measure the water that goes in, but you say you have measured the air. Why is that fair?",
      "opts": [
-      "The water fills the gaps and pushes the air out, so the water equals the air that was there",
       "Water and air are the same thing",
+      "The water fills the gaps and pushes the air out, so the water equals the air that was there",
       "The air is heavier than water",
       "The air turns into water in the soil"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The water can only go where the air was. When the water reaches the top, it has taken the place of all the air in the gaps. So the volume of water equals the volume of gaps.",
      "outcome": 1
     },
@@ -1556,12 +1556,12 @@
      "t": "mcq",
      "p": "The saucer under a pot plant has been full of water for a week, and the leaves are yellow. What is the best first action?",
      "opts": [
-      "Empty the saucer, check the drain hole and let the soil dry a little before watering",
       "Add a spoon of fertiliser",
       "Water the plant more",
-      "Cover the pot with a plastic bag"
+      "Cover the pot with a plastic bag",
+      "Empty the saucer, check the drain hole and let the soil dry a little before watering"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The roots are probably short of air. Letting the water drain and the soil dry a little brings air back into the gaps. Fertiliser or more water would make the problem worse.",
      "outcome": 0
     },
@@ -1690,12 +1690,12 @@
      "t": "mcq",
      "p": "Scientists found that carbon moved between trees through fungus threads. Which of these conclusions goes beyond that evidence?",
      "opts": [
-      "Old trees care for their own young on purpose",
       "Carbon can move between trees through fungi",
       "Fungi can link the roots of different trees",
+      "Old trees care for their own young on purpose",
       "Some carbon passes through the fungus"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Three of the statements describe what was measured. The claim that old trees care for their own young on purpose says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help their young.",
      "outcome": 6
     },
@@ -1817,12 +1817,12 @@
       "t": "mcq",
       "q": "Why do we mark all three cups at exactly 100 millilitres?",
       "options": [
-       "So that each cup holds the same amount of soil",
        "So that the cups look neat",
        "So that the water is cold",
-       "So that the bubbles are bigger"
+       "So that the bubbles are bigger",
+       "So that each cup holds the same amount of soil"
       ],
-      "a": 0,
+      "a": 3,
       "why": "In a fair test, only one thing changes. If one cup held more soil, it could take more water for that reason, and not because of the kind of soil."
      },
      "context": "In this step, you mark three cups so that each holds exactly 100 millilitres of soil."
@@ -1897,12 +1897,12 @@
       "t": "mcq",
       "q": "A pot of soil stays filled with water for many days. What happens to the roots?",
       "options": [
-       "They run out of air and begin to die",
        "They grow faster because they have more water",
        "They turn into stems",
-       "Nothing changes"
+       "Nothing changes",
+       "They run out of air and begin to die"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Water in all the gaps leaves no room for air. Roots are alive and need oxygen to respire, so they begin to die, even though there is plenty of water."
      },
      "think": "If the gaps are half of the soil, where are most of a plant's roots living: in the grains, or in the gaps?",
@@ -2016,12 +2016,12 @@
       "t": "mcq",
       "q": "Why do we leave a small air gap between the water and the card?",
       "options": [
-       "Roots in water still need air to breathe",
        "The seeds must stay dry",
+       "Roots in water still need air to breathe",
        "The jar might crack",
        "The fertiliser needs air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Roots respire and need oxygen. If the whole root were under water in a still jar, the root could run short of oxygen. The air gap, and the water level touching just the lower roots, help the roots breathe."
      },
      "context": "In this step, you make the three solutions and set up the seedlings."
@@ -2065,12 +2065,12 @@
       "t": "mcq",
       "q": "Seedlings in plain water are pale and small after two weeks, though the seeds were healthy. What is the best explanation?",
       "options": [
-       "Plain water has almost no minerals, and the seeds' store has run out",
        "The seeds are too old",
        "Plants cannot grow in water",
+       "Plain water has almost no minerals, and the seeds' store has run out",
        "The light was too bright"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water alone gives the plant no nitrogen, phosphorus or potassium. The seed held a small store that lasts a while. When it runs out, the seedling is short of minerals and turns pale."
      },
      "parent": "If all three jars still look alike on day 18, the seeds' store may have lasted. That is a real result too. Leave the jars up to day 28 and measure on days 22 and 28, or repeat with smaller seeds such as moong. Jar C may look as good as jar B, because a houseplant fertiliser at double dose does not always burn roots. That is also a real result: the harm starts at a much stronger dose, which a child should not handle alone.",
@@ -2197,12 +2197,12 @@
       "t": "mcq",
       "q": "Why do we boil the water for this test?",
       "options": [
-       "Boiling drives out the dissolved air",
        "Boiling adds minerals",
+       "Boiling drives out the dissolved air",
        "Boiling kills the cuttings",
        "Boiling makes the water colder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Warm water holds less dissolved gas than cold water, and boiling drives out nearly all of it. That leaves water with very little air for the roots."
      },
      "context": "In this step, a grown-up boils the water to drive out the air."
@@ -2218,12 +2218,12 @@
       "t": "mcq",
       "q": "What is the oil layer for?",
       "options": [
-       "It stops new air from dissolving into the water",
        "It feeds the cuttings",
+       "It stops new air from dissolving into the water",
        "It makes the water warm",
        "It makes the roots grow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Air dissolves into water from the surface. A layer of oil keeps the air away from the water, so no new air gets in."
      },
      "context": "In this step, you set up the two jars, one with air kept out and one with air mixed in."
@@ -2267,12 +2267,12 @@
       "t": "mcq",
       "q": "Cuttings in water with air grew more roots than cuttings in water with the air kept out. What does this show?",
       "options": [
-       "Roots grow better when they can get oxygen",
        "Roots do not need oxygen",
+       "Roots grow better when they can get oxygen",
        "Oil kills roots",
        "Boiled water is poisonous"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The only difference was the air in the water. The roots with more air grew better, so roots need oxygen. The oil did not poison the roots, because it sat on top of the water and did not touch them."
      },
      "think": "A paddy plant grows in water for months. How might the plant get air to the roots?",
@@ -2396,12 +2396,12 @@
       "t": "mcq",
       "q": "Why does sand settle first in the jar?",
       "options": [
-       "Its grains are bigger and heavier, so they sink faster",
        "Sand is attracted to the bottom of the jar",
+       "Its grains are bigger and heavier, so they sink faster",
        "Sand is the only part of the soil that is solid",
        "Sand is lighter than water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Big, heavy grains sink fast in water and tiny ones sink slowly. So the layers form in order of grain size, with sand at the bottom, then silt, then clay."
      },
      "context": "In this step, you shake the soil and watch it settle."
@@ -2491,12 +2491,12 @@
       "t": "mcq",
       "q": "Why are creatures in the soil useful to plants?",
       "options": [
-       "They break dead leaves into minerals and keep the soil loose",
        "They eat the plant roots",
        "They make the soil dry",
-       "They make shade"
+       "They make shade",
+       "They break dead leaves into minerals and keep the soil loose"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Soil creatures eat and rot dead leaves, releasing minerals that roots can take in. Their burrows and movement keep the soil loose, with gaps for air."
      },
      "context": "In this step, you look at the spoonful and find the living things."
@@ -2610,12 +2610,12 @@
       "t": "mcq",
       "q": "Why does a farmer grow dal after rice in the same field?",
       "options": [
-       "The dal plants and their root bacteria put nitrogen back into the soil",
        "The dal plants make the soil harder",
+       "The dal plants and their root bacteria put nitrogen back into the soil",
        "The dal plants use up all the minerals",
        "The dal plants keep birds away"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rice takes nitrogen out of the soil. A legume with root nodules fixes nitrogen from the air and leaves some behind for the next crop."
      },
      "parent": "A pink or red centre shows the nodule is active. A white or green centre shows it is old or not working. A cut nodule can look dry within minutes. If you have no blade, a grown-up can squash one nodule between two clean fingernails and look for a pink smear. Keep the plate in good light.",
@@ -2697,12 +2697,12 @@
       "t": "mcq",
       "q": "You find a plant with yellow leaves and soaked soil that smells sour. What should you check first?",
       "options": [
-       "Whether the pot drains, and whether the roots are drowning",
        "Whether to add more fertiliser",
        "Whether to water the plant more",
+       "Whether the pot drains, and whether the roots are drowning",
        "Whether to move the plant into the dark"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Soaked, sour soil points to roots without air. More fertiliser or water would make things worse. Fix the drainage first."
      },
      "context": "In this step, you visit the plants and record what you see."
@@ -2805,12 +2805,12 @@
       "t": "mcq",
       "q": "A plant has plenty of phosphorus and potassium but very little nitrogen. In the bottle model, what happens when you add more phosphorus?",
       "options": [
-       "Nothing, because nitrogen is still the lowest notch",
        "The plant grows twice as fast",
        "The water level rises to the top",
-       "The nitrogen notch gets higher"
+       "The nitrogen notch gets higher",
+       "Nothing, because nitrogen is still the lowest notch"
       ],
-      "a": 0,
+      "a": 3,
       "why": "The level stays at the lowest notch. Adding more of a mineral that is already plentiful does not help until the shortest one is supplied."
      },
      "context": "In this step, you pour water and find the limit, then tape over the lowest notch."
@@ -2905,12 +2905,12 @@
       "t": "mcq",
       "q": "Why do plants that grow in mud, such as lotus and rice, have air channels?",
       "options": [
-       "To carry oxygen from the leaves down to roots in mud that has none",
        "To make the stems lighter for floating",
        "To store water for dry days",
+       "To carry oxygen from the leaves down to roots in mud that has none",
        "To make the stem easier to eat"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mud has very little oxygen, but roots still need it. The air channels carry oxygen from the leaves above the water down to the roots."
      },
      "parent": "Cut pieces fresh, because the cut ends dry out. Blow gently. Air passes along a segment but joints often block it, so use one piece between two joints. If no bubbles appear, try another piece, or cut off a little more at the end. A taro (arbi) leaf stalk also works. With one child, the parent cuts and seals, and the child blows. Two to four children take turns, each with their own clean straw.",
@@ -3036,12 +3036,12 @@
       "t": "mcq",
       "q": "Why do we poke air holes in the bottle and stir the heap?",
       "options": [
-       "The decomposers need oxygen to work and rot the waste",
        "The holes are for the water to evaporate",
        "The stick makes the peels colourful",
+       "The decomposers need oxygen to work and rot the waste",
        "The air keeps the bottle cool"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Most decomposers use oxygen to break the peels down. Without air, the heap goes sour and slimy. Holes and stirring let the air in."
      },
      "context": "In this step, you build the compost bottle in layers."
@@ -3267,12 +3267,12 @@
       "t": "mcq",
       "q": "A field has 1 nitrogen point left. Which crop can the farmer grow without fertiliser?",
       "options": [
-       "Black gram, which adds nitrogen",
        "Rice, which uses 2",
+       "Black gram, which adds nitrogen",
        "Wheat, which uses 2",
        "Maize, which uses 3"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rice, wheat and maize all use more nitrogen than the field has left. Black gram adds nitrogen instead of using it, so the farmer can grow it and rebuild the soil."
      },
      "context": "In this step, you try a plan and keep the totals."
@@ -3321,12 +3321,12 @@
    "t": "mcq",
    "p": "About what share of a good, loose soil is gaps that hold air and water?",
    "opts": [
-    "Between a third and a half",
     "Almost none",
     "All of it",
-    "One in every hundred parts"
+    "One in every hundred parts",
+    "Between a third and a half"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Soil is grains with gaps between them. In loose garden soil, the gaps can be nearly half of the volume. Packed soil has less.",
    "outcome": 1
   },
@@ -3334,12 +3334,12 @@
    "t": "mcq",
    "p": "A plant in a pot droops. The soil is soaked and smells sour. What is the most likely problem?",
    "opts": [
-    "The roots are drowning for lack of air",
     "The plant needs more water",
     "The plant needs more fertiliser",
+    "The roots are drowning for lack of air",
     "The plant needs less light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soaked soil has no air in its gaps. Roots without oxygen cannot work, and begin to rot, which gives the sour smell. More water or fertiliser would make this worse.",
    "outcome": 0
   },
@@ -3347,12 +3347,12 @@
    "t": "mcq",
    "p": "Which three minerals do plants need in the largest amounts?",
    "opts": [
-    "Nitrogen, phosphorus and potassium",
     "Iron, zinc and copper",
     "Sodium, chlorine and calcium",
-    "Carbon, oxygen and hydrogen"
+    "Carbon, oxygen and hydrogen",
+    "Nitrogen, phosphorus and potassium"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Nitrogen, phosphorus and potassium are the three numbers on a bag of fertiliser. Iron, zinc and copper are needed in tiny amounts. Carbon, oxygen and hydrogen come from air and water.",
    "outcome": 2
   },
@@ -3360,12 +3360,12 @@
    "t": "mcq",
    "p": "A soil has plenty of phosphorus and potassium but very little nitrogen. What limits the crop?",
    "opts": [
-    "Nitrogen, the shortest supply",
     "Phosphorus, the most plentiful",
     "Potassium, the most plentiful",
+    "Nitrogen, the shortest supply",
     "Nothing limits it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Growth is held back by the shortest supply. The plentiful minerals do not help until the shortest one is added.",
    "outcome": 4
   },
@@ -3386,12 +3386,12 @@
    "t": "mcq",
    "p": "What do bacteria in a bean's root nodules give the plant, and what do they get from the plant?",
    "opts": [
-    "They give nitrogen and get sugar",
     "They give sugar and get nitrogen",
     "They give water and get light",
+    "They give nitrogen and get sugar",
     "They give nothing and get a home"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bacteria fix nitrogen from the air into a form the plant can use. The plant gives them sugar from photosynthesis. Both sides gain.",
    "outcome": 5
   },
@@ -3412,12 +3412,12 @@
    "t": "mcq",
    "p": "What does a fungus on a tree's roots mainly bring to the tree?",
    "opts": [
-    "Water and minerals such as phosphorus, in return for sugar",
     "Light",
+    "Water and minerals such as phosphorus, in return for sugar",
     "Carbon dioxide",
     "Sugar, in return for water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fungus threads reach farther into the soil than roots, and gather minerals and water. The tree pays with sugar from photosynthesis.",
    "outcome": 6
   },
@@ -3432,12 +3432,12 @@
    "t": "mcq",
    "p": "A day after a big dose of fertiliser, the leaf edges of a pot plant turn brown and crispy. What is the most likely cause?",
    "opts": [
-    "Fertiliser salts have burned the roots and leaf edges",
     "The plant needs more fertiliser",
+    "Fertiliser salts have burned the roots and leaf edges",
     "The plant has too little water in the saucer",
     "The plant needs less air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Strong fertiliser salts draw water out of roots and scorch the leaf edges. The fix is to flush the pot with plenty of water and use a smaller dose next time.",
    "outcome": 2
   },
@@ -3445,12 +3445,12 @@
    "t": "mcq",
    "p": "Which statement about a plant's needs in the soil is correct?",
    "opts": [
-    "Roots need air as well as water",
     "Roots need only water",
     "Roots need only minerals",
+    "Roots need air as well as water",
     "Roots need no air because they are underground"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Roots are alive and respire, so they need oxygen. The gaps in soil hold the air they breathe. Waterlogged soil has no air.",
    "outcome": 0
   },
@@ -3458,12 +3458,12 @@
    "t": "mcq",
    "p": "In 1828, Carl Sprengel described the shortest plank idea, but it became known as Liebig's law. What does this show about science?",
    "opts": [
-    "Credit does not always go to the first person who found something",
     "The first person always gets the credit",
     "Only famous people can make discoveries",
+    "Credit does not always go to the first person who found something",
     "Ideas cannot be named after anyone"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Liebig was famous and wrote a best-selling book, so his name stuck. Sprengel had the idea first. Looking back at who found what helps give credit where it is due.",
    "outcome": 7
   }

@@ -1834,11 +1834,11 @@
       "t": "mcq",
       "q": "A flower is white, opens in the evening and has a strong scent at night. Who most likely carries the pollen?",
       "options": [
-       "Moths",
        "The wind",
-       "Sunbirds"
+       "Sunbirds",
+       "Moths"
       ],
-      "a": 0,
+      "a": 2,
       "why": "White shows up in dim light, and a strong scent at night guides moths, who fly then. A wind flower has no need of scent. Sunbirds feed by day and find flowers mostly by colour."
      },
      "context": "This is the last step of Wind or Visitor. You check your sorting and look at the flower that uses both ways."
@@ -2027,11 +2027,11 @@
       "t": "mcq",
       "q": "A sunflower head makes about 1,000 seeds. What does that tell you about the head?",
       "options": [
-       "It held about 1,000 small flowers",
        "It had about 1,000 petals",
-       "It had one very large ovary"
+       "It had one very large ovary",
+       "It held about 1,000 small flowers"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each sunflower seed grows from the ovary of one small flower in the head. About 1,000 seeds mean about 1,000 small flowers. Choosing one large ovary treats the head as a single flower."
      },
      "context": "This is the last step of the Marigold Count. You decide whether each piece of a marigold is a petal or a whole small flower."
@@ -2504,12 +2504,12 @@
      "t": "mcq",
      "p": "What is pollination?",
      "opts": [
-      "Pollen carried from an anther to a stigma",
       "A male cell joining an egg cell",
       "A seed starting to grow",
+      "Pollen carried from an anther to a stigma",
       "A ripe fruit falling off"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pollination is the journey of pollen from an anther to a stigma of the same kind of plant. A male cell joining an egg cell is fertilisation, which comes afterwards."
     },
     {
@@ -2605,12 +2605,12 @@
      "t": "mcq",
      "p": "Which of these is a fruit to a botanist?",
      "opts": [
-      "Bhindi",
       "Potato",
       "Carrot",
+      "Bhindi",
       "Cabbage leaf"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bhindi grew from the ovary of a flower and holds seeds, so it is a fruit. A potato is a stem, a carrot is a root, and cabbage is leaves."
     },
     {
@@ -2731,12 +2731,12 @@
      "t": "mcq",
      "p": "A flower is red, with a lot of thin nectar and almost no scent. Who most likely pollinates it?",
      "opts": [
-      "Birds",
       "Moths",
+      "Birds",
       "The wind",
       "Nobody"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Birds see red well, drink a lot of nectar and find flowers mostly by sight. Moths are guided by scent at night, and wind flowers have no nectar at all."
     },
     {
@@ -2768,12 +2768,12 @@
      "t": "mcq",
      "p": "What were the dry brown threads at the tip of a maize cob, when the cob was young?",
      "opts": [
-      "Styles",
       "Roots",
       "Petals",
+      "Styles",
       "Stamens"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each thread is a silk, which is the style of one ovule. Pollen lands on the silk, and a pollen tube grows down it to the ovule."
     },
     {
@@ -2828,12 +2828,12 @@
      "t": "mcq",
      "p": "A banana has tiny dark specks in the middle, and no seeds. What are the specks?",
      "opts": [
-      "Ovules that never grew",
       "Pollen grains",
       "Tiny embryos",
-      "Bits of soil"
+      "Bits of soil",
+      "Ovules that never grew"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The bananas we eat grow without fertilisation. The ovules stay tiny and turn dark. Wild bananas, which are fertilised, are full of hard seeds."
     },
     {
@@ -2965,12 +2965,12 @@
      "t": "mcq",
      "p": "Pollen from a hibiscus lands on the stigma of a pumpkin flower. What most likely happens?",
      "opts": [
-      "No tube reaches the ovules",
       "A hibiscus fruit grows on the vine",
       "Pumpkin seeds form as usual",
+      "No tube reaches the ovules",
       "The pumpkin flower turns red"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pollen must be of the same kind of plant. Pollen of another kind usually grows no tube, or the tube stops in the style. Without fertilisation, no seeds form."
     },
     {
@@ -3002,12 +3002,12 @@
      "t": "mcq",
      "p": "In a pine, pollen lands right beside an open ovule. What is different in a flowering plant?",
      "opts": [
-      "The ovules are sealed inside an ovary",
       "There is no pollen",
       "There are no ovules",
+      "The ovules are sealed inside an ovary",
       "Seeds form without fertilisation"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a flowering plant the ovules are shut inside the carpel. Pollen lands on the stigma outside, and must grow a tube through the style to reach an ovule."
     },
     {
@@ -3122,12 +3122,12 @@
    "t": "mcq",
    "p": "Which part of a flower makes pollen?",
    "opts": [
-    "The anther",
     "The stigma",
+    "The anther",
     "The ovary",
     "The sepal"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The anther is the head of a stamen, and pollen forms inside it. The stigma catches pollen but does not make it.",
    "outcome": 0
   },
@@ -3135,12 +3135,12 @@
    "t": "mcq",
    "p": "Which three parts make up a carpel?",
    "opts": [
-    "Stigma, style and ovary",
     "Anther, filament and pollen",
     "Sepal, petal and stamen",
-    "Ovule, seed and fruit"
+    "Ovule, seed and fruit",
+    "Stigma, style and ovary"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A carpel has a stigma on top, a style in the middle and an ovary at the base. The anther and filament make up a stamen.",
    "outcome": 0
   },
@@ -3148,12 +3148,12 @@
    "t": "mcq",
    "p": "What is the main job of the sepals?",
    "opts": [
-    "To cover the bud",
     "To make pollen",
+    "To cover the bud",
     "To catch pollen",
     "To hold the ovules"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The sepals wrap the bud before the flower opens. Pollen is made by the anthers and caught by the stigma, and the ovary holds the ovules.",
    "outcome": 1
   },
@@ -3200,12 +3200,12 @@
    "t": "mcq",
    "p": "Where does fertilisation happen?",
    "opts": [
-    "Inside an ovule",
     "On the stigma",
     "In the anther",
+    "Inside an ovule",
     "On a petal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The egg cell is inside the ovule, in the ovary. The pollen lands on the stigma, but the cells join only when the tube reaches the ovule.",
    "outcome": 4
   },
@@ -3226,12 +3226,12 @@
    "t": "mcq",
    "p": "The green star on top of a tomato grew from which part of the flower?",
    "opts": [
-    "The sepals",
     "The petals",
     "The stamens",
-    "The ovules"
+    "The ovules",
+    "The sepals"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The sepals often stay on the fruit after the petals and stamens have fallen. The tomato below them grew from the ovary.",
    "outcome": 5
   },
@@ -3252,12 +3252,12 @@
    "t": "mcq",
    "p": "A maize cob has a bare patch with no kernels. What is the most likely reason?",
    "opts": [
-    "The silks there caught no pollen",
     "The plant had too much sun",
+    "The silks there caught no pollen",
     "The cob had no ovules there",
     "The kernels there ripened early"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each kernel has one silk, and grows only if that silk catches a pollen grain. The bare patch had ovules and silks, but no pollen reached them.",
    "outcome": 6
   },
@@ -3279,11 +3279,11 @@
    "t": "mcq",
    "p": "Which of these flowers is bisexual?",
    "opts": [
-    "A hibiscus, with stamens and carpels in one flower",
     "A pumpkin flower with only stamens",
+    "A hibiscus, with stamens and carpels in one flower",
     "A papaya flower with only carpels"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bisexual means that one flower has both stamens and carpels. A flower with only one of them is unisexual, like the pumpkin flower with only stamens and the papaya flower with only carpels.",
    "outcome": 0
   },

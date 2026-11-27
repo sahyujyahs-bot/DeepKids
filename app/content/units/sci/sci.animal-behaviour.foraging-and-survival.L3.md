@@ -467,10 +467,10 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 ## Worksheets
 ### Hunt, Graze or Hide (core) (core, 16 questions)
 1. (mcq) A buffalo grazes beside a canal for most of the day. Why does she eat for so long?  
-   Options: Grass gives little energy in each mouthful, so she needs a lot / She is greedy / Grass is hard to find / She has nothing else to do  
+   Options: She is greedy / Grass gives little energy in each mouthful, so she needs a lot / Grass is hard to find / She has nothing else to do  
    **Answer:** Grass gives little energy in each mouthful, so she needs a lot. *Why:* Grass is easy to find, but each mouthful gives little energy and is slow to digest. So a grazer must eat a great deal. A strong answer does not blame the buffalo: every grazer needs that much.
 2. (mcq) A pond heron stands still at the edge of a pond for a long time. Then the heron stabs the water. How is the heron hunting?  
-   Options: By chasing / By ambush: waiting still, then striking / With a trap / By scavenging  
+   Options: By chasing / With a trap / By scavenging / By ambush: waiting still, then striking  
    **Answer:** By ambush: waiting still, then striking. *Why:* The heron waits, still and hidden, until a fish comes close, then strikes. That is an ambush. A chaser would run or fly after the fish, and a trapper would build something.
 3. (fill) An animal who hunts and eats other animals is called a ____.  
    **Answer:** ['predator']. *Why:* A predator hunts other animals. The animals a predator hunts are called prey.
@@ -498,16 +498,16 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 14. (perspective) Two friends in Hyderabad watch a film of a tiger chasing a deer.  
    **Answer:** A strong answer picks a side and gives evidence, such as most tiger hunts failing, or the cubs needing food. It also sees the other side: the deer wants to live too, or the tiger has to eat.. *Why:* Both friends are right about something. A tiger has to eat to live, and a deer escapes most hunts. A strong answer uses a fact from the unit, not just a feeling.
 15. (mcq) Which of these animals is a scavenger?  
-   Options: A vulture eating a cow who has died / A goat eating leaves / A spider waiting in her web / A flamingo filtering water  
+   Options: A goat eating leaves / A spider waiting in her web / A flamingo filtering water / A vulture eating a cow who has died  
    **Answer:** A vulture eating a cow who has died. *Why:* A scavenger eats animals that are already dead. The goat is a browser, the spider is a trapper, and the flamingo filters food from water.
 16. (write) A goat browses and a buffalo grazes. What is the difference?  
    **Answer:** A goat browses: she eats leaves and twigs from bushes and trees. A buffalo grazes: she eats grass and low plants on the ground.. *Why:* A strong answer says where each animal finds their food: up on bushes, or low on the ground.
 ### Hunters and the Hunted (stretch) (stretch, 16 questions)
 1. (mcq) In the Still or Moving test, the wriggling strip was spotted much sooner. What does this tell you about how prey stay alive?  
-   Options: Keeping still can save a prey animal's life / Moving fast always saves prey / Hunters notice only colour / Colour does not matter at all  
+   Options: Moving fast always saves prey / Keeping still can save a prey animal's life / Hunters notice only colour / Colour does not matter at all  
    **Answer:** Keeping still can save a prey animal's life. *Why:* Eyes notice movement quickly, so prey who freeze are harder to find. Moving fast can help once you have been seen, but not before.
 2. (mcq) A green leaf insect is put on a white wall. What happens?  
-   Options: She becomes easy to see, because her green no longer matches / She turns white to match / She becomes harder to see / Nothing changes  
+   Options: She turns white to match / She becomes harder to see / Nothing changes / She becomes easy to see, because her green no longer matches  
    **Answer:** She becomes easy to see, because her green no longer matches. *Why:* Camouflage works only against the right background. Leaf insects cannot change their colour, so on a white wall the match is gone.
 3. (write) Many fish, such as the mackerel, are dark blue on top and silvery white underneath. Explain how this helps them hide. Use the word 'countershading'.  
    **Answer:** This is countershading. Sunlight from above makes the top of the fish bright and the belly dark with shadow. The dark back and the pale belly cancel the difference. The top and the belly look the same shade, so the fish looks flat and blends in.. *Why:* A strong answer mentions the light coming from above and the shadow underneath. The Shadow Belly tubes show it.
@@ -550,7 +550,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
    Options: Ones darker on top and paler below / Ones paler on top and darker below / Plain bright ones / All were eaten the same  
    **Answer:** Ones darker on top and paler below. *Why:* Darker on top and paler below cancels out the light and shadow, so the caterpillar looks flat and is harder to spot. This is called countershading. When scientists tried this with wild birds, these caterpillars were eaten least.
 5. (mcq) A trained hawk attacks two flocks of pigeons, one big and one small. Which flock is more likely to escape?  
-   Options: The big flock, because someone in it notices the hawk sooner / The small flock, because it is quieter / Both the same / Neither, because hawks always win  
+   Options: The small flock, because it is quieter / Both the same / The big flock, because someone in it notices the hawk sooner / Neither, because hawks always win  
    **Answer:** The big flock, because someone in it notices the hawk sooner. *Why:* A real study in England found exactly this. More eyes meant the hawk was noticed sooner, so the big flock took off before she got close.
 6. (truefalse) A deer who keeps her head down to eat for a long time is easier for a tiger to ambush.  
    **Answer:** True. *Why:* True. With her head down, a deer cannot see or hear the tiger creeping closer. That is one reason grazers feed in herds, where others keep watch.
@@ -561,7 +561,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 9. (sort) Sort these hunters: does each one mostly wait for prey, or move after prey?  
    **Answer:** a house gecko by the tube light → Waits for prey; a dhole pack → Moves after prey; a mugger crocodile in a river → Waits for prey; a dragonfly catching insects in the air → Moves after prey; a spider in her web → Waits for prey; an antlion in her pit → Waits for prey. *Why:* Waiting saves energy but needs prey to come close. Moving after prey costs energy but can find prey anywhere. Dholes and dragonflies chase. The others wait.
 10. (mcq) Why do cows swallow grass quickly in the field and chew it properly later?  
-   Options: They can feed fast and chew later, while resting / Their teeth are too weak to chew / Grass tastes better the second time / They forget to chew  
+   Options: Their teeth are too weak to chew / They can feed fast and chew later, while resting / Grass tastes better the second time / They forget to chew  
    **Answer:** They can feed fast and chew later, while resting. *Why:* Swallowing quickly means less time with the head down in the open. Chewing the cud later, while resting, grinds the grass finer, so microbes in the stomach can break it down.
 11. (write) Humans are animals. How does a family in a city forage for food today? Compare a family shopping at a market with a herd of chital grazing.  
    **Answer:** A family searches for food at the market, chooses what to buy, and spends time and money getting it. Like the chital, they balance getting enough food with staying safe, for example crossing the road carefully. Unlike the chital, they buy food that other people grew.. *Why:* A strong answer finds at least one way the two are alike and one way they differ.
@@ -572,7 +572,7 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 14. (truefalse) If you moved your newspaper strips from the newspaper onto the plain white sheet, they would still be camouflaged.  
    **Answer:** False. *Why:* False. Camouflage needs a match between body and place. On the plain sheet, the grey print made the strips stand out.
 15. (mcq) In the Still or Moving test, a hunter spotted the still strip after 14, 10 and 12 seconds, and the wriggling strip after 2, 1 and 3 seconds. What is the best conclusion?  
-   Options: Moving gave the strip away / The wriggling strip was a different colour / The hunter got tired / There is no pattern  
+   Options: The wriggling strip was a different colour / The hunter got tired / There is no pattern / Moving gave the strip away  
    **Answer:** Moving gave the strip away. *Why:* The strip was the same and the newspaper was the same. Only the movement changed, and every wriggling try was much faster. So movement gave the strip away.
 
 ## Videos
@@ -582,34 +582,34 @@ That night, at the forest quarters, a house gecko sat very still on the wall bes
 
 ## Quiz
 1. (mcq) Which word means searching for food and getting it?  
-   Options: Forage / Hibernate / Migrate / Camouflage  
+   Options: Hibernate / Forage / Migrate / Camouflage  
    **Answer:** Forage. *Why:* To forage is to search for food and get it. Hibernating is a long winter rest, migrating is travelling far, and camouflage is hiding by matching the place.
 2. (mcq) A spider spins a sticky web and waits. How is she hunting?  
-   Options: By chasing / With a trap / By grazing / By scavenging  
+   Options: By chasing / By grazing / With a trap / By scavenging  
    **Answer:** With a trap. *Why:* The web is a trap that catches insects for her. She does not chase them.
 3. (mcq) A mugger crocodile lies still in a river, with only her eyes above the water. How is she hunting?  
    Options: By ambush / By chasing / By filtering / By grazing  
    **Answer:** By ambush. *Why:* She waits, still and hidden, until an animal comes to drink. That is an ambush.
 4. (mcq) Why does an elephant feed for most of the day and part of the night?  
-   Options: Leaves and grass give little energy in each mouthful / There is very little food in a forest / Elephants eat only at night / Elephants waste most of their food  
+   Options: There is very little food in a forest / Elephants eat only at night / Leaves and grass give little energy in each mouthful / Elephants waste most of their food  
    **Answer:** Leaves and grass give little energy in each mouthful. *Why:* Plants give little energy in each mouthful, and a big body needs a lot. So elephants spend most of their time eating.
 5. (mcq) Newspaper strips and plain white strips are scattered on a sheet of newspaper. A hunter picks them up as fast as she can. Which strips will she most likely miss?  
-   Options: The newspaper strips / The plain strips / Both the same / The hunter missed none  
+   Options: The plain strips / Both the same / The newspaper strips / The hunter missed none  
    **Answer:** The newspaper strips. *Why:* The newspaper strips match the background, so the hunter's eyes pass over them. That is camouflage. The plain strips stand out, so they are found first.
 6. (mcq) Newspaper strips were hard to find on a newspaper. Then the same strips were moved onto a plain white sheet. What happened?  
-   Options: They became easy to find / They stayed just as hidden / They changed colour / They were even harder to find  
+   Options: They stayed just as hidden / They changed colour / They were even harder to find / They became easy to find  
    **Answer:** They became easy to find. *Why:* On the white sheet the grey print no longer matched, so the strips stood out. Camouflage depends on the place.
 7. (mcq) Why do chital listen for langur alarm calls?  
-   Options: Langurs sit high in trees and can see a tiger or leopard from far away / Langurs are the chital's parents / Langurs chase tigers away / Langurs tell the chital where grass is  
+   Options: Langurs are the chital's parents / Langurs chase tigers away / Langurs sit high in trees and can see a tiger or leopard from far away / Langurs tell the chital where grass is  
    **Answer:** Langurs sit high in trees and can see a tiger or leopard from far away. *Why:* From the treetops, langurs see far. Their alarm calls warn the chital below, who look up and get ready to run.
 8. (mcq) A tortoise pulls her head and legs into her shell. How is she staying safe?  
-   Options: With armour / With camouflage / By chasing / With an alarm call  
+   Options: With camouflage / With armour / By chasing / With an alarm call  
    **Answer:** With armour. *Why:* The hard shell is armour. Many hunters cannot bite through it.
 9. (mcq) Why is keeping still a good way to stay hidden?  
-   Options: Many hunters notice movement first / Still animals become invisible / Hunters hunt only at night / Moving makes an animal change colour  
+   Options: Still animals become invisible / Hunters hunt only at night / Moving makes an animal change colour / Many hunters notice movement first  
    **Answer:** Many hunters notice movement first. *Why:* Eyes notice movement quickly. A still animal who matches the background is much harder to find, as the Still or Moving test showed.
 10. (mcq) Over a very long time, what happens when prey get better at hiding?  
-   Options: The hunters who survive are the ones better at finding them / All the hunters stop hunting / The prey stop needing to hide / Nothing changes  
+   Options: All the hunters stop hunting / The prey stop needing to hide / The hunters who survive are the ones better at finding them / Nothing changes  
    **Answer:** The hunters who survive are the ones better at finding them. *Why:* Hunters who cannot find enough food have fewer young. So, over many generations, hunters and prey change together.
 11. (mcq) A crow eats rice, fruit, insects and a dead rat. What kind of eater is the crow?  
    Options: An omnivore and a scavenger / A herbivore / A carnivore who only hunts / A filter feeder  

@@ -386,7 +386,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 ## Worksheets
 ### Born With It or Learned? (core) (core, 10 questions)
 1. (mcq) A baby spider spins her first web. Who taught her how?  
-   Options: Her mother / Nobody. She was born knowing how / The other spiders in the house  
+   Options: Nobody. She was born knowing how / Her mother / The other spiders in the house  
    **Answer:** Nobody. She was born knowing how. *Why:* In many kinds of spider, the mother is gone before the babies hatch. Each spiderling spins her first web with no teacher. This is instinct.
 2. (sort) Sort these. Can the baby animal do this on the first day, or does she need months to learn it?  
    **Answer:** a spiderling spinning a web → Ready on the first day; a baby talking → Needs months to learn; a calf standing up → Ready on the first day; a kitten catching a lizard → Needs months to learn; a hatchling crawling to the sea → Ready on the first day; a baby walking → Needs months to learn. *Why:* A spiderling, a calf and a hatchling do these on the first day. Talking, walking and hunting take months of learning and practice.
@@ -460,13 +460,13 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 ## Quiz
 1. (mcq) What is an instinct?  
-   Options: Something you learn at school / Something an animal can do from birth, without being taught / A kind of animal  
+   Options: Something you learn at school / A kind of animal / Something an animal can do from birth, without being taught  
    **Answer:** Something an animal can do from birth, without being taught. *Why:* An instinct is something an animal can do from birth, the first time, with no teaching, like a spiderling spinning a web.
 2. (mcq) Which of these is learned?  
-   Options: A baby drinking milk on her first day / A child speaking Malayalam / A sneeze  
+   Options: A baby drinking milk on her first day / A sneeze / A child speaking Malayalam  
    **Answer:** A child speaking Malayalam. *Why:* A child learns the language she hears every day. Drinking milk and sneezing are born-with actions.
 3. (mcq) Which baby animal can stand up and walk within a few hours of being born?  
-   Options: A calf / A human baby / A kitten  
+   Options: A human baby / A kitten / A calf  
    **Answer:** A calf. *Why:* A newborn calf stands within a few hours. Human babies take about a year to walk, and kittens take a few weeks.
 4. (mcq) How does a kitten learn to hunt?  
    Options: She was born knowing everything about hunting / By watching her mother and trying many times / She never hunts  
@@ -475,13 +475,13 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
    Options: She is not trying hard enough / The kick happens by itself, before she decides / Knee kicks are learned  
    **Answer:** The kick happens by itself, before she decides. *Why:* The knee kick is a reflex she was born with. It happens before she can decide, so trying does not switch it off.
 6. (mcq) What is a reflex?  
-   Options: A very quick action the body does by itself / A skill you practise / A kind of mirror  
+   Options: A skill you practise / A very quick action the body does by itself / A kind of mirror  
    **Answer:** A very quick action the body does by itself. *Why:* A reflex happens by itself, before you decide, like a sneeze, a blink or the knee kick.
 7. (mcq) Who taught a turtle hatchling to crawl to the sea?  
-   Options: Her mother / Nobody. She was born knowing / The fishermen  
+   Options: Nobody. She was born knowing / Her mother / The fishermen  
    **Answer:** Nobody. She was born knowing. *Why:* The turtle mother lays her eggs in the sand and goes back to the sea. The hatchlings crawl to the sea by instinct.
 8. (mcq) A young weaver bird's first nest is messy, and later nests are neat. What is true?  
-   Options: Weaving is all instinct / Weaving is all learned / He is born ready to weave, and gets better with practice  
+   Options: Weaving is all instinct / He is born ready to weave, and gets better with practice / Weaving is all learned  
    **Answer:** He is born ready to weave, and gets better with practice. *Why:* Weaving is a bit of both: born ready, and better with practice.
 9. (mcq) Which of these is a reflex?  
    Options: Blinking when a ball flies at your face / Brushing your teeth / Drawing a kolam  

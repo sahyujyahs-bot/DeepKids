@@ -499,11 +499,11 @@
       "t": "mcq",
       "q": "Why did the tiny drops from the first spray stay on the plate?",
       "options": [
-       "They were too small and light to run down",
        "The plate was too cold",
-       "Mist is not really water"
+       "Mist is not really water",
+       "They were too small and light to run down"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each tiny drop was too small and light to run down. Only when many joined into one big drop did it slide. Mist is water: you saw the drops join into a running drop."
      }
     }
@@ -666,11 +666,11 @@
       "t": "mcq",
       "q": "Why were the raindrops in the flour different sizes?",
       "options": [
-       "Each drop had joined a different number of tiny drops",
        "The flour changed their size",
-       "Big drops come from big clouds only"
+       "Big drops come from big clouds only",
+       "Each drop had joined a different number of tiny drops"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Raindrops grow by joining. Some join many tiny drops, some join fewer, so they end up different sizes. The flour only shows how big each one was."
      }
     }
@@ -1744,11 +1744,11 @@
    "t": "mcq",
    "p": "Why can a cloud float, even though it is made of water?",
    "opts": [
-    "Its drops are so tiny that they fall very slowly, and rising air holds them up",
     "Clouds have no weight",
+    "Its drops are so tiny that they fall very slowly, and rising air holds them up",
     "Clouds are hollow bubbles"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Clouds do weigh a lot. But their water is split into tiny drops that fall very slowly. The hollow bubble idea was shown wrong in 1846.",
    "outcome": 1
   },
@@ -1756,11 +1756,11 @@
    "t": "mcq",
    "p": "How does rain start inside a cloud?",
    "opts": [
-    "The cloud bursts open",
     "Tiny drops join into drops heavy enough to fall",
+    "The cloud bursts open",
     "The wind shakes the water out"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Rain begins when tiny cloud drops grow and join. A cloud has no skin to burst.",
    "outcome": 2
   },
@@ -1768,11 +1768,11 @@
    "t": "mcq",
    "p": "Where does the water in a cloud come from?",
    "opts": [
-    "From water that evaporated from seas, rivers and wet things",
     "From space",
+    "From water that evaporated from seas, rivers and wet things",
     "Clouds make new water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water evaporates into the air as invisible vapour, then cools high up into tiny drops. No new water is made.",
    "outcome": 3
   },
@@ -1780,11 +1780,11 @@
    "t": "mcq",
    "p": "Wet clothes hang on a balcony. By evening they are dry. Where did the water go?",
    "opts": [
-    "Into the air, as water vapour",
     "Into the clothes pegs",
-    "It disappeared for ever"
+    "It disappeared for ever",
+    "Into the air, as water vapour"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water evaporated into the air as vapour. Some day, that water may be part of a cloud.",
    "outcome": 3
   },
@@ -1792,11 +1792,11 @@
    "t": "mcq",
    "p": "Which clouds are most likely to bring rain?",
    "opts": [
-    "Thin white clouds",
     "Thick clouds with dark grey bottoms",
+    "Thin white clouds",
     "Small clouds on a sunny morning"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Thick clouds hold more water, so their drops have more chances to join. They look dark because little light comes out of the bottom.",
    "outcome": 4
   },
@@ -1805,10 +1805,10 @@
    "p": "Why does the bottom of a rain cloud look grey?",
    "opts": [
     "The water in it is dirty",
-    "The cloud is so thick that little sunlight gets through",
-    "It is full of smoke"
+    "It is full of smoke",
+    "The cloud is so thick that little sunlight gets through"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Grey clouds are made of clear water drops, like white clouds. They are just thick enough to stop most of the light.",
    "outcome": 4
   },
@@ -1831,10 +1831,10 @@
    "p": "You do the spray plate test three times and get 10, 13 and 11 sprays. What should you say?",
    "opts": [
     "The test failed, because the numbers are different",
-    "It always took many sprays before a drop ran down",
-    "Only the first try counts"
+    "Only the first try counts",
+    "It always took many sprays before a drop ran down"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Small differences are normal in any test. What all three tries agree on is the big result: tiny drops must join before they fall.",
    "outcome": 5,
    "how": "e1",

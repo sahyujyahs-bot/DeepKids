@@ -420,7 +420,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Squash → press it flatter; Bend → make it curve; Twist → turn the two ends opposite ways; Stretch → pull it longer. *Why:* These four words are ways of changing a thing's shape by pushing or pulling.
 2. (mcq) In the dough test, which piece could not become a soft ball again?  
-   Options: The squashed piece / The frozen piece / The cooked piece  
+   Options: The squashed piece / The cooked piece / The frozen piece  
    **Answer:** The cooked piece. *Why:* The tawa changed the dough into roti, a new material. Picking the frozen piece may mean the child did not wait for it to warm up in their hands.
 3. (sort) Sort these changes into 'can go back' and 'cannot go back'.  
    **Answer:** water frozen into ice → Can go back; a dosa cooked on a tawa → Cannot go back; a sponge squeezed → Can go back; popcorn popped → Cannot go back; a towel twisted → Can go back; an egg boiled → Cannot go back. *Why:* Freezing, squeezing and twisting can be undone. Cooking the dosa, popping the corn and boiling the egg changed them for good.
@@ -480,7 +480,7 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
    Options: Bending a ruler a little / Cooking dosa batter into a dosa / Freezing water into ice  
    **Answer:** Cooking dosa batter into a dosa. *Why:* A cooked dosa can never be batter again. The ruler springs back and the ice melts.
 3. (mcq) You squash a ball of dough flat. What is it made of now?  
-   Options: Atta dough, the same as before / A new material / Roti  
+   Options: A new material / Roti / Atta dough, the same as before  
    **Answer:** Atta dough, the same as before. *Why:* Squashing changes only the shape. It is still the same dough. Picking 'roti' mixes up squashing with cooking.
 4. (mcq) Dough comes out of the freezer stiff and cold. What happens when you hold it in your warm hands for a few minutes?  
    Options: It stays stiff for ever / It goes soft again / It turns into roti  
@@ -489,19 +489,19 @@ That evening, Selvi taught Karthik how to make a pot with walls as thick as his 
    Options: Spring back straight / Stay bent / Snap in two  
    **Answer:** Stay bent. *Why:* Foil stays bent, even after a small bend. A plastic ruler springs back. A toothpick snaps.
 6. (mcq) Which one is most likely to snap if you bend it a lot?  
-   Options: A rubber eraser / A toothpick / A kitchen sponge  
+   Options: A toothpick / A rubber eraser / A kitchen sponge  
    **Answer:** A toothpick. *Why:* A dry toothpick bends only a little, then snaps. The eraser and sponge spring back.
 7. (mcq) Ghee goes hard in the fridge. Can this change be undone?  
-   Options: Yes, it melts when it is warmed / No, it stays hard for ever / Only if you add water  
+   Options: No, it stays hard for ever / Yes, it melts when it is warmed / Only if you add water  
    **Answer:** Yes, it melts when it is warmed. *Why:* Cooling made the ghee solid, and warming melts it again. This is a reversible change.
 8. (mcq) In a kitchen, what makes most of the changes that cannot be undone?  
-   Options: Squashing / Heating / Cooling  
+   Options: Heating / Squashing / Cooling  
    **Answer:** Heating. *Why:* Heating makes roti, dosa, popcorn and boiled eggs, which never go back. Squashing and cooling can usually be undone.
 9. (mcq) You snap a dry twig in two. Which kind of change is this?  
    Options: Reversible, because it is still wood / Irreversible, because the pieces cannot be joined back / Not a change at all  
    **Answer:** Irreversible, because the pieces cannot be joined back. *Why:* The wood is still wood, but the twig cannot be made one piece again. Breaking is an irreversible change.
 10. (mcq) Before the dough test, what should you do first?  
-   Options: Guess what will happen, and say why / Read the answer / Cook all three pieces  
+   Options: Read the answer / Guess what will happen, and say why / Cook all three pieces  
    **Answer:** Guess what will happen, and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
 11. (mcq) A potter's clay pot has dried hard in the sun, but has not been in the kiln. A piece falls in water. What happens?  
    Options: It stays hard for ever / It goes soft and becomes clay again / It turns into pottery  

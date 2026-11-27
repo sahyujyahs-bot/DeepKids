@@ -936,12 +936,12 @@
       "t": "mcq",
       "q": "In water, the marble is still easy to see, but a little less easy than in the air. What does this tell you about water and glass?",
       "options": [
-       "Water bends light a little less than glass does, so there is still a bend at the marble's edge",
        "Water hides things completely",
        "Water soaks up the light",
-       "The marble gets smaller in water"
+       "The marble gets smaller in water",
+       "Water bends light a little less than glass does, so there is still a bend at the marble's edge"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Water bends light by an amount that is different from glass, but not by a lot. So at the marble's edge, light still bends, and your eye can see where the marble is. Many people think that water soaks up the light, but a thin layer of clear water soaks up almost nothing."
      },
      "context": "In this step, you look at the marble in air and then in water."
@@ -975,12 +975,12 @@
       "t": "mcq",
       "q": "The marble almost vanished in honey. What does this tell you about how we see the marble in the air?",
       "options": [
-       "We see it because light bends and bounces at its edge, where glass meets air",
        "We see it because it is heavy",
        "We see it because it is shiny",
+       "We see it because light bends and bounces at its edge, where glass meets air",
        "We see it because it makes its own light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Glass and air bend light by very different amounts, so the edge of the marble bends and bounces light, and we see that. In honey the difference is tiny, so there is almost nothing to see. The answer about being shiny is close, because shine comes from bouncing light, but the bend at the edge is the main thing."
      },
      "context": "In this step, you record your results and think about what they mean."
@@ -1132,12 +1132,12 @@
       "t": "mcq",
       "q": "Two lenses that are each see-through gave darkness when one was turned a quarter turn. Why?",
       "options": [
-       "The first lens lets through only up-and-down wiggles, and the second lets through only side-to-side wiggles, so nothing is left",
        "The lenses soaked up all the light",
        "The lenses were too close together",
+       "The first lens lets through only up-and-down wiggles, and the second lets through only side-to-side wiggles, so nothing is left",
        "The window got dimmer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The first lens passes only wiggles in one direction. The second, turned across it, passes only wiggles in the other direction. None of the first lens's light can get through the second. The lenses did not soak up all the light, because each lens alone lets plenty through."
      },
      "context": "In this step, you stack two lenses and turn one, and watch the window go dark."
@@ -1282,12 +1282,12 @@
       "t": "mcq",
       "q": "The lump of candy is clear, but the powder is white. What changed?",
       "options": [
-       "Crushing made many tiny surfaces that scatter light in every direction",
        "The sugar changed into a white material",
        "The sugar soaked up more light",
+       "Crushing made many tiny surfaces that scatter light in every direction",
        "The powder is heavier"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each grain is still clear. But the powder has thousands of surfaces, and light bends and bounces at every one, so it zigzags through the heap and comes back out in all directions. Mixed light from every direction looks white. Many people think the sugar changed into something else, but it is the same sugar."
      },
      "context": "In this step, you crush the candy into powder, and compare the lump with the powder."
@@ -1399,12 +1399,12 @@
       "t": "mcq",
       "q": "For each material, the numbers in the table add up to ten. Why?",
       "options": [
-       "Every ball must go somewhere, so the four shares add up to all ten",
        "Because we always throw ten",
+       "Every ball must go somewhere, so the four shares add up to all ten",
        "Because ten is a nice number",
        "Because balls cannot be lost"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each ball bounces, is kept, scatters or passes on. There are no other choices. So the four counts must add up to ten. In real life, the four shares of light also add up to all of the light that fell."
      },
      "context": "In this step, you throw the balls at each material and count where they go."
@@ -1654,12 +1654,12 @@
       "t": "mcq",
       "q": "Before we look through the polarising lens, the taped picture just looks clear. What will the lens show?",
       "options": [
-       "It will show colours that depend on the number of layers",
        "It will show nothing",
        "It will show the colour of the tape",
+       "It will show colours that depend on the number of layers",
        "It will make the tape disappear"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Clear tape is made of stretched plastic. It turns the wiggle direction of light. How far it turns depends on how thick the tape is and on the colour of the light. Between a polarised screen and a polarising lens, the turn shows up as colour. Without the lens, you cannot see it."
      },
      "context": "In this step, you stick the layers of tape on the plastic, following your plan."
@@ -1780,12 +1780,12 @@
       "t": "mcq",
       "q": "The thick syrup hid the marble better than the thin syrup. Why?",
       "options": [
-       "The thick syrup bends light by an amount closer to glass, so the edge shows less",
        "The thick syrup is heavier",
        "The thick syrup is darker",
-       "The marble sank deeper"
+       "The marble sank deeper",
+       "The thick syrup bends light by an amount closer to glass, so the edge shows less"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Dissolved sugar makes water bend light more, and the more sugar, the more it bends. A thick syrup bends light by an amount closer to glass, so there is less of a bend at the marble's edge, and the marble nearly vanishes. Heaviness or darkness is not the cause."
      },
      "context": "In this step, you test each liquid with the marble and score how easy it is to see."
@@ -1824,12 +1824,12 @@
      "t": "mcq",
      "p": "Which of these best describes a translucent material, such as butter paper?",
      "opts": [
-      "It lets light through, but scatters it, so you see a glow and no clear picture",
       "It lets all light through in straight lines",
       "It stops all light",
+      "It lets light through, but scatters it, so you see a glow and no clear picture",
       "It makes its own light"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A translucent material passes on light but scatters it in many directions. A transparent material lets light through straight, and an opaque one lets none through.",
      "outcome": 1
     },
@@ -1964,12 +1964,12 @@
      "t": "mcq",
      "p": "Rock sugar candy is clear, but ground to powder it is white. Why?",
      "opts": [
-      "The powder has thousands of tiny surfaces that scatter light in every direction",
       "The sugar changes into a white material when it is crushed",
       "The powder soaks up more light",
+      "The powder has thousands of tiny surfaces that scatter light in every direction",
       "The powder is heavier"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each grain is still clear. But light bends and bounces at every surface and zigzags through the heap, coming back out in all directions. Mixed light from every direction looks white.",
      "outcome": 3
     },
@@ -2066,12 +2066,12 @@
      "t": "mcq",
      "p": "Four identical sunglass lenses are held in a row. Each lets through half of the light that reaches it. What share of the original light gets through all four?",
      "opts": [
-      "One sixteenth",
       "One eighth",
       "One quarter",
+      "One sixteenth",
       "Nothing at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "After the first lens a half is left. After the second, half of a half, which is a quarter. After the third, an eighth. After the fourth, a sixteenth. Each lens takes the same share of what reaches it.",
      "outcome": 2
     },
@@ -2106,12 +2106,12 @@
      "t": "mcq",
      "p": "Ordinary window glass passes visible light but blocks most ultraviolet B light. What is the best explanation?",
      "opts": [
-      "Ultraviolet photons carry enough energy to lift electrons in the glass, and visible photons do not",
       "Ultraviolet is a colour that glass does not like",
+      "Ultraviolet photons carry enough energy to lift electrons in the glass, and visible photons do not",
       "Glass is too thin for ultraviolet",
       "Ultraviolet light is slower"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Light comes in packets of energy. Ultraviolet packets carry more energy than visible ones. In glass, only the big packets are strong enough to move the electrons, so the glass soaks up ultraviolet and passes visible light.",
      "outcome": 4
     },
@@ -2208,12 +2208,12 @@
      "t": "mcq",
      "p": "A wet piece of cloth looks darker than a dry one. What is the best explanation?",
      "opts": [
-      "Water fills the gaps between the fibres, so less light is scattered back to your eye",
       "Water makes the cloth black",
       "Water is heavy",
+      "Water fills the gaps between the fibres, so less light is scattered back to your eye",
       "Wet cloth is thicker"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dry cloth scatters light at the many surfaces between fibres and air. Water fills the gaps and bends light less at each surface, so less light scatters back to your eye, and the cloth looks darker.",
      "outcome": 3
     },
@@ -2301,12 +2301,12 @@
      "t": "mcq",
      "p": "In clear sea water at 50 metres deep, which colour of sunlight is left the most?",
      "opts": [
-      "Blue",
       "Red",
+      "Blue",
       "Orange",
       "Yellow"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water soaks up red first, then orange, yellow and green. Blue is soaked up least, so blue is the colour that lasts the deepest.",
      "outcome": 2
     }
@@ -2350,12 +2350,12 @@
      "t": "mcq",
      "p": "Which liquid would hide a glass marble best? Glass has a refractive index of about 1.5.",
      "opts": [
-      "A liquid with a refractive index of about 1.5",
       "A liquid with a refractive index of about 1.33",
       "A liquid with a refractive index of about 1",
+      "A liquid with a refractive index of about 1.5",
       "A liquid with a refractive index of about 2.4"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A clear thing vanishes best when the liquid bends light by the same amount as the thing. Glass is about 1.5, so a liquid of 1.5 is the best match. Water at 1.33 is only a partial match, and 2.4 would bend light the other way and the marble would reappear.",
      "outcome": 0
     },
@@ -2465,12 +2465,12 @@
      "t": "mcq",
      "p": "A student says that something which is opaque to light must be opaque to every kind of wave. Which fact shows that she is wrong?",
      "opts": [
-      "X-rays go through a hand that stops sunlight",
       "Glass is clear",
+      "X-rays go through a hand that stops sunlight",
       "Mirrors bounce light",
       "Sugar is white"
      ],
-     "a": 0,
+     "a": 1,
      "why": "X-rays pass through skin and muscle, which stop visible light. Radio waves go through walls too. Whether a material is opaque depends on the kind of wave.",
      "outcome": 6
     },
@@ -2493,12 +2493,12 @@
      "t": "mcq",
      "p": "The edge of a thick sheet of clear window glass looks green. What is the best reason?",
      "opts": [
-      "A trace of iron in the glass soaks up some of the red light, and the thick edge soaks up enough to show",
       "The glass is painted green",
       "The glass is wet",
+      "A trace of iron in the glass soaks up some of the red light, and the thick edge soaks up enough to show",
       "Green light is faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Glass contains a trace of iron. In a thin sheet it hardly shows. Looking along the edge, the light passes through a long path of glass, and more of the red is soaked up, so the green shows.",
      "outcome": 4
     },
@@ -2568,12 +2568,12 @@
    "t": "mcq",
    "p": "Three identical lenses are in a row, and each lets through half the light that reaches it. What fraction of the light passes through all three?",
    "opts": [
-    "One eighth",
     "One half",
+    "One eighth",
     "One third",
     "One sixth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Half of a half is a quarter, and half of a quarter is an eighth. Each lens takes the same share of what reaches it.",
    "outcome": 2
   },
@@ -2594,12 +2594,12 @@
    "t": "mcq",
    "p": "Why does a heap of clear salt crystals look white?",
    "opts": [
-    "Light scatters off the many tiny surfaces in every direction",
     "Salt soaks up all colours except white",
     "The crystals make their own white light",
-    "Salt is lighter than glass"
+    "Salt is lighter than glass",
+    "Light scatters off the many tiny surfaces in every direction"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each crystal is clear, but light bends and bounces at every surface, and comes back out in all directions. Mixed light from every direction looks white.",
    "outcome": 3
   },
@@ -2607,12 +2607,12 @@
    "t": "mcq",
    "p": "Why does ordinary window glass pass visible light but block most ultraviolet B?",
    "opts": [
-    "Ultraviolet photons carry enough energy to move electrons in the glass, and visible photons do not",
     "Ultraviolet is a colour that glass reflects",
+    "Ultraviolet photons carry enough energy to move electrons in the glass, and visible photons do not",
     "Ultraviolet moves too fast",
     "Window glass is painted"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light comes in packets of energy, and ultraviolet packets carry more energy than visible ones. Only the larger packets can lift the electrons in glass, so the glass soaks up the ultraviolet.",
    "outcome": 4
   },
@@ -2620,12 +2620,12 @@
    "t": "mcq",
    "p": "Two polarising lenses are turned a quarter turn from each other, and no light gets through. What is the best explanation?",
    "opts": [
-    "The first lens passes only one wiggle direction, and the second blocks that direction",
     "Each lens soaks up half of the light",
+    "The first lens passes only one wiggle direction, and the second blocks that direction",
     "The lenses reflect all the light",
     "The lenses are too close"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A polarising lens passes only light wiggling in one direction. A second lens turned across the first passes only the other direction, and nothing is left for it to pass.",
    "outcome": 5
   },
@@ -2646,12 +2646,12 @@
    "t": "mcq",
    "p": "Which of these passes through a hand that stops sunlight?",
    "opts": [
-    "X-rays",
     "Visible light",
     "Ultraviolet B",
-    "Blue light"
+    "Blue light",
+    "X-rays"
    ],
-   "a": 0,
+   "a": 3,
    "why": "X-rays pass through skin and muscle, and are stopped by bone. This shows that being opaque is about the kind of wave, not only the material.",
    "outcome": 6
   },
@@ -2672,12 +2672,12 @@
    "t": "mcq",
    "p": "Why does almost every see-through animal still have dark eyes?",
    "opts": [
-    "An eye must take in some light in order to sense it",
     "Dark eyes look nicer",
     "Dark eyes are warmer",
-    "All animals must be dark somewhere"
+    "All animals must be dark somewhere",
+    "An eye must take in some light in order to sense it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "An eye senses light by soaking some of it up. If every bit passed straight through, there would be nothing to sense. So seeing and being completely clear cannot go together.",
    "outcome": 0
   },
@@ -2698,12 +2698,12 @@
    "t": "mcq",
    "p": "In the Vanishing Glass test, you scored how easy the marble was to see in four places. Which result best fits the idea that we see clear things by what they do to light?",
    "opts": [
-    "The marble was easiest to see in air and hardest in honey",
     "The marble was easiest to see in honey",
+    "The marble was easiest to see in air and hardest in honey",
     "The marble looked the same everywhere",
     "The marble changed size"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air bends light very differently from glass, so the marble's edge shows clearly. Honey bends light almost like glass, so the edge nearly disappears.",
    "how": "e1",
    "outcome": 7

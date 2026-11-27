@@ -390,7 +390,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 2. (sort) Sort these into 'flat shape' and 'solid shape'.  
    **Answer:** a circle drawn on a slate → Flat shape; a ladoo → Solid shape; a square drawn in chalk → Flat shape; a steel tumbler → Solid shape; a triangle in a kolam → Flat shape; a matchbox → Solid shape. *Why:* Drawn shapes have only length and width. The ladoo, the tumbler and the matchbox have height too, so they are solids.
 3. (mcq) In the slice and trace test, what shape was the cut side of a cucumber slice?  
-   Options: A circle / A square / A triangle  
+   Options: A square / A circle / A triangle  
    **Answer:** A circle. *Why:* A cucumber is nearly a cylinder, so a straight cut across it gives a circle. Choosing the square may mean thinking of the whole vegetable, not the cut side.
 4. (draw) Draw the three slices of carrot you traced: from the thick end, the middle and near the tip.  
    **Answer:** Three circles that get smaller and smaller.. *Why:* A strong drawing shows the circle from the thick end biggest, and the one near the tip smallest, because a carrot gets thinner towards the tip.
@@ -409,7 +409,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
    **Answer:** 2. *Why:* A square drawn on paper has length and width but no height. The ball, the dice and the tumbler all have height, so they are solids.
 ### Slices, Faces and Nets (stretch) (stretch, 10 questions)
 1. (mcq) In the slice and trace test, the round potato was cut into 5 slices from top to bottom. Which slice was the biggest?  
-   Options: The top slice / The middle slice / The bottom slice  
+   Options: The middle slice / The top slice / The bottom slice  
    **Answer:** The middle slice. *Why:* A round potato is widest in the middle, so the middle slice is the biggest circle. Choosing the top or bottom may mean thinking every slice of a solid is the same size.
 2. (order) Put the slices of a round potato in order, from the top of the potato to the bottom.  
    **Answer:** ['a tiny circle', 'a middle-sized circle', 'the biggest circle', 'a small circle']. *Why:* A round potato is narrow at the top, widest in the middle, and narrow again at the bottom. So the slices grow, then shrink.
@@ -449,7 +449,7 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 8. (label) Look at the drawing of a potato cube with its corner cut off. Label the square face and the triangle.  
    **Answer:** ['the big face on the front: square', 'the small new face where the corner was: triangle']. *Why:* The cube's own faces are squares. Cutting off a corner makes a new flat face, and it is a triangle, because the cut crosses three faces.
 9. (mcq) A flat creature looks at a card square lying in her flat world. What does she see?  
-   Options: A square / A line / A cube  
+   Options: A line / A square / A cube  
    **Answer:** A line. *Why:* She can only look along her flat world, so she sees the square from its edge, as a line. In the flat eyes test, the card shapes looked like lines when your eye was level with the table.
 10. (write) Some scientists ask whether there could be more than three directions. Why would it be hard for us to find out?  
    **Answer:** We have never seen a fourth direction, just as Pulli has never seen up. We might only see slices of things that go into it.. *Why:* A strong answer compares us with Pulli: a flat creature meets a ball only as circles, so we might meet things in a fourth direction only as solids. Nobody knows yet whether a fourth direction exists.
@@ -461,19 +461,19 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
 
 ## Quiz
 1. (mcq) Which of these is a flat (2D) shape?  
-   Options: A ladoo / A circle drawn on paper / A steel tumbler  
+   Options: A ladoo / A steel tumbler / A circle drawn on paper  
    **Answer:** A circle drawn on paper. *Why:* A circle drawn on paper has length and width but no height. A ladoo and a tumbler have height, so they are solids.
 2. (mcq) A solid shape has three dimensions. What are they?  
-   Options: Length, width and height / Red, blue and green / Near, far and between  
+   Options: Red, blue and green / Near, far and between / Length, width and height  
    **Answer:** Length, width and height. *Why:* A solid can be measured three ways: how long, how wide and how tall.
 3. (mcq) Which solid is a dice?  
-   Options: A sphere / A cube / A cone  
+   Options: A cube / A sphere / A cone  
    **Answer:** A cube. *Why:* A dice has 6 square faces, so it is a cube. A sphere is round like a ball, and a cone has a point.
 4. (mcq) How many faces does a matchbox have?  
    Options: 4 / 6 / 8  
    **Answer:** 6. *Why:* A matchbox has a top, a bottom, a front, a back and two ends. That is 6 faces.
 5. (mcq) In the slice and trace test, what happened to the carrot slices from the thick end to the tip?  
-   Options: They stayed the same size / They got smaller / They got bigger  
+   Options: They got smaller / They stayed the same size / They got bigger  
    **Answer:** They got smaller. *Why:* A carrot gets thinner towards the tip, like a long cone, so its circles get smaller.
 6. (mcq) In the slice and trace test, a grown-up cut a corner off a potato cube. What shape was the cut side?  
    Options: A square / A circle / A triangle  
@@ -485,13 +485,13 @@ The next morning, Sidhu took the paper and a pencil. Next to Pulli's house, he d
    Options: Move forward / Move left / Jump up  
    **Answer:** Jump up. *Why:* Pulli's world has forward, back, left and right, but no up. So she can never jump up or step over a line.
 9. (mcq) A ball passes slowly down through Pulli's flat world. What does she see?  
-   Options: A whole ball / A circle that grows and then shrinks / Nothing at all  
+   Options: A circle that grows and then shrinks / A whole ball / Nothing at all  
    **Answer:** A circle that grows and then shrinks. *Why:* Pulli meets the ball one flat slice at a time. The slices grow to the biggest in the middle, then shrink, like the slices of the round potato in the slice and trace test.
 10. (mcq) Is a sheet of paper truly flat, with no height at all?  
    Options: Yes, it has no height / No, it is a very thin solid / Only when it is folded  
    **Answer:** No, it is a very thin solid. *Why:* A pile of 100 sheets is about 1 centimetre tall, so each sheet has a tiny height.
 11. (mcq) Is there a fourth direction, beyond length, width and height?  
-   Options: Yes, scientists have found it / No, scientists have proved there is none / Nobody knows yet  
+   Options: Nobody knows yet / Yes, scientists have found it / No, scientists have proved there is none  
    **Answer:** Nobody knows yet. *Why:* Some scientists think there might be more directions, too small or too hidden to notice. Nobody has found one. It is still an open question.
 
 ## Applications

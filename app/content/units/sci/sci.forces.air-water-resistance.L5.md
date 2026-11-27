@@ -659,7 +659,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 ## Worksheets
 ### Four forces and how they act (core) (core, 16 questions)
 1. (mcq) Which force from water acts on a boat that is not moving?  
-   Options: Upthrust / Water resistance / Friction / Air resistance  
+   Options: Water resistance / Friction / Upthrust / Air resistance  
    **Answer:** Upthrust. *Why:* Upthrust pushes up on anything in water, still or moving. Water resistance acts only on a thing that moves through the water.
 2. (truefalse) True or false: water resistance acts on a floating box that is perfectly still.  
    **Answer:** False. *Why:* False. Water resistance comes from pushing water out of the way, so a still box has none. A strong answer adds that upthrust does act on the still box.
@@ -696,7 +696,7 @@ That evening she lay on the planks and put one finger against the edge of the to
    **Answer:** ['applied']. *Why:* An applied force comes from a person, an animal or a machine. It is different from friction, which comes from a surface.
 ### Balanced forces, upthrust and fair tests (stretch) (stretch, 15 questions)
 1. (mcq) A skydiver falls at a steady 200 kilometres an hour. How big is the air resistance on her?  
-   Options: Bigger than her weight / Equal to her weight / Smaller than her weight / Zero  
+   Options: Bigger than her weight / Smaller than her weight / Equal to her weight / Zero  
    **Answer:** Equal to her weight. *Why:* A steady speed means balanced forces. Air resistance points up and gravity points down, so the two are equal. Choosing 'smaller' usually means thinking that a falling thing must have a bigger force downward.
 2. (write) In the Bag of Water, the rubber band went loose when the bag was under water. Explain why.  
    **Answer:** The bag displaced its own weight of water. So the upthrust on the bag equalled its weight, and nothing was left for the band to hold.. *Why:* A strong answer says that the water around the bag pushes up on it. That push is as big as the weight of the water displaced. It does not say that the water in the bag became lighter.
@@ -705,7 +705,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 4. (count) Five parachute drops land 20, 35, 10, 25 and 30 centimetres from the X. What is the mean, in centimetres?  
    **Answer:** 24. *Why:* 20 + 35 + 10 + 25 + 30 = 120. Then 120 ÷ 5 = 24. The mean distance is 24 centimetres.
 5. (mcq) One paper clip pulls a loaded floating box. The box starts very slowly. What makes the start slow?  
-   Options: Water resistance on the still box / The mass of the loaded box / Friction from the water / Upthrust pushing backward  
+   Options: Water resistance on the still box / Friction from the water / The mass of the loaded box / Upthrust pushing backward  
    **Answer:** The mass of the loaded box. *Why:* A still box has no water resistance, and water has no friction to hold it. The box starts slowly because a big mass takes time to speed up under a small pull.
 6. (draw) Draw a dough ball sinking at a steady speed. Show three forces with arrows of the right lengths.  
    **Answer:** A ball with gravity pointing down, and upthrust and water resistance pointing up. The two up arrows together are as long as the down arrow.. *Why:* A strong drawing makes the upward arrows add up to the downward one, because the speed is steady. A gravity arrow that is longer than both together would mean the ball is still speeding up.
@@ -718,7 +718,7 @@ That evening she lay on the planks and put one finger against the edge of the to
 10. (match) Match each place to the way a spacecraft can slow down to land there.  
    **Answer:** The Moon, with no air → rocket engines only; Mars, with very thin air → a parachute and then rockets; Titan, with thick air → parachutes alone; Deep space, far from any world → nothing slows it, so it keeps its speed. *Why:* A parachute needs air to push against. No air means rockets only. Very thin air means a parachute and rockets. Thick air means parachutes can do the work.
 11. (mcq) Two mean fall times, timed by hand, are 1.9 and 2.0 seconds. What can you say?  
-   Options: The second parachute is slower / The first parachute is slower / The gap is too small to trust / The stopwatch is broken  
+   Options: The gap is too small to trust / The second parachute is slower / The first parachute is slower / The stopwatch is broken  
    **Answer:** The gap is too small to trust. *Why:* A hand on a stopwatch is off by about 0.2 seconds. A gap of 0.1 seconds is smaller than that, so the two parachutes may be the same.
 12. (odd) Three of these get an upthrust. Which one does not?  
    Options: A boat on a lake / A stone on a pond bed / A helium balloon in air / A hammer falling on the Moon  
@@ -771,43 +771,43 @@ That evening she lay on the planks and put one finger against the edge of the to
 
 ## Quiz
 1. (mcq) Which of these forces always points up?  
-   Options: Friction / Air resistance / Upthrust / Water resistance  
+   Options: Upthrust / Friction / Air resistance / Water resistance  
    **Answer:** Upthrust. *Why:* Upthrust is the upward push of water or air. The other three point against a movement or a slide, whichever way that is.
 2. (mcq) A loaded box floats still in a tub. How much water resistance acts on it?  
    Options: None / A little / As much as its weight / Twice its weight  
    **Answer:** None. *Why:* Water resistance acts only on a thing that moves through the water. Upthrust is the force that equals the weight of the box.
 3. (mcq) On a table, what happens to the pull needed to start a box when its load is doubled?  
-   Options: It stays the same / It about doubles / It halves / It becomes zero  
+   Options: It about doubles / It stays the same / It halves / It becomes zero  
    **Answer:** It about doubles. *Why:* Friction grows with the weight pressing the surfaces together. Twice the load gives about twice the friction to overcome.
 4. (mcq) Which change makes the air resistance on a cyclist smaller?  
-   Options: Riding faster / Sitting upright / Bending low over the handlebar / Wearing a loose jacket  
+   Options: Riding faster / Bending low over the handlebar / Sitting upright / Wearing a loose jacket  
    **Answer:** Bending low over the handlebar. *Why:* Bending low makes the front area smaller. Riding faster, sitting upright and loose clothes all make air resistance bigger.
 5. (mcq) Which shape has the least drag in water at the same speed and front area?  
-   Options: A flat plate, face on / A ball / A cube / A fish shape  
+   Options: A fish shape / A flat plate, face on / A ball / A cube  
    **Answer:** A fish shape. *Why:* The fish shape is rounded in front and narrows behind, so water closes up smoothly and the wake is small.
 6. (mcq) What does the upthrust on a thing under water depend on?  
-   Options: How heavy the thing is / How much water the thing displaces / What the thing is made of / How deep the thing is  
+   Options: How heavy the thing is / What the thing is made of / How much water the thing displaces / How deep the thing is  
    **Answer:** How much water the thing displaces. *Why:* Upthrust equals the weight of the water displaced. Choosing 'how heavy' usually comes from seeing light things rise. They rise because their weight is smaller than the upthrust.
 7. (mcq) A bottle weighs less than the water it displaces. What does it do when let go under water?  
-   Options: Rises / Sinks / Hangs still / Spins  
+   Options: Sinks / Rises / Hangs still / Spins  
    **Answer:** Rises. *Why:* The upthrust equals the weight of the water displaced, which is more than the bottle's weight. The forces are unbalanced upward, so the bottle rises.
 8. (mcq) A coin sinks at a steady speed. What is true of the forces on it?  
-   Options: They are balanced / Gravity is winning / Upthrust is winning / There are none  
+   Options: Gravity is winning / Upthrust is winning / They are balanced / There are none  
    **Answer:** They are balanced. *Why:* A steady speed means balanced forces. Upthrust and water resistance together equal gravity.
 9. (mcq) Three parachute designs land, on average, 30, 31 and 29 centimetres from the target. Single drops of one design vary by 20 centimetres. What can you say?  
-   Options: The second design is worst / The third design is best / The designs are too close to tell apart / The test was unfair  
+   Options: The second design is worst / The designs are too close to tell apart / The third design is best / The test was unfair  
    **Answer:** The designs are too close to tell apart. *Why:* The means differ by only 2 centimetres, and single drops vary by ten times that. So the test cannot tell these designs apart.
 10. (mcq) What does a small vent in the top of a parachute mainly do?  
-   Options: Makes the fall much faster / Lets air out, so the canopy swings less / Makes the load lighter / Stops the canopy opening  
+   Options: Makes the fall much faster / Makes the load lighter / Stops the canopy opening / Lets air out, so the canopy swings less  
    **Answer:** Lets air out, so the canopy swings less. *Why:* Air caught under the canopy leaves through the vent and not under the edges. The canopy swings less, and the fall is hardly faster.
 11. (mcq) The same parachute carries a heavier load. What happens to its steady falling speed?  
    Options: It gets faster / It gets slower / It stays the same / It becomes zero  
    **Answer:** It gets faster. *Why:* A heavier load needs more air resistance to balance it. The same canopy gives more air resistance only at a higher speed.
 12. (mcq) Which of these can nobody yet work out exactly?  
-   Options: How turbulent water will swirl / Whether drag grows with speed / Whether upthrust points up / Whether the Moon has air  
+   Options: Whether drag grows with speed / Whether upthrust points up / How turbulent water will swirl / Whether the Moon has air  
    **Answer:** How turbulent water will swirl. *Why:* The equations for turbulent flow have never been solved exactly. The other three are settled.
 13. (mcq) A child pulls a box across the floor with a rope. What is the child's pull on the box?  
-   Options: An applied force / Upthrust / Air resistance  
+   Options: Upthrust / Air resistance / An applied force  
    **Answer:** An applied force. *Why:* A push or pull from a person, an animal or a machine is an applied force. Upthrust pushes up in air or water, and air resistance works against movement through air.
 
 ## Applications

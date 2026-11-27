@@ -844,11 +844,11 @@
       "t": "mcq",
       "q": "In Chain It, why does almost every event need the circulatory system?",
       "options": [
-       "Every working organ needs blood brought to it",
        "The heart decides what the body does",
-       "Blood is the only thing the body needs"
+       "Blood is the only thing the body needs",
+       "Every working organ needs blood brought to it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Blood brings oxygen and food to every organ and takes wastes away, so any job needs it. If you chose 'the heart decides', remember that the heart pumps but the deciding is done elsewhere."
      },
      "context": "This is the last step of Chain It. You look back at how many systems each event needed."
@@ -985,11 +985,11 @@
       "t": "mcq",
       "q": "In the One Breath Count, why do you time three counts at rest and not just one?",
       "options": [
-       "One try can be a fluke",
        "To make the lungs bigger",
-       "To get tired before the step-ups"
+       "To get tired before the step-ups",
+       "One try can be a fluke"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each try comes out a little different. The average of three is a fairer number to compare with. If you chose 'bigger lungs', remember that three breaths do not change the size of your lungs."
      },
      "context": "In this step of the One Breath Count, you time three counts on one breath while sitting at rest."
@@ -1584,11 +1584,11 @@
       "t": "mcq",
       "q": "In the Hundred Beans, the brain has 4 beans at rest and 4 in hard exercise. What does this tell you?",
       "options": [
-       "The brain gets about the same amount of blood",
        "The brain gets four times as much blood",
+       "The brain gets about the same amount of blood",
        "The brain stops working in exercise"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Four beans is 800 millilitres a minute in both rounds. The brain's supply is kept steady while the supply to other organs changes. If you chose 'four times', check the beans: the total grew four times, but the brain's bowl did not."
      },
      "parent": "Blood vessels in the gut and the kidneys narrow, and vessels in the muscles widen. So the gut and the kidneys get less than half of what they had, and digestion slows. The skin gets more because the blood carries heat there to be lost. The brain's supply stays the same. These figures are for a grown-up. A child's heart pumps less, but the pattern is the same.",
@@ -1768,11 +1768,11 @@
       "t": "mcq",
       "q": "Blood leaves the right ventricle. Where does it go next?",
       "options": [
-       "To the lungs",
        "To the legs",
+       "To the lungs",
        "To the left ventricle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The right ventricle pumps blood to the lungs to pick up oxygen. The blood then returns to the left atrium. If you chose the left ventricle, remember that a wall divides the two sides of the heart."
      },
      "context": "This is the last step of the Handover Map. You trace the path of the blood through the four chambers of the heart."
@@ -2106,12 +2106,12 @@
      "t": "mcq",
      "p": "Which part of the brain keeps your balance and makes movement smooth?",
      "opts": [
-      "The cerebellum",
       "The cerebrum",
       "The brainstem",
-      "The spinal cord"
+      "The spinal cord",
+      "The cerebellum"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The cerebellum sits at the back, under the cerebrum. Choosing the cerebrum is a common slip, because the names sound alike. The cerebrum does the thinking.",
      "outcome": 2
     },
@@ -2227,12 +2227,12 @@
      "t": "mcq",
      "p": "Why does your breathing stop for about a second when you swallow?",
      "opts": [
-      "The windpipe is covered",
       "The lungs are full",
+      "The windpipe is covered",
       "The stomach pushes up",
       "The nose closes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The voice box lifts and the epiglottis folds over the windpipe, so food cannot enter it. No air can pass until the swallow ends.",
      "outcome": 4,
      "how": "e3"
@@ -2241,12 +2241,12 @@
      "t": "mcq",
      "p": "In hard exercise, which organs get less blood than at rest?",
      "opts": [
-      "The gut and the kidneys",
       "The leg muscles",
+      "The gut and the kidneys",
       "The heart muscle",
       "The skin"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In the Hundred Beans, the gut and liver fall from 6 beans to 2. The kidneys fall from 5 to 2. Muscles, heart muscle and skin all get more.",
      "outcome": 6,
      "how": "a2"
@@ -2255,12 +2255,12 @@
      "t": "mcq",
      "p": "Six hours after a meal, where does most of the sugar in your blood come from?",
      "opts": [
-      "Glycogen stored in the liver",
       "The air in the lungs",
+      "Glycogen stored in the liver",
       "The bones",
       "The bladder"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The liver turns its stored glycogen back into sugar and releases it. The lungs, bones and bladder do not store sugar.",
      "outcome": 4
     },
@@ -2268,12 +2268,12 @@
      "t": "mcq",
      "p": "Which organ makes urea, and which organ removes it from the blood?",
      "opts": [
-      "The liver makes it, the kidneys remove it",
       "The kidneys make it, the liver removes it",
       "The lungs make it, the skin removes it",
-      "The stomach makes it, the bladder removes it"
+      "The stomach makes it, the bladder removes it",
+      "The liver makes it, the kidneys remove it"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The liver makes urea from used protein. The blood carries urea to the kidneys, which pass it out in urine.",
      "outcome": 1
     },
@@ -2447,12 +2447,12 @@
      "t": "mcq",
      "p": "A liver is washed until no sugar comes out. The next day it holds sugar again. What does this show?",
      "opts": [
-      "The liver makes sugar itself",
       "Sugar came in from the air",
       "The washing was not finished",
-      "The liver makes bile from sugar"
+      "The liver makes bile from sugar",
+      "The liver makes sugar itself"
      ],
-     "a": 0,
+     "a": 3,
      "why": "No food could reach the washed liver, so the new sugar must have come from a store inside it. That store is glycogen.",
      "outcome": 4
     },
@@ -2460,12 +2460,12 @@
      "t": "mcq",
      "p": "A child moves 24 beans alone, 17 while counting backwards and 23 while singing. What is the best conclusion?",
      "opts": [
-      "Two jobs that need attention slow each other",
       "Singing makes hands faster",
+      "Two jobs that need attention slow each other",
       "The hands were tired by the second round",
       "Counting backwards is impossible"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Counting backwards cost 7 beans and singing cost only 1. Tired hands would have slowed the singing round as well.",
      "outcome": 7,
      "how": "e2"
@@ -2474,12 +2474,12 @@
      "t": "mcq",
      "p": "An insect's blood carries almost no oxygen. How do the insect's cells get oxygen?",
      "opts": [
-      "Air tubes reach every part of the body",
       "The insect does not need oxygen",
       "Through the mouth and stomach",
-      "The wings fan it in"
+      "The wings fan it in",
+      "Air tubes reach every part of the body"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Fine air tubes run from holes along the insect's sides to every part of the body. So in an insect, breathing does not depend on blood.",
      "outcome": 0
     },
@@ -2487,12 +2487,12 @@
      "t": "mcq",
      "p": "When a person's kidneys stop working, why does the heart come under strain?",
      "opts": [
-      "Spare water and salt stay in the blood",
       "The kidneys stop pumping blood",
       "The heart has to make the urine",
-      "The lungs stop working too"
+      "The lungs stop working too",
+      "Spare water and salt stay in the blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The kidneys let out spare water and salt. If they stop, the amount of blood grows and the heart must pump harder. The kidneys never pumped the blood.",
      "outcome": 6
     },
@@ -2625,12 +2625,12 @@
    "t": "mcq",
    "p": "What is an organ system?",
    "opts": [
-    "A group of organs sharing one big job",
     "The largest organ in the body",
     "A group of cells of one kind",
-    "Any organ with two jobs"
+    "Any organ with two jobs",
+    "A group of organs sharing one big job"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Organs that work together on one big job, such as digesting food, form an organ system. A group of cells of one kind is a tissue.",
    "outcome": 0
   },
@@ -2651,12 +2651,12 @@
    "t": "mcq",
    "p": "Where does oxygen pass from the air into the blood?",
    "opts": [
-    "In the alveoli",
     "In the windpipe",
     "In the heart",
-    "In the throat"
+    "In the throat",
+    "In the alveoli"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The alveoli are tiny air bags wrapped in capillaries. The windpipe and throat only carry the air.",
    "outcome": 1
   },
@@ -2677,12 +2677,12 @@
    "t": "mcq",
    "p": "Which of these is an involuntary muscle?",
    "opts": [
-    "The muscle of the stomach wall",
     "The biceps",
     "The tongue",
-    "The calf muscle"
+    "The calf muscle",
+    "The muscle of the stomach wall"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The stomach wall churns food without your choosing. You move the biceps, the tongue and the calf when you decide to.",
    "outcome": 2
   },
@@ -2690,12 +2690,12 @@
    "t": "mcq",
    "p": "In which organ does a baby grow before birth?",
    "opts": [
-    "The uterus",
     "The stomach",
     "The ovary",
-    "The bladder"
+    "The bladder",
+    "The uterus"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The uterus, or womb, is a bag of muscle where the baby grows for about nine months. The ovary only releases the egg.",
    "outcome": 3
   },
@@ -2730,12 +2730,12 @@
    "t": "mcq",
    "p": "In hard exercise, where does most of the blood go?",
    "opts": [
-    "To the muscles",
     "To the gut",
     "To the kidneys",
+    "To the muscles",
     "To the brain"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About four fifths of the blood goes to the working muscles. The gut and the kidneys get less, and the brain gets about the same as at rest.",
    "outcome": 6,
    "how": "a2"

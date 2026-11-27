@@ -1150,11 +1150,11 @@
       "t": "mcq",
       "q": "In the Squirt Test, why do you squeeze three times for each set-up?",
       "options": [
-       "One squeeze can be a fluke",
        "The bottle works better when warm",
+       "One squeeze can be a fluke",
        "To use up the water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "No two squeezes are exactly alike. Three tries show how much the result changes when nothing else is changed. If you chose 'works better when warm', check your own numbers to see whether the later tries really went farther."
      },
      "context": "In this step of the Squirt Test, you measure how far the bottle squirts with nothing in the way."
@@ -1448,11 +1448,11 @@
       "t": "mcq",
       "q": "A vein in the hand stays empty until the finger nearer the fingertips is lifted. What does this show?",
       "options": [
-       "Blood in it flows towards the heart",
        "Blood in it flows towards the fingers",
+       "Blood in it flows towards the heart",
        "The vein holds no blood"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The vein filled only from the finger end, so blood enters from there and moves towards the wrist and the heart. Valves stop it from flowing back. If you chose 'towards the fingers', the vein would have filled from the wrist end."
      },
      "context": "This is the last step of Find a Valve in a Vein. You work out which way the blood moves and what stops it going back."
@@ -1617,11 +1617,11 @@
       "t": "mcq",
       "q": "Why does a tube open at both ends clear with less water than a tumbler with one opening?",
       "options": [
-       "Old water leaves before it can mix",
        "The tube is made of plastic",
+       "Old water leaves before it can mix",
        "Tubes hold dirtier water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the tube, new water pushes old water out at the far end. In the tumbler, new water is stirred into old, and each pour throws away some of the new water too. If you chose 'plastic', try a glass tube or a steel pipe in your mind. The flow would be the same."
      },
      "context": "This is the last step of the One-Way Pipe. You compare flow through a tube with flow in and out of a tumbler."
@@ -1894,11 +1894,11 @@
       "t": "mcq",
       "q": "A child packs 60 centimetres of paper strip into a matchbox. After wetting, 20 centimetres still have air on both sides. What is the score?",
       "options": [
-       "20 centimetres",
        "60 centimetres",
-       "40 centimetres"
+       "40 centimetres",
+       "20 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Only paper that air can reach on both sides can do the work of a breathing surface. The 40 centimetres that stuck together are like gill plates clumped in air. If you chose 60, you counted the paper that went in, not the paper that still works."
      },
      "context": "In this step of A Gill for Dry Land, you build your design, wet it and count the paper that stayed apart."
@@ -1989,11 +1989,11 @@
       "t": "mcq",
       "q": "One litre of water is put in a narrow bottle and one litre in a wide basin. Which takes in oxygen from the air faster?",
       "options": [
-       "The basin, with the wider surface",
        "The bottle, because it is deeper",
-       "Both the same, because both hold 1 litre"
+       "Both the same, because both hold 1 litre",
+       "The basin, with the wider surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Oxygen enters water only where water touches air. The basin has far more of that surface. If you chose 'both the same', you were thinking of how much water there is. That decides how much oxygen the water starts with, not how fast more can get in."
      },
      "context": "In this step of Carry the Fish Home, you measure the water surface of three containers that hold the same amount."
@@ -2021,12 +2021,12 @@
      "t": "mcq",
      "p": "Where does oxygen pass from the air into your blood?",
      "opts": [
-      "In the alveoli",
       "In the trachea",
       "In the heart",
-      "In the nose"
+      "In the nose",
+      "In the alveoli"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The alveoli are the tiny air sacs at the ends of the airways. Their walls are thin enough for oxygen to diffuse through. The trachea and nose only carry the air.",
      "outcome": 0
     },
@@ -2034,12 +2034,12 @@
      "t": "mcq",
      "p": "What happens to the air in your lungs during one quiet breath?",
      "opts": [
-      "All of it is changed",
       "Part of it is changed",
+      "All of it is changed",
       "None of it is changed",
       "It turns into water"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A quiet breath brings in a small amount of new air, which mixes with the air that stayed in the lungs. If you chose 'all of it', remember that the lungs never empty.",
      "outcome": 1
     },
@@ -2047,12 +2047,12 @@
      "t": "mcq",
      "p": "Why do gills stop working in air?",
      "opts": [
+      "The wet plates cling together",
       "Air has no oxygen",
       "Air is too cold",
-      "The wet plates cling together",
       "Air is too light to pump"
      ],
-     "a": 2,
+     "a": 0,
      "why": "In water each thin plate floats free. In air the wet plates stick to each other, and most of the surface is lost. Air has plenty of oxygen.",
      "outcome": 2
     },
@@ -2061,11 +2061,11 @@
      "p": "How many chambers does a fish's heart have?",
      "opts": [
       "One",
-      "Two",
       "Three",
+      "Two",
       "Four"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A fish's heart has one atrium and one ventricle. It pumps blood to the gills, and the blood goes straight on to the body.",
      "outcome": 4
     },
@@ -2074,11 +2074,11 @@
      "p": "Which of these animals has an open circulatory system?",
      "opts": [
       "Earthworm",
+      "Grasshopper",
       "Rohu fish",
-      "Crow",
-      "Grasshopper"
+      "Crow"
      ],
-     "a": 3,
+     "a": 1,
      "why": "A grasshopper's tube heart pumps haemolymph into the spaces of the body. The earthworm, the fish and the crow keep their blood inside vessels.",
      "outcome": 5
     },
@@ -2268,12 +2268,12 @@
      "t": "mcq",
      "p": "About how much of the air deep in an adult's lungs does one quiet breath change?",
      "opts": [
-      "About one seventh",
       "About one half",
+      "About one seventh",
       "All of it",
       "None of it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "About 350 millilitres of new air reaches the alveoli and mixes with roughly 2 litres already there. That is about one part in seven.",
      "outcome": 1
     },
@@ -2282,11 +2282,11 @@
      "p": "In a gill, why does blood flow against the water and not with it?",
      "opts": [
       "To cool the blood",
-      "To slow the water down",
       "So oxygen keeps crossing all along",
+      "To slow the water down",
       "To stop the gill leaking"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Flowing against the water, the blood always meets water with a little more oxygen than the blood has. So oxygen crosses along the whole length.",
      "outcome": 3
     },
@@ -2320,12 +2320,12 @@
      "t": "mcq",
      "p": "What happens to the watery liquid that leaks out of your capillaries?",
      "opts": [
-      "Lymph vessels return it to the blood",
       "It is all lost as sweat",
       "It collects in the feet for good",
-      "It turns into red blood cells"
+      "It turns into red blood cells",
+      "Lymph vessels return it to the blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Most of the liquid goes back into the capillaries. The rest, about 3 litres a day in an adult, is collected by lymph vessels and returned near the heart.",
      "outcome": 0
     },
@@ -2502,12 +2502,12 @@
      "t": "mcq",
      "p": "Lungs that mix old air with new waste part of each breath. What do they gain?",
      "opts": [
-      "A steady mixture for the blood",
       "More oxygen than a gill takes",
       "Blue blood",
-      "A faster heartbeat"
+      "A faster heartbeat",
+      "A steady mixture for the blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Because each breath changes only a little of the air, the oxygen and carbon dioxide next to the blood stay almost steady from breath to breath.",
      "outcome": 1
     },
@@ -2517,10 +2517,10 @@
      "opts": [
       "Icefish need no oxygen",
       "Their gills work as lungs",
-      "Very cold water holds more oxygen",
-      "They breathe through ice"
+      "They breathe through ice",
+      "Very cold water holds more oxygen"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Cold water holds more dissolved oxygen, and a cold body uses less. An icefish also has a large heart that moves a great deal of blood.",
      "outcome": 6
     },
@@ -2529,11 +2529,11 @@
      "p": "An animal has air tubes that reach every cell. What might the blood not need to carry?",
      "opts": [
       "Food",
-      "Oxygen",
       "Waste",
+      "Oxygen",
       "Hormones"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If air is piped straight to the cells, the blood is not needed for oxygen. It still has to carry food, waste and hormones.",
      "outcome": 6
     },
@@ -2555,12 +2555,12 @@
      "t": "mcq",
      "p": "Oxygen pressure is higher in lung air than in the blood arriving. Which way does oxygen diffuse?",
      "opts": [
-      "From air to blood",
       "From blood to air",
       "Both ways equally",
-      "It does not move"
+      "It does not move",
+      "From air to blood"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Diffusion goes from where there is more to where there is less. No pumping is needed. Carbon dioxide diffuses the other way for the same reason.",
      "outcome": 0
     },
@@ -2748,10 +2748,10 @@
    "opts": [
     "After 1 breath",
     "After 2 breaths",
-    "After 3 breaths",
-    "Never completely"
+    "Never completely",
+    "After 3 breaths"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Each breath leaves half of what was there: a half, a quarter, an eighth, and so on. The amount gets too small to see, but halving never reaches zero.",
    "outcome": 1,
    "how": "e1"
@@ -2761,11 +2761,11 @@
    "p": "What holds the thin plates of a gill apart?",
    "opts": [
     "Small bones",
-    "The water between them",
     "Air bubbles",
-    "A muscle in each plate"
+    "A muscle in each plate",
+    "The water between them"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The plates float free in water. This is why they cling together when a fish is lifted into air.",
    "outcome": 2
   },
@@ -2788,10 +2788,10 @@
    "opts": [
     "A crow",
     "A human",
-    "A fish",
-    "A crocodile"
+    "A crocodile",
+    "A fish"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A fish has single circulation. Blood leaves the gills and goes on to the body without returning to the heart first.",
    "outcome": 4
   },
@@ -2799,12 +2799,12 @@
    "t": "mcq",
    "p": "Why does your right ventricle push more gently than your left?",
    "opts": [
+    "Lung capillaries have very thin walls",
     "It is a tired muscle",
     "Lungs need very little blood",
-    "It rests on every second beat",
-    "Lung capillaries have very thin walls"
+    "It rests on every second beat"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The walls between air and blood in the lungs are extremely thin, so the blood there is kept at low pressure. All of the blood still passes through the lungs.",
    "outcome": 4
   },
@@ -2813,11 +2813,11 @@
    "p": "Where does the haemolymph of a grasshopper flow?",
    "opts": [
     "Inside capillaries",
-    "Through the body spaces, round the organs",
     "Only in the wings",
-    "Inside the air tubes"
+    "Inside the air tubes",
+    "Through the body spaces, round the organs"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A grasshopper has an open circulatory system. The tube heart pumps haemolymph out into the spaces of the body.",
    "outcome": 5
   },
@@ -2825,12 +2825,12 @@
    "t": "mcq",
    "p": "What shares the work of breathing with a frog's lungs?",
    "opts": [
-    "Thin, wet skin",
     "A diaphragm",
     "Air sacs",
+    "Thin, wet skin",
     "Spiracles"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A frog's skin is thin, wet and full of capillaries, and a large share of the oxygen crosses there. Frogs have no diaphragm.",
    "outcome": 6
   },
@@ -2838,12 +2838,12 @@
    "t": "mcq",
    "p": "What do a bird's air sacs do?",
    "opts": [
+    "Push air one way through the lungs",
     "Store food for long flights",
     "Take up most of the oxygen",
-    "Push air one way through the lungs",
     "Pump blood to the wings"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The air sacs are bellows. Oxygen is taken up in the stiff lungs, and the sacs keep air moving through them in one direction.",
    "outcome": 6
   },
@@ -2852,11 +2852,11 @@
    "p": "In the Squirt Test, what gave the water its push back after the cotton wool?",
    "opts": [
     "A thicker plug",
-    "A second squeeze",
     "More water",
+    "A second squeeze",
     "A longer nozzle"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The water lost its push in the plug. Only a second squeeze sent it far again. In your body, the left ventricle gives that second push.",
    "outcome": 7,
    "how": "e2"
@@ -2866,10 +2866,10 @@
    "p": "A doctor says: 'This vessel has thin walls and valves, and it carries blood back to the heart.' What is it?",
    "opts": [
     "An artery",
-    "A vein",
-    "The aorta"
+    "The aorta",
+    "A vein"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Veins carry blood back to the heart, and their valves stop it flowing backwards. Arteries, such as the aorta, carry blood away from the heart.",
    "outcome": 0
   },

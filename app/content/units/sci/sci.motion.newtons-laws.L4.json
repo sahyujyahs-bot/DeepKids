@@ -756,11 +756,11 @@
       "t": "mcq",
       "q": "A cart's net force triples and its mass doubles. Compared with before, is the change in speed each second bigger, smaller or the same?",
       "options": [
-       "Bigger",
        "Smaller",
-       "The same"
+       "The same",
+       "Bigger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Three times the force would triple the change. Twice the mass would halve it. Three halves is one and a half times, so the change is bigger. Picking 'the same' means only one of the two changes was counted."
      },
      "context": "In this step, you add up the scores and try one last tricky card."
@@ -926,11 +926,11 @@
       "t": "mcq",
       "q": "Why must the start line be in the same place for every run?",
       "options": [
-       "So the cart travels the same distance every time",
        "So the cart looks neat",
-       "So the bag stays dry"
+       "So the bag stays dry",
+       "So the cart travels the same distance every time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the cart started further back sometimes, a longer time could be because of the longer trip and not because of the bag or the load."
      },
      "context": "In this step, you build the machine. The thread, the pen, the bag and the cart are the same for every test."
@@ -964,11 +964,11 @@
       "t": "mcq",
       "q": "The bag with 400 millilitres of water pulled the cart across in less time than the bag with 100 millilitres. What does that tell you?",
       "options": [
-       "A bigger pull changes the cart's speed by more every second",
        "A bigger pull makes the cart lighter",
-       "Water makes the wheels turn easier"
+       "Water makes the wheels turn easier",
+       "A bigger pull changes the cart's speed by more every second"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Only the water in the bag changed, so the bigger pull is the reason. A bigger pull gives a bigger net force, and a bigger net force changes the cart's speed by more every second. The cart's mass did not change, so picking 'lighter' is not right."
      },
      "context": "In this step, you change only the pull, and time the cart three times with each bag."
@@ -984,11 +984,11 @@
       "t": "mcq",
       "q": "With the same bag, the cart with three bottles took longer than the cart with one bottle. Why?",
       "options": [
-       "The same pull changed the speed of the bigger mass by less every second",
        "The bag's pull got smaller when the cart got heavier",
-       "Heavy things always go slower, whatever pulls them"
+       "Heavy things always go slower, whatever pulls them",
+       "The same pull changed the speed of the bigger mass by less every second"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The bag was the same, so the pull was the same. More bottles meant more mass, and the same net force changes a bigger mass by less. The bag's pull did not shrink. And heavy things do not always go slower. When the Earth is the one pulling, it pulls a heavy thing harder, and you will test this in the Ramp Surprise experiment."
      },
      "context": "In this step, you change only the load, and time the cart three times for each load."
@@ -1160,11 +1160,11 @@
       "t": "mcq",
       "q": "Why do we release the cart by letting go and never by pushing?",
       "options": [
-       "A push would add a force that changes from run to run",
        "A push would break the wheels",
+       "A push would add a force that changes from run to run",
        "A push is always too slow"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only the ramp or the load may change. If one run gets a bigger push than another, the times would differ because of the push and not because of the ramp or the load."
      },
      "context": "In this step, you set up the ramp and make a fair way to start the cart."
@@ -1180,11 +1180,11 @@
       "t": "mcq",
       "q": "The cart took less time on the ramp that was 24 centimetres high than on the one 6 centimetres high. Why?",
       "options": [
-       "The steeper ramp gave a bigger pull along the slope",
        "The steeper ramp made the cart lighter",
-       "The cart wanted to go faster"
+       "The cart wanted to go faster",
+       "The steeper ramp gave a bigger pull along the slope"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On a steeper ramp, more of the Earth's pull on the cart acts along the slope. A bigger force along the slope changes the cart's speed by more every second. The cart did not get lighter."
      },
      "context": "In this step, you change only the height of the ramp and time the cart three times at each height."
@@ -1316,11 +1316,11 @@
       "t": "mcq",
       "q": "The full bag was harder to start and harder to stop than the empty bag. What is the best reason?",
       "options": [
-       "It has more mass, so it takes more force to change its motion",
        "It has less mass",
+       "It has more mass, so it takes more force to change its motion",
        "The floor got rougher"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The same push changes a bigger mass by less, so the full bag speeds up less. Your hand also slows a bigger mass by less, so the full bag is harder to stop. The floor and the wheels were the same."
      },
      "context": "In this step, you load the thing and push it in the same way.",
@@ -1426,11 +1426,11 @@
       "t": "mcq",
       "q": "The same paper fell slowly on its own, but fell quickly when lying on the book. What is the best reason?",
       "options": [
-       "The air pushes up on the flat paper, and the book kept the air away from it",
        "The book made the paper heavier",
-       "Gravity pulls harder on paper that lies on a book"
+       "Gravity pulls harder on paper that lies on a book",
+       "The air pushes up on the flat paper, and the book kept the air away from it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper's weight did not change. When it fell alone, air pushed up on its wide, flat shape and slowed it. On top of the book, the book moved the air out of the way. The crumpled ball has a smaller area for the air to push on."
      },
      "context": "In this step, you drop a sheet of paper in three ways, and see what the air does."
@@ -1539,11 +1539,11 @@
       "t": "mcq",
       "q": "Why does pulling your hands back make the catch feel softer?",
       "options": [
-       "The ball takes longer to stop, so the force on your hands is smaller",
        "The ball becomes lighter",
+       "The ball takes longer to stop, so the force on your hands is smaller",
        "The ball is slower before it arrives"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ball goes from its speed to zero either way. When your hands move back, the stop takes more time. A change in motion spread over more time needs a smaller force. The ball did not get lighter or slower."
      },
      "context": "In this step, you catch the ball two ways and feel the difference."
@@ -1783,11 +1783,11 @@
       "t": "mcq",
       "q": "Why do we measure from the tape line and not from the top of the ramp?",
       "options": [
-       "The brakes start working at the tape line, so that is where stopping starts",
        "The tape line is easier to see",
+       "The brakes start working at the tape line, so that is where stopping starts",
        "The ramp is not part of the test"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Stopping distance is measured from where the brakes start. On the board, the car is speeding up. On the towel, it is slowing down. We want to know how far the car goes while it is being stopped."
      },
      "context": "In this step, you build the test track and decide where to measure from."
@@ -1821,11 +1821,11 @@
       "t": "mcq",
       "q": "The car from 16 centimetres reached about twice the speed of the car from 4 centimetres. About how many times as far did it go on the towel?",
       "options": [
-       "About 4 times as far",
        "About 2 times as far",
-       "About the same distance"
+       "About the same distance",
+       "About 4 times as far"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The towel slows the car by about the same amount every second, whatever its speed. A faster car takes longer to stop, and it also travels faster for all that time. Twice the time and twice the speed make four times the distance."
      },
      "parent": "If your results are messy, say so, and talk about why. Doubling the speed should give about four times the distance, give or take a lot. The pattern to look for is that the distance grows about as fast as the height.",
@@ -1940,11 +1940,11 @@
       "t": "mcq",
       "q": "Your cart got faster after you cut a lot of cardboard off it. What is the best reason?",
       "options": [
-       "The same pull now had less mass to speed up",
        "The bag got heavier",
+       "The same pull now had less mass to speed up",
        "The bottle got lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bag, the bottle and the thread stayed the same. The cart had less mass, so the same pull changed the speed by more every second."
      },
      "context": "In this step, you test your cart and improve it with one change at a time."
@@ -1981,11 +1981,11 @@
      "t": "mcq",
      "p": "Two carts are pulled with the same bag of water. One cart is empty and one carries a full bottle. Which statement is right?",
      "opts": [
-      "The empty cart speeds up more every second",
       "The loaded cart speeds up more every second",
-      "Both speed up the same, because the pull is the same"
+      "Both speed up the same, because the pull is the same",
+      "The empty cart speeds up more every second"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The same pull changes a bigger mass by less. The loaded cart has more mass, so it speeds up less. Picking 'the same' forgets that mass matters as well as the pull.",
      "outcome": 0,
      "how": "e1"
@@ -2084,11 +2084,11 @@
      "t": "mcq",
      "p": "Some people say a stone falls faster than a feather because it is heavier. Where would a stone and a feather fall together?",
      "opts": [
-      "On the Moon, where there is no air",
       "On a windy day on a hill",
-      "Underwater in a bucket"
+      "Underwater in a bucket",
+      "On the Moon, where there is no air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The feather falls slowly because air pushes up on it. With no air, nothing slows the feather, and both gain speed at the same rate. In 1971, a hammer and a feather landed together on the Moon.",
      "outcome": 3,
      "how": "a2"
@@ -2185,11 +2185,11 @@
      "t": "mcq",
      "p": "Landing from a small jump with straight legs can hurt the knees. Why does bending the knees help?",
      "opts": [
-      "The stop takes longer, so the force on the body is smaller",
       "Bending makes the body lighter",
+      "The stop takes longer, so the force on the body is smaller",
       "Bent knees stop the Earth pulling"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The body goes from its speed to zero either way. Bending the knees makes the stop take more time. A change in motion spread over more time needs a smaller force. The body does not get lighter.",
      "outcome": 5,
      "how": "a3"
@@ -2218,11 +2218,11 @@
      "t": "mcq",
      "p": "On a space station, an astronaut pushes a large floating box. What happens?",
      "opts": [
-      "The box is hard to get moving, because it has a lot of mass",
       "The box moves easily, because it has no weight and so no mass",
+      "The box is hard to get moving, because it has a lot of mass",
       "The box does not move at all in space"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Weightless things still have mass. A large box on the space station is hard to get moving and hard to stop. Weight is the pull of gravity. Mass is how much matter a thing has, and it resists a change in motion everywhere.",
      "outcome": 0
     },
@@ -2353,11 +2353,11 @@
      "t": "mcq",
      "p": "An astronaut gives the same push to a floating box of tools and to a floating empty box. What happens?",
      "opts": [
-      "The box of tools changes its speed less",
       "Both change their speed by the same amount",
+      "The box of tools changes its speed less",
       "The box of tools floats away faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The box of tools has more mass. The same push changes a bigger mass by less. Both boxes are weightless, so weight does not matter. Mass does.",
      "outcome": 0
     },
@@ -2490,11 +2490,11 @@
      "t": "mcq",
      "p": "A bag of 200 millilitres of water pulls a cart across a table in 1.2 seconds. Which change would make the trip take the least time?",
      "opts": [
-      "Take one bottle off the cart",
       "Use a longer thread",
-      "Paint the cart a bright colour"
+      "Paint the cart a bright colour",
+      "Take one bottle off the cart"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Taking a bottle off lowers the mass, so the same pull changes the speed by more every second. A longer thread does nothing to the pull or the mass, and paint does not matter.",
      "outcome": 1,
      "how": "e1"
@@ -2517,11 +2517,11 @@
      "t": "mcq",
      "p": "A bathroom scale in a lift reads more than usual just after the lift starts going up. Why?",
      "opts": [
-      "The lift is speeding up, so the scale has to push up on you with more than your weight",
       "Your mass increases when you go up",
-      "Gravity gets stronger in a lift"
+      "Gravity gets stronger in a lift",
+      "The lift is speeding up, so the scale has to push up on you with more than your weight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To speed you up, the scale must push up with more than the Earth pulls down. The scale shows how hard it pushes. Your mass and the Earth's pull do not change.",
      "outcome": 1,
      "how": "a4"
@@ -2640,11 +2640,11 @@
      "t": "mcq",
      "p": "At the edge of some galaxies, stars move faster than the matter we can see should allow. What is one idea scientists have for this?",
      "opts": [
-      "There may be unseen dark matter pulling on them",
       "Stars at the edge are heavier",
-      "Newton's laws do not exist there"
+      "Newton's laws do not exist there",
+      "There may be unseen dark matter pulling on them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most astronomers think unseen dark matter is pulling on the stars. A few physicists think the second law itself may change for extremely faint pulls. Nobody has settled the question.",
      "outcome": 6
     },
@@ -2704,11 +2704,11 @@
    "t": "mcq",
    "p": "A cart is pulled with a net force. The net force is doubled and the cart is the same. What happens to the change in speed each second?",
    "opts": [
-    "It doubles",
     "It halves",
+    "It doubles",
     "It stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Twice the net force gives twice the acceleration. Picking 'halves' mixes up force and mass.",
    "outcome": 0
   },
@@ -2728,11 +2728,11 @@
    "t": "mcq",
    "p": "In the Hanging Bag Cart test, which change makes the cart's trip take less time?",
    "opts": [
-    "More water in the bag",
     "More bottles on the cart",
+    "More water in the bag",
     "Starting the cart further back"
    ],
-   "a": 0,
+   "a": 1,
    "why": "More water is a bigger pull, so the cart's speed changes by more every second. More bottles slow it down, and starting further back makes the trip longer.",
    "outcome": 1,
    "how": "e1"
@@ -2741,11 +2741,11 @@
    "t": "mcq",
    "p": "Which of these is a change in motion?",
    "opts": [
-    "A bus going round a bend at a steady speed",
     "A bus parked at a stand",
-    "A bus going straight at a steady speed"
+    "A bus going straight at a steady speed",
+    "A bus going round a bend at a steady speed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A change in motion is a change in speed or in direction. Going round a bend changes the direction every moment, even if the speed stays the same.",
    "outcome": 2
   },
@@ -2753,11 +2753,11 @@
    "t": "mcq",
    "p": "A heavy ball and a light ball are dropped together in a place with no air. What happens?",
    "opts": [
-    "They land together",
     "The heavy one lands first",
+    "They land together",
     "The light one lands first"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth pulls the heavy ball harder, but it also has more mass, so the two cancel. Both gain speed at the same rate.",
    "outcome": 3
   },
@@ -2765,11 +2765,11 @@
    "t": "mcq",
    "p": "A cyclist rides at a steady speed on a flat road. What is true of the forces along the road?",
    "opts": [
-    "The forward push equals the backward push",
     "There is only a forward push",
+    "The forward push equals the backward push",
     "There are no forces at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At a steady speed the net force is zero. The forces are balanced, not missing.",
    "outcome": 4
   },
@@ -2784,11 +2784,11 @@
    "t": "mcq",
    "p": "A rocket's engines push with the same force while it burns fuel. What happens to its acceleration?",
    "opts": [
-    "It gets bigger, because the mass gets smaller",
     "It gets smaller, because the fuel is gone",
+    "It gets bigger, because the mass gets smaller",
     "It stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same push acts on a smaller mass, so the speed changes by more every second.",
    "outcome": 5
   },
@@ -2803,11 +2803,11 @@
    "t": "mcq",
    "p": "Which question about the second law do scientists still argue about?",
    "opts": [
-    "Does the law change for very faint pulls far out in galaxies?",
     "Does a bigger force change motion more?",
-    "Do heavy things fall faster than light things?"
+    "Do heavy things fall faster than light things?",
+    "Does the law change for very faint pulls far out in galaxies?"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The other two questions are settled by countless tests. Whether the law changes for extremely faint pulls is an open question, linked to the puzzle of dark matter.",
    "outcome": 6
   },
@@ -2832,11 +2832,11 @@
    "t": "mcq",
    "p": "A book rests on a table. Which statement is right?",
    "opts": [
-    "The Earth pulls it down and the table pushes it up equally",
     "Only the Earth pulls on it",
+    "The Earth pulls it down and the table pushes it up equally",
     "The table pushes up harder than the Earth pulls down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The book is not moving, so the net force is zero. The table's push upwards must equal the Earth's pull downwards.",
    "outcome": 4
   },

@@ -479,10 +479,10 @@
       "q": "Who looks after the seahorse eggs until the babies hatch?",
       "options": [
        "The mother",
-       "The father",
-       "Nobody"
+       "Nobody",
+       "The father"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In seahorses, the father has a pouch, and he carries the eggs in it until they hatch. If you chose the mother, that is the usual guess, because in most animals she does it."
      }
     },
@@ -717,10 +717,10 @@
       "q": "A child took 8 minutes to fold the clothes alone. When her mother helped, the two of them took 5 minutes. Was that exactly half the time?",
       "options": [
        "Yes, 5 is half of 8",
-       "No, half of 8 is 4, so it took a little longer than half",
-       "No, it took twice as long"
+       "No, it took twice as long",
+       "No, half of 8 is 4, so it took a little longer than half"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Half of 8 minutes is 4 minutes. They took 5, which is more than half. Helpers can get in each other's way or wait for each other. If you chose 'Yes', check by doubling 5: that is 10, not 8."
      }
     },
@@ -1428,11 +1428,11 @@
    "t": "mcq",
    "p": "A child lives with his grandparents, his parents, his uncle, his aunt and two cousins in one home. What kind of family is this?",
    "opts": [
-    "A nuclear family",
     "A joint family",
+    "A nuclear family",
     "Not a family, because there are too many people"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A joint family has grandparents, parents, uncles, aunts and cousins under one roof. A nuclear family is only parents and their children.",
    "outcome": 1
   },
@@ -1440,11 +1440,11 @@
    "t": "mcq",
    "p": "A girl lives with only her mother. Are they a family?",
    "opts": [
-    "Yes, because they live together and care for each other",
     "No, a family needs a mother and a father",
+    "Yes, because they live together and care for each other",
     "Only if grandparents live with them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Care is what makes a family, not how many people there are. A mother and a daughter are a family of two. Choosing 'No' means thinking there is only one shape of family.",
    "outcome": 1
   },
@@ -1452,11 +1452,11 @@
    "t": "mcq",
    "p": "In Telugu, Ammamma is your mother's mother and Nannamma is your father's mother. What does English call both of them?",
    "opts": [
-    "Grandmother",
     "Aunt",
+    "Grandmother",
     "Great-grandmother"
    ],
-   "a": 0,
+   "a": 1,
    "why": "English uses one word, grandmother, for both. Telugu has a separate word for each, so the word tells you which side of the family she is on.",
    "outcome": 0
   },
@@ -1477,11 +1477,11 @@
    "t": "mcq",
    "p": "In many Indian homes, women do most of the unpaid home work, like cooking, cleaning and caring. If a survey timed this work for women and for men, what would it most likely find?",
    "opts": [
-    "Both spend about the same time",
     "Women spend much more time on it than men",
+    "Both spend about the same time",
     "Men spend much more time on it than women"
    ],
-   "a": 1,
+   "a": 0,
    "why": "If women do most of the unpaid home work, they spend far more minutes on it each day. India's Time Use Survey found about 299 minutes a day for women and about 97 for men.",
    "outcome": 3
   },
@@ -1490,10 +1490,10 @@
    "p": "Which of these must parents or guardians in India do for a child of 8?",
    "opts": [
     "Send the child out to work for money",
-    "Send the child to school",
-    "Keep the child at home to do housework"
+    "Keep the child at home to do housework",
+    "Send the child to school"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The Right to Education Act of 2009 gives every child from 6 to 14 the right to free schooling, and parents are expected to send daughters and sons alike. Paid work for a child under 14 is mostly against the law.",
    "outcome": 4
   },
@@ -1501,11 +1501,11 @@
    "t": "mcq",
    "p": "Long ago, most girls in India were kept at home and not sent to school. What would change that most for girls?",
    "opts": [
-    "Opening schools where girls are welcome to study",
     "Building more hospitals",
-    "Starting a newspaper"
+    "Starting a newspaper",
+    "Opening schools where girls are welcome to study"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Girls can only learn at school if there is a school that lets them in. When people opened schools for girls, more girls learned to read, even though some people fought against it.",
    "outcome": 5
   },
@@ -1514,10 +1514,10 @@
    "p": "Harry Harlow gave baby monkeys two model mothers. One was wire and gave milk. One was soft cloth and gave no milk. Which did the babies cling to?",
    "opts": [
     "The wire one, because it gave milk",
-    "The cloth one",
-    "Neither of them"
+    "Neither of them",
+    "The cloth one"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The babies drank from the wire mother, then went back to cling to the cloth one, and ran to her when scared. Comfort mattered to them as much as food. Choosing the wire one is the old idea that babies love whoever feeds them.",
    "outcome": 4
   },
@@ -1526,10 +1526,10 @@
    "p": "An Asian koel lays her egg in a house crow's nest. Who feeds the koel chick?",
    "opts": [
     "The koel mother",
-    "The house crows",
-    "Nobody"
+    "Nobody",
+    "The house crows"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The crows raise the koel chick along with their own chicks. The koel mother does not come back to feed the chick.",
    "outcome": 6,
    "how": "g1"
@@ -1563,11 +1563,11 @@
    "t": "mcq",
    "p": "A woman is a nurse at a hospital and is paid every month. Which kind of work is this?",
    "opts": [
-    "Paid work outside the home",
     "Unpaid home work",
+    "Paid work outside the home",
     "Not really work at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nursing at a hospital is paid work outside the home. Cooking and cleaning for your own family are unpaid home work, and they are real work too.",
    "outcome": 3
   }
@@ -1664,11 +1664,11 @@
      "t": "mcq",
      "p": "In Hindi, Bua is your father's sister and Mausi is your mother's sister. What does English call both of them?",
      "opts": [
-      "Aunt",
       "Cousin",
-      "Grandmother"
+      "Grandmother",
+      "Aunt"
      ],
-     "a": 0,
+     "a": 2,
      "why": "English uses aunt for both. Hindi has two words, so the word tells you which side of the family she is on."
     },
     {
@@ -1755,11 +1755,11 @@
      "t": "mcq",
      "p": "Your mother's mother belongs to which side of your family?",
      "opts": [
-      "Your mother's side",
       "Your father's side",
+      "Your mother's side",
       "Neither side"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Relatives through your mother are on your mother's side, and that includes her parents."
     },
     {
@@ -1798,10 +1798,10 @@
      "p": "When India adds up the value of all the work done in the country in a year, which of these is left out?",
      "opts": [
       "A cook paid to make meals in a hotel",
-      "Ajji cooking lunch for her own family",
-      "A factory making bicycles"
+      "A factory making bicycles",
+      "Ajji cooking lunch for her own family"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted."
     },
     {
@@ -1847,11 +1847,11 @@
      "t": "mcq",
      "p": "Long ago, some experts told parents not to hug or kiss their children. Later studies showed that baby monkeys clung to a soft cloth mother for comfort. What does that tell us about the old advice?",
      "opts": [
-      "It was right: hugs spoil children",
       "It was wrong: young ones need comfort and touch",
+      "It was right: hugs spoil children",
       "It does not matter either way"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Baby monkeys chose a soft, comforting mother even over one that gave milk. Comfort and touch matter to young ones, so telling parents not to hug was poor advice."
     },
     {
@@ -1939,11 +1939,11 @@
      "t": "mcq",
      "p": "Which is the best reason to do the Home Work Count on a normal evening, not a festival day?",
      "opts": [
-      "Festival days have no work",
       "So the count shows a usual day",
+      "Festival days have no work",
       "Because clocks do not work on festivals"
      ],
-     "a": 1,
+     "a": 0,
      "why": "On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.",
      "how": "e1"
     },
@@ -2022,10 +2022,10 @@
      "p": "In the 2011 Census, about 82 in every 100 men in India could read and write, and about 65 in every 100 women. What is the best explanation?",
      "opts": [
       "Women are not as good at learning to read",
-      "For many years, fewer girls were sent to school",
-      "Women did not want to read"
+      "Women did not want to read",
+      "For many years, fewer girls were sent to school"
      ],
-     "a": 1,
+     "a": 2,
      "why": "For many years, many families kept daughters at home to work, so fewer women learned to read. It is about who got the chance, not about ability."
     },
     {
@@ -2046,11 +2046,11 @@
      "t": "mcq",
      "p": "A girl folded 20 clothes alone in 12 minutes, then with her aunt in 7 minutes, then alone again in 9 minutes. Why was her second try alone faster than her first?",
      "opts": [
-      "Practice made her faster",
       "The clothes got smaller",
+      "Practice made her faster",
       "Her aunt was still helping"
      ],
-     "a": 0,
+     "a": 1,
      "why": "She had folded the same clothes twice before, so she had practised. This is why the test folds alone at the start and the end.",
      "how": "e2"
     },

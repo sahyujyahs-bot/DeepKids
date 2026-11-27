@@ -616,11 +616,11 @@
       "t": "mcq",
       "q": "A wooden spoon. Which mat?",
       "options": [
-       "Living cells now",
        "Cells that were once alive",
+       "Living cells now",
        "Never made of cells"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wood comes from a tree. It is made of the stiff walls of tree cells, which are now dead. So it was made by living cells, but it is not alive now. Picking 'never made of cells' usually means thinking anything hard and still is like a stone. Picking 'living cells now' usually means thinking anything from a tree is still alive."
      }
     },
@@ -635,11 +635,11 @@
       "t": "mcq",
       "q": "Curd from the kitchen. Which mat?",
       "options": [
-       "Living cells now",
        "Cells that were once alive",
+       "Living cells now",
        "Never made of cells"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Curd is milk that has been changed by bacteria. Bacteria are tiny single cells, and in fresh curd millions of them are alive. That is why a spoonful of curd can set a new bowl of milk. Picking 'never made of cells' usually means thinking curd is only milk."
      }
     },
@@ -664,10 +664,10 @@
       "q": "A grain of salt under the magnifier looks like a little cube. Is the cube a cell?",
       "options": [
        "Yes, it is one big cell",
-       "No, salt was never alive, so it has no cells",
-       "Yes, all small things are cells"
+       "Yes, all small things are cells",
+       "No, salt was never alive, so it has no cells"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Salt is a crystal. It forms when salty water dries. It was never alive, so it has no cells. Its straight edges come from its tiny particles lining up in rows. Picking 'one big cell' usually means mixing up any small neat shape with a cell."
      }
     },
@@ -1012,11 +1012,11 @@
       "t": "mcq",
       "q": "How are your cheek cells different from onion cells?",
       "options": [
-       "They are soft, flat and round-ish, with no stiff wall",
        "They are exactly the same long boxes",
+       "They are soft, flat and round-ish, with no stiff wall",
        "They have no nucleus at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cheek cells are animal cells. They have no cell wall, so they are floppy, flat and roundish, often folded. Onion cells are plant cells with stiff walls, so they look like boxes. Both have a nucleus, the dark dot. Picking 'exactly the same' usually means the cells were too faint to see clearly. Try more stain or more light."
      },
      "parent": "Cheek cells are clear and thin, so they are hard to find. Use the stain and plenty of light. If you have no microscope, still make the smear. The faint blue haze on the slide is thousands of your cells. They are flat and roundish, like fried eggs."
@@ -1172,11 +1172,11 @@
       "t": "mcq",
       "q": "Bowl A, with living curd, set into curd. Bowl C, with boiled curd, stayed runny. Why?",
       "options": [
-       "Heat killed the bacteria in the curd, so there were no living cells to multiply",
        "Boiled curd is too lumpy to mix with milk",
-       "Bowl C was just unlucky"
+       "Bowl C was just unlucky",
+       "Heat killed the bacteria in the curd, so there were no living cells to multiply"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Curd is set by living bacteria. In warm milk they split again and again, and turn the milk sour and thick. Boiling killed them, so nothing could multiply in bowl C. Bowl B had no curd bacteria added at all. Picking 'unlucky' is worth testing: do it again and see if the same thing happens."
      }
     },
@@ -1335,11 +1335,11 @@
       "t": "mcq",
       "q": "Which drop makes letters look bigger?",
       "options": [
-       "The tiny, very round drop",
        "The big, flat drop",
-       "They are always the same"
+       "They are always the same",
+       "The tiny, very round drop"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A tiny drop is more curved. The more curved a lens is, the more it bends light, and the bigger things look. That is why Leeuwenhoek's best lenses were tiny glass beads. Picking 'the big drop' usually means thinking a bigger lens always magnifies more. A big lens shows more, but a curvier lens magnifies more."
      }
     },
@@ -1451,11 +1451,11 @@
       "t": "mcq",
       "q": "About how many onion cells fit side by side across one mustard seed?",
       "options": [
-       "About 10",
        "About 1",
-       "About a million"
+       "About a million",
+       "About 10"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre wide. So about 10 fit across. Picking '1' usually means thinking cells are as big as seeds. Picking 'a million' is too many for one row, though a whole onion has millions of cells."
      }
     },
@@ -1611,11 +1611,11 @@
       "t": "mcq",
       "q": "What is a single cotton fibre?",
       "options": [
-       "one long cell",
        "made of thousands of round cells",
+       "one long cell",
        "not made of cells at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each cotton fibre grows from one cell on the cotton seed's skin. The cell grows very long, then dies, leaving the tube-shaped wall. Picking 'not made of cells' usually means thinking cloth was never alive. Cotton comes from a plant."
      }
     },
@@ -1930,12 +1930,12 @@
      "t": "mcq",
      "p": "What is a cell?",
      "opts": [
-      "A tiny stone inside living things",
       "The smallest living piece of a living thing",
+      "A tiny stone inside living things",
       "A room in a house",
       "A kind of battery"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A cell is the smallest piece of a living thing that is alive on their own. We also say 'cell' for a battery. It is the same word with a different meaning. 'A tiny stone' means thinking cells are dead building blocks, but each cell is alive.",
      "art": "A single cell drawn big, next to a battery with a question mark."
     },
@@ -1943,12 +1943,12 @@
      "t": "mcq",
      "p": "Which of these is made of cells?",
      "opts": [
+      "A mango leaf",
       "A steel spoon",
       "A glass marble",
-      "A mango leaf",
       "A plastic bucket"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A mango leaf is part of a living tree, so the leaf is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells."
     },
     {
@@ -1967,12 +1967,12 @@
      "t": "mcq",
      "p": "The onion skin looked like long boxes side by side. Why do onion cells have straight edges?",
      "opts": [
-      "They are frozen",
       "They have a stiff cell wall",
+      "They are frozen",
       "They are made of glass",
       "The stain makes them straight"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Plant cells have a stiff wall outside their membrane. The walls give them straight, box-like edges. The stain does not change the shape. It only makes the walls easier to see.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
@@ -2044,10 +2044,10 @@
      "opts": [
       "From mud and dust",
       "From the air",
-      "From cells splitting into two",
-      "From food turning into cells by itself"
+      "From food turning into cells by itself",
+      "From cells splitting into two"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Every new cell comes from a cell splitting into two. 'Mud and dust' is the old idea that life can appear by itself, and careful experiments showed it is not true. Food gives cells what they need to split, but food alone never becomes a cell."
     },
     {
@@ -2128,11 +2128,11 @@
      "p": "Which of these is a single cell?",
      "opts": [
       "A whole leaf",
-      "One cotton fibre",
       "A cockroach",
-      "A strand of spider web"
+      "A strand of spider web",
+      "One cotton fibre"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Each cotton fibre grows from one cell on the cotton seed. A leaf and a cockroach are made of many cells. Spider silk is made by cells but is not a cell itself. Being thin and flat does not make something one cell."
     },
     {
@@ -2203,12 +2203,12 @@
      "t": "mcq",
      "p": "Which is the fairest way to compare three magnifiers?",
      "opts": [
-      "Use a new onion for each magnifier",
       "Use the same onion skin and the same light for every magnifier",
+      "Use a new onion for each magnifier",
       "Use the best light for the weakest magnifier",
       "Look for a different time with each one"
      ],
-     "a": 1,
+     "a": 0,
      "why": "To be fair, change only one thing: the magnifier. Keep the onion skin, the light and the looking time the same. Otherwise you do not know which change made the difference.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
@@ -2278,11 +2278,11 @@
      "p": "Why do we put a drop of stain on onion skin?",
      "opts": [
       "It makes the cells bigger",
-      "It makes the cell edges and the dark dot easier to see",
       "It kills the bacteria in the onion",
+      "It makes the cell edges and the dark dot easier to see",
       "It makes the skin thicker"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A stain is a dye. It colours parts of the cells, so their edges and nucleus stand out. It does not change their size.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
@@ -2307,11 +2307,11 @@
      "p": "In the 1830s, Theodor Schwann thought new cells formed out of a clear liquid, the way crystals form in salty water. What evidence showed he was wrong?",
      "opts": [
       "Cells are too small to see",
-      "Under the microscope, new cells were seen forming when one cell split into two",
       "Crystals are alive",
-      "Salt water has cells in it"
+      "Salt water has cells in it",
+      "Under the microscope, new cells were seen forming when one cell split into two"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Robert Remak watched cells divide in growing chick eggs and showed that new cells come from old ones. Nobody has ever seen a cell form from liquid. A crystal grows by adding pieces on its outside. A cell grows from inside, and then splits."
     },
     {
@@ -2319,11 +2319,11 @@
      "p": "A slime mould had to cross a bridge covered in a harmless bitter taste to reach food. At first they crossed slowly. After a few days, they crossed quickly. What does this show?",
      "opts": [
       "They grew a brain",
-      "They got tired",
       "They learned to ignore something harmless, a simple kind of memory",
+      "They got tired",
       "The taste disappeared by itself"
      ],
-     "a": 2,
+     "a": 1,
      "why": "In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds get used to a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. They could not have grown a brain: they stayed one cell."
     },
     {
@@ -2344,11 +2344,11 @@
      "p": "A spoon of curd sets warm milk in about 8 hours in summer. In a cold winter kitchen it takes much longer. Why?",
      "opts": [
       "Winter milk has no bacteria",
-      "Curd bacteria split more slowly when they are cold",
       "Cold milk is too thick",
-      "Bacteria sleep only in winter"
+      "Bacteria sleep only in winter",
+      "Curd bacteria split more slowly when they are cold"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Living cells do their work faster when they are warm, up to a point. In the cold, the curd bacteria split more slowly, so they take longer to become enough to set the milk. This is why many families keep the curd bowl in a warm corner in winter.",
      "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
      "how": "e3"
@@ -2365,11 +2365,11 @@
      "p": "Which of these is an idea that scientists are still testing, not a settled fact?",
      "opts": [
       "All living things are made of cells",
-      "New cells come from cells",
       "The first cells began as tiny fatty bubbles holding molecules that could copy themselves",
+      "New cells come from cells",
       "Plant cells have walls"
      ],
-     "a": 2,
+     "a": 1,
      "why": "How the first cell began is still an open question. The fatty-bubble idea is one of the best guesses. The other three have been checked by millions of observations."
     },
     {
@@ -2377,11 +2377,11 @@
      "p": "A Stentor is a trumpet-shaped single cell. Drop chalk specks onto one, and it bends away, then reverses its hairs, then shrinks, then swims off. Which answer best describes this?",
      "opts": [
       "Being pushed by the water",
-      "Doing exactly one thing for ever",
       "Trying different responses, one after another",
+      "Doing exactly one thing for ever",
       "Sleeping"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Stentor tries a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did."
     },
     {
@@ -2499,12 +2499,12 @@
    "t": "mcq",
    "p": "Why can we see cells in onion skin but not in a thick slice of onion?",
    "opts": [
-    "The skin is only one cell thick, so light passes through",
     "The skin has bigger cells",
     "The thick slice has no cells",
+    "The skin is only one cell thick, so light passes through",
     "Skin cells glow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Light must pass through the sample for us to see the cells clearly. A thick slice has many layers piled up, and they block the light. The whole onion is made of cells.",
    "outcome": 2,
    "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
@@ -2527,11 +2527,11 @@
    "t": "mcq",
    "p": "When stained, both onion cells and cheek cells show one dark dot. What is that dot?",
    "opts": [
-    "The nucleus, which both plant and animal cells have",
     "A speck of dirt",
-    "An air bubble"
+    "An air bubble",
+    "The nucleus, which both plant and animal cells have"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Both plant cells and animal cells have a nucleus. The stain makes it darker than the rest of the cell. This is one way the two kinds are alike.",
    "outcome": 3
   },
@@ -2539,12 +2539,12 @@
    "t": "mcq",
    "p": "Which of these is made of living cells right now?",
    "opts": [
-    "A sprouting moong seed",
     "A paper notebook",
+    "A sprouting moong seed",
     "A leather chappal",
     "A steel tumbler"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sprouting seed is alive and growing. Paper is made from the cells of trees that died, and leather from an animal's skin cells that died. Steel was never made of cells.",
    "outcome": 4
   },
@@ -2553,10 +2553,10 @@
    "p": "Each step on the size ladder is 10 times smaller. A mustard seed is 1 millimetre across. How big is the cell two steps below the seed?",
    "opts": [
     "A tenth of a millimetre",
-    "A hundredth of a millimetre",
-    "A thousandth of a millimetre"
+    "A thousandth of a millimetre",
+    "A hundredth of a millimetre"
    ],
-   "a": 1,
+   "a": 2,
    "why": "One step down from 1 millimetre is a tenth of a millimetre, and another step down is a hundredth of a millimetre. A red blood cell is about this size.",
    "outcome": 5,
    "how": "a3",
@@ -2567,10 +2567,10 @@
    "p": "What do scientists still argue about when it comes to bacteria?",
    "opts": [
     "Whether bacteria are made of cells",
-    "Whether sensing, remembering and choosing, as bacteria do, should be called thinking",
-    "Whether bacteria can swim"
+    "Whether bacteria can swim",
+    "Whether sensing, remembering and choosing, as bacteria do, should be called thinking"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Everyone agrees that a bacterium is one cell, and that many bacteria swim. They agree on what bacteria do. They argue about what to call it.",
    "outcome": 6
   },
@@ -2603,11 +2603,11 @@
    "t": "mcq",
    "p": "When you set curd, why must the milk cool to warm before you add the spoon of curd?",
    "opts": [
-    "Very hot milk would kill the curd bacteria, so none would be left to split",
     "Hot milk is too thin to set",
-    "Curd bacteria only grow in fridge-cold milk"
+    "Curd bacteria only grow in fridge-cold milk",
+    "Very hot milk would kill the curd bacteria, so none would be left to split"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Curd bacteria are living cells. Very hot milk kills them, just like boiling the curd does. Warm milk lets them split fast. Fridge-cold milk slows them right down.",
    "outcome": 7
   }

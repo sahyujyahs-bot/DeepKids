@@ -1009,11 +1009,11 @@
       "t": "mcq",
       "q": "A tester measures with a ruler whose end is chipped. Which mat fits?",
       "options": [
-       "The measuring is rough",
        "The thing varies",
+       "The measuring is rough",
        "We hoped for it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A chipped end gives the same error on every reading. That is a fault in the measuring tool. Choosing 'the thing varies' usually means thinking all wobble comes from the material."
      },
      "context": "In this step, you play the middle of the game and learn a fix for each fault."
@@ -1153,11 +1153,11 @@
       "t": "mcq",
       "q": "Why do we tape a square on the floor and let go from the flag every time?",
       "options": [
-       "So only the ball changes and every drop starts the same",
        "So the floor looks tidy",
-       "So the balls cannot roll away"
+       "So the balls cannot roll away",
+       "So only the ball changes and every drop starts the same"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the height or spot also changed, a difference in the bounce might come from them and not from the ball. Choosing 'looks tidy' misses the point: the tape is a measuring aid."
      },
      "context": "In this step, you build the bounce wall, so every drop starts from the same height and lands on the same spot."
@@ -1246,11 +1246,11 @@
       "t": "mcq",
       "q": "The rubber ball's ten drops ranged from 30 to 35. The marble's ranged from 23 to 28. Which claim is fair?",
       "options": [
-       "The rubber ball bounces higher. The ranges do not touch.",
        "We cannot tell, because every drop was a bit different.",
-       "The marble bounces higher once in a while."
+       "The marble bounces higher once in a while.",
+       "The rubber ball bounces higher. The ranges do not touch."
       ],
-      "a": 0,
+      "a": 2,
       "why": "The marble's highest drop, 28, is below the rubber ball's lowest, 30. The difference is bigger than the wobble in each ball, so it is a real difference. Choosing 'cannot tell' usually means thinking any wobble at all makes comparing impossible."
      },
      "context": "In this step, you decide which differences are real and which are not, and you write it as a scientist would."
@@ -1550,11 +1550,11 @@
       "t": "mcq",
       "q": "Why must every cloth be pulled tight in the same way?",
       "options": [
-       "A loose cloth wrinkles and wears in a different way, so the cloth is not the only thing that changed",
        "A tight cloth looks nicer",
+       "A loose cloth wrinkles and wears in a different way, so the cloth is not the only thing that changed",
        "It makes the katori heavier"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If one cloth is loose and another is tight, a difference in the rubs might come from the tightness. Only the cloth should change. Choosing 'looks nicer' misses that this is a fair-test step."
      },
      "context": "In this step, you cover the bottom of the katori with a cloth. A tight cloth gives a fair test."
@@ -1724,11 +1724,11 @@
       "t": "mcq",
       "q": "The home-made ruler reads 0.5 centimetres too little on every strip. You measure two strips and get 11.5 and 16.5 centimetres. How much longer is the second strip really?",
       "options": [
-       "5 centimetres, because the error is the same for both",
        "4.5 centimetres, because of the error",
+       "5 centimetres, because the error is the same for both",
        "5.5 centimetres, because of the error"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ruler takes 0.5 off both strips. The gap between the two readings is 16.5 minus 11.5, which is 5 centimetres. The zero error cancels out in a difference. Choosing 4.5 or 5.5 usually means adding or subtracting the error again by mistake."
      },
      "context": "In this step, you use the faulty ruler and see how a zero error changes every reading."
@@ -1849,11 +1849,11 @@
       "t": "mcq",
       "q": "Piles B and C are two spoonfuls of the same rice from the same packet. Their middle values differ by 0.2 millimetres. What does that tell you?",
       "options": [
-       "Even the same rice shows a small difference by chance, so a gap this small is not a real difference between kinds",
        "B and C must be different kinds of rice",
-       "The ruler is broken"
+       "The ruler is broken",
+       "Even the same rice shows a small difference by chance, so a gap this small is not a real difference between kinds"
       ],
-      "a": 0,
+      "a": 2,
       "why": "B and C were meant to be the same. Their small gap shows how big a gap chance alone can make. A real difference between rice kinds should be much bigger than that. Choosing 'different kinds' usually means ignoring that two spoonfuls of the same rice can differ."
      },
      "context": "In this step, you draw the lengths as dots, so you can compare the piles at a glance."
@@ -2073,11 +2073,11 @@
       "t": "mcq",
       "q": "A packet says 'stronger by 30 per cent'. What is the most important missing information?",
       "options": [
-       "Stronger than what, tested how many times, and with how much wobble",
        "The colour of the packet",
+       "Stronger than what, tested how many times, and with how much wobble",
        "The price"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A percentage means nothing without a comparison and a sense of the wobble. If the wobble is bigger than 30 per cent, the claim may be luck. Choosing the price usually means shifting from 'is it true?' to 'is it cheap?'."
      },
      "context": "In this step, you plan a test for one claim, ready for the Family Test Report project."
@@ -2165,11 +2165,11 @@
       "t": "mcq",
       "q": "A strip held 14, 15, 14 and 3 coins. The 3 is odd. What is the best next step?",
       "options": [
-       "Check the strip for a nick, write down what you find, and test again",
        "Delete the 3 because it does not fit",
+       "Check the strip for a nick, write down what you find, and test again",
        "Change the 3 to 14 to match the rest"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An odd result has a cause, and finding the cause is part of the work. Deleting or changing a result hides evidence. Choosing 'delete' usually means wanting a tidy table more than the truth."
      },
      "context": "In this step, you write your own rule and look for an odd result of your own."
@@ -2297,11 +2297,11 @@
       "t": "mcq",
       "q": "You want a paper bag for rainy days. Which test should you trust?",
       "options": [
-       "The wet test, because rain makes bags wet",
        "The dry test, because it is easier",
+       "The wet test, because rain makes bags wet",
        "Either, because strong is strong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A test is valid when it copies the real job. A bag in the rain is wet. A dry test says little about wet use. Choosing 'strong is strong' usually means thinking a material has one strength."
      },
      "context": "In this step, you rank the papers twice and compare."
@@ -2442,11 +2442,11 @@
       "t": "mcq",
       "q": "Your dot plots overlap a lot. What claim can you honestly write?",
       "options": [
-       "We cannot tell which is better with this test",
        "The one with the bigger middle value is better",
+       "We cannot tell which is better with this test",
        "The test is wrong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When the ranges overlap a lot, the wobble is bigger than the difference. The honest claim is that this test cannot tell them apart. A bigger middle value alone is not enough. Saying the test is wrong usually means disliking a result that is not clear."
      },
      "context": "In this step, you write and share the report. This is how real scientists end a test."
@@ -2648,11 +2648,11 @@
       "t": "mcq",
       "q": "Your answer was 12 to 15 centimetres and your friend's was 12 to 16. What does this tell you?",
       "options": [
-       "The recipe works well, because the ranges overlap almost fully",
        "The test is wrong",
-       "Your friend cheated"
+       "Your friend cheated",
+       "The recipe works well, because the ranges overlap almost fully"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A recipe works when another person gets about the same range. Almost full overlap shows the test can be repeated. Choosing 'the test is wrong' usually means expecting identical numbers, which no test gives."
      },
      "context": "In this step, you compare and fix the recipe."
@@ -2671,12 +2671,12 @@
      "t": "mcq",
      "p": "You drop the same rubber ball ten times from the same height and get ten slightly different bounces. What is the best explanation?",
      "opts": [
-      "Many tiny things change a little from drop to drop, such as how your fingers let go and where the ball lands",
       "The ball gets tired and bounces differently each time",
       "The test was done wrongly and the results should be thrown away",
+      "Many tiny things change a little from drop to drop, such as how your fingers let go and where the ball lands",
       "The floor changes its mind"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tiny differences in the release, the landing spot, the spin and the reading add up to a spread. Picking 'done wrongly' usually means expecting a perfect test, and no test is perfect.",
      "outcome": 0
     },
@@ -2713,12 +2713,12 @@
      "t": "mcq",
      "p": "Look at the table. Which two balls have ranges that overlap?",
      "opts": [
-      "The rubber ball and the table-tennis ball",
       "The rubber ball and the marble",
+      "The rubber ball and the table-tennis ball",
       "The marble and the table-tennis ball",
       "None of them overlap"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The rubber ball ranged from 30 to 35 and the table-tennis ball from 31 to 36, so they share the numbers 31 to 35. The marble's 23 to 28 does not touch either of them.",
      "outcome": 2,
      "context": "This question is about the Bounce Test. You drop a rubber ball, a table-tennis ball, a marble and a ball of clay ten times each from 50 centimetres, and look at how much the bounces vary.",
@@ -2845,12 +2845,12 @@
      "t": "mcq",
      "p": "A ruler's first centimetre has broken off, so it starts at the 1 centimetre mark. A strip really measures 10 centimetres. What does this ruler read when the strip's end lines up with the end of the ruler?",
      "opts": [
-      "11 centimetres, which is 1 too big",
       "9 centimetres, which is 1 too small",
+      "11 centimetres, which is 1 too big",
       "10 centimetres, which is right",
       "12 centimetres, which is 2 too big"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The ruler starts counting at 1, so every reading is 1 too big. This is a zero error. Picking 9 usually means thinking a missing piece makes a ruler read less.",
      "outcome": 3
     },
@@ -2874,12 +2874,12 @@
      "t": "mcq",
      "p": "Why do scientists draw the order of testing from a bowl?",
      "opts": [
-      "So that no sample always goes first or last",
       "So the test takes longer",
       "So that the tester can guess the result",
+      "So that no sample always goes first or last",
       "So that the samples get tired"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A random order gives every sample a fair chance of an early slot and a late slot. Choosing 'takes longer' misses the reason: order can quietly change results.",
      "outcome": 4
     },
@@ -2973,12 +2973,12 @@
      "t": "mcq",
      "p": "Two labs test the same rope. Lab A says it holds 200 kilograms and Lab B says 150 kilograms. What is the best next step?",
      "opts": [
-      "Check whether they used the same method, the same sample size and the same speed, then repeat with one agreed method",
       "Believe the bigger number",
+      "Check whether they used the same method, the same sample size and the same speed, then repeat with one agreed method",
       "Believe the smaller number",
       "Add the numbers together"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Different methods give different numbers. A standard test fixes the method, so labs can agree. Believing one lab without checking is only a guess.",
      "outcome": 5
     },
@@ -3029,12 +3029,12 @@
      "t": "mcq",
      "p": "Arrows land close together, but far from the middle of the target. Which two words fit?",
      "opts": [
-      "Precise but not accurate",
       "Accurate but not precise",
       "Both precise and accurate",
+      "Precise but not accurate",
       "Neither precise nor accurate"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Close together means the readings agree, which is precise. Far from the middle means they are not near the true size, which is not accurate. A tool with a zero error gives this pattern.",
      "outcome": 3
     },
@@ -3157,12 +3157,12 @@
      "t": "mcq",
      "p": "A lift cable is tested on many pieces. The middle piece broke at 20 tonnes and the weakest broke at 14 tonnes. The lift will carry 2 tonnes. Which number does an engineer worry about most?",
      "opts": [
-      "14, because the weakest piece sets how safe the cable is",
       "20, because the middle is the usual",
       "2, because it is the smallest",
-      "The average of all three"
+      "The average of all three",
+      "14, because the weakest piece sets how safe the cable is"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A cable can contain a weak piece. Safety comes from the weakest, with a big gap between it and the load. Choosing 20 usually means trusting the middle too much.",
      "outcome": 5
     },
@@ -3244,12 +3244,12 @@
      "t": "mcq",
      "p": "A cloth test gives 20 for cloth A and 22 for cloth B, with ranges that overlap a lot. A buyer must choose one. What else should she think about?",
      "opts": [
-      "Price, how the cloth will be used and the weakest piece in each",
       "Only the bigger number",
       "Only the colour",
-      "Nothing, because the test says they are equal"
+      "Nothing, because the test says they are equal",
+      "Price, how the cloth will be used and the weakest piece in each"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When a test cannot tell two things apart, other facts decide: cost, use and the weak end of the range. Choosing 'the bigger number' ignores the wobble.",
      "outcome": 2
     },
@@ -3328,12 +3328,12 @@
      "t": "mcq",
      "p": "A ball dropped from 50 centimetres bounces to 30 centimetres. What fraction of the drop height did it keep?",
      "opts": [
-      "3 out of 5, or 0.6",
       "5 out of 3",
       "2 out of 5",
+      "3 out of 5, or 0.6",
       "30 out of 80"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The ball kept 30 of the 50 centimetres. 30 divided by 50 is 0.6, which is the same as 3 out of 5. The rest of the energy went into sound and warmth.",
      "outcome": 0
     },
@@ -3362,12 +3362,12 @@
      "t": "mcq",
      "p": "Why do labs in different countries agree on standard tests?",
      "opts": [
-      "So that results from different places can be compared",
       "So that every lab gets the same answer by magic",
+      "So that results from different places can be compared",
       "So that no one needs to repeat a test",
       "So that tests become shorter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A standard fixes the size of the sample, the speed and the air, so results from different labs can be compared. It does not remove the wobble, but it makes comparisons fair.",
      "outcome": 5
     },
@@ -3423,12 +3423,12 @@
    "t": "mcq",
    "p": "Two groups of results have ranges 40 to 55 and 52 to 70. What can you honestly say?",
    "opts": [
-    "We cannot tell if they are really different, because the ranges overlap",
     "The second is certainly bigger",
+    "We cannot tell if they are really different, because the ranges overlap",
     "The first is certainly bigger",
     "The test must be wrong"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The ranges share the numbers 52 to 55, so the wobble is bigger than the gap. Choosing 'certainly bigger' ignores the overlap.",
    "outcome": 2
   },
@@ -3436,12 +3436,12 @@
    "t": "mcq",
    "p": "Six results in order are 12, 13, 14, 16, 17, 19. What are the range and the middle value?",
    "opts": [
-    "Range 7, middle value 15",
     "Range 19, middle value 14",
     "Range 7, middle value 14",
-    "Range 6, middle value 16"
+    "Range 6, middle value 16",
+    "Range 7, middle value 15"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The range is 19 minus 12, which is 7. With six results, the middle is between 14 and 16, so the middle value is 15. Picking 14 means taking only the third result.",
    "outcome": 1
   },
@@ -3449,12 +3449,12 @@
    "t": "mcq",
    "p": "A ruler with a chipped end reads 1 centimetre too much on every strip. What kind of fault is this?",
    "opts": [
-    "A zero error, which is the same on every reading",
     "Variation in the material",
     "Bias from the tester's hopes",
-    "A random wobble that changes each time"
+    "A random wobble that changes each time",
+    "A zero error, which is the same on every reading"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The error is steady and comes from the tool. It can be found by comparing with another ruler. Choosing 'random wobble' mixes up two kinds of fault.",
    "outcome": 3
   },
@@ -3462,12 +3462,12 @@
    "t": "mcq",
    "p": "In a blind test, a helper keeps the secret list. Why must the helper not be the tester?",
    "opts": [
-    "The tester must not know which sample is which, so hopes cannot nudge the result",
     "The helper is better at measuring",
     "It makes the test faster",
+    "The tester must not know which sample is which, so hopes cannot nudge the result",
     "It makes the samples stronger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A blind test works because the tester cannot favour any sample. Choosing 'faster' misses the reason.",
    "outcome": 4
   },
@@ -3475,12 +3475,12 @@
    "t": "mcq",
    "p": "Why is a random order better than 'start with my favourite'?",
    "opts": [
-    "Because no sample always goes first or last",
     "Because it is more exciting",
+    "Because no sample always goes first or last",
     "Because the tester can finish early",
     "Because favourites are always the strongest"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An order can quietly change results as the tester tires or the materials change. A random order gives every sample the same chances.",
    "outcome": 4
   },
@@ -3488,12 +3488,12 @@
    "t": "mcq",
    "p": "A bag for the monsoon is tested only when dry. What is the main problem?",
    "opts": [
-    "The test does not copy the real job, so it may not be valid",
     "The test uses too many tries",
     "The bag is too heavy",
+    "The test does not copy the real job, so it may not be valid",
     "Dry tests are never used"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A test is valid if it measures what you care about. A bag meets rain, so its wet strength matters. A dry test answers a different question.",
    "outcome": 5
   },
@@ -3501,12 +3501,12 @@
    "t": "mcq",
    "p": "Which claim best says how sure you are?",
    "opts": [
-    "The rubber ball bounces higher. I am fairly sure, because the ranges do not touch, but I tested on only one floor.",
     "The rubber ball is the best ball.",
     "The rubber ball won.",
+    "The rubber ball bounces higher. I am fairly sure, because the ranges do not touch, but I tested on only one floor.",
     "Rubber is always bouncy."
    ],
-   "a": 0,
+   "a": 2,
    "why": "A good claim names the evidence, the reasoning and its limits. The other sentences give no evidence or go too far.",
    "outcome": 6
   },
@@ -3521,12 +3521,12 @@
    "t": "mcq",
    "p": "In a test of tissue strength, one strip is left dry in the same room while the others are wetted. What is the dry strip?",
    "opts": [
-    "A control",
     "A bias",
     "A zero error",
+    "A control",
     "An odd result"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A control gets everything except the thing being tested. It shows what changes anyway.",
    "outcome": 5
   },
@@ -3534,12 +3534,12 @@
    "t": "mcq",
    "p": "A cable's middle piece breaks at 20 tonnes and its weakest piece at 14. Why does an engineer use the weakest piece?",
    "opts": [
-    "The weakest piece sets how safe the cable is",
     "The weakest piece is always the average",
+    "The weakest piece sets how safe the cable is",
     "The strongest piece is the least likely",
     "The middle piece is not important"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A chain gives way at its weakest link. Engineers look at the low end of the spread and add a safety factor.",
    "outcome": 2
   },
@@ -3547,12 +3547,12 @@
    "t": "mcq",
    "p": "In the Secret Code Test, why did people give different scores to identical squares?",
    "opts": [
-    "Labels can push scores, and touch also wobbles from moment to moment",
     "The squares were different cloths",
     "The squares changed during the test",
+    "Labels can push scores, and touch also wobbles from moment to moment",
     "People were told the wrong answer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The squares were the same cloth. The differences came from the label's push and ordinary wobble. A blind round takes away the push.",
    "outcome": 4
   }

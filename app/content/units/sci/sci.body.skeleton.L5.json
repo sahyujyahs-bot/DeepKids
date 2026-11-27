@@ -965,11 +965,11 @@
       "t": "mcq",
       "q": "In the Dough Worm, why must you never pinch off any dough once you start rolling?",
       "options": [
-       "The amount of dough must stay the same",
        "The dough would dry out",
+       "The amount of dough must stay the same",
        "Small bits are hard to roll"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The test asks what happens to length when width changes and nothing else does. If dough were removed, the roll would be shorter for a different reason. If you chose 'dry out', notice that drying is a separate problem and does not change the question being tested."
      },
      "context": "In this step of the Dough Worm, you roll the dough to 3 and then 2 centimetres wide and measure its length each time."
@@ -1519,11 +1519,11 @@
       "t": "mcq",
       "q": "An earthworm's circular muscles contract. What happens to that segment?",
       "options": [
-       "It gets thinner and longer",
        "It gets shorter and fatter",
+       "It gets thinner and longer",
        "It gets smaller all over"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The liquid inside cannot be squeezed into less space. A segment that is made thinner must get longer. If you chose 'smaller all over', think of the balloon: the water had to go somewhere."
      },
      "context": "This is the last step of the Water Balloon Worm. You compare the water in the balloon with the bone in your arm."
@@ -1918,12 +1918,12 @@
      "t": "mcq",
      "p": "What can a muscle do?",
      "opts": [
-      "Pull only",
       "Push only",
       "Pull and push",
+      "Pull only",
       "Neither, it only holds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A muscle works by getting shorter, and a thing that gets shorter pulls. The threads inside it have no way to push apart.",
      "outcome": 0
     },
@@ -1931,12 +1931,12 @@
      "t": "mcq",
      "p": "Which two muscles are the antagonistic pair of the elbow?",
      "opts": [
-      "Biceps and triceps",
       "Biceps and calf",
       "Triceps and shin muscle",
+      "Biceps and triceps",
       "Biceps and tendon"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The biceps bends the elbow and the triceps straightens it. A tendon is a cord, not a muscle.",
      "outcome": 1
     },
@@ -2070,12 +2070,12 @@
      "t": "mcq",
      "p": "An earthworm's circular muscles contract. What happens to the segment?",
      "opts": [
-      "It gets longer and thinner",
       "It gets shorter and fatter",
       "It curls sideways",
-      "It gets smaller all over"
+      "It gets smaller all over",
+      "It gets longer and thinner"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The liquid inside keeps its volume. A segment squeezed thinner must get longer.",
      "outcome": 5
     },
@@ -2083,12 +2083,12 @@
      "t": "mcq",
      "p": "Which of these has no bone in it at all?",
      "opts": [
-      "Your tongue",
       "Your thumb",
+      "Your tongue",
       "Your jaw",
       "Your heel"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tongue is almost all muscle. Thumb, jaw and heel each have bone.",
      "outcome": 6
     },
@@ -2167,12 +2167,12 @@
      "t": "mcq",
      "p": "Under a microscope, what happens to the threads inside a muscle fibre when it contracts?",
      "opts": [
-      "They slide past each other",
       "They shrink",
       "They coil up like springs",
-      "They melt together"
+      "They melt together",
+      "They slide past each other"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The actin and myosin threads keep their length and overlap more. Scientists once thought they folded or coiled, and in 1954 two teams showed otherwise.",
      "outcome": 0
     },
@@ -2200,12 +2200,12 @@
      "t": "mcq",
      "p": "You lower a full bucket slowly into a well. Which arm muscle works hardest?",
      "opts": [
-      "The biceps, letting the arm down",
       "The triceps, pushing the arm down",
+      "The biceps, letting the arm down",
       "No muscle, because gravity does it",
       "The calf"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Gravity straightens the elbow. The biceps works to let the arm down slowly, so it works while it gets longer.",
      "outcome": 1
     },
@@ -2247,12 +2247,12 @@
      "t": "mcq",
      "p": "Where are the muscles that bend and straighten your fingers?",
      "opts": [
-      "Mostly in the forearm",
       "Inside each finger",
       "In the palm only",
+      "Mostly in the forearm",
       "In the upper arm"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Long tendons carry the pull from forearm muscles to the finger bones. You can feel the muscles work near your elbow when you wiggle your fingers.",
      "outcome": 1
     },
@@ -2398,12 +2398,12 @@
      "t": "mcq",
      "p": "A tongue gets a little narrower and thinner. What happens to its length?",
      "opts": [
-      "It grows by a lot",
       "It grows by the same small amount",
       "It stays the same",
+      "It grows by a lot",
       "It gets shorter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The volume stays the same. A small squeeze in two directions gives a large gain in length. That is why hydrostats can reach far and fast.",
      "outcome": 6
     },
@@ -2411,12 +2411,12 @@
      "t": "mcq",
      "p": "Why does a freshly moulted crab move so poorly?",
      "opts": [
-      "Soft tubes bend when muscles pull",
       "The muscles have been shed too",
       "The crab is asleep",
+      "Soft tubes bend when muscles pull",
       "The new shell is too heavy"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A muscle needs something stiff to pull against. Until the new exoskeleton hardens, the tubes give way under the pull.",
      "outcome": 4
     },
@@ -2505,12 +2505,12 @@
      "t": "mcq",
      "p": "Scientists disagree about why no insect is as big as a dog. What should you say?",
      "opts": [
-      "Several ideas are being tested",
       "It is because of oxygen",
+      "Several ideas are being tested",
       "It is because of moulting",
       "Nobody has studied it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oxygen supply, moulting, weight and being hunted by birds and bats have all been suggested. A 2026 study argued against the oxygen idea. It is honest to say the question is open.",
      "outcome": 4
     },
@@ -2603,12 +2603,12 @@
    "t": "mcq",
    "p": "Why can a muscle not push?",
    "opts": [
-    "Its threads can only slide together",
     "It is too soft",
+    "Its threads can only slide together",
     "Bones get in the way",
     "It has no nerves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The myosin arms drag the actin threads inwards. Nothing in the fibre can drive the threads apart again.",
    "outcome": 0
   },
@@ -2616,12 +2616,12 @@
    "t": "mcq",
    "p": "What stretches your biceps back to its long shape?",
    "opts": [
-    "The triceps, or gravity",
     "The biceps itself",
     "The elbow bone",
-    "The blood"
+    "The blood",
+    "The triceps, or gravity"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A muscle cannot lengthen itself. The triceps straightens the elbow and stretches the biceps. The weight of the arm can do it too.",
    "outcome": 1
   },
@@ -2629,12 +2629,12 @@
    "t": "mcq",
    "p": "Which joint is a ball and socket?",
    "opts": [
-    "The hip",
     "The knee",
     "The wrist",
+    "The hip",
     "A finger joint"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The round top of the thigh bone sits in a cup in the hip bone. The knee and finger joints are hinges.",
    "outcome": 2
   },
@@ -2642,12 +2642,12 @@
    "t": "mcq",
    "p": "Which kind of joint lets you shake your head to say no?",
    "opts": [
-    "Pivot",
     "Hinge",
+    "Pivot",
     "Saddle",
     "Gliding"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At the top of the neck, one bone turns round a peg on the bone below. That is a pivot.",
    "outcome": 2
   },
@@ -2655,12 +2655,12 @@
    "t": "mcq",
    "p": "What does cartilage do in a joint?",
    "opts": [
-    "Gives the bone ends a smooth cap",
     "Ties bone to bone",
     "Pulls the bone",
+    "Gives the bone ends a smooth cap",
     "Makes blood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Smooth cartilage on smooth cartilage, wetted by synovial fluid, slides with very little friction. Ligaments tie bone to bone.",
    "outcome": 3
   },
@@ -2668,12 +2668,12 @@
    "t": "mcq",
    "p": "A beetle's leg muscles are where?",
    "opts": [
-    "Inside the hard tubes of the leg",
     "On the outside of the shell",
+    "Inside the hard tubes of the leg",
     "Only in the body, not the legs",
     "Beetles have no muscles"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A beetle has an exoskeleton. The muscles are inside it and pull on the inner side of the shell.",
    "outcome": 4
   },
@@ -2694,12 +2694,12 @@
    "t": "mcq",
    "p": "What is an earthworm's skeleton made of?",
    "opts": [
-    "Liquid shut inside each segment",
     "Tiny bones",
     "Chitin",
-    "Hard skin"
+    "Hard skin",
+    "Liquid shut inside each segment"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each segment is a closed bag of liquid wrapped in muscle. The liquid keeps its volume, so the muscles can work against it.",
    "outcome": 5
   },
@@ -2707,12 +2707,12 @@
    "t": "mcq",
    "p": "A roll of dough is squeezed to half its width. How long does it become?",
    "opts": [
-    "About four times as long",
     "Twice as long",
     "The same length",
+    "About four times as long",
     "Half as long"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The roll gets narrower in two directions at once, so the same dough needs about four times the length. If you chose 'twice', remember that it also got thinner from top to bottom.",
    "outcome": 5,
    "how": "e1"
@@ -2721,12 +2721,12 @@
    "t": "mcq",
    "p": "How does your tongue come out of your mouth?",
    "opts": [
-    "Muscles pull it thinner, so it gets longer",
     "A muscle behind it pushes",
+    "Muscles pull it thinner, so it gets longer",
     "Air pressure pushes it",
     "A bone slides forward"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tongue is a muscular hydrostat. Its volume stays the same, so when fibres pull it narrower and thinner it must lengthen.",
    "outcome": 6
   },
@@ -2734,12 +2734,12 @@
    "t": "mcq",
    "p": "Which of these is a muscular hydrostat?",
    "opts": [
-    "An octopus's arm",
     "A crab's leg",
+    "An octopus's arm",
     "A bird's wing",
     "A cat's tail"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An octopus's arm is almost all muscle, with no bone and no shell. A crab's leg has a shell, and a wing and a tail have bones.",
    "outcome": 6
   },
@@ -2747,12 +2747,12 @@
    "t": "mcq",
    "p": "In a fair test of finger lifting, what must stay the same for every finger?",
    "opts": [
-    "How the height is measured",
     "Which finger is lifted",
     "The height reached",
+    "How the height is measured",
     "Nothing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the finger changes. The ruler, the helper, the hand position and the way of measuring stay the same, so the numbers can be compared.",
    "outcome": 7,
    "how": "e2"
@@ -2774,12 +2774,12 @@
    "t": "mcq",
    "p": "Which of these joints does not move?",
    "opts": [
-    "The plates of the skull",
     "The elbow",
+    "The plates of the skull",
     "The knee",
     "A finger joint"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The plates of the skull lock together and do not move, to protect the brain. The elbow, knee and finger joints are movable joints.",
    "outcome": 2
   },
@@ -2787,12 +2787,12 @@
    "t": "mcq",
    "p": "Which muscle keeps working while you are fast asleep, without you deciding?",
    "opts": [
-    "The heart",
     "The muscle that lifts your finger",
     "The muscle that moves your tongue to speak",
+    "The heart",
     "The muscle that kicks a ball"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The heart is an involuntary muscle. It works all day and night without being told. The other three are voluntary muscles. They move only when you decide.",
    "outcome": 0
   }

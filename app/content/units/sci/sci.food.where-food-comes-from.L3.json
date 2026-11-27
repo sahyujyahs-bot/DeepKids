@@ -804,11 +804,11 @@
       "t": "mcq",
       "q": "Which card should come between Grass and Milk?",
       "options": [
-       "Cow",
        "Sun",
+       "Cow",
        "Curd"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The cow eats the grass and makes milk from the grass, so Cow goes between Grass and Milk. 'Sun' cannot go in the middle, because the Sun always comes first. 'Curd' jumps ahead, because curd is made from milk."
      }
     },
@@ -988,11 +988,11 @@
       "t": "mcq",
       "q": "The mystery food answers: 'I was alive. I grew under the ground. I have eyes that can sprout. I am not a root.' What is it?",
       "options": [
-       "Potato",
        "Carrot",
-       "Peanut"
+       "Peanut",
+       "Potato"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A potato grows underground, its eyes are buds that sprout, and the potato is a stem, not a root. Picking 'carrot' is a good guess, but a carrot is a true root with no eyes. Peanuts do grow under the ground too, but a peanut is a seed, and has no eyes."
      }
     },
@@ -1134,11 +1134,11 @@
      "t": "mcq",
      "p": "In the Milk to Curd test, which katori set into thick curd by morning?",
      "opts": [
-      "Milk with curd added, kept warm",
       "Milk with nothing added, kept warm",
-      "Milk with curd added, kept in the fridge"
+      "Milk with curd added, kept in the fridge",
+      "Milk with curd added, kept warm"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The curd bacteria need to be added, and they need warmth to work. If you picked 'nothing added', you may think milk sets by itself. If you picked 'the fridge', remember that cold slows the bacteria down.",
      "context": "In the Milk to Curd test, you put warm milk in three katoris and changed one thing in each.",
      "how": "e1"
@@ -1272,12 +1272,12 @@
      "t": "mcq",
      "p": "Which of these food chains is the longest?",
      "opts": [
-      "Sun, algae, small fish, big fish, fish curry",
       "Sun, rice plant, rice",
       "Sun, sugarcane, jaggery",
+      "Sun, algae, small fish, big fish, fish curry",
       "Sun, mango tree, mango"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The fish curry chain has five links. Each of the others has only three. Every extra animal in a chain adds one more link."
     }
    ]
@@ -1348,12 +1348,12 @@
      "t": "mcq",
      "p": "A botanist is a scientist who studies plants. To a botanist, which of these is a fruit?",
      "opts": [
-      "Bhindi",
       "Potato",
       "Radish",
+      "Bhindi",
       "Keerai"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Botanists call any part that grows from a flower and holds seeds a fruit. Bhindi is full of seeds, so it is a fruit, even though a cook calls it a vegetable. Potato is a stem, radish is a root and keerai is leaves."
     },
     {
@@ -1378,12 +1378,12 @@
      "t": "mcq",
      "p": "In the iodine test, which food turned blue-black?",
      "opts": [
-      "Cooked rice",
       "Paneer",
       "Salt",
-      "Sugar"
+      "Sugar",
+      "Cooked rice"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rice is a seed, full of the starch the plant packed for their baby. Iodine turns blue-black on starch. Paneer comes from milk and salt from the Earth. Sugar is easy to get wrong: sugar comes from a plant, but sugar is a different kind of food from starch.",
      "context": "In the iodine test, a grown-up puts a drop of iodine on different foods. Iodine turns blue-black where there is starch.",
      "how": "e3"
@@ -1437,11 +1437,11 @@
      "t": "mcq",
      "p": "Honey is sweet. Where did that sweetness first come from?",
      "opts": [
-      "Sugar made by a flowering plant, using sunlight",
       "The bee's own body fat",
+      "Sugar made by a flowering plant, using sunlight",
       "The wax of the hive"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Bees drink nectar, a sugary juice made by flowers. The plant made that sugar using the energy of sunlight. The bees thicken it into honey, but the sweetness began in the plant."
     },
     {
@@ -1500,12 +1500,12 @@
      "t": "mcq",
      "p": "In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?",
      "opts": [
-      "The food packed in their seeds",
       "Food they made from light",
       "The soil",
-      "Food from the dark"
+      "Food from the dark",
+      "The food packed in their seeds"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In the dark, a seedling cannot make new food. They live on the food stored in their seed, stretching to look for light. 'The soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.",
      "how": "p1"
     },
@@ -1544,12 +1544,12 @@
      "t": "mcq",
      "p": "Before farming, people got food by gathering wild plants and hunting. Why did farming let people stay in one place and build villages?",
      "opts": [
-      "They could grow food near their homes year after year",
       "Wild animals stopped moving",
       "Farming needed no work",
+      "They could grow food near their homes year after year",
       "Rivers stopped flooding"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hunters and gatherers had to follow the food. With fields and animals near home, people could stay put, store food and build villages. Farming began about 11,000 years ago."
     }
    ]
@@ -1578,12 +1578,12 @@
      "t": "mcq",
      "p": "A cow eats a field of grass. About how much of the grass's energy ends up stored in the cow's body?",
      "opts": [
-      "About a tenth",
       "All of it",
       "About half",
+      "About a tenth",
       "None"
      ],
-     "a": 0,
+     "a": 2,
      "why": "This is a rough rule. Most of the grass's energy is used by the cow for walking, keeping warm, breathing and living. Only about a tenth is stored in her body. 'All of it' forgets that a cow uses energy all day, just like you."
     },
     {
@@ -1683,12 +1683,12 @@
      "t": "mcq",
      "p": "You want to find out whether methi seedlings need light to turn green. You set up two trays. Which setup is a fair test?",
      "opts": [
-      "Same seeds, soil and water. One tray in the sun, one in a dark cupboard",
       "One tray in the sun with lots of water, one in the dark with a little water",
       "Methi seeds in the sun, moong seeds in the dark",
-      "One tray in the sun, and no second tray"
+      "One tray in the sun, and no second tray",
+      "Same seeds, soil and water. One tray in the sun, one in a dark cupboard"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A fair test changes only one thing, here the light. The seeds, soil and water stay the same. In the other setups, water or the seeds also change, so you could not tell what made the difference.",
      "how": "p1"
     },
@@ -1703,11 +1703,11 @@
      "t": "mcq",
      "p": "Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?",
      "opts": [
-      "They need much less water than rice",
       "They grow without any sunlight",
-      "They are new crops that were never grown in India before"
+      "They are new crops that were never grown in India before",
+      "They need much less water than rice"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are not new: people in India have grown them for thousands of years. Like every plant, they need sunlight."
     },
     {
@@ -1824,11 +1824,11 @@
       "t": "mcq",
       "q": "Katoris A and B both stay warm. What is the only difference between them?",
       "options": [
-       "A has curd added, B does not",
        "A is bigger",
-       "B is in the fridge"
+       "B is in the fridge",
+       "A has curd added, B does not"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A and B have the same milk, the same katori and the same warm place. Only the curd is different. So if A sets and B does not, the curd made the difference. Picking 'B is in the fridge' mixes B up with C, which is the one we put in the cold."
      },
      "wait": "Leave the katoris overnight, about 8 hours.",
@@ -2061,11 +2061,11 @@
       "t": "mcq",
       "q": "Suppose 50 grams of dry moong is soaked overnight and now weighs about 100 grams. Where did the extra weight come from?",
       "options": [
-       "The seeds took in water",
        "The seeds grew new seeds",
+       "The seeds took in water",
        "The bowl got heavier"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The seeds took in water through their coats and swelled up. Water has weight, so they got heavier. Baby plants need water before they can start using their stored food. Picking 'grew new seeds' usually means thinking the seeds multiplied. Count them and you will find the same number, just fatter."
      },
      "parent": "A typical result is that the moong roughly doubles, from 50 grams to about 100 grams. There will also be less water left in the bowl."
@@ -2098,11 +2098,11 @@
       "t": "mcq",
       "q": "On day 3, 18 seeds sprouted on the wet cloth and 0 on the dry cloth. What do the seeds need to sprout?",
       "options": [
-       "Water",
        "Light",
+       "Water",
        "Soil"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The only difference between the plates was water, and only the wet seeds sprouted. Picking 'soil' is a very common guess. But neither plate had any soil, and the wet seeds still sprouted. The seed's own packed food feeds them at the start, so they do not need soil yet."
      },
      "parent": "Moong sprouts quickly when it is warm. In a cold room, sprouting may take a day longer, so keep both plates in the warmest spot you have, such as on top of the fridge. If the wet cloth dries out, the seeds stop growing, so sprinkle it with water each morning and evening."
@@ -2242,11 +2242,11 @@
       "t": "mcq",
       "q": "Suppose the paneer stays brown-orange. What does that tell us?",
       "options": [
-       "Paneer has no starch",
        "The iodine stopped working",
-       "Paneer has lots of starch"
+       "Paneer has lots of starch",
+       "Paneer has no starch"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The iodine still worked on the rice and potato, so it was fine. Paneer is made from milk, and animals do not store their food as starch. Starch is a plant's way of packing food. Picking 'the iodine stopped working' is a good scientist's worry. That is why we test the potato first, to check the iodine works."
      }
     },
@@ -2341,11 +2341,11 @@
       "q": "Which plate does a mushroom go on?",
       "options": [
        "Plant",
-       "Animal",
        "Fungi and tiny living things",
+       "Animal",
        "Earth"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Mushrooms are fungi. They have no green leaves and cannot make food from sunlight, so they are not plants. Picking 'plant' is the most common answer, because mushrooms are sold with vegetables. Fungi are their own kind of living thing."
      }
     },
@@ -2433,10 +2433,10 @@
       "q": "A potato grows under the ground. Which part of the plant is a potato?",
       "options": [
        "A root",
-       "A stem",
-       "A seed"
+       "A seed",
+       "A stem"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A potato is a fat underground stem. Look at its 'eyes'. They are buds that grow new shoots, and only stems have buds like that. Picking 'root' is very natural, because it grows underground. But a carrot is a real root, with no eyes at all."
      }
     },
@@ -2521,11 +2521,11 @@
       "t": "mcq",
       "q": "Curd came from milk. Milk came from a cow. What comes next, going backwards?",
       "options": [
-       "The grass the cow ate",
        "The shop",
-       "The fridge"
+       "The fridge",
+       "The grass the cow ate"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cow made the milk from the grass and fodder she ate. The grass grew using sunlight, air and water. Picking 'the shop' means going forwards instead of backwards. The shop comes after the milk, not before the cow."
      }
     },
@@ -2616,11 +2616,11 @@
       "t": "mcq",
       "q": "Black pepper and chilli make your mouth feel hot. What do scientists say is happening?",
       "options": [
-       "They switch on the nerves that sense heat and pain",
        "They are really very hot, like tea",
-       "They have a special spicy taste cell"
+       "They have a special spicy taste cell",
+       "They switch on the nerves that sense heat and pain"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Chilli and pepper contain chemicals that switch on the same nerve sensors that warn you about heat. So your mouth feels hot, even though the food itself is not hot. Picking 'really very hot' means trusting the feeling. A thermometer would show the chilli is not hot at all."
      }
     },
@@ -2707,11 +2707,11 @@
       "t": "mcq",
       "q": "Watermelon, cucumber and tender coconut are summer foods. What do they have in common that helps on a hot day?",
       "options": [
-       "They are full of water",
        "They are very spicy",
-       "They keep well for a year"
+       "They keep well for a year",
+       "They are full of water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "These foods are more than 90 parts water out of every 100. On a hot day we lose water in sweat, and they help replace it. Picking 'keep well for a year' mixes them up with seeds and grains. Watery fruits go off quickly, which is one reason we eat them fresh, in season."
      },
      "think": "Why can we buy some foods in every season now, but people long ago could not?",
@@ -2773,11 +2773,11 @@
       "t": "mcq",
       "q": "Which of these did NOT grow in India 600 years ago?",
       "options": [
-       "Chilli",
        "Black pepper",
+       "Chilli",
        "Haldi"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Chilli came from the Americas. Portuguese ships brought it to India only about 500 years ago. Before that, Indian food got its heat from black pepper and long pepper. Picking black pepper is a natural guess, because it is also spicy. But black pepper grows wild in Kerala and is one of India's oldest spices."
      }
     },
@@ -2900,11 +2900,11 @@
       "t": "mcq",
       "q": "The seedlings in the dark cupboard are tall, thin and pale yellow. Why?",
       "options": [
-       "They are using up their seed's food, stretching to find light",
        "The dark makes plants stronger",
-       "They have had more water"
+       "They have had more water",
+       "They are using up their seed's food, stretching to find light"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Without light, a seedling cannot make new food. They use up their stored food, stretching tall to reach light, and they cannot make the green colour they use to catch light. Picking 'more water' is a fair worry. That is why we gave both trays the same amount, so water could not be the reason."
      }
     },
@@ -3040,11 +3040,11 @@
       "t": "mcq",
       "q": "Why do damp seeds start to sprout in a store?",
       "options": [
-       "Water starts the baby plant inside growing",
        "The dark makes them grow",
+       "Water starts the baby plant inside growing",
        "Seeds sprout after exactly one week"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A seed holds a resting baby plant. Water starts them growing, just like in Sprouting Moong, where only the seeds on the wet cloth sprouted. Once they sprout, they use up their stored food and can no longer be kept for sowing. Picking 'the dark' is a common mix-up. Seeds can sprout in the dark, because they start on their own stored food."
      },
      "think": "Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?",
@@ -3184,12 +3184,12 @@
    "t": "mcq",
    "p": "Which of these foods comes from a plant?",
    "opts": [
-    "Jaggery",
     "Ghee",
     "Egg",
-    "Paneer"
+    "Paneer",
+    "Jaggery"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Jaggery is made from sugarcane juice, so it comes from a plant stem. Ghee and paneer come from milk, and eggs come from hens. Picking ghee often happens because ghee is yellow and oily like plant oil, but ghee is made from butter.",
    "outcome": 0
   },
@@ -3199,10 +3199,10 @@
    "opts": [
     "Plant",
     "Animal",
-    "Fungi and microbes",
-    "The non-living Earth"
+    "The non-living Earth",
+    "Fungi and microbes"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Salt is a mineral from the sea or from rocks. It was never alive. Picking 'plant' sometimes happens because salt is found in so many plant dishes.",
    "outcome": 0,
    "how": "a1"
@@ -3211,11 +3211,11 @@
    "t": "mcq",
    "p": "What part of the plant is a carrot?",
    "opts": [
-    "Root",
     "Stem",
+    "Root",
     "Fruit"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A carrot is a root. It grows straight down, stores food and has no eyes or buds. Picking 'stem' often comes from knowing that a potato is a stem, and guessing all underground food is the same.",
    "outcome": 1
   },
@@ -3224,10 +3224,10 @@
    "p": "What part of the plant is cauliflower?",
    "opts": [
     "Leaf",
-    "Flower",
-    "Root"
+    "Root",
+    "Flower"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Cauliflower is a big bunch of flower buds packed tightly together. The name even says flower. Picking 'leaf' is a natural guess, because a cauliflower comes wrapped in big green leaves. But the white part we eat is the flower buds.",
    "outcome": 1
   },
@@ -3235,11 +3235,11 @@
    "t": "mcq",
    "p": "When we eat rice, dal or peanuts, which part of the plant are we eating?",
    "opts": [
-    "Seeds",
     "Roots",
+    "Seeds",
     "Leaves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rice, dal and peanuts are all seeds: baby plants with their food packed around them. Picking 'roots' happens with peanuts, because they grow under the ground. But a peanut is a seed inside a pod.",
    "outcome": 1
   },
@@ -3247,11 +3247,11 @@
    "t": "mcq",
    "p": "Mustard oil is squeezed out of which part of the mustard plant?",
    "opts": [
-    "The seeds",
     "The roots",
+    "The seeds",
     "The leaves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mustard seeds hold a store of oil, packed there as food for the baby plant. Pressing the seeds squeezes the oil out. Mustard leaves are eaten as saag, but they do not give oil.",
    "outcome": 1
   },
@@ -3271,12 +3271,12 @@
    "t": "mcq",
    "p": "What is at the very start of almost every food chain on land?",
    "opts": [
-    "A plant, using sunlight",
     "A lion",
     "A shop",
-    "A cow"
+    "A cow",
+    "A plant, using sunlight"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every food chain on land starts with a plant, which makes food from sunlight. Picking 'a cow' means starting in the middle. The cow ate grass first.",
    "outcome": 3
   },
@@ -3284,11 +3284,11 @@
    "t": "mcq",
    "p": "What do plants make most of their own body from?",
    "opts": [
-    "Air and water",
     "Soil",
+    "Air and water",
     "Fertiliser"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants use sunlight to join carbon dioxide from the air with water. Picking 'soil' is the old idea that van Helmont tested. His willow tree grew huge, but the soil in the pot hardly changed.",
    "outcome": 3
   },
@@ -3296,11 +3296,11 @@
    "t": "mcq",
    "p": "In the Milk to Curd test, why do we keep everything the same except one thing?",
    "opts": [
-    "So we know which change made the difference",
     "Because it looks neater",
-    "To use less milk"
+    "To use less milk",
+    "So we know which change made the difference"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If only one thing changes, that one thing must have caused the difference. That is a fair test. Picking 'looks neater' misses the reason. A test can be messy and still fair, or neat and still unfair.",
    "outcome": 4,
    "context": "In the Milk to Curd test, you set up three katoris of warm milk and changed one thing at a time.",
@@ -3342,12 +3342,12 @@
    "t": "mcq",
    "p": "Old Indian books named six tastes, or rasas. Which one of these is in that list?",
    "opts": [
-    "Astringent, the dry puckery feel of raw banana",
     "Crunchy",
     "Cold",
+    "Astringent, the dry puckery feel of raw banana",
     "Colourful"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The six rasas are sweet, sour, salty, pungent, bitter and astringent. Astringent is the dry feeling from raw banana or strong tea. Crunchy and cold are about texture and temperature, not taste.",
    "outcome": 5
   },
@@ -3379,11 +3379,11 @@
    "t": "mcq",
    "p": "A winter plate has gajar halwa and a hot soup. A summer plate has cucumber and buttermilk. What is the main difference in what each plate does for us?",
    "opts": [
-    "The summer plate gives back water we sweat out, and the winter plate gives lots of energy",
     "The summer plate gives energy, and the winter plate gives water",
-    "There is no difference, because all food does the same thing"
+    "There is no difference, because all food does the same thing",
+    "The summer plate gives back water we sweat out, and the winter plate gives lots of energy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cucumber and buttermilk are very watery, so they replace the water we lose in sweat. Gajar halwa and soup are warm and rich, so they give energy in the cold. The other answers swap the two jobs or ignore them.",
    "outcome": 5
   },
@@ -3403,11 +3403,11 @@
    "t": "mcq",
    "p": "Deep in the sea there is no sunlight at all. Yet whole groups of animals live around hot vents there. What could their food chain start with?",
    "opts": [
-    "Microbes that make food from chemicals in the hot water",
     "Plants growing in the dark",
+    "Microbes that make food from chemicals in the hot water",
     "Nothing: the animals need no food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At the vents, microbes make food from chemicals in the hot water, and the animals depend on them. Before scientists found this in 1977, most thought every animal community depended on sunlight. Plants cannot grow without light.",
    "outcome": 6
   },
@@ -3415,11 +3415,11 @@
    "t": "mcq",
    "p": "Why do seed banks, like the one in Svalbard in Norway, keep seeds very dry and very cold?",
    "opts": [
-    "So the baby plants stay dormant and alive for many years",
     "To make the seeds taste better",
+    "So the baby plants stay dormant and alive for many years",
     "To kill the seeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water and warmth start a seed growing. Kept dry and cold, the baby plant inside stays dormant and alive for a very long time. Picking 'to kill the seeds' is the opposite of the plan. A dead seed can never be grown again.",
    "outcome": 6
   }

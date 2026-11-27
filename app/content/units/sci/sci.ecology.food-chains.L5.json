@@ -594,11 +594,11 @@
       "t": "mcq",
       "q": "Snakes eat rats and frogs. Rats eat paddy. Frogs eat grasshoppers, who eat paddy. The snakes are killed. What happens to the paddy?",
       "options": [
+       "It depends which path is stronger",
        "The paddy must become more",
-       "The paddy must become less",
-       "It depends which path is stronger"
+       "The paddy must become less"
       ],
-      "a": 2,
+      "a": 0,
       "why": "One path pushes the paddy down, through more rats. The other pushes it up, through more frogs and fewer grasshoppers. A drawing cannot say which wins. Someone has to count in a real field."
      },
      "context": "This is the last step of Up or Down? Here you count the points and talk about the cards that surprised you."
@@ -1218,10 +1218,10 @@
       "q": "In the Leaky Bottle, why did the level stay at one mark?",
       "options": [
        "The water stopped moving",
-       "Water left as fast as it arrived",
-       "The bottle was full"
+       "The bottle was full",
+       "Water left as fast as it arrived"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water kept running in and out the whole time. The level stayed still because the two flows were equal. Choosing 'the water stopped moving' means thinking that a steady number needs nothing to change. In nature too, a steady number hides births and deaths going on all the time."
      },
      "context": "This is the last step of the Leaky Bottle. Here you explain why the level settled, and match the bottle to a population of deer."
@@ -1424,10 +1424,10 @@
       "q": "In Ants and the Sugar Drop, what happened after the sugar was taken away?",
       "options": [
        "All the ants left at once",
-       "Ants kept coming for some minutes",
-       "The number of ants doubled"
+       "The number of ants doubled",
+       "Ants kept coming for some minutes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The scent trail to the sugar was still there, so ants went on following it for a while. The number fell slowly. The number of eaters follows the food, but late. Choosing 'left at once' means expecting no delay."
      },
      "context": "This is the last step of Ants and the Sugar Drop. Here you draw the graph and explain why the ants stayed after the sugar was gone."
@@ -1567,11 +1567,11 @@
       "t": "mcq",
       "q": "People kill the rat snakes in a paddy field. Which is a direct effect?",
       "options": [
-       "The rats become more",
        "The paddy becomes less",
-       "The grasshoppers become fewer"
+       "The grasshoppers become fewer",
+       "The rats become more"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Snakes eat rats, so losing the snakes acts on the rats along one arrow. That is direct. The paddy and the grasshoppers change too, but only through the rats or the frogs in between. Those effects are indirect."
      },
      "context": "This is the last step of Take the Snakes Away. Here you choose a change of your own and sort the effects into direct and indirect."
@@ -1642,11 +1642,11 @@
       "t": "mcq",
       "q": "Why do animals who are eaten often have many young?",
       "options": [
-       "So that a few are still left to become parents",
        "Because they are small",
-       "Because they like big families"
+       "Because they like big families",
+       "So that a few are still left to become parents"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Most of the young of a prey animal are eaten before they grow up. With many young, a few are still left. Small size is not the reason. A sparrow is small, yet she lays only a few eggs and guards them."
      },
      "context": "This is the last step of Two Out of Thousands. Here you ask where the other young went, and why prey animals have so many."
@@ -1836,11 +1836,11 @@
       "t": "mcq",
       "q": "On a graph of hares and the lynx who eat them, where is the lynx peak?",
       "options": [
-       "Just after the hare peak",
        "Just before the hare peak",
+       "Just after the hare peak",
        "At the lowest point for hares"
       ],
-      "a": 0,
+      "a": 1,
       "why": "More hares means more food, so more lynx kittens live. But raising young takes time, so the lynx reach their peak a year or two after the hares."
      },
      "context": "This is the last step of the Ten-Year Wave. Here you measure the length of the wave and the delay between the hares and the lynx."
@@ -1915,11 +1915,11 @@
       "t": "mcq",
       "q": "Why can a plant brought from far away spread so fast in a new place?",
       "options": [
-       "Their usual eaters were left behind",
        "The new soil is always richer",
-       "New plants grow faster than old ones"
+       "New plants grow faster than old ones",
+       "Their usual eaters were left behind"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In their old home, insects, grazers and illnesses hold a plant's numbers down. In a new place those may be missing, so there is little feedback to stop the plant spreading."
      },
      "context": "This is the last step of A New Arrival. Here you ask why lantana spreads so fast in India and what could hold lantana back."
@@ -1986,11 +1986,11 @@
       "t": "mcq",
       "q": "A forest is cut down. Why do the carnivores there suffer, though they never eat plants?",
       "options": [
-       "Their prey lose food and shelter",
        "Carnivores eat wood in winter",
-       "Carnivores need shade to hunt"
+       "Carnivores need shade to hunt",
+       "Their prey lose food and shelter"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plants fed the herbivores, and the herbivores fed the carnivores. When the producers go, the loss passes up every chain. This is an indirect effect."
      },
      "context": "This is the last step of If the Forest Is Cut. Here you find the longest chain on your map and see which results reach people."
@@ -2290,12 +2290,12 @@
      "t": "mcq",
      "p": "In a food web, what does an arrow from grass to hare mean?",
      "opts": [
-      "The hare eats the grass",
       "The grass eats the hare",
       "The hare hides in the grass",
-      "The grass grows near hares"
+      "The grass grows near hares",
+      "The hare eats the grass"
      ],
-     "a": 0,
+     "a": 3,
      "why": "An arrow points from the food to the eater, the way the food goes. Reading it backwards is a common slip, because we think of the hunter going towards the food."
     },
     {
@@ -2390,11 +2390,11 @@
      "t": "mcq",
      "p": "Sea otters eat sea urchins, and urchins eat kelp. Hunters kill most of the otters. What happens to the kelp?",
      "opts": [
-      "The kelp grows thicker",
       "The kelp is eaten down",
+      "The kelp grows thicker",
       "Nothing changes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "With few otters, the urchins multiply and eat the kelp down. Choosing 'grows thicker' means following only one step. The change passes down two links."
     },
     {
@@ -2477,11 +2477,11 @@
      "t": "mcq",
      "p": "Why does a frog lay thousands of eggs, while a tigress has only two to four cubs?",
      "opts": [
-      "Frogs live much longer than tigers",
       "Most frog eggs and tadpoles are eaten",
+      "Frogs live much longer than tigers",
       "Tigers have less food than frogs"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Most of a frog's young become food for others, so she needs thousands for a few to be left. A tigress's cubs are seldom eaten, and she guards each one."
     },
     {
@@ -2504,11 +2504,11 @@
      "t": "mcq",
      "p": "Owls eat rats, and rats eat paddy. All the owls leave a field. Which is the indirect effect?",
      "opts": [
-      "There are more rats",
       "There is less paddy",
+      "There are more rats",
       "There are fewer owl nests"
      ],
-     "a": 1,
+     "a": 0,
      "why": "More rats is the direct effect, along one link. Less paddy is indirect, because it reaches the paddy through the rats."
     },
     {
@@ -2772,10 +2772,10 @@
      "p": "A second equal hole dropped the Leaky Bottle's level from 12 cm to 3 cm. Why not to 6 cm?",
      "opts": [
       "The second hole was bigger",
-      "Shallow water leaves each hole more slowly",
-      "The tap slowed down"
+      "The tap slowed down",
+      "Shallow water leaves each hole more slowly"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At 6 cm deep, each jet is only a little slower than at 12 cm. So two holes still let out more than the tap brings in. The level keeps falling until two slow jets together match the tap.",
      "how": "e2"
     },
@@ -2954,12 +2954,12 @@
    "t": "mcq",
    "p": "What do decomposers do in a food web?",
    "opts": [
-    "Return dead matter to the soil",
     "Hunt the top predators",
     "Make food from sunlight",
+    "Return dead matter to the soil",
     "Eat only living plants"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fungi and bacteria break dead plants and animals down into simple matter. Plants take that matter up again through their roots.",
    "outcome": 1
   },
@@ -2969,10 +2969,10 @@
    "opts": [
     "Fewer rats",
     "More rats",
-    "Fewer owls",
-    "More paddy"
+    "More paddy",
+    "Fewer owls"
    ],
-   "a": 3,
+   "a": 2,
    "why": "Fewer rats is the direct effect. More paddy is the indirect effect, because it reaches the paddy through the rats.",
    "outcome": 2
   },
@@ -2988,10 +2988,10 @@
    "p": "The grass disappears from two webs. In which web do more animals starve?",
    "opts": [
     "Where each animal eats several foods",
-    "Where each animal eats one food",
-    "The same number in both"
+    "The same number in both",
+    "Where each animal eats one food"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An animal with one food starves when that food goes. An animal with several foods can turn to another. That is what the Two Webs Test showed.",
    "outcome": 3,
    "how": "e1"
@@ -3002,10 +3002,10 @@
    "opts": [
     "No chital are born",
     "No chital die",
-    "Births and deaths roughly match",
-    "The chital never move"
+    "The chital never move",
+    "Births and deaths roughly match"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Chital are born and die all the time. The number stays steady because the two roughly match, as the water level did in the Leaky Bottle.",
    "outcome": 4
   },
@@ -3025,12 +3025,12 @@
    "t": "mcq",
    "p": "Hares suddenly have much more food. Hares suddenly get much more food. When will the number of lynx who eat hares rise?",
    "opts": [
+    "A year or two later",
     "In the same week",
     "Before the hares do",
-    "A year or two later",
     "Never"
    ],
-   "a": 2,
+   "a": 0,
    "why": "First the hares increase. Then more lynx kittens live and grow. The eaters follow their food late.",
    "outcome": 5
   },
@@ -3050,11 +3050,11 @@
    "t": "mcq",
    "p": "One kind of starfish is removed from a rocky shore for some years. What follows?",
    "opts": [
+    "Mussels take over and other kinds are lost",
     "Nothing changes",
-    "More kinds of animals move in",
-    "Mussels take over and other kinds are lost"
+    "More kinds of animals move in"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The starfish ate mussels and kept space open on the rock. Without them, mussels crowded the others out. One predator was holding the whole community together.",
    "outcome": 6
   }

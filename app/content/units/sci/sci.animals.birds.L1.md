@@ -385,7 +385,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 3. (draw) Draw a bird. Colour the feathers. Show the beak, two wings and two legs.  
    **Answer:** A bird with feathers, a beak, two wings and two legs.. *Why:* A strong drawing shows all four parts every bird has: feathers, a beak, two wings and two legs.
 4. (mcq) A bird sitting on her nest hears another bird's danger call. Why does she press down flat and stay still?  
-   Options: To hide from the danger / She is sleepy / She is looking for food  
+   Options: She is sleepy / To hide from the danger / She is looking for food  
    **Answer:** To hide from the danger. *Why:* The danger call warns that a cat or other hunter is near. Pressing flat and staying still makes her hard to see.
 5. (draw) In the experiment A Bean for Every Call, you dropped a bean in a cup for every bird call. Draw the three cups. Draw the beans from each cup in a line underneath.  
    **Answer:** Three lines of beans of different lengths, labelled morning, afternoon and evening.. *Why:* A strong drawing shows the longest line under the time with the most calls, as the child found.
@@ -410,7 +410,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 2. (draw) Draw a pigeon on a cold morning and a pigeon on a hot afternoon.  
    **Answer:** A round, fluffed-up pigeon for the cold morning, and a thin, sleek pigeon for the hot afternoon.. *Why:* A strong drawing shows the fluffed-up feathers in the cold, because fluffing holds more warm air.
 3. (mcq) Juice is at the bottom of a tall, thin bottle. Why can a straw reach it when a spoon cannot?  
-   Options: The straw is long and thin / The straw is red / The straw is soft  
+   Options: The straw is red / The straw is soft / The straw is long and thin  
    **Answer:** The straw is long and thin. *Why:* A long, thin straw reaches deep into the bottle, as a sunbird's long, thin beak reaches deep into a flower.
 4. (write) When you count bird calls, why is it better to drop a bean for each call than just to remember? Tell a grown-up, who writes your answer down.  
    **Answer:** Because you can count the beans afterwards and compare the cups. Remembering is hard.. *Why:* A strong answer says the beans keep a true count we can see and compare later.
@@ -438,16 +438,16 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 
 ## Quiz
 1. (mcq) What does every bird have?  
-   Options: Feathers / Fur / Teeth  
+   Options: Fur / Feathers / Teeth  
    **Answer:** Feathers. *Why:* Every bird has feathers. Birds have no teeth, and fur belongs to animals like cats and bats.
 2. (mcq) A bat can fly. Is a bat a bird?  
-   Options: Yes, because a bat flies / No, because a bat has no feathers / Only at night  
+   Options: Yes, because a bat flies / Only at night / No, because a bat has no feathers  
    **Answer:** No, because a bat has no feathers. *Why:* A bat has fur, not feathers. Flying does not make an animal a bird.
 3. (mcq) What do soft, fluffy feathers do for a bird?  
-   Options: Keep the bird warm / Help the bird see / Help the bird eat  
+   Options: Help the bird see / Help the bird eat / Keep the bird warm  
    **Answer:** Keep the bird warm. *Why:* Fluffy feathers hold warm air close to the skin, like a blanket.
 4. (mcq) A sparrow has a short, thick beak. What does a sparrow mostly eat?  
-   Options: Fish / Seeds and grains / Nectar from flowers  
+   Options: Seeds and grains / Fish / Nectar from flowers  
    **Answer:** Seeds and grains. *Why:* A short, thick beak is strong enough to crack seeds and grains.
 5. (mcq) Why does a bird build a nest?  
    Options: To keep the eggs and chicks safe / To store food for winter / To hide from the rain every night of the year  
@@ -456,7 +456,7 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    Options: She digs a hole in the ground / She stitches leaves together / She uses mud only  
    **Answer:** She stitches leaves together. *Why:* A tailorbird pokes holes in leaves with her beak and stitches them with plant thread or spider silk.
 7. (mcq) You drop one bean into a cup each time you hear a bird call. What does one bean stand for?  
-   Options: One bird / One bird call / One minute  
+   Options: One bird call / One bird / One minute  
    **Answer:** One bird call. *Why:* One bean drops for every call. So more beans means more calls.
 8. (mcq) A bulbul gives a fast, sharp call when a cat comes near. What does the call mean?  
    Options: Danger! / Good morning / I am hungry  
@@ -465,19 +465,19 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
    Options: Salty chips / A shallow bowl of clean water / Sweet biscuits  
    **Answer:** A shallow bowl of clean water. *Why:* Birds need water to drink and bathe. In summer, city birds can find it hard to get water. Salty and sweet snacks can make them ill.
 10. (mcq) Why should you change the water in a bird bowl every day?  
-   Options: So it stays clean and mosquitoes cannot breed / So it stays cold / So the bowl looks shiny  
+   Options: So it stays cold / So it stays clean and mosquitoes cannot breed / So the bowl looks shiny  
    **Answer:** So it stays clean and mosquitoes cannot breed. *Why:* Old water gets dirty, and mosquitoes can lay eggs in still water left for days.
 11. (mcq) A baya weaver's nest hangs from a thin branch like a bag. What is the nest made from?  
-   Options: Long strips of grass, woven / A hole chiselled in a tree / Mud and a few twigs on a ledge  
+   Options: A hole chiselled in a tree / Mud and a few twigs on a ledge / Long strips of grass, woven  
    **Answer:** Long strips of grass, woven. *Why:* The baya weaver weaves long strips of grass into a hanging nest. A woodpecker chisels a hole in a tree, and a pigeon piles twigs on a ledge.
 12. (mcq) A woodpecker lays her eggs inside a round hole in a tree trunk. How did the hole get there?  
-   Options: A snake made it / She chiselled it with her strong beak / It grew there by itself  
+   Options: A snake made it / It grew there by itself / She chiselled it with her strong beak  
    **Answer:** She chiselled it with her strong beak. *Why:* A woodpecker has a strong beak and chisels a hole in the wood. The hole keeps her eggs safe in the dark.
 13. (mcq) You build a nest with only a clothes peg, as a bird uses her beak. Which job is hardest for the bird?  
    Options: Carrying and fitting each twig and blade of grass, one at a time / Looking at the nest / Sitting in the nest  
    **Answer:** Carrying and fitting each twig and blade of grass, one at a time. *Why:* A bird has no hands. She carries and weaves every piece with her beak, one at a time. That is why a nest takes many trips and hours.
 14. (mcq) You make a bird bath for sparrows. Which one is best?  
-   Options: A deep bucket of water in the sun / A shallow dish with a flat stone in the middle, in the shade / A dish of water on the ground next to a cat  
+   Options: A deep bucket of water in the sun / A dish of water on the ground next to a cat / A shallow dish with a flat stone in the middle, in the shade  
    **Answer:** A shallow dish with a flat stone in the middle, in the shade. *Why:* Small birds stand on the stone and drink, and a shallow dish is safe. Shade keeps the water cool. Cats can jump on a bird on the ground.
 15. (mcq) Rani watches a myna. Which note in her bird diary will help her know the same bird tomorrow?  
    Options: A nice bird / Yellow beak and legs, brown back, black head, hops on the ground / A bird in the tree  

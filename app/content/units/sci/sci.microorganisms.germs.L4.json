@@ -764,11 +764,11 @@
       "t": "mcq",
       "q": "A child has a runny nose and a mild cough for two days. Which response fits best?",
       "options": [
-       "Rest and drinks",
        "An antibiotic, to be safe",
+       "Rest and drinks",
        "A doctor at once"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Most colds are caused by viruses, and antibiotics do nothing to viruses. The defenders clear a cold in about a week. 'To be safe' feels sensible, but an antibiotic gives no safety here and gives tough bacteria a chance."
      }
     },
@@ -1160,11 +1160,11 @@
       "t": "mcq",
       "q": "Why do all five glasses get the same warm water, the same sugar and the same yeast?",
       "options": [
-       "So that only the thing we add is different",
        "So the glasses look neat",
-       "Because yeast needs five spoons"
+       "Because yeast needs five spoons",
+       "So that only the thing we add is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one glass had more sugar, we would not know whether the foam came from the sugar or from the thing we added. Neat glasses look nice, but that is not why they match."
      },
      "context": "In this step you set out the glasses and measure the same warm water into each."
@@ -1216,11 +1216,11 @@
       "t": "mcq",
       "q": "The Salt glass had much less foam than the Plain glass. What does this show?",
       "options": [
-       "Strong salt slowed or stopped the yeast",
        "Salt makes yeast eat faster",
+       "Strong salt slowed or stopped the yeast",
        "Salt made the water colder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The water, the sugar and the yeast were the same in both glasses. Only the salt was different, so the salt held back the yeast. Strong salt pulls water out of microbes, which is why salted foods keep. It would also harm our own cells, so we do not drink salt water to treat an infection."
      },
      "ask": [
@@ -1407,11 +1407,11 @@
       "t": "mcq",
       "q": "On Plate A, by Day 2 there are almost no rice grains left. Why do the dal grains keep growing in number?",
       "options": [
-       "Each night the surviving tough germs split in two, and the medicine does not remove them",
        "The medicine feeds the dal grains",
+       "Each night the surviving tough germs split in two, and the medicine does not remove them",
        "Dal grains are heavier than rice"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The medicine removes the ordinary germs, but the tough germs survive. Each night every surviving tough germ splits in two, so their number doubles. The medicine did not feed them. It only took away the others, which left them room and food."
      },
      "parent": "On Plate A, a typical run is 3 rice and 2 dal after Day 1, then 0 rice and 4 dal after Day 2, then 0 rice and 8 dal after Day 3. On Plate B, a typical run keeps about 38 rice and 2 dal each day, though chance may give 1, 3 or 4 dal. About one game in four, the dal on Plate B disappear by chance, because there are so few dal grains that luck can throw all of them out. That is a real result. Write it down and play again.",
@@ -1524,11 +1524,11 @@
       "t": "mcq",
       "q": "A tube says it is a cream for itchy skin. Does it kill the germ that causes a cold?",
       "options": [
-       "No, it eases a sign on the skin",
        "Yes, all medicines kill germs",
-       "Yes, because it is a cream"
+       "Yes, because it is a cream",
+       "No, it eases a sign on the skin"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cream for itching works on the skin. A cold is caused by a virus in the nose and throat, and no cream reaches that. Many home medicines ease signs. Only a few kill germs."
      },
      "context": "In this step you read the labels and fill in the table."
@@ -1667,11 +1667,11 @@
       "t": "mcq",
       "q": "Why is the second meeting with Germ 1 so much faster than the first?",
       "options": [
-       "The matching card is already in the memory pile",
        "The germ card got easier",
+       "The matching card is already in the memory pile",
        "You got tired of searching"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The body does the same. After the first meeting, memory cells keep the match ready, so the second time the body finds it at once. The germ card was exactly the same, and you were not more tired."
      },
      "context": "In this step you time the first and second meeting with a germ."
@@ -1771,11 +1771,11 @@
       "t": "mcq",
       "q": "One vaccine on the card protects against five illnesses at once. How can one needle do that?",
       "options": [
-       "It holds a safe piece of each of the five germs",
        "It holds one germ that is tough enough to cover the other four",
-       "It is a stronger version of the polio drops"
+       "It is a stronger version of the polio drops",
+       "It holds a safe piece of each of the five germs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A combined vaccine holds a safe form or piece of each germ, so the body learns all five at once. A single tough germ would not teach the body about the others."
      },
      "context": "In this step you match each vaccine on the card with its illness."
@@ -1872,11 +1872,11 @@
       "t": "mcq",
       "q": "Why must the salt and sugar be measured exactly?",
       "options": [
-       "Too much salt can harm, and too little will not replace what the body lost",
        "Because the cups are small",
+       "Too much salt can harm, and too little will not replace what the body lost",
        "Because the recipe is a secret"
       ],
-      "a": 0,
+      "a": 1,
       "why": "ORS works only in the right balance. Too much salt can make the body lose more water. Too little will not replace what was lost. The balance has been tested in many places."
      },
      "context": "In this step you mix the ORS and measure the amounts exactly."
@@ -2004,11 +2004,11 @@
       "t": "mcq",
       "q": "A well person reads 36.4 in the morning and 37.0 in the evening. What does this show?",
       "options": [
-       "Normal temperature goes up and down a little during the day",
        "The person has a fever in the evening",
-       "The thermometer is broken"
+       "The thermometer is broken",
+       "Normal temperature goes up and down a little during the day"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A body's temperature is not a fixed number. It is lowest in the early morning and a little higher later in the day. A fever is a temperature clearly above the person's usual range, about 38 degrees or more."
      },
      "context": "In this step you take the temperatures three times in one day."
@@ -2370,11 +2370,11 @@
       "t": "mcq",
       "q": "Why must a grown-up check the chart against the doctor's label?",
       "options": [
-       "A small copying mistake in a dose or time could harm the person",
        "Because grown-ups are better at drawing",
+       "A small copying mistake in a dose or time could harm the person",
        "So the chart looks neat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dose is chosen for the person and the illness. If a number is copied wrongly, the person may take too much or too little. The chart is a helper, and the label and the doctor are the authority."
      }
     },
@@ -2399,12 +2399,12 @@
      "t": "mcq",
      "p": "Which of these illnesses is NOT caused by a germ?",
      "opts": [
-      "Measles",
       "Diabetes",
+      "Measles",
       "Ringworm",
       "Typhoid"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Measles is caused by a virus, ringworm by a fungus and typhoid by bacteria. Diabetes comes from the way the body handles sugar, so nobody can catch it."
     },
     {
@@ -2566,11 +2566,11 @@
      "t": "mcq",
      "p": "Which of these is a danger sign that needs a doctor at once?",
      "opts": [
-      "A child cannot drink and is very sleepy",
       "A runny nose for two days",
+      "A child cannot drink and is very sleepy",
       "A child sneezing in the morning"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Not being able to drink and being very sleepy can mean the body is in trouble. A runny nose and a few sneezes are common in a cold."
     },
     {
@@ -2607,11 +2607,11 @@
      "t": "mcq",
      "p": "Almost everyone in a school is vaccinated against measles. A baby in the neighbourhood is too young for the vaccine. Why is the baby safer?",
      "opts": [
-      "The germ keeps meeting protected people and rarely reaches the baby",
       "Babies have a stronger body than children",
+      "The germ keeps meeting protected people and rarely reaches the baby",
       "Measles cannot infect babies"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each vaccinated person is a broken link in the chain, so the germ has a hard time reaching anyone. Babies can catch measles, and they can become very ill."
     }
    ]
@@ -2643,11 +2643,11 @@
      "t": "mcq",
      "p": "Two plates start the same, with 38 ordinary germs and 2 tough germs. Plate A gets a medicine every day that removes 9 out of every 10 ordinary germs. Plate B gets none. After two days, which describes Plate A best?",
      "opts": [
-      "Almost no ordinary germs are left, and the tough germs have multiplied",
       "There are more ordinary germs than at the start",
+      "Almost no ordinary germs are left, and the tough germs have multiplied",
       "The germs are the same as Plate B"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The medicine removes most ordinary germs each day, and the tough ones survive and double each night. Plate B keeps its crowd of ordinary germs, which holds the tough ones back.",
      "how": "e2"
     },
@@ -2715,11 +2715,11 @@
      "t": "mcq",
      "p": "A flu vaccine is changed every year. What is the best reason?",
      "opts": [
-      "Flu viruses change a little, so last year's antibodies may not fit this year's virus",
       "The vaccine goes off after a year in the fridge",
-      "Flu is a bacterium"
+      "Flu is a bacterium",
+      "Flu viruses change a little, so last year's antibodies may not fit this year's virus"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Antibodies fit one shape, like a key in a lock. If the virus changes shape, the old key may not fit. So each year's vaccine is matched to the viruses that are going around."
     },
     {
@@ -2794,11 +2794,11 @@
      "t": "mcq",
      "p": "Why can taking an antibiotic cause loose motions?",
      "opts": [
-      "It kills some of the helpful bacteria in the gut as well",
       "It is made of salt",
-      "It makes the body drink too much"
+      "It makes the body drink too much",
+      "It kills some of the helpful bacteria in the gut as well"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The gut is home to trillions of helpful bacteria. An antibiotic cannot always tell the helpful ones from the harmful ones, so a change in the gut can cause loose motions."
     },
     {
@@ -2817,11 +2817,11 @@
      "t": "mcq",
      "p": "A doctor says a throat infection needs an antibiotic only after a test. Why wait for the test?",
      "opts": [
-      "A sore throat looks the same whether bacteria or a virus cause the pain",
       "Tests make the medicine stronger",
+      "A sore throat looks the same whether bacteria or a virus cause the pain",
       "The doctor wants the child to wait"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The cause decides the medicine, and you cannot tell the cause by looking. A test avoids giving an antibiotic that cannot help."
     }
    ]
@@ -2853,11 +2853,11 @@
      "t": "mcq",
      "p": "Why does a trial use a dummy injection for the comparison group?",
      "opts": [
-      "So that both groups expect the same thing, and any difference comes from the vaccine",
       "Because the vaccine is too expensive",
-      "To make the trial longer"
+      "To make the trial longer",
+      "So that both groups expect the same thing, and any difference comes from the vaccine"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If one group knew they had nothing, they might behave differently, and that could change the result. A dummy keeps everything the same except the vaccine."
     },
     {
@@ -2894,11 +2894,11 @@
      "t": "mcq",
      "p": "In one town, measles cases fall every year for ten years. In the last year, the number of vaccinated children falls too. What should a careful scientist say?",
      "opts": [
-      "Cases may rise soon, because fewer children are now protected",
       "Measles has gone for good",
+      "Cases may rise soon, because fewer children are now protected",
       "The vaccine has stopped working"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The fall in cases came from past vaccination. If protection drops now, the chains will have more links again. A careful scientist watches the trend and the cause."
     },
     {
@@ -2999,11 +2999,11 @@
    "t": "mcq",
    "p": "Which illness is infectious but NOT contagious?",
    "opts": [
-    "Tetanus",
     "Measles",
+    "Tetanus",
     "Chickenpox"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Tetanus is caused by bacteria from soil that get into deep cuts, and nobody catches it from another person. Measles and chickenpox pass from person to person.",
    "outcome": 0
   },
@@ -3035,11 +3035,11 @@
    "t": "mcq",
    "p": "Why does an antibiotic not help against a cold?",
    "opts": [
-    "A cold is caused by a virus, which has no cell wall for the antibiotic to attack",
     "A cold is too small to feel",
-    "Antibiotics only work in the morning"
+    "Antibiotics only work in the morning",
+    "A cold is caused by a virus, which has no cell wall for the antibiotic to attack"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Antibiotics attack parts that bacteria have. A virus is not a cell and has none of those parts.",
    "outcome": 3
   },
@@ -3047,11 +3047,11 @@
    "t": "mcq",
    "p": "In a game, a medicine removes 9 out of 10 ordinary germs from a crowd but cannot touch the few tough ones. After several days, what will most of the germs be?",
    "opts": [
-    "Tough ones",
     "Ordinary ones",
+    "Tough ones",
     "The same mix as at the start"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The medicine removes the ordinary germs, and the tough ones survive and multiply into the space. The medicine did not make any germ tougher. It only chose which ones carry on.",
    "outcome": 4,
    "how": "e2"
@@ -3072,11 +3072,11 @@
    "t": "mcq",
    "p": "Which sign means a child should see a doctor at once?",
    "opts": [
-    "A child who vomits everything and cannot keep a drink down",
     "A child with a runny nose",
-    "A child who feels warm after running"
+    "A child who feels warm after running",
+    "A child who vomits everything and cannot keep a drink down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A child who cannot keep any drink down can quickly dry out. A runny nose and feeling warm after exercise are common and not dangerous in themselves.",
    "outcome": 5
   },
@@ -3084,11 +3084,11 @@
    "t": "mcq",
    "p": "A doctor says a child's cold needs no antibiotic. What is the best next step?",
    "opts": [
-    "Rest, drinks, and watching for danger signs",
     "Asking another doctor for an antibiotic",
-    "Using tablets left over from an earlier illness"
+    "Using tablets left over from an earlier illness",
+    "Rest, drinks, and watching for danger signs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cold is caused by a virus, and the body clears it with time. An antibiotic cannot help, and old tablets are the wrong medicine.",
    "outcome": 5
   },
@@ -3096,11 +3096,11 @@
    "t": "mcq",
    "p": "What does a vaccine hold?",
    "opts": [
-    "A safe form or piece of a germ, or a harmless copy of the germ's poison",
     "A full-strength germ",
+    "A safe form or piece of a germ, or a harmless copy of the germ's poison",
     "Only vitamins"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A vaccine shows the defenders what the germ looks like, without being able to make you ill.",
    "outcome": 6
   },
@@ -3144,11 +3144,11 @@
    "t": "mcq",
    "p": "A glass of yeast with strong salt makes much less foam than a glass with nothing added. What does this show?",
    "opts": [
-    "Strong salt slows a living microbe",
     "Yeast prefers salt",
+    "Strong salt slows a living microbe",
     "Salt turns into foam"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The only difference between the glasses was the salt, so the salt held the yeast back. Strong salt would also harm our own cells, so it is not a medicine.",
    "outcome": 3,
    "how": "e1"
@@ -3157,11 +3157,11 @@
    "t": "mcq",
    "p": "Which health worker writes the prescription that tells a family which medicine to take, and for how long?",
    "opts": [
-    "A doctor",
     "A nurse",
+    "A doctor",
     "A village health worker"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A doctor decides what the illness is and writes the prescription. A nurse gives injections and vaccines. A village health worker visits homes and takes people to the centre.",
    "outcome": 5
   }

@@ -537,10 +537,10 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 ## Worksheets
 ### Colonies, pollination and recycling (core, 16 questions)
 1. (mcq) Who lays the eggs in a honeybee colony?  
-   Options: The queen / The workers / The drones / The larvae  
+   Options: The workers / The drones / The larvae / The queen  
    **Answer:** The queen. *Why:* The queen is the mother of the colony, and laying eggs is her work. Drones are males who only mate. Larvae are the young.
 2. (mcq) The worker ants in one line on a wall are mostly what to each other?  
-   Options: Sisters / Strangers / Brothers / Mothers and daughters  
+   Options: Strangers / Brothers / Mothers and daughters / Sisters  
    **Answer:** Sisters. *Why:* Workers are daughters of the same queen, so they are sisters. If you chose brothers, remember that worker ants are female.
 3. (fill) The moving of pollen from an anther to a stigma is called ____.  
    **Answer:** ['pollination']. *Why:* Pollination must happen before a flower can grow seeds and fruit.
@@ -557,13 +557,13 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 9. (order) Put these steps in order, to show how a queen ant starts a colony.  
    **Answer:** ['She flies out after rain and mates', 'She lands and breaks off her wings', 'She digs a hole and seals herself in', 'She lays eggs and feeds the first larvae from her own body', 'Her first daughters open the nest and bring food']. *Why:* The queen does everything alone until her first daughters grow up. After that the workers feed her, and she only lays eggs.
 10. (mcq) In the Hairy or Smooth test, why did each carrier get three rows of boxes?  
-   Options: One try can be a fluke / To use up the haldi / To make the paper yellow / Because an insect has three body parts  
+   Options: To use up the haldi / One try can be a fluke / To make the paper yellow / Because an insect has three body parts  
    **Answer:** One try can be a fluke. *Why:* One row might come out odd by chance. If three rows give similar counts, the result can be trusted more.
 11. (mcq) Which insect's young clear away dead animals?  
-   Options: A blowfly / A honeybee / A butterfly / A carpenter bee  
+   Options: A honeybee / A blowfly / A butterfly / A carpenter bee  
    **Answer:** A blowfly. *Why:* A blowfly lays eggs on a dead body, and her maggots eat the body. Young honeybees eat pollen and honey, and caterpillars eat leaves.
 12. (mcq) What does a worker bee carry home in the baskets on her back legs?  
-   Options: Pollen / Honey / Wax / Water  
+   Options: Honey / Wax / Water / Pollen  
    **Answer:** Pollen. *Why:* She packs pollen into baskets of stiff hairs on her back legs. Pollen is the protein food that makes larvae grow. Nectar is carried inside her body.
 13. (write) Explain in two sentences how a bee pollinates a pumpkin flower while she collects food.  
    **Answer:** The bee crawls into a pumpkin flower for nectar, and pollen from the anthers sticks to her hairs. At the next pumpkin flower some of that pollen rubs off on the sticky stigma.. *Why:* A strong answer says three things. The bee comes for food, pollen sticks to her body, and the pollen rubs off on another flower's stigma.
@@ -575,16 +575,16 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** an ant with six legs → Insect; a spider with eight legs → Not an insect; a housefly → Insect; a scorpion with eight legs → Not an insect; a grasshopper → Insect. *Why:* Insects have six legs. Spiders and scorpions have eight legs, so they are not insects.
 ### Why insects are good at this work (stretch, 17 questions)
 1. (mcq) Why does a hairy insect carry more pollen than a smooth one?  
-   Options: Pollen catches among the hairs / Hairs make pollen / Hairs smell sweet / Smooth insects fly faster  
+   Options: Hairs make pollen / Hairs smell sweet / Pollen catches among the hairs / Smooth insects fly faster  
    **Answer:** Pollen catches among the hairs. *Why:* Pollen grains are held in the gaps between hairs and come off a little at a time. A smooth body holds pollen only on its surface.
 2. (mcq) A bee visits twenty sunflowers in a row and no other flower. What is this habit called?  
-   Options: Flower constancy / Buzz pollination / Swarming / Scavenging  
+   Options: Buzz pollination / Swarming / Scavenging / Flower constancy  
    **Answer:** Flower constancy. *Why:* Flower constancy means keeping to one kind of flower on one trip. It takes sunflower pollen to sunflowers, where it can work.
 3. (mcq) A brinjal flower keeps its pollen in closed tubes. Which visitor can shake it out?  
-   Options: A carpenter bee / A honeybee / A butterfly / An ant  
+   Options: A honeybee / A carpenter bee / A butterfly / An ant  
    **Answer:** A carpenter bee. *Why:* A carpenter bee grips the flower and buzzes, and the shaking throws the pollen out. Honeybees, butterflies and ants do not buzz flowers.
 4. (mcq) A worker bee lives about six weeks. Why is her colony still there a year later?  
-   Options: New workers hatch every day / The queen does all the work / The workers sleep all winter / Old workers grow young again  
+   Options: The queen does all the work / New workers hatch every day / The workers sleep all winter / Old workers grow young again  
    **Answer:** New workers hatch every day. *Why:* The queen lays eggs every day in the warm months, and new workers replace those who die. The colony goes on while its members change.
 5. (truefalse) Termites are a kind of ant.  
    **Answer:** False. *Why:* False. Termites are close relatives of cockroaches. Ants are close relatives of wasps and bees. A termite colony has a king as well as a queen.
@@ -615,16 +615,16 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Weaver ants → stitch a nest from the leaves; A crow → builds a nest in the branches; A honeybee → drinks nectar from the flowers. *Why:* A tree can shelter some animals and feed others. Weaver ants and crows use it as a home, and a honeybee uses its flowers for food.
 ### Testing, counting and deciding (challenge, 16 questions)
 1. (mcq) A farmer ties fine net bags over some of her pumpkin flowers. What is she testing?  
-   Options: Whether insects are needed for fruit / Whether flowers need sunlight / Whether nets keep rain off / Whether pumpkins like shade  
+   Options: Whether flowers need sunlight / Whether nets keep rain off / Whether pumpkins like shade / Whether insects are needed for fruit  
    **Answer:** Whether insects are needed for fruit. *Why:* A fine net keeps insects out and lets in light and air. If the bagged flowers make no pumpkins and the open ones do, insects were needed.
 2. (mcq) Most kinds of crop gain from pollinators, but most food by weight does not. Why?  
-   Options: People eat huge amounts of wind-pollinated grains / Insect-pollinated foods weigh almost nothing / The scientists counted wrongly / Insects eat most of the fruit  
+   Options: Insect-pollinated foods weigh almost nothing / The scientists counted wrongly / Insects eat most of the fruit / People eat huge amounts of wind-pollinated grains  
    **Answer:** People eat huge amounts of wind-pollinated grains. *Why:* Rice, wheat and maize are only three kinds of crop, but people eat them in enormous amounts. So a count by kind and a count by weight give different answers.
 3. (mcq) In the Clean-up Count, a graph of crumbs left stays flat for 5 minutes. What does the flat part show?  
-   Options: No ant had taken a crumb yet / The ants were tired / The crumbs were too heavy / The clock had stopped  
+   Options: The ants were tired / No ant had taken a crumb yet / The crumbs were too heavy / The clock had stopped  
    **Answer:** No ant had taken a crumb yet. *Why:* A flat line means the number of crumbs did not change. At the start, no ant has found the food, or one ant has only just arrived.
 4. (mcq) A huge field grows one crop that flowers for two weeks. What problem does a bee colony face there?  
-   Options: No flowers for the rest of the year / Too much honey / Too many queens / Flowers that are too big  
+   Options: Too much honey / Too many queens / No flowers for the rest of the year / Flowers that are too big  
    **Answer:** No flowers for the rest of the year. *Why:* A colony must eat in every month. After the two weeks of flowers, the bees find nothing nearby. Mixed plants that flower at different times feed them all year.
 5. (truefalse) If all bees vanished, humans would have no food at all.  
    **Answer:** False. *Why:* False. Rice, wheat, maize, potatoes and bananas need no insect pollinator. People would lose many fruits, nuts, vegetables and spices, and the diet would be much poorer.
@@ -664,33 +664,33 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    Options: Laying eggs / Giving orders / Finding food / Guarding the entrance  
    **Answer:** Laying eggs. *Why:* The queen is the mother, and she lays the eggs. She does not give orders. The workers find food, guard the nest and feed her.
 3. (mcq) How does a new honeybee colony usually begin?  
-   Options: The old queen leaves with a swarm / One worker walks away alone / Eggs blow away on the wind / The drones build a new nest  
+   Options: One worker walks away alone / The old queen leaves with a swarm / Eggs blow away on the wind / The drones build a new nest  
    **Answer:** The old queen leaves with a swarm. *Why:* The old queen flies off with about half the workers, and the bees who stay raise a new queen. A worker alone cannot start a colony.
 4. (mcq) What is pollination?  
-   Options: Pollen moving from an anther to a stigma / A bee making honey / A seed falling to the ground / A flower opening its petals  
+   Options: A bee making honey / A seed falling to the ground / Pollen moving from an anther to a stigma / A flower opening its petals  
    **Answer:** Pollen moving from an anther to a stigma. *Why:* Pollination is the journey of pollen from where it is made to the sticky tip that catches it. Honey-making happens later, in the hive.
 5. (mcq) Which part of a flower catches pollen?  
    Options: The stigma / The anther / The petal / The stalk  
    **Answer:** The stigma. *Why:* The stigma is sticky and catches pollen. If you chose the anther, remember that the anther makes pollen and gives it away.
 6. (mcq) Which result of a Hairy or Smooth test shows that a hairy carrier holds more pollen?  
-   Options: The cotton bud marks far more boxes / Both carriers mark the same number / The pen marks more boxes / The haldi changes colour  
+   Options: Both carriers mark the same number / The cotton bud marks far more boxes / The pen marks more boxes / The haldi changes colour  
    **Answer:** The cotton bud marks far more boxes. *Why:* The cotton bud holds powder between its threads and lets it out box after box. The smooth pen runs out after one or two boxes.
 7. (mcq) Why does a bee visit a flower?  
-   Options: To collect nectar and pollen as food / To help the flower make seeds / To rest in the shade / To lay her eggs  
+   Options: To help the flower make seeds / To rest in the shade / To collect nectar and pollen as food / To lay her eggs  
    **Answer:** To collect nectar and pollen as food. *Why:* A bee visits flowers to feed herself and her colony. The flower is pollinated because pollen sticks to her and rubs off at the next flower.
 8. (mcq) Which of these foods needs no insect pollinator?  
-   Options: Rice / Mango / Pumpkin / Cardamom  
+   Options: Mango / Pumpkin / Rice / Cardamom  
    **Answer:** Rice. *Why:* Rice is a grass, and wind carries its pollen. Mango, pumpkin and cardamom all set fruit after insects visit their flowers.
 9. (truefalse) Honeybees are the only insects that pollinate crops.  
    **Answer:** False. *Why:* False. Carpenter bees, stingless bees, flies, moths, butterflies and beetles all pollinate. Flies are main pollinators of mango, and midges pollinate cocoa.
 10. (mcq) Which insects turn a dead branch back into soil?  
-   Options: Termites / Honeybees / Butterflies / Hawkmoths  
+   Options: Honeybees / Butterflies / Termites / Hawkmoths  
    **Answer:** Termites. *Why:* Termites eat dead wood, with the help of microbes and fungi. The other three feed at flowers.
 11. (mcq) When ants clear crumbs, why do the crumbs go faster after a slow start?  
-   Options: More ants follow the first ant's trail / The crumbs get lighter / The ants get hungrier / The floor gets warmer  
+   Options: The crumbs get lighter / The ants get hungrier / The floor gets warmer / More ants follow the first ant's trail  
    **Answer:** More ants follow the first ant's trail. *Why:* At first only one ant knows about the food. She leaves a scent trail, more ants follow, and many crumbs are carried at once.
 12. (mcq) Which of these helps pollinators most?  
-   Options: Never spraying a plant in flower / Killing every fly outdoors / Cutting down flowering trees / Keeping bright lights on all night  
+   Options: Killing every fly outdoors / Cutting down flowering trees / Never spraying a plant in flower / Keeping bright lights on all night  
    **Answer:** Never spraying a plant in flower. *Why:* Insects come to open flowers, so a spray on flowers poisons the very insects the plant needs. The other three all harm pollinators.
 13. (mcq) Anita counts the legs on a beetle. How many legs does an insect have?  
    Options: Four, in two pairs / Six, in three pairs / Eight, in four pairs  

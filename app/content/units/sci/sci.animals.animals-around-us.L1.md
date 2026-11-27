@@ -329,7 +329,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 3. (draw) Draw your mouth, open wide. Colour the front teeth that bite red. Colour the back teeth that chew blue.  
    **Answer:** Thin front teeth coloured red, wide back teeth coloured blue.. *Why:* A strong drawing shows the front teeth thin and the back teeth wide, as the child saw in the mirror.
 4. (mcq) In the Chewing Test, you ate banana, carrot, chapati, curd and puffed rice. Which food needed almost no chewing?  
-   Options: Carrot / Curd / Chapati  
+   Options: Curd / Carrot / Chapati  
    **Answer:** Curd. *Why:* Curd is soft, so it needs almost no chewing. Carrot and chapati are tougher, so the back teeth must chew them many times.
 5. (match) Draw a line from each animal to their home.  
    **Answer:** Ants → A crack in the wall; Spider → A web in a corner; Crow → A nest in a tall tree. *Why:* Ants live in cracks near food, spiders build webs where insects fly, and crows nest high in trees.
@@ -345,7 +345,7 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
    **Answer:** A strong answer picks a side and gives a reason, such as 'The second child, because the gecko eats mosquitoes that bite us.' Then the child is fair to the other side: The first child is right that a gecko should not walk on our food.. *Why:* Both sisters have a point. The gecko helps by eating insects and has no poison. But any animal walking on food can carry germs, so food is kept covered.
 ### Animals Around Us (stretch) (stretch, 10 questions)
 1. (mcq) A cow has wide, flat back teeth. What food are those teeth best for?  
-   Options: Grinding grass / Catching moths / Sipping flower juice  
+   Options: Catching moths / Sipping flower juice / Grinding grass  
    **Answer:** Grinding grass. *Why:* Wide, flat back teeth grind tough grass. Catching moths needs speed and small gripping teeth. Sipping needs a tube.
 2. (odd) Which one is the odd one out? Think about what they eat.  
    Options: Gecko / Spider / Cow / Crow  
@@ -375,31 +375,31 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
    Options: A stone / A crow / A chair  
    **Answer:** A crow. *Why:* A crow is an animal. A crow eats, breathes, grows and moves. A stone and a chair were never alive.
 2. (mcq) Are humans animals?  
-   Options: Yes, humans are animals / No, humans are not animals / Only grown-ups are animals  
+   Options: No, humans are not animals / Only grown-ups are animals / Yes, humans are animals  
    **Answer:** Yes, humans are animals. *Why:* Humans are animals. We eat, breathe, grow and have babies like other animals.
 3. (mcq) What does a gecko eat?  
-   Options: Grass / Insects, like moths and mosquitoes / Rice  
+   Options: Insects, like moths and mosquitoes / Grass / Rice  
    **Answer:** Insects, like moths and mosquitoes. *Why:* A gecko eats insects. That is why a gecko waits near a light at night, where insects come.
 4. (mcq) What does a pigeon mostly eat?  
-   Options: Grains and seeds / Grass / Flies  
+   Options: Grass / Grains and seeds / Flies  
    **Answer:** Grains and seeds. *Why:* A pigeon picks up grains and seeds with a short beak.
 5. (mcq) Where do the ants in a kitchen usually live?  
-   Options: In tiny cracks in the walls and floor / On top of the fan / Inside the tap  
+   Options: On top of the fan / In tiny cracks in the walls and floor / Inside the tap  
    **Answer:** In tiny cracks in the walls and floor. *Why:* Ants live in small cracks, close to the food in the kitchen.
 6. (mcq) Why does a spider build a web in a corner?  
    Options: Insects fly there and get caught / Spiders like to look out of the window / The web keeps the spider warm  
    **Answer:** Insects fly there and get caught. *Why:* A spider eats insects. The web catches the insects that fly into that corner.
 7. (mcq) How does a sparrow move on the ground?  
-   Options: The sparrow hops with both feet together / The sparrow slithers / The sparrow swims  
+   Options: The sparrow slithers / The sparrow hops with both feet together / The sparrow swims  
    **Answer:** The sparrow hops with both feet together. *Why:* Sparrows hop with both feet together. Pigeons walk one foot at a time.
 8. (mcq) How does a gecko climb up a wall?  
    Options: Tiny hairs on the toes cling to the wall / The gecko flies / The gecko jumps from the floor  
    **Answer:** Tiny hairs on the toes cling to the wall. *Why:* A gecko's toes have millions of tiny hairs that cling to the wall, so the gecko can climb and even walk on the ceiling.
 9. (mcq) In the chewing test, which teeth chewed the food up small?  
-   Options: The front teeth / The back teeth / No teeth  
+   Options: The front teeth / No teeth / The back teeth  
    **Answer:** The back teeth. *Why:* Wide back teeth chew and grind the food. Thin front teeth bite pieces off.
 10. (mcq) Why did each piece of food in the chewing test have to be the same size?  
-   Options: So that only the kind of food was different / To save food / Because big pieces taste better  
+   Options: To save food / So that only the kind of food was different / Because big pieces taste better  
    **Answer:** So that only the kind of food was different. *Why:* If one piece were bigger, it might need more chews just because of its size. With the same size, only the kind of food is different.
 
 ## Applications

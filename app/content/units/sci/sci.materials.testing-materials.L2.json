@@ -729,11 +729,11 @@
       "t": "mcq",
       "q": "You want to keep your notebook dry on a rainy walk to school. What should you wrap it in?",
       "options": [
-       "A paper napkin",
        "A piece of milk packet",
+       "A paper napkin",
        "A cotton hanky"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In the spot test, water stayed on top of the milk packet and the circle under it stayed dry. The napkin and the hanky soaked the water up and let it through."
      }
     }
@@ -1383,10 +1383,10 @@
      "p": "In the stretch test, which one usually stretches the most?",
      "opts": [
       "The newspaper strip",
-      "The rubber band",
-      "The hanky strip"
+      "The hanky strip",
+      "The rubber band"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Rubber is made of long, curled-up chains that straighten when pulled. Newspaper hardly stretches at all.",
      "context": "This question is about the stretch test. You hang the same full water bottle from a rubber band and from strips of T-shirt, hanky and newspaper, and measure how much longer each one gets.",
      "how": "e1"
@@ -1448,11 +1448,11 @@
      "t": "mcq",
      "p": "In a stretch test, a full bottle hangs on the rubber band, and an empty cup hangs on the T-shirt strip. Why is this test not fair?",
      "opts": [
-      "The two strips hold different weights, so more than the material is different",
       "The rubber band is too short",
-      "The cup is too small to see"
+      "The cup is too small to see",
+      "The two strips hold different weights, so more than the material is different"
      ],
-     "a": 0,
+     "a": 2,
      "why": "For a fair test, every strip must hold the same weight. Then any difference in stretching comes from the material.",
      "context": "This question is about the stretch test. You hang the same full water bottle from a rubber band and from strips of T-shirt, hanky and newspaper, and measure how much longer each one gets.",
      "how": "e1"
@@ -1516,10 +1516,10 @@
      "p": "In the bottle lift, which strip usually tore first?",
      "opts": [
       "The cotton cloth",
-      "The paper napkin",
-      "The carry bag"
+      "The carry bag",
+      "The paper napkin"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A napkin is made of short fibres pressed loosely together, so a small pull drags them apart. Picking the carry bag may mean thinking all plastic is weak. A carry bag strip holds much more than a napkin.",
      "context": "This question is about the bottle lift. You hang an empty bottle from a strip and add water one cup at a time until the strip tears.",
      "how": "a2"
@@ -1586,10 +1586,10 @@
      "p": "Look at the results. Which material did not get any longer with the bottle?",
      "opts": [
       "The rubber band",
-      "The T-shirt strip",
-      "The hanky strip"
+      "The hanky strip",
+      "The T-shirt strip"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The hanky strip was 10 cm before and 10 cm with the bottle. The rubber band and the T-shirt strip both got longer.",
      "context": "This question is about the stretch test. You hang the same full water bottle from a rubber band and from strips of T-shirt, hanky and newspaper, and measure how much longer each one gets.",
      "how": "e1",
@@ -1639,11 +1639,11 @@
      "t": "mcq",
      "p": "Why does water soak through a cotton hanky?",
      "opts": [
-      "Cotton has tiny gaps between its fibres",
       "Cotton is shiny",
-      "Cotton is heavy"
+      "Cotton is heavy",
+      "Cotton has tiny gaps between its fibres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water creeps into the gaps between the fibres and spreads along them. Picking 'heavy' means mixing up weight with keeping water out.",
      "context": "This question is about the spot test. You pour a teaspoon of water on squares of different materials over paper marked with sketch pen, then lift each square to see if the water got through.",
      "how": "e2"
@@ -1714,10 +1714,10 @@
      "p": "You need a material for a catapult band. What must it be?",
      "opts": [
       "Waterproof and absorbent",
-      "Stretchy and elastic",
-      "Strong and hard"
+      "Strong and hard",
+      "Stretchy and elastic"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A catapult band must stretch far and then snap back to throw. Picking 'strong and hard' would give a band that does not stretch."
     },
     {
@@ -1825,11 +1825,11 @@
    "t": "mcq",
    "p": "The same bottle hangs from a rubber band and from a hanky strip. Which stretches more?",
    "opts": [
-    "The rubber band",
     "The hanky strip",
+    "The rubber band",
     "Both the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rubber is stretchy. Woven cotton hardly stretches. Picking 'both the same' may mean thinking all soft things stretch.",
    "outcome": 0,
    "how": "e1"
@@ -1839,10 +1839,10 @@
    "p": "What does elastic mean?",
    "opts": [
     "It soaks up water",
-    "It goes back after you stop pulling",
-    "It is very hard"
+    "It is very hard",
+    "It goes back after you stop pulling"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Elastic things, like a rubber band, spring back. Picking 'soaks up water' mixes it up with absorbent.",
    "outcome": 1
   },
@@ -1888,10 +1888,10 @@
    "p": "A bottle hangs from each strip in turn, and water is added one cup at a time until the strip tears. What does this test?",
    "opts": [
     "Which is the most waterproof",
-    "Which is the strongest",
-    "Which is the stretchiest"
+    "Which is the stretchiest",
+    "Which is the strongest"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Counting the cups before a strip tears shows how much weight it can hold. That is strength.",
    "outcome": 3,
    "how": "a2"
@@ -1900,11 +1900,11 @@
    "t": "mcq",
    "p": "Why do we guess before we test?",
    "opts": [
-    "So the test can check our guess",
     "So we don't need to test",
+    "So the test can check our guess",
     "Because guessing is always right"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A guess with a reason is an idea. The test shows if the idea was right. Picking 'so we don't need to test' skips the most important part.",
    "outcome": 4
   },
@@ -1919,11 +1919,11 @@
    "t": "mcq",
    "p": "Which material would you choose for a towel?",
    "opts": [
-    "Polythene",
     "Cotton",
+    "Polythene",
     "Foil"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A towel must soak up water. Cotton is absorbent. Polythene and foil are waterproof, so they would not dry you.",
    "outcome": 5
   },

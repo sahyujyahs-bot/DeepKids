@@ -434,7 +434,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: Wires crossed in an X / One wire coiled like a spring / Both wires on the bump of the cell / Very long wires  
    **Answer:** 2. *Why:* With both wires on the bump, there is no path to the flat end. Crossed, coiled and long wires still make a complete path.
 2. (mcq) Which of these needs its cell the right way round?  
-   Options: A TV remote / A plain torch bulb in a circuit / A foil wire  
+   Options: A plain torch bulb in a circuit / A foil wire / A TV remote  
    **Answer:** A TV remote. *Why:* A remote has tiny parts inside that need the electricity to flow one way. A plain bulb lights whichever way round the cell is.
 3. (order) Put the path of the electricity in order, starting at the bump of the cell.  
    **Answer:** ['the first wire', 'the bulb', 'the second wire', 'the flat end of the cell']. *Why:* Electricity leaves the bump, goes along the first wire, through the bulb, along the second wire, and back into the flat end.
@@ -474,7 +474,7 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: The filament / The wire's copper / The wire's plastic cover / The cell  
    **Answer:** 2. *Why:* Electricity flows through the copper, the filament and the cell. The plastic cover is not part of the path. It keeps the electricity inside the wire.
 10. (mcq) A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?  
-   Options: An electric signal / A wire / An AA cell  
+   Options: A wire / An AA cell / An electric signal  
    **Answer:** An electric signal. *Why:* Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do.
 
 ## Videos
@@ -484,10 +484,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
 
 ## Quiz
 1. (mcq) How many wires does a simple circuit with one cell and one bulb need?  
-   Options: Two / One / None  
+   Options: One / None / Two  
    **Answer:** Two. *Why:* One wire takes the electricity to the bulb and one brings it back to the cell. With only one wire the bulb stays dark, because the electricity has no way back.
 2. (mcq) Where must the two wires go on the cell?  
-   Options: One on each end / Both on the bump / Both on the flat end  
+   Options: Both on the bump / One on each end / Both on the flat end  
    **Answer:** One on each end. *Why:* Electricity flows out of one end and back into the other. With both wires on one end, there is no path.
 3. (mcq) You unclip one wire. What happens to the bulb?  
    Options: It goes dark at once / It stays lit for a minute / It gets brighter  
@@ -496,10 +496,10 @@ Thenmozhi grinned. 'It is a circuit,' she said. 'Out of one end of the cell, thr
    Options: It stays lit / It goes dark / It flickers on and off  
    **Answer:** It stays lit. *Why:* The metal inside the wire is still one piece. The shape of the wire does not matter.
 5. (mcq) What is a circuit?  
-   Options: A complete ring that electricity flows round / A kind of bulb / A box for cells  
+   Options: A kind of bulb / A box for cells / A complete ring that electricity flows round  
    **Answer:** A complete ring that electricity flows round. *Why:* A circuit is the whole ring: cell, wire, bulb, wire and back to the cell.
 6. (mcq) Which part of a bulb glows?  
-   Options: The filament / The glass / The metal base  
+   Options: The glass / The metal base / The filament  
    **Answer:** The filament. *Why:* Electricity makes the thin filament so hot that it glows. The glass keeps the air away.
 7. (mcq) Why does a bulb feel warm after a while?  
    Options: The filament is very hot / The cell is cold / The room is warm  

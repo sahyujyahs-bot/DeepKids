@@ -897,11 +897,11 @@
       "q": "In most of the ten pairs, what turned a harmless microbe into trouble?",
       "options": [
        "The microbe became a different kind",
-       "The place, the numbers or the neighbours changed",
        "The person stopped washing",
-       "The microbe grew older"
+       "The microbe grew older",
+       "The place, the numbers or the neighbours changed"
       ],
-      "a": 1,
+      "a": 3,
       "why": "In every pair the microbe is the same kind on both cards. What differs is where she is, how many there are, or who is around her. Choosing 'the microbe became a different kind' comes from thinking of germs as a fixed group, apart from all other microbes."
      },
      "context": "This is the last step of Helper, Passenger or Trouble? Here you look for a pattern in what turns a harmless microbe into a harmful one."
@@ -1309,11 +1309,11 @@
       "q": "In this model, why do newcomers do badly on the full grid?",
       "options": [
        "The residents attack them",
-       "The dice give them low numbers",
        "Almost no square is empty",
+       "The dice give them low numbers",
        "The newcomers are weaker"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The rules never let a resident attack. A newcomer simply needs an empty square, and on the full grid there are almost none. Choosing 'the residents attack them' adds something the model does not contain, though real residents do make harmful substances."
      },
      "context": "This is the last step of Hold the Space. Here you compare the scores from the full grid and the nearly empty grid, and say what the model shows."
@@ -1397,12 +1397,12 @@
       "t": "mcq",
       "q": "Which sentence fits the three coloured blocks?",
       "options": [
-       "Most kinds of microbes make people ill",
        "Germs are a small share of all kinds of microbes",
+       "Most kinds of microbes make people ill",
        "Mouths have no harmless microbes",
        "Skin has fewer kinds than there are germs"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The mouth alone holds about as many kinds as the whole list of germ bacteria, and soil and sea hold far more. Choosing 'most kinds make people ill' is a common idea, because germs are the microbes we hear about most."
      },
      "context": "This is the last step of Count the Kinds. Here you compare the block of germs with the blocks of harmless mouth and skin microbes."
@@ -1481,11 +1481,11 @@
       "q": "Why does the number of kinds of gut microbes rise when a baby starts solid food?",
       "options": [
        "Solid food is dirty",
-       "New foods feed new kinds of microbes",
        "The baby's stomach stops making acid",
-       "Milk kills microbes"
+       "Milk kills microbes",
+       "New foods feed new kinds of microbes"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Each kind of microbe needs particular food. Fibre from rice, dal, fruit and vegetables feeds kinds that milk did not. Choosing 'solid food is dirty' treats every microbe as dirt, when these are the residents a child needs."
      },
      "context": "This is the last step of New Land. Here you ask a grown-up about your own first foods and add the answers to your strip."
@@ -1637,11 +1637,11 @@
       "q": "Why is plain soap enough for washing hands at home?",
       "options": [
        "It kills every microbe on the skin",
-       "It lifts visitors off so water carries them away",
        "Homes have no germs",
+       "It lifts visitors off so water carries them away",
        "Residents eat the germs"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Soap loosens dirt and the visitors sitting on the skin, and water rinses them off. Choosing 'it kills every microbe' mixes up removing with killing. The residents deep in the pores stay, and that is fine."
      },
      "context": "This is the last step of the 99.9 Percent Label. Here you compare a germ-killing promise with what plain soap already does."
@@ -1728,12 +1728,12 @@
       "t": "mcq",
       "q": "Where does the smell of old socks come from?",
       "options": [
-       "Sweat always smells",
        "Bacteria change substances in sweat",
+       "Sweat always smells",
        "The cloth of the sock",
        "Dirt from the floor"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Fresh sweat has almost no smell. Bacteria living in the damp sock feed on the sweat and give off smelly substances. Choosing 'sweat always smells' is the usual idea, and your own nose just tested it."
      },
      "context": "This is the last step of the Sniff Test. Here you smell things that were sweaty hours ago and work out where the smell comes from."
@@ -2053,12 +2053,12 @@
      "t": "mcq",
      "p": "What is a resident microbe?",
      "opts": [
-      "One who lives and multiplies on a body",
       "One who always causes illness",
       "One who washes off with soap",
-      "One found only in soil"
+      "One found only in soil",
+      "One who lives and multiplies on a body"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A resident lives and multiplies on or in a body for months or years. Most residents cause no illness, and soap does not remove those deep in the pores.",
      "outcome": 0
     },
@@ -2149,12 +2149,12 @@
      "t": "mcq",
      "p": "Where do most of a body's bacteria live?",
      "opts": [
+      "In the large intestine",
       "On the skin",
       "In the mouth",
-      "In the large intestine",
       "In the blood"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Nearly all of a grown-up's 38 trillion bacteria are in the large intestine, which is warm, wet, slow and full of fibre. Healthy blood has none. Choosing the skin is common, because skin is the part we see.",
      "outcome": 0
     },
@@ -2188,12 +2188,12 @@
      "t": "mcq",
      "p": "In the Three Lands Test, why is one slice wiped with a bud that touched no skin?",
      "opts": [
-      "To use up the spare slice",
       "To show what grows without skin microbes",
+      "To use up the spare slice",
       "To keep the other slices clean",
       "To make the test longer"
      ],
-     "a": 1,
+     "a": 0,
      "why": "That slice shows what comes from the potato, the water and the air alone. The other slices are compared with it. Without it, you could not tell which spots came from skin.",
      "outcome": 2,
      "how": "e1"
@@ -2203,11 +2203,11 @@
      "p": "Washing hands with soap at home mostly removes which microbes?",
      "opts": [
       "Residents deep in the pores",
-      "Visitors sitting on the surface",
       "Bacteria in the gut",
-      "All microbes on the body"
+      "All microbes on the body",
+      "Visitors sitting on the surface"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Soap lifts off the visitors on the surface, among whom germs are found. The residents in the pores stay and spread back within hours.",
      "outcome": 0
     },
@@ -2279,12 +2279,12 @@
      "t": "mcq",
      "p": "What does 'holding the space' mean?",
      "opts": [
-      "Residents leave newcomers no room or food",
       "Residents hold on to the skin",
       "The body keeps microbes out of blood",
+      "Residents leave newcomers no room or food",
       "Microbes rest between meals"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Residents already cover the surface and eat the food, and some make substances that stop newcomers. So a harmful microbe who arrives finds it hard to settle.",
      "outcome": 3
     },
@@ -2491,11 +2491,11 @@
      "p": "Why does mother's milk hold sugars that a baby cannot digest?",
      "opts": [
       "By mistake",
-      "They feed the baby's gut bacteria",
       "They make the milk sweeter",
+      "They feed the baby's gut bacteria",
       "They kill all microbes"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The sugars pass through the baby's stomach untouched and feed Bifidobacterium in the gut. Choosing 'by mistake' misses that these sugars are the third largest solid part of the milk.",
      "outcome": 5
     }
@@ -2511,12 +2511,12 @@
      "t": "mcq",
      "p": "A bacterium is harmless in the gut and harmful in the bladder. What is different?",
      "opts": [
-      "The kind of bacterium",
       "The place she is in",
+      "The kind of bacterium",
       "Her age",
       "Her size"
      ],
-     "a": 1,
+     "a": 0,
      "why": "She is the same kind of bacterium in both. In the bladder she is in a place where she can multiply and cause illness.",
      "outcome": 4
     },
@@ -2524,12 +2524,12 @@
      "t": "mcq",
      "p": "What is an opportunist?",
      "opts": [
+      "A microbe harmless in one place, harmful in another",
       "A microbe who is always harmful",
       "A microbe who never harms anyone",
-      "A microbe harmless in one place, harmful in another",
       "A microbe who lives only in soil"
      ],
-     "a": 2,
+     "a": 0,
      "why": "An opportunist causes illness only when she reaches the wrong place or when the body's defences are low. Many residents are opportunists.",
      "outcome": 4
     },
@@ -2538,11 +2538,11 @@
      "p": "Growing found 28 kinds of bacteria in tooth film. Reading genes found 59. What does this show?",
      "opts": [
       "Reading genes makes mistakes",
-      "Growing misses many kinds",
       "Tooth film has few bacteria",
+      "Growing misses many kinds",
       "The two methods agree"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Many bacteria will not grow on a laboratory dish, because they need food or air that the dish does not give. Reading genes finds them anyway.",
      "outcome": 2
     },
@@ -2551,11 +2551,11 @@
      "p": "Carriers of a stomach bacterium have asthma less often. What can we say for certain?",
      "opts": [
       "The bacterium prevents asthma",
-      "The two are linked, cause unknown",
       "Asthma kills the bacterium",
+      "The two are linked, cause unknown",
       "The study must be wrong"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A link between two things does not show that one causes the other. Carriers may differ from other people in other ways as well. Choosing 'prevents asthma' jumps from a link to a cause.",
      "outcome": 6
     },
@@ -2719,12 +2719,12 @@
    "t": "mcq",
    "p": "Which of these is a resident of your body?",
    "opts": [
-    "Soil bacteria on your fingers",
     "Bacteria deep in your skin pores",
+    "Soil bacteria on your fingers",
     "Bacteria on a door handle",
     "Bacteria in a spoon of soil"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Bacteria deep in the pores live and multiply there for years. Soil bacteria on fingers are visitors, and soap removes them.",
    "outcome": 0
   },
@@ -2747,10 +2747,10 @@
    "opts": [
     "It is too dark",
     "It is too cold",
-    "It is very acid",
-    "It has no food"
+    "It has no food",
+    "It is very acid"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Stomach acid kills most of the bacteria swallowed with saliva. The stomach is warm and has food, so acid is what keeps the numbers low.",
    "outcome": 1
   },
@@ -2758,12 +2758,12 @@
    "t": "mcq",
    "p": "A swab from an oily forehead grows few spots on potato. What is the best explanation?",
    "opts": [
-    "No microbes live on foreheads",
     "Oil-eaters do not grow on potato in air",
+    "No microbes live on foreheads",
     "The bud was too clean",
     "Foreheads are washed more"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The commonest forehead bacteria eat skin oil and avoid oxygen, so a potato slice in air does not suit them. Choosing 'no microbes live there' trusts the slice too much.",
    "outcome": 2,
    "how": "e1"
@@ -2772,12 +2772,12 @@
    "t": "mcq",
    "p": "In a fair swab test, what should be the only thing that differs between the slices?",
    "opts": [
-    "The size of the slice",
     "The place on the skin that was swabbed",
+    "The size of the slice",
     "The number of rubs",
     "The day they are counted"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Everything else is kept the same, so that any difference in spots comes from the place on the skin.",
    "outcome": 2,
    "how": "e1"
@@ -2787,11 +2787,11 @@
    "p": "A harmful bacterium lands in a gut that is full of residents. What usually happens?",
    "opts": [
     "She takes over at once",
-    "She finds little room or food",
     "The residents become harmful too",
+    "She finds little room or food",
     "She turns into a resident"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The residents already cover the surface and use the food, and some make substances that stop her. Most newcomers fail to settle.",
    "outcome": 3
   },
@@ -2800,11 +2800,11 @@
    "p": "After a long course of antibiotics, why can one tough bacterium take over the gut?",
    "opts": [
     "The medicine feeds her",
-    "Her neighbours were killed",
     "She becomes bigger",
+    "Her neighbours were killed",
     "The gut wall gets thinner"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The antibiotic kills many residents and leaves room and food. A bacterium who survives the medicine can then multiply with nobody in her way.",
    "outcome": 3,
    "how": "e2"
@@ -2820,12 +2820,12 @@
    "t": "mcq",
    "p": "Which of these microbes is harmful wherever she grows in a person?",
    "opts": [
-    "The cholera bacterium",
     "Fibre-eaters of the gut",
     "Oil-eaters of the forehead",
-    "Curd bacteria"
+    "Curd bacteria",
+    "The cholera bacterium"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The cholera bacterium causes illness whenever she multiplies in a person's gut. The other three are harmless or helpful in their usual places.",
    "outcome": 4
   },
@@ -2834,11 +2834,11 @@
    "p": "Where do a newborn baby's first microbes come from?",
    "opts": [
     "They are made by the baby's body",
-    "From the mother and people who hold the baby",
     "From the baby's first solid food",
+    "From the mother and people who hold the baby",
     "From the air only"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A baby meets her first microbes at birth, from her mother and from everyone and everything that touches her. A body does not make microbes: every microbe comes from another microbe.",
    "outcome": 5
   },
@@ -2847,11 +2847,11 @@
    "p": "Which change brings many new kinds of microbes into a baby's gut?",
    "opts": [
     "Learning to walk",
-    "Starting solid food",
     "Growing teeth",
-    "Sleeping longer"
+    "Sleeping longer",
+    "Starting solid food"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Solid food brings fibre and other new foods for microbes, and new kinds settle. Milk alone feeds only a few kinds.",
    "outcome": 5
   },
@@ -2872,12 +2872,12 @@
    "t": "mcq",
    "p": "Which of these is still argued about by scientists?",
    "opts": [
-    "Whether skin has microbes",
     "Whether probiotics help after antibiotics",
+    "Whether skin has microbes",
     "Whether the stomach is acid",
     "Whether bacteria multiply"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One study found that a probiotic slowed the return of a person's own gut community after antibiotics. Other studies find some benefits. The other three are settled.",
    "outcome": 6
   }

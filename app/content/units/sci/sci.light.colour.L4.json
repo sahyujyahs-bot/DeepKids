@@ -644,11 +644,11 @@
       "t": "mcq",
       "q": "Red cellophane and green cellophane are held together in front of a torch. Which kind of mixing is that?",
       "options": [
-       "Lights add",
        "Colours taken away",
+       "Lights add",
        "Neither"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Two sheets in front of one torch each take colours away from the same beam. The light that gets through both is dim. Choosing 'lights add' is common, because two colours are involved. But here only one light shines, and the sheets only remove colours."
      },
      "context": "In this step, you play three practice cards and learn how to score."
@@ -717,11 +717,11 @@
      "t": "mcq",
      "p": "A green torch and a blue torch shine on one spot of a white wall. What colour does the spot look?",
      "opts": [
-      "Cyan, a bright blue-green",
       "Yellow",
-      "Magenta"
+      "Magenta",
+      "Cyan, a bright blue-green"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Green plus blue makes cyan, a bright blue-green. Yellow is made by red plus green, and magenta is made by red plus blue."
     },
     {
@@ -828,11 +828,11 @@
      "t": "mcq",
      "p": "A green leaf is held under a pure red light. What does the leaf look like?",
      "opts": [
-      "Nearly black",
       "Bright green",
+      "Nearly black",
       "Bright red"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The leaf sends back only green light. A pure red light has almost no green in it, so the leaf has little to send back. Picking 'bright green' forgets that a thing can only show the colours that fall on it."
     },
     {
@@ -877,11 +877,11 @@
      "t": "mcq",
      "p": "From far away, a square of thin red and green stripes looks yellowish-brown. Where does the mixing happen?",
      "opts": [
-      "In your eye",
       "On the paper",
+      "In your eye",
       "Inside the pen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The stripes never mix on the paper. From far away, their light lands on the same cone cells in your eye and adds up there.",
      "how": "a2"
     },
@@ -905,11 +905,11 @@
      "t": "mcq",
      "p": "A phone screen can show a bright yellow, but it has no yellow dots. How does it do it?",
      "opts": [
-      "It lights its red and green dots together",
       "It uses a special yellow filter",
+      "It lights its red and green dots together",
       "It turns the blue dots black"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Red and green light together look yellow to your eyes. A screen only needs red, green and blue dots to show nearly every colour."
     },
     {
@@ -927,11 +927,11 @@
      "t": "mcq",
      "p": "Why do colour printers add black ink to cyan, magenta and yellow?",
      "opts": [
-      "The three together make a muddy dark colour, not a deep black",
       "Black ink is cheaper than the other colours",
+      "The three together make a muddy dark colour, not a deep black",
       "Black is a primary colour of paint"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cyan, magenta and yellow together take away most light, but not all. The result is a dark brownish grey. A separate black ink gives a true black and sharp letters."
     },
     {
@@ -952,11 +952,11 @@
      "t": "mcq",
      "p": "You stare at a red square, then look at a white wall and see a faint blue-green square. Where is that blue-green square?",
      "opts": [
-      "Only in your eyes and brain",
       "On the wall",
+      "Only in your eyes and brain",
       "On the red square"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The wall is plain white. The ghost square is made by tired cone cells in your eye. If you look at a different wall, it follows your eyes.",
      "how": "a1"
     },
@@ -1028,11 +1028,11 @@
      "t": "mcq",
      "p": "A navy cloth and a black cloth look alike under a warm yellowish bulb. Where would be the best place to tell them apart?",
      "opts": [
-      "By a window in daylight",
       "Under a dimmer warm bulb",
-      "In the dark"
+      "In the dark",
+      "By a window in daylight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Daylight holds plenty of blue light, so the navy cloth has blue to send back and looks clearly blue. A warm bulb gives out little blue.",
      "how": "a3"
     },
@@ -1081,11 +1081,11 @@
      "t": "mcq",
      "p": "A mix of red and green light looks the same as pure yellow light to your eyes. What does this tell us?",
      "opts": [
-      "Our eyes cannot tell apart different mixes that give the same three signals",
       "Red and green light are really yellow",
+      "Our eyes cannot tell apart different mixes that give the same three signals",
       "Yellow light does not exist"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your eyes only report three signals. Different mixes of light can give the same three signals, and then they look the same to us."
     },
     {
@@ -1113,11 +1113,11 @@
      "t": "mcq",
      "p": "An instrument called a spectrometer splits light by wavelength. A scientist points it at a yellow lamp, and then at a screen showing yellow. What does the instrument show?",
      "opts": [
-      "Different wavelengths, even though they look alike",
       "Exactly the same wavelengths",
-      "No light from the screen"
+      "No light from the screen",
+      "Different wavelengths, even though they look alike"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The yellow lamp has light of one yellow wavelength. The screen has a red wavelength and a green wavelength, but no yellow. Our eyes cannot tell them apart, but the instrument can."
     },
     {
@@ -1131,11 +1131,11 @@
      "t": "mcq",
      "p": "A dog has two kinds of cone cell. Which statement fits best?",
      "opts": [
-      "Some colours that differ to us may look alike to a dog",
       "A dog sees only black and white",
-      "A dog sees more colours than we do"
+      "A dog sees more colours than we do",
+      "Some colours that differ to us may look alike to a dog"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tests on dogs suggest they tell blue and yellow apart, but mix up red and green. With two signals instead of three, a dog can tell fewer colours apart."
     },
     {
@@ -1206,11 +1206,11 @@
      "t": "mcq",
      "p": "You have red, green and blue stage lamps, and you want a pale pink glow. Which plan is best?",
      "opts": [
-      "A strong red lamp with weaker green and blue lamps",
       "Only the blue lamp",
-      "Only the green lamp"
+      "Only the green lamp",
+      "A strong red lamp with weaker green and blue lamps"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pink is red mixed with a little white. A strong red with weaker green and blue adds the white to the red. Only blue or only green would not give any red."
     },
     {
@@ -1248,22 +1248,22 @@
      "t": "mcq",
      "p": "Many people looked at the same photo of a dress and saw different colours. What best explains it?",
      "opts": [
-      "Their brains guessed different colours for the light that fell on the dress",
       "Some people have no cone cells",
+      "Their brains guessed different colours for the light that fell on the dress",
       "The photo changed between looks"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The brain tries to remove the colour of the light to find the true colour of a thing. In a photo with unclear light, brains can guess differently."
     },
     {
      "t": "mcq",
      "p": "A TV looks like a smooth picture from the sofa, but like separate coloured dots from one centimetre away. Why?",
      "opts": [
-      "From far away, the dots are too small and close for the eye to tell apart, so their light blends",
       "The dots move apart when you step back",
+      "From far away, the dots are too small and close for the eye to tell apart, so their light blends",
       "The TV changes its picture when you come near"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your eye can only tell dots apart if they are far enough apart. Further away, their light lands on the same cone cells and adds up."
     },
     {
@@ -1408,11 +1408,11 @@
       "t": "mcq",
       "q": "Why do we shine each torch alone on the wall before using both together?",
       "options": [
-       "So we know what each light does alone, and can tell what is new when we use both",
        "So that the torches do not use up their batteries",
-       "Because the wall needs time to warm up"
+       "Because the wall needs time to warm up",
+       "So we know what each light does alone, and can tell what is new when we use both"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test you first see each thing alone. Then you can tell what changes when you put them together. Picking 'batteries' or 'the wall warms up' gives a reason that has nothing to do with colour."
      },
      "context": "In this step, you make the two coloured torches and test each one alone."
@@ -1447,11 +1447,11 @@
       "t": "mcq",
       "q": "One of the pencil's shadows is green. Why?",
       "options": [
-       "The pencil blocks the red torch there, but the green torch still lights that spot",
        "The pencil is painted green",
-       "The green torch is brighter than the red torch"
+       "The green torch is brighter than the red torch",
+       "The pencil blocks the red torch there, but the green torch still lights that spot"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A shadow is a place where one light is blocked. Where the red torch is blocked, the green torch still reaches the wall, so that shadow looks green. Picking 'painted green' cannot be right, because the other shadow is red. Picking 'brighter' does not explain why one shadow is green and the other red."
      },
      "chart": {
@@ -2004,11 +2004,11 @@
       "t": "mcq",
       "q": "Under the warm yellowish bulb, the navy and black looked almost the same. Why?",
       "options": [
-       "A warm bulb gives out very little blue light, and navy cloth sends back mostly blue",
        "The navy cloth turned black",
-       "Warm bulbs are brighter than daylight"
+       "Warm bulbs are brighter than daylight",
+       "A warm bulb gives out very little blue light, and navy cloth sends back mostly blue"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Navy cloth sends back mostly blue light. A warm bulb gives out little blue, so there is almost nothing for the navy cloth to send back. It looks nearly black. Picking 'turned black' is natural, but take it back to daylight and it is navy again. Nothing changed in the cloth."
      },
      "context": "In this step, you look at the dark things under a warm yellowish bulb."
@@ -2111,11 +2111,11 @@
       "t": "mcq",
       "q": "Through red cellophane, the red word vanished and the green word turned dark. Why?",
       "options": [
-       "White paper and red ink both send back plenty of red light, and green ink sends back almost none",
        "The red cellophane painted over the red word",
+       "White paper and red ink both send back plenty of red light, and green ink sends back almost none",
        "Green ink is darker than red ink"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The red cellophane lets only red light through. The white paper sends back plenty of red, and so does the red ink, so they look the same. The green ink sends back almost no red, so it looks dark. Picking 'painted over' sounds sensible, but the word is still there. Take the cellophane away and it comes back."
      },
      "context": "In this step, you look at the two words through red and then green cellophane."
@@ -2265,11 +2265,11 @@
       "t": "mcq",
       "q": "In the light of a green torch, the red window looked almost black. Why?",
       "options": [
-       "The red cellophane lets red light through, and the green torch has almost no red to give it",
        "The green torch is too weak",
+       "The red cellophane lets red light through, and the green torch has almost no red to give it",
        "Red cellophane turns green light black"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A red filter only lets red light through. A green torch gives almost no red, so almost no light gets past the red window. Picking 'too weak' might feel right, but the green window glows brightly in the same light. Picking 'turns light black' sounds like a trick, but the cellophane only holds back light."
      },
      "context": "In this step, you shine coloured light through windows of another colour."
@@ -2423,11 +2423,11 @@
    "t": "mcq",
    "p": "Which three colours of light make white when they are shone together on one spot of a white wall?",
    "opts": [
-    "Red, green and blue",
     "Red, yellow and blue",
-    "Cyan, magenta and yellow"
+    "Cyan, magenta and yellow",
+    "Red, green and blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Red, green and blue lights add up to white. Red, yellow and blue are the old painters' set. Cyan, magenta and yellow are the three inks of a printer.",
    "outcome": 0
   },
@@ -2435,11 +2435,11 @@
    "t": "mcq",
    "p": "A pencil stands in front of a wall lit by a red torch and a green torch. What colour is the shadow where the red light is blocked?",
    "opts": [
-    "Green",
     "Red",
+    "Green",
     "Black"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Where the red light is blocked, only the green light still reaches the wall, so the shadow looks green.",
    "outcome": 1
   },
@@ -2447,11 +2447,11 @@
    "t": "mcq",
    "p": "A yellow sheet and a cyan sheet are held together in front of a white torch. What colour comes out?",
    "opts": [
-    "Green",
     "White",
+    "Green",
     "Red"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Yellow lets red and green through. Cyan lets green and blue through. Only green gets past both. Each sheet takes colours away.",
    "outcome": 2
   },
@@ -2483,11 +2483,11 @@
    "t": "mcq",
    "p": "A newspaper photo is made of tiny dots of four inks. Why does it look like a smooth picture from a metre away?",
    "opts": [
-    "The dots are too small and close to tell apart, so their light blends in the eye",
     "The dots move together",
-    "The ink spreads out"
+    "The ink spreads out",
+    "The dots are too small and close to tell apart, so their light blends in the eye"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your eye cannot tell tiny dots apart from far away. Their light lands on the same cone cells and adds up.",
    "outcome": 5
   },
@@ -2495,11 +2495,11 @@
    "t": "mcq",
    "p": "Which sentence best explains why red and green torches make a yellow wall?",
    "opts": [
-    "Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow",
     "Red and green paint make yellow",
-    "There was yellow hiding in the torches"
+    "There was yellow hiding in the torches",
+    "Each torch adds light to the wall, and the eye gives the same answer to red plus green as to yellow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Reasoning says why. It uses what lights do and what the eye does. It does not use paint, because paint takes colours away.",
    "outcome": 6
   },
@@ -2507,11 +2507,11 @@
    "t": "mcq",
    "p": "Which of these do scientists not know yet?",
    "opts": [
-    "How three signals in the brain become the feeling of a colour",
     "That filters take colours away",
+    "How three signals in the brain become the feeling of a colour",
     "That red and green light look yellow together"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Filters taking colours away, and red and green light looking yellow together, have both been tested many times. How signals become a feeling is still an open question.",
    "outcome": 7
   },
@@ -2519,11 +2519,11 @@
    "t": "mcq",
    "p": "Which two lights shining together make magenta?",
    "opts": [
-    "Red and blue",
     "Red and green",
-    "Green and blue"
+    "Green and blue",
+    "Red and blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Red plus blue light makes magenta. Red plus green makes yellow. Green plus blue makes cyan.",
    "outcome": 0
   },
@@ -2531,11 +2531,11 @@
    "t": "mcq",
    "p": "You stare at a bright green shape and then see a pink ghost on a white wall. What made the pink?",
    "opts": [
-    "Tired cone cells in your eye",
     "A pink spot on the wall",
+    "Tired cone cells in your eye",
     "The green shape glowing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cone cells that sense green tired while you stared. On white they answered less than usual, so the white looked a little pink.",
    "outcome": 4
   },
@@ -2543,11 +2543,11 @@
    "t": "mcq",
    "p": "A yellow cloth is held in blue light. What does it look like?",
    "opts": [
-    "Dark",
     "Bright yellow",
-    "Bright blue"
+    "Bright blue",
+    "Dark"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Yellow cloth sends back red and green, and a blue light has almost none of either.",
    "outcome": 3
   },
@@ -2555,11 +2555,11 @@
    "t": "mcq",
    "p": "Cyan ink and yellow ink are printed on the same spot of a page. What colour does the spot look?",
    "opts": [
-    "Green",
     "Red",
-    "White"
+    "White",
+    "Green"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cyan ink takes away red and yellow ink takes away blue. Only green is left.",
    "outcome": 2
   }

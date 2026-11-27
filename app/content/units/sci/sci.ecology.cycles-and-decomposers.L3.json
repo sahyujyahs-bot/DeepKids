@@ -738,11 +738,11 @@
       "t": "mcq",
       "q": "Why does sun-dried vadam keep for months?",
       "options": [
-       "The sun kills every spore in the world",
        "It has almost no water, so moulds cannot digest it",
+       "The sun kills every spore in the world",
        "Vadam is made of plastic"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Moulds need water to digest food and soak it up. Dry vadam has too little water. Spores still land on it, but they cannot grow until it gets damp."
      }
     }
@@ -1437,11 +1437,11 @@
       "t": "mcq",
       "q": "What are the tiny black dots on top of the white mould threads?",
       "options": [
-       "Little cases full of spores",
        "Dirt from the air",
+       "Little cases full of spores",
        "The chapati burning"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Black bread mould grows tiny round cases on stalks, and each one is full of spores. When it bursts, the spores float off to start new moulds."
      }
     }
@@ -1812,11 +1812,11 @@
       "t": "mcq",
       "q": "Your compost pile sank lower each week. Where did the missing peels go?",
       "options": [
-       "Decomposers ate them. Some became the decomposers' bodies, some went into the air as gas, and the rest became soil",
        "They leaked out of the holes",
-       "They became invisible"
+       "They became invisible",
+       "Decomposers ate them. Some became the decomposers' bodies, some went into the air as gas, and the rest became soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Decomposers fed on the peels. As they fed, they breathed out carbon dioxide, which left through the top. Some of the peels became the bodies of the decomposers. What was left became dark, crumbly compost."
      },
      "parent": "After six weeks, softer peels are usually gone and tougher ones, like onion skin or mango stones, may still be there. That is normal. Bigger compost heaps get warmer and work faster."
@@ -2016,11 +2016,11 @@
    "t": "mcq",
    "p": "A damp chapati is left in a closed box on the kitchen shelf. After 4 days it has fuzzy patches. Where did the mould come from?",
    "opts": [
-    "From spores in the air that landed on the chapati",
     "The chapati was already full of mould inside",
-    "From the box's plastic"
+    "From the box's plastic",
+    "From spores in the air that landed on the chapati"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Spores float in the air everywhere. Some landed on the chapati before the lid was shut, and grew on the damp food. People once thought mould was made inside the food, but Micheli showed in 1729 that mould grows from spores.",
    "outcome": 1,
    "how": "e1"
@@ -2030,10 +2030,10 @@
    "p": "In the chapati test, the damp piece in the fridge grew mould much more slowly than the damp piece on the shelf. What does that show?",
    "opts": [
     "Cold kills all moulds",
-    "Cold slows moulds down",
-    "Fridges have no air"
+    "Fridges have no air",
+    "Cold slows moulds down"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The fridge piece still grew a little mould, late in the week. So the cold did not kill the mould. The cold only slowed the mould down. That is why food in the fridge lasts longer, but not for ever.",
    "outcome": 2,
    "how": "e1"
@@ -2042,11 +2042,11 @@
    "t": "mcq",
    "p": "How does a mould eat?",
    "opts": [
-    "With a tiny mouth",
     "Their threads give out chemicals that digest the food, then soak it up",
+    "With a tiny mouth",
     "They take in sunlight like a plant"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A fungus has no mouth or stomach. Their threads, the hyphae, give out enzymes that break the food down. Then the threads soak up the watery food. That is why mouldy food goes soft.",
    "outcome": 1
   },
@@ -2054,11 +2054,11 @@
    "t": "mcq",
    "p": "Tender mangoes are kept in lots of salt to make maavadu. Why do they not rot for months?",
    "opts": [
-    "Salt holds the water, so decomposers cannot use it",
     "Salt makes the mangoes hot",
-    "Salt keeps the light out"
+    "Salt keeps the light out",
+    "Salt holds the water, so decomposers cannot use it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Salt pulls water out of the mango and holds it. Decomposers cannot take in water that salty, so they cannot feed. In the Pickle Test, the salted cucumber slices sat in a puddle but grew no mould, for the same reason.",
    "outcome": 3,
    "how": "e2"
@@ -2067,11 +2067,11 @@
    "t": "mcq",
    "p": "Which of these will rot fastest?",
    "opts": [
-    "Sun-dried vadam in a dry tin",
     "A cut papaya on a warm kitchen counter",
+    "Sun-dried vadam in a dry tin",
     "Dried red chillies in a jar"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cut papaya is soft, wet, warm and full of sugar: everything decomposers need. Vadam and dried chillies have almost no water.",
    "outcome": 3
   },
@@ -2092,10 +2092,10 @@
    "p": "What are worm casts?",
    "opts": [
     "Worms' old skins",
-    "Soil that has passed through a worm's body, rich in food for plants",
-    "The holes worms dig"
+    "The holes worms dig",
+    "Soil that has passed through a worm's body, rich in food for plants"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Worms swallow soil and bits of dead leaves. What comes out at the back end is fine, crumbly soil called casts. Plants grow well in it.",
    "outcome": 4
   },
@@ -2103,11 +2103,11 @@
    "t": "mcq",
    "p": "A neem leaf falls and rots away. What happens to what it was made of?",
    "opts": [
-    "It is destroyed and gone for ever",
     "It goes into the bodies of decomposers, into the air as gas, and into the soil, where plants can use it again",
+    "It is destroyed and gone for ever",
     "It all turns into water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Nothing is destroyed when a leaf rots. Decomposers use some of it to build their bodies, breathe some out as carbon dioxide, and leave the rest in the soil as nutrients for new plants.",
    "outcome": 5
   },
@@ -2115,11 +2115,11 @@
    "t": "mcq",
    "p": "In the Balloon Bottle test, the balloon on the bottle of peels filled up. What filled it?",
    "opts": [
-    "Carbon dioxide gas breathed out by decomposers as they fed",
     "Steam from hot peels",
-    "Air pushed in from outside"
+    "Air pushed in from outside",
+    "Carbon dioxide gas breathed out by decomposers as they fed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Yeasts and bacteria fed on the sugar in the peels and breathed out carbon dioxide. The bottle with only water had no food for them, so its balloon stayed flat.",
    "outcome": 5,
    "how": "e3"
@@ -2149,11 +2149,11 @@
      "p": "Which living thing is a decomposer?",
      "opts": [
       "A sunflower",
-      "An earthworm",
       "A sparrow",
-      "A goat"
+      "A goat",
+      "An earthworm"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Earthworms eat dead leaves and soil and help turn them into new soil. If you picked the sparrow or the goat, you may have thought that any animal who eats is a decomposer.",
      "art": "A sunflower, an earthworm, a sparrow and a goat in a row."
     },
@@ -2256,11 +2256,11 @@
      "t": "mcq",
      "p": "What do decomposers need to work fast?",
      "opts": [
-      "Food, water, warmth and air",
       "Only sunlight",
-      "Salt and sugar"
+      "Salt and sugar",
+      "Food, water, warmth and air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most decomposers need food, water, warmth and air. Salt and sugar slow them down."
     },
     {
@@ -2273,11 +2273,11 @@
      "t": "mcq",
      "p": "Someone says, 'The monsoon rain melted the dead leaves in the pot.' What really made the leaves rot?",
      "opts": [
-      "Decomposers, who could feed once the rain gave them water",
       "The rain dissolved them like sugar",
-      "The sun burned them"
+      "The sun burned them",
+      "Decomposers, who could feed once the rain gave them water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rain does not dissolve leaves. It gives the fungi, bacteria and worms the water they need to feed."
     },
     {
@@ -2338,11 +2338,11 @@
      "t": "mcq",
      "p": "Why does boiled milk keep longer than unboiled milk?",
      "opts": [
-      "Boiling kills many of the bacteria in the milk",
       "Boiling makes the milk drier",
+      "Boiling kills many of the bacteria in the milk",
       "Boiling adds salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Boiling kills many of the bacteria that would make the milk go sour. That is why many Indian families boil milk as soon as it comes home."
     },
     {
@@ -2355,11 +2355,11 @@
      "t": "mcq",
      "p": "Why do millipedes and earthworms help leaves rot faster?",
      "opts": [
-      "They chew leaves into small pieces, so fungi and bacteria have more surface to feed on",
       "They make the leaves wet",
+      "They chew leaves into small pieces, so fungi and bacteria have more surface to feed on",
       "They bring sunlight underground"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many small pieces have far more surface than one big leaf. Fungi and bacteria feed at the surface, so they can work faster."
     },
     {
@@ -2482,11 +2482,11 @@
      "t": "mcq",
      "p": "Termites sometimes eat the wooden door frames of houses. What are they doing?",
      "opts": [
-      "Decomposing dead wood, as they do in a forest",
       "Building nests out of the wood",
-      "Drinking water from the wood"
+      "Drinking water from the wood",
+      "Decomposing dead wood, as they do in a forest"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a forest, termites eat dead wood and help turn it into soil. To a termite, a door frame is dead wood too."
     },
     {
@@ -2552,11 +2552,11 @@
      "t": "mcq",
      "p": "Moulds can grow in salty pickle once it gets watered down. What does this tell you?",
      "opts": [
-      "Salt works only when there is enough of it to hold the water",
       "Pickles are made of mould",
+      "Salt works only when there is enough of it to hold the water",
       "Moulds like vinegar"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If a wet spoon adds water to the pickle, the salt is spread thinner and decomposers can use the water. That is why grandmothers say to use a dry spoon."
     },
     {

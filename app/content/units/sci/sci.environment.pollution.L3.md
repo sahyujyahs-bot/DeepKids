@@ -519,7 +519,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 ## Worksheets
 ### Air Detective (core) (core, 18 questions)
 1. (mcq) You wipe a window grill with a damp white cloth. The cloth comes away grey. Where did the grey come from?  
-   Options: Dust and soot that came out of the air / The paint on the grill / The water in the cloth  
+   Options: The paint on the grill / Dust and soot that came out of the air / The water in the cloth  
    **Answer:** Dust and soot that came out of the air. *Why:* Nobody put dirt on the grill. Dust and soot came out of the air, a speck at a time, and stuck to it. A strong answer says the dirt came from the air, and names a source such as vehicles or a building site.
 2. (fill) Harmful things added to air, water or land faster than nature can clear them away are called ____.  
    **Answer:** ['pollution']. *Why:* Pollution is the word for it. One harmful thing, such as smoke, is called a pollutant.
@@ -530,7 +530,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 5. (match) Match each word to what it means.  
    **Answer:** Soot → black particles from burning; Sewage → used water from toilets and kitchens; Mucus → the sticky layer inside your nose; Haze → a grey look in the air from many fine particles. *Why:* These four words come up all through the unit. A strong answer could also give an example of each.
 6. (mcq) You blow your nose after a day on a busy road. The tissue is grey. Why?  
-   Options: The sticky mucus in your nose caught dust from the air / Your nose made dust / The tissue was dirty  
+   Options: Your nose made dust / The sticky mucus in your nose caught dust from the air / The tissue was dirty  
    **Answer:** The sticky mucus in your nose caught dust from the air. *Why:* Mucus is sticky, like the jelly on a sticky card. Every breath passes over it, and dust sticks. Dirtier air leaves more dust.
 7. (write) Name two things in or near your home that put smoke or dust into the air. For each one, say one way to make less.  
    **Answer:** For example: frying in the kitchen, so switch on the exhaust fan. Vehicles on the road, so switch the engine off at a signal.. *Why:* A strong answer names real sources the child has seen, and a change that really reduces them, not just 'be careful'.
@@ -543,14 +543,14 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 11. (perspective) Two sisters in Kochi talk about their neighbour, who burns the dry leaves from his garden every week.  
    **Answer:** A strong answer uses evidence: smoke from any burning carries soot and fine particles, and the sticky card shows that what is in the air lands near and inside us. It also gives the other side its due: burning plastic is worse, because its smoke has poisons in it as well.. *Why:* Both sisters have a point. Plastic smoke is more poisonous, but smoke from leaves is still full of fine particles that harm lungs. Composting leaves avoids the smoke altogether.
 12. (mcq) A tulsi plant stands on a covered balcony beside a busy road. The leaves look grey. Why is the dust a problem for the plant?  
-   Options: It blocks some of the sunlight the leaves use to make food / It makes the plant heavier / It makes the leaves taste bitter  
+   Options: It makes the plant heavier / It blocks some of the sunlight the leaves use to make food / It makes the leaves taste bitter  
    **Answer:** It blocks some of the sunlight the leaves use to make food. *Why:* A leaf makes food from sunlight, air and water. Dust blocks some of the light, so the plant makes less food. On a covered balcony, no rain washes it off.
 13. (truefalse) Smoke from a burning tyre or plastic bag is harmless, because it is only smoke.  
    **Answer:** False. *Why:* False. Burning tyres and plastic give off soot and poisonous gases as well. That is why they must never be burned.
 14. (fill) A number that says how polluted the outside air is today is called the air quality ____.  
    **Answer:** ['index']. *Why:* The Air Quality Index, or AQI, is low when the air is cleaner and high when it is dirtier.
 15. (mcq) Why do people who work on building sites often wear masks?  
-   Options: The site fills the air with dust that can get into their lungs / The sun is too bright on a site / Masks keep the noise out  
+   Options: The sun is too bright on a site / The site fills the air with dust that can get into their lungs / Masks keep the noise out  
    **Answer:** The site fills the air with dust that can get into their lungs. *Why:* Cutting, mixing and moving sand and cement throws dust into the air. A mask stops some of it before it is breathed in.
 16. (sort) Sort each habit: does it keep our surroundings clean, or make them dirty?  
    **Answer:** putting a wrapper in the dustbin → Keeps clean; dropping a plastic bag on the road → Makes dirty; spitting on the road → Makes dirty; carrying a cloth bag to the market → Keeps clean; leaving a garbage heap by the drain → Makes dirty. *Why:* Litter, polythene, garbage and spit make a street dirty and can bring flies, mosquitoes and illness. A dustbin and a cloth bag keep it clean.
@@ -579,7 +579,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 9. (write) Many people think the air inside a home is always cleaner than outside. Describe a test that would find out whether that is true in your home.  
    **Answer:** Put one sticky card in the kitchen and one on the window sill for the same three days, with the same jelly and square. Count the specks in one corner of each and compare.. *Why:* A strong answer keeps everything the same except the place, says how long, and says how to compare the results.
 10. (mcq) Which mask stops most of the fine particles (PM2.5) in smoky air?  
-   Options: A well-fitted N95 mask / A thin cloth handkerchief / Holding your breath  
+   Options: A thin cloth handkerchief / A well-fitted N95 mask / Holding your breath  
    **Answer:** A well-fitted N95 mask. *Why:* A cloth stops big dust, but fine particles slip through its gaps. A well-fitted N95 mask stops most of them.
 11. (truefalse) Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world.  
    **Answer:** True. *Why:* True. The smoke is full of fine particles that people breathe for hours every day. Cooking on gas makes far less smoke.
@@ -596,7 +596,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 17. (write) Name two ways your family or school could measure pollution. Say what each one shows.  
    **Answer:** A sticky card on the window sill, which shows how much dust falls. An air quality app, which gives the AQI for today. A phone sound meter, which gives a rough decibel number at the gate.. *Why:* A strong answer names a real way to measure and says what the number tells us, such as comparing places or days.
 18. (mcq) Which school habit makes less dust?  
-   Options: Sprinkling water on the dry playground before sweeping / Sweeping the dry playground in a strong wind / Burning the swept-up leaves behind the school  
+   Options: Sweeping the dry playground in a strong wind / Sprinkling water on the dry playground before sweeping / Burning the swept-up leaves behind the school  
    **Answer:** Sprinkling water on the dry playground before sweeping. *Why:* Wet ground does not fly up as dust. Sweeping dry ground in the wind throws dust into the air, and burning leaves adds smoke.
 ### Who Breathes It? (challenge) (challenge, 17 questions)
 1. (write) Your sticky card on the window sill was dark grey after three days. A friend's card, on the 14th floor in a quiet lane, was light grey. Give two reasons the results could be different.  
@@ -617,7 +617,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 8. (order) Sewage from a town pours into a river. Put what happens next in order.  
    **Answer:** ['Sewage pours into the river', 'Microbes in the water feed on the waste', 'The microbes use up oxygen in the water', 'Fish in the river run short of oxygen']. *Why:* The waste is food for microbes. As the microbes multiply and feed, they use the oxygen dissolved in the water, and fish need that same oxygen.
 9. (mcq) A shop says, 'Put two money plants in your bedroom and the air will be clean.' What do most recent studies say?  
-   Options: A room would need far more plants than anyone keeps, so fresh air does much more / Two plants clean a room completely / Plants make the air dirtier  
+   Options: Two plants clean a room completely / A room would need far more plants than anyone keeps, so fresh air does much more / Plants make the air dirtier  
    **Answer:** A room would need far more plants than anyone keeps, so fresh air does much more. *Why:* In small sealed boxes, plants did take some gases out of the air. In a real room, air flows in and out all the time, and a few plants make only a tiny difference. Plants are good to live with for other reasons.
 10. (fill) Fine particles are about ____ times thinner than a hair.  
    **Answer:** ['30']. *Why:* A hair is about 70 micrometres thick. A micrometre is a thousandth of a millimetre. The largest fine particles, PM2.5, are 2.5 micrometres. 70 divided by 2.5 is 28, so about 30 times.
@@ -645,22 +645,22 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 
 ## Quiz
 1. (mcq) What is pollution?  
-   Options: Harmful things added to air, water or land faster than nature can clear them / Anything that smells bad / Only smoke from factories  
+   Options: Anything that smells bad / Only smoke from factories / Harmful things added to air, water or land faster than nature can clear them  
    **Answer:** Harmful things added to air, water or land faster than nature can clear them. *Why:* Pollution covers air, water and land, and it comes from many sources, not only factories. Picking 'only smoke from factories' misses vehicles, burning rubbish, cooking smoke and sewage.
 2. (mcq) Which of these puts the most soot into a city's air?  
    Options: Diesel lorries and buses / Bicycles / Electric trains  
    **Answer:** Diesel lorries and buses. *Why:* Diesel engines burn fuel and give off soot. Bicycles burn nothing. Electric trains make no smoke on the street, though the power station that makes their electricity may.
 3. (mcq) A sticky card is left on a window sill for three days. Another card stays in a closed dabba. The sill card gets specks, but the dabba card stays white. What does that show?  
-   Options: The specks on the sill card came from the air / The dabba made the card cleaner / The jelly turns grey by itself  
+   Options: The dabba made the card cleaner / The jelly turns grey by itself / The specks on the sill card came from the air  
    **Answer:** The specks on the sill card came from the air. *Why:* Both cards had the same jelly. Only the sill card met the air, and only it got specks. So the air brought them.
 4. (mcq) In the Sticky Card Test, why count the specks in only one corner of the square?  
-   Options: It is quicker, and you can multiply by 4 for the whole square / The other corners are always empty / The corner is the dirtiest part  
+   Options: The other corners are always empty / It is quicker, and you can multiply by 4 for the whole square / The corner is the dirtiest part  
    **Answer:** It is quicker, and you can multiply by 4 for the whole square. *Why:* When specks are spread fairly evenly, a quarter of the square holds about a quarter of them. Counting a part and multiplying saves time.
 5. (mcq) What catches dust inside your nose?  
-   Options: Tiny hairs and sticky mucus / Your teeth / Your tongue  
+   Options: Your teeth / Your tongue / Tiny hairs and sticky mucus  
    **Answer:** Tiny hairs and sticky mucus. *Why:* Hairs catch the bigger dust, and sticky mucus catches smaller dust. The mucus is then swept out.
 6. (mcq) Which particles in smoke are the most harmful to lungs?  
-   Options: The finest ones, too small to see / The biggest ones, which you can see / They are all equally harmful  
+   Options: The biggest ones, which you can see / The finest ones, too small to see / They are all equally harmful  
    **Answer:** The finest ones, too small to see. *Why:* The nose catches big dust. The finest particles slip past it and reach deep into the lungs. Picking 'the biggest' is a natural guess, because we can see those.
 7. (mcq) In the Through the Soil experiment, muddy salt water went through soil. What came out?  
    Options: Clearer water that still had the salt in it / Pure clean water / Only mud  
@@ -669,40 +669,40 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    Options: Sewage from towns and cities / Leaves falling into the water / Rain washing mud in  
    **Answer:** Sewage from towns and cities. *Why:* Sewage pours into many rivers without being cleaned. Microbes feeding on it use up the oxygen that fish need.
 9. (mcq) Why is a coat of dust a problem for a plant?  
-   Options: It blocks light the leaves need to make food / It makes the plant grow too fast / It makes the leaves fall in one day  
+   Options: It makes the plant grow too fast / It makes the leaves fall in one day / It blocks light the leaves need to make food  
    **Answer:** It blocks light the leaves need to make food. *Why:* Leaves make food from sunlight. Dust blocks some light and can clog the tiny holes in the leaf.
 10. (mcq) On a dusty balcony, which kind of leaf lets dust slide off most easily in the rain?  
-   Options: A smooth, waxy leaf, like a money plant leaf / A hairy leaf, like a tulsi leaf / A leaf with no water on it  
+   Options: A hairy leaf, like a tulsi leaf / A smooth, waxy leaf, like a money plant leaf / A leaf with no water on it  
    **Answer:** A smooth, waxy leaf, like a money plant leaf. *Why:* Water runs off a smooth, waxy leaf and carries dust with it. Hairs hold on to dust.
 11. (mcq) Which change makes less smoke, instead of moving it somewhere else?  
-   Options: Cooking on gas instead of wood / Burning rubbish behind the building / Building a taller chimney  
+   Options: Burning rubbish behind the building / Cooking on gas instead of wood / Building a taller chimney  
    **Answer:** Cooking on gas instead of wood. *Why:* Gas burns much more cleanly than wood. Burning round the back or through a taller chimney still makes the same smoke.
 12. (mcq) Clair Patterson found almost no lead in very old Greenland ice, and much more in recent ice. What did this prove wrong?  
-   Options: That the lead in the air was natural and had always been there / That snow falls in layers / That lead is a metal  
+   Options: That snow falls in layers / That the lead in the air was natural and had always been there / That lead is a metal  
    **Answer:** That the lead in the air was natural and had always been there. *Why:* If the lead were natural, old ice would hold as much as new ice. The rise came after leaded petrol, so people had put it there.
 13. (mcq) Why is putting dry leaves in a compost pit better than burning them?  
-   Options: It makes no smoke and gives rich soil / Burning makes better soil than composting / Composting is faster than burning  
+   Options: Burning makes better soil than composting / It makes no smoke and gives rich soil / Composting is faster than burning  
    **Answer:** It makes no smoke and gives rich soil. *Why:* Burning puts fine particles into the air for others to breathe. A compost pit makes no smoke, and the leaves become soil for the plants.
 14. (mcq) Why can polythene bags in a drain bring mosquitoes?  
-   Options: They block the drain, so water stands and mosquitoes lay eggs in it / Mosquitoes like the smell of polythene / Polythene gives off warmth at night  
+   Options: Mosquitoes like the smell of polythene / They block the drain, so water stands and mosquitoes lay eggs in it / Polythene gives off warmth at night  
    **Answer:** They block the drain, so water stands and mosquitoes lay eggs in it. *Why:* Polythene does not rot, so it blocks the drain and the water stays. Mosquitoes lay their eggs in standing water.
 15. (mcq) A road full of buses and autos adds which two kinds of pollution?  
-   Options: Smoke in the air and noise / Sewage and noise / Noise only  
+   Options: Sewage and noise / Noise only / Smoke in the air and noise  
    **Answer:** Smoke in the air and noise. *Why:* The engines burn fuel and give smoke. The engines and horns also make loud sound. Sewage comes from toilets and drains, not from vehicles.
 16. (mcq) Why is a firecracker bursting near a child's ear dangerous?  
-   Options: A very loud bang can damage hearing in a moment / It makes the air too cold / It matters only at night  
+   Options: It makes the air too cold / A very loud bang can damage hearing in a moment / It matters only at night  
    **Answer:** A very loud bang can damage hearing in a moment. *Why:* Hearing can be damaged by a very loud sound, even one that lasts a moment. A loud sound is harmful at any time of the day.
 17. (mcq) Why can too much chemical fertiliser and pesticide harm a farm?  
-   Options: They can harm bees and earthworms, and rain washes them into water / They make the soil too soft to walk on / They give the plants too much sunlight  
+   Options: They make the soil too soft to walk on / They can harm bees and earthworms, and rain washes them into water / They give the plants too much sunlight  
    **Answer:** They can harm bees and earthworms, and rain washes them into water. *Why:* Bees and earthworms do useful work for the farm, and strong chemicals can harm them. Rain then carries the chemicals into drains, ponds and rivers.
 18. (mcq) Why are colours made from flowers or haldi a better choice than cheap chemical colours?  
-   Options: Chemical colours can sting the skin and eyes and wash into lakes / Chemical colours are heavier / Flower colours last for a year  
+   Options: Chemical colours are heavier / Chemical colours can sting the skin and eyes and wash into lakes / Flower colours last for a year  
    **Answer:** Chemical colours can sting the skin and eyes and wash into lakes. *Why:* Some cheap colours have chemicals that irritate the skin and eyes. When they wash off, they go to drains and lakes.
 19. (mcq) Why do scientists measure noise in decibels, and not only judge it by ear?  
-   Options: Numbers let us compare places and days fairly / Ears can hear only quiet sounds / Decibels make a sound quieter  
+   Options: Ears can hear only quiet sounds / Numbers let us compare places and days fairly / Decibels make a sound quieter  
    **Answer:** Numbers let us compare places and days fairly. *Why:* Ears can be fooled, and two people may disagree. A number lets us compare a quiet lane with a busy road, and see if a fix has worked.
 20. (mcq) Plastic bags are light, cheap and clean. What else is true of them?  
-   Options: They do not rot, so they pile up and block drains / They turn into soil in a week / They clean the air  
+   Options: They turn into soil in a week / They do not rot, so they pile up and block drains / They clean the air  
    **Answer:** They do not rot, so they pile up and block drains. *Why:* Every new thing has good and bad effects. Plastic is handy, but it lasts for years, so it needs to be used less and put in the dustbin.
 
 ## Applications

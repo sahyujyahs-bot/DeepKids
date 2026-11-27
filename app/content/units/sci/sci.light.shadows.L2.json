@@ -493,11 +493,11 @@
       "t": "mcq",
       "q": "You want your hand's shadow to have a fuzzy edge. Where should you hold your hand?",
       "options": [
-       "Close to the torch",
        "Close to the wall",
+       "Close to the torch",
        "Behind the torch"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Close to the torch, your hand hides only part of the torch's light near the edge of the shadow, so the edge is grey and soft. Close to the wall, the edge is sharp. Behind the torch, there is no shadow on the wall at all."
      }
     }
@@ -909,11 +909,11 @@
       "t": "mcq",
       "q": "A room has a tube light and a table lamp switched on. How many shadows does a chair in that room make on the floor?",
       "options": [
-       "Two",
        "One",
+       "Two",
        "None"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each light makes its own shadow, so two lights make two shadows. If you picked one, try your test again with both lights on, and count."
      }
     }
@@ -992,11 +992,11 @@
       "t": "mcq",
       "q": "You switch off the torch. What happens to your hand shadow?",
       "options": [
-       "It disappears at once",
        "It stays on the wall for a while",
+       "It disappears at once",
        "It gets darker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A shadow is the place light cannot reach. With the torch off, no light reaches the wall at all, so there is no dark patch to see. The shadow is gone at once."
      }
     }
@@ -1179,11 +1179,11 @@
       "t": "mcq",
       "q": "The torch is on the left of a toy. Where does the toy's shadow fall?",
       "options": [
-       "On the right of the toy",
        "On the left of the toy",
-       "Under the torch"
+       "Under the torch",
+       "On the right of the toy"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A shadow always falls on the side away from the light. The torch is on the left, so the shadow is on the right."
      }
     }
@@ -1555,11 +1555,11 @@
    "t": "mcq",
    "p": "What is a shadow?",
    "opts": [
-    "A dark patch where light is blocked",
     "A dark copy that comes out of a thing",
+    "A dark patch where light is blocked",
     "A kind of light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A shadow is the place the light cannot reach, because something is in the way. Nothing dark comes out of the thing.",
    "outcome": 0
   },
@@ -1579,11 +1579,11 @@
    "t": "mcq",
    "p": "A toy stands between a torch and a wall. When is its shadow biggest?",
    "opts": [
-    "When the toy was close to the torch",
     "When the toy was close to the wall",
-    "It was the same size everywhere"
+    "It was the same size everywhere",
+    "When the toy was close to the torch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Close to the torch, the toy blocks a big part of the spreading light, so the shadow on the wall is big.",
    "outcome": 2,
    "how": "e1"
@@ -1604,11 +1604,11 @@
    "t": "mcq",
    "p": "A lamp hangs straight above a dining table. Where is the table's shadow?",
    "opts": [
-    "Under the table",
     "On the ceiling",
-    "On the wall behind the lamp"
+    "On the wall behind the lamp",
+    "Under the table"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The light comes from above, so the blocked place is below the table, on the floor.",
    "outcome": 3
   },
@@ -1616,11 +1616,11 @@
    "t": "mcq",
    "p": "With two torches on, why is each shadow pale grey, not dark?",
    "opts": [
-    "The other torch still shines into it",
     "Shadows are always pale",
+    "The other torch still shines into it",
     "The toy lets light through"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each shadow is lit by the other torch. Only where the two shadows overlap does no light get in, so that part is dark.",
    "outcome": 4,
    "how": "e2"
@@ -1629,11 +1629,11 @@
    "t": "mcq",
    "p": "Your shadow puppet is a crow coloured bright blue. What colour is the crow's shadow?",
    "opts": [
-    "Dark, with no blue",
     "Bright blue",
-    "Pale blue"
+    "Pale blue",
+    "Dark, with no blue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The card blocks the light, so the shadow is dark. A shadow shows only the outline, not the colours painted on the card.",
    "outcome": 5,
    "how": "a2"
@@ -1642,11 +1642,11 @@
    "t": "mcq",
    "p": "Tholpavakoothu is a shadow-puppet play from which state?",
    "opts": [
-    "Kerala",
     "Punjab",
-    "Assam"
+    "Assam",
+    "Kerala"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tholpavakoothu comes from Kerala, mostly round Palakkad. Andhra Pradesh has tholu bommalata, Karnataka has togalu gombeyaata and Odisha has ravanachhaya.",
    "outcome": 5
   },
@@ -1654,11 +1654,11 @@
    "t": "mcq",
    "p": "Why does a shadow have the same outline as the thing that makes it?",
    "opts": [
-    "Light travels in straight lines",
     "Light bends round things",
+    "Light travels in straight lines",
     "The wall copies the thing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light that just misses the edge goes straight on to the wall, and light that hits the thing stops. So the edge of the shadow follows the edge of the thing.",
    "outcome": 0
   },
@@ -1678,11 +1678,11 @@
    "t": "mcq",
    "p": "A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?",
    "opts": [
-    "It slides left with the toy",
     "It stays where it was",
+    "It slides left with the toy",
     "It jumps to the right of the torch"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.",
    "outcome": 3
   },
@@ -1690,11 +1690,11 @@
    "t": "mcq",
    "p": "You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?",
    "opts": [
-    "Five thin fingers with gaps between them",
     "One solid round lump",
-    "Nothing, because a hand is too small"
+    "Nothing, because a hand is too small",
+    "Five thin fingers with gaps between them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.",
    "outcome": 0
   }
@@ -1935,11 +1935,11 @@
      "t": "mcq",
      "p": "Your shadow on the floor points towards the door. Where is the light?",
      "opts": [
-      "On the side away from the door",
       "Next to the door",
+      "On the side away from the door",
       "Under the floor"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A shadow points away from the light. So if the shadow points to the door, the light is on the other side, away from the door."
     },
     {

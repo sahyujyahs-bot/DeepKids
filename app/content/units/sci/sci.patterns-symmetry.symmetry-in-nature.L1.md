@@ -444,13 +444,13 @@ The next morning I come at the same time, as I always do. There is a whole kolam
 9. (count) A butterfly has 3 legs on her left side and 3 legs on her right side. How many legs does she have in all?  
    **Answer:** 6. *Why:* Three on the left and three on the right make 6. The two sides match, so each side has the same number.
 10. (mcq) You fold a paper in half and cut a shape on the fold. Then you open the paper. What do you see?  
-   Options: A shape with two matching halves / A shape with no middle / Two different shapes  
+   Options: A shape with no middle / A shape with two matching halves / Two different shapes  
    **Answer:** A shape with two matching halves. *Why:* The two halves were cut together, so they match. The fold becomes the line of symmetry.
 ### Halves, Mirrors and Art (stretch) (stretch, 10 questions)
 1. (order) Put the Mirror Test in order.  
    **Answer:** ['Guess for each thing', 'Stand the mirror on the middle line', 'Sort the things into two heaps']. *Why:* First we guess, so the test can tell us whether we were right. Then we try the mirror. Then we sort what we found.
 2. (mcq) You stand a mirror on the middle line of a hibiscus flower. What do you see?  
-   Options: A whole flower / Half a flower and an empty mirror / A new shape, not a flower  
+   Options: Half a flower and an empty mirror / A whole flower / A new shape, not a flower  
    **Answer:** A whole flower. *Why:* A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and you see a whole flower.
 3. (label) Say whether each thing has two matching halves: yes, nearly or no. A grown-up writes your answers.  
    **Answer:** ['yes, or nearly', 'nearly', 'no', 'yes']. *Why:* A strong answer says 'nearly' for the face, because the Mirror Test showed small differences. Flowers are living too, so 'nearly' is also a good answer for the hibiscus.
@@ -461,7 +461,7 @@ The next morning I come at the same time, as I always do. There is a whole kolam
 6. (fill) The middle line where a shape folds into two matching halves is called the line of ___.  
    **Answer:** symmetry. *Why:* The line of symmetry cuts a shape into two halves that match.
 7. (mcq) You cut a paper butterfly. One wing comes out much bigger than the other. You rest the butterfly on a pencil along her middle. What happens?  
-   Options: She tips towards the bigger wing / She balances / She flies away  
+   Options: She balances / She flies away / She tips towards the bigger wing  
    **Answer:** She tips towards the bigger wing. *Why:* The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.
 8. (write) Someone says: 'Only people make shapes with two matching halves.' What would you tell them? Say it out loud, and a grown-up writes it down.  
    **Answer:** Butterflies, leaves and people grow two matching halves, and nobody draws them. People make symmetric kolams too, but they are not the only ones.. *Why:* A strong answer uses something the child saw, such as the leaf or the butterfly, as evidence.
@@ -477,31 +477,31 @@ The next morning I come at the same time, as I always do. There is a whole kolam
 
 ## Quiz
 1. (mcq) A shape has symmetry. What does that mean?  
-   Options: Its two halves match / It is very big / It has many colours  
+   Options: It is very big / Its two halves match / It has many colours  
    **Answer:** Its two halves match. *Why:* Symmetry means the two halves of a shape match, like a butterfly's two sides.
 2. (mcq) Which of these has symmetry?  
    Options: A butterfly / A chappal / A door key  
    **Answer:** A butterfly. *Why:* A butterfly's left wings match her right wings. A chappal and most keys have no line that cuts them into matching halves.
 3. (mcq) Where is the line of symmetry on a butterfly?  
-   Options: Down her body, from head to tail / Across her wings, from side to side / Round the edge of her wings  
+   Options: Across her wings, from side to side / Down her body, from head to tail / Round the edge of her wings  
    **Answer:** Down her body, from head to tail. *Why:* The line down her body has two wings on each side, and the two sides match.
 4. (mcq) Where is the line of symmetry on your face?  
-   Options: Down the middle of your nose / Across your eyes / Along your chin  
+   Options: Across your eyes / Along your chin / Down the middle of your nose  
    **Answer:** Down the middle of your nose. *Why:* A line down the middle of your nose has one eye, one ear and one cheek on each side.
 5. (mcq) You stand a mirror on the middle vein of a leaf. You see a whole leaf. What does that show?  
-   Options: The leaf's two halves match / The leaf is broken / The mirror makes leaves  
+   Options: The leaf is broken / The leaf's two halves match / The mirror makes leaves  
    **Answer:** The leaf's two halves match. *Why:* The mirror shows one half of the leaf, flipped over. A whole leaf appears only when the two halves match.
 6. (mcq) Are the two sides of your face exactly the same?  
-   Options: Nearly, but not exactly / Yes, exactly the same / No, not at all alike  
+   Options: Yes, exactly the same / Nearly, but not exactly / No, not at all alike  
    **Answer:** Nearly, but not exactly. *Why:* In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly.
 7. (mcq) Why does a butterfly need her two sides to match?  
-   Options: So both sides push the same air, and she flies straight / So she can hear better / So she stays warm at night  
+   Options: So she can hear better / So she stays warm at night / So both sides push the same air, and she flies straight  
    **Answer:** So both sides push the same air, and she flies straight. *Why:* Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.
 8. (mcq) You draw half a flower next to a fold. You fold the paper shut and rub it hard. What appears on the other half?  
    Options: The matching other half, flipped / A different flower / Nothing at all  
    **Answer:** The matching other half, flipped. *Why:* Rubbing copies the drawing onto the other half, flipped like a mirror image. Together the two halves make a whole flower.
 9. (mcq) What do we call the middle line where a shape folds into two matching halves?  
-   Options: The line of symmetry / The edge / The corner  
+   Options: The edge / The line of symmetry / The corner  
    **Answer:** The line of symmetry. *Why:* Fold a shape along its line of symmetry, and the two halves match.
 10. (mcq) A bird pecked a small piece out of one wing of a butterfly. Do her two sides still nearly match?  
    Options: Yes, nearly, but now one side is a little different / No, they are completely different / Yes, exactly the same  

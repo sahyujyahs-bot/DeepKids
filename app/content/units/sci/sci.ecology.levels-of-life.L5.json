@@ -917,12 +917,12 @@
       "t": "mcq",
       "q": "Snow melts and leaves dark ground. The dark ground warms and melts more snow. What kind of feedback is this?",
       "options": [
-       "Balancing, because snow is cold",
        "Reinforcing, because melting leads to more melting",
+       "Balancing, because snow is cold",
        "No feedback at all",
        "Balancing, because the ground is dark"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The result of the melting, which is dark ground, causes more melting. The change adds to itself, so the loop is reinforcing. Whether a thing is cold or dark does not decide the kind of loop."
      },
      "context": "This is the last step of Push Back or Push On? Here you count the points and compare the balancing loops with the reinforcing loops."
@@ -1161,11 +1161,11 @@
       "q": "In the Daisy Planet Test, why did the planet with daisies stay near 26 degrees?",
       "options": [
        "The Sun stopped getting hotter",
-       "Pale daisies grew when it got too warm",
        "The daisies agreed to cool the planet",
-       "Beans cannot get hot"
+       "Beans cannot get hot",
+       "Pale daisies grew when it got too warm"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Whenever the planet went above 25 degrees, pale daisies replaced dark ones, and pale daisies reflect sunlight. No agreement was needed. Choosing 'the Sun stopped' misses that the Sun number rose by 3 every round."
      },
      "context": "This is the last step of the Daisy Planet Test. Here you say what you thought, what you saw and why, and what the paper model leaves out."
@@ -1324,11 +1324,11 @@
       "q": "Black cloth and white cloth lie in the same sunlight. Why does the black cloth get hotter?",
       "options": [
        "Black cloth is thicker",
-       "Black cloth takes in more of the light",
        "White cloth lets the heat pass through",
+       "Black cloth takes in more of the light",
        "The Sun shines more on black things"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A black surface takes in most of the light that falls on it, and the light becomes heat. A white surface reflects most of the light away. The Sun shines equally on both."
      },
      "context": "This is the last step of Dark Cloth, Pale Cloth. Two tumblers of water, one in black cloth and one in white, have stood in sunlight for 30 minutes. Here you compare them."
@@ -1474,12 +1474,12 @@
       "t": "mcq",
       "q": "A stick balanced on your palm falls quickly when your eyes are closed. Why?",
       "options": [
+       "You cannot notice the tip in time",
        "The stick gets heavier",
        "Your hand gets weaker",
-       "You cannot notice the tip in time",
        "The air pushes harder"
       ],
-      "a": 2,
+      "a": 0,
       "why": "To work against a change, a system must first notice the change. With eyes closed, the news that the stick is tipping arrives too late. The stick and the hand are just as they were."
      },
      "context": "This is the last step of the Balancing Stick. You have timed a stick balanced on your palm in three ways. Here you compare the times and explain them."
@@ -1570,11 +1570,11 @@
       "q": "All the house crows of one town, taken together, are which level of life?",
       "options": [
        "An organism",
-       "A population",
        "A community",
+       "A population",
        "An ecosystem"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A population is all the members of one species in one place. A community would include the other species of the town too. An ecosystem would also include the water, air and soil."
      },
      "context": "This is the last step of Zoom Out. You have drawn one living being inside five circles. Here you say what that being gets from each level."
@@ -1657,11 +1657,11 @@
       "q": "The Earth's air has far more oxygen than the air of Venus or Mars. What is the best explanation?",
       "options": [
        "The Earth is the biggest planet",
-       "Living beings keep making oxygen",
        "Oxygen falls from the Sun",
+       "Living beings keep making oxygen",
        "Volcanoes make oxygen"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Photosynthesis by plants, seaweeds and bacteria gives out oxygen. Volcanoes give out carbon dioxide and water vapour, not oxygen. Volcanoes do add gases to the air, but oxygen is not one of them."
      },
      "context": "This is the last step of Three Planets' Air. You have coloured strips for the air of Venus, the Earth and Mars. Here you find the odd one out and explain it."
@@ -1742,12 +1742,12 @@
       "t": "mcq",
       "q": "Which of these is an emergent property of a population of deer?",
       "options": [
+       "The number of fawns born each year",
        "The colour of one deer",
        "The weight of one deer",
-       "The number of fawns born each year",
        "The length of one antler"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The number of births each year belongs to the whole population. No single deer has a birth rate. The other three are features of one deer."
      },
      "context": "This is the last step of the Rice Heap. You found that heaps of rice have the same slope, though no grain has a slope. Here you look for the same idea in living beings."
@@ -1821,11 +1821,11 @@
       "q": "A paper planet is full of pale daisies and the Sun keeps getting hotter. What happens to the temperature?",
       "options": [
        "It stays level for ever",
-       "It starts to rise again",
        "It falls",
-       "It rises and falls in turn"
+       "It rises and falls in turn",
+       "It starts to rise again"
       ],
-      "a": 1,
+      "a": 3,
       "why": "With every square full, no more pale daisies can grow, so nothing is left to work against the hotter Sun. A balancing loop has a limit. Choosing 'level for ever' forgets that the daisies need room."
      },
      "context": "This is the last step of When the Daisies Run Out of Room. You have played the paper Daisy Planet until the daisies died. Here you explain why the temperature jumped."
@@ -1908,12 +1908,12 @@
       "t": "mcq",
       "q": "Which statement do almost all scientists agree with?",
       "options": [
+       "Living beings change the Earth's air, water and soil",
        "The Earth is a living being",
        "Life always keeps the Earth steady",
-       "Living beings change the Earth's air, water and soil",
        "The Earth plans for the good of life"
       ],
-      "a": 2,
+      "a": 0,
       "why": "That living beings change the planet is well measured, and oxygen is the clearest case. Whether those changes keep the Earth steady is still argued about. Whether the Earth is 'alive' depends on what the word means."
      },
      "context": "This is the last step of the Gaia Council. Here you sort three statements about the Earth into what is agreed, what is argued about, and what depends on the meaning of a word."
@@ -2009,10 +2009,10 @@
       "options": [
        "Never",
        "When the organisms are large",
-       "When very many do the same for long",
-       "Only when people do it"
+       "Only when people do it",
+       "When very many do the same for long"
       ],
-      "a": 2,
+      "a": 3,
       "why": "Cyanobacteria are tiny, but countless numbers of them gave out oxygen for millions of years. Size is not what counts. Humans are the second known case, not the only one."
      },
      "context": "This is the last step of One Change, Five Levels. You have followed one change down the levels of life and one change up. Here you ask when a change at the bottom can reach the top."
@@ -2385,12 +2385,12 @@
      "t": "mcq",
      "p": "A temple tank holds fish, frogs, water plants, water and mud. Which level of life is the whole tank?",
      "opts": [
+      "An ecosystem",
       "A population",
       "A community",
-      "An ecosystem",
       "The biosphere"
      ],
-     "a": 2,
+     "a": 0,
      "why": "An ecosystem is the living beings of a place together with the water, mud, air and sunlight. Choosing 'community' leaves out the non-living things."
     },
     {
@@ -2483,12 +2483,12 @@
      "t": "mcq",
      "p": "A forest gets its monsoon rain from winds that crossed the sea. Which level supplies that rain?",
      "opts": [
+      "The biosphere",
       "The organism",
       "The population",
-      "The community",
-      "The biosphere"
+      "The community"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The wet wind comes from far outside the forest, so no level inside the forest can supply it. An ecosystem depends on the biosphere for its rain and its air."
     },
     {
@@ -2529,12 +2529,12 @@
      "t": "mcq",
      "p": "Which gas is about one fifth of the Earth's air, and was made by living beings?",
      "opts": [
-      "Oxygen",
       "Carbon dioxide",
       "Nitrogen",
-      "Argon"
+      "Argon",
+      "Oxygen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Oxygen is 21 parts in every 100 of the air, and nearly all of it came from photosynthesis. Nitrogen is the biggest part of the air, at 78 in 100."
     },
     {
@@ -2603,12 +2603,12 @@
      "t": "mcq",
      "p": "Very old rocks hold minerals that oxygen destroys. Younger rocks do not. What does this show?",
      "opts": [
-      "The early air had almost no oxygen",
       "Old rocks are harder",
+      "The early air had almost no oxygen",
       "Oxygen comes from rocks",
       "The early Earth had no rocks"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Those minerals could only last in air without oxygen. So the air changed, about 2,400 million years ago, when bacteria had made enough oxygen."
     },
     {
@@ -2664,12 +2664,12 @@
      "t": "mcq",
      "p": "A black car and a white car stand in the same sun. Which gets hotter inside, and why?",
      "opts": [
-      "Black: it takes in more light",
       "White: it reflects more light",
+      "Black: it takes in more light",
       "The same: the sun is the same",
       "Black: it is heavier"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A dark surface takes in more of the light, and that light becomes heat. Reflecting light keeps the white car cooler, not hotter."
     },
     {
@@ -2817,11 +2817,11 @@
      "p": "Astronomers find a far planet whose air holds oxygen and methane together. Why is that exciting?",
      "opts": [
       "Those gases smell",
-      "Something must keep making both gases",
       "Those gases are heavy",
+      "Something must keep making both gases",
       "Those gases make the planet blue"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Oxygen and methane react with each other. If both are there, something must be making them all the time. On the Earth, living beings do that."
     },
     {
@@ -2964,24 +2964,24 @@
      "t": "mcq",
      "p": "In the sealed building Biosphere 2, oxygen fell though there were many plants. What had the builders not counted?",
      "opts": [
-      "The microbes in the soil",
       "The size of the windows",
       "The weight of the glass",
-      "The colour of the leaves"
+      "The colour of the leaves",
+      "The microbes in the soil"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The rich soil held huge numbers of microbes, who used oxygen faster than the plants made it. Every being who breathes has to be counted."
     },
     {
      "t": "mcq",
      "p": "The Earth is 12,700 km across. Nearly all life is in a layer 20 km thick. What fraction is that?",
      "opts": [
+      "About 1/600",
       "About 1/6",
       "About 1/60",
-      "About 1/600",
       "About 1/6000"
      ],
-     "a": 2,
+     "a": 0,
      "why": "12,700 divided by 20 is 635. So the layer is about one six-hundredth of the Earth's width."
     },
     {
@@ -3039,10 +3039,10 @@
    "opts": [
     "Hunt",
     "Find water",
-    "Have cubs",
-    "Breathe"
+    "Breathe",
+    "Have cubs"
    ],
-   "a": 2,
+   "a": 3,
    "why": "To have cubs she needs a mate, so she needs a population. This is one way an organism depends on the next level up.",
    "outcome": 1
   },
@@ -3058,11 +3058,11 @@
    "p": "Which of these belongs to a honeybee colony, but not to one bee?",
    "opts": [
     "Having six legs",
-    "Keeping the hive at a steady warmth",
     "Having wings",
+    "Keeping the hive at a steady warmth",
     "Drinking nectar"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Thousands of bees shivering and fanning together hold the hive near 35 degrees Celsius. One bee cannot do that. It is an emergent property.",
    "outcome": 2
   },
@@ -3070,12 +3070,12 @@
    "t": "mcq",
    "p": "A loop makes a small change grow bigger and bigger. What is it called?",
    "opts": [
-    "Balancing feedback",
     "Reinforcing feedback",
+    "Balancing feedback",
     "Homeostasis",
     "Albedo"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Reinforcing feedback adds to a change. Balancing feedback works against a change, and homeostasis is the steadiness it produces.",
    "outcome": 3
   },
@@ -3084,11 +3084,11 @@
    "p": "Wild dogs eat deer. When deer increase, the dogs increase and eat more deer. What kind of loop is this?",
    "opts": [
     "Reinforcing",
-    "Balancing",
     "No loop",
+    "Balancing",
     "Emergent"
    ],
-   "a": 1,
+   "a": 2,
    "why": "More deer leads to more dogs, and more dogs brings the deer down again. The result works against the change.",
    "outcome": 3
   },
@@ -3096,12 +3096,12 @@
    "t": "mcq",
    "p": "Mars has almost no oxygen in its air. What is the best reason?",
    "opts": [
+    "Nothing there keeps making oxygen",
     "Mars is red",
     "Oxygen is too heavy for Mars",
-    "Nothing there keeps making oxygen",
     "Mars has no air at all"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Oxygen reacts with rocks and is used up unless something keeps making it. On the Earth, living beings do that. Mars does have air, and most of it is carbon dioxide.",
    "outcome": 4
   },
@@ -3110,11 +3110,11 @@
    "p": "On the Daisy Planet, what cools the planet when it gets too hot?",
    "opts": [
     "The Sun dims",
-    "Pale daisies spread and reflect sunlight",
     "Dark daisies spread",
+    "Pale daisies spread and reflect sunlight",
     "Rain falls"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Above 25 degrees, pale daisies replace dark ones. Pale daisies reflect sunlight, so the planet cools. The model has no rain.",
    "outcome": 5,
    "how": "e1"
@@ -3132,23 +3132,23 @@
    "p": "Which of these is a real criticism of the Gaia hypothesis?",
    "opts": [
     "The Earth is too big to study",
-    "Natural selection cannot make beings serve a planet",
     "Plants do not make oxygen",
-    "The Sun never changes"
+    "The Sun never changes",
+    "Natural selection cannot make beings serve a planet"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Natural selection favours what helps an organism and their family. Critics ask how it could ever favour what helps a whole planet.",
    "outcome": 6
   },
   {
    "t": "mcq",
    "p": "What does the Sanskrit saying Vasudhaiva Kutumbakam mean?",
-   "a": 1,
+   "a": 0,
    "why": "The saying asks us to see the whole world as one family, so care reaches people, animals and plants far away, as the biosphere links them. The other answers draw a line between us and them, which the saying does not do.",
    "outcome": 1,
    "opts": [
-    "Only the people of our own village matter",
     "The whole world is one family",
+    "Only the people of our own village matter",
     "Each place should guard its own land and ignore the rest",
     "Humans should rule over the other living beings"
    ]

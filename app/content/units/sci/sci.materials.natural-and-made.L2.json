@@ -474,10 +474,10 @@
       "q": "You crush a clear glass marble into powder. What colour will the powder look?",
       "options": [
        "Clear, like the marble",
-       "White, like sugar grains",
-       "Black"
+       "Black",
+       "White, like sugar grains"
       ],
-      "a": 1,
+      "a": 2,
       "why": "In the sugar test, the clear sheet turned white when it was crushed. Light bounces off the edges of all the tiny bits. Crushed glass looks white for the same reason."
      }
     }
@@ -661,11 +661,11 @@
       "t": "mcq",
       "q": "You bury a banana leaf and a plastic plate in soil. After two weeks, which will have changed more?",
       "options": [
-       "The banana leaf",
        "The plastic plate",
+       "The banana leaf",
        "Both the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Banana leaf and banana peel are plant materials. Bacteria and fungi in soil eat them easily, and eat plastic only very slowly."
      }
     }
@@ -747,10 +747,10 @@
       "t": "mcq",
       "q": "You have a cotton hanky and a plastic bottle. Which one goes nearer the 'Changed a lot by people' end?",
       "options": [
-       "The cotton hanky",
-       "The plastic bottle"
+       "The plastic bottle",
+       "The cotton hanky"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Cotton cloth is still cotton, spun and woven. A plastic bottle is a new material, made from oil in a factory. So people changed the bottle more."
      }
     }
@@ -1102,11 +1102,11 @@
       "t": "mcq",
       "q": "Which of these says correctly what a thing is made from?",
       "options": [
-       "A notebook, made from sand",
        "A glass bottle, made from sand",
+       "A notebook, made from sand",
        "A plastic bucket, made from a tree"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Glass is made from melted sand. A notebook is made from a tree, and a plastic bucket from oil."
      }
     }
@@ -1519,11 +1519,11 @@
      "t": "mcq",
      "p": "Why does glass-making need a furnace, not a stove?",
      "opts": [
-      "Sand needs much more heat to melt than sugar",
       "Sand is wet",
-      "A stove is too big"
+      "A stove is too big",
+      "Sand needs much more heat to melt than sugar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sugar syrup melts on a stove. Sand needs about 1,500 degrees Celsius, far hotter than any kitchen."
     },
     {
@@ -1590,11 +1590,11 @@
      "t": "mcq",
      "p": "In the water shake, the tissue fell apart, but the plastic did not. Why?",
      "opts": [
-      "The tissue is made of fibres that let go of each other when wet",
       "The plastic was bigger",
+      "The tissue is made of fibres that let go of each other when wet",
       "The water was too cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Paper is plant fibres holding each other. Water gets between them and they let go. Plastic is made of long chains that water does not pull apart.",
      "context": "This question is about the water shake. You shake a piece of tissue paper and a piece of plastic bag in a jar of water.",
      "how": "a3"
@@ -1660,11 +1660,11 @@
    "t": "mcq",
    "p": "Which of these is a natural material?",
    "opts": [
-    "Glass",
     "Cotton",
+    "Glass",
     "Plastic"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Cotton grows on the cotton plant. Glass and plastic are made by people. Picking glass may mean thinking anything clear and plain is natural.",
    "outcome": 0
   },
@@ -1672,11 +1672,11 @@
    "t": "mcq",
    "p": "Glass is made from which natural material?",
    "opts": [
+    "Sand",
     "Wood",
-    "Oil",
-    "Sand"
+    "Oil"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Glass is made by melting sand in a furnace. Picking oil mixes it up with plastic.",
    "outcome": 1
   },
@@ -1684,11 +1684,11 @@
    "t": "mcq",
    "p": "Most plastic is made from what?",
    "opts": [
-    "Oil from under the ground",
     "Melted sand",
+    "Oil from under the ground",
     "Tree bark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plastic is made in factories from oil and natural gas. Picking melted sand mixes it up with glass.",
    "outcome": 1
   },
@@ -1710,10 +1710,10 @@
    "p": "Why does a heap of sugar look white?",
    "opts": [
     "Each grain is painted white",
-    "Light bounces off the edges of all the grains",
-    "Sugar is made of milk"
+    "Sugar is made of milk",
+    "Light bounces off the edges of all the grains"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each grain lets light through, but a heap has thousands of edges that bounce light about. Picking 'painted white' means not yet having looked at one grain up close.",
    "outcome": 3,
    "how": "a2"
@@ -1722,11 +1722,11 @@
    "t": "mcq",
    "p": "Why is a glass window clear, when sand is not?",
    "opts": [
-    "The sand melted into one piece with no edges inside",
     "Glass is washed very well",
-    "Glass makers add water"
+    "Glass makers add water",
+    "The sand melted into one piece with no edges inside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Melting joins all the grains into one piece. With no edges inside, light goes straight through.",
    "outcome": 3
   },
@@ -1734,11 +1734,11 @@
    "t": "mcq",
    "p": "Paper is made of what?",
    "opts": [
-    "Tiny plant fibres pressed together",
     "Melted plastic",
-    "Crushed stone"
+    "Crushed stone",
+    "Tiny plant fibres pressed together"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Paper is made from wood, bamboo or sugarcane waste, mashed into fibres. In the water shake, the tissue fell apart into these fibres.",
    "outcome": 1
   },
@@ -1759,11 +1759,11 @@
    "t": "mcq",
    "p": "What is a brick made from?",
    "opts": [
-    "Baked clay",
     "Melted sand",
-    "Pressed paper"
+    "Pressed paper",
+    "Baked clay"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bricks are clay that is shaped and baked very hot. Melted sand makes glass, not bricks.",
    "outcome": 1
   },
@@ -1784,11 +1784,11 @@
    "t": "mcq",
    "p": "Rayon, a soft cloth used for saris and shirts, is made from which natural material?",
    "opts": [
-    "Wood pulp",
     "Sheep's wool",
-    "Oil"
+    "Oil",
+    "Wood pulp"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rayon is made from wood pulp that is treated with chemicals and spun into thread. Oil makes plastic fibres, not rayon. Wool is spun from a sheep's fleece, not made into rayon.",
    "outcome": 1
   },
@@ -1796,11 +1796,11 @@
    "t": "mcq",
    "p": "Which of these is a made wax, not a natural one?",
    "opts": [
-    "Artificial wax made from oil",
     "Beeswax from a hive",
+    "Artificial wax made from oil",
     "A sea sponge"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Artificial wax is made from oil by people. Beeswax comes from bees, and a sea sponge is a living animal, so both are natural.",
    "outcome": 0
   }

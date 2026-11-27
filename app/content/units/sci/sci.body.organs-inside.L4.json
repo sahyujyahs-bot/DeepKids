@@ -771,11 +771,11 @@
       "t": "mcq",
       "q": "Two practice counts are 20 and 21 beats in 15 seconds. What does this tell you?",
       "options": [
-       "You counted well, because the two numbers are close",
        "You counted wrongly, because the numbers are not the same",
+       "You counted well, because the two numbers are close",
        "Your heart changed speed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A heart at rest has a steady pulse, and a difference of one beat is normal. If the two counts had differed by 5 or more, the finger spot or the counting method would need to change. If you chose that you counted wrongly, remember that tiny differences are normal."
      },
      "parent": "If the child cannot find the pulse, try the side of the neck, just under the jaw. Use two fingers there and press very gently.",
@@ -857,11 +857,11 @@
       "t": "mcq",
       "q": "A child counted 28 beats in 15 seconds. What is that in beats per minute?",
       "options": [
-       "112 beats per minute",
        "43 beats per minute",
-       "28 beats per minute"
+       "28 beats per minute",
+       "112 beats per minute"
       ],
-      "a": 0,
+      "a": 2,
       "why": "There are four 15-second spells in one minute. 28 times 4 is 112. If you chose 43, you added 15 instead of multiplying."
      },
      "context": "In this step you turn your counts into beats per minute and draw two line graphs."
@@ -1697,11 +1697,11 @@
      "t": "mcq",
      "p": "What is the pulse that you feel at your wrist?",
      "opts": [
-      "A wave of stretch moving along the artery wall",
       "The same blood from that beat arriving at the wrist",
-      "A muscle in the wrist twitching"
+      "A muscle in the wrist twitching",
+      "A wave of stretch moving along the artery wall"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The heart pushes blood into the arteries, and their elastic walls stretch. The stretch travels as a wave at 5 to 10 metres a second, much faster than the blood.",
      "outcome": 0
     },
@@ -1852,11 +1852,11 @@
      "t": "mcq",
      "p": "In a quiet breath, a tape round the chest grows only about 1 centimetre. Why does the tape not show all the extra room the lungs get?",
      "opts": [
-      "The diaphragm moving down adds room that the tape cannot see",
       "The lungs do not grow when you breathe in",
-      "The tape is too long"
+      "The tape is too long",
+      "The diaphragm moving down adds room that the tape cannot see"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When the diaphragm moves down, it pushes the belly out and gives the lungs much of their new room. A tape round the chest only sees the ribs.",
      "outcome": 3
     },
@@ -1887,11 +1887,11 @@
      "t": "mcq",
      "p": "What does the vagus nerve do to the heart?",
      "opts": [
-      "It sends signals that slow the pacemaker down",
       "It makes the heart beat faster",
-      "It starts the first beat of the heart"
+      "It starts the first beat of the heart",
+      "It sends signals that slow the pacemaker down"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The vagus nerve releases a chemical onto the pacemaker cells that makes them fire less often. The pacemaker itself starts the beats.",
      "outcome": 2
     },
@@ -1899,11 +1899,11 @@
      "t": "mcq",
      "p": "A person with a transplanted heart has a resting pulse of about 100. What does this suggest?",
      "opts": [
-      "Without the nerve brake, the heart beats at its own faster speed",
       "New hearts are weak and need to beat faster",
-      "Transplanted hearts have no pacemaker"
+      "Transplanted hearts have no pacemaker",
+      "Without the nerve brake, the heart beats at its own faster speed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The transplant cuts the nerves. Without the brake, the pacemaker beats at its own speed, which is faster than most resting pulses.",
      "outcome": 2
     },
@@ -2022,11 +2022,11 @@
      "t": "mcq",
      "p": "Why is it dangerous to breathe fast and deep many times before holding your breath underwater?",
      "opts": [
-      "It lowers carbon dioxide, so the urge to breathe comes late and you can faint",
       "It fills your lungs with too much air",
-      "It makes your heart stop"
+      "It makes your heart stop",
+      "It lowers carbon dioxide, so the urge to breathe comes late and you can faint"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The urge to breathe comes mostly from rising carbon dioxide. Fast deep breathing removes carbon dioxide, so the warning comes late, while oxygen can run low enough to make you faint.",
      "outcome": 4
     },
@@ -2136,11 +2136,11 @@
      "t": "mcq",
      "p": "Doctors give a rested grown-up a drug that blocks the vagus nerve. What do they find?",
      "opts": [
-      "The pulse rises towards the pacemaker's own speed of about 100",
       "The pulse falls to nearly zero",
-      "Nothing changes"
+      "Nothing changes",
+      "The pulse rises towards the pacemaker's own speed of about 100"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the brake is blocked, the pacemaker beats at its own speed. This is evidence that the vagus brake is on at rest.",
      "outcome": 2
     },
@@ -2211,11 +2211,11 @@
      "t": "mcq",
      "p": "Why do insects not need blood to carry oxygen to their cells?",
      "opts": [
-      "Tiny air tubes carry air to every part of the body",
       "Insects do not use oxygen",
+      "Tiny air tubes carry air to every part of the body",
       "Insects get oxygen from the food they eat"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An insect breathes through small holes in the sides that lead to a branching system of air tubes, so the air reaches the cells directly.",
      "outcome": 6
     },
@@ -2274,11 +2274,11 @@
      "t": "mcq",
      "p": "Two children do the same step-ups. One has a pulse of 130 and the other has a pulse of 150. What is the best conclusion?",
      "opts": [
-      "Nothing yet, because people differ and counts wobble by a few beats",
       "The child with 150 is unhealthy",
-      "The child with 130 is unfit"
+      "The child with 130 is unfit",
+      "Nothing yet, because people differ and counts wobble by a few beats"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heart rate after exercise varies from person to person for many reasons, such as age, size, how well they slept and how hard they stepped. One count cannot say who is healthier.",
      "outcome": 1
     },
@@ -2298,11 +2298,11 @@
    "t": "mcq",
    "p": "You count 19 beats in 15 seconds. What is the pulse per minute?",
    "opts": [
-    "76 beats per minute",
     "34 beats per minute",
-    "19 beats per minute"
+    "19 beats per minute",
+    "76 beats per minute"
    ],
-   "a": 0,
+   "a": 2,
    "why": "There are four 15-second spells in a minute. 19 times 4 is 76. If you chose 34, you added 15.",
    "outcome": 0
   },
@@ -2310,11 +2310,11 @@
    "t": "mcq",
    "p": "Why does a resting heart beat more slowly than a heart with no nerves attached?",
    "opts": [
-    "A nerve keeps sending signals that slow the pacemaker",
     "The heart is lazy when you rest",
-    "The lungs squeeze the heart"
+    "The lungs squeeze the heart",
+    "A nerve keeps sending signals that slow the pacemaker"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The vagus nerve acts like a brake on the pacemaker. A heart with no nerves attached beats at its own faster speed.",
    "outcome": 2
   },
@@ -2334,11 +2334,11 @@
    "t": "mcq",
    "p": "What does your diaphragm do when you breathe in?",
    "opts": [
-    "It tightens and flattens downwards",
     "It relaxes and rises",
+    "It tightens and flattens downwards",
     "It stays still while the lungs pull in air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The diaphragm flattens and the ribs lift, so the chest grows. The pressure inside falls and air flows in. The lungs have no muscle of their own.",
    "outcome": 3
   },
@@ -2353,11 +2353,11 @@
    "t": "mcq",
    "p": "Which of these is automatic, but you can also take over?",
    "opts": [
-    "Breathing",
     "Your heartbeat",
+    "Breathing",
     "Digesting lunch"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Breathing runs by itself in your sleep, and you can hold it, sigh or sing. You cannot order your heartbeat or your digestion.",
    "outcome": 5
   },
@@ -2365,11 +2365,11 @@
    "t": "mcq",
    "p": "A runner starts to run. What is the first change in the nerve signals to her heart?",
    "opts": [
-    "The brake signals ease off",
     "The heart stops for a moment",
-    "The lungs tell the heart to wait"
+    "The lungs tell the heart to wait",
+    "The brake signals ease off"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The brake easing off gives the quick first jump in pulse within a second or two. Slower signals then add more speed.",
    "outcome": 2
   },
@@ -2386,11 +2386,11 @@
    "t": "mcq",
    "p": "Which of these animals has the fastest heart at rest?",
    "opts": [
-    "A mouse",
     "An elephant",
-    "A child"
+    "A child",
+    "A mouse"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mouse's heart beats about 600 times a minute. A child's beats about 85, and an elephant's about 30. Small bodies burn food faster for their size.",
    "outcome": 6
   },
@@ -2410,11 +2410,11 @@
    "t": "mcq",
    "p": "A child counts 20, 21 and 29 beats in three counts of 15 seconds at rest. What is the best thing to do?",
    "opts": [
-    "Count again, because 29 is far from the other two",
     "Use 29, because it is the biggest",
-    "Add the three numbers together"
+    "Add the three numbers together",
+    "Count again, because 29 is far from the other two"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A repeated count helps to find a number you can trust. A single count far from the others may be a miscount, or the child may have moved.",
    "outcome": 0
   },

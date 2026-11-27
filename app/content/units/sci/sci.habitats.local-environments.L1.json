@@ -491,10 +491,10 @@
       "q": "Where does a pill bug spend the day?",
       "options": [
        "On a hot, dry road",
-       "Under a damp stone or pot",
-       "On top of a sunny wall"
+       "On top of a sunny wall",
+       "Under a damp stone or pot"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A pill bug loses water fast in dry air. Under a damp stone or pot, the pill bug's body stays moist."
      }
     }
@@ -667,11 +667,11 @@
       "t": "mcq",
       "q": "Why did the soil under the plate stay damp?",
       "options": [
-       "The plate kept the sun off and held the water in",
        "The plate made new water",
-       "The plate was cold from the fridge"
+       "The plate was cold from the fridge",
+       "The plate kept the sun off and held the water in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plate blocked the sunlight, and the water in the soil could not escape into the air so quickly. The soil in the open dried in the sun."
      }
     }
@@ -1246,10 +1246,10 @@
      "p": "Which place gives a crow a high, safe home for her nest?",
      "opts": [
       "A pond",
-      "A tall tree",
-      "Under a stone"
+      "Under a stone",
+      "A tall tree"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A crow builds her nest in the branches of a tall tree, high above cats and dogs."
     }
    ]
@@ -1265,10 +1265,10 @@
      "p": "You lay a tile on damp soil in a sunny pot. After lunch, you lift the tile. What will you most likely find?",
      "opts": [
       "Dry, pale soil",
-      "Damp, dark soil",
-      "Hot sand"
+      "Hot sand",
+      "Damp, dark soil"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The tile keeps off the sun and holds the water in, just like the plate in the Plate on the Soil test. Dry, pale soil is what you find on the open half, with no cover.",
      "how": "e1"
     },
@@ -1449,11 +1449,11 @@
    "t": "mcq",
    "p": "Which of these is a habitat, a home place for living beings?",
    "opts": [
-    "A pond",
     "A spoon",
-    "A pencil"
+    "A pencil",
+    "A pond"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A pond is a habitat. Fish, frogs and lotus live there. A spoon and a pencil are not homes for anyone.",
    "outcome": 0
   },
@@ -1461,11 +1461,11 @@
    "t": "mcq",
    "p": "Where would you look for earthworms?",
    "opts": [
-    "Under a damp stone",
     "On a hot road",
-    "On a dry windowsill"
+    "On a dry windowsill",
+    "Under a damp stone"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Earthworms need damp soil to keep their skin wet. A hot road or a dry windowsill would dry them out.",
    "outcome": 2
   },
@@ -1473,11 +1473,11 @@
    "t": "mcq",
    "p": "What is the ground under a stone like?",
    "opts": [
-    "Dark, damp and cool",
     "Bright, dry and hot",
-    "Full of sunlight"
+    "Full of sunlight",
+    "Dark, damp and cool"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stone keeps off the sun and holds the water in. So the ground below is dark, damp and cool.",
    "outcome": 2
   },
@@ -1497,11 +1497,11 @@
    "t": "mcq",
    "p": "Who lives in one big tree?",
    "opts": [
-    "Many beings: birds, squirrels, ants and more",
     "Only birds",
+    "Many beings: birds, squirrels, ants and more",
     "Nobody"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One tree is home to many living beings at once, high in the branches, on the bark and in the leaves.",
    "outcome": 3
   },
@@ -1521,11 +1521,11 @@
    "t": "mcq",
    "p": "In the Plate on the Soil test, which soil was cooler to touch?",
    "opts": [
-    "The soil under the plate",
     "The soil in the open sun",
+    "The soil under the plate",
     "Both the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The plate kept the sun off the soil under it, so that soil stayed cooler. The soil in the open sun warmed up and dried.",
    "how": "e1",
    "outcome": 4
@@ -1534,11 +1534,11 @@
    "t": "mcq",
    "p": "You lift a stone in the park and find ants and a pill bug. What should you do next?",
    "opts": [
-    "Put the stone back gently, the same way",
     "Throw the stone away",
+    "Put the stone back gently, the same way",
     "Take the pill bug home in your pocket"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stone is their roof. Putting the stone back gently gives them their damp, dark home again.",
    "outcome": 5
   },
@@ -1546,11 +1546,11 @@
    "t": "mcq",
    "p": "Why does a squirrel build a nest high in a tree?",
    "opts": [
-    "To be safe from cats and dogs",
     "To be near the fish",
-    "Because the ground is too wet"
+    "Because the ground is too wet",
+    "To be safe from cats and dogs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "High branches keep a squirrel's babies away from cats, dogs and other animals on the ground.",
    "outcome": 1
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "A sunny patch of grass at noon, and the damp ground under a big tree. Which one is more likely to have ants and pill bugs?",
    "opts": [
-    "The sunny patch of grass at noon",
     "The damp ground under a big tree",
+    "The sunny patch of grass at noon",
     "The bare road in the sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ants and pill bugs need damp ground and shade. The grass at noon is hot and dry. The ground under the tree is cooler and damper.",
    "outcome": 1
   }

@@ -400,7 +400,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 2. (match) Draw a line from each family to who is in it.  
    **Answer:** An elephant family → Mothers, aunts and young ones, with an older female leading; An ant family → A queen and her many daughters; A girl who lives with only her father → A family with one parent. *Why:* Every one of these is a family, and each kind is different.
 3. (mcq) In the shirt test, your eyes were covered. Circle what you used to guess whose shirt it was.  
-   Options: My eyes / My nose / My ears  
+   Options: My eyes / My ears / My nose  
    **Answer:** My nose. *Why:* Your eyes were covered, so only your nose could work.
 4. (truefalse) A family must always have a mother, a father and children.  
    **Answer:** False. *Why:* False. Some families have one parent, some have grandparents raising a child, and some have aunts. Any group with grown-ups who care for a child is a family.
@@ -423,7 +423,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** A ring round the dupatta over the eyes. A cross on the steel tumbler.. *Why:* A strong answer finds the dupatta, which makes the test fair, and the tumbler, which hides the shirt.
 ### How We Know Each Other (stretch) (stretch, 11 questions)
 1. (mcq) Here are two shirts. A mother wore one all night. The other was just washed. Which one smells of a person?  
-   Options: The one the mother wore / The one just washed / Both the same  
+   Options: The one just washed / The one the mother wore / Both the same  
    **Answer:** The one the mother wore. *Why:* A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why the Whose Cloth Is This? test has one washed shirt that nobody wore.
 2. (write) Say it to a grown-up, who writes it down. In the Whose Cloth Is This? test, one shirt was clean and washed. Could you tell which one it was? What does that tell you about a shirt nobody has worn?  
    **Answer:** For example: The clean shirt smelled of nothing much, so a worn shirt smells of the person who wore it.. *Why:* A strong answer uses the clean shirt from the child's own test as evidence that the smell on a worn shirt comes from the person.
@@ -450,7 +450,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 1. (write) Say it to a grown-up. In the Pass the Smell test, the garlic smell got weaker down the line. Why?  
    **Answer:** Each hand kept some of the garlic and passed on only a little. So each hand had less than the one before.. *Why:* A strong answer says some of the garlic stayed on each hand, so less reached the end.
 2. (mcq) Scientists found that people in one home share many skin microbes. A grandmother goes to stay for two weeks with her daughter's family. What do you guess will happen?  
-   Options: She will share more microbes with her daughter's family / All her microbes will go away / Nothing will change at all  
+   Options: All her microbes will go away / Nothing will change at all / She will share more microbes with her daughter's family  
    **Answer:** She will share more microbes with her daughter's family. *Why:* People who live together share more skin microbes. So she will likely share more with her daughter's family. Scientists are still finding out how long shared microbes stay.
 3. (perspective) Three people in Bengaluru talk about where body smell comes from.  
    **Answer:** Any side with a reason. All three are partly right: food, microbes and genes all play a part.. *Why:* A strong answer sees that scientists have found all three play a part, and are still finding out how much each one does.
@@ -480,43 +480,43 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 
 ## Quiz
 1. (mcq) What is a family?  
-   Options: People who belong to each other and look after each other / Only people who look the same / Everyone on your street  
+   Options: Only people who look the same / People who belong to each other and look after each other / Everyone on your street  
    **Answer:** People who belong to each other and look after each other. *Why:* A family is people who belong together and care for each other. Family members do not always look alike.
 2. (mcq) You are lost at a railway station. Who is a good person to tell your name and your parent's phone number?  
    Options: A police officer or a shopkeeper / Someone you have never met, who offers you a lift / Nobody, you should wait quietly  
    **Answer:** A police officer or a shopkeeper. *Why:* A police officer or a shopkeeper can help you call your family. A stranger who offers a lift is not safe, and waiting alone does not help.
 3. (mcq) In a family tree, where do the grandparents go?  
-   Options: At the top / At the bottom / In the middle, beside the children  
+   Options: At the bottom / At the top / In the middle, beside the children  
    **Answer:** At the top. *Why:* The oldest people go at the top, then their children, and the youngest at the bottom. That makes three generations.
 4. (mcq) A girl lives with her mother and her grandmother. Is that a family?  
-   Options: Yes / No, there is no father / No, it is too small  
+   Options: No, there is no father / Yes / No, it is too small  
    **Answer:** Yes. *Why:* Her mother and grandmother look after her. Families come in many kinds, and this is one.
 5. (mcq) Rohan lives with his parents and his sister in a flat in Mumbai. What kind of family is this?  
-   Options: A nuclear family / A joint family / Not a family  
+   Options: A joint family / A nuclear family / Not a family  
    **Answer:** A nuclear family. *Why:* Parents and children living on their own are a nuclear family. A joint family also has grandparents, uncles and aunts in the same house. Both are real families.
 6. (mcq) A family in a village moves to a small flat in a city for work. Why might they become a nuclear family?  
    Options: The flat is small and the job is far from the village / Joint families are not real families / Everyone stops loving their grandparents  
    **Answer:** The flat is small and the job is far from the village. *Why:* A job and a small flat can change how a family lives together. The love stays the same, and both kinds are real families.
 7. (mcq) Who often leads an Asian elephant family?  
-   Options: An older female / The youngest calf / A grown-up male  
+   Options: The youngest calf / An older female / A grown-up male  
    **Answer:** An older female. *Why:* Elephant families are mothers, daughters, aunts and young ones. An older female often leads. Grown-up males leave.
 8. (mcq) In an ant nest, who lays the eggs?  
-   Options: The queen / The biggest worker ant / The baby ants  
+   Options: The biggest worker ant / The baby ants / The queen  
    **Answer:** The queen. *Why:* The queen lays the eggs. The worker ants are her daughters.
 9. (mcq) Can people tell their family apart by smell alone?  
-   Options: Yes, often they can / No, only dogs can / Only with their eyes open  
+   Options: No, only dogs can / Yes, often they can / Only with their eyes open  
    **Answer:** Yes, often they can. *Why:* Scientists found that mothers, brothers and sisters can pick out a family member's worn shirt by smell. You may have done it too.
 10. (mcq) You do the shirt test once and get one guess right. Why should you do it again?  
-   Options: One right guess could be luck / To make it take longer / Because the first time is always wrong  
+   Options: To make it take longer / Because the first time is always wrong / One right guess could be luck  
    **Answer:** One right guess could be luck. *Why:* A guess can be right by luck. If you are right two times, it is more likely your nose really knows.
 11. (mcq) Why do we use the same kind of tumbler for every shirt?  
-   Options: So the tumblers give no clue / Because steel smells nice / So the shirts stay clean  
+   Options: Because steel smells nice / So the shirts stay clean / So the tumblers give no clue  
    **Answer:** So the tumblers give no clue. *Why:* If one tumbler looked or felt different, it could give a clue. Same tumblers make a fair test.
 12. (mcq) What makes much of a person's body smell?  
    Options: Tiny microbes on the skin / The colour of their clothes / How tall they are  
    **Answer:** Tiny microbes on the skin. *Why:* Microbes on the skin feed on sweat and make much of our smell. Food, soap and genes play a part too.
 13. (mcq) A girl and her mother hug every day. What passes between them?  
-   Options: Tiny microbes from their skin / Nothing at all / Their height  
+   Options: Nothing at all / Tiny microbes from their skin / Their height  
    **Answer:** Tiny microbes from their skin. *Why:* When people touch, some skin microbes move across. People who live together share many microbes.
 14. (mcq) Baby Kayal was adopted by Revathi. Will they share skin microbes?  
    Options: Yes, because they live close together / No, because Kayal was not born to Revathi / Only if they look alike  

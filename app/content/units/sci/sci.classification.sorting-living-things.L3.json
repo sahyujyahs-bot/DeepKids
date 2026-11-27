@@ -934,11 +934,11 @@
       "t": "mcq",
       "q": "Which rule puts the crow and the bat together, and leaves the cat out?",
       "options": [
-       "Has hair",
        "Can fly",
+       "Has hair",
        "Has a backbone"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The crow and the bat can fly, and the cat cannot. 'Has hair' puts the bat and the cat together instead. 'Has a backbone' puts all three together, so it does not split them."
      }
     },
@@ -1095,11 +1095,11 @@
       "t": "mcq",
       "q": "Which seeds look most like the tomato's seeds?",
       "options": [
-       "The cucumber's seeds",
        "The chilli's and the brinjal's seeds",
+       "The cucumber's seeds",
        "None of them"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Tomato, brinjal, chilli and capsicum seeds are all small, flat and round, a few millimetres across. Cucumber seeds are longer and oval, with a pointed end. If you picked the cucumber, check again with the magnifying glass. Put one tomato seed next to one cucumber seed and compare their shapes."
      },
      "parent": "Tomato, brinjal, chilli and capsicum seeds are small, flat and round, about 3 to 5 millimetres across. Cucumber, pumpkin and bottle gourd seeds are flat, oval and pointed at one end, and bigger."
@@ -1275,11 +1275,11 @@
       "t": "mcq",
       "q": "Which plants had square stems, leaves in pairs and a strong smell?",
       "options": [
-       "Coriander and curry leaf",
        "Tulsi and mint",
+       "Coriander and curry leaf",
        "Spinach and coriander"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Tulsi and mint share all three clues, and so does karpooravalli. They are in the mint family. Coriander and curry leaves smell strong too, but they have round stems and leaves that come one at a time. So a strong smell alone does not find the mint family. You need the clues together."
      },
      "parent": "Coriander and curry leaves also smell strong. That is a good lesson: one clue alone can mislead. Three clues together point to a family."
@@ -1436,11 +1436,11 @@
       "t": "mcq",
       "q": "The mushroom left a print made of fine powder in lines. What is the powder?",
       "options": [
-       "Dust from the room",
        "Millions of spores from the gills",
+       "Dust from the room",
        "Tiny seeds"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The powder is spores. Each one is a single cell, far too small to see alone. Millions together make the print, in the same pattern as the gills. Picking 'seeds' is a fair guess, because seeds start new plants. But a seed is much bigger and holds a tiny baby plant with a food store. A spore is just one cell."
      },
      "parent": "Button mushrooms usually give a dark brown print, easier to see on white paper. Oyster mushrooms give a pale print, easier to see on dark paper. If there is no print, the gills were still closed. Write 'no print' in your table: that is an honest result. Try again with a more open cap."
@@ -2069,10 +2069,10 @@
       "q": "Which of the three sorts is the right one?",
       "options": [
        "The cook's",
-       "The farmer's",
-       "Each one is right for its own job"
+       "Each one is right for its own job",
+       "The farmer's"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Each sort answers a different question, so each is right for the person who needs it. The farmer's sort by family also tells you which plants are relatives. That fact stays true whoever is asking."
      }
     }
@@ -2141,11 +2141,11 @@
       "t": "mcq",
       "q": "Bag 1 grew tomatoes last season. Which plant should Kavya not put in this bag now?",
       "options": [
-       "Cucumber",
        "Brinjal",
+       "Cucumber",
        "Beans"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Brinjal is in the tomato family, so the same soil sickness can attack the brinjal too. Cucumber is in the gourd family and beans are in the bean family, so they are safer choices. Farmers change families from season to season for this reason."
      }
     }
@@ -2221,11 +2221,11 @@
    "p": "A farmer's tomato plants died of a soil sickness. Which crop should the farmer avoid planting in that soil next?",
    "opts": [
     "Cucumber",
-    "Brinjal",
     "Beans",
+    "Brinjal",
     "Rice"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Brinjal is in the tomato family, and relatives often get the same diseases. Farmers sort crops by family for this reason.",
    "outcome": 1
   },
@@ -2233,12 +2233,12 @@
    "t": "mcq",
    "p": "Which features show that tomato, brinjal and chilli are relatives?",
    "opts": [
-    "They are all red",
     "A green cap and small, flat, round seeds",
+    "They are all red",
     "They are all sold in markets",
     "They all taste spicy"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The green calyx and the small, flat, round seeds are shared features. Colour differs, and only the chilli is spicy.",
    "outcome": 3,
    "how": "e1"
@@ -2248,11 +2248,11 @@
    "p": "Which herb has a square stem, like tulsi?",
    "opts": [
     "Coriander",
-    "Curry leaf",
     "Mint",
+    "Curry leaf",
     "Spinach"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Mint and tulsi are in the mint family, and most of the family have square stems. Coriander and curry leaf have round stems.",
    "outcome": 3,
    "how": "e2"
@@ -2288,12 +2288,12 @@
    "t": "mcq",
    "p": "Why do relatives share features?",
    "opts": [
-    "They copy each other",
     "They inherited them from the same ancestors",
+    "They copy each other",
     "They live in the same place",
     "By luck"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Living things get features from their parents, who got them from theirs. So relatives share features from shared ancestors.",
    "outcome": 4
   },
@@ -2314,11 +2314,11 @@
    "p": "A mushroom is a...",
    "opts": [
     "Plant",
-    "Animal",
     "Fungus",
+    "Animal",
     "Bacterium"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Mushrooms are fungi, a kingdom of their own. They make spores, not seeds, and take food from around them.",
    "outcome": 4,
    "how": "e3"
@@ -2327,12 +2327,12 @@
    "t": "mcq",
    "p": "Some tiny living things look just like bacteria, but inside their cells they are very different. How should scientists group them?",
    "opts": [
-    "In a new big group of their own",
     "With bacteria, because they look the same",
     "With mammals",
+    "In a new big group of their own",
     "With insects"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Looks can fool you. Carl Woese and George Fox compared a molecule every cell has and put these living things in a new group, the archaea.",
    "outcome": 6
   },
@@ -2341,10 +2341,10 @@
    "p": "Have scientists always used the same biggest groups of life?",
    "opts": [
     "Yes, since long ago",
-    "No, they have changed them as they found new clues",
-    "There are no big groups"
+    "There are no big groups",
+    "No, they have changed them as they found new clues"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Scientists used two kingdoms in 1735, five kingdoms in 1969 and three domains in 1990. They still argue about the biggest groups.",
    "outcome": 6
   },
@@ -2352,12 +2352,12 @@
    "t": "mcq",
    "p": "A neem tree makes food from sunlight, through green leaves. Which big group is the neem tree in?",
    "opts": [
-    "Plants",
     "Animals",
+    "Plants",
     "Fungi",
     "Bacteria"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plants make food from sunlight. Animals eat other living things, fungi feed on things around them, and bacteria are single tiny cells.",
    "outcome": 2
   }
@@ -2453,11 +2453,11 @@
      "t": "mcq",
      "p": "A tomato, a brinjal and a cucumber are cut open. Which one has seeds that look different from the other two?",
      "opts": [
+      "Cucumber",
       "Tomato",
-      "Brinjal",
-      "Cucumber"
+      "Brinjal"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Tomato and brinjal seeds are small, flat and round. Cucumber seeds are longer and oval, with a pointed end.",
      "how": "e1"
     },
@@ -2474,11 +2474,11 @@
      "p": "Which feature do tulsi and mint share?",
      "opts": [
       "A round stem",
-      "A square stem",
       "No smell",
-      "Leaves made of many leaflets"
+      "Leaves made of many leaflets",
+      "A square stem"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Tulsi and mint both have square stems, leaves in pairs and a strong smell. They are in the mint family.",
      "how": "e2"
     },
@@ -2538,10 +2538,10 @@
      "opts": [
       "Living thing",
       "Animal",
-      "Backbone animal",
-      "Mammal"
+      "Mammal",
+      "Backbone animal"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A crow is a bird. Crows have feathers, not hair, so they are not mammals."
     },
     {
@@ -2579,11 +2579,11 @@
      "p": "Why do a tiger and a house cat look alike?",
      "opts": [
       "They live in the same places",
-      "They came from the same cat ancestors",
       "They eat the same food",
-      "Someone painted them alike"
+      "Someone painted them alike",
+      "They came from the same cat ancestors"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Tigers and house cats are relatives. They inherited whiskers, claws they can pull in and rough tongues from the same long-ago ancestors."
     },
     {
@@ -2709,12 +2709,12 @@
      "t": "mcq",
      "p": "A mushroom left a print of fine powder on paper overnight. What was the powder made of?",
      "opts": [
-      "Seeds",
       "Spores",
+      "Seeds",
       "Soil",
       "Pollen"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Mushrooms make spores, each one a single cell. Millions together make the print.",
      "how": "e3"
     },
@@ -2736,12 +2736,12 @@
      "t": "mcq",
      "p": "The first question in a key is 'Is the leaf made of many small leaflets?' Which leaf goes on the 'yes' side?",
      "opts": [
-      "Tulsi",
       "Curry leaf",
+      "Tulsi",
       "Money plant",
       "Spinach"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A curry leaf is made of many small leaflets on one stalk. The others are single leaves.",
      "how": "a4"
     },
@@ -2809,12 +2809,12 @@
      "t": "mcq",
      "p": "Which of these is a primate?",
      "opts": [
-      "A cow",
       "A bonnet macaque",
+      "A cow",
       "A crow",
       "A dog"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A bonnet macaque has gripping hands, flat nails and eyes that face forward. Monkeys, apes and people are primates."
     },
     {
@@ -2854,12 +2854,12 @@
      "t": "mcq",
      "p": "Scientists compare one molecule found in every cell. Two tiny living things look the same, but their molecules are very different. What does this tell the scientists?",
      "opts": [
-      "They look alike, but they may not be close relatives",
       "They must be the same kind",
       "Molecules tell you nothing",
+      "They look alike, but they may not be close relatives",
       "They are both plants"
      ],
-     "a": 0,
+     "a": 2,
      "why": "What is inside tells more about relatives than looks do. This is how archaea were found in 1977: they look like bacteria but are very different inside."
     },
     {
@@ -2896,12 +2896,12 @@
      "t": "mcq",
      "p": "Horses and donkeys can have mules, but mules almost never have young. What do most scientists say?",
      "opts": [
-      "Horses and donkeys are one species",
       "Horses and donkeys are two species",
+      "Horses and donkeys are one species",
       "Mules are a third species of horse",
       "Nobody knows what a mule is"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Members of one species can usually have young that also have young. Mules almost never do, so horses and donkeys count as two species."
     },
     {
@@ -2914,12 +2914,12 @@
      "t": "mcq",
      "p": "Archaea that make methane gas live in which of these places?",
      "opts": [
-      "The mud of rice fields",
       "Only on the Moon",
+      "The mud of rice fields",
       "Inside rocks in space",
       "Nowhere on Earth now"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Methane-making archaea live in rice field mud, swamps and the stomachs of cows."
     },
     {
@@ -2932,24 +2932,24 @@
      "t": "mcq",
      "p": "Why does a key use yes-or-no questions about things you can see?",
      "opts": [
-      "So everyone reaches the same answer",
       "Because it is shorter",
+      "So everyone reaches the same answer",
       "So nobody can use it",
       "Because animals like it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If everyone can check the answer by looking, everyone who uses the key reaches the same name."
     },
     {
      "t": "mcq",
      "p": "About two million kinds of living things have names. One estimate says there may be about 8.7 million kinds of plants, animals and fungi. What does this show?",
      "opts": [
-      "Scientists have named nearly all living things",
       "Many kinds of living things have not been named yet",
+      "Scientists have named nearly all living things",
       "The estimate must be wrong",
       "Nobody can count anything"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Two million is far fewer than 8.7 million, so many kinds are still unnamed. Nobody knows the true number."
     },
     {

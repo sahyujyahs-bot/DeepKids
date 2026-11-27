@@ -584,12 +584,12 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 ## Worksheets
 ### Two Ears and Loud Sounds (core) (core, 17 questions)
 1. (mcq) A clap happens close to your right ear. Which ear gets the sound first, and which hears it a little louder?  
-   Options: The right ear gets it first and hears it louder / The left ear gets it first and hears it louder / Both ears get it at the same time and equally loudly  
+   Options: The left ear gets it first and hears it louder / Both ears get it at the same time and equally loudly / The right ear gets it first and hears it louder  
    **Answer:** The right ear gets it first and hears it louder. *Why:* The sound reaches the nearer ear first and is louder there, because the head blocks some sound from the far ear. The brain uses both clues.
 2. (fill) A sound straight in front of you reaches both ears at the same ____.  
    **Answer:** ['time']. *Why:* Straight ahead is the same distance from both ears, so the sound arrives together and equally loud. That is why front and back are hard to tell apart.
 3. (mcq) Why is it harder to say where a sound is with one ear covered?  
-   Options: The brain has no second ear to compare with / The sound becomes quieter in the air / The covered ear is the one that finds direction  
+   Options: The sound becomes quieter in the air / The covered ear is the one that finds direction / The brain has no second ear to compare with  
    **Answer:** The brain has no second ear to compare with. *Why:* Direction comes from comparing two ears. With one ear covered, the time and loudness differences are lost, so the brain must guess.
 4. (truefalse) A whisper is about 30 decibels and a conversation is about 60 decibels, so the conversation has twice the sound energy of the whisper.  
    **Answer:** False. *Why:* False. 30 decibels more is three steps of 10, and each step is 10 times the energy. So the conversation has 1,000 times the energy.
@@ -597,7 +597,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: 10 times / 2 times / 10 more units  
    **Answer:** 10 times. *Why:* Every 10 decibels is a multiplication by 10 in energy. That is why the numbers on the scale stay small even for huge differences.
 6. (mcq) At 85 decibels the safe listening time is about 8 hours, and each 3 decibels more halves it. About how long is it safe at 94 decibels?  
-   Options: About 1 hour / About 4 hours / About 15 minutes  
+   Options: About 4 hours / About 15 minutes / About 1 hour  
    **Answer:** About 1 hour. *Why:* 94 is 9 more than 85, which is three steps of 3. Halve 8 hours three times: 4 hours, 2 hours, 1 hour.
 7. (odd) Three of these are things the ear does with a sound. Which one is not?  
    Options: The ear flap collects sound and guides it in / Three tiny bones pass the sound on to the cochlea / Hair cells turn the wave into signals for the brain / The ear makes the sound louder at its source  
@@ -613,7 +613,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 12. (truefalse) Hair cells destroyed by very loud noise grow back in a few weeks, so loud noise never causes lasting harm.  
    **Answer:** False. *Why:* False. In people, hair cells do not grow back. Loud noise can cause lasting loss of hearing, often with no pain at the time.
 13. (mcq) You cannot hear a whisper while a tap runs hard. What is the best explanation?  
-   Options: The whisper still reaches your ear, but the louder noise hides it / The whisper never leaves the speaker's mouth / Your ears stop working when there is noise  
+   Options: The whisper never leaves the speaker's mouth / The whisper still reaches your ear, but the louder noise hides it / Your ears stop working when there is noise  
    **Answer:** The whisper still reaches your ear, but the louder noise hides it. *Why:* This is called masking. The louder sound moves the same part of the ear as the quiet one, so the quiet one is lost.
 14. (label) Label the model of the basilar membrane: the narrow stiff end, the wide soft end, where high pitches peak, and where low pitches peak.  
    **Answer:** ['narrow stiff end', 'wide soft end', 'high pitches peak', 'low pitches peak']. *Why:* The narrow, stiff end is the start, where high pitches peak. The wide, soft end is the far end, where low pitches peak.
@@ -626,15 +626,15 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    **Answer:** Face the listener, come closer and speak clearly. *Why:* Coming closer makes the voice louder than the noise. Facing the listener lets them see the lips, which helps the brain fill in what the ear misses. Speaking clearly helps too.
 ### Numbers, Ears and Animals (stretch) (stretch, 17 questions)
 1. (mcq) Sound travels about 340 metres each second. Your two ears are about 20 centimetres apart. About how much longer does a clap right beside one ear take to reach the other ear?  
-   Options: About 0.0006 seconds / About 0.6 seconds / About 6 seconds  
+   Options: About 0.6 seconds / About 0.0006 seconds / About 6 seconds  
    **Answer:** About 0.0006 seconds. *Why:* 0.2 metres divided by 340 metres each second is about 0.0006 seconds. This is too short to notice, but the brain can use it.
 2. (mcq) In open air a steady sound reads 60 decibels at 1 metre. About what will it read at 2 metres?  
-   Options: About 54 decibels / About 30 decibels / About 120 decibels  
+   Options: About 30 decibels / About 54 decibels / About 120 decibels  
    **Answer:** About 54 decibels. *Why:* In open air, each doubling of the distance takes off about 6 decibels. 60 take away 6 is 54. Halving the number to get 30 is a common slip.
 3. (fill) Every ____ decibels more means 10 times as much sound energy.  
    **Answer:** ['10', 'ten']. *Why:* The decibel scale is built so that each step of 10 multiplies the energy by 10.
 4. (mcq) At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 91 decibels?  
-   Options: About 2 hours / About 4 hours / About 30 minutes  
+   Options: About 4 hours / About 2 hours / About 30 minutes  
    **Answer:** About 2 hours. *Why:* 91 is 6 more than 85, which is two steps of 3. Halve 8 hours twice: 4 hours, then 2 hours.
 5. (truefalse) A sound that comes from exactly behind you is exactly the same distance from both ears.  
    **Answer:** True. *Why:* True. Straight ahead and straight behind are both the same distance from each ear, so the time and loudness clues are the same. That is why head turns help.
@@ -648,10 +648,10 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Come closer to the listener / Let the listener watch your mouth / Speak clearly and a little more slowly / Turn your back so the noise is behind you  
    **Answer:** 3. *Why:* Turning away hides your mouth and sends your voice the wrong way. The other three raise the voice above the noise or help the listener understand.
 10. (mcq) A thin high whistle is easier to follow over low drums than a low voice is. What is the best reason?  
-   Options: Its pitch is far from the drums' pitch, so it is hidden less / It is always much louder than the drums / The drums cannot make any high sounds  
+   Options: It is always much louder than the drums / Its pitch is far from the drums' pitch, so it is hidden less / The drums cannot make any high sounds  
    **Answer:** Its pitch is far from the drums' pitch, so it is hidden less. *Why:* Masking is strongest for sounds close in pitch to the noise. A sound far away in pitch is hidden less, and the ear is very sensitive to high pitches.
 11. (mcq) Which description of the basilar membrane is right?  
-   Options: It is narrow and stiff at the start and wide and soft at the far end / It is wide and stiff at the start and narrow and soft at the far end / It is the same width and stiffness all along  
+   Options: It is wide and stiff at the start and narrow and soft at the far end / It is narrow and stiff at the start and wide and soft at the far end / It is the same width and stiffness all along  
    **Answer:** It is narrow and stiff at the start and wide and soft at the far end. *Why:* This change in width and stiffness is why high pitches peak near the start and low pitches near the far end.
 12. (write) A friend says: 'A sound is only a sound if somebody hears it.' Do you agree? Give a reason.  
    **Answer:** A strong answer picks a side. One side says a sound is the wave in the air, and it is there with no one to hear. The other says loudness and pitch exist only in a listener, so without a listener there is only a wave.. *Why:* Either answer is fine with a clear reason, and the best answers say what the other side gets right.
@@ -692,7 +692,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Turning the headphones down / Moving away from a loud speaker / Wearing earplugs near fireworks / Pushing a cotton bud deep into the ear to clean it  
    **Answer:** 3. *Why:* Nothing should be pushed into the ear. A cotton bud can push wax deeper and can hurt the eardrum. The ear cleans itself.
 11. (mcq) A girl is lost in a crowd, and a relative blows a whistle. What is the best way to find the direction of the whistle?  
-   Options: Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back / Shut her ears and listen with her eyes / Run in the direction she feels like  
+   Options: Shut her ears and listen with her eyes / Run in the direction she feels like / Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back  
    **Answer:** Turn her head until the whistle sounds the same in both ears, and then turn it a little to check front from back. *Why:* When both ears hear the whistle equally, it is in front or behind. A small head turn tells which, because the sound moves to a different ear for each.
 12. (write) A newborn baby cannot say what she hears. How can doctors check her hearing with a tiny microphone placed in her ear?  
    **Answer:** A healthy cochlea gives out faint sounds of its own, made by the outer hair cells. A tiny microphone in the ear can record them, with no need for the baby to do anything. If the ear gives out the sound, the hair cells are working.. *Why:* A strong answer says that a healthy ear makes faint sounds, that the microphone picks them up, and that the baby does not need to respond.
@@ -715,12 +715,12 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: The left ear / The right ear / Both together  
    **Answer:** The left ear. *Why:* The sound reaches the nearer ear first, and a little louder.
 2. (mcq) A girl points well to clicks with two ears and badly with one ear covered. What does this show?  
-   Options: The brain finds direction by comparing the two ears / The covered ear is the only one that finds direction / Clicks are quieter when one ear is covered  
+   Options: The covered ear is the only one that finds direction / Clicks are quieter when one ear is covered / The brain finds direction by comparing the two ears  
    **Answer:** The brain finds direction by comparing the two ears. *Why:* Direction is worked out by comparing what the two ears hear. With one ear covered, the comparison is lost.
 3. (truefalse) A sound of 90 decibels has 10 times the energy of a sound of 80 decibels.  
    **Answer:** True. *Why:* True. Each 10 decibels is a multiplication by 10 in energy.
 4. (mcq) A sound is 100 decibels. What is the safest choice?  
-   Options: Move away or use earplugs / Listen for 3 hours / Stand closer to hear it better  
+   Options: Listen for 3 hours / Stand closer to hear it better / Move away or use earplugs  
    **Answer:** Move away or use earplugs. *Why:* At 100 decibels, the safe time is only about 15 minutes. Moving away or using earplugs lowers the level a lot.
 5. (mcq) You cannot hear your friend over a loud fan. Which is most likely to help?  
    Options: Come closer and face each other / Turn your backs to each other / Speak in a whisper  
@@ -729,7 +729,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: Near the wide, soft far end / Near the narrow, stiff start / It peaks everywhere at once  
    **Answer:** Near the wide, soft far end. *Why:* Low pitches make the wave peak far along the membrane, where it is wide and soft. High pitches peak near the start.
 7. (mcq) How does a cochlear implant help a person to hear?  
-   Options: It sends signals from a microphone straight to the hearing nerve / It makes the sound louder in the ear canal / It replaces the eardrum with a drum  
+   Options: It makes the sound louder in the ear canal / It replaces the eardrum with a drum / It sends signals from a microphone straight to the hearing nerve  
    **Answer:** It sends signals from a microphone straight to the hearing nerve. *Why:* The tiny wires in the cochlea excite the hearing nerve directly, without needing working hair cells.
 8. (truefalse) Sign languages are real languages with their own grammar.  
    **Answer:** True. *Why:* True. Linguists have shown this since the 1960s. They can say anything a spoken language can.
@@ -737,16 +737,16 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    Options: A male mosquito / A cricket / A barn owl  
    **Answer:** A male mosquito. *Why:* A male mosquito follows the wingbeat of a female with his antennae. A cricket hears with her front legs, and an owl hears with ears on her head.
 10. (mcq) Why is a thin steady whistle easier to follow among loud drums than a low voice?  
-   Options: Its pitch is far from the drums, so it is hidden less / It is always louder than a drum / Drums cannot make any sound in a crowd  
+   Options: It is always louder than a drum / Drums cannot make any sound in a crowd / Its pitch is far from the drums, so it is hidden less  
    **Answer:** Its pitch is far from the drums, so it is hidden less. *Why:* Masking is strongest for sounds that are close in pitch to the noise. A sound that is far from it in pitch is hidden less.
 11. (mcq) At 85 decibels the safe time is about 8 hours, and every 3 decibels more halves it. About how long is it safe at 97 decibels?  
-   Options: About 30 minutes / About 2 hours / About 4 hours  
+   Options: About 2 hours / About 4 hours / About 30 minutes  
    **Answer:** About 30 minutes. *Why:* 97 is 12 more than 85, which is four steps of 3. Halve 8 hours four times: 4 hours, 2 hours, 1 hour, 30 minutes.
 12. (mcq) A bat's squeak is too high for people to hear. A moth hears it and dives. What does this suggest about sounds?  
    Options: Different animals hear different ranges of sound / Bats' squeaks are not real sounds / Moths hear better than all other animals  
    **Answer:** Different animals hear different ranges of sound. *Why:* The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.
 13. (mcq) Which one is noise, in the way this lesson means it?  
-   Options: A whistle with one clear note / A flute playing one tune / A song sung by one voice / A hiss from a running tap, made of many pitches with no clear tune  
+   Options: A hiss from a running tap, made of many pitches with no clear tune / A whistle with one clear note / A flute playing one tune / A song sung by one voice  
    **Answer:** A hiss from a running tap, made of many pitches with no clear tune. *Why:* A whistle, a flute and a sung tune each have a clear pitch. Noise is a mix of many pitches with no clear tune, and it often gets in the way of a sound we want to hear.
 
 ## Applications

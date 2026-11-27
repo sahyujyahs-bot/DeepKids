@@ -559,7 +559,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 ## Worksheets
 ### Seeds that wait (core) (core, 15 questions)
 1. (mcq) Which part of a seed is the young plant?  
-   Options: The embryo / The seed coat / The food store / The soil around the seed  
+   Options: The seed coat / The food store / The embryo / The soil around the seed  
    **Answer:** The embryo. *Why:* The embryo is the young plant, with a tiny root and a tiny shoot. The seed coat protects the embryo, and the food store feeds the embryo.
 2. (order) Put the steps of germination in order.  
    **Answer:** ['The seed takes in water and swells', 'The seed coat splits', 'The radicle grows out and turns down', 'The plumule grows up', 'The first green leaves open']. *Why:* Water must go in first. Then the coat splits and the root comes out before the shoot. The leaves open last and start to make food.
@@ -570,7 +570,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 5. (truefalse) A moong seed needs light to germinate.  
    **Answer:** False. *Why:* False. Moong germinate in a dark cupboard, because the embryo lives on the food store. A few kinds of seed, such as lettuce, do need light.
 6. (mcq) To test whether seeds need water, which two jars should you compare?  
-   Options: Wet warm jar and dry warm jar / Wet warm jar and wet cold jar / Dry warm jar and wet cold jar / Two dry warm jars  
+   Options: Wet warm jar and wet cold jar / Dry warm jar and wet cold jar / Two dry warm jars / Wet warm jar and dry warm jar  
    **Answer:** Wet warm jar and dry warm jar. *Why:* Only the water should differ between the two jars. If warmth changed too, you could not tell which one caused the result.
 7. (sort) Sort these. Do most seeds need each one to germinate?  
    **Answer:** water → Needed; oxygen from the air → Needed; warmth → Needed; light → Not needed; soil → Not needed. *Why:* Seeds germinate on a wet cloth in a dark cupboard, so they need neither soil nor light. Without water, air or warmth they do not germinate.
@@ -579,7 +579,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 9. (write) A germination test uses 20 seeds in each group, not 1. Explain why.  
    **Answer:** In any batch a few seeds are dead already. With 1 seed, a dead one would give the wrong answer. With 20 seeds, one dead seed changes the result by only 5 percent.. *Why:* A strong answer says that single seeds can be dead or odd, and that many seeds make the result steadier.
 10. (mcq) What happens inside a soaked seed in a freezer?  
-   Options: Ice crystals tear the cells / The food store melts / The seed dries out safely / The embryo grows faster  
+   Options: The food store melts / Ice crystals tear the cells / The seed dries out safely / The embryo grows faster  
    **Answer:** Ice crystals tear the cells. *Why:* A soaked seed is full of water. The water freezes into sharp crystals that tear the cell membranes, and the cells die.
 11. (truefalse) Dry moong seeds die after one night in a freezer.  
    **Answer:** False. *Why:* False. A dry seed holds too little water to form ice, so the cold does no harm. Seed banks store dry seeds in freezers.
@@ -595,7 +595,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 1. (write) In the Freezer Test, dry seeds germinated equally well from the freezer and from the shelf. What does this show?  
    **Answer:** It shows that cold alone does not kill a dry seed. The two groups differ only in the freezer, and the result is the same.. *Why:* A strong answer names the one difference between the groups and says that this difference did not change the result.
 2. (mcq) Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?  
-   Options: Cold and water together / Cold alone / Water alone / Old age  
+   Options: Cold alone / Water alone / Old age / Cold and water together  
    **Answer:** Cold and water together. *Why:* Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.
 3. (truefalse) A dormant seed is a dead seed.  
    **Answer:** False. *Why:* False. A dormant seed is alive and can germinate later. A dead seed can never germinate.
@@ -617,7 +617,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 11. (write) Why does a seed bank let a cold packet warm up before opening the packet?  
    **Answer:** Damp from the room air settles as water on anything cold. If the packet were opened cold, the dry seeds would take in that water. Wetter seeds age faster.. *Why:* A strong answer links the cold surface to damp settling on the seeds, and damp to faster ageing.
 12. (mcq) Why does a seed bank regrow a sample when germination falls below 85 percent?  
-   Options: Fresh seeds replace the ageing ones / The freezer has become too full / Old seeds grow into weeds / Farmers ask for bigger seeds  
+   Options: The freezer has become too full / Old seeds grow into weeds / Farmers ask for bigger seeds / Fresh seeds replace the ageing ones  
    **Answer:** Fresh seeds replace the ageing ones. *Why:* Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.
 13. (draw) Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.  
    **Answer:** The soaked cell is full of water, with sharp ice crystals poking through the thin skin of the cell. The dry cell is small and solid, with no crystals and an unbroken skin.. *Why:* A strong drawing shows ice only where there is water, and shows the damage as torn cell skins.
@@ -633,7 +633,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 2. (write) A test finds that 2 of 2 seeds germinated: '100 percent'. Give two reasons not to trust this number.  
    **Answer:** Two seeds are too few: one dead seed would have made the result 50 percent. The two seeds may also not stand for the whole batch.. *Why:* A strong answer says that a small sample swings widely by chance. A sample must be big enough to stand for the batch.
 3. (mcq) Two groups of 20 seeds score 95 percent and 90 percent. What is the fairest conclusion?  
-   Options: No clear difference: it is one seed / The first group is clearly better / The second group is dying / The whole test failed  
+   Options: The first group is clearly better / The second group is dying / The whole test failed / No clear difference: it is one seed  
    **Answer:** No clear difference: it is one seed. *Why:* With 20 seeds, 5 percent is a single seed. One seed more or less can happen by chance, so the two groups are about the same.
 4. (write) Frozen shop peas do not grow. Dry peas from a jar do. Explain why, using water and ice.  
    **Answer:** The shop peas were full of water when they were frozen, so ice crystals tore their cells. The dry peas hold too little water to make ice, so their embryos are unharmed.. *Why:* A strong answer says that freezing harms only when there is water inside to form ice.
@@ -642,7 +642,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 6. (write) A light shower wakes half the seeds in a field. Then no rain comes. Predict what happens to each half.  
    **Answer:** The half that woke grow roots and then dry out and die, because a seedling cannot go back to waiting. The half that stayed dormant are still alive and can wake at the next rain.. *Why:* A strong answer uses the point of no return, and sees that the seeds that waited save the plant's chances.
 7. (mcq) Why is waiting for a heavy rain safer for a desert seed than waking at the first drops?  
-   Options: A woken seedling cannot go back to waiting / Heavy rain is warmer than light rain / Light rain washes the seeds away / Seeds wake only at night  
+   Options: Heavy rain is warmer than light rain / Light rain washes the seeds away / A woken seedling cannot go back to waiting / Seeds wake only at night  
    **Answer:** A woken seedling cannot go back to waiting. *Why:* Germination cannot be undone. After a light shower the soil soon dries, and a seedling dies. A heavy rain wets the soil for long enough for roots to grow deep.
 8. (fill) All the living seeds lying in the soil of a place are called the soil seed ____.  
    **Answer:** ['bank']. *Why:* The soil seed bank is why weeds appear in bare soil where nobody sowed anything. Some of its seeds wait for many years.
@@ -669,16 +669,16 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 
 ## Quiz
 1. (mcq) What comes out of a germinating seed first?  
-   Options: The root / The shoot / A green leaf / A flower bud  
+   Options: The shoot / The root / A green leaf / A flower bud  
    **Answer:** The root. *Why:* The root, called the radicle, comes out first and turns down. The seedling needs water and a hold on the ground before anything else.
 2. (mcq) What feeds a seedling before the first green leaves open?  
-   Options: The food store in the seed / Sunlight / The soil / Rainwater  
+   Options: Sunlight / The soil / Rainwater / The food store in the seed  
    **Answer:** The food store in the seed. *Why:* The embryo lives on the food the parent plant packed into the seed. That is why a seed can germinate in the dark.
 3. (mcq) Which three things do most seeds need to germinate?  
-   Options: Water, oxygen and warmth / Water, light and soil / Soil, light and warmth / Light, oxygen and fertiliser  
+   Options: Water, light and soil / Water, oxygen and warmth / Soil, light and warmth / Light, oxygen and fertiliser  
    **Answer:** Water, oxygen and warmth. *Why:* Fair tests show that seeds without water, air or warmth do not germinate. Most germinate without light or soil.
 4. (mcq) Seeds in a dark box germinate as well as seeds in the light. What does this show?  
-   Options: These seeds do not need light / Seeds need darkness / The test was unfair / Light harms seeds  
+   Options: Seeds need darkness / These seeds do not need light / The test was unfair / Light harms seeds  
    **Answer:** These seeds do not need light. *Why:* The two groups differ only in light, and the result is the same. So light does not matter for these seeds.
 5. (mcq) 9 of 10 seeds germinate. What is the germination percentage?  
    Options: 90 percent / 9 percent / 19 percent / 45 percent  
@@ -686,10 +686,10 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 6. (truefalse) A test with 5 seeds gives a steadier answer than a test with 100 seeds.  
    **Answer:** False. *Why:* False. With 5 seeds, one dead seed changes the result by 20 percent. With 100 seeds, one dead seed changes the result by 1 percent.
 7. (mcq) Why does a dry seed live through a night in a freezer?  
-   Options: Too little water inside to form ice / The seed coat keeps the cold out / A dry seed is already dead / The seed grows a thicker coat  
+   Options: The seed coat keeps the cold out / Too little water inside to form ice / A dry seed is already dead / The seed grows a thicker coat  
    **Answer:** Too little water inside to form ice. *Why:* Freezing harms cells when the water in them turns to ice. A dry seed is only about one tenth water, held too tightly to freeze into crystals.
 8. (mcq) Soaked seeds are frozen, thawed and put on a wet cloth. What is most likely?  
-   Options: They do not germinate / They germinate faster / They germinate as usual / They become dry seeds again  
+   Options: They germinate faster / They do not germinate / They germinate as usual / They become dry seeds again  
    **Answer:** They do not germinate. *Why:* Ice crystals formed inside the wet cells and tore them. The cells leak and die when they thaw.
 9. (mcq) When can a soaked seed still be dried again safely?  
    Options: Before the root comes out / After the root comes out / After the leaves open / At any time  
@@ -701,10 +701,10 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    Options: Dries, seals and freezes them / Soaks and freezes them / Keeps them warm and damp / Sows them all at once  
    **Answer:** Dries, seals and freezes them. *Why:* Dry seeds age slowly, and cold slows them further. Sealing keeps damp air out. Soaked seeds would be killed by ice.
 12. (mcq) What can a farmer's field do for a crop variety that a freezer cannot?  
-   Options: Let the crop keep adapting / Keep the seeds safe from floods / Stop the seeds from ageing / Hold thousands of varieties in one room  
+   Options: Keep the seeds safe from floods / Stop the seeds from ageing / Hold thousands of varieties in one room / Let the crop keep adapting  
    **Answer:** Let the crop keep adapting. *Why:* Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.
 13. (mcq) A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?  
-   Options: Rabi / Kharif / Zaid  
+   Options: Kharif / Rabi / Zaid  
    **Answer:** Rabi. *Why:* Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.
 
 ## Applications

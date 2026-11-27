@@ -754,11 +754,11 @@
       "t": "mcq",
       "q": "Why did the seeds sprout on the clay diya, and not on the smooth stone?",
       "options": [
-       "The clay soaked up water and kept the seeds wet",
        "The clay was warmer than the stone",
-       "The stone was too heavy for the seeds"
+       "The stone was too heavy for the seeds",
+       "The clay soaked up water and kept the seeds wet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both stood in the same water. Water climbed up through the clay's tiny holes, so the seeds on top stayed wet. The smooth stone let no water up, so those seeds dried out. Seeds need water to start growing."
      }
     }
@@ -821,11 +821,11 @@
       "t": "mcq",
       "q": "A money plant grows in a bottle of water. What is the bottle for the plant?",
       "options": [
-       "A habitat that gives water and light",
        "A toy",
+       "A habitat that gives water and light",
        "A cage"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bottle gives the money plant water for the roots, and the window gives light for the leaves. So the bottle is a small habitat."
      }
     }
@@ -980,11 +980,11 @@
       "t": "mcq",
       "q": "A spider builds a web in a quiet corner by the window. What does that corner give the spider?",
       "options": [
-       "Insects flying past, and a quiet place",
        "Salty water",
+       "Insects flying past, and a quiet place",
        "Hot sand"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Insects fly in through the window and get caught in the web. A quiet corner means the web is not broken often."
      }
     }
@@ -1066,11 +1066,11 @@
       "t": "mcq",
       "q": "Which of these could live on a damp rock?",
       "options": [
-       "Moss",
        "A fish",
+       "Moss",
        "A camel"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Moss needs only a damp surface to grow on. A fish needs water all around, and a camel needs open dry land."
      }
     }
@@ -1257,11 +1257,11 @@
      "t": "mcq",
      "p": "In the diya and stone test, the clay diya and the smooth stone stood in a plate of water. After 15 minutes, which top was wet?",
      "opts": [
-      "The top of the clay diya",
       "The top of the smooth stone",
+      "The top of the clay diya",
       "Both tops were dry"
      ],
-     "a": 0,
+     "a": 1,
      "how": "e1",
      "why": "Water climbed up through the tiny holes in the clay, so the diya's top turned dark and damp. The smooth stone let no water climb up. If your stone's top was wet, check that no water was splashed on it."
     },
@@ -1486,11 +1486,11 @@
    "t": "mcq",
    "p": "What is a habitat?",
    "opts": [
-    "The place where a living being lives and finds what they need",
     "A kind of food",
+    "The place where a living being lives and finds what they need",
     "A kind of rock"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A habitat gives a living being water, food, air, shelter and the right warmth.",
    "outcome": 0
   },
@@ -1510,11 +1510,11 @@
    "t": "mcq",
    "p": "Who lives in the Thar desert?",
    "opts": [
-    "A camel",
     "A lotus",
-    "A ghost crab"
+    "A ghost crab",
+    "A camel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Camels live in the dry desert. A lotus needs a pond, and a ghost crab needs the seashore.",
    "outcome": 1
   },
@@ -1522,11 +1522,11 @@
    "t": "mcq",
    "p": "Where does a lotus grow?",
    "opts": [
-    "In a pond",
     "On a dry rock",
+    "In a pond",
     "In the desert sand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A lotus has roots in the mud at the bottom of a pond, and leaves that float on the water.",
    "outcome": 1
   },
@@ -1534,11 +1534,11 @@
    "t": "mcq",
    "p": "Why can a fish not live on land?",
    "opts": [
-    "A fish breathes with gills, which work only in water",
     "A fish is too big",
+    "A fish breathes with gills, which work only in water",
     "A fish does not like the sun"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gills take oxygen from water. Out of water, a fish cannot breathe.",
    "outcome": 2
   },
@@ -1546,11 +1546,11 @@
    "t": "mcq",
    "p": "A lizard slips into a crack between two rocks when a bird flies over. What does the rock give the lizard?",
    "opts": [
-    "Shelter",
     "Salty water",
-    "Fruit"
+    "Fruit",
+    "Shelter"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A crack in a rock is a shelter. Rocks give shelter, some hold water, and over a very long time they crumble into soil.",
    "outcome": 3
   },
@@ -1558,11 +1558,11 @@
    "t": "mcq",
    "p": "What is soil made from?",
    "opts": [
-    "Tiny bits of rock and bits of dead plants",
     "Only sand",
-    "Only water"
+    "Only water",
+    "Tiny bits of rock and bits of dead plants"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Over a long time, rocks crumble into tiny grains. These mix with bits of dead plants and animals to make soil.",
    "outcome": 3
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "Before the diya and stone test, you say: \"The seeds will sprout on both the diya and the stone.\" What are you doing?",
    "opts": [
-    "Making a guess to test",
     "Counting the seeds",
-    "Cleaning the plate"
+    "Cleaning the plate",
+    "Making a guess to test"
    ],
-   "a": 0,
+   "a": 2,
    "how": "e1",
    "why": "A guess you make before a test is called a prediction. The test then shows whether the guess was right.",
    "outcome": 4

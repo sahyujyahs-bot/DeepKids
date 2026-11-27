@@ -677,11 +677,11 @@
       "t": "mcq",
       "q": "A cup of water takes 200 calories for each degree, and a steel spoon takes about 4. If each gets 100 calories, which warms by more degrees?",
       "options": [
-       "The steel spoon",
        "The cup of water",
-       "Both warm by the same number of degrees"
+       "Both warm by the same number of degrees",
+       "The steel spoon"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The spoon needs far less heat for each degree, so the same heat warms it far more. Picking the cup of water is common, because water feels like it heats quickly. But water needs a lot of heat for each degree."
      },
      "context": "In this step, you play one practice turn and learn how to score."
@@ -715,10 +715,10 @@
       "q": "Which of these needs the most heat to warm by one degree?",
       "options": [
        "A steel spoon",
-       "A bucket of water",
-       "A gold bangle"
+       "A gold bangle",
+       "A bucket of water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The bucket holds so much water that it needs 10,000 calories for each degree. A steel spoon needs about 4, and a gold bangle less than 1. Amount matters as well as material."
      },
      "context": "In this step, you put the cards in order of heat per degree."
@@ -836,11 +836,11 @@
       "t": "mcq",
       "q": "Why must both tumblers start at the same temperature?",
       "options": [
-       "So that only the liquid changes, and the difference comes from the liquid",
        "So the oil does not catch fire",
-       "So the bath is not too hot"
+       "So the bath is not too hot",
+       "So that only the liquid changes, and the difference comes from the liquid"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one tumbler started warmer, you could not tell whether the liquid or the start made the difference."
      },
      "context": "In this step, you pour the oil and water and write down their starting temperatures."
@@ -867,11 +867,11 @@
       "t": "mcq",
       "q": "Why do we stir each liquid gently before every reading?",
       "options": [
-       "So the whole liquid is at one temperature, and the reading is right",
        "To make the liquid hotter",
+       "So the whole liquid is at one temperature, and the reading is right",
        "To let the heat out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Heat enters through the sides of the tumbler, so the liquid near the sides is warmer. Stirring mixes it, so the thermometer shows the temperature of the whole liquid."
      },
      "context": "In this step, you stir and read both tumblers every 3 minutes for 12 minutes."
@@ -1004,11 +1004,11 @@
       "t": "mcq",
       "q": "Why do we use the same number of ice cubes, from the same tray, in both?",
       "options": [
-       "So the only differences are the amount and the temperature of the water",
        "So the katori does not overflow",
-       "So the ice is bigger"
+       "So the ice is bigger",
+       "So the only differences are the amount and the temperature of the water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If one container got more ice, you could not tell whether the water or the ice made the difference. A fair test changes one thing at a time."
      },
      "context": "In this step, you add the same ice to both containers."
@@ -1044,11 +1044,11 @@
       "t": "mcq",
       "q": "If the bowl held only 100 millilitres of water at 40 degrees, like the katori, which would melt more ice?",
       "options": [
-       "The katori at 60 degrees, because it is hotter and holds the same amount",
        "The bowl, because it is cooler",
-       "They would melt the same"
+       "They would melt the same",
+       "The katori at 60 degrees, because it is hotter and holds the same amount"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With equal amounts, the hotter water holds more heat, so it melts more ice. In the test, the bowl won only because it held ten times as much water."
      },
      "context": "In this step, you explain what happened, using what you think, what you saw, and why."
@@ -1170,11 +1170,11 @@
       "t": "mcq",
       "q": "For ten minutes the thermometer stayed at 0, though the bath kept giving heat. Where was the heat going?",
       "options": [
-       "Into melting the ice, by pulling its particles apart",
        "It was lost into the air",
-       "It was going into the thermometer"
+       "It was going into the thermometer",
+       "Into melting the ice, by pulling its particles apart"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The heat was being used up in turning ice into water. This hidden heat is called latent heat. Picking the air is a fair guess. But the bath was warmer than the air, so heat kept coming into the ice."
      },
      "context": "In this step, you read the thermometer every 2 minutes as the ice melts."
@@ -1296,11 +1296,11 @@
       "t": "mcq",
       "q": "The balloon swelled up in the hot water, but the bottle was closed. Where did the extra air come from?",
       "options": [
-       "Nowhere. The air already inside took up more room",
        "Steam came in through the bottle",
+       "Nowhere. The air already inside took up more room",
        "The hot water turned into air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bottle and balloon were sealed. No air could come in. The same air took up more room when it was warm, so it pushed the balloon out. This is expansion."
      },
      "context": "In this step, you stand the bottle in hot water and watch the balloon swell."
@@ -1405,11 +1405,11 @@
       "t": "mcq",
       "q": "The bend of the paper clip felt warmer than the straight part. Why?",
       "options": [
-       "The movement of bending turned into heat in the metal",
        "The clip was warm from your hand",
-       "Bending a clip lets in heat from the air"
+       "Bending a clip lets in heat from the air",
+       "The movement of bending turned into heat in the metal"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Bending pushes and drags the metal's particles past each other, and the movement energy of your hand turns into jiggling of particles. That is heat. The straight part was not bent, so it did not get this extra heat."
      },
      "context": "In this step, you bend a paper clip and feel the heat in the bend."
@@ -1517,11 +1517,11 @@
       "t": "mcq",
       "q": "Why do we put a dry cloth on the second thermometer, rather than leave it bare?",
       "options": [
-       "So the only difference is the water, not the cloth",
        "To keep it warm",
+       "So the only difference is the water, not the cloth",
        "So it does not break"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The cloth might change the reading by itself, for example by blocking air. If both thermometers wear a cloth, the water is the only thing that differs."
      },
      "context": "In this step, you read both thermometers and put the wet and dry cloths on."
@@ -1537,11 +1537,11 @@
       "t": "mcq",
       "q": "Why did the thermometer with the wet cloth read lower?",
       "options": [
-       "As the water evaporated, it took heat from the bulb",
        "The water was colder than the room",
+       "As the water evaporated, it took heat from the bulb",
        "The wet cloth kept the heat out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Evaporating water takes heat from what it leaves, which cooled the bulb. The tap water began at the room's temperature. The dry cloth stayed at the air's temperature."
      },
      "context": "In this step, you fan the thermometers and read them."
@@ -2002,11 +2002,11 @@
    "t": "mcq",
    "p": "Which unit is printed on food packets to show the heat in the food?",
    "opts": [
-    "Kilocalories",
     "Degrees Celsius",
-    "Newtons"
+    "Newtons",
+    "Kilocalories"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A kilocalorie is 1,000 calories, and a calorie is a unit of heat. Degrees Celsius measure temperature, and newtons measure force.",
    "outcome": 0
   },
@@ -2014,11 +2014,11 @@
    "t": "mcq",
    "p": "Which of these needs the most heat to warm by one degree?",
    "opts": [
-    "100 grams of water",
     "100 grams of cooking oil",
-    "100 grams of steel"
+    "100 grams of steel",
+    "100 grams of water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water needs about 1 calorie for each gram and each degree. Oil needs about half of that, and steel about a tenth. So water takes the most.",
    "outcome": 1
   },
@@ -2038,11 +2038,11 @@
    "t": "mcq",
    "p": "A child wants to find out which of two liquids warms faster. Which is the fairest test?",
    "opts": [
-    "The same amount of each, starting at the same temperature, in the same hot bath",
     "A big tumbler of one and a small tumbler of the other, in different baths",
+    "The same amount of each, starting at the same temperature, in the same hot bath",
     "The same liquid at two different temperatures"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes only the liquid. Everything else, the amount, the start and the bath, stays the same.",
    "outcome": 2
   },
@@ -2050,11 +2050,11 @@
    "t": "mcq",
    "p": "A katori of water at 60 °C and a big bowl of water at 40 °C each get the same ice. Which melts more ice?",
    "opts": [
-    "The big bowl, because it holds far more heat",
     "The katori, because it is hotter",
-    "They melt the same amount"
+    "They melt the same amount",
+    "The big bowl, because it holds far more heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bowl has about ten times as much water, so it has far more heat to give, even though it is cooler. Picking the katori is a very natural guess. The test shows that amount matters as well as temperature.",
    "outcome": 3
   },
@@ -2062,11 +2062,11 @@
    "t": "mcq",
    "p": "Ice is melting in a glass of water. What does a thermometer in the ice read while there is still ice?",
    "opts": [
-    "About 0 °C",
     "A number that keeps rising",
-    "About 100 °C"
+    "About 100 °C",
+    "About 0 °C"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The heat that goes in is used to melt the ice, so the temperature holds at 0 °C until the last ice is gone.",
    "outcome": 4
   },
@@ -2086,11 +2086,11 @@
    "t": "mcq",
    "p": "A paper clip bent back and forth many times gets warm at the bend. Where does the heat come from?",
    "opts": [
-    "From the movement of bending, which turns into heat",
     "From a store of heat inside the clip",
-    "From the cold air"
+    "From the cold air",
+    "From the movement of bending, which turns into heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The movement energy of your hand makes the metal's particles jiggle faster. That is heat. A store would run out, but bending can keep making heat.",
    "outcome": 5
   },
@@ -2098,11 +2098,11 @@
    "t": "mcq",
    "p": "A balloon on a closed bottle swells when the bottle stands in hot water. Why?",
    "opts": [
-    "The air inside warms up and takes up more room",
     "Hot water gets into the bottle",
-    "The bottle makes more air"
+    "The bottle makes more air",
+    "The air inside warms up and takes up more room"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The bottle is sealed, so no air can come in. The same air takes up more room when it is warm.",
    "outcome": 5
   },
@@ -2110,11 +2110,11 @@
    "t": "mcq",
    "p": "Why does sweat cool you?",
    "opts": [
-    "When sweat evaporates, it takes heat away from your skin",
     "Sweat is always colder than your skin",
+    "When sweat evaporates, it takes heat away from your skin",
     "Sweat blocks the Sun's heat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fastest water particles leave the skin as sweat evaporates, and they take their energy with them. Sweat starts at body temperature.",
    "outcome": 6
   },
@@ -2122,11 +2122,11 @@
    "t": "mcq",
    "p": "Why does a sandy beach get hot at noon while the sea beside it stays cool?",
    "opts": [
-    "Sand needs much less heat than water for each degree, so it warms faster",
     "The Sun shines harder on the sand",
-    "Sand makes its own heat"
+    "Sand makes its own heat",
+    "Sand needs much less heat than water for each degree, so it warms faster"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Sun shines about equally on both. Sand needs little heat for each degree, and sunlight only warms its top layer. The sea needs a lot of heat for each degree and mixes the heat through a deep layer.",
    "outcome": 6
   },
@@ -2182,11 +2182,11 @@
      "t": "mcq",
      "p": "100 grams of oil and 100 grams of water are heated on the same stove for the same time. What happens?",
      "opts": [
-      "The oil warms by more degrees",
       "The water warms by more degrees",
+      "The oil warms by more degrees",
       "Both warm by the same number of degrees"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oil needs only about half as much heat as water for each degree. So the same heat warms the oil by about twice as many degrees. Picking the same number of degrees is common, because the heat is the same. But the same heat warms the two liquids by different amounts.",
      "outcome": 1
     },
@@ -2348,11 +2348,11 @@
      "t": "mcq",
      "p": "On a very humid day, the air is already full of water. How does this change the way sweat cools you?",
      "opts": [
-      "Sweat evaporates slowly, so you feel hotter than on a dry day at the same temperature",
       "Sweat evaporates faster, so you feel cooler",
-      "Sweat does not matter, only the air temperature does"
+      "Sweat does not matter, only the air temperature does",
+      "Sweat evaporates slowly, so you feel hotter than on a dry day at the same temperature"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sweat cools you only as fast as it evaporates. In humid air it evaporates slowly, so less heat leaves, and you feel hotter. This is why Chennai in the rains feels so sticky.",
      "outcome": 6
     }
@@ -2484,11 +2484,11 @@
      "t": "mcq",
      "p": "Here is an idea: the water must have got less heat from the bath than the oil, because it warmed less. What is wrong with this idea?",
      "opts": [
-      "Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees",
       "Nothing is wrong. The idea is right",
+      "Both got heat from the same bath. Water needs more heat for each degree, so it rose by fewer degrees",
       "Water cannot take in heat from a bath"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A smaller rise in temperature does not mean less heat went in. Water needs more heat for each degree, so the same heat gives a smaller rise.",
      "outcome": 1
     },
@@ -2545,11 +2545,11 @@
      "t": "mcq",
      "p": "Why does steam at 100 °C burn your skin worse than water at 100 °C?",
      "opts": [
-      "When steam turns back to water it gives out a lot of hidden heat",
       "Steam is hotter than water at the same temperature",
+      "When steam turns back to water it gives out a lot of hidden heat",
       "Steam is heavier than water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each gram of steam gives out about 540 calories when it turns back into water, as well as the heat that the water then gives as it cools. This is the hidden heat of boiling.",
      "outcome": 4
     },
@@ -2651,11 +2651,11 @@
      "t": "mcq",
      "p": "1 litre of water at 90 °C is mixed with 2 litres of water at 30 °C. About what temperature will the mix reach?",
      "opts": [
-      "About 50 °C",
       "About 60 °C",
+      "About 50 °C",
       "About 40 °C"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Multiply each amount by its temperature: 1 times 90 is 90, and 2 times 30 is 60. The total is 150. Divide by 3 litres to get 50. The mix is nearer the 30 because there is more of it.",
      "outcome": 3
     },
@@ -2700,11 +2700,11 @@
      "t": "mcq",
      "p": "A 100-gram steel ladle needs about 10 calories for each degree. 100 grams of water needs about 100. Each gets 300 calories. About how much does each warm up?",
      "opts": [
-      "Steel by about 30 degrees, water by about 3 degrees",
       "Steel by about 3 degrees, water by about 30 degrees",
+      "Steel by about 30 degrees, water by about 3 degrees",
       "Both by about 15 degrees"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steel: 300 divided by 10 is 30 degrees. Water: 300 divided by 100 is 3 degrees. The material that needs less heat for each degree warms by more.",
      "outcome": 1
     },
@@ -2759,11 +2759,11 @@
      "t": "mcq",
      "p": "A 100-metre steel bridge grows about 4 centimetres when it warms by 30 degrees. About how much would it grow if it warmed by 15 degrees?",
      "opts": [
-      "About 2 centimetres",
       "About 8 centimetres",
-      "About 4 centimetres"
+      "About 4 centimetres",
+      "About 2 centimetres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Half as much warming gives about half as much growth. Half of 4 is 2. Picking 8 doubles instead of halving.",
      "outcome": 5
     },
@@ -2786,11 +2786,11 @@
      "t": "mcq",
      "p": "A child tests which warms faster in the sun. She puts a thick brick in full sun and a thin steel plate in the shade. What is wrong with her test?",
      "opts": [
-      "She changed two things at once, the material and the place, so she cannot tell which caused the difference",
       "Bricks cannot be warmed by the Sun",
-      "Steel plates should always be in the shade"
+      "Steel plates should always be in the shade",
+      "She changed two things at once, the material and the place, so she cannot tell which caused the difference"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only one thing. Here the material, the thickness and the sunshine all differ.",
      "outcome": 2
     }

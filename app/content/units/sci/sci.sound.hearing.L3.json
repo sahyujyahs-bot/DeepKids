@@ -637,11 +637,11 @@
       "t": "mcq",
       "q": "Which creature in the game could hear a baby mouse calling for their mother?",
       "options": [
-       "A child",
        "A cat",
+       "A child",
        "An elephant"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Baby mice call in very high ultrasound. Cats hear very high sounds, which helps them find mice. People and elephants cannot hear such high sounds."
      }
     }
@@ -1094,10 +1094,10 @@
       "q": "A child aged 8 hears the note up to 18,000 hertz. The child's grandmother stops hearing it at 9,000 hertz. Why?",
       "options": [
        "The grandmother wasn't trying",
-       "Hair cells for the highest pitches wear out first as people grow older",
-       "Older people hear only low sounds"
+       "Older people hear only low sounds",
+       "Hair cells for the highest pitches wear out first as people grow older"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The hair cells for the highest pitches sit at the start of the cochlea, and they wear out first over the years. The grandmother still hears many high sounds, just not the very highest. Saying that older people hear 'only low sounds' goes too far."
      }
     },
@@ -1215,10 +1215,10 @@
       "q": "You hear a neighbour's music through the wall. You hear the drum beat but not the words. Why?",
       "options": [
        "The neighbour plays only drums",
-       "Walls and doors block high sounds more than low sounds",
-       "The words are too fast"
+       "The words are too fast",
+       "Walls and doors block high sounds more than low sounds"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Walls and doors block high pitches more than low pitches. Words need high sounds like 's' and 't' to be understood, so they get lost. The low drum gets through. Elephants use this: low rumbles travel far and pass through forests."
      }
     },
@@ -1309,11 +1309,11 @@
       "t": "mcq",
       "q": "With your ears shut, your hum sounds louder. How does it reach your cochlea?",
       "options": [
-       "Through the bones of your head",
        "Through tiny gaps around your thumbs",
+       "Through the bones of your head",
        "It doesn't, you only imagine it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your voice vibrates the bones of your head, and they carry the vibration straight to the cochlea. With the ear hole shut, less of the hum escapes, so it sounds louder. This is called bone conduction."
      }
     }
@@ -1552,11 +1552,11 @@
       "t": "mcq",
       "q": "Which part turns the vibration into signals for the brain?",
       "options": [
-       "The eardrum",
        "The hair cells in the cochlea",
+       "The eardrum",
        "The ear flap"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The eardrum and bones pass the vibration on. Only the hair cells in the cochlea turn it into nerve signals. Picking the eardrum is a common mix-up, because it is the part that shakes first."
      }
     }
@@ -1872,11 +1872,11 @@
       "t": "mcq",
       "q": "One pair of cup earmuffs blocks 2 steps. A second pair, lined with cloth, blocks 4 steps. Why might the lining help?",
       "options": [
-       "It fills the gaps, so less sound leaks round the edges",
        "Cloth is heavier than air",
+       "It fills the gaps, so less sound leaks round the edges",
        "It makes the cups bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Sound slips through any gap. A soft lining presses against the head and closes the gaps, so less sound gets in. Real earmuffs have soft foam rims for the same reason."
      }
     }
@@ -1946,11 +1946,11 @@
       "t": "mcq",
       "q": "Why does facing someone help them understand you?",
       "options": [
-       "They can see your lips and face",
        "Sound only goes forwards",
+       "They can see your lips and face",
        "Your voice gets higher"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Everyone reads lips a little, and people who hear less read them more. Your face also shows which words you are saying. Sound does go in all directions, but more of it goes the way you face."
      }
     }
@@ -1999,11 +1999,11 @@
    "p": "Which part of the ear vibrates first when a sound arrives?",
    "opts": [
     "The cochlea",
-    "The eardrum",
     "The auditory nerve",
-    "The three tiny bones"
+    "The three tiny bones",
+    "The eardrum"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The ear flap and canal collect and lead the sound in, and the eardrum is the first part that vibrates. Then the bones, then the cochlea.",
    "outcome": 0
   },
@@ -2024,12 +2024,12 @@
    "t": "mcq",
    "p": "A phone is turned up one step at a time from across the room. A boy first hears the song at step 3. What is step 3?",
    "opts": [
-    "The loudest sound he can hear",
     "The quietest sound he can hear from there",
+    "The loudest sound he can hear",
     "The phone's broken step",
     "The song's best part"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Below step 3 the phone was playing, but too softly for him to catch. Step 3 is his quietest sound at that distance.",
    "outcome": 1,
    "how": "e1"
@@ -2038,12 +2038,12 @@
    "t": "mcq",
    "p": "In a fair test of ear covers, what must change?",
    "opts": [
-    "Only the ear cover",
     "The phone and the song",
     "The distance each time",
+    "Only the ear cover",
     "The listener each time"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test, only one thing changes. If the phone or distance changed too, you couldn't tell what caused the difference.",
    "outcome": 1,
    "how": "e1"
@@ -2052,12 +2052,12 @@
    "t": "mcq",
    "p": "Why can loud sound cause hearing loss that never gets better?",
    "opts": [
-    "It makes the ear canal smaller",
     "It breaks hair cells, and in people they do not grow back",
+    "It makes the ear canal smaller",
     "It melts earwax",
     "It makes the ear flap stiff"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Hair cells bend and break under loud sound. Birds can grow new ones, but people cannot, so the loss stays.",
    "outcome": 2
   },
@@ -2065,12 +2065,12 @@
    "t": "mcq",
    "p": "You have to shout to be heard by a friend who is an arm's length away. What does that tell you?",
    "opts": [
-    "Your friend is not listening",
     "The place is loud enough to harm hearing over time",
+    "Your friend is not listening",
     "You should talk faster",
     "Nothing, shouting is normal"
    ],
-   "a": 1,
+   "a": 0,
    "why": "This is the arm's-length test. If you must shout at an arm's length, the sound is loud enough to harm hearing if you stay long.",
    "outcome": 2
   },
@@ -2079,11 +2079,11 @@
    "p": "What is the safest way to look after earwax?",
    "opts": [
     "Clean it out with a cotton bud every day",
-    "Leave it, and wipe only the outside of the ear",
     "Use a hairpin",
-    "Pour oil in every week"
+    "Pour oil in every week",
+    "Leave it, and wipe only the outside of the ear"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Earwax traps dust and moves out by itself. Pushing anything in can push wax deeper or harm the eardrum.",
    "outcome": 3
   },
@@ -2092,11 +2092,11 @@
    "p": "Why do many moths have ears that hear bat calls?",
    "opts": [
     "To sing with the bats",
-    "To hear a hunting bat and dive away",
     "To find flowers",
-    "Moths have no ears"
+    "Moths have no ears",
+    "To hear a hunting bat and dive away"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Bats hunt moths at night with ultrasound calls. A moth who hears the calls can dive or zigzag and escape.",
    "outcome": 4
   },
@@ -2104,12 +2104,12 @@
    "t": "mcq",
    "p": "Which animal hears sounds too low for people?",
    "opts": [
+    "An elephant",
     "A bat",
     "A mouse",
-    "An elephant",
     "A moth"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Elephants hear infrasound, which is too low for us. Their low rumbles help herd members keep in touch over long distances.",
    "outcome": 4
   },
@@ -2118,11 +2118,11 @@
    "p": "A drum skin vibrates slowly. A small bell vibrates very fast. Which has the higher pitch?",
    "opts": [
     "The drum",
-    "The bell",
     "Both the same",
-    "Neither has a pitch"
+    "Neither has a pitch",
+    "The bell"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Faster vibration makes a higher pitch. Pitch is counted in hertz, vibrations each second.",
    "outcome": 5
   },
@@ -2130,12 +2130,12 @@
    "t": "mcq",
    "p": "Most children can hear a tone of 17,000 hertz that many grandparents cannot. Why?",
    "opts": [
-    "Grandparents' hair cells for the highest pitches have worn out",
     "Children have bigger ear flaps",
+    "Grandparents' hair cells for the highest pitches have worn out",
     "Grandparents don't want to hear it",
     "The tone is too low"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Hair cells for the highest pitches wear out first as people grow older, so the top of the band drops.",
    "outcome": 5,
    "how": "e2"
@@ -2144,12 +2144,12 @@
    "t": "mcq",
    "p": "A dog barks at a whistle that you can't hear at all. What is happening?",
    "opts": [
-    "The dog is imagining things",
     "The whistle makes ultrasound, which dogs hear and people don't",
+    "The dog is imagining things",
     "The whistle is broken",
     "Dogs hear through their noses"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dog whistles vibrate above 20,000 hertz. That is ultrasound: above our band, but inside a dog's.",
    "outcome": 4
   },
@@ -2262,11 +2262,11 @@
      "p": "Which of these can harm hearing for ever?",
      "opts": [
       "Whispering to a friend",
-      "Listening to earphones at full volume for hours every day",
       "Hearing birds in the morning",
-      "Talking on the phone"
+      "Talking on the phone",
+      "Listening to earphones at full volume for hours every day"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Loud sound for a long time breaks hair cells in the cochlea, and in people they never grow back. Earphones put the loud sound right at the ear."
     },
     {
@@ -2316,12 +2316,12 @@
      "t": "mcq",
      "p": "A bat sends out a call and listens for the sound that bounces back off a moth. What is this called?",
      "opts": [
-      "Echolocation",
       "Bone conduction",
       "Infrasound",
-      "A hearing test"
+      "A hearing test",
+      "Echolocation"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Echolocation means finding things with echoes. The bat's calls are ultrasound. An echo is a sound that bounces off something and comes back."
     },
     {
@@ -2400,11 +2400,11 @@
      "p": "Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?",
      "opts": [
       "Cupped hands",
-      "Towel",
       "Ear flaps pressed shut",
+      "Towel",
       "They all blocked the same"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The flaps needed 8 steps, 6 more than open ears, so they blocked the most. They seal the ear hole, while hands and towels leave gaps.",
      "how": "e1"
     },
@@ -2517,11 +2517,11 @@
      "p": "Why does your recorded voice sound strange to you?",
      "opts": [
       "The phone changes your voice",
-      "You normally hear yourself through the bones of your head too, which adds low sounds",
       "Your voice is different in the morning",
+      "You normally hear yourself through the bones of your head too, which adds low sounds",
       "Phones only record high sounds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Other people hear only the air part of your voice. You also hear the bone part, which carries low sounds well. So you sound deeper to yourself than you really do to others.",
      "how": "a2"
     },
@@ -2655,12 +2655,12 @@
      "t": "mcq",
      "p": "In the door test, a listener scored the low note 2 with the door open and 2 with it shut. The listener scored the high note 3 with the door open and 1 with it shut. What do these results show?",
      "opts": [
-      "The door blocked the high note more",
       "The door blocked the low note more",
       "The door blocked nothing",
-      "High notes are always quieter"
+      "High notes are always quieter",
+      "The door blocked the high note more"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The low note did not drop at all. The high note dropped by 2. So the door blocked the high note more.",
      "how": "e3"
     },
@@ -2754,12 +2754,12 @@
      "t": "mcq",
      "p": "Why do the three tiny bones make the push stronger before it reaches the cochlea?",
      "opts": [
-      "The cochlea is full of liquid, which is harder to move than air",
       "Bones are louder than skin",
       "The brain needs the sound slower",
-      "The cochlea is very far away"
+      "The cochlea is very far away",
+      "The cochlea is full of liquid, which is harder to move than air"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Liquid is much harder to set moving than air. The bones collect the push from the large eardrum onto the tiny stirrup, making it strong enough to ripple the liquid."
     },
     {

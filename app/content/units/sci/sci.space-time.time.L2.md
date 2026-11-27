@@ -483,7 +483,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 1. (label) Here is one box from a Tamil wall calendar. Label the date used across the world, the Tamil date, and the picture of the Moon.  
    **Answer:** The big number is the date used across the world. The small number with the Tamil month is the Tamil date. The little circle or crescent is the picture of the Moon, which shows its shape that day.. *Why:* A strong answer finds all three, and knows they all name the same day.
 2. (mcq) What is one year?  
-   Options: The time the Earth takes to go once round the Sun / The time the Moon takes to go from full to new / The time the Earth takes to spin once  
+   Options: The time the Moon takes to go from full to new / The time the Earth takes to spin once / The time the Earth takes to go once round the Sun  
    **Answer:** The time the Earth takes to go once round the Sun. *Why:* A year is one trip of the Earth round the Sun, about 365 and a quarter days. Every birthday comes round once a year because of this.
 3. (truefalse) Every calendar used in India starts the new year on 1 January.  
    **Answer:** False. *Why:* False. The Tamil and Bengali new years come in the middle of April. The Islamic new year moves round the year, because it follows the Moon.
@@ -496,7 +496,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 7. (order) Put these in order, from the shortest to the longest.  
    **Answer:** ['a second', 'a minute', 'an hour', 'a day', 'a week', 'a month', 'a year']. *Why:* 60 seconds make a minute, 60 minutes an hour, 24 hours a day, 7 days a week, about 30 days a month, and 12 months a year.
 8. (mcq) Why does Ramzan come about 11 days earlier each year?  
-   Options: The Islamic calendar follows the Moon, and its year is about 11 days shorter / People choose a new date each year / The Sun moves faster in some years  
+   Options: People choose a new date each year / The Sun moves faster in some years / The Islamic calendar follows the Moon, and its year is about 11 days shorter  
    **Answer:** The Islamic calendar follows the Moon, and its year is about 11 days shorter. *Why:* Twelve rounds of the Moon take about 354 days. The Sun's year is about 365 days. So the Moon's year ends about 11 days sooner, and Ramzan moves earlier.
 9. (count) A film is 2 hours long. How many minutes is that?  
    **Answer:** 120 minutes.. *Why:* One hour is 60 minutes. 60 and 60 make 120.
@@ -506,7 +506,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 1. (perspective) The first person, a science teacher, and Mou, a girl of 9, disagree about time.  
    **Answer:** A strong answer picks a side with a reason, for example: 'Mou, because my salt timer only showed time while the salt was running.' Then it says what the first person has right: all clocks keep together, as if they all follow one time.. *Why:* This is a real argument. Isaac Newton thought like the first person. Aristotle and Nagarjuna thought more like Mou. Nobody has settled it.
 2. (mcq) In the banana card test, one person who reads Urdu laid the cards from right to left. What is the best reason?  
-   Options: Urdu is written from right to left, and people often lay out time the way they read / He made a mistake / He did not understand the cards  
+   Options: He made a mistake / He did not understand the cards / Urdu is written from right to left, and people often lay out time the way they read  
    **Answer:** Urdu is written from right to left, and people often lay out time the way they read. *Why:* Scientists have found that people often lay out time the way they read and write. Urdu and Arabic are written from right to left.
 3. (draw) Draw the four banana cards the way one person in your family laid them out. Add an arrow to show which way time went.  
    **Answer:** Four cards in a row, from whole banana to peel, with an arrow from first to last.. *Why:* A strong drawing shows the real order and the direction, and names the person.
@@ -522,7 +522,7 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 8. (write) Besides salt, what else at home could you use to time one minute? How would you check that it is steady?  
    **Answer:** For example: 'A bowl of water with a small hole, or counting 60 slow claps. I would time it three times and see if the answers are close.'. *Why:* A strong answer picks a thing that changes steadily and checks it by repeating the test, as in the salt timer.
 9. (mcq) In the damp monsoon, the salt in a timer sticks and stops. What does this tell us about the timer that day?  
-   Options: It is not steady that day, so it is a poor clock / It is a better clock than usual / It is still a perfect clock  
+   Options: It is a better clock than usual / It is still a perfect clock / It is not steady that day, so it is a poor clock  
    **Answer:** It is not steady that day, so it is a poor clock. *Why:* A clock needs a steady change. Sticking salt runs unevenly, so the timer cannot be trusted until the salt is dry again.
 10. (truefalse) Two different calendars can both be right about the same day.  
    **Answer:** True. *Why:* True. Each calendar counts days in its own way, by the Sun or the Moon. The day itself is the same day.
@@ -534,31 +534,31 @@ The next evening, Kavya showed Arjun how to make the cone himself. 'Always one f
 
 ## Quiz
 1. (mcq) Which happens first when making dosa?  
-   Options: The dosa is eaten / The batter is poured on the tawa / The rice and dal are soaked  
+   Options: The rice and dal are soaked / The dosa is eaten / The batter is poured on the tawa  
    **Answer:** The rice and dal are soaked. *Why:* Rice and dal are soaked first, then ground into batter, then poured on the tawa, and then the dosa is eaten.
 2. (mcq) What does every clock need?  
-   Options: Something that changes at a steady speed / A battery / Numbers on a round face  
+   Options: A battery / Something that changes at a steady speed / Numbers on a round face  
    **Answer:** Something that changes at a steady speed. *Why:* A salt timer has no battery and no numbers, but it is still a clock. Every clock needs a steady change, and a way to count it.
 3. (mcq) In the salt-timer test, why did we fill the spoon level every time, not heaped?  
    Options: So each spoon held the same amount of salt / So the salt would taste better / So the cone would not tear  
    **Answer:** So each spoon held the same amount of salt. *Why:* A heaped spoon holds more salt, and more salt takes longer. A level spoon keeps the test fair.
 4. (mcq) Which of these is the longest?  
-   Options: An hour / A day / A week  
+   Options: A week / An hour / A day  
    **Answer:** A week. *Why:* A week is 7 days. A day is 24 hours. So a week is the longest.
 5. (mcq) Why is a day as long as it is?  
-   Options: The Earth spins once in a day / The Sun stops shining at night / Clocks decide it  
+   Options: The Sun stops shining at night / Clocks decide it / The Earth spins once in a day  
    **Answer:** The Earth spins once in a day. *Why:* One day is one spin of the Earth. The Sun keeps shining all the time. Clocks only count the day into hours.
 6. (mcq) About how many days are in a month?  
-   Options: About 7 / About 30 / About 365  
+   Options: About 7 / About 365 / About 30  
    **Answer:** About 30. *Why:* Most months have 30 or 31 days. A week has 7 days, and a year has 365.
 7. (mcq) Many Indian wall calendars show two or three dates for one day. Why?  
-   Options: People in India use more than one calendar / The printer made a mistake / To fill up the empty space  
+   Options: The printer made a mistake / To fill up the empty space / People in India use more than one calendar  
    **Answer:** People in India use more than one calendar. *Why:* India uses the calendar shared across the world, regional calendars such as the Tamil or Bengali one, and the Islamic calendar. Each counts the same day in its own way.
 8. (mcq) In the banana card test, which way do most people who read Tamil, Hindi or English lay out time?  
    Options: From left to right / From right to left / From bottom to top  
    **Answer:** From left to right. *Why:* People often lay out time the way they read. Tamil, Hindi and English are written from left to right.
 9. (mcq) Jain teachings picture time as which of these?  
-   Options: A wheel that keeps turning / A ladder with a top step / A box with a lid  
+   Options: A ladder with a top step / A wheel that keeps turning / A box with a lid  
    **Answer:** A wheel that keeps turning. *Why:* Jain teachings picture time as a great wheel, the kalachakra, that keeps turning through better and worse ages.
 10. (truefalse) A wall clock is steady but shows 5 minutes late. It can still be a good clock once it is set right.  
    **Answer:** True. *Why:* True. A steady clock only needs to be set right once. A clock that speeds up and slows down is the real problem.

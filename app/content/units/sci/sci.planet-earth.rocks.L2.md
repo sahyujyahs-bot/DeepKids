@@ -388,7 +388,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** 60 shakes. *Why:* 20 and 20 is 40. 40 and 20 more is 60.
 ### Hard, soft and where rocks come from (stretch) (stretch, 11 questions)
 1. (mcq) In the Scratch Ladder, a coin scratched the marble but not the pebble. Which is harder?  
-   Options: The pebble / The marble / They are the same  
+   Options: The marble / They are the same / The pebble  
    **Answer:** The pebble. *Why:* A harder thing scratches a softer one. The coin could scratch the marble but not the pebble, so the pebble is harder.
 2. (write) Say it or write it. A grinding stone has a smooth dip in its middle. How did it get there?  
    **Answer:** Years of grinding rubbed away a few grains each day. All those grains together made the dip.. *Why:* A strong answer says the stone wore away slowly, a little each time it was used.
@@ -410,7 +410,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 10. (match) Draw a line from each rock to where it comes from in India.  
    **Answer:** Marble → Makrana, Rajasthan; Laterite → Kerala and Goa; Coal → Jharkhand; Slate → Markapur, Andhra Pradesh. *Why:* These are well-known places for each rock. Builders long ago mostly used rock from nearby.
 11. (mcq) Someone says a quarry does no harm because it is only rock. What did they forget?  
-   Options: Plants and animals lived on the hill, and lose their home / Rock is soft / Quarries make hills taller  
+   Options: Rock is soft / Plants and animals lived on the hill, and lose their home / Quarries make hills taller  
    **Answer:** Plants and animals lived on the hill, and lose their home. *Why:* A hill is a home for plants, birds, insects and other animals. Digging a quarry takes that home away.
 ### Rocks that change (challenge) (challenge, 10 questions)
 1. (write) In the Tiffin Test, chalk turned round in 100 shakes but stone chips did not. A river pebble made of stone is round. What does that tell you about the pebble?  
@@ -418,7 +418,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 2. (perspective) A child and her grandmother are talking about rocks.  
    **Answer:** The child is right that rocks change, but her grandmother is right that hard rock changes very slowly, too slowly to see in a lifetime.. *Why:* A strong answer uses evidence of wearing (the dip, the pebbles, the Tiffin Test) and also agrees that granite changes so slowly a temple can last a thousand years.
 3. (mcq) You want a step that will last 500 years. Which rock should you choose?  
-   Options: Granite / Chalk / Rock salt  
+   Options: Chalk / Rock salt / Granite  
    **Answer:** Granite. *Why:* Granite is very hard, so feet wear it away very slowly. Chalk and rock salt are soft, and salt dissolves in rain.
 4. (write) A soft rock is bad for steps. Name a job where being soft is just what we want, and say why.  
    **Answer:** Writing on a board with chalk. The chalk is soft, so it rubs off and leaves a line.. *Why:* A strong answer sees that soft is not bad. Each job needs something different.
@@ -443,37 +443,37 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 
 ## Quiz
 1. (mcq) What are most rocks made of?  
-   Options: Grains of minerals packed together / Hard mud and leaves / Melted glass  
+   Options: Hard mud and leaves / Grains of minerals packed together / Melted glass  
    **Answer:** Grains of minerals packed together. *Why:* Most rocks are grains of minerals packed tight, like the specks in granite. 'Hard mud' is a common guess, but only some rocks start as mud.
 2. (mcq) Your fingernail scratches a rock. What does that tell you?  
    Options: The rock is very soft / The rock is very hard / The rock is heavy  
    **Answer:** The rock is very soft. *Why:* A fingernail is quite soft. If it can scratch a rock, the rock is even softer, like chalk.
 3. (mcq) Soft chalk pieces and hard stone chips are shaken together in a closed tiffin box. Which lose their corners first?  
-   Options: The soft chalk pieces / The hard stone chips / All pieces at the same speed  
+   Options: The hard stone chips / The soft chalk pieces / All pieces at the same speed  
    **Answer:** The soft chalk pieces. *Why:* Chalk is soft, so each knock takes off grains. Hard stone loses grains very slowly, so it hardly changes.
 4. (mcq) Why are the corners of a rock the first part to wear away?  
-   Options: They stick out, so they get knocked most / They are made of softer rock / The corners are always a different kind of rock  
+   Options: They are made of softer rock / They stick out, so they get knocked most / The corners are always a different kind of rock  
    **Answer:** They stick out, so they get knocked most. *Why:* Corners stick out, so most knocks land on them. That is why pieces turn round, not just smaller.
 5. (mcq) Which rock is used for writing on a board?  
    Options: Chalk / Granite / Coal  
    **Answer:** Chalk. *Why:* Chalk is soft, so it rubs off onto the board and leaves a line. Granite is too hard, and coal is used for burning.
 6. (mcq) A builder wants a stone that can be polished till it shines white, for a great monument. Which rock fits best?  
-   Options: White marble / Red laterite / Black coal  
+   Options: Red laterite / Black coal / White marble  
    **Answer:** White marble. *Why:* Marble can be polished till it shines. The Taj Mahal is built of white marble. Laterite is red and rough, and coal is black and crumbles.
 7. (mcq) Why is a grinding stone made of granite?  
    Options: Granite is hard, so it wears away slowly and does not crumble into food / Granite is soft and easy to grind / Granite soaks up the chutney  
    **Answer:** Granite is hard, so it wears away slowly and does not crumble into food. *Why:* A grinding stone is rubbed every day. Hard granite wears away very slowly, so it lasts for many years.
 8. (mcq) A perfectly round stone pebble lies by a river. How did it get round?  
-   Options: The river rolled it against sand and stones for a long time / It was born round / The sun melted its corners  
+   Options: It was born round / The sun melted its corners / The river rolled it against sand and stones for a long time  
    **Answer:** The river rolled it against sand and stones for a long time. *Why:* Moving water knocks and rubs stones. Over a long time the corners wear off and the stone turns round.
 9. (mcq) A hill is dug into a quarry. Who loses something?  
-   Options: The plants, birds and other animals who lived on the hill / Nobody, because it is only rock / Only the rocks  
+   Options: Nobody, because it is only rock / Only the rocks / The plants, birds and other animals who lived on the hill  
    **Answer:** The plants, birds and other animals who lived on the hill. *Why:* A hill is a home. When it is dug away, the plants and animals living there lose their home. People nearby may lose grazing land or water too.
 10. (mcq) Why do people dig rock and sand out of the ground?  
    Options: To build homes, roads, schools and bridges / Because rocks are in the way of rain / To make hills taller  
    **Answer:** To build homes, roads, schools and bridges. *Why:* Stone, sand and gravel are used for walls, floors, cement and roads. That is why quarries and sand mining exist.
 11. (mcq) A builder needs gravel to mix into concrete. Where can gravel come from?  
-   Options: Small pebbles and stones lying in a river bed / The leaves on the top of a tree / The rain clouds in the sky  
+   Options: The leaves on the top of a tree / The rain clouds in the sky / Small pebbles and stones lying in a river bed  
    **Answer:** Small pebbles and stones lying in a river bed. *Why:* Gravel is a mix of small pebbles and stones. Rivers carry them and leave them in their beds, so people dig them out there. Leaves and clouds are not rock.
 12. (truefalse) The shiniest rock is always the hardest.  
    **Answer:** False. *Why:* False. Marble can shine, but a steel coin scratches it. A plain grey pebble can be much harder.

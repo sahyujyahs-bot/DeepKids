@@ -1029,11 +1029,11 @@
       "t": "mcq",
       "q": "Which of these is impossible?",
       "options": [
-       "Rolling a six on one die",
        "Rolling a 7 on one die",
+       "Rolling a six on one die",
        "Tossing heads"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A six and heads can both happen, so they are not impossible. No face of a die has 7 dots, so a 7 can never come."
      }
     },
@@ -1341,11 +1341,11 @@
       "t": "mcq",
       "q": "You roll a die to choose among three children. Which rule is fair?",
       "options": [
-       "1 chooses the first child, 2 chooses the second, 3 to 6 choose the third",
        "1 or 2 chooses the first child, 3 or 4 the second, 5 or 6 the third",
+       "1 chooses the first child, 2 chooses the second, 3 to 6 choose the third",
        "6 chooses the first child, any other number chooses the second"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each face has the same chance. Two faces each gives each child the same chance. In the other rules, one child gets more faces than the others."
      }
     }
@@ -1388,10 +1388,10 @@
      "p": "In the coin test, you guessed ten tosses. About how many guesses do most people get right?",
      "opts": [
       "All ten",
-      "About five",
-      "None"
+      "None",
+      "About five"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Heads and tails each have the same chance, so a guess is right about half the time. Choosing 'all ten' means thinking that trying hard can tell you how the coin will land. The test shows it cannot.",
      "context": "This question is about the coin test. You guessed ten tosses of a coin, then each person tossed a coin 20 times and counted the heads.",
      "how": "e1"
@@ -1680,11 +1680,11 @@
      "t": "mcq",
      "p": "The weather forecast for Mumbai says rain is likely tomorrow. Tomorrow it does not rain. What does this mean?",
      "opts": [
-      "The forecast must have been wrong",
       "Likely is not certain, so a dry day can still happen",
+      "The forecast must have been wrong",
       "It will never rain again"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Likely means more often than not, not every time. A good forecast of 'likely rain' is right on most such days, not on all of them. Choosing 'wrong' mixes up likely and certain."
     }
    ]
@@ -1735,10 +1735,10 @@
    "p": "You toss a coin 20 times. About how many heads will you get?",
    "opts": [
     "About 2",
-    "About 10",
-    "About 20"
+    "About 20",
+    "About 10"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Heads and tails have the same chance, so about half of 20 tosses are heads. Half of 20 is 10.",
    "outcome": 0
   },
@@ -1746,11 +1746,11 @@
    "t": "mcq",
    "p": "What is a quick way to count with lines, in bundles of five?",
    "opts": [
-    "A tally",
     "A die",
-    "A toss"
+    "A toss",
+    "A tally"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tally is a line for each thing, with every fifth line across the four before it. It helps you count tosses without losing track.",
    "outcome": 1
   },
@@ -1758,11 +1758,11 @@
    "t": "mcq",
    "p": "You roll one die. Which is most likely?",
    "opts": [
-    "A six",
     "Not a six",
+    "A six",
     "A seven"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Five of the six faces are not six, so 'not a six' comes most often. A seven is impossible on one die.",
    "outcome": 2
   },
@@ -1770,11 +1770,11 @@
    "t": "mcq",
    "p": "Why is a six unlikely on one roll of a die?",
    "opts": [
-    "Only one of the six faces is a six",
     "Sixes are heavier",
+    "Only one of the six faces is a six",
     "The die is scared of sixes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each face has the same chance, and only one face is a six. So a six comes about once in every six rolls.",
    "outcome": 2
   },
@@ -1783,10 +1783,10 @@
    "p": "Which of these is certain?",
    "opts": [
     "Rain tomorrow in Kochi",
-    "Rolling a number from 1 to 6 on one die",
-    "Tossing heads"
+    "Tossing heads",
+    "Rolling a number from 1 to 6 on one die"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Every face of a die has a number from 1 to 6, so you always get one. Rain and heads can both happen or not happen.",
    "outcome": 3
   },
@@ -1794,11 +1794,11 @@
    "t": "mcq",
    "p": "Which of these is impossible?",
    "opts": [
+    "Picking a blank from a tumbler of only star slips",
     "A crow at the window",
-    "Picking a blank from 8 stars and 2 blanks",
-    "Picking a blank from a tumbler of only star slips"
+    "Picking a blank from 8 stars and 2 blanks"
    ],
-   "a": 2,
+   "a": 0,
    "why": "If there are no blank slips, a blank can never come out. A crow at the window and picking a blank from 8 stars and 2 blanks can both happen.",
    "outcome": 3
   },
@@ -1806,11 +1806,11 @@
    "t": "mcq",
    "p": "Two sisters want to choose who goes first. Which way is fair?",
    "opts": [
-    "The older sister goes first if a die shows 1 to 5",
     "Toss a coin: heads for one sister, tails for the other",
+    "The older sister goes first if a die shows 1 to 5",
     "The older sister always goes first because she is older"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A coin gives each sister the same chance. The die rule gives the older sister five faces and the younger sister only one.",
    "outcome": 4
   },
@@ -1818,11 +1818,11 @@
    "t": "mcq",
    "p": "A tumbler has 8 star slips and 2 blank slips. How can you make it fair for a star player and a blank player?",
    "opts": [
-    "Add more star slips",
     "Make the numbers of star and blank slips the same",
+    "Add more star slips",
     "Pick with your eyes open"
    ],
-   "a": 1,
+   "a": 0,
    "why": "With the same number of each, a star and a blank have the same chance. More star slips would make it even less fair.",
    "outcome": 4
   },
@@ -1842,11 +1842,11 @@
    "t": "mcq",
    "p": "Someone tosses a coin 10,000 times. What will the heads count be close to?",
    "opts": [
-    "Close to 5,000",
     "Close to 100",
-    "Exactly 10,000"
+    "Exactly 10,000",
+    "Close to 5,000"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About half the tosses are heads, and the more tosses there are, the closer to half it usually gets. John Kerrich did this and got 5,067 heads.",
    "outcome": 0
   }

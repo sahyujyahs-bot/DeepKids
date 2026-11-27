@@ -876,11 +876,11 @@
       "t": "mcq",
       "q": "Three children push a car right with 100 N, 150 N and 200 N. Friction pulls left with 300 N. What is the net force?",
       "options": [
-       "150 N to the right",
        "450 N to the right",
-       "150 N to the left"
+       "150 N to the left",
+       "150 N to the right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Add the three pushes to get 450 N. Then take away the 300 N of friction. 450 take away 300 is 150 N, to the right. The answer 450 N forgets the friction. The answer 150 N to the left treats friction as the bigger force by mistake."
      },
      "context": "In this step of Net Force Showdown, you play the last cards and fix mistakes by drawing arrows."
@@ -1021,11 +1021,11 @@
       "t": "mcq",
       "q": "On a made-up graph, a band is 12 cm for 5 N and 16 cm for 10 N. Your band measures 14 cm. About what pull is on it?",
       "options": [
-       "About 7.5 N",
        "About 14 N",
-       "About 5 N"
+       "About 5 N",
+       "About 7.5 N"
       ],
-      "a": 0,
+      "a": 2,
       "why": "14 cm is halfway between 12 cm and 16 cm. So the pull is halfway between 5 N and 10 N, which is 7.5 N. The answer 14 N mixes up centimetres with newtons. The answer 5 N picks the lower mark instead of finding the middle."
      },
      "context": "In this step, you calibrate the band by hanging loads that you already know, and you draw the graph."
@@ -1052,11 +1052,11 @@
       "t": "mcq",
       "q": "When the line has a 10 cm sag, the band is longer than it was with 2 packets (10 N). The bottle weighs about 5 N. What does this tell you?",
       "options": [
-       "Each end of the line pulls with more than 10 N, so more than the bottle weighs",
        "The band is faulty",
-       "The bottle has got heavier"
+       "The bottle has got heavier",
+       "Each end of the line pulls with more than 10 N, so more than the bottle weighs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The band is longer than with the 10 N load, so the pull is more than 10 N. This is more than the weight of the bottle, 5 N. The bottle has not changed. The flat line pulls sideways, and the pull needed to hold the bottle up gets bigger. A faulty band would not give the neat pattern across the three sags."
      },
      "context": "In this step, you hang the bottle on a line, make the line flatter in three stages, and measure the band each time."
@@ -1206,11 +1206,11 @@
       "t": "mcq",
       "q": "Why do we level the ruler before the coin touches the water?",
       "options": [
-       "So that the only thing pulling the coin up is the grains we add",
        "So that the coin gets wet evenly",
+       "So that the only thing pulling the coin up is the grains we add",
        "So that the rice weighs more"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the ruler starts out level, everything on both sides balances, and only the added grains pull the coin. If it starts tilted, we would be measuring the tilt as well as the water's hold. Wetting the coin and the weight of rice are not the reason."
      },
      "context": "In this step, you build the balance and set the coin on the water."
@@ -1265,11 +1265,11 @@
       "t": "mcq",
       "q": "The coin needed 30 grains of rice to come off plain water. One grain weighs 0.02 grams. What is the pull in newtons, if 1 gram pulls with about 0.01 newtons?",
       "options": [
-       "About 0.006 newtons",
        "About 0.6 newtons",
-       "About 6 newtons"
+       "About 6 newtons",
+       "About 0.006 newtons"
       ],
-      "a": 0,
+      "a": 2,
       "why": "30 grains times 0.02 grams is 0.6 grams. 0.6 times 0.01 is 0.006 newtons. That is about six thousandths of a newton. The answer 0.6 N forgets to turn grams into newtons. The answer 6 N is a hundred times too big."
      },
      "context": "In this step, you turn your counts of rice grains into newtons, and compare the pull with an apple."
@@ -1351,11 +1351,11 @@
       "t": "mcq",
       "q": "A hand pushes a packet up with 7 N. The packet weighs 5 N. What is the net force?",
       "options": [
-       "2 N up, so the packet speeds up upwards",
        "12 N up",
-       "2 N down"
+       "2 N down",
+       "2 N up, so the packet speeds up upwards"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The push is 7 N up and the weight is 5 N down. 7 take away 5 is 2 N up. A net force upwards makes the packet speed up upwards. The answer 12 N adds when it should take away. The answer 2 N down gets the direction wrong."
      },
      "context": "In this step of Draw the Pulls, you lift a packet slowly and then fast, and compare the forces.",
@@ -1380,11 +1380,11 @@
       "t": "mcq",
       "q": "A bag with 2 packets weighs about 10 N and hangs still on a strap. How hard does the strap pull up?",
       "options": [
-       "About 10 N",
        "About 5 N",
-       "About 20 N"
+       "About 20 N",
+       "About 10 N"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The bag is still, so the forces are balanced. The strap's pull up equals the weight down, about 10 N. The answer 5 N is only one packet. The answer 20 N counts the weight twice."
      },
      "context": "In this step of Draw the Pulls, you hang a bag and draw the weight and the strap's pull."
@@ -1486,11 +1486,11 @@
       "t": "mcq",
       "q": "Three people read the same band and get slightly different numbers. What is the best explanation?",
       "options": [
-       "Each looks from a slightly different place, so the end of the band seems to sit against a slightly different mark",
        "The band changes depending on who looks",
+       "Each looks from a slightly different place, so the end of the band seems to sit against a slightly different mark",
        "Only the eye-level reader is real"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When you look from above or below, the band's end appears against a different mark on the ruler. This is a reading error. The band is the same for everyone. All three readers are real. The reading at eye level is just the least affected."
      },
      "context": "In this step, you see how looking from different places changes what you read.",
@@ -1713,11 +1713,11 @@
       "t": "mcq",
       "q": "The magnet holds a chain of 20 clips, and each clip weighs about 0.5 grams. What does the magnet's pull have to be, at least?",
       "options": [
-       "At least the weight of 10 grams of clips, about 0.1 newtons",
        "At least the weight of 1 gram",
+       "At least the weight of 10 grams of clips, about 0.1 newtons",
        "Exactly zero, because the chain is still"
       ],
-      "a": 0,
+      "a": 1,
       "why": "20 clips of 0.5 grams weigh 10 grams. 10 grams is about 0.1 newtons. The magnet must pull up at least as much as the Earth pulls those clips down. The answer 1 gram is too small. A still chain has balanced forces. It does not mean there is no force."
      },
      "context": "In this step, you make the longest chain of clips that the magnet can hold."
@@ -1940,11 +1940,11 @@
       "t": "mcq",
       "q": "The drop is 4 mm for 1 packet, 8 mm for 2 packets and 12 mm for 3 packets. What drop do you expect for 4 packets?",
       "options": [
-       "About 16 mm",
        "About 20 mm",
-       "About 8 mm"
+       "About 8 mm",
+       "About 16 mm"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The drop grows by 4 mm for each packet. So four packets give about 16 mm. The answer 20 mm adds too much. The answer 8 mm looks at the early numbers only. This even growth is why a bending ruler can be a force meter."
      },
      "context": "In this step, you add the packets one by one and draw the graph that turns your ruler into a scale."
@@ -2069,11 +2069,11 @@
       "t": "mcq",
       "q": "You make the sag deeper and the pull in the thread goes down. What is the best explanation?",
       "options": [
-       "A steeper line points more upwards, so less pull is needed to hold up the bottle",
        "The bottle has become lighter",
+       "A steeper line points more upwards, so less pull is needed to hold up the bottle",
        "The gauge has stretched"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a steep line, more of the pull points upwards, where it can hold the bottle. So the line needs to pull less. The bottle's weight has not changed. A stretched gauge would give a longer reading, not a shorter one."
      },
      "context": "In this step, you improve your design and see which changes lower the pull."
@@ -2101,11 +2101,11 @@
      "t": "mcq",
      "p": "Which one describes a force completely?",
      "opts": [
-      "5 newtons to the left",
       "5 newtons",
+      "5 newtons to the left",
       "To the left"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A force needs both a size and a direction. '5 newtons' has no direction. 'To the left' has no size. Only '5 newtons to the left' has both.",
      "outcome": 0
     },
@@ -2304,11 +2304,11 @@
      "t": "mcq",
      "p": "A line holds a 10 N bottle in its middle, and each side slopes 30 degrees below a level line. Each side pulls with 10 N. What would a flatter line, sloping 10 degrees, pull with?",
      "opts": [
-      "More than 10 N",
       "Exactly 10 N",
+      "More than 10 N",
       "Less than 10 N"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A flatter line points more sideways, so only a thin slice of its pull holds the bottle up. The pull has to be bigger. The answer 'exactly 10 N' is only true for the 30 degree line.",
      "outcome": 2
     },
@@ -2471,11 +2471,11 @@
      "t": "mcq",
      "p": "Why can a small fridge magnet lift a paper clip against the pull of the whole Earth?",
      "opts": [
-      "Between atoms, the electric and magnetic force is far stronger than gravity",
       "The Earth does not pull on small things",
+      "Between atoms, the electric and magnetic force is far stronger than gravity",
       "The magnet weighs more than the Earth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Gravity looks strong to us only because the Earth is so big. Between two small things, the magnetic and electric force is vastly stronger. The Earth does pull on the clip, and the magnet wins anyway.",
      "outcome": 7
     },
@@ -2526,11 +2526,11 @@
      "t": "mcq",
      "p": "A rope holds a 100 N load in its middle. Each side slopes 10 degrees below a level line. Roughly how hard does each side pull?",
      "opts": [
-      "About 290 N",
       "About 100 N",
+      "About 290 N",
       "About 50 N"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each side holds up half the load, which is 50 N. Only the upward part of each side's pull does this. At 10 degrees, that part is only about a sixth of the pull, so each side pulls about six times 50 N, which is about three times the load. The answer 50 N would be right for two ropes hanging straight down and sharing the load.",
      "outcome": 2
     },
@@ -2553,11 +2553,11 @@
      "t": "mcq",
      "p": "Five readings of a pull are 4.9, 5.1, 5.0, 5.0 and 5.4 N. Which report is most sensible?",
      "opts": [
-      "About 5.0 N, with readings from 4.9 to 5.4 N",
       "Exactly 5.08 N",
-      "5.4 N, the largest, to be safe"
+      "5.4 N, the largest, to be safe",
+      "About 5.0 N, with readings from 4.9 to 5.4 N"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The middle value is 5.0 N, and the readings spread from 4.9 to 5.4 N. Writing 5.08 N pretends the tool is finer than it is. Reporting only the largest ignores the other readings.",
      "outcome": 4
     },
@@ -2639,11 +2639,11 @@
      "t": "mcq",
      "p": "When the block inside a digital scale bends, what does the chip measure?",
      "opts": [
-      "A small change in how easily electricity passes through the stretched metal pattern",
       "The temperature of the block",
+      "A small change in how easily electricity passes through the stretched metal pattern",
       "The colour of the metal"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A stretched metal pattern is a little longer and thinner, so electricity finds it a little harder to pass. A chip measures that change and turns it into a number.",
      "outcome": 7
     },
@@ -2673,11 +2673,11 @@
      "t": "mcq",
      "p": "A cotton thread holds a bag when pulled slowly, but snaps when jerked. What is the best explanation?",
      "opts": [
-      "For an instant, a jerk makes the pull far bigger than a steady pull",
       "The thread gets weaker when the bag moves",
+      "For an instant, a jerk makes the pull far bigger than a steady pull",
       "The bag gets heavier when it is jerked"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A jerk makes the load speed up quickly, and that needs a much bigger pull for a short time. The thread did not change, and the weight of the bag did not change.",
      "outcome": 6
     },
@@ -2721,11 +2721,11 @@
    "t": "mcq",
    "p": "Two children push a box right with 10 N and 14 N. A third child pulls it left with 4 N. What is the net force?",
    "opts": [
-    "20 N to the right",
     "28 N to the right",
-    "20 N to the left"
+    "20 N to the left",
+    "20 N to the right"
    ],
-   "a": 0,
+   "a": 2,
    "why": "10 plus 14 is 24 to the right, and 4 to the left takes away. 24 take away 4 is 20 N to the right. The answer 28 N adds the 4 instead of taking it away.",
    "outcome": 1
   },
@@ -2733,11 +2733,11 @@
    "t": "mcq",
    "p": "A trolley moves along a smooth floor at a steady speed. What is true about the forces on it?",
    "opts": [
-    "They are balanced",
     "There is a net force forwards",
-    "There is no friction at all"
+    "There is no friction at all",
+    "They are balanced"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A thing moving at a steady speed has balanced forces. If there were a net force forwards, it would speed up. Friction may still be there, balanced by a push.",
    "outcome": 1
   },
@@ -2745,11 +2745,11 @@
    "t": "mcq",
    "p": "A rope holds a heavy load in its middle. Which change makes the pull in the rope smaller?",
    "opts": [
-    "Letting the rope sag more",
     "Pulling the rope tighter",
-    "Making the load swing"
+    "Making the load swing",
+    "Letting the rope sag more"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A rope with a bigger sag points more upwards, so it needs to pull less. Pulling it tighter makes it flatter, which raises the pull. A swinging load can make the pull bigger.",
    "outcome": 2
   },
@@ -2757,11 +2757,11 @@
    "t": "mcq",
    "p": "Why can no washing line be pulled perfectly straight with a wet saree in the middle?",
    "opts": [
-    "It would need an endless pull",
     "The saree is too light",
-    "The line is made of the wrong material"
+    "The line is made of the wrong material",
+    "It would need an endless pull"
    ],
-   "a": 0,
+   "a": 2,
    "why": "As the line gets flatter, the pull needed grows without limit. A perfectly straight line would need an endless pull, which no rope can give.",
    "outcome": 2
   },
@@ -2769,11 +2769,11 @@
    "t": "mcq",
    "p": "Why do we hang loads that we already know on a rubber band before using it as a gauge?",
    "opts": [
-    "So that we can make a graph that turns band lengths into newtons",
     "So that the band gets warm",
-    "So that the band becomes stronger"
+    "So that the band becomes stronger",
+    "So that we can make a graph that turns band lengths into newtons"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The known loads let us plot the length for each pull. The graph is then used to read unknown pulls. Hanging loads does not warm or strengthen the band.",
    "outcome": 3
   },
@@ -2781,11 +2781,11 @@
    "t": "mcq",
    "p": "Why should you not trust the graph far beyond your last known load?",
    "opts": [
-    "The band may stop stretching evenly, or snap",
     "The graph paper runs out",
+    "The band may stop stretching evenly, or snap",
     "Newtons stop working"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A rubber band follows a neat pattern for small loads only. Past the loads you tested, you do not know how it behaves, and it might break.",
    "outcome": 3
   },
@@ -2805,11 +2805,11 @@
    "t": "mcq",
    "p": "A scale shows 2 g with nothing on it. You put a potato on it and read 152 g. What does the potato weigh?",
    "opts": [
-    "About 150 g",
     "About 154 g",
+    "About 150 g",
     "About 152 g"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The 2 g is a zero error that is in every reading. Taking it away gives 150 g. The answer 154 g adds it instead.",
    "outcome": 5
   },
@@ -2817,11 +2817,11 @@
    "t": "mcq",
    "p": "A bathroom scale in a lift shows a smaller number for a moment. What is the lift doing?",
    "opts": [
-    "Starting to move down",
     "Starting to move up",
+    "Starting to move down",
     "Standing still"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When a lift starts to go down, the floor pushes up on you with less than your weight for a moment. A scale under you reads less. Starting to move up makes it read more.",
    "outcome": 6
   },
@@ -2829,11 +2829,11 @@
    "t": "mcq",
    "p": "What does a coin on the surface of water show about water?",
    "opts": [
-    "The surface pulls along itself and holds on to the coin",
     "Water is sticky like glue",
+    "The surface pulls along itself and holds on to the coin",
     "Water is heavier at the top"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The surface of water acts like a thin stretched skin. This is surface tension. It is a small force, which we can measure by finding how much it takes to lift the coin off.",
    "outcome": 7
   },
@@ -2841,11 +2841,11 @@
    "t": "mcq",
    "p": "Sunlight can push a thin sail in space. Why does sunlight not push a sheet of paper across a table?",
    "opts": [
-    "The push is far too small to beat friction and the paper's weight",
     "Paper blocks light",
+    "The push is far too small to beat friction and the paper's weight",
     "Light only pushes in space"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The push of sunlight is about five millionths of a newton for each square metre. On a table, friction and weight are much bigger. In space, nothing else is acting, so the tiny push adds up over time.",
    "outcome": 7
   }

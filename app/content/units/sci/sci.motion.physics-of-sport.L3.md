@@ -535,7 +535,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 9. (draw) Draw the path of a ball thrown gently from your hand to a friend's hands across the room.  
    **Answer:** A smooth curve that rises from the thrower's hand, bends over and comes down to the catcher's hands.. *Why:* The ball keeps moving forward while gravity pulls it down, so its path is a curve, not a straight line or a hook.
 10. (mcq) You squeeze a plastic bottle of water with a hole in it, and water squirts out. Then you squeeze harder. What happens to the jet?  
-   Options: It lands further away / It lands closer / It goes straight down  
+   Options: It lands closer / It goes straight down / It lands further away  
    **Answer:** It lands further away. *Why:* A harder squeeze makes the water leave faster. Faster water goes further forward before gravity brings it down.
 11. (truefalse) A thrown ball keeps moving forward after it leaves your hand, even though nothing is pushing it forward.  
    **Answer:** True. *Why:* True. A moving thing keeps moving until a force slows it. The air slows it a little, and gravity pulls it down, but nothing has to keep pushing it forward.
@@ -550,7 +550,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
    **Answer:** ['back', 'forward']. *Why:* Your foot pushes back on the ground, and the ground pushes you forward. That is why you can't run well on a slippery floor.
 ### Why the Ground Matters (stretch) (stretch, 15 questions)
 1. (mcq) A ball is dropped onto a pillow 20 times in a row. Where does most of the ball's movement go?  
-   Options: Into a little warmth and sound in the pillow / Back into the ball / It is destroyed and gone for ever  
+   Options: Back into the ball / Into a little warmth and sound in the pillow / It is destroyed and gone for ever  
    **Answer:** Into a little warmth and sound in the pillow. *Why:* Energy is never used up. It changes kind. As the pillow squashes, its cotton or foam rubs on itself, and that turns the movement into a little warmth and sound. Picking 'destroyed' is a common idea, but energy never just vanishes.
 2. (write) Why is beach cricket played on the wet sand near the waves, and not on the soft, dry sand? Use the word 'bounce'.  
    **Answer:** Wet sand is packed hard, so it does not move much when the ball lands. The ball can squash and spring back, so it bounces. Dry sand slides away under the ball, so it hardly bounces at all.. *Why:* A strong answer links the firmness of the ground to the bounce.
@@ -588,7 +588,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 2. (perspective) Two people explain why a footballer's spinning kick curves in the air.  
    **Answer:** A strong answer explains one view in its own words, for example that the ball pushes air one way so the air pushes the ball the other way. It sees that both describe the same curve, and that both can be true at once.. *Why:* Scientists agree that a spinning ball curves, the Magnus effect. Teachers argue about which explanation is clearer. Both are correct ways of describing it.
 3. (mcq) Without any air, at which angle would a ball thrown at the same speed go furthest?  
-   Options: 45 degrees, halfway between flat and straight up / Flat along the ground, 0 degrees / Straight up, 90 degrees  
+   Options: Flat along the ground, 0 degrees / 45 degrees, halfway between flat and straight up / Straight up, 90 degrees  
    **Answer:** 45 degrees, halfway between flat and straight up. *Why:* Thrown flat, the ball soon hits the ground. Thrown straight up, it comes back to you. Halfway, 45 degrees, gives the best mix of going forward and staying up. In real sport, with air and the thrower's height, the best angle is a little lower.
 4. (draw) Draw three throws from the same hand at the same speed: nearly flat, halfway up, and nearly straight up. Show where each lands.  
    **Answer:** The nearly flat throw lands close. The nearly straight up throw goes high and lands close. The halfway throw lands furthest away.. *Why:* This shows why the angle of a throw matters as much as its speed.
@@ -629,37 +629,37 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
    Options: A higher bounce on the tiles / A higher bounce on the quilt / No bounce on either  
    **Answer:** A higher bounce on the tiles. *Why:* On the tiles the ball squashes and springs back. On the quilt, the quilt squashes instead and springs back too slowly to push the ball up. Picking 'quilt' often means thinking soft things are bouncy, but softness takes a bounce away unless the surface springs back fast.
 2. (mcq) Why does a ball of wet clay not bounce, even on a hard floor?  
-   Options: It squashes and stays squashed / It is too heavy / The floor is too hard  
+   Options: It is too heavy / The floor is too hard / It squashes and stays squashed  
    **Answer:** It squashes and stays squashed. *Why:* A bounce needs the ball to spring back. Wet clay is not elastic, so it stays flat. Weight is not the problem: a heavier rubber ball still bounces.
 3. (mcq) In a bounce test, you change the surface and the height of the drop at the same time. What is wrong?  
    Options: You can't tell which change made the difference / Nothing is wrong / You should use a smaller ball  
    **Answer:** You can't tell which change made the difference. *Why:* In a fair test, only one thing changes. If two things change, you can't tell which one made the bounce different.
 4. (mcq) Why is running on soft beach sand more tiring than running on the road?  
-   Options: Some of each push goes into moving the sand / Sand pulls your feet down / The road is downhill  
+   Options: Sand pulls your feet down / Some of each push goes into moving the sand / The road is downhill  
    **Answer:** Some of each push goes into moving the sand. *Why:* Soft sand slides away and doesn't spring back, so part of each push is lost in it. Your muscles must do more work for each step. Sand doesn't pull feet down. It just gives way under them.
 5. (mcq) When you run, what in your legs stretches and springs back like a rubber band?  
-   Options: Your tendons / Your toenails / Your skin only  
+   Options: Your toenails / Your skin only / Your tendons  
    **Answer:** Your tendons. *Why:* Tendons, like the Achilles tendon at the back of your heel, stretch when your foot lands and spring back as you push off.
 6. (mcq) Why does a thrown ball fly in a curve?  
    Options: It keeps moving forward while gravity pulls it down / The air lifts it up and then drops it / It goes straight until its push runs out, then drops  
    **Answer:** It keeps moving forward while gravity pulls it down. *Why:* The ball keeps going forward from the throw, while gravity pulls it down from the very start. Together these make a curve. 'Straight until its push runs out' is the old idea that Tartaglia and Galileo showed was wrong.
 7. (mcq) You roll a marble off a table, first slowly and then fast. Where does the fast one land?  
-   Options: Further from the table / Closer to the table / In the same place  
+   Options: Closer to the table / In the same place / Further from the table  
    **Answer:** Further from the table. *Why:* Both take the same short time to fall to the floor. The fast one goes further forward in that time.
 8. (mcq) A footballer wants to make the ball curve round a wall of players. Where should the footballer kick it?  
    Options: On its side, so it spins / Right through its middle / On the very top  
    **Answer:** On its side, so it spins. *Why:* A kick to one side of the middle makes the ball spin. A spinning ball pushes air to one side, and the air pushes the ball the other way, so it curves. A kick through the middle sends it straight.
 9. (mcq) What is the name for the way a spinning ball curves in the air?  
-   Options: The Magnus effect / Gravity / Friction  
+   Options: Gravity / The Magnus effect / Friction  
    **Answer:** The Magnus effect. *Why:* It is named after Heinrich Gustav Magnus, who studied it in 1852. Gravity pulls the ball down, but it doesn't make it curve sideways.
 10. (mcq) Why do you jump further when you swing your arms forward?  
-   Options: Your arms add forward speed and help your legs push longer / Your arms make you lighter / Swinging your arms makes the floor bouncier  
+   Options: Your arms make you lighter / Swinging your arms makes the floor bouncier / Your arms add forward speed and help your legs push longer  
    **Answer:** Your arms add forward speed and help your legs push longer. *Why:* Your swinging arms gain forward speed, and your body carries it into the air. The swing also keeps your legs pushing on the floor a little longer. Your weight does not change.
 11. (mcq) Why does a cricketer pull their hands back when catching?  
-   Options: The ball slows down over a longer time, so the force is smaller / To throw it back faster / So the ball bounces out  
+   Options: To throw it back faster / The ball slows down over a longer time, so the force is smaller / So the ball bounces out  
    **Answer:** The ball slows down over a longer time, so the force is smaller. *Why:* Moving the hands back makes the stop take longer, so the push on the hands is smaller. The catch stings less and the ball is less likely to bounce out.
 12. (mcq) You throw a ball far across a field. Which part of its path is really straight?  
-   Options: No part of it, because gravity pulls it down all the time / All of it, in a straight line / The first part, then it drops straight down  
+   Options: All of it, in a straight line / No part of it, because gravity pulls it down all the time / The first part, then it drops straight down  
    **Answer:** No part of it, because gravity pulls it down all the time. *Why:* Gravity pulls the ball down from the moment it leaves your hand, while it also moves forward. So the path bends all the way, in a smooth curve. 'Straight, then drops straight down' is a very old idea that turned out wrong.
 
 ## Applications

@@ -760,11 +760,11 @@
       "t": "mcq",
       "q": "Which is the smallest?",
       "options": [
+       "The hydrogen atom",
        "The one-rupee coin",
-       "The mustard seed",
-       "The hydrogen atom"
+       "The mustard seed"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A hydrogen atom is about one ten-millionth of a millimetre across. A mustard seed is about 1 millimetre. So about 10 million atoms would fit across one mustard seed. Picking the mustard seed usually means thinking that the smallest thing we can see is the smallest thing there is."
      }
     },
@@ -797,10 +797,10 @@
       "q": "What does the electron card say about its size?",
       "options": [
        "It is about the size of a grain of salt",
-       "Nobody has found any size at all",
-       "It is bigger than an atom"
+       "It is bigger than an atom",
+       "Nobody has found any size at all"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Experiments have looked very hard. No size has ever been found for an electron. It may be a point, or a ripple, or something we have no word for yet. Picking 'bigger than an atom' usually means thinking of electrons as balls going round outside the atom. Electrons are part of the atom, and far smaller."
      }
     }
@@ -906,11 +906,11 @@
       "t": "mcq",
       "q": "After 20 measurements, what do the seeds show?",
       "options": [
-       "Exactly where the electron will be next time",
        "Where the electron is likely to be found: a cloud, thick near the middle",
+       "Exactly where the electron will be next time",
        "The track the electron goes round on"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Each seed is one measurement. Together they show where the electron is likely and unlikely to be. They cannot tell you the next spot. Picking 'the track' usually comes from the old planet picture of the atom. Real electrons have no track, only a cloud of chances."
      }
     },
@@ -1048,23 +1048,23 @@
      "t": "mcq",
      "p": "If one atom were as big as the Chepauk cricket stadium in Chennai, how big would its nucleus be?",
      "opts": [
-      "About as big as a peppercorn on the pitch",
       "About as big as a cricket ball",
+      "About as big as a peppercorn on the pitch",
       "About as big as the pitch",
       "About as big as the whole stadium"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The nucleus is tens of thousands of times smaller across than the atom. In a stadium-sized atom, it would be a peppercorn. Most people guess a cricket ball, and even that is far too big. This shows how empty an atom is."
     },
     {
      "t": "mcq",
      "p": "An old school book shows an atom as a big ball in the middle, with electrons the same size going round it on neat rings. What is wrong with the picture?",
      "opts": [
-      "The nucleus should be far, far smaller, and the electrons should be drawn as a cloud, not as balls on rings",
       "Nothing. It is a correct picture",
-      "The electrons should be inside the nucleus"
+      "The electrons should be inside the nucleus",
+      "The nucleus should be far, far smaller, and the electrons should be drawn as a cloud, not as balls on rings"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a real atom, the nucleus is tiny compared with the atom. Electrons do not travel on tracks. Scientists can only say where an electron is likely to be found, so they draw a cloud. The ring picture is from 1913 and is still in many books."
     },
     {
@@ -1100,11 +1100,11 @@
      "t": "mcq",
      "p": "In the Pencil Dots activity, you close your eyes and try to dot a target 50 times. Most dots land near the target, and fewer further out. How is the dot picture like the way scientists draw an electron?",
      "opts": [
-      "Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be",
       "Each dot is a real electron",
+      "Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be",
       "The dots show that electrons are soft and fluffy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Scientists cannot follow an electron along a path. They can only say how likely it is to be found in each place. Many findings together make a cloud, thick where the electron is often found and thin where it is rarely found.",
      "context": "This question is about the pencil-dot activity. You close your eyes and try to dot a target 50 times, then look at where the dots landed.",
      "how": "a1"
@@ -1179,12 +1179,12 @@
      "t": "mcq",
      "p": "You put one drop of food colour into a glass of hot water and one drop into a glass of ice-cold water, at the same moment. You do not stir. What will you see after five minutes?",
      "opts": [
-      "The colour has spread much further in the hot water",
       "The colour has spread much further in the cold water",
+      "The colour has spread much further in the hot water",
       "The colour has not spread in either glass, because nobody stirred",
       "Both glasses look the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water molecules are always moving, and in hot water they move faster. They knock the colour around and spread it. Many people think colour only spreads if you stir, but the test shows it spreads with nobody stirring.",
      "context": "This question is about the colour test. You put one drop of food colour into a glass of hot water and a glass of cold water, without stirring.",
      "how": "e3"
@@ -1202,11 +1202,11 @@
      "t": "mcq",
      "p": "In 1827, Robert Brown, a Scottish scientist, saw tiny specks from pollen jiggling in water under his microscope. At first he wondered if they were alive. Then he saw specks of crushed glass jiggle in just the same way. What did that tell him?",
      "opts": [
-      "The jiggling was not caused by life. Something in the water was knocking the specks about",
       "Glass is alive",
-      "His microscope was shaking"
+      "His microscope was shaking",
+      "The jiggling was not caused by life. Something in the water was knocking the specks about"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Crushed glass is not alive, so life could not explain the jiggling. In 1905, Albert Einstein explained it: invisible water molecules keep bumping the specks from all sides. This jiggling is called Brownian motion."
     },
     {
@@ -1259,11 +1259,11 @@
      "t": "mcq",
      "p": "A pot of rasam boils over onto the gas flame, and the flame flashes bright yellow. Why?",
      "opts": [
-      "Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light",
       "The salt is burning like wood",
-      "Rasam is yellow, so the flame turns yellow"
+      "Rasam is yellow, so the flame turns yellow",
+      "Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The salt in rasam is made of sodium and chlorine. Heat lifts the sodium atoms' electrons up an energy step, and when each one drops back, it gives out light of one exact colour: yellow. Street lamps that glow orange-yellow use the same atoms.",
      "context": "This question is about the salt-flame activity, where a grown-up sprinkles a pinch of salt on a gas flame.",
      "how": "a6"
@@ -1316,11 +1316,11 @@
      "t": "mcq",
      "p": "How do scientists make pictures of single atoms today?",
      "opts": [
-      "A super-sharp needle tip feels the surface, bump by bump",
       "With a very strong magnifying glass",
-      "With X-ray glasses"
+      "With X-ray glasses",
+      "A super-sharp needle tip feels the surface, bump by bump"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The scanning tunnelling microscope, built in 1981 by Gerd Binnig and Heinrich Rohrer, feels a surface with a tip only one atom wide. A computer turns the bumps into a picture. Light cannot show single atoms, because light waves are much bigger than atoms."
     },
     {
@@ -1383,12 +1383,12 @@
      "t": "mcq",
      "p": "If all the empty space were squeezed out of the atoms of every person on Earth, how big would all of humanity be?",
      "opts": [
-      "About the size of a sugar cube",
       "About the size of a house",
       "About the size of India",
+      "About the size of a sugar cube",
       "Exactly the same size"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube. It would still weigh about 500 million tonnes. Picking 'a house' is already a huge squeeze, but not nearly enough."
     },
     {
@@ -1404,11 +1404,11 @@
      "t": "mcq",
      "p": "Someone says, \"One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once.\" What would a physicist say?",
      "opts": [
-      "No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed",
       "That is right. Our tools just need to get better",
-      "Electrons are invisible, so we can never measure them at all"
+      "Electrons are invisible, so we can never measure them at all",
+      "No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but never both their exact place and their exact speed at once. Physicists still argue about what this means the electron is really like."
     },
     {
@@ -1490,11 +1490,11 @@
      "t": "mcq",
      "p": "Light waves are thousands of times longer than an atom is wide. What does this tell you about seeing an atom with light?",
      "opts": [
-      "Light waves are too big to show the shape of a single atom, so no light microscope can show one",
       "With a brighter light, you could see one",
-      "Atoms are dark, so light cannot find them"
+      "Atoms are dark, so light cannot find them",
+      "Light waves are too big to show the shape of a single atom, so no light microscope can show one"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To show the shape of something, light waves must be smaller than it. Atoms are far smaller than light waves, so even the best light microscope cannot show one. That is why scientists use needle-tip microscopes instead."
     },
     {
@@ -1955,11 +1955,11 @@
       "t": "mcq",
       "q": "Why did the colour spread faster in the hot water?",
       "options": [
-       "Hot water moves more: it swirls as warm water rises, and its molecules move faster",
        "Hot water is thinner",
+       "Hot water moves more: it swirls as warm water rises, and its molecules move faster",
        "The drop fell harder into the hot glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Hot water stirs itself: warm water rises and cooler water sinks, which is called convection. Its molecules also move faster, so they bump the colour around faster. Picking 'hot water is thinner' is a sensible guess, because hot water does flow a little more easily. Picking 'the drop fell harder' misses that both drops fell from the same height."
      }
     }
@@ -2068,10 +2068,10 @@
       "q": "Could you have said exactly where your next dot would land?",
       "options": [
        "Yes, exactly",
-       "No, only that it would probably be near the target",
-       "No, it could be anywhere with the same chance"
+       "No, it could be anywhere with the same chance",
+       "No, only that it would probably be near the target"
       ],
-      "a": 1,
+      "a": 2,
       "why": "You could say the dot would probably be near the target, but not exactly where. That is how scientists treat an electron. They know the chances of each place, never the next spot for sure. Picking 'anywhere with the same chance' misses that the dots were thickest near the target."
      },
      "think": "Your dots were spread out because your hand wobbled. An electron's cloud is not caused by wobbling. In quantum physics, the chance is part of nature itself. Does that seem strange to you?"
@@ -2256,11 +2256,11 @@
       "t": "mcq",
       "q": "Why are salt grains shaped like little cubes?",
       "options": [
-       "Their atoms are stacked in neat, square rows",
        "The factory cuts them into cubes",
+       "Their atoms are stacked in neat, square rows",
        "They were squashed in the packet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Salt is made of two kinds of atom, sodium and chlorine. They stack in a neat, square pattern, so the grains grow as cubes. Picking 'the factory cuts them' is a fair guess, because packets are made in factories. But salt crystals from the sea grow as cubes all by themselves."
      },
      "parent": "The cubes are easiest to see in coarse salt, such as khada namak or sea salt. In fine packet salt, many grains are tiny or broken."
@@ -2343,11 +2343,11 @@
       "t": "mcq",
       "q": "Atoms are almost all empty space. Why doesn't your hand sink into the table?",
       "options": [
-       "Electrons in your hand and the table push each other away",
        "The table is packed solid with no gaps",
-       "Gravity holds your hand up"
+       "Gravity holds your hand up",
+       "Electrons in your hand and the table push each other away"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Electrons all have a minus charge, and two minus charges repel. So your hand's electrons and the table's electrons push apart, very strongly. A quantum rule also stops electrons squeezing together. Picking 'packed solid' is the old idea of atoms as hard balls. Picking 'gravity' mixes things up, because gravity pulls your hand down, not up."
      }
     }
@@ -2422,11 +2422,11 @@
       "t": "mcq",
       "q": "What reached your nose?",
       "options": [
-       "Molecules from the orange, too small to see",
        "Nothing, a smell is not a thing",
-       "Light from the orange"
+       "Light from the orange",
+       "Molecules from the orange, too small to see"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A smell is tiny molecules that float off the orange into the air. When some reach your nose, you smell them. Picking 'nothing' is a common idea, because a smell is invisible. But you can only smell something when its molecules arrive. Moving air carried most of them to you."
      },
      "think": "Right now, molecules from many things around you are floating in the air. What else might you be breathing in?"
@@ -2505,11 +2505,11 @@
       "t": "mcq",
       "q": "Why does salt make the flame yellow?",
       "options": [
-       "Electrons in its sodium atoms jump down one step and give out yellow light",
        "Salt burns like wood",
+       "Electrons in its sodium atoms jump down one step and give out yellow light",
        "Salt is yellow inside"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The heat lifts electrons in the sodium atoms up an energy step. When they drop back down, each gives out a tiny flash of light of one exact colour: yellow. Picking 'salt burns like wood' is a sensible guess about flames. But the salt is not burning. Its atoms are glowing."
      },
      "think": "Astronomers see these same colours in starlight, and that is how they know what stars are made of. Meghnad Saha, an Indian scientist, worked out in 1920 how to read star temperatures from them."
@@ -2778,11 +2778,11 @@
       "t": "mcq",
       "q": "A letter is 2 millimetres tall. About 5 million atoms fit across 1 millimetre. About how many atoms tall is the letter?",
       "options": [
-       "About 10 million",
        "About 7",
-       "About 2"
+       "About 2",
+       "About 10 million"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each millimetre is about 5 million atoms. Two millimetres is 5 million plus 5 million, which is about 10 million. Picking 2 or 7 usually means mixing up millimetres and atoms. Atoms are far, far smaller."
      },
      "think": "The scientists' letters were only a few atoms tall. What could you build if you could move single atoms?"
@@ -2835,12 +2835,12 @@
    "t": "mcq",
    "p": "What is everything made of?",
    "opts": [
-    "Atoms",
     "Only what we can see",
+    "Atoms",
     "Light",
     "Nothing"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "All matter, including air and you, is made of atoms. Picking 'only what we can see' is natural, because atoms are invisible. Light is not made of atoms, so it cannot be what everything is made of."
   },
@@ -2848,11 +2848,11 @@
    "t": "mcq",
    "p": "Can you see one atom with a magnifying glass?",
    "opts": [
-    "Yes, easily",
     "No, atoms are far too small",
+    "Yes, easily",
     "Only in sunlight"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 0,
    "why": "An atom is about one ten-millionth of a millimetre across. A magnifying glass only makes things a few times bigger. Picking 'only in sunlight' is a guess that more light helps. It doesn't, because light waves are thousands of times longer than an atom is wide."
   },
@@ -2860,11 +2860,11 @@
    "t": "mcq",
    "p": "Which is the smallest?",
    "opts": [
+    "An atom",
     "A grain of salt",
-    "A virus",
-    "An atom"
+    "A virus"
    ],
-   "a": 2,
+   "a": 0,
    "outcome": 1,
    "why": "A virus is about a thousand times bigger across than an atom, and a grain of salt is far bigger again. Picking 'a virus' usually means thinking that germs are the smallest things there are."
   },
@@ -2884,11 +2884,11 @@
    "t": "mcq",
    "p": "Which part of an atom is by far the lightest?",
    "opts": [
-    "The electron",
     "The proton",
+    "The electron",
     "The neutron"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A proton or a neutron is about 1,800 times heavier than an electron. So nearly all of an atom's weight is in the nucleus. Many pictures draw electrons big, but they are very light.",
    "outcome": 2
   },
@@ -2908,11 +2908,11 @@
    "t": "mcq",
    "p": "Why did Ernest Rutherford decide that the nucleus must be very heavy?",
    "opts": [
-    "It could throw a fast alpha particle straight back",
     "Gold is a heavy metal",
-    "It was big enough to see"
+    "It was big enough to see",
+    "It could throw a fast alpha particle straight back"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fast, heavy alpha particle can only be thrown straight back by something heavier and packed tight. A light thing would simply be knocked out of the way. Nobody could see the nucleus, so the bounce was the evidence.",
    "outcome": 3
   },
@@ -2920,11 +2920,11 @@
    "t": "mcq",
    "p": "How do electrons move in an atom?",
    "opts": [
-    "Round and round on tracks, like planets",
     "We can only say where they are likely to be found, like a cloud",
+    "Round and round on tracks, like planets",
     "They sit still on the nucleus"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 4,
    "why": "Quantum physics gives the chances of finding an electron in each place, so scientists draw a cloud. Picking 'like planets' is the old 1913 picture that is still in many books and logos."
   },
@@ -2932,11 +2932,11 @@
    "t": "mcq",
    "p": "Why do scientists draw an electron as a cloud, and not as a dot?",
    "opts": [
-    "They can only say how likely the electron is to be found in each place",
     "Electrons are made of mist",
-    "Electrons are too big to draw as a dot"
+    "Electrons are too big to draw as a dot",
+    "They can only say how likely the electron is to be found in each place"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An electron does not follow a path that anyone can trace. Scientists can only work out the chances of finding it in each place. The cloud is a picture of those chances: thick where it is often found, thin where it is rarely found.",
    "outcome": 4
   },
@@ -2944,11 +2944,11 @@
    "t": "mcq",
    "p": "In physics, what can be an 'observer'?",
    "opts": [
-    "Anything that measures, like a detector or a beam of light",
     "Only a person",
-    "Only a scientist with a notebook"
+    "Only a scientist with a notebook",
+    "Anything that measures, like a detector or a beam of light"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Anything that a particle bumps into can measure it. No person is needed. Picking 'only a person' comes from the everyday meaning of the word. Experiments work the same with no person in the room."
   },
@@ -2956,11 +2956,11 @@
    "t": "mcq",
    "p": "Which of these is a way the very small behaves differently from a cricket ball?",
    "opts": [
-    "An electron in an atom can only have certain amounts of energy, never amounts in between",
     "An electron falls when you drop it",
+    "An electron in an atom can only have certain amounts of energy, never amounts in between",
     "An electron can be caught in a hand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cricket ball can roll at any speed and stop anywhere. An electron in an atom can only have certain amounts of energy, like standing on steps. The very small follows rules that the things we see do not.",
    "outcome": 5
   },
@@ -2968,11 +2968,11 @@
    "t": "mcq",
    "p": "Which of these is evidence that atoms are real?",
    "opts": [
-    "Scientists can make pictures of single atoms with needle-tip microscopes",
     "Atoms are written about in old books",
-    "Many people believe in atoms"
+    "Many people believe in atoms",
+    "Scientists can make pictures of single atoms with needle-tip microscopes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Evidence is something that can be tested or seen. Pictures of single atoms, and the way tiny specks jiggle in water, are evidence. Old books and many believers are not, because people can believe things that are wrong.",
    "outcome": 6
   },

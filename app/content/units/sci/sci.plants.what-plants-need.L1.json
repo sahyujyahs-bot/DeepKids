@@ -328,11 +328,11 @@
       "t": "mcq",
       "q": "Which one does a plant need?",
       "options": [
-       "Biscuits",
        "Light",
+       "Biscuits",
        "Milk"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A plant needs light to make their own food. Biscuits and milk are food for humans and other animals, not for plants."
      }
     }
@@ -817,11 +817,11 @@
       "t": "mcq",
       "q": "Which cabbage leaves got the most light while the cabbage grew?",
       "options": [
-       "The outside leaves",
        "The leaves in the middle",
-       "All the same"
+       "All the same",
+       "The outside leaves"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The outside leaves covered the others, so they got the light. The leaves in the middle sat in the dark, wrapped up, and stayed pale."
      },
      "parent": "Cook the cabbage afterwards. Nothing goes to waste."
@@ -1113,11 +1113,11 @@
      "t": "mcq",
      "p": "In Three Plates of Methi, what came out of the wet seeds on plate 2 on day 2?",
      "opts": [
-      "Tiny white roots",
       "Green leaves",
+      "Tiny white roots",
       "Flowers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wet seeds soak up water, swell and put out a tiny white root first. The leaves come later.",
      "how": "e1"
     },
@@ -1230,11 +1230,11 @@
      "t": "mcq",
      "p": "You put methi seeds on wet tissue under a clear glass bowl. What colour will the sprouts be?",
      "opts": [
-      "Green",
       "Yellow",
+      "Green",
       "No sprouts at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Light goes through clear glass, so the sprouts still get light. They will be green."
     },
     {
@@ -1394,11 +1394,11 @@
    "t": "mcq",
    "p": "What do plants need to grow?",
    "opts": [
-    "Light and water",
     "Sweets and toys",
-    "Milk and biscuits"
+    "Milk and biscuits",
+    "Light and water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants need light and water. They make their own food, so they do not need sweets or milk.",
    "outcome": 0
   },
@@ -1407,10 +1407,10 @@
    "p": "Methi seeds sat on a dry plate for two days. What happened?",
    "opts": [
     "They sprouted",
-    "Nothing, they stayed dry seeds",
-    "They turned green"
+    "They turned green",
+    "Nothing, they stayed dry seeds"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Seeds need water to sprout. Dry seeds stay as they are.",
    "outcome": 0,
    "how": "e1"
@@ -1420,10 +1420,10 @@
    "p": "Methi sprouts grew under an upturned steel bowl. What did they look like?",
    "opts": [
     "Short and green",
-    "Tall, thin and yellow",
-    "Blue"
+    "Blue",
+    "Tall, thin and yellow"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In the dark, methi sprouts come up yellow, tall and thin.",
    "outcome": 1,
    "how": "e1"
@@ -1432,11 +1432,11 @@
    "t": "mcq",
    "p": "Yellow methi sprouts from under the bowl were put on the windowsill for a day. What happened?",
    "opts": [
-    "They turned green",
     "They turned red",
+    "They turned green",
     "They stayed yellow for ever"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the light, the methi made their green. Most sprouts turn green within a day.",
    "outcome": 2,
    "how": "e1"
@@ -1445,11 +1445,11 @@
    "t": "mcq",
    "p": "What made the green colour in the methi leaves?",
    "opts": [
-    "The water",
     "The methi plant",
+    "The water",
     "The steel plate"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The plant makes their own green, when they sense light.",
    "outcome": 2
   },
@@ -1457,11 +1457,11 @@
    "t": "mcq",
    "p": "Where do plants make their food?",
    "opts": [
-    "In their green leaves",
     "In the soil",
-    "In the kitchen"
+    "In the kitchen",
+    "In their green leaves"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants make food in their green leaves, using light, air and water. Many people think plants eat soil, but the roots only take in water and minerals.",
    "outcome": 2
   },
@@ -1469,11 +1469,11 @@
    "t": "mcq",
    "p": "A plant has droopy leaves and dry soil. What does the plant need?",
    "opts": [
-    "Water",
     "Darkness",
-    "A new pot"
+    "A new pot",
+    "Water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Droopy leaves and dry soil mean the plant is short of water.",
    "outcome": 3
   },
@@ -1481,10 +1481,10 @@
    "t": "mcq",
    "p": "Is a soggy pot that never dries good for a plant?",
    "opts": [
-    "Yes, more water is always better",
-    "No, roots need air too"
+    "No, roots need air too",
+    "Yes, more water is always better"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Roots that sit in soggy soil for days cannot get air and can rot. Damp soil is just right.",
    "outcome": 3
   },
@@ -1492,11 +1492,11 @@
    "t": "mcq",
    "p": "In Three Plates of Methi, what did a good scientist do before lifting the bowl?",
    "opts": [
-    "Guessed what would happen, and said why",
     "Threw the seeds away",
-    "Painted the sprouts"
+    "Painted the sprouts",
+    "Guessed what would happen, and said why"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Scientists guess first, then look carefully, then say what they saw.",
    "outcome": 4
   },
@@ -1504,11 +1504,11 @@
    "t": "mcq",
    "p": "Two plates of methi seeds got the same water. One was under a bowl and one was in the light. Why did both get the same water?",
    "opts": [
-    "So that light was the only difference",
     "Because we had extra water",
+    "So that light was the only difference",
     "So the bowl would float"
    ],
-   "a": 0,
+   "a": 1,
    "why": "When only one thing is different, we know that thing made the change. Here, the only difference was light.",
    "outcome": 4,
    "how": "e1"

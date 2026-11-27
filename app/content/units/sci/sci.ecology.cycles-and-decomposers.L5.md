@@ -581,7 +581,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 ## Worksheets
 ### The Two Cycles (core) (core, 16 questions)
 1. (mcq) Where does most of the dry weight of a tree come from?  
-   Options: The soil / Water only / Carbon dioxide in the air / Sunlight  
+   Options: The soil / Water only / Sunlight / Carbon dioxide in the air  
    **Answer:** Carbon dioxide in the air. *Why:* A leaf takes carbon dioxide from the air and builds sugar, and the tree builds wood from sugar. Soil gives water and minerals, which are a small part of the weight. Sunlight gives energy, and energy has no weight to add.
 2. (truefalse) True or false: when a log rots, the atoms of the log are destroyed.  
    **Answer:** False. *Why:* False. Decomposers take the log apart. The atoms move into the air, the soil and the decomposers' own bodies. No atom is destroyed.
@@ -601,7 +601,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Groundnut / Black gram / Rice / Beans  
    **Answer:** 2. *Why:* Rice is a grass. Groundnut, black gram and beans are of the bean family, and keep nitrogen-fixing bacteria in their root nodules.
 10. (mcq) Why can a paddy plant not use the nitrogen in the air?  
-   Options: The air has too little nitrogen / Nitrogen atoms are held in tight pairs / Nitrogen gas poisons plants / Paddy leaves have no holes  
+   Options: Nitrogen atoms are held in tight pairs / The air has too little nitrogen / Nitrogen gas poisons plants / Paddy leaves have no holes  
    **Answer:** Nitrogen atoms are held in tight pairs. *Why:* The air is mostly nitrogen, so there is plenty. But each nitrogen atom is joined very strongly to a partner, and a plant has no enzyme to split them.
 11. (truefalse) True or false: about 78 of every 100 particles of air are nitrogen.  
    **Answer:** True. *Why:* True. Most of the air is nitrogen gas. Oxygen is about 21 of every 100, and carbon dioxide is far less than 1.
@@ -654,7 +654,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 1. (write) Peas in clean sand grew well only when soil water was added. Why was boiled soil water tested too?  
    **Answer:** Boiling kills the bacteria in the soil water and leaves everything else in it. The peas given boiled soil water grew badly and made no nodules. So the living bacteria made the difference, and not something dissolved in the water.. *Why:* A strong answer says that the two pots differed in only one thing, living bacteria. That is what makes the test fair.
 2. (mcq) The air's carbon dioxide went from 317 parts in a million to 427. About how much did it rise?  
-   Options: By about a tenth / By about a third / It doubled / It halved  
+   Options: By about a tenth / It doubled / By about a third / It halved  
    **Answer:** By about a third. *Why:* The rise is 427 − 317 = 110. One third of 317 is about 106. So the amount rose by about a third in 65 years.
 3. (perspective) Do living beings keep the Earth's air steady? Two scientists disagree.  
    **Answer:** A strong answer gives evidence for each. For the first: living beings made the oxygen in the air, and forests take up part of the extra carbon dioxide. For the second: long ago, bacteria filled the air with oxygen that poisoned many others, and today one kind of animal is changing the air fast.. *Why:* Both agree that living beings shape the air. They disagree about whether anything holds it steady. Scientists still argue about this.
@@ -674,7 +674,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Rain washing nitrate away / Taking the harvested grain away / Bacteria in the nodules of a dal crop / Denitrifying bacteria in wet mud  
    **Answer:** 2. *Why:* Bacteria in root nodules bring new nitrogen in from the air. The other three carry nitrogen out of the field.
 11. (mcq) Why is urea in India coated with neem oil?  
-   Options: To slow bacteria who make nitrate / To give it a better smell / To add more nitrogen / To make it dissolve faster  
+   Options: To give it a better smell / To slow bacteria who make nitrate / To add more nitrogen / To make it dissolve faster  
    **Answer:** To slow bacteria who make nitrate. *Why:* Nitrate is easily washed away. Neem slows the soil bacteria who make nitrate, so the nitrogen stays near the roots for longer.
 12. (write) In Carbon Journey, a six lets you leave the rock. What does the game get wrong about real rock?  
    **Answer:** In the game you leave the rock after a few throws. A real carbon atom can stay in rock for millions of years, far longer than in any other store. The game shows which stores are slow, but it cannot show how slow.. *Why:* A strong answer says what the model shows well and what it leaves out. Every model leaves something out.
@@ -683,7 +683,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
 14. (truefalse) True or false: a planted tree locks carbon away for millions of years, as coal does.  
    **Answer:** False. *Why:* False. A tree holds carbon for decades or a few centuries. When the tree rots or burns, the carbon goes back to the air.
 15. (mcq) Which is true of the cells in the body of a 40-year-old person?  
-   Options: Most are much younger than 40 / All are exactly 40 years old / All are replaced every day / None contain any carbon  
+   Options: All are exactly 40 years old / All are replaced every day / Most are much younger than 40 / None contain any carbon  
    **Answer:** Most are much younger than 40. *Why:* The body is rebuilt all the time with atoms from food. Most cells are replaced within years. A few kinds, such as some nerve cells, last a lifetime.
 
 ## Videos
@@ -693,13 +693,13 @@ In the last week of February she went out alone with the weeding blade. The kiln
 
 ## Quiz
 1. (mcq) A mango leaf falls and rots away. What happens to the atoms of the leaf?  
-   Options: They are destroyed / They move into air, soil and living beings / They turn into energy / They stay in the leaf for ever  
+   Options: They are destroyed / They turn into energy / They stay in the leaf for ever / They move into air, soil and living beings  
    **Answer:** They move into air, soil and living beings. *Why:* Decomposers take the leaf apart. The carbon goes mostly to the air as carbon dioxide, and the nitrogen goes to the soil. Atoms are not destroyed and do not turn into energy when something rots.
 2. (mcq) Which of these takes carbon out of the air?  
-   Options: A rotting log / A goat breathing / A neem tree in sunlight / A burning lamp  
+   Options: A rotting log / A neem tree in sunlight / A goat breathing / A burning lamp  
    **Answer:** A neem tree in sunlight. *Why:* Only photosynthesis takes carbon dioxide out of the air. Rotting, breathing and burning all put carbon dioxide in.
 3. (mcq) Coal is burnt at a power station. Where was its carbon before the coal formed?  
-   Options: It was always underground / In ancient plants, and earlier in the air / Only in sea water / Inside volcanoes  
+   Options: In ancient plants, and earlier in the air / It was always underground / Only in sea water / Inside volcanoes  
    **Answer:** In ancient plants, and earlier in the air. *Why:* Coal formed from plants buried hundreds of millions of years ago. Those plants took their carbon from the air by photosynthesis. Burning coal puts that old carbon back in the air.
 4. (mcq) Air is mostly nitrogen. Why do crops still go short of nitrogen?  
    Options: Plants cannot split the paired nitrogen atoms / Nitrogen gas is too heavy to reach leaves / The air has nitrogen only at night / Crops do not need nitrogen  
@@ -711,22 +711,22 @@ In the last week of February she went out alone with the weeding blade. The kiln
    Options: Decomposers and other soil bacteria / The Sun / The cow / The rain  
    **Answer:** Decomposers and other soil bacteria. *Why:* Soil microbes change the nitrogen in urine and dung into ammonium and nitrate, which roots can take up. Rain only moves the nitrogen. It does not change its form.
 7. (mcq) In waterlogged soil, bacteria change nitrate into nitrogen gas. Where does that nitrogen go?  
-   Options: Back into the air / Into rocks / Into plant roots / It is destroyed  
+   Options: Into rocks / Into plant roots / It is destroyed / Back into the air  
    **Answer:** Back into the air. *Why:* Denitrifying bacteria give off nitrogen gas, which goes back to the air. This closes the nitrogen cycle. Plant roots cannot take up nitrogen gas.
 8. (mcq) Which mix makes compost quickly, without a bad smell?  
-   Options: Only dry leaves / Only wet peels / About two parts browns to one part greens / Only soil  
+   Options: Only dry leaves / Only wet peels / Only soil / About two parts browns to one part greens  
    **Answer:** About two parts browns to one part greens. *Why:* Decomposers need carbon and nitrogen together, with air and water. Dry leaves alone have too little nitrogen. Wet peels alone pack down, lose their air and smell.
 9. (mcq) A heap of only fresh grass smells sharp, like ammonia. What is leaving the heap?  
-   Options: Carbon, as coal / Nitrogen, as a gas / Only water / Nothing is leaving  
+   Options: Nitrogen, as a gas / Carbon, as coal / Only water / Nothing is leaving  
    **Answer:** Nitrogen, as a gas. *Why:* Ammonia is a gas of nitrogen and hydrogen. Fresh grass has more nitrogen than the decomposers can use, and the spare nitrogen escapes. Adding browns keeps it in the heap.
 10. (mcq) Carbon dioxide in the air has risen since 1960. What is the main cause?  
-   Options: Burning coal, oil and gas / More people breathing out / More volcanoes / The Sun growing hotter  
+   Options: More people breathing out / More volcanoes / The Sun growing hotter / Burning coal, oil and gas  
    **Answer:** Burning coal, oil and gas. *Why:* Fossil fuels hold carbon that was out of the air for millions of years. Breath only returns carbon that plants took out a few months before, so it adds nothing new.
 11. (mcq) Rain washes spare nitrogen fertiliser from fields into a lake. What can follow?  
    Options: Algae multiply, and later fish may die / The water becomes salty / The lake dries up / Nothing changes in the lake  
    **Answer:** Algae multiply, and later fish may die. *Why:* The nitrogen feeds algae, and the water turns green. When the algae die, decomposers eating them use up the oxygen in the water, and fish can die.
 12. (mcq) Which of these is a flow, not a store?  
-   Options: The carbon in a coal seam / The nitrogen in the air / A leaf taking in carbon dioxide / The carbon dissolved in the sea  
+   Options: The carbon in a coal seam / The nitrogen in the air / The carbon dissolved in the sea / A leaf taking in carbon dioxide  
    **Answer:** A leaf taking in carbon dioxide. *Why:* A store is an amount that stays somewhere. A flow is a movement between stores. A leaf taking in carbon dioxide moves carbon from the air into the plant.
 13. (mcq) Air around Earth is a mix of gases. Which gas makes up the largest share?  
    Options: Nitrogen / Carbon dioxide / Oxygen / Steam  

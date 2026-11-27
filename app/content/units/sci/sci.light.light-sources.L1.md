@@ -400,10 +400,10 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 8. (truefalse) The Sun is a star, and it is a light source.  
    **Answer:** True. *Why:* True. The Sun is a huge ball of very hot gas that makes its own light. It is the star nearest to us.
 9. (mcq) Someone says a shiny steel tumbler is a lamp, because it shines. What is the best way to test this?  
-   Options: Take it into a dark room and see if it still shines / Look at it in a sunny room / Ask it to shine  
+   Options: Look at it in a sunny room / Take it into a dark room and see if it still shines / Ask it to shine  
    **Answer:** Take it into a dark room and see if it still shines. *Why:* A light source can be seen in the dark. A tumbler only shines when light falls on it, so in a dark room it vanishes. It makes no light of its own.
 10. (mcq) Which of these gives heat as well as light?  
-   Options: A lit candle / A steel spoon / A mirror  
+   Options: A steel spoon / A mirror / A lit candle  
    **Answer:** A lit candle. *Why:* A flame makes heat and light. The spoon and the mirror make neither.
 ### Light Makers (stretch) (stretch, 10 questions)
 1. (order) Put these in order, 1 to 4: what happened in the dark room?  
@@ -415,7 +415,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 4. (perspective) It is Karthigai Deepam. Two friends talk about how to light up their balcony.  
    **Answer:** Either choice, with a good reason. Diyas need no electricity and use oil from plants, but they have flames and make smoke. LED lights are safe and use little electricity, but they need power from the wires.. *Why:* A strong answer gives a reason, and fairly names something good about the other choice. Both are real light sources. Each needs something different to keep shining.
 5. (mcq) Which light source do we never need to switch on or fill up?  
-   Options: The Sun / A torch / A tube light  
+   Options: A torch / The Sun / A tube light  
    **Answer:** The Sun. *Why:* The Sun makes its own light all the time. Nobody needs to switch it on, fill it with oil or put cells in it.
 6. (match) Draw a line from each light source to where you would find it.  
    **Answer:** A lighthouse → By the sea, to guide ships; A street light → Beside a road; A firefly → Among trees, at night; Lightning → In a storm cloud. *Why:* Light sources are found in many places. Some are made by people, like lighthouses and street lights. Some are made by nature, like lightning, and some are living beings, like fireflies.
@@ -427,7 +427,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
    Options: At night, using the energy it stored in the day / Only while the sun shines on it / Never  
    **Answer:** At night, using the energy it stored in the day. *Why:* A solar lamp stores energy from sunlight in the day, and uses it to make light at night.
 10. (mcq) Two torches are the same, but one has weak cells and one has fresh cells. Which one lights the far wall better?  
-   Options: The one with fresh cells / The one with weak cells / Both the same  
+   Options: The one with weak cells / Both the same / The one with fresh cells  
    **Answer:** The one with fresh cells. *Why:* A torch makes light from the energy in its cells. Weak cells give less light, so the far wall looks dim.
 
 ## Videos
@@ -440,31 +440,31 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
    Options: A thing that makes its own light / Any thing that looks bright / A thing you can see through  
    **Answer:** A thing that makes its own light. *Why:* A light source makes its own light, like the Sun or a lit diya. A shiny thing that only looks bright is not a light source.
 2. (mcq) Which of these is a light source?  
-   Options: A lit candle / A steel plate / A mirror  
+   Options: A steel plate / A mirror / A lit candle  
    **Answer:** A lit candle. *Why:* A lit candle makes its own light. The steel plate and the mirror only shine with light from somewhere else.
 3. (mcq) Which light source is alive?  
-   Options: A firefly / A torch / A tube light  
+   Options: A torch / A firefly / A tube light  
    **Answer:** A firefly. *Why:* A firefly is a living being who makes their own light inside their body.
 4. (mcq) Why does a mirror look bright in a sunny room?  
    Options: It sends back sunlight / It makes its own light / It is hot  
    **Answer:** It sends back sunlight. *Why:* A mirror makes no light. It looks bright because sunlight falls on it and bounces off into our eyes.
 5. (mcq) You switch off the tube light at night. Why does the room go dark?  
-   Options: The tube light stops making light / The light goes back into the tube / The light runs out of the window  
+   Options: The light goes back into the tube / The tube light stops making light / The light runs out of the window  
    **Answer:** The tube light stops making light. *Why:* A tube light makes new light only while electricity flows through it. Switch it off, and it stops making light.
 6. (mcq) What does a torch need to make light?  
-   Options: Cells that send it electricity / Sunlight on its glass / Water  
+   Options: Sunlight on its glass / Water / Cells that send it electricity  
    **Answer:** Cells that send it electricity. *Why:* A torch uses the electricity from its cells. When the cells run out, the torch stops shining.
 7. (mcq) What is the Sun?  
-   Options: A star / A big lamp in the sky / A planet  
+   Options: A big lamp in the sky / A planet / A star  
    **Answer:** A star. *Why:* The Sun is a star: a huge ball of very hot gas that makes its own light. It is the nearest star to us.
 8. (mcq) What is the rule for looking at the Sun?  
-   Options: Never look straight at it / Look at it through sunglasses / Look at it for just one second  
+   Options: Look at it through sunglasses / Never look straight at it / Look at it for just one second  
    **Answer:** Never look straight at it. *Why:* The Sun is so bright it can harm your eyes, even in one second and even through sunglasses. Never look straight at the Sun.
 9. (mcq) Where is the Sun at night?  
    Options: Still shining, on the other side of the Earth / Switched off until morning / Hiding behind the Moon  
    **Answer:** Still shining, on the other side of the Earth. *Why:* The Sun never stops shining. At night, our side of the Earth is turned away from it.
 10. (mcq) Which of these is a light source made by nature?  
-   Options: Lightning / A tube light / A torch  
+   Options: A tube light / A torch / Lightning  
    **Answer:** Lightning. *Why:* Lightning is a giant spark in the sky that makes light. A tube light and a torch are made by people.
 
 ## Applications

@@ -660,19 +660,19 @@ Many years later, the government gave her uncle a reward and an honour for his w
 ## Worksheets
 ### Outside-Me Detective (core) (core, 18 questions)
 1. (mcq) Someone says, 'My heart is an organ, but my skin is just a cover.' What is wrong with this idea?  
-   Options: Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating. / Nothing. Only parts inside the body are organs. / Skin is not part of the body at all. / The heart is not an organ.  
+   Options: Nothing. Only parts inside the body are organs. / Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating. / Skin is not part of the body at all. / The heart is not an organ.  
    **Answer:** Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating.. *Why:* An organ is a body part made of many cells that does a job. Skin keeps out germs and water, feels heat and touch, and sweats to cool you. It is the biggest organ you have. The mistake is a common one: thinking that organs must be hidden inside.
 2. (match) Match each external organ to its main job.  
    **Answer:** Eyes → see; Ears → hear; Nose → breathe in air and smell; Skin → keep germs out and feel touch; Teeth → bite and chew food; Feet → carry the body's weight. *Why:* Each external organ has a job. Some do more than one: the nose breathes and smells, and the skin guards and feels.
 3. (sort) Some things on the body look like dirt but are really guards. Sort these into GUARD and DIRT TO WASH OFF.  
    **Answer:** earwax → Guard; mucus in the nose → Guard; tears → Guard; eyelashes → Guard; mud on your knees → Dirt to wash off; oil on your hands after eating vada → Dirt to wash off. *Why:* Wax, mucus, tears and lashes are made by the body to trap or wash away dust and germs. Mud and food oil come from outside, and germs can stick in them, so we wash them off.
 4. (mcq) Dust blows into your eye at the bus stop. What should you do first?  
-   Options: Blink a lot, and rinse with clean water if the dust stays / Rub the eye hard / Pull out your eyelashes / Put in any eye drops from the cupboard  
+   Options: Rub the eye hard / Pull out your eyelashes / Blink a lot, and rinse with clean water if the dust stays / Put in any eye drops from the cupboard  
    **Answer:** Blink a lot, and rinse with clean water if the dust stays. *Why:* Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if the dust stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops.
 5. (truefalse) If you can't see any dirt on your hands, they are clean.  
    **Answer:** False. *Why:* False. Germs and mould spores are far too small to see. In the bread test, hands washed in water only still left spots on the bread. Looking is not enough. Washing with soap is the safe way.
 6. (mcq) You rub oil and turmeric on your hands, as in the oily hands activity. Then you rinse them in plain water for 20 seconds. What will you most likely see?  
-   Options: Most of the turmeric is still stuck, because water slides over the oil / All the turmeric is gone / The turmeric turns into soap / Your hands turn blue  
+   Options: All the turmeric is gone / The turmeric turns into soap / Your hands turn blue / Most of the turmeric is still stuck, because water slides over the oil  
    **Answer:** Most of the turmeric is still stuck, because water slides over the oil. *Why:* Turmeric sticks in the oil, the way germs stick in the oil on our skin. Water and oil do not mix, so water slides over. Soap grabs the oil, so water can then carry it away.
 7. (write) In the bread test, you touched slices of bread with dirty hands, with hands washed in water only, and with hands washed with soap. Which slice grew the most spots by day 6? Why do you think that slice grew the most?  
    **Answer:** For example: the dirty-hands slice grew the most spots. My hands had touched door handles and shoes, so they carried many germs and mould spores. Each one landed on the damp bread and grew into a spot.. *Why:* A strong answer says what the child really saw, with numbers if they counted, and links the spots to germs carried on the hands.
@@ -681,10 +681,10 @@ Many years later, the government gave her uncle a reward and an honour for his w
 9. (truefalse) Milk teeth do not need brushing, because they fall out anyway.  
    **Answer:** False. *Why:* False. Many people think this. But a milk tooth with a hole can hurt and get infected for years before it falls out. Milk teeth also keep the space for the big teeth growing underneath.
 10. (mcq) You sneeze into your hand. Then you open the fridge door. Why is this a problem?  
-   Options: Germs from your sneeze are now on the handle, and the next person can pick them up / The fridge gets warm / Sneezing makes the food go bad at once / There is no problem  
+   Options: The fridge gets warm / Sneezing makes the food go bad at once / Germs from your sneeze are now on the handle, and the next person can pick them up / There is no problem  
    **Answer:** Germs from your sneeze are now on the handle, and the next person can pick them up. *Why:* Hands touch everything, so they spread germs to door handles, food and people. Sneezing into the elbow is better, because the elbow touches far less afterwards.
 11. (mcq) A little child asks you, 'What are the parts under my underwear called?' What is the best answer to give?  
-   Options: They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom. / Those are rude words. Don't ask. / They don't have names. / Only doctors can say.  
+   Options: Those are rude words. Don't ask. / They don't have names. / They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom. / Only doctors can say.  
    **Answer:** They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.. *Why:* These are correct body words, like elbow or knee. A child who knows the right words can tell a doctor or a trusted grown-up clearly if something hurts or feels wrong.
 12. (write) A birthday surprise is a secret that is fun and soon ends. A secret about touching is different. How is it different, and who should you tell?  
    **Answer:** A birthday surprise is a happy secret that ends when the present is opened. A secret about touching must never be kept, even after promising. I say no, get away and tell a trusted grown-up, and I keep telling until someone helps. It is never my fault.. *Why:* A strong answer separates secrets that are fun and soon shared from secrets about touching, which are never kept. It names the three steps: say no, get away, tell.
@@ -712,7 +712,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 4. (truefalse) Shaving hair makes it grow back thicker.  
    **Answer:** False. *Why:* False. Cutting removes only the dead part. The root does not change. Mildred Trotter, an American scientist, tested this in 1928, and the hair grew back the same. New short hair only feels rough because its cut end is blunt.
 5. (mcq) Someone says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with this thinking?  
-   Options: The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth. / Nothing is wrong. Vinegar cleans teeth well. / The bubbles came from the egg breathing. / Vinegar only works on brown eggs.  
+   Options: Nothing is wrong. Vinegar cleans teeth well. / The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth. / The bubbles came from the egg breathing. / Vinegar only works on brown eggs.  
    **Answer:** The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.. *Why:* Vinegar is an acid. It dissolves the chalky eggshell and gives off a gas, which makes the bubbles. Tooth enamel is also hard and made with calcium, so acid wears it away. Germs in the mouth make acid from sugar in the same way.
 6. (mcq) In the egg test, suppose your toothpaste egg bubbled less than your plain egg. What is the best thing to say?  
    Options: The toothpaste may have slowed the acid, but one test is not enough, so I should try again / Toothpaste always stops acid completely / The plain egg must have been a different kind of egg / Toothpaste turns vinegar into water  
@@ -749,14 +749,14 @@ Many years later, the government gave her uncle a reward and an honour for his w
 2. (write) Plan a fair test to find out if warm water washes oily hands cleaner than cold water. What would you change? What would you keep the same? How would you tell which worked better?  
    **Answer:** Change only the water: warm or cold. Keep the same oil and turmeric, the same soap, and the same 20 seconds of rubbing. Then look at how much turmeric is left on each hand, or photograph both.. *Why:* In a fair test only one thing changes. A strong answer names what stays the same and how the result will be seen.
 3. (mcq) Identical twins have the same genes. Their fingerprints form before birth. Why do the twins still have different fingerprints?  
-   Options: Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges / Twins have different genes after all / Fingerprints change every year / One twin always has whorls and the other loops  
+   Options: Twins have different genes after all / Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges / Fingerprints change every year / One twin always has whorls and the other loops  
    **Answer:** Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges. *Why:* Genes give the general pattern, but small differences in the womb shape the exact ridges. Picking 'change every year' is wrong. Your fingerprints keep their pattern all your life.
 4. (write) Your outer skin replaces itself every month or two. Some of the dust in your house is your old skin, and you leave fingerprints on everything you touch. Where do you think you end and the world begins?  
    **Answer:** Any thoughtful answer. For example: I thought I ended at my skin. But my old skin flakes off and becomes dust, and I leave fingerprints on everything I touch. So it is hard to say exactly where I stop.. *Why:* This is a big question with no single answer. A strong answer uses what the child saw in the sticky tape test.
 5. (write) A nurse washes her hands with soap about 30 times a day, and the skin on her hands is dry and cracked. Why is cracked skin a problem for her and for her patients? What could she do?  
    **Answer:** Skin is a guard that keeps germs out. Cracked skin lets germs in and can hold germs, and it hurts. She can rinse well, pat her hands dry and use a moisturiser. Between washes, a hand-rub gel is gentler on skin than soap.. *Why:* A strong answer links the cracked skin to the skin's job as a guard, and gives a sensible fix. Washing at the right times matters, and so does looking after the skin.
 6. (mcq) Suppose you do a new bread test. You touch one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?  
-   Options: The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs / Both grow the same, because soap is soap / The 2-second slice grows fewer spots / Neither grows any spots  
+   Options: Both grow the same, because soap is soap / The 2-second slice grows fewer spots / Neither grows any spots / The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs  
    **Answer:** The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs. *Why:* Soap needs time and rubbing to grab the oil that germs stick in, all over the hand. A quick splash misses most of it. That is why we rub for about 20 seconds.
 7. (write) In the blink counter, you counted a grown-up's blinks in one minute while chatting. Why might a long time staring at a screen make your eyes dry and tired? How could you test it?  
    **Answer:** When we stare at a screen we blink much less. Each blink spreads tears over the eye, so fewer blinks means drier eyes. To test it, I would count blinks for one minute while chatting and one minute while watching a phone.. *Why:* A strong answer links blinking to tears, and plans a test that changes only what the person is doing.
@@ -767,7 +767,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 10. (write) A visitor to your home wants a hug, but you would rather not hug. A parent says you can say no politely and wave instead. Why is it good that you get to choose?  
    **Answer:** My body belongs to me, even when I am small. Choosing a wave instead of a hug is polite and still keeps my body mine. Practising small 'no's makes it easier to say no to a touch that feels wrong.. *Why:* A strong answer shows the child knows that their body belongs to them, and that saying no politely is not rude.
 11. (mcq) After a sunburn, skin often peels a few days later. Why does this happen?  
-   Options: The damaged top cells die and flake off, while new cells push up from underneath / The skin melts in the sun / Germs eat the skin / Skin peels so it can grow thicker  
+   Options: The skin melts in the sun / The damaged top cells die and flake off, while new cells push up from underneath / Germs eat the skin / Skin peels so it can grow thicker  
    **Answer:** The damaged top cells die and flake off, while new cells push up from underneath. *Why:* The outer skin is always being replaced from below. Sunburn kills many top cells at once, so they come off in sheets instead of tiny flakes. This is the same renewing you saw in the sticky tape test, only faster.
 12. (odd) Which one is the odd one out? A haircut, cutting your nails, peeling sticky tape off your arm, a cut on your finger.  
    Options: A haircut / Cutting your nails / Peeling sticky tape off your arm / A cut on your finger  
@@ -775,7 +775,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 13. (truefalse) Soap that says 'antibacterial' on the box cleans hands much better at home than ordinary soap.  
    **Answer:** False. *Why:* False. Many people believe this because of advertisements. Studies found ordinary soap, rubbed for 20 seconds, works just as well for everyday handwashing. What matters most is the rubbing and rinsing.
 14. (mcq) When you have a cold, your nose runs much more than usual. Why does your nose make so much extra mucus?  
-   Options: To trap the cold germs and wash them out / Because the nose is full of dirt / Because the brain is leaking / Because you drank too much water  
+   Options: Because the nose is full of dirt / Because the brain is leaking / Because you drank too much water / To trap the cold germs and wash them out  
    **Answer:** To trap the cold germs and wash them out. *Why:* Mucus is one of the nose's guards. When germs get in, the nose makes more of it to trap them and carry them out. That is why we blow the nose into a tissue and then wash hands.
 15. (sort) Sort these into what SCIENTISTS AGREE ON and what SCIENTISTS STILL ARGUE ABOUT.  
    **Answer:** skin is an organ → Scientists agree; soap removes germs better than water alone → Scientists agree; shaving does not make hair thicker → Scientists agree; what fingertip ridges are mainly for → Scientists still argue; how much meeting germs early protects children from allergies → Scientists still argue; whether any two people in the world could have the same fingerprint → Scientists still argue. *Why:* Some things have been tested many times and always come out the same. Others are still being tested, and good scientists say plainly that they are not sure yet.
@@ -793,49 +793,49 @@ Many years later, the government gave her uncle a reward and an honour for his w
    Options: Much of what we call taste is really smell, and your blocked nose can't smell the food / Colds make the dosa go bad / Your tongue has stopped working for ever / Dosa only tastes good on sunny days  
    **Answer:** Much of what we call taste is really smell, and your blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
 2. (mcq) You bathe every day, but your ears still make yellow wax. What does that show?  
-   Options: Wax is a guard the ear makes on purpose, not a sign of dirt / Your ears are very dirty / You are not washing properly / Wax only grows in dirty ears  
+   Options: Your ears are very dirty / You are not washing properly / Wax only grows in dirty ears / Wax is a guard the ear makes on purpose, not a sign of dirt  
    **Answer:** Wax is a guard the ear makes on purpose, not a sign of dirt. *Why:* Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.
 3. (mcq) What do eyelashes and eyebrows have in common?  
    Options: Both guard the eyes, by catching dust or steering sweat away / Both help us see colours / Both make tears / Both are only for looks  
    **Answer:** Both guard the eyes, by catching dust or steering sweat away. *Why:* Lashes catch dust before it reaches the eye. Brows steer sweat and rain round the side. They look nice too, but they are guards.
 4. (mcq) You scrape your knee. A week later, new skin covers it. Where did the new skin come from?  
-   Options: Living cells underneath, which keep making new skin cells / The scab turned into skin / Skin from the other knee moved over / The plaster made it  
+   Options: The scab turned into skin / Skin from the other knee moved over / Living cells underneath, which keep making new skin cells / The plaster made it  
    **Answer:** Living cells underneath, which keep making new skin cells. *Why:* Living cells under the top layer keep dividing and pushing up new cells. That is how the outer skin renews itself, and how a scrape heals.
 5. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
-   Options: To compare: it shows how many spots bread grows when no hands touch it / Because there were not enough hands / To make it go bad faster / It was the slice for eating  
+   Options: Because there were not enough hands / To make it go bad faster / It was the slice for eating / To compare: it shows how many spots bread grows when no hands touch it  
    **Answer:** To compare: it shows how many spots bread grows when no hands touch it. *Why:* The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.
 6. (mcq) Why is brushing at night most important?  
-   Options: Your mouth makes less spit at night, so germs can make acid for hours / Teeth grow at night / It helps you sleep / Germs only come out at night  
+   Options: Teeth grow at night / It helps you sleep / Germs only come out at night / Your mouth makes less spit at night, so germs can make acid for hours  
    **Answer:** Your mouth makes less spit at night, so germs can make acid for hours. *Why:* Spit washes and protects teeth. At night there is less of it. Picking 'germs only come out at night' is a mix-up: germs are there all day.
 7. (mcq) In the egg test, what does the vinegar stand in for?  
    Options: The acid that germs in the mouth make from sugar / Spit / Toothpaste / Water we drink  
    **Answer:** The acid that germs in the mouth make from sugar. *Why:* Vinegar is an acid, and it eats the hard shell. Germs in the mouth turn sugar into acid that eats tooth enamel in the same way.
 8. (mcq) If any touch feels wrong or confusing, what should you do?  
-   Options: Say no, get away and tell a trusted grown-up / Keep it a secret / Think it is your fault / Wait and see  
+   Options: Keep it a secret / Say no, get away and tell a trusted grown-up / Think it is your fault / Wait and see  
    **Answer:** Say no, get away and tell a trusted grown-up. *Why:* Say no, get away and tell a trusted grown-up. It is never the child's fault, and secrets about touching are never kept.
 9. (mcq) You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?  
-   Options: Tell another trusted grown-up, and keep telling until someone helps / Stop telling anyone / Think you made a mistake / Keep it a secret  
+   Options: Stop telling anyone / Think you made a mistake / Keep it a secret / Tell another trusted grown-up, and keep telling until someone helps  
    **Answer:** Tell another trusted grown-up, and keep telling until someone helps. *Why:* This is why children choose more than one trusted grown-up. Keep telling until someone listens and helps.
 10. (mcq) What do scientists still argue about?  
-   Options: What fingertip ridges are for / Whether skin is an organ / Whether hair grows / Whether teeth need brushing  
+   Options: Whether skin is an organ / Whether hair grows / Whether teeth need brushing / What fingertip ridges are for  
    **Answer:** What fingertip ridges are for. *Why:* Scientists agree skin is an organ, hair grows and brushing helps. They still argue whether ridges are mainly for grip, feeling or both.
 11. (mcq) Your left and right thumbs grew from the same genes. What are their prints like?  
-   Options: Different: the ridge forks and ends are in different places / Exactly the same, because the genes are the same / Different, because one thumb is older / They have no pattern at all  
+   Options: Exactly the same, because the genes are the same / Different, because one thumb is older / Different: the ridge forks and ends are in different places / They have no pattern at all  
    **Answer:** Different: the ridge forks and ends are in different places. *Why:* Every finger has its own print. The ridges formed before birth, and tiny differences in how each fingertip grew set the details. Picking 'exactly the same' is the common idea that genes decide everything. Both thumbs are the same age, so 'older' cannot be the reason.
 12. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
-   Options: They get bigger, but the pattern stays the same all your life / They change into a new pattern every year / They disappear by the age of 10 / They swap from loops to whorls  
+   Options: They change into a new pattern every year / They disappear by the age of 10 / They get bigger, but the pattern stays the same all your life / They swap from loops to whorls  
    **Answer:** They get bigger, but the pattern stays the same all your life. *Why:* The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.
 13. (mcq) Kitchen smoke makes your eyes sting, and a neighbour offers you eye drops from her house. What is the best thing to do?  
-   Options: Use her drops, since they are only drops / Wash your eyes with clean water, and take no drops unless a doctor says so / Rub your eyes hard until the stinging stops  
+   Options: Wash your eyes with clean water, and take no drops unless a doctor says so / Use her drops, since they are only drops / Rub your eyes hard until the stinging stops  
    **Answer:** Wash your eyes with clean water, and take no drops unless a doctor says so. *Why:* Clean water washes smoke out. Only a doctor can say which drops are safe, and the wrong drops can harm the eye. Rubbing hard can scratch the eye.
 14. (mcq) Your uncle chews gutka every day. What does tobacco do to his mouth?  
-   Options: It makes the teeth whiter and the gums strong / It stains the teeth and makes the gums sore, and over many years it can cause cancer / It only changes how his breath smells for an hour  
+   Options: It stains the teeth and makes the gums sore, and over many years it can cause cancer / It makes the teeth whiter and the gums strong / It only changes how his breath smells for an hour  
    **Answer:** It stains the teeth and makes the gums sore, and over many years it can cause cancer. *Why:* Tobacco in gutka and in tobacco paan harms teeth and gums, and can cause cancer of the mouth. It does not clean or strengthen anything. Rinsing and brushing help, but staying away from tobacco protects the most.
 15. (mcq) Meena has her first period at school. What is the best thing for her to do?  
-   Options: Use a clean pad or cloth, change it every four to six hours, and wash her hands / Tell nobody and stay in the toilet until school ends / Use the same cloth for two days without washing it  
+   Options: Tell nobody and stay in the toilet until school ends / Use a clean pad or cloth, change it every four to six hours, and wash her hands / Use the same cloth for two days without washing it  
    **Answer:** Use a clean pad or cloth, change it every four to six hours, and wash her hands. *Why:* A period is normal, and a clean pad or cloth keeps her comfortable and well. A damp or dirty cloth can give a rash or infection. A trusted grown-up or teacher can help.
 16. (mcq) In winter, the skin on Rahul's hands is dry and cracked. What can help?  
-   Options: A little coconut or mustard oil after he dries his hands / Scrubbing them with harsh soap / Washing them in very hot water again and again  
+   Options: Scrubbing them with harsh soap / A little coconut or mustard oil after he dries his hands / Washing them in very hot water again and again  
    **Answer:** A little coconut or mustard oil after he dries his hands. *Why:* Oil keeps skin soft and stops it cracking in dry cold weather. Harsh soap and hot water take away more of the skin's oil and make it worse.
 
 ## Applications

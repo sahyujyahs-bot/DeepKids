@@ -558,7 +558,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 4. (truefalse) A tiny static shock from a car door is just as dangerous as a shock from a mains socket.  
    **Answer:** False. *Why:* False. A static shock moves only a small amount of charge, so it stings but does no harm. Mains electricity keeps pushing, and it can kill.
 5. (mcq) You rub only one side of a balloon on wool. You hold the other side over paper bits. What happens?  
-   Options: Many bits jump / Few or no bits jump / The balloon pops  
+   Options: Few or no bits jump / Many bits jump / The balloon pops  
    **Answer:** Few or no bits jump. *Why:* Rubber is an insulator, so the charge stays on the patch that was rubbed. The other side has hardly any. That is why it is called static.
 6. (write) In the Rubbing Test, which thing made your balloon lift the most paper bits? Write what you think, what you saw, and why.  
    **Answer:** A strong answer names the winner and the number, for example: wool lifted 12 bits and cotton only 3. It says that rubbing moves electrons, and that wool gives its electrons away easily to the balloon.. *Why:* This is claim, evidence and reasoning, using the child's own results.
@@ -578,7 +578,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 13. (fill) Things that let charge move easily, like metals and water, are called ____.  
    **Answer:** ['conductors']. *Why:* Conductors let charge move. That is why a steel spoon does not stay charged in your hand.
 14. (mcq) The plastic strips of a rubbed tassel spread out like a fan. What does this show?  
-   Options: The strips have the same kind of charge, and the same charges repel / The strips are wet / Plastic is magnetic  
+   Options: The strips are wet / Plastic is magnetic / The strips have the same kind of charge, and the same charges repel  
    **Answer:** The strips have the same kind of charge, and the same charges repel. *Why:* All the strips were rubbed with the same wool, so they got the same kind of charge, and they push each other away.
 15. (write) Write one question you still have about static electricity or lightning, and say how you might find out the answer.  
    **Answer:** Any real question with a way to find out. For example: does a plastic spoon charge as well as a comb? I could test both over the water stream.. *Why:* A strong answer asks something that can be tested, and says what the test would be.
@@ -586,19 +586,19 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 1. (perspective) A sister and her brother watch paper bits jump up to a rubbed balloon. They disagree about why.  
    **Answer:** A strong answer sides mostly with the brother: the paper was never rubbed, and it is neutral. But it gives the sister her due. The balloon pushes the paper's electrons a tiny way back, so the near side of the paper does get a little opposite charge. So both are partly right.. *Why:* This tests the hardest idea in the lesson: how a charged thing attracts a neutral one.
 2. (mcq) You rub a balloon on your hair. The balloon now has 1,000 extra electrons. How many electrons has your hair lost?  
-   Options: 1,000 / 500 / None  
+   Options: 500 / None / 1,000  
    **Answer:** 1,000. *Why:* Rubbing does not make or destroy charge. Every electron the balloon gained came from your hair, so your hair lost exactly 1,000. Real numbers are far bigger, but the rule is the same.
 3. (write) Some people say, 'Rubbing a balloon makes electricity.' Use what you have seen with rubbed balloons and hair to explain what rubbing really does.  
    **Answer:** Rubbing does not make charge. It moves electrons from one thing to the other. The balloon gets extra minus charge, and the hair is left with the same amount of plus. My hair rose to the balloon, which shows the hair was charged too.. *Why:* A strong answer corrects the idea and uses the rising hair as evidence that both things got charged.
 4. (truefalse) A steel spoon can never be charged at all.  
    **Answer:** False. *Why:* False. Steel can carry charge, but held in your hand, the charge runs away through the steel and through your body. A steel spoon on a plastic stand, not touched, can hold charge for a while.
 5. (mcq) A rubbed comb touches the water stream for a moment. Afterwards it hardly bends the water. Why?  
-   Options: The comb is now wet, and the water lets the charge leak away / The water washed off the plastic / The comb got cold  
+   Options: The water washed off the plastic / The comb got cold / The comb is now wet, and the water lets the charge leak away  
    **Answer:** The comb is now wet, and the water lets the charge leak away. *Why:* Water is a conductor, so a wet comb loses its charge. Dry it and rub it again, and it works.
 6. (draw) Draw a paper bit just below a rubbed balloon. Inside the paper, draw where the plus and minus charges move. Draw an arrow to show which way the paper moves.  
    **Answer:** Minus on the balloon. Plus signs crowded on the top of the paper, near the balloon, and minus signs on the bottom. An arrow pointing up.. *Why:* The near side of the paper gets the opposite charge and is pulled more strongly than the far side is pushed.
 7. (mcq) Why does a charged balloon lift a paper bit but not a book?  
-   Options: The electric force is small, so it can only lift very light things / Books are conductors / Books have no atoms  
+   Options: Books are conductors / The electric force is small, so it can only lift very light things / Books have no atoms  
    **Answer:** The electric force is small, so it can only lift very light things. *Why:* The force on a neutral thing is small, so it lifts only very light things like paper bits, pepper and hair. A book is far heavier.
 8. (order) Put these in order, from the one that charged the balloon most to least, using these made-up results: cotton 3 bits, wool 12 bits, newspaper 5 bits, dry hair 14 bits.  
    **Answer:** ['dry hair', 'wool', 'newspaper', 'cotton']. *Why:* More bits lifted means more charge. Dry hair 14, wool 12, newspaper 5 and cotton 3.
@@ -607,12 +607,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 10. (fill) The sound made when lightning heats the air so fast that it bursts outwards is called ____.  
    **Answer:** ['thunder']. *Why:* Thunder is the sound of air heated by lightning to nearly 30,000 degrees Celsius.
 11. (mcq) A petrol tanker is joined to the ground by a wire before it unloads. Why?  
-   Options: Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel / So the tanker cannot roll away / To keep the fuel cool  
+   Options: So the tanker cannot roll away / To keep the fuel cool / Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel  
    **Answer:** Any charge that has built up can flow safely into the ground, so no spark jumps near the fuel. *Why:* Fuel pumping and a moving tanker can build up charge. A wire to the ground lets it drain away quietly, instead of jumping as a spark near the fuel.
 12. (sort) Sort these materials. Does each one keep its charge in your hand, or let it run away?  
    **Answer:** plastic comb → Keeps charge; steel spoon → Lets it run away; rubber balloon → Keeps charge; aluminium foil → Lets it run away; plastic ruler → Keeps charge; a wet cloth → Lets it run away. *Why:* Insulators like plastic and rubber keep the charge where it is put. Conductors like metals and water let it run away through your body.
 13. (mcq) A bumblebee flies to a flower that another bee visited a few seconds ago. How can the bee tell?  
-   Options: The flower's electric field has changed for a while / The flower tells her with a sound / The bee can see the nectar is gone  
+   Options: The flower tells her with a sound / The bee can see the nectar is gone / The flower's electric field has changed for a while  
    **Answer:** The flower's electric field has changed for a while. *Why:* When a charged bee lands, the flower's electric field changes for a while. Bumblebees can feel this with the tiny hairs on their body, and skip that flower, which saves them time.
 14. (write) Why is it dangerous to fly a kite when a storm is coming? Use the words conductor and lightning.  
    **Answer:** A kite flies high, and its string can get wet. A wet string is a conductor, so lightning could travel down it into the person holding it.. *Why:* A strong answer joins the height of the kite to the conductor idea.
@@ -634,21 +634,21 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 6. (truefalse) A tall building with a lightning conductor will never be struck by lightning.  
    **Answer:** False. *Why:* False. The rod may still be struck, but the charge flows down the metal strip into the ground instead of through the building, so the building is not harmed.
 7. (mcq) Dust gathers thickly on the blades of a ceiling fan. What is one reason?  
-   Options: The blades rub against the air and get charged, and a charged blade attracts neutral dust / Dust is magnetic / The blades are made of paper  
+   Options: Dust is magnetic / The blades rub against the air and get charged, and a charged blade attracts neutral dust / The blades are made of paper  
    **Answer:** The blades rub against the air and get charged, and a charged blade attracts neutral dust. *Why:* Spinning blades rub against the air and pick up charge, and a charged surface attracts light, neutral specks of dust, the way a balloon attracts paper bits.
 8. (write) Many people say lightning never strikes the same place twice. Plan a way you could check this, using real records.  
    **Answer:** Look up the records of how often one tall building or tower is struck, for example the Empire State Building, which is struck about 20 to 25 times a year. If a place is struck more than once, the saying is wrong.. *Why:* A strong answer uses records as evidence instead of a feeling.
 9. (order) Put these in order, from the weakest spark to the strongest.  
    **Answer:** ['a crackle from a sweater', 'a static shock from a car door', 'a lightning bolt']. *Why:* All three are sparks of static charge. A sweater crackle is tiny, a car door shock is a little bigger and stings, and lightning carries millions of times more.
 10. (mcq) A young spider has no wings but needs to travel to a new home. How does the Earth's electric field help?  
-   Options: It pulls on the spider's charged silk threads and helps lift the spider into the air / It makes the spider lighter / It blows a wind  
+   Options: It makes the spider lighter / It blows a wind / It pulls on the spider's charged silk threads and helps lift the spider into the air  
    **Answer:** It pulls on the spider's charged silk threads and helps lift the spider into the air. *Why:* Young spiders let out silk threads that carry charge. The Earth's electric field pulls on the threads and helps lift the spiders up, so they can drift to a new place. This is called ballooning.
 11. (fill) An atom with 8 protons and 8 electrons has an overall charge of ____.  
    **Answer:** ['zero', '0', 'nothing']. *Why:* 8 plus charges and 8 minus charges cancel, so the overall charge is zero. The atom is neutral.
 12. (write) Your hair rose up to a balloon against the pull of the whole Earth. What does that tell you about how strong the electric force is, compared with gravity?  
    **Answer:** The electric force from a small balloon beat the pull of the whole Earth on the hair. So the electric force must be very strong. We do not notice it most of the time because plus and minus usually cancel.. *Why:* A strong answer compares the two forces using the rising hair as evidence, and explains why we rarely notice the electric force.
 13. (mcq) A photocopier makes black powder stick to the paper only where the words are. What does it use?  
-   Options: Static charge: the words are charged, and they attract the powder / Glue on the paper / A magnet under the paper  
+   Options: Glue on the paper / Static charge: the words are charged, and they attract the powder / A magnet under the paper  
    **Answer:** Static charge: the words are charged, and they attract the powder. *Why:* The copier charges the drum in the shape of the page. The charged parts attract the powder, which is pressed onto the paper. It is the same pull as a balloon on paper bits.
 14. (draw) Design a poster for your building's lift: 'What to do in a thunderstorm'. Show four rules with a picture for each.  
    **Answer:** Four clear rules with pictures, for example: go inside at the first thunder, stay off the terrace, no baths or washing up during the storm, wait 30 minutes after the last thunder.. *Why:* A strong poster gives rules that really keep people safe, each with a reason a neighbour would understand.
@@ -662,7 +662,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 
 ## Quiz
 1. (mcq) A new balloon, straight out of the packet, does not lift paper bits. Why not?  
-   Options: It has no charge in it at all / It has equal plus and minus charge, so they cancel / It is too big  
+   Options: It has no charge in it at all / It is too big / It has equal plus and minus charge, so they cancel  
    **Answer:** It has equal plus and minus charge, so they cancel. *Why:* Every atom in the balloon has plus and minus charge, in equal amounts, so they cancel. We call it neutral. Picking 'no charge at all' is a very common idea, but the balloon is full of charge. It is only balanced.
 2. (mcq) You rub a balloon on your dry hair. Electrons move from your hair onto the balloon. What charge does your hair have now?  
    Options: Extra minus charge / Extra plus charge / No charge  
@@ -671,34 +671,34 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
    Options: Swing towards each other / Lean away from each other / Hang straight down  
    **Answer:** Lean away from each other. *Why:* Both balloons got the same kind of charge from the wool, and the same charges repel. Picking 'towards each other' would be right only if they had opposite charges.
 4. (mcq) After you rub your hair with a balloon, your hair stands up and the strands spread apart. Why do the strands spread apart?  
-   Options: Each strand has the same plus charge, and the same charges repel / The wind blows them / The strands are pulled by gravity  
+   Options: The wind blows them / The strands are pulled by gravity / Each strand has the same plus charge, and the same charges repel  
    **Answer:** Each strand has the same plus charge, and the same charges repel. *Why:* Every strand lost electrons to the balloon, so every strand has plus charge. The same charges push each other away. Gravity pulls the hair down, not apart.
 5. (mcq) A rubbed comb bends a thin stream of tap water. The water was never rubbed. Why does it bend?  
-   Options: The water is charged by the tap / The comb's charge pushes the water's electrons a tiny way, so the near side is pulled / The comb blows on the water  
+   Options: The comb's charge pushes the water's electrons a tiny way, so the near side is pulled / The water is charged by the tap / The comb blows on the water  
    **Answer:** The comb's charge pushes the water's electrons a tiny way, so the near side is pulled. *Why:* The water is neutral. The comb's charge moves the electrons in the water a tiny way, so the side nearest the comb gets the opposite charge and is pulled. Picking 'charged by the tap' is a fair guess, but the stream does not bend at all until the comb comes near.
 6. (mcq) In the Rubbing Test, a balloon is rubbed with five things. Which result shows that rubbing two of the same material moves hardly any charge?  
    Options: Wool: 12 bits / Cotton: 3 bits / Another balloon: 0 bits  
    **Answer:** Another balloon: 0 bits. *Why:* Two balloons are the same material, so neither grabs electrons harder, and the balloon lifted nothing. Picking cotton is close, because cotton charged it only a little, but cotton is a different material from rubber.
 7. (mcq) Why do we test the balloon over the paper before rubbing it at all?  
-   Options: To see what happens with no rubbing, so we can compare / To warm it up / To count the paper bits  
+   Options: To warm it up / To see what happens with no rubbing, so we can compare / To count the paper bits  
    **Answer:** To see what happens with no rubbing, so we can compare. *Why:* A test with no rubbing shows that the balloon on its own lifts nothing. Then we know that any bits it lifts later are because of the rubbing. Scientists call this a control.
 8. (mcq) Balloon tricks that worked in Bengaluru in January do not work in Kochi in the monsoon. Why?  
-   Options: Kochi has different balloons / The damp air leaves a thin layer of water that lets the charge leak away / It is too hot for electrons  
+   Options: Kochi has different balloons / It is too hot for electrons / The damp air leaves a thin layer of water that lets the charge leak away  
    **Answer:** The damp air leaves a thin layer of water that lets the charge leak away. *Why:* Water lets charge move. In humid air, a thin layer of water on the balloon lets its extra electrons leak away. Picking 'too hot' is a fair thought, but the dampness is what matters: a dry hot day works well.
 9. (mcq) You rub a steel spoon on wool, holding its handle. It does not bend the water stream. Why?  
-   Options: Steel is a conductor, so the charge runs through the spoon and your body / The spoon is too shiny / You did not rub it enough  
+   Options: The spoon is too shiny / You did not rub it enough / Steel is a conductor, so the charge runs through the spoon and your body  
    **Answer:** Steel is a conductor, so the charge runs through the spoon and your body. *Why:* Steel and your body are conductors, so any charge on the spoon runs away through your hand. Plastic is an insulator, so a comb keeps its charge.
 10. (mcq) What is lightning?  
-   Options: Fire falling from the clouds / A giant spark of electric charge jumping from a storm cloud / Sunlight shining through rain  
+   Options: A giant spark of electric charge jumping from a storm cloud / Fire falling from the clouds / Sunlight shining through rain  
    **Answer:** A giant spark of electric charge jumping from a storm cloud. *Why:* Lightning is a giant spark, the same kind of thing as the tiny crackle from a sweater, only far bigger. Picking 'fire' is how many people once thought of it, but it is electric charge heating the air.
 11. (mcq) Why do you hear thunder after you see the lightning?  
    Options: Light travels much faster than sound / Thunder is made later / The cloud is slow  
    **Answer:** Light travels much faster than sound. *Why:* The flash and the bang happen together. Light reaches you almost at once, but sound takes about 3 seconds to travel 1 kilometre. Picking 'made later' is a natural guess, but the hot air bursts outwards at the same moment as the flash.
 12. (mcq) You are playing in a park when you hear thunder. What should you do?  
-   Options: Shelter under the biggest tree / Go inside a building at once / Keep playing until it rains  
+   Options: Shelter under the biggest tree / Keep playing until it rains / Go inside a building at once  
    **Answer:** Go inside a building at once. *Why:* If you can hear thunder, lightning is close enough to reach you. A building is safe. A lone tree is one of the most dangerous places, because lightning often strikes tall things.
 13. (mcq) Why is a closed car a safe place in a thunderstorm?  
-   Options: Its rubber tyres stop the lightning / Its metal body carries the charge round the outside to the ground / Lightning cannot see cars  
+   Options: Its metal body carries the charge round the outside to the ground / Its rubber tyres stop the lightning / Lightning cannot see cars  
    **Answer:** Its metal body carries the charge round the outside to the ground. *Why:* The metal body carries the charge around you and into the ground. Picking 'tyres' is the most common belief, but a few centimetres of rubber cannot stop a spark that has crossed kilometres of air.
 14. (mcq) Long ago, scientists put up a tall iron rod pointing at the sky during a storm. Sparks jumped from the bottom of the rod. What did this show?  
    Options: Rain water is made of iron / Storm clouds carry electric charge, and lightning is electricity / Iron makes thunder  

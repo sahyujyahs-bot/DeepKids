@@ -621,7 +621,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 ## Worksheets
 ### Drag and Falling (core) (core, 16 questions)
 1. (mcq) Which sentence says what drag is?  
-   Options: The push of air against a thing moving through it / The pull of the Earth on a falling thing / The push that makes a plane go forward  
+   Options: The pull of the Earth on a falling thing / The push that makes a plane go forward / The push of air against a thing moving through it  
    **Answer:** The push of air against a thing moving through it. *Why:* Drag is the air pushing back against anything that moves through it. The pull of the Earth is weight, and the push forward is thrust.
 2. (fill) Drag always pushes ____ the direction the thing is moving.  
    **Answer:** ['against', 'opposite to', 'opposite']. *Why:* Drag pushes back against the motion. That is why it slows things down.
@@ -637,7 +637,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 7. (count) A raindrop falls at a steady 6 metres each second. How many metres does it fall in 10 seconds?  
    **Answer:** 60. *Why:* 6 metres each second for 10 seconds is 6 times 10, which is 60 metres.
 8. (mcq) A big raindrop stops speeding up as it falls. What does this tell you?  
-   Options: The drag has grown as big as its weight / Gravity has stopped pulling it / The cloud stopped pushing it  
+   Options: Gravity has stopped pulling it / The drag has grown as big as its weight / The cloud stopped pushing it  
    **Answer:** The drag has grown as big as its weight. *Why:* When drag equals weight, the forces are balanced and the drop falls at a steady speed. Gravity is still pulling it.
 9. (order) Put these in the right order, for a parachute that you let go.  
    **Answer:** ['You let go and it starts to fall', 'It speeds up and the drag grows', 'The drag becomes as big as its weight', 'It falls at a steady speed']. *Why:* A falling parachute speeds up and the drag grows with its speed. When the drag equals the weight, it falls at a steady speed.
@@ -650,7 +650,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 13. (truefalse) A parachute with four times the weight falls four times as fast.  
    **Answer:** False. *Why:* False. A heavier load falls faster, but four times the weight gives only about twice the speed.
 14. (mcq) A badminton shuttlecock is hit sideways. Why does it end up flying cork-first?  
-   Options: The feathers have more drag and trail behind the heavy cork / The cork pulls it towards the ground / The feathers are heavier than the cork  
+   Options: The cork pulls it towards the ground / The feathers have more drag and trail behind the heavy cork / The feathers are heavier than the cork  
    **Answer:** The feathers have more drag and trail behind the heavy cork. *Why:* The feathers catch much more air than the cork, so the drag swings them behind. This steadies the shuttlecock.
 15. (perspective) Here is a claim: Heavy things always fall faster than light things.  
    **Answer:** Answers vary. A strong answer says that in air, drag slows the light, wide feather more than the stone, and with no air they fall together.. *Why:* In the parachute races, the big canopy fell slowly because of drag. Weight alone is not what sets how fast things fall in air.
@@ -658,7 +658,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
    **Answer:** She can crouch low, so less of her faces the air. She can wear a smooth, tight helmet and clothes, so the air flows round her and does not catch on flapping cloth.. *Why:* Drag depends on the size of the area facing the air and on shape. Making herself smaller and smoother reduces both.
 ### Steering and Staying Steady (stretch) (stretch, 17 questions)
 1. (mcq) Why does a heavier parachute fall faster than a lighter one with the same canopy?  
-   Options: It needs more drag to balance its weight, so it must go faster / Gravity pulls harder on heavy things in a different way / A heavier parachute has a smaller canopy  
+   Options: Gravity pulls harder on heavy things in a different way / It needs more drag to balance its weight, so it must go faster / A heavier parachute has a smaller canopy  
    **Answer:** It needs more drag to balance its weight, so it must go faster. *Why:* Drag grows with speed. A heavier load needs more drag to balance it, and the drag grows big enough only at a higher speed.
 2. (fill) Four times the weight gives only about ____ times the falling speed.  
    **Answer:** ['2', 'two']. *Why:* The speed grows with the square root of the weight. The square root of 4 is 2, because 2 times 2 is 4.
@@ -679,7 +679,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 10. (write) A mouse can fall down a deep well and walk away, but a person would be badly hurt. Explain why, using the words skin and weight.  
    **Answer:** A mouse has a lot of skin for her weight, so air slows her fall far more. A person has less skin for their weight, so they fall much faster.. *Why:* A strong answer says that a small body has more skin for its weight than a big one, so drag slows it more.
 11. (mcq) A jet lands at a much lower speed than it cruises. Why does it need to go faster when it flies high?  
-   Options: The thin air gives less lift, so the wings must move faster / The engines are stronger at height / Gravity is stronger at height  
+   Options: The engines are stronger at height / Gravity is stronger at height / The thin air gives less lift, so the wings must move faster  
    **Answer:** The thin air gives less lift, so the wings must move faster. *Why:* Lift depends on how much air the wings push down. Thin air gives less lift at the same speed, so the plane must go faster to make enough.
 12. (truefalse) Wing flaps like those on an aircraft could steer a spacecraft in space.  
    **Answer:** False. *Why:* False. Flaps work only by pushing on air. With no air, they do nothing, so a spacecraft steers by firing small rockets.
@@ -688,7 +688,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 14. (write) Why must a paper plane have more weight near its nose than near its tail?  
    **Answer:** If the balance point is near the front, a bump makes forces that turn the nose back down to level. With too little weight at the front, the nose rises, the plane stalls and it falls.. *Why:* A strong answer says that the balance point should be ahead of the centre of lift, so the plane tends to come back to level flight.
 15. (mcq) On an anemometer, all the cups face the same way round. Why does it spin?  
-   Options: The wind pushes harder on the open sides than on the rounded backs / The cups are heavier on one side / The wind blows only on one cup  
+   Options: The cups are heavier on one side / The wind blows only on one cup / The wind pushes harder on the open sides than on the rounded backs  
    **Answer:** The wind pushes harder on the open sides than on the rounded backs. *Why:* An open cup has more drag than its rounded back. The difference in push keeps the anemometer turning.
 16. (fill) A spacecraft that comes back from space has a heat shield because drag turns its ____ into heat.  
    **Answer:** ['motion', 'speed', 'movement']. *Why:* The spacecraft hits the air at a great speed. The drag turns its motion into heat, and the shield takes it.
@@ -696,7 +696,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
    **Answer:** A wide tail catches more air, so the drag is bigger and she slows down. She can also tilt the tail to steer.. *Why:* A spread tail adds drag, which slows her, and a tilted tail changes the air push on her back, which helps her turn.
 ### Think Like an Engineer (challenge) (challenge, 16 questions)
 1. (mcq) In a test, parachute A (a small canopy and 1 coin) fell in 1.4 seconds. Parachute B (a big canopy and 1 coin) took 2.7 seconds. Parachute C (the big canopy and 4 coins) took 1.5 seconds. Which sentence do the results support?  
-   Options: Canopy size changes the fall, and so does the load / Only the load changes the fall / Only the canopy size changes the fall  
+   Options: Only the load changes the fall / Canopy size changes the fall, and so does the load / Only the canopy size changes the fall  
    **Answer:** Canopy size changes the fall, and so does the load. *Why:* A and B differ only in canopy size, and the times differ. B and C differ only in load, and the times differ. So both matter.
 2. (sort) How does each change affect the drag on a plane?  
    **Answer:** Doubling the speed → Increases drag; Climbing from 1 kilometre to 10 kilometres → Decreases drag; Opening the flaps for landing → Increases drag; Painting the plane a different colour → Little change; Folding the landing wheels up → Decreases drag. *Why:* Drag grows with speed and with extra parts sticking out. Thin air high up reduces it. A colour does not change how air flows.
@@ -724,7 +724,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 13. (write) A designer wants a new bus to use less fuel on a long road. What advice about shape and speed would you give her, and why?  
    **Answer:** Make the front rounded and the back gently tapered, so the air flows smoothly and the wake is small. Drive at a moderate speed, because the drag grows with the square of the speed.. *Why:* Drag depends on shape and on the square of the speed. A streamlined body and a lower speed both reduce drag.
 14. (mcq) Why can a plane not fly at 150 kilometres above the Earth?  
-   Options: There is not enough air for the wings to push down / The Sun is too hot / Gravity stops at that height  
+   Options: The Sun is too hot / There is not enough air for the wings to push down / Gravity stops at that height  
    **Answer:** There is not enough air for the wings to push down. *Why:* Wings make lift by pushing air down. At 150 kilometres there is almost no air, so wings do nothing.
 15. (truefalse) At everyday speeds, the shape with the least drag has a sharp, pointed front.  
    **Answer:** False. *Why:* False. The best shape is rounded at the front and tapered at the back, like a teardrop.
@@ -738,10 +738,10 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 
 ## Quiz
 1. (mcq) Which of these makes the drag on a moving thing bigger?  
-   Options: Going faster / Turning off the engine / Making the front more rounded  
+   Options: Turning off the engine / Making the front more rounded / Going faster  
    **Answer:** Going faster. *Why:* Drag grows quickly with speed. A rounded, smooth front reduces drag, and turning off the engine does not change the push of the air.
 2. (mcq) A car goes from 30 kilometres an hour to 60. About how much does the air drag change?  
-   Options: It becomes about 4 times bigger / It stays the same / It doubles  
+   Options: It stays the same / It doubles / It becomes about 4 times bigger  
    **Answer:** It becomes about 4 times bigger. *Why:* Twice the speed means about four times the drag, because there is twice as much air each second, hit twice as hard.
 3. (mcq) A paper ball and a flat sheet of the same paper are dropped together. The ball lands first. What is the reason?  
    Options: The flat sheet has more drag / The ball is heavier / Gravity pulls the ball more  
@@ -753,22 +753,22 @@ Thendral looked at the others. Then she took the binoculars and found the line o
    Options: The load, the drop height and the material / The size of the canopy / The colour of the room  
    **Answer:** The load, the drop height and the material. *Why:* In a fair test, only one thing changes, and all the others stay the same. Here the canopy changes, and the load, height and material are kept the same.
 6. (mcq) A paper plane keeps climbing steeply, stalls, and falls. What is a good fix?  
-   Options: Bend the back edges of the wings down a little / Bend the back edges of the wings up / Fold the nose upwards  
+   Options: Bend the back edges of the wings up / Bend the back edges of the wings down a little / Fold the nose upwards  
    **Answer:** Bend the back edges of the wings down a little. *Why:* The nose is rising too much. Bending the back edges down pushes the back of the wings up, which pushes the nose down.
 7. (mcq) An arrow has feathers at its back. What is the job of the feathers?  
-   Options: They add drag at the back, which keeps the point forward / They make the arrow heavier / They make the arrow spin  
+   Options: They make the arrow heavier / They add drag at the back, which keeps the point forward / They make the arrow spin  
    **Answer:** They add drag at the back, which keeps the point forward. *Why:* Feathers add drag at the back, so if the arrow turns sideways the air pushes it back in line, like a shuttlecock's feathers.
 8. (mcq) A pilot wants to roll a plane to the right. What does the pilot do with the ailerons?  
-   Options: Raises the right aileron and lowers the left / Raises both ailerons / Turns the rudder  
+   Options: Raises both ailerons / Turns the rudder / Raises the right aileron and lowers the left  
    **Answer:** Raises the right aileron and lowers the left. *Why:* The wing with its aileron up lifts less and goes down. Raising the right aileron lowers the right wing, so the plane rolls right.
 9. (mcq) How does a plane go round a bend in the sky?  
-   Options: It banks, and the tilted lift pulls it round / It points its rudder like a boat / It stops its engine  
+   Options: It points its rudder like a boat / It stops its engine / It banks, and the tilted lift pulls it round  
    **Answer:** It banks, and the tilted lift pulls it round. *Why:* A plane tilts its wings, and part of the lift then pulls it sideways, round a curve. A cyclist leans in the same way.
 10. (mcq) A bird flies a little behind and to the side of another bird in a V. What helps her?  
-   Options: The rising air from the wing tip of the bird in front / The bird in front pulling her / The wind from behind  
+   Options: The bird in front pulling her / The wind from behind / The rising air from the wing tip of the bird in front  
    **Answer:** The rising air from the wing tip of the bird in front. *Why:* The front bird leaves air rising just outside her wing tip. The bird behind can catch that air and save energy.
 11. (mcq) Why can a small insect fall from a table and be unhurt?  
-   Options: She has a lot of skin for her weight, so air slows her fall / Gravity is weaker for small things / Insects have very strong bones  
+   Options: Gravity is weaker for small things / Insects have very strong bones / She has a lot of skin for her weight, so air slows her fall  
    **Answer:** She has a lot of skin for her weight, so air slows her fall. *Why:* A small body has more skin for each bit of weight than a big one. The air slows her fall so much that she lands gently.
 12. (mcq) Why does a jet use less fuel at 10 kilometres up than at 1 kilometre, flying at the same speed?  
    Options: The air is thinner, so the drag is smaller / Gravity is zero / The jet is lighter  

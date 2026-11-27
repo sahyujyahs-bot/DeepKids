@@ -584,7 +584,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 ## Worksheets
 ### Weighing and Balancing (core) (core, 17 questions)
 1. (mcq) A shopkeeper in Coimbatore balances a mango against a 250-gram weight on a two-pan balance, and the pans are level. The balance and both things are taken to the Moon. What happens?  
-   Options: The pans stay level, because both pans are pulled less by the same amount / The mango side goes down, because it is heavier / The weight side goes down, because iron is heavy  
+   Options: The mango side goes down, because it is heavier / The pans stay level, because both pans are pulled less by the same amount / The weight side goes down, because iron is heavy  
    **Answer:** The pans stay level, because both pans are pulled less by the same amount. *Why:* A balance compares two masses, and the Moon pulls both pans by the same fraction. So the pans stay level. The mango still has a mass of 250 grams on the Moon.
 2. (fill) On Earth, the weight of a bag with a mass of 1 kilogram is about ____ newtons.  
    **Answer:** ['9.8', '10', 'about 10', 'about 9.8']. *Why:* Earth pulls with about 9.8 newtons for each kilogram. For quick sums, 10 is close enough.
@@ -615,7 +615,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 14. (label) Label this drawing of a two-pan balance: beam, left pan, right pan, pointer, standard mass.  
    **Answer:** The beam is the bar across the top. The left pan holds the mango and the right pan holds the standard mass. The pointer is the needle in the middle that points at the mark when the pans are level. The standard mass is the iron weight in the right pan.. *Why:* A balance has a beam with two pans of equal reach, a pointer to show when it is level, and a known mass to compare with.
 15. (mcq) A steel bucket and a tall thin vase both stand on a table. Why is the bucket much harder to knock over?  
-   Options: It has a wide base and a low centre of gravity / It is made of steel, which is heavier than glass / It is closer to the table  
+   Options: It is made of steel, which is heavier than glass / It is closer to the table / It has a wide base and a low centre of gravity  
    **Answer:** It has a wide base and a low centre of gravity. *Why:* A thing topples when the line down from its centre of gravity passes the edge of its base. A wide base and a low centre of gravity make you tilt it much further first.
 16. (mcq) A cup holds 200 grams of water and 20 grams of sugar. The sugar is stirred in until it cannot be seen. What does the scale show for the whole cup, ignoring the cup itself?  
    Options: 220 grams / 200 grams / 180 grams  
@@ -624,7 +624,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    **Answer:** ['zero', '0', 'the zero mark']. *Why:* The zero mark is where the pointer rests with nothing hanging on the scale. If the pointer does not start there, every reading will be wrong by the same amount.
 ### Stretch, Balance and Topple (stretch) (stretch, 17 questions)
 1. (mcq) Look at the graph of a rubber band's stretch. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?  
-   Options: The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before / The band is broken / A rubber band is the same as a steel spring  
+   Options: The band is broken / The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before / A rubber band is the same as a steel spring  
    **Answer:** The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before. *Why:* For a perfect spring, every 100 grams would add the same stretch. These steps grow, so the dots curve upwards. Rubber bands often behave like this, which is why you must calibrate them.
 2. (truefalse) If you pull a spring past its elastic limit, it goes back to its old length when you let go.  
    **Answer:** False. *Why:* False. Past the elastic limit, the spring stays stretched, and a scale made from it is spoilt.
@@ -638,17 +638,17 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 6. (order) Put these steps in order for finding a centre of gravity with plumb lines.  
    **Answer:** ['Hang the shape from the pin by one hole', 'Hang the plumb line from the same pin', 'Draw a line from the hole to the mark where the thread crosses the edge', 'Do the same from two more holes', 'Find where the lines cross']. *Why:* The shape swings until its centre of gravity is below the pin, and the plumb line marks that vertical line. Doing it from several holes gives several lines that cross at the centre of gravity.
 7. (mcq) The plumb lines drawn on a cardboard crescent cross in the air beside it. What does this tell you?  
-   Options: The centre of gravity is outside the crescent, in the hollow of its curve / The crescent has no weight / The plumb line was crooked  
+   Options: The crescent has no weight / The plumb line was crooked / The centre of gravity is outside the crescent, in the hollow of its curve  
    **Answer:** The centre of gravity is outside the crescent, in the hollow of its curve. *Why:* The pulls on all the crumbs of cardboard add up to one pull at the point where the lines cross. For a crescent, that point is in the empty hollow.
 8. (write) Two girls each have a mass of 30 kilograms. One stands on the Earth, where the pull is 9.8 newtons for each kilogram. The other stands on Mars, where it is 3.7. Work out the weight of each, and say what stays the same.  
    **Answer:** On Earth: 30 times 9.8 is 294 newtons. On Mars: 30 times 3.7 is 111 newtons. Each girl has a mass of 30 kilograms, which stays the same on both worlds. Only the weight changes.. *Why:* A strong answer multiplies the mass by each pull, and says that mass is the amount of matter and does not change.
 9. (mcq) A sealed bottle of vinegar and baking soda weighs the same before and after it fizzes. The same mixture in an open cup weighs 3 grams less afterwards. Why?  
-   Options: In the open cup, the gas that was made floated away, taking its mass with it / Baking soda has no mass / The open cup is lighter than the bottle  
+   Options: Baking soda has no mass / In the open cup, the gas that was made floated away, taking its mass with it / The open cup is lighter than the bottle  
    **Answer:** In the open cup, the gas that was made floated away, taking its mass with it. *Why:* The fizz makes carbon dioxide gas, which has mass. In the closed bottle it stays in, so the total is the same. In the open cup, the gas escapes.
 10. (match) Match each idea to a thing you could see or do.  
    **Answer:** A low centre of gravity → A Thanjavur dancing doll rocks and stands up again; Mass is not lost → A sealed bottle weighs the same before and after the fizz; The elastic limit → A paper clip pulled open too far stays bent; A standard mass → A litre of water has a mass of about 1 kilogram; Inertia → A loaded cart is harder to stop than an empty one. *Why:* Each idea shows up in an everyday thing. The doll's weight is low in its base, so it rights itself. Sealed containers keep their mass. Bent clips pass the elastic limit. Water gives a standard. A bigger mass resists a change in movement more.
 11. (mcq) Surface rock is about 2.7 times as dense as water, and the whole Earth is about 5.4 times as dense. What does this tell us?  
-   Options: The inside of the Earth must be much denser than the rock at the surface / The Earth is hollow / The surface rock is lighter than water  
+   Options: The Earth is hollow / The inside of the Earth must be much denser than the rock at the surface / The surface rock is lighter than water  
    **Answer:** The inside of the Earth must be much denser than the rock at the surface. *Why:* If the Earth were rock all the way through, its average density would be about 2.7. It is twice that, so the inside is made of something much heavier. We now know it is an iron core.
 12. (write) A person carrying a heavy pot of water on one hip leans to the other side. Why?  
    **Answer:** The pot pulls the combined centre of gravity of the person and the pot towards the pot's side. Leaning the other way moves it back over the feet. If they did not lean, the line down from the combined centre of gravity would fall outside their feet and they would tip.. *Why:* A strong answer talks about the combined centre of gravity of the person and the load, and the line down from it staying over the feet.
@@ -661,7 +661,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 16. (truefalse) A kilogram of cotton wool and a kilogram of iron balance each other on a two-pan balance.  
    **Answer:** True. *Why:* True. A balance compares masses, and both have a mass of 1 kilogram. The cotton takes up far more room, but that does not matter to a balance.
 17. (mcq) A lorry piled high with sacks is more likely to topple on a sharp bend than the same lorry with the sacks low. Why?  
-   Options: The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels / The sacks are heavier when they are high / The wheels grip less when the load is high  
+   Options: The sacks are heavier when they are high / The wheels grip less when the load is high / The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels  
    **Answer:** The high load raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels. *Why:* The same load weighs the same wherever it is. But a higher centre of gravity means the line down from it leaves the base after a smaller tilt, so the lorry topples more easily.
 ### Weighing the World (challenge) (challenge, 16 questions)
 1. (mcq) A steel spring stretches 2 centimetres under a 200-gram load. If it follows Hooke's law, how far will it stretch under 500 grams?  
@@ -670,7 +670,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 2. (write) A bag has a mass of 12 kilograms. Work out its weight on Earth (9.8 newtons for each kilogram), on the Moon (1.6) and at the cloud tops of Jupiter (25). Show your working.  
    **Answer:** On Earth: 12 times 9.8 is 117.6 newtons. On the Moon: 12 times 1.6 is 19.2 newtons. On Jupiter: 12 times 25 is 300 newtons. The mass is 12 kilograms in every place.. *Why:* A strong answer multiplies the mass by the pull each time, shows each step, and keeps the mass at 12 kilograms.
 3. (mcq) On which world would a 1-kilogram bag pull on your hand like a bag of 160 grams does on Earth?  
-   Options: The Moon / Mars / Jupiter  
+   Options: Mars / Jupiter / The Moon  
    **Answer:** The Moon. *Why:* The Moon pulls with about 1.6 newtons for each kilogram. That is 1.6 divided by 9.8, which is about 0.16 of a kilogram, or 160 grams. Mars would be 380 grams, and Jupiter 2.5 kilograms.
 4. (truefalse) The Earth and the Moon both circle a point that is inside the Earth.  
    **Answer:** True. *Why:* True. The balance point of the Earth and the Moon is about 4,700 kilometres from the Earth's centre. The Earth's radius is about 6,400 kilometres, so the point is inside the Earth.
@@ -682,7 +682,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 7. (fill) A litre of water has a mass of about ____ kilogram.  
    **Answer:** ['1', 'one']. *Why:* The litre and the kilogram were first made to match. A litre of water has a mass of about 1 kilogram, which is why water is a handy standard.
 8. (mcq) A sealed bag of ice is weighed, then the ice melts in warm water, and the bag is dried and weighed again. What will the second weighing show?  
-   Options: The same mass as the first / Less mass, because ice is heavier than water / More mass, because water is heavier than ice  
+   Options: Less mass, because ice is heavier than water / The same mass as the first / More mass, because water is heavier than ice  
    **Answer:** The same mass as the first. *Why:* Melting changes how the particles are arranged, not how many there are. In a sealed bag, nothing can leave, so the mass is the same.
 9. (write) A room is 4 metres long, 5 metres wide and 3 metres high. A cubic metre of air has a mass of about 1.2 kilograms. What is the mass of the air in the room? Show your working.  
    **Answer:** The volume is 4 times 5 times 3, which is 60 cubic metres. 60 times 1.2 is 72 kilograms. The air in the room has a mass of about 72 kilograms, about as much as a grown-up.. *Why:* A strong answer works out the volume first, then multiplies by 1.2, and compares the answer with something familiar.
@@ -710,13 +710,13 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 
 ## Quiz
 1. (mcq) A shopkeeper's two-pan balance holds a mango and a 300-gram weight, and the pans are level on Earth. On the Moon, what will the pans do?  
-   Options: Stay level / The mango side will go down / The weight side will go down  
+   Options: The mango side will go down / Stay level / The weight side will go down  
    **Answer:** Stay level. *Why:* A balance compares two masses. The Moon pulls both pans by the same fraction, so they stay level.
 2. (mcq) A spring scale shows 6 newtons for a bag on Earth. About what will it show on the Moon?  
    Options: About 1 newton / About 6 newtons / About 36 newtons  
    **Answer:** About 1 newton. *Why:* The Moon pulls about one sixth as hard, so the scale shows about one sixth of 6, which is 1 newton. The bag's mass has not changed.
 3. (mcq) Why should you wait for a swinging mango to stop before you read a spring scale?  
-   Options: A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull / A swinging mango loses some of its mass / The scale only works when it is still, and it breaks if it moves  
+   Options: A swinging mango loses some of its mass / A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull / The scale only works when it is still, and it breaks if it moves  
    **Answer:** A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull. *Why:* A spring scale shows the pull on its spring. When the mango swings, the pull changes from moment to moment, so the pointer jumps. A swinging mango keeps its mass. The scale does not break when it moves; it just gives an unsteady number.
 4. (mcq) A steel spring stretches 3 centimetres under 300 grams. What does Hooke's law say about 600 grams?  
    Options: It stretches about 6 centimetres / It stretches about 3 centimetres / It stretches about 9 centimetres  
@@ -728,19 +728,19 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: 74 newtons / 20 newtons / 7.4 newtons  
    **Answer:** 74 newtons. *Why:* Weight is mass times the pull: 20 times 3.7 is 74 newtons. Picking 20 forgets the pull. Picking 7.4 loses a zero.
 7. (mcq) Which of these is the same on every world?  
-   Options: The mass of a bag of rice / The weight of the bag of rice / The reading of a spring scale  
+   Options: The weight of the bag of rice / The reading of a spring scale / The mass of a bag of rice  
    **Answer:** The mass of a bag of rice. *Why:* Mass is how much matter there is, and the bag carries all of it everywhere. Weight and a spring scale's reading depend on the pull of the world.
 8. (mcq) The plumb lines drawn on a cardboard ring cross in the middle of its hole. Where is the ring's centre of gravity?  
-   Options: In the hole, where there is no cardboard / On the cardboard nearest the pin / It has no centre of gravity  
+   Options: On the cardboard nearest the pin / In the hole, where there is no cardboard / It has no centre of gravity  
    **Answer:** In the hole, where there is no cardboard. *Why:* The pulls on all the crumbs of cardboard act as one pull at the crossing point, and for a ring, that is in the empty middle.
 9. (mcq) A bus with luggage piled on its roof topples more easily on a sharp bend than an empty bus. Why?  
    Options: The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels / The luggage makes the bus weigh less / The luggage pushes the bus off the road  
    **Answer:** The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels. *Why:* The higher the centre of gravity, the sooner the line down from it leaves the base. A thing that is low, wide and heavy at the bottom is stable.
 10. (mcq) A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?  
-   Options: The sealed bottle keeps its mass, and the open cup loses some, as gas floats away / Both keep their mass exactly / Both lose mass  
+   Options: Both keep their mass exactly / Both lose mass / The sealed bottle keeps its mass, and the open cup loses some, as gas floats away  
    **Answer:** The sealed bottle keeps its mass, and the open cup loses some, as gas floats away. *Why:* Gas has mass. In the sealed bottle, it cannot leave. In the open cup, it floats away and the scale shows a drop.
 11. (mcq) Sugar is stirred into a cup of water until it cannot be seen. What happens to the mass of the cup and its contents?  
-   Options: It stays the same / It goes down, because the sugar has gone / It goes up, because the sugar is wet  
+   Options: It goes down, because the sugar has gone / It stays the same / It goes up, because the sugar is wet  
    **Answer:** It stays the same. *Why:* Dissolving breaks the sugar into tiny pieces that spread through the water. They are still there and still weigh the same.
 12. (mcq) What did Cavendish's number for the Earth's density, about 5.4 times that of water, show?  
    Options: The inside of the Earth is denser than the rocks at the surface / The Earth is made of water / The Earth is lighter than the Moon  
@@ -749,7 +749,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
    Options: 1 kilogram / 100 grams / 10 kilograms  
    **Answer:** 1 kilogram. *Why:* The litre and the kilogram were first meant to match. A litre of water has a mass of about 1 kilogram, so water is a handy standard mass.
 14. (mcq) A homemade scale and a trusted scale give different answers for the same tomato. What should you do first?  
-   Options: Check both against a known mass, such as a litre of water / Trust the homemade scale, because you made it / Trust the shiny one, because it cost more  
+   Options: Trust the homemade scale, because you made it / Check both against a known mass, such as a litre of water / Trust the shiny one, because it cost more  
    **Answer:** Check both against a known mass, such as a litre of water. *Why:* Before you trust any scale, weigh something you already know. The one that disagrees with the known mass needs fixing.
 
 ## Applications

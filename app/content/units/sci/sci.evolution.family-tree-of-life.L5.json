@@ -625,11 +625,11 @@
       "t": "mcq",
       "q": "A rohu and a shark are both fish. Who is the rohu's closer relative: a shark or you?",
       "options": [
-       "You",
        "The shark",
-       "Both equally"
+       "Both equally",
+       "You"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The rohu's line and the human line split about 435 million years ago. The shark's line had left earlier, about 460 million years ago. So a rohu shares a more recent ancestor with you than with a shark. If you chose 'the shark', you were sorting by shape and by living in water. 'Fish' is a way of life, not one branch."
      },
      "parent": "The dates at the far right have very wide ranges. Say so. The older the split, the less sure the clock.",
@@ -787,11 +787,11 @@
       "t": "mcq",
       "q": "A rat and a human are both alive today. Which sentence is right?",
       "options": [
-       "Their lines have changed for equally long",
        "The rat is an earlier stage of the human",
+       "Their lines have changed for equally long",
        "The rat's line stopped changing long ago"
       ],
-      "a": 0,
+      "a": 1,
       "why": "After the split about 84 million years ago, each line kept on changing, in different directions. Neither is an earlier stage of the other. If you chose 'an earlier stage', you were reading the tree as a ladder. A tree has no top rung."
      },
      "parent": "Most wrong answers come from one of two habits: reading the tips as a ladder, or judging by which tips are drawn side by side.",
@@ -935,11 +935,11 @@
       "t": "mcq",
       "q": "In the Dice Clock Test, what does a roll of 5 or 6 stand for?",
       "options": [
-       "A copying mistake in the DNA",
        "One year going by",
-       "An animal dying"
+       "An animal dying",
+       "A copying mistake in the DNA"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A 5 or 6 stands for a mutation, which is a copying mistake that changes one letter. Every roll stands for time going by, whether or not anything changes. If you chose 'one year going by', notice that most rolls pass with no change at all."
      },
      "parent": "Strip A usually ends with 2 to 4 coloured squares. It can end with 1, or with 5 or 6. Any of these is a real result.",
@@ -1148,11 +1148,11 @@
       "t": "mcq",
       "q": "A strip of 12 squares has 11 coloured. Why will the count now rise very slowly?",
       "options": [
-       "Most new hits land on coloured squares",
        "The die has become tired",
+       "Most new hits land on coloured squares",
        "The slow rule has taken over"
       ],
-      "a": 0,
+      "a": 1,
       "why": "With 11 of 12 squares coloured, eleven hits in twelve land on a square that has already changed. Those are hidden changes, and the count does not go up. If you chose 'the slow rule', check the rule: the fast strip still changes on 3, 4, 5 or 6."
      },
      "parent": "By round 24 the fast strip usually has 8 to 10 coloured squares. By round 48 it has 11 or 12. The slow strip usually has 2 to 4 at round 24, and 5 to 7 at round 48.",
@@ -1476,11 +1476,11 @@
       "t": "mcq",
       "q": "Early whales had teeth like mesonychids but ankles like hippos and deer. What were the teeth?",
       "options": [
-       "A lookalike feature",
        "A shared new feature",
-       "A copying mistake"
+       "A copying mistake",
+       "A lookalike feature"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Meat-eating mammals of several kinds have evolved similar pointed teeth, because the teeth do the same job. So the teeth were a lookalike. The ankle is an odd shape with no link to diet, and DNA agreed with it. If you chose 'a shared new feature', remember that two other kinds of evidence pointed away from mesonychids."
      },
      "parent": "2007, an ear from Kashmir. The geologist A. Ranga Rao had collected fossil-bearing rocks at Kalakot in Kashmir years before. After his death, his widow gave the rocks to Hans Thewissen. A skull broke during cleaning and showed a thick ear bone known only from whales. The animal, Indohyus, was a deer-like wader the size of a fox. Sunil Bajpai and B. N. Tiwari were among the Indian scientists on the team. The scientists of 1966 reasoned well from what they had. Teeth were the only evidence then.",
@@ -1553,11 +1553,11 @@
       "t": "mcq",
       "q": "On the tree (((human, chimpanzee), gorilla), orangutan), who is the gorilla's closer relative?",
       "options": [
-       "Human and chimpanzee, equally",
        "The chimpanzee",
+       "Human and chimpanzee, equally",
        "The orangutan"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The gorilla's line joins the tree at the fork below the human and chimpanzee pair. So the gorilla shares the same ancestor with both, and is equally related to each. If you chose 'the chimpanzee', you may have judged by which name is written nearer. Only the forks count."
      },
      "parent": "One answer is (orangutan, ((chimpanzee, human), gorilla)). Any order is fine if the same members sit inside each pair of brackets.",
@@ -1640,11 +1640,11 @@
       "t": "mcq",
       "q": "On the tree (((tomato, potato), brinjal), chilli), is the brinjal closer to the tomato or the potato?",
       "options": [
-       "Equally close to both",
        "Closer to the tomato",
+       "Equally close to both",
        "Closer to the potato"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The brinjal's line joins below the fork that the tomato and the potato share. So the brinjal's last shared ancestor with the tomato is the very same one as with the potato, about 15.8 million years ago. If you chose 'the tomato', you may have been thinking of how alike the fruits look."
      },
      "parent": "The surprise is that the potato, with a different-looking edible part, is the tomato's closest relative here. The part people eat says little about the family.",
@@ -1861,12 +1861,12 @@
      "t": "mcq",
      "p": "What decides how closely two living beings are related?",
      "opts": [
-      "How recently their family lines split",
       "How alike they look",
       "Whether they live in the same place",
-      "Whether they eat the same food"
+      "Whether they eat the same food",
+      "How recently their family lines split"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Relatives are close when their shared ancestor lived recently. Looks and homes can match in distant relatives. Choosing 'how alike they look' is the natural first guess, and the dolphin and the shark show why it fails."
     },
     {
@@ -1985,12 +1985,12 @@
      "t": "mcq",
      "p": "A strip gains 6 coloured squares in 20 rounds. What is the rate?",
      "opts": [
-      "0.3 squares in each round",
       "3 squares in each round",
+      "0.3 squares in each round",
       "26 squares in each round",
       "120 squares in each round"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A rate is the amount divided by the time. 6 ÷ 20 = 0.3. Choosing 120 means multiplying where dividing was needed. Choosing 26 means adding.",
      "how": "e1"
     },
@@ -2055,12 +2055,12 @@
      "t": "mcq",
      "p": "Why do scientists give the date of a split as a range?",
      "opts": [
-      "The changes arrive by chance, so counts wobble",
       "They have not tried hard enough",
       "Dates are a matter of opinion",
-      "The fossils keep moving"
+      "The fossils keep moving",
+      "The changes arrive by chance, so counts wobble"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A count of chance events is never exactly the average, and the rate itself is an estimate. A range is the honest way to say how far off the date could be. Choosing 'a matter of opinion' misses that the range is worked out from the data."
     }
    ]
@@ -2102,12 +2102,12 @@
      "t": "mcq",
      "p": "A fast-changing strip of 12 squares is nearly full. What can it no longer tell you?",
      "opts": [
-      "A long time from a very long time",
       "Whether any time has passed",
+      "A long time from a very long time",
       "Which die was used",
       "How many squares it has"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Once nearly every square has changed, more rounds add almost nothing to the count. So 24 rounds and 48 rounds look alike. The strip still shows that plenty of time has passed.",
      "how": "e2"
     },
@@ -2229,12 +2229,12 @@
      "t": "mcq",
      "p": "Two frog families split 131 million years ago. Their lands broke apart 65 million years ago. What follows?",
      "opts": [
-      "The families were separate before the land split",
       "The land split caused the families to split",
+      "The families were separate before the land split",
       "The frogs swam across the sea",
       "The clock must be wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "131 is older than 65. So the two families already existed while the land was one piece. When the land broke up, each piece carried one family away. Choosing 'the land split caused it' would need the two dates to match."
     },
     {
@@ -2266,12 +2266,12 @@
      "t": "mcq",
      "p": "Two species differ in 2 letters per 100 and split 10 million years ago. When did a pair that differs in 6 split?",
      "opts": [
-      "About 30 million years ago",
       "About 12 million years ago",
+      "About 30 million years ago",
       "About 60 million years ago",
       "About 3 million years ago"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the rate is the same, three times the differences means three times the time. 6 ÷ 2 = 3, and 3 × 10 = 30. Choosing 12 means adding 2 to 10 where multiplying was needed. These numbers are made up."
     },
     {
@@ -2300,12 +2300,12 @@
      "t": "mcq",
      "p": "Different genes give different trees for three species. What do scientists report as the species tree?",
      "opts": [
-      "The tree most of the DNA supports",
       "The tree from the longest gene",
+      "The tree most of the DNA supports",
       "The tree found first",
       "The tree that matches looks"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each stretch of DNA has a history of its own. The species tree is the one that the large majority of stretches agree on. Scientists also report how many disagree, because that shows how quickly the splits followed each other."
     },
     {
@@ -2343,12 +2343,12 @@
      "t": "mcq",
      "p": "Rats collect DNA changes faster each year than elephants do. What is one likely reason?",
      "opts": [
-      "Rat generations are short, so DNA is copied more often",
       "Rats are less careful animals",
       "Rat DNA uses different letters",
-      "Elephant DNA never changes"
+      "Elephant DNA never changes",
+      "Rat generations are short, so DNA is copied more often"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Many mutations happen when DNA is copied for the next generation. A rat can be a parent within months, and an elephant takes more than ten years. So a century holds far more rat generations. Scientists think other causes add to this too."
     },
     {
@@ -2419,12 +2419,12 @@
      "t": "mcq",
      "p": "Tamil and Malayalam share many old words. What does a family tree of languages say about this?",
      "opts": [
-      "Both descend from one earlier language",
       "Each borrowed every word from the other",
       "All languages have the same words",
-      "It is chance"
+      "It is chance",
+      "Both descend from one earlier language"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Languages are passed on by copying, with small changes kept. Two languages that share many old words, changed in regular ways, split from one parent language. The reasoning is the same as for shared changes in DNA."
     },
     {
@@ -2477,12 +2477,12 @@
    "t": "mcq",
    "p": "On a family tree, how do you find out how closely two tips are related?",
    "opts": [
-    "Trace back to the fork where their lines meet",
     "See how near each other they are drawn",
     "Count the tips between them",
+    "Trace back to the fork where their lines meet",
     "Check which is nearer the top"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The fork where two lines meet is their last shared ancestor. The more recent that fork, the closer the relatives. How near two tips are drawn means nothing, because any fork can be flipped.",
    "outcome": 0
   },
@@ -2490,12 +2490,12 @@
    "t": "mcq",
    "p": "A tree is drawn with a fish at the left and a human at the right. What does that order show?",
    "opts": [
-    "Nothing: the order of the tips has no meaning",
     "Fish are less evolved than humans",
     "Humans came last",
+    "Nothing: the order of the tips has no meaning",
     "Fish are the ancestors of humans"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The same tree can be drawn with the tips in many orders. Every living tip has been evolving for the same length of time. Choosing 'less evolved' reads the tree as a ladder, which a tree is not.",
    "outcome": 0
   },
@@ -2503,12 +2503,12 @@
    "t": "mcq",
    "p": "A bat and a crow both have wings. Why is that weak evidence that they are close relatives?",
    "opts": [
-    "Wings evolved separately in each, and are built differently",
     "Wings are too small to study",
+    "Wings evolved separately in each, and are built differently",
     "Bats fly only at night",
     "All animals once had wings"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bat's wing is skin over long finger bones, and a crow's is feathers on an arm. The two evolved separately, for the same job. A lookalike feature tells you how animals live, not who their ancestors were.",
    "outcome": 1
   },
@@ -2516,12 +2516,12 @@
    "t": "mcq",
    "p": "Which feature best shows that a dolphin is closer to a cow than to a shark?",
    "opts": [
-    "The mother feeds her young on milk",
     "The dolphin lives in the sea",
     "The dolphin has a backbone",
+    "The mother feeds her young on milk",
     "The dolphin has a smooth shape"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Milk is a new feature that appeared once, in the first mammals, so sharing it marks a shared ancestor. All three have a backbone, so it cannot separate them. The smooth shape is a lookalike shared with the shark.",
    "outcome": 1
   },
@@ -2529,12 +2529,12 @@
    "t": "mcq",
    "p": "Scientists first try the tree that needs the fewest changes. What counts as a change?",
    "opts": [
-    "A feature appearing or being lost",
     "A new fossil being found",
+    "A feature appearing or being lost",
     "A scientist changing her mind",
     "An animal moving to a new place"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each change is an event in a family line: a feature appears, or is lost. A tree that makes milk or lungs appear twice needs more such events, so it is less likely.",
    "outcome": 2
   },
@@ -2542,12 +2542,12 @@
    "t": "mcq",
    "p": "Why can copying mistakes in DNA be used as a clock?",
    "opts": [
-    "Over long times they add up at a steady average rate",
     "Each mistake happens on a fixed date",
     "Cells count the years",
-    "Mistakes happen only once a year"
+    "Mistakes happen only once a year",
+    "Over long times they add up at a steady average rate"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each mistake is chance, but a large number of chance events has a steady average. So the count of differences grows roughly in step with time. No cell counts years, and no mistake has a fixed date.",
    "outcome": 3
   },
@@ -2562,12 +2562,12 @@
    "t": "mcq",
    "p": "What is a dated fossil used for in a molecular clock?",
    "opts": [
-    "To set the rate of the clock",
     "To supply the DNA",
     "To replace the counting of differences",
-    "To decide which genes to read"
+    "To decide which genes to read",
+    "To set the rate of the clock"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The fossil gives a known date for one split. Dividing the DNA differences for that split by the date gives the rate. Almost no fossil has DNA left, so the DNA comes from living relatives.",
    "outcome": 4
   },
@@ -2575,12 +2575,12 @@
    "t": "mcq",
    "p": "A study dates a split to '131 million years ago, between 93 and 177'. What does the range tell you?",
    "opts": [
-    "How far from 131 the true date might be",
     "That the scientists disagree with each other",
+    "How far from 131 the true date might be",
     "That there were two splits",
     "That the study failed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The count of chance changes wobbles, and the rate is an estimate. The range shows the dates that fit the evidence. A study that gave no range would be hiding its uncertainty.",
    "outcome": 4
   },
@@ -2588,12 +2588,12 @@
    "t": "mcq",
    "p": "Which pair are each other's closest living relatives?",
    "opts": [
-    "A whale and a hippo",
     "A shark and a dolphin",
     "A bat and a crow",
+    "A whale and a hippo",
     "A dugong and a dolphin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "DNA, jumping genes and fossil ankle bones all place whales beside hippos. The other three pairs only look alike, because they swim or fly in the same way.",
    "outcome": 5
   },
@@ -2601,12 +2601,12 @@
    "t": "mcq",
    "p": "Fossil whales with legs had a double-pulley ankle bone. What did that show?",
    "opts": [
-    "Whales belong with hippos, cattle and deer",
     "Whales once climbed trees",
     "The fossils were not whales",
-    "Ankles are lookalike features"
+    "Ankles are lookalike features",
+    "Whales belong with hippos, cattle and deer"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Only the even-toed hoofed mammals have that ankle. Finding it in early whales agreed with what DNA had already shown. An odd bone shape with no link to diet or swimming is unlikely to be a lookalike.",
    "outcome": 5
   },

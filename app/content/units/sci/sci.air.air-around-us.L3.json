@@ -723,11 +723,11 @@
       "t": "mcq",
       "q": "Where is the air in a kitchen sponge?",
       "options": [
-       "In its many small holes",
        "There is no air in a sponge",
-       "Only on its surface"
+       "Only on its surface",
+       "In its many small holes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A sponge is full of small holes, and the holes are full of air. Squeeze a sponge under water and bubbles come out."
      }
     },
@@ -862,10 +862,10 @@
       "q": "Bubbles came up as the water went into the chana. What were they?",
       "options": [
        "Water turning into gas",
-       "Air that was in the gaps between the grains",
-       "Gas coming out of the chana"
+       "Gas coming out of the chana",
+       "Air that was in the gaps between the grains"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The gaps between the grains were full of air. The water pushed it out, so it rose as bubbles. Picking 'gas from the chana' is a fair guess, but the bubbles come quickly, from between the grains, as soon as the water arrives. Water does not turn into gas in a cold glass."
      }
     },
@@ -1173,10 +1173,10 @@
       "q": "You cover the top of a straw and push it into water. Why does hardly any water go in?",
       "options": [
        "Water can't go up a straw",
-       "The air in the straw is in the way, and it can't get out",
-       "Your finger is too cold"
+       "Your finger is too cold",
+       "The air in the straw is in the way, and it can't get out"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The straw is full of air. With the top covered, the air cannot get out, so the water cannot take its place. Water can go up a straw: it rose inside as soon as you lifted your finger."
      }
     }
@@ -1244,11 +1244,11 @@
       "t": "mcq",
       "q": "Why does your chest grow when you breathe in?",
       "options": [
-       "Your lungs fill with air, and air takes up space",
        "Your heart gets bigger",
+       "Your lungs fill with air, and air takes up space",
        "Your muscles fill with blood"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Air takes up space. When your lungs fill with air, your ribs move out to make room, so your chest grows. Your heart stays the same size."
      }
     }
@@ -1321,11 +1321,11 @@
       "t": "mcq",
       "q": "The soda bottle got a few grams lighter after it went flat. Why?",
       "options": [
-       "The gas that fizzed out had weight",
        "The bottle dried out",
-       "The scale is broken"
+       "The scale is broken",
+       "The gas that fizzed out had weight"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The fizz is carbon dioxide gas. When it escaped into the air, it took its weight with it. Gases, including the air, have weight."
      }
     }
@@ -1403,11 +1403,11 @@
       "t": "mcq",
       "q": "Why does a lotus stem have big holes running along it?",
       "options": [
-       "To carry air down to the parts stuck in airless mud",
        "To make the stem lighter to eat",
-       "To hold water for dry days"
+       "To hold water for dry days",
+       "To carry air down to the parts stuck in airless mud"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The mud at the bottom of a pond has almost no oxygen. The holes are air canals that carry air from the leaves down to the stem and roots, which need oxygen to live."
      }
     }
@@ -1554,11 +1554,11 @@
       "t": "mcq",
       "q": "Why don't we feel the weight of all the air in a room?",
       "options": [
-       "Air pushes on us equally from every side, and our bodies push back",
        "Air has no weight",
-       "The ceiling holds it up"
+       "The ceiling holds it up",
+       "Air pushes on us equally from every side, and our bodies push back"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Air does have weight, as the numbers show. But it presses on us from every side at once, above, below and around, and our bodies push back equally. So we feel nothing. The ceiling does not hold the air up."
      }
     }
@@ -1630,11 +1630,11 @@
       "t": "mcq",
       "q": "How did your breath lift the books?",
       "options": [
-       "The air took up space in the bag and pushed the books up",
        "Breath is warm, and warm things rise",
+       "The air took up space in the bag and pushed the books up",
        "The bag is magic"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Air takes up space. As you blew more air into the bag, it needed more room, so it pushed up on the books. Because it pushed on the whole bottom of the pile at once, it could lift a lot. Warm air does rise, but that is far too weak to lift books."
      }
     }
@@ -1702,11 +1702,11 @@
       "t": "mcq",
       "q": "Why does a bottle of water glug when you tip it straight upside down?",
       "options": [
-       "Air must bubble in to take the place of the water going out",
        "The water is too heavy",
-       "The bottle is too small"
+       "The bottle is too small",
+       "Air must bubble in to take the place of the water going out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The water can only leave if something takes its place. Air bubbles in, a gulp at a time, and each gulp makes a glug. Swirling gives the air a steady path in, so the water flows out without stopping."
      }
     }
@@ -1767,11 +1767,11 @@
    "t": "mcq",
    "p": "You push a balloon into an empty bottle, stretch its mouth over the bottle's neck, and try to blow it up. It hardly grows. Why?",
    "opts": [
-    "The balloon is broken",
     "The bottle is full of air, and the air has nowhere to go",
+    "The balloon is broken",
     "Your breath is too weak"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Air takes up space. The air already in the bottle stops the balloon growing. With a hole in the bottle, it blows up easily.",
    "outcome": 0,
    "how": "a1"
@@ -1780,11 +1780,11 @@
    "t": "mcq",
    "p": "A syringe of air is blocked at the tip. Can you push the plunger in?",
    "opts": [
-    "Yes, part of the way, because air can be squashed",
     "No, not at all",
+    "Yes, part of the way, because air can be squashed",
     "Yes, all the way to zero"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air can be compressed, so the plunger goes in part of the way. It cannot go to zero, because the squashed air pushes back harder and harder.",
    "outcome": 1,
    "how": "e2"
@@ -1794,10 +1794,10 @@
    "p": "About how much does one litre of air weigh?",
    "opts": [
     "Nothing at all",
-    "About 1.2 grams",
-    "About 1 kilogram"
+    "About 1 kilogram",
+    "About 1.2 grams"
    ],
-   "a": 1,
+   "a": 2,
    "why": "One litre of air weighs about 1.2 grams. One litre of water weighs about 1 kilogram, more than 800 times as much.",
    "outcome": 2
   },
@@ -1805,11 +1805,11 @@
    "t": "mcq",
    "p": "Which gas makes up most of the air?",
    "opts": [
-    "Oxygen",
     "Nitrogen",
+    "Oxygen",
     "Carbon dioxide"
    ],
-   "a": 1,
+   "a": 0,
    "why": "About four-fifths of air is nitrogen. Oxygen is about one-fifth. Carbon dioxide is only a tiny part. Many people guess oxygen, because it is the one we need.",
    "outcome": 3
   },
@@ -1830,10 +1830,10 @@
    "p": "Compared with the air around us, the air you breathe out has:",
    "opts": [
     "more oxygen and less carbon dioxide",
-    "less oxygen and more carbon dioxide",
-    "exactly the same gases"
+    "exactly the same gases",
+    "less oxygen and more carbon dioxide"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your cells used some oxygen and made carbon dioxide. Breathed-out air has about 16 parts oxygen in 100 instead of 21, and about 100 times more carbon dioxide.",
    "outcome": 4
   },
@@ -1842,10 +1842,10 @@
    "p": "In bright sunlight, what does a leaf take in from the air?",
    "opts": [
     "Oxygen only",
-    "Carbon dioxide, to make food",
-    "Nitrogen, to make food"
+    "Nitrogen, to make food",
+    "Carbon dioxide, to make food"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In light, leaves take in carbon dioxide through their stomata and use it with water to make sugar. They also use a little oxygen, but they give out much more than they use.",
    "outcome": 5
   },
@@ -1865,11 +1865,11 @@
    "t": "mcq",
    "p": "Thinkers in ancient Greece squeezed a wine bag full of air and felt it push back. What did this show?",
    "opts": [
-    "That a pot that looks empty is full of air",
     "That water is heavier than wine",
+    "That a pot that looks empty is full of air",
     "That air is made of fire"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A water thief is a jar with small holes in the bottom. When its top is covered, the air inside keeps water out for the same reason.",
    "outcome": 6,
    "how": "a2"
@@ -1891,10 +1891,10 @@
    "p": "In a thunderstorm you see the flash, and then you hear the thunder a few seconds later. Why?",
    "opts": [
     "Light needs air to travel, but sound does not",
-    "Sound travels through air much more slowly than light does",
-    "The thunder happens after the flash is over"
+    "The thunder happens after the flash is over",
+    "Sound travels through air much more slowly than light does"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Light travels almost instantly, and sound runs through the air at about 340 metres each second. Light does not need air at all. Sound does.",
    "outcome": 0
   },
@@ -1903,10 +1903,10 @@
    "p": "It is a cold night. Which is the safest way to keep a bedroom's air fresh?",
    "opts": [
     "Seal every gap and light a coal fire inside",
-    "Keep a small window open, and warm up with a blanket",
-    "Burn some paper to warm the room"
+    "Burn some paper to warm the room",
+    "Keep a small window open, and warm up with a blanket"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A little fresh air keeps the room from getting stuffy. A coal fire in a sealed room makes carbon monoxide, a poisonous gas you cannot see or smell. Burning paper makes smoke.",
    "outcome": 5
   }
@@ -2070,11 +2070,11 @@
      "t": "mcq",
      "p": "A dry tissue is pressed into the bottom of a steel tumbler. The tumbler is turned upside down and pushed straight down into a bucket of water. What happens to the tissue?",
      "opts": [
-      "It stays dry or nearly dry",
       "It gets soaked at once",
+      "It stays dry or nearly dry",
       "It floats out of the tumbler"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The tumbler is full of air, and the air cannot get out. So the water cannot take its place, and the tissue stays dry. Air takes up space."
     },
     {
@@ -2281,11 +2281,11 @@
      "t": "mcq",
      "p": "Why do plant pots have holes in the bottom?",
      "opts": [
-      "So extra water drains away and air can get back into the soil",
       "So insects can get in",
+      "So extra water drains away and air can get back into the soil",
       "So the pot is lighter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When extra water drains out, air comes back into the gaps in the soil. Roots need the oxygen in that air."
     },
     {

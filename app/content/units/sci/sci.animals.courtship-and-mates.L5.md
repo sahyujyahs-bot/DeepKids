@@ -514,7 +514,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 ## Worksheets
 ### Who Cares for the Young? (core) (core, 15 questions)
 1. (mcq) What makes an animal female?  
-   Options: She makes the larger sex cells / She looks after the young / She is smaller than the male  
+   Options: She looks after the young / She is smaller than the male / She makes the larger sex cells  
    **Answer:** She makes the larger sex cells. *Why:* A female is the one who makes egg cells, the larger sex cells. Caring and size do not decide it. Jacana females are bigger than males and do not sit on the eggs.
 2. (mcq) A seahorse father carries the young. Why is he still called male?  
    Options: He makes sperm / He is the bigger one / He does not feed the young  
@@ -533,7 +533,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: The one always covered / The one covered half the time / The one never covered  
    **Answer:** The one always covered. *Why:* A cover slows the loss of warmth. The tumbler that was never bare lost the least. If you chose the half-covered one, remember that it lost warmth in every bare minute.
 9. (mcq) What are the two parts of sexual selection?  
-   Options: Competing for partners and choosing partners / Finding food and hiding from hunters / Laying eggs and guarding them  
+   Options: Finding food and hiding from hunters / Laying eggs and guarding them / Competing for partners and choosing partners  
    **Answer:** Competing for partners and choosing partners. *Why:* Sexual selection is about winning partners, by competing with rivals and by being chosen. Finding food and hiding are about staying alive, which is a different matter.
 10. (count) A guard kept 12, 11 and 12 coins in three tries. What is the middle number?  
    **Answer:** 12. *Why:* Put the numbers in order: 11, 12, 12. The middle one is 12. The middle number is not pulled about by one odd try.
@@ -553,7 +553,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: 2 / 8 / 10  
    **Answer:** 2. *Why:* Every pup has one father. If one male fathered 8 of the 10, only 2 are left for the other nine males. Most of them fathered none.
 2. (mcq) Why is the sex that spends more on each young usually the choosier one?  
-   Options: A poor choice costs them more / They are shyer by nature / They are the weaker sex  
+   Options: They are shyer by nature / A poor choice costs them more / They are the weaker sex  
    **Answer:** A poor choice costs them more. *Why:* A cow who chooses badly loses a whole year. A bull loses almost nothing. Choosiness follows the cost. In jacanas the father spends more, and he is the one the females compete for.
 3. (truefalse) All the females in a group together have the same number of young as all the males together.  
    **Answer:** True. *Why:* True. Each young has exactly one mother and one father, so the two totals must be equal. What differs is how evenly the young are shared out.
@@ -585,13 +585,13 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    **Answer:** Answers vary. A strong answer picks a side with a reason, and names something to count, such as how many kinds of animals fit each pattern.. *Why:* Both views accept the same facts. They differ on whether the exceptions are rare or whether surroundings decide most of it. Scientists still argue about this.
 ### Test the Idea (challenge) (challenge, 15 questions)
 1. (mcq) Some pond algae make sex cells of one size only. What follows from that?  
-   Options: They have no females and no males / They are all female / They cannot have young  
+   Options: They are all female / They cannot have young / They have no females and no males  
    **Answer:** They have no females and no males. *Why:* Female and male are defined by two sizes of sex cell. With one size there are no two sexes, yet the cells still join and make young.
 2. (mcq) Why might middle-sized sex cells do badly?  
    Options: Too few to find partners, too small to feed young / They swim too fast to join / Other cells eat them first  
    **Answer:** Too few to find partners, too small to feed young. *Why:* Tiny cells win by being many. Large cells win by feeding the young well. A middle size gets neither gain. This is the leading idea, and it is not proved.
 3. (mcq) The sand on a turtle beach gets warmer every year. What is likely to change?  
-   Options: More hatchlings will be female / More hatchlings will be male / The eggs will grow larger  
+   Options: More hatchlings will be male / The eggs will grow larger / More hatchlings will be female  
    **Answer:** More hatchlings will be female. *Why:* In sea turtles the warmth of the nest sets the sex of the hatchling. Warmer nests give more females. Too few males could become a problem.
 4. (truefalse) A clownfish can be a father one year and a mother in a later year.  
    **Answer:** True. *Why:* True. All clownfish start as males. If the female of a group is lost, her mate changes into a female.
@@ -626,30 +626,30 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
 
 ## Quiz
 1. (mcq) Among all animals, which one is the female?  
-   Options: The one who makes egg cells / The one who sits on the eggs / The smaller of the two  
+   Options: The one who sits on the eggs / The one who makes egg cells / The smaller of the two  
    **Answer:** The one who makes egg cells. *Why:* Female means the maker of the larger sex cells, the egg cells. If you chose 'sits on the eggs', remember the jacana father and the emperor penguin father.
 2. (mcq) Peahens pick among peacocks. Blackbuck males fight each other. Both are parts of what?  
-   Options: Sexual selection / Parental care / Cooperative breeding  
+   Options: Parental care / Sexual selection / Cooperative breeding  
    **Answer:** Sexual selection. *Why:* Choosing and competing are the two parts of sexual selection. Parental care is what happens after the eggs or young arrive.
 3. (truefalse) Every pup has one mother and one father, so female and male seals have the same total number of pups.  
    **Answer:** True. *Why:* True. The totals must match. But the pups are shared evenly among the mothers and very unevenly among the fathers.
 4. (mcq) One female jacana has three mates. What is this family system called?  
-   Options: Polyandry / Polygyny / Monogamy  
+   Options: Polygyny / Polyandry / Monogamy  
    **Answer:** Polyandry. *Why:* Polyandry is one female with several males. Polygyny is the reverse, one male with several females.
 5. (mcq) One male gorilla lives with several females. What is this family system called?  
-   Options: Polygyny / Polyandry / Promiscuity  
+   Options: Polyandry / Polygyny / Promiscuity  
    **Answer:** Polygyny. *Why:* Polygyny is one male with several females. In promiscuity, both sexes have several partners and no group stays around one male.
 6. (mcq) In jacanas the father does all the caring. Who competes for partners?  
    Options: The females / The males / Nobody competes  
    **Answer:** The females. *Why:* The sex that spends less on each young competes for the sex that spends more. In jacanas the fathers spend more, so the females compete.
 7. (mcq) In the Warm Egg Test, what did the lid and cloth do?  
-   Options: They slowed the loss of warmth / They made new warmth / They made no difference  
+   Options: They made new warmth / They made no difference / They slowed the loss of warmth  
    **Answer:** They slowed the loss of warmth. *Why:* A cover only slows the loss. The warmth that left in the bare minutes did not come back. If you chose 'made new warmth', remember that even tumbler A cooled a little.
 8. (mcq) Why do fathers help with the young in so few kinds of mammals?  
    Options: Only mothers carry the baby and make milk / Mammal fathers are lazy / Mammal babies need very little  
    **Answer:** Only mothers carry the baby and make milk. *Why:* What the young need most, a warm body to grow in and then milk, only the mother can give. So in most mammals a father can add little.
 9. (mcq) Where do young seahorses grow before they are born?  
-   Options: In a pouch on the father / Inside the mother / In a nest of seagrass  
+   Options: Inside the mother / In a nest of seagrass / In a pouch on the father  
    **Answer:** In a pouch on the father. *Why:* The mother puts her eggs into the father's brood pouch. He carries them for 9 to 45 days and then gives birth.
 10. (truefalse) A spotted hyena clan is usually led by a female.  
    **Answer:** True. *Why:* True. Hyena females outrank the males, and a cub takes the rank just below their mother.
@@ -657,7 +657,7 @@ Thamarai took the binoculars from around her neck and put them around his. 'Come
    Options: Tell friends from strangers / Run faster from danger / Find more partners  
    **Answer:** Tell friends from strangers. *Why:* Families with older matriarchs bunched together at a stranger's call and stayed calm at a friend's. The leader's memory helped everyone.
 12. (mcq) Some animals keep harems. Does that show how people should live?  
-   Options: No. A fact is not a rule / Yes. Nature is always right / Yes, if the animal is a mammal  
+   Options: Yes. Nature is always right / No. A fact is not a rule / Yes, if the animal is a mammal  
    **Answer:** No. A fact is not a rule. *Why:* Other animals live in every kind of family. What happens in nature is a fact about them. It cannot tell people what is fair or right.
 
 ## Applications

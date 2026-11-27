@@ -394,7 +394,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Order → things arranged by a rule; Pattern → something that repeats the same way; Gravity → the force that pulls things down; Predict → say what will happen before it happens. *Why:* These are the four words the child needs to talk about the tests. Order and pattern are about rules. Gravity is the pull down. Predict is saying what comes next.
 2. (mcq) In the paper leaf test, which one landed inside the circle most often?  
-   Options: The flat paper leaf / The crumpled paper ball / Both the same  
+   Options: The crumpled paper ball / The flat paper leaf / Both the same  
    **Answer:** The crumpled paper ball. *Why:* The ball fell almost straight down, because the air could not push it about much. Choosing 'both the same' means thinking that the same weight gives the same fall. The test shows shape matters too.
 3. (sort) Sort these into 'can happen the same way again' and 'never happens the same way twice'.  
    **Answer:** a kolam drawn around dots → Same again; a dry leaf falling → Never twice; pencils lined up from short to long → Same again; a splash of milk → Never twice; a clap pattern → Same again; the shape of a cloud → Never twice. *Why:* The kolam, the pencil line and the clap pattern all follow a rule you can repeat. The leaf, the splash and the cloud follow rules too, but tiny changes make them different every time.
@@ -417,7 +417,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    **Answer:** [0, 1, 2, 3]. *Why:* First you make two leaves that weigh the same. Then you make one into a ball. Then you drop and mark, and last you count to compare.
 ### Rules You Can't See (stretch) (stretch, 10 questions)
 1. (mcq) In the splash test, which drop made the most little dots around its splash?  
-   Options: A drop from 30 centimetres / A drop from one metre / Both made the same number  
+   Options: A drop from one metre / A drop from 30 centimetres / Both made the same number  
    **Answer:** A drop from one metre. *Why:* A drop from higher up hits harder. It spreads further and breaks into more little dots. Choosing "the same number" means thinking that the height of the drop makes no difference to the splash.
 2. (write) The water and the height were the same. Why were the four splashes still different?  
    **Answer:** Each drop wobbles a little as it falls, and the paper has tiny bumps. These tiny differences change where the splash breaks into little dots.. *Why:* A strong answer names a tiny difference we cannot see, such as the wobble of the drop or bumps on the paper. Saying 'by luck' does not say what made them different.
@@ -436,7 +436,7 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
 9. (label) Look at the kolam. Label the dot, the line and the rule.  
    **Answer:** ['dot: the dots in the grid', 'line: the white line looping around the dots', 'rule: the line goes around every dot and never touches it']. *Why:* A kolam has order because it follows a rule. The dots show where the line goes, and the rule says how it goes around them.
 10. (mcq) Weather follows rules of air, water and heat. Why can't weather scientists say exactly what the weather will be a month from now?  
-   Options: Weather has no rules at all / Tiny changes in the air grow bigger over time / Nobody has ever tried  
+   Options: Weather has no rules at all / Nobody has ever tried / Tiny changes in the air grow bigger over time  
    **Answer:** Tiny changes in the air grow bigger over time. *Why:* Weather is chaotic, like the falling leaf. Tiny changes in the air grow over the days. Choosing 'no rules at all' mixes up 'hard to predict' with 'has no rules'.
 
 ## Videos
@@ -449,19 +449,19 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    Options: Things arranged by a rule / Things thrown into a heap / Things that are very small  
    **Answer:** Things arranged by a rule. *Why:* Order means there is a rule, so you can say where each thing goes. A heap has no rule we can use.
 2. (mcq) Which of these is a pattern?  
-   Options: Rajma beans tipped onto a plate / Clap, clap, stamp, clap, clap, stamp / A cloud changing shape  
+   Options: Rajma beans tipped onto a plate / A cloud changing shape / Clap, clap, stamp, clap, clap, stamp  
    **Answer:** Clap, clap, stamp, clap, clap, stamp. *Why:* A pattern repeats in the same way. Clap, clap, stamp repeats. The beans and the cloud never repeat.
 3. (mcq) You drop a crumpled paper ball ten times from the same height. Where does it land?  
-   Options: Near the same spot every time / In a new place far away each time / It floats and never lands  
+   Options: In a new place far away each time / Near the same spot every time / It floats and never lands  
    **Answer:** Near the same spot every time. *Why:* The air cannot push the small round ball about much, so it falls nearly straight down every time.
 4. (mcq) You drop a flat paper leaf ten times from the same height. Where does it land?  
-   Options: In exactly the same spot every time / In a new place each time / Always in the middle of the circle  
+   Options: In a new place each time / In exactly the same spot every time / Always in the middle of the circle  
    **Answer:** In a new place each time. *Why:* The air pushes on the flat leaf and makes it swing. Tiny changes in each drop send it somewhere new.
 5. (mcq) Which two forces act on a falling leaf?  
-   Options: Gravity pulling down and air pushing back / Only gravity / Only the wind  
+   Options: Only gravity / Gravity pulling down and air pushing back / Only the wind  
    **Answer:** Gravity pulling down and air pushing back. *Why:* Gravity pulls every falling thing down. The air pushes back against it as it falls. Even with no wind, the air still pushes.
 6. (mcq) Why can't you make a flat paper leaf land in the same place twice?  
-   Options: The rules of falling change every time / You can never let go of it in exactly the same way, and the air moves a tiny bit / Paper is too heavy  
+   Options: You can never let go of it in exactly the same way, and the air moves a tiny bit / The rules of falling change every time / Paper is too heavy  
    **Answer:** You can never let go of it in exactly the same way, and the air moves a tiny bit. *Why:* The rules stay the same. What changes are tiny things, like your fingers and the air. On a flat leaf, those tiny changes grow into a big difference.
 7. (mcq) You drop four drops of haldi water from the same height onto paper. What will you see?  
    Options: Four splashes exactly the same / Four splashes, each a little different / No splashes at all  
@@ -470,13 +470,13 @@ The next morning, Nila drew her kolam again, and it came out the same as before.
    Options: Smaller, with fewer dots / Bigger, with more dots around it / Exactly the same as a low drop  
    **Answer:** Bigger, with more dots around it. *Why:* A drop from higher up hits harder. It spreads further and breaks into more little dots.
 9. (mcq) A splash looks messy. Does it follow rules?  
-   Options: Yes, the water follows the same rules every time / No, messy things have no rules / Only on sunny days  
+   Options: No, messy things have no rules / Yes, the water follows the same rules every time / Only on sunny days  
    **Answer:** Yes, the water follows the same rules every time. *Why:* Messy does not mean there are no rules. The water always falls and spreads out by the same rules. Tiny changes make each splash different.
 10. (mcq) What do scientists call things that follow rules but never happen the same way twice?  
-   Options: Order / Chaos / A pattern  
+   Options: Order / A pattern / Chaos  
    **Answer:** Chaos. *Why:* Chaos is the word for things like falling leaves and weather. They follow rules, but tiny changes at the start make big changes at the end.
 11. (mcq) Is anything in the world truly random, with nothing at all deciding how it comes out?  
-   Options: Yes, scientists have proved it / No, scientists have proved it / Scientists still argue about it  
+   Options: Scientists still argue about it / Yes, scientists have proved it / No, scientists have proved it  
    **Answer:** Scientists still argue about it. *Why:* Some scientists think the tiniest particles are truly random. Others think there may be hidden rules. Nobody has settled this yet.
 
 ## Applications

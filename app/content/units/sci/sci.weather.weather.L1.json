@@ -548,11 +548,11 @@
       "t": "mcq",
       "q": "The tumbler sat in the fan's wind for five minutes. How did it feel?",
       "options": [
-       "Much colder than the other tumbler",
        "The same as the other tumbler",
+       "Much colder than the other tumbler",
        "Hot"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fan moves the room's air, but it does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose. Your warm hand did, so it felt cold."
      },
      "parent": "Both tumblers feel the same, a little cool, as steel always does. That is the surprise. The fan cools your hand because your hand is warmer than the air."
@@ -1044,11 +1044,11 @@
      "t": "mcq",
      "p": "In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?",
      "opts": [
-      "Much colder",
       "The same",
+      "Much colder",
       "Wet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The fan moves air but does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose.",
      "how": "e1"
     },
@@ -1232,10 +1232,10 @@
      "p": "In A Cloud for the Torch, you held a thin white cloth in front of the torch. What did the cloth do to the toy's shadow?",
      "opts": [
       "Made it sharper",
-      "Made it soft and pale",
-      "Made it red"
+      "Made it red",
+      "Made it soft and pale"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.",
      "how": "a2"
     },
@@ -1342,11 +1342,11 @@
    "t": "mcq",
    "p": "What is wind?",
    "opts": [
-    "Moving air",
     "Cold water",
-    "Smoke"
+    "Smoke",
+    "Moving air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wind is air that is moving. We can't see air, but we see what wind moves.",
    "outcome": 1
   },
@@ -1354,11 +1354,11 @@
    "t": "mcq",
    "p": "Which is a kind of weather?",
    "opts": [
-    "Rainy",
     "Sleepy",
+    "Rainy",
     "Hungry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rainy is a kind of weather. Sleepy and hungry are how a body feels.",
    "outcome": 0
   },
@@ -1366,11 +1366,11 @@
    "t": "mcq",
    "p": "Ravi wears a school uniform: a shirt and shorts. Which words name his clothes?",
    "opts": [
-    "Shirt and shorts",
     "Sun and rain",
-    "A cloud"
+    "A cloud",
+    "Shirt and shorts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shirt and shorts are clothes, worn on the body. Sun and rain are weather, and a cloud is weather too. They are not clothes.",
    "outcome": 3
   },
@@ -1379,10 +1379,10 @@
    "p": "In the fan test, what did the paper strip do behind the raincoat?",
    "opts": [
     "Flew about",
-    "Hung still",
-    "Caught fire"
+    "Caught fire",
+    "Hung still"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The raincoat has no gaps, so the wind could not get through. The strip hung still.",
    "outcome": 2,
    "how": "e1"
@@ -1405,10 +1405,10 @@
    "p": "Why does the fan make your arm feel cold?",
    "opts": [
     "The fan makes cold air",
-    "The moving air carries your warmth away",
-    "The fan is made of ice"
+    "The fan is made of ice",
+    "The moving air carries your warmth away"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Your arm is warmer than the air. The moving air keeps carrying that warmth away.",
    "outcome": 1
   },
@@ -1428,11 +1428,11 @@
    "t": "mcq",
    "p": "You are going out in the hot May sun. What should you wear?",
    "opts": [
-    "A thick sweater",
     "A cap and loose cotton clothes",
+    "A thick sweater",
     "A raincoat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cap shades your head, and loose cotton lets your sweat dry and cool you.",
    "outcome": 3
   },
@@ -1452,11 +1452,11 @@
    "t": "mcq",
    "p": "Anita draws her own clothes on paper: a blue cotton frock and yellow sandals. Which weather is her drawing for?",
    "opts": [
-    "A hot, sunny day",
     "A cold, windy hill",
+    "A hot, sunny day",
     "A rainy day in the monsoon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A thin cotton frock and sandals keep the sun off and keep you cool. A cold, windy hill needs a sweater and a layer that stops the wind. In the rain you need a raincoat or an umbrella.",
    "outcome": 3
   },
@@ -1478,10 +1478,10 @@
    "p": "You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?",
    "opts": [
     "Say the test was wrong",
-    "Change your idea to fit what you saw",
-    "Never test again"
+    "Never test again",
+    "Change your idea to fit what you saw"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.",
    "outcome": 5,
    "how": "e1"

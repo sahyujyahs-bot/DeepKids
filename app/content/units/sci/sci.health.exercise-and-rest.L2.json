@@ -423,11 +423,11 @@
       "t": "mcq",
       "q": "Which of these sleeps the shortest time in a day?",
       "options": [
-       "A little brown bat",
        "A wild African elephant",
+       "A little brown bat",
        "A child of 7"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wild elephants in the study slept about 2 hours a day. A bat sleeps about 20 hours, and a child of 7 needs about 9 to 12."
      },
      "ask": [
@@ -1469,10 +1469,10 @@
    "p": "What happens to your breathing when you dance fast?",
    "opts": [
     "It gets slower",
-    "It gets faster and deeper",
-    "It stops for a moment"
+    "It stops for a moment",
+    "It gets faster and deeper"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Dancing makes your muscles work hard, so you breathe faster and take bigger breaths.",
    "outcome": 0
   },
@@ -1507,10 +1507,10 @@
    "p": "Which of these is exercise?",
    "opts": [
     "Reading a comic",
-    "Skipping with a rope",
-    "Sleeping"
+    "Sleeping",
+    "Skipping with a rope"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Skipping makes your muscles work hard. Reading and sleeping are rest.",
    "outcome": 2
   },
@@ -1518,11 +1518,11 @@
    "t": "mcq",
    "p": "What does regular exercise make stronger?",
    "opts": [
-    "Only your legs",
     "Your muscles, heart and bones",
+    "Only your legs",
     "Only your hair"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Exercise makes the muscles you use stronger. It also makes your heart, which is a muscle, and your bones stronger.",
    "outcome": 2
   },
@@ -1566,11 +1566,11 @@
    "t": "mcq",
    "p": "Why do we wash after a sweaty game?",
    "opts": [
-    "To wash off sweat, dirt and germs",
     "To make our muscles bigger",
+    "To wash off sweat, dirt and germs",
     "To make us breathe faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Washing takes away sweat, dirt and germs, so the skin stays healthy.",
    "outcome": 4
   },
@@ -1578,11 +1578,11 @@
    "t": "mcq",
    "p": "In the puff count test, why did you count your breaths sitting still first?",
    "opts": [
-    "To know your normal breathing, so you could compare",
     "To get tired before dancing",
-    "Because it was the easiest count"
+    "Because it was the easiest count",
+    "To know your normal breathing, so you could compare"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The first count shows your normal breathing. Without it, you could not tell how much the dance changed it.",
    "outcome": 5,
    "context": "This question is about the puff count test. You count your breaths sitting still, dance fast for one minute, then count again every minute while you rest.",
@@ -1604,11 +1604,11 @@
    "t": "mcq",
    "p": "You stand on one leg like a tree (vrikshasana) and hold still for five breaths. What does this exercise train?",
    "opts": [
-    "Your balance and the muscles of your legs",
     "How fast you can run",
+    "Your balance and the muscles of your legs",
     "How loudly you can breathe"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The tree pose is slow and steady. It trains balance and the leg muscles that hold you up. You do not need to puff for it to be exercise.",
    "outcome": 2
   },
@@ -1636,11 +1636,11 @@
      "t": "mcq",
      "p": "In the puff count test, when did you take the most breaths?",
      "opts": [
-      "Sitting still, before the dance",
       "Right after the dance",
+      "Sitting still, before the dance",
       "After 5 minutes of rest"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Right after the dance your muscles had been working hard and using up oxygen, so you breathed fastest. Picking 'after 5 minutes of rest' may mean the counts were mixed up: by then most children are back near their first count.",
      "context": "This question is about the puff count test. You count your breaths sitting still, dance fast for one minute, then count again every minute while you rest.",
      "how": "e1"
@@ -1962,11 +1962,11 @@
      "t": "mcq",
      "p": "You walk up the stairs every day for a month. At the end of the month, what will most likely happen?",
      "opts": [
-      "You puff more on the stairs than before",
       "You puff less, and recover faster",
+      "You puff more on the stairs than before",
       "Nothing changes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'you puff more' mixes up being tired after one climb with getting fitter over weeks."
     },
     {

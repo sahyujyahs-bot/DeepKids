@@ -596,10 +596,10 @@
       "q": "Which takes the longest?",
       "options": [
        "Boiling an egg",
-       "A night's sleep",
-       "The Earth going round the Sun"
+       "The Earth going round the Sun",
+       "A night's sleep"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The Earth takes a whole year to go round the Sun. A night's sleep is hours, and an egg is minutes."
      }
     },
@@ -796,11 +796,11 @@
       "t": "mcq",
       "q": "One spoon took 20 seconds. About how long will two spoons take?",
       "options": [
-       "About 20 seconds",
        "About 40 seconds",
+       "About 20 seconds",
        "About 2 seconds"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The salt runs at a steady speed. So twice the salt takes about twice the time: 20 and 20 make 40."
      }
     },
@@ -1542,11 +1542,11 @@
    "t": "mcq",
    "p": "Which happens first when making dosa?",
    "opts": [
+    "The rice and dal are soaked",
     "The dosa is eaten",
-    "The batter is poured on the tawa",
-    "The rice and dal are soaked"
+    "The batter is poured on the tawa"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Rice and dal are soaked first, then ground into batter, then poured on the tawa, and then the dosa is eaten.",
    "outcome": 0
   },
@@ -1554,11 +1554,11 @@
    "t": "mcq",
    "p": "What does every clock need?",
    "opts": [
-    "Something that changes at a steady speed",
     "A battery",
+    "Something that changes at a steady speed",
     "Numbers on a round face"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A salt timer has no battery and no numbers, but it is still a clock. Every clock needs a steady change, and a way to count it.",
    "outcome": 1
   },
@@ -1579,11 +1579,11 @@
    "t": "mcq",
    "p": "Which of these is the longest?",
    "opts": [
+    "A week",
     "An hour",
-    "A day",
-    "A week"
+    "A day"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A week is 7 days. A day is 24 hours. So a week is the longest.",
    "outcome": 3
   },
@@ -1591,11 +1591,11 @@
    "t": "mcq",
    "p": "Why is a day as long as it is?",
    "opts": [
-    "The Earth spins once in a day",
     "The Sun stops shining at night",
-    "Clocks decide it"
+    "Clocks decide it",
+    "The Earth spins once in a day"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One day is one spin of the Earth. The Sun keeps shining all the time. Clocks only count the day into hours.",
    "outcome": 3
   },
@@ -1604,10 +1604,10 @@
    "p": "About how many days are in a month?",
    "opts": [
     "About 7",
-    "About 30",
-    "About 365"
+    "About 365",
+    "About 30"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Most months have 30 or 31 days. A week has 7 days, and a year has 365.",
    "outcome": 4
   },
@@ -1615,11 +1615,11 @@
    "t": "mcq",
    "p": "Many Indian wall calendars show two or three dates for one day. Why?",
    "opts": [
-    "People in India use more than one calendar",
     "The printer made a mistake",
-    "To fill up the empty space"
+    "To fill up the empty space",
+    "People in India use more than one calendar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "India uses the calendar shared across the world, regional calendars such as the Tamil or Bengali one, and the Islamic calendar. Each counts the same day in its own way.",
    "outcome": 4
   },
@@ -1640,11 +1640,11 @@
    "t": "mcq",
    "p": "Jain teachings picture time as which of these?",
    "opts": [
-    "A wheel that keeps turning",
     "A ladder with a top step",
+    "A wheel that keeps turning",
     "A box with a lid"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Jain teachings picture time as a great wheel, the kalachakra, that keeps turning through better and worse ages.",
    "outcome": 5
   },
@@ -1831,11 +1831,11 @@
      "t": "mcq",
      "p": "What is one year?",
      "opts": [
-      "The time the Earth takes to go once round the Sun",
       "The time the Moon takes to go from full to new",
-      "The time the Earth takes to spin once"
+      "The time the Earth takes to spin once",
+      "The time the Earth takes to go once round the Sun"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A year is one trip of the Earth round the Sun, about 365 and a quarter days. Every birthday comes round once a year because of this."
     },
     {
@@ -1902,11 +1902,11 @@
      "t": "mcq",
      "p": "Why does Ramzan come about 11 days earlier each year?",
      "opts": [
-      "The Islamic calendar follows the Moon, and its year is about 11 days shorter",
       "People choose a new date each year",
-      "The Sun moves faster in some years"
+      "The Sun moves faster in some years",
+      "The Islamic calendar follows the Moon, and its year is about 11 days shorter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Twelve rounds of the Moon take about 354 days. The Sun's year is about 365 days. So the Moon's year ends about 11 days sooner, and Ramzan moves earlier."
     },
     {
@@ -1969,11 +1969,11 @@
      "t": "mcq",
      "p": "In the banana card test, one person who reads Urdu laid the cards from right to left. What is the best reason?",
      "opts": [
-      "Urdu is written from right to left, and people often lay out time the way they read",
       "He made a mistake",
-      "He did not understand the cards"
+      "He did not understand the cards",
+      "Urdu is written from right to left, and people often lay out time the way they read"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists have found that people often lay out time the way they read and write. Urdu and Arabic are written from right to left.",
      "how": "e2"
     },
@@ -2046,11 +2046,11 @@
      "t": "mcq",
      "p": "In the damp monsoon, the salt in a timer sticks and stops. What does this tell us about the timer that day?",
      "opts": [
-      "It is not steady that day, so it is a poor clock",
       "It is a better clock than usual",
-      "It is still a perfect clock"
+      "It is still a perfect clock",
+      "It is not steady that day, so it is a poor clock"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A clock needs a steady change. Sticking salt runs unevenly, so the timer cannot be trusted until the salt is dry again.",
      "how": "e1"
     },

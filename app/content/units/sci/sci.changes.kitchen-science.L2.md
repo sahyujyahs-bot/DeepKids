@@ -417,7 +417,7 @@ Meenakshi did not know that. She decided to test it next.
 ## Worksheets
 ### Rice, butter and curd (core, 10 questions)
 1. (mcq) In the Ten Grains in a Line experiment, some rice grains stayed dry, some were soaked in cold water and some were boiled. Which grains turned soft?  
-   Options: The dry grains / The soaked grains / The boiled grains  
+   Options: The boiled grains / The dry grains / The soaked grains  
    **Answer:** The boiled grains. *Why:* Boiled grains absorbed lots of water and swelled. They squash flat between your fingers.
 2. (truefalse) Rice soaked in cold water for 12 minutes goes as soft as boiled rice.  
    **Answer:** False. *Why:* False. Soaked grains may turn a little whiter and grow a little, but they stay hard. Heat is needed to let the water go deep inside.
@@ -437,11 +437,11 @@ Meenakshi did not know that. She decided to test it next.
 9. (perspective) A girl of 8 and her brother, who is 6, melted some butter. Then they put it in the freezer, and it set again.  
    **Answer:** A strong answer picks a side with a reason. For example: 'The brother, because it is butter and it is solid again.' Then it is fair to the sister: it may look a little different, because the water and milk bits settled.. *Why:* Both are partly right. The fat melted and set again, so that part went back. But the water and milk bits may have moved, so it is not exactly the same as before.
 10. (mcq) A grown-up melts butter in a katori. What will make it set solid again?  
-   Options: Heating it more / Making it cold / Stirring it with a spoon  
+   Options: Making it cold / Heating it more / Stirring it with a spoon  
    **Answer:** Making it cold. *Why:* Butter is mostly fat. Fat sets solid when it gets cold.
 ### Heat, water and tiny living beings (stretch, 10 questions)
 1. (mcq) Rice grains boiled for 12 minutes grew more than grains soaked in cold water for 12 minutes. Why?  
-   Options: Heat let the water go deep inside / Boiled water is wetter / The soaked grains were smaller to start with  
+   Options: Boiled water is wetter / The soaked grains were smaller to start with / Heat let the water go deep inside  
    **Answer:** Heat let the water go deep inside. *Why:* Heat loosens the packed starch inside the grain. Then much more water can get in.
 2. (order) Put these steps in order, to show how butter becomes ghee.  
    **Answer:** ['Butter melts in the pan', 'It fizzes and bubbles', 'The fizzing goes quiet', 'Golden ghee with brown bits']. *Why:* First the fat melts. Then the water boils away with a fizz. When the water has gone, it goes quiet, and the milk bits turn brown.
@@ -456,12 +456,12 @@ Meenakshi did not know that. She decided to test it next.
 7. (write) In the ten-grain test, we boiled 20 grains but only measured 10. Why did we start with extra?  
    **Answer:** Some grains may break in the water, and we need ten whole ones for a fair line.. *Why:* A strong answer says broken grains cannot go in the line, so extra grains make sure there are ten whole ones.
 8. (mcq) A spoon of curd is stirred into warm milk. What does the spoon of curd bring to the milk?  
-   Options: Bacteria / Heat / Sugar  
+   Options: Heat / Sugar / Bacteria  
    **Answer:** Bacteria. *Why:* The curd holds millions of bacteria. They feed on the milk sugar and multiply.
 9. (fill) A change that can go back is called a ______ change.  
    **Answer:** ['reversible']. *Why:* Reversible means it can be undone. Melted butter setting again is a reversible change.
 10. (mcq) In the experiment How Much Water Does Rice Drink?, one pan had only water and the other had water and rice. Why did both pans get the same amount of water and the same time on the stove?  
-   Options: So the steam lost from both pans would be about the same / So both pans would finish at the same time / Because the pans were the same colour  
+   Options: So both pans would finish at the same time / So the steam lost from both pans would be about the same / Because the pans were the same colour  
    **Answer:** So the steam lost from both pans would be about the same. *Why:* If both pans lose the same to steam, the extra water missing from the rice pan is what the rice drank.
 ### Think like a kitchen scientist (challenge, 10 questions)
 1. (write) If you boil rice grains for only 3 minutes, will the line of ten grains be as long as after 12 minutes? Why do you think so?  
@@ -494,37 +494,37 @@ Meenakshi did not know that. She decided to test it next.
 
 ## Quiz
 1. (mcq) Ten dry rice grains and ten boiled grains are lined up end to end. Which line is longer?  
-   Options: The dry grains / The boiled grains / They are the same  
+   Options: The boiled grains / The dry grains / They are the same  
    **Answer:** The boiled grains. *Why:* Boiled grains absorb water and swell, so each one is longer. If you chose the same, try lining them up yourself.
 2. (mcq) Some grains sat in cold water and some in boiling water, for 12 minutes each. Which grains stayed hard?  
-   Options: The ones in cold water / The ones in boiling water / Both stayed hard  
+   Options: The ones in boiling water / Both stayed hard / The ones in cold water  
    **Answer:** The ones in cold water. *Why:* In cold water only a little water gets in. Heat lets water go deep inside the grain, which makes it soft.
 3. (mcq) Where does most of the water in a pan of cooking rice go?  
-   Options: Into the rice grains / Through the bottom of the pan / Nowhere, it is still in the pan  
+   Options: Through the bottom of the pan / Nowhere, it is still in the pan / Into the rice grains  
    **Answer:** Into the rice grains. *Why:* The grains absorb it. Some water also leaves as steam, but most of it ends up inside the rice.
 4. (mcq) A spoon of butter is melted in warm water, then put in the freezer. What will it be after 10 minutes?  
    Options: Runny butter / Solid butter again / Ghee  
    **Answer:** Solid butter again. *Why:* Melting can go back. When butter gets cold, its fat sets solid again.
 5. (mcq) Butter in a hot pan fizzes and bubbles. What is the fizzing?  
-   Options: Water in the butter boiling into steam / The butter catching fire / Air going into the butter  
+   Options: The butter catching fire / Water in the butter boiling into steam / Air going into the butter  
    **Answer:** Water in the butter boiling into steam. *Why:* Butter has some water mixed in. When it boils, it leaves as steam and makes the fizzing sound.
 6. (mcq) What turns warm milk into curd overnight?  
    Options: Heat from the stove / Tiny living beings called bacteria / The dark at night  
    **Answer:** Tiny living beings called bacteria. *Why:* Bacteria from the spoon of curd feed on the milk sugar and make an acid that thickens the milk.
 7. (mcq) Why does curd taste sour?  
-   Options: The bacteria make an acid / Someone added lemon / The milk was old  
+   Options: Someone added lemon / The milk was old / The bacteria make an acid  
    **Answer:** The bacteria make an acid. *Why:* As the bacteria feed on milk sugar, they make an acid. Acids taste sour, like lemon juice.
 8. (mcq) Which change can go back?  
-   Options: A dosa cooking on a tawa / Ice melting into water / Milk setting into curd  
+   Options: Ice melting into water / A dosa cooking on a tawa / Milk setting into curd  
    **Answer:** Ice melting into water. *Why:* Put the water in the freezer and it turns back into ice. A dosa and curd stay changed.
 9. (mcq) Which change stays changed?  
    Options: Coconut oil going solid in the cold / Chocolate melting / Maize kernels popping into popcorn  
    **Answer:** Maize kernels popping into popcorn. *Why:* Popcorn cannot turn back into hard kernels. Coconut oil and chocolate can melt and set again.
 10. (mcq) In the ten-grain test, why did we use ten grains in a line, not just one?  
-   Options: One grain is too small to see / A line of ten shows the difference more clearly / Ten is a lucky number  
+   Options: A line of ten shows the difference more clearly / One grain is too small to see / Ten is a lucky number  
    **Answer:** A line of ten shows the difference more clearly. *Why:* One grain grows only a few millimetres. Ten grains add up, so the difference between the lines is easy to see and measure.
 11. (mcq) In the ten-grain test, the soaked and the boiled grains stayed in water for the same time. Why?  
-   Options: So that only the heat was different / So we could finish quickly / Because rice needs exactly 12 minutes  
+   Options: So we could finish quickly / Because rice needs exactly 12 minutes / So that only the heat was different  
    **Answer:** So that only the heat was different. *Why:* If only one thing changes, we know that thing made the difference. Here it was the heat.
 
 ## Applications

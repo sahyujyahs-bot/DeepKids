@@ -587,7 +587,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 ## Worksheets
 ### Reading the Clues (core) (core, 16 questions)
 1. (mcq) Which is the best description of a biosignature?  
-   Options: A sign that living things have been there, such as a gas that would not last without them / A living creature seen through a telescope / Any gas found in a planet's air  
+   Options: A living creature seen through a telescope / A sign that living things have been there, such as a gas that would not last without them / Any gas found in a planet's air  
    **Answer:** A sign that living things have been there, such as a gas that would not last without them. *Why:* A biosignature is a sign of life, not the life itself. It might be a gas, a chemical or a pattern that is hard to explain without life. Picking 'any gas' misses that most gases can be made without life.
 2. (mcq) Four bottles each hold warm water and sugar. Only the one with living yeast swells the balloon. Why is the bottle with sugar but no yeast important?  
    Options: It shows that sugar alone does not make the gas / It shows that balloons swell by themselves / It is there to use up the extra sugar  
@@ -603,7 +603,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 7. (order) Put the steps by which scientists read a faraway planet's air in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* The planet crosses its star, some starlight passes through the thin ring of its air, and each gas takes away its own colours. The missing colours tell scientists which gases are there.
 8. (mcq) A news story says 'Life found on a far planet'. What is the best first question to ask?  
-   Options: What exactly was seen, and did other teams see it too? / Who is the most famous person in the story? / How many pictures does the story have?  
+   Options: Who is the most famous person in the story? / What exactly was seen, and did other teams see it too? / How many pictures does the story have?  
    **Answer:** What exactly was seen, and did other teams see it too?. *Why:* A claim is only as good as what was observed and whether others repeat it. Fame and pictures say nothing about whether it is true.
 9. (write) A cup of milk with curd stayed liquid in the fridge, but it set when moved somewhere warm. Another cup had curd added to milk that had just boiled. It never set, even when moved somewhere warm. What is the difference between what cold does and what too much heat does to tiny living things?  
    **Answer:** Cold only slows them down, so they can wake up again when it warms up. Too much heat kills them for good, so they cannot wake up. So a cold world may still have sleeping life, and a world that is too hot may not.. *Why:* A strong answer says that cold pauses and heat destroys, and uses it to say where life might survive.
@@ -619,16 +619,16 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 14. (fill) A star that dims a tiny bit every few days probably has a ____ going round it.  
    **Answer:** ['planet']. *Why:* A planet passing in front of its star blocks a little of the starlight. This is called a transit, and it is how astronomers have found thousands of planets.
 15. (mcq) Which is the strongest sign of life on a faraway planet?  
-   Options: Several gases that fit together, seen by several teams / One gas seen once by one team / A picture of a rock that looks like a face  
+   Options: One gas seen once by one team / A picture of a rock that looks like a face / Several gases that fit together, seen by several teams  
    **Answer:** Several gases that fit together, seen by several teams. *Why:* Strong evidence comes from several signs that fit together and are repeated by different teams. One gas seen once may be an error, and shapes in pictures can fool us.
 16. (write) Why is a place with liquid water but no source of energy not a good place for life?  
    **Answer:** Living things need energy to grow, move and copy themselves. Liquid water lets the chemicals of life move and meet, but without energy from light or chemicals nothing can keep going. So a place needs both water and energy.. *Why:* A strong answer says that water and energy are both needed, and names where energy could come from, such as light or chemicals.
 ### Planets, Air and Gases (stretch) (stretch, 16 questions)
 1. (mcq) Oxygen and methane react with each other. Why are both still in Earth's air?  
-   Options: Living things keep making both / They do not react at all / Rain brings them back  
+   Options: They do not react at all / Rain brings them back / Living things keep making both  
    **Answer:** Living things keep making both. *Why:* Left alone, oxygen and methane would react and fade away. They are still in our air because plants, algae and microbes keep making them. That is why the mix is a biosignature.
 2. (mcq) A hot planet's air has a lot of oxygen, but scientists think it has no life. How can that be?  
-   Options: Strong starlight splits water and makes oxygen without life / Oxygen forms from nothing / The planet is too cold for oxygen  
+   Options: Oxygen forms from nothing / Strong starlight splits water and makes oxygen without life / The planet is too cold for oxygen  
    **Answer:** Strong starlight splits water and makes oxygen without life. *Why:* On some planets, strong light can split water vapour and release oxygen. So oxygen alone is a false alarm unless other signs fit with it.
 3. (write) Explain why finding a single gas in a planet's air is not enough to say that the planet has life.  
    **Answer:** Non-living chemistry can make many gases that life makes, for example oxygen from splitting water or methane from rocks. So a single gas may be a false alarm. Scientists want several signs that fit together, seen by several teams.. *Why:* A strong answer gives a reason that a gas can be made without life, and says what extra evidence would help.
@@ -659,16 +659,16 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 15. (fill) Making food from chemicals, not from sunlight, is called chemo____.  
    **Answer:** ['synthesis']. *Why:* Chemosynthesis lets bacteria at deep-sea vents make food from chemicals. It is why life can live in places that sunlight never reaches.
 16. (mcq) Bacteria at a deep-sea vent make food from hydrogen sulfide and oxygen. Why does that matter for the dark ocean of Europa?  
-   Options: It shows that life can live in the dark if there are chemicals to react / It shows that Europa has deep-sea vents / It shows that sunlight reaches Europa's ocean  
+   Options: It shows that Europa has deep-sea vents / It shows that life can live in the dark if there are chemicals to react / It shows that sunlight reaches Europa's ocean  
    **Answer:** It shows that life can live in the dark if there are chemicals to react. *Why:* Life does not need sunlight if it has another source of energy. Whether Europa has such a source is not yet known. Picking 'shows that Europa has vents' is a guess that is not yet proved.
 ### Evidence and Numbers (challenge) (challenge, 16 questions)
 1. (mcq) Look at the chart of balloon sizes at 40 minutes. Which two bottles together show that the gas comes from living yeast, and not just from the yeast powder?  
-   Options: A, with living yeast, and D, with boiled yeast / B, with yeast only, and C, with sugar only / C, with sugar only, and D, with boiled yeast  
+   Options: B, with yeast only, and C, with sugar only / A, with living yeast, and D, with boiled yeast / C, with sugar only, and D, with boiled yeast  
    **Answer:** A, with living yeast, and D, with boiled yeast. *Why:* Bottles A and D have the same powder and the same sugar. The only difference is that the yeast in D was killed. A swelled and D did not, so living yeast made the gas.
 2. (write) In a yeast test, the bottle with yeast but no added sugar swelled the balloon by 2 centimetres. Give one reason why it was not completely flat, other than a measuring mistake.  
    **Answer:** Yeast powder can hold a little sugar, or the water may have held a little. The yeast ate this small amount and made a small amount of gas. A balloon fitted loosely might also have settled slightly.. *Why:* A strong answer gives a reason that is about the experiment and says that a small result is different from a large one.
 3. (mcq) Star P dips by 1 part in 1,000 every 4 days. Star Q dips by 1 part in 100 every 6 days. Which statement is correct?  
-   Options: Q's planet is bigger, and P's planet has the shorter year / P's planet is bigger, and Q's planet has the shorter year / Both planets are the same size  
+   Options: P's planet is bigger, and Q's planet has the shorter year / Both planets are the same size / Q's planet is bigger, and P's planet has the shorter year  
    **Answer:** Q's planet is bigger, and P's planet has the shorter year. *Why:* A deeper dip means a bigger planet, so Q's planet is bigger. A 4-day year is shorter than a 6-day year, so P's planet goes round faster and is closer to its star.
 4. (fill) A planet with a 4-day year and a planet with a 6-day year go round the same kind of star. The planet with the shorter year is ____ to its star.  
    **Answer:** ['closer']. *Why:* A planet closer to its star goes round faster, so its year is shorter.
@@ -686,7 +686,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 10. (write) Suppose microbes found on Mars used the same DNA code as life on Earth. Give two possible reasons.  
    **Answer:** Life on Earth and Mars may have a common origin, if rocks knocked off one planet carried microbes to the other. Or the microbes may be from Earth, carried there by mistake on a spacecraft. Either way, scientists would need more checks.. *Why:* A strong answer gives two different reasons and says that it matters to check for contamination.
 11. (mcq) Why does a spacecraft that flies through a plume have to collect everything in one pass?  
-   Options: It moves so fast that it has no second chance / The plume is very cold / The spacecraft is too heavy to turn  
+   Options: The plume is very cold / The spacecraft is too heavy to turn / It moves so fast that it has no second chance  
    **Answer:** It moves so fast that it has no second chance. *Why:* A spacecraft flies through a plume at a very high speed, in a few seconds. Its instruments must work during that pass.
 12. (order) Put these in order from the weakest evidence of life to the strongest.  
    **Answer:** [0, 1, 2, 3]. *Why:* A shape can fool us easily. A single weak hint is better, but could be noise. Several signs seen by many teams are stronger. A sample growing and copying itself in a lab is the best proof.
@@ -697,7 +697,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 15. (truefalse) A world outside the habitable zone cannot have liquid water.  
    **Answer:** False. *Why:* False. Europa and Enceladus are far outside the Sun's zone and probably have oceans under their ice, kept liquid by heat from inside.
 16. (mcq) Which is the best reason to bring a Mars rock sample back to laboratories on Earth?  
-   Options: Big instruments and many teams can check it in ways a rover cannot / The rock will be warmer on Earth / Rocks are lighter on Earth  
+   Options: The rock will be warmer on Earth / Rocks are lighter on Earth / Big instruments and many teams can check it in ways a rover cannot  
    **Answer:** Big instruments and many teams can check it in ways a rover cannot. *Why:* Laboratories on Earth have larger and more exact instruments than a rover can carry, and many teams can check the same sample. This is how a claim can be tested.
 
 ## Videos
@@ -707,46 +707,46 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 
 ## Quiz
 1. (mcq) Which three things does a world need before life as we know it can live there?  
-   Options: Liquid water, a supply of energy and the right chemicals / A thick atmosphere, sunlight and a moon / Gold, iron and oxygen  
+   Options: A thick atmosphere, sunlight and a moon / Gold, iron and oxygen / Liquid water, a supply of energy and the right chemicals  
    **Answer:** Liquid water, a supply of energy and the right chemicals. *Why:* All the life found so far needs liquid water, energy and the chemicals its body is built from. The energy can come from sunlight or from chemicals. Picking 'sunlight' alone misses the life at deep-sea vents, which lives in the dark.
 2. (mcq) Mercury is closer to the Sun than Venus, but Venus is hotter. Why is Venus so hot?  
    Options: Its thick carbon dioxide air holds heat in / Venus is bigger than Mercury / Venus has more water than Mercury  
    **Answer:** Its thick carbon dioxide air holds heat in. *Why:* A world's temperature depends on its air as well as its distance. Venus's thick carbon dioxide traps heat. Picking 'more water' misses that Venus is dry and very hot.
 3. (mcq) A planet could go round a bright star or a dim star, at the same distance. Which statement is correct?  
-   Options: It is warmer around the bright star, because the bright star gives out more light / It is warmer around the dim star / It is the same around both  
+   Options: It is warmer around the dim star / It is warmer around the bright star, because the bright star gives out more light / It is the same around both  
    **Answer:** It is warmer around the bright star, because the bright star gives out more light. *Why:* A planet gets more light from a bright star at the same distance, so it is warmer. That is why the habitable zone of a dim star is closer in.
 4. (mcq) Bacteria at a deep-sea vent make food from hydrogen sulfide. What does this show?  
-   Options: Life can get energy from chemicals, without sunlight / Bacteria cannot live without light / Hydrogen sulfide is food for plants  
+   Options: Bacteria cannot live without light / Hydrogen sulfide is food for plants / Life can get energy from chemicals, without sunlight  
    **Answer:** Life can get energy from chemicals, without sunlight. *Why:* Chemosynthesis shows that life can live in the dark if there is a chemical source of energy. This is why scientists consider the oceans of icy moons.
 5. (mcq) Europa is far outside the Sun's habitable zone, but may have a liquid ocean under its ice. Why?  
-   Options: Jupiter's pull warms the moon from inside / The Sun warms its ocean through the ice / Europa has a thick atmosphere  
+   Options: The Sun warms its ocean through the ice / Jupiter's pull warms the moon from inside / Europa has a thick atmosphere  
    **Answer:** Jupiter's pull warms the moon from inside. *Why:* Jupiter's pull squeezes Europa a little more and a little less as it goes round, which heats it inside. The habitable zone is not the only place where liquid water can be.
 6. (mcq) A sealed bottle of sugar water and living yeast has a balloon that swells. What is the balloon a sign of?  
-   Options: A gas made by the yeast / Heat in the bottle / Air that was already inside  
+   Options: Heat in the bottle / Air that was already inside / A gas made by the yeast  
    **Answer:** A gas made by the yeast. *Why:* Yeast eat sugar and give out carbon dioxide gas. The bottle without yeast stayed flat, which shows the gas comes from the yeast. Picking 'air that was already inside' misses that the balloon on the bottle without yeast did not swell.
 7. (mcq) Oxygen and methane react and would disappear from a planet's air. If both stay there, what does this suggest?  
-   Options: Something keeps making them, perhaps life / The planet has no air / The gases cannot react  
+   Options: The planet has no air / Something keeps making them, perhaps life / The gases cannot react  
    **Answer:** Something keeps making them, perhaps life. *Why:* A mix that should fade, yet stays, is being refilled. On Earth the refilling is done by plants, algae and microbes. Scientists check that non-living chemistry cannot do the same.
 8. (mcq) A star dims by a tiny amount every 6 days. What is the best explanation?  
-   Options: A planet crosses in front of the star once every 6 days / The star turns off every 6 days / The star moves away and back  
+   Options: The star turns off every 6 days / The star moves away and back / A planet crosses in front of the star once every 6 days  
    **Answer:** A planet crosses in front of the star once every 6 days. *Why:* A planet in front of its star blocks a little light. If this repeats every 6 days, the planet's year is 6 days. Picking 'turns off' misses that the dip is tiny and exactly repeating.
 9. (mcq) Starlight that has passed through a planet's air is missing certain colours. What can scientists work out from this?  
-   Options: Which gases are in the air / How big the planet is / How many moons it has  
+   Options: How big the planet is / Which gases are in the air / How many moons it has  
    **Answer:** Which gases are in the air. *Why:* Each gas takes away its own set of colours. So the missing colours show which gases the light passed through.
 10. (mcq) A planet's air has lots of oxygen. Why is that not proof of life?  
-   Options: Strong starlight can split water and make oxygen with no life / Oxygen is not a gas / Only methane can be made by life  
+   Options: Oxygen is not a gas / Strong starlight can split water and make oxygen with no life / Only methane can be made by life  
    **Answer:** Strong starlight can split water and make oxygen with no life. *Why:* Oxygen can be made in non-living ways on some planets. Scientists look for several signs that fit together, not just one gas.
 11. (mcq) In a Drake chain, one set of guesses gave 100 million civilisations and another gave less than one. What does that tell us?  
-   Options: The answer depends mostly on the guesses we know least about / The chain gives the exact answer / There are exactly 100 million civilisations  
+   Options: The chain gives the exact answer / There are exactly 100 million civilisations / The answer depends mostly on the guesses we know least about  
    **Answer:** The answer depends mostly on the guesses we know least about. *Why:* The steps about how often life starts and becomes intelligent are unknown, so different guesses give very different answers. The chain shows what we most need to find out.
 12. (mcq) A fire grows and uses fuel, but most scientists do not call it alive. Why?  
-   Options: It has no cells and no code that it passes on and that can change over generations / Fires are too hot / Fires are too short-lived  
+   Options: Fires are too hot / It has no cells and no code that it passes on and that can change over generations / Fires are too short-lived  
    **Answer:** It has no cells and no code that it passes on and that can change over generations. *Why:* A fire shows some signs of life, but it does not carry and pass on a code that changes over many generations. Picking 'too hot' misses that some living things live in boiling water.
 13. (mcq) A headline says 'Life found on Mars'. The scientists say, 'We found a rock with unusual spots.' Which is the better guide to what was actually seen?  
    Options: The scientists' own report of what was seen / The headline, because it is exciting / Neither, because both are the same  
    **Answer:** The scientists' own report of what was seen. *Why:* The scientists' report is closer to the observation and usually says how sure they are. Headlines often say more than the evidence does.
 14. (mcq) Why do scientists ask other teams to repeat a claim of life?  
-   Options: To check that the sign is real and not an error / To make the claim sound more exciting / To save money  
+   Options: To make the claim sound more exciting / To save money / To check that the sign is real and not an error  
    **Answer:** To check that the sign is real and not an error. *Why:* A result seen by only one team may be a mistake. If different teams, with different instruments, see the same thing, it is much more believable.
 
 ## Applications

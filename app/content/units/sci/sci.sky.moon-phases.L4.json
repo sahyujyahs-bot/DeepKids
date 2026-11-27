@@ -709,11 +709,11 @@
       "t": "mcq",
       "q": "A Moon is 7 days old. About when does it set, if the Sun sets at 6 in the evening?",
       "options": [
-       "About midnight",
        "About 7 in the evening",
+       "About midnight",
        "About 6 in the morning"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Seven times 50 minutes is about 6 hours. Six hours after 6 in the evening is midnight. A 7-day-old Moon is a half Moon and is high in the sky at sunset. Picking 6 in the morning would be right for a full Moon, not a half Moon."
      },
      "context": "In this step, you play one practice card to learn how the rule works."
@@ -746,11 +746,11 @@
       "t": "mcq",
       "q": "Which of these Moons shows the most craters through binoculars?",
       "options": [
-       "A 7-day-old half Moon",
        "A 15-day-old full Moon",
+       "A 7-day-old half Moon",
        "A new Moon"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A half Moon is lit from the side, so long shadows show craters along the terminator. A full Moon is lit from behind us and looks flat. A new Moon cannot be seen at all."
      },
      "think": "Which age would you choose to photograph the Moon's craters, and at what time of the evening?",
@@ -947,11 +947,11 @@
       "t": "mcq",
       "q": "Why does the game end in a loss if the Sun marker reaches sunset?",
       "options": [
-       "A rover that runs on sunlight has no power in the night",
        "The Moon explodes",
-       "The Sun goes out"
+       "The Sun goes out",
+       "A rover that runs on sunlight has no power in the night"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A solar-powered rover gets no power without sunlight, and the Moon's night is also extremely cold. Picking the Sun going out mixes up the Moon's night with the end of the Sun."
      },
      "context": "In this step, you play a practice turn and learn how the questions work."
@@ -985,11 +985,11 @@
       "t": "mcq",
       "q": "A lander must work in sunlight for as long as possible. When should it land?",
       "options": [
-       "Just after lunar sunrise",
        "At lunar noon",
+       "Just after lunar sunrise",
        "At lunar sunset"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Landing just after sunrise gives about two weeks of daylight. Landing at noon gives only one week, and landing at sunset gives almost none."
      },
      "think": "Why does a lander that runs on sunlight go to sleep at night, and what would it need to stay awake?",
@@ -1351,11 +1351,11 @@
       "t": "mcq",
       "q": "Why do we start two days after a new Moon?",
       "options": [
-       "So the times keep going up without jumping across midnight",
        "Because the Moon cannot be seen before",
+       "So the times keep going up without jumping across midnight",
        "To get a bigger number"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At a new Moon, the Moon rises near sunrise. Ten days later it rises in the afternoon. Over those days the time gets steadily later, with no jump. Later in the month, moonrise passes midnight and the clock numbers start again from zero. Picking 'cannot be seen' mixes up rising with being easy to see."
      },
      "context": "In this step, you collect the data you need."
@@ -1537,11 +1537,11 @@
       "t": "mcq",
       "q": "Why do we write down the bindi's width before measuring anything else?",
       "options": [
-       "We will need it for the sum later",
        "To make the table longer",
+       "We will need it for the sum later",
        "So the bindi sticks better"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ratio of distance to width is the answer, so we need both numbers. Making the table longer is not a reason."
      },
      "context": "In this step, you measure the bindi and put it on the window."
@@ -1568,11 +1568,11 @@
       "t": "mcq",
       "q": "Why do we close one eye?",
       "options": [
-       "Two eyes see the bindi in two places",
        "The Moon is too bright",
-       "It makes the Moon bigger"
+       "It makes the Moon bigger",
+       "Two eyes see the bindi in two places"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each eye sees from a slightly different place, so with two eyes the bindi lines up with the Moon in different positions. One eye gives a single line of sight. Picking 'the Moon is too bright' mixes up a side effect with the reason."
      },
      "context": "In this step, you find where the bindi covers the Moon and measure the distance."
@@ -1939,11 +1939,11 @@
       "t": "mcq",
       "q": "In your data, the biggest tides come at new Moon and full Moon. What does that tell you?",
       "options": [
-       "When the Sun and Moon pull in a line, tides are bigger",
        "The sea is bigger at night",
-       "The half Moon is stronger"
+       "The half Moon is stronger",
+       "When the Sun and Moon pull in a line, tides are bigger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At new Moon and full Moon, the Sun and the Moon pull along the same line, so their pulls add up. At the half Moons they pull across each other, and the tides are smaller. Picking 'at night' mixes up the time of day with the phase."
      },
      "context": "In this step, you look for the pattern between tides and the Moon."
@@ -2107,11 +2107,11 @@
       "t": "mcq",
       "q": "Why does a crater look best when it is on the line between light and dark?",
       "options": [
-       "The Sun is low there, so its shadows are long",
        "It is nearest to the Earth",
-       "It is brightest there"
+       "It is brightest there",
+       "The Sun is low there, so its shadows are long"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On the line, the Sun has only just risen over that land, so it is low and the shadows are long. A crater far from the line has the Sun high above it and short shadows."
      },
      "context": "This is evening 5 of the Terminator Log. You compare all five drawings."
@@ -2218,11 +2218,11 @@
       "t": "mcq",
       "q": "Why is landing at the full Moon a poor choice for a lander at the centre of the near side?",
       "options": [
-       "The Sun is already overhead, and it will set in about a week",
        "It is too dark",
-       "The Moon is too far away"
+       "The Moon is too far away",
+       "The Sun is already overhead, and it will set in about a week"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At full Moon the centre of the near side has noon, and sunset comes at the last quarter, about a week later. A lander that needs 14 days of daylight would run out of sun. Picking 'too dark' is the opposite of the truth."
      },
      "context": "In this step, you choose the day and plan the lander's sunlight."
@@ -2238,11 +2238,11 @@
       "t": "mcq",
       "q": "A lander lands near the line between light and dark on a growing half Moon. Where is the Sun in the lander's sky?",
       "options": [
-       "It has just risen and is low in the sky",
        "It is overhead",
+       "It has just risen and is low in the sky",
        "It is about to set"
       ],
-      "a": 0,
+      "a": 1,
       "why": "On a growing Moon, the lit side is the side where it is morning. A site near the line has just had its sunrise, so the Sun is low. That is where long shadows fall."
      },
      "think": "Why might scientists choose a landing site where the Sun is always low?",
@@ -2292,12 +2292,12 @@
      "t": "mcq",
      "p": "Which night is the poorest for seeing craters through binoculars?",
      "opts": [
-      "Full Moon",
       "First quarter",
       "Last quarter",
+      "Full Moon",
       "A five-day-old crescent"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 1,
      "why": "At full Moon, the Sun lights the Moon from behind us, so there are almost no shadows. Craters look flat. The other nights have light from the side."
     },
@@ -2432,12 +2432,12 @@
      "t": "mcq",
      "p": "About how much later does the Moon rise each day?",
      "opts": [
-      "About 50 minutes",
       "About 5 minutes",
       "About 5 hours",
-      "The same time every day"
+      "The same time every day",
+      "About 50 minutes"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 2,
      "why": "The Moon moves round the Earth in the same direction as the Earth spins, so the Earth must turn a little extra to catch up with it each day, about 50 minutes."
     },
@@ -2501,12 +2501,12 @@
      "t": "mcq",
      "p": "When do spring tides happen?",
      "opts": [
-      "At new Moon and full Moon",
       "Only in the spring season",
+      "At new Moon and full Moon",
       "At the half Moons",
       "Only at night"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 5,
      "why": "At new Moon and full Moon, the Sun and the Moon pull along the same line and make bigger tides. The name spring has nothing to do with the season."
     },
@@ -2592,12 +2592,12 @@
      "t": "mcq",
      "p": "Why was Chandrayaan-3 timed to land at lunar dawn?",
      "opts": [
-      "So its solar-powered lander would have about two weeks of daylight",
       "Because the Moon is brightest at dawn",
+      "So its solar-powered lander would have about two weeks of daylight",
       "Because the Earth is closest at dawn",
       "Because dawn is cooler for the crew"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 3,
      "why": "The lander ran on sunlight and could not survive the cold of the lunar night. Landing just after sunrise gave it about 14 Earth days of sun. There was no crew on board."
     },
@@ -2677,12 +2677,12 @@
      "t": "mcq",
      "p": "Why can we see about 59 parts out of every 100 of the Moon's surface over time?",
      "opts": [
-      "The Moon nods and rocks a little, which lets us see round its edges",
       "The Moon spins fast",
       "The Moon grows",
-      "We see it from space"
+      "We see it from space",
+      "The Moon nods and rocks a little, which lets us see round its edges"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 5,
      "why": "The Moon rocks and nods by a few degrees. This is called libration, and it lets us peek a little way round the edges of the face."
     }
@@ -2705,12 +2705,12 @@
      "t": "mcq",
      "p": "A mound on a model Moon is 2 centimetres tall and casts a 6 centimetre shadow. What can you say about the light?",
      "opts": [
-      "It is coming in at a low angle",
       "It is coming from straight overhead",
       "It is coming from straight behind the viewer",
+      "It is coming in at a low angle",
       "There is no light"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 0,
      "why": "A shadow three times as long as the mound means the light is low, so the angle is shallow. Light from straight overhead would make almost no shadow."
     },
@@ -2794,12 +2794,12 @@
      "t": "mcq",
      "p": "Why is there a tidal bulge on the side of the Earth facing away from the Moon?",
      "opts": [
-      "The Moon's pull is weaker there than on the rest of the Earth, so the sea is left behind",
       "The Moon pushes the sea away",
       "The Sun pulls it",
-      "The sea sloshes back"
+      "The sea sloshes back",
+      "The Moon's pull is weaker there than on the rest of the Earth, so the sea is left behind"
      ],
-     "a": 0,
+     "a": 3,
      "outcome": 5,
      "why": "The Moon's pull gets weaker with distance. The solid Earth is pulled more than the water on the far side, so the far side water is left behind and heaps up."
     },
@@ -2873,12 +2873,12 @@
    "t": "mcq",
    "p": "Why do the long shadows along the terminator help us?",
    "opts": [
-    "They show the shape of craters and mountains",
     "They make the Moon brighter",
     "They cool the Moon",
+    "They show the shape of craters and mountains",
     "They hide the craters"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
    "why": "Low sunlight makes long shadows. We read the shape of rough ground by its shadows."
   },
@@ -2886,12 +2886,12 @@
    "t": "mcq",
    "p": "Which Moon is a poor choice for seeing craters?",
    "opts": [
-    "The full Moon",
     "The first quarter",
+    "The full Moon",
     "The last quarter",
     "A crescent"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 1,
    "why": "At full Moon, the Sun lights the Moon from behind us. The craters make almost no shadows, so they look flat."
   },
@@ -2899,12 +2899,12 @@
    "t": "mcq",
    "p": "A friend says the full Moon is the best for seeing craters because it is brightest. What is wrong?",
    "opts": [
-    "Light from straight behind us makes almost no shadows",
     "The full Moon is dim",
+    "Light from straight behind us makes almost no shadows",
     "Craters vanish at full Moon",
     "The full Moon is farther away"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 1,
    "why": "Brightness is not the same as seeing detail. Shadows show shape, and a full Moon has almost none."
   },
@@ -2912,12 +2912,12 @@
    "t": "mcq",
    "p": "A Moon is 22 days old. What does it look like from India?",
    "opts": [
-    "A half Moon lit on the left",
     "A half Moon lit on the right",
     "A full Moon",
-    "A new Moon"
+    "A new Moon",
+    "A half Moon lit on the left"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 2,
    "why": "At 22 days it is the last quarter. A shrinking Moon is lit on the left when seen from India."
   },
@@ -2925,12 +2925,12 @@
    "t": "mcq",
    "p": "The Sun sets at 6 pm and the Moon is 7 days old. About when does the Moon set?",
    "opts": [
-    "About midnight",
     "About 7 pm",
+    "About midnight",
     "About 6 am",
     "About noon"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Seven times 50 minutes is about 6 hours. Six hours after 6 pm is midnight."
   },
@@ -2938,12 +2938,12 @@
    "t": "mcq",
    "p": "How long is the sunlit part of a lunar day at a place near the Moon's equator?",
    "opts": [
-    "About two weeks",
     "About 12 hours",
+    "About two weeks",
     "About a year",
     "About one hour"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "why": "A full day on the Moon lasts about 29 and a half Earth days, so the daylight lasts about two weeks and the night about two weeks."
   },
@@ -2951,12 +2951,12 @@
    "t": "mcq",
    "p": "Why does the Moon's ground get so cold at night?",
    "opts": [
-    "There is no air to hold in the heat",
     "The Moon is far from the Sun",
     "The Moon makes cold",
+    "There is no air to hold in the heat",
     "The Earth blocks the heat"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "why": "Without air, heat escapes quickly after sunset. The ground falls to about minus 170 degrees Celsius."
   },
@@ -2964,12 +2964,12 @@
    "t": "mcq",
    "p": "A small disc just covers the Moon at about 110 times its own width from your eye. What does this tell you?",
    "opts": [
-    "The Moon is about 110 of its own widths away",
     "The Moon is 110 kilometres away",
     "The Moon is 110 times bigger than the disc",
-    "The Moon is 110 days old"
+    "The Moon is 110 days old",
+    "The Moon is about 110 of its own widths away"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 4,
    "why": "A small disc close to the eye can cover a large thing far away if they are in the same proportion. The ratio of distance to width is the same for both."
   },
@@ -2977,12 +2977,12 @@
    "t": "mcq",
    "p": "Why are there two high tides a day on most coasts?",
    "opts": [
-    "The sea bulges towards the Moon and away from it, and the Earth turns under both",
     "The Moon goes round the Earth twice a day",
+    "The sea bulges towards the Moon and away from it, and the Earth turns under both",
     "The Sun pulls twice",
     "The tides slosh back and forth"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 5,
    "why": "The Moon's pull makes two bulges in the sea. The Earth turns once a day under them, so a place meets two high tides."
   },
@@ -2990,12 +2990,12 @@
    "t": "mcq",
    "p": "When are the tides biggest?",
    "opts": [
-    "A day or two after new Moon and full Moon",
     "At the half Moons",
     "Only in the monsoon",
-    "At noon each day"
+    "At noon each day",
+    "A day or two after new Moon and full Moon"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 5,
    "why": "At new Moon and full Moon, the Sun and the Moon pull along one line, so their pulls add up."
   },
@@ -3003,12 +3003,12 @@
    "t": "mcq",
    "p": "Galileo noticed bright specks in the dark part of the Moon near the terminator. What did he decide they were?",
    "opts": [
-    "Mountain tops catching the first sunlight",
     "Stars",
     "Lamps",
+    "Mountain tops catching the first sunlight",
     "Clouds"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 6,
    "why": "The tops of the Moon's mountains are lit first at sunrise, before the valleys. Galileo understood this from the way the specks grew and joined the light."
   }

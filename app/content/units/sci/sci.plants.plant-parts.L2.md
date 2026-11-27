@@ -378,7 +378,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 1. (match) Draw a line from each food to its plant part.  
    **Answer:** Carrot → root; Sugarcane → stem; Palak → leaf; Cauliflower → flower; Tomato → fruit; Rice → seed. *Why:* A carrot grows down in the soil like a root. Sugarcane is a tall stem. Palak is a leaf. Cauliflower is a bunch of flower buds. A tomato has seeds inside, so it is a fruit. Rice is a seed.
 2. (mcq) In the float test, what happened to the piece of potato?  
-   Options: It floated / It sank / It melted  
+   Options: It sank / It floated / It melted  
    **Answer:** It sank. *Why:* A potato is packed with stored food, with little room for air, so it sinks.
 3. (sort) Sort these by what they did in the float test.  
    **Answer:** brinjal piece → Floated; potato piece → Sank; palak leaf → Floated; dry chana → Sank; cucumber slice → Floated. *Why:* The parts with air spaces floated. The parts packed with stored food sank.
@@ -401,7 +401,7 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 1. (match) Draw a line from each plant to where they live.  
    **Answer:** Cactus → a dry place where it hardly rains; Lotus → a pond with a muddy bottom; Banyan → open ground with room to spread. *Why:* Each plant's parts suit their home. A cactus stem stores water. A lotus stalk has air tunnels. A banyan has prop roots to hold up wide branches.
 2. (mcq) Why does a lotus stem have holes in it?  
-   Options: So fish can swim through / They are tunnels that carry air down to the stem in the mud / To make the stem lighter to cook  
+   Options: So fish can swim through / To make the stem lighter to cook / They are tunnels that carry air down to the stem in the mud  
    **Answer:** They are tunnels that carry air down to the stem in the mud. *Why:* Mud at the bottom of a pond has almost no air. The tunnels carry air from the leaves down to the stem.
 3. (draw) Draw a banyan tree with three prop roots. Draw an arrow on one root to show which way it grew.  
    **Answer:** A banyan with roots hanging down from the branches and arrows pointing down to the soil. *Why:* A strong drawing shows the roots growing down from the branches, not up from the ground.
@@ -451,28 +451,28 @@ Arjun looked at the bowl again. Brinjal on top. Potato at the bottom. A lotus sl
 
 ## Quiz
 1. (mcq) Which part of the plant is a carrot?  
-   Options: A root / A leaf / A fruit  
+   Options: A leaf / A root / A fruit  
    **Answer:** A root. *Why:* A carrot grows down in the soil and stores food. It is a root. If you picked 'fruit', you may have thought that every orange food is a fruit.
 2. (mcq) Which of these is a seed?  
-   Options: Palak / Toor dal / Sugarcane  
+   Options: Toor dal / Palak / Sugarcane  
    **Answer:** Toor dal. *Why:* Dal is a seed. Palak is a leaf and sugarcane is a stem.
 3. (mcq) You drop a piece of brinjal into water. What happens?  
    Options: It floats / It sinks / It dissolves  
    **Answer:** It floats. *Why:* A brinjal is spongy, with tiny air spaces, so it floats.
 4. (mcq) Why do potato pieces and dry chana sink?  
-   Options: They are packed with stored food / They are full of air / They are green  
+   Options: They are full of air / They are green / They are packed with stored food  
    **Answer:** They are packed with stored food. *Why:* Stored food is packed tight, with little room for air. The parts that are full of air are the ones that float.
 5. (mcq) An onion is made of layers wrapped round each other. Which plant part are most of those layers?  
-   Options: Fat leaves / Roots / Seeds  
+   Options: Roots / Seeds / Fat leaves  
    **Answer:** Fat leaves. *Why:* Most of an onion is fat leaves wrapped round each other. If you picked roots, you may have thought that anything that grows low down is a root.
 6. (mcq) Where does a lotus keep their stem?  
-   Options: High in the air / In the mud at the bottom of the pond / On top of a rock  
+   Options: In the mud at the bottom of the pond / High in the air / On top of a rock  
    **Answer:** In the mud at the bottom of the pond. *Why:* The lotus stem lies in the mud. Air tunnels bring air down to it.
 7. (mcq) How do a banyan's prop roots help the tree?  
    Options: They hold up the long branches like pillars / They catch insects / They make the flowers  
    **Answer:** They hold up the long branches like pillars. *Why:* Prop roots grow down from the branches into the soil, then get thick and hold the branches up.
 8. (mcq) Why does a cactus have a fat stem?  
-   Options: To store water for dry months / To float on water / To hold up long branches  
+   Options: To float on water / To store water for dry months / To hold up long branches  
    **Answer:** To store water for dry months. *Why:* A cactus lives where it hardly rains, so their stem stores water. The lotus is the plant with leaves on the water, and the banyan is the one that holds up long branches.
 9. (mcq) A scientist says a tomato is a fruit. Why is that right?  
    Options: It is red / It grew from a flower and has seeds inside / It is sweet  

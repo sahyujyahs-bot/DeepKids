@@ -542,11 +542,11 @@
       "t": "mcq",
       "q": "A phone's battery drops 3 points in a video test and 0 points while resting. What does that show?",
       "options": [
-       "Making light and pictures uses more electricity than resting",
        "The battery fills up when the phone rests",
+       "Making light and pictures uses more electricity than resting",
        "The video makes new electricity"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The battery is a store. The bright screen and the torch took electricity out of it faster. A resting phone uses only a little, but it does not fill up again without a charger."
      }
     }
@@ -631,11 +631,11 @@
       "t": "mcq",
       "q": "A fan uses electricity to do which job?",
       "options": [
-       "Make movement",
        "Make heat",
+       "Make movement",
        "Make light"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Electricity turns the fan's blades, so it makes movement. The moving air feels cool on your skin, but the fan does not make the air colder."
      }
     }
@@ -714,11 +714,11 @@
       "t": "mcq",
       "q": "Where is mains electricity made?",
       "options": [
-       "In a power station",
        "In the switch",
-       "In the fan"
+       "In the fan",
+       "In a power station"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Mains electricity is made in a power station and comes along wires. The switch only lets it through or stops it. In a power cut, the switch does nothing."
      }
     }
@@ -1374,11 +1374,11 @@
      "t": "mcq",
      "p": "There is a power cut. Which of these keeps working?",
      "opts": [
-      "The wall clock with a cell",
       "The ceiling fan",
-      "The fridge"
+      "The fridge",
+      "The wall clock with a cell"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The clock carries its own cell, so it does not need the wall. The fan and the fridge get mains electricity, which stops in a power cut."
     },
     {
@@ -1479,11 +1479,11 @@
      "t": "mcq",
      "p": "In the Tired Cell Test, a cell cannot light the torch but runs the clock. Why?",
      "opts": [
-      "The clock needs much less electricity than the torch",
       "The clock makes its own electricity",
-      "The torch was broken"
+      "The torch was broken",
+      "The clock needs much less electricity than the torch"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A torch needs a lot of electricity every second. A clock needs only a tiny amount. A weak cell still has enough for the clock. We checked the torch with a new cell, so it was not broken.",
      "how": "e1"
     },
@@ -1716,11 +1716,11 @@
    "t": "mcq",
    "p": "What job does electricity do in a tube light?",
    "opts": [
-    "Makes light",
     "Makes cold",
+    "Makes light",
     "Makes movement"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tube light changes electricity into light. If you chose cold or movement, look at what the tube light does when it is on.",
    "outcome": 0
   },
@@ -1740,11 +1740,11 @@
    "t": "mcq",
    "p": "Where does mains electricity come from?",
    "opts": [
-    "A power station, along wires",
     "The switch on the wall",
+    "A power station, along wires",
     "The fan itself"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Mains electricity is made in a power station. A switch only lets it through. Choosing the switch is a common idea, but in a power cut the switch does nothing.",
    "outcome": 1
   },
@@ -1764,11 +1764,11 @@
    "t": "mcq",
    "p": "In a power cut, which one stops working?",
    "opts": [
-    "The fridge",
     "The torch",
+    "The fridge",
     "The wall clock"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fridge uses mains electricity from the wall. The torch and the clock carry their own cells.",
    "outcome": 2
   },
@@ -1776,11 +1776,11 @@
    "t": "mcq",
    "p": "A phone works in a power cut. Why?",
    "opts": [
-    "Its battery was charged from the wall earlier",
     "Phones never need electricity",
-    "The power cut does not reach phones"
+    "The power cut does not reach phones",
+    "Its battery was charged from the wall earlier"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A phone has a rechargeable battery. It stores electricity from the wall and uses it later.",
    "outcome": 2
   },
@@ -1788,11 +1788,11 @@
    "t": "mcq",
    "p": "In the Tired Cell Test, an old cell does not light the torch. What should you try next?",
    "opts": [
-    "Put it in the clock to see if it ticks",
     "Open the cell to look inside",
-    "Throw it in the dustbin"
+    "Throw it in the dustbin",
+    "Put it in the clock to see if it ticks"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A clock needs very little electricity, so it shows whether the cell still has some. Never open a cell. Used cells go to e-waste, not the dustbin.",
    "outcome": 3,
    "how": "e1"
@@ -1813,11 +1813,11 @@
    "t": "mcq",
    "p": "Which rule keeps you safe with mains electricity?",
    "opts": [
-    "Never touch a plug or socket with wet hands",
     "Push a pencil into a socket to check it",
-    "Pull a plug out by its wire"
+    "Pull a plug out by its wire",
+    "Never touch a plug or socket with wet hands"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water lets mains electricity reach your body and give a shock. Never push anything into a socket. A grown-up pulls a plug out by holding the plug itself.",
    "outcome": 5
   },
@@ -1825,11 +1825,11 @@
    "t": "mcq",
    "p": "A little child finds a button cell on the floor. What should you do?",
    "opts": [
-    "Give it to a grown-up at once",
     "Let the child hold it, because cells are safe",
+    "Give it to a grown-up at once",
     "Put it in a toy for the child"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A swallowed button cell can badly burn a small child's insides within two hours. Give it to a grown-up at once.",
    "outcome": 5
   }

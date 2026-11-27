@@ -506,7 +506,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 5. (fill) When lemon juice makes hot milk split, the white lumps are called ____ and the watery liquid is called ____.  
    **Answer:** ['curds', 'whey']. *Why:* The curds hold most of the milk's protein and fat. The whey is mostly water, with milk sugar and minerals.
 6. (mcq) Salt water is added to hot milk. Nothing happens. Then lemon juice is added, and white lumps appear. Why?  
-   Options: Lemon juice is an acid, and acid makes milk's protein clump / Lemon juice is yellow / Salt water was too cold  
+   Options: Lemon juice is yellow / Lemon juice is an acid, and acid makes milk's protein clump / Salt water was too cold  
    **Answer:** Lemon juice is an acid, and acid makes milk's protein clump. *Why:* Lemon juice is sour, which means it is an acid. Acid makes casein, the main protein in milk, clump into curds. Salt water is not an acid, so the milk stays smooth.
 7. (write) After splitting milk with lemon juice, there was much more whey than curd. What does this tell you about milk?  
    **Answer:** Milk is mostly water. The water went into the whey. Only a small part of milk is protein and fat, which made the curds.. *Why:* A strong answer joins what was seen (lots of whey) to what it means (milk is mostly water).
@@ -531,7 +531,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** Iron may be missing. Iron helps the blood carry oxygen around the body.. *Why:* A strong answer names iron and says its job: carrying oxygen in the blood.
 ### Nutrients at Work (stretch) (stretch, 15 questions)
 1. (mcq) In a Sun-Dried Slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which slice had more of something that is not water?  
-   Options: The potato, because it has a lot of starch / The cucumber, because it is green / Both the same, because they were the same size  
+   Options: The cucumber, because it is green / Both the same, because they were the same size / The potato, because it has a lot of starch  
    **Answer:** The potato, because it has a lot of starch. *Why:* What is left after drying is the part of a food that is not water. A potato keeps more because about a fifth of it is starch. A cucumber is nearly all water.
 2. (write) Tap water left a white ring when it dried on a steel plate. Filtered water left almost nothing. Explain why.  
    **Answer:** Tap water carries minerals like calcium, dissolved from rocks and soil. When the water dried, the minerals stayed. The filter took most minerals out.. *Why:* A strong answer says the minerals were dissolved, so they could not be seen, and stayed behind when the water left.
@@ -540,7 +540,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 4. (match) Match each vitamin to one job it does.  
    **Answer:** Vitamin A → helps eyes see in dim light; Vitamin C → helps cuts heal; Vitamin D → helps the body use calcium; B vitamins → help cells get energy from food. *Why:* Each vitamin has its own jobs. These are well known ones.
 5. (mcq) Why does a carrot poriyal cooked in a little oil help your body more than a raw carrot alone?  
-   Options: Vitamin A mixes into fat, so the body takes it in better with a little oil / Oil turns into vitamins / Cooking adds protein  
+   Options: Oil turns into vitamins / Vitamin A mixes into fat, so the body takes it in better with a little oil / Cooking adds protein  
    **Answer:** Vitamin A mixes into fat, so the body takes it in better with a little oil. *Why:* Vitamins A, D, E and K mix into fat, not water. A little fat in the meal helps the body take them in.
 6. (write) A spoon of fat gives about twice as much energy as a spoon of sugar. Why might the body store spare energy as fat, not as sugar?  
    **Answer:** Fat holds more energy in the same amount, so it takes up less room in the body. It is a good way to keep energy for later.. *Why:* A strong answer uses the idea that fat packs more energy into less space.
@@ -571,7 +571,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 3. (write) Design a fair test to find out whether cold milk curdles with lemon juice as well as hot milk. Say what you would change, what you would keep the same, and what you would look at.  
    **Answer:** I would change only the temperature of the milk: one tumbler hot and one cold. I would keep the amount of milk, the amount of lemon juice, the stirring and the waiting time the same. I would look at how many lumps form and how big they are after 3 minutes.. *Why:* A strong design changes one thing, keeps the rest the same, and says what will be compared.
 4. (mcq) Sugar, oil and paneer look completely different. What are they mostly made of?  
-   Options: The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways / Completely different kinds of atoms / Water  
+   Options: Completely different kinds of atoms / Water / The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways  
    **Answer:** The same three kinds of atoms, carbon, hydrogen and oxygen, joined in different ways. *Why:* Sugar, fat and protein are all built mostly from carbon, hydrogen and oxygen atoms. Protein also has nitrogen. How the atoms are joined makes each one so different.
 5. (truefalse) The more vitamin tablets a healthy child takes, the healthier the child becomes.  
    **Answer:** False. *Why:* False. The body needs only tiny amounts of vitamins, and most children who eat a mix of foods get enough. Too much of some vitamins, like A and D, can make a person ill.
@@ -586,7 +586,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 10. (draw) Draw a cycle that shows how the water in a cucumber could end up inside you, and then back in the air.  
    **Answer:** Rain falls on soil, the cucumber plant drinks the water, you eat the cucumber, the water goes into your blood, and you breathe or sweat it back into the air, where it forms clouds.. *Why:* This joins water in food, water in the body and water leaving the body.
 11. (mcq) Suppose tamarind water made fewer lumps than lemon juice in the milk-splitting test. What is the most likely reason?  
-   Options: Tamarind water was less strongly acidic than the lemon juice / Tamarind is brown / Tamarind has no taste  
+   Options: Tamarind is brown / Tamarind has no taste / Tamarind water was less strongly acidic than the lemon juice  
    **Answer:** Tamarind water was less strongly acidic than the lemon juice. *Why:* How quickly and fully milk curdles depends on how acidic the liquid is. Tamarind water is sour, but often less strongly than lemon juice. Adding more tamarind water usually gives more lumps.
 12. (sort) Sort these foods: is each one nearly a single nutrient, or a mix of many?  
    **Answer:** white sugar → Nearly one nutrient; coconut oil → Nearly one nutrient; salt → Nearly one nutrient; milk → A mix of many; toor dal → A mix of many; peanuts → A mix of many. *Why:* Sugar is nearly all carbohydrate, oil nearly all fat, salt nearly all minerals. Most whole foods, like milk, dal and peanuts, are mixes.
@@ -605,43 +605,43 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 
 ## Quiz
 1. (mcq) How many kinds of nutrient does your body need?  
-   Options: Six: carbohydrates, proteins, fats, vitamins, minerals and water / Two: food and water / One: protein  
+   Options: Two: food and water / Six: carbohydrates, proteins, fats, vitamins, minerals and water / One: protein  
    **Answer:** Six: carbohydrates, proteins, fats, vitamins, minerals and water. *Why:* Scientists sort nutrients into six kinds. The body needs all of them.
 2. (mcq) Which nutrient does your body use most for energy?  
-   Options: Carbohydrate / Calcium / Vitamin C  
+   Options: Calcium / Vitamin C / Carbohydrate  
    **Answer:** Carbohydrate. *Why:* Carbohydrates, like the starch in rice and idli, are the body's main fuel. Calcium builds bones, and vitamin C helps cuts heal.
 3. (mcq) Your hair, nails and muscles are made mostly of which nutrient?  
    Options: Protein / Fat / Sugar  
    **Answer:** Protein. *Why:* Hair, nails and muscles are built mostly from protein. That is why growing children need protein every day.
 4. (mcq) Peanuts are in the protein group. Which other group could they also go in?  
-   Options: Fats, because more than a third of a peanut is fat / Dairy / Fruit and vegetables  
+   Options: Dairy / Fruit and vegetables / Fats, because more than a third of a peanut is fat  
    **Answer:** Fats, because more than a third of a peanut is fat. *Why:* A peanut has more fat than protein. So it fits the fats group as well. Most foods carry several nutrients.
 5. (mcq) Why can one food belong to more than one food group?  
-   Options: Most foods are a mix of several nutrients / Food groups change every year / Cooks put foods in the wrong group  
+   Options: Food groups change every year / Cooks put foods in the wrong group / Most foods are a mix of several nutrients  
    **Answer:** Most foods are a mix of several nutrients. *Why:* A food group names the nutrient a food gives most. But most foods carry several, so they can fit several groups.
 6. (mcq) Lemon juice makes hot milk split. Which nutrients from the milk are mostly caught in the white lumps?  
-   Options: Protein and fat / Sugar and minerals / Vitamin C  
+   Options: Sugar and minerals / Vitamin C / Protein and fat  
    **Answer:** Protein and fat. *Why:* The lumps, called curds, hold most of the casein, the main protein in milk, with most of the fat caught inside. The watery whey holds most of the water, milk sugar and some minerals. Milk has no vitamin C to speak of.
 7. (mcq) Which of these would NOT make hot milk curdle?  
-   Options: Sugar water / Lemon juice / Vinegar  
+   Options: Lemon juice / Vinegar / Sugar water  
    **Answer:** Sugar water. *Why:* Lemon juice and vinegar are acids, which make milk's protein clump. Sugar water is not an acid, so the milk stays smooth.
 8. (mcq) Why does a cucumber slice shrink so much when it dries in the sun?  
-   Options: It is nearly all water, and the water goes into the air / The sun burns it up / Ants eat it  
+   Options: The sun burns it up / Ants eat it / It is nearly all water, and the water goes into the air  
    **Answer:** It is nearly all water, and the water goes into the air. *Why:* A cucumber is nearly all water. When it dries, the water becomes water vapour in the air, and very little is left.
 9. (mcq) Which of these is a sign that your body needs more water?  
-   Options: Dark yellow urine / Feeling cold / Pale yellow urine  
+   Options: Feeling cold / Dark yellow urine / Pale yellow urine  
    **Answer:** Dark yellow urine. *Why:* Dark yellow urine means your body is short of water and is keeping back what it has. Pale yellow usually means you have had enough.
 10. (mcq) Why can tap water leave a white ring on a steel tumbler?  
-   Options: It carries dissolved minerals that stay behind when the water dries / The steel turns white when wet / Soap is in the water  
+   Options: The steel turns white when wet / Soap is in the water / It carries dissolved minerals that stay behind when the water dries  
    **Answer:** It carries dissolved minerals that stay behind when the water dries. *Why:* Tap water picks up minerals like calcium from rocks and soil. They dissolve and cannot be seen. When the water dries, they stay as a white ring.
 11. (mcq) Which food gives a lot of calcium for strong bones?  
-   Options: Ragi / Sugar / Coconut oil  
+   Options: Sugar / Ragi / Coconut oil  
    **Answer:** Ragi. *Why:* Ragi is rich in calcium, a mineral that makes bones hard. Milk, curd, til and green leaves give calcium too.
 12. (mcq) Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?  
-   Options: Muscles run mainly on carbohydrates and fats, not protein / Muscles run only on protein / Climbing needs no energy  
+   Options: Muscles run only on protein / Muscles run mainly on carbohydrates and fats, not protein / Climbing needs no energy  
    **Answer:** Muscles run mainly on carbohydrates and fats, not protein. *Why:* The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.
 13. (mcq) A child is often tired and pale. Her blood has too little iron. What is this illness called?  
-   Options: Goitre, a swelling at the front of the neck / Anaemia, when the blood carries less oxygen / Marasmus, when the body wastes away  
+   Options: Anaemia, when the blood carries less oxygen / Goitre, a swelling at the front of the neck / Marasmus, when the body wastes away  
    **Answer:** Anaemia, when the blood carries less oxygen. *Why:* Too little iron causes anaemia, so the blood carries less oxygen and the child tires quickly. Goitre comes from too little iodine, and marasmus comes from too little food for a long time.
 
 ## Applications

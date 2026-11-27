@@ -560,10 +560,10 @@
       "q": "The tap ran while you brushed your teeth. What saves the most water?",
       "options": [
        "Brush faster with the tap running",
-       "Wet the brush, turn the tap off, then rinse with one mug",
-       "Use hot water instead"
+       "Use hot water instead",
+       "Wet the brush, turn the tap off, then rinse with one mug"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Turning the tap off while you brush saves the water that would run without doing any job. One mug is enough to rinse. Brushing faster still lets clean water run down the drain while you brush."
      }
     },
@@ -690,10 +690,10 @@
       "q": "Where should a bowl of oily water from washing the kadai go?",
       "options": [
        "To the plants",
-       "To the mop",
-       "Down the drain"
+       "Down the drain",
+       "To the mop"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Oil coats the soil and the roots, so plants can't take in water and air well. Oil also leaves the floor greasy. So oily water goes down the drain, after you wipe most of the oil off with paper. Rice and vegetable water are the best for plants."
      },
      "parent": "Soapy water is fine for flushing and mopping. A little mild soap water now and then does not harm most plants, but it is better not to use it every day."
@@ -846,10 +846,10 @@
       "q": "At 30 minutes, glass B has mud on the bottom and clear water on top. Glass A is still cloudy. What made the difference?",
       "options": [
        "Glass B was stirred more",
-       "The phitkari made the tiny mud bits stick into clumps that sank",
-       "Glass B had less mud in it"
+       "Glass B had less mud in it",
+       "The phitkari made the tiny mud bits stick into clumps that sank"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Both glasses had the same mud and the same stirring. Only the phitkari was different. It made the tiny clay bits stick together into flocs, and the flocs were heavy enough to sink. Picking 'less mud' is a natural thought, but the mud is all still there, lying on the bottom."
      }
     },
@@ -1624,11 +1624,11 @@
       "t": "mcq",
       "q": "Why should cooking oil never be poured down the sink?",
       "options": [
-       "It makes the pipe shiny",
        "It cools, sticks inside the pipes and blocks them, and it is hard for the treatment plant to clean",
+       "It makes the pipe shiny",
        "It turns into water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Oil cools and turns thick inside pipes and sewers, catching other dirt and blocking them. It is also hard to clean out at the plant. Wipe oily vessels with paper first and put the paper in the bin."
      },
      "parent": "Not all used water in India reaches a treatment plant. In many places it flows straight into a canal or river. Your city corporation's website may say where your area's sewage goes."
@@ -1789,11 +1789,11 @@
       "t": "mcq",
       "q": "After phitkari, settling and filtering, the water is very clear. What must still be done before anyone could drink it?",
       "options": [
-       "Nothing, it is clear",
        "Boil it or purify it, to kill germs",
+       "Nothing, it is clear",
        "Add more phitkari"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Phitkari, settling and sand make water clear, but many germs are too small to be caught. Boiling for a minute or a good purifier kills them."
      }
     }
@@ -1866,11 +1866,11 @@
       "t": "mcq",
       "q": "Why does a float rise when the tank fills?",
       "options": [
-       "The float is lighter than water for its size, so the water pushes it up",
        "The float is pulled up by the lid",
-       "The float gets heavier"
+       "The float gets heavier",
+       "The float is lighter than water for its size, so the water pushes it up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cork or thermocol is much lighter than the same amount of water, so the water pushes it up and it stays on top. As the water rises, the float rises with it. A float switch uses this to turn off a motor."
      }
     }
@@ -1918,12 +1918,12 @@
    "t": "mcq",
    "p": "A glass of muddy water is left on the table. The sand sinks at once, but the water stays cloudy for hours. Why?",
    "opts": [
-    "The water is too cold",
     "The tiny clay bits sink very, very slowly",
+    "The water is too cold",
     "The sand pushes the clay up",
     "Cloudy water is lighter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Clay is heavier than water, but its bits are so tiny that they sink very slowly. The sand does not push the clay up: there is no such push.",
    "outcome": 0
   },
@@ -1931,12 +1931,12 @@
    "t": "mcq",
    "p": "Why don't tiny clay bits in water stick together by themselves?",
    "opts": [
-    "They are too wet",
     "They carry the same kind of electric charge, so they push each other apart",
+    "They are too wet",
     "They are too hot",
     "They are moving too fast to see"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Things with the same kind of charge push each other away, like two balloons rubbed on hair. So the clay bits keep apart.",
    "outcome": 0
   },
@@ -1944,12 +1944,12 @@
    "t": "mcq",
    "p": "What does phitkari do in muddy water?",
    "opts": [
-    "It dissolves the mud",
     "It makes the tiny bits clump into flocs, which sink",
+    "It dissolves the mud",
     "It kills all the germs",
     "It makes the mud float to the top"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Phitkari makes the bits stick together into flocs, and flocs sink. It does not kill all germs, so the water still needs boiling.",
    "outcome": 1
   },
@@ -1958,11 +1958,11 @@
    "p": "In the Phitkari Test, glass A had no phitkari but was stirred too. Why?",
    "opts": [
     "To make it muddier",
-    "So the only difference between the glasses was the phitkari",
     "Because stirring cleans water",
+    "So the only difference between the glasses was the phitkari",
     "To cool it down"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test only one thing changes. If both are stirred the same, any difference comes from the phitkari.",
    "outcome": 1,
    "how": "e1"
@@ -1985,11 +1985,11 @@
    "p": "What does the living layer on top of a slow sand filter do?",
    "opts": [
     "It blocks the water",
-    "Its tiny living beings eat many of the germs",
     "It adds colour",
+    "Its tiny living beings eat many of the germs",
     "It makes the water salty"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The living layer is full of microbes who feed on germs and dirt. Much of the cleaning happens there.",
    "outcome": 2
   },
@@ -1998,11 +1998,11 @@
    "p": "A glass of well water is perfectly clear. Is it safe to drink?",
    "opts": [
     "Yes, because it is clear",
-    "Not until it is boiled or purified, because germs are too small to see",
     "Yes, if it is cold",
+    "Not until it is boiled or purified, because germs are too small to see",
     "No, clear water is never safe"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Germs are invisible. Clear water still needs boiling, chlorine or a purifier to be safe. Picking 'never safe' goes too far: purified clear water is safe.",
    "outcome": 3
   },
@@ -2010,12 +2010,12 @@
    "t": "mcq",
    "p": "A test compares three ways of washing plates. Plate 1 has a spoon of curd rice on it, plate 2 has two spoons of dal and plate 3 has nothing. Why is this test unfair?",
    "opts": [
-    "The plates have different amounts of food, so the water used can't be compared fairly",
     "Plate 3 is too clean to be a plate",
     "Curd rice is a bad food",
+    "The plates have different amounts of food, so the water used can't be compared fairly",
     "The test should use only one plate"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fair test only the way of washing changes. If the plates have different amounts of food, the water used might depend on the food, not on the way of washing.",
    "outcome": 4,
    "how": "e2"
@@ -2025,11 +2025,11 @@
    "p": "Which of these four kinds of used water should go to balcony plants?",
    "opts": [
     "Oily water from washing a kadai",
-    "Water from rinsing rice",
     "Toilet water",
-    "Water with floor-cleaning liquid"
+    "Water with floor-cleaning liquid",
+    "Water from rinsing rice"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Rice-washing water has only a little starch and dust, which do not harm plants. The others harm the soil or carry germs.",
    "outcome": 5
   },
@@ -2038,11 +2038,11 @@
    "p": "An RO purifier sends away reject water. What is the best job for that water?",
    "opts": [
     "Drinking",
-    "Mopping the floor",
     "Watering plants every day",
+    "Mopping the floor",
     "Making tea"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Reject water is salty, so it isn't good for drinking or for plants every day. It is fine for mopping or flushing.",
    "outcome": 5
   },
@@ -2064,11 +2064,11 @@
    "p": "Which of these saves the most water in a building where the terrace tank overflows every morning?",
    "opts": [
     "Brushing faster",
-    "An alarm or float switch so the motor stops when the tank is full",
     "Using a smaller mug",
-    "Drinking less water"
+    "Drinking less water",
+    "An alarm or float switch so the motor stops when the tank is full"
    ],
-   "a": 1,
+   "a": 3,
    "why": "An overflowing tank pours away a lot of clean water every day. Stopping the motor in time saves all of it.",
    "outcome": 4
   }
@@ -2102,12 +2102,12 @@
      "t": "mcq",
      "p": "In Shake the Mud, the stones and sand settle in the bottle, but the water on top is still cloudy. What is making it cloudy?",
      "opts": [
-      "Tiny clay bits, still floating",
       "Air bubbles",
       "Salt from the soil",
-      "Light from the window"
+      "Light from the window",
+      "Tiny clay bits, still floating"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The cloudiness is tiny clay bits. They are heavier than water but sink very slowly because they are so small. Salt dissolves and can't be seen, so it does not make water cloudy.",
      "how": "a1"
     },
@@ -2139,10 +2139,10 @@
      "opts": [
       "The phitkari ate it",
       "It turned into water",
-      "It clumped together and sank to the bottom",
-      "It went into the air"
+      "It went into the air",
+      "It clumped together and sank to the bottom"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The mud did not disappear. Phitkari made the tiny bits stick into flocs, and the flocs sank. All the mud is still in the glass, on the bottom.",
      "how": "e1"
     },
@@ -2183,11 +2183,11 @@
      "p": "Why does a city still add chlorine after the water has been through the sand filter?",
      "opts": [
       "To make the water taste sweet",
-      "Some germs are too small to be caught by the sand",
       "To make the water cold",
-      "To change its colour"
+      "To change its colour",
+      "Some germs are too small to be caught by the sand"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Sand catches mud and many germs, but not all. Chlorine kills the rest, and a little stays in the pipes to keep killing germs on the way to your home."
     },
     {
@@ -2236,11 +2236,11 @@
      "t": "mcq",
      "p": "In the Plate Test, three plates are washed in three ways. Which way uses the least water?",
      "opts": [
+      "Scraping first, washing in a bowl, rinsing with one mug",
       "Scrubbing under a running tap",
-      "Scrubbing with the tap off, then rinsing",
-      "Scraping first, washing in a bowl, rinsing with one mug"
+      "Scrubbing with the tap off, then rinsing"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Scraping first removes most of the food without water. A bowl and one mug use only the water that does a job. A running tap pours water down the drain while you scrub.",
      "how": "e2"
     },
@@ -2303,12 +2303,12 @@
      "t": "mcq",
      "p": "Two jars hold the same amount of water. Jar 1 has big sand grains stirred in. Jar 2 has fine clay stirred in. Sand and clay are both made of rock. Which jar clears first?",
      "opts": [
-      "Jar 1, because bigger bits sink faster",
       "Jar 2, because clay is heavier",
       "Both at the same time",
+      "Jar 1, because bigger bits sink faster",
       "Neither ever clears"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sand and clay are both heavier than water, but the bigger sand grains push through the water quickly. The tiny clay bits are slowed almost to a stop. Size decides how fast they sink."
     },
     {
@@ -2330,11 +2330,11 @@
      "p": "The Phitkari Test was done with potting mix that was mostly cocopeat. The water stayed brown, even with phitkari. What is the best next step?",
      "opts": [
       "Give up: phitkari doesn't work",
-      "Try again with red soil or multani mitti, which have lots of clay",
       "Add five spoons of phitkari",
-      "Shake the glass hard"
+      "Shake the glass hard",
+      "Try again with red soil or multani mitti, which have lots of clay"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Phitkari works best on clay. Cocopeat is made of plant fibre, and part of the brown colour is dissolved in the water, so phitkari clears it less well. Testing again with a clay soil checks the idea fairly.",
      "how": "e1"
     },
@@ -2363,11 +2363,11 @@
      "p": "A slow sand filter gets a slimy layer on top after a few weeks. What does this layer do?",
      "opts": [
       "Nothing useful. It should be scraped off every day",
-      "Its tiny living beings eat many of the germs in the water",
       "It makes the water salty",
+      "Its tiny living beings eat many of the germs in the water",
       "It stops any water getting through"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The living layer, called schmutzdecke, is full of bacteria and other microbes. They feed on germs and dirt, so much of the cleaning happens there. Workers scrape it only every few weeks, when it clogs."
     },
     {
@@ -2481,11 +2481,11 @@
      "p": "Why do people in Chennai catch the cold water from the geyser pipe in a bucket while waiting for hot water?",
      "opts": [
       "Cold water is dirty",
-      "That water is clean and would otherwise go down the drain",
       "The bucket makes the water hot",
-      "To stop the geyser breaking"
+      "To stop the geyser breaking",
+      "That water is clean and would otherwise go down the drain"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The cold water that comes before the hot water is perfectly clean. Catching it means it can water plants or flush the toilet instead of being wasted."
     },
     {
@@ -2529,12 +2529,12 @@
      "t": "mcq",
      "p": "Here is a claim: 'If phitkari makes clumps, then more phitkari will always make bigger clumps and clearer water.' What is the best way to check it?",
      "opts": [
-      "Believe it, because it sounds right",
       "Test glasses of the same muddy water with a little, some, and a lot of phitkari, and compare",
+      "Believe it, because it sounds right",
       "Add a whole lump to one glass",
       "Ask a friend"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A fair test with different amounts, and everything else the same, shows what really happens. Water engineers do exactly this in a 'jar test' to find the right dose. More is not always better, and too much makes the water sour."
     },
     {
@@ -2584,11 +2584,11 @@
      "p": "The settling tanks at a city water plant are out of order for a day. What problem would the sand filters have?",
      "opts": [
       "None at all",
-      "They would clog fast with mud and need cleaning very often",
       "The water would get salty",
+      "They would clog fast with mud and need cleaning very often",
       "The chlorine would stop working"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Settling takes out most mud before the sand. Without it, the sand gets all the mud and its gaps fill quickly, so water flows slowly and the filters need scraping much more often."
     },
     {
@@ -2602,12 +2602,12 @@
      "t": "mcq",
      "p": "Someone says muddy river water clears faster in a matka in the hot sun than on a cold night. Which is the best fair test to check this?",
      "opts": [
-      "Leave one matka in the sun and one in the cold, with the same water, the same phitkari and the same time",
       "Use one matka and look at it twice",
       "Use different water in each",
+      "Leave one matka in the sun and one in the cold, with the same water, the same phitkari and the same time",
       "Ask Paati"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only the one thing you want to check, here the temperature, and keeps the water, the phitkari and the time the same."
     },
     {
@@ -2637,11 +2637,11 @@
      "p": "About 97 out of every 100 litres of water on Earth are in the sea. Why can't cities just use sea water from the tap?",
      "opts": [
       "Sea water is too cold",
-      "It is salty, and taking the salt out costs a lot of energy",
       "There is not enough of it",
-      "It is too clear"
+      "It is too clear",
+      "It is salty, and taking the salt out costs a lot of energy"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Sea water is salty, and people can't drink it or grow crops with it. Taking the salt out, as Chennai's desalination plants do, needs a lot of energy and money."
     },
     {

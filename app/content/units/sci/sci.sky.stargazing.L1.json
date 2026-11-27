@@ -397,11 +397,11 @@
       "t": "mcq",
       "q": "When you walked past the window, what slid past the most?",
       "options": [
-       "The paper strips on the glass",
        "A far building",
-       "The Moon"
+       "The Moon",
+       "The paper strips on the glass"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The strips were the nearest, so they slid the most. The far building slid a little, and the Moon not at all. If your child picks the Moon, they still feel that the Moon follows the bus. Try the walk once more and watch only the Moon."
      },
      "parent": "Now link it to the bus. From a bus, the lamp posts are near, so they rush past. The Moon is so far that the bus ride hardly changes where it is. So it seems to come along."
@@ -834,11 +834,11 @@
       "t": "mcq",
       "q": "A red light blinks on top of a tall tower and never moves. Is it a star?",
       "options": [
-       "No, it is a lamp on the tower",
        "Yes, it is a star that blinks",
+       "No, it is a lamp on the tower",
        "Yes, it is a planet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A lamp on a tower is not in the sky. It warns aeroplanes. A star would twinkle high up, and would not stay on top of a tower."
      }
     }
@@ -1135,11 +1135,11 @@
    "t": "mcq",
    "p": "From a moving bus, the street lamps rush past. What does the Moon seem to do?",
    "opts": [
-    "Come along with the bus",
     "Rush past like the lamps",
-    "Go behind the bus"
+    "Go behind the bus",
+    "Come along with the bus"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Moon is so far away that the bus ride hardly changes where you see it, so it seems to come along.",
    "outcome": 1
   },
@@ -1147,11 +1147,11 @@
    "t": "mcq",
    "p": "You take two steps sideways. A steel tumbler on a stool seems to jump across the far wall. Why?",
    "opts": [
-    "The tumbler is near you, so a few steps change where you see it",
     "The tumbler jumped by itself",
+    "The tumbler is near you, so a few steps change where you see it",
     "The wall moved"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Near things seem to move a lot when you move, and far things hardly move at all. Only you moved.",
    "outcome": 1
   },
@@ -1171,11 +1171,11 @@
    "t": "mcq",
    "p": "Where does the Moon's light come from?",
    "opts": [
-    "The Sun",
     "A fire inside the Moon",
-    "The stars"
+    "The stars",
+    "The Sun"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Moon is grey rock with no light of its own. Sunlight falls on it and bounces to us.",
    "outcome": 2
   },
@@ -1183,11 +1183,11 @@
    "t": "mcq",
    "p": "Which of these makes its own light?",
    "opts": [
-    "A star",
     "Venus",
-    "The Moon"
+    "The Moon",
+    "A star"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A star is a sun. Venus is a planet, and Venus and the Moon shine only with sunlight.",
    "outcome": 2
   },
@@ -1219,11 +1219,11 @@
    "t": "mcq",
    "p": "You see a bright dot in the night sky that does not twinkle at all. What could it be?",
    "opts": [
-    "A planet",
     "A star",
-    "A shooting star"
+    "A shooting star",
+    "A planet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stars usually twinkle. Planets usually shine steadily, because their light comes from a tiny round patch, not a single point.",
    "outcome": 4
   },
@@ -1243,11 +1243,11 @@
    "t": "mcq",
    "p": "A light moves across the night sky and blinks red and green. What is it?",
    "opts": [
-    "An aeroplane",
     "A planet",
+    "An aeroplane",
     "The Moon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Aeroplanes have blinking red and green lamps, and they move across the sky quickly. Planets and the Moon don't blink.",
    "outcome": 0
   }
@@ -1468,11 +1468,11 @@
      "t": "mcq",
      "p": "In the hot tawa test, the stove was switched off and the tawa cooled. What happened to the shivering?",
      "opts": [
-      "It got weaker",
       "It got stronger",
-      "The torch went off"
+      "The torch went off",
+      "It got weaker"
      ],
-     "a": 0,
+     "a": 2,
      "why": "As the tawa cooled, less warm air rose from it, so the light shivered less. Without moving warm air, the light looks steady.",
      "how": "e2"
     },

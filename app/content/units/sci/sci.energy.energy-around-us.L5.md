@@ -679,7 +679,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 6. (fill) A still table has heat energy, because its ____ never stop shaking.  
    **Answer:** ['particles']. *Why:* The tiny particles that the wood is made of keep shaking all the time. That shaking is heat energy. 'Atoms' and 'molecules' are also right.
 7. (mcq) Which of these does an ordinary wooden table NOT have?  
-   Options: Heat energy / Chemical energy in the wood / Electrical energy flowing through it / Energy in its mass  
+   Options: Heat energy / Electrical energy flowing through it / Chemical energy in the wood / Energy in its mass  
    **Answer:** Electrical energy flowing through it. *Why:* A table has heat energy, chemical energy in the wood, stored energy of its height and energy in its mass. No electricity flows through it unless it is wired up.
 8. (truefalse) True or false: if a thing holds a lot of energy, it must be doing something.  
    **Answer:** False. *Why:* False. A still table holds a great deal of energy and does nothing. Energy makes something happen only when it moves or changes form.
@@ -707,7 +707,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    **Answer:** a lid on the pot → Saves gas; soaking pulses first → Saves gas; a pressure cooker → Saves gas; boiling a big pot of water for one cup of tea → Wastes gas; cooking with the lid off → Wastes gas; lighting the flame before the food is ready to go on → Wastes gas. *Why:* Gas is saved when the food cooks in less time, with less water, and with the heat kept in. It is wasted when heat escapes or when we heat more than we need.
 ### Why things happen: differences, fans and the grid (stretch) (stretch, 18 questions)
 1. (mcq) A freezer bottle made more clicks than a fridge bottle. Why?  
-   Options: A bigger difference moves heat in faster / The freezer bottle was heavier / The freezer bottle had more air / The freezer made the coin lighter  
+   Options: The freezer bottle was heavier / The freezer bottle had more air / The freezer made the coin lighter / A bigger difference moves heat in faster  
    **Answer:** A bigger difference moves heat in faster. *Why:* Both bottles stood in the same warm room. The colder bottle had a bigger gap to the room's temperature, so heat moved in faster and the air expanded faster.
 2. (count) A freezer bottle clicked 14, 8 and 4 times in three half-minutes. How many clicks in all?  
    **Answer:** 26. *Why:* 14 + 8 + 4 = 26. The clicks get fewer in each half minute, because the bottle is warming and the gap to the room is closing.
@@ -716,7 +716,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 4. (truefalse) True or false: a fan makes the air in a room colder.  
    **Answer:** False. *Why:* False. A fan only moves air. In the Fan and the Ice, the ice melted faster in the wind, because the wind carried the room's heat to it.
 5. (mcq) In the Fan and the Ice, which is the best reason for the faster melting?  
-   Options: Moving air brought the room's heat to the ice faster / The fan made colder air / The fan's motor heated the ice / The screen was colder  
+   Options: The fan made colder air / The fan's motor heated the ice / Moving air brought the room's heat to the ice faster / The screen was colder  
    **Answer:** Moving air brought the room's heat to the ice faster. *Why:* The fan did not make the air colder, or the cube would have lasted longer. It moved the room's air, so more warmth reached the ice every minute.
 6. (perspective) Three people talk about the electricity in a country that still burns much coal.  
    **Answer:** A strong answer names a fair point for each view. Coal gives steady power and jobs. Smoke harms the lungs of people who live near. Solar is clean, but it needs storage for the night. It picks one view and gives a fair point from another.. *Why:* Each view is right about something. A good choice is not to pick a winner, but to say what each side gives up.
@@ -754,14 +754,14 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 3. (perspective) Three people talk about electric scooters.  
    **Answer:** A strong answer names a fair point for each. The scooter makes no smoke on the road. The electricity may come from burning coal, so smoke moves to the power station. Cleaner power makes scooters cleaner. It chooses one view and gives a fair point from another.. *Why:* All three are right about part of it. An electric vehicle is as clean as the electricity that charges it.
 4. (mcq) A cup of tea cools to room temperature. Where has its heat energy gone?  
-   Options: Into the air and the table / It has been destroyed / Into the cup's handle only / It has turned into cold  
+   Options: It has been destroyed / Into the cup's handle only / It has turned into cold / Into the air and the table  
    **Answer:** Into the air and the table. *Why:* Energy is never destroyed. The tea's heat moved into the cooler air and table, which are now a little warmer. It is still there, spread too thin to use.
 5. (truefalse) True or false: the total energy of a closed room stays the same while a hot cup of tea cools in it.  
    **Answer:** True. *Why:* True. The tea loses heat energy and the air and table gain exactly as much. The total is the same.
 6. (write) A table never does anything, so it has no energy. Give two pieces of evidence that this is wrong.  
    **Answer:** The wood can burn, so it has chemical energy. An ice cube melts on it, so it has heat energy. A table pushed off a high balcony would fall and hit the ground, so its height stores energy.. *Why:* A strong answer gives two kinds of energy and an example for each. The ice cube, the burning stick and the falling eraser all work.
 7. (mcq) Why does a fan feel cooler when your skin is wet with sweat?  
-   Options: Moving air dries the sweat faster, taking heat / The fan makes colder air / The sweat is colder than the air / The fan makes more sweat  
+   Options: The fan makes colder air / Moving air dries the sweat faster, taking heat / The sweat is colder than the air / The fan makes more sweat  
    **Answer:** Moving air dries the sweat faster, taking heat. *Why:* Drying takes heat from the skin. Moving air carries the wet air away, so sweat dries faster and your skin cools faster. A fan does not make the air colder.
 8. (sort) Sort these into energy that is moving and energy that is waiting.  
    **Answer:** a whistling cooker → Energy is moving; coal in a heap → Energy is waiting; sunlight crossing a room → Energy is moving; a charged battery → Energy is waiting; a cycle going downhill → Energy is moving; water in a roof tank → Energy is waiting. *Why:* A whistling cooker, sunlight crossing a room and a cycle going downhill are energy on the move. Coal in a heap, a charged battery and water in a roof tank hold energy that waits.
@@ -772,7 +772,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 11. (match) Match each danger to the right action.  
    **Answer:** A wire lies on the road after a storm → Stay far away and tell a grown-up; Your hands are wet → Dry them before touching a switch; A pin is near a socket → Never push anything into it; A socket cover is cracked → Do not use it, tell a grown-up; A kite is stuck on a power line → Leave it there. *Why:* Each danger has a rule. Fallen wires and kites on power lines are never touched. Wet hands never touch switches. Nothing goes into a socket.
 12. (mcq) A town has no electricity for a whole day. Which of these still works?  
-   Options: The roof tank pump / A gas stove lit with a match / A lift / A fridge motor  
+   Options: The roof tank pump / A lift / A gas stove lit with a match / A fridge motor  
    **Answer:** A gas stove lit with a match. *Why:* A gas stove runs on the chemical energy of cooking gas, not on electricity. The pump, the lift and the fridge motor all need electricity.
 13. (write) Almost every energy chain ends as heat in the air. Why is that energy so hard to use again?  
    **Answer:** The heat spreads out into a huge amount of air, and the air is only a little warmer. Heat can do work only where there is a difference in temperature, and a little warmth everywhere gives no difference.. *Why:* A strong answer says the heat is spread out thinly and has no colder place to flow to. It uses the idea of a difference in temperature.
@@ -790,49 +790,49 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
 
 ## Quiz
 1. (mcq) A ceiling fan, a mixie and a loudspeaker all do what with energy?  
-   Options: Change it from one form to another / Make new energy / Use it up for ever / Store it for later  
+   Options: Make new energy / Use it up for ever / Store it for later / Change it from one form to another  
    **Answer:** Change it from one form to another. *Why:* Every machine is an energy changer. It takes energy in one form and gives it out in others. If you chose 'make new energy', remember that no machine has ever made any.
 2. (mcq) A phone charger feels warm. Where did the warmth come from?  
-   Options: Some of the electrical energy changed to heat / The charger made heat from nothing / The phone made it first / A warm charger is broken  
+   Options: The charger made heat from nothing / Some of the electrical energy changed to heat / The phone made it first / A warm charger is broken  
    **Answer:** Some of the electrical energy changed to heat. *Why:* Every machine gives out a little heat. A warm charger is normal. It shows some of the energy going in has become heat instead of charge.
 3. (mcq) Which chain of energy is in the right order?  
-   Options: Sun, paddy plant, rice, muscles / Rice, Sun, muscles, paddy plant / Muscles, rice, paddy plant, Sun / Paddy plant, muscles, rice, Sun  
+   Options: Rice, Sun, muscles, paddy plant / Muscles, rice, paddy plant, Sun / Sun, paddy plant, rice, muscles / Paddy plant, muscles, rice, Sun  
    **Answer:** Sun, paddy plant, rice, muscles. *Why:* Sunlight is the start of most chains. A plant uses sunlight to make rice, and your muscles run on the rice. The other orders put a step before the one that makes it.
 4. (mcq) Which source of energy does not come from the Sun, even through a long chain?  
    Options: Heat from deep inside the Earth / Wind / Coal / Rice  
    **Answer:** Heat from deep inside the Earth. *Why:* Wind, coal and rice all trace back to sunlight. Heat from inside the Earth comes from the Earth itself, so a hot spring is not Sun energy.
 5. (mcq) A table stands still in a room. Which statement is true?  
-   Options: It holds heat energy, because its particles move / It has no energy until it is pushed / It has energy only if it is hot / It has energy only when it is lit  
+   Options: It has no energy until it is pushed / It has energy only if it is hot / It holds heat energy, because its particles move / It has energy only when it is lit  
    **Answer:** It holds heat energy, because its particles move. *Why:* The particles of the wood always shake, and that is heat energy. A table is still on the outside and busy on the inside.
 6. (mcq) By itself, heat energy moves from where to where?  
-   Options: From a warmer thing to a cooler thing / From a cooler thing to a warmer thing / From a heavy thing to a light thing / From a big thing to a small thing  
+   Options: From a cooler thing to a warmer thing / From a warmer thing to a cooler thing / From a heavy thing to a light thing / From a big thing to a small thing  
    **Answer:** From a warmer thing to a cooler thing. *Why:* Heat moves by itself only from warmer to cooler. In the Clicking Coin Test, heat moved from the warm room into the cold bottle.
 7. (mcq) The coin on a freezer bottle stopped clicking. What is the most likely reason?  
    Options: The bottle had warmed to room temperature / The coin got heavier / The room got colder / The bottle ran out of air  
    **Answer:** The bottle had warmed to room temperature. *Why:* When the bottle matches the room, no more heat moves in. With no moving heat, the air stops swelling and the coin stops clicking.
 8. (mcq) A fan blows on an ice cube and it melts faster. What did the fan do?  
-   Options: Moved the room's warm air onto the ice faster / Made the air hotter / Made colder air / Made more ice  
+   Options: Made the air hotter / Made colder air / Moved the room's warm air onto the ice faster / Made more ice  
    **Answer:** Moved the room's warm air onto the ice faster. *Why:* A fan only moves air. Moving air brings the room's heat to the ice faster, so the ice melts sooner.
 9. (mcq) A wire has fallen on a wet road. What should you do?  
    Options: Stay far away and tell a grown-up / Push it aside with a stick / Step over it quickly / Pour water on it  
    **Answer:** Stay far away and tell a grown-up. *Why:* A fallen wire may still carry electricity, and wet ground or a wet stick can carry it to you. Keep far away and tell a grown-up.
 10. (mcq) Why must your hands be dry before you touch a switch?  
-   Options: Wet skin lets electricity pass more easily / Wet hands make the switch rust / Water makes the bulb brighter / Dry hands switch things on faster  
+   Options: Wet hands make the switch rust / Water makes the bulb brighter / Dry hands switch things on faster / Wet skin lets electricity pass more easily  
    **Answer:** Wet skin lets electricity pass more easily. *Why:* Water with salts in it carries electricity, and your body does too. Dry skin is much safer.
 11. (mcq) An engine turns heat into movement. What must it have besides a hot place?  
-   Options: A colder place to send some heat to / A bigger fire / A heavier wheel / More fuel only  
+   Options: A bigger fire / A colder place to send some heat to / A heavier wheel / More fuel only  
    **Answer:** A colder place to send some heat to. *Why:* Heat does work only as it passes from a hotter place to a colder place. With no colder place, nothing makes the engine move.
 12. (mcq) Why do we call wind and flowing water renewable sources?  
-   Options: The Sun renews them every day / People can store them in tanks / They are free to buy / They never move  
+   Options: People can store them in tanks / The Sun renews them every day / They are free to buy / They never move  
    **Answer:** The Sun renews them every day. *Why:* The Sun heats the air and the sea, which drives the wind and the rain that fills rivers. Coal and petrol took millions of years to form, so they are not renewable.
 13. (mcq) Which of these changes sunlight straight into electricity?  
    Options: A solar cell / A solar cooker / A solar water heater / Grain drying on a mat  
    **Answer:** A solar cell. *Why:* A solar cell makes electricity from light. The cooker, the water heater and the drying mat use the Sun's heat, and make no electricity.
 14. (mcq) A windmill's blades turn in the wind. What work did old windmills do on farms?  
-   Options: Pumped water up from wells and ground grain / Made the wind blow harder / Cooled the grain store / Lit the fields at night  
+   Options: Made the wind blow harder / Cooled the grain store / Pumped water up from wells and ground grain / Lit the fields at night  
    **Answer:** Pumped water up from wells and ground grain. *Why:* Moving air carries energy. A windmill changes it into the turning of a pump or a grindstone. It does not make wind or light.
 15. (mcq) You let go of a blown-up balloon with its mouth open, and it shoots across the room. What does this show?  
-   Options: Moving air carries energy that can push / Air has no energy / The balloon makes new energy / The air outside is colder  
+   Options: Air has no energy / The balloon makes new energy / Moving air carries energy that can push / The air outside is colder  
    **Answer:** Moving air carries energy that can push. *Why:* The air rushes out one way and pushes the balloon the other way. The energy in the squeezed air does work. No machine makes new energy.
 16. (mcq) In some hill villages, families live on the upper floor and keep cattle below. How does this help in winter?  
    Options: The cattle's body heat rises into the rooms above / The cattle block the wind / The cattle give light / The cattle keep the rain out  
@@ -841,7 +841,7 @@ After that, nobody at the society waited for the cans to go quiet. On hot mornin
    Options: Fuel / Wind / Flowing water / The Sun  
    **Answer:** Fuel. *Why:* A fuel is burned for heat. Biogas is a fuel, so it is not a separate kind of energy. Some books list 'organic energy', but this unit names it a fuel.
 18. (mcq) Why does soaking dal before cooking save cooking gas?  
-   Options: Soaked dal is soft and cooks in fewer minutes / Soaked dal makes the flame hotter / Soaked dal weighs less / Water in the dal makes gas  
+   Options: Soaked dal makes the flame hotter / Soaked dal is soft and cooks in fewer minutes / Soaked dal weighs less / Water in the dal makes gas  
    **Answer:** Soaked dal is soft and cooks in fewer minutes. *Why:* A shorter cooking time means less time with the flame on. The flame is not hotter, and the dal makes no gas. Gas is saved only by shorter burning.
 
 ## Applications

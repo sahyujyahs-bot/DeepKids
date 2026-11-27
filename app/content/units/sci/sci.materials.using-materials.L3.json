@@ -901,11 +901,11 @@
       "t": "mcq",
       "q": "What is the real problem with a chocolate kadai?",
       "options": [
-       "It is the wrong colour",
        "Chocolate melts when it gets warm",
+       "It is the wrong colour",
        "It is too heavy to lift"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Chocolate turns soft and melts when it is warm. A kadai sits on a flame, so it would melt straight away. A better material is iron or steel, which stays solid and carries heat to the food. Picking 'wrong colour' means looking at how it looks, not at what it does. In this game, always ask what the material does."
      }
     },
@@ -953,12 +953,12 @@
      "t": "mcq",
      "p": "You make two boats. One is folded from newspaper. The other is a plastic box lid. You float both in a bucket of water. Which boat will still float tomorrow?",
      "opts": [
-      "The plastic lid, because plastic is waterproof",
       "The paper boat, because paper is lighter",
       "Both, because both float at first",
-      "Neither, because all boats sink in the end"
+      "Neither, because all boats sink in the end",
+      "The plastic lid, because plastic is waterproof"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A strong answer uses a property. Paper is absorbent. It slowly soaks up water, goes soft and sinks. Plastic is waterproof, so it stays dry and keeps floating. Picking 'paper is lighter' is a sensible first guess, but being light only helps until the paper fills with water."
     },
     {
@@ -1048,12 +1048,12 @@
      "t": "mcq",
      "p": "A cricket bat is made of willow wood, not steel. What is the main reason?",
      "opts": [
-      "A steel bat of that size would be far too heavy to swing",
       "Wood is waterproof",
       "Steel cannot be shaped",
-      "Wood carries heat well"
+      "Wood carries heat well",
+      "A steel bat of that size would be far too heavy to swing"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Steel is strong, but it is very heavy for its size. A bat must be strong and light enough to swing fast. Willow is both. Picking 'steel cannot be shaped' is not right, because steel is shaped into cars and spoons. A strong answer weighs strength against weight."
     },
     {
@@ -1131,12 +1131,12 @@
      "t": "mcq",
      "p": "Glass is very hard. Yet a glass tumbler breaks when it falls, and a steel tumbler only dents. Why?",
      "opts": [
-      "Glass is brittle: it cracks instead of bending",
       "Glass is soft",
       "Glass is heavier than steel",
+      "Glass is brittle: it cracks instead of bending",
       "Glass is transparent"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break."
     },
     {
@@ -1196,12 +1196,12 @@
      "t": "mcq",
      "p": "Look at the chart from the Hot Spoon Race. The plastic spoon's butter melted after 14 minutes. The wooden spoon's butter had not melted by 15 minutes. What does this tell you?",
      "opts": [
-      "Plastic and wood are both insulators: they carried heat much more slowly than steel",
       "Plastic is a conductor, like steel",
+      "Plastic and wood are both insulators: they carried heat much more slowly than steel",
       "Plastic makes its own heat",
       "Wood is a conductor"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steel melted its butter in 4 minutes. Plastic took 14, and wood had still not melted at 15. Both carried heat far more slowly than steel, so both are insulators. Picking 'a conductor, like steel' ignores how big the gap is. A strong answer compares the numbers.",
      "how": "e1",
      "context": "In the Hot Spoon Race, you stick a blob of butter on the handle of a steel, a plastic and a wooden spoon. You stand them in hot water and time how long each blob takes to melt.",
@@ -1243,12 +1243,12 @@
      "t": "mcq",
      "p": "Two clay pots are filled with the same water. One stands in the breeze of a fan. The other stands in a still corner. Which water will be cooler after two hours?",
      "opts": [
-      "The pot in the fan's breeze",
       "The pot in the still corner",
+      "The pot in the fan's breeze",
       "Both the same, because they are the same pot",
       "Neither will cool"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Moving air carries away the water that has evaporated, so more water can evaporate. More evaporation takes away more heat. Picking 'both the same' forgets that the air around the pot matters, not just the clay.",
      "how": "e3",
      "context": "In the Matka Mystery test, you leave the same water in a clay pot, a plastic bottle and a steel bottle, side by side in the shade, for three hours. Then you measure which water is coolest."
@@ -1264,12 +1264,12 @@
      "t": "mcq",
      "p": "Aeroplanes are made mostly of aluminium, not steel. Why?",
      "opts": [
-      "Aluminium is much lighter, and strong enough for the job",
       "Aluminium is stronger than steel in every way",
+      "Aluminium is much lighter, and strong enough for the job",
       "Steel cannot be shaped",
       "Aluminium is cheaper than paper"
      ],
-     "a": 0,
+     "a": 1,
      "why": "This is a trade-off. Steel is stronger, but a plane made of steel would be far too heavy to fly well. Aluminium is lighter and still strong enough. Picking 'stronger in every way' forgets that steel is the stronger metal. A strong answer weighs strength against weight."
     },
     {
@@ -1367,12 +1367,12 @@
      "t": "mcq",
      "p": "A girl tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?",
      "opts": [
-      "The water should start at the same temperature in both",
       "She should use only one tumbler",
+      "The water should start at the same temperature in both",
       "Cotton cannot be tested",
       "Nothing is wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In a fair test, only the cloth should change. If one tumbler starts hotter, it may end hotter whatever it is wrapped in. A strong answer names the one thing that should stay the same."
     },
     {
@@ -1393,12 +1393,12 @@
      "t": "mcq",
      "p": "A cricket helmet is hard plastic on the outside and soft foam on the inside. Why use two materials?",
      "opts": [
-      "The hard shell spreads out the hit, and the foam squashes to slow it down",
       "Foam makes the helmet look bigger",
+      "The hard shell spreads out the hit, and the foam squashes to slow it down",
       "The foam keeps the head warm",
       "Two materials are cheaper than one"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The hard shell stops the ball from poking through and spreads the force. The soft foam squashes, so the head stops more gently. Picking 'keeps the head warm' gives a real property of foam, but that is not this job."
     },
     {
@@ -1498,12 +1498,12 @@
      "t": "mcq",
      "p": "A diamond and graphite, the soft black stuff in a pencil, are both made only of carbon atoms. What makes diamond very hard and graphite soft enough to write with?",
      "opts": [
-      "The carbon atoms are joined together in different ways",
       "Diamond has more carbon atoms",
+      "The carbon atoms are joined together in different ways",
       "Graphite is mixed with butter",
       "Diamond is kept colder"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In diamond, each carbon atom holds tightly to others in every direction. In graphite, the atoms make flat sheets that slide over each other. Picking 'more carbon' means thinking properties depend only on how much there is. A strong answer says arrangement matters."
     },
     {
@@ -1532,12 +1532,12 @@
      "t": "mcq",
      "p": "India's Chandrayaan-3 lander was wrapped in a shiny blanket with many thin layers and gaps between them. What does the blanket do?",
      "opts": [
-      "The shiny layers reflect the Sun's heat, and the gaps slow heat passing through",
       "It makes heat to keep the lander warm",
       "It makes the lander heavier, so it does not float away",
+      "The shiny layers reflect the Sun's heat, and the gaps slow heat passing through",
       "It is only for decoration"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Shiny surfaces send heat back. The gaps between the layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mistake as thinking a sweater makes heat. A strong answer says the blanket slows heat, in both directions.",
      "context": "Chandrayaan-3 landed near the Moon's south pole in 2023. On the Moon, the sunny side is very hot and the shady side is very cold."
     },
@@ -1553,12 +1553,12 @@
      "t": "mcq",
      "p": "To cut a sheet of glass, a glass cutter scratches a line on it, then bends the sheet. The glass snaps cleanly along the line. Why?",
      "opts": [
-      "The scratch is a tiny crack, and the crack grows along the line when the glass is bent",
       "The scratch makes the glass softer",
       "The scratch heats the glass",
+      "The scratch is a tiny crack, and the crack grows along the line when the glass is bent",
       "The glass was already broken there"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Glass is brittle. A small crack is its weak point. When the sheet bends, the crack grows along the scratch and the glass splits there. A strong answer links this to the idea that a crack grows and breaks a brittle material."
     },
     {
@@ -1590,12 +1590,12 @@
      "t": "mcq",
      "p": "In 2023, some scientists said they had made LK-99, a wonder material that carries electricity with no loss at room temperature. What should other scientists do first?",
      "opts": [
-      "Try to make it themselves and test it",
       "Believe it, because scientists said so",
+      "Try to make it themselves and test it",
       "Start selling it in phones",
       "Ignore it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Scientists around the world tried. Their LK-99 did not work as claimed. A result counts only when others can repeat it. Picking 'believe it' trusts who said it instead of what a test shows."
     },
     {
@@ -1617,12 +1617,12 @@
      "t": "mcq",
      "p": "An engineer is choosing a material for a new bridge over the Kaveri river. Which pair of properties matters most?",
      "opts": [
-      "Strong, and lasts for years in rain and river water",
       "Shiny, and light",
       "Transparent, and soft",
-      "Absorbent, and colourful"
+      "Absorbent, and colourful",
+      "Strong, and lasts for years in rain and river water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A bridge must hold up heavy loads for many years, out in the weather. So it needs strength and durability. Then the engineer weighs cost and weight. A strong answer starts from the job."
     },
     {
@@ -1760,11 +1760,11 @@
       "t": "mcq",
       "q": "The steel spoon's pea fell first. What does that tell us about steel?",
       "options": [
-       "Steel is a good conductor of heat",
        "Steel is a good insulator of heat",
+       "Steel is a good conductor of heat",
        "Steel makes its own heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The heat from the water travelled up the steel fastest, so its butter melted first. A material that carries heat quickly is a conductor. Picking 'insulator' swaps the two words. An insulator would keep its butter solid, like the wooden spoon did."
      },
      "chart": {
@@ -1941,11 +1941,11 @@
       "t": "mcq",
       "q": "The ice cube in the woollen sock lasted longest. Why?",
       "options": [
-       "Wool makes cold",
        "Wool traps still air, which slows heat from the room reaching the ice",
+       "Wool makes cold",
        "Wool makes heat, but only a little"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wool is full of tiny pockets of still air. Still air lets heat pass through only slowly. So the room's warmth took longer to reach the ice. Picking 'wool makes cold' is a natural guess, but wool makes neither heat nor cold. It only slows heat down, in both directions."
      },
      "chart": {
@@ -2353,11 +2353,11 @@
       "t": "mcq",
       "q": "Spoons can be made of steel, wood, plastic or coconut shell. What does this show?",
       "options": [
-       "One job can be done by many materials",
        "Only steel makes a real spoon",
+       "One job can be done by many materials",
        "Spoons can be made of anything at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Many materials have the properties a spoon needs: stiff, safe to eat from, able to hold a bowl shape. So many can do the job. Picking 'anything at all' goes too far. A spoon of paper or jelly would not work."
      }
     }
@@ -2434,11 +2434,11 @@
       "t": "mcq",
       "q": "An umbrella's ribs are springy steel. Why?",
       "options": [
-       "Steel is strong and springs back after bending, so it holds the cloth open",
        "Steel is waterproof, so it keeps rain off",
-       "Steel is light as a feather"
+       "Steel is light as a feather",
+       "Steel is strong and springs back after bending, so it holds the cloth open"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The ribs must hold the cloth tight, and bend in the wind without snapping. Springy steel is strong and returns to its shape. Picking 'waterproof' gives a true property of steel, but it is the cloth's job to keep rain off, not the ribs'."
      }
     }
@@ -2681,11 +2681,11 @@
       "t": "mcq",
       "q": "In the game, why did heat reach the end faster in the 'metal' line?",
       "options": [
-       "Free electrons carried it along quickly",
        "The metal atoms were taller",
+       "Free electrons carried it along quickly",
        "The metal line was shorter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In metals, some electrons are free to move through the whole material. They carry energy along fast, like the runner. In wood, heat can only pass from one jiggling atom to the next, which is slow. Picking 'shorter' would make the test unfair. Keep both lines the same length."
      }
     },
@@ -2805,11 +2805,11 @@
       "t": "mcq",
       "q": "Why must you keep adding water to the sand?",
       "options": [
-       "The cooling comes from water evaporating, so it needs a supply of water",
        "The pot gets thirsty",
-       "Water makes the pots heavier"
+       "Water makes the pots heavier",
+       "The cooling comes from water evaporating, so it needs a supply of water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cooler works because water evaporates from the outside of the big pot, taking heat away. Once the sand dries, there is nothing left to evaporate, and the cooling stops. Picking 'the pot gets thirsty' is a fun way to say it. What the cooler really needs is water in the sand, ready to evaporate."
      }
     },
@@ -2952,11 +2952,11 @@
       "t": "mcq",
       "q": "Which cosy would keep coffee hottest?",
       "options": [
-       "A thick fluffy woollen one with a lid",
        "A thin sheet of steel wrapped round",
+       "A thick fluffy woollen one with a lid",
        "No cosy, but a bigger tumbler"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Thick fluffy wool traps lots of still air, which slows heat down. A lid stops heat escaping from the top. A steel wrap is a conductor, so it would carry heat away, not keep it in. Picking 'steel' usually means thinking 'strong' is the property that matters. Here the job needs an insulator."
      },
      "think": "The same cosy could keep a cold drink cold. Why?",
@@ -3098,12 +3098,12 @@
    "t": "mcq",
    "p": "Why do we choose a particular material for a job?",
    "opts": [
-    "Because its properties suit the job",
     "Because it is the newest material",
     "Because it is the most colourful",
-    "Because it is always the cheapest"
+    "Because it is always the cheapest",
+    "Because its properties suit the job"
    ],
-   "a": 0,
+   "a": 3,
    "why": "We look at what the job needs, then find a material with those properties. Picking 'cheapest' is a real thing people think about. But a cheap material that cannot do the job is no use.",
    "outcome": 0
   },
@@ -3111,12 +3111,12 @@
    "t": "mcq",
    "p": "You spill a glass of water on the floor. You have a plastic sheet and an old cotton towel. Which will clean it up, and why?",
    "opts": [
-    "The cotton towel, because cotton is absorbent",
     "The plastic sheet, because plastic is waterproof",
+    "The cotton towel, because cotton is absorbent",
     "Both work equally well",
     "Neither, because water cannot be picked up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Cotton soaks up the water. Plastic is waterproof, so it only pushes the water around. Picking plastic means thinking 'waterproof' means 'good with water'. For this job it is the wrong property.",
    "outcome": 0
   },
@@ -3124,12 +3124,12 @@
    "t": "mcq",
    "p": "A kadai is metal, but its handle is wood. Why?",
    "opts": [
-    "Metal carries heat to the food. Wood does not carry heat to your hand.",
     "Wood is stronger than metal",
+    "Metal carries heat to the food. Wood does not carry heat to your hand.",
     "Metal is cheaper than wood",
     "Wood looks nicer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Metal is a conductor of heat, which is right for cooking. Wood is an insulator, which is right for holding. Picking 'wood is stronger' misses the job. The handle is about staying cool, not strength.",
    "outcome": 1
   },
@@ -3152,12 +3152,12 @@
    "t": "mcq",
    "p": "A steel railing and a wooden bench have been outside all night. The steel feels colder. Why?",
    "opts": [
-    "Steel carries heat away from your hand faster",
     "Steel really is much colder",
     "Wood makes its own heat",
+    "Steel carries heat away from your hand faster",
     "Steel has ice inside it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "They are the same temperature. Steel is a good conductor, so it pulls heat from your hand quickly, and feels colder. Picking 'really colder' trusts the feeling over a thermometer.",
    "outcome": 1
   },
@@ -3165,12 +3165,12 @@
    "t": "mcq",
    "p": "Does a woollen sweater make heat?",
    "opts": [
-    "No. It traps air, which keeps your own heat in.",
     "Yes, wool is always warm.",
     "Yes, but only in winter.",
-    "No, it makes cold."
+    "No, it makes cold.",
+    "No. It traps air, which keeps your own heat in."
    ],
-   "a": 0,
+   "a": 3,
    "why": "Wool traps still air. Still air is an insulator, so it slows your body's heat from escaping. Picking 'wool is always warm' is very common. But an ice cube in a woollen sock melts more slowly, which shows wool makes no heat.",
    "outcome": 2,
    "how": "e2",
@@ -3180,12 +3180,12 @@
    "t": "mcq",
    "p": "In the Matka Mystery, the water in the clay pot ended up cooler than the water in the plastic bottle. What made the difference?",
    "opts": [
-    "Water seeped through the clay and evaporated, taking heat away",
     "Clay is always cold",
     "The water is heavier in clay",
-    "Clay keeps the sunlight in"
+    "Clay keeps the sunlight in",
+    "Water seeped through the clay and evaporated, taking heat away"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Clay is porous, so water reaches the outside and evaporates. Evaporation takes heat away. Picking 'clay is always cold' means thinking a material has its own coldness. A dry clay pot does not cool water.",
    "outcome": 2,
    "how": "e3",
@@ -3210,12 +3210,12 @@
    "t": "mcq",
    "p": "Bone is made of a bendy material and a hard mineral. Why is this a good design?",
    "opts": [
-    "Together they make bone hard and tough, not brittle and not floppy",
     "It makes bone heavier",
+    "Together they make bone hard and tough, not brittle and not floppy",
     "It makes bone see-through",
     "It makes bone soft like jelly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mineral alone would snap like chalk. The bendy collagen alone would flop. Joined, they make a strong composite. Picking 'heavier' misses the point. The mix is about toughness.",
    "outcome": 3
   },
@@ -3249,12 +3249,12 @@
    "t": "mcq",
    "p": "For a feast for 500 people, why might a banana leaf be a better plate than plastic?",
    "opts": [
-    "It is waterproof on top, cheap, and rots away after use",
     "It is stronger than steel",
+    "It is waterproof on top, cheap, and rots away after use",
     "It lasts for a hundred years",
     "It carries heat well"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A banana leaf does the plate's job, then goes back into the soil. Thrown-away plastic stays for a very long time. Picking 'lasts a hundred years' gives a property of plastic, which is the problem here.",
    "outcome": 4
   },
@@ -3262,12 +3262,12 @@
    "t": "mcq",
    "p": "In the Hot Spoon Race, why must the butter blobs be the same size?",
    "opts": [
-    "So only the spoon's material changes, which makes it a fair test",
     "To save butter",
     "So they look neat",
-    "It does not matter"
+    "It does not matter",
+    "So only the spoon's material changes, which makes it a fair test"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a fair test, you change only one thing. A smaller blob would melt sooner, even on the same spoon. Picking 'it does not matter' means the result could not be trusted.",
    "outcome": 5,
    "how": "e1",
@@ -3277,12 +3277,12 @@
    "t": "mcq",
    "p": "Why are metals good at carrying heat?",
    "opts": [
-    "Some of their electrons move freely and carry energy quickly",
     "Metals are always hot",
     "Metals are full of air",
+    "Some of their electrons move freely and carry energy quickly",
     "Metals are heavy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Free electrons rush energy through the metal. In wood and plastic, electrons are held in place, so heat creeps along slowly. Picking 'always hot' is a mix-up, like thinking metal is colder than wood. A metal is at the same temperature as the room it is in.",
    "outcome": 6
   },
@@ -3290,12 +3290,12 @@
    "t": "mcq",
    "p": "Where were the iron atoms in your steel spoon first made?",
    "opts": [
-    "Inside stars, long ago",
     "In a factory in India",
     "In the sea",
+    "Inside stars, long ago",
     "In a volcano last year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Iron atoms were made in stars and in exploding stars, and the explosions scattered them into space. The Earth formed later from that dust. Picking 'factory' is fair, since the spoon was made there. But the factory only shaped iron that was already here.",
    "outcome": 6
   },
@@ -3303,12 +3303,12 @@
    "t": "mcq",
    "p": "Scientists copied a lotus leaf to make paint that washes itself clean in the rain. What did they copy?",
    "opts": [
-    "The tiny waxy bumps that make water bead up and roll away",
     "The leaf's green colour",
     "The leaf's smell",
-    "The way the leaf grows towards the light"
+    "The way the leaf grows towards the light",
+    "The tiny waxy bumps that make water bead up and roll away"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The lotus leaf's surface has tiny waxy bumps. Water cannot spread on them, so it rolls off and carries dirt with it. Copying a living being's design like this is called biomimicry. Picking 'green colour' copies how the leaf looks, not how it works.",
    "outcome": 6
   },
@@ -3316,12 +3316,12 @@
    "t": "mcq",
    "p": "It is a hot, sticky day in Chennai. Which shirt will keep you most comfortable?",
    "opts": [
-    "A cotton shirt, because it soaks up sweat so it can dry and cool you",
     "A woollen shirt, because wool is cool",
     "A polyester shirt, because it soaks up sweat best",
+    "A cotton shirt, because it soaks up sweat so it can dry and cool you",
     "A plastic raincoat, because it is waterproof"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cotton is absorbent. It takes up sweat and lets it dry, which cools you. Wool traps warm air, so it is too hot. Polyester does not soak up water, and a raincoat traps all the sweat.",
    "outcome": 0
   },
@@ -3329,12 +3329,12 @@
    "t": "mcq",
    "p": "What is polyester?",
    "opts": [
-    "A plastic thread made from oil in a factory",
     "A thread from silkworm cocoons",
     "A thread from sheep",
-    "A thread from cotton plants"
+    "A thread from cotton plants",
+    "A plastic thread made from oil in a factory"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Polyester is made from oil, so it is a plastic. Silk comes from silkworm cocoons, wool from sheep and cotton from cotton plants.",
    "outcome": 0
   },
@@ -3342,12 +3342,12 @@
    "t": "mcq",
    "p": "Why does a potter knead the clay before she puts it on the wheel?",
    "opts": [
-    "To push out air bubbles and make the clay even",
     "To make the clay hot",
+    "To push out air bubbles and make the clay even",
     "To make the clay porous",
     "To make it dry faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air bubbles can crack a pot when it is baked. Kneading squeezes them out and mixes the wet and dry parts. The pot becomes porous later, when it is baked. Kneading does not do that.",
    "outcome": 0
   },
@@ -3355,12 +3355,12 @@
    "t": "mcq",
    "p": "Why might a family carry water in a steel bottle on a crowded bus?",
    "opts": [
-    "Steel is strong and does not break if it is dropped",
     "Steel is porous, so it cools the water",
     "Steel is transparent, so you can see the water",
+    "Steel is strong and does not break if it is dropped",
     "Steel soaks up water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Steel is strong and tough, so it does not break when dropped. A clay pot is porous but brittle. A glass jug is transparent but breaks. Steel is not porous and does not soak up water.",
    "outcome": 4
   }

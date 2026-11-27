@@ -737,11 +737,11 @@
       "t": "mcq",
       "q": "Why do all four katoris get the same red colour and the same amount of water?",
       "options": [
-       "So only the temperature is different",
        "So the colour looks nice",
-       "So the water stays clear"
+       "So the water stays clear",
+       "So only the temperature is different"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If one drop had more colour, it might sink or rise because of the colour, and we would not know whether the temperature was the cause."
      },
      "context": "In this step, a grown-up makes the four temperatures of red water."
@@ -918,11 +918,11 @@
       "t": "mcq",
       "q": "Why does the fourth tumbler stay in the shade?",
       "options": [
-       "To show how much the room alone changes the water",
        "To keep it from getting wet",
-       "Because it is the best one"
+       "Because it is the best one",
+       "To show how much the room alone changes the water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A control shows what happens without the thing we are testing. If the shaded tumbler warms too, some of the rise in the others comes from the warm day, not only from the Sun."
      },
      "context": "In this step, you wrap the tumblers and fill them with water."
@@ -1096,11 +1096,11 @@
       "t": "mcq",
       "q": "The card stopped the warmth at the side straight away. What does this tell you about that warmth?",
       "options": [
-       "It travels in straight lines from the flame, like light",
        "It was carried by moving air",
+       "It travels in straight lines from the flame, like light",
        "It was a trick"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Something that can be blocked at once by a thin card travels in straight lines, like light. This is radiation. The warmth above is hot air rising from the flame, and a card at the side cannot stop it. This is convection. If you chose moving air, notice that moving air would go round a card."
      },
      "context": "In this step, you block the warmth with a card and see which warmth it stops."
@@ -1222,11 +1222,11 @@
       "t": "mcq",
       "q": "What turns the spiral?",
       "options": [
-       "Warm air rising from the flame pushes on its slanted coils",
        "The light from the flame pushes it",
-       "Heat travelling through the thread"
+       "Heat travelling through the thread",
+       "Warm air rising from the flame pushes on its slanted coils"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The flame warms the air above it. The warm air is lighter than the air around it, so it rises, and it pushes on the slanted coils. If you chose the thread, remember that paper and thread carry heat very slowly. If you chose light, the push of light is far too small to turn paper."
      },
      "context": "In this step, you hang the spiral above the flame and watch it turn."
@@ -1559,11 +1559,11 @@
       "t": "mcq",
       "q": "Why is the base lined with black paper, and the walls with foil?",
       "options": [
-       "Black takes in the light and gets hot, and foil sends light towards it",
        "Black is prettier",
+       "Black takes in the light and gets hot, and foil sends light towards it",
        "Foil makes the box strong"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dark, dull surfaces absorb radiation and turn it into heat. Shiny foil reflects radiation, so the walls and flap bounce more sunlight onto the black base. If you chose 'Black is prettier', think about what a black cloth does in the Sun."
      },
      "context": "In this step, you build the oven."
@@ -1596,11 +1596,11 @@
       "t": "mcq",
       "q": "The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop?",
       "options": [
-       "Convection, because it stops hot air from rising out",
        "Radiation, because light cannot go through it",
-       "Conduction, because it is cold"
+       "Conduction, because it is cold",
+       "Convection, because it stops hot air from rising out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Hot air rises and carries heat away by convection. The clear film lets sunlight in but stops the hot air from leaving. If you chose radiation, remember that clear film lets sunlight through."
      },
      "context": "In this step, you aim the oven and wait for the chocolate to melt."
@@ -1867,11 +1867,11 @@
    "t": "mcq",
    "p": "Heat reaches your face from a bonfire across a gap of cold air. Which way is it travelling?",
    "opts": [
-    "Radiation",
     "Conduction",
+    "Radiation",
     "Convection"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The warmth crosses the air in straight lines without the air carrying it. That is radiation.",
    "outcome": 0
   },
@@ -1879,11 +1879,11 @@
    "t": "mcq",
    "p": "A hot-air balloon rises. What makes the hot air in it rise?",
    "opts": [
-    "It is less dense than the cooler air around it",
     "Heat has a lifting force",
+    "It is less dense than the cooler air around it",
     "The balloon's cloth pulls it up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heated air expands, so each spoonful is lighter than the cooler air outside. The heavier cool air pushes it up.",
    "outcome": 1
   },
@@ -1891,11 +1891,11 @@
    "t": "mcq",
    "p": "In a convection current in a pot of water, where does the water sink?",
    "opts": [
-    "Where it has cooled, away from the flame",
     "Directly over the flame",
-    "It never sinks"
+    "It never sinks",
+    "Where it has cooled, away from the flame"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water rises over the flame and spreads at the top, where it cools. Cooler water is heavier and sinks at the sides.",
    "outcome": 1
   },
@@ -1903,11 +1903,11 @@
    "t": "mcq",
    "p": "At night on a beach, the land becomes cooler than the sea. Which way does the wind blow?",
    "opts": [
-    "From the land towards the sea",
     "From the sea towards the land",
+    "From the land towards the sea",
     "It stops blowing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Now the sea is the warmer place, so air rises over the sea and cooler land air flows out to take its place.",
    "outcome": 2
   },
@@ -1946,11 +1946,11 @@
    "t": "mcq",
    "p": "You test hot and cold drops of coloured water in a glass. Why must the water in the glass be still first?",
    "opts": [
-    "So that only the drop's temperature moves it, not swirls in the water",
     "So the water is clear",
-    "So the drops are the same size"
+    "So the drops are the same size",
+    "So that only the drop's temperature moves it, not swirls in the water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes only one thing. If the glass water is swirling, the swirls could move the drop and hide what the temperature does.",
    "outcome": 5
   },
@@ -1958,11 +1958,11 @@
    "t": "mcq",
    "p": "Milk is warming in a pan on a stove. The pan's base is heated first, and then all the milk warms up. Which ways is the heat travelling?",
    "opts": [
-    "Conduction through the pan, then convection in the milk",
     "Radiation only",
+    "Conduction through the pan, then convection in the milk",
     "Conduction only"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Heat passes through the pan by conduction, and the warm milk rising and cool milk sinking spread it by convection.",
    "outcome": 6
   },
@@ -1994,11 +1994,11 @@
    "t": "mcq",
    "p": "A card held between a flame and your palm stops the warmth at once. What does that tell you about the warmth?",
    "opts": [
-    "It travels in straight lines, like light",
     "It was carried by moving air",
+    "It travels in straight lines, like light",
     "It travels through the card"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only something that moves in straight lines, like light, can be blocked at once by a thin card. This is radiation. Moving air would flow round the card.",
    "outcome": 3
   },
@@ -2006,11 +2006,11 @@
    "t": "mcq",
    "p": "A woollen shawl keeps you warm. Which idea explains it best?",
    "opts": [
-    "It traps still air, which carries heat very slowly",
     "Wool makes heat",
+    "It traps still air, which carries heat very slowly",
     "Wool is hotter than air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air that cannot move cannot carry heat by convection, and it is a poor conductor. The wool holds air still next to your skin.",
    "outcome": 6
   },
@@ -2030,11 +2030,11 @@
    "t": "mcq",
    "p": "Railway rails in India have small gaps between each length. What are the gaps for?",
    "opts": [
-    "Hot metal grows longer, and the gap gives it room",
     "Rain can drain out through the rail",
+    "Hot metal grows longer, and the gap gives it room",
     "Steam escapes from the rail in summer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Solids grow a little when they are hot. Without a gap, a long rail would push against the next one and bend in the heat.",
    "outcome": 1
   }
@@ -2062,11 +2062,11 @@
      "t": "mcq",
      "p": "Why does a drop of hot water rise through cooler water?",
      "opts": [
-      "It is lighter than the cooler water around it",
       "Heat itself is lighter than water",
+      "It is lighter than the cooler water around it",
       "The cooler water pulls it up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Hot water expands and is less dense, so the heavier cool water around it sinks underneath and pushes it up. Heat is not a thing that has weight, and the cool water pushes, not pulls.",
      "outcome": 1
     },
@@ -2177,11 +2177,11 @@
      "t": "mcq",
      "p": "On a hot afternoon, a cool wind blows from the sea onto the beach. Why?",
      "opts": [
-      "Air rises over the warm land, and cooler sea air flows in to take its place",
       "The sea is hotter than the land in the daytime",
-      "The Moon pulls the air towards the beach"
+      "The Moon pulls the air towards the beach",
+      "Air rises over the warm land, and cooler sea air flows in to take its place"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The land warms faster than the sea. The air over it rises, and cooler air from over the sea slides in underneath.",
      "outcome": 2
     },
@@ -2196,11 +2196,11 @@
      "t": "mcq",
      "p": "Why can the Sun's heat reach the Earth, when there is empty space in between?",
      "opts": [
-      "Radiation can cross empty space",
       "Air in space carries the heat",
-      "Conduction works through empty space"
+      "Conduction works through empty space",
+      "Radiation can cross empty space"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Radiation is waves of light that need nothing to travel through. There is almost no air in space, so convection and conduction cannot work there.",
      "outcome": 3
     },
@@ -2253,11 +2253,11 @@
      "t": "mcq",
      "p": "A silver vacuum flask keeps tea hot for hours. What does the silver coating do?",
      "opts": [
-      "It reflects heat radiation back into the tea",
       "It makes the tea heavier",
+      "It reflects heat radiation back into the tea",
       "It makes the flask magic"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Silver reflects radiation, so heat from the tea is sent back. The vacuum between the walls stops conduction and convection.",
      "outcome": 4
     }
@@ -2285,11 +2285,11 @@
      "t": "mcq",
      "p": "Black kite birds circle higher without flapping over a hot road. What lifts them?",
      "opts": [
-      "Warm air rising from the hot road",
       "The pull of the Sun",
+      "Warm air rising from the hot road",
       "Their feathers make their own lift"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The hot road warms the air above it, and the warm air rises in a column called a thermal. The birds ride it upwards.",
      "outcome": 2
     },
@@ -2395,11 +2395,11 @@
      "t": "mcq",
      "p": "A steel plate feels colder than a wooden board that has been in the same room all day. Why?",
      "opts": [
-      "Steel carries heat away from your hand faster",
       "The steel is at a lower temperature",
-      "Wood makes its own heat"
+      "Wood makes its own heat",
+      "Steel carries heat away from your hand faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Both are at room temperature. Your skin feels the speed at which heat leaves it, and steel is a better conductor than wood.",
      "outcome": 7
     },
@@ -2472,11 +2472,11 @@
      "t": "mcq",
      "p": "Many people in hot places wear loose, light-coloured cotton. Why does this help?",
      "opts": [
-      "Light colours reflect more sunlight, and loose cloth lets air move over the skin",
       "White cloth is cold",
-      "Cotton gives out heat"
+      "Cotton gives out heat",
+      "Light colours reflect more sunlight, and loose cloth lets air move over the skin"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Light colours send back more of the Sun's radiation. Loose cloth lets warm air next to the skin escape and cooler air flow in.",
      "outcome": 4
     },
@@ -2519,11 +2519,11 @@
      "t": "mcq",
      "p": "On the space station, fans must keep the air moving all the time. Why?",
      "opts": [
-      "Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face",
       "The fans are there for decoration",
+      "Warm, breathed-out air does not rise in weightlessness, so breath would collect around the face",
       "The station is too cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rising air needs gravity to pull the heavier air down. Without it, there is no natural convection, and the air around an astronaut's face would go stale.",
      "outcome": 1
     },
@@ -2539,11 +2539,11 @@
      "t": "mcq",
      "p": "A black pot and a shiny pot of the same size are filled with the same hot water and left to cool. Which cools faster by radiation, and why?",
      "opts": [
-      "The black pot, because dark surfaces are good at giving out radiation",
       "The shiny pot, because it is shiny",
+      "The black pot, because dark surfaces are good at giving out radiation",
       "They cool at exactly the same rate"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A surface that takes in radiation well also gives it out well. A shiny surface is poor at both, so it holds its heat longer.",
      "outcome": 4
     },
@@ -2671,11 +2671,11 @@
      "t": "mcq",
      "p": "In 1856, Eunice Foote found that a jar of carbon dioxide warmed more in sunlight than a jar of ordinary air. What does this suggest?",
      "opts": [
-      "Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does",
       "Carbon dioxide is a colder gas",
+      "Carbon dioxide takes in more of the Sun's heat radiation than ordinary air does",
       "The other jar had too little air in it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Her jars were otherwise the same. The difference suggests that the gas inside changed how much heat was held. This is an early clue to the greenhouse effect.",
      "outcome": 3
     },

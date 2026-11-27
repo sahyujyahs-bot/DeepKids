@@ -511,14 +511,14 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 6. (write) A round world has a density below 1, which is the density of water. Explain what this tells you about what it is made of.  
    **Answer:** Rock and metal are much denser than water, so a world lighter than water cannot be mostly rock. It must be made mostly of light gases such as hydrogen and helium, or of light ices.. *Why:* A strong answer links density to material. Rock is about 3 and iron about 8, both far above 1. Only gas or light ice can bring the average below 1.
 7. (mcq) One region of the Moon has about 300 craters in a patch. A smooth plain next to it has about 30 craters in a patch of the same size. What does this suggest?  
-   Options: The crowded region is older than the smooth plain / The smooth plain is older than the crowded region / Both regions are the same age / The crowded region has more volcanoes  
+   Options: The smooth plain is older than the crowded region / Both regions are the same age / The crowded region is older than the smooth plain / The crowded region has more volcanoes  
    **Answer:** The crowded region is older than the smooth plain. *Why:* Space rocks hit the Moon steadily over billions of years. A surface that has been exposed longer collects more craters. The smooth plain was covered by lava later, which wiped out its older craters. Picking 'smooth is older' mixes up smooth with ancient.
 8. (order) Crater C cuts into the rim of crater B. Crater B cuts into the rim of crater A. Put the craters in order, oldest first.  
    **Answer:** ['Crater A', 'Crater B', 'Crater C']. *Why:* A crater that cuts into another one must have come later. So A is the oldest, B came next, and C is the newest. The order can be read from the shapes alone, without any dates.
 9. (truefalse) Most craters are round, even when the space rock hits the ground at a slant.  
    **Answer:** True. *Why:* True. A fast space rock puts so much energy into a small spot that it acts like an explosion, and the explosion spreads out in all directions. Only rocks that skim in at a very low angle dig an oval crater.
 10. (mcq) Venus is further from the Sun than Mercury, yet Venus is the hotter planet. Which is the best reason?  
-   Options: Venus has a very thick atmosphere of carbon dioxide that traps heat / Venus spins faster than Mercury / Venus is bigger than Mercury / Venus is nearer the Earth  
+   Options: Venus spins faster than Mercury / Venus has a very thick atmosphere of carbon dioxide that traps heat / Venus is bigger than Mercury / Venus is nearer the Earth  
    **Answer:** Venus has a very thick atmosphere of carbon dioxide that traps heat. *Why:* Venus's thick atmosphere acts like a blanket and slows the heat escaping. Mercury has almost no atmosphere, so its heat escapes quickly. Picking 'bigger' or 'spins faster' does not explain heat. Picking 'nearer the Earth' is not a reason at all.
 11. (match) Match each planet to its air.  
    **Answer:** Mercury → almost no air; Venus → very thick air, mostly carbon dioxide; Earth → medium air, mostly nitrogen and oxygen; Mars → very thin air, mostly carbon dioxide. *Why:* The thickness of the air sets how much heat a planet keeps. A strong answer says why Venus is hot, Mars is cold, and the Earth is mild.
@@ -531,11 +531,11 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 15. (draw) Draw a young, hot planet in two pictures. In the first, the iron and the rock are mixed. In the second, the heavy iron has sunk to the middle.  
    **Answer:** Picture one shows a ball with mixed dots of dark iron and light rock. Picture two shows a dark iron core at the middle with a layer of rock round it.. *Why:* A young rocky planet was partly melted, so the heavy iron could sink to the middle under gravity. A strong drawing shows the dense core and the lighter rock above it.
 16. (mcq) If the Sun suddenly switched off right now, what would people on the Earth see for the next 8 minutes?  
-   Options: The Sun would still shine, because its light is still arriving / The Sun would go dark at once / The Sun would get dimmer a bit at a time / The Sun would turn red  
+   Options: The Sun would go dark at once / The Sun would get dimmer a bit at a time / The Sun would turn red / The Sun would still shine, because its light is still arriving  
    **Answer:** The Sun would still shine, because its light is still arriving. *Why:* Light from the Sun needs about 8 minutes and 20 seconds to reach the Earth. The light already on its way keeps arriving. Picking 'dark at once' forgets that light takes time to travel.
 ### Orbits, Light and Evidence (stretch) (stretch, 17 questions)
 1. (mcq) A new planet is found 4 times as far from its Sun-like star as the Earth is from the Sun. Use the rule that year times year equals distance times distance times distance. How long is its year?  
-   Options: 8 Earth years / 4 Earth years / 16 Earth years / 2 Earth years  
+   Options: 4 Earth years / 8 Earth years / 16 Earth years / 2 Earth years  
    **Answer:** 8 Earth years. *Why:* Distance times distance times distance is 4 times 4 times 4, which is 64. The year times itself must also be 64, and 8 times 8 is 64. So the year is 8 Earth years. Picking 4 assumes the year grows at the same rate as the distance, which the Planet Data Detective activity showed is not true.
 2. (fill) A planet is 9 times as far from its star as the Earth is from the Sun. 9 times 9 times 9 is 729. Its year, in Earth years, is ____.  
    **Answer:** ['27']. *Why:* The year times itself must also be 729. Trying numbers, 27 times 27 is 729. So its year is 27 Earth years. A strong answer shows the guess and check: 20 times 20 is 400, which is too small, and 30 times 30 is 900, which is too big.
@@ -556,7 +556,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 9. (match) Match each question about a planet to the way scientists find out.  
    **Answer:** What is the inside of the Earth like? → waves from earthquakes; How dense is a planet? → its pull on moons or spacecraft, and its size; How old is a surface? → counting its craters; How far away is a spacecraft? → how long its radio signal takes. *Why:* Each way uses something we can measure from far away. A strong answer could say why we can use waves for the Earth but not for Jupiter.
 10. (mcq) In a scale model where 1 millimetre stands for 10,000 kilometres, the Earth is 15 metres from the Sun. Mars is about 1.5 times as far. About how far from the Sun is Mars in the model?  
-   Options: About 23 metres / About 1.5 metres / About 150 metres / About 15 metres  
+   Options: About 1.5 metres / About 150 metres / About 15 metres / About 23 metres  
    **Answer:** About 23 metres. *Why:* 15 metres times 1.5 is 22.5 metres, which is about 23 metres. Picking 15 forgets to multiply. Picking 150 puts the decimal point in the wrong place.
 11. (write) A spacecraft measures a new round world. How could two measurements, mass and size, tell you whether the world is rocky or a gas giant?  
    **Answer:** Divide the mass by the volume to find its density. If the density is high, like 4 or 5, the world is made of rock and metal. If it is low, like 1 or less, it is mostly gas or ice.. *Why:* A strong answer names density and links it to what the world is made of. Mass alone does not tell you, because gas giants have huge masses.
@@ -569,7 +569,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 15. (sort) Sort these clues into the ones that point to an old surface and the ones that point to a young surface.  
    **Answer:** Crowded with overlapping craters → Old surface; Very few craters, spread evenly → Young surface; Smooth lava plain with few craters → Young surface; Highlands full of big and small craters → Old surface; Land that is often renewed by moving crust and weather → Young surface. *Why:* A surface collects craters as time goes by. A crowded surface has been exposed to space rocks for a long time. A surface with few craters has been renewed or covered. A strong answer says why renewal matters.
 16. (mcq) Without any greenhouse effect at all, about what would the Earth's average temperature be?  
-   Options: About minus 18 degrees Celsius / About 15 degrees Celsius / About 100 degrees Celsius / About 460 degrees Celsius  
+   Options: About 15 degrees Celsius / About 100 degrees Celsius / About minus 18 degrees Celsius / About 460 degrees Celsius  
    **Answer:** About minus 18 degrees Celsius. *Why:* With the natural greenhouse effect the Earth averages about 15 degrees Celsius. The effect adds about 33 degrees, so without it the average would be about minus 18. About 460 degrees Celsius is the temperature on Venus.
 17. (fill) A planet circles a Sun-like star once every 8 Earth years. Its distance from the star, in astronomical units, is ____.  
    **Answer:** ['4']. *Why:* 8 times 8 is 64. Distance times distance times distance must also be 64, and 4 times 4 times 4 is 64. So the planet is 4 astronomical units from its star, which is four Earth-Sun distances.
@@ -577,12 +577,12 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 1. (perspective) Three people talk about Jupiter and the Earth.  
    **Answer:** A strong answer picks one view and backs it with an idea about gravity: a big planet pulls comets strongly, so they can be redirected either way. It also gives another person's view its due. The computer modeller's point stands in every case, because models depend on starting numbers.. *Why:* All three have a point, and scientists do not agree. The question is which comets the planet changes and in which direction. This kind of disagreement is how science moves forward.
 2. (mcq) Light takes about 8 minutes to cross 1 astronomical unit. A spacecraft is 30 astronomical units from the Earth, as far as Neptune is from the Sun. About how long does a radio message take to travel one way to it?  
-   Options: About 4 hours / About 4 minutes / About 30 minutes / About 1 day  
+   Options: About 4 minutes / About 30 minutes / About 1 day / About 4 hours  
    **Answer:** About 4 hours. *Why:* 30 times 8 minutes is 240 minutes, which is 4 hours. Picking 4 minutes forgets to multiply by 30. A reply would take another 4 hours, so a question and its answer take about 8 hours.
 3. (write) Mercury is closer to the Sun than Venus is, yet Venus is the hotter planet. Use the idea of a blanket to explain why.  
    **Answer:** Venus has a very thick atmosphere of carbon dioxide that slows the heat leaving the ground, like a blanket. Mercury has almost no air, so its heat escapes quickly at night. A planet's temperature depends on how much heat it keeps as well as how much it gets.. *Why:* A strong answer says that temperature is the balance between heat coming in and heat getting out, and that air changes how fast heat gets out.
 4. (mcq) Mars has many more craters than the Earth. What is the best reason?  
-   Options: Mars has far less rain and no moving plates to wipe them out / Mars is closer to the asteroid belt, so only Mars was hit / The Earth was never hit by space rocks / Mars is made of a softer rock  
+   Options: Mars is closer to the asteroid belt, so only Mars was hit / Mars has far less rain and no moving plates to wipe them out / The Earth was never hit by space rocks / Mars is made of a softer rock  
    **Answer:** Mars has far less rain and no moving plates to wipe them out. *Why:* The Earth was hit as much as Mars, but its water, wind, living things and moving crust wipe out craters. Mars has little of these. Picking 'the Earth was never hit' is wrong, because the Earth has about 190 known craters.
 5. (truefalse) If the Earth had no water, no wind and no moving crust, it would be covered in craters like the Moon.  
    **Answer:** True. *Why:* True. The Earth has been hit by space rocks as often as the Moon has, or more, because it is bigger. The craters are missing only because the Earth keeps wiping them away. A strong answer names the things that wipe them.
@@ -591,7 +591,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 7. (draw) Draw a scale model of the Sun and the Earth side by side, with the sizes and the distance between them.  
    **Answer:** A disc 14 centimetres wide for the Sun and a dot 1 millimetre wide for the Earth, 15 metres away. A break mark shows the long gap.. *Why:* A strong drawing shows the Earth as a tiny speck and the gap as very long. If your drawing has the Earth close to the Sun, check the 15 metres.
 8. (mcq) A spacecraft measures a round world with a density of 0.8. What is the best conclusion?  
-   Options: It is made mostly of light gas or ice, not mostly of rock and metal / It is made of solid iron / It is certainly the Earth's twin / It has no mass  
+   Options: It is made of solid iron / It is made mostly of light gas or ice, not mostly of rock and metal / It is certainly the Earth's twin / It has no mass  
    **Answer:** It is made mostly of light gas or ice, not mostly of rock and metal. *Why:* Rock and metal are far denser than water, which has a density of 1. A world with a density of 0.8 must be made of light stuff such as gas, with little rock. Solid iron would have a density near 8.
 9. (sort) Sort these statements into things that were measured and things that are still an idea or an argument.  
    **Answer:** Saturn's density is about 0.7 → Measured; Venus's ground is about 460 degrees Celsius → Measured; Mars lost its air mainly to the solar wind → Still an idea or an argument; Jupiter has a fuzzy centre → Still an idea or an argument; Lonar crater is 50,000 years old → Still an idea or an argument. *Why:* Measurements can be repeated and checked. An idea is a best explanation that is still being tested. A strong answer says why the age of Lonar crater is argued about: two methods give different answers.
@@ -619,16 +619,16 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
    Options: Four small rocky planets with ground, and four giants without ground / Four giants close to the Sun and four small ones far away / Four planets with rings and four without / Four planets with moons and four without  
    **Answer:** Four small rocky planets with ground, and four giants without ground. *Why:* The four inner planets are small and rocky, and the four outer ones are giants with no solid ground. The second option has the order backwards. All the giants have rings, and almost every planet has or once had moons, so rings and moons do not split the planets into two groups.
 2. (mcq) Why can a spacecraft not land on Jupiter?  
-   Options: Jupiter is made of gas and fluid and has no solid surface / Jupiter is too small / Jupiter is too cold / Jupiter is moving too fast  
+   Options: Jupiter is too small / Jupiter is made of gas and fluid and has no solid surface / Jupiter is too cold / Jupiter is moving too fast  
    **Answer:** Jupiter is made of gas and fluid and has no solid surface. *Why:* Going deeper into Jupiter, the gas simply gets thicker and hotter. There is nothing solid to land on. Picking 'too small' is wrong, because Jupiter is the biggest planet.
 3. (mcq) A scientist finds a round world with a density of 5. Which is it more likely to be?  
    Options: A rocky planet with an iron core / A gas giant / A planet made mostly of ice / A star  
    **Answer:** A rocky planet with an iron core. *Why:* A density of 5 means the world is five times as heavy as the same volume of water. That is typical of rock and metal, like the Earth. Gas giants have densities of about 1 or less.
 4. (mcq) The Earth's average density is about 5.5, but ordinary surface rock has a density of about 3. What does this tell you?  
-   Options: The inside of the Earth must be denser than surface rock, such as heavy iron / The surface rock is lighter than it looks / The Earth is hollow / The density of the surface rock was measured wrongly  
+   Options: The surface rock is lighter than it looks / The Earth is hollow / The density of the surface rock was measured wrongly / The inside of the Earth must be denser than surface rock, such as heavy iron  
    **Answer:** The inside of the Earth must be denser than surface rock, such as heavy iron. *Why:* The average of the whole Earth is higher than the rock on top, so something much denser must be inside. This is the iron core. Picking 'hollow' would make the Earth less dense, not more.
 5. (mcq) Two plains on a moon look the same size. One has many craters and the other has very few. What is the best conclusion?  
-   Options: The plain with many craters has been exposed for longer, so it is older / The plain with few craters is older / The plains are the same age / The plain with few craters was hit harder  
+   Options: The plain with few craters is older / The plains are the same age / The plain with many craters has been exposed for longer, so it is older / The plain with few craters was hit harder  
    **Answer:** The plain with many craters has been exposed for longer, so it is older. *Why:* Craters pile up with time, so more craters means a longer time. A plain with few craters was covered or renewed more recently. If you picked 'the plain with few craters is older', remember that old does not mean smooth.
 6. (mcq) The Earth and the Moon were hit by space rocks about equally often. Why does the Moon show far more craters?  
    Options: The Moon has no rain, wind, plants or moving crust to wipe them away / The Moon was hit more because it is smaller / The Earth's air stopped all the space rocks / The Earth is younger than the Moon  
@@ -637,19 +637,19 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
    Options: The farther planet, because its thick air traps heat / The closer planet, because it gets more sunlight, whatever its air / They must be the same / Neither, since temperature does not depend on air  
    **Answer:** The farther planet, because its thick air traps heat. *Why:* A thick atmosphere slows down the heat leaving the ground, so a planet can become hotter than one that is closer but has no air. This is why Venus is hotter than Mercury.
 8. (mcq) What does the greenhouse effect do to a planet?  
-   Options: Gases in the air slow the heat escaping, so the surface is warmer / It makes the planet spin faster / It makes sunlight stronger / It makes the planet bigger  
+   Options: It makes the planet spin faster / It makes sunlight stronger / It makes the planet bigger / Gases in the air slow the heat escaping, so the surface is warmer  
    **Answer:** Gases in the air slow the heat escaping, so the surface is warmer. *Why:* Greenhouse gases let sunlight in but slow down the heat on its way out. The Earth is about 33 degrees Celsius warmer because of this. Picking 'stronger sunlight' mixes up what comes in with what stays.
 9. (mcq) Which statement about the years of the planets is correct?  
-   Options: Planets further from the Sun have longer years, and the year grows faster than the distance / All planets have a year of about the same length / A bigger planet always has a longer year / A planet further from the Sun has a shorter year  
+   Options: All planets have a year of about the same length / A bigger planet always has a longer year / Planets further from the Sun have longer years, and the year grows faster than the distance / A planet further from the Sun has a shorter year  
    **Answer:** Planets further from the Sun have longer years, and the year grows faster than the distance. *Why:* A planet farther from the Sun has a longer path and also moves slower, so its year grows faster than its distance. Picking 'bigger planet' mixes up size and distance. Jupiter's year is long because of its distance, not its size.
 10. (mcq) When you look at the Sun, what do you see?  
-   Options: The Sun as it was about 8 minutes ago / The Sun exactly as it is now / The Sun as it will be in 8 minutes / The Sun as it was a day ago  
+   Options: The Sun exactly as it is now / The Sun as it was about 8 minutes ago / The Sun as it will be in 8 minutes / The Sun as it was a day ago  
    **Answer:** The Sun as it was about 8 minutes ago. *Why:* Sunlight takes about 8 minutes and 20 seconds to travel to the Earth. The light that enters your eye left the Sun then. Everything far away is seen as it was a little while ago.
 11. (mcq) Why is a rover on Mars not driven live from the Earth like a remote-controlled toy?  
-   Options: Each message takes minutes to arrive, so the rover would be driven far too slowly / Rovers have no wheels / Nobody can see the rover / Radio signals cannot reach Mars  
+   Options: Rovers have no wheels / Each message takes minutes to arrive, so the rover would be driven far too slowly / Nobody can see the rover / Radio signals cannot reach Mars  
    **Answer:** Each message takes minutes to arrive, so the rover would be driven far too slowly. *Why:* The delay in sending a command and getting the reply can be 6 to 44 minutes. So the rover is sent plans, and uses its own rules to avoid danger. Radio signals do reach Mars. They are just not instant.
 12. (mcq) What must be true of a scale model of the solar system for it to be honest?  
-   Options: Sizes and distances must both be shrunk by the same amount / Planets must be drawn evenly spaced / Planets must all be the same size / Only the sizes must be to scale  
+   Options: Planets must be drawn evenly spaced / Planets must all be the same size / Sizes and distances must both be shrunk by the same amount / Only the sizes must be to scale  
    **Answer:** Sizes and distances must both be shrunk by the same amount. *Why:* If the planets are drawn big enough to see, the distances become far too short. A true scale model shows tiny planets very far apart. Books draw the planets evenly spaced so that they fit on a page, and that is not true to scale.
 
 ## Applications

@@ -807,7 +807,7 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 ## Worksheets
 ### Mixtures and the difference that separates them (core) (core, 16 questions)
 1. (mcq) Which one is a mixture of two materials?  
-   Options: A cup of rice with a few small stones / One small stone / A cup of only rice  
+   Options: One small stone / A cup of rice with a few small stones / A cup of only rice  
    **Answer:** A cup of rice with a few small stones. *Why:* Rice and stones are two materials, each still itself. A single stone or a cup of one grain is one material. If you picked another, you looked for two different materials together.
 2. (truefalse) Salt stirred into water has stopped being salt, because you cannot see it.  
    **Answer:** False. *Why:* False. The water tastes salty and evaporation brings the salt back. The pieces are too small to see, but they are still salt.
@@ -823,12 +823,12 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 7. (order) Put these steps in order to get salt out of muddy salt water.  
    **Answer:** ['Stir the mud and salt into water', 'Pour the muddy water through filter paper', 'Leave the clear water on a plate in the sun', 'Look at the white crust left on the plate']. *Why:* The filter takes out the mud first, because the mud would spoil the crust. Evaporation comes last, because the water must leave for the dissolved salt to be left.
 8. (mcq) You pour tea through a strainer. What stays behind in the strainer?  
-   Options: The filtrate / The residue / The water vapour  
+   Options: The filtrate / The water vapour / The residue  
    **Answer:** The residue. *Why:* The solid that stays behind is the residue. The tea that passes through is the filtrate. If you chose the filtrate, you named the wrong part.
 9. (write) Rice and dal are mixed in a cup. Explain why this is a mixture and not a new material.  
    **Answer:** Each stays itself. A grain of rice is still rice and a grain of dal is still dal. You can pick them apart again and get the same rice and the same dal. Nothing new was made.. *Why:* A strong answer says that each material keeps its properties and can be taken out again unchanged.
 10. (mcq) Iron pins, sand and salt are all dry. What is the best first step?  
-   Options: Stir them into water / Pass a magnet through them / Heat all of it on a stove  
+   Options: Pass a magnet through them / Stir them into water / Heat all of it on a stove  
    **Answer:** Pass a magnet through them. *Why:* A magnet works best on dry pieces. It takes out the pins cleanly while the sand and salt are loose. Adding water first would dissolve the salt and make wet sand cling to the pins. Heating would not separate anything.
 11. (truefalse) Evaporation takes the salt out of salt water and leaves the water behind.  
    **Answer:** False. *Why:* False. Evaporation takes the water away as vapour and leaves the dissolved salt behind.
@@ -864,7 +864,7 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 8. (write) A mixture holds iron nails, sugar and sand. Plan the steps and say what difference each one uses.  
    **Answer:** Magnet first, which uses being attracted, to take out the nails. Then add water, which uses dissolving, so the sugar dissolves and the sand does not. Then filter, which holds back the sand. Then evaporate the water to get the sugar.. *Why:* A good plan does dry methods first and names one difference for each step.
 9. (mcq) Why wait before pouring off the clear water from muddy water?  
-   Options: Mud sinks in time and the top clears / Mud turns into water / Mud dissolves slowly  
+   Options: Mud turns into water / Mud sinks in time and the top clears / Mud dissolves slowly  
    **Answer:** Mud sinks in time and the top clears. *Why:* Heavier pieces sink if you wait, so the top becomes clearer. Mud does not dissolve or become water, so do not expect it to vanish.
 10. (draw) Draw the Sun, the sea and a cloud. Show where the salt stays when rain forms.  
    **Answer:** The Sun shines on the sea. Arrows rise from the sea to the cloud for water vapour. Salt is shown staying in the sea, with none in the cloud.. *Why:* Evaporation lifts water but not salt, so rain from sea water is fresh.
@@ -873,23 +873,23 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 12. (truefalse) Air is one material, because we cannot see its parts.  
    **Answer:** False. *Why:* False. Air is a mixture of nitrogen, oxygen, argon, carbon dioxide and other gases. Parts too small to see can still be there.
 13. (mcq) A test finds nothing else in a water sample. What can the scientist say?  
-   Options: It is pure forever / It passed the test she used / All water is pure  
+   Options: It passed the test she used / It is pure forever / All water is pure  
    **Answer:** It passed the test she used. *Why:* A test only finds what it can catch. A new test may still find more, so 'pure' tells you which tests the sample has passed.
 14. (fill) Winnowing works because moving air carries ____ pieces farther than heavy ones.  
    **Answer:** ['light']. *Why:* Husk is light and grain is heavy, so a breeze blows the husk farther while the grain falls in a heap.
 15. (write) Sugar stirred into tea looks gone. Which of its properties stayed, and which seem lost?  
    **Answer:** The sweet taste stayed. The white colour, the crunch and the shape seem lost, because the pieces are too small to see. The sugar is still there and can be got back by evaporation.. *Why:* A strong answer says that the sugar keeps its properties, even if some are hidden at the scale of the eye.
 16. (mcq) A river slows down. Which pieces does it drop first?  
-   Options: The biggest, heaviest stones / The finest clay / The dissolved salt  
+   Options: The finest clay / The dissolved salt / The biggest, heaviest stones  
    **Answer:** The biggest, heaviest stones. *Why:* Heavy pieces sink first as the water slows. Fine clay sinks last and dissolved salt does not sink at all.
 ### Faulty sums and open questions (challenge) (challenge, 16 questions)
 1. (mcq) Sand and sugar are left. Water is added and stirred. What next?  
-   Options: Filter, to hold back the sand / Sieve, to hold back the sugar / Pick out the sugar  
+   Options: Sieve, to hold back the sugar / Filter, to hold back the sand / Pick out the sugar  
    **Answer:** Filter, to hold back the sand. *Why:* Sugar dissolves and passes through the filter with the water. Sand stays on the filter. The sugar is too small to sieve or pick.
 2. (truefalse) If two tests cannot tell two samples apart, they are certainly the same material.  
    **Answer:** False. *Why:* False. A new test may find a difference. Heavy hydrogen was found in 1931, and after that a jar of water could be described as a mixture.
 3. (mcq) The Sun heats the sea and a cloud forms. Why is rain not salty?  
-   Options: Salt cannot leave with the vapour / Sunlight destroys the salt / Clouds filter out the salt  
+   Options: Sunlight destroys the salt / Salt cannot leave with the vapour / Clouds filter out the salt  
    **Answer:** Salt cannot leave with the vapour. *Why:* Evaporation takes only the water. Salt is left behind in the sea. Salt is not destroyed and clouds are not filters.
 4. (fill) A sand grain 0.5 millimetres wide meets paper holes 0.01 millimetres wide. The grain is ____ times wider.  
    **Answer:** ['50']. *Why:* 0.5 ÷ 0.01 = 50. The grain cannot get through the hole, so the paper holds sand back easily.
@@ -903,7 +903,7 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 8. (truefalse) A 22-carat gold bangle is a mixture.  
    **Answer:** True. *Why:* True. Of every 24 parts, 22 are gold and 2 are other metals, such as copper or silver. It looks like one metal, but it is an alloy.
 9. (mcq) Argon was found when nitrogen from air weighed a bit more than nitrogen made in a lab. What does this show?  
-   Options: A small difference can reveal a hidden part / Air is one element / Nitrogen changes weight in air  
+   Options: Air is one element / A small difference can reveal a hidden part / Nitrogen changes weight in air  
    **Answer:** A small difference can reveal a hidden part. *Why:* The air sample held a heavier gas mixed in, which turned out to be argon. A careful test finds what an earlier one missed.
 10. (perspective) Is mixing a fact about materials, or about what our tests can tell apart?  
    **Answer:** Answers vary, and scientists still disagree. A strong answer gives a reason from the two tumbler example.. *Why:* Neither view is marked right, because the question is still debated.
@@ -928,19 +928,19 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
 
 ## Quiz
 1. (mcq) Sugar is stirred into tea and seems to vanish. What is the best description?  
-   Options: Still there, in pieces too small to see / It has turned into tea / It has turned into water  
+   Options: It has turned into tea / It has turned into water / Still there, in pieces too small to see  
    **Answer:** Still there, in pieces too small to see. *Why:* The tea tastes sweet, so the sugar is still there. If you chose the other answers, you may have thought that unseen means gone.
 2. (mcq) Which test best shows that lemon in milk made a new material?  
-   Options: You cannot get the smooth milk back / The lemon is yellow / It tastes sour  
+   Options: The lemon is yellow / It tastes sour / You cannot get the smooth milk back  
    **Answer:** You cannot get the smooth milk back. *Why:* A mixture can be taken apart and give back each part unchanged. Colour and taste do not tell you that.
 3. (mcq) A magnet lifts steel pins out of sand. Why did the sand not change the pins?  
-   Options: Materials keep their properties in a mixture / The sand is also magnetic / Pins are lighter than sand  
+   Options: The sand is also magnetic / Pins are lighter than sand / Materials keep their properties in a mixture  
    **Answer:** Materials keep their properties in a mixture. *Why:* The pins are still attracted, because mixing does not change what a material is. Sand is not magnetic, and weight is not what the magnet uses.
 4. (mcq) Salt water freezes at a lower temperature than plain water. What does this show?  
-   Options: A mixture can have a property its parts lack alone / Salt melts water into ice / Salt turns into water  
+   Options: Salt melts water into ice / Salt turns into water / A mixture can have a property its parts lack alone  
    **Answer:** A mixture can have a property its parts lack alone. *Why:* The whole mixture can have a new property, even though each part keeps its own. Freezing point is one of them.
 5. (mcq) Which difference is easiest to use to separate chalk powder from iron filings?  
-   Options: Being attracted by a magnet / Colour / Taste  
+   Options: Colour / Taste / Being attracted by a magnet  
    **Answer:** Being attracted by a magnet. *Why:* Iron is attracted by a magnet and chalk is not. The magnet leaves the chalk behind. Colour and taste are poor tools here.
 6. (mcq) A filter clears muddy water, but the water is still salty. Why?  
    Options: Dissolved salt is too small to be held back / The filter added salt / Mud makes water salty  
@@ -952,22 +952,22 @@ Thenmozhi looked down at the dull water by her feet. She wondered what else was 
    Options: Magnet, then water and filter, then evaporate / Evaporate, then magnet, then filter / Filter, then water, then magnet  
    **Answer:** Magnet, then water and filter, then evaporate. *Why:* The dry magnet comes first. Then water dissolves the sugar, so gravel is caught by the filter, and evaporation gives the sugar back.
 9. (mcq) Why does mixed rubbish cost a waste picker more work than rubbish kept apart?  
-   Options: Mixing is easy but separating always needs work / Mixed waste unmixes itself / Separating needs no effort  
+   Options: Mixed waste unmixes itself / Separating needs no effort / Mixing is easy but separating always needs work  
    **Answer:** Mixing is easy but separating always needs work. *Why:* Mixing happens by itself, but taking things apart needs effort from a hand, a machine or the Sun.
 10. (mcq) Sweat dries on a shirt and leaves a white mark. What does this show?  
-   Options: Salt stayed when the water evaporated / Water changed into salt / The cloth made salt  
+   Options: Water changed into salt / The cloth made salt / Salt stayed when the water evaporated  
    **Answer:** Salt stayed when the water evaporated. *Why:* The water left as vapour and the salt could not follow, the same as in a salt pan.
 11. (mcq) Bees make honey from nectar that is more than half water. Which separation is that?  
    Options: Evaporation of water / A magnet / Sieving  
    **Answer:** Evaporation of water. *Why:* The water leaves the nectar, and the sugars stay behind, so the honey is thick.
 12. (mcq) A bottle says '99.9 per cent pure'. Why does it not say 100?  
-   Options: No test can show that nothing else is there / The bottle is old / 100 is not a number  
+   Options: The bottle is old / 100 is not a number / No test can show that nothing else is there  
    **Answer:** No test can show that nothing else is there. *Why:* A test only shows what it can find. A finer test may find more, so purity is given as a number.
 13. (mcq) Which question about mixing has no agreed answer yet?  
-   Options: Why the universe began in such an orderly state / Whether salt dissolves in water / Whether sand sinks in water  
+   Options: Whether salt dissolves in water / Why the universe began in such an orderly state / Whether sand sinks in water  
    **Answer:** Why the universe began in such an orderly state. *Why:* Physicists can explain why mixing is likely, but not yet why the universe began so orderly.
 14. (mcq) Black ink splits into blue, pink and yellow on wet paper. What made the colours spread apart?  
-   Options: They climb the paper at different speeds / They dissolve at different times / They sink at different speeds  
+   Options: They dissolve at different times / They climb the paper at different speeds / They sink at different speeds  
    **Answer:** They climb the paper at different speeds. *Why:* Each colour is carried along by the water and clings to the paper by a different amount, so it travels at its own speed.
 
 ## Applications

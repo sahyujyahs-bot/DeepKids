@@ -642,7 +642,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 6. (write) In the glow stick test, the stick in warm water glowed brightest, and the one in icy water glowed dimmest. Explain why. Use the word 'reaction'.  
    **Answer:** The light comes from a chemical reaction inside the stick. Warmth makes the reaction go faster, so more light comes out every second. Cold slows the reaction, so less light comes out.. *Why:* A strong answer links brightness to how fast the reaction runs, not to the water giving the stick light or heat to shine with.
 7. (mcq) Deep in the sea, below about 1,000 metres, how much sunlight is there?  
-   Options: None at all / A little, at midday / Lots, because water makes light brighter  
+   Options: A little, at midday / None at all / Lots, because water makes light brighter  
    **Answer:** None at all. *Why:* Sunlight fades as it goes down through water. Below about 1,000 metres it is completely dark, day and night. Picking 'a little at midday' is right for a few hundred metres down, but not for the deep sea.
 8. (draw) Draw a firefly at night. Show where their light comes from. Draw an arrow for the air going in.  
    **Answer:** A beetle with their glowing lantern at the end of their body, and an arrow of air going into the lantern.. *Why:* The light comes from the lantern, where luciferin meets oxygen from the air. A strong drawing shows the light at the back end, not the head.
@@ -662,27 +662,27 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
    **Answer:** The first drawing shows a plain tube with a small glass tube inside. The second shows the glass tube cracked, two liquids mixing and light coming out.. *Why:* A strong drawing shows that the light starts when the two liquids meet, with no battery or flame.
 ### Glowing Jobs (stretch) (stretch, 15 questions)
 1. (mcq) Inside a firefly, a helper chemical called luciferase is part of making light. What does luciferase do?  
-   Options: Makes luciferin and oxygen react quickly / Stores sunlight for the night / Cools the firefly down  
+   Options: Stores sunlight for the night / Makes luciferin and oxygen react quickly / Cools the firefly down  
    **Answer:** Makes luciferin and oxygen react quickly. *Why:* Luciferase is a helper that speeds up the reaction, so the flash comes on fast. Picking 'stores sunlight' mixes up living light and glow-in-the-dark stars. Picking 'cools the firefly' misses that the light is already cold.
 2. (mcq) Some jellyfish flash a ring of lights when they are grabbed. Scientists call this a burglar alarm. Why?  
-   Options: The flashes may call a bigger hunter to eat the attacker / The flashes wake the jellyfish up / The flashes warm the water  
+   Options: The flashes wake the jellyfish up / The flashes may call a bigger hunter to eat the attacker / The flashes warm the water  
    **Answer:** The flashes may call a bigger hunter to eat the attacker. *Why:* Like an alarm, the flashes draw attention. A bigger animal may come and eat whatever grabbed the jellyfish. Picking 'warm the water' misses that living light is cold.
 3. (write) In The Vanishing Fish activity, the paper fish almost disappeared when the torch made the paper as bright as the screen behind it. Why does this help a real hatchetfish hide from a hunter swimming below?  
    **Answer:** From below, a fish looks like a dark shape against the faint light coming down from above. The hatchetfish's belly lights fill in that shape, so the shape matches the light behind. Then the hunter cannot see an outline.. *Why:* A strong answer says the danger is a dark outline, and that the belly lights hide it by matching the light from above. This trick is called counter-illumination.
 4. (mcq) Where does the light in an anglerfish's lure come from?  
-   Options: From glowing bacteria living inside the lure / From the Sun / From the Moon  
+   Options: From the Sun / From the Moon / From glowing bacteria living inside the lure  
    **Answer:** From glowing bacteria living inside the lure. *Why:* Tiny glowing bacteria live in the lure. The fish gives them a home and food, and they give the fish a lamp. Picking 'the Sun' misses that sunlight never reaches the deep sea.
 5. (truefalse) Glowing bacteria only light up when there are lots of them together.  
    **Answer:** True. *Why:* True. Each one gives off a chemical to tell the others they are there. When enough builds up, they all glow at once. One alone would make too little light to be useful.
 6. (mcq) You are lost at night in a forest. Fireflies flash all around you, and glowing mushrooms grow on fallen bamboo by a stream that runs past your home. Which is better to follow home, and why?  
-   Options: The mushrooms, because they glow steadily and stay where they grow, by the stream / The fireflies, because their light is too hot to go near / The mushrooms, because they are brighter than the Sun  
+   Options: The fireflies, because their light is too hot to go near / The mushrooms, because they are brighter than the Sun / The mushrooms, because they glow steadily and stay where they grow, by the stream  
    **Answer:** The mushrooms, because they glow steadily and stay where they grow, by the stream. *Why:* Fireflies flash on and off and fly about, signalling to each other, so they cannot mark a path. Mushrooms stay where they grow and glow all night. Picking 'too hot' misses that firefly light is cold.
 7. (order) Put the steps of a firefly flash in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* Air brings oxygen. Oxygen reacts with luciferin, helped by luciferase. Light comes out. Shutting off the air stops the light.
 8. (truefalse) Sea sparkle, tiny living beings in the sea, glow brightest where waves crash.  
    **Answer:** True. *Why:* True. Sea sparkle flash when the water around them is stirred. So the brightest glow is in breaking waves and around moving feet.
 9. (mcq) Some female fireflies copy the answer flash of a different kind of firefly. What happens when a male of that kind flies down to her?  
-   Options: She eats him / They become partners / He flies past her  
+   Options: They become partners / He flies past her / She eats him  
    **Answer:** She eats him. *Why:* The scientist James Lloyd found these trickster fireflies in 1965. They use light as a trap. Picking 'become partners' misses that she is a different kind, and the copied answer is a trap to catch food.
 10. (match) Match each deep-sea light to the job it does.  
    **Answer:** Anglerfish lure → catch food; Hatchetfish belly lights → hide; Jellyfish ring of flashes → scare off an attacker; Lanternfish light pattern → talk to their own kind. *Why:* Deep-sea animals use light for four main jobs: to catch food, to hide, to scare attackers and to talk.
@@ -698,7 +698,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
    **Answer:** ['worms', 'worm']. *Why:* Firefly young are called glow-worms. They live in damp soil and leaf litter, and they glow too.
 ### Light from Life (challenge) (challenge, 15 questions)
 1. (mcq) A firefly eats food and later makes light. Where did the energy in their food first come from?  
-   Options: From sunlight, caught by plants / From the Moon / From the firefly's own light  
+   Options: From the Moon / From the firefly's own light / From sunlight, caught by plants  
    **Answer:** From sunlight, caught by plants. *Why:* Plants catch sunlight to make food. Animals eat plants, or eat animals that ate plants. So a firefly's flash is sunlight energy, changed many times. Picking 'their own light' goes the wrong way round. Light is where the energy ends up.
 2. (mcq) Down at the level of atoms, how does luciferin make light?  
    Options: The new molecule has extra energy and lets it go as tiny packets of light / It catches sunlight and holds it / It catches fire very slowly  
@@ -716,7 +716,7 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 8. (truefalse) Your body gives out a very faint light, about a thousand times too weak for your eyes to see.  
    **Answer:** True. *Why:* True. In 2009, scientists in Japan photographed it with a super-sensitive camera in total darkness. What it can tell us is still being studied.
 9. (mcq) Most deep-sea animals cannot see red light. A black dragonfish shines a red light from under their eyes, and they can see red. How might that help the dragonfish?  
-   Options: They can light up small animals to eat, without being seen / Red light keeps them warm in the cold sea / Red light tells other animals to stay away  
+   Options: Red light keeps them warm in the cold sea / They can light up small animals to eat, without being seen / Red light tells other animals to stay away  
    **Answer:** They can light up small animals to eat, without being seen. *Why:* The red light works like a secret torch. The dragonfish sees the small animals in their red light, but those animals cannot see the light, so they do not swim away. Picking 'stay away' would only work if the others could see red. Picking 'keeps them warm' misses that living light is cold.
 10. (perspective) Glowing bamboo mushrooms grow near Mawlynnong in Meghalaya. Scientists found them in 2018 and gave them a name a few years later. Who discovered them?  
    **Answer:** A strong answer picks a side with a reason, for example that people who knew the mushrooms first discovered them. It then says what the other side adds, for example that naming and studying let the whole world learn about them. It may say both should be credited.. *Why:* This is a real question about fairness and about different ways of knowing. Local knowledge came first. Science shared it widely. Both matter.
@@ -739,34 +739,34 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 
 ## Quiz
 1. (mcq) Which of these is living light?  
-   Options: A firefly's flash / A glow stick at a wedding / A glow-in-the-dark star  
+   Options: A glow stick at a wedding / A glow-in-the-dark star / A firefly's flash  
    **Answer:** A firefly's flash. *Why:* Living light is made by a living being. A glow stick uses the same kind of chemistry, but a glow stick is not alive. A glow-in-the-dark star only gives back stored light.
 2. (mcq) A jellyfish glows in a fish tank in a room with every light switched off. Is that living light?  
-   Options: Yes, because there is no other light for the jellyfish to send back / No, the jellyfish is only sending back light / No, the water in the tank is glowing  
+   Options: No, the jellyfish is only sending back light / Yes, because there is no other light for the jellyfish to send back / No, the water in the tank is glowing  
    **Answer:** Yes, because there is no other light for the jellyfish to send back. *Why:* In a fully dark room there is no light to bounce back. So any glow must be made by the jellyfish themself, with chemistry. That is living light. Picking 'sending back light' forgets that the room is dark.
 3. (mcq) Where do glowing mushrooms usually grow?  
-   Options: On rotting wood in damp forests / In deserts / In the deep sea  
+   Options: In deserts / On rotting wood in damp forests / In the deep sea  
    **Answer:** On rotting wood in damp forests. *Why:* Glowing fungi grow on damp, rotting wood, like the fallen bamboo near Mawlynnong in Meghalaya. Picking 'deep sea' mixes them up with glowing fish.
 4. (mcq) Where on Earth do the most glowing animals live?  
-   Options: In the sea, especially the deep sea / In deserts / In cities  
+   Options: In deserts / In cities / In the sea, especially the deep sea  
    **Answer:** In the sea, especially the deep sea. *Why:* In the deep sea, about three out of four animals can make light. Picking 'cities' may come from all the lamps there, but those are not living lights.
 5. (mcq) On some nights, the waves on beaches near Chennai and Mangaluru glow blue. What makes the glow?  
    Options: Tiny living beings in the water called sea sparkle / Moonlight on the waves / Oil from boats  
    **Answer:** Tiny living beings in the water called sea sparkle. *Why:* Sea sparkle are tiny one-celled living beings. They flash blue when the water is stirred. Moonlight on waves is silver and does not flash.
 6. (mcq) A scientist mixes luciferin and luciferase, the two firefly chemicals, in a sealed tube with no air in it. What happens?  
-   Options: No light, because there is no oxygen / A bright flash, because both chemicals are there / A slow glow that gets hot  
+   Options: A bright flash, because both chemicals are there / A slow glow that gets hot / No light, because there is no oxygen  
    **Answer:** No light, because there is no oxygen. *Why:* Luciferin needs oxygen to react. The luciferase only speeds the reaction up. With no oxygen, nothing reacts, so no light comes out. Let air in, and the tube glows. Picking 'a bright flash' forgets the oxygen.
 7. (mcq) A firefly's light goes off. What has the firefly stopped doing?  
    Options: Letting air into their lantern / Eating / Flying  
    **Answer:** Letting air into their lantern. *Why:* Without fresh oxygen from the air, the reaction stops and so does the light. A firefly can sit still and still flash.
 8. (mcq) A firefly flashes a code to find a partner. Which job of living light is that?  
-   Options: Talking / Hiding / Catching food  
+   Options: Hiding / Talking / Catching food  
    **Answer:** Talking. *Why:* Living light has four main jobs: talking, catching food, hiding and scaring off an attacker. A flash code is a message, so it is talking.
 9. (mcq) A small squid in Hawaii keeps glowing bacteria under their body. On moonlit nights the glow hides their shadow from hunters below. Which job is that?  
    Options: Hiding / Talking / Catching food  
    **Answer:** Hiding. *Why:* The glow fills in the dark shadow, so hunters below cannot see the squid. That is hiding.
 10. (mcq) To make the glow stick test fair, what must be different between the glasses?  
-   Options: Only how warm the water is / The colour of each glow stick / Everything  
+   Options: The colour of each glow stick / Only how warm the water is / Everything  
    **Answer:** Only how warm the water is. *Why:* A fair test changes just one thing. If the colours were different too, we would not know what caused the change. Picking 'everything' is a common first idea, but then we could never tell which change mattered.
 11. (mcq) A glow-in-the-dark star stops glowing after a while. Why?  
    Options: It has given back all the light it soaked up / It got too cold / It ran out of oxygen  
@@ -775,10 +775,10 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
    Options: Only the firefly / Only the star / Both of them  
    **Answer:** Only the firefly. *Why:* The star can only give back light it soaked up, and it got none in the cupboard. The firefly makes new light with chemistry, so they can flash after a day in the dark. Picking 'only the star' gets the two the wrong way round.
 13. (mcq) What do bright lights at night do to fireflies?  
-   Options: Hide their flashes, so they find fewer partners / Help them see their partners / Nothing at all  
+   Options: Help them see their partners / Hide their flashes, so they find fewer partners / Nothing at all  
    **Answer:** Hide their flashes, so they find fewer partners. *Why:* Bright lights drown out faint firefly flashes. Picking 'help them see' may come from moths, which fly to lights. Fireflies are different.
 14. (mcq) Why do mushrooms glow?  
-   Options: Scientists are still not sure. One idea is that the glow brings insects that spread spores / To find partners, like fireflies / To keep warm at night  
+   Options: To find partners, like fireflies / Scientists are still not sure. One idea is that the glow brings insects that spread spores / To keep warm at night  
    **Answer:** Scientists are still not sure. One idea is that the glow brings insects that spread spores. *Why:* For one Brazilian mushroom, tests show the glow brings insects. For most other fungi, nobody knows yet. Picking 'to find partners' fits fireflies, who signal to their own kind, not fungi.
 
 ## Applications

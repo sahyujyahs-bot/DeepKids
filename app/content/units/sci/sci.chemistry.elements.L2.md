@@ -401,7 +401,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 ## Worksheets
 ### Elements at home (core, 10 questions)
 1. (mcq) An element is a substance made of…  
-   Options: just one kind of atom / two kinds of atoms joined / anything shiny  
+   Options: two kinds of atoms joined / just one kind of atom / anything shiny  
    **Answer:** just one kind of atom. *Why:* An element has only one kind of atom. Gold has only gold atoms.
 2. (sort) Sort these: one element, or two or more elements?  
    **Answer:** gold → One element; water → Two or more; oxygen → One element; salt → Two or more; kitchen foil → One element; sugar → Two or more. *Why:* Gold, oxygen and aluminium foil each have one kind of atom. Water, salt and sugar are each made of elements joined together.
@@ -424,7 +424,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    **Answer:** A strong answer picks a side with a reason from the foil test. For example: 'Paati, because the black went away on the foil and the silver was shiny.' Then it is fair to Arjun: the anklet did change, and it looked spoilt.. *Why:* Paati is right that the silver atoms were still there. Arjun is right that something changed: silver joined with sulfur is a new, black substance.
 ### Why some metals change (stretch, 10 questions)
 1. (mcq) Many iron gates are painted. Why does paint help?  
-   Options: It keeps air and water away from the iron / It makes the gate heavier / It turns the iron into gold  
+   Options: It makes the gate heavier / It keeps air and water away from the iron / It turns the iron into gold  
    **Answer:** It keeps air and water away from the iron. *Why:* Iron joins with oxygen and water to make rust. Paint keeps them away from the iron, so less rust grows.
 2. (write) In the Foil Bowl experiment, the water smelled a little like boiled eggs. Where do you think the smell came from?  
    **Answer:** From the sulfur that left the silver.. *Why:* A strong answer links the smell to sulfur. A boiled egg smells because of a gas with sulfur in it, and the same kind of gas is made in the foil bowl.
@@ -437,7 +437,7 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
 6. (fill) Brass is a mix of copper and ______.  
    **Answer:** ['zinc']. *Why:* Brass is an alloy of copper and zinc.
 7. (mcq) Tamarind made the brass shine, but plain water did not. What did the tamarind do?  
-   Options: It painted the brass gold / Its sour juice dissolved the dull layer / It made the brass hotter  
+   Options: Its sour juice dissolved the dull layer / It painted the brass gold / It made the brass hotter  
    **Answer:** Its sour juice dissolved the dull layer. *Why:* The sour acid in tamarind dissolves the dull layer of copper joined with oxygen. The bright metal underneath shows again.
 8. (odd) Three of these are alloys, metals made by mixing elements. Which one is an element?  
    Options: Brass / Steel / Copper / Bronze  
@@ -479,34 +479,34 @@ On Pongal morning, Lakshmi walked round the kolam in the courtyard, and her kolu
    Options: Tiny atoms / Only water / Only air  
    **Answer:** Tiny atoms. *Why:* Everything, including you, is made of atoms, far too small to see.
 2. (mcq) Which of these is an element?  
-   Options: Salt / Gold / Water  
+   Options: Salt / Water / Gold  
    **Answer:** Gold. *Why:* Gold has only one kind of atom. Salt and water are each made of elements joined together.
 3. (mcq) Which gas, an element, is about one fifth of the air?  
-   Options: Oxygen / Steam / Smoke  
+   Options: Steam / Oxygen / Smoke  
    **Answer:** Oxygen. *Why:* About one fifth of the air is oxygen. Steam is water, and smoke is a mix of many things.
 4. (mcq) Kitchen foil is made of which element?  
-   Options: Iron / Silver / Aluminium  
+   Options: Aluminium / Iron / Silver  
    **Answer:** Aluminium. *Why:* Foil is almost all aluminium. Silver is a shiny metal too, but kitchen foil is not silver.
 5. (mcq) You are sorting things at home. Which one should go in the 'two or more elements' column?  
-   Options: A copper wire / A spoon of sugar / A gold coin  
+   Options: A copper wire / A gold coin / A spoon of sugar  
    **Answer:** A spoon of sugar. *Why:* Sugar is carbon, hydrogen and oxygen joined. Copper and gold are elements.
 6. (mcq) In the foil bowl test, dark silver turned shiny. Where was the silver while it was dark?  
-   Options: It had gone away / It was still there, joined with sulfur / It had turned into gold  
+   Options: It was still there, joined with sulfur / It had gone away / It had turned into gold  
    **Answer:** It was still there, joined with sulfur. *Why:* The dark layer was silver joined with sulfur. When the foil took the sulfur, the same silver was left.
 7. (mcq) In the foil bowl test, which part took the sulfur away from the silver?  
-   Options: The aluminium foil / The salt / The steel spoon  
+   Options: The salt / The steel spoon / The aluminium foil  
    **Answer:** The aluminium foil. *Why:* Aluminium holds on to sulfur more strongly than silver does. So the sulfur moves from the silver to the foil, and the silver is left shiny.
 8. (mcq) Why do pure gold ornaments stay shiny for hundreds of years?  
    Options: Gold hardly joins with other elements / Gold is cleaned every day / Gold is very light  
    **Answer:** Gold hardly joins with other elements. *Why:* Gold hardly joins with sulfur, oxygen or water, so no dark layer grows on it.
 9. (mcq) An iron gate is left out in the rain. What happens over time?  
-   Options: It turns gold / It gets orange rust / It turns into water  
+   Options: It turns gold / It turns into water / It gets orange rust  
    **Answer:** It gets orange rust. *Why:* Iron joins with oxygen and water to make orange rust.
 10. (mcq) What is the black inside a pencil?  
    Options: Lead / Carbon / Silver  
    **Answer:** Carbon. *Why:* It is graphite, a form of carbon, mixed with clay. People long ago called it lead by mistake.
 11. (mcq) Someone says the foil made the silver shiny in the foil bowl test. What is the best evidence for this?  
-   Options: The foil was shiny too / The same silver stayed dark with no foil, then turned shiny on foil / A grown-up said so  
+   Options: The foil was shiny too / A grown-up said so / The same silver stayed dark with no foil, then turned shiny on foil  
    **Answer:** The same silver stayed dark with no foil, then turned shiny on foil. *Why:* Only the foil changed between the two bowls. So the change in the silver came from the foil.
 
 ## Applications

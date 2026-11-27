@@ -483,27 +483,27 @@ Arjun held out his hand and looked at it for a long time.
    Options: Hair / A fingernail / A plastic comb / A bird's feather  
    **Answer:** 2. *Why:* Hair, nails and feathers are built by living cells, mostly from a protein called keratin. A plastic comb is made in a factory and has no DNA instructions behind it.
 11. (mcq) A girl has her mother's curly hair and her father's wide smile. Why?  
-   Options: She copied their faces / She got half her DNA from each parent / She ate the same food as them / She looked at them every day  
+   Options: She got half her DNA from each parent / She copied their faces / She ate the same food as them / She looked at them every day  
    **Answer:** She got half her DNA from each parent. *Why:* A child inherits half of their DNA from the mother and half from the father, so they can have features from each. Copying or looking cannot change hair or a smile.
 12. (fill) A cell copies one gene into a shorter molecule called ____.  
    **Answer:** ['RNA']. *Why:* RNA is the working copy of one gene. It is carried out of the nucleus and read to build a protein.
 13. (perspective) Two friends in Chennai look at a plate of seedlings. Moong, methi and mustard grew side by side on the same cotton.  
    **Answer:** A strong answer sees that both are right about different things. The shape came from inside each seed, because everything outside was the same, so the first child explains why they differ. The second child is right that water, light and warmth give the materials and energy: a dry seed never sprouts.. *Why:* Instructions and surroundings both shape a living thing. A strong answer uses the test to show which one explains the difference here.
 14. (mcq) Where in a cell is the DNA kept?  
-   Options: In the nucleus / On the outside of the cell / In the blood around the cell / Nowhere: cells have no DNA  
+   Options: On the outside of the cell / In the blood around the cell / In the nucleus / Nowhere: cells have no DNA  
    **Answer:** In the nucleus. *Why:* DNA is kept in the nucleus, a round part of the cell. Your red blood cells are the exception: they lose their nucleus as they grow, so they carry no DNA.
 15. (write) Someone says, 'A gene and a protein are the same thing.' Are they right? Explain.  
    **Answer:** No. A gene is a stretch of DNA that holds the instructions. A protein is the chain of amino acids that a cell builds by following that gene.. *Why:* A strong answer says the gene is the instructions and the protein is what is built from them.
 ### Copies and Codes (stretch) (stretch, 15 questions)
 1. (mcq) Kala chana from one packet were sorted into big and small seeds and grown side by side. What would you expect after a week?  
-   Options: The big seeds grow a different kind of leaf / The big seeds often grow a little taller, with the same shape of leaf / The small seeds grow into a different plant / Nothing sprouts  
+   Options: The big seeds grow a different kind of leaf / The small seeds grow into a different plant / The big seeds often grow a little taller, with the same shape of leaf / Nothing sprouts  
    **Answer:** The big seeds often grow a little taller, with the same shape of leaf. *Why:* Big and small chana carry the same kind of instructions, so the leaves have the same shape. A bigger seed packs more food, which can help the seedling grow faster at first. A strong answer separates what the instructions decide from what the food store changes.
 2. (write) The same moong seeds grow tall and pale in the dark, and short and green in the light. Does that mean DNA does not matter? Explain.  
    **Answer:** No. The DNA still makes them moong: they have moong leaves and moong stems in both places. The light changes how the cells use their genes, so the same instructions give a different height and colour. Both DNA and surroundings matter.. *Why:* A strong answer shows that surroundings change how instructions are used, not which kind of plant grows.
 3. (truefalse) True or false: a gene is the same as a whole chromosome.  
    **Answer:** False. *Why:* False. A chromosome is one long piece of DNA. It holds many genes, each one a short stretch of it.
 4. (mcq) In RNA, which letter is used in place of T?  
-   Options: A / G / U / X  
+   Options: A / U / G / X  
    **Answer:** U. *Why:* RNA uses U in place of T. Otherwise the copy says the same thing as the gene it came from.
 5. (write) With only four letters, how can DNA hold enough instructions for a whole tree? Give an example with letters.  
    **Answer:** Because the order of the letters matters, and the chain is very long. ATG and GTA use the same letters but mean different things. One set of human DNA has about 3 billion letter pairs, so there are endless possible orders.. *Why:* A strong answer uses the idea that order, not the number of kinds of letter, carries the meaning, and gives a short example.
@@ -516,7 +516,7 @@ Arjun held out his hand and looked at it for a long time.
 9. (perspective) A family in Mysuru talks about a baby girl's looks.  
    **Answer:** A strong answer agrees with Revathi that DNA and life both shape the baby. It gives Paati her due: families really do share features, such as the eyes she noticed. And Mallika is right too: each child gets a new mix of their parents' DNA, so no one else looks exactly like them.. *Why:* Each view sees something true. A strong answer uses the facts about DNA and is fair to every view.
 10. (mcq) A ribosome reads RNA in groups of how many letters?  
-   Options: One / Two / Three / Ten  
+   Options: One / Three / Two / Ten  
    **Answer:** Three. *Why:* A ribosome reads three letters at a time. Each group of three tells it which amino acid to add next, or to stop.
 11. (draw) Draw a cell as a big circle with a nucleus inside. Draw the DNA in the nucleus, an RNA copy leaving it, and a ribosome building a protein. Label all four.  
    **Answer:** A big circle with a smaller circle inside. In the small circle, a long twisted line labelled DNA. A short line labelled RNA crossing out of the nucleus. A small round ribosome with a chain of beads, labelled protein.. *Why:* A strong drawing shows the DNA staying inside and the copy going out, in the right order.
@@ -525,7 +525,7 @@ Arjun held out his hand and looked at it for a long time.
 13. (write) A seedling opens seed leaves first, and later grows true leaves of a new shape. Where did the instructions for the true leaves come from?  
    **Answer:** From the same DNA the seedling had all along. The cells use different genes at different times, first for seed leaves and then for true leaves.. *Why:* A strong answer says no new instructions arrive: the plant uses different parts of the same DNA as they grow.
 14. (mcq) Identical twins grow from one fertilised egg that split in two. What is true about their DNA?  
-   Options: It is the same / It is completely different / One twin has no DNA / It changes to match their friends  
+   Options: It is completely different / One twin has no DNA / It changes to match their friends / It is the same  
    **Answer:** It is the same. *Why:* Identical twins share the same DNA, because they came from one egg. They still have different fingerprints and grow up a little different, because surroundings shape bodies too.
 15. (write) Your red blood cells have no nucleus, and so no DNA. Use this to explain why a blood transfusion does not change how a person looks.  
    **Answer:** The blood a person receives is mostly red blood cells, which carry no DNA. And looks are built by the DNA in a person's own cells, from before they were born. So new blood cannot give anyone new instructions for their looks.. *Why:* A strong answer joins two facts: red blood cells lack DNA, and looks come from the body's own DNA.
@@ -533,7 +533,7 @@ Arjun held out his hand and looked at it for a long time.
 1. (write) Design a test to show that the shape of a methi leaf comes from the methi seed, not from the soil. Say what you would keep the same and what you would change.  
    **Answer:** Grow methi seeds and mustard seeds in the same soil, in the same pot, with the same water and light. Then also grow methi seeds in two different soils. If methi always grows methi leaves in both soils, and mustard grows mustard leaves in the same soil as methi, the shape comes from the seed.. *Why:* A strong answer changes one thing at a time: the kind of seed, or the soil, and keeps everything else the same.
 2. (mcq) Scientists put the human gene for insulin into bacteria, and the bacteria made human insulin. What does this show?  
-   Options: Bacteria are people / Bacteria and people read DNA in almost the same way / Insulin is not a protein / Genes only work in the body they came from  
+   Options: Bacteria are people / Insulin is not a protein / Bacteria and people read DNA in almost the same way / Genes only work in the body they came from  
    **Answer:** Bacteria and people read DNA in almost the same way. *Why:* The bacteria read a human gene correctly and built the human protein. That works only because almost all living things use the same four letters and nearly the same code. Since the 1980s, insulin for people with diabetes has been made this way.
 3. (perspective) In the early 1940s, two scientists argue about what carries a living thing's instructions.  
    **Answer:** A strong answer sides with Avery's team because of the test: removing DNA stopped the change, removing protein did not. Hershey and Chase's 1952 virus test added more evidence. It is fair to the protein scientist: 20 kinds of parts did seem able to say more, and nobody yet knew how long DNA was.. *Why:* The protein idea was reasonable but wrong. A strong answer shows how evidence, not how complicated something looks, settled it.
@@ -572,40 +572,40 @@ Arjun held out his hand and looked at it for a long time.
 
 ## Quiz
 1. (mcq) What are the instructions inside a living thing written in?  
-   Options: Blood / DNA / Water / Air  
+   Options: Blood / Water / Air / DNA  
    **Answer:** DNA. *Why:* Every living thing made of cells keeps their instructions in DNA. Picking 'blood' comes from the old saying 'it runs in the blood', but red blood cells have no DNA.
 2. (mcq) Moong, methi and mustard seeds grow on the same cotton with the same water and light. What will you see?  
-   Options: All three grow the same leaves / Each kind grows their own shape of leaf / None of them sprout / They all turn into moong  
+   Options: All three grow the same leaves / None of them sprout / Each kind grows their own shape of leaf / They all turn into moong  
    **Answer:** Each kind grows their own shape of leaf. *Why:* Each seed carries their own instructions, so each kind grows their own shape. Picking 'the same leaves' would mean the cotton and water decide the shape, but they were the same for all.
 3. (mcq) A girl tests whether moong or methi grows taller. She puts moong on a sunny window ledge and methi in a dark cupboard. What is wrong with her test?  
    Options: She changed the light as well as the kind of seed / She used two kinds of seed / She used a window / Nothing is wrong  
    **Answer:** She changed the light as well as the kind of seed. *Why:* In a fair test, only one thing changes. She changed the seed and the light, so she could not tell which one made the difference.
 4. (mcq) Which four letters does DNA use?  
-   Options: A, B, C and D / A, T, C and G / X, Y, Z and W / A, E, I and O  
+   Options: A, B, C and D / X, Y, Z and W / A, E, I and O / A, T, C and G  
    **Answer:** A, T, C and G. *Why:* DNA uses A, T, C and G. These are short names for four chemical parts.
 5. (mcq) ATG and GTA use the same letters. Why do they mean different things to a cell?  
    Options: The letters are a different size / The order of the letters is different / One is written in RNA / They mean the same thing  
    **Answer:** The order of the letters is different. *Why:* In DNA the order of the letters carries the meaning, like 'pat' and 'tap'. Picking 'they mean the same thing' forgets that order matters.
 6. (mcq) What does RNA do in a cell?  
-   Options: It stores all the instructions for ever / It carries a copy of one gene to where proteins are built / It makes the cell's outer skin / It carries oxygen  
+   Options: It stores all the instructions for ever / It makes the cell's outer skin / It carries oxygen / It carries a copy of one gene to where proteins are built  
    **Answer:** It carries a copy of one gene to where proteins are built. *Why:* RNA is a working copy of one gene. It leaves the nucleus, and a ribosome reads it to build a protein. The DNA is what stores the instructions.
 7. (mcq) In a cell, which stays safe in the nucleus, like a recipe book on a shelf?  
    Options: DNA / RNA / A protein / A ribosome  
    **Answer:** DNA. *Why:* DNA stays in the nucleus. The cell copies one gene into RNA, like copying one recipe onto a slip.
 8. (mcq) What do most proteins do in a body?  
-   Options: Nothing / Most of the work: building, carrying, digesting and protecting / They only make you taller / They store the DNA  
+   Options: Nothing / They only make you taller / Most of the work: building, carrying, digesting and protecting / They store the DNA  
    **Answer:** Most of the work: building, carrying, digesting and protecting. *Why:* Proteins do most of a body's work. Keratin builds hair, haemoglobin carries oxygen and a protein in spit starts digesting starch.
 9. (mcq) How much of your DNA came from your mother?  
-   Options: All of it / About half / None of it / A quarter  
+   Options: All of it / None of it / A quarter / About half  
    **Answer:** About half. *Why:* Half of your DNA came from your mother and half from your father. A quarter, roughly, came from each grandparent.
 10. (mcq) A crow's chick grows up to be a crow, never a pigeon. What makes sure of this?  
    Options: The DNA the chick got from the crow parents / The branch the nest is on / The food the parents bring / The colour of the sky  
    **Answer:** The DNA the chick got from the crow parents. *Why:* Half of the chick's DNA came from each crow parent, and that DNA holds the instructions for a crow. Food and surroundings help the chick grow, but they cannot turn a crow into a pigeon.
 11. (mcq) DNA is written with only four kinds of letters. How can four letters hold all the instructions for a whole living thing?  
-   Options: Very long chains of the four letters can be put in endless different orders / Each letter is very big / Four is a special number / The letters change every day  
+   Options: Each letter is very big / Four is a special number / Very long chains of the four letters can be put in endless different orders / The letters change every day  
    **Answer:** Very long chains of the four letters can be put in endless different orders. *Why:* Just as a few letters make every word in a book, four letters in a very long chain can be arranged in countless ways. Many scientists once thought four was too few, until experiments showed DNA does carry the instructions.
 12. (mcq) A virus is made of DNA inside a protein coat. Scientists marked both parts. Only the DNA went inside the bacteria, and new viruses were built there. What does this show?  
-   Options: The protein carries the instructions / The DNA carries the instructions / Both carry them equally / Neither carries them  
+   Options: The protein carries the instructions / Both carry them equally / Neither carries them / The DNA carries the instructions  
    **Answer:** The DNA carries the instructions. *Why:* The protein coat stayed outside, yet whole new viruses were built inside. So the instructions must have come in with the DNA.
 
 ## Applications

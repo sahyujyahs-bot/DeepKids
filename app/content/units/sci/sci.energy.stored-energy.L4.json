@@ -827,11 +827,11 @@
       "t": "mcq",
       "q": "Why must the pencils always be exactly 10 centimetres apart?",
       "options": [
-       "So the band is the same every test, and only the pull-back changes",
        "So the soap looks neat",
-       "So the pencils do not touch"
+       "So the pencils do not touch",
+       "So the band is the same every test, and only the pull-back changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing changes. If the pencils moved, the band would be tighter or looser, and you would not know whether the pull-back or the band made the difference."
      },
      "context": "In this step, you build the launcher that you will use for every test."
@@ -1196,11 +1196,11 @@
       "t": "mcq",
       "q": "Why do we mark zero with the empty bottle hanging, and not with nothing hanging?",
       "options": [
-       "The empty bottle already pulls on the band, so the stretch is counted from there",
        "The bottle is heavy",
+       "The empty bottle already pulls on the band, so the stretch is counted from there",
        "The band is easier to see with a bottle"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The bottle itself has some weight. We want to know how much each 100 millilitres of water adds, so we count from the empty bottle."
      },
      "context": "In this step, you set up the hanging band and mark the starting point."
@@ -1453,11 +1453,11 @@
       "t": "mcq",
       "q": "Why does the plunger spring back when you let go?",
       "options": [
-       "The squashed air stored energy and pushes the plunger out",
        "Air is lighter than the plunger",
-       "The clay pushes the plunger"
+       "The clay pushes the plunger",
+       "The squashed air stored energy and pushes the plunger out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Squashing the air stored energy in it. When you let go, the air pushes back and gives the energy to the plunger. The clay only blocks the end. It does not push the plunger."
      },
      "context": "In this step, you squash the air further and compare the push with the band.",
@@ -1833,13 +1833,13 @@
   {
    "t": "mcq",
    "p": "Which chain shows, in the right order, how energy reaches a hydro power station?",
-   "a": 0,
+   "a": 2,
    "why": "The Sun lifts water by evaporating it, rain brings it to the hills, and the dam holds it high. Falling water turns the turbine.",
    "outcome": 4,
    "opts": [
-    "The Sun, then evaporation, then rain on the hills, then the dam, then the turbine",
     "The turbine, then the dam, then the Sun, then rain",
-    "The dam, then the Sun, then the turbine, then rain"
+    "The dam, then the Sun, then the turbine, then rain",
+    "The Sun, then evaporation, then rain on the hills, then the dam, then the turbine"
    ]
   },
   {
@@ -1857,12 +1857,12 @@
   {
    "t": "mcq",
    "p": "About how much energy is stored by lifting a small apple of 100 grams up by 1 metre?",
-   "a": 0,
+   "a": 1,
    "why": "That is about 1 joule, which is the unit of energy. Lifting 2 apples by 1 metre, or 1 apple by 2 metres, stores about 2 joules.",
    "outcome": 6,
    "opts": [
-    "About 1 joule",
     "About 100 joules",
+    "About 1 joule",
     "About 1000 joules"
    ]
   },
@@ -1876,13 +1876,13 @@
   {
    "t": "mcq",
    "p": "A cycle at 30 kilometres an hour has 9 times the movement energy of one at 10. About how many times as far does it need to stop?",
-   "a": 1,
+   "a": 2,
    "why": "Movement energy grows with the square of the speed. To stop, the brakes must take away 9 times as much energy, so it needs about 9 times the distance.",
    "outcome": 2,
    "opts": [
     "3 times as far",
-    "9 times as far",
-    "30 times as far"
+    "30 times as far",
+    "9 times as far"
    ]
   },
   {
@@ -1908,25 +1908,25 @@
     {
      "t": "mcq",
      "p": "What is stored energy?",
-     "a": 0,
+     "a": 2,
      "why": "Stored energy is energy that waits in a thing because of its place, its shape or how its atoms are joined. It is not doing anything yet, but it can.",
      "outcome": 0,
      "opts": [
-      "Energy that waits in a thing, ready to be used later",
       "Energy that a thing has used up",
-      "Energy only found in batteries"
+      "Energy only found in batteries",
+      "Energy that waits in a thing, ready to be used later"
      ]
     },
     {
      "t": "mcq",
      "p": "A ball is lifted twice as high as before. How much more energy is stored in its height?",
-     "a": 0,
+     "a": 2,
      "why": "The energy stored in height is the weight times the height. Twice the height stores twice the energy.",
      "outcome": 2,
      "opts": [
-      "Twice as much",
       "Four times as much",
-      "The same amount"
+      "The same amount",
+      "Twice as much"
      ]
     },
     {
@@ -2019,12 +2019,12 @@
     {
      "t": "mcq",
      "p": "What does a trigger do?",
-     "a": 0,
+     "a": 1,
      "why": "A trigger lets a store release its energy. It does not supply the energy. A tiny match can start a huge fire, because the energy comes from the wood.",
      "outcome": 1,
      "opts": [
-      "It removes what was holding the energy back",
       "It adds the energy to the store",
+      "It removes what was holding the energy back",
       "It uses up the store"
      ]
     },
@@ -2054,13 +2054,13 @@
     {
      "t": "mcq",
      "p": "Why does a bouncing ball rise less on every bounce?",
-     "a": 0,
+     "a": 2,
      "why": "A little of the ball's energy turns into heat and sound at each bounce and spreads out. It cannot be used to lift the ball again. The energy is not destroyed.",
      "outcome": 3,
      "opts": [
-      "A little energy turns into heat and sound each time",
       "The ball gets lighter each time",
-      "The Earth pulls the ball harder each time"
+      "The Earth pulls the ball harder each time",
+      "A little energy turns into heat and sound each time"
      ]
     },
     {
@@ -2110,13 +2110,13 @@
     {
      "t": "mcq",
      "p": "A good spring is stretched twice as far. About how many times as much energy is stored?",
-     "a": 0,
+     "a": 2,
      "why": "Twice the stretch means twice the pull at the end, through twice the distance. Twice as much pull and twice as much distance makes 2 times 2, which is 4. For a good spring, the energy grows with the stretch multiplied by itself.",
      "outcome": 2,
      "opts": [
-      "About four times as much",
       "Twice as much",
-      "The same amount"
+      "The same amount",
+      "About four times as much"
      ]
     },
     {
@@ -2172,12 +2172,12 @@
     {
      "t": "mcq",
      "p": "Here are made-up results from a test that hangs water from a rubber band. What does the straight line show?",
-     "a": 0,
+     "a": 1,
      "why": "A straight line through the dots means that the stretch grows in step with the weight. Twice the weight gives about twice the stretch, so the band pulls back twice as hard when stretched twice as far.",
      "outcome": 2,
      "opts": [
-      "Twice the weight gives about twice the stretch",
       "The band stretches the same for any weight",
+      "Twice the weight gives about twice the stretch",
       "The band stretches less for each extra weight"
      ],
      "how": "a1",
@@ -2235,13 +2235,13 @@
     {
      "t": "mcq",
      "p": "A cycle moves at 20 kilometres an hour, and then at 10. How much movement energy does it have at 20 compared with 10?",
-     "a": 0,
+     "a": 2,
      "why": "Movement energy grows with the square of the speed. Twice the speed has 2 times 2, which is 4 times the energy.",
      "outcome": 2,
      "opts": [
-      "Four times as much",
       "Twice as much",
-      "The same amount"
+      "The same amount",
+      "Four times as much"
      ]
     },
     {
@@ -2255,12 +2255,12 @@
     {
      "t": "mcq",
      "p": "A banana holds about 420 000 joules. A full 1000 litre roof tank 10 metres up holds about 98 000 joules. Which holds more, and about how many times more?",
-     "a": 0,
+     "a": 1,
      "why": "420 000 divided by 98 000 is a little more than 4. The banana holds more, because chemical stores hold far more energy for their size than a store of height.",
      "outcome": 5,
      "opts": [
-      "The banana, by about four times",
       "The tank, by about four times",
+      "The banana, by about four times",
       "They hold the same"
      ]
     },
@@ -2332,13 +2332,13 @@
     {
      "t": "mcq",
      "p": "Which of these energy stores did NOT begin as sunlight?",
-     "a": 0,
+     "a": 2,
      "why": "The energy in uranium was made in exploding and colliding stars, long before the Sun was born. Wind, dosa and petrol all came from the Sun.",
      "outcome": 4,
      "opts": [
-      "The energy in uranium",
       "The energy in a dosa",
-      "The energy in petrol"
+      "The energy in petrol",
+      "The energy in uranium"
      ]
     },
     {
@@ -2386,13 +2386,13 @@
     {
      "t": "mcq",
      "p": "Here are made-up bounce results. About what fraction of the drop height does the ball keep each time?",
-     "a": 0,
+     "a": 2,
      "why": "30 to 20, 60 to 40 and 90 to 60 are all two thirds. A steady fraction means each bounce keeps about the same share of the energy.",
      "outcome": 3,
      "opts": [
-      "Two thirds",
       "One half",
-      "All of it"
+      "All of it",
+      "Two thirds"
      ],
      "how": "e2",
      "chart": {

@@ -507,7 +507,7 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
 1. (order) Put the steps of the eggshell test in order.  
    **Answer:** order shown. *Why:* We guess first, so the test can check our guess. We use the same amount of each liquid, so only the liquid is different.
 2. (mcq) In the root test, the pencil pushed in only 1 cm fell over after 1 tap. What does that show about a milk tooth?  
-   Options: A tooth with a short root is held weakly, so it wobbles / Pencils are not like teeth at all / A long root makes a tooth fall out  
+   Options: Pencils are not like teeth at all / A tooth with a short root is held weakly, so it wobbles / A long root makes a tooth fall out  
    **Answer:** A tooth with a short root is held weakly, so it wobbles. *Why:* A short root has only a little gum around it to hold it. A milk tooth's root is taken away before it falls, so it wobbles. 'A long root makes a tooth fall out' is the opposite of what the root test showed.
 3. (mcq) Why does a grown-up have premolars, but a child of 7 does not?  
    Options: Premolars grow in when the back milk teeth fall out / Children eat no food that needs crushing / Premolars only grow in boys  
@@ -539,10 +539,10 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
    Options: One sweet eaten with lunch / A sweet drink sipped slowly for an hour / A glass of plain water  
    **Answer:** A sweet drink sipped slowly for an hour. *Why:* Sipping slowly keeps sugar and acid in the mouth for the whole hour. One sweet with a meal is one short acid time. Water gives none.
 5. (mcq) In some villages, the well water has a lot of fluoride in it. What can happen to children's teeth there?  
-   Options: Their teeth grow with brown or white spots / Their teeth never get cavities at all / Their milk teeth never fall out  
+   Options: Their teeth never get cavities at all / Their milk teeth never fall out / Their teeth grow with brown or white spots  
    **Answer:** Their teeth grow with brown or white spots. *Why:* Too much fluoride while teeth are forming leaves spots on the enamel. This is called dental fluorosis. It is common in parts of Nalgonda in Telangana and in Rajasthan.
 6. (mcq) How are a shark's teeth different from yours?  
-   Options: A shark grows new teeth again and again, but we get only two sets / A shark has no teeth at all / A shark's teeth never wear down because they are enamel only  
+   Options: A shark has no teeth at all / A shark grows new teeth again and again, but we get only two sets / A shark's teeth never wear down because they are enamel only  
    **Answer:** A shark grows new teeth again and again, but we get only two sets. *Why:* Sharks replace their teeth many times. Humans get two sets, and the adult set must last a whole life.
 7. (draw) Design a toothbrush that makes it easy to clean the very back molars. Draw it, and label one thing that makes it good.  
    **Answer:** Any design with a reason, such as a small head, a bent neck or soft bristles.. *Why:* A strong design shows a way to reach behind the last molar and into its grooves, and says why.
@@ -567,34 +567,34 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
    Options: Inside the jaw, under the milk teeth / Nowhere yet: they start growing when a milk tooth falls / Inside the milk teeth  
    **Answer:** Inside the jaw, under the milk teeth. *Why:* Adult teeth form inside the jaw years before they come out. 'Nowhere yet' is a common guess, but X-ray pictures show they are already there.
 3. (mcq) Why does a milk tooth get wobbly before it falls out?  
-   Options: The body takes its root away as the adult tooth comes up / It gets old and rotten / The child pushes it with their tongue  
+   Options: It gets old and rotten / The body takes its root away as the adult tooth comes up / The child pushes it with their tongue  
    **Answer:** The body takes its root away as the adult tooth comes up. *Why:* The root is dissolved bit by bit, so the tooth is held only weakly. A tongue can move a loose tooth, but it does not make a firm tooth loose.
 4. (mcq) Which teeth bite a piece off a guava?  
-   Options: Molars / Incisors / Canines  
+   Options: Molars / Canines / Incisors  
    **Answer:** Incisors. *Why:* Incisors are the thin, flat front teeth that bite and cut. Molars grind food at the back.
 5. (mcq) What is the job of the wide, bumpy molars?  
-   Options: To grind food into a paste / To bite a piece off / To hold the tongue in place  
+   Options: To bite a piece off / To grind food into a paste / To hold the tongue in place  
    **Answer:** To grind food into a paste. *Why:* Molars grind food. Biting a piece off is the job of incisors.
 6. (mcq) Which part of a tooth is alive, with blood vessels and nerves?  
-   Options: The enamel / The pulp / The plaque  
+   Options: The enamel / The plaque / The pulp  
    **Answer:** The pulp. *Why:* The pulp is the living middle. Enamel is hard mineral on the outside. Plaque is the sticky layer of bacteria on top of a tooth.
 7. (mcq) Which is the hardest material in your body?  
    Options: Bone / Tooth enamel / Fingernail  
    **Answer:** Tooth enamel. *Why:* Enamel is harder than bone. Many people guess bone.
 8. (mcq) In the eggshell test, which pair of liquids made bubbles on the shell?  
-   Options: Water and milk / Lemon juice and vinegar / Sugar water and milk  
+   Options: Lemon juice and vinegar / Water and milk / Sugar water and milk  
    **Answer:** Lemon juice and vinegar. *Why:* Lemon juice and vinegar are sour, because they have acids in them. Acid breaks down the shell. Sugar water and milk did not make bubbles.
 9. (mcq) Sugar water did not harm the eggshell. So how does sugar harm teeth?  
-   Options: Bacteria in plaque eat the sugar and make acid / Sugar is very hard and scratches teeth / Sugar does not harm teeth at all  
+   Options: Sugar is very hard and scratches teeth / Sugar does not harm teeth at all / Bacteria in plaque eat the sugar and make acid  
    **Answer:** Bacteria in plaque eat the sugar and make acid. *Why:* Bacteria living in plaque eat sugar and make acid right on the tooth. If you picked 'does not harm teeth at all', remember the bacteria.
 10. (mcq) What does the fluoride in toothpaste do?  
    Options: It makes enamel harder for acid to wear away / It makes teeth grow back / It makes teeth whiter by painting them  
    **Answer:** It makes enamel harder for acid to wear away. *Why:* A little fluoride makes enamel harder for acid to dissolve. It does not make teeth grow back.
 11. (mcq) How much toothpaste should a child of 7 put on the brush?  
-   Options: A blob about the size of a pea / The whole length of the brush / None  
+   Options: The whole length of the brush / A blob about the size of a pea / None  
    **Answer:** A blob about the size of a pea. *Why:* A pea-sized blob of fluoride toothpaste is enough. Too much fluoride swallowed while teeth are growing can leave spots on them.
 12. (mcq) You guessed that sugar water would harm the eggshell. It did not. What should you do now?  
-   Options: Change your idea to fit what the test showed / Say the test was wrong / Never guess again  
+   Options: Say the test was wrong / Never guess again / Change your idea to fit what the test showed  
    **Answer:** Change your idea to fit what the test showed. *Why:* A guess is there to be tested. When the test shows something else, a scientist changes the idea. Guessing wrong is part of finding out.
 
 ## Applications

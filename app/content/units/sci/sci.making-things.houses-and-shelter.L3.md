@@ -586,10 +586,10 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 ## Worksheets
 ### Frames and Homes (core) (core, 18 questions)
 1. (mcq) In the Push Test, you pushed the top of a square card frame sideways. What happened?  
-   Options: It stayed square / It leaned into a diamond and folded flat / One strip broke  
+   Options: It leaned into a diamond and folded flat / It stayed square / One strip broke  
    **Answer:** It leaned into a diamond and folded flat. *Why:* The corners of a square turn like hinges, so the square leans and folds without any strip changing length.
 2. (mcq) Which of these frames keeps its shape when pushed?  
-   Options: A square / A rectangle / A triangle  
+   Options: A triangle / A square / A rectangle  
    **Answer:** A triangle. *Why:* A triangle cannot change shape unless one side changes length. Squares and rectangles can lean by turning their corners.
 3. (fill) A strip fixed from one corner of a frame to the opposite corner, so it cannot lean, is called a ____.  
    **Answer:** ['brace']. *Why:* A brace turns a square into two triangles.
@@ -606,7 +606,7 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 9. (draw) Draw a square frame. Then draw one strip that stops it leaning. Colour the two triangles it makes.  
    **Answer:** A square with one diagonal from one corner to the opposite corner, with the two triangles coloured.. *Why:* A strong drawing puts the brace from corner to corner, not across the middle of a side.
 10. (mcq) In the card frames of the Push Test, what is each split pin?  
-   Options: A brace / A joint, where two strips meet / A load  
+   Options: A joint, where two strips meet / A brace / A load  
    **Answer:** A joint, where two strips meet. *Why:* A joint is the place where two parts of a frame meet and are fixed together.
 11. (label) Label the parts of this house: roof, wall, frame, brace, door.  
    **Answer:** ['roof', 'wall', 'frame', 'brace', 'door']. *Why:* A strong answer puts the brace across the frame from corner to corner.
@@ -631,12 +631,12 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 2. (perspective) A family in Chennai is building a new house.  
    **Answer:** A strong answer picks a side and backs it with a fact, such as concrete's strength, a jaali wall's breeze, or the Push Test showing braces matter. It then admits a fair point from another side, because each choice has real costs and gains.. *Why:* There is no single right answer. Builders and architects really disagree about this.
 3. (mcq) You add a strip across a square frame, from the middle of the top to the middle of the bottom. Will it stop the square leaning?  
-   Options: Yes, any extra strip stops leaning / No, it makes two smaller rectangles, which can still lean / Only if the strip is thicker  
+   Options: Yes, any extra strip stops leaning / Only if the strip is thicker / No, it makes two smaller rectangles, which can still lean  
    **Answer:** No, it makes two smaller rectangles, which can still lean. *Why:* A strip from the middle of the top to the middle of the bottom makes two smaller rectangles, not triangles. Rectangles still lean. The brace must go from corner to corner.
 4. (draw) Draw a side view of a roof with four tiles overlapping the right way. Add arrows to show where rain runs.  
    **Answer:** Four tiles in a slope, each higher tile lying over the top of the one below, with arrows running down over each tile and off the bottom edge.. *Why:* A strong drawing shows the higher tile on top every time, and the arrows never go under a tile.
 5. (mcq) In the Kutch earthquake of 2001, many bhungas with light roofs stood. Why is a light roof safer in an earthquake?  
-   Options: A light roof is cheaper / If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less / A light roof keeps the house cool  
+   Options: If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less / A light roof is cheaper / A light roof keeps the house cool  
    **Answer:** If a light roof falls, it is far less likely to hurt people, and shaking pushes light things less. *Why:* The shaking ground pushes heavy things harder, and a falling heavy roof is the main danger. A light roof both moves less and hurts less if it falls.
 6. (write) Houses in Ladakh have flat roofs, but houses in Kerala have steep roofs. Explain why, using what you saw in the Rain on the Roof test.  
    **Answer:** In the test, water stayed in a puddle on the flat tray but ran off the steep tray in seconds. Kerala gets very heavy rain, so it needs steep roofs to shed water. Ladakh gets very little rain, so a flat roof is fine and can be used for drying food.. *Why:* A strong answer uses the test results, then links each roof to each place's rain.
@@ -649,7 +649,7 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 10. (label) Label the parts of a baya weaver's nest: branch, nest room, entrance tube, water below.  
    **Answer:** ['branch', 'nest room', 'entrance tube', 'water below']. *Why:* A strong answer shows the entrance tube at the bottom, which makes it hard for snakes to get in.
 11. (mcq) Laurie Baker's rat-trap bond lays bricks on their edges, with a gap inside the wall. What does the gap do?  
-   Options: Saves bricks and keeps the room cooler / Lets rats live in the wall / Makes the wall heavier  
+   Options: Lets rats live in the wall / Makes the wall heavier / Saves bricks and keeps the room cooler  
    **Answer:** Saves bricks and keeps the room cooler. *Why:* The air gap means fewer bricks are needed, and still air slows heat coming through the wall. The name comes from the shape of the brick pattern, not from rats.
 12. (fill) A frame that keeps its shape when pushed is called ____.  
    **Answer:** ['rigid']. *Why:* Rigid means it does not lean or fold. A triangle is rigid.
@@ -660,7 +660,7 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 15. (match) Match each safety gear to why a builder wears it.  
    **Answer:** Hard helmet → protects the head from falling things; Strong boots → protect the feet from nails and glass; Harness → stops a fall when working high up; Bright jacket → helps truck and crane drivers see the worker. *Why:* Each piece of gear stops one common way of getting hurt.
 16. (mcq) You want a light frame for a balcony tent. Which one will stay up best in the wind?  
-   Options: Four sticks in a square / Sticks in triangles, with a brace on each side / One tall stick in the middle  
+   Options: Four sticks in a square / One tall stick in the middle / Sticks in triangles, with a brace on each side  
    **Answer:** Sticks in triangles, with a brace on each side. *Why:* Triangles and braces stop the frame leaning in a sideways push from the wind. A square can fold, and one stick can tip over.
 17. (write) Your clay house model has no people and no furniture. Name one thing it can show you, and one thing it cannot.  
    **Answer:** It can show where rain runs off a sloping roof, or where windows let in light. It cannot show how many people live inside, or how warm the house is.. *Why:* A strong answer sees that a model shows only one or two ideas and leaves the rest out.
@@ -708,13 +708,13 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
 
 ## Quiz
 1. (mcq) What does a shelter protect us from?  
-   Options: Only from rain / Rain, sun, heat, cold, wind and danger / Only from animals  
+   Options: Rain, sun, heat, cold, wind and danger / Only from rain / Only from animals  
    **Answer:** Rain, sun, heat, cold, wind and danger. *Why:* A shelter protects from all of these. Choosing only one leaves out the others.
 2. (mcq) Which home stands on its own piece of land, with no other home above or below it?  
    Options: A flat in a tall block / An independent house / A houseboat floating on a lake  
    **Answer:** An independent house. *Why:* A flat shares its building with other homes, and a houseboat floats on water. An independent house stands alone on its own land.
 3. (mcq) You push a square frame of card strips sideways. What happens?  
-   Options: It stays square / It leans and folds flat / It becomes a triangle  
+   Options: It leans and folds flat / It stays square / It becomes a triangle  
    **Answer:** It leans and folds flat. *Why:* The square's corners turn like hinges, so it leans. Choosing 'stays square' usually means thinking more strips make it stronger.
 4. (mcq) Why can a triangle frame not lean?  
    Options: It is made of stronger card / To lean, one side would have to change length / It is smaller than a square  
@@ -732,7 +732,7 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
    Options: To see further / So floodwater can flow under the floor / To catch more wind  
    **Answer:** So floodwater can flow under the floor. *Why:* Rivers in Assam flood every year. A raised floor keeps the family and their things dry.
 9. (mcq) Water was poured on a flat tray and on a tray tilted on four books. What happened?  
-   Options: Both dried at the same time / The water ran off the tilted tray fast and stayed on the flat one / The water stayed on the tilted tray  
+   Options: Both dried at the same time / The water stayed on the tilted tray / The water ran off the tilted tray fast and stayed on the flat one  
    **Answer:** The water ran off the tilted tray fast and stayed on the flat one. *Why:* Water flows downhill. The steeper the slope, the faster it runs off.
 10. (mcq) How must roof tiles overlap to keep rain out?  
    Options: Each higher tile lies on top of the tile below / Each lower tile lies on top of the tile above / They should not overlap at all  
@@ -744,13 +744,13 @@ I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of wate
    Options: Climb on the balcony wall to see better / Leave a wet floor to dry by itself / Never climb on balcony walls or grills  
    **Answer:** Never climb on balcony walls or grills. *Why:* Falls from balconies are a real danger. Wet floors should be wiped at once.
 13. (mcq) In an earthquake, why is a heavy roof more dangerous than a light one?  
-   Options: Heavy roofs are pushed harder by the shaking and hurt more if they fall / Heavy roofs let rain in / Heavy roofs are hotter  
+   Options: Heavy roofs let rain in / Heavy roofs are pushed harder by the shaking and hurt more if they fall / Heavy roofs are hotter  
    **Answer:** Heavy roofs are pushed harder by the shaking and hurt more if they fall. *Why:* The shaking pushes heavy things harder, and a falling heavy roof is the main danger. In Kutch in 2001, many bhungas with light roofs stood.
 14. (mcq) A village family plasters a wall with clay, hay and cow dung. Why is this wall a good choice for the village?  
    Options: It is stronger than a concrete wall / Everything comes from near the house, it costs little and it keeps rooms cool / It never needs mending  
    **Answer:** Everything comes from near the house, it costs little and it keeps rooms cool. *Why:* The clay, hay and dung are found nearby, and a thick mud wall heats up slowly. The rain still washes the paint away, so families freshen the wall every year.
 15. (mcq) A small room has no window, and many people sit in it for a long time. What happens?  
-   Options: The air gets stale and stuffy, because no fresh air comes in / The room gets more daylight / The walls become stronger  
+   Options: The room gets more daylight / The air gets stale and stuffy, because no fresh air comes in / The walls become stronger  
    **Answer:** The air gets stale and stuffy, because no fresh air comes in. *Why:* Breath and cooking smoke stay in the room, and nothing brings fresh air in. A window or a gap lets stale air out and fresh air in.
 16. (mcq) Which is one way that building a house can harm the world around it?  
    Options: Baking bricks in a kiln burns wood or coal and makes smoke / Houses make the rain stop / Houses make the Sun dimmer  

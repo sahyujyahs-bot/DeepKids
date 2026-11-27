@@ -369,10 +369,10 @@
       "q": "Which litter will the rain carry furthest?",
       "options": [
        "A pebble",
-       "A plastic bag",
-       "A steel spoon"
+       "A steel spoon",
+       "A plastic bag"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A plastic bag is light and floats, so rainwater carries the bag a long way. A pebble and a spoon are heavy and stay where they are."
      }
     }
@@ -470,11 +470,11 @@
       "t": "mcq",
       "q": "A money plant's soil is dry. What helps?",
       "options": [
-       "Water slowly at the roots",
        "Put the plant in a dark cupboard",
+       "Water slowly at the roots",
        "Pull off the leaves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dry soil means the roots have no water to drink. Watering slowly at the roots lets the water soak in."
      }
     }
@@ -684,11 +684,11 @@
       "t": "mcq",
       "q": "Which of these would stay where it was dropped, in the rain?",
       "options": [
-       "The toffee wrapper",
        "The pebble",
+       "The toffee wrapper",
        "The plastic bag piece"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The pebble is heavy, so the water flowed round it. The wrapper and the plastic are light and float, so the water carried them away."
      }
     },
@@ -859,11 +859,11 @@
       "t": "mcq",
       "q": "How do ants find the way to the sugar?",
       "options": [
-       "They follow a smell trail left by other ants",
        "They read the signs on the wall",
+       "They follow a smell trail left by other ants",
        "The sugar calls them"
       ],
-      "a": 0,
+      "a": 1,
       "why": "An ant who finds food leaves a smell trail. Other ants follow that smell. When we wiped the strip, the smell was gone, so the ants were lost for a while."
      }
     },
@@ -1451,11 +1451,11 @@
    "t": "mcq",
    "p": "After a heavy rain, a street is flooded. What is the most likely reason?",
    "opts": [
-    "Litter is blocking the drain",
     "The road is too clean",
+    "Litter is blocking the drain",
     "The trees drank too little"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Litter carried by the rain piles up on the drain grill. Then the water cannot get away, so it stays on the street.",
    "outcome": 2
   },
@@ -1463,11 +1463,11 @@
    "t": "mcq",
    "p": "Which bin does a banana peel go in?",
    "opts": [
-    "The wet waste bin",
     "The dry waste bin",
-    "Neither, throw it on the road"
+    "Neither, throw it on the road",
+    "The wet waste bin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A banana peel is food waste that rots, so it is wet waste. Wet waste can become compost, which feeds plants.",
    "outcome": 3
   },
@@ -1475,11 +1475,11 @@
    "t": "mcq",
    "p": "Which bin does an empty milk packet go in?",
    "opts": [
-    "The wet waste bin",
     "The dry waste bin",
+    "The wet waste bin",
     "The flower pot"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A milk packet is plastic. Plastic does not rot, so it is dry waste. Rinse the packet first, and it can be recycled.",
    "outcome": 3
   },
@@ -1487,11 +1487,11 @@
    "t": "mcq",
    "p": "You want to know if a chilli plant needs water. What should you do first?",
    "opts": [
-    "Push a finger into the soil to feel if it is dry",
     "Water the plant every hour",
+    "Push a finger into the soil to feel if it is dry",
     "Shake the plant"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The finger test tells you if the soil around the roots is dry or damp. If the soil is dry, water. If the soil is damp, wait, because too much water hurts the roots.",
    "outcome": 4
   },
@@ -1499,11 +1499,11 @@
    "t": "mcq",
    "p": "Why is planting a tree good for the air near your home?",
    "opts": [
-    "Its leaves catch dust and give out the oxygen we breathe",
     "It makes the air hot",
+    "Its leaves catch dust and give out the oxygen we breathe",
     "It gives out more litter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Green leaves catch dust and give out oxygen, so the air feels clean and fresh. A tree also gives shade, so it does not make the air hotter.",
    "outcome": 4
   },
@@ -1523,11 +1523,11 @@
    "t": "mcq",
    "p": "A beetle has walked into the kitchen. What is the kind way to help the beetle?",
    "opts": [
-    "Put a cup over the beetle, slide a card under, and carry the beetle outside",
     "Squash the beetle",
-    "Spray water on the beetle"
+    "Spray water on the beetle",
+    "Put a cup over the beetle, slide a card under, and carry the beetle outside"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The cup and card let you carry the beetle out without hurting any legs. The beetle can then find a better place outside.",
    "outcome": 5
   },
@@ -1535,11 +1535,11 @@
    "t": "mcq",
    "p": "Ants are walking in a line to a spill of sugar. Why are they in a line?",
    "opts": [
-    "They follow a smell trail left by the first ant",
     "Someone painted a line for them",
+    "They follow a smell trail left by the first ant",
     "They are holding hands"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An ant who finds food leaves a smell trail on the way home. Other ants follow the smell, so they walk in a line.",
    "how": "e2",
    "outcome": 5
@@ -1708,22 +1708,22 @@
      "t": "mcq",
      "p": "A brown cow is nosing at a plastic bag with old rice inside. What should a grown-up do?",
      "opts": [
-      "Gently take the bag away and put the rice on a leaf",
       "Leave the bag for the cow",
-      "Shout at the cow"
+      "Shout at the cow",
+      "Gently take the bag away and put the rice on a leaf"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The cow cannot tell the plastic from the rice, and the plastic would stay inside her. Taking the bag away and giving the rice on a leaf feeds her without the plastic."
     },
     {
      "t": "mcq",
      "p": "You go to buy vegetables. What can you take, so you do not need a plastic bag?",
      "opts": [
-      "A cloth bag",
       "Another plastic bag",
-      "Nothing"
+      "Nothing",
+      "A cloth bag"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cloth bag can go to the shop again and again. A plastic bag is used once, and then it can blow into a drain.",
      "how": "a4"
     }
@@ -1867,11 +1867,11 @@
      "t": "mcq",
      "p": "Why does a crow open her beak and pant on a very hot day?",
      "opts": [
-      "To cool down",
       "To sing",
-      "To catch flies"
+      "To catch flies",
+      "To cool down"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Birds cannot sweat like us. Panting moves air over the wet inside of the mouth, which cools the bird down. A shallow plate of water in the shade helps too."
     }
    ]
@@ -1920,11 +1920,11 @@
      "t": "mcq",
      "p": "In the Bathroom Rain Test, a paper cup floated at first. Then it stopped and stuck to the floor. Why?",
      "opts": [
-      "The paper soaked up water and got heavy and soft",
       "The cup got tired",
+      "The paper soaked up water and got heavy and soft",
       "The drain pulled it back"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Paper soaks up water. Wet paper is heavier and goes soft, so the cup sinks onto the floor. Plastic does not soak up water, so it keeps floating.",
      "how": "e1"
     },
@@ -2011,11 +2011,11 @@
      "t": "mcq",
      "p": "A pot has no hole at the bottom. Why is it hard to water that plant well?",
      "opts": [
-      "The extra water cannot get out, so the roots sit in water",
       "The plant gets too little water",
-      "The soil becomes too light"
+      "The soil becomes too light",
+      "The extra water cannot get out, so the roots sit in water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Roots need air as well as water. In a pot with no hole, extra water stays in the soil and fills the spaces where air should be.",
      "how": "a2"
     }

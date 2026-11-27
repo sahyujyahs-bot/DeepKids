@@ -559,11 +559,11 @@
       "t": "mcq",
       "q": "Which chain is in the right order?",
       "options": [
-       "Idli, rice plant, SUN, you running",
        "SUN, rice plant, idli, you running",
+       "Idli, rice plant, SUN, you running",
        "You running, SUN, idli, rice plant"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The Sun's light reaches the rice plant, who stores the Sun's energy in their grains. The grain is made into idli. You eat the idli and use its energy to run. Each step gets its energy from the one before."
      }
     }
@@ -778,11 +778,11 @@
       "t": "mcq",
       "q": "The marble from 80 cm made a wider crater and a louder thud than from 20 cm. Why?",
       "options": [
-       "It was a heavier marble",
        "It landed faster, so it carried more energy",
+       "It was a heavier marble",
        "The atta was softer the second time"
       ],
-      "a": 1,
+      "a": 0,
       "why": "It was the same marble in the same atta. The only change was the height. Dropped from higher, it sped up for longer and landed faster, so it had more movement energy to push the atta aside and make a sound. Picking 'softer atta' is a good thought about a fair test. That is why we smoothed the atta the same way every time."
      },
      "parent": "From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. Do not explain this yet. In the last step of this experiment, ask why the crater was not four times as wide."
@@ -950,11 +950,11 @@
       "t": "mcq",
       "q": "The tumbler in the sunshine got warmer. Where did that energy come from?",
       "options": [
-       "From the steel tumbler itself",
        "From sunlight, which carries energy from the Sun",
+       "From the steel tumbler itself",
        "From the cold water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Sunlight carries energy all the way from the Sun, in about eight minutes. When the light lands on the tumbler and the water, its energy becomes heat. Picking 'the steel tumbler' is a natural guess, because the tumbler feels warm. But the tumbler in the shade did not warm up the same way, so the energy came with the sunshine."
      },
      "parent": "On a sunny day, the water in the sun is usually several degrees warmer after an hour. You can feel it clearly with both fingers in at once. If the two feel the same, the sun was probably weak or moved away. Say so honestly and try again on a clear day."
@@ -1061,10 +1061,10 @@
       "q": "A clock on the wall ticks all day, with no wire to a socket. Where does its energy come from?",
       "options": [
        "From the wall it hangs on",
-       "From a cell inside it",
-       "From the ticking"
+       "From the ticking",
+       "From a cell inside it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A wall clock has a cell, a small battery, inside it. The cell has stored energy, which keeps the hands moving and makes the tick. Picking 'the wall' comes from seeing the clock hang there. But the wall only holds it up."
      }
     }
@@ -1375,10 +1375,10 @@
       "q": "Most entries in the diary came from the wall socket. What does the wall socket really give us?",
       "options": [
        "Energy made inside the wall",
-       "Electricity that carries energy from a power station",
-       "Energy from the wires themselves"
+       "Energy from the wires themselves",
+       "Electricity that carries energy from a power station"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Electricity carries energy along wires from a power station to the socket. The power station got it from coal, gas, wind, sunlight, falling water or uranium. Picking 'made inside the wall' is natural, because that's where it seems to come from. But a wall stores no energy."
      }
     },
@@ -1467,10 +1467,10 @@
       "q": "In one chain, a book falls off a table onto a marble. The finger's push at the start was tiny, but the marble shot off fast. Where did the extra energy come from?",
       "options": [
        "From the marble",
-       "From the falling book, which had stored energy because it was lifted up on the table",
-       "From nowhere, because chains make energy"
+       "From nowhere, because chains make energy",
+       "From the falling book, which had stored energy because it was lifted up on the table"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The book was on the table, so it had stored energy from being high up. When it fell, that energy became movement and passed to the marble. Someone lifted the book onto the table earlier, so the energy came from their arm. A chain never makes energy. It can only pass on energy that was already stored in it."
      }
     }
@@ -1593,12 +1593,12 @@
    "t": "mcq",
    "p": "What is energy?",
    "opts": [
-    "What is needed to make things happen",
     "A kind of food",
+    "What is needed to make things happen",
     "Another word for electricity",
     "A strong push"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Energy is what is needed to make something move, light up, heat up or make a sound. Electricity and food carry energy, but they are not energy itself.",
    "outcome": 0
   },
@@ -1608,10 +1608,10 @@
    "opts": [
     "A fan turning",
     "A lamp shining",
-    "A drawing lying in a drawer",
-    "A bell ringing"
+    "A bell ringing",
+    "A drawing lying in a drawer"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The drawing in the drawer is not moving, lighting up, heating up or making a sound. The others are all energy at work.",
    "outcome": 0
   },
@@ -1619,12 +1619,12 @@
    "t": "mcq",
    "p": "A mixie grinds chutney and hums. Which forms of energy come out of it?",
    "opts": [
-    "Only movement",
     "Movement, sound and a little heat",
+    "Only movement",
     "Only sound",
     "Light and movement"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The blades move, the motor hums and the mixie gets a little warm. One machine often passes energy on in more than one form.",
    "outcome": 1
   },
@@ -1632,12 +1632,12 @@
    "t": "mcq",
    "p": "You are reading in bed with a torch. The torch's energy came from",
    "opts": [
-    "the torch's bulb",
     "the cells inside the torch",
+    "the torch's bulb",
     "the light switch on the wall",
     "your eyes"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The cells hold stored energy. The bulb changes it into light.",
    "outcome": 1
   },
@@ -1646,11 +1646,11 @@
    "p": "Where did the energy in a plate of rice and sambar first come from?",
    "opts": [
     "The stove",
-    "The Sun",
     "The plate",
-    "The shop"
+    "The shop",
+    "The Sun"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Rice and dal plants caught sunlight and stored its energy in their grains. The stove only heated the food.",
    "outcome": 2
   },
@@ -1659,11 +1659,11 @@
    "p": "Wind turbines at Muppandal turn in the wind. What makes the wind blow?",
    "opts": [
     "The turbines",
-    "The Sun warming some places more than others",
     "The sea pushing the air",
-    "The Moon"
+    "The Moon",
+    "The Sun warming some places more than others"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The Sun warms the land and the sea by different amounts. Warm air rises and cooler air moves in. That moving air is the wind.",
    "outcome": 2
   },
@@ -1672,11 +1672,11 @@
    "p": "A marble is dropped into atta from 20 cm and then from 80 cm. Which change made the second crater wider?",
    "opts": [
     "The marble was heavier",
-    "The marble landed faster, with more energy",
     "The atta was different",
+    "The marble landed faster, with more energy",
     "The marble was thrown"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test only the height changes. From higher up, the marble lands faster, with more movement energy, so it digs a wider crater.",
    "outcome": 3,
    "how": "e1"
@@ -1685,12 +1685,12 @@
    "t": "mcq",
    "p": "In the Atta Crater Test, why do we drop the marble 3 times from each height?",
    "opts": [
-    "To make the atta flatter",
     "Because one try can be a fluke",
+    "To make the atta flatter",
     "To make the crater deeper",
     "To tire the marble"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Results change a little each time. Three tries show what usually happens.",
    "outcome": 3,
    "how": "e1"
@@ -1700,11 +1700,11 @@
    "p": "Where did the energy of the falling marble come from?",
    "opts": [
     "From the atta",
-    "From the arm that lifted it up",
     "From the ruler",
+    "From the arm that lifted it up",
     "From nowhere"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Lifting the marble took energy from the arm. That energy was stored in the lifted marble and became movement as it fell.",
    "outcome": 3,
    "how": "e1"
@@ -1714,11 +1714,11 @@
    "p": "A spinning top slows down and stops. What happened to its movement energy?",
    "opts": [
     "It was destroyed",
-    "It passed into the floor and the air as a little warmth",
     "It went back into the hand",
+    "It passed into the floor and the air as a little warmth",
     "It stayed in the top"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Energy is never destroyed. Rubbing on the floor and the air passed it on as a tiny bit of warmth.",
    "outcome": 4
   },
@@ -1727,11 +1727,11 @@
    "p": "Which sentence is true?",
    "opts": [
     "Energy can be made from nothing",
-    "Energy is never made or destroyed, only passed on",
     "Energy is always destroyed in the end",
+    "Energy is never made or destroyed, only passed on",
     "Only living things have energy"
    ],
-   "a": 1,
+   "a": 2,
    "why": "This is the conservation of energy. Every careful measurement agrees with it.",
    "outcome": 4
   },
@@ -1739,12 +1739,12 @@
    "t": "mcq",
    "p": "Willem 's Gravesande, a Dutch scientist, dropped brass balls into soft clay in 1722. A ball that landed twice as fast made a dent",
    "opts": [
+    "about four times as deep",
     "half as deep",
     "twice as deep",
-    "about four times as deep",
     "the same depth"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Twice as fast gave about four times the dent. This showed that a moving thing's energy grows much faster than its speed.",
    "outcome": 5
   },
@@ -1752,12 +1752,12 @@
    "t": "mcq",
    "p": "A brass ball that lands twice as fast makes a dent about four times as deep in soft clay. What does this tell us?",
    "opts": [
-    "A faster ball carries much more energy, not just twice as much",
     "The clay was softer the second time",
+    "A faster ball carries much more energy, not just twice as much",
     "Speed does not change energy",
     "Heavier balls always make smaller dents"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Twice the speed gave four times the dent. So a moving thing's energy grows much faster than its speed: twice the speed means four times the energy.",
    "outcome": 5
   }
@@ -1869,12 +1869,12 @@
      "t": "mcq",
      "p": "A cricket ball is bowled fast, and the same ball is then rolled gently along the floor. Which has more movement energy?",
      "opts": [
-      "The ball bowled fast",
       "The ball rolled gently",
+      "The ball bowled fast",
       "Both have the same",
       "Neither has any"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The faster a thing moves, the more movement energy it has. The two balls are the same, so only the speed makes the difference."
     },
     {
@@ -1969,11 +1969,11 @@
      "t": "mcq",
      "p": "Someone says, 'Electricity is a source of energy, like the Sun.' What is a better way to say it?",
      "opts": [
-      "Electricity carries energy from a power station to our homes",
       "Electricity is made inside the switch",
-      "Electricity is a kind of fuel we burn"
+      "Electricity is a kind of fuel we burn",
+      "Electricity carries energy from a power station to our homes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Electricity carries energy along wires. The energy came from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium."
     }
    ]
@@ -2107,10 +2107,10 @@
      "p": "Two bulbs give the same light. One gets very hot and one stays only a little warm. Which one passes less energy on as heat?",
      "opts": [
       "The one that gets very hot",
-      "The one that stays only a little warm",
-      "Both pass on the same heat"
+      "Both pass on the same heat",
+      "The one that stays only a little warm"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Both make the same light, but the hot one also passes a lot of energy on as heat. The cooler one, usually an LED, turns more of its energy into light. So it needs less electricity for the same light."
     },
     {
@@ -2221,11 +2221,11 @@
      "p": "A marble is dropped from 20 cm. To make it land twice as fast, from what height should it be dropped?",
      "opts": [
       "40 cm",
-      "80 cm",
       "60 cm",
+      "80 cm",
       "20 cm, but throw it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "To land twice as fast, a falling thing must fall from four times the height. 4 times 20 cm is 80 cm. This is because energy grows with speed times speed. Twice the speed needs four times the energy, and four times the energy needs four times the height."
     },
     {
@@ -2363,11 +2363,11 @@
      "p": "You run up four floors of stairs. At the top you feel hot and out of breath. Why do you feel hot?",
      "opts": [
       "The stairs were hot",
-      "Your muscles passed on energy from your food, and much of it came out as heat",
       "Running makes cold air leave your body",
+      "Your muscles passed on energy from your food, and much of it came out as heat",
       "The building's lift was off"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Your muscles used energy from your food to lift you up four floors. Much of that energy came out as heat, as it nearly always does when energy changes form. That is why you feel hot. Picking 'cold air leaves your body' mixes up heat and cold: heat is the energy that moves, not cold."
     },
     {

@@ -546,7 +546,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 ## Worksheets
 ### Ladders, lines and maps (core) (core, 16 questions)
 1. (mcq) Ten foods are lined up by the mass of one katori, with no clear gap in the middle of the ladder. Someone says that heavy foods start at 100 grams. Which statement is true?  
-   Options: The ladder itself shows where the line must go / The line at 100 grams is a choice, and another person could choose another line / The foods decide where the line goes / There is only one correct line  
+   Options: The ladder itself shows where the line must go / The foods decide where the line goes / The line at 100 grams is a choice, and another person could choose another line / There is only one correct line  
    **Answer:** The line at 100 grams is a choice, and another person could choose another line. *Why:* A ladder with no gap gives no sign of where to cut. The cut-off comes from the person who chooses it. Another sensible person could choose 110 grams, and get different groups.
 2. (fill) A number chosen to split a ladder of things into two groups is called a ____.  
    **Answer:** ['cut-off']. *Why:* A cut-off is chosen by the sorter. Things at or above it go in one group, and things below it go in the other.
@@ -562,12 +562,12 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
    Options: Wrongly keeping back good pieces / Both kinds equally / Neither kind / Wrongly letting in pieces that do not belong  
    **Answer:** Wrongly keeping back good pieces. *Why:* A strict sorter holds back every piece she is not sure of. That means she leaves many good pieces behind. She lets in almost no wrong pieces. 'Neither kind' is wrong, because no sorter is perfect when the groups overlap.
 8. (mcq) Look at the table. Which two foods would sit closest together on the map?  
-   Options: Atta and salt / Maida and rice / Rice and toor dal / Salt and poha  
+   Options: Atta and salt / Rice and toor dal / Maida and rice / Salt and poha  
    **Answer:** Rice and toor dal. *Why:* Rice and toor dal have the same mass, 120 grams, and heap heights only 2 millimetres apart. The other pairs differ by a lot in mass or in height or both.
 9. (write) A friend says that the line between heavy foods and light foods is in the foods themselves. Use the idea of a ladder to explain why the line is a choice.  
    **Answer:** A strong answer says that the foods make a ladder with no gap, so nothing in the foods shows where to cut. The line comes from whoever draws it, and a different person can draw another line and make different groups. Only the foods near the line change group. Salt and poha stay put whatever line is chosen.. *Why:* The ladder does not show a gap, so the line must be put there by a person. The foods near the line are the ones whose group depends on the choice.
 10. (mcq) On a star map with colour across and brightness up, where do most stars lie?  
-   Options: Spread evenly all over the map / Only at the top / In a long band from faint and red to bright and blue / In one single dot  
+   Options: Spread evenly all over the map / Only at the top / In one single dot / In a long band from faint and red to bright and blue  
    **Answer:** In a long band from faint and red to bright and blue. *Why:* Most stars fall along a long band called the main sequence. The Sun is on it. A few stars sit above it, the giants, and a few sit below, the white dwarfs. The stars are not spread evenly, which is what makes the families visible.
 11. (label) Here is a map of eight food dots. Label the three marked places with the words clump, gap or outlier.  
    **Answer:** ['The ring round the three dots: clump', 'The empty space between the groups: gap', 'The single dot far away: outlier']. *Why:* A clump is dots lying close together. A gap is the empty space between clumps. An outlier is a dot far from the others.
@@ -581,14 +581,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 15. (truefalse) Two foods in the same clump on one map must be the same kind of food.  
    **Answer:** False. *Why:* False. Two foods in one clump are alike only in the two numbers that were plotted. They can differ in colour, taste and use. On a map made of other numbers, they might land far apart.
 16. (mcq) A plastic bottle has the number 2 inside a triangle of arrows. What does this tell you?  
-   Options: It can be recycled in every town / It is made of one particular family of plastic / It is stronger than a bottle marked 1 / It was made in the year 2  
+   Options: It is made of one particular family of plastic / It can be recycled in every town / It is stronger than a bottle marked 1 / It was made in the year 2  
    **Answer:** It is made of one particular family of plastic. *Why:* The number names the family of plastic, which for 2 is HDPE. It does not say whether your town can recycle it, or how strong it is.
 ### Mistakes and clumps (stretch) (stretch, 17 questions)
 1. (mcq) Two groups of dal overlap in size, so some small pieces of one are as big as some big pieces of the other. What is true of a sorter that uses size alone?  
    Options: A careful enough cut-off sorts them perfectly / Size cannot be used to sort / The mistakes will all be of one kind / No cut-off on size can sort them without some mistakes  
    **Answer:** No cut-off on size can sort them without some mistakes. *Why:* If the groups overlap on a number, any cut-off puts some pieces in the wrong group. A better cut-off only shifts which pieces are wrong. To do better, you need a second number.
 2. (mcq) A sorter is changed from strict to relaxed. What happens to her mistakes?  
-   Options: Both kinds of mistake go down / Both kinds of mistake go up / Nothing changes / Fewer pieces are wrongly kept back, and more are wrongly let through  
+   Options: Both kinds of mistake go down / Both kinds of mistake go up / Fewer pieces are wrongly kept back, and more are wrongly let through / Nothing changes  
    **Answer:** Fewer pieces are wrongly kept back, and more are wrongly let through. *Why:* A relaxed sorter takes everything that might be right. She leaves few good pieces behind, but she lets in more wrong ones. The mistakes are swapped, not removed.
 3. (count) In a relaxed round, 30 pieces are in the toor bowl and 11 of them are chana dal. The mix had 20 toor dal. How many toor dal are in the bowl, and how many toor dal were wrongly kept back?  
    **Answer:** 19 toor dal in the bowl, and 1 wrongly kept back. *Why:* 30 pieces take away the 11 chana dal leaves 19 toor dal in the bowl. 20 toor dal take away 19 leaves 1 toor dal wrongly kept back.
@@ -603,15 +603,15 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 8. (sort) Which of these are lines drawn by people on a number, and which are groups that do not depend on a line? Sort them.  
    **Answer:** A pass mark of 35 out of 100 → A line drawn by people; A college cut-off list → A line drawn by people; An age limit for a ride → A line drawn by people; All atoms of gold being alike → Does not depend on a line; A coin landing heads or tails → Does not depend on a line; A seed sprouting or not sprouting → Does not depend on a line. *Why:* A pass mark, a cut-off list and an age limit are all chosen lines on a number. A coin landing heads or tails and a seed sprouting are two outcomes without any chosen line. All gold atoms are alike whatever we choose to measure.
 9. (mcq) A spice seller wants to find cumin quickly in a dark shop. Which way of sorting suits her best?  
-   Options: No groups at all / Many small groups, one for each spice / One big group, spices / Two big groups, seeds and powders  
+   Options: Many small groups, one for each spice / No groups at all / One big group, spices / Two big groups, seeds and powders  
    **Answer:** Many small groups, one for each spice. *Why:* A fine level lets her go straight to the right jar. A coarse level would leave her searching through many jars. The best level depends on the job.
 10. (mcq) A Danish astronomer noticed that among red stars, some were extremely bright and others very faint. What did this suggest?  
-   Options: Stars of the same colour can be very different in brightness, so there are different kinds of stars / The bright stars are nearer / All red stars are the same / Colour does not matter  
+   Options: The bright stars are nearer / All red stars are the same / Stars of the same colour can be very different in brightness, so there are different kinds of stars / Colour does not matter  
    **Answer:** Stars of the same colour can be very different in brightness, so there are different kinds of stars. *Why:* Same colour but very different brightness meant that colour alone did not sort the stars into kinds. The stars fell into families that needed two numbers to see.
 11. (order) Put these steps in the order that finds families in a pile of things.  
    **Answer:** order shown. *Why:* First you measure. Then you plot. Then you notice a pattern. Only then can you ask what causes it.
 12. (mcq) A recycling plant puts chopped plastic in a tank of water. Some pieces float and some sink. What is the plant doing?  
-   Options: Dissolving the plastic / Sorting by a property that differs between plastics, how heavy they are for their size / Sorting by colour / Washing the plastic  
+   Options: Sorting by a property that differs between plastics, how heavy they are for their size / Dissolving the plastic / Sorting by colour / Washing the plastic  
    **Answer:** Sorting by a property that differs between plastics, how heavy they are for their size. *Why:* Different plastics have different densities, so some float and some sink. The plant uses this difference as a rule, which is cheap and works on huge piles.
 13. (draw) Invent five foods and two numbers for each. Draw a map of the five dots, label the axes, and ring any clump you find.  
    **Answer:** A map with two labelled axes, five dots each with a food name, and a ring round any dots that sit close together. The numbers must be plausible for the foods.. *Why:* This checks that the child can make a map from two numbers and can spot a clump.
@@ -622,7 +622,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 16. (truefalse) In 1936, Ronald Fisher studied four measurements of 150 iris flowers. One kind separated cleanly, but two kinds overlapped. So no cut-off on those four numbers could sort the two overlapping kinds without some mistakes.  
    **Answer:** True. *Why:* True. When two groups overlap on every number you have measured, mistakes are unavoidable. Only a new measurement might separate them.
 17. (mcq) Look at the chart. It shows made-up results from the Strict or Relaxed test. What does it suggest?  
-   Options: The two rounds were exactly the same / Moving from strict to relaxed swapped one kind of mistake for the other / The relaxed round made no mistakes / The strict round made more mistakes of both kinds  
+   Options: The two rounds were exactly the same / The relaxed round made no mistakes / Moving from strict to relaxed swapped one kind of mistake for the other / The strict round made more mistakes of both kinds  
    **Answer:** Moving from strict to relaxed swapped one kind of mistake for the other. *Why:* In the strict round, 11 pieces were wrongly kept back and none wrongly let through. In the relaxed round, 1 was wrongly kept back and 11 were wrongly let through. The mistakes swapped.
 ### Who draws the line? (challenge) (challenge, 16 questions)
 1. (mcq) A mill's strict setting throws out 30 good grains in every 1000 and lets 0 stones through. Its loose setting throws out 2 good grains and lets 1 stone through. A stone costs 10 points and a thrown-out grain costs 1 point. Which setting costs less?  
@@ -633,14 +633,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 3. (perspective) Three scientists talk about the groups we find in nature.  
    **Answer:** A strong answer may take either side or the middle, and gives a reason from the unit, such as the gap in the star map, the dependence of clumps on the numbers plotted, or the pass mark as a chosen line. It then admits a fair point from another person.. *Why:* Some groups are likely real and some are made by us. Which is which depends on whether the group stays when we change what we measure.
 4. (mcq) A computer system sorts photographs of people. A researcher wants to know if it is fair. What is the best thing to do?  
-   Options: Count the mistakes for everybody together / Count both kinds of mistake separately for each group of people / Ask the computer if it is fair / Test it on one photograph  
+   Options: Count the mistakes for everybody together / Ask the computer if it is fair / Test it on one photograph / Count both kinds of mistake separately for each group of people  
    **Answer:** Count both kinds of mistake separately for each group of people. *Why:* An overall count can hide a large difference between groups. Counting both kinds of mistake for each group is how researchers found uneven mistakes in face-sorting systems.
 5. (count) On the Katori Map, flour is at 80 grams and 48 millimetres high, and maida is at 80 grams and 51 millimetres high. How many millimetres higher is the maida heap than the flour heap?  
    **Answer:** 3 millimetres. *Why:* Both are at 80 grams, so they are in the same place across. 51 take away 48 is 3. So maida is 3 millimetres higher, and the two dots sit very close together.
 6. (order) A ladder of foods by katori mass has these masses in grams: 60, 80, 80, 95, 100, 105, 120, 120, 128 and 180. Put these cut-offs in order from the one that makes the most foods heavy to the one that makes the fewest: 70, 100, 125, 150.  
    **Answer:** order shown. *Why:* A low cut-off puts many foods above it. At 70, nine foods are heavy. At 100, six are heavy. At 125, two are heavy. At 150, only the 180 gram food is heavy.
 7. (mcq) Which is the better way to judge two sorters?  
-   Options: Pick the one that looks neater / Count both kinds of mistake for each, and ask which kind costs more / Pick the one that is faster / Pick the one with the lower total of mistakes, whatever they are  
+   Options: Pick the one that looks neater / Pick the one that is faster / Pick the one with the lower total of mistakes, whatever they are / Count both kinds of mistake for each, and ask which kind costs more  
    **Answer:** Count both kinds of mistake for each, and ask which kind costs more. *Why:* Two sorters can make the same total of mistakes and still differ a great deal, because one kind of mistake can cost far more. Counting both kinds and weighing their cost is the fair way to judge.
 8. (match) Match each situation to the kind of mistake it shows.  
    **Answer:** A stone in a bag of rice → Wrongly let through; A good grain in the reject bin → Wrongly kept back; A smoke alarm that rings for toast → Wrongly let through; A smoke alarm that stays silent in a real fire → Wrongly kept back. *Why:* A thing that does not belong but gets in is wrongly let through, like toast treated as fire. A thing that does belong but is held out is wrongly kept back, like a real fire that gets no alarm.
@@ -649,19 +649,19 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 10. (write) Give an example from your own life of a sort where moving the cut-off would swap mistakes. Say which mistake would cost more, and why.  
    **Answer:** A strong answer names a real sort, such as a smoke alarm, a school entry age, a lift weight limit or a test for illness. It says which mistake a stricter or a looser cut-off would increase, and gives a reason why one costs more, for example because a missed fire is worse than toast.. *Why:* Every sort with a cut-off swaps one kind of mistake for the other. Deciding which is worse is a choice about costs.
 11. (mcq) A student looks at a map with two clumps and a wide gap, and says that the gap proves nature has two kinds. What is the best reply?  
-   Options: The student is right, because gaps always show real groups / The gap is a mistake / The gap belongs to these two numbers, so try another pair of numbers for the same things / Maps cannot show gaps  
+   Options: The student is right, because gaps always show real groups / The gap is a mistake / Maps cannot show gaps / The gap belongs to these two numbers, so try another pair of numbers for the same things  
    **Answer:** The gap belongs to these two numbers, so try another pair of numbers for the same things. *Why:* A gap on a map is a fact about the numbers plotted. A different pair of numbers might fill it in, or show a different gap. Checking with other numbers tells you whether the group still holds.
 12. (draw) Draw a seesaw. Label one end wrongly kept back and the other wrongly let through. Show a hand moving a cut-off marker underneath, and what happens to the seesaw.  
    **Answer:** A seesaw with the two kinds of mistake on the two ends, a cut-off marker under it, and the seesaw tipped one way. Moving the marker tips the seesaw the other way. One kind goes down and the other goes up.. *Why:* A picture of the trade-off helps you remember that moving the cut-off swaps the mistakes.
 13. (mcq) Why do astronomers draw a map of stars rather than just writing a list?  
-   Options: A map is more colourful / Stars are easier to draw than to write / A list is too long / A map can show families that a list hides  
+   Options: A map is more colourful / A map can show families that a list hides / Stars are easier to draw than to write / A list is too long  
    **Answer:** A map can show families that a list hides. *Why:* A list of numbers does not show that the stars gather in a band, with giants above it and white dwarfs below it. A map does. Families are visible only when two numbers are put side by side.
 14. (fill) A small handful taken from a big sack to find out what the whole sack is like is called a ____.  
    **Answer:** ['sample']. *Why:* A sample lets you judge a big heap without checking every grain. A bigger sample gives a better guess but takes longer.
 15. (truefalse) Two groups overlap on the number a sorter measures. If she is very slow and careful, she will make no mistakes.  
    **Answer:** False. *Why:* False. If the groups overlap, no cut-off can separate them. Care changes which mistakes are made, but cannot remove them. Only a new measurement can.
 16. (mcq) Two groups overlap on every number you can measure. What is the best you can do?  
-   Options: Ask for a perfect sorter / Accept some mistakes, and set the cut-off by which kind of mistake costs more / Make the cut-off exact / Refuse to sort  
+   Options: Ask for a perfect sorter / Make the cut-off exact / Accept some mistakes, and set the cut-off by which kind of mistake costs more / Refuse to sort  
    **Answer:** Accept some mistakes, and set the cut-off by which kind of mistake costs more. *Why:* When the groups overlap on everything you can measure, mistakes cannot be avoided. The cut-off then decides which kind you accept, and the right choice depends on which kind costs more.
 
 ## Videos
@@ -671,28 +671,28 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 
 ## Quiz
 1. (mcq) What is a cut-off?  
-   Options: A tool for cutting paper / A number you choose to split a ladder into two groups / A kind of mistake / A gap that nature puts in a ladder  
+   Options: A number you choose to split a ladder into two groups / A tool for cutting paper / A kind of mistake / A gap that nature puts in a ladder  
    **Answer:** A number you choose to split a ladder into two groups. *Why:* A cut-off is chosen by the person who sorts. It is not found in the things. Another person can choose another cut-off and make other groups.
 2. (mcq) When a cut-off moves, which things change group?  
-   Options: Only the things at the ends / Every thing on the ladder / None of them / Only the things close to the cut-off  
+   Options: Only the things close to the cut-off / Only the things at the ends / Every thing on the ladder / None of them  
    **Answer:** Only the things close to the cut-off. *Why:* Things far from the cut-off stay in the same group whatever sensible cut-off you pick. Only the borderline ones move.
 3. (mcq) What can a map of two numbers show that a ladder of one number cannot?  
-   Options: Which thing is heaviest / The names of the things / Clumps and gaps / Nothing extra  
+   Options: Which thing is heaviest / Clumps and gaps / The names of the things / Nothing extra  
    **Answer:** Clumps and gaps. *Why:* A ladder puts things in a line, so it can show order. A map spreads things across two directions, so dots can gather into clumps and leave gaps.
 4. (mcq) A map of ten foods shows two clumps with a gap. A map of the same foods by two other numbers shows no gap. What does this tell you?  
-   Options: One of the maps is wrong / The gap belonged to the first pair of numbers / The foods changed / Gaps are never real  
+   Options: One of the maps is wrong / The foods changed / The gap belonged to the first pair of numbers / Gaps are never real  
    **Answer:** The gap belonged to the first pair of numbers. *Why:* A gap is a fact about the numbers plotted as well as about the things. A different pair of numbers can fill it in. Neither map is wrong.
 5. (mcq) A strict sorter takes only the pieces she is sure of. Which kind of mistake does she make more of?  
-   Options: Wrongly keeping back good pieces / Neither / Both kinds equally / Wrongly letting in bad pieces  
+   Options: Neither / Both kinds equally / Wrongly keeping back good pieces / Wrongly letting in bad pieces  
    **Answer:** Wrongly keeping back good pieces. *Why:* A strict sorter holds back all the pieces she is not sure of, so many good ones are left behind. She lets in few wrong ones.
 6. (mcq) Two groups of seeds overlap in size. Why can no cut-off on size sort them without mistakes?  
-   Options: Seeds change size / The cut-off is too high / Seeds cannot be measured / Some seeds in one group are the same size as some in the other  
+   Options: Seeds change size / Some seeds in one group are the same size as some in the other / The cut-off is too high / Seeds cannot be measured  
    **Answer:** Some seeds in one group are the same size as some in the other. *Why:* If the sizes overlap, any cut-off puts some seeds on the wrong side. Only a second measurement, such as weight or colour, can help.
 7. (mcq) One shop sorts its spices into seeds and powders. Another shop sorts them into mustard, cumin, fennel and so on. What is the second shop doing?  
-   Options: Making mistakes / Using no rule / Splitting into finer levels / Lumping into fewer groups  
+   Options: Making mistakes / Using no rule / Lumping into fewer groups / Splitting into finer levels  
    **Answer:** Splitting into finer levels. *Why:* A shop that makes many small groups is splitting. A shop that makes a few big groups is lumping. Both can be useful.
 8. (mcq) On a star map, where do most stars lie?  
-   Options: All in one dot / Only in the corners / In a long band called the main sequence / Spread evenly  
+   Options: In a long band called the main sequence / All in one dot / Only in the corners / Spread evenly  
    **Answer:** In a long band called the main sequence. *Why:* Stars gather in a long band, with a few giants above and a few white dwarfs below. That pattern is what showed that stars come in families.
 9. (truefalse) The number 7 in the triangle on plastic means other, a box for plastics that do not fit the first six.  
    **Answer:** True. *Why:* True. The codes 1 to 6 name particular families of plastic, and 7 is for the rest. Many different plastics are lumped together under 7.
@@ -700,7 +700,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
    Options: Ask the computer / Count both kinds of mistake separately for each group / Look at one photograph / Count mistakes for everybody together  
    **Answer:** Count both kinds of mistake separately for each group. *Why:* An overall count can hide differences between groups. Counting each group separately is how uneven mistakes were found in face-sorting systems.
 11. (mcq) Which job can a computer do that a person with a ruler and paper cannot easily do?  
-   Options: Decide what the clumps mean / Choose which numbers matter / Make a cut-off that is right for everyone / Find clumps among hundreds of numbers at once  
+   Options: Decide what the clumps mean / Find clumps among hundreds of numbers at once / Choose which numbers matter / Make a cut-off that is right for everyone  
    **Answer:** Find clumps among hundreds of numbers at once. *Why:* A person can draw a map of two numbers. A computer can look for clumps among hundreds. But people still choose the numbers and decide what the clumps mean.
 12. (fill) Putting things in order by a number gives a ____.  
    **Answer:** ['ladder']. *Why:* A ladder lines things up from the smallest to the biggest number. A cut-off then splits it into groups.

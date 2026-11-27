@@ -655,10 +655,10 @@
       "q": "A card says: 'I live in water and I am always in danger of drying out.' Who is it?",
       "options": [
        "A pond fish",
-       "A bony sea fish",
-       "A frog"
+       "A frog",
+       "A bony sea fish"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A bony sea fish is less salty than the sea, so water leaves her by osmosis all day. A pond fish has the opposite problem, with water coming in. This is a moment in the game, and a wrong guess simply means hearing the next clue."
      }
     },
@@ -993,11 +993,11 @@
       "t": "mcq",
       "q": "Nobody squeezed the cucumber slices. What moved the water out of their cells?",
       "options": [
-       "The salt soaked it up like a sponge",
        "Water moved towards the saltier side",
+       "The salt soaked it up like a sponge",
        "The salt melted the cucumber"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The salt made the outside of the cells much saltier than the inside. Water passes through a cell membrane towards the side with more dissolved in it. Choosing 'soaked up' may mean picturing salt as a dry sponge. But the salt itself dissolved, and the water ended up as liquid in the bowl."
      }
     }
@@ -1141,10 +1141,10 @@
       "q": "Why does a small desert animal lose less water in a closed burrow?",
       "options": [
        "The burrow has a hidden pool",
-       "The air there is cooler and damper",
-       "She stops breathing while she rests"
+       "She stops breathing while she rests",
+       "The air there is cooler and damper"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Water evaporates slowly into cool, damp air. The air in a closed burrow is damp because the animal's own breath has added water vapour to it. Choosing 'a hidden pool' may mean thinking a desert animal must find water. Many of them survive by losing very little."
      }
     }
@@ -1388,11 +1388,11 @@
       "t": "mcq",
       "q": "A limp, salted cucumber slice is put in plain water. Which way does water move?",
       "options": [
-       "Into the cells",
        "Out of the cells",
+       "Into the cells",
        "It does not move"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The inside of the cells now has more dissolved in it than the plain water outside. Water moves towards the side with more dissolved in it, so it goes in. Choosing 'out' may mean thinking salt always pulls water out. The direction depends on which side is saltier at that moment."
      }
     }
@@ -1469,11 +1469,11 @@
       "t": "mcq",
       "q": "How does a cool nose save water for a desert animal?",
       "options": [
-       "It stops her from breathing out",
        "Vapour in her breath turns to liquid there",
+       "It stops her from breathing out",
        "It makes new water from air"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Warm breath carries water vapour. When it passes over the cool walls of the nose, some vapour turns back into liquid and stays in the body. Choosing 'makes new water' mixes this up with metabolic water, which is made in the cells from food."
      }
     }
@@ -1553,10 +1553,10 @@
       "q": "Why does ORS have sugar in it?",
       "options": [
        "To make it taste nice",
-       "It helps the gut take in salt",
-       "To give the patient energy"
+       "To give the patient energy",
+       "It helps the gut take in salt"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A carrier in the gut wall takes in sodium only together with glucose. Water then follows the sodium by osmosis. Choosing 'taste' or 'energy' is sensible, but the amount of sugar is set by what the carrier needs."
      }
     }
@@ -1776,11 +1776,11 @@
       "t": "mcq",
       "q": "A shell-less egg is put in thick sugar syrup for a day. What happens?",
       "options": [
-       "It swells, as water moves in",
        "It shrinks, as water moves out",
+       "It swells, as water moves in",
        "It stays the same size"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The syrup has far more dissolved in it than the egg has. Water moves towards the side with more dissolved in it, so it leaves the egg. Choosing 'swells' may mean thinking that an egg soaks up any liquid around it. Osmosis depends on what is dissolved on each side, and sugar works just as salt does."
      }
     }
@@ -2038,11 +2038,11 @@
      "t": "mcq",
      "p": "Why does a mackerel drink sea water all day?",
      "opts": [
-      "She loses water through her gills by osmosis",
       "She likes the taste of salt",
-      "Her food is very dry"
+      "Her food is very dry",
+      "She loses water through her gills by osmosis"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A bony sea fish is less salty than the sea. Water leaves her by osmosis, so she drinks to replace it and pumps the salt out at her gills.",
      "outcome": 4
     },
@@ -2145,11 +2145,11 @@
      "t": "mcq",
      "p": "A sailor drinks one litre of sea water. How much water does her body have afterwards?",
      "opts": [
+      "Less than before",
       "One litre more",
-      "The same as before",
-      "Less than before"
+      "The same as before"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Her kidneys need about one and three quarter litres of urine to send out the salt in one litre of sea water. She ends up with less.",
      "outcome": 1
     },
@@ -2179,11 +2179,11 @@
      "t": "mcq",
      "p": "What is metabolic water?",
      "opts": [
-      "Water an animal stores in fat",
       "New water that cells make from food",
+      "Water an animal stores in fat",
       "Water that enters through the skin"
      ],
-     "a": 1,
+     "a": 0,
      "why": "When cells use food for energy, the hydrogen in the food joins with oxygen and forms new water.",
      "outcome": 5
     }
@@ -2199,11 +2199,11 @@
      "t": "mcq",
      "p": "What is the job of the loop of Henle?",
      "opts": [
-      "To filter the blood",
       "To make the deep kidney very salty",
+      "To filter the blood",
       "To store urine"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The loop pumps salt into the deep part of the kidney. That salty zone later draws water out of the urine by osmosis.",
      "outcome": 2
     },
@@ -2241,11 +2241,11 @@
      "t": "mcq",
      "p": "More ADH reaches the kidneys. What happens to the urine?",
      "opts": [
-      "There is more of it, and it is paler",
       "There is less of it, and it is stronger",
+      "There is more of it, and it is paler",
       "Nothing changes"
      ],
-     "a": 1,
+     "a": 0,
      "why": "ADH makes the collecting ducts open more water doors. More water returns to the blood, so less urine leaves and it is stronger.",
      "outcome": 2
     },
@@ -2336,10 +2336,10 @@
      "p": "Sea water has 35 grams of salt a litre. Strong urine holds 20. How much urine removes one litre's salt?",
      "opts": [
       "About half a litre",
-      "Exactly one litre",
-      "About one and three quarter litres"
+      "About one and three quarter litres",
+      "Exactly one litre"
      ],
-     "a": 2,
+     "a": 1,
      "why": "35 divided by 20 is 1.75. The body must pass more water than the sea water brought in.",
      "outcome": 1
     },
@@ -2434,10 +2434,10 @@
      "p": "In the Burrow Test, why did the covered plate lose the least water?",
      "opts": [
       "The cover kept light out",
-      "The air under it became damp",
-      "The cover pressed the water down"
+      "The cover pressed the water down",
+      "The air under it became damp"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The trapped air soon held as much water vapour as it could, so evaporation almost stopped. A closed burrow works the same way.",
      "outcome": 5,
      "how": "e2"
@@ -2472,10 +2472,10 @@
      "p": "Why does shark meat smell of ammonia when it is not fresh?",
      "opts": [
       "Sharks eat rotten food",
-      "Bacteria turn the urea in it into ammonia",
-      "Sea water has ammonia in it"
+      "Sea water has ammonia in it",
+      "Bacteria turn the urea in it into ammonia"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A shark keeps a lot of urea in her blood and flesh. After death, bacteria break the urea down into ammonia.",
      "outcome": 3
     },
@@ -2556,11 +2556,11 @@
      "t": "mcq",
      "p": "Thick cucumber slices are salted in one bowl and thin slices in another. Why is this not a fair test of salt?",
      "opts": [
-      "Two things were changed at once",
       "Thick slices have no water",
-      "Cucumber cannot be tested"
+      "Cucumber cannot be tested",
+      "Two things were changed at once"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Thin slices have more cut surface for the same weight. If the bowls differ, nobody can tell whether the salt or the thickness caused it.",
      "outcome": 6,
      "how": "e1"
@@ -2683,11 +2683,11 @@
    "t": "mcq",
    "p": "A dry raisin left in a tumbler of water swells. Why?",
    "opts": [
-    "Water moves into the sugary raisin",
     "Sugar moves out and leaves a gap",
-    "The raisin is breathing in"
+    "The raisin is breathing in",
+    "Water moves into the sugary raisin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The inside of a raisin has a lot of sugar dissolved in very little water. Water moves in by osmosis.",
    "outcome": 0
   },
@@ -2695,11 +2695,11 @@
    "t": "mcq",
    "p": "Why does drinking sea water leave a person with less water?",
    "opts": [
-    "Sea water is too cold",
     "Removing its salt takes more water than it gives",
+    "Sea water is too cold",
     "The stomach cannot hold it"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sea water is saltier than the strongest human urine. The kidneys must use more than a litre of water to send out the salt from one litre.",
    "outcome": 1
   },
@@ -2719,11 +2719,11 @@
    "t": "mcq",
    "p": "Which part of a kidney tube makes the deep kidney very salty?",
    "opts": [
-    "The filter at the start",
     "The loop of Henle",
+    "The filter at the start",
     "The bladder"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The loop of Henle pumps salt out into the deep part of the kidney. That salty zone draws water out of the urine.",
    "outcome": 2
   },
@@ -2756,10 +2756,10 @@
    "p": "Which is true of a fish living in a river?",
    "opts": [
     "She drinks all day",
-    "She passes a lot of weak urine",
-    "She pumps salt out at her gills"
+    "She pumps salt out at her gills",
+    "She passes a lot of weak urine"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Water enters a river fish by osmosis, so she sends it out as plenty of weak urine. She hardly drinks, and her gills pump salt in.",
    "outcome": 4
   },
@@ -2767,11 +2767,11 @@
    "t": "mcq",
    "p": "A sea fish is put into a bucket of tap water. What happens to her?",
    "opts": [
-    "Water moves into her body",
     "Water moves out of her body",
+    "Water moves into her body",
     "Nothing changes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "She is saltier than tap water, so water moves in by osmosis. Her gills are set to pump salt out, which now makes things worse.",
    "outcome": 4
   },
@@ -2791,11 +2791,11 @@
    "t": "mcq",
    "p": "In the Salted Cucumber Test, why did one bowl get no salt at all?",
    "opts": [
-    "To save salt",
     "To show what cutting alone does",
+    "To save salt",
     "To have something to eat"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The no-salt bowl is cut and tossed like the others. Whatever liquid it gives is not caused by salt, so the other bowls can be compared with it.",
    "outcome": 6,
    "how": "e1"
@@ -2804,11 +2804,11 @@
    "t": "mcq",
    "p": "A rehydration drink is made with salt but no sugar. What goes wrong?",
    "opts": [
-    "The gut takes in less salt and water",
     "The drink becomes poisonous",
+    "The gut takes in less salt and water",
     "Nothing: it works just as well"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The carrier in the gut wall takes in sodium together with glucose. Without sugar, less sodium enters, and less water follows it.",
    "outcome": 7
   },
@@ -2828,11 +2828,11 @@
    "t": "mcq",
    "p": "Ravi has loose motions and has not stopped feeling sick all day. Which sign tells you he may be dehydrated?",
    "opts": [
-    "He is very thirsty, his mouth is dry and his urine is dark and very little",
     "He is hungry and wants a snack",
-    "His hands are warm"
+    "His hands are warm",
+    "He is very thirsty, his mouth is dry and his urine is dark and very little"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A dehydrated body has lost more water than it has taken in. The mouth feels dry, thirst is strong and the urine is dark yellow and little. Hunger and warm hands do not show a lack of water.",
    "outcome": 7
   },
@@ -2840,11 +2840,11 @@
    "t": "mcq",
    "p": "Why does a person who drinks very little water often pass hard, dry stool?",
    "opts": [
-    "The gut takes water back from the stool when the body is short of water",
     "Water makes the stool harder",
+    "The gut takes water back from the stool when the body is short of water",
     "The kidneys put extra water into the stool"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The last part of the gut takes water back from the stool. When the body has little water, it takes more, so the stool is hard and dry.",
    "outcome": 2
   }

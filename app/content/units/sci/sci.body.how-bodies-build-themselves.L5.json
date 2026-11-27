@@ -650,11 +650,11 @@
       "t": "mcq",
       "q": "A fruit fly with one Hox gene switched off grows four wings. What does that show about the Hox gene?",
       "options": [
-       "It carries the full plan for a wing",
        "It tells a segment which part to build",
+       "It carries the full plan for a wing",
        "It makes all body parts bigger"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The extra wings are normal wings in the wrong segment. So the Hox gene did not hold the wing plan. It told the third segment 'you are not the wing segment'. Without it, the segment built what the segment in front builds."
      },
      "context": "This is the last step of the Address Game. Here you compare the finished creatures and say what a Hox switch does."
@@ -1009,10 +1009,10 @@
       "q": "In the Curling Strip Test, strips of spring onion curled in plain water. What made them curl?",
       "options": [
        "The water pushed the strips into a curl",
-       "The cells on one face swelled more than those on the other",
-       "The strips were trying to become a leaf tube again"
+       "The strips were trying to become a leaf tube again",
+       "The cells on one face swelled more than those on the other"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A strip curls when one face becomes longer than the other. The soft inner cells took in water and swelled, and the tough outer skin did not. Choosing 'the water pushed' misses that still water pushes equally on all sides. The salt water was still too, and those strips did not curl."
      },
      "context": "This is the last step of the Curling Strip Test. Here you explain your results and work out which face of the strip got longer."
@@ -1196,11 +1196,11 @@
       "t": "mcq",
       "q": "In the Nail Clock, the painted line moved away from the skin over four weeks. What does that show?",
       "options": [
-       "The paint slid along the nail",
        "New nail is made at the base and pushes the old nail forward",
+       "The paint slid along the nail",
        "The whole nail stretches like rubber"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The bare nail below the line is new. Cells at the base of the nail divided and pushed the older nail forward. If the nail stretched, the line would get wider. If the paint slid, it would smear."
      },
      "context": "This is the last step of the Nail Clock. Here you take the final measurements, draw the graph and say what the moving line shows."
@@ -1283,11 +1283,11 @@
       "t": "mcq",
       "q": "The groove under your nose and the line on the roof of your mouth both run down the middle. What made them?",
       "options": [
-       "Pieces of the face grew from the sides and joined there",
        "The skin was folded there to save space",
-       "They are marks from being born"
+       "They are marks from being born",
+       "Pieces of the face grew from the sides and joined there"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The face and the roof of the mouth form from pieces that grow in from the sides and join in the middle. The lines mark the joins. They are there long before birth, so birth did not make them."
      },
      "context": "This is the last step of Seams in the Mirror. Here you draw the lines you found and say what they have in common."
@@ -1389,10 +1389,10 @@
       "q": "The sides of a flat, three-layered embryo fold down until they meet. Which layer ends up lining the tube inside?",
       "options": [
        "The ectoderm, the outer layer",
-       "The mesoderm, the middle layer",
-       "The endoderm, the inner layer"
+       "The endoderm, the inner layer",
+       "The mesoderm, the middle layer"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The endoderm is on the underside of the flat embryo. When the sides fold down and under, it is rolled up inside and lines the gut tube. The ectoderm ends up covering the outside."
      },
      "context": "This is the last step of Fold a Body from Three Sheets. Here you name the layers on the cut face and say how the model differs from a real embryo."
@@ -1467,11 +1467,11 @@
       "t": "mcq",
       "q": "Which two body parts came from the same germ layer?",
       "options": [
-       "Brain and fingernail",
        "Brain and heart",
-       "Stomach lining and bone"
+       "Stomach lining and bone",
+       "Brain and fingernail"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The brain and the nails both come from the ectoderm, the outer layer. The heart and bones come from the mesoderm, and the stomach lining from the endoderm. Choosing 'brain and heart' groups parts by how important they feel, not by where their cells began."
      },
      "context": "This is the last step of Body Map. Here you compare the map with your guess, and colour one organ made by all three layers."
@@ -1888,11 +1888,11 @@
       "t": "mcq",
       "q": "The lining of your food tube is the inside of you. Where was that sheet of cells in the flat embryo?",
       "options": [
-       "On the underside of the flat disc",
        "In the middle layer of the disc",
-       "It grew later, from the mouth inwards"
+       "It grew later, from the mouth inwards",
+       "On the underside of the flat disc"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The endoderm was the bottom face of the flat embryo. When the sides folded down and met, that face was rolled up inside. So the lining of your gut began as an outside surface."
      },
      "context": "This is the last step of the One-Sheet Body. Here you build your own design and find where the sheet joined."
@@ -1976,10 +1976,10 @@
       "q": "A row of coins followed only neighbour rules, and a head, a middle and a tail appeared. Where was the pattern stored?",
       "options": [
        "In a drawing that the coins copied",
-       "In no single place: it came from the rules being followed",
-       "In the first coin"
+       "In the first coin",
+       "In no single place: it came from the rules being followed"
       ],
-      "a": 1,
+      "a": 2,
       "why": "No rule described the whole pattern, and no coin held a picture of it. The pattern appeared when every coin followed the same small rules with different signals reaching them. Bodies are built in this way."
      },
      "context": "This is the last step of the Rule, Not the Drawing. Here you write final rules, then remove a coin to see whether the pattern still forms."
@@ -2104,12 +2104,12 @@
      "t": "mcq",
      "p": "In the Curling Strip Test, which strips of spring onion curled the most?",
      "opts": [
-      "The ones in plain water",
       "The ones in salt water",
       "The dry ones",
-      "All curled equally"
+      "All curled equally",
+      "The ones in plain water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In plain water the soft cells on one face take in water and swell, so that face becomes longer and the strip curls. Check this against your own table.",
      "how": "e1",
      "outcome": 2
@@ -2188,10 +2188,10 @@
      "opts": [
       "Extra salt",
       "Vitamin D only",
-      "Folic acid",
-      "Antibiotics"
+      "Antibiotics",
+      "Folic acid"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Folate, a B vitamin, is needed in the first four weeks, when the neural tube closes. Tablets of folic acid lower the risk of a gap in the spine.",
      "outcome": 0
     }
@@ -2369,12 +2369,12 @@
      "t": "mcq",
      "p": "A mouse's Pax6 gene is switched on in a fly's wing. What grows there?",
      "opts": [
+      "A fly's eye",
       "A mouse's eye",
       "A second wing",
-      "Nothing",
-      "A fly's eye"
+      "Nothing"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Pax6 only says 'build an eye here'. The fly's own cells and genes do the building, so the eye is a fly's eye.",
      "outcome": 5
     },
@@ -2465,11 +2465,11 @@
      "p": "Tadpoles given extra vitamin A grew legs where a cut tail had been. What had changed?",
      "opts": [
       "The tadpoles' DNA letters",
-      "The address that the stump cells read",
       "The number of cells in the tail",
+      "The address that the stump cells read",
       "The water temperature"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Retinoic acid, made from vitamin A, is one of the signals for position. Too much of it reset the cells' address, so they built a different part. Their DNA stayed the same.",
      "outcome": 6
     },
@@ -2665,11 +2665,11 @@
    "p": "Which germ layer makes the brain and the nerves?",
    "opts": [
     "The mesoderm, the middle layer",
-    "The endoderm, the inner layer",
     "The ectoderm, the outer layer",
+    "The endoderm, the inner layer",
     "None: the brain forms separately"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The brain begins as a strip of the outer layer that rolls into a tube. Choosing the middle layer may come from thinking of the brain as being deep inside.",
    "outcome": 1
   },
@@ -2677,12 +2677,12 @@
    "t": "mcq",
    "p": "Which pair both come from the mesoderm?",
    "opts": [
-    "Skin and liver",
     "Bone and blood",
+    "Skin and liver",
     "Brain and nails",
     "Lungs and nerves"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The middle layer makes bones, muscles, the heart and blood. Brain and nails are ectoderm. The liver and the lining of the lungs are endoderm.",
    "outcome": 1
   },
@@ -2690,12 +2690,12 @@
    "t": "mcq",
    "p": "A flat strip of cells bends by itself. What must have happened?",
    "opts": [
-    "One face became longer than the other",
     "Something outside pushed it",
     "The strip dried evenly",
-    "All its cells grew equally"
+    "All its cells grew equally",
+    "One face became longer than the other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A strip curls only when its two faces become different in length. Equal growth makes a strip longer but leaves it flat.",
    "how": "e1",
    "outcome": 2
@@ -2726,11 +2726,11 @@
    "p": "What is the best description of a Hox gene?",
    "opts": [
     "The full plan for a leg",
-    "A gene found only in flies",
     "A switch that marks a place along the body",
+    "A gene found only in flies",
     "A gene that makes cells divide"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A Hox gene tells cells where along the body they are, and so which part to build. The plans for the part itself are in many other genes.",
    "outcome": 4
   },
@@ -2738,12 +2738,12 @@
    "t": "mcq",
    "p": "A fly grows legs where the antennae should be. What went wrong?",
    "opts": [
-    "The fly ate the wrong food",
     "A Hox switch was on in the wrong place",
+    "The fly ate the wrong food",
     "The leg genes were missing",
     "The antennae fell off"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The legs are normal, so the leg genes work. A Hox gene that should be off in the head was on there, and gave the cells the wrong address.",
    "outcome": 4
   },
@@ -2751,12 +2751,12 @@
    "t": "mcq",
    "p": "Flies and humans use the same family of Hox genes. What is the best explanation?",
    "opts": [
-    "Both got them from an ancestor they share",
     "Humans got them from eating flies",
+    "Both got them from an ancestor they share",
     "It is a coincidence",
     "All genes are the same in all animals"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The genes match in their DNA letters and in their order on the chromosome. The simplest explanation is that both animals inherited them from one ancestor, long ago.",
    "outcome": 5
   },
@@ -2764,12 +2764,12 @@
    "t": "mcq",
    "p": "An axolotl cut at the elbow regrows a forearm and hand, not a whole arm. Why?",
    "opts": [
+    "The stump cells remember where they are",
     "She runs out of energy",
     "The other arm tells her when to stop",
-    "The cut seals the stump",
-    "The stump cells remember where they are"
+    "The cut seals the stump"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The cells at the cut keep a record of their place along the arm, so they build only what lies beyond it. This is called positional memory.",
    "outcome": 6
   },
@@ -2777,12 +2777,12 @@
    "t": "mcq",
    "p": "Scientists disagree about why humans cannot regrow a hand. Which is one of their ideas?",
    "opts": [
+    "Fast scarring blocks the regrowing signals",
     "Humans have no stem cells",
     "Human DNA has no building genes",
-    "Fast scarring blocks the regrowing signals",
     "Hands are too heavy"
    ],
-   "a": 2,
+   "a": 0,
    "why": "One idea is that mammals close wounds fast with a scar, and scar tissue blocks the signals a blastema needs. Humans do have stem cells and nearly all the genes an axolotl uses.",
    "outcome": 7
   }

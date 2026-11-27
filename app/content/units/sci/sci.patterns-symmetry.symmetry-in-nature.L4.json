@@ -1158,11 +1158,11 @@
       "t": "mcq",
       "q": "You push a flat strip evenly from both ends and it bows towards the dot 8 times out of 10. What is the most likely reason?",
       "options": [
-       "The strip has a tiny hidden curve that favours that side",
        "Your push was much stronger at one end",
-       "Strips always bend towards the dot"
+       "Strips always bend towards the dot",
+       "The strip has a tiny hidden curve that favours that side"
       ],
-      "a": 0,
+      "a": 2,
       "why": "An even push leaves both sides equally possible, so something tiny must decide. A hidden curve fits best. A much stronger push at one end would not make the same bend each time. Strips do not know where the dot is."
      },
      "context": "In this step, you say what you found and why an even push gave a lopsided result."
@@ -1248,11 +1248,11 @@
       "t": "mcq",
       "q": "A border has the same F again and again, all facing the same way, each one further along. Which move made it?",
       "options": [
-       "A slide",
        "A flip",
-       "A half turn"
+       "A half turn",
+       "A slide"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When every copy is the same way up and facing the same way, it was slid along. A flip would turn some copies the other way round, and a half turn would turn some upside down."
      },
      "context": "In this step, you make the first two borders: a slide border and a flip across."
@@ -1545,11 +1545,11 @@
       "t": "mcq",
       "q": "A flat shape looks reversed when you see it from the back. What does that tell you?",
       "options": [
-       "It has no line of symmetry, so it is handed",
        "It is a bad shape",
+       "It has no line of symmetry, so it is handed",
        "It is too thin"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If a shape has a line of symmetry, its back view looks just the same. If its back view looks reversed, no fold line matches its halves, and the shape is handed."
      },
      "context": "In this step, you test letters from the back to find which ones are handed."
@@ -1701,11 +1701,11 @@
       "t": "mcq",
       "q": "Why does the curvy tile leave no gaps when you slide it?",
       "options": [
-       "Every bump you cut off was added back as a matching bump on the opposite side",
        "Curvy shapes always tile",
+       "Every bump you cut off was added back as a matching bump on the opposite side",
        "The paper stretches"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The piece cut from one side was moved to the opposite side without changing its shape. So each dent matches a bump of the neighbouring tile, and nothing is missing. Not every curvy shape would work this way."
      },
      "context": "In this step, you cover the sheet with copies of the tile."
@@ -1855,11 +1855,11 @@
       "t": "mcq",
       "q": "A flounder has both eyes on the same side of the head. What does this give her?",
       "options": [
-       "A flat body that rests on the sea floor and still sees upwards",
        "More food",
+       "A flat body that rests on the sea floor and still sees upwards",
        "A faster swim"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A flounder lies on one side on the sea floor. If the eyes stayed on both sides, one eye would look into the sand. Moving both eyes to the upper side lets her see all round while she hides."
      },
      "context": "This is day 4 of the Symmetry Notebook. You find useful lopsidedness."
@@ -2036,10 +2036,10 @@
      "opts": [
       "A square",
       "A triangle with three equal sides",
-      "A rectangle that is not a square",
-      "A circle"
+      "A circle",
+      "A rectangle that is not a square"
      ],
-     "a": 3,
+     "a": 2,
      "why": "A circle fits back after any turn, and after a flip across any line through its centre. That is endless. The square has 8, the equal-sided triangle 6 and the rectangle 4.",
      "outcome": 1
     },
@@ -2135,11 +2135,11 @@
      "p": "How many different kinds of border pattern are there?",
      "opts": [
       "3",
-      "7",
       "17",
-      "Endless"
+      "Endless",
+      "7"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Mathematicians have proved there are exactly 7 kinds of border pattern, however clever the design. There are 17 kinds for covering a floor.",
      "outcome": 2
     },
@@ -2194,12 +2194,12 @@
      "t": "mcq",
      "p": "A left glove will never fit your right hand, however you turn it. Why?",
      "opts": [
-      "The glove and your right hand are mirror twins, and no turning changes a thing into its mirror twin",
       "Left gloves are smaller",
+      "The glove and your right hand are mirror twins, and no turning changes a thing into its mirror twin",
       "Gloves shrink when turned",
       "Hands are all different sizes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A left glove is the mirror twin of a right glove. Turning only moves a thing round in space and cannot reverse its handedness. To change it, you need a flip, which is not possible for a real glove.",
      "outcome": 3
     },
@@ -2262,12 +2262,12 @@
      "t": "mcq",
      "p": "A cobalt experiment in 1957 counted electrons thrown out in two directions. More came out one way. What does this show?",
      "opts": [
-      "The weak force behaves differently in a mirror world",
       "All forces are the same in a mirror",
+      "The weak force behaves differently in a mirror world",
       "Cobalt atoms are handed like gloves",
       "Electrons are left-handed gloves"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If the weak force were the same in a mirror, equal numbers would come out both ways. Because the counts differed, a mirror version of the experiment would give a different result.",
      "outcome": 6
     },
@@ -2446,12 +2446,12 @@
      "t": "mcq",
      "p": "A baby flounder swims upright with an eye on each side. Later one eye moves to the other side of the head. What does this show?",
      "opts": [
-      "A body can begin even and become lopsided as it grows",
       "Flounders are born by mistake",
+      "A body can begin even and become lopsided as it grows",
       "All fish eventually have both eyes on one side",
       "Eyes are the only lopsided part of the body"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The baby starts out even and the adult is lopsided in a useful way. This is a body breaking its own symmetry as it grows, not a mistake.",
      "outcome": 5
     }
@@ -2509,12 +2509,12 @@
      "t": "mcq",
      "p": "Which pair of moves, done one after the other, gives a half turn?",
      "opts": [
-      "A flip across one line, then a flip across a line at right angles to it",
       "Two slides in the same direction",
+      "A flip across one line, then a flip across a line at right angles to it",
       "A slide, then a glide",
       "A flip across a line, then a slide"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Two flips across lines that cross at a right angle make a half turn about the point where the lines cross. You can check it with a cut-out F.",
      "outcome": 0
     },
@@ -2673,12 +2673,12 @@
    "t": "mcq",
    "p": "Which move flips a shape over a line, like looking in a mirror?",
    "opts": [
-    "Reflection",
     "Translation",
+    "Reflection",
     "Rotation",
     "Stretching"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A reflection is a flip over a line. A translation is a slide and a rotation is a turn. Stretching changes the size, so it is not a symmetry.",
    "outcome": 0
   },
@@ -2686,12 +2686,12 @@
    "t": "mcq",
    "p": "A saree border shows the same mango again and again, all pointing the same way, with each one further along. Which move makes this border?",
    "opts": [
-    "A slide",
     "A flip",
     "A half turn",
+    "A slide",
     "A glide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When every copy faces the same way and each is moved along the border, the move is a slide. A flip or a half turn would make some copies face the other way.",
    "outcome": 0
   },
@@ -2713,11 +2713,11 @@
    "p": "Which of these fits back into its outline in only one way?",
    "opts": [
     "A square",
-    "The outline of a hand",
     "A triangle with three equal sides",
-    "A rectangle"
+    "A rectangle",
+    "The outline of a hand"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A hand has no turn and no flip that fits, so only the do-nothing move works. The square has 8 ways, the equal-sided triangle 6 and the rectangle 4.",
    "outcome": 1
   },
@@ -2725,12 +2725,12 @@
    "t": "mcq",
    "p": "A border has an F, then an upside-down mirror F slid along, then an F, then an upside-down mirror F, and so on. Which move made it?",
    "opts": [
-    "A glide",
     "A slide only",
     "A half turn",
-    "A stretch"
+    "A stretch",
+    "A glide"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Each new F is a flip over a line along the border and a slide, done together. That is a glide.",
    "outcome": 2
   },
@@ -2751,12 +2751,12 @@
    "t": "mcq",
    "p": "A tall pencil balanced on its tip falls over, though nobody pushes it. What is the best description of what happened?",
    "opts": [
-    "An even start ended lopsided, and a tiny difference decided the direction",
     "The pencil chose where to fall",
     "Gravity pulled it left",
+    "An even start ended lopsided, and a tiny difference decided the direction",
     "All pencils are lopsided"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Before the fall, every direction was equally likely. A tiny draught, a speck or a wobble in the wood decided the direction. Scientists call this symmetry breaking.",
    "outcome": 4
   },
@@ -2764,12 +2764,12 @@
    "t": "mcq",
    "p": "A card strip is pushed equally from both ends and bows to the same side 10 times out of 10. What does this most likely mean?",
    "opts": [
-    "The strip has a hidden tiny curve that favours that side",
     "The push was perfectly even and strips always do this",
     "The table is tilted",
+    "The strip has a hidden tiny curve that favours that side",
     "The card is too thick"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An even push leaves both sides open, so something small must favour one side. A hidden curve in the card fits best. You can test it by turning the strip over.",
    "outcome": 4
   },
@@ -2790,12 +2790,12 @@
    "t": "mcq",
    "p": "Most people have the heart on the left although the body looks even outside. What do scientists think helps start this difference?",
    "opts": [
-    "Tiny spinning hairs in the early embryo sweep fluid to one side",
     "The mother's favourite hand",
+    "Tiny spinning hairs in the early embryo sweep fluid to one side",
     "What the baby eats first",
     "The pull of the Moon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In mouse embryos, tiny hairs called cilia spin and sweep fluid to one side, which starts a chain of signals. Scientists think humans work in a similar way, but they are still studying it.",
    "outcome": 5
   },
@@ -2816,12 +2816,12 @@
    "t": "mcq",
    "p": "What did the cobalt experiment led by Chien-Shiung Wu show?",
    "opts": [
-    "The weak force is not the same in a mirror",
     "Magnets are handed",
     "Cobalt is a crystal",
+    "The weak force is not the same in a mirror",
     "Energy is lost"
    ],
-   "a": 0,
+   "a": 2,
    "why": "More electrons came out in one direction than the other. So a mirror copy of the experiment would give a different result, and the weak force can tell left from right.",
    "outcome": 6
   }

@@ -614,7 +614,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: So the used water travels far away / So the sponge can swim / So fish are frightened off  
    **Answer:** So the used water travels far away. *Why:* A strong jet carries the used water away, so the sponge does not pull the same water in again. A sponge stays fixed in one place and does not swim.
 7. (mcq) What sets off a stinging cell?  
-   Options: A touch on the cell's trigger / An order from a brain / Bright sunlight  
+   Options: An order from a brain / A touch on the cell's trigger / Bright sunlight  
    **Answer:** A touch on the cell's trigger. *Why:* Each stinging cell fires by itself when the trigger is touched. No order comes from a brain or from anywhere else, and even a tentacle washed up on a beach can still sting.
 8. (truefalse) A coral is a rock that small animals live on.  
    **Answer:** False. *Why:* False. The coral is the animals. Each polyp builds a cup of limestone under their body, and the cups of many polyps make the rock.
@@ -625,7 +625,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
 11. (count) In Way 1, three tries took 26, 31 and 17 seconds. What is the total?  
    **Answer:** 74. *Why:* 26 and 31 make 57, and 17 more make 74 seconds. Adding the three tries gives one number for each way, so the ways are easy to compare.
 12. (mcq) In the Boss or Hand test, why is the coin moved before every try?  
-   Options: So remembering the last place does not help / So the hand gets tired / So the boss cannot see the coin  
+   Options: So the hand gets tired / So the boss cannot see the coin / So remembering the last place does not help  
    **Answer:** So remembering the last place does not help. *Why:* If the coin stayed put, the hand could go straight back to it from memory. Then you would be testing memory, and not the three ways of sharing the work.
 13. (write) An octopus arm in a dark crack finds a crab that her eyes cannot see. Explain how.  
    **Answer:** The suckers sense touch and also the chemicals of the crab. The arm's own nerve cord works out the grip and the bends. The brain only needs to send the arm to the crack.. *Why:* A strong answer names the suckers' sensing and the arm's own nerve cord, and gives the brain a smaller job.
@@ -635,15 +635,15 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    **Answer:** Answers vary. A strong answer picks a side with a reason, and names something to test, such as whether an arm can learn something that the other arms then know.. *Why:* Both views accept the same experiments. They differ on what should count as a mind.
 ### Body Plans and Blue Blood (stretch) (stretch, 15 questions)
 1. (mcq) A cuttlefish is grouped with snails. Why?  
-   Options: Both have a mantle, a radula and a soft body / Both live in water / Both move slowly  
+   Options: Both live in water / Both have a mantle, a radula and a soft body / Both move slowly  
    **Answer:** Both have a mantle, a radula and a soft body. *Why:* Groups follow the body plan. A cuttlefish has a mantle, a radula and a soft body with no segments, as a snail has. Many land snails do not live in water, and a cuttlefish is fast.
 2. (mcq) Which of these animals is your closest relative?  
-   Options: A starfish / A crab / An octopus  
+   Options: A crab / An octopus / A starfish  
    **Answer:** A starfish. *Why:* Echinoderms are on the same big branch of the family tree as animals with backbones. Crabs and octopuses are on another branch. Looks do not show this, but the growing egg and the DNA do.
 3. (truefalse) Every echinoderm lives in the sea.  
    **Answer:** True. *Why:* True. Their tube feet are filled with sea water, and no echinoderm lives in fresh water or on land.
 4. (mcq) Why do arthropods have so many kinds of tools on one body?  
-   Options: Limbs on each segment can change shape and job / They are the oldest animals / They have the biggest brains  
+   Options: They are the oldest animals / They have the biggest brains / Limbs on each segment can change shape and job  
    **Answer:** Limbs on each segment can change shape and job. *Why:* An arthropod's body is a row of segments, each with a pair of limbs. Over time, limbs on different segments became jaws, feelers, claws, legs and paddles.
 5. (fill) A starfish's tube foot stretches out when ____ is pushed into it.  
    **Answer:** ['water']. *Why:* Muscles squeeze a small bulb, and the water in it is pushed into the tube foot. Water cannot be squashed smaller, so the foot must lengthen.
@@ -672,7 +672,7 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: One heart pushes it through gills and body in a row / A fish's heart is very weak / A fish has no blood tubes  
    **Answer:** One heart pushes it through gills and body in a row. *Why:* A fish has one pump. The blood loses most of its push in the fine tubes of the gills, and then has to travel on round the body with what is left.
 2. (mcq) Which part of your body does the job of an octopus's gill hearts?  
-   Options: The right half of the heart / The left half of the heart / The lungs  
+   Options: The left half of the heart / The right half of the heart / The lungs  
    **Answer:** The right half of the heart. *Why:* The right half of your heart pumps blood to the lungs to pick up oxygen. The left half pumps it to the body, as the octopus's main heart does.
 3. (mcq) On a small plate, the hand alone beat 'aim only'. What is the best explanation?  
    Options: A small plate is quick to search without help / The boss gave a wrong aim on purpose / The hand could see the coin  
@@ -712,25 +712,25 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: Arthropods / Molluscs / Echinoderms  
    **Answer:** Arthropods. *Why:* Jointed legs and an outer skeleton mark the arthropods. If you chose molluscs, remember that a snail's shell is a house the body sits in, and a mollusc has no jointed legs.
 2. (mcq) Which of these animals is a mollusc?  
-   Options: A squid / A starfish / A barnacle  
+   Options: A starfish / A barnacle / A squid  
    **Answer:** A squid. *Why:* A squid has a mantle and a soft body with no segments. A starfish is an echinoderm. A barnacle looks like a shellfish but has jointed legs inside, so the barnacle is an arthropod.
 3. (mcq) How does a sponge get food?  
-   Options: By pulling water through pores and filtering / By catching prey with tentacles / By making food from sunlight  
+   Options: By catching prey with tentacles / By making food from sunlight / By pulling water through pores and filtering  
    **Answer:** By pulling water through pores and filtering. *Why:* Collar cells beat their threads, pull water through the body and catch bacteria. Tentacles belong to cnidarians. Making food from sunlight is what plants and algae do, and it is why people once took sponges for plants.
 4. (mcq) Why does a sponge count as an animal?  
-   Options: Many cells, eats living things, makes eggs and sperm / Moving from place to place / Having a small brain  
+   Options: Moving from place to place / Having a small brain / Many cells, eats living things, makes eggs and sperm  
    **Answer:** Many cells, eats living things, makes eggs and sperm. *Why:* A sponge is built of many cells, feeds on bacteria and other living specks, and makes eggs and sperm. An adult sponge stays in one place and has no nerve cells at all, so moving and brains are not what makes an animal.
 5. (mcq) What happens when reef corals turn white in a sea that stays too hot?  
-   Options: The tiny algae inside them are lost / Their limestone melts / Fish eat the coloured parts  
+   Options: Their limestone melts / Fish eat the coloured parts / The tiny algae inside them are lost  
    **Answer:** The tiny algae inside them are lost. *Why:* The algae living in the coral's cells give much of the colour and most of the food. In long heat the partnership breaks down and the algae go. Limestone does not melt in warm water.
 6. (mcq) Which parts does an octopus share with a garden snail?  
-   Options: A mantle and a radula / A shell and feelers / Jointed legs and a hard skeleton  
+   Options: A shell and feelers / A mantle and a radula / Jointed legs and a hard skeleton  
    **Answer:** A mantle and a radula. *Why:* Both are molluscs, with a mantle over the body and a toothed ribbon in the mouth. The octopus's ancestors lost the shell. Jointed legs belong to arthropods.
 7. (mcq) What pushes a starfish's tube foot out?  
    Options: Water squeezed into it / A small bone inside it / Air blown into it  
    **Answer:** Water squeezed into it. *Why:* Muscles squeeze a bulb of water, and the water stretches the foot. Echinoderms have no bones in the tube feet, and they live under water, where there is no air to blow.
 8. (mcq) What do an octopus's two gill hearts do?  
-   Options: Push blood through the gills / Push blood into the arms / Store spare blood  
+   Options: Push blood into the arms / Push blood through the gills / Store spare blood  
    **Answer:** Push blood through the gills. *Why:* Each gill heart pushes blood through the fine tubes of one gill. The main heart then sends the blood round the whole body, arms included.
 9. (truefalse) The same amount of octopus blood carries more oxygen than human blood.  
    **Answer:** False. *Why:* False. Octopus blood carries several times less. That is one reason she needs a strong main heart to keep it moving.
@@ -738,10 +738,10 @@ Paatti looked at her for a while. 'And what did she charge for the lesson?'
    Options: In her eight arms / In the brain in her head / In her mantle  
    **Answer:** In her eight arms. *Why:* About two thirds are in the nerve cords of the arms. If you chose the brain, that is true of a human, and it is the habit this lesson asks you to question.
 11. (mcq) In the Boss or Hand test, why is ordering every move slow?  
-   Options: Each order takes time, and the boss is not touching / The hand gets tired of listening / The coin is too heavy  
+   Options: The hand gets tired of listening / Each order takes time, and the boss is not touching / The coin is too heavy  
    **Answer:** Each order takes time, and the boss is not touching. *Why:* Words are slow, many orders are needed for one small act, and the boss does not know what the fingers are touching. Giving only the aim lets the hand use what it feels.
 12. (mcq) Which animal has a nerve net and no brain?  
-   Options: A sea anemone / An ant / An octopus  
+   Options: An ant / An octopus / A sea anemone  
    **Answer:** A sea anemone. *Why:* Cnidarians such as sea anemones and jellyfish have nerve cells spread as a net. An ant and an octopus both have brains.
 
 ## Applications

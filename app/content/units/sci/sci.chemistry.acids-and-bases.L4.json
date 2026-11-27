@@ -993,11 +993,11 @@
       "t": "mcq",
       "q": "Cup 1 holds 1 teaspoon of colour water and 9 teaspoons of plain water. How does cup 1 compare with cup 0?",
       "options": [
-       "Its colour is 10 times weaker",
        "Its colour is 9 times weaker",
+       "Its colour is 10 times weaker",
        "Its colour is 2 times weaker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One spoon of coloured water is mixed into ten spoons in all, so the colour is spread over ten times as much water. The colour is ten times weaker."
      },
      "context": "In this step you make the ladder by moving one spoon from each cup to the next."
@@ -1022,11 +1022,11 @@
       "t": "mcq",
       "q": "Suppose cup 5 looks like plain water. Is the dye gone?",
       "options": [
-       "No. It is only too little to see, about 1 part in 100,000",
        "Yes. It has vanished",
-       "Yes. It has turned into water"
+       "Yes. It has turned into water",
+       "No. It is only too little to see, about 1 part in 100,000"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Nothing is lost when you dilute a colour, which means adding water to make it weaker. The dye is still there, spread through the water. We just cannot see so little of it. A thing can be there even when there is too little of it to see."
      },
      "context": "In this step you look at the cups and rate how dark each colour is."
@@ -1604,11 +1604,11 @@
       "t": "mcq",
       "q": "The bare shell fizzes at once. Why is it the control?",
       "options": [
-       "It shows what happens with no coat, so we can compare the coats with it",
        "It is the best coat",
+       "It shows what happens with no coat, so we can compare the coats with it",
        "It is the cheapest coat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A control is the test with nothing changed. It shows the starting result, so we can tell how much each coat helped."
      },
      "context": "In this step you drop each shell in vinegar and watch which coat protects best."
@@ -1705,11 +1705,11 @@
      "t": "mcq",
      "p": "On the pH scale, each step down means:",
      "opts": [
-      "ten times as many hydrogen ions",
       "one more hydrogen ion",
-      "the same number of hydrogen ions but a sourer taste"
+      "the same number of hydrogen ions but a sourer taste",
+      "ten times as many hydrogen ions"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The pH scale goes up and down in tenfold steps. A drop of one number means ten times as many hydrogen ions. Adding one more ion each time would be like the equal steps on a ruler, and the pH scale does not work like a ruler.",
      "outcome": 1
     },
@@ -1761,11 +1761,11 @@
      "t": "mcq",
      "p": "What does an antacid do?",
      "opts": [
-      "It uses up some of the acid with a base",
       "It stops the stomach making acid for a day",
+      "It uses up some of the acid with a base",
       "It adds acid to wash the food pipe"
      ],
-     "a": 0,
+     "a": 1,
      "why": "An antacid is a base. It reacts with the acid already in the stomach and uses it up. It does not stop the stomach making more, which is why the relief wears off.",
      "outcome": 4
     },
@@ -1840,11 +1840,11 @@
      "t": "mcq",
      "p": "One drink reads pH 4 and another reads pH 6. Which statement is right?",
      "opts": [
-      "The pH 4 drink has 100 times as many hydrogen ions",
       "The pH 6 drink has 100 times as many hydrogen ions",
-      "They differ by only 2 hydrogen ions"
+      "They differ by only 2 hydrogen ions",
+      "The pH 4 drink has 100 times as many hydrogen ions"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A lower pH means more hydrogen ions, and two steps down is ten times ten, which is 100. The numbers differ by 2, but the amounts differ by 100 times.",
      "outcome": 1
     },
@@ -1852,11 +1852,11 @@
      "t": "mcq",
      "p": "Why does pepsin stop working in the small intestine?",
      "opts": [
-      "The pH there is near neutral, and pepsin works best in strong acid",
       "The small intestine has no protein",
+      "The pH there is near neutral, and pepsin works best in strong acid",
       "Pepsin is washed away by water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each enzyme works best at its own pH. Pepsin works best at pH 2, and it stops near pH 7. The body neutralises the acid with bicarbonate after the stomach, so that the intestine's own enzymes can work.",
      "outcome": 5
     },
@@ -1938,11 +1938,11 @@
      },
      "how": "e1",
      "opts": [
-      "Salt, because it reached the limit of 8 scoops without matching the target",
       "Cooking soda, because it needed the fewest scoops",
-      "Eggshell, because it needed the same as cooking soda"
+      "Eggshell, because it needed the same as cooking soda",
+      "Salt, because it reached the limit of 8 scoops without matching the target"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A powder that reaches the limit without matching the target did not use up the acid. Salt is not a base, so this is what we expect. The other powders matched in 3 or 4 scoops.",
      "outcome": 4
     },
@@ -2049,11 +2049,11 @@
      "t": "mcq",
      "p": "Why does Helicobacter pylori make ammonia?",
      "opts": [
-      "To make a base around herself that protects her from acid",
       "To eat the stomach wall",
-      "To make the stomach more acidic"
+      "To make the stomach more acidic",
+      "To make a base around herself that protects her from acid"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Ammonia is a base. The bacterium breaks down urea into ammonia, and the ammonia makes a little cloud of neutral liquid around her. It protects her from the acid.",
      "outcome": 6
     },
@@ -2194,11 +2194,11 @@
      "t": "mcq",
      "p": "Why should cabbage water not be used alone to decide if a liquid is safe to drink?",
      "opts": [
-      "The colour is only a rough guide and says nothing about whether a liquid is harmful",
       "Cabbage water is always purple",
-      "Cabbage water only works on fruit"
+      "Cabbage water only works on fruit",
+      "The colour is only a rough guide and says nothing about whether a liquid is harmful"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An indicator tells only about the pH, and only roughly. Many harmful liquids have a pH near 7. Never taste or drink something because of its colour.",
      "outcome": 2
     },
@@ -2277,11 +2277,11 @@
    "t": "mcq",
    "p": "What does pH measure?",
    "opts": [
-    "How many free hydrogen ions a watery liquid holds",
     "How hot a liquid is",
+    "How many free hydrogen ions a watery liquid holds",
     "How thick a liquid is"
    ],
-   "a": 0,
+   "a": 1,
    "why": "pH counts the free hydrogen ions in a watery liquid. A low pH means many, and a high pH means few. It does not measure heat or thickness.",
    "outcome": 0
   },
@@ -2313,11 +2313,11 @@
    "t": "mcq",
    "p": "Which of these gives the most exact reading of pH?",
    "opts": [
-    "A pH meter",
     "Cabbage water",
+    "A pH meter",
     "Tasting the liquid"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pH meter reads to a hundredth of a step. Cabbage water gives only a rough colour. Tasting is never safe, because many strong acids and bases burn.",
    "outcome": 2
   },
@@ -2337,11 +2337,11 @@
    "t": "mcq",
    "p": "What is heartburn?",
    "opts": [
-    "Acid splashing up into the food pipe, which has no mucus shield",
     "A pain in the heart muscle",
-    "Food that is too hot"
+    "Food that is too hot",
+    "Acid splashing up into the food pipe, which has no mucus shield"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Heartburn happens in the food pipe, not the heart. The food pipe has no mucus shield, so stomach acid burns it.",
    "outcome": 3
   },
@@ -2349,11 +2349,11 @@
    "t": "mcq",
    "p": "Which of these is NOT an antacid?",
    "opts": [
-    "Table salt",
     "Cooking soda",
+    "Table salt",
     "Magnesium hydroxide"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An antacid must be a base. Cooking soda and magnesium hydroxide are bases. Table salt is neutral, and it did nothing in the Antacid Showdown.",
    "outcome": 4
   },
@@ -2373,11 +2373,11 @@
    "t": "mcq",
    "p": "Blood stays near pH 7.4 while the stomach is at pH 2. What does this show?",
    "opts": [
-    "Different parts of the body are held at different pH for their jobs",
     "The body made a mistake",
+    "Different parts of the body are held at different pH for their jobs",
     "Blood is more acidic than the stomach"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each part of the body needs its own pH. The stomach's acid does a digesting job, and the blood's narrow range keeps cells working.",
    "outcome": 5
   },
@@ -2385,11 +2385,11 @@
    "t": "mcq",
    "p": "Doctors believed no bacterium could live in stomach acid. Which finding showed they were wrong?",
    "opts": [
-    "Helicobacter pylori was found living in the stomach, and antibiotics cured ulcers",
     "Antacids cured every ulcer",
-    "Taking away spicy food made every ulcer vanish"
+    "Taking away spicy food made every ulcer vanish",
+    "Helicobacter pylori was found living in the stomach, and antibiotics cured ulcers"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bacterium was found living in the stomach, and killing it with antibiotics cured ulcers for good. Antacids and plain food changes did not.",
    "outcome": 6
   },

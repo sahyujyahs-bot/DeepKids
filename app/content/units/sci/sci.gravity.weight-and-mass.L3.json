@@ -937,11 +937,11 @@
       "t": "mcq",
       "q": "You reached space, 400 kilometres up, where the space station flies. Is the Earth's gravity still pulling you?",
       "options": [
-       "Yes, almost as strongly as on the ground",
        "No, there is no gravity in space",
-       "Only a tiny bit, about one hundredth"
+       "Only a tiny bit, about one hundredth",
+       "Yes, almost as strongly as on the ground"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The winner has to know this. At the height of the space station, gravity is still about 90 out of every 100 parts as strong as on the ground. Astronauts float because they are falling together with their station. Picking 'no gravity in space' is the most common mix-up of all, because astronauts float."
      }
     },
@@ -1106,11 +1106,11 @@
       "t": "mcq",
       "q": "Which pulls you harder when you stand on it, the Moon or the Earth?",
       "options": [
-       "The Earth",
        "The Moon",
-       "They pull the same"
+       "They pull the same",
+       "The Earth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In this round, the Earth wins. It has much more mass than the Moon, so it pulls much harder. On the Moon you weigh about one sixth as much, so you can bounce very high. Picking 'the same' usually means thinking gravity is one fixed thing everywhere. It changes with the mass of the world."
      }
     },
@@ -1237,11 +1237,11 @@
       "t": "mcq",
       "q": "100 grams of rice reads about 1 newton. About what will 500 grams read?",
       "options": [
-       "5 newtons",
        "500 newtons",
-       "1 newton, the same"
+       "1 newton, the same",
+       "5 newtons"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Every 100 grams adds about 1 newton. 500 grams is 5 lots of 100 grams, so it weighs about 5 newtons. Picking 500 newtons usually means grams and newtons are being read as the same unit. They measure different things: grams measure mass, newtons measure force. Picking 1 newton usually means thinking the pull stays the same however much rice there is."
      }
     },
@@ -1403,11 +1403,11 @@
       "t": "mcq",
       "q": "The stone read 3 newtons in the air and 2 newtons under the water. Why?",
       "options": [
-       "The water pushes up on the stone, so the spring holds less",
        "The stone got smaller in the water",
-       "Gravity is weaker under water"
+       "Gravity is weaker under water",
+       "The water pushes up on the stone, so the spring holds less"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The water pushes up on the stone. That push is called upthrust. Now the spring and the water share the job of holding the stone, so the spring holds less. The Earth still pulls the stone just as hard. Picking 'gravity is weaker under water' is a very common idea, because things feel light in water. But the lightness comes from the water's push."
      },
      "parent": "A potato works too, and gives an even bigger drop. That is because a potato is only a little heavier than the same amount of water."
@@ -1775,11 +1775,11 @@
       "t": "mcq",
       "q": "While the leaking bottle falls, the squirting stops. Why?",
       "options": [
-       "The water and the bottle fall together, so the water stops pressing on the bottle",
        "Gravity stops while things fall",
-       "The holes close up"
+       "The holes close up",
+       "The water and the bottle fall together, so the water stops pressing on the bottle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "While it falls, the water and the bottle fall together at the same speed. The water no longer presses down on the bottom of the bottle, so it stops squeezing out of the holes. Gravity is still pulling both of them. That is why they are falling! Picking 'gravity stops' is a natural guess. But a falling thing is falling because gravity pulls it."
      },
      "parent": "The cap must be off, or air cannot get in and the water only dribbles. Let go cleanly, without throwing or spinning the bottle. The fall lasts less than a second, so watch the holes, not the bottle. A slow-motion film shows it best."
@@ -1899,11 +1899,11 @@
       "t": "mcq",
       "q": "When a grown-up catches you as you lean back, what stops you falling?",
       "options": [
-       "Their hands push up on you, against gravity",
        "Gravity switches off",
+       "Their hands push up on you, against gravity",
        "The air holds you up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The catcher's hands push on you and stop you falling. That push is a support force, like the floor's. Gravity never switches off. Picking 'the air holds you up' usually means thinking air is strong. Air pushes back only a little, which is why we fall through it."
      }
     },
@@ -2068,11 +2068,11 @@
       "t": "mcq",
       "q": "Why did Sunita Williams need stretchy cords to run on a treadmill in space?",
       "options": [
-       "Without them she would float off, and her feet could not push on the treadmill",
        "Gravity in space is too strong",
-       "To stop the treadmill floating away"
+       "To stop the treadmill floating away",
+       "Without them she would float off, and her feet could not push on the treadmill"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In the space station, nothing presses her feet onto the floor, because she and the station fall together. Without a push between her feet and the treadmill, she couldn't run. The cords pulled her down so her feet pressed on it, like weight does on Earth. Picking 'gravity is too strong' mixes things up. Gravity is there, but she feels no weight, because she is falling."
      }
     },
@@ -2220,11 +2220,11 @@
       "t": "mcq",
       "q": "At the top of a swing you feel floaty. Why?",
       "options": [
-       "The seat is pushing up on you less",
        "Gravity has let go of you",
-       "The air is lifting you"
+       "The air is lifting you",
+       "The seat is pushing up on you less"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At the top, you are starting to fall back, so the seat pushes up on you less. You feel lighter because the push is smaller. Gravity pulls you just as hard at the top as at the bottom. Picking 'gravity has let go' is how it feels. But gravity never lets go."
      }
     }
@@ -2341,11 +2341,11 @@
       "t": "mcq",
       "q": "You laid the jar on its side. After a day or two, which way do the roots grow?",
       "options": [
-       "They bend to grow downwards again",
        "They keep growing sideways",
-       "They turn upwards towards the light"
+       "They turn upwards towards the light",
+       "They bend to grow downwards again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Roots bend to grow downwards, towards the pull of gravity. Scientists call this gravitropism. Most think tiny heavy grains of starch inside root-tip cells sink to the bottom, like sand in water. The cells feel where the grains settle. Picking 'towards the light' mixes roots with shoots. Shoots usually grow up towards light. Roots grow down."
      }
     },
@@ -2512,11 +2512,11 @@
       "t": "mcq",
       "q": "Why does a flat, wide foil boat hold more coins than a crumpled ball of foil?",
       "options": [
-       "It pushes more water aside, so the water pushes up on it harder",
        "The flat foil has less weight",
-       "Flat things are not pulled by gravity"
+       "Flat things are not pulled by gravity",
+       "It pushes more water aside, so the water pushes up on it harder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Both have the same mass and the same weight. But the wide boat pushes a lot of water aside as it sits low in the water. The more water a thing pushes aside, the harder the water pushes up on it. Picking 'flat foil has less weight' is a common guess. Shape does not change weight. It changes how much the water can help."
      }
     },
@@ -2565,12 +2565,12 @@
      "t": "mcq",
      "p": "A shopkeeper says, 'This bag of rice weighs 1 kilogram.' To a scientist, the 1 kilogram is not the bag's weight. What is it?",
      "opts": [
-      "The bag's mass: how much rice is in it",
       "The bag's weight: how hard the Earth pulls it",
       "The bag's size",
-      "The bag's speed"
+      "The bag's speed",
+      "The bag's mass: how much rice is in it"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Kilograms tell us how much matter, or stuff, is in the bag. That is its mass. The Earth's pull on it is its weight, measured in newtons. The shopkeeper's way of talking is fine in a shop. Scientists just need two different words."
     },
     {
@@ -2648,12 +2648,12 @@
      "t": "mcq",
      "p": "A girl stands on a steel stool. Gravity pulls her down. Why doesn't she sink into the stool?",
      "opts": [
-      "The stool pushes up on her just as hard as she presses down",
       "Gravity does not pull people indoors",
+      "The stool pushes up on her just as hard as she presses down",
       "Her chappals are too wide",
       "The air under her holds her up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When she presses on the stool, its atoms push back on her. Scientists call this the support force. Picking 'gravity does not pull indoors' is wrong: gravity pulls everywhere, all the time."
     },
     {
@@ -2832,11 +2832,11 @@
      "t": "mcq",
      "p": "Look at the stone results. The stone read 0 newtons when it rested on the bottom of the bucket. Why?",
      "opts": [
-      "The bucket's floor held the stone up, so the spring had nothing to hold",
       "The stone had lost most of its mass",
+      "The bucket's floor held the stone up, so the spring had nothing to hold",
       "Gravity is weaker at the bottom of a bucket"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On the bottom, the bucket's floor pushed up on the stone, so the string went slack. Picking 'gravity is weaker' means thinking the reading shows gravity directly. It shows only what the spring is holding.",
      "chart": {
       "type": "bar",
@@ -2923,12 +2923,12 @@
      "t": "mcq",
      "p": "Look at the lift graph. At which moment did the bag's reading go highest?",
      "opts": [
-      "As the lift started going up",
       "While the lift moved up steadily",
+      "As the lift started going up",
       "As the lift slowed down at the top",
       "When the lift was stopped"
      ],
-     "a": 0,
+     "a": 1,
      "why": "To start the bag moving upwards, the spring had to pull harder than gravity, so the reading rose to 11 newtons. Picking 'moving up steadily' is very common. But at a steady speed, nothing is speeding up, so the reading is normal.",
      "chart": {
       "type": "line",
@@ -3036,11 +3036,11 @@
      "t": "mcq",
      "p": "A girl stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?",
      "opts": [
-      "About 30 kilograms",
       "About 15 kilograms",
-      "About 0 kilograms"
+      "About 0 kilograms",
+      "About 30 kilograms"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Now one scale must hold up all of her, so it reads her whole weight. Picking 15 kilograms means thinking each scale has its own fixed share.",
      "how": "a2",
      "context": "In the Two Scales, One You activity, you stand with one foot on each of two bathroom scales."
@@ -3058,12 +3058,12 @@
      "t": "mcq",
      "p": "A child has a mass of 30 kilograms. Look at the chart. About how much would she weigh on the Moon?",
      "opts": [
-      "About 50 newtons",
       "About 300 newtons",
+      "About 50 newtons",
       "About 5 kilograms",
       "About 1,800 newtons"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The Moon pulls about one sixth as hard as the Earth. On Earth she weighs about 300 newtons, and 300 divided by 6 is 50. Picking '5 kilograms' mixes up mass and weight: her mass stays 30 kilograms. Picking 1,800 means multiplying by 6 instead of dividing.",
      "chart": {
       "type": "bar",
@@ -3224,12 +3224,12 @@
      "t": "mcq",
      "p": "A bag hangs from a forcemeter. Where would the forcemeter read zero?",
      "opts": [
-      "Falling freely, with the bag",
       "On top of Mount Everest",
       "At the bottom of a deep well",
-      "On the Moon"
+      "On the Moon",
+      "Falling freely, with the bag"
      ],
-     "a": 0,
+     "a": 3,
      "why": "When the forcemeter and the bag fall together, the spring has nothing to hold. On Everest, in a well or on the Moon, gravity still pulls, so the spring still holds the bag. Picking 'the Moon' forgets that the Moon pulls too, just less.",
      "context": "A forcemeter is a spring tool that measures weight in newtons. You hang a thing on its hook and read the pointer."
     },
@@ -3243,12 +3243,12 @@
      "t": "mcq",
      "p": "Light has no mass. Yet in 1919, astronomers saw starlight bend as it passed close to the Sun. What does that tell us?",
      "opts": [
-      "Gravity acts on energy, not only on mass",
       "The astronomers made a mistake",
       "Light has a hidden mass",
-      "The Sun is made of glass"
+      "The Sun is made of glass",
+      "Gravity acts on energy, not only on mass"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Light carries energy, and gravity acts on energy too. Einstein predicted the bend, and the eclipse photographs showed it. Picking 'a mistake' is fair to ask, but the bend has been measured many times since.",
      "context": "During a total eclipse of the Sun in 1919, astronomers photographed stars near the dark Sun."
     },
@@ -3275,12 +3275,12 @@
      "t": "mcq",
      "p": "Most of the mass of your body comes from where?",
      "opts": [
-      "The energy of tiny particles called quarks moving inside your atoms",
       "The air in your lungs",
       "Your bones only",
-      "The water you drink each day"
+      "The water you drink each day",
+      "The energy of tiny particles called quarks moving inside your atoms"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Deep in each atom are protons and neutrons, and inside those are quarks. Their movement energy, and the force holding them together, make most of your mass. This is mass as a form of energy. Picking 'bones' makes sense, but even bone mass comes from this deep inside."
     },
     {
@@ -3305,11 +3305,11 @@
      "t": "mcq",
      "p": "Water has mass, so a lot of water underground pulls very slightly on things above it. In north-western India, farmers pump a lot of water out of the ground every year. What would satellites that measure the Earth's pull find there?",
      "opts": [
-      "The pull is getting weaker, because underground water is being used up",
       "A new mountain is growing",
-      "The Earth has stopped spinning there"
+      "The Earth has stopped spinning there",
+      "The pull is getting weaker, because underground water is being used up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When water is pumped out, there is less mass under the ground, so the pull gets very slightly weaker. Satellites have really measured this. Picking 'a new mountain' is a good guess about mass, but pumping means less mass, not more."
     },
     {
@@ -3345,12 +3345,12 @@
      "t": "mcq",
      "p": "In the root project, you laid the jar on its side, and the roots bent down. How do scientists think a root tip feels which way is down?",
      "opts": [
-      "Tiny heavy starch grains sink to the bottom of its cells",
       "It can see the ground",
+      "Tiny heavy starch grains sink to the bottom of its cells",
       "The water in the jar tells it",
       "Roots grow towards the light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Gravity pulls the heavy grains to the lowest side of each cell, and the root grows that way. Plants with very few grains can still find down, so scientists think there is more to it. Picking 'towards the light' mixes roots up with shoots.",
      "how": "p1",
      "context": "In the root project, you grow moong seeds in a jar, then lay the jar on its side."
@@ -3377,11 +3377,11 @@
    "t": "mcq",
    "p": "Which sentence about weight is true?",
    "opts": [
-    "Weight is the pull of gravity on a thing, measured in newtons",
     "Weight is how much matter a thing has, measured in kilograms",
+    "Weight is the pull of gravity on a thing, measured in newtons",
     "Weight is how big a thing is"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Weight is a pull, so it is measured in newtons. How much matter a thing has is its mass, in kilograms.",
    "outcome": 0
   },
@@ -3424,11 +3424,11 @@
    "t": "mcq",
    "p": "What does a bathroom scale really measure?",
    "opts": [
-    "How hard you press down on it",
     "How hard gravity pulls you, directly",
-    "How tall you are"
+    "How tall you are",
+    "How hard you press down on it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Inside is a spring, or a sensor, that measures the push on it. On a still floor, that push equals your weight. Jump on it and the number changes.",
    "outcome": 2
   },
@@ -3436,11 +3436,11 @@
    "t": "mcq",
    "p": "A heavy book lies still on a table. Gravity pulls it down. What is the table doing?",
    "opts": [
-    "Pushing up on the book just as hard as gravity pulls down",
     "Nothing. It just stands there",
+    "Pushing up on the book just as hard as gravity pulls down",
     "Pulling the book down too"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The book presses on the table, and the table's atoms push back. This support force is exactly as big as the book's weight, so the book stays still.",
    "outcome": 2
   },
@@ -3460,11 +3460,11 @@
    "t": "mcq",
    "p": "A lift starts going up. How do you feel?",
    "opts": [
-    "A little heavier",
     "A little lighter",
-    "Exactly the same"
+    "Exactly the same",
+    "A little heavier"
    ],
-   "a": 0,
+   "a": 2,
    "why": "To start you moving up, the floor pushes up harder than gravity pulls down. You feel that extra push in your knees.",
    "outcome": 3,
    "how": "e3"
@@ -3473,11 +3473,11 @@
    "t": "mcq",
    "p": "A leaky bottle of water is dropped. While it falls, what happens?",
    "opts": [
-    "The water stops squirting out",
     "The water squirts out faster",
+    "The water stops squirting out",
     "The water squirts out upwards"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The water and the bottle fall together, so the water no longer presses on the holes.",
    "outcome": 3,
    "how": "e4"
@@ -3498,11 +3498,11 @@
    "t": "mcq",
    "p": "About how strong is the Earth's gravity at the height of the space station, compared with on the ground?",
    "opts": [
-    "About 90 out of every 100 parts",
     "Zero",
-    "About 1 out of every 100 parts"
+    "About 1 out of every 100 parts",
+    "About 90 out of every 100 parts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The station is only about 400 kilometres up, so gravity there is nearly as strong as on the ground.",
    "outcome": 4
   },
@@ -3558,11 +3558,11 @@
    "t": "mcq",
    "p": "Einstein showed that mass is a form of something else. What is it?",
    "opts": [
-    "Energy",
     "Air",
-    "Water"
+    "Water",
+    "Energy"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Mass can turn into energy, and energy has mass. The Sun shines by turning some of its mass into light.",
    "outcome": 5
   },
@@ -3570,11 +3570,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still not know?",
    "opts": [
-    "What gravity really is at the tiniest sizes",
     "Whether astronauts float",
+    "What gravity really is at the tiniest sizes",
     "Whether things weigh less on the Moon"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Floating astronauts and lighter weight on the Moon have been seen many times. What gravity is, deep down, is still an open question.",
    "outcome": 6
   },

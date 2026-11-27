@@ -830,11 +830,11 @@
       "t": "mcq",
       "q": "Which two of these are the closest relatives?",
       "options": [
-       "Mugger crocodile and house gecko",
        "Mugger crocodile and house crow",
+       "Mugger crocodile and house gecko",
        "House gecko and house crow"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The crocodile and the crow share the fork 'crocodiles and dinosaurs', which the gecko is not on. Choosing the crocodile and the gecko usually means going by scales and shape. Those are old features that all three branches started with, and birds changed theirs."
      },
      "context": "This is the last step of Closest Cousins. Here you count the points and look at the crocodile, the gecko and the crow."
@@ -1011,11 +1011,11 @@
       "t": "mcq",
       "q": "Cold water stands in a warm place, and bubbles appear on the glass. What are they?",
       "options": [
-       "Dissolved air leaving the warming water",
        "Air leaking in through the glass",
-       "Water turning into steam"
+       "Water turning into steam",
+       "Dissolved air leaving the warming water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cold water holds more dissolved air than warm water. As the water warmed, the extra air came out as bubbles. Choosing 'steam' usually means thinking of the bubbles in a boiling pot. Water does not turn to steam at room warmth, and steam bubbles rise and burst at once."
      },
      "context": "This is the last step of Air in Water. Here you explain your results and link them to fish in a warm pond."
@@ -1275,11 +1275,11 @@
       "t": "mcq",
       "q": "The platypus has fur and milk and lays eggs. What does this show?",
       "options": [
-       "Milk evolved before birth without an egg",
        "The platypus is half bird",
+       "Milk evolved before birth without an egg",
        "Eggs evolved after milk"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Her branch split off after milk evolved and before mammals stopped laying eggs. So milk is the older feature of the two. Choosing 'half bird' usually means treating each group's features as one set that cannot be split up."
      },
      "context": "This is the last step of the Feature Ladder. Here you ask what the steps show, and add yourself to the table."
@@ -1528,11 +1528,11 @@
       "t": "mcq",
       "q": "A fighting fish lives in a small bowl with no air pump. How does she get enough oxygen?",
       "options": [
-       "She gulps air at the surface",
        "She needs less oxygen than other fish",
-       "The bowl makes oxygen"
+       "The bowl makes oxygen",
+       "She gulps air at the surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "She has a breathing organ above her gills and takes oxygen from gulped air, as a climbing perch does. Choosing 'needs less oxygen' usually means not having noticed her trips to the surface. A bowl must never be filled to a tight lid, because she must reach the air."
      },
      "context": "This is the last step of Gulp Watch. Here you compare the two counts and explain them."
@@ -1607,11 +1607,11 @@
       "t": "mcq",
       "q": "Scientists predicted Tiktaalik's features and the age of her rock before they found her. Why does that matter?",
       "options": [
-       "A wrong idea would have predicted wrongly",
        "It shows they were lucky",
-       "It shows fossils are easy to find"
+       "It shows fossils are easy to find",
+       "A wrong idea would have predicted wrongly"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If four-limbed animals had not evolved from fish, there would be no reason to find such an animal in rock of just that age. A prediction that could have failed, and did not, is strong evidence. Choosing 'lucky' misses that they chose where to dig by reasoning."
      },
      "context": "This is the last step of Predict the In-between Animal. Here you compare your prediction with the real fossil."
@@ -1833,12 +1833,12 @@
      "t": "mcq",
      "p": "Why do the five groups of vertebrates share so many features?",
      "opts": [
-      "They descend from one ancestor",
       "They live in the same places",
       "They eat the same food",
-      "Scientists chose them that way"
+      "Scientists chose them that way",
+      "They descend from one ancestor"
      ],
-     "a": 0,
+     "a": 3,
      "why": "All vertebrates descend from one group of fish-like animals who lived about 500 million years ago. Shared features such as the backbone were inherited from them.",
      "outcome": 0
     },
@@ -2064,12 +2064,12 @@
      "t": "mcq",
      "p": "What did the fossil Acanthostega show about the first limbs with fingers?",
      "opts": [
-      "They were used in water",
       "They were for running on land",
       "They were for digging burrows",
+      "They were used in water",
       "They always had five fingers"
      ],
-     "a": 0,
+     "a": 2,
      "why": "She had limbs with eight fingers, and also gills, weak ribs and elbows that could not bend forward. She lived in water. Choosing 'running on land' is the old idea her fossil overturned.",
      "outcome": 2
     },
@@ -2085,12 +2085,12 @@
      "t": "mcq",
      "p": "Why is 'born alive' a poor clue to which animals are close relatives?",
      "opts": [
-      "It arose many separate times",
       "Only mammals do it",
       "It is hard to see",
-      "Eggs are older than babies"
+      "Eggs are older than babies",
+      "It arose many separate times"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Vipers, some sharks, guppies and cows all bear live young, but they are not close relatives. The feature arose separately in each branch.",
      "outcome": 5
     },
@@ -2195,12 +2195,12 @@
      "t": "mcq",
      "p": "Which of these is evidence that your ancestors had thick fur?",
      "opts": [
-      "Goosebumps",
       "Fingernails",
+      "Goosebumps",
       "Your navel",
       "Milk teeth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tiny muscle raises each hair when you are cold. On a furry animal this fluffs the coat. On us it does almost nothing, so it is a leftover.",
      "how": "a2",
      "outcome": 6
@@ -2250,12 +2250,12 @@
      "t": "mcq",
      "p": "Scientists compare the DNA of two animals and find few differences. What does that suggest?",
      "opts": [
-      "They share a recent ancestor",
       "They are the same size",
+      "They share a recent ancestor",
       "They live in the same place",
       "They eat the same food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Copying mistakes build up over time. Few differences means little time on separate branches.",
      "how": "a3",
      "outcome": 6
@@ -2299,12 +2299,12 @@
      "t": "mcq",
      "p": "Humans carry broken genes for making egg yolk. What is the best explanation?",
      "opts": [
-      "Our distant ancestors laid yolky eggs",
       "Humans will lay eggs one day",
       "We get them from eating eggs",
+      "Our distant ancestors laid yolky eggs",
       "They came from hens"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The early ancestors of mammals laid eggs with yolk. After milk took over the feeding of young, the yolk genes were no longer needed and stopped working. Genes do not come from food.",
      "outcome": 3
     },
@@ -2335,12 +2335,12 @@
      "t": "mcq",
      "p": "The purple frog's closest relatives live on the Seychelles islands. What explains this best?",
      "opts": [
-      "The land they lived on split apart",
       "Frogs swam across the ocean",
       "People carried them there",
-      "Birds dropped their eggs"
+      "Birds dropped their eggs",
+      "The land they lived on split apart"
      ],
-     "a": 0,
+     "a": 3,
      "why": "India and the Seychelles were once joined. The land split and drifted apart with the frogs' ancestors on both pieces. Frogs cannot survive in sea water for long.",
      "outcome": 6
     },
@@ -2526,12 +2526,12 @@
    "t": "mcq",
    "p": "Which holds more oxygen: a litre of air or a litre of pond water?",
    "opts": [
-    "Air, about 30 times as much",
     "Water, about 30 times as much",
+    "Air, about 30 times as much",
     "They hold the same",
     "It depends on the fish"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Air is about one-fifth oxygen. Water holds only a little dissolved oxygen, about 9 milligrams in a litre at 20 °C.",
    "outcome": 1
   },
@@ -2552,12 +2552,12 @@
    "t": "mcq",
    "p": "Which animal shows that milk evolved before mammals stopped laying eggs?",
    "opts": [
-    "Platypus",
     "Kangaroo",
     "Fruit bat",
-    "Penguin"
+    "Penguin",
+    "Platypus"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The platypus lays eggs and feeds her hatched young on milk. A kangaroo is born alive, and a penguin is a bird with no milk.",
    "outcome": 3
   },
@@ -2565,12 +2565,12 @@
    "t": "mcq",
    "p": "Tiktaalik had gills and scales, and also a neck and wrists. What is such a fossil called?",
    "opts": [
-    "A transitional fossil",
     "A living fossil",
     "A vestigial part",
-    "A convergent fossil"
+    "A convergent fossil",
+    "A transitional fossil"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A transitional fossil has features of an older group and of a newer group. It shows what the animals in between were like.",
    "outcome": 2
   },
@@ -2578,12 +2578,12 @@
    "t": "mcq",
    "p": "Which of these is the closest living relative of a crow?",
    "opts": [
-    "Mugger crocodile",
     "Monitor lizard",
+    "Mugger crocodile",
     "Fruit bat",
     "King cobra"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Crocodiles and birds share an ancestor that lizards and snakes do not. A bat flies, but she is a mammal.",
    "outcome": 4
   },
@@ -2591,12 +2591,12 @@
    "t": "mcq",
    "p": "Bats and birds both have wings. Why is this not a sign that they are close relatives?",
    "opts": [
-    "Wings arose separately in each",
     "Bats are a kind of bird",
     "Wings are a very old feature",
+    "Wings arose separately in each",
     "Both lay eggs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Their shared ancestor had no wings. Each branch evolved wings separately, which is called convergent evolution.",
    "outcome": 5
   },
@@ -2612,12 +2612,12 @@
    "t": "mcq",
    "p": "Which part of your body is the leftover of a tail?",
    "opts": [
-    "The tailbone",
     "The navel",
     "The kneecap",
-    "The heel"
+    "The heel",
+    "The tailbone"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The tailbone is three to five small joined bones at the end of the backbone. The navel is where the cord from the placenta joined you.",
    "outcome": 6
   },
@@ -2625,12 +2625,12 @@
    "t": "mcq",
    "p": "Why do fish in a warm, shallow pond gasp at the surface at dawn?",
    "opts": [
-    "The water has very little dissolved oxygen",
     "They are hungry",
     "The water is too cold",
+    "The water has very little dissolved oxygen",
     "They are looking for light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Warm water holds little oxygen, and plants and rotting leaves use it up overnight. The thin top layer of water, next to the air, has the most.",
    "outcome": 1
   },
@@ -2651,12 +2651,12 @@
    "t": "mcq",
    "p": "In the Air in Water test, what had to stay the same for all three tumblers?",
    "opts": [
-    "The tumbler, the amount and the place",
     "Only the colour of the tumbler",
     "How cold the water was at the start",
-    "Nothing at all"
+    "Nothing at all",
+    "The tumbler, the amount and the place"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Only the water's history was changed: cold, room-warm or boiled. Everything else was kept the same, so any difference in bubbles came from that one change.",
    "how": "e1",
    "outcome": 7

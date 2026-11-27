@@ -913,11 +913,11 @@
       "t": "mcq",
       "q": "Where does a bowl of dal go?",
       "options": [
-       "Grow",
        "Energy",
+       "Grow",
        "Protect"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dal is rich in protein, which builds and mends the body. It also gives some energy, but growing is the job it is best at."
      },
      "parent": "Rice, chapati, ragi, idli and potato are energy foods. Dal, curd, milk, egg, fish, paneer and groundnuts are grow foods. Vegetables, greens and fruit are protect foods. Accept a good reason even if it differs from these."
@@ -1327,11 +1327,11 @@
    "t": "mcq",
    "p": "What are the three main jobs of food?",
    "opts": [
-    "Grow, go and protect",
     "Sweet, sour and salty",
+    "Grow, go and protect",
     "Hot, cold and warm"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Food helps your body grow and mend, gives it energy, and protects it from illness. Sweet, sour and salty are tastes, not jobs.",
    "outcome": 0
   },
@@ -1363,11 +1363,11 @@
    "t": "mcq",
    "p": "In the spit test, the rice paste with water stayed thick. The one with spit went runny. Why?",
    "opts": [
-    "Spit cuts starch into sugar",
     "Spit is colder than water",
-    "Spit is thicker than water"
+    "Spit is thicker than water",
+    "Spit cuts starch into sugar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Spit has amylase, which cuts the long starch chains that keep the paste thick.",
    "outcome": 2,
    "how": "e1"
@@ -1376,11 +1376,11 @@
    "t": "mcq",
    "p": "Spit has amylase, which cuts starch. You stir spit into a bowl of thick curd. Why does the curd not go runny?",
    "opts": [
-    "Curd is thick from milk protein, not starch",
     "There was too much curd",
-    "The curd was cold"
+    "The curd was cold",
+    "Curd is thick from milk protein, not starch"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Amylase cuts starch. Curd is thick because milk protein has set, not because of starch, so amylase does not thin it.",
    "outcome": 2,
    "how": "e1"
@@ -1413,11 +1413,11 @@
    "t": "mcq",
    "p": "Milk helps you grow, gives energy and keeps bones strong. What does this show?",
    "opts": [
-    "One food can do more than one job",
     "Milk is a treat",
-    "Milk has no protein"
+    "Milk has no protein",
+    "One food can do more than one job"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most foods are a mix. Milk gives protein, fat, sugar and calcium.",
    "outcome": 4
   },
@@ -1425,11 +1425,11 @@
    "t": "mcq",
    "p": "Before the Spit Test, you guess that the bowl of rice paste with water will go runniest. It stays thick. What should you say?",
    "opts": [
-    "My guess was wrong. Spit did something water did not.",
     "The test is broken.",
+    "My guess was wrong. Spit did something water did not.",
     "Water always makes things runny."
    ],
-   "a": 0,
+   "a": 1,
    "why": "A good scientist changes their idea when the test shows something new.",
    "outcome": 5,
    "how": "e1"
@@ -1438,11 +1438,11 @@
    "t": "mcq",
    "p": "Why did the two paste bowls get the same amount of paste?",
    "opts": [
-    "So that only one thing changed, and the test was fair",
     "To save paste",
+    "So that only one thing changed, and the test was fair",
     "So the bowls looked nice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test, only one thing changes. Here it was what we stirred into the paste: water or spit.",
    "outcome": 5,
    "how": "e1"
@@ -1458,11 +1458,11 @@
    "t": "mcq",
    "p": "Moong, masoor and chana are dried seeds that we cook as dal. Which food family are they?",
    "opts": [
-    "Cereals",
     "Pulses",
+    "Cereals",
     "Fruits"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Pulses are dried seeds of bean and lentil plants, and they give protein. Cereals are grains like rice and wheat. Fruits grow on plants as fleshy, often sweet, parts.",
    "outcome": 1
   },
@@ -1470,11 +1470,11 @@
    "t": "mcq",
    "p": "You scrape your knee. Which meal helps new skin grow back?",
    "opts": [
-    "Dal, rice and a guava",
     "A packet of chips and a sweet fizzy drink",
+    "Dal, rice and a guava",
     "Only a plate of jalebi"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The protein in dal helps build new skin, and the vitamin C in a guava helps the cut close. Chips, fizzy drinks and jalebi are treats with little of either.",
    "outcome": 0
   },
@@ -1482,11 +1482,11 @@
    "t": "mcq",
    "p": "After a hot game your shirt is wet with sweat. Why should you drink water?",
    "opts": [
-    "Your body lost water in the sweat and needs it back",
     "Water gives you the energy that rice gives",
-    "Water builds muscle, like dal"
+    "Water builds muscle, like dal",
+    "Your body lost water in the sweat and needs it back"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sweat is mostly water, so you must replace it. Water gives no energy and does not build muscle, but food cannot do its work without it.",
    "outcome": 0
   },
@@ -1494,11 +1494,11 @@
    "t": "mcq",
    "p": "Why does a baby of four months get only milk, and not rice and dal?",
    "opts": [
-    "Milk has all a tiny baby needs, and the baby's body is not ready for other food yet",
     "Babies do not need to grow",
+    "Milk has all a tiny baby needs, and the baby's body is not ready for other food yet",
     "Rice and dal are poison for everyone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tiny baby's body can manage milk, and milk gives all three jobs. Soft foods start slowly at about six months. Babies grow very fast, and rice and dal are fine later.",
    "outcome": 1
   }
@@ -1623,22 +1623,22 @@
      "t": "mcq",
      "p": "You eat a big plate of sweets, and now you do not want your dinner. What is the problem?",
      "opts": [
-      "Sweets filled you up, so there is no room for grow and protect foods",
       "Sweets have too much protein",
-      "There is no problem"
+      "There is no problem",
+      "Sweets filled you up, so there is no room for grow and protect foods"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sweets give lots of energy but do little to help you grow or stay well. When they fill the tummy, the body misses the foods that build and protect it."
     },
     {
      "t": "mcq",
      "p": "A friend says: 'Only sweet foods give us sugar.' What would you tell your friend?",
      "opts": [
-      "Rice and chapati give sugar too, because the body cuts their starch into sugar",
       "Your friend is right",
+      "Rice and chapati give sugar too, because the body cuts their starch into sugar",
       "Sugar comes only from sugarcane"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Starch is sugar pieces joined in chains. Spit and the gut cut the chains, so starchy foods give sugar even when they do not taste sweet."
     },
     {
@@ -1736,11 +1736,11 @@
      "t": "mcq",
      "p": "You want a drink after playing. Which is the everyday drink, not a treat?",
      "opts": [
-      "Plain water",
       "A bottle of sweet fizzy drink",
+      "Plain water",
       "A packet of sweet fruit drink"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water has no sugar and gives your body the water it lost. Sweet drinks are treats, because of all their sugar."
     },
     {
@@ -1791,11 +1791,11 @@
      "t": "mcq",
      "p": "Your grandfather has a cut on his hand. Which meal helps it heal best?",
      "opts": [
-      "Dal, an egg and a guava",
       "Only sweet tea",
+      "Dal, an egg and a guava",
       "A packet of chips"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dal and egg give protein to build new skin. A guava gives vitamin C to help the cut close. Sweet tea and chips give little of either."
     }
    ]

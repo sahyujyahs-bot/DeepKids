@@ -572,7 +572,7 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 ## Worksheets
 ### Cells, split water and rust (core, 15 questions)
 1. (mcq) What does a lemon cell need so that electrons flow through a wire?  
-   Options: Two different metals in the juice / Two pieces of the same metal / A very sour lemon and nothing else / A lemon that has been warmed  
+   Options: Two pieces of the same metal / A very sour lemon and nothing else / Two different metals in the juice / A lemon that has been warmed  
    **Answer:** Two different metals in the juice. *Why:* One metal must give away electrons more easily than the other. Two pieces of the same metal push equally, so nothing flows.
 2. (fill) A liquid with ions in it, such as lemon juice or salt water, is called an ____.  
    **Answer:** ['electrolyte']. *Why:* The ions in an electrolyte carry charge through the liquid. Without them the loop is not complete.
@@ -590,12 +590,12 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 8. (fill) The unit that tells how hard a cell pushes electrons is the ____.  
    **Answer:** ['volt']. *Why:* An AA cell pushes with 1.5 volts. A lemon cell pushes with about 0.9 volts.
 9. (mcq) Which two gases does an electric current split water into?  
-   Options: Hydrogen and oxygen / Steam and air / Carbon dioxide and oxygen / Hydrogen and nitrogen  
+   Options: Steam and air / Hydrogen and oxygen / Carbon dioxide and oxygen / Hydrogen and nitrogen  
    **Answer:** Hydrogen and oxygen. *Why:* A water molecule is two hydrogen atoms and one oxygen atom. A current separates them. Steam is still water.
 10. (sort) Sort these. Must each one be present for iron to rust?  
    **Answer:** iron → Needed for rust; water → Needed for rust; oxygen → Needed for rust; salt → Not needed for rust; sunlight → Not needed for rust; copper → Not needed for rust. *Why:* Rust forms when iron gives electrons to oxygen with water present. Salt only makes it faster.
 11. (mcq) Why does a cycle rust faster near the sea than far inland?  
-   Options: Salty, damp air carries ions well / Sea air is much colder / Sea air has no oxygen / Sand polishes the paint  
+   Options: Sea air is much colder / Salty, damp air carries ions well / Sea air has no oxygen / Sand polishes the paint  
    **Answer:** Salty, damp air carries ions well. *Why:* Salt water is a good electrolyte. It lets the tiny cells on the iron's surface work faster.
 12. (write) Two copper wires in a lemon give no crackle in earphones. Explain why.  
    **Answer:** Both wires are the same metal, so both hold their electrons equally strongly. Neither gives electrons to the other, so no electrons flow.. *Why:* A strong answer says that a cell needs a difference between its two metals.
@@ -604,17 +604,17 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 14. (draw) Draw a lemon cell. Label the zinc, the copper and the way the electrons flow.  
    **Answer:** A lemon with a zinc nail and a copper wire in it, joined outside by a wire. An arrow on the outside wire points from the zinc to the copper.. *Why:* A strong drawing shows two different metals and a complete loop. The arrow must run from zinc to copper through the outside wire.
 15. (mcq) What is a galvanised bucket coated with?  
-   Options: Zinc / Paint / Copper / Rust  
+   Options: Paint / Zinc / Copper / Rust  
    **Answer:** Zinc. *Why:* Galvanised means coated with zinc. The zinc corrodes in place of the steel under it.
 ### Why it happens (stretch, 15 questions)
 1. (mcq) Which pair is furthest apart on the metal ladder, and so pushes hardest in a cell?  
-   Options: Magnesium and gold / Zinc and iron / Copper and copper / Tin and copper  
+   Options: Zinc and iron / Magnesium and gold / Copper and copper / Tin and copper  
    **Answer:** Magnesium and gold. *Why:* Magnesium is at the top of the ladder and gold is at the bottom. Copper and copper are on the same rung and give no push.
 2. (mcq) Four lemon cells give 3.6 volts, yet they cannot light a torch bulb. Why?  
-   Options: Too few electrons pass each second / The volts are too high / Lemons contain no acid / The bulb is the wrong colour  
+   Options: The volts are too high / Lemons contain no acid / The bulb is the wrong colour / Too few electrons pass each second  
    **Answer:** Too few electrons pass each second. *Why:* Volts say how hard the cells push. A torch bulb also needs many electrons each second, and a lemon passes very few.
 3. (mcq) When a current splits water, which gas comes off at the minus electrode?  
-   Options: Hydrogen / Oxygen / Steam / Carbon dioxide  
+   Options: Oxygen / Steam / Hydrogen / Carbon dioxide  
    **Answer:** Hydrogen. *Why:* The cells push electrons into the minus electrode. Water molecules take them and split, and hydrogen bubbles off.
 4. (truefalse) Charging a phone pushes the change inside its battery backwards.  
    **Answer:** True. *Why:* True. The charger's current forces the change the other way. That is electrolysis inside the battery.
@@ -640,20 +640,20 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 14. (label) Label three parts of this AA cell cut in half: the zinc can, the black paste and the carbon rod.  
    **Answer:** ['The zinc can: the outer metal wall, which gives away electrons', 'The black paste: it holds manganese dioxide, which takes the electrons', 'The carbon rod: the dark rod down the middle, which collects electrons']. *Why:* A shop cell has the same parts as a lemon cell. It has a giver of electrons, a taker, and a paste with ions between them.
 15. (mcq) A steel bolt sits in an aluminium window frame near the sea. Which metal corrodes first?  
-   Options: The aluminium around the bolt / The steel bolt / Both at the same speed / Neither of them  
+   Options: The steel bolt / The aluminium around the bolt / Both at the same speed / Neither of them  
    **Answer:** The aluminium around the bolt. *Why:* Aluminium is above iron on the metal ladder. Where the two touch in salty damp air, the aluminium gives the electrons.
 ### Testing the idea (challenge, 15 questions)
 1. (mcq) Someone says the lemon is the source of a lemon battery's electricity. Which test checks this best?  
-   Options: Try the same metals in salt water / Use a bigger lemon / Use a greener lemon / Squeeze the lemon harder  
+   Options: Use a bigger lemon / Use a greener lemon / Try the same metals in salt water / Squeeze the lemon harder  
    **Answer:** Try the same metals in salt water. *Why:* If the metals still give a current with no lemon at all, the lemon cannot be the source. The other tests all keep the lemon.
 2. (mcq) A pile of six foil and copper cells crackles less than a pile of three. What is the likeliest fault?  
-   Options: Wet paper is joining two cells together / Six cells always cancel out / The foil is too shiny / The earphones are worn out  
+   Options: Six cells always cancel out / Wet paper is joining two cells together / The foil is too shiny / The earphones are worn out  
    **Answer:** Wet paper is joining two cells together. *Why:* Each cell must be separate. If liquid runs down the side and joins two cells, those cells stop adding their pushes.
 3. (mcq) Engineers join a buried steel pipeline to one end of a power supply to stop rust. Which end?  
-   Options: The minus end, which pushes electrons in / The plus end, which pulls electrons out / Either end works equally / Both ends at once  
+   Options: The plus end, which pulls electrons out / Either end works equally / Both ends at once / The minus end, which pushes electrons in  
    **Answer:** The minus end, which pushes electrons in. *Why:* Iron rusts by losing electrons. A pipe joined to the minus end is given electrons, so it loses none. A nail on the plus wire rusts in minutes.
 4. (mcq) Iron is found in the ground only as ore, but gold is found as metal. Why?  
-   Options: Gold holds its electrons far more strongly / Gold is heavier than iron / Iron formed more recently / Gold lies deeper down  
+   Options: Gold is heavier than iron / Iron formed more recently / Gold lies deeper down / Gold holds its electrons far more strongly  
    **Answer:** Gold holds its electrons far more strongly. *Why:* Iron gives electrons to oxygen easily, so over time it all joins with oxygen. Gold is at the bottom of the metal ladder and stays as metal.
 5. (truefalse) A cell with more volts always lasts longer.  
    **Answer:** False. *Why:* False. Volts say how hard a cell pushes. How long it lasts depends on how much of its substances are left to use up.
@@ -685,13 +685,13 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
 
 ## Quiz
 1. (mcq) Which pair, pushed into a lemon, makes electrons flow through a wire?  
-   Options: A zinc nail and a copper wire / Two copper wires / Two zinc nails / Two plastic straws  
+   Options: Two copper wires / A zinc nail and a copper wire / Two zinc nails / Two plastic straws  
    **Answer:** A zinc nail and a copper wire. *Why:* The two metals must be different. Zinc gives away electrons more easily than copper, so electrons flow from zinc to copper.
 2. (mcq) Why do two pieces of the same metal in a lemon give no current?  
-   Options: Neither gives electrons more easily than the other / The same metal is too clean / The lemon only works with copper / Their electrons are too heavy  
+   Options: The same metal is too clean / The lemon only works with copper / Their electrons are too heavy / Neither gives electrons more easily than the other  
    **Answer:** Neither gives electrons more easily than the other. *Why:* A current needs a difference. Two pieces of one metal sit on the same rung of the metal ladder, so there is no push.
 3. (mcq) Where does the energy of a lemon battery come from?  
-   Options: The zinc, as it is used up / The sourness of the lemon / The earphones / The air around the lemon  
+   Options: The sourness of the lemon / The zinc, as it is used up / The earphones / The air around the lemon  
    **Answer:** The zinc, as it is used up. *Why:* The zinc changes as it gives away electrons, and that change gives the energy. The lemon is the path, and salt water can replace it.
 4. (mcq) What does a volt measure?  
    Options: How hard a cell pushes electrons / How long a cell lasts / How heavy a cell is / How many cells are in a pack  
@@ -700,22 +700,22 @@ In June the ban ended. The winch let Kadal Rani down the slipway, and the water 
    Options: 2.7 volts / 0.9 volts / 0.3 volts / 9 volts  
    **Answer:** 2.7 volts. *Why:* Cells in a row add their pushes. 0.9 added three times is 2.7.
 6. (mcq) What is electrolysis?  
-   Options: Using a current to force a chemical change / Rubbing two things to make charge / Melting a metal with heat / Mixing an acid with a base  
+   Options: Rubbing two things to make charge / Using a current to force a chemical change / Melting a metal with heat / Mixing an acid with a base  
    **Answer:** Using a current to force a chemical change. *Why:* In electrolysis the current comes from outside and forces a change, such as splitting water. It is a battery's change run backwards.
 7. (mcq) A current splits water. How do the amounts of the two gases compare?  
-   Options: Twice as much hydrogen as oxygen / The same amount of each / Twice as much oxygen as hydrogen / Only hydrogen comes off  
+   Options: The same amount of each / Twice as much oxygen as hydrogen / Only hydrogen comes off / Twice as much hydrogen as oxygen  
    **Answer:** Twice as much hydrogen as oxygen. *Why:* A water molecule has two hydrogen atoms and one oxygen atom, so twice as much hydrogen is set free.
 8. (mcq) Which three things together make iron rust?  
    Options: Iron, water and oxygen / Iron, salt and sunlight / Iron, oil and air / Iron, heat and paint  
    **Answer:** Iron, water and oxygen. *Why:* Iron gives electrons to oxygen, and water must be there for it to happen. Salt only speeds it up.
 9. (mcq) Why does salt water rust iron faster than plain water?  
-   Options: It carries ions well / It is heavier / It holds no oxygen / It scratches the iron  
+   Options: It is heavier / It carries ions well / It holds no oxygen / It scratches the iron  
    **Answer:** It carries ions well. *Why:* Rusting works like a tiny cell on the iron's surface. Salt water is a good electrolyte, so the cell works faster.
 10. (mcq) How does a coat of zinc protect steel?  
-   Options: Zinc gives electrons in place of the iron / Zinc is harder than steel / Zinc keeps the steel warm / Zinc soaks up the water  
+   Options: Zinc is harder than steel / Zinc gives electrons in place of the iron / Zinc keeps the steel warm / Zinc soaks up the water  
    **Answer:** Zinc gives electrons in place of the iron. *Why:* Zinc is above iron on the metal ladder. While the two touch, the zinc corrodes and the iron is spared, even at a scratch.
 11. (mcq) A test changes the metals, the liquid and the earphones all at once. What is wrong with it?  
-   Options: You cannot tell which change mattered / It uses too many things / It is over too quickly / Nothing is wrong with it  
+   Options: It uses too many things / You cannot tell which change mattered / It is over too quickly / Nothing is wrong with it  
    **Answer:** You cannot tell which change mattered. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.
 12. (mcq) How is a rusting gate like a battery?  
    Options: In both, a metal gives away electrons / Both store charge to use later / Both need lemon juice / Both are made of zinc  

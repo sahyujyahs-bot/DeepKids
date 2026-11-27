@@ -599,11 +599,11 @@
       "t": "mcq",
       "q": "In which part is nearly all digested food absorbed into the blood?",
       "options": [
-       "The small intestine",
        "The stomach",
+       "The small intestine",
        "The large intestine"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The villi of the small intestine absorb sugars, amino acids and fats. If you chose the stomach, remember that the stomach mainly stores and churns. The large intestine absorbs water and salts."
      },
      "context": "This is the last step of Where Is the Bite Now. You lay the journey cards in order from mouth to large intestine."
@@ -730,11 +730,11 @@
       "t": "mcq",
       "q": "Why is a child with loose motions given extra water with sugar and salt?",
       "options": [
-       "The gut had too little time to absorb water",
        "The stomach made too much acid",
-       "The teeth did not chew enough"
+       "The teeth did not chew enough",
+       "The gut had too little time to absorb water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With loose motions, food and water rush through, so the body absorbs too little and loses water and salts. If you chose acid or chewing, remember square 17: the loss came from speed."
      },
      "context": "This is the last step of Mouth to Exit. You count the beans and talk about why rushing through the gut loses food and water."
@@ -870,11 +870,11 @@
       "t": "mcq",
       "q": "In Dry or Wet, why do you sip water and wait between bites?",
       "options": [
-       "So my mouth starts the same each time",
        "So the biscuit tastes better",
+       "So my mouth starts the same each time",
        "So I chew faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A dry bite uses up saliva. If the next bite began with a dry mouth, the test would not be fair. If you chose taste or speed, remember that a fair test changes only one thing at a time."
      },
      "parent": "Dip for a slow count of three. A longer dip turns a biscuit to mush that needs no chewing at all.",
@@ -1047,11 +1047,11 @@
       "t": "mcq",
       "q": "In the Oil and Soap Bottles, why is each bottle shaken the same number of times?",
       "options": [
-       "So that only the soap differs",
        "So that the oil gets warm",
+       "So that only the soap differs",
        "So that the lids stay tight"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Harder shaking breaks oil into smaller drops. If one bottle were shaken more, we could not tell whether the soap or the shaking made the difference."
      },
      "parent": "Bottle C may have foam on top. Foam is white and full of bubbles. The oil layer is clear and yellow. Measure only the oil.",
@@ -1243,11 +1243,11 @@
       "t": "mcq",
       "q": "Why is the inside of the small intestine covered with folds and villi?",
       "options": [
-       "More surface absorbs more food",
        "To slow the food to a stop",
+       "More surface absorbs more food",
        "To grind the food smaller"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Digested food can only cross where it touches the wall. Folds and villi pack a large surface into a narrow tube. If you chose grinding, remember that villi are soft. Teeth and the stomach do the breaking."
      },
      "parent": "A banian square usually takes up about 1 teaspoon, and the pleated cloth 3 or 4. Write down what you really found. The reason: water soaks in wherever it touches cloth. The pleated cloth has four times the surface in the same space. The small intestine uses the same plan. Its folds and villi give a tube 6 metres long about 30 square metres of lining. A cloth holds its water, but the gut passes food on to the blood. So the model shows only the idea of surface.",
@@ -1426,11 +1426,11 @@
       "t": "mcq",
       "q": "Which part of the food tube is the longest?",
       "options": [
-       "The small intestine",
        "The large intestine",
+       "The small intestine",
        "The oesophagus"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The small intestine is about 6 metres of the 8. It is called small because it is narrow. If you chose the large intestine, remember that 'large' describes its width. It is only about 1.5 metres long."
      },
      "parent": "The whole tube is about 8 metres. A child of nine is about 1.3 metres tall, so about six children of that height, lying head to toe, would match the tube. Your child's own food tube is shorter than this one, because it grows with the body.",
@@ -1519,11 +1519,11 @@
       "t": "mcq",
       "q": "In peristalsis, where does the food pipe squeeze to move food forward?",
       "options": [
-       "Just behind the food",
        "Just in front of the food",
-       "Along the whole pipe at once"
+       "Along the whole pipe at once",
+       "Just behind the food"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A ring that tightens behind the food pushes it forward. A squeeze in front pushes it back. A squeeze everywhere at once would only trap the food."
      },
      "context": "In this step of Squeeze It Along you squeeze behind the lemon, and then in front of the lemon."
@@ -1767,12 +1767,12 @@
      "t": "mcq",
      "p": "What is digestion for?",
      "opts": [
-      "Breaking food small enough to enter the blood",
       "Keeping food warm inside the belly",
+      "Breaking food small enough to enter the blood",
       "Storing food until the next meal",
       "Turning food into air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Food pieces are far too big to pass through the gut wall. Digestion cuts them into small molecules that can cross into the blood.",
      "outcome": 0
     },
@@ -1841,12 +1841,12 @@
      "t": "mcq",
      "p": "Which liquid in the mouth wets food and starts to digest starch?",
      "opts": [
-      "Saliva",
       "Bile",
+      "Saliva",
       "Stomach acid",
       "Blood"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Saliva makes food slippery and holds an enzyme that cuts starch into sugar. Bile and stomach acid are added further along.",
      "outcome": 2
     },
@@ -1894,12 +1894,12 @@
      "t": "mcq",
      "p": "What do villi do?",
      "opts": [
-      "Absorb digested food into the blood",
       "Grind food into pieces",
+      "Absorb digested food into the blood",
       "Make stomach acid",
       "Push food back up"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Villi are tiny fingers on the lining of the small intestine. Digested food passes through them into tiny blood vessels inside.",
      "outcome": 5
     },
@@ -1964,12 +1964,12 @@
      "t": "mcq",
      "p": "What are faeces mostly made of?",
      "opts": [
-      "Water",
       "Undigested rice",
       "Stomach acid",
+      "Water",
       "Blood"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Faeces are about three quarters water. Much of the solid part is bacteria, and the rest is mostly fibre.",
      "outcome": 6
     },
@@ -2003,12 +2003,12 @@
      "t": "mcq",
      "p": "Dipping a raw carrot piece in water hardly changes its chew count. Why?",
      "opts": [
-      "The carrot needs breaking, not wetting",
       "Water makes carrots harder",
+      "The carrot needs breaking, not wetting",
       "Carrots contain no water",
       "The teeth were tired"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A carrot is mostly water already. Its chews are spent breaking hard pieces, and a dip in water does not break anything.",
      "outcome": 2,
      "how": "e1"
@@ -2017,12 +2017,12 @@
      "t": "mcq",
      "p": "Why does the stomach let chyme out a little at a time?",
      "opts": [
-      "So the small intestine can deal with it",
       "Because the stomach is too weak",
       "To keep the stomach warm",
+      "So the small intestine can deal with it",
       "So that food can go back up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The small intestine must cancel the acid, add bile and enzymes, and absorb the food. It can only handle a small amount at once.",
      "outcome": 4
     },
@@ -2030,12 +2030,12 @@
      "t": "mcq",
      "p": "Why does the stomach not digest its own wall?",
      "opts": [
-      "Thick mucus coats the wall",
       "The acid is very weak",
+      "Thick mucus coats the wall",
       "The wall is made of bone",
       "It has no enzymes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A layer of slippery mucus keeps the acid and pepsin off the wall. The cells of the lining are also replaced every few days.",
      "outcome": 4
     },
@@ -2043,12 +2043,12 @@
      "t": "mcq",
      "p": "Blood from the small intestine goes to one organ first. Which one?",
      "opts": [
-      "The liver",
       "The lungs",
       "The brain",
+      "The liver",
       "The kidneys"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The liver receives the absorbed food first. It stores some sugar and breaks down many harmful molecules before the blood goes on.",
      "outcome": 5
     },
@@ -2234,12 +2234,12 @@
      "t": "mcq",
      "p": "A dog's intestine still squeezed food along after its nerves to the brain were cut. What does this show?",
      "opts": [
-      "The gut has its own nerve net",
       "The brain is not needed for anything",
       "The intestine has no nerves",
-      "Food moves by falling"
+      "Food moves by falling",
+      "The gut has its own nerve net"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The intestine sensed the food and squeezed behind it without the brain. The nerve net in the gut wall runs peristalsis.",
      "outcome": 3
     },
@@ -2261,12 +2261,12 @@
      "t": "mcq",
      "p": "Fibre cannot be cut by human enzymes. What happens to it in the large intestine?",
      "opts": [
-      "Gut bacteria feed on the fibre",
       "It is absorbed whole",
       "It turns into bile",
-      "It goes back to the stomach"
+      "It goes back to the stomach",
+      "Gut bacteria feed on the fibre"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Gut bacteria break down part of the fibre and make gases and some vitamins. The rest leaves in the faeces and helps them hold water.",
      "outcome": 6
     },
@@ -2397,12 +2397,12 @@
    "t": "mcq",
    "p": "Why must food be digested before the body can use it?",
    "opts": [
-    "Its pieces are too big for the blood",
     "It is too cold",
+    "Its pieces are too big for the blood",
     "It has too much water",
     "It is too heavy to carry"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Only small molecules can cross the gut wall. Digestion cuts large food molecules into small ones.",
    "outcome": 0
   },
@@ -2410,12 +2410,12 @@
    "t": "mcq",
    "p": "Which list gives the journey of food in the right order?",
    "opts": [
-    "Mouth, oesophagus, stomach, small intestine, large intestine",
     "Mouth, stomach, oesophagus, large intestine, small intestine",
     "Mouth, liver, stomach, small intestine, large intestine",
+    "Mouth, oesophagus, stomach, small intestine, large intestine",
     "Mouth, oesophagus, small intestine, stomach, large intestine"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The oesophagus leads to the stomach. The small intestine comes before the large intestine. Food never passes through the liver.",
    "outcome": 1
   },
@@ -2423,12 +2423,12 @@
    "t": "mcq",
    "p": "Which two organs help digestion although food never passes through them?",
    "opts": [
-    "Liver and pancreas",
     "Stomach and oesophagus",
+    "Liver and pancreas",
     "Heart and lungs",
     "Mouth and large intestine"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The liver makes bile and the pancreas makes pancreatic juice. Both juices flow into the small intestine through a small tube.",
    "outcome": 1
   },
@@ -2449,12 +2449,12 @@
    "t": "mcq",
    "p": "How does a bite move along the oesophagus?",
    "opts": [
-    "Muscle rings squeeze behind it",
     "It falls under its own weight",
     "Air from the lungs blows it",
-    "Saliva washes it down"
+    "Saliva washes it down",
+    "Muscle rings squeeze behind it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "This squeezing is peristalsis. It pushes food in any direction, so it does not depend on falling.",
    "outcome": 3
   },
@@ -2469,12 +2469,12 @@
    "t": "mcq",
    "p": "Which of these is a job of the stomach?",
    "opts": [
-    "Churning food with acid",
     "Absorbing most of the food",
     "Making bile",
+    "Churning food with acid",
     "Taking back most of the water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stomach stores, churns and adds acid and pepsin. Most absorbing happens in the small intestine, and bile comes from the liver.",
    "outcome": 4
   },
@@ -2482,12 +2482,12 @@
    "t": "mcq",
    "p": "What does bile do to the fat in a meal?",
    "opts": [
-    "Breaks it into tiny droplets",
     "Turns it into sugar",
+    "Breaks it into tiny droplets",
     "Absorbs it into the blood",
     "Makes it solid"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bile keeps fat in tiny droplets, as soap did to the oil in the Oil and Soap Bottles. Enzymes then digest the droplets.",
    "outcome": 5
   },
@@ -2508,12 +2508,12 @@
    "t": "mcq",
    "p": "What is the main job of the large intestine?",
    "opts": [
-    "Taking back water",
     "Grinding food",
+    "Taking back water",
     "Making stomach acid",
     "Cutting protein"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The large intestine absorbs water and salts from what is left. Its bacteria also feed on fibre.",
    "outcome": 6
   },
@@ -2521,12 +2521,12 @@
    "t": "mcq",
    "p": "About how long does a meal take to travel the whole food tube?",
    "opts": [
-    "1 to 3 days",
     "10 seconds",
     "1 hour",
-    "2 weeks"
+    "2 weeks",
+    "1 to 3 days"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The oesophagus takes seconds and the stomach and small intestine take hours. The large intestine takes 1 to 2 days, so the whole journey takes 1 to 3 days.",
    "outcome": 7
   },
@@ -2534,12 +2534,12 @@
    "t": "mcq",
    "p": "A grown-up's food tube is about 8 metres long. Which part makes up most of that length?",
    "opts": [
-    "The small intestine",
     "The stomach",
+    "The small intestine",
     "The oesophagus",
     "The large intestine"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The small intestine is about 6 metres of the 8. The large intestine is about 1.5 metres, and the oesophagus and stomach are about 25 centimetres each.",
    "outcome": 7
   },
@@ -2547,11 +2547,11 @@
    "t": "mcq",
    "p": "What does water do during digestion?",
    "opts": [
-    "It lets enzymes work and carries digested food into the blood",
     "It turns starch into sugar on its own",
-    "It hardens the food so teeth can grind it"
+    "It hardens the food so teeth can grind it",
+    "It lets enzymes work and carries digested food into the blood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.",
    "outcome": 0
   },
@@ -2559,11 +2559,11 @@
    "t": "mcq",
    "p": "What does water do during digestion?",
    "opts": [
-    "It lets enzymes work and carries digested food into the blood",
     "It turns starch into sugar on its own",
-    "It hardens the food so teeth can grind it"
+    "It hardens the food so teeth can grind it",
+    "It lets enzymes work and carries digested food into the blood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.",
    "outcome": 0
   }

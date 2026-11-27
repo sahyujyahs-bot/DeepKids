@@ -471,11 +471,11 @@
       "t": "mcq",
       "q": "You stand a mirror on the middle of a letter F. What do you see?",
       "options": [
-       "A new shape that is not an F",
        "A whole F",
-       "Nothing at all"
+       "Nothing at all",
+       "A new shape that is not an F"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The letter F has no line of symmetry. Its two halves don't match, so the mirror makes a new shape."
      }
     }
@@ -550,11 +550,11 @@
       "t": "mcq",
       "q": "You fold a tulsi leaf along the middle vein. What do you see?",
       "options": [
-       "The halves nearly match",
        "The halves are very different",
+       "The halves nearly match",
        "The leaf has three halves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A leaf grows one half on each side of the middle vein. The halves nearly match, but never perfectly."
      },
      "parent": "Each half grows in its own place, so each half has its own small differences. Accept any sensible idea."
@@ -726,11 +726,11 @@
       "t": "mcq",
       "q": "You rubbed your folded drawing and opened it. Where is the line of symmetry of your picture?",
       "options": [
-       "Along the fold",
        "Along the top edge of the paper",
-       "Round the outside"
+       "Round the outside",
+       "Along the fold"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The copy is made by folding, so the two halves meet at the fold. The fold is the line of symmetry."
      }
     }
@@ -816,11 +816,11 @@
       "t": "mcq",
       "q": "The leader lifts the arm on the window side. You are the mirror, facing the leader. Which arm do you lift?",
       "options": [
-       "The arm on the window side",
        "The arm on the door side",
+       "The arm on the window side",
        "Both arms"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A mirror copies on the same side. So the mirror lifts the arm on the window side too. Together, the two of them make one symmetric shape."
      },
      "ask": [
@@ -1073,11 +1073,11 @@
       "t": "mcq",
       "q": "What comes next? Red, blue, red, blue, ...",
       "options": [
-       "Red",
        "Blue",
-       "Green"
+       "Green",
+       "Red"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The pattern repeats red, then blue, over and over. After blue, the next one is red."
      }
     },
@@ -1408,11 +1408,11 @@
      "t": "mcq",
      "p": "You fold a paper in half and cut a shape on the fold. Then you open the paper. What do you see?",
      "opts": [
-      "A shape with two matching halves",
       "A shape with no middle",
+      "A shape with two matching halves",
       "Two different shapes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The two halves were cut together, so they match. The fold becomes the line of symmetry."
     }
    ]
@@ -1443,11 +1443,11 @@
      "t": "mcq",
      "p": "You stand a mirror on the middle line of a hibiscus flower. What do you see?",
      "opts": [
-      "A whole flower",
       "Half a flower and an empty mirror",
+      "A whole flower",
       "A new shape, not a flower"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A hibiscus flower has a line through its centre that cuts it into two matching halves. So the mirror shows the other half, and you see a whole flower."
     },
     {
@@ -1491,11 +1491,11 @@
      "t": "mcq",
      "p": "You cut a paper butterfly. One wing comes out much bigger than the other. You rest the butterfly on a pencil along her middle. What happens?",
      "opts": [
-      "She tips towards the bigger wing",
       "She balances",
-      "She flies away"
+      "She flies away",
+      "She tips towards the bigger wing"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The bigger wing is heavier. The two sides no longer match, so the butterfly tips towards the heavier side.",
      "how": "c1"
     },
@@ -1540,11 +1540,11 @@
    "t": "mcq",
    "p": "A shape has symmetry. What does that mean?",
    "opts": [
-    "Its two halves match",
     "It is very big",
+    "Its two halves match",
     "It has many colours"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Symmetry means the two halves of a shape match, like a butterfly's two sides.",
    "outcome": 0
   },
@@ -1564,11 +1564,11 @@
    "t": "mcq",
    "p": "Where is the line of symmetry on a butterfly?",
    "opts": [
-    "Down her body, from head to tail",
     "Across her wings, from side to side",
+    "Down her body, from head to tail",
     "Round the edge of her wings"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The line down her body has two wings on each side, and the two sides match.",
    "outcome": 1
   },
@@ -1576,11 +1576,11 @@
    "t": "mcq",
    "p": "Where is the line of symmetry on your face?",
    "opts": [
-    "Down the middle of your nose",
     "Across your eyes",
-    "Along your chin"
+    "Along your chin",
+    "Down the middle of your nose"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A line down the middle of your nose has one eye, one ear and one cheek on each side.",
    "outcome": 1
   },
@@ -1588,11 +1588,11 @@
    "t": "mcq",
    "p": "You stand a mirror on the middle vein of a leaf. You see a whole leaf. What does that show?",
    "opts": [
-    "The leaf's two halves match",
     "The leaf is broken",
+    "The leaf's two halves match",
     "The mirror makes leaves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The mirror shows one half of the leaf, flipped over. A whole leaf appears only when the two halves match.",
    "outcome": 2,
    "how": "e1"
@@ -1601,11 +1601,11 @@
    "t": "mcq",
    "p": "Are the two sides of your face exactly the same?",
    "opts": [
-    "Nearly, but not exactly",
     "Yes, exactly the same",
+    "Nearly, but not exactly",
     "No, not at all alike"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In the Mirror Test, the mirror face looked like the person, but not quite. Faces nearly match, never exactly.",
    "outcome": 3,
    "how": "e1"
@@ -1614,11 +1614,11 @@
    "t": "mcq",
    "p": "Why does a butterfly need her two sides to match?",
    "opts": [
-    "So both sides push the same air, and she flies straight",
     "So she can hear better",
-    "So she stays warm at night"
+    "So she stays warm at night",
+    "So both sides push the same air, and she flies straight"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Matching wings push the same amount of air on each side. If one side were much smaller, she would fly crooked.",
    "outcome": 4
   },
@@ -1639,11 +1639,11 @@
    "t": "mcq",
    "p": "What do we call the middle line where a shape folds into two matching halves?",
    "opts": [
-    "The line of symmetry",
     "The edge",
+    "The line of symmetry",
     "The corner"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fold a shape along its line of symmetry, and the two halves match.",
    "outcome": 1
   },

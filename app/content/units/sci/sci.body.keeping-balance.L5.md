@@ -564,7 +564,7 @@ At the landing the teacher asked how long she had been steering.
 ## Worksheets
 ### Feedback loops: sensor, control and effector (core) (core, 15 questions)
 1. (mcq) Which three jobs does every feedback loop need?  
-   Options: Sensing, deciding and acting / Heating, cooling and resting / Starting, running and stopping  
+   Options: Heating, cooling and resting / Sensing, deciding and acting / Starting, running and stopping  
    **Answer:** Sensing, deciding and acting. *Why:* A loop must detect the change, compare it with what is needed, and act. Take one away and the level drifts.
 2. (fill) The part of a loop that detects a change is called the ____.  
    **Answer:** ['sensor', 'receptor']. *Why:* A sensor detects one kind of change and reports it. In the body a sensor is also called a receptor.
@@ -575,12 +575,12 @@ At the landing the teacher asked how long she had been steering.
 5. (sort) Sort each machine: closed loop or open loop?  
    **Answer:** fridge → Closed loop; mixer-grinder → Open loop; electric iron → Closed loop; tube light → Open loop; flush tank → Closed loop; toaster timer → Open loop. *Why:* A fridge, an iron and a flush tank each measure their own result and change what they do. The others run as set, whatever the result.
 6. (mcq) You pour water with your eyes shut and it overflows. What was missing?  
-   Options: A stronger hand / News of the water level / A bigger jug  
+   Options: News of the water level / A stronger hand / A bigger jug  
    **Answer:** News of the water level. *Why:* With eyes shut, no news of the level came back, so the hand could not stop in time. The loop was open.
 7. (write) In the Stick Test, the pencil fell much sooner than the long stick. Explain why.  
    **Answer:** A short stick tips over faster than a long one. My eyes, brain and hand need about a fifth of a second for each correction. The pencil is too far over before the correction arrives. The long stick tips slowly, so there is time for several corrections.. *Why:* A strong answer compares two times: how fast the stick tips, and how long the loop takes to go round.
 8. (mcq) With eyes shut, the long stick fell quickly. Which part of the loop had been removed?  
-   Options: The control centre / The effector / The main sensor  
+   Options: The control centre / The main sensor / The effector  
    **Answer:** The main sensor. *Why:* The eyes are the main sensor for the stick's lean. The brain and the arm were unchanged.
 9. (order) Put these in order, for what happens when you stand up.  
    **Answer:** ['Gravity pulls blood towards your legs', 'Pressure in the neck arteries falls a little', 'Baroreceptors send fewer signals', 'The brainstem speeds the heart and tightens small arteries', 'The pressure comes back up']. *Why:* The fall in pressure is sensed in the neck arteries. The brainstem compares and orders the heart and arteries to act. The response undoes the fall.
@@ -589,7 +589,7 @@ At the landing the teacher asked how long she had been steering.
 11. (match) Match each part of a flush tank to its job in the loop.  
    **Answer:** Float → sensor; Arm joining float to tap → control; Inlet tap → effector; Water height → the level that is kept. *Why:* The float detects the height. The arm turns that height into more or less opening. The tap lets water in.
 12. (mcq) What does the bimetallic strip in an iron do when it gets hot?  
-   Options: It bends and opens a switch / It melts / It glows red  
+   Options: It melts / It bends and opens a switch / It glows red  
    **Answer:** It bends and opens a switch. *Why:* The strip is two metals joined together. One grows more when heated, so the strip bends, and the bend pulls the switch open.
 13. (draw) Draw the loop for a fridge as a circle. Label the sensor, the control, the effector and the level.  
    **Answer:** A circle of four parts with arrows: the temperature inside the fridge, the thermostat's sensor, the thermostat switch, and the compressor motor, which leads back to the temperature.. *Why:* A strong drawing is a closed circle. The arrow from the motor must come back to the temperature, because the motor's work changes what the sensor detects.
@@ -599,12 +599,12 @@ At the landing the teacher asked how long she had been steering.
    **Answer:** No. The sensor measures daylight, and the lamp does not change the daylight. No news about the lamp's own result comes back, so the loop is open.. *Why:* A strong answer says that a sensor alone is not enough. The result of the action must come back to the sensor.
 ### Error, delay and two kinds of control (stretch) (stretch, 15 questions)
 1. (mcq) In a loop, what does 'error' mean?  
-   Options: A mistake made by the sensor / The gap between level and set point / A broken effector  
+   Options: A mistake made by the sensor / A broken effector / The gap between level and set point  
    **Answer:** The gap between level and set point. *Why:* The error is how far the level is from the set point, and on which side. It is a measurement, not a mistake.
 2. (fill) Feedback that acts against a change is called ____ feedback.  
    **Answer:** ['negative']. *Why:* 'Negative' here means opposite. The response pushes the level back the opposite way to the change.
 3. (mcq) An AC is set to 24 degrees. The room is at 30 degrees. What is the error?  
-   Options: 24 degrees / 54 degrees / 6 degrees too warm  
+   Options: 24 degrees / 6 degrees too warm / 54 degrees  
    **Answer:** 6 degrees too warm. *Why:* The error is the gap between now and the set point. 30 − 24 = 6, and the room is on the warm side.
 4. (sort) Sort each control: on-off, or how-much?  
    **Answer:** an iron's heater → On-off control; an inverter air conditioner → How-much control; sweating → How-much control; a fridge motor that runs or stops → On-off control; your heart rate → How-much control; a geyser's heater → On-off control. *Why:* On-off parts have two states. How-much parts can give a small, medium or large response to match the error.
@@ -645,7 +645,7 @@ At the landing the teacher asked how long she had been steering.
 5. (write) A glucose sensor, a computer program and an insulin pump work together. Which loop job does each one do?  
    **Answer:** The sensor under her skin detects glucose. The computer program compares the reading with a target and decides. The pump is the effector and gives insulin. Her own liver, muscle and fat cells then take glucose in.. *Why:* A strong answer matches sensor, control and effector to the three machine parts, and notices that her body's cells still do the final work.
 6. (mcq) James Watt's governor had two spinning balls. What did the balls sense?  
-   Options: The speed of the engine / The heat of the steam / The weight of the load  
+   Options: The heat of the steam / The weight of the load / The speed of the engine  
    **Answer:** The speed of the engine. *Why:* The faster the engine turned, the further the balls swung out. Their height showed the speed, and a lever used it to move the steam valve.
 7. (order) Put these in order, for how a bacterium uses feedback to find sugar.  
    **Answer:** ['The bacterium senses the sugar level now', 'They compare it with the level a few seconds ago', 'If it is rising, they keep swimming straight', 'They reset their sensors to the new level']. *Why:* The comparison with a moment ago tells the bacterium whether things are getting better. Resetting the sensors lets them detect the next small change.
@@ -654,7 +654,7 @@ At the landing the teacher asked how long she had been steering.
 9. (write) Some scientists say the brain stores no set point for temperature. What, then, keeps the body near 37 degrees?  
    **Answer:** They say that sweating, shivering and skin blood flow are separate loops, each switching on at its own temperature. All of them respond to the same body temperature, and their combined action holds it near 37 degrees.. *Why:* A strong answer says that the steady level comes from several loops acting together, and not from one stored number.
 10. (mcq) A pencil with forks hanging below it stays up with your eyes shut. What kind of steadiness is this?  
-   Options: Steady by a fast feedback loop / Steady by its shape, with no loop / Steady by luck  
+   Options: Steady by a fast feedback loop / Steady by luck / Steady by its shape, with no loop  
    **Answer:** Steady by its shape, with no loop. *Why:* With the weight below the support, a lean swings back by itself. No sensing or correcting is needed.
 11. (truefalse) True or false: positive feedback makes a change smaller.  
    **Answer:** False. *Why:* False. Positive feedback makes a change bigger. The squeal of a microphone held near its loudspeaker is positive feedback.
@@ -665,7 +665,7 @@ At the landing the teacher asked how long she had been steering.
 14. (match) Match each machine to the part that does its sensing.  
    **Answer:** Steam engine governor → two spinning balls; Electric iron → bimetallic strip; Flush tank → float; Closed-loop insulin pump → glucose sensor under the skin. *Why:* The balls swing out with speed, the strip bends with heat, the float rises with water, and the skin sensor reads glucose. Each turns one kind of change into a movement or a signal.
 15. (mcq) Warm weather wears rock away faster, which removes carbon dioxide and cools the Earth. What is this?  
-   Options: Positive feedback / An open loop / Negative feedback  
+   Options: Positive feedback / Negative feedback / An open loop  
    **Answer:** Negative feedback. *Why:* The response acts against the warming, so it is negative feedback. It works over hundreds of thousands of years.
 
 ## Videos
@@ -675,16 +675,16 @@ At the landing the teacher asked how long she had been steering.
 
 ## Quiz
 1. (mcq) Which part of a feedback loop compares the level with what is needed?  
-   Options: The control centre / The sensor / The effector  
+   Options: The sensor / The effector / The control centre  
    **Answer:** The control centre. *Why:* The control centre receives the sensor's report, compares it with the level that is needed and sends an order. Choosing 'sensor' mixes up detecting with deciding.
 2. (mcq) Sweat glands carry out an order from the brain. Which job in the loop is that?  
-   Options: Sensor / Effector / Control centre  
+   Options: Effector / Sensor / Control centre  
    **Answer:** Effector. *Why:* An effector acts and so changes the level. Sweat glands, muscles and the heart are effectors.
 3. (mcq) What makes a system a closed loop?  
    Options: It has a switch / It runs on electricity / News of its result changes its action  
    **Answer:** News of its result changes its action. *Why:* A closed loop measures its own result and adjusts. An open loop acts without checking.
 4. (mcq) Which of these is an open loop?  
-   Options: A mixer-grinder / A fridge / A flush tank  
+   Options: A fridge / A flush tank / A mixer-grinder  
    **Answer:** A mixer-grinder. *Why:* A mixer-grinder runs while the switch is held, whatever is in the jar. A fridge and a flush tank both check their own result.
 5. (mcq) Why is a metre stick easier to balance on your palm than a pencil?  
    Options: It is heavier / It tips more slowly / It is easier to see  
@@ -696,16 +696,16 @@ At the landing the teacher asked how long she had been steering.
    Options: Stretch sensors in the neck arteries / The leg muscles / The lungs  
    **Answer:** Stretch sensors in the neck arteries. *Why:* Baroreceptors in the walls of the neck arteries and the large artery from the heart detect the drop and signal the brainstem.
 8. (mcq) In a flush tank, which part is the sensor?  
-   Options: The inlet tap / The float / The flush handle  
+   Options: The float / The inlet tap / The flush handle  
    **Answer:** The float. *Why:* The float rides on the water, so its height shows the water level. The tap is the effector. The handle only starts the flush.
 9. (mcq) An iron's light goes on and off. What kind of control is this?  
-   Options: How-much control / No control / On-off control  
+   Options: On-off control / How-much control / No control  
    **Answer:** On-off control. *Why:* The heater is either fully on or fully off, and a switch moved by a bimetallic strip decides which.
 10. (mcq) Which of these senses glucose and releases insulin with no order from the brain?  
-   Options: A beta cell in the pancreas / A sweat gland / A baroreceptor  
+   Options: A sweat gland / A baroreceptor / A beta cell in the pancreas  
    **Answer:** A beta cell in the pancreas. *Why:* A beta cell is a sensor and a control in one cell. It shows that not every loop passes through the brain.
 11. (mcq) You timed a stick 5 times. Why find the mean and not use the best try?  
-   Options: The mean is always bigger / One try can be lucky or unlucky / It is quicker  
+   Options: The mean is always bigger / It is quicker / One try can be lucky or unlucky  
    **Answer:** One try can be lucky or unlucky. *Why:* A single try can be unusually good or bad. The mean of several tries is a fairer picture of what usually happens.
 
 ## Applications

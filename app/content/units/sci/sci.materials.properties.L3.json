@@ -950,12 +950,12 @@
      "t": "mcq",
      "p": "Here are four things you could say about a steel lunch box. Which one is about the box, and not about the steel?",
      "opts": [
-      "It is shaped like a rectangle",
       "It is shiny",
       "It keeps water out",
+      "It is shaped like a rectangle",
       "It rings when I tap it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Shape belongs to the object. The same steel could be made into a round tumbler or a flat spoon. Shiny, waterproof and ringing stay true of steel in any shape, so they are properties of the material. A strong answer says why: change the shape and these three stay the same."
     },
     {
@@ -1076,12 +1076,12 @@
      "t": "mcq",
      "p": "A child says, 'My pencil is made of wood. So wood is one of its properties.' What is the mistake?",
      "opts": [
-      "Wood is the material. A property would be a word like light or easy to sharpen",
       "There is no mistake",
+      "Wood is the material. A property would be a word like light or easy to sharpen",
       "Pencils are not made of anything",
       "Wood is the object"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The material is what a thing is made of. A property says what that material is like. The child mixed up the two. Picking 'wood is the object' mixes it up the other way, because the pencil is the object."
     },
     {
@@ -1117,12 +1117,12 @@
      "t": "mcq",
      "p": "You push three strips over the edge of a table, the same length each: a steel ruler, a plastic ruler and a strip of cotton cloth. Which tip will droop the most?",
      "opts": [
-      "The cloth",
       "The steel ruler",
       "The plastic ruler",
+      "The cloth",
       "All the same, because they are the same length"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e2",
      "why": "Cloth is the most flexible, so it hangs straight down. The steel ruler is the most rigid and hardly droops. Picking 'all the same' forgets that the material changed, and the material decides how flexible the strip is."
     },
@@ -1204,12 +1204,12 @@
      "t": "mcq",
      "p": "A strip held 6, 5 and 6 cups of water in three tries. Another strip held 2, 7 and 4. Which result can you trust more?",
      "opts": [
-      "The first, because the three numbers are close",
       "The second, because it reached 7",
       "Neither, because tests are never reliable",
+      "The first, because the three numbers are close",
       "They are equally reliable"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When repeated tries give close numbers, the result is reliable. When they are far apart, something changed between tries, such as the method. Picking the second because of the biggest number would be trusting the luckiest try.",
      "how": "e3",
      "context": "In the dry or damp test, you hang a bag from a strip and pour in water until the strip tears. You repeat the test to see whether the results are reliable."
@@ -1218,12 +1218,12 @@
      "t": "mcq",
      "p": "Look at the table. Foil and cloth both drooped 10 centimetres, which is the whole way down. How could you find out which of the two is more flexible?",
      "opts": [
-      "Make both strips stick out only 5 centimetres, so neither hangs straight down",
       "Use a longer strip of cloth",
+      "Make both strips stick out only 5 centimetres, so neither hangs straight down",
       "Measure them again in the same way",
       "You cannot ever find out"
      ],
-     "a": 0,
+     "a": 1,
      "chart": {
       "type": "table",
       "title": "Made-up example: how far each strip drooped over the table edge",
@@ -1431,12 +1431,12 @@
      "t": "mcq",
      "p": "Why do metals feel cold and look shiny?",
      "opts": [
-      "Some of their electrons roam freely, carrying heat and bouncing light",
       "Metals are always colder than other things",
       "Metal atoms are bigger",
+      "Some of their electrons roam freely, carrying heat and bouncing light",
       "Metals have no atoms in them"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a metal, some electrons are not tied to one atom. They carry heat away from your hand quickly, so metal feels cold. They also bounce light back, which makes metals shiny. 'Always colder' is wrong: a thermometer shows that a steel spoon and a wooden spoon in the same room are at the same temperature."
     },
     {
@@ -1536,12 +1536,12 @@
      "t": "mcq",
      "p": "A scientist says, 'Cotton thread is strong.' What should she add to be more accurate?",
      "opts": [
-      "How long and how thick the thread was, and how damp the air was",
       "How old the scientist is",
       "What colour the thread is",
+      "How long and how thick the thread was, and how damp the air was",
       "Nothing, because it is always true"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A thread's strength depends on its thickness and on the dampness of the air. The same words 'cotton thread' could describe very different results. Picking 'nothing' is the idea that properties never change. In the story The Thread That Held at Dawn, the same thread held more shells in the damp dawn air than in the dry air of noon."
     },
     {
@@ -1584,12 +1584,12 @@
      "t": "mcq",
      "p": "Ghee is solid on a cold winter morning in Delhi. It is runny on a hot afternoon in Chennai. What does this show?",
      "opts": [
-      "A property can change with temperature",
       "It is two different materials",
       "Ghee in Chennai is not real ghee",
+      "A property can change with temperature",
       "Ghee has no properties"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The ghee is the same material. Heat changes whether it is solid or runny. This is why a test must say the temperature, just as it must say how damp or thick the material was."
     },
     {
@@ -1603,12 +1603,12 @@
      "t": "mcq",
      "p": "Someone says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
      "opts": [
-      "Each is good for some jobs: rubber for a tyre, glass for spectacles",
       "That is right, because glass breaks",
       "That is wrong, because glass is always better",
+      "Each is good for some jobs: rubber for a tyre, glass for spectacles",
       "Materials cannot be compared"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A material is good or bad only for a job. Glass is transparent, so it is right for spectacles, where rubber would be useless. Rubber is elastic and tough, so it is right for a tyre."
     },
     {
@@ -1943,11 +1943,11 @@
       "t": "mcq",
       "q": "In the droop test, a strip with a big drop is…",
       "options": [
-       "More flexible",
        "More rigid",
-       "Stronger"
+       "Stronger",
+       "More flexible"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A big drop means the strip bent a lot under the coin. That is a flexible strip. A small drop means rigid. Picking 'stronger' mixes up flexible and strong. A very flexible cloth can still be strong."
      },
      "chart": {
@@ -2368,11 +2368,11 @@
       "t": "mcq",
       "q": "In the vanishing drop chart, a very tall bar means the surface is…",
       "options": [
-       "Waterproof or nearly so",
        "Very absorbent",
+       "Waterproof or nearly so",
        "Very heavy"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A tall bar is a long time. The drop stayed on top for a long time or never went in. That is waterproof. Picking 'very absorbent' reads the chart backwards. The most absorbent surface has the shortest bar, because its drop vanishes fastest."
      },
      "chart": {
@@ -2751,11 +2751,11 @@
       "t": "mcq",
       "q": "A steel spoon feels colder than a wooden spoon, in the same room. What does that tell you?",
       "options": [
-       "Steel carries heat away from your hand faster",
        "Steel is a lower temperature",
+       "Steel carries heat away from your hand faster",
        "Wood makes its own heat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both are at room temperature. Steel takes heat from your hand faster than wood does, so your skin says 'cold'. Picking 'steel is a lower temperature' is the common idea. A thermometer would show the same number for both. Wood makes no heat of its own."
      }
     },
@@ -2853,11 +2853,11 @@
       "t": "mcq",
       "q": "A frying pan has a metal body and a wooden handle. Which is true?",
       "options": [
-       "One object, two materials, with different properties",
        "One object, one material",
-       "Two objects, one material"
+       "Two objects, one material",
+       "One object, two materials, with different properties"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The pan is one object. It is made of two materials, metal and wood. They have different properties, and that is why each is used where it is. Picking 'one material' misses the wood. The object and its materials are different ideas."
      }
     },
@@ -2962,11 +2962,11 @@
       "t": "mcq",
       "q": "A steel spoon is near the top of the hardness ladder. Where is it on the flexible ladder?",
       "options": [
-       "Near the stiff end",
        "Near the flexible end",
+       "Near the stiff end",
        "In the same place as on the hardness ladder"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steel spoon is hard and rigid. It sits at the hard end of one ladder and the rigid end of the other. But a rubber is soft and flexible. A plastic ruler is fairly hard and flexible. So the orders are not the same. Picking 'same place' misses that each property has its own ladder."
      }
     },
@@ -3059,11 +3059,11 @@
       "t": "mcq",
       "q": "You hold a red plastic and a green plastic together in front of a torch. What do you see on the wall?",
       "options": [
-       "Almost no light, because each one blocks what the other lets through",
        "A bright yellow light",
-       "A brighter red light"
+       "A brighter red light",
+       "Almost no light, because each one blocks what the other lets through"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The red plastic lets red light through and soaks up green. The green plastic lets green through and soaks up red. Together they let almost nothing through. Picking 'yellow' comes from shining a red light and a green light on the same spot, which does make yellow. But filters work by taking colours away, not adding them."
      },
      "parent": "Cheap plastic does not block light perfectly. With red and green together you may see a faint glow, but it should be much darker than with one plastic."
@@ -3303,11 +3303,11 @@
       "t": "mcq",
       "q": "A foil ball sinks and a foil boat floats. Both are the same foil. Why?",
       "options": [
-       "The boat holds air, so it is less tightly packed than water",
        "The boat is lighter",
+       "The boat holds air, so it is less tightly packed than water",
        "The ball is a different material"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The boat has a hollow space full of air. The boat and its air together are less tightly packed than water. The ball is solid foil, more tightly packed than water, so it sinks. They weigh the same, so 'lighter' is wrong. The material is the same, so 'different material' is wrong. The shape of the object is what changed."
      }
     },
@@ -3409,11 +3409,11 @@
       "t": "mcq",
       "q": "In the droop test the most flexible strip dropped 10 centimetres. Another dropped 5. About what flexible score out of 5 should the second get?",
       "options": [
-       "2 or 3, because 5 is half of 10",
        "5, because it dropped too",
-       "5, the number of centimetres"
+       "5, the number of centimetres",
+       "2 or 3, because 5 is half of 10"
       ],
-      "a": 0,
+      "a": 2,
       "why": "5 is half of 10. Half of 5 is 2 and a half. So the score is 2 or 3. Picking 5 gives everything a top score. Making scores this way means every test counts the same, with the best one always at 5."
      }
     },
@@ -3679,12 +3679,12 @@
    "t": "mcq",
    "p": "A steel spoon and a steel tumbler are different objects. What is the same about them?",
    "opts": [
-    "The material, and so the material's properties",
     "The shape",
+    "The material, and so the material's properties",
     "The use",
     "The size"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 1,
    "why": "Both are steel, so both are hard, shiny and cold to touch. Picking shape, use or size mixes up the object and the material. Those are properties of the object, not of the steel."
   },
@@ -3692,11 +3692,11 @@
    "t": "mcq",
    "p": "A fingernail scratches chalk. A steel nail scratches a fingernail. Which is hardest?",
    "opts": [
-    "The steel nail",
     "The fingernail",
+    "The steel nail",
     "The chalk"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "If A scratches B, then A is harder than B. The nail scratches the fingernail, and the fingernail scratches the chalk. So the nail is hardest and the chalk is softest. Picking the chalk reverses the clue.",
    "context": "This is the scratch test. If one thing can scratch another, the first is harder."
@@ -3705,11 +3705,11 @@
    "t": "mcq",
    "p": "Strip A drooped 2 centimetres in the droop test. Strip B drooped 9 centimetres. Which is more flexible?",
    "opts": [
-    "Strip B",
     "Strip A",
-    "They are the same"
+    "They are the same",
+    "Strip B"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 2,
    "how": "e2",
    "why": "A big drop means the strip bent a lot, so B is more flexible. A drooped only a little, so it is more rigid. Picking A is the common mistake of thinking a smaller number means more flexible."
@@ -3732,12 +3732,12 @@
    "t": "mcq",
    "p": "Glass is the right material for a window and the wrong one for a bridge. Why?",
    "opts": [
-    "The job decides which properties matter",
     "Glass is a bad material",
     "Bridges are not made of anything",
-    "Glass is too hard"
+    "Glass is too hard",
+    "The job decides which properties matter"
    ],
-   "a": 0,
+   "a": 3,
    "outcome": 4,
    "why": "A window needs to be transparent. A bridge needs to be strong. Glass is transparent but brittle. No property is good or bad by itself. Picking 'glass is a bad material' misses that glass is perfect for its own job."
   },
@@ -3745,12 +3745,12 @@
    "t": "mcq",
    "p": "In the story The Thread That Held at Dawn, Shefali tested whether dampness changes how strong a thread is. She cut every thread to the same length and used shells of the same size. Why?",
    "opts": [
-    "So that only the dampness changed, and the numbers could be compared",
     "So that the shells would not fall out",
     "So that the thread would look neat",
+    "So that only the dampness changed, and the numbers could be compared",
     "Because the village told her to"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "A fair test changes one thing. Same length and same shells meant that any difference in the count came from the dampness. 'Neat' and 'the village' are not reasons that make numbers comparable.",
    "context": "In a dry or damp test, you hang a cup from a thread at dawn and at noon, and drop in shells until it breaks."
@@ -3759,12 +3759,12 @@
    "t": "mcq",
    "p": "A paper clip stays bent. A plastic ruler springs back. A dry spaghetti stick snaps. Which one is brittle?",
    "opts": [
-    "The spaghetti",
     "The paper clip",
+    "The spaghetti",
     "The ruler",
     "All three"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "how": "e1",
    "why": "Brittle means it snaps or shatters instead of bending. The spaghetti snaps. The paper clip bends but stays bent, and the ruler springs back, which is called elastic. Picking the paper clip mixes up 'bends and stays bent' with 'breaks'."
@@ -3773,12 +3773,12 @@
    "t": "mcq",
    "p": "A drop on paper towel vanished in 2 seconds. A drop on a plastic bag was still there after 2 minutes. What does this show about the bag?",
    "opts": [
-    "It is waterproof",
     "It is very absorbent",
     "It is very heavy",
+    "It is waterproof",
     "The test did not work"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 3,
    "how": "e4",
    "why": "A drop that stays on top means the water cannot get in. That is waterproof. Picking 'very absorbent' reads the result backwards. Picking 'the test did not work' is a common reaction to a zero. But a drop that stays is a real answer."
@@ -3787,12 +3787,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still not fully understand?",
    "opts": [
-    "What exactly glass is, and why a liquid turns into glass",
     "That a steel nail is harder than chalk",
     "That wet cotton is stronger than dry",
+    "What exactly glass is, and why a liquid turns into glass",
     "That rubber stretches"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 6,
    "why": "Glass is an open puzzle. Its atoms are jumbled like a liquid's but stuck like a solid's. A famous physicist called it one of the deepest unsolved problems of solid matter. The other three have been tested again and again."
   },
@@ -3800,12 +3800,12 @@
    "t": "mcq",
    "p": "Toilet paper falls apart when it gets wet. Is that always a bad property?",
    "opts": [
-    "No, it depends on the job",
     "Yes, weak is always bad",
     "Yes, because paper should be strong",
+    "No, it depends on the job",
     "No, because toilet paper is not a material"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 4,
    "why": "Toilet paper that falls apart in water does not block the pipes, so for its job that is useful. Weak is only bad when the job needs strong. Picking 'always bad' treats a property as good or bad on its own."
   }

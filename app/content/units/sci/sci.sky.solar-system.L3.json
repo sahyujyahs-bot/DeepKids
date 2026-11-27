@@ -645,11 +645,11 @@
       "t": "mcq",
       "q": "Which first question splits the eight planets exactly in half?",
       "options": [
-       "Are you a giant planet?",
        "Are you Saturn?",
+       "Are you a giant planet?",
        "Do you have rings that are easy to see?"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Four planets are giants and four are rocky, so a yes or a no leaves exactly four. Picking 'Are you Saturn?' could win at once, but most of the time it leaves seven planets to go."
      }
     },
@@ -826,11 +826,11 @@
       "t": "mcq",
       "q": "At 20 cm the light covered 16 squares. At 40 cm, twice as far, the patch was twice as wide and twice as tall. How many times as many squares did it cover?",
       "options": [
+       "4 times as many",
        "The same number",
-       "2 times as many",
-       "4 times as many"
+       "2 times as many"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Twice as wide and twice as tall is 2 times 2, which is 4 times as many squares. Picking '2 times as many' is the guess most people make. It would be right for a line of light, but a patch grows in two directions at once."
      },
      "parent": "At 30 cm expect about 6 cm across and about 36 squares. At 40 cm, about 8 cm across and about 64 squares. If your counts are a bit off, look at the widths. They should go 4, 6, 8, growing in step with the distance."
@@ -1014,11 +1014,11 @@
       "t": "mcq",
       "q": "While the marble went round, the rim pushed it inwards. What does the same job for the planets?",
       "options": [
-       "The Sun's gravity pulls each planet inwards, so its path keeps curving",
        "The Sun pushes the planets along from behind",
-       "Nothing. Planets go round because they always have"
+       "Nothing. Planets go round because they always have",
+       "The Sun's gravity pulls each planet inwards, so its path keeps curving"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The rim pushed the marble towards the middle, so it kept turning. At the gap, nothing pushed, and it went straight on. The Sun's gravity pulls each planet towards the Sun all the time, so its path keeps curving into an orbit. Picking 'nothing' is a natural guess, but the marble shows a moving thing goes straight unless a force turns it."
      }
     },
@@ -1228,11 +1228,11 @@
       "t": "mcq",
       "q": "In Galileo's Venus Test with the lamp and the ball, when did the ball look small and fully lit?",
       "options": [
-       "When it was on the far side of the lamp from your child",
        "When it was nearest your child",
+       "When it was on the far side of the lamp from your child",
        "When it stayed between the lamp and your child"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The ball looks fully lit only when its lit half faces us, on the far side of the lamp. In the old plan, Venus always stayed between the Earth and the Sun, so it could never get there and could never look full. Picking 'nearest' mixes up big with full: the near ball is big but mostly dark."
      }
     },
@@ -1396,11 +1396,11 @@
       "t": "mcq",
       "q": "Saturn is about 10 times as far from the Sun as the Earth. How strong is sunlight on Saturn?",
       "options": [
-       "About 10 times weaker",
        "About 100 times weaker",
+       "About 10 times weaker",
        "The same as on the Earth"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Light spreads in two directions at once, so 10 times as far means 10 times 10, which is 100 times weaker. Picking '10 times weaker' forgets that the patch grows both wider and taller, as the squares in the torch test showed."
      }
     }
@@ -1455,11 +1455,11 @@
       "t": "mcq",
       "q": "You are 8 years old on the Earth. Are you older or younger in Mars years?",
       "options": [
-       "Younger: about 4 Mars years old",
        "Older: about 16 Mars years old",
+       "Younger: about 4 Mars years old",
        "The same: 8 Mars years old"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Mars takes longer than the Earth to go round the Sun, so its year is longer. Fewer long years fit into 8 Earth years: 2,920 days divided by 687 is about 4. Picking 'older' means thinking a longer orbit gives more birthdays, but it gives fewer."
      }
     }
@@ -1754,12 +1754,12 @@
    "t": "mcq",
    "p": "How many planets go round the Sun?",
    "opts": [
-    "Eight",
     "Nine",
     "Seven",
-    "Five"
+    "Five",
+    "Eight"
    ],
-   "a": 0,
+   "a": 3,
    "why": "There are eight planets. Picking nine is what books said before 2006, when Pluto was counted. Picking five comes from the planets you can see without a telescope.",
    "outcome": 0
   },
@@ -1767,12 +1767,12 @@
    "t": "mcq",
    "p": "Why is Pluto now called a dwarf planet, not a planet?",
    "opts": [
-    "It shares its path round the Sun with many other icy worlds",
     "It stopped going round the Sun",
+    "It shares its path round the Sun with many other icy worlds",
     "It broke into pieces",
     "It is not round"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Since 2006, a planet must clear its path. Pluto is round and goes round the Sun, but many other icy worlds share its path. Picking 'not round' is a good guess for small worlds, but Pluto is round.",
    "outcome": 1
   },
@@ -1780,12 +1780,12 @@
    "t": "mcq",
    "p": "Neptune is about 30 times as far from the Sun as the Earth. What does that mean for Neptune?",
    "opts": [
-    "Its sunlight is about 900 times weaker, so it is very cold and dim",
     "Its sunlight is just 30 times weaker",
     "It gets more sunlight because it is bigger",
+    "Its sunlight is about 900 times weaker, so it is very cold and dim",
     "It is as warm as the Earth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "30 times 30 is 900, so sunlight there is about 900 times weaker. Picking '30 times weaker' forgets that light spreads out in two directions at once.",
    "outcome": 2
   },
@@ -1793,12 +1793,12 @@
    "t": "mcq",
    "p": "Why does Mercury take only 88 days to go round the Sun, while the Earth takes 365?",
    "opts": [
-    "Mercury is closer, so it has a shorter path and moves faster",
     "Mercury is bigger",
     "Mercury spins faster",
+    "Mercury is closer, so it has a shorter path and moves faster",
     "Mercury has no moon"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Closer to the Sun, the path is shorter and the Sun's gravity is stronger, so the planet moves faster. Picking 'Mercury is bigger' is wrong twice: Mercury is the smallest planet, and size does not set the year.",
    "outcome": 3
   },
@@ -1820,12 +1820,12 @@
    "t": "mcq",
    "p": "Through his telescope in 1610, Galileo saw Venus look small and almost fully lit. What did this show?",
    "opts": [
-    "Venus goes round the Sun",
     "Venus makes its own light",
     "Venus is bigger than the Sun",
-    "The Earth is flat"
+    "The Earth is flat",
+    "Venus goes round the Sun"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Venus can only look fully lit when it is on the far side of the Sun from us. So it must go round the Sun. Picking 'makes its own light' does not fit: then Venus would always look full.",
    "outcome": 4
   },
@@ -1833,12 +1833,12 @@
    "t": "mcq",
    "p": "From the ground, the Sun, the Moon and the stars all seem to move across the sky each day. Why did people long ago think the Earth stood still in the middle?",
    "opts": [
-    "The ground feels still under us, and everything seems to go round us",
     "They had telescopes that showed it",
     "The Sun really does go round the Earth",
-    "The stars told them"
+    "The stars told them",
+    "The ground feels still under us, and everything seems to go round us"
    ],
-   "a": 0,
+   "a": 3,
    "why": "We cannot feel the Earth moving, so it looks as if the sky turns round us. It took careful watching through telescopes to show that the Earth and the planets go round the Sun.",
    "outcome": 4
   },
@@ -1846,12 +1846,12 @@
    "t": "mcq",
    "p": "Which of these is a giant planet with no solid ground?",
    "opts": [
-    "Saturn",
     "Mars",
     "Mercury",
-    "Venus"
+    "Venus",
+    "Saturn"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Saturn is a giant made mostly of hydrogen and helium gas. Mars, Mercury and Venus are rocky planets you could stand on.",
    "outcome": 5
   },
@@ -1859,12 +1859,12 @@
    "t": "mcq",
    "p": "What do the four rocky planets have in common?",
    "opts": [
-    "They are small, have hard ground, and are the four nearest the Sun",
     "They all have rings",
     "They all have liquid water",
-    "They are all bigger than Jupiter"
+    "They are all bigger than Jupiter",
+    "They are small, have hard ground, and are the four nearest the Sun"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Mercury, Venus, Earth and Mars are small, rocky and close to the Sun. Only the Earth has liquid water on its surface today.",
    "outcome": 5
   },
@@ -1872,12 +1872,12 @@
    "t": "mcq",
    "p": "What makes the Earth a planet?",
    "opts": [
-    "It is a big round world that goes round the Sun and has cleared its path",
     "It has people living on it",
     "It has a Moon",
+    "It is a big round world that goes round the Sun and has cleared its path",
     "It makes its own light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A planet is round, goes round the Sun and has cleared its path. The Earth does all three. Having a moon or people is not part of the rule, and planets do not make their own light.",
    "outcome": 0
   },
@@ -1885,11 +1885,11 @@
    "t": "mcq",
    "p": "What is at the centre of a planetary system like ours?",
    "opts": [
-    "A star, the Sun",
     "Jupiter, the biggest planet",
+    "A star, the Sun",
     "The Earth"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun is a star, and the planets, asteroids and comets all go round it. Jupiter is the biggest planet, but it goes round the Sun too. The Earth is one of the planets.",
    "outcome": 0
   },
@@ -2098,12 +2098,12 @@
      "t": "mcq",
      "p": "Which planet takes the longest to go round the Sun once?",
      "opts": [
-      "Neptune",
       "Jupiter",
+      "Neptune",
       "Mercury",
       "Earth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Neptune is furthest from the Sun. It has the longest path and moves slowest, so its year is about 165 Earth years. Picking Jupiter means thinking the biggest planet is the slowest, but size does not set a planet's year."
     },
     {
@@ -2134,11 +2134,11 @@
      "p": "If the Earth were half as far from the Sun as it is now, how strong would sunlight on the Earth be?",
      "opts": [
       "2 times stronger",
-      "4 times stronger",
       "2 times weaker",
-      "The same"
+      "The same",
+      "4 times stronger"
      ],
-     "a": 1,
+     "a": 3,
      "why": "This is the torch test backwards. At half the distance, the same light covers one quarter of the area, so each part gets 4 times as much. Picking '2 times stronger' forgets that light spreads in two directions."
     },
     {
@@ -2178,12 +2178,12 @@
      "t": "mcq",
      "p": "Venus is about the same size as the Earth and close to us. Why can nothing live on its surface as far as we know?",
      "opts": [
-      "Its thick air traps so much heat that the ground is about 460 degrees Celsius",
       "It has no sunlight at all",
+      "Its thick air traps so much heat that the ground is about 460 degrees Celsius",
       "It is made of gas with no ground",
       "It is too cold, like Neptune"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Venus gets about twice our sunlight, and its very thick air traps the heat. Picking 'no sunlight' forgets that Venus is closer to the Sun than we are. Picking 'too cold' forgets the trapped heat."
     },
     {
@@ -2198,12 +2198,12 @@
      "t": "mcq",
      "p": "In the 3-metre solar system, the Earth was 10 cm from the Sun and Neptune was 300 cm. What did the model show about the planets?",
      "opts": [
-      "The four rocky planets are bunched close to the Sun, and the giants are spread far out",
       "The planets are spaced evenly",
+      "The four rocky planets are bunched close to the Sun, and the giants are spread far out",
       "The giants are closest to the Sun",
       "Neptune is just 3 times as far as the Earth"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Mercury, Venus, Earth and Mars all fit in the first 15 cm. Jupiter, Saturn, Uranus and Neptune are spread over nearly 3 metres. Picking 'spaced evenly' is how many books draw it, but books squeeze the planets to fit the page.",
      "how": "a4"
     },
@@ -2373,24 +2373,24 @@
      "t": "mcq",
      "p": "In 1846, astronomers found Neptune by working out where it must be before they looked. What clue did they use?",
      "opts": [
-      "Uranus was being tugged off its expected path by something",
       "Neptune's light was shining on Uranus",
       "The Sun was wobbling",
+      "Uranus was being tugged off its expected path by something",
       "They saw Neptune's moons first"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Uranus was not moving quite as expected. Urbain Le Verrier worked out that the gravity of an unseen planet could explain it, and said where to look. Johann Galle found Neptune almost exactly there. Picking 'Neptune's light' forgets that Neptune is far too dim to light anything."
     },
     {
      "t": "mcq",
      "p": "Why are the four planets near the Sun rocky, while the four far out are giants?",
      "opts": [
-      "Near the young Sun it was too warm for ice, so only rock and metal could clump. Further out, ice froze too, so planets grew bigger and gathered gas",
       "The giants were pushed out by the Sun's wind",
+      "Near the young Sun it was too warm for ice, so only rock and metal could clump. Further out, ice froze too, so planets grew bigger and gathered gas",
       "Rocky planets are older than giant planets",
       "Nobody has any idea at all"
      ],
-     "a": 0,
+     "a": 1,
      "why": "This is the best explanation scientists have. Near the Sun, only rock and metal stayed solid. Further out, ice could freeze as well, so there was more material, and big cores pulled in lots of gas. Picking 'nobody has any idea' is too strong: the details are still studied, but the main idea has good evidence."
     },
     {
@@ -2404,12 +2404,12 @@
      "t": "mcq",
      "p": "The Earth moves at about 30 kilometres every second as it goes round the Sun. Why don't we feel this?",
      "opts": [
-      "We, our homes and the air all move along with the Earth, smoothly and steadily",
       "The Earth is really standing still",
+      "We, our homes and the air all move along with the Earth, smoothly and steadily",
       "We are too heavy to feel it",
       "We only move at night"
      ],
-     "a": 0,
+     "a": 1,
      "why": "We feel a change in speed, like a bus braking, not steady motion. Everything around us moves with the Earth. Picking 'the Earth is standing still' is what people believed for thousands of years, until the evidence showed otherwise."
     },
     {

@@ -608,7 +608,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 ## Worksheets
 ### Takeover, the quiet gap, vaccines, prions and viroids (core, 15 questions)
 1. (mcq) Who builds the new virus proteins in an infected cell?  
-   Options: The cell's own ribosomes / Ribosomes inside the virus particle / Nobody, they grow / White blood cells  
+   Options: Ribosomes inside the virus particle / The cell's own ribosomes / Nobody, they grow / White blood cells  
    **Answer:** The cell's own ribosomes. *Why:* A virus particle has no ribosomes. The cell's ribosomes build every virus protein, from the virus's messages. White blood cells fight viruses and do not build them.
 2. (truefalse) A virus breaks into a cell by force and then builds copies of themself.  
    **Answer:** False. *Why:* False. A virus builds nothing. Their coat fits a receptor, the cell takes them in, and the cell's ribosomes do all the building.
@@ -617,21 +617,21 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 4. (fill) The time between a germ getting in and the first sign of illness is the ____ period.  
    **Answer:** ['incubation']. *Why:* During the incubation period the virus is being copied in a growing number of cells, but too few are infected for the person to feel ill.
 5. (mcq) In the Factory Test, why did you draw more marked grains in the later rounds?  
-   Options: The rules told you to pick them / Plain grains were taken out / Marked grains are easier to feel / There were more marked grains to pick  
+   Options: The rules told you to pick them / There were more marked grains to pick / Plain grains were taken out / Marked grains are easier to feel  
    **Answer:** There were more marked grains to pick. *Why:* The marked grains doubled each round, so a blind pick landed on them more often. Nothing forced the pick. A ribosome meets virus messages more often for the same reason.
 6. (match) Match each way of carrying on to a virus who does it.  
    **Answer:** Burst the cell → Polio virus; Bud out through the membrane → Flu virus; Hide in nerve cells for years → Chickenpox virus; Join the DNA of a bacterium → Lambda phage. *Why:* Polio viruses burst the cell. Flu viruses bud out wrapped in the cell's membrane. The chickenpox virus hides in nerve cells. Lambda phage can join the DNA of E. coli and wait.
 7. (truefalse) A person can pass on a cold before they feel ill.  
    **Answer:** True. *Why:* True. The virus is copied for a day or more before enough cells are infected for the person to notice. New particles are already leaving the nose in that time.
 8. (mcq) What does a vaccine show the body?  
-   Options: A medicine that kills the germ / A wall the germ cannot cross / The illness in a mild form / An antigen of the germ  
+   Options: A medicine that kills the germ / A wall the germ cannot cross / An antigen of the germ / The illness in a mild form  
    **Answer:** An antigen of the germ. *Why:* A vaccine shows the body an antigen, which is a part of the germ that defenders recognise by shape. It is not a medicine or a wall. Most vaccines cause no illness at all.
 9. (sort) Sort these vaccines by what they show the body.  
    **Answer:** Measles vaccine → A live weakened virus; Covaxin → A whole inactivated virus; Hepatitis B vaccine → One part, or instructions for one part; Oral polio drops → A live weakened virus; mRNA Covid vaccine → One part, or instructions for one part; Injected polio vaccine → A whole inactivated virus. *Why:* Measles vaccine and oral polio drops hold living, weakened viruses. Covaxin and the injected polio vaccine hold whole viruses that cannot be copied. The hepatitis B vaccine holds one protein, and an mRNA vaccine holds the message for one protein.
 10. (fill) A wrongly folded protein that makes normal proteins fold wrongly too is called a ____.  
    **Answer:** ['prion']. *Why:* A prion has the same chain of amino acids as the normal protein, in another shape. It has no DNA or RNA.
 11. (mcq) What is a viroid made of?  
-   Options: One very small cell / A bare loop of RNA / A protein with no genes / DNA in a protein coat  
+   Options: A bare loop of RNA / One very small cell / A protein with no genes / DNA in a protein coat  
    **Answer:** A bare loop of RNA. *Why:* A viroid is a loop of RNA a few hundred letters long, with no coat. A protein with no genes describes a prion. DNA in a coat describes some viruses.
 12. (write) Explain why you feel well for a day or two after a cold virus gets into your nose.  
    **Answer:** At first only a few cells are infected. The virus must be copied through several rounds of cells before many are infected. Only then do the body's alarm signals make me feel ill.. *Why:* A strong answer says that the virus is present and being copied the whole time, and that there are too few infected cells at first to notice.
@@ -643,12 +643,12 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
    **Answer:** The virus stayed hidden in nerve cells beside her spine. Her body's defenders kept them quiet. In old age the virus woke and travelled down one nerve to the skin.. *Why:* A strong answer says that the virus never left the body, names nerve cells, and says the virus woke when the defences were weaker.
 ### Tricks, alarms and changing coats (stretch, 16 questions)
 1. (mcq) A polio virus blocks the cell's own messages. Why are polio messages still read?  
-   Options: They are much longer / They start in a different way / Ribosomes prefer virus messages / They hide in the nucleus  
+   Options: They are much longer / Ribosomes prefer virus messages / They hide in the nucleus / They start in a different way  
    **Answer:** They start in a different way. *Why:* The cell's messages need a cap at the front for a ribosome to start. Polio messages have a folded stretch that lets a ribosome start without a cap. Ribosomes read both kinds of message in the same way.
 2. (truefalse) Flu viruses cut the caps off the cell's messages and use them on their own.  
    **Answer:** True. *Why:* True. This is called cap snatching. The cell's message is ruined, and the flu message now carries a cap that ribosomes accept.
 3. (mcq) What does interferon do to the cells near an infected cell?  
-   Options: It gives them antibodies / It kills them at once / It makes them slow their protein building / It makes them divide faster  
+   Options: It gives them antibodies / It kills them at once / It makes them divide faster / It makes them slow their protein building  
    **Answer:** It makes them slow their protein building. *Why:* Warned cells slow their ribosomes and cut up RNA, so a virus who enters them gains little. Antibodies come later, from B cells.
 4. (fill) Many bacteria store pieces of phage DNA in a row called ____.  
    **Answer:** ['CRISPR']. *Why:* The stored pieces let the bacterium recognise the same phage later and cut that phage's DNA. The row is copied at each division, so the daughters inherit it.
@@ -669,7 +669,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 11. (write) Two doses of measles vaccine protect for many years. A flu vaccine protects for about one. Explain the difference.  
    **Answer:** The measles virus's antigens hardly change, so the same memory cells keep fitting. The flu virus's spikes drift a little every year, so old antibodies fit less well and a new vaccine is needed.. *Why:* A strong answer is about the virus changing or not changing. The body's memory lasts in both cases.
 12. (mcq) A rinsed lump of curdled milk did not curdle fresh milk. What does this show?  
-   Options: A changed protein rarely passes its change on / Prions are in milk / Lemon juice does nothing to milk / Milk protein cannot change  
+   Options: Prions are in milk / A changed protein rarely passes its change on / Lemon juice does nothing to milk / Milk protein cannot change  
    **Answer:** A changed protein rarely passes its change on. *Why:* In Lemon, Chhena or Nothing, the lemon changed the milk and the lump did not. In ordinary proteins a changed form is not catching. A prion is unusual because its changed form is.
 13. (write) A virus and a prion both get 'copied'. Say what is copied in each case.  
    **Answer:** In a virus, the genome is copied, and new coat proteins are built from it. In a prion, nothing is built. Normal proteins already in the cell are refolded into the prion's shape.. *Why:* A strong answer says that a virus passes on instructions and a prion passes on a shape.
@@ -681,7 +681,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
    **Answer:** A flu virus's messages → A ribosome reads it; A viroid → No ribosome reads it; A prion → No ribosome reads it; A polio virus's genome → A ribosome reads it; The mRNA in a vaccine → A ribosome reads it. *Why:* Virus messages and vaccine mRNA are read by ribosomes, which build proteins from them. A viroid is copied by an enzyme but never read. A prion is a protein and holds no message.
 ### Models, memories and things that copy with almost nothing (challenge, 15 questions)
 1. (mcq) In the Factory Test, a cell with twice as many plain grains was taken over only one round later. Why?  
-   Options: Plain grains were removed / The die was unfair / Doubling catches up in one round / Bigger cells are weaker  
+   Options: Plain grains were removed / Doubling catches up in one round / The die was unfair / Bigger cells are weaker  
    **Answer:** Doubling catches up in one round. *Why:* The marked grains double every round. So going from 20 to 40 plain grains costs the virus just one more doubling. This is why a virus who is copied quickly is hard to outrun.
 2. (write) The Factory Test's model cell had no defences. Name one real defence. How would you add it?  
    **Answer:** One answer: interferon and RNA-cutting enzymes. I would take out two marked grains every round before copying. Another answer: antibodies. I would stop the marked grain from going into the tumbler on a die roll of 3 to 6.. *Why:* A strong answer names a real defence and gives a rule that could be carried out with grains and a die.
@@ -706,7 +706,7 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 11. (draw) Draw a bacterium's CRISPR row. Show what happens when a phage whose piece is stored attacks again.  
    **Answer:** The drawing shows a row of short stored pieces in the bacterium's DNA, a guide copied from one piece, and a cutting protein using the guide to cut the matching phage DNA.. *Why:* The stored piece is copied into a guide. The cutting protein carries the guide and cuts any DNA that matches it.
 12. (mcq) Lambda phage usually waits inside a starving bacterium and does not burst out. What could the phage gain?  
-   Options: A starving cell bursts anyway / Starving cells have no DNA / A starving cell makes few new phages / Waiting changes the phage's coat  
+   Options: A starving cell makes few new phages / A starving cell bursts anyway / Starving cells have no DNA / Waiting changes the phage's coat  
    **Answer:** A starving cell makes few new phages. *Why:* A starving cell has little material and energy, so few phages would be made. Joined to the cell's DNA, the phage is copied at each division until times are better.
 13. (truefalse) A mouse with no gene for the PrP protein cannot get prion disease.  
    **Answer:** True. *Why:* True. A prion spreads by refolding normal PrP. With no normal PrP in the body, the prion has nothing to refold.
@@ -723,47 +723,47 @@ That night Yazhini drew the person from the biology book in her own notebook, wi
 
 ## Quiz
 1. (mcq) What does a virus bring into a cell?  
-   Options: Energy / Instructions / Ribosomes / Amino acids  
+   Options: Instructions / Energy / Ribosomes / Amino acids  
    **Answer:** Instructions. *Why:* A virus brings a genome, which is a set of instructions. The cell supplies the ribosomes, the energy and the amino acids. If you chose ribosomes, remember that a virus particle has none.
 2. (mcq) Why does a cell build proteins for a virus?  
-   Options: The virus pushes the ribosomes / Ribosomes build from any message they meet / The virus pays the cell with energy / The cell wants more viruses  
+   Options: The virus pushes the ribosomes / The virus pays the cell with energy / The cell wants more viruses / Ribosomes build from any message they meet  
    **Answer:** Ribosomes build from any message they meet. *Why:* A ribosome builds from whichever message it meets. Once virus messages are in the cell, they are read like the cell's own. No force is used.
 3. (mcq) Why is there a quiet time after a virus gets in, before a person feels ill?  
-   Options: The virus has not entered any cell / Too few cells are infected at first / Antibodies are hiding the virus / The virus is asleep  
+   Options: The virus has not entered any cell / Antibodies are hiding the virus / The virus is asleep / Too few cells are infected at first  
    **Answer:** Too few cells are infected at first. *Why:* The virus is being copied from the start, but it takes several rounds of cells before many are infected. If you chose 'asleep', that describes a latent virus, which is a different thing.
 4. (truefalse) The chickenpox virus leaves the body when the spots heal.  
    **Answer:** False. *Why:* False. The virus stays hidden in nerve cells for life. Decades later they can wake and cause shingles along one nerve.
 5. (mcq) Which defence starts within hours, long before antibodies are made?  
-   Options: An antibiotic / Interferon / Memory cells / A vaccine  
+   Options: An antibiotic / Memory cells / A vaccine / Interferon  
    **Answer:** Interferon. *Why:* An infected cell releases interferon at once, and the cells nearby slow their protein building. New antibodies take one to two weeks the first time. Antibiotics do not act on viruses.
 6. (mcq) How does a bacterium recognise a phage who attacked their ancestors?  
-   Options: Bacteria have no way / From antibodies in their blood / From a stored piece of the phage's DNA / By the phage's smell  
+   Options: From a stored piece of the phage's DNA / Bacteria have no way / From antibodies in their blood / By the phage's smell  
    **Answer:** From a stored piece of the phage's DNA. *Why:* The bacterium keeps a short piece of the phage's DNA in a CRISPR row and uses it as a guide for cutting matching DNA. Bacteria have no blood and no antibodies.
 7. (mcq) Which kind of vaccine holds whole virus particles that can no longer be copied?  
-   Options: An inactivated vaccine / A one-part vaccine / A live weakened vaccine / An mRNA vaccine  
+   Options: A one-part vaccine / A live weakened vaccine / An mRNA vaccine / An inactivated vaccine  
    **Answer:** An inactivated vaccine. *Why:* In an inactivated vaccine the whole virus is treated so that the genome cannot be copied, and the shape remains. A live weakened virus can still multiply a little.
 8. (mcq) What do your cells build after an mRNA vaccine?  
-   Options: New DNA / The whole virus / One protein of the virus / Antibiotics  
+   Options: New DNA / The whole virus / Antibiotics / One protein of the virus  
    **Answer:** One protein of the virus. *Why:* The mRNA is the message for one protein, such as the spike. Ribosomes build only that. The message does not enter the nucleus and does not change DNA.
 9. (mcq) Why is there no vaccine against the common cold?  
-   Options: Colds are too mild to matter / At least 165 types of cold virus exist / Cold viruses have no antigens / Colds are caused by prions  
+   Options: At least 165 types of cold virus exist / Colds are too mild to matter / Cold viruses have no antigens / Colds are caused by prions  
    **Answer:** At least 165 types of cold virus exist. *Why:* Antibodies against one type of rhinovirus give little protection against the others. A vaccine would have to cover a very large number of types.
 10. (truefalse) A virus who infects only humans could be ended for good by vaccination.  
    **Answer:** True. *Why:* True. Such a virus needs an unbroken chain of human hosts. Smallpox was ended this way in 1980, and wild polio is close to its end.
 11. (mcq) How does a prion spread in a brain?  
-   Options: It divides in two / Ribosomes read it / Its genes are copied / It makes normal proteins refold  
+   Options: It makes normal proteins refold / It divides in two / Ribosomes read it / Its genes are copied  
    **Answer:** It makes normal proteins refold. *Why:* A prion has no genes and does not divide. It touches a normal protein of the same kind, and that protein takes the prion shape. If you chose genes, you were thinking of a virus.
 12. (mcq) Which of these is a bare loop of RNA with no coat?  
-   Options: A bacterium / A viroid / A prion / A phage  
+   Options: A bacterium / A prion / A phage / A viroid  
    **Answer:** A viroid. *Why:* A viroid is RNA alone. A prion is protein alone. A phage is a virus, with a genome in a coat, and a bacterium is a whole cell.
 13. (mcq) Which of these did the Factory Test leave out?  
-   Options: The cell's defences / The copying of virus messages / The cell's own messages / Chance  
+   Options: The copying of virus messages / The cell's own messages / The cell's defences / Chance  
    **Answer:** The cell's defences. *Why:* The model cell never fought back. A real cell senses virus RNA, sends out interferon and may self-destruct. The model did include the cell's messages, the copying and chance.
 14. (mcq) A tumbler model shows how ribosomes pick up messages. What is true of every model like this?  
-   Options: It leaves things out of the real thing / It shows every part of the real thing / It is exactly the same as the real thing  
+   Options: It shows every part of the real thing / It leaves things out of the real thing / It is exactly the same as the real thing  
    **Answer:** It leaves things out of the real thing. *Why:* Every model leaves things out. The tumbler has six draws and twenty messages, not millions, and it has no cell defences.
 15. (mcq) Your neighbour's baby is too young for a measles vaccine. Why does your own vaccination still help that baby?  
-   Options: Fewer people with the virus are left nearby to pass it on / Your antibodies float into the baby's lungs / The vaccine passes to the baby by touch  
+   Options: Your antibodies float into the baby's lungs / The vaccine passes to the baby by touch / Fewer people with the virus are left nearby to pass it on  
    **Answer:** Fewer people with the virus are left nearby to pass it on. *Why:* When most people around the baby are protected, the virus has few people to reach. Your antibodies stay in your own blood, so they do not reach the baby through the air or by touch.
 
 ## Applications

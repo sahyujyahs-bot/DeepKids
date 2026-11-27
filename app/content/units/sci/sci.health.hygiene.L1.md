@@ -433,7 +433,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 2. (sort) Colour the times to wash your hands green. Colour the other times yellow.  
    **Answer:** before eating → Wash your hands; after the toilet → Wash your hands; after blowing your nose → Wash your hands; listening to a song → No wash needed; after playing outside → Wash your hands; looking at the sky → No wash needed. *Why:* We wash before eating, after the toilet, after blowing our nose and after playing, because those are the times germs get on our hands or into our mouths. Listening and looking do not make hands dirty.
 3. (mcq) You have a new big tooth at the back, with little hills and valleys on top. After you eat puttu, where is the food most likely to hide?  
-   Options: In the grooves on top of the tooth / On the tip of your tongue / Behind your ear  
+   Options: On the tip of your tongue / Behind your ear / In the grooves on top of the tooth  
    **Answer:** In the grooves on top of the tooth. *Why:* A back tooth has little hills and valleys on top. Food hides in those valleys, which are called grooves.
 4. (order) Put the hand wash in order.  
    **Answer:** ['Wet your hands', 'Rub soap on every part', 'Rinse off the soap', 'Dry on a clean towel']. *Why:* First wet the hands so the soap can foam. Then rub every part. Then rinse the soap away with the dirt in it. Last, dry.
@@ -446,7 +446,7 @@ And every morning, before they brushed, they both ran their tongues over their t
 8. (write) Say it out loud, and a grown-up writes it: why do we wash our hands before we eat?  
    **Answer:** Because germs on our hands can go into our mouth with the food.. *Why:* A strong answer says that our hands carry germs, and that eating with our hands takes them to our mouth.
 9. (mcq) If you only brush your front teeth, what are you missing?  
-   Options: The back teeth, where food hides / Nothing, the front is enough / Only the tongue  
+   Options: Nothing, the front is enough / The back teeth, where food hides / Only the tongue  
    **Answer:** The back teeth, where food hides. *Why:* Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth.
 10. (draw) Draw yourself having a bath. Draw what the water is washing off you.  
    **Answer:** A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.. *Why:* A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin.
@@ -481,37 +481,37 @@ And every morning, before they brushed, they both ran their tongues over their t
 
 ## Quiz
 1. (mcq) When should you wash your hands with soap?  
-   Options: Before eating and after the toilet / Only when they look dirty / Only once a day  
+   Options: Only when they look dirty / Before eating and after the toilet / Only once a day  
    **Answer:** Before eating and after the toilet. *Why:* Germs are too small to see, so hands can carry them even when they look clean. Before eating and after the toilet are the most important times.
 2. (mcq) How long should you rub soap on your hands?  
-   Options: About 20 seconds, like singing Happy Birthday twice / One second / Ten minutes  
+   Options: One second / Ten minutes / About 20 seconds, like singing Happy Birthday twice  
    **Answer:** About 20 seconds, like singing Happy Birthday twice. *Why:* About 20 seconds gives enough time to rub every part. One second misses most of the hand, and ten minutes is far more than needed.
 3. (mcq) In the biscuit test, where did the crumbs stay after the water rinse?  
-   Options: In the grooves of the back teeth / On the front teeth / On the tongue  
+   Options: On the front teeth / On the tongue / In the grooves of the back teeth  
    **Answer:** In the grooves of the back teeth. *Why:* Water runs over the top of the back teeth without reaching into the grooves. Only the bristles of a brush reach in.
 4. (mcq) Which of these should only you use?  
    Options: Your toothbrush / The bucket / The tap  
    **Answer:** Your toothbrush. *Why:* A toothbrush goes in your mouth and carries the tiny beings from your mouth. So everyone has their own.
 5. (mcq) How many times a day should you brush your teeth?  
-   Options: Twice: morning and night / Once a week / Only after sweets  
+   Options: Once a week / Only after sweets / Twice: morning and night  
    **Answer:** Twice: morning and night. *Why:* Plaque grows back all the time, so dentists say to brush twice a day, for about two minutes, morning and night.
 6. (mcq) What do the tiny living beings in your mouth eat?  
-   Options: Leftover food, especially sugar / Your teeth / Only toothpaste  
+   Options: Your teeth / Leftover food, especially sugar / Only toothpaste  
    **Answer:** Leftover food, especially sugar. *Why:* They eat leftover food on your teeth. As they eat sugar, they make an acid, and the acid can wear a hole in a tooth over time. They do not eat the tooth itself.
 7. (mcq) Most of the tiny living beings on your skin and in your mouth are...  
-   Options: Harmless or helpful / All dangerous / Not alive  
+   Options: All dangerous / Harmless or helpful / Not alive  
    **Answer:** Harmless or helpful. *Why:* Only a few kinds make us ill. Most live with us quietly, and some help keep harmful ones away.
 8. (mcq) Why do we take a bath?  
    Options: To wash off sweat, dust and old skin / To make our skin grow longer / Because water is warm  
    **Answer:** To wash off sweat, dust and old skin. *Why:* All day, sweat, oil and dust build up on the skin, and old skin flakes off. A bath washes them away.
 9. (mcq) In the white cloth test, the sole of a foot was wiped before a bath and after it. What did the cloths most often show?  
-   Options: The cloth from before the bath was greyer / Both cloths stayed white / The cloth from after the bath was greyer  
+   Options: Both cloths stayed white / The cloth from before the bath was greyer / The cloth from after the bath was greyer  
    **Answer:** The cloth from before the bath was greyer. *Why:* Before the bath, dust and sweat were on the skin, even when we could not see them. The bath washed them off.
 10. (mcq) Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?  
-   Options: A guess, to check with a test / The answer / A mistake  
+   Options: The answer / A mistake / A guess, to check with a test  
    **Answer:** A guess, to check with a test. *Why:* A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.
 11. (mcq) Why must clothes be fully dry before you fold them and put them away?  
-   Options: Damp cloth can grow mould and smell bad / Wet cloth is too heavy to fold / Folded cloth dries in the cupboard by itself  
+   Options: Wet cloth is too heavy to fold / Folded cloth dries in the cupboard by itself / Damp cloth can grow mould and smell bad  
    **Answer:** Damp cloth can grow mould and smell bad. *Why:* Mould grows in damp cloth. Wet clothes folded up stay damp, and they do not dry in the cupboard.
 
 ## Applications

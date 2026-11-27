@@ -401,7 +401,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
    **Answer:** roost. *Why:* Mynas and parakeets roost in big trees in the evening. Fruit bats roost by hanging from big trees in the day.
 ### Nature in the city (stretch) (stretch, 10 questions)
 1. (mcq) Traffic noise is mostly a low, deep rumble. Which bird song is easiest to hear over the rumble?  
-   Options: A high, sharp song / A low, deep song / A very soft song  
+   Options: A low, deep song / A high, sharp song / A very soft song  
    **Answer:** A high, sharp song. *Why:* High notes sit above the low rumble, so they are not covered as much. This is why great tits in noisy city places sing higher songs.
 2. (write) Two families did the Words in the Noise experiment. In both, the child heard 9 soft words with no noise. With the noise on, one child heard only 2 words, and the other child heard 9. What might have been different in the second family?  
    **Answer:** The noise may have been too quiet or too far away, the speaker may have spoken louder, or the child may have seen the speaker's lips.. *Why:* A strong answer names one thing that could change the result, such as the noise being weaker, and says why that would let more words through.
@@ -431,19 +431,19 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 
 ## Quiz
 1. (mcq) What is a habitat?  
-   Options: The place where a living being lives and finds what they need / Only a forest far away / A kind of food  
+   Options: Only a forest far away / The place where a living being lives and finds what they need / A kind of food  
    **Answer:** The place where a living being lives and finds what they need. *Why:* A habitat gives water, food, air, shelter and the right warmth. A city is a habitat too.
 2. (mcq) Which of these beings lives in Indian cities?  
-   Options: The palm squirrel / The blue whale / The polar bear  
+   Options: The blue whale / The polar bear / The palm squirrel  
    **Answer:** The palm squirrel. *Why:* Palm squirrels live in trees in towns all over India. Whales live in the sea and polar bears in the far north.
 3. (mcq) A crow wants a safe place high up for her nest. What does a street tree give her?  
-   Options: A high fork in the branches for a stick nest / A cave to hide in / A pond to swim in  
+   Options: A cave to hide in / A pond to swim in / A high fork in the branches for a stick nest  
    **Answer:** A high fork in the branches for a stick nest. *Why:* Crows build stick nests high in the fork of a branch, where the nest is safer.
 4. (mcq) Koels, barbets and fruit bats all visit a peepal tree. Why?  
-   Options: To eat the small figs / To drink the sap / To hide from the rain only  
+   Options: To drink the sap / To eat the small figs / To hide from the rain only  
    **Answer:** To eat the small figs. *Why:* Peepal trees grow many small figs, and many birds, squirrels and bats eat them.
 5. (mcq) Wild pigeons nest on cliff ledges. Where do city pigeons often nest?  
-   Options: On window ledges and air conditioner boxes / In holes in the ground / Under water  
+   Options: In holes in the ground / Under water / On window ledges and air conditioner boxes  
    **Answer:** On window ledges and air conditioner boxes. *Why:* A ledge on a tall building is like a ledge on a cliff.
 6. (mcq) Which kind of animal usually does best in a city?  
    Options: One who eats many kinds of food / One who eats one rare plant / One who needs a very old forest  
@@ -452,16 +452,16 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
    Options: Speaking loudly / Speaking more softly / Facing the wall  
    **Answer:** Speaking loudly. *Why:* A loud voice was louder than the noise. Facing the wall only stopped lip-reading, to keep the test fair.
 8. (mcq) In the Words in the Noise experiment, why did the listener face the wall?  
-   Options: So they could not read the speaker's lips / So the noise was quieter / So they could see the words  
+   Options: So the noise was quieter / So they could see the words / So they could not read the speaker's lips  
    **Answer:** So they could not read the speaker's lips. *Why:* If the listener saw the lips move, they could guess words without hearing them. Facing the wall makes it a test of hearing only.
 9. (mcq) What do many birds who live by busy roads do?  
-   Options: Sing louder, higher, or at quieter times / Stop singing for ever / Sing only underwater  
+   Options: Stop singing for ever / Sing only underwater / Sing louder, higher, or at quieter times  
    **Answer:** Sing louder, higher, or at quieter times. *Why:* They change their songs so other birds can still hear them over the traffic.
 10. (mcq) City birds sing loudly to be heard over the traffic. If the roads suddenly went quiet for weeks, what would you expect the birds to do?  
-   Options: Sing more softly / All fly away / Sing much louder  
+   Options: All fly away / Sing more softly / Sing much louder  
    **Answer:** Sing more softly. *Why:* With less noise to sing over, they would not need to sing so loudly, and their songs would still carry further. When this really happened in San Francisco in 2020, the birds sang more softly.
 11. (mcq) You see a street dog with puppies under a car. What is the kind and safe thing to do?  
-   Options: Watch from a distance and leave them in peace / Pick up a puppy to hold / Shout so they move away  
+   Options: Pick up a puppy to hold / Shout so they move away / Watch from a distance and leave them in peace  
    **Answer:** Watch from a distance and leave them in peace. *Why:* A mother dog protects her puppies and may bite if you come close. Watching from a distance keeps everyone safe.
 
 ## Applications

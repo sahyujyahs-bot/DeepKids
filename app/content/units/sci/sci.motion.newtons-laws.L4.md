@@ -512,7 +512,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 ## Worksheets
 ### Force, Mass and Change (core) (core, 16 questions)
 1. (mcq) Two carts are pulled with the same bag of water. One cart is empty and one carries a full bottle. Which statement is right?  
-   Options: The empty cart speeds up more every second / The loaded cart speeds up more every second / Both speed up the same, because the pull is the same  
+   Options: The loaded cart speeds up more every second / Both speed up the same, because the pull is the same / The empty cart speeds up more every second  
    **Answer:** The empty cart speeds up more every second. *Why:* The same pull changes a bigger mass by less. The loaded cart has more mass, so it speeds up less. Picking 'the same' forgets that mass matters as well as the pull.
 2. (fill) The unit that scientists use for force is the ____.  
    **Answer:** ['newton', 'newtons']. *Why:* The newton is named after Isaac Newton. A small apple weighs about 1 newton.
@@ -525,7 +525,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 6. (count) A cart has a mass of 4 kilograms. A net force of 12 newtons acts on it. How much does its speed grow every second, in metres per second?  
    **Answer:** 3. *Why:* Acceleration is force divided by mass. 12 divided by 4 is 3. The cart's speed grows by 3 metres per second every second.
 7. (mcq) Some people say a stone falls faster than a feather because it is heavier. Where would a stone and a feather fall together?  
-   Options: On the Moon, where there is no air / On a windy day on a hill / Underwater in a bucket  
+   Options: On a windy day on a hill / Underwater in a bucket / On the Moon, where there is no air  
    **Answer:** On the Moon, where there is no air. *Why:* The feather falls slowly because air pushes up on it. With no air, nothing slows the feather, and both gain speed at the same rate. In 1971, a hammer and a feather landed together on the Moon.
 8. (order) Put the steps of the Hanging Bag Cart test in order.  
    **Answer:** ['Guess what a bigger bag and a bigger load will do', 'Build the machine with the pen, the thread and the bag', 'Time the cart three times with each bag', 'Change only the load, and time it again', 'Say what you found and why']. *Why:* First guess, so the test can surprise you. Then build the machine, change one thing at a time, and last say what you found and why.
@@ -540,12 +540,12 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
    Options: pull of the thread / friction / magnetism / a push from the wall  
    **Answer:** pull of the thread forward, friction back. *Why:* The thread pulls forward with 5 newtons and friction pulls back with 2. The net force is 3 newtons forward, so the cart speeds up. If the two forces were equal, the cart would keep a steady speed.
 13. (mcq) Landing from a small jump with straight legs can hurt the knees. Why does bending the knees help?  
-   Options: The stop takes longer, so the force on the body is smaller / Bending makes the body lighter / Bent knees stop the Earth pulling  
+   Options: Bending makes the body lighter / The stop takes longer, so the force on the body is smaller / Bent knees stop the Earth pulling  
    **Answer:** The stop takes longer, so the force on the body is smaller. *Why:* The body goes from its speed to zero either way. Bending the knees makes the stop take more time. A change in motion spread over more time needs a smaller force. The body does not get lighter.
 14. (perspective) Two friends in Kochi talk about a loaded cart and an empty cart rolling down the same smooth ramp.  
    **Answer:** A strong answer agrees with the second child, using evidence: in the ramp test the loaded cart took about the same time as the empty cart. It is fair to the first child: on a table, pulled by the same bag, the heavier cart is slower, so heavy things are harder to get moving. On the ramp, the pull itself grows with the weight.. *Why:* Both friends have noticed something real. Only a test that changes the load on a ramp can tell the difference between the pull staying the same and the pull growing with the mass.
 15. (mcq) On a space station, an astronaut pushes a large floating box. What happens?  
-   Options: The box is hard to get moving, because it has a lot of mass / The box moves easily, because it has no weight and so no mass / The box does not move at all in space  
+   Options: The box moves easily, because it has no weight and so no mass / The box is hard to get moving, because it has a lot of mass / The box does not move at all in space  
    **Answer:** The box is hard to get moving, because it has a lot of mass. *Why:* Weightless things still have mass. A large box on the space station is hard to get moving and hard to stop. Weight is the pull of gravity. Mass is how much matter a thing has, and it resists a change in motion everywhere.
 16. (draw) Draw two carts pulled by the same bag of water, one empty and one loaded with a bottle. Draw a longer arrow beside the cart that speeds up more every second.  
    **Answer:** Two carts side by side, each with a thread to a bag. The empty cart has the longer arrow.. *Why:* The same pull changes the empty cart's motion by more, so it speeds up more every second. A strong drawing shows the same thread and bag on both carts, and the longer arrow on the empty cart.
@@ -570,7 +570,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 8. (fill) A rocket gets lighter as it burns fuel, so the same push gives it more ____.  
    **Answer:** ['acceleration', 'speed gain', 'change in speed']. *Why:* The push stays about the same while the mass falls. A smaller mass changes its speed by more every second, which is more acceleration.
 9. (mcq) An astronaut gives the same push to a floating box of tools and to a floating empty box. What happens?  
-   Options: The box of tools changes its speed less / Both change their speed by the same amount / The box of tools floats away faster  
+   Options: Both change their speed by the same amount / The box of tools changes its speed less / The box of tools floats away faster  
    **Answer:** The box of tools changes its speed less. *Why:* The box of tools has more mass. The same push changes a bigger mass by less. Both boxes are weightless, so weight does not matter. Mass does.
 10. (write) A girl says, 'If a cart rolls at a steady speed, no forces are acting on it.' Is she right? Explain using the words 'balanced' and 'friction'.  
    **Answer:** She is not right. A cart rolling at a steady speed on a table still has forces on it. If the pull of the thread and the friction are equal, they are balanced, so the net force is zero and the speed does not change. If there were no friction, no pull would be needed.. *Why:* A strong answer says that forces are acting, but they are balanced. 'No change' in motion means a net force of zero, not zero forces.
@@ -592,14 +592,14 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
    **Answer:** 2. *Why:* A change in motion means a change in speed or direction. Slowing down, turning and starting are all changes. A steady speed in a straight line is not.
 ### Newton's Law Puzzles (challenge) (challenge, 16 questions)
 1. (mcq) A bag of 200 millilitres of water pulls a cart across a table in 1.2 seconds. Which change would make the trip take the least time?  
-   Options: Take one bottle off the cart / Use a longer thread / Paint the cart a bright colour  
+   Options: Use a longer thread / Paint the cart a bright colour / Take one bottle off the cart  
    **Answer:** Take one bottle off the cart. *Why:* Taking a bottle off lowers the mass, so the same pull changes the speed by more every second. A longer thread does nothing to the pull or the mass, and paint does not matter.
 2. (count) A cart has a mass of 1 kilogram. The thread pulls it forward with 7 newtons and friction pulls back with 2 newtons. By how much does its speed grow every second, in metres per second?  
    **Answer:** 5. *Why:* The net force is 7 take away 2, which is 5 newtons. 5 divided by 1 kilogram is 5. The speed grows by 5 metres per second every second.
 3. (count) A cart has a mass of 2 kilograms. A thread pulls it with 8 newtons and friction pulls back with 2 newtons. By how much does its speed grow every second, in metres per second?  
    **Answer:** 3. *Why:* The net force is 8 take away 2, which is 6 newtons. 6 divided by 2 kilograms is 3. The speed grows by 3 metres per second every second.
 4. (mcq) A bathroom scale in a lift reads more than usual just after the lift starts going up. Why?  
-   Options: The lift is speeding up, so the scale has to push up on you with more than your weight / Your mass increases when you go up / Gravity gets stronger in a lift  
+   Options: Your mass increases when you go up / Gravity gets stronger in a lift / The lift is speeding up, so the scale has to push up on you with more than your weight  
    **Answer:** The lift is speeding up, so the scale has to push up on you with more than your weight. *Why:* To speed you up, the scale must push up with more than the Earth pulls down. The scale shows how hard it pushes. Your mass and the Earth's pull do not change.
 5. (truefalse) In a lift moving up at a steady speed, a bathroom scale reads more than it does when the lift is at rest. True or false?  
    **Answer:** False. *Why:* False. At a steady speed, the forces on you are balanced, so the scale pushes up with exactly your weight. It reads more only while the lift is speeding up.
@@ -617,7 +617,7 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 11. (sort) Sort each safety item: does it make the stop take longer, or does it hold you to the vehicle?  
    **Answer:** Foam inside a cycle helmet → Makes the stop take longer; A car seatbelt → Holds you to the vehicle; Bending your knees when you land → Makes the stop take longer; A crumple zone at the front of a car → Makes the stop take longer; A strap on a child seat → Holds you to the vehicle; Pulling your hands back in a catch → Makes the stop take longer. *Why:* Foam, bent knees, crumple zones and soft hands all spread a stop over more time, so the force is smaller. A seatbelt and a child seat strap keep you with the vehicle, so you stop with it and not by hitting something.
 12. (mcq) At the edge of some galaxies, stars move faster than the matter we can see should allow. What is one idea scientists have for this?  
-   Options: There may be unseen dark matter pulling on them / Stars at the edge are heavier / Newton's laws do not exist there  
+   Options: Stars at the edge are heavier / Newton's laws do not exist there / There may be unseen dark matter pulling on them  
    **Answer:** There may be unseen dark matter pulling on them. *Why:* Most astronomers think unseen dark matter is pulling on the stars. A few physicists think the second law itself may change for extremely faint pulls. Nobody has settled the question.
 13. (fill) A force of 1 ____ gives a mass of 1 kilogram a speed gain of 1 metre per second every second.  
    **Answer:** ['newton']. *Why:* This is how the newton is defined. One newton on a 1 kilogram mass gives it an acceleration of 1 metre per second every second.
@@ -636,37 +636,37 @@ By noon, every boat stood above the weed line in a long blue and yellow row. The
 
 ## Quiz
 1. (mcq) A cart is pulled with a net force. The net force is doubled and the cart is the same. What happens to the change in speed each second?  
-   Options: It doubles / It halves / It stays the same  
+   Options: It halves / It doubles / It stays the same  
    **Answer:** It doubles. *Why:* Twice the net force gives twice the acceleration. Picking 'halves' mixes up force and mass.
 2. (mcq) The same pull acts on a cart. A load is added so the cart's mass is three times as big. What happens to the change in speed each second?  
    Options: It becomes one third / It triples / It stays the same  
    **Answer:** It becomes one third. *Why:* Three times the mass gives one third of the acceleration for the same net force. Picking 'triples' reverses the rule.
 3. (mcq) In the Hanging Bag Cart test, which change makes the cart's trip take less time?  
-   Options: More water in the bag / More bottles on the cart / Starting the cart further back  
+   Options: More bottles on the cart / More water in the bag / Starting the cart further back  
    **Answer:** More water in the bag. *Why:* More water is a bigger pull, so the cart's speed changes by more every second. More bottles slow it down, and starting further back makes the trip longer.
 4. (mcq) Which of these is a change in motion?  
-   Options: A bus going round a bend at a steady speed / A bus parked at a stand / A bus going straight at a steady speed  
+   Options: A bus parked at a stand / A bus going straight at a steady speed / A bus going round a bend at a steady speed  
    **Answer:** A bus going round a bend at a steady speed. *Why:* A change in motion is a change in speed or in direction. Going round a bend changes the direction every moment, even if the speed stays the same.
 5. (mcq) A heavy ball and a light ball are dropped together in a place with no air. What happens?  
-   Options: They land together / The heavy one lands first / The light one lands first  
+   Options: The heavy one lands first / They land together / The light one lands first  
    **Answer:** They land together. *Why:* The Earth pulls the heavy ball harder, but it also has more mass, so the two cancel. Both gain speed at the same rate.
 6. (mcq) A cyclist rides at a steady speed on a flat road. What is true of the forces along the road?  
-   Options: The forward push equals the backward push / There is only a forward push / There are no forces at all  
+   Options: There is only a forward push / The forward push equals the backward push / There are no forces at all  
    **Answer:** The forward push equals the backward push. *Why:* At a steady speed the net force is zero. The forces are balanced, not missing.
 7. (truefalse) Two cycles have the same brakes, squeezing with the same force. The cycle with two riders needs a longer road to stop than the cycle with one rider. True or false?  
    **Answer:** True. *Why:* True. The same braking force slows a bigger mass by less every second, so the cycle with two riders takes more road to stop.
 8. (mcq) A rocket's engines push with the same force while it burns fuel. What happens to its acceleration?  
-   Options: It gets bigger, because the mass gets smaller / It gets smaller, because the fuel is gone / It stays the same  
+   Options: It gets smaller, because the fuel is gone / It gets bigger, because the mass gets smaller / It stays the same  
    **Answer:** It gets bigger, because the mass gets smaller. *Why:* The same push acts on a smaller mass, so the speed changes by more every second.
 9. (count) A net force of 15 newtons acts on a cart with a mass of 3 kilograms. By how much does its speed grow every second, in metres per second?  
    **Answer:** 5. *Why:* Acceleration is force divided by mass. 15 divided by 3 is 5. The speed grows by 5 metres per second every second.
 10. (mcq) Which question about the second law do scientists still argue about?  
-   Options: Does the law change for very faint pulls far out in galaxies? / Does a bigger force change motion more? / Do heavy things fall faster than light things?  
+   Options: Does a bigger force change motion more? / Do heavy things fall faster than light things? / Does the law change for very faint pulls far out in galaxies?  
    **Answer:** Does the law change for very faint pulls far out in galaxies?. *Why:* The other two questions are settled by countless tests. Whether the law changes for extremely faint pulls is an open question, linked to the puzzle of dark matter.
 11. (order) A bag of water pulls three carts. Put the carts in order, from the one that speeds up most to the one that speeds up least.  
    **Answer:** ['an empty cart', 'a cart with one bottle', 'a cart with three bottles']. *Why:* The pull is the same, so the cart with the least mass speeds up most. More bottles mean more mass, so the cart speeds up less.
 12. (mcq) A book rests on a table. Which statement is right?  
-   Options: The Earth pulls it down and the table pushes it up equally / Only the Earth pulls on it / The table pushes up harder than the Earth pulls down  
+   Options: Only the Earth pulls on it / The Earth pulls it down and the table pushes it up equally / The table pushes up harder than the Earth pulls down  
    **Answer:** The Earth pulls it down and the table pushes it up equally. *Why:* The book is not moving, so the net force is zero. The table's push upwards must equal the Earth's pull downwards.
 13. (mcq) On a smooth ramp, a cart with three bottles and an empty cart are let go together. What happens?  
    Options: They take about the same time / The loaded cart takes much longer / The empty cart takes much longer  

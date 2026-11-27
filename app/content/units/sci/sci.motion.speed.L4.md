@@ -588,7 +588,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 ## Worksheets
 ### Distance, time and speed (core) (core, 16 questions)
 1. (mcq) Meera runs 100 metres in 20 seconds. Lakshmi runs 60 metres in 10 seconds. Who is faster?  
-   Options: Meera, because she ran farther / Lakshmi / They are equally fast  
+   Options: Meera, because she ran farther / They are equally fast / Lakshmi  
    **Answer:** Lakshmi. *Why:* Meera covers 5 metres in each second. Lakshmi covers 6. Choosing Meera compares only the distances and forgets the times.
 2. (fill) A bus goes 120 kilometres in 3 hours. Its speed is ____ kilometres per hour.  
    **Answer:** ['40']. *Why:* 120 ÷ 3 = 40. The bus covers 40 kilometres in each hour.
@@ -614,14 +614,14 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 12. (truefalse) A passenger asleep in a moving bus has a speed of zero.  
    **Answer:** False. *Why:* False unless we say what the speed is compared with. Compared with the seat it is zero. Compared with the road it is the bus's speed.
 13. (mcq) Gita and Anu hop for 10 seconds with steps of the same size. Gita makes 9 hops and Anu makes 12. Who is faster?  
-   Options: Gita / Anu / They are equally fast  
+   Options: Gita / They are equally fast / Anu  
    **Answer:** Anu. *Why:* The time is the same, so the one who went farther is faster. Anu covered 12 hop-lengths and Gita covered 9.
 14. (fill) A snail covers 3 centimetres in 10 seconds. In one minute, at the same speed, the snail covers ____ centimetres.  
    **Answer:** ['18']. *Why:* One minute is 6 lots of 10 seconds, and 6 × 3 = 18 centimetres.
 15. (count) A toy car covers 2 metres in 4 seconds. How many centimetres does it cover in each second?  
    **Answer:** 50. *Why:* 2 metres is 200 centimetres, and 200 ÷ 4 = 50 centimetres per second.
 16. (mcq) Which of these is a complete way to state a speed?  
-   Options: 40 / 40 kilometres / 40 kilometres per hour  
+   Options: 40 / 40 kilometres per hour / 40 kilometres  
    **Answer:** 40 kilometres per hour. *Why:* A speed needs a distance and a time together. '40' and '40 kilometres' leave out the time.
 ### Averages, graphs and different watchers (stretch) (stretch, 16 questions)
 1. (mcq) A girl runs the first 5 kilometres of a 10 kilometres run at 10 kilometres per hour and the last 5 kilometres at 15 kilometres per hour. What is her average speed?  
@@ -632,7 +632,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 3. (truefalse) Two trains on parallel tracks both go 80 kilometres per hour in the same direction. A passenger in one sees the other going 80 kilometres per hour.  
    **Answer:** False. *Why:* False. Compared with the passenger, the other train is not moving, because both go along together. The 80 is its speed compared with the ground.
 4. (mcq) A bus goes 40 kilometres per hour. A passenger walks towards the back at 4 kilometres per hour. Compared with the road, her speed is  
-   Options: 44 kilometres per hour / 36 kilometres per hour / 4 kilometres per hour  
+   Options: 36 kilometres per hour / 44 kilometres per hour / 4 kilometres per hour  
    **Answer:** 36 kilometres per hour. *Why:* Her walking takes away from the bus's speed, since she goes the opposite way. 40 - 4 = 36. Adding is for walking towards the front.
 5. (order) Put these in order from slowest to fastest.  
    **Answer:** ['A continent drifting', 'A garden snail', 'Sound in air', 'A spacecraft orbiting Earth', 'Light in empty space']. *Why:* A continent moves a few centimetres in a year. A snail moves about a millimetre in a second. Sound moves about 340 metres in a second. A spacecraft in orbit moves several kilometres in a second. Light moves about 3 lakh kilometres in a second.
@@ -649,7 +649,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 11. (perspective) A driver and a police officer look at the same journey.  
    **Answer:** Answers vary. A strong answer says each one answers a different question. The average answers 'when will I get there' and the moment answers 'how risky is this place now'. Neither makes the other useless.. *Why:* An average hides the fast and slow parts of a trip, and a single reading hides the rest of the trip. Which one is the right one depends on the question.
 12. (mcq) Car A covers 30 metres in 5 seconds. Car B covers 42 metres in 7 seconds. What is true?  
-   Options: Car A is faster, it took less time / Car B is faster, it went farther / They go at the same speed  
+   Options: They go at the same speed / Car A is faster, it took less time / Car B is faster, it went farther  
    **Answer:** They go at the same speed. *Why:* Both go 6 metres in each second. Looking only at the time or only at the distance gives a wrong answer.
 13. (count) A cyclist goes 18 kilometres in 90 minutes. How many kilometres per hour is that?  
    **Answer:** 12. *Why:* 90 minutes is 1.5 hours, and 18 ÷ 1.5 = 12 kilometres per hour.
@@ -658,7 +658,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 15. (fill) A continent drifts 5 centimetres each year. In 2 crore years it moves ____ kilometres.  
    **Answer:** ['1000']. *Why:* 2 crore is 20,000,000. 5 × 20,000,000 = 100,000,000 centimetres, which is 1,000 kilometres.
 16. (mcq) A radio signal, which travels at the speed of light, takes 20 minutes to reach Earth from a spacecraft. About how far away is the spacecraft?  
-   Options: 36 crore kilometres / 3.6 lakh kilometres / 3,600 kilometres  
+   Options: 3.6 lakh kilometres / 36 crore kilometres / 3,600 kilometres  
    **Answer:** 36 crore kilometres. *Why:* 20 minutes is 1,200 seconds. Light covers 3 lakh kilometres in each second, so 3 lakh × 1,200 = 36 crore kilometres.
 ### Faulty sums and open questions (challenge) (challenge, 16 questions)
 1. (mcq) A bus covers 60 kilometres at 30 kilometres per hour and then 60 kilometres at 60 kilometres per hour. A friend says its average speed is 45. What is right?  
@@ -669,7 +669,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 3. (fill) A toy car takes 1.5 seconds for the first metre and 2.5 seconds for the second metre. Its average speed over both metres is ____ centimetres per second.  
    **Answer:** ['50']. *Why:* 200 centimetres in 4 seconds is 50 centimetres per second.
 4. (mcq) A boat goes 12 kilometres per hour in still water. The river flows at 4 kilometres per hour. How fast does the boat go down the river, compared with the bank?  
-   Options: 8 kilometres per hour / 12 kilometres per hour / 16 kilometres per hour  
+   Options: 8 kilometres per hour / 16 kilometres per hour / 12 kilometres per hour  
    **Answer:** 16 kilometres per hour. *Why:* Going with the flow, the two speeds add, so 12 + 4 = 16. Going up the river would give 12 - 4 = 8.
 5. (write) A friend says slow things do not matter. Give two slow movers, one from the ground and one from a living being, and say why their slowness matters.  
    **Answer:** Answers vary. A drifting continent builds mountains such as the Himalayas over millions of years because it moves steadily. A root or a sprout grows a few millimetres each day, and their slowness lets them keep adjusting to light, water and soil.. *Why:* A strong answer names the mover, says how slow it is, and says what its slowness makes possible.
@@ -691,7 +691,7 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
 13. (count) The Moon is about 3.8 lakh kilometres away. Light covers 3 lakh kilometres in each second. About how many seconds does moonlight take to reach us? Give one decimal place.  
    **Answer:** 1.3. *Why:* 380,000 ÷ 300,000 is about 1.3 seconds. When you look at the Moon, you see it as it was just over a second ago.
 14. (mcq) A train going 100 kilometres per hour passes another going 60 kilometres per hour on the next track, in the opposite direction. How fast does one train's passenger see the other going?  
-   Options: 40 kilometres per hour / 100 kilometres per hour / 160 kilometres per hour  
+   Options: 160 kilometres per hour / 40 kilometres per hour / 100 kilometres per hour  
    **Answer:** 160 kilometres per hour. *Why:* Going towards each other, the speeds add, so 100 + 60 = 160. The 40 would be right for trains going the same way.
 15. (truefalse) A snail at 1 millimetre per second moves more than 100,000 times faster than a continent drifting at 5 centimetres each year.  
    **Answer:** True. *Why:* True. A year has about 31 million seconds, so a snail covers about 31 million millimetres, which is 3 million centimetres. 3 million ÷ 5 is about 600,000 times.
@@ -711,13 +711,13 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
    Options: Yes, she covered more distance / No, we need each time too / Yes, a bicycle beats walking  
    **Answer:** No, we need each time too. *Why:* Speed needs distance and time together. If the walker took 1 hour and the cyclist took 10, the walker was faster. If you chose yes, ask for both numbers first.
 3. (mcq) A toy car covers 150 centimetres in 3 seconds. Which working finds its speed?  
-   Options: 3 ÷ 150 / 150 × 3 / 150 ÷ 3, so 50 centimetres per second  
+   Options: 150 ÷ 3, so 50 centimetres per second / 3 ÷ 150 / 150 × 3  
    **Answer:** 150 ÷ 3, so 50 centimetres per second. *Why:* Speed is distance divided by time. 3 ÷ 150 gives seconds for each centimetre, which is the upside-down question. Multiplying gives nothing useful.
 4. (mcq) You want to test if a heavier toy car rolls faster down a ramp. Which test is fair?  
    Options: Use a steeper ramp for the heavy car / Same ramp, add weight, repeat the run / Run each car once and compare  
    **Answer:** Same ramp, add weight, repeat the run. *Why:* A fair test changes only one thing, here the weight, and repeats the run. A steeper ramp changes two things. A single run can be spoiled by a late finger on the stopwatch.
 5. (mcq) You time a car five times and get 3.1, 3.0, 3.4, 3.1 and 3.2 seconds. Why use the middle value?  
-   Options: One run is as good as five / A late or early finger spoils some runs / The car speeds up on every run  
+   Options: One run is as good as five / The car speeds up on every run / A late or early finger spoils some runs  
    **Answer:** A late or early finger spoils some runs. *Why:* A finger on a stopwatch is never exactly on time, so single runs are a little off. The middle value is not pulled away by one odd run.
 6. (mcq) A bus covers 120 kilometres in 3 hours. Its speedometer never showed exactly 40. Is that possible?  
    Options: No, the average must appear on the speedometer / Yes, it was faster and slower than 40 at times / Only if the bus stopped  
@@ -726,10 +726,10 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
    Options: Short pieces give higher speeds / The speed has little time to change inside it / A stopwatch works better on short times  
    **Answer:** The speed has little time to change inside it. *Why:* Over a short piece, the speed hardly changes, so the average over that piece is close to the speed at that moment. A stopwatch is actually worse on very short times.
 8. (mcq) On a graph with time across and distance up, a line rises steadily, goes flat, then rises more steeply. What happened?  
-   Options: Steady, stopped, then faster / Fast, stopped, then slower / Steady, going back, then slower  
+   Options: Fast, stopped, then slower / Steady, going back, then slower / Steady, stopped, then faster  
    **Answer:** Steady, stopped, then faster. *Why:* The steepness shows the speed. Flat means the distance did not change, so the mover stopped. A steeper line afterwards means a higher speed.
 9. (mcq) A girl sleeps in a moving train. Which is true?  
-   Options: Zero compared with everything / Zero compared with the seat, large compared with the ground / She has no speed while asleep  
+   Options: Zero compared with the seat, large compared with the ground / Zero compared with everything / She has no speed while asleep  
    **Answer:** Zero compared with the seat, large compared with the ground. *Why:* A speed always needs 'compared with what'. She is still compared with the seat, and she is moving compared with the ground. Being asleep changes nothing about the numbers.
 10. (mcq) A cyclist rides beside a bus and keeps exactly the same speed. Compared with the bus, her speed is  
    Options: Double the bus's speed / The same as the bus's speed / Zero  
@@ -738,13 +738,13 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
    Options: Each speed is distance divided by time / Only things we can see have real speeds / Speed means something different for each  
    **Answer:** Each speed is distance divided by time. *Why:* The sum is the same for all of them. Only the size of the distance and the time changes, which is why we use millimetres per second for one and kilometres per second for another.
 12. (mcq) How could anyone show that a continent moves 5 centimetres each year?  
-   Options: Film it for an hour / Measure one spot for years with satellites / Measure it once with a long tape  
+   Options: Measure one spot for years with satellites / Film it for an hour / Measure it once with a long tape  
    **Answer:** Measure one spot for years with satellites. *Why:* A speed that small needs a long time to build up a distance we can measure. A film of one hour would show nothing, and one measurement gives no change to divide by a time.
 13. (mcq) A spaceship moving at half the speed of light shines a torch forwards. Someone at rest measures the beam. What do they find?  
-   Options: One and a half times light's speed / Light's usual speed / Half of light's speed  
+   Options: One and a half times light's speed / Half of light's speed / Light's usual speed  
    **Answer:** Light's usual speed. *Why:* Everyone who measures light in empty space finds the same speed. That is different from a passenger walking in a bus, where speeds add. Scientists tested this many times and it holds.
 14. (mcq) Which question about speed has no agreed answer yet?  
-   Options: How fast sound travels in air / Why the universe has a top speed at all / How far a car goes in an hour at 30 kilometres per hour  
+   Options: How fast sound travels in air / How far a car goes in an hour at 30 kilometres per hour / Why the universe has a top speed at all  
    **Answer:** Why the universe has a top speed at all. *Why:* The other two can be measured or worked out with a sum. Nobody has an agreed reason why light's speed is the limit, so the question is still open.
 
 ## Applications

@@ -1424,11 +1424,11 @@
       "t": "mcq",
       "q": "The seeds were the same both times. What made the first way a game?",
       "options": [
-       "The seeds had a rule on them",
        "Both players agreed to keep a rule",
+       "The seeds had a rule on them",
        "The floor was special"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Nothing on the floor changed. The game came from what both players agreed to keep."
      },
      "parent": "Wait for your child's own words first. Then say it plainly: with the rule you had a game, and without the rule you had grabbing. A game needs the rule and also a second player who keeps it."
@@ -2506,11 +2506,11 @@
      "t": "mcq",
      "p": "Which of these is a rule?",
      "opts": [
-      "Take turns, one go each",
       "The floor is red",
+      "Take turns, one go each",
       "The seeds are brown"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A rule says what players may do or must do. The colour of the floor or the seeds is not a rule."
     },
     {
@@ -2672,11 +2672,11 @@
      "t": "mcq",
      "p": "In snakes and ladders the dice decides every move. Who has the best chance of winning?",
      "opts": [
-      "Every player has the same chance",
       "The oldest player",
-      "The fastest runner"
+      "The fastest runner",
+      "Every player has the same chance"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The dice does not know who is old or fast. Each player has the same chance on each roll."
     },
     {
@@ -2727,11 +2727,11 @@
      "t": "mcq",
      "p": "A child cheats at ludo. What does the cheat need the other players to do?",
      "opts": [
-      "Keep the rule",
       "Cheat too",
-      "Stop playing"
+      "Stop playing",
+      "Keep the rule"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A cheat gains only if the others keep the rule. If everyone cheated, nobody would get ahead."
     },
     {
@@ -2910,11 +2910,11 @@
      "t": "mcq",
      "p": "Scientists found that rats learned hide and seek when the only reward was being tickled. What does this suggest?",
      "opts": [
-      "Play can be its own reward",
       "Play always needs a food prize",
-      "Only humans enjoy games"
+      "Only humans enjoy games",
+      "Play can be its own reward"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rats had no food prize and still learned the game. So play seems to reward itself."
     },
     {
@@ -2967,11 +2967,11 @@
      "t": "mcq",
      "p": "Which is a hazard rather than a risk?",
      "opts": [
-      "A child jumps from the second step",
       "A rug hides a wet floor",
+      "A child jumps from the second step",
       "A child climbs onto a low wall"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A hazard is a danger the child cannot see. The child jumping or climbing can see and judge, which makes those risks."
     }
    ]
@@ -2982,11 +2982,11 @@
    "t": "mcq",
    "p": "Ten seeds lie on the floor. What turns them into a game?",
    "opts": [
-    "The players agree on a rule and keep it",
     "The seeds are brown",
+    "The players agree on a rule and keep it",
     "Someone counts the seeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A game exists only when the players agree to keep a rule. The seeds alone are just seeds.",
    "outcome": 0
   },
@@ -3006,11 +3006,11 @@
    "t": "mcq",
    "p": "Which game needs open space more than a small table?",
    "opts": [
-    "Kho-kho",
     "Carrom",
-    "Chess"
+    "Chess",
+    "Kho-kho"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Kho-kho means running, so it needs open space. Carrom and chess fit on a board.",
    "outcome": 1
   },
@@ -3030,11 +3030,11 @@
    "t": "mcq",
    "p": "In snakes and ladders the dice decides every move. What kind of game is this?",
    "opts": [
-    "A game of luck",
     "A game of skill",
-    "A game of cheating"
+    "A game of cheating",
+    "A game of luck"
    ],
-   "a": 0,
+   "a": 2,
    "why": "No move is a choice, so the result depends on chance.",
    "outcome": 1
   },
@@ -3042,11 +3042,11 @@
    "t": "mcq",
    "p": "Two children want the same swing. Which rule gives both a go?",
    "opts": [
-    "Take turns, with the turns counted",
     "The faster child goes first",
+    "Take turns, with the turns counted",
     "The older child always goes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A turn rule shares the playing time. Without one, the fastest or strongest child takes every go.",
    "outcome": 2
   },
@@ -3054,11 +3054,11 @@
    "t": "mcq",
    "p": "Why is waiting for a turn easier when people keep their promises?",
    "opts": [
-    "You trust that your turn will come",
     "The game gets shorter",
+    "You trust that your turn will come",
     "Nobody else is playing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In one study, children who had met a promise-keeper waited about four times as long as children who had met a promise-breaker.",
    "outcome": 2
   },
@@ -3066,11 +3066,11 @@
    "t": "mcq",
    "p": "A child who missed lunch gets an extra laddu. Which idea of fair is this?",
    "opts": [
-    "More for the one who needs more",
     "The same for everyone",
+    "More for the one who needs more",
     "More for the one who did more"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fair has more than one meaning. This one gives more to the child who needs more.",
    "outcome": 3
   },
@@ -3114,11 +3114,11 @@
    "t": "mcq",
    "p": "You win. Why do you need the player who lost?",
    "opts": [
-    "Winning needs someone who played against you",
     "You do not need anyone",
-    "The loser makes the rules"
+    "The loser makes the rules",
+    "Winning needs someone who played against you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A win needs another player who tried. The player who lost helped to make the game.",
    "outcome": 5
   },
@@ -3150,11 +3150,11 @@
    "t": "mcq",
    "p": "Which question about play has no answer yet?",
    "opts": [
-    "Why do animals play at all",
     "How many faces a dice has",
+    "Why do animals play at all",
     "How many players are in a kabaddi team"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists have several ideas about why animals play, and none is settled.",
    "outcome": 6
   },
@@ -3162,11 +3162,11 @@
    "t": "mcq",
    "p": "Two friends keep a balloon up, and both lose if it falls. What kind of game is it?",
    "opts": [
-    "Cooperative",
     "Competitive",
-    "Cheating"
+    "Cheating",
+    "Cooperative"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Both players are on one side. They win together or lose together.",
    "outcome": 5
   }

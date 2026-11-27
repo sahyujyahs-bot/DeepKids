@@ -614,11 +614,11 @@
       "t": "mcq",
       "q": "Practice card: a straw in a glass of tender coconut water looks broken. Which mat?",
       "options": [
-       "BENT",
        "BIG",
+       "BENT",
        "NEITHER"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Light from the part of the straw in the drink bends as it comes out at the top. Your eyes see that part in the wrong place, so the straw looks broken. That is BENT. Picking NEITHER usually means thinking the straw itself is bent. Picking BIG is close, because the straw can look a little fatter too, but the main thing is the break."
      }
     },
@@ -773,12 +773,12 @@
      "t": "mcq",
      "p": "Stand a steel spoon in a glass of water. From the side, the handle looks broken at the water line. What is really bent?",
      "opts": [
-      "The spoon",
       "The path of the light coming from the spoon",
+      "The spoon",
       "The glass",
       "Nothing. Your eyes are tired."
      ],
-     "a": 1,
+     "a": 0,
      "why": "The spoon stays straight, and you can feel that with your finger. Light from the part under the water bends as it comes out into the air. Your eyes follow the light straight back, so they show that part in the wrong place. A strong answer says the light bent, not the spoon.",
      "how": "e1"
     },
@@ -814,11 +814,11 @@
      "t": "mcq",
      "p": "Put a coin in an empty cup and move your head back until the rim just hides the coin. Keep your head still while someone slowly pours in water. What will you see?",
      "opts": [
-      "Nothing changes. The coin stays hidden.",
       "The coin comes into view over the rim.",
+      "Nothing changes. The coin stays hidden.",
       "The coin looks smaller and sinks lower."
      ],
-     "a": 1,
+     "a": 0,
      "why": "Light from the coin bends as it leaves the water, to a flatter slant. Now it can pass over the rim and reach your eye. The coin has not moved, but it looks higher than it is. A strong answer says the light bent, not the coin moving.",
      "how": "e3"
     },
@@ -862,11 +862,11 @@
      "t": "mcq",
      "p": "Someone looks at an ant through a magnifying glass and says, 'My lens made the ant grow.' What is wrong with this?",
      "opts": [
-      "Nothing. The ant grew while the person looked.",
       "The ant stayed the same size. The lens bends the light from the ant, so the ant looks bigger.",
+      "Nothing. The ant grew while the person looked.",
       "The lens pulled the ant closer to the person."
      ],
-     "a": 1,
+     "a": 0,
      "why": "Take the lens away and the ant looks small again at once. Nothing about the ant changed. Only the path of the light changed. A strong answer says 'looks bigger', not 'is bigger'."
     },
     {
@@ -1003,10 +1003,10 @@
      "p": "You shine a torch straight down into a bucket of water, at a right angle to the surface. What does the beam do as it goes into the water?",
      "opts": [
       "It bends a lot",
-      "It goes on straight, only a little slower",
-      "It all bounces back up"
+      "It all bounces back up",
+      "It goes on straight, only a little slower"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Straight on, the whole beam reaches the water at the same moment and slows down together, so nothing makes it turn. It is like the marching line stepping onto the mattress all at once. Bending needs a slant."
     },
     {
@@ -1157,10 +1157,10 @@
      "p": "Light goes about three quarters as fast in water as in air, about two thirds as fast in glass, and less than half as fast in diamond. Which bends light the most when light goes into it from air at a slant?",
      "opts": [
       "Water",
-      "Glass",
-      "Diamond"
+      "Diamond",
+      "Glass"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The more a material slows light, the more sharply light turns at its edge. Diamond slows light the most, so it bends light the most. That is part of why diamonds sparkle. A strong answer uses the speeds, not a guess about hardness."
     },
     {
@@ -1600,11 +1600,11 @@
       "t": "mcq",
       "q": "In the water-drop test, which drop usually makes the letters look biggest?",
       "options": [
-       "The big, flat drop",
        "The tiny, round drop",
+       "The big, flat drop",
        "They all magnify the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A tiny drop is very curved, almost half a ball. The more curved a lens is, the more sharply it bends light, and the more it magnifies. A big drop spreads out and is nearly flat on top, so it hardly bends the light. Picking the big drop usually means thinking 'more water means more magnifying'. It is the curve that matters, not the amount of water."
      },
      "chart": {
@@ -1735,10 +1735,10 @@
       "q": "In the appearing-coin test, why did the hidden coin appear when water was poured in?",
       "options": [
        "The water lifted the coin up",
-       "Light from the coin bent at the water's surface and reached my eye",
-       "The water made the coin shiny so it glowed"
+       "The water made the coin shiny so it glowed",
+       "Light from the coin bent at the water's surface and reached my eye"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The coin was stuck down, so it did not move. Light from it bent as it came out of the water, over the rim and into your eye. Your eye followed the light straight back and saw the coin higher than it is. Picking 'lifted the coin' means believing what you saw, when the coin itself never moved. Picking 'shiny' mixes up how bright a thing is with where it seems to be."
      }
     },
@@ -1862,11 +1862,11 @@
       "t": "mcq",
       "q": "When you looked at a newspaper word through a drop of water, what did you see?",
       "options": [
-       "The word looked bigger",
        "The word looked smaller",
+       "The word looked bigger",
        "The word disappeared"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A drop of water is round on top, so it bends light like a tiny magnifying glass. The word looks bigger, but it has not changed. If you saw it smaller or vanish, the drop may have been too big and flat, or it may have soaked into the paper. Try a smaller drop on clear plastic."
      }
     }
@@ -2035,10 +2035,10 @@
       "q": "When you caught a picture of a bright window on paper with a magnifying glass, which way up was it?",
       "options": [
        "The right way up",
-       "Upside down",
-       "There was no picture, only a blur"
+       "There was no picture, only a blur",
+       "Upside down"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The lens brings light from the top of the window down to the bottom of the picture, and from the bottom up to the top. So the picture is upside down. If you got only a blur, move the lens slowly nearer or further until it is sharp. A camera and your own eye make upside-down pictures in the same way."
      }
     }
@@ -2303,11 +2303,11 @@
       "t": "mcq",
       "q": "The wine glass bent the torch light into rings and arcs. In space, what bends the light of far galaxies into rings and arcs?",
       "options": [
-       "Huge glass lenses floating in space",
        "The gravity of huge clusters of galaxies",
+       "Huge glass lenses floating in space",
        "Clouds of water drops"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In space there is no glass. The gravity of a huge mass, like a cluster of galaxies, bends space itself, so light passing near it curves. Einstein predicted this in 1915. The wine glass only makes a model of the shapes. Picking 'glass lenses' is a fair guess from our model, but the cause in space is different."
      }
     }
@@ -2425,11 +2425,11 @@
       "t": "mcq",
       "q": "In the drop microscope project, why can a tiny water drop magnify more than a big magnifying glass?",
       "options": [
-       "The drop is much more curved, so it bends light more",
        "Water is always better than glass",
+       "The drop is much more curved, so it bends light more",
        "The drop was closer to the Sun"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A tiny drop is almost a ball, very curved, so it bends light very sharply and magnifies strongly. A big magnifying glass is only gently curved. Leeuwenhoek used tiny beads for the same reason. Picking 'water is better than glass' misses the point, because glass bends light a little more than water does."
      }
     },
@@ -2653,12 +2653,12 @@
    "t": "mcq",
    "p": "Which of these is refraction?",
    "opts": [
-    "A torch beam bouncing off a steel plate",
     "A straw in a glass of tender coconut water looking broken at the top of the drink",
+    "A torch beam bouncing off a steel plate",
     "Your hand making a shadow",
     "The Sun getting brighter at noon"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Refraction is light bending as it passes from one see-through material into another. The straw looks broken because light from it bends as it leaves the drink. Bouncing is reflection, and a shadow is light being blocked.",
    "outcome": 0
   },
@@ -2666,11 +2666,11 @@
    "t": "mcq",
    "p": "You stand in a swimming pool. Your legs look short and bent at the water line. What is true?",
    "opts": [
-    "Your legs really bend in the water",
     "Light from your legs bends at the surface, so you see them in the wrong place",
+    "Your legs really bend in the water",
     "The water squeezes your legs"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your legs stay the same. Light from them bends as it leaves the water, and your eyes follow it straight back. So you see your legs higher and shorter than they are.",
    "outcome": 1
   },
@@ -2678,11 +2678,11 @@
    "t": "mcq",
    "p": "You want your water-drop test to be fair. Which one thing should you change from drop to drop?",
    "opts": [
-    "The size of the drop",
     "The newspaper",
-    "Both the ruler and the size of the drop"
+    "Both the ruler and the size of the drop",
+    "The size of the drop"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes only one thing. If only the drop size changes, any difference in the letters must come from the drop size.",
    "outcome": 2,
    "how": "e2"
@@ -2716,11 +2716,11 @@
    "t": "mcq",
    "p": "Why does a magnifying glass make things look bigger?",
    "opts": [
-    "It adds extra light to them",
     "It bends the light coming from them",
+    "It adds extra light to them",
     "It stretches them"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A magnifying glass is a bulging lens. It bends the light from a thing so the light reaches your eye as if from a bigger thing.",
    "outcome": 3
   },
@@ -2743,10 +2743,10 @@
    "opts": [
     "A dew drop on a leaf",
     "The glass at the front of a camera",
-    "A mirror",
-    "The clear lens inside your eye"
+    "The clear lens inside your eye",
+    "A mirror"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A mirror bounces light back. It does not bend light passing through it. A dew drop, a camera's glass and your eye's lens all bend light.",
    "outcome": 5
   },
@@ -2767,10 +2767,10 @@
    "p": "A space telescope photographs a far galaxy stretched into an arc. What bent the light from that galaxy?",
    "opts": [
     "A giant glass lens in space",
-    "The gravity of a huge cluster of galaxies in front of it",
-    "Clouds of water in space"
+    "Clouds of water in space",
+    "The gravity of a huge cluster of galaxies in front of it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Gravity bends light passing near very heavy things in space, as Einstein predicted in 1915. There is no glass in space doing it.",
    "outcome": 6
   },
@@ -2779,10 +2779,10 @@
    "p": "Archerfish spit jets of water at insects sitting above the surface. What have scientists found about their aim?",
    "opts": [
     "They always miss, because of the bend",
-    "They aim correctly, allowing for the bend in the light",
-    "They only spit straight up"
+    "They only spit straight up",
+    "They aim correctly, allowing for the bend in the light"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The light coming from the insect bends at the surface, so the insect seems to be in the wrong place. Archerfish still hit their target, so they allow for the bend.",
    "outcome": 6
   }

@@ -1003,11 +1003,11 @@
       "t": "mcq",
       "q": "Why do the three ways come in a different order in each round?",
       "options": [
-       "So practice does not help only one way",
        "So the game is less boring",
+       "So practice does not help only one way",
        "So the coin is harder to find"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The hand gets better with practice. If Way 3 always came last, it would get the most practice and might win for that reason alone. Changing the order shares the practice out. If you picked 'harder to find', remember that moving the coin does that job, and the order of the ways does something different."
      },
      "parent": "Hide the coin in a new part of the plate each time: near, far, left, right and middle. Do not make it easier or harder for any one way."
@@ -1336,11 +1336,11 @@
       "t": "mcq",
       "q": "Water that has passed through firmly packed cotton comes out in slow drips. What has the cotton taken away?",
       "options": [
-       "Most of the push behind the water",
        "Most of the water",
-       "The oxygen in the water"
+       "The oxygen in the water",
+       "Most of the push behind the water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "All the water still comes through, but rubbing past so many fine threads uses up the push behind it. Blood loses its push in the fine tubes of a gill in the same way. If you picked 'most of the water', check the bowl. The water is all there."
      }
     },
@@ -1686,11 +1686,11 @@
       "t": "mcq",
       "q": "A stinging cell's thread is packed inside a capsule. How does the thread come out?",
       "options": [
-       "It turns inside out as it shoots out",
        "It uncoils like a rope being thrown",
-       "It grows longer very quickly"
+       "It grows longer very quickly",
+       "It turns inside out as it shoots out"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The hollow thread is tucked inside itself, like your balloon in the bottle. Pressure pushes it out inside first. That is why barbs hidden inside the packed thread end up on the outside. If you picked the rope, that is the usual guess, but the thread is a tube, and it turns inside out."
      },
      "parent": "In the real capsule the pressure is already stored, and a touch on a tiny trigger hair opens the lid. The real thread is far thinner than a hair and is used only once. Our model is slower, bigger, squeezed from outside, and can be used again."
@@ -2118,11 +2118,11 @@
      "t": "mcq",
      "p": "What sets off a stinging cell?",
      "opts": [
-      "A touch on the cell's trigger",
       "An order from a brain",
+      "A touch on the cell's trigger",
       "Bright sunlight"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each stinging cell fires by itself when the trigger is touched. No order comes from a brain or from anywhere else, and even a tentacle washed up on a beach can still sting.",
      "outcome": 2
     },
@@ -2168,11 +2168,11 @@
      "t": "mcq",
      "p": "In the Boss or Hand test, why is the coin moved before every try?",
      "opts": [
-      "So remembering the last place does not help",
       "So the hand gets tired",
-      "So the boss cannot see the coin"
+      "So the boss cannot see the coin",
+      "So remembering the last place does not help"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the coin stayed put, the hand could go straight back to it from memory. Then you would be testing memory, and not the three ways of sharing the work.",
      "outcome": 6,
      "how": "e1"
@@ -2222,11 +2222,11 @@
      "t": "mcq",
      "p": "A cuttlefish is grouped with snails. Why?",
      "opts": [
-      "Both have a mantle, a radula and a soft body",
       "Both live in water",
+      "Both have a mantle, a radula and a soft body",
       "Both move slowly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Groups follow the body plan. A cuttlefish has a mantle, a radula and a soft body with no segments, as a snail has. Many land snails do not live in water, and a cuttlefish is fast.",
      "outcome": 3
     },
@@ -2234,11 +2234,11 @@
      "t": "mcq",
      "p": "Which of these animals is your closest relative?",
      "opts": [
-      "A starfish",
       "A crab",
-      "An octopus"
+      "An octopus",
+      "A starfish"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Echinoderms are on the same big branch of the family tree as animals with backbones. Crabs and octopuses are on another branch. Looks do not show this, but the growing egg and the DNA do.",
      "outcome": 4
     },
@@ -2253,11 +2253,11 @@
      "t": "mcq",
      "p": "Why do arthropods have so many kinds of tools on one body?",
      "opts": [
-      "Limbs on each segment can change shape and job",
       "They are the oldest animals",
-      "They have the biggest brains"
+      "They have the biggest brains",
+      "Limbs on each segment can change shape and job"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An arthropod's body is a row of segments, each with a pair of limbs. Over time, limbs on different segments became jaws, feelers, claws, legs and paddles.",
      "outcome": 4
     },
@@ -2444,11 +2444,11 @@
      "t": "mcq",
      "p": "Which part of your body does the job of an octopus's gill hearts?",
      "opts": [
-      "The right half of the heart",
       "The left half of the heart",
+      "The right half of the heart",
       "The lungs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The right half of your heart pumps blood to the lungs to pick up oxygen. The left half pumps it to the body, as the octopus's main heart does.",
      "outcome": 5
     },
@@ -2622,11 +2622,11 @@
    "t": "mcq",
    "p": "Which of these animals is a mollusc?",
    "opts": [
-    "A squid",
     "A starfish",
-    "A barnacle"
+    "A barnacle",
+    "A squid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A squid has a mantle and a soft body with no segments. A starfish is an echinoderm. A barnacle looks like a shellfish but has jointed legs inside, so the barnacle is an arthropod.",
    "outcome": 0
   },
@@ -2634,11 +2634,11 @@
    "t": "mcq",
    "p": "How does a sponge get food?",
    "opts": [
-    "By pulling water through pores and filtering",
     "By catching prey with tentacles",
-    "By making food from sunlight"
+    "By making food from sunlight",
+    "By pulling water through pores and filtering"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Collar cells beat their threads, pull water through the body and catch bacteria. Tentacles belong to cnidarians. Making food from sunlight is what plants and algae do, and it is why people once took sponges for plants.",
    "outcome": 1
   },
@@ -2646,11 +2646,11 @@
    "t": "mcq",
    "p": "Why does a sponge count as an animal?",
    "opts": [
-    "Many cells, eats living things, makes eggs and sperm",
     "Moving from place to place",
-    "Having a small brain"
+    "Having a small brain",
+    "Many cells, eats living things, makes eggs and sperm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A sponge is built of many cells, feeds on bacteria and other living specks, and makes eggs and sperm. An adult sponge stays in one place and has no nerve cells at all, so moving and brains are not what makes an animal.",
    "outcome": 1
   },
@@ -2658,11 +2658,11 @@
    "t": "mcq",
    "p": "What happens when reef corals turn white in a sea that stays too hot?",
    "opts": [
-    "The tiny algae inside them are lost",
     "Their limestone melts",
-    "Fish eat the coloured parts"
+    "Fish eat the coloured parts",
+    "The tiny algae inside them are lost"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The algae living in the coral's cells give much of the colour and most of the food. In long heat the partnership breaks down and the algae go. Limestone does not melt in warm water.",
    "outcome": 2
   },
@@ -2670,11 +2670,11 @@
    "t": "mcq",
    "p": "Which parts does an octopus share with a garden snail?",
    "opts": [
-    "A mantle and a radula",
     "A shell and feelers",
+    "A mantle and a radula",
     "Jointed legs and a hard skeleton"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Both are molluscs, with a mantle over the body and a toothed ribbon in the mouth. The octopus's ancestors lost the shell. Jointed legs belong to arthropods.",
    "outcome": 3
   },
@@ -2694,11 +2694,11 @@
    "t": "mcq",
    "p": "What do an octopus's two gill hearts do?",
    "opts": [
-    "Push blood through the gills",
     "Push blood into the arms",
+    "Push blood through the gills",
     "Store spare blood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each gill heart pushes blood through the fine tubes of one gill. The main heart then sends the blood round the whole body, arms included.",
    "outcome": 5
   },
@@ -2725,11 +2725,11 @@
    "t": "mcq",
    "p": "In the Boss or Hand test, why is ordering every move slow?",
    "opts": [
-    "Each order takes time, and the boss is not touching",
     "The hand gets tired of listening",
+    "Each order takes time, and the boss is not touching",
     "The coin is too heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Words are slow, many orders are needed for one small act, and the boss does not know what the fingers are touching. Giving only the aim lets the hand use what it feels.",
    "outcome": 6,
    "how": "e1"
@@ -2738,11 +2738,11 @@
    "t": "mcq",
    "p": "Which animal has a nerve net and no brain?",
    "opts": [
-    "A sea anemone",
     "An ant",
-    "An octopus"
+    "An octopus",
+    "A sea anemone"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cnidarians such as sea anemones and jellyfish have nerve cells spread as a net. An ant and an octopus both have brains.",
    "outcome": 7
   }

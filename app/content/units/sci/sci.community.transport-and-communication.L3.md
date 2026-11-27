@@ -578,7 +578,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 1. (sort) Here is a list of ways to travel. Sort each one into its kind of transport.  
    **Answer:** an auto-rickshaw → Road; a goods train → Rail; a kattumaram → Water; a helicopter → Air; a city bus → Road; a metro train → Rail; a ferry boat → Water; an aeroplane → Air. *Why:* Road transport runs on roads, rail on tracks, water transport floats, and air transport flies. A kattumaram is a raft of logs tied together. A strong answer knows that a metro is rail transport, even when it runs on a bridge above the road.
 2. (mcq) In the Seen in the Dark test, the same dim torch shines on a black cloth and a white cloth. Which one can you still see from further away?  
-   Options: The black cloth / The white cloth / Both the same / Neither, in the dark  
+   Options: The white cloth / The black cloth / Both the same / Neither, in the dark  
    **Answer:** The white cloth. *Why:* The white cloth reflects much more of the torch light back to your eyes, so you can still see it from further away. The black cloth reflects very little, so it vanishes sooner.
 3. (write) Someone says, 'I can see the car's headlights, so the driver can see me.' Explain why this may be wrong.  
    **Answer:** The person sees the bright lamp itself. The driver sees the person only by the little light that bounces off them and comes back. If the person wears dark clothes, very little light comes back, so the driver may not see them.. *Why:* A strong answer says that seeing a lamp and being seen by its light are different. It uses the idea of light bouncing off and coming back.
@@ -591,14 +591,14 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 7. (draw) Draw a road sign that warns drivers that a school is ahead. Colour its border.  
    **Answer:** A triangle with a red border, a white middle, and two children drawn in black.. *Why:* A warning sign is a red-bordered triangle. The picture of children tells drivers to slow down and watch out.
 8. (mcq) Which of these is two-way communication?  
-   Options: A newspaper / A talk with your friend / A billboard / A TV news programme  
+   Options: A newspaper / A billboard / A TV news programme / A talk with your friend  
    **Answer:** A talk with your friend. *Why:* In a talk, both of you can speak and ask questions. A newspaper, a billboard and TV news send a message one way only.
 9. (order) Put these ways of sending messages in order, from oldest to newest.  
    **Answer:** ['Messengers on foot', 'Telegraph', 'Radio', 'Mobile phone']. *Why:* Messengers on foot are thousands of years old. The telegraph came in the 1800s, radio in the early 1900s, and mobile phones in India in 1995.
 10. (write) Name two ways that cars and buses harm the air or our health.  
    **Answer:** Their exhaust has tiny specks of soot and harmful gases that hurt our lungs. It also has carbon dioxide, which warms the Earth. Horns and engines make noise pollution too.. *Why:* A strong answer names two different harms, such as dirty air and noise, or harm to lungs and warming of the Earth.
 11. (mcq) You want to send a photo to a cousin in Kolkata right now. Which is the quickest way?  
-   Options: Post it in a letter / Send it by phone over the internet / Give it to a train passenger / Send it by courier  
+   Options: Post it in a letter / Give it to a train passenger / Send it by phone over the internet / Send it by courier  
    **Answer:** Send it by phone over the internet. *Why:* The internet carries a photo in seconds. A letter or courier takes days.
 12. (perspective) Two friends in Chennai are going to a shop 1 kilometre away, on a hot afternoon.  
    **Answer:** A strong answer picks a side and gives a reason, such as no pollution, or saving time in the heat. It also gives the other friend their due: walking is clean and healthy, and an auto is quicker and easier in great heat or with heavy bags.. *Why:* There is a real trade-off between clean travel and quick, comfortable travel. A good answer weighs both.
@@ -618,7 +618,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 19. (match) Match each sign to what it tells you.  
    **Answer:** No Parking → do not leave your vehicle here; Speed Breaker → a bump is ahead, so slow down; Men at Work → people are working, so go slowly. *Why:* These signs use words as well as pictures. A strong answer could draw one new sign of their own.
 20. (mcq) What is email?  
-   Options: A message sent by the internet / A kind of train / A road sign / A fuel  
+   Options: A kind of train / A road sign / A fuel / A message sent by the internet  
    **Answer:** A message sent by the internet. *Why:* Email is a message sent by the internet from one person to another, in seconds.
 ### Signs, signals and choices (stretch) (stretch, 20 questions)
 1. (mcq) In the Seen in the Dark test, a reflective strip on the chair shone brightly when the torch was beside your eye. What happened when you held the torch far out to the side?  
@@ -634,7 +634,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 5. (sort) Sort these into one-way and two-way communication.  
    **Answer:** a radio programme → One-way; a video call → Two-way; a road sign → One-way; a chat at dinner → Two-way; a poster on a wall → One-way; letters sent back and forth → Two-way. *Why:* In two-way communication, both sides can send and receive. Letters sent back and forth are two-way, but slow.
 6. (mcq) Which is the best way to carry petrol from a refinery to a city 300 kilometres away, every day, for years?  
-   Options: Aeroplanes / A pipeline / Bullock carts / Cycles  
+   Options: Aeroplanes / Bullock carts / A pipeline / Cycles  
    **Answer:** A pipeline. *Why:* A pipeline carries liquid all day and night, without any vehicle. Once it is built, it is cheap and safe for this job.
 7. (truefalse) Electric scooters give out no exhaust on the road, but their electricity may still cause pollution somewhere else.  
    **Answer:** True. *Why:* In India, much electricity is made by burning coal in power stations. So the pollution moves from the road to the power station.
@@ -645,7 +645,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 10. (draw) Draw a map of a road crossing near a school. Put a zebra crossing, a 'School ahead' sign and a traffic light where they should go.  
    **Answer:** A crossroads with zebra stripes at the crossing near the school gate, a red-bordered triangle with children placed before the school on each side, and a traffic light at the junction.. *Why:* Warning signs must come before the danger, so drivers have time to slow down. A strong drawing puts the sign some way before the school, not at its gate.
 11. (mcq) Radio waves travel in straight lines. Yet a radio station far beyond the curve of the Earth can sometimes be heard. Why?  
-   Options: Radio waves curl around the Earth by themselves / A charged layer high in the air sends some radio waves back down / The Earth is flat / Radio waves travel through the ground  
+   Options: A charged layer high in the air sends some radio waves back down / Radio waves curl around the Earth by themselves / The Earth is flat / Radio waves travel through the ground  
    **Answer:** A charged layer high in the air sends some radio waves back down. *Why:* The ionosphere, a layer of charged air high above us, sends some radio waves back down to the ground. Edward Appleton showed this in 1924.
 12. (write) Choose one invention from this lesson: the wheel, the train, the telegraph or the mobile phone. What could people do after it that they could not do before?  
    **Answer:** For example: after the train, people could travel across India in days instead of weeks, and carry heavy goods like coal and rice cheaply to faraway cities.. *Why:* A strong answer names a real change and says why the invention made it possible.
@@ -655,12 +655,12 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    Options: A triangle with a speed breaker / A triangle with a sharp bend / A triangle with two children / A red circle with a crossed-out horn  
    **Answer:** 3. *Why:* The red circle is an order: do not sound your horn. The triangles all warn of something ahead.
 15. (mcq) A honeybee finds flowers and comes back to the hive. How does she tell other bees where the flowers are?  
-   Options: She draws a map / She dances, and the direction and length of her dance show the way / She buzzes the name of the flower / She cannot share it  
+   Options: She draws a map / She buzzes the name of the flower / She cannot share it / She dances, and the direction and length of her dance show the way  
    **Answer:** She dances, and the direction and length of her dance show the way. *Why:* Honeybees dance on the comb. The direction of the dance shows which way to fly, and its length shows how far. Karl von Frisch worked this out.
 16. (write) Name two reasons for a traffic jam, and give one way to make it smaller.  
    **Answer:** Reasons: too many vehicles at once, a narrow road, a vehicle that broke down. A way to reduce it: build a flyover, run more buses, or share rides.. *Why:* A strong answer gives two real reasons and one way that fits those reasons.
 17. (mcq) Which road runs across north India and was rebuilt by Sher Shah Suri in the 1500s?  
-   Options: The Grand Trunk Road / The Hooghly / The Konkan Railway / A national airport  
+   Options: The Hooghly / The Grand Trunk Road / The Konkan Railway / A national airport  
    **Answer:** The Grand Trunk Road. *Why:* The Grand Trunk Road is very old. Sher Shah Suri rebuilt it and added trees, wells and rest houses.
 18. (match) Match each tool to what it does.  
    **Answer:** Teleprinter → prints typed messages from wires; Teletext → shows written news on a TV screen; Fax → copies a page and prints it far away; Radio → sends sound through the air. *Why:* Each tool carries a message in its own way. Only radio and TV send their message through the air to many homes.
@@ -672,7 +672,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 1. (write) In the Seen in the Dark test, the white cloth was seen from much further away than the black cloth. On a real road, why does this distance matter so much to a driver going fast?  
    **Answer:** A fast vehicle needs a long distance to slow down and stop. If the driver sees a walker only when very close, there is no time to stop. Seeing someone from further away gives the driver time.. *Why:* A strong answer links seeing distance to stopping distance, and so to safety.
 2. (mcq) In the Seen in the Dark test, suppose your white cloth is still visible at the far wall, 15 foot-steps away. What should you do to find how far it can really be seen?  
-   Options: Write 15 and stop / Make the torch dimmer, or use a longer room, and test all the cloths again / Test only the white cloth again / Use a brighter torch  
+   Options: Write 15 and stop / Test only the white cloth again / Make the torch dimmer, or use a longer room, and test all the cloths again / Use a brighter torch  
    **Answer:** Make the torch dimmer, or use a longer room, and test all the cloths again. *Why:* If the white cloth is still seen at the wall, you have not found its limit. A dimmer torch or a longer room lets you find it. You must test every cloth again in the same way, so the test stays fair.
 3. (perspective) After the Seen in the Dark test, three people talk about road safety at night.  
    **Answer:** A strong answer uses the test, for example that the black cloth vanished at a few steps. It may choose any person, but it sees that all three help: being seen, driving slowly, and safer roads work together.. *Why:* Road safety depends on walkers, drivers and the town together. A good answer weighs each.
@@ -687,14 +687,14 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 8. (draw) Draw the curved Earth with two radio towers far apart. Show how a radio wave can travel from one to the other by bouncing off the ionosphere.  
    **Answer:** A curved Earth, a layer above it marked ionosphere, and a zigzag line from one tower up to the layer, down to the ground, and up and down again to the far tower.. *Why:* A strong drawing shows straight lines that change direction at the ionosphere, not a wave that curves by itself.
 9. (mcq) Sacks of rice go from a farm in Andhra Pradesh to a shop in Kerala. Which two kinds of transport are most likely to carry them?  
-   Options: A goods train, then a truck / An aeroplane, then a ship / A pipeline, then a cycle / A kattumaram, then a helicopter  
+   Options: An aeroplane, then a ship / A pipeline, then a cycle / A kattumaram, then a helicopter / A goods train, then a truck  
    **Answer:** A goods train, then a truck. *Why:* Rice is heavy and travels a long way, so a goods train is cheap. A truck then takes it from the station to the shop door. Most goods use more than one kind of transport.
 10. (write) The wheel was invented about 5,500 years ago, but in some hilly places people kept carrying loads on their backs or on animals for thousands of years more. Why might wheels not help much there?  
    **Answer:** Wheels need smooth, fairly flat ground or roads. On steep, rocky paths a cart cannot go, but a person or a donkey can.. *Why:* A strong answer sees that an invention helps only where its conditions are right.
 11. (sort) Sort each change by whether it would make city air cleaner or dirtier.  
    **Answer:** more people taking the metro → Cleaner; old trucks with smoky engines → Dirtier; safe cycle lanes → Cleaner; cars waiting with engines running → Dirtier; sharing an auto with neighbours → Cleaner; more traffic jams → Dirtier. *Why:* Fewer engines burning fuel for each person means cleaner air. Jams and idling engines burn fuel without going anywhere.
 12. (mcq) A message travelling from Earth to a faraway spacecraft takes about a day to arrive. What does this mean for talking to it?  
-   Options: You can chat with it like a phone call / Every question takes about two days to get an answer / Messages travel faster in space / Messages cannot reach space  
+   Options: You can chat with it like a phone call / Messages travel faster in space / Every question takes about two days to get an answer / Messages cannot reach space  
    **Answer:** Every question takes about two days to get an answer. *Why:* The question takes about a day to get there and the answer about a day to come back. So conversation is very slow, more like letters than a phone call.
 13. (write) Some biologists say plants communicate when they release smells that warn their neighbours. Others prefer the word 'signalling'. What do you think counts as communication? Give a reason.  
    **Answer:** A strong answer gives a clear view and a reason, for example: 'It is communication, because one plant sends a message and another plant acts on the message, just like a crow's warning call.'. *Why:* There is a real debate about the words. A good answer says what it thinks communication needs: a sender, a message and a receiver who acts.
@@ -705,7 +705,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 16. (order) Put these Indian dates in order, from earliest to latest.  
    **Answer:** ['Postal department begins (1854)', 'Telegraph links big cities (about 1860)', 'Radio begins (1920s)', 'Doordarshan begins (1959)']. *Why:* The post came first, then the telegraph, then radio and TV.
 17. (mcq) A message says, 'Free phones for everyone! Click here.' What is the best first step?  
-   Options: Click it at once / Ask a grown-up and check who sent it / Forward it to friends / Give your name and number  
+   Options: Click it at once / Forward it to friends / Ask a grown-up and check who sent it / Give your name and number  
    **Answer:** Ask a grown-up and check who sent it. *Why:* A message that offers free things may be a trick. Stop, ask and check, and do not share it.
 18. (write) A flyover costs a lot, but a bus lane costs less. Which would you choose for a busy crossing in your town? Give two reasons.  
    **Answer:** A strong answer picks one and gives two reasons, such as saving time, fewer jams, cost, or carrying more people in fewer vehicles. It names one good point of the other choice.. *Why:* Both can ease a jam in different ways, and the best choice depends on the road.
@@ -725,19 +725,19 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    Options: The aeroplane / The train / The boat / The car  
    **Answer:** The boat. *Why:* Boats are about 10,000 years old or more. Trains, cars and aeroplanes are all less than 250 years old.
 3. (mcq) A child will walk home after dark. Which clothes help drivers see the child from furthest away?  
-   Options: A black frock / A dark blue frock / A white frock with a reflective strip on the bag / A brown frock  
+   Options: A black frock / A dark blue frock / A brown frock / A white frock with a reflective strip on the bag  
    **Answer:** A white frock with a reflective strip on the bag. *Why:* White reflects much more of a car's headlight than dark colours, and a reflective strip sends the light straight back to the driver. A driver sees a person only by the light that comes back from them, and dark clothes send back very little.
 4. (mcq) What does a red-bordered triangle on a road sign tell a driver?  
-   Options: You must stop / Be careful: something is ahead / Parking here / Go faster  
+   Options: You must stop / Parking here / Go faster / Be careful: something is ahead  
    **Answer:** Be careful: something is ahead. *Why:* In India, a triangle with a red border is a warning sign, such as 'School ahead' or 'Speed breaker'.
 5. (mcq) The traffic light shows amber. What should a driver do?  
-   Options: Speed up / Get ready to stop / Turn around / Sound the horn  
+   Options: Get ready to stop / Speed up / Turn around / Sound the horn  
    **Answer:** Get ready to stop. *Why:* Amber means the light is about to turn red, so get ready to stop.
 6. (mcq) Which of these is one-way communication?  
-   Options: A phone call / A radio programme / A chat with your teacher / A video call  
+   Options: A phone call / A chat with your teacher / A video call / A radio programme  
    **Answer:** A radio programme. *Why:* You can listen to a radio programme, but you cannot ask it questions. The other three are two-way.
 7. (mcq) A road sign is a blue circle with a white arrow pointing straight up. What does it tell a driver?  
-   Options: Go straight only / Do not go straight / Petrol pump ahead / School ahead  
+   Options: Do not go straight / Petrol pump ahead / Go straight only / School ahead  
    **Answer:** Go straight only. *Why:* A blue circle gives an order about what you must do. This one says to go straight only.
 8. (mcq) Which of these makes no exhaust at all?  
    Options: A diesel bus / A petrol scooter / A cycle / A diesel truck  
@@ -746,70 +746,70 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    Options: By aeroplane / By ship / By helicopter / By pipeline  
    **Answer:** By ship. *Why:* Ships carry huge loads cheaply, though slowly. Aeroplanes are fast but cost far more.
 10. (mcq) Which invention first sent messages as electric pulses along wires?  
-   Options: The telegraph / The post / The radio / The newspaper  
+   Options: The post / The telegraph / The radio / The newspaper  
    **Answer:** The telegraph. *Why:* The telegraph sent short and long pulses of electricity along wires, in a code such as Morse code.
 11. (mcq) A sign is a red circle with '30' inside. What does it mean?  
    Options: 30 metres to a school / Do not go faster than 30 kilometres an hour / Park for 30 minutes / 30 people may cross  
    **Answer:** Do not go faster than 30 kilometres an hour. *Why:* A red circle gives an order. A number inside it is a speed limit in kilometres an hour.
 12. (mcq) One full bus carries about as many people as 25 cars. Why is that good for the city's air?  
-   Options: Buses are painted brighter / One engine burns far less fuel than 25 engines / Buses never stop / Cars have no engines  
+   Options: One engine burns far less fuel than 25 engines / Buses are painted brighter / Buses never stop / Cars have no engines  
    **Answer:** One engine burns far less fuel than 25 engines. *Why:* One bus engine burns much less fuel than 25 car engines. So sharing a bus makes much less smoke for each person.
 13. (mcq) Which of these fuels is a gas, squeezed into a tank?  
    Options: Petrol / Diesel / CNG / Coal  
    **Answer:** CNG. *Why:* CNG means compressed natural gas. Petrol and diesel are liquids.
 14. (mcq) A bus is stuck behind a long line of vehicles at a busy crossing. Which helps most to ease the jam?  
-   Options: A flyover that lifts traffic over the crossing / More horns / More parked cars on the road / A narrower road  
+   Options: More horns / A flyover that lifts traffic over the crossing / More parked cars on the road / A narrower road  
    **Answer:** A flyover that lifts traffic over the crossing. *Why:* A flyover lets many vehicles go over the crossing without stopping. Horns and parked cars do not help, and a narrower road makes the jam worse.
 15. (mcq) Which one cuts both smoke and noise from vehicles?  
-   Options: Blowing the horn often / Switching the engine off at a long red light / Driving faster / Never servicing the engine  
+   Options: Switching the engine off at a long red light / Blowing the horn often / Driving faster / Never servicing the engine  
    **Answer:** Switching the engine off at a long red light. *Why:* An engine that is off makes no smoke and no noise. Horns and a badly kept engine make both worse.
 16. (mcq) An ambulance comes up behind you with its siren on. What should the drivers do?  
-   Options: Race it / Move aside and let it pass / Stop in the middle of the road / Blow their horns  
+   Options: Move aside and let it pass / Race it / Stop in the middle of the road / Blow their horns  
    **Answer:** Move aside and let it pass. *Why:* An ambulance may be carrying someone in danger. Drivers must make way.
 17. (mcq) Who helps fix a bus engine so that it runs safely?  
-   Options: A porter / A mechanic / A conductor / A postman  
+   Options: A porter / A conductor / A postman / A mechanic  
    **Answer:** A mechanic. *Why:* A mechanic mends engines. A porter carries bags, a conductor sells tickets, and a postman brings letters.
 18. (mcq) You want to cross a road in India. What should you do?  
-   Options: Run across at once / Stop at the edge, look right, left and right again, and cross when it is clear / Cross with your eyes closed / Wait in the middle of the road  
+   Options: Run across at once / Cross with your eyes closed / Stop at the edge, look right, left and right again, and cross when it is clear / Wait in the middle of the road  
    **Answer:** Stop at the edge, look right, left and right again, and cross when it is clear. *Why:* Vehicles keep to the left in India, so the first danger comes from the right. Look both ways and hold a grown-up's hand.
 19. (mcq) On a hill bus, why must you keep your hands and head inside?  
    Options: It is cooler / The bus may pass very close to rocks, trees and other vehicles round a hairpin bend / The driver likes it / The windows are for looking at the sky  
    **Answer:** The bus may pass very close to rocks, trees and other vehicles round a hairpin bend. *Why:* On narrow hill roads, things pass very close. A head or hand outside can be hurt.
 20. (mcq) A sign shows a triangle with a red border and a picture of men digging. What does it mean?  
-   Options: Men at Work: go slowly / No Parking / Petrol pump / You must go straight  
+   Options: No Parking / Petrol pump / Men at Work: go slowly / You must go straight  
    **Answer:** Men at Work: go slowly. *Why:* A red-bordered triangle is a warning. This one tells drivers that people are working on the road ahead.
 21. (mcq) Which place is safest for a child to play?  
    Options: A busy road / A roof with no railings / A building site / A park, with a grown-up nearby  
    **Answer:** A park, with a grown-up nearby. *Why:* A busy road has fast vehicles, a roof with no rail can lead to a fall, and a building site has holes and heavy machines.
 22. (mcq) Who rebuilt the Grand Trunk Road in the 1500s, with trees and rest houses along it?  
-   Options: Sher Shah Suri / Marconi / Gandhi / A British engineer in 1900  
+   Options: Marconi / Sher Shah Suri / Gandhi / A British engineer in 1900  
    **Answer:** Sher Shah Suri. *Why:* Sher Shah Suri, a ruler in the 1500s, rebuilt this very old road across north India with trees, wells and rest houses.
 23. (mcq) Which was used for early water transport, before big ships?  
-   Options: Fishing boats / Aeroplanes / Metro trains / Cars  
+   Options: Aeroplanes / Fishing boats / Metro trains / Cars  
    **Answer:** Fishing boats. *Why:* Water transport started with small fishing boats. Later, bigger ships carried trade between countries.
 24. (mcq) Why can a helicopter be useful in a hill place such as Tawang?  
-   Options: It can reach where roads are hard to build / It is the cheapest way / It needs no fuel / It makes no noise  
+   Options: It is the cheapest way / It needs no fuel / It makes no noise / It can reach where roads are hard to build  
    **Answer:** It can reach where roads are hard to build. *Why:* Air transport can reach far hill places. It costs a lot and uses fuel, and a helicopter is loud.
 25. (mcq) Which of these did people use first to print words?  
-   Options: A computer / Carved wooden blocks with ink / A mobile phone / A radio  
+   Options: A computer / A mobile phone / A radio / Carved wooden blocks with ink  
    **Answer:** Carved wooden blocks with ink. *Why:* In China, people carved words into wood, inked them and pressed paper on them. Metal letters and computers came later.
 26. (mcq) A letter goes from Chennai to Kolkata. What happens between the postbox and the door?  
    Options: It is sorted by region and sent on by train or truck, and then a postman brings it / It flies by itself / It goes straight to the door / It is sent by teleprinter  
    **Answer:** It is sorted by region and sent on by train or truck, and then a postman brings it. *Why:* Post office workers sort letters by PIN code and send them on. A postman delivers them at the end.
 27. (mcq) Which pair of dates is right for India?  
-   Options: Radio in the 1920s, Doordarshan in 1959 / Doordarshan in 1859, radio in 1959 / Telephone in 1990, telegraph in 1920 / Postal department in 1950, radio in 1853  
+   Options: Doordarshan in 1859, radio in 1959 / Radio in the 1920s, Doordarshan in 1959 / Telephone in 1990, telegraph in 1920 / Postal department in 1950, radio in 1853  
    **Answer:** Radio in the 1920s, Doordarshan in 1959. *Why:* Radio began in the 1920s and Doordarshan in 1959. The postal department began in 1854.
 28. (mcq) What did a teleprinter do?  
-   Options: Played music / Sent typed messages along wires and printed them on paper / Showed pictures / Made phone calls  
+   Options: Played music / Showed pictures / Made phone calls / Sent typed messages along wires and printed them on paper  
    **Answer:** Sent typed messages along wires and printed them on paper. *Why:* A teleprinter was a keyboard machine that printed typed messages at the far end.
 29. (mcq) What does teletext show?  
-   Options: Pages of written news and weather on the TV screen / Live cricket on the radio / A phone call / A letter  
+   Options: Live cricket on the radio / Pages of written news and weather on the TV screen / A phone call / A letter  
    **Answer:** Pages of written news and weather on the TV screen. *Why:* Teletext sent written pages along with the TV signal.
 30. (mcq) A farmer gets the price of onions in the mandi by SMS. Why is that useful?  
-   Options: He can choose where to sell / It makes onions grow faster / It makes the road shorter / It gives him fuel  
+   Options: It makes onions grow faster / He can choose where to sell / It makes the road shorter / It gives him fuel  
    **Answer:** He can choose where to sell. *Why:* Knowing the price helps him sell where he gets a fair price.
 31. (mcq) You get a message that says a big cyclone will hit tomorrow, but it came from a stranger. What is the best thing to do?  
-   Options: Forward it to everyone at once / Check with a grown-up and a trusted news source first / Delete your phone / Believe it because it is on a phone  
+   Options: Forward it to everyone at once / Delete your phone / Believe it because it is on a phone / Check with a grown-up and a trusted news source first  
    **Answer:** Check with a grown-up and a trusted news source first. *Why:* False news can spread fast. Check who sent it and whether it is true before you share it.
 32. (mcq) Which of these is a good use of a phone and a bad use?  
    Options: Good: a call to a grandparent. Bad: staring at it all night / Good: staring at it all night. Bad: a call to a grandparent / Both are bad / Both are good  

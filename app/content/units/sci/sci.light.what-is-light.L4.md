@@ -625,7 +625,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 4. (match) Match each thing to what it does with most of the light that lands on it.  
    **Answer:** a polished steel plate → reflects most of the light; a black cloth → absorbs most of the light; a clear window pane → lets most of the light through; white paper → reflects most of the light and absorbs some. *Why:* A surface can reflect light, absorb it or let it through, and most do a mix. The three parts always add up to all the light that landed.
 5. (mcq) A school bag left in the sun feels hotter when it is black than when it is white. What is the best reason?  
-   Options: Black takes in more of the sunlight and turns it into heat / Black makes its own heat / White bags are thicker / The Sun shines harder on black things  
+   Options: Black makes its own heat / White bags are thicker / The Sun shines harder on black things / Black takes in more of the sunlight and turns it into heat  
    **Answer:** Black takes in more of the sunlight and turns it into heat. *Why:* The sunlight is the same for both bags. Black absorbs most of it, so the energy of the light becomes heat. White reflects much of it away. Picking 'the Sun shines harder' is a common idea, but the sunlight on the two bags is the same.
 6. (sort) Sort these. Does it mostly reflect sunlight or mostly absorb it?  
    **Answer:** a whitewashed wall → Mostly reflects sunlight; aluminium foil → Mostly reflects sunlight; a black tar road → Mostly absorbs sunlight; a black umbrella → Mostly absorbs sunlight; a white shirt → Mostly reflects sunlight; a dark blue school bag → Mostly absorbs sunlight. *Why:* Light colours and shiny surfaces send most sunlight back, so they stay cooler. Dark surfaces take it in and turn it to heat, so they warm up fast.
@@ -653,7 +653,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    **Answer:** 100. *Why:* At twice the distance the patch is twice as wide and twice as tall. That is 10 squares by 10 squares, which is 100. Or, 25 times 4 is 100.
 ### Energy, Waves and the Push of Light (stretch) (stretch, 18 questions)
 1. (mcq) Jupiter is about 5 times further from the Sun than the Earth is. About how much sunlight does a square metre of Jupiter's cloud tops get, compared with a square metre on Earth?  
-   Options: About one twenty-fifth / About one fifth / About the same / About five times as much  
+   Options: About one fifth / About the same / About five times as much / About one twenty-fifth  
    **Answer:** About one twenty-fifth. *Why:* Five times as far means the light is spread over 5 times 5, which is 25 times the area. So each square metre gets about one twenty-fifth as much. Picking one fifth is the common slip, as it forgets that the area grows in two directions.
 2. (truefalse) A torch beam makes a patch of exactly the same brightness on a wall 1 metre away and on a wall 3 metres away. True or false?  
    **Answer:** False. *Why:* False. At 3 metres, the light covers 9 times the area, so the patch is much dimmer. The total light from the torch is the same. It is just spread more thinly.
@@ -666,7 +666,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 6. (sort) Sort these. Is the wave longer than visible light, or shorter?  
    **Answer:** FM radio waves → Longer than visible light; waves inside a microwave oven → Longer than visible light; the infrared from a TV remote → Longer than visible light; the ultraviolet that causes sunburn → Shorter than visible light; X-rays in a hospital → Shorter than visible light; gamma rays from an exploding star → Shorter than visible light. *Why:* The family runs from radio, the longest, through microwaves and infrared, then visible light, then ultraviolet, X-rays and gamma rays, the shortest.
 7. (mcq) A pit viper hunts a warm mouse in total darkness. What does the snake sense?  
-   Options: The infrared that the warm mouse gives out / Ultraviolet light from the mouse / A sound too high for us to hear / Light made by the snake  
+   Options: Ultraviolet light from the mouse / A sound too high for us to hear / The infrared that the warm mouse gives out / Light made by the snake  
    **Answer:** The infrared that the warm mouse gives out. *Why:* All warm things give out infrared, and pit vipers have small pits on their faces that sense it. Picking 'light made by the snake' mixes up sensing light with making light.
 8. (truefalse) A comet's tail trails behind it as the comet moves, the way a kite's tail trails behind a kite. True or false?  
    **Answer:** False. *Why:* False. A comet's tail points away from the Sun, even when the comet is moving toward the Sun or away from it. The Sun's light and the stream of particles from the Sun push the tail outward.
@@ -694,7 +694,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    **Answer:** A strong answer says to open the window on the bright side and to switch the bulb off while there is enough daylight. Daylight is free and bright. A bulb uses electricity, and much of India's electricity is made by burning coal.. *Why:* Daylight does the job of the bulb for nothing. The best answers name a real change, and give the reason in terms of the free light and the electricity saved.
 ### Invisible Light and Big Questions (challenge) (challenge, 15 questions)
 1. (mcq) Radio telescopes find a faint glow of microwaves coming from every direction in the sky. What is the best explanation?  
-   Options: It is the oldest light there is, from the young universe, stretched into microwaves / It is heat from the Sun / It is light from a nearby lamp / It is radio from satellites  
+   Options: It is heat from the Sun / It is light from a nearby lamp / It is the oldest light there is, from the young universe, stretched into microwaves / It is radio from satellites  
    **Answer:** It is the oldest light there is, from the young universe, stretched into microwaves. *Why:* The glow is the same from every direction, which fits light that was set free when the whole universe was young. As space grew, the waves were stretched until they became microwaves. Scientists agree the glow is real. They argue about what it says of the start.
 2. (truefalse) One torch lights a page. Then two identical torches, taped together, light the page from twice as far away. The page gets the same light from the pair as it got from the one torch. True or false?  
    **Answer:** False. *Why:* False. Two torches give twice the light, but at twice the distance the light is four times thinner. Two divided by four is a half. The page gets only half of what one torch gave at the start.
@@ -718,7 +718,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 11. (order) Put these steps in order, to follow the energy of the Sun into a child who runs after eating idli.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* The energy moves from sunlight to sugar in the leaf, to the grain, to the child's body, and then to movement and heat.
 12. (mcq) A clear glass jar over a piece of black paper in the sun melts an ice cube faster than black paper on its own. What is the best reason?  
-   Options: The jar lets light in but slows the escape of heat / The jar makes extra light / The jar cools the ice / The jar is dark  
+   Options: The jar makes extra light / The jar cools the ice / The jar lets light in but slows the escape of heat / The jar is dark  
    **Answer:** The jar lets light in but slows the escape of heat. *Why:* Sunlight passes through the clear jar and is absorbed by the black paper. The jar traps the warm air, so heat leaves more slowly. A car left in the sun does the same. Picking 'the jar makes extra light' mixes up trapping heat with making light.
 13. (truefalse) A dark-coloured roof paint can sometimes stay cooler in the sun than a white paint, if it reflects infrared well. True or false?  
    **Answer:** True. *Why:* True. Colour tells us only about visible light. Sunlight also carries infrared, which we cannot see. Special 'cool roof' paints reflect infrared, so even dark ones stay cooler, and some white paints absorb a lot of infrared.
@@ -734,7 +734,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 
 ## Quiz
 1. (mcq) You move a torch three times further from a wall. How does the light on each part of the lit patch change?  
-   Options: It becomes nine times thinner / It becomes three times thinner / It stays the same / It becomes three times stronger  
+   Options: It becomes three times thinner / It becomes nine times thinner / It stays the same / It becomes three times stronger  
    **Answer:** It becomes nine times thinner. *Why:* Three times as far makes the patch 3 times wider and 3 times taller, so 9 times the area. The same light is shared by 9 times as much area. Picking 3 times thinner is the common slip, as it forgets the second direction.
 2. (mcq) Which sentence about light and distance is true?  
    Options: Light spreads out, so each patch gets less the further you go / Light gets used up in empty space as it travels / Light stays equally bright however far it goes / Light only spreads out in air  
@@ -743,34 +743,34 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    Options: A roof painted white / A roof painted black / A roof covered with dark tar / A roof covered in dark blue tiles  
    **Answer:** A roof painted white. *Why:* White reflects most of the sunlight, so little becomes heat. The dark roofs absorb most of the sunlight, which turns into heat that warms the rooms below.
 4. (mcq) Herschel painted the bulbs of his thermometers black. Why?  
-   Options: Black takes in more of the light, so the thermometer shows the warmth more clearly / Black makes the thermometer lighter / Black stops heat from getting in / Black makes the numbers easier to read  
+   Options: Black makes the thermometer lighter / Black stops heat from getting in / Black makes the numbers easier to read / Black takes in more of the light, so the thermometer shows the warmth more clearly  
    **Answer:** Black takes in more of the light, so the thermometer shows the warmth more clearly. *Why:* A black bulb absorbs most of the rays that land on it and turns them into heat. A clear bulb would let much of the energy pass through, and show a smaller change.
 5. (mcq) A scientist keeps one thermometer in the shade while testing others in the sun. What is the shaded thermometer for?  
    Options: To show what happens when nothing special is done / To cool the other thermometers / To save the batteries / To make the test look neat  
    **Answer:** To show what happens when nothing special is done. *Why:* A control is left alone so that you can compare. If the control warms too, then the room is warming, and the other readings cannot be trusted by themselves. Picking 'to cool the others' is wrong, because a thermometer cannot cool another from a distance.
 6. (mcq) Which members of the light family have the longest waves?  
-   Options: Radio waves / X-rays / Visible light / Ultraviolet  
+   Options: X-rays / Radio waves / Visible light / Ultraviolet  
    **Answer:** Radio waves. *Why:* From longest to shortest the order is radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays. FM radio waves are about 3 metres long. X-rays are as short as an atom.
 7. (mcq) What do radio waves, visible light and X-rays have in common?  
-   Options: They are all waves of electric and magnetic fields that travel at the speed of light in empty space / They are all made of sound / They are all visible / They all have the same wavelength  
+   Options: They are all made of sound / They are all visible / They all have the same wavelength / They are all waves of electric and magnetic fields that travel at the speed of light in empty space  
    **Answer:** They are all waves of electric and magnetic fields that travel at the speed of light in empty space. *Why:* They are one family, the electromagnetic spectrum. They differ in wavelength but are the same kind of wave. Picking 'the same wavelength' is the opposite of the truth. The wavelength is exactly what sets them apart.
 8. (mcq) Why can our eyes not see infrared?  
-   Options: The light-catching cells in our eyes respond only to a thin slice of wavelengths / Infrared is not really light / Infrared is too bright for our eyes / Infrared stops at the eyelid  
+   Options: Infrared is not really light / Infrared is too bright for our eyes / The light-catching cells in our eyes respond only to a thin slice of wavelengths / Infrared stops at the eyelid  
    **Answer:** The light-catching cells in our eyes respond only to a thin slice of wavelengths. *Why:* Our eyes are built to catch wavelengths from about 0.0004 to 0.0007 millimetres. Infrared is a little longer, and our eye cells do not respond to it. It is a real member of the light family, and a phone camera can catch it.
 9. (mcq) Which carries more energy in each photon, ultraviolet or infrared?  
-   Options: Ultraviolet / Infrared / They carry the same / It depends on the colour of the sky  
+   Options: Infrared / They carry the same / It depends on the colour of the sky / Ultraviolet  
    **Answer:** Ultraviolet. *Why:* The shorter the wavelength, the more energy each photon carries. Ultraviolet is shorter than visible light, and infrared is longer. That is why ultraviolet can burn skin, and infrared only warms it.
 10. (mcq) Why does the tail of a comet point away from the Sun?  
-   Options: Sunlight and the stream of particles from the Sun push the dust and gas outward / The comet is falling into the Sun / The tail is left behind as the comet moves / The Sun's gravity pulls the tail  
+   Options: The comet is falling into the Sun / Sunlight and the stream of particles from the Sun push the dust and gas outward / The tail is left behind as the comet moves / The Sun's gravity pulls the tail  
    **Answer:** Sunlight and the stream of particles from the Sun push the dust and gas outward. *Why:* Light carries a small push, and the Sun also sends out a stream of particles. Together these push the comet's dust and gas away from the Sun. Picking 'left behind' is a common idea, because a kite's tail trails behind it.
 11. (mcq) How is the energy in a rice grain connected to the Sun?  
-   Options: The rice plant caught sunlight and stored the energy in the grain / The grain was warmed by the Sun while drying / The grain makes its own energy from nothing / The soil gives the grain its energy  
+   Options: The grain was warmed by the Sun while drying / The grain makes its own energy from nothing / The soil gives the grain its energy / The rice plant caught sunlight and stored the energy in the grain  
    **Answer:** The rice plant caught sunlight and stored the energy in the grain. *Why:* Plants use sunlight to make sugar from water and air, and store the energy in their grains. Warming in the Sun does not add the energy we get from food.
 12. (mcq) Gases such as carbon dioxide in the air slow the escape of infrared from the Earth. What happens to the Earth's temperature when there is more of them?  
-   Options: The Earth warms up / The Earth cools down / Nothing changes / The Earth gets brighter at night  
+   Options: The Earth cools down / Nothing changes / The Earth gets brighter at night / The Earth warms up  
    **Answer:** The Earth warms up. *Why:* The Earth settles where the energy going out equals the energy coming in. If the gases slow the way out, the Earth must get warmer before the balance is reached again.
 13. (mcq) A room has a window that gets plenty of daylight in the morning. What is the wise way to use that daylight?  
-   Options: Switch on every bulb, even in the day / Open the window and switch the bulb off while there is enough daylight / Light a candle, because a flame is brighter than daylight / Shut the window and keep the room dark all day  
+   Options: Switch on every bulb, even in the day / Light a candle, because a flame is brighter than daylight / Open the window and switch the bulb off while there is enough daylight / Shut the window and keep the room dark all day  
    **Answer:** Open the window and switch the bulb off while there is enough daylight. *Why:* Daylight is free, and it is enough to see by. A bulb uses electricity, and much of India's electricity is made by burning coal. Switching on a bulb in full daylight wastes both.
 
 ## Applications

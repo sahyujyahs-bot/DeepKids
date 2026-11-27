@@ -535,7 +535,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 2. (write) Look out of your window today. Write three clues that tell you what season it is, and say what each one tells you.  
    **Answer:** Any three real clues with a reason, for example: 'The fan is on all day, so it is hot. The tree is bare, which means the dry season. Mangoes are in the kitchen, so it is summer.'. *Why:* A strong answer uses clues the child really saw, and links each one to the season.
 3. (mcq) In which months does Chennai get most of its rain?  
-   Options: June to September / October to December / January to March / April and May  
+   Options: June to September / January to March / April and May / October to December  
    **Answer:** October to December. *Why:* Chennai gets most of its rain from the north-east monsoon, from October to December. Most of the rest of India gets most rain from June to September. Picking June to September is right for Kochi or Mumbai, but not for Chennai.
 4. (write) Why is the ground hotter at noon in May than at noon in December? Use the Straight or Slanting torch test in your answer.  
    **Answer:** In May, the noon Sun is high, nearly straight above us, like the torch shining straight down. Its light is packed into a small patch, so each bit of ground gets a lot. In December, the Sun is lower, like the slanting torch, so the same light is spread over more ground. The days are also longer in May.. *Why:* A strong answer compares the high Sun to the straight torch and the low Sun to the slanting torch, and says the light is packed or spread.
@@ -574,7 +574,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 2. (perspective) A peepal tree drops her leaves in March. A girl, her mother and a neighbour talk about it.  
    **Answer:** A strong answer picks a side with evidence: peepal trees are deciduous and drop leaves in the dry season every year, so the girl is probably right. It then gives another view its due: the mother's plan to watch is how a scientist would check, and Mr Rao is right that a sick tree can fall and hurt someone. So checking for other signs, such as rotten wood, is wise.. *Why:* There is a real choice between knowing a pattern, checking with evidence, and being careful about safety. The best answers use the seasonal pattern and the idea of watching over time.
 3. (mcq) In the Straight or Slanting test, a torch lights 30 squares when it shines straight down. Held very low, it lights 90 squares. How much light does each square get when the torch is low, compared with straight down?  
-   Options: About a third as much / Three times as much / The same  
+   Options: Three times as much / About a third as much / The same  
    **Answer:** About a third as much. *Why:* The same light is spread over 3 times as many squares, 90 instead of 30. So each square gets about a third of the light. That is why the low Sun of a winter evening feels weak.
 4. (order) Put these in order through one year for a teak tree in India, starting in the rains.  
    **Answer:** ['Full green leaves in the rains', 'Leaves turn yellow and fall', 'Branches are bare in the dry months', 'New leaves come out']. *Why:* Teak is green in the rains. As the dry season comes, the leaves turn yellow and fall. The tree stands bare for a while, and then new leaves come out, often just before or with the next rains.
@@ -591,7 +591,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 10. (write) The koel lays her eggs in crows' nests, and the crows raise her chicks. Why might summer be a good time for this?  
    **Answer:** In summer, crows are building nests and laying their own eggs too, so there are nests to use. Summer and the early rains also bring lots of food, such as fruit and insects, for the chicks.. *Why:* A strong answer links the koel's plan to what the crows are doing in the same season, and to food for the young.
 11. (mcq) Every year, fishing at sea is stopped on the east coast from 15 April to 14 June. Why?  
-   Options: Many fish breed then, so leaving them alone means more fish later / The sea is too hot / Fishers take a holiday  
+   Options: The sea is too hot / Many fish breed then, so leaving them alone means more fish later / Fishers take a holiday  
    **Answer:** Many fish breed then, so leaving them alone means more fish later. *Why:* Many fish breed in these weeks. If they are caught then, fewer young fish are born, and there are fewer fish in the years after. The fishing ban protects them.
 12. (match) Match each ritu, from the old Indian calendar, with what it means.  
    **Answer:** Vasanta → spring; Grishma → summer; Varsha → the rains; Sharad → early autumn; Hemanta → the cool time before winter; Shishira → winter. *Why:* The six ritus split the year into two-month seasons. Vasanta is the time of Holi and Ugadi.
@@ -600,7 +600,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 14. (write) Name two things your family wears or eats in one season but not in another. Say why each change helps.  
    **Answer:** Any two real examples with a reason. For example: cotton clothes in summer, because they keep us cooler; sweaters in a cold winter, because they hold in body heat.. *Why:* A strong answer links each change to the weather or the harvest of that season.
 15. (mcq) You want to test whether sevanthi plants flower because of long nights. Which test is fairest?  
-   Options: Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered / Two pots in different places, one in sun and one in shade / One pot watched for a whole year  
+   Options: Two pots in different places, one in sun and one in shade / One pot watched for a whole year / Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered  
    **Answer:** Two pots of the same plant side by side. Every day, cover one with a dark cloth for the same number of hours, to give that plant a long night. Leave the other uncovered. *Why:* In a fair test only one thing changes. Here the two plants are the same and in the same place, and only the length of the night is different.
 16. (write) A small village high in the cold hills waits all winter for spring. Why might people there celebrate when spring comes?  
    **Answer:** After the cold, the sunshine is warm again, the trees grow new leaves and the flowers open. There is more to see, eat and do outside, so people are glad and celebrate.. *Why:* A strong answer names what spring brings back after winter: warmth, new leaves and flowers. Festivals such as Vasant Panchami, Holi and Ugadi come at this time.
@@ -616,7 +616,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 2. (write) Garner and Allard's tobacco plants flowered when they were shut in the dark every afternoon. Later scientists found that a short flash of light in the middle of a long night stopped plants like these from flowering. What does this tell you the plant is really measuring?  
    **Answer:** The plant is measuring how long the dark lasts without a break, the length of the night. A flash in the middle splits the long night into two short nights, so the plant acts as if the nights are short.. *Why:* A strong answer says the plant measures the night, and explains why the flash matters: it breaks the night into two short ones.
 3. (mcq) Street lights shine all night near some trees in a city. What might happen to a plant that uses night length to know when to flower?  
-   Options: The plant might flower at the wrong time, or not at all / The plant will flower twice as much / Nothing, because plants only feel daytime light  
+   Options: The plant will flower twice as much / Nothing, because plants only feel daytime light / The plant might flower at the wrong time, or not at all  
    **Answer:** The plant might flower at the wrong time, or not at all. *Why:* Bright light at night can make the night seem short to a plant. A plant that flowers in long nights might then flower late, or not at all. Scientists have found street lights can change when some plants flower and when their leaves fall.
 4. (write) In Australia, the summer holidays are in December and January. Use what you know about the tilted Earth to explain why.  
    **Answer:** The Earth's axis is tilted. In December, the southern half of the Earth, where Australia is, leans towards the Sun. The Sun is high there and the days are long, so it is summer. India's half leans away then, so India has winter.. *Why:* A strong answer uses the tilt and says that the two halves of the Earth lean towards the Sun at opposite times of year.
@@ -628,7 +628,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 7. (write) Old Indian calendars have six seasons. The weather department has four. Many people in Chennai say there are really three: hot, hotter and rainy. Which count would you choose for where you live, and why?  
    **Answer:** Any choice with a reason from local weather. For example: 'For Chennai, I would choose three: hot from March to June, the rains from October to December, and a cooler, drier time in January and February, because those are the biggest changes.'. *Why:* A strong answer understands that seasons are a way of splitting the year, and chooses the split that fits the real weather of a place.
 8. (mcq) A scientist wants to find out if mango trees in Tamil Nadu are flowering earlier than 50 years ago. What would help most?  
-   Options: Old written records of flowering dates, year after year / A photo of one mango tree today / Asking one person which month they like best  
+   Options: A photo of one mango tree today / Asking one person which month they like best / Old written records of flowering dates, year after year  
    **Answer:** Old written records of flowering dates, year after year. *Why:* To see a change over 50 years, you need records from 50 years ago to compare with today. A single photo or one opinion cannot show a change over time.
 9. (draw) Draw a picture that explains why a deciduous tree drops her leaves in the dry season. Show the soil, the roots, the leaves and the water.  
    **Answer:** Dry soil with little water near the roots, and many leaves losing water through tiny holes, with arrows showing water leaving. A second picture of the bare tree losing much less water.. *Why:* A strong drawing shows that leaves lose water, that the dry soil cannot replace it, and that fewer leaves means less water lost.
@@ -658,25 +658,25 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    Options: June to September / December to February / March to May  
    **Answer:** June to September. *Why:* The south-west monsoon brings most of India's rain from June to September. Tamil Nadu is different: Chennai gets most rain from October to December.
 3. (mcq) Which of these changes comes round again in the same way every year?  
-   Options: Mangoes coming to the market in April and May / A sapling growing into a tall tree / The sky turning orange at sunset  
+   Options: A sapling growing into a tall tree / The sky turning orange at sunset / Mangoes coming to the market in April and May  
    **Answer:** Mangoes coming to the market in April and May. *Why:* The seasons repeat every year. A tree growing tall takes many years and happens only once. A sunset change takes only minutes.
 4. (mcq) In the Straight or Slanting test, you shone a torch on squared paper. What happened to the patch of light when the torch shone at a slant, from the same distance?  
-   Options: The patch got bigger and dimmer / The patch got smaller / The torch got brighter  
+   Options: The patch got smaller / The patch got bigger and dimmer / The torch got brighter  
    **Answer:** The patch got bigger and dimmer. *Why:* The same light spread over more squares, so the patch was bigger and dimmer. Each square got less light.
 5. (mcq) Around 21 March and 23 September, how long are day and night in India?  
-   Options: Nearly equal, about 12 hours each / The day is much longer than the night / The night is much longer than the day  
+   Options: The day is much longer than the night / Nearly equal, about 12 hours each / The night is much longer than the day  
    **Answer:** Nearly equal, about 12 hours each. *Why:* These two days are called equinoxes, and day and night are nearly the same length. The day is longest around 21 June and shortest around 21 December.
 6. (mcq) You crush a fresh green leaf and let its colours climb up a paper strip. Which colours would you expect to see?  
-   Options: Green and yellow / Only green / Red and blue  
+   Options: Only green / Green and yellow / Red and blue  
    **Answer:** Green and yellow. *Why:* A green leaf gives a green band and a yellow band. The yellow is in the leaf all along, hidden under the green. When the green fades, the yellow shows.
 7. (mcq) Why do leaves often turn yellow before they fall?  
-   Options: The tree breaks down the green, and the yellow that was there shows / The leaf is painted by the sun / Yellow is the colour of dry soil  
+   Options: The leaf is painted by the sun / Yellow is the colour of dry soil / The tree breaks down the green, and the yellow that was there shows  
    **Answer:** The tree breaks down the green, and the yellow that was there shows. *Why:* Before dropping a leaf, the tree breaks down the green chlorophyll and takes useful nutrients back. The yellow pigments stay longer, so the leaf looks yellow.
 8. (mcq) Why do many trees in India drop their leaves from about February to May?  
-   Options: The soil is dry, and leaves lose water all the time / It is too cold for leaves / The leaves are too heavy  
+   Options: It is too cold for leaves / The soil is dry, and leaves lose water all the time / The leaves are too heavy  
    **Answer:** The soil is dry, and leaves lose water all the time. *Why:* In the dry months there is little rain, and leaves lose water every day. Dropping leaves helps a tree save water until the rains.
 9. (mcq) Why do frogs lay their eggs in the rainy season?  
-   Options: Their eggs and tadpoles need water, and the puddles fill then / It is too hot in winter / The rain washes the eggs clean  
+   Options: It is too hot in winter / Their eggs and tadpoles need water, and the puddles fill then / The rain washes the eggs clean  
    **Answer:** Their eggs and tadpoles need water, and the puddles fill then. *Why:* Frog eggs and tadpoles must live in water. The monsoon fills puddles and ponds, so that is when frogs call and lay eggs.
 10. (mcq) Which of these is something people in India do in summer?  
    Options: Drink buttermilk and wear cotton clothes / Wear sweaters and monkey caps / Sow rice in flooded fields  
@@ -685,22 +685,22 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
    Options: The new harvest, such as rice / The first rain of the monsoon / The hottest day of summer  
    **Answer:** The new harvest, such as rice. *Why:* Crops sown in the rainy months are ready to cut by winter. Harvest festivals come when the new crop is in. The Pongal dish is cooked with the new rice.
 12. (mcq) A gardener puts one plant in a dark box every afternoon, so that plant gets short days. The plant in the box flowers. The same kind of plant left outside does not flower yet. What does this show?  
-   Options: Many plants use the length of the day and night to know when to flower / Plants flower only when they are very big / Plants flower only in the rain  
+   Options: Plants flower only when they are very big / Many plants use the length of the day and night to know when to flower / Plants flower only in the rain  
    **Answer:** Many plants use the length of the day and night to know when to flower. *Why:* Only the length of light and dark was changed, and the flowering changed. So the length of the day, or really the length of the night, tells many plants the season.
 13. (mcq) Sevanthi flowers when the nights are long. When are the nights longest in India?  
-   Options: Around December / Around June / Around April  
+   Options: Around June / Around April / Around December  
    **Answer:** Around December. *Why:* The nights are longest around 21 or 22 December, so sevanthi flowers in the cool months.
 14. (mcq) A family wants to see buransh, the red rhododendron, in bloom. Where and when should they go?  
    Options: The Himalayan hills, in spring / A Chennai beach, in the rains / The Rajasthan desert, in the rains  
    **Answer:** The Himalayan hills, in spring. *Why:* Buransh grows on cool Himalayan hills and flowers in spring, March to April. The beach and the desert have the wrong weather and the wrong plants. Each flower blooms in its own place and its own season.
 15. (mcq) Why do people celebrate spring, with Vasant Panchami, Holi or Ugadi?  
-   Options: The cold ends, and new leaves, flowers and warm sunshine come back / The big rains have arrived and the rice is ready to sow / The days are getting shorter and the nights are getting longer  
+   Options: The big rains have arrived and the rice is ready to sow / The cold ends, and new leaves, flowers and warm sunshine come back / The days are getting shorter and the nights are getting longer  
    **Answer:** The cold ends, and new leaves, flowers and warm sunshine come back. *Why:* Spring follows winter, and the land turns green and flowery again. The big rains come later, from June in most of India. In spring the days are growing longer, not shorter.
 16. (mcq) In Punjab's cool months, which dish do many families make with greens from the winter fields?  
-   Options: Sarson da saag with makki di roti / Cold buttermilk with nungu / Hilsa fish curry  
+   Options: Cold buttermilk with nungu / Sarson da saag with makki di roti / Hilsa fish curry  
    **Answer:** Sarson da saag with makki di roti. *Why:* Mustard greens, called sarson, grow in the winter fields, and the saag made from them is eaten hot with maize roti. Buttermilk and nungu are summer foods. Hilsa swim up Bengal's rivers in the rains.
 17. (mcq) Why do friends put their weekly notes on one big chart, instead of each keeping their own page?  
-   Options: Side by side, the notes show patterns that one page cannot / A chart makes the changes happen faster / One person's notes are never true  
+   Options: A chart makes the changes happen faster / Side by side, the notes show patterns that one page cannot / One person's notes are never true  
    **Answer:** Side by side, the notes show patterns that one page cannot. *Why:* When many notes are put side by side by week, you can see what changed together and what changed first. A chart does not change the tree. One person's notes can be true, but alone they may be a fluke.
 
 ## Applications

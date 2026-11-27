@@ -769,11 +769,11 @@
       "t": "mcq",
       "q": "Magnesium gives 2 electrons. Chlorine takes 1. How many chlorines join one magnesium?",
       "options": [
-       "Two",
        "One",
+       "Two",
        "Three"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One magnesium gives 2 electrons, and each chlorine takes 1, so two chlorines are needed. If you chose one, an electron would be left over. The compound is magnesium chloride."
      },
      "context": "This is the last step of Give and Take. You check that the electrons given equal the electrons taken in your biggest set."
@@ -916,11 +916,11 @@
       "t": "mcq",
       "q": "In Three Solids, Three Tests, why does the same person press every solid?",
       "options": [
-       "So each solid gets the same push",
        "So the salt breaks faster",
+       "So each solid gets the same push",
        "So the paper stays clean"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A stronger push could break something that a weaker push would not. If you chose another answer, remember that a fair test changes only one thing. Here that one thing is the solid."
      },
      "context": "In this step of Three Solids, Three Tests you press salt, wax and foil with the back of a spoon."
@@ -1289,11 +1289,11 @@
       "t": "mcq",
       "q": "A steel paper clip is bent once. A salt crystal is pressed hard. What happens?",
       "options": [
-       "The clip bends and the salt cracks",
        "Both bend",
+       "The clip bends and the salt cracks",
        "Both crack"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A metal changes shape and stays in one piece. A salt crystal does not bend, and it splits into pieces. If you chose another answer, try both again and watch closely."
      },
      "context": "This is the last step of Bend or Break. You say what you noticed about the metal and the salt, and what you wonder."
@@ -1405,11 +1405,11 @@
       "t": "mcq",
       "q": "Why does a salt crystal crack when one layer of ions slips sideways?",
       "options": [
-       "Like charges meet and repel",
        "The ions melt",
+       "Like charges meet and repel",
        "The electrons flow away"
       ],
-      "a": 0,
+      "a": 1,
       "why": "After the slip, plus ions face plus ions and minus face minus. Like charges repel, so the layers push apart. If you chose another answer, slide the coin model again and look at the middle line."
      },
      "context": "This is the last step of Slide a Row. You build a metal model with coins and rice, and slide a row in it."
@@ -1504,11 +1504,11 @@
       "t": "mcq",
       "q": "In which bond do the outer electrons belong to all the atoms together?",
       "options": [
-       "Metallic",
        "Ionic",
+       "Metallic",
        "Covalent"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a metal the outer electrons leave their own atoms and move among all of them. In an ionic bond an electron moves to one other atom. In a covalent bond two atoms share a pair."
      },
      "context": "This is the last step of Give, Share, Pool. You pool the electrons of four copper atoms and draw the three kinds of bond."
@@ -1819,11 +1819,11 @@
       "t": "mcq",
       "q": "What carries the electricity through slightly salty tank water?",
       "options": [
-       "Ions from dissolved salts",
        "Free electrons, as in a wire",
+       "Ions from dissolved salts",
        "Water molecules alone"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dissolved salts are split into ions, and the moving ions carry the electricity. Free electrons carry it in a metal. Pure water has very few ions, so it carries very little."
      },
      "context": "This is the last step of the Tank-Full Alarm. You draw your design and explain how the tank water completes the circuit."
@@ -1943,12 +1943,12 @@
      "t": "mcq",
      "p": "Why does a metal bend without breaking?",
      "opts": [
-      "Its atoms slide and still hold",
       "Its atoms are soft",
+      "Its atoms slide and still hold",
       "It has no bonds",
       "Its ions repel each other"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The free electrons hold the atoms wherever they slide to. If you chose soft atoms, remember that the atoms do not change. Only their places change.",
      "outcome": 3
     },
@@ -1963,12 +1963,12 @@
      "t": "mcq",
      "p": "Candle wax melts in seconds over a flame. Why?",
      "opts": [
-      "Its molecules hold each other weakly",
       "Its covalent bonds break",
       "It is made of ions",
+      "Its molecules hold each other weakly",
       "It has free electrons"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Melting only lets whole molecules slide past each other. The covalent bonds inside each wax molecule stay unbroken.",
      "outcome": 2
     },
@@ -2003,12 +2003,12 @@
      "t": "mcq",
      "p": "What carries electricity through a copper wire?",
      "opts": [
-      "Free electrons",
       "Moving ions",
+      "Free electrons",
       "Water molecules",
       "Copper molecules"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In a metal the outer electrons are free to flow. Ions carry electricity in salt water, and copper has no molecules.",
      "outcome": 3
     },
@@ -2050,12 +2050,12 @@
      "t": "mcq",
      "p": "Sodium atoms react fiercely. Sodium ions in salt do not. Why?",
      "opts": [
-      "The ion has already given its electron",
       "The ion is much bigger",
+      "The ion has already given its electron",
       "Salt holds no sodium",
       "The ion is frozen"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A sodium atom reacts by giving away its outer electron. The ion has no such electron left to give, so it does not react in that way.",
      "outcome": 0
     },
@@ -2063,12 +2063,12 @@
      "t": "mcq",
      "p": "In a salt crystal, how many chloride ions surround each sodium ion?",
      "opts": [
-      "Six",
       "One",
       "Two",
+      "Six",
       "Eight"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each sodium ion has four chloride ions beside it in its own layer. It has one more above and one more below, which makes six. If you chose one, remember that no ion in salt has just one partner.",
      "outcome": 1
     },
@@ -2083,12 +2083,12 @@
      "t": "mcq",
      "p": "Why does sugar water carry almost no electricity?",
      "opts": [
-      "Sugar molecules have no charge",
       "Sugar does not dissolve",
       "Sugar is a metal",
+      "Sugar molecules have no charge",
       "Sugar blocks the water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sugar dissolves as whole molecules. With no charged particles to drift, almost nothing carries the electricity.",
      "outcome": 4
     },
@@ -2294,12 +2294,12 @@
      "t": "mcq",
      "p": "Salt lowers the freezing point of water about twice as much as sugar does. Why?",
      "opts": [
-      "Each unit of salt gives two particles",
       "Salt is colder than sugar",
       "Salt is heavier than sugar",
+      "Each unit of salt gives two particles",
       "Sugar melts first"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Dissolved salt splits into a sodium ion and a chloride ion. Sugar stays as one molecule. This is how Arrhenius showed that ions exist in salt water.",
      "outcome": 7
     },
@@ -2392,12 +2392,12 @@
      "t": "mcq",
      "p": "Aluminium gives 3 electrons and oxygen takes 2. How many of each make a compound?",
      "opts": [
-      "2 aluminium and 3 oxygen",
       "3 aluminium and 2 oxygen",
       "1 aluminium and 1 oxygen",
+      "2 aluminium and 3 oxygen",
       "2 aluminium and 2 oxygen"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Two aluminiums give 6 electrons, and three oxygens take 6. If you chose 3 and 2, count again: that gives 9 and takes 4.",
      "outcome": 6
     },
@@ -2472,12 +2472,12 @@
    "t": "mcq",
    "p": "How does an atom become a plus ion?",
    "opts": [
-    "It loses electrons",
     "It gains electrons",
     "It melts",
+    "It loses electrons",
     "It splits in two"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Electrons are minus. An atom that loses one has more plus charge than minus. If you chose gains, that makes a minus ion.",
    "outcome": 0
   },
@@ -2485,12 +2485,12 @@
    "t": "mcq",
    "p": "What holds the ions in salt together?",
    "opts": [
-    "Plus and minus charges attracting",
     "Shared pairs of electrons",
     "A pool of free electrons",
+    "Plus and minus charges attracting",
     "Water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each plus ion attracts every minus ion near it. Shared pairs make covalent bonds, and a pool of electrons makes a metallic bond.",
    "outcome": 1
   },
@@ -2511,12 +2511,12 @@
    "t": "mcq",
    "p": "Which of these is made of molecules?",
    "opts": [
-    "Sugar",
     "Table salt",
+    "Sugar",
     "Copper",
     "Brass"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sugar is carbon, hydrogen and oxygen joined by covalent bonds. Salt is a lattice of ions, and copper and brass are metals.",
    "outcome": 2
   },
@@ -2524,12 +2524,12 @@
    "t": "mcq",
    "p": "Why does a metal shine and carry electricity?",
    "opts": [
-    "It has free electrons",
     "It has ions in a lattice",
+    "It has free electrons",
     "It is made of molecules",
     "It is very heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Free electrons flow as a current, and they send light back from the surface.",
    "outcome": 3
   },
@@ -2544,12 +2544,12 @@
    "t": "mcq",
    "p": "When does salt carry electricity?",
    "opts": [
-    "When it is dissolved or melted",
     "Only when it is dry",
     "Never",
+    "When it is dissolved or melted",
     "Only when it is cold"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Dissolving and melting both free the ions. Free ions can move, and moving charges carry electricity.",
    "outcome": 4
   },
@@ -2557,12 +2557,12 @@
    "t": "mcq",
    "p": "A solid flattens when pressed and carries electricity when dry. What is it?",
    "opts": [
-    "A metal",
     "An ionic solid",
     "A solid made of molecules",
+    "A metal",
     "Sugar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only a metal does both. An ionic solid cracks and carries electricity only when wet or melted.",
    "outcome": 5
   },
@@ -2570,12 +2570,12 @@
    "t": "mcq",
    "p": "Magnesium is a metal and oxygen is a non-metal. Which bond joins them?",
    "opts": [
-    "Ionic",
     "Covalent",
     "Metallic",
-    "No bond forms"
+    "No bond forms",
+    "Ionic"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The metal atom gives electrons to the non-metal atom. Magnesium oxide is made of ions.",
    "outcome": 6
   },
@@ -2583,12 +2583,12 @@
    "t": "mcq",
    "p": "What kind of evidence showed that salt has no molecules?",
    "opts": [
-    "The pattern X-rays make in a crystal",
     "The taste of salt",
+    "The pattern X-rays make in a crystal",
     "The weight of salt",
     "The colour of salt"
    ],
-   "a": 0,
+   "a": 1,
    "why": "X-rays bounce off the layers of ions and make a pattern of spots. The pattern shows every ion with six equal neighbours.",
    "outcome": 7
   },

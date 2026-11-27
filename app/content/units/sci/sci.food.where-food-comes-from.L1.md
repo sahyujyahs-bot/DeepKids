@@ -375,7 +375,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 2. (match) Draw a line from each food to the plant or animal who made that food.  
    **Answer:** honey → honey bees; milk → a cow; an egg → a hen; a coconut → a coconut palm. *Why:* Bees make honey from nectar. A cow makes milk. A hen lays eggs. A coconut grows on a coconut palm.
 3. (mcq) Which one of these did a plant make?  
-   Options: An egg / A mango / A glass of milk  
+   Options: An egg / A glass of milk / A mango  
    **Answer:** A mango. *Why:* A mango is the fruit of the mango tree. Eggs and milk are made by animals.
 4. (draw) In the Nectar to Honey experiment, you left one drop of sugar water under a fan and covered another drop with a katori. Draw the two plates as they looked the next morning. Show which drop ran when you tilted the plate.  
    **Answer:** The open drop thick and still. The covered drop running down the plate.. *Why:* A strong drawing shows the open drop staying put and the covered drop running in a line.
@@ -412,7 +412,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 6. (draw) A real bee's tongue is hairy, and nectar sticks between the hairs. Draw a tool from home that works in the same way.  
    **Answer:** A paintbrush, with drops of sugar water held between its hairs.. *Why:* A strong drawing shows a tool with hairs or a soft surface that holds drops, and the child can say why nectar sticks to it.
 7. (mcq) Why do bees fan their wings over the honeycomb?  
-   Options: To dry the nectar into honey / To keep the flowers away / To make the honey colder  
+   Options: To keep the flowers away / To make the honey colder / To dry the nectar into honey  
    **Answer:** To dry the nectar into honey. *Why:* The moving air from their wings makes water evaporate from the nectar, until it is thick honey.
 8. (match) Match each food to the plant part we eat.  
    **Answer:** rice → seed; a mango → fruit; palak → leaf; a carrot → root. *Why:* Rice grains are seeds. A mango is a fruit. Palak is a leaf. A carrot is a root.
@@ -431,7 +431,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 
 ## Quiz
 1. (mcq) Which of these is food from an animal?  
-   Options: An idli / A cup of milk / A banana  
+   Options: A cup of milk / An idli / A banana  
    **Answer:** A cup of milk. *Why:* A cow, buffalo or goat makes milk. Idli is made from seeds, and a banana is a fruit.
 2. (mcq) Which of these is food from a plant?  
    Options: An egg / Curd / A coconut  
@@ -440,28 +440,28 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
    Options: Salt / Rice / Ghee  
    **Answer:** Salt. *Why:* Salt comes from sea water or from the ground. Rice is a seed, and ghee is made from milk.
 4. (mcq) How does a mango tree get food?  
-   Options: The tree makes food in the leaves, from sunlight, air and water / The tree eats insects / The tree eats the soil  
+   Options: The tree eats insects / The tree eats the soil / The tree makes food in the leaves, from sunlight, air and water  
    **Answer:** The tree makes food in the leaves, from sunlight, air and water. *Why:* Green plants make their own food in their leaves. The soil gives the tree water and small amounts of minerals, but not food.
 5. (mcq) A goat eats leaves all day. Why does the goat need to eat?  
    Options: Goats, like all animals, get their food by eating / Goats eat only for fun / Goats make food from sunlight  
    **Answer:** Goats, like all animals, get their food by eating. *Why:* Animals, including goats and people, cannot make food from sunlight. So they eat plants, or other animals, or both.
 6. (mcq) What do honey bees make honey from?  
-   Options: Flower nectar / Rain water / Mud  
+   Options: Rain water / Mud / Flower nectar  
    **Answer:** Flower nectar. *Why:* Bees drink nectar from flowers, carry it home and dry it into honey.
 7. (mcq) In the sugar water test, why did we cover one drop with a katori?  
    Options: To see what happens when moving air cannot reach the drop / To keep ants off the drop / To make the drop sweeter  
    **Answer:** To see what happens when moving air cannot reach the drop. *Why:* One drop was open and one was covered. Everything else was the same, so we could see what the moving air did.
 8. (mcq) Who makes the honey in a beehive?  
-   Options: The female worker bees / The male bees / The beekeeper  
+   Options: The male bees / The beekeeper / The female worker bees  
    **Answer:** The female worker bees. *Why:* The worker bees, who are all female, gather nectar and make honey. Male bees make no honey. The beekeeper only takes some out.
 9. (mcq) What does a cow eat to make her milk?  
-   Options: Grass and other plants / Milk / Stones  
+   Options: Milk / Grass and other plants / Stones  
    **Answer:** Grass and other plants. *Why:* A cow makes milk from the grass, hay and other plants she eats.
 10. (mcq) Where does an egg come from?  
    Options: A hen lays the egg / Eggs grow on trees / Eggs are made in shops  
    **Answer:** A hen lays the egg. *Why:* A hen lays eggs. The shop only sells them.
 11. (mcq) You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?  
-   Options: Make a guess and say why / Eat the sugar / Wash the plates  
+   Options: Eat the sugar / Make a guess and say why / Wash the plates  
    **Answer:** Make a guess and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
 12. (mcq) Sweet pongal is a festival food made from rice, moong dal, jaggery and milk. Which part comes from an animal?  
    Options: The rice / The jaggery / The milk  

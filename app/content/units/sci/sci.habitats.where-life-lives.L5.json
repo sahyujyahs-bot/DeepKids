@@ -727,11 +727,11 @@
       "q": "Which group is most likely to be missing from a far island?",
       "options": [
        "Bats",
-       "Frogs",
        "Ferns",
-       "Birds"
+       "Birds",
+       "Frogs"
       ],
-      "a": 1,
+      "a": 3,
       "why": "Frogs are harmed by salt water, so very few reach far islands. Birds and bats fly there, and fern spores blow there on the wind. If you chose birds or bats, think about who can cross water without touching it."
      },
      "context": "This is the last step of Could She Cross? Here you work out which living beings an island far out at sea will have."
@@ -896,12 +896,12 @@
       "t": "mcq",
       "q": "Why did plants from the Americas reach India only in the last 500 years?",
       "options": [
-       "Ships began to cross the oceans",
        "The climate became warmer",
        "Birds started to carry seeds",
+       "Ships began to cross the oceans",
        "The continents moved closer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Wide oceans were a barrier for millions of years. Sailing ships began to cross between the Americas, Europe and India about 500 years ago, and they carried plants with them. Continents move far too slowly to matter in 500 years."
      },
      "context": "This is the last step of Native, Introduced or Invasive? Here you look at where India's newcomers came from."
@@ -1307,12 +1307,12 @@
       "t": "mcq",
       "q": "Two islands are the same size. One is near the mainland and one is far. Which is likely to have more kinds of living beings?",
       "options": [
-       "The far island",
        "The near island",
+       "The far island",
        "Both the same",
        "Neither has any"
       ],
-      "a": 1,
+      "a": 0,
       "why": "More travellers reach the near island, so more kinds settle there. Size was the same, so only distance differed. If you chose 'both the same', look at your own counts for the near and far bowls."
      },
      "parent": "In most homes the near bowl catches several times as many grains as the middle bowl, and the furthest catches almost none. Two things work together. Few grains bounce far. And those that do are spread round a wider ring of floor, so one bowl covers a smaller share of the ring. The wide plate catches several times as many as the small bowl beside it, because it covers more floor. Real islands follow the same two rules. In 1967 Robert MacArthur and Edward Wilson wrote that near islands and large islands get more arrivals. The model leaves out what happens after landing. On a real island a traveller must also find food and a mate.",
@@ -1485,11 +1485,11 @@
       "q": "When the pieces are joined, the fossil places meet. What does this suggest?",
       "options": [
        "The same animal arose three times",
-       "The lands were once joined",
        "The fossils were carried by people",
+       "The lands were once joined",
        "The animals swam across oceans"
       ],
-      "a": 1,
+      "a": 2,
       "why": "On the joined land, the fossil places lie side by side, so the animal lived in one area. That fits the idea that the lands were joined. A land animal could not swim thousands of kilometres of ocean, and the same animal arising three times is far less likely."
      },
      "parent": "The fit is rough, because paper continents are flat and the real edges lie under shallow sea. India's west coast goes against Madagascar's east coast. Antarctica sits against India's east coast and the south of Africa.",
@@ -1590,12 +1590,12 @@
       "t": "mcq",
       "q": "In the last ice age the sea fell about 120 metres. Which sea became dry land?",
       "options": [
-       "A sea 35 metres deep",
        "A sea 1,000 metres deep",
        "A sea 250 metres deep",
-       "All of them"
+       "All of them",
+       "A sea 35 metres deep"
       ],
-      "a": 0,
+      "a": 3,
       "why": "Only sea floor less than about 120 metres deep was uncovered. The sea between India and Sri Lanka is at most about 35 metres deep, so it became dry land. Deep channels stayed sea, however narrow they were."
      },
      "parent": "Sri Lanka is like island 1: the sea between Sri Lanka and India is very shallow, and animals walked across until about 7,000 years ago. Lombok in Indonesia is like island 2: a deep channel kept it apart from Bali.",
@@ -1923,12 +1923,12 @@
       "t": "mcq",
       "q": "A team clears 3 squares each round, after the weed doubles. From which start can they clear the tank?",
       "options": [
+       "From 2 squares of weed",
        "From any number",
        "From 3 squares of weed",
-       "From 2 squares of weed",
        "From 4 squares of weed"
       ],
-      "a": 2,
+      "a": 0,
       "why": "From 2 squares: 2 doubles to 4, less 3 leaves 1. Then 1 doubles to 2, and 3 clears it. From 3 squares the weed returns to 3 every round, for ever. From 4 it grows. The team wins only while the weed is smaller than what they can clear."
      },
      "parent": "From 1 bean the tank is clear in one round. From 2 beans it takes two rounds. From 3 beans the count stays at 3 for ever. From 4 beans the weed wins. The rule: you win only if you can clear more than is there now.",
@@ -2051,10 +2051,10 @@
      "opts": [
       "How the stars move",
       "How animals digest their food",
-      "Where living beings are found, and why",
-      "What rocks are made of"
+      "What rocks are made of",
+      "Where living beings are found, and why"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Biogeography asks where each kind of living being is found, and why there and not somewhere else.",
      "outcome": 0
     },
@@ -2108,11 +2108,11 @@
      "p": "About how fast do the Earth's plates move?",
      "opts": [
       "A few metres a year",
+      "A few centimetres a year",
       "A few kilometres a year",
-      "They do not move",
-      "A few centimetres a year"
+      "They do not move"
      ],
-     "a": 3,
+     "a": 1,
      "why": "Plates move a few centimetres a year, about as fast as a fingernail grows. Choosing 'they do not move' is natural, because nobody can feel it.",
      "outcome": 2
     },
@@ -2150,11 +2150,11 @@
      "p": "Why was the sea lower during the last ice age?",
      "opts": [
       "The sea had dried in the Sun",
-      "Much water was frozen on the land",
       "The Moon was further away",
+      "Much water was frozen on the land",
       "The land had sunk"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Thick ice lay on the land, and that water came from the sea. So the sea stood about 120 metres lower.",
      "outcome": 3
     },
@@ -2238,11 +2238,11 @@
      "p": "Lantana takes over forests in India but not in tropical America. What is one likely reason?",
      "opts": [
       "Lantana changed colour in India",
-      "The insects that eat lantana stayed behind",
       "Indian soil is much richer",
+      "The insects that eat lantana stayed behind",
       "India is hotter than America"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At home many insects and diseases feed on lantana. Most of them did not travel with the plant. This is one explanation, and scientists have others too.",
      "outcome": 6
     },
@@ -2268,11 +2268,11 @@
      "p": "Camels brought by people now live wild in Australia. What does that show about Australia before?",
      "opts": [
       "Camels had died out there",
-      "It had no deserts",
       "It already suited camels",
+      "It had no deserts",
       "It was too cold for camels"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The land did not change when camels arrived. So it suited camels all along, and they were missing only because they could not get there.",
      "outcome": 0
     },
@@ -2326,10 +2326,10 @@
      "opts": [
       "They have different weather",
       "People removed the animals",
-      "Lombok is a much older island",
-      "The sea between them is deep"
+      "The sea between them is deep",
+      "Lombok is a much older island"
      ],
-     "a": 3,
+     "a": 2,
      "why": "The channel is too deep to have become dry land in the ice age. Walking animals from Asia reached Bali and stopped there.",
      "outcome": 3
     },
@@ -2410,12 +2410,12 @@
      "t": "mcq",
      "p": "Why do far islands have many endemic species?",
      "opts": [
-      "Islands are colder than mainlands",
       "Few arrive, and they stay isolated",
+      "Islands are colder than mainlands",
       "Island animals live longer",
       "Islands have richer soil"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Few living beings reach a far island, and their descendants do not mix with the mainland. Over a long time they become kinds found nowhere else.",
      "outcome": 4
     },
@@ -2481,11 +2481,11 @@
      "p": "A bowl twice as far from scattering grains catches much less than half as many. Why?",
      "opts": [
       "The far bowl is smaller",
-      "Rice is too heavy to bounce",
       "The grains spread over a wider ring",
+      "Rice is too heavy to bounce",
       "The sheet slopes downhill"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Few grains travel far, and those that do are spread round a bigger circle. One bowl covers a smaller share of that circle.",
      "how": "e2",
      "outcome": 4
@@ -2512,10 +2512,10 @@
      "opts": [
       "10 times",
       "Never",
-      "1,000 times",
-      "100 times"
+      "100 times",
+      "1,000 times"
      ],
-     "a": 3,
+     "a": 2,
      "why": "1,000,000 divided by 10,000 is 100. A crossing too rare for anyone to see becomes almost certain over a very long time.",
      "outcome": 1
     },
@@ -2538,12 +2538,12 @@
      "t": "mcq",
      "p": "Two frog species differ in very many places in their DNA. What does that suggest?",
      "opts": [
-      "They eat different food",
       "They have been apart a long time",
+      "They eat different food",
       "They live in the same pond",
       "One is much bigger"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Copying mistakes build up at a roughly steady rate. Many differences mean the two species have been separate for a long time.",
      "outcome": 7
     },
@@ -2601,12 +2601,12 @@
      "t": "mcq",
      "p": "Sri Lanka left India 7,000 years ago, and the Seychelles 65 million. Whose animals differ more from India's?",
      "opts": [
+      "Those of the Seychelles",
       "Neither differs at all",
       "Those of Sri Lanka",
-      "Both differ equally",
-      "Those of the Seychelles"
+      "Both differ equally"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The longer two groups are kept apart, the more different they become. 65 million years is far longer than 7,000.",
      "outcome": 4
     },
@@ -2684,11 +2684,11 @@
      "p": "Why do introduced rats harm island birds more than mainland birds?",
      "opts": [
       "Islands have less food",
-      "Mainland birds fly faster",
       "Island birds never met hunting mammals",
+      "Mainland birds fly faster",
       "Island rats grow much bigger"
      ],
-     "a": 2,
+     "a": 1,
      "why": "On many far islands no hunting mammal ever arrived. Birds there nest on the ground and do not flee. They have no defence against a rat.",
      "outcome": 5
     }
@@ -2701,11 +2701,11 @@
    "p": "Polar bears do not live in Antarctica. What is the most likely reason?",
    "opts": [
     "Antarctica is too cold",
-    "Penguins chase them away",
     "Their ancestors could not reach it",
+    "Penguins chase them away",
     "There is nothing to eat"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Polar bears arose in the far north, and no land or ice ever joined the north to Antarctica. Antarctica is cold and has seals, so it might well suit them.",
    "outcome": 0
   },
@@ -2759,12 +2759,12 @@
    "t": "mcq",
    "p": "What can turn a shallow sea into a land bridge?",
    "opts": [
-    "Fish leaving the sea",
     "The sea level falling in an ice age",
+    "Fish leaving the sea",
     "Heavy rain for a year",
     "A very strong tide"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In an ice age much water is frozen on land, so the sea falls. Shallow sea floor is uncovered and joins two lands.",
    "outcome": 3
   },
@@ -2785,12 +2785,12 @@
    "t": "mcq",
    "p": "Which island will probably have the fewest kinds of living beings?",
    "opts": [
-    "A small island far from land",
     "A large island far from land",
     "A large island near land",
-    "A small island near land"
+    "A small island near land",
+    "A small island far from land"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Few travellers reach a far island, and a small island keeps fewer kinds alive. Small and far together give the fewest.",
    "outcome": 4
   },
@@ -2813,10 +2813,10 @@
    "opts": [
     "That the insect lives for years",
     "That the insect is easy to see",
-    "That the insect flies quickly",
-    "That the insect eats only that weed"
+    "That the insect eats only that weed",
+    "That the insect flies quickly"
    ],
-   "a": 3,
+   "a": 2,
    "why": "An insect who also eats crops or native plants would become a new problem. Cane toads in Australia were released without such a test.",
    "outcome": 6
   },
@@ -2825,11 +2825,11 @@
    "p": "A water weed doubles every two weeks. When is the weed cheapest to remove?",
    "opts": [
     "When the whole lake is covered",
-    "When the first few plants appear",
     "The timing makes no difference",
+    "When the first few plants appear",
     "When half the lake is covered"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A few plants can be lifted out by hand. A half-covered lake is only two weeks from being full, and then the work is enormous.",
    "how": "c1",
    "outcome": 6

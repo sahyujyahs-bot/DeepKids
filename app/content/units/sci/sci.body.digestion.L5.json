@@ -716,11 +716,11 @@
       "t": "mcq",
       "q": "In Right Juice, Right Place, the four fibre cards go on the large intestine space. Why?",
       "options": [
-       "Only gut bacteria can cut fibre",
        "Fibre is cut by stomach acid first",
+       "Only gut bacteria can cut fibre",
        "Fibre is too small to need cutting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "No human enzyme fits the joins in fibre, so it reaches the large intestine uncut. The bacteria there ferment it. If you chose 'too small', remember that fibre is made of long chains, like starch."
      },
      "context": "This is the last step of Right Juice, Right Place. You group the cards and find the foods that your own enzymes never cut."
@@ -864,11 +864,11 @@
       "t": "mcq",
       "q": "In Whose Teeth, Whose Gut?, why do the plant-eaters have big pouches, large intestines or extra chambers?",
       "options": [
-       "Their microbes need room and time to cut fibre",
        "Plants are bigger than meat",
+       "Their microbes need room and time to cut fibre",
        "Plant-eaters are always bigger animals"
       ],
-      "a": 0,
+      "a": 1,
       "why": "No animal with a backbone makes an enzyme that cuts cellulose. Plant-eaters house microbes who cut fibre, and fermenting takes space and time. If you chose 'bigger animals', remember the rabbit and the termite."
      },
      "context": "This is the last step of Whose Teeth, Whose Gut? You sort the animals by food and find what the plant-eaters share."
@@ -1346,11 +1346,11 @@
       "t": "mcq",
       "q": "In Listen to a Gut, what makes the sounds you hear in a belly?",
       "options": [
-       "Gut muscles moving food, juice and gas",
        "The heart pumping blood",
+       "Gut muscles moving food, juice and gas",
        "Teeth still chewing the food"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The walls of the stomach and intestines are muscle. When they squeeze liquid and gas along, it gurgles. If you chose the heart, listen higher up on the chest: a heartbeat is a steady thud, not a gurgle."
      },
      "context": "In this step of Listen to a Gut, you count the sounds of the same belly 20 minutes after lunch."
@@ -1457,11 +1457,11 @@
       "t": "mcq",
       "q": "In Mouth Waters, what happens to saliva when you only smell a lemon?",
       "options": [
-       "The glands may start before any food arrives",
        "The glands wait until you swallow",
-       "The glands stop completely"
+       "The glands stop completely",
+       "The glands may start before any food arrives"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Signals from the nose and eyes reach the brain, and the brain tells the glands to start. If you chose 'wait until you swallow', check your two times again."
      },
      "context": "In this step of Mouth Waters, you time the same dry lip again while you look at and smell a cut lemon."
@@ -1584,11 +1584,11 @@
       "t": "mcq",
       "q": "In Whole or Crushed, why must all three katoris get the same amount of water and the same stirring?",
       "options": [
-       "So that only the size of the pieces differs",
        "So that the water lasts longer",
-       "So that all three finish together"
+       "So that all three finish together",
+       "So that only the size of the pieces differs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A fair test changes one thing only. Here it is the size of the pieces. If you chose 'finish together', that would make the result meaningless."
      },
      "context": "In this step of Whole or Crushed, you drop the three sugars into water together and time how long each takes to vanish."
@@ -1859,11 +1859,11 @@
       "t": "mcq",
       "q": "In Lock and Key Chains, why can amylase cut the red strip but not the green strip?",
       "options": [
-       "Its tooth fits only the triangle notch",
        "The green strip is too thick",
-       "Amylase is too tired to cut"
+       "Amylase is too tired to cut",
+       "Its tooth fits only the triangle notch"
       ],
-      "a": 0,
+      "a": 2,
       "why": "An enzyme fits one shape of join and no other. In your food, the starch and the fibre are both made of sugar units, but their joins are different. If you chose 'too thick', try the square tooth on the green strip."
      },
      "context": "In this step of Lock and Key Chains, you try each card enzyme on each paper chain and record which ones cut."
@@ -2003,11 +2003,11 @@
       "t": "mcq",
       "q": "In the Milk Survey, why is it important to ask every person the same questions in the same words?",
       "options": [
-       "So the answers can be counted and compared",
        "So that people finish sooner",
-       "So that everyone gives the same answer"
+       "So that everyone gives the same answer",
+       "So the answers can be counted and compared"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the wording changes, people may answer different questions, and the tallies would not mean one thing. If you chose 'the same answer', remember that the survey is meant to find out whether the answers differ."
      },
      "context": "This is day 3 of the Milk Survey. You add up the tallies, draw a bar chart and say what the survey can and cannot show."
@@ -2094,11 +2094,11 @@
       "t": "mcq",
       "q": "In Make It Faster, why must the control cup have the same saliva and the same waiting time?",
       "options": [
-       "So the one change is the only difference",
        "So both cups finish at once",
+       "So the one change is the only difference",
        "So that the paste is used up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes one thing. If the control also changed, you could not tell what caused any difference. If you chose 'finish at once', ask what you would then be comparing."
      },
      "context": "In this step of Make It Faster, you set up a test cup and a control cup, and you change one thing in the test cup."
@@ -2127,12 +2127,12 @@
      "t": "mcq",
      "p": "Which list gives the parts of the food tube in the right order?",
      "opts": [
-      "Mouth, food pipe, stomach, small intestine, large intestine",
       "Mouth, stomach, food pipe, large intestine, small intestine",
       "Food pipe, mouth, small intestine, stomach, large intestine",
+      "Mouth, food pipe, stomach, small intestine, large intestine",
       "Mouth, small intestine, stomach, food pipe, large intestine"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Food goes from the mouth down the food pipe to the stomach. Then it passes through the small intestine, which is long and narrow, and on to the large intestine.",
      "outcome": 0
     },
@@ -2218,12 +2218,12 @@
      "t": "mcq",
      "p": "What does the enzyme in saliva do to starch?",
      "opts": [
-      "Cuts it into sugar",
       "Turns it into protein",
       "Leaves it unchanged",
+      "Cuts it into sugar",
       "Turns it into fat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The enzyme in saliva is amylase. It cuts the long chains of starch into short pieces of sugar. That is why chewed rice begins to taste sweet.",
      "outcome": 4
     },
@@ -2303,12 +2303,12 @@
      "t": "mcq",
      "p": "Where does most digested food pass into the blood?",
      "opts": [
-      "The small intestine",
       "The stomach",
       "The large intestine",
-      "The food pipe"
+      "The food pipe",
+      "The small intestine"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The small intestine is lined with villi, which give it a huge surface. Digested food passes through them into the blood.",
      "outcome": 5
     },
@@ -2404,12 +2404,12 @@
      "t": "mcq",
      "p": "Why does the enzyme in saliva stop working in the stomach?",
      "opts": [
-      "The acid changes the shape of the enzyme",
       "The stomach is too cold for it",
       "There is no starch in the stomach",
-      "The enzyme runs out of saliva"
+      "The enzyme runs out of saliva",
+      "The acid changes the shape of the enzyme"
      ],
-     "a": 0,
+     "a": 3,
      "why": "An enzyme works only while its shape fits its food. Strong acid changes that shape, so amylase stops. Pepsin works only in acid.",
      "outcome": 3
     },
@@ -2417,12 +2417,12 @@
      "t": "mcq",
      "p": "A tablet cancels the acid in a stomach. What happens to the pepsin there?",
      "opts": [
-      "It stops working, because it needs acid",
       "It works faster, because the acid is gone",
       "It turns into amylase",
+      "It stops working, because it needs acid",
       "Nothing changes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pepsin is switched on by acid, and it works only in acid. If the acid is cancelled, protein digestion in the stomach slows down.",
      "outcome": 3
     },
@@ -2517,12 +2517,12 @@
      "t": "mcq",
      "p": "Lipase cuts fat. Why does the body also need bile?",
      "opts": [
-      "Droplets give lipase much more surface to work on",
       "Bile is a stronger enzyme than lipase",
+      "Droplets give lipase much more surface to work on",
       "Bile cuts the fat into sugar",
       "Bile makes fat taste better"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Fat floats in a large blob in watery juice. Bile breaks it into tiny droplets, as dish soap does to grease. Lipase can then reach far more of the fat.",
      "outcome": 4
     },
@@ -2695,12 +2695,12 @@
      "t": "mcq",
      "p": "Isabgol gel stayed thick when saliva was added. What can you conclude?",
      "opts": [
-      "Saliva did not cut the fibre in the gel",
       "Saliva cuts nothing at all",
       "Saliva was too cold to work",
-      "The gel was too thick to be cut"
+      "The gel was too thick to be cut",
+      "Saliva did not cut the fibre in the gel"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The starch cup next to it ran, so the saliva was working. The gel did not change, so the enzyme in saliva does not fit the joins in this fibre.",
      "outcome": 2
     },
@@ -2724,12 +2724,12 @@
      "t": "mcq",
      "p": "Why can many people take curd or buttermilk when a large tumbler of milk gives them a stomach ache?",
      "opts": [
-      "Curd bacteria have already used up part of the lactose",
       "Curd contains no sugar at all",
       "Curd is digested in the mouth",
+      "Curd bacteria have already used up part of the lactose",
       "Curd is made without any milk"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bacteria in curd eat milk sugar and carry lactase of their own. So less lactose reaches the large intestine, where it would be fermented and make gas.",
      "outcome": 6
     },
@@ -2831,12 +2831,12 @@
    "t": "mcq",
    "p": "Which organ makes acid and pepsin?",
    "opts": [
-    "The stomach",
     "The mouth",
     "The liver",
-    "The large intestine"
+    "The large intestine",
+    "The stomach"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The wall of the stomach makes hydrochloric acid and pepsin. The liver makes bile, and the mouth makes saliva.",
    "outcome": 4
   },
@@ -2870,12 +2870,12 @@
    "t": "mcq",
    "p": "What is the hardest substance in the body?",
    "opts": [
-    "Tooth enamel",
     "Bone",
+    "Tooth enamel",
     "Dentine",
     "Nail"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Enamel is the hardest, and it has no living cells. Dentine and bone are hard but living.",
    "outcome": 1
   },
@@ -2883,12 +2883,12 @@
    "t": "mcq",
    "p": "Saliva and a few drops of lemon juice are added to thick starch paste. What do you expect?",
    "opts": [
-    "The paste stays thick, because acid stops amylase",
     "The paste turns runny, because lemon helps",
     "The paste turns to sugar at once",
-    "The paste turns clear"
+    "The paste turns clear",
+    "The paste stays thick, because acid stops amylase"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Lemon juice is acid, like the stomach. Acid changes the shape of amylase, so it cannot cut the starch.",
    "outcome": 3
   },
@@ -2903,12 +2903,12 @@
    "t": "mcq",
    "p": "What do the villi in the small intestine do?",
    "opts": [
-    "Pass digested food into the blood",
     "Make bile",
     "Churn the food",
+    "Pass digested food into the blood",
     "Kill all microbes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Villi are tiny finger-shaped bumps. They give the lining a huge surface, and digested food crosses them into the blood.",
    "outcome": 5
   },
@@ -2916,12 +2916,12 @@
    "t": "mcq",
    "p": "No human enzyme can cut fibre. What happens to it in the large intestine?",
    "opts": [
-    "Gut bacteria ferment it",
     "It turns into protein",
     "It is cut by pepsin",
+    "Gut bacteria ferment it",
     "It is absorbed whole"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Gut bacteria make enzymes that fit the joins in fibre. They ferment it into acids, which the cells of the large intestine can use.",
    "outcome": 6
   },
@@ -2947,12 +2947,12 @@
    "t": "mcq",
    "p": "Which part of a rabbit's gut is much bigger than a cat's, and why?",
    "opts": [
-    "The large intestine and caecum, where microbes cut plant fibre",
     "The mouth, to chew faster",
     "The food pipe, to swallow bigger pieces",
-    "Nothing, a rabbit's gut is the same as a cat's"
+    "Nothing, a rabbit's gut is the same as a cat's",
+    "The large intestine and caecum, where microbes cut plant fibre"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Plants are rich in fibre, and no enzyme of an animal with a backbone cuts it. Microbes do it slowly, in the large intestine and the caecum. Measurements show that this is where plant-eaters differ most from meat-eaters.",
    "outcome": 6
   },
@@ -2960,12 +2960,12 @@
    "t": "mcq",
    "p": "Which cup is a good control for a test of saliva on starch paste?",
    "opts": [
-    "Paste with water in place of saliva",
     "Saliva with lemon juice",
     "Heated saliva with paste",
+    "Paste with water in place of saliva",
     "Saliva alone, with no paste"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A control leaves out the thing you test. Paste with water shows what the paste does without saliva.",
    "outcome": 7
   },
@@ -2973,12 +2973,12 @@
    "t": "mcq",
    "p": "What is lactase?",
    "opts": [
-    "The enzyme that cuts milk sugar",
     "The sugar in milk",
     "The bacteria in curd",
+    "The enzyme that cuts milk sugar",
     "The acid in the stomach"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Lactose is the sugar in milk. Lactase is the enzyme in the small intestine that cuts it in two so that it can be absorbed.",
    "outcome": 2
   },
@@ -2986,12 +2986,12 @@
    "t": "mcq",
    "p": "Why should you not talk or laugh with food in your mouth?",
    "opts": [
-    "The windpipe stays open, so a bit of food can slip into it and make you choke",
     "Your saliva would run out",
     "The enzymes in the mouth stop working",
+    "The windpipe stays open, so a bit of food can slip into it and make you choke",
     "The food would taste of nothing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When you swallow, a flap closes over the windpipe. Laughing keeps it open, and food can go the wrong way. Saliva does not run out when you talk, and enzymes do not mind noise.",
    "outcome": 0
   },
@@ -2999,12 +2999,12 @@
    "t": "mcq",
    "p": "Which organ is the biggest gland in the body?",
    "opts": [
-    "The liver",
     "The pancreas",
     "The stomach",
+    "The liver",
     "The tongue"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The liver is the biggest gland, and it makes bile. The pancreas is also a gland, but it is much smaller. The stomach and the tongue are not glands.",
    "outcome": 0
   },
@@ -3012,12 +3012,12 @@
    "t": "mcq",
    "p": "A child has a stomach upset. Which sign means a grown-up must take her to a doctor?",
    "opts": [
-    "Vomiting that will not stop, with a very dry mouth",
     "One small burp after lunch",
     "A heavy feeling that is gone in an hour",
+    "Vomiting that will not stop, with a very dry mouth",
     "Feeling hungry again by dinner"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Vomiting that does not stop, and a very dry mouth, can mean the body is losing too much water. The other signs are mild and usually pass on their own.",
    "outcome": 0
   },
@@ -3025,12 +3025,12 @@
    "t": "mcq",
    "p": "Why does it help your teeth to rinse with water after a sweet and to eat fewer sweets?",
    "opts": [
-    "Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself",
     "Water makes the enamel thicker",
+    "Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself",
     "Sweets make the teeth grow too many",
     "Rinsing makes the saliva stronger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sugar feeds mouth bacteria, and they make acid. Enamel has no living cells, so it cannot heal once it dissolves. Less sugar and a quick rinse leave less acid on the teeth.",
    "outcome": 1
   }

@@ -437,7 +437,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ## Worksheets
 ### Apes, Laughing and Grooming (core) (core, 11 questions)
 1. (mcq) In the laugh test, what did the tissue flag do while you laughed?  
-   Options: It blew away from my mouth / It was pulled into my mouth / It did not move  
+   Options: It was pulled into my mouth / It did not move / It blew away from my mouth  
    **Answer:** It blew away from my mouth. *Why:* Your laugh is many 'ha' sounds on one breath out, so the air pushed the flag away. A child who picks 'pulled into my mouth' may be thinking of the big gasp after a laugh. That gasp is a quiet breath in.
 2. (count) Here is a laugh: 'ha ha ha ha ha ha', all on one breath. How many 'ha' sounds are in it?  
    **Answer:** 6. *Why:* Count each 'ha': 1, 2, 3, 4, 5, 6. All six came on one breath out, as most human laughs do.
@@ -512,16 +512,16 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 
 ## Quiz
 1. (mcq) Which of these is an ape?  
-   Options: Gorilla / Langur / Bonnet macaque  
+   Options: Langur / Bonnet macaque / Gorilla  
    **Answer:** Gorilla. *Why:* Gorillas have no tail, so they are apes. Langurs and bonnet macaques have long tails, so they are monkeys.
 2. (mcq) Are humans apes?  
    Options: Yes, humans are great apes / No, humans are monkeys / No, humans are not animals  
    **Answer:** Yes, humans are great apes. *Why:* Humans are animals and great apes, with no tail, like chimpanzees and gorillas. A child who picks 'not animals' may think people are separate from the other animals. But humans are one kind of animal among many.
 3. (mcq) How does a young chimpanzee laugh when tickled?  
-   Options: With a soft pant, breathing out and in / With no sound at all / Exactly like a person, 'ha ha ha'  
+   Options: With no sound at all / With a soft pant, breathing out and in / Exactly like a person, 'ha ha ha'  
    **Answer:** With a soft pant, breathing out and in. *Why:* A chimpanzee's laugh is a pant, with sound on the breath out and the breath in. Ours is many 'ha' sounds on one breath out.
 4. (mcq) Where do orangutans live in the wild?  
-   Options: Borneo and Sumatra, in Asia / Central Africa / The Himalayas  
+   Options: Central Africa / Borneo and Sumatra, in Asia / The Himalayas  
    **Answer:** Borneo and Sumatra, in Asia. *Why:* Orangutans live only in the forests of Borneo and Sumatra. Gorillas live in Central Africa, and no great ape lives wild in the Himalayas.
 5. (mcq) In which ape's groups do the females often lead?  
    Options: Bonobos / Gorillas / Orangutans  
@@ -530,7 +530,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    Options: The baby holds on to her hair / She ties the baby on with leaves / The baby stays in the nest all day  
    **Answer:** The baby holds on to her hair. *Why:* A chimpanzee baby clings to the hair on the mother's belly, and later rides on her back. So her hands and feet stay free to climb.
 7. (mcq) About how long does a young orangutan stay with her mother?  
-   Options: About 7 or 8 years / About 1 month / About 1 year  
+   Options: About 1 month / About 7 or 8 years / About 1 year  
    **Answer:** About 7 or 8 years. *Why:* A young orangutan stays with her mother for about 7 or 8 years. In that time she learns how to live in the forest.
 8. (mcq) Two chimpanzees have just had a fight. What do they often do next?  
    Options: Hug and groom each other / Never meet again / Build a nest together  
@@ -539,7 +539,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
    Options: Their forests are being cut down / They eat too much fruit / They laugh too loudly  
    **Answer:** Their forests are being cut down. *Why:* Apes need big forests. Forests are cut down for farms, oil palm and wood, and some apes are hunted. That is why they are endangered.
 10. (mcq) A scientist watches wild chimpanzees for years. She sees them poke grass stems into termite mounds to pull termites out, and hug each other after a fight. What does this tell her?  
-   Options: They make and use tools, and have feelings / They only eat leaves / They live alone  
+   Options: They only eat leaves / They make and use tools, and have feelings / They live alone  
    **Answer:** They make and use tools, and have feelings. *Why:* Choosing and using a stem to catch termites is using a tool. Hugging after a fight shows feelings. Chimpanzees eat many foods and live in big groups.
 
 ## Applications

@@ -474,7 +474,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 ## Worksheets
 ### Signals and channels (core, 15 questions)
 1. (mcq) What is a signal?  
-   Options: Something an animal does that carries a message / Any loud noise in a forest / A kind of animal that lives in groups / The food an animal carries home  
+   Options: Any loud noise in a forest / A kind of animal that lives in groups / Something an animal does that carries a message / The food an animal carries home  
    **Answer:** Something an animal does that carries a message. *Why:* A signal carries a message from a sender to a receiver. It can be a smell, a colour, a movement, a sound or a touch. It does not have to be loud.
 2. (mcq) Which body part does a male moth use to pick up a female's pheromone?  
    Options: His antennae / His eyes / His wings / His feet  
@@ -488,7 +488,7 @@ The next morning she went back to the flat rock alone and sat very still. After 
 6. (sort) Sort these signals. Does each one work in the dark, or does it need light?  
    **Answer:** a scent mark on a tree → Works in the dark; a frog's call → Works in the dark; a bat's echolocation → Works in the dark; a peacock's display → Needs light; a lizard's throat fan → Needs light; a butterfly's warning colours → Needs light. *Why:* Smells and sounds do not need light. Colours and displays are picked up by eyes, and eyes need light.
 7. (mcq) In the Smell Mark Test, three plain squares got 5 drops of water. Why?  
-   Options: So all four squares were equally damp / So the vinegar smelled stronger / So the paper would not burn / So the clove would stick  
+   Options: So the vinegar smelled stronger / So the paper would not burn / So all four squares were equally damp / So the clove would stick  
    **Answer:** So all four squares were equally damp. *Why:* A fair test changes only one thing. With water on the plain squares, the only difference between the four squares was the smell of vinegar.
 8. (truefalse) A scent mark can be read after the animal who made it has gone away.  
    **Answer:** True. *Why:* True. The smell stays on the tree or the wall. That is what makes a scent mark different from a call or a wave.
@@ -506,17 +506,17 @@ The next morning she went back to the flat rock alone and sat very still. After 
 14. (draw) Draw a bat's call going out to a moth and the echo coming back. Label the call and the echo.  
    **Answer:** A bat and a moth with one arrow from the bat's mouth to the moth, labelled 'call', and one arrow from the moth back to the bat's ears, labelled 'echo'.. *Why:* A strong drawing shows the sound going both ways. The echo must start at the moth and end at the bat's ears.
 15. (mcq) Which signal could reach an elephant family three kilometres away?  
-   Options: A deep rumble / A touch of the trunk / A flap of the ears / A raised tail  
+   Options: A touch of the trunk / A flap of the ears / A deep rumble / A raised tail  
    **Answer:** A deep rumble. *Why:* Low sounds travel far. Elephant rumbles can reach other elephants several kilometres away. A touch needs contact, and a flap or a raised tail must be seen.
 ### Which channel, and why (stretch, 15 questions)
 1. (mcq) A frog beside a loud stream calls and waves a white foot. Why does he wave?  
-   Options: The stream's noise hides his call / His foot is tired / Waving keeps him cool / Females cannot hear at all  
+   Options: His foot is tired / Waving keeps him cool / The stream's noise hides his call / Females cannot hear at all  
    **Answer:** The stream's noise hides his call. *Why:* Noise blocks the sound channel but not the sight channel. A second signal on another channel gets the message through.
 2. (mcq) An alarm pheromone fades after about a minute. Why is that useful?  
-   Options: The alarm ends soon after the danger ends / It saves the animal from making smells / Hunters cannot smell at all / It makes the nest smell nicer  
+   Options: It saves the animal from making smells / Hunters cannot smell at all / It makes the nest smell nicer / The alarm ends soon after the danger ends  
    **Answer:** The alarm ends soon after the danger ends. *Why:* An alarm that stayed for days would keep the nest fighting an enemy who had gone. A fast-fading smell suits a short message.
 3. (mcq) A child scores 9 out of 10 with 'shhh' and 5 out of 10 in silence. What does this show?  
-   Options: The echo of the 'shhh' was helping / The child was peeking / The plate was too small / Silence is easier  
+   Options: The child was peeking / The plate was too small / The echo of the 'shhh' was helping / Silence is easier  
    **Answer:** The echo of the 'shhh' was helping. *Why:* Guessing gives about 5 out of 10. The score rose well above that only when there was a sound to bounce off the plate.
 4. (mcq) A tiger moth hears a bat's call and dives to the ground. What is the moth doing?  
    Options: Eavesdropping / Echolocating / Grooming / Giving a display  
@@ -546,10 +546,10 @@ The next morning she went back to the flat rock alone and sat very still. After 
    **Answer:** ['Where the clicks are made: the nose passages, just below the blowhole', 'The pad of fat in the forehead: it aims the clicks forward', 'The lower jaw: the echoes come in through it and pass to the ears']. *Why:* A dolphin sends clicks out through her forehead and takes the echoes in through her jaw. Sound goes out by one path and comes back by another.
 ### Testing signals (challenge, 15 questions)
 1. (mcq) A male moth sees a female, but his antennae are covered. He fails to find her. What does this show?  
-   Options: He finds her by smell / He finds her by sight / He finds her by sound / He was not looking for her  
+   Options: He finds her by sight / He finds her by sound / He was not looking for her / He finds her by smell  
    **Answer:** He finds her by smell. *Why:* With his eyes working and his antennae covered, he fails. So the antennae, which pick up smell, are what he needs.
 2. (mcq) Suppose most of a drongo's alarm calls were false. What would probably happen?  
-   Options: Other animals would stop responding / Other animals would respond faster / The drongo would lose their voice / Real hunters would stay away  
+   Options: Other animals would respond faster / Other animals would stop responding / The drongo would lose their voice / Real hunters would stay away  
    **Answer:** Other animals would stop responding. *Why:* A false signal only works while most signals are true. Receivers who are fooled too often learn to ignore the call.
 3. (mcq) A bat hears the echo from thing A sooner than the echo from thing B. What does she learn?  
    Options: A is nearer than B / A is bigger than B / A is louder than B / A is higher than B  
@@ -590,13 +590,13 @@ The next morning she went back to the flat rock alone and sat very still. After 
    Options: Smell, sight, sound and touch / Run, jump, swim and fly / Eyes, ears, nose and tail / Bark, purr, roar and sing  
    **Answer:** Smell, sight, sound and touch. *Why:* A channel is the way a signal travels. Eyes and ears are body parts that receive signals, and barks and purrs are all on one channel, sound.
 2. (mcq) What is a pheromone?  
-   Options: A chemical signal between animals of one kind / A very high sound / A bright warning colour / A kind of echo  
+   Options: A very high sound / A chemical signal between animals of one kind / A bright warning colour / A kind of echo  
    **Answer:** A chemical signal between animals of one kind. *Why:* A pheromone is a chemical that an animal gives off, which changes what others of the same kind do. It travels on the smell channel.
 3. (mcq) Why is a scent mark on a tree useful to a tigress?  
-   Options: It works while she is far away / It makes the tree grow / It keeps the rain off / It can be changed in a second  
+   Options: It makes the tree grow / It works while she is far away / It keeps the rain off / It can be changed in a second  
    **Answer:** It works while she is far away. *Why:* A smell stays on the bark for days. So the mark tells other tigers she lives here, even while she hunts elsewhere. A smell cannot be changed quickly.
 4. (mcq) In the Smell Mark Test, the squares came in a mixed-up order. Why?  
-   Options: So I could not guess from the order / So the smell lasted longer / So the paper dried faster / So the test was shorter  
+   Options: So the smell lasted longer / So the paper dried faster / So I could not guess from the order / So the test was shorter  
    **Answer:** So I could not guess from the order. *Why:* If the marked square always came third, you could answer without smelling. A mixed-up order means only your nose can find the mark.
 5. (mcq) Which of these blocks a display but does not block a call?  
    Options: Darkness / Loud noise / A strong wind / Rain on the leaves  
@@ -608,19 +608,19 @@ The next morning she went back to the flat rock alone and sat very still. After 
    Options: Infrasound / Ultrasound / An echo / A pheromone  
    **Answer:** Infrasound. *Why:* Infrasound is below our hearing, and elephants use it. Ultrasound is above our hearing, and bats use it.
 8. (mcq) Why is a call a good way to raise an alarm?  
-   Options: It is fast and spreads all round / It lasts for days / Hunters cannot hear it / It needs bright light  
+   Options: It lasts for days / It is fast and spreads all round / Hunters cannot hear it / It needs bright light  
    **Answer:** It is fast and spreads all round. *Why:* A call reaches everyone nearby at once, even behind trees and in the dark. It can stop as soon as the danger ends. Hunters can hear it too, which is its cost.
 9. (mcq) Which signal needs the sender and the receiver to touch the same thing?  
-   Options: A pluck on a spider's web / A koel's call / A peacock's display / A moth's pheromone  
+   Options: A koel's call / A peacock's display / A pluck on a spider's web / A moth's pheromone  
    **Answer:** A pluck on a spider's web. *Why:* A vibration travels along the thread, so both spiders must be on the web. Calls, displays and pheromones cross open air.
 10. (mcq) How does a bat know how far away a moth is?  
-   Options: By how soon the echo comes back / By the moth's colour / By the moth's smell / By feeling the wind  
+   Options: By the moth's colour / By how soon the echo comes back / By the moth's smell / By feeling the wind  
    **Answer:** By how soon the echo comes back. *Why:* Sound takes time to travel. The longer the echo takes to return, the further away the moth is.
 11. (mcq) Why does a Ganges river dolphin find fish by echoes and not by sight?  
-   Options: Muddy water blocks light but not sound / Fish are too small to see / Dolphins have no ears / Her eyes are on her back  
+   Options: Fish are too small to see / Dolphins have no ears / Her eyes are on her back / Muddy water blocks light but not sound  
    **Answer:** Muddy water blocks light but not sound. *Why:* Light cannot pass through muddy water, so eyes are little use there. Sound travels well in water, so echoes work.
 12. (mcq) A male frog's call draws a female. It also draws a hunting bat. What is the bat doing?  
-   Options: Eavesdropping / Giving a display / Leaving a scent mark / Grooming  
+   Options: Giving a display / Eavesdropping / Leaving a scent mark / Grooming  
    **Answer:** Eavesdropping. *Why:* The call was meant for female frogs. The bat picks up a signal meant for someone else, which is eavesdropping.
 
 ## Applications

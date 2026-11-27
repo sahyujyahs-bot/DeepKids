@@ -569,7 +569,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 5. (sort) Sort these. Does your brain do it while you notice, or without you noticing?  
    **Answer:** choosing a sweet at a shop → I notice; keeping your heart beating → Without noticing; working out a sum → I notice; breathing while you sleep → Without noticing; remembering a friend's name → I notice; making you shiver in the cold → Without noticing. *Why:* Your brain does many jobs you never notice, like your heartbeat and breathing in sleep. Thinking and remembering are the jobs you notice.
 6. (mcq) In the Story Trick, you count backwards from 20 after hearing each list. Why?  
-   Options: To make the test harder for the story list / To stop you repeating the words in your head, so both lists are tested after the same kind of wait / Because counting helps memory  
+   Options: To stop you repeating the words in your head, so both lists are tested after the same kind of wait / To make the test harder for the story list / Because counting helps memory  
    **Answer:** To stop you repeating the words in your head, so both lists are tested after the same kind of wait. *Why:* Counting backwards keeps your mind busy, so you cannot keep saying the words to yourself. Both lists are then tested after the same kind of wait, which makes the test fair.
 7. (truefalse) Most forgetting happens in the first day after you learn something.  
    **Answer:** True. *Why:* True. Hermann Ebbinghaus found this in 1885, and many later studies agree. After the first day, forgetting slows down. That is why recalling something the next day helps so much.
@@ -617,10 +617,10 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 11. (odd) Which one is the odd one out, and why? Hippocampus, neuron, synapse, kidney.  
    **Answer:** kidney. *Why:* The kidney cleans the blood. The hippocampus, neurons and synapses are all parts of the brain's way of thinking and remembering.
 12. (mcq) A child of eight hears a list of digits once and says them back. About how many digits can most children of that age hold?  
-   Options: About 2 / About 5 / About 20  
+   Options: About 2 / About 20 / About 5  
    **Answer:** About 5. *Why:* Most children of 8 can hold about 5 digits heard once, and most grown-ups about 7. That is why longer numbers are easier in groups.
 13. (mcq) Why do doctors ask a person who has had a stroke to keep practising a movement?  
-   Options: Practice can build new links around the damaged part / The muscle needs to get tired / Practice makes the brain heavier  
+   Options: The muscle needs to get tired / Practice can build new links around the damaged part / Practice makes the brain heavier  
    **Answer:** Practice can build new links around the damaged part. *Why:* After a stroke, part of the brain is damaged. Practice strengthens other links and builds new ones, so the brain can find a new way to do the movement.
 14. (write) You must learn the names of eight rivers of India for a quiz next week. Plan how you would use a story, groups or a memory walk, and on which days you would test yourself.  
    **Answer:** For example: 'I would group them by region, make a silly story for each group, and test myself without looking on day 2, day 4 and the day before the quiz.'. *Why:* A strong answer names a trick and says why it helps, and spreads testing over different days.
@@ -634,12 +634,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 3. (write) A child says, 'I am a picture learner. I can only learn from pictures.' How could you test whether this is true?  
    **Answer:** Give the child ten words to learn by hearing them, and ten different but similar words to learn from pictures. Test both the next day. Then do the same with other children. If almost everyone does better with pictures, the pictures help everyone, not only 'picture learners'.. *Why:* When scientists tested this, people did not learn more in their own favourite style. Pictures help most people. A strong answer compares both ways for this child and for others.
 4. (mcq) Scientists found that London taxi drivers had a bigger back part of the hippocampus. Then they scanned trainee drivers before they started learning the streets. Why?  
-   Options: To check whether people with a big hippocampus simply chose to become drivers / To find the best drivers / Because scans are cheaper for trainees  
+   Options: To find the best drivers / Because scans are cheaper for trainees / To check whether people with a big hippocampus simply chose to become drivers  
    **Answer:** To check whether people with a big hippocampus simply chose to become drivers. *Why:* If drivers were born with a bigger hippocampus, learning would not explain it. The trainees' brains matched other people's at the start. Only those who learned the streets and passed showed the growth. So the learning caused the change.
 5. (truefalse) Each time you recall a memory, your brain builds it again, so a memory can change over time.  
    **Answer:** True. *Why:* True. Memories are rebuilt each time we recall them. That is why two people can remember the same day differently, and why a memory is not an exact recording.
 6. (mcq) A student says, 'I read my notes ten times, so I will remember them for the test.' What is the best advice for the student?  
-   Options: Read them ten more times / Close the notes and test yourself, on a few different days / Copy the notes out neatly  
+   Options: Close the notes and test yourself, on a few different days / Read them ten more times / Copy the notes out neatly  
    **Answer:** Close the notes and test yourself, on a few different days. *Why:* Reading again and again feels easy, but it adds few links. Trying to bring the notes back without looking, on different days, makes the memory much stronger. Copying neatly helps a little, but less.
 7. (fill) When the same synapse is used again and again, the message crosses it more ____.  
    **Answer:** ['easily']. *Why:* A synapse that is used often gets stronger, so the message passes more easily. This is how practice changes the brain.
@@ -651,15 +651,15 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    Options: Use a stopwatch to read both rounds at one letter each second / Do only the word round again / Ask the child which was easier  
    **Answer:** Use a stopwatch to read both rounds at one letter each second. *Why:* If both rounds are read at the same speed, speed cannot explain the difference. Only the order of the letters should change. Asking the child tells us what they felt, not what caused it.
 11. (mcq) A Carnatic music teacher in Chennai makes new students sing the same simple exercises every day for months before they learn songs. Why?  
-   Options: So the patterns become strong enough to sing without thinking / Because songs are too loud / Because the teacher has forgotten the songs  
+   Options: Because songs are too loud / So the patterns become strong enough to sing without thinking / Because the teacher has forgotten the songs  
    **Answer:** So the patterns become strong enough to sing without thinking. *Why:* Daily practice strengthens the links for the notes and patterns, until they come without effort. Then the student's attention is free for the song itself.
 12. (odd) Which one is the odd one out, and why? Making a story, grouping, a memory walk, reading the same page ten times.  
    **Answer:** reading the same page ten times. *Why:* Making a story, grouping and a memory walk all give new things links to each other or to things you know. Reading the same page again adds very few new links.
 13. (mcq) Mary Calkins found that colours shown three times were remembered better than colours shown once. What is the best explanation?  
-   Options: Each time you meet a pair, the link between them gets stronger / Colours shown three times are brighter / The numbers with them were easier  
+   Options: Colours shown three times are brighter / The numbers with them were easier / Each time you meet a pair, the link between them gets stronger  
    **Answer:** Each time you meet a pair, the link between them gets stronger. *Why:* Seeing a pair again and again strengthens the link between the colour and the number. The colours and numbers were the same kind for every pair, so brightness or easy numbers do not explain it.
 14. (mcq) A slime mould finds the shortest way through a maze to food, using one cell and chemical signals, not neurons. What does this suggest?  
-   Options: Finding a way and leaving a trail does not need neurons / Slime moulds secretly have brains / Mazes are easy for every living being  
+   Options: Slime moulds secretly have brains / Mazes are easy for every living being / Finding a way and leaving a trail does not need neurons  
    **Answer:** Finding a way and leaving a trail does not need neurons. *Why:* Scientists have seen slime moulds, which are single cells, find short ways through mazes. This suggests that a brain is not needed for every kind of finding the way. Whether to call this memory is still argued about.
 15. (truefalse) If two people remember the same festival differently, one of them must be lying.  
    **Answer:** False. *Why:* False. Memories are built again each time we recall them, so two honest people can remember the same day differently.
@@ -671,16 +671,16 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 
 ## Quiz
 1. (mcq) Which of these is a job of your brain?  
-   Options: Pumping blood / Remembering your friend's name / Breaking down food  
+   Options: Pumping blood / Breaking down food / Remembering your friend's name  
    **Answer:** Remembering your friend's name. *Why:* Remembering is a brain job. The heart pumps blood, and the stomach and gut break down food, though the brain helps control them.
 2. (mcq) How do neurons pass messages to each other?  
-   Options: They touch and swap places / A message crosses a tiny gap called a synapse / They send light to each other  
+   Options: They touch and swap places / They send light to each other / A message crosses a tiny gap called a synapse  
    **Answer:** A message crosses a tiny gap called a synapse. *Why:* A message runs along a neuron as an electrical signal, then crosses the synapse as a chemical. Neurons do not swap places or send light.
 3. (mcq) Knowing how to swim is which kind of memory?  
    Options: A skill memory / A fact / Short-term memory  
    **Answer:** A skill memory. *Why:* Swimming is a skill memory: your body knows how to do it without thinking of the steps. It lasts a long time, so it is not short-term.
 4. (mcq) Why does a skill get easier with practice?  
-   Options: The links between the neurons you use get stronger / Your hands grow new fingers / Your brain gets heavier every day  
+   Options: Your hands grow new fingers / Your brain gets heavier every day / The links between the neurons you use get stronger  
    **Answer:** The links between the neurons you use get stronger. *Why:* Each time you practise, the links between the neurons you use get stronger, so the signal passes more easily. Your brain does not get noticeably heavier.
 5. (mcq) In the Story Trick, you learn list A by repeating it and list B by making a story. To make the test fair, what must be the same?  
    Options: The number and kind of words, and the time for each word / The words themselves / The story  
@@ -695,13 +695,13 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
    Options: Yes, the rest is spare / No, every part of the brain is used / Yes, but only children  
    **Answer:** No, every part of the brain is used. *Why:* Brain scans show every part of the brain working over a day. The 10% idea is a myth.
 9. (mcq) Grown-ups who spent years learning every street of a big city had their brains scanned before and after. A part used for finding the way grew bigger. What does this show?  
-   Options: Grown-up brains can change when they learn / Only children's brains change / Driving makes the brain smaller  
+   Options: Only children's brains change / Driving makes the brain smaller / Grown-up brains can change when they learn  
    **Answer:** Grown-up brains can change when they learn. *Why:* Their brains matched other people's before they started. After years of learning, the part for finding the way had grown. So grown-up brains change with learning.
 10. (mcq) A touch-me-not plant was dropped gently many times and stopped folding their leaves. What had happened?  
    Options: The plant had learned that the drop was harmless / The plant had died / The leaves had fallen off  
    **Answer:** The plant had learned that the drop was harmless. *Why:* The plants learned the drop was harmless and kept that memory for weeks. They still folded when shaken in a new way, so they were not dead or worn out.
 11. (mcq) Which of these beings can learn and remember?  
-   Options: Only people / Only animals with big brains / People, bees, dogs and plants  
+   Options: Only people / People, bees, dogs and plants / Only animals with big brains  
    **Answer:** People, bees, dogs and plants. *Why:* People, bees, dogs and even touch-me-not plants learn from what happened before. Each does it in their own way.
 
 ## Applications

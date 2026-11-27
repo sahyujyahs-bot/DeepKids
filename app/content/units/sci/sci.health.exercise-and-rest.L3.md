@@ -544,16 +544,16 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    Options: When it works hard without any rest / When it works a little and then rests / When it is asleep  
    **Answer:** When it works hard without any rest. *Why:* Working hard without rest uses up the muscle's quick fuel faster than blood can help refill it.
 2. (mcq) Which word means a muscle getting shorter and pulling?  
-   Options: Relax / Contract / Stretch  
+   Options: Contract / Relax / Stretch  
    **Answer:** Contract. *Why:* A muscle contracts to pull. When it stops pulling and goes soft, it relaxes.
 3. (mcq) Why do you breathe faster when you run?  
    Options: To take in more oxygen for your working muscles / To cool your teeth / To make your voice louder  
    **Answer:** To take in more oxygen for your working muscles. *Why:* Working muscles need more oxygen, so you breathe faster, and your heart pumps faster to carry it to them.
 4. (mcq) Which of these is a flexibility exercise?  
-   Options: Cobra pose / Running up the stairs / Carrying a bag of rice  
+   Options: Running up the stairs / Cobra pose / Carrying a bag of rice  
    **Answer:** Cobra pose. *Why:* Cobra pose bends the back gently and stretches the front of the body. Running builds stamina, and carrying builds strength.
 5. (mcq) Which helps a child sleep well?  
-   Options: A dark, quiet, cool room / A bright phone screen in bed / A big, sugary drink at bedtime  
+   Options: A bright phone screen in bed / A big, sugary drink at bedtime / A dark, quiet, cool room  
    **Answer:** A dark, quiet, cool room. *Why:* Darkness, quiet and coolness help the body feel sleepy. Bright screens delay the body's sleep signal.
 6. (truefalse) The brain switches off completely while you sleep.  
    **Answer:** False. *Why:* False. The brain stays busy, especially in dreaming sleep, when it is nearly as active as when you are awake.
@@ -579,7 +579,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** ['Sit tall and put a hand on your belly', 'Breathe in slowly through your nose', 'Feel your belly push your hand out', 'Breathe out slowly']. *Why:* First sit tall, then breathe in slowly so the belly rises, then breathe out slowly.
 ### Blood, Breath and Balance (stretch) (stretch, 16 questions)
 1. (mcq) You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?  
-   Options: Arm up / Arm down / Both exactly the same  
+   Options: Arm down / Both exactly the same / Arm up  
    **Answer:** Arm up. *Why:* With the arm up, blood has to be pumped uphill, so less reaches the hand. Less oxygen arrives to help the muscle refill.
 2. (mcq) In the arm up, arm down test, why do the arm-down round first?  
    Options: So that if the arm-up count is still lower, it cannot be because of extra practice / Because arms are stronger in the morning / It does not matter at all  
@@ -617,16 +617,16 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** She can walk slowly or do gentle yoga, and play chess or carrom to keep her mind busy. Being active helps the body and the mind.. *Why:* A strong answer says exercise is not only running, and gives one way for the body and one way for the mind.
 ### The Busy Rest (challenge) (challenge, 16 questions)
 1. (mcq) A cricket fast bowler bowls six balls in an over, then fields for a few minutes before the next over. Why does the rest between overs help?  
-   Options: It gives the blood time to help refill the leg and arm muscles / It lets the ball cool down / It has nothing to do with the bowler's muscles  
+   Options: It lets the ball cool down / It gives the blood time to help refill the leg and arm muscles / It has nothing to do with the bowler's muscles  
    **Answer:** It gives the blood time to help refill the leg and arm muscles. *Why:* Short rests let working muscles refill their quick fuel and clear waste, so the next over can be fast again.
 2. (mcq) On the space station, astronauts strap themselves to a treadmill with belts. Why?  
-   Options: So their bones get jolts and carry weight, as they do on Earth / So they do not float into the walls while sleeping / So the treadmill does not break  
+   Options: So they do not float into the walls while sleeping / So the treadmill does not break / So their bones get jolts and carry weight, as they do on Earth  
    **Answer:** So their bones get jolts and carry weight, as they do on Earth. *Why:* Bones get stronger when they carry weight and get jolted. In space nothing presses down, so belts pull the astronaut onto the treadmill.
 3. (mcq) Why can a tired runner often sprint the last 100 metres of a race?  
    Options: The muscles still had some fuel left, and the brain lets more be used near the finish / The track is shorter at the end / Running is easier when tired  
    **Answer:** The muscles still had some fuel left, and the brain lets more be used near the finish. *Why:* This is one reason some scientists think the brain holds back some strength to keep the body safe, and lets more out near the finish.
 4. (mcq) Dolphins must swim up to breathe, even at night. How do dolphins sleep?  
-   Options: With one half of the brain at a time / They never sleep / Only on the beach  
+   Options: They never sleep / Only on the beach / With one half of the brain at a time  
    **Answer:** With one half of the brain at a time. *Why:* Dolphins rest one half of the brain while the other half stays awake enough to swim and breathe.
 5. (truefalse) Sleeping late on Sunday fully makes up for a whole week of going to bed too late.  
    **Answer:** False. *Why:* False. A long sleep helps, but studies find it does not undo all the effects of a week of short nights. A steady bedtime works better.
@@ -661,46 +661,46 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 
 ## Quiz
 1. (mcq) You squeeze a clothes peg for five rounds of 30 seconds with no break. What usually happens to your count?  
-   Options: It goes up each round / It goes down each round / It stays exactly the same  
+   Options: It goes up each round / It stays exactly the same / It goes down each round  
    **Answer:** It goes down each round. *Why:* With no break, your finger muscles use up their quick fuel faster than your blood can help refill it, so each round you manage fewer squeezes. Picking 'goes up' means thinking practice wins over tiredness in a few minutes.
 2. (mcq) You squeeze a clothes peg for five rounds with no break. Then you rest your hand for two minutes. What happens to your next count?  
-   Options: It goes up again / It falls even lower / You cannot squeeze at all  
+   Options: It falls even lower / It goes up again / You cannot squeeze at all  
    **Answer:** It goes up again. *Why:* During the rest, blood brings oxygen and the muscle refills much of its fuel. Picking 'falls even lower' means thinking rest does nothing.
 3. (mcq) What does blood bring to a working muscle?  
-   Options: Oxygen and food / Only water / Electricity  
+   Options: Only water / Oxygen and food / Electricity  
    **Answer:** Oxygen and food. *Why:* Blood carries oxygen from the lungs and food from the gut. The muscle uses them to refill its fuel. Blood also carries waste away.
 4. (mcq) Why is it a fair test to use the same peg and the same hand in every round?  
    Options: So the only thing that changes is whether you rested / So the test is quicker / Because pegs are expensive  
    **Answer:** So the only thing that changes is whether you rested. *Why:* In a fair test you change only one thing. If you used a softer peg in one round, you would not know whether the peg or the rest changed the count.
 5. (mcq) Which of these is mainly a stamina exercise?  
-   Options: Skipping for five minutes / Touching your toes / Carrying one heavy bucket once  
+   Options: Touching your toes / Carrying one heavy bucket once / Skipping for five minutes  
    **Answer:** Skipping for five minutes. *Why:* Stamina means keeping going for a long time, which works the heart and lungs. Touching the toes is a stretch. Carrying a heavy bucket is mostly strength.
 6. (mcq) What is a yoga pose called?  
-   Options: An asana / A raga / A kolam  
+   Options: A raga / A kolam / An asana  
    **Answer:** An asana. *Why:* Asana is the Sanskrit word for a yoga pose. A raga is a pattern of notes in music. A kolam is a pattern drawn on the floor.
 7. (mcq) Which yoga practice is about breathing slowly in a set way?  
    Options: Pranayama / Tree pose / Child's pose  
    **Answer:** Pranayama. *Why:* Pranayama is the breathing part of yoga. Tree pose and child's pose are poses, called asanas.
 8. (mcq) How many hours of sleep does a child of 8 need each night?  
-   Options: About 6 / About 9 to 12 / About 15  
+   Options: About 9 to 12 / About 6 / About 15  
    **Answer:** About 9 to 12. *Why:* Children aged 6 to 12 need about 9 to 12 hours. Six hours is too little for a child. Fifteen hours is closer to what a baby sleeps.
 9. (mcq) What does the brain do during dreaming sleep?  
-   Options: It switches off completely / It is nearly as busy as when you are awake / It only controls breathing  
+   Options: It switches off completely / It only controls breathing / It is nearly as busy as when you are awake  
    **Answer:** It is nearly as busy as when you are awake. *Why:* Recordings of the brain's signals show it is very active in dreaming sleep. For a long time people thought the brain switched off at night. That was shown wrong in 1953.
 10. (mcq) A scientist watches people sleep. Several times a night, their eyes dart about under closed eyelids. People woken at those times usually say they were dreaming. What does this suggest?  
    Options: Sleep has different stages, and dreaming happens in one with fast eye movements / Their hearts stop for a while / They are growing taller  
    **Answer:** Sleep has different stages, and dreaming happens in one with fast eye movements. *Why:* The eye movements come and go in a pattern through the night, and they match dreaming. So sleep is not all the same: dreaming sleep, or REM sleep, is one stage of it.
 11. (mcq) Why are most people a little taller in the morning than at bedtime?  
-   Options: The discs in their backbone fill up with water while they lie down / They grow 1 centimetre every night / Their hair stands up  
+   Options: They grow 1 centimetre every night / The discs in their backbone fill up with water while they lie down / Their hair stands up  
    **Answer:** The discs in their backbone fill up with water while they lie down. *Why:* Standing and sitting squeeze water out of the soft discs between the bones of the backbone. Lying down lets them soak it back. Children grow only about 5 or 6 centimetres in a whole year.
 12. (mcq) You have a test tomorrow. Which plan will help your body and brain most?  
-   Options: Study late until midnight, then wake up at 6 / Study, play outside, and go to bed on time for 10 hours of sleep / Skip dinner and study all evening  
+   Options: Study, play outside, and go to bed on time for 10 hours of sleep / Study late until midnight, then wake up at 6 / Skip dinner and study all evening  
    **Answer:** Study, play outside, and go to bed on time for 10 hours of sleep. *Why:* Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.
 13. (mcq) You feel nervous before a race, and your heart is beating fast. What can a few slow, deep breaths do?  
-   Options: Usually help your body calm down and slow the heartbeat a little / Make your muscles bigger straight away / Take the place of a night's sleep  
+   Options: Make your muscles bigger straight away / Take the place of a night's sleep / Usually help your body calm down and slow the heartbeat a little  
    **Answer:** Usually help your body calm down and slow the heartbeat a little. *Why:* Slow deep breathing usually helps the body settle and feel calmer. It does not build muscle in a minute, and nothing replaces sleep.
 14. (mcq) Meera slouches over her desk. How can yoga help her?  
-   Options: Poses like cobra make her back and shoulder muscles stronger, so she can sit tall / Yoga makes her backbone longer / Yoga means she never has to sit at a desk  
+   Options: Yoga makes her backbone longer / Poses like cobra make her back and shoulder muscles stronger, so she can sit tall / Yoga means she never has to sit at a desk  
    **Answer:** Poses like cobra make her back and shoulder muscles stronger, so she can sit tall. *Why:* Posture is how you hold your body. Stronger back and shoulder muscles make a tall seat easier. Yoga does not stretch the bones or remove the desk.
 15. (mcq) Dadaji's knees ache, so he cannot run. What can he still do to stay active in body and mind?  
    Options: Walk slowly in the park and play chess with a friend / Stay in bed all day until the pain is gone / Nothing, because only running counts as exercise  

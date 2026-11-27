@@ -595,7 +595,7 @@ Karthik laughed. This time Meera did too.
 ## Worksheets
 ### Water, Oil and Fizz (core) (core, 16 questions)
 1. (mcq) Which of these dissolves much better in oil than in water?  
-   Options: The yellow colour of turmeric / Salt / Sugar / Food colour for cakes  
+   Options: Salt / Sugar / The yellow colour of turmeric / Food colour for cakes  
    **Answer:** The yellow colour of turmeric. *Why:* Turmeric colour is oily, so it dissolves in oil. Salt and sugar dissolve in water. Food colour for cakes is made to dissolve in water.
 2. (sort) Sort these. Does each one dissolve mostly in water or mostly in oil?  
    **Answer:** salt → Water; camphor → Oil; sugar → Water; the heat of chilli → Oil; honey → Water; ghee → Oil. *Why:* Charged and sticky things such as salt, sugar and honey dissolve in water. Oily things such as camphor, chilli heat and ghee dissolve in oil.
@@ -609,7 +609,7 @@ Karthik laughed. This time Meera did too.
 6. (match) Match each word to what it means.  
    **Answer:** Solute → the thing that dissolves; Solvent → the liquid that does the dissolving; Concentration → how much is dissolved in a certain amount of liquid; Dilute → add more liquid so the solution is weaker. *Why:* These four words describe every solution, whether it is salt in water or turmeric in oil.
 7. (mcq) A glass of liquid is cloudy, a torch beam shows up inside it, and nothing settles at the bottom after an hour. What is it most likely to be?  
-   Options: Milk in water, a colloid / Salt water, a solution / Muddy water, a suspension  
+   Options: Salt water, a solution / Muddy water, a suspension / Milk in water, a colloid  
    **Answer:** Milk in water, a colloid. *Why:* A solution is clear. A suspension settles. A cloudy liquid that shows the beam and does not settle is a colloid, like milk.
 8. (write) A grown-up bites a hot chilli. Why does a spoon of curd soothe the burn better than a sip of water?  
    **Answer:** The hot part of a chilli dissolves in fat and hardly in water. Curd has fat, so the hot chemical dissolves into it and is carried away. Water just spreads it around.. *Why:* A strong answer says that the hot chemical is fat-soluble, and that curd has fat while water does not take it up.
@@ -638,7 +638,7 @@ Karthik laughed. This time Meera did too.
 2. (write) On a hot afternoon, fish in a small still pond swim to the top and open their mouths. Use what you know about gases to explain why.  
    **Answer:** Fish take in oxygen that is dissolved in the water. Warm water holds less dissolved gas than cool water, so there is less oxygen for the fish. They come to the surface where the water meets the air.. *Why:* A strong answer says that oxygen dissolves in water, that warm water holds less, and that the surface gets more oxygen from the air.
 3. (mcq) A TDS meter reads about 20 in a glass of water with a teaspoon of sugar stirred in, and about 20 in plain filtered water. What is the best explanation?  
-   Options: The meter reads charged particles, and sugar makes none / The sugar did not dissolve / Sugar water is the same as salt water  
+   Options: The sugar did not dissolve / The meter reads charged particles, and sugar makes none / Sugar water is the same as salt water  
    **Answer:** The meter reads charged particles, and sugar makes none. *Why:* A TDS meter senses electricity carried by charged particles. Sugar dissolves into whole molecules with no charge, so the meter does not notice it. Sugar did dissolve, and it is very different from salt.
 4. (count) Sea water holds about 35 grams of salt in every litre. About how many grams of salt are in 2 litres?  
    **Answer:** 70. *Why:* Each litre holds 35 grams. 2 litres hold 35 + 35, which is 70 grams.
@@ -663,27 +663,27 @@ Karthik laughed. This time Meera did too.
 13. (draw) Draw a drop of food colour falling into a still glass of water. Draw it at the start, after one minute, and after ten minutes.  
    **Answer:** A dark drop at the top at the start, a spreading cloud of colour after one minute, and an even pale colour through the whole glass after ten minutes.. *Why:* A good drawing shows the colour spreading out until it is even, without anyone stirring, because the dissolved particles keep moving.
 14. (mcq) Rainwater slowly dissolves limestone and makes caves. Why does it take so long?  
-   Options: Limestone dissolves only a very little each time, so it takes a very long time to remove a lot / Rainwater cannot dissolve rock / Caves are dug by animals  
+   Options: Rainwater cannot dissolve rock / Caves are dug by animals / Limestone dissolves only a very little each time, so it takes a very long time to remove a lot  
    **Answer:** Limestone dissolves only a very little each time, so it takes a very long time to remove a lot. *Why:* Limestone dissolves very slowly. Each drop of rainwater takes away only a tiny amount, but over hundreds of thousands of years the amount adds up to a cave.
 15. (truefalse) Something that does not dissolve in water cannot dissolve in oil either.  
    **Answer:** False. *Why:* False. Turmeric colour, chilli heat and camphor hardly dissolve in water, but they dissolve in oil. Each liquid takes different things.
 16. (fill) A water molecule has slightly charged ____, which let it hold on to salt.  
    **Answer:** ['ends']. *Why:* One end of a water molecule is slightly negative and the other end is slightly positive. These ends grip the charged particles in salt.
 17. (mcq) Which soda will lose its fizz fastest after being opened?  
-   Options: A warm soda that is stirred / A cold soda left still / A cold soda in a closed bottle  
+   Options: A cold soda left still / A cold soda in a closed bottle / A warm soda that is stirred  
    **Answer:** A warm soda that is stirred. *Why:* Warmth makes the water hold less gas, and stirring gives the gas many places to escape. A cold soda left still loses gas slowly, and a closed bottle keeps the pressure in.
 ### Thinking Like a Chemist (challenge) (challenge, 16 questions)
 1. (write) Plan a test to find out whether warmth changes how much gas a soda gives off. Name what you will keep the same, what you will change, and how you will measure the gas.  
    **Answer:** Use two bottles of the same soda, one cold and one warm. Open both the same way, put a balloon of the same kind on each, swirl them the same, and measure the balloons after the same time. Only the warmth changes. The size of the balloon shows how much gas came out.. *Why:* A strong plan keeps the drink, bottle, balloon, opening and swirling the same, changes only the warmth and measures the gas with the balloon.
 2. (mcq) William Henry found that the mass of gas that dissolves in a liquid is in proportion to the pressure. If the pressure on a sealed soda is doubled, about how much more gas will dissolve?  
-   Options: About twice as much / About the same / About half as much  
+   Options: About the same / About half as much / About twice as much  
    **Answer:** About twice as much. *Why:* In proportion means that doubling the pressure doubles the gas that dissolves. That is why a sealed bottle holds so much more gas than an open glass.
 3. (count) A salt pan dries up 200 litres of sea water that held 35 grams of salt in every litre. How many grams of salt are left behind?  
    **Answer:** 7000. *Why:* Each litre leaves 35 grams. 200 times 35 is 7000 grams, which is 7 kilograms.
 4. (perspective) On a mountain road in the Himalayas, ice forms on the road in winter. Three people say what to do.  
    **Answer:** A strong answer says that salt lowers the freezing point so ice melts, but it only works down to about minus 10 or minus 20 degrees, and in colder weather it cannot help. It weighs this against the harm to streams. Sand gives grip without chemicals. A fair answer picks one idea, gives a reason, and says one good point about another idea.. *Why:* Each idea has a cost. Salt melts ice but stops working in deep cold and can harm nature. Sand gives grip but does not remove the ice.
 5. (mcq) Why do kulfi sellers pack ice and salt around the kulfi pot?  
-   Options: Salty ice is colder than plain ice, so it can freeze the kulfi / Salt makes the kulfi sweet / Salt makes the ice last longer  
+   Options: Salt makes the kulfi sweet / Salty ice is colder than plain ice, so it can freeze the kulfi / Salt makes the ice last longer  
    **Answer:** Salty ice is colder than plain ice, so it can freeze the kulfi. *Why:* Plain ice cannot freeze sweet milk, because melting ice stays at zero degrees. Salty ice can fall to about minus 20 degrees, which freezes the kulfi.
 6. (write) Explain why oil does not dissolve in water. Use the idea of the water molecule's slightly charged ends.  
    **Answer:** Water molecules have slightly charged ends, which let them hold on to each other and to charged or sticky things. Oil molecules have no such ends, so water holds on to other water instead and pushes the oil out. The oil joins into drops and floats.. *Why:* A strong answer says water holds on to its own kind and to charged or sticky things, and has nothing to grip on oil.
@@ -701,7 +701,7 @@ Karthik laughed. This time Meera did too.
 12. (sort) Sort these mixtures into the three kinds.  
    **Answer:** sugar syrup that is clear → Solution; muddy water → Suspension; milk → Colloid; morning fog → Colloid; rasam strained clear → Solution; atta stirred in water → Suspension. *Why:* A solution is clear and never settles. A suspension settles. A colloid has tiny bits that never settle and scatter light, like milk and fog.
 13. (mcq) A bottle of soda is opened, closed again, and left in a cold fridge for a day. It is now almost flat even though it is cold. Why?  
-   Options: When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back / Cold water cannot hold gas / The fridge removes gas  
+   Options: Cold water cannot hold gas / The fridge removes gas / When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back  
    **Answer:** When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back. *Why:* Opening the bottle let the pressure drop, so most of the dissolved gas left as bubbles. Closing it again does not push the gas back into the water. Cold water holds gas well, but there was little gas left.
 14. (label) Label the Kulfi in a Bag set-up: the small bag of milk, the big bag, the ice, the salt and the towel.  
    **Answer:** The small bag of milk in the middle. The big bag around it. The ice packed around the small bag. The salt sprinkled in the ice. The towel wrapped around the outside.. *Why:* The milk sits in the coldest part, surrounded by salty ice, and the towel protects the hands.
@@ -717,37 +717,37 @@ Karthik laughed. This time Meera did too.
 
 ## Quiz
 1. (mcq) Which of these dissolves in oil but hardly in water?  
-   Options: The orange colour of carrots / Sugar / Salt / Lemon juice  
+   Options: Sugar / The orange colour of carrots / Salt / Lemon juice  
    **Answer:** The orange colour of carrots. *Why:* The orange colour of carrots is carotene, which dissolves in fat. Sugar, salt and lemon juice all dissolve in water.
 2. (mcq) A turmeric stain on a plastic box does not come off with plain water. What is likely to lift it?  
-   Options: Oil, followed by soap / More cold water / Salt water  
+   Options: More cold water / Salt water / Oil, followed by soap  
    **Answer:** Oil, followed by soap. *Why:* Turmeric colour dissolves in oil, so oil takes it up and soap rinses the oil away. Cold water and salt water cannot take the colour.
 3. (mcq) After eating a hot chilli, which helps most?  
-   Options: A spoon of curd, because the hot chemical dissolves in fat / A big glass of water, because water washes it away / A pinch of salt  
+   Options: A big glass of water, because water washes it away / A spoon of curd, because the hot chemical dissolves in fat / A pinch of salt  
    **Answer:** A spoon of curd, because the hot chemical dissolves in fat. *Why:* The hot chemical in chilli dissolves in fat and hardly in water. Curd has fat, so it takes the chemical up. Water only spreads it around.
 4. (mcq) Why does a warm soda go flat faster than a cold soda?  
-   Options: Warm water holds less dissolved gas / Warm water is heavier / The bubbles in warm soda are bigger  
+   Options: Warm water is heavier / The bubbles in warm soda are bigger / Warm water holds less dissolved gas  
    **Answer:** Warm water holds less dissolved gas. *Why:* The warmer the water, the less gas it can hold, so the gas leaves sooner. The size of the bubbles is not the reason.
 5. (mcq) A sealed bottle of soda has no bubbles. What keeps the gas dissolved?  
-   Options: The high pressure inside the bottle / The cold glass / The label  
+   Options: The cold glass / The high pressure inside the bottle / The label  
    **Answer:** The high pressure inside the bottle. *Why:* High pressure squeezes the gas into the water. When the pressure drops at opening, the gas comes out as bubbles.
 6. (mcq) You shine a torch through a glass of liquid from the side and see a bright beam inside. After an hour nothing has settled. What kind of mixture is it?  
-   Options: A colloid / A solution / A suspension  
+   Options: A solution / A suspension / A colloid  
    **Answer:** A colloid. *Why:* A beam shows when floating bits scatter light, so it is not a solution. Nothing settled, so it is not a suspension. It is a colloid.
 7. (mcq) Salt is sprinkled on ice. What happens to the temperature of the mixture?  
    Options: It falls below zero degrees / It stays at zero degrees / It rises above zero degrees  
    **Answer:** It falls below zero degrees. *Why:* Dissolved salt lowers the freezing point, so the ice keeps melting below zero degrees, and melting takes heat from the mixture. It gets colder.
 8. (mcq) Why does salt help to freeze kulfi?  
-   Options: Salty ice is colder than plain ice / Salt is cold / Salt turns milk into ice  
+   Options: Salt is cold / Salty ice is colder than plain ice / Salt turns milk into ice  
    **Answer:** Salty ice is colder than plain ice. *Why:* Plain melting ice stays at zero, which is not cold enough. Salty ice falls much lower, enough to freeze sweet milk.
 9. (mcq) Why are caves found in limestone hills?  
    Options: Rainwater slowly dissolves the limestone over a very long time / Animals dig them / The rock melts in the Sun  
    **Answer:** Rainwater slowly dissolves the limestone over a very long time. *Why:* Rainwater carries a little carbon dioxide and slowly dissolves limestone. Over hundreds of thousands of years the rock is carved into caves.
 10. (mcq) What does the word insoluble really mean, if almost nothing is completely insoluble?  
-   Options: It dissolves so little that we do not notice / It never dissolves at all / It dissolves in oil only  
+   Options: It never dissolves at all / It dissolves in oil only / It dissolves so little that we do not notice  
    **Answer:** It dissolves so little that we do not notice. *Why:* Everything dissolves a very little. Insoluble means that so little dissolves that we cannot see it in a short time.
 11. (mcq) People once thought air was a single thing. What did Joseph Black find when he heated chalky stones?  
-   Options: They gave off a gas that was not ordinary air / They turned into water / They became lighter because they dried  
+   Options: They turned into water / They gave off a gas that was not ordinary air / They became lighter because they dried  
    **Answer:** They gave off a gas that was not ordinary air. *Why:* The stones lost weight because a gas escaped. This gas was different from ordinary air. It is carbon dioxide, which Priestley later dissolved in water.
 12. (mcq) Fish in a warm, still pond swim to the surface. What is the best explanation?  
    Options: Warm water holds less dissolved oxygen / Fish like warm air / The water is too deep  

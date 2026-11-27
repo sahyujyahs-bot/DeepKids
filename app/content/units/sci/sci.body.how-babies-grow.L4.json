@@ -796,11 +796,11 @@
       "t": "mcq",
       "q": "Why do we cut both strips from the same paper towel and make them the same size?",
       "options": [
-       "So the only difference is which end touches the dye",
        "So the strips look the same",
-       "So the dye runs faster"
+       "So the dye runs faster",
+       "So the only difference is which end touches the dye"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the strips were different, a difference in the pattern could come from the paper, and not from the dye. We change one thing only, which end gets the dye."
      },
      "context": "In this step, you prepare the strips and the dye. Both strips must be the same."
@@ -826,11 +826,11 @@
       "t": "mcq",
       "q": "The dye is darkest near the katori and faint at the far end of the strip. What does this show?",
       "options": [
-       "The amount of dye falls as you move away from where it went in",
        "The paper is darker at one end",
-       "The dye is stuck at the start"
+       "The dye is stuck at the start",
+       "The amount of dye falls as you move away from where it went in"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The colour changes smoothly from dark to pale along the strip. The amount of dye falls with distance from the source. That is what a gradient is."
      },
      "context": "In this step, you start the signal and watch it spread. You stop it before it reaches the far end."
@@ -1072,11 +1072,11 @@
       "t": "mcq",
       "q": "In an embryo, what makes the gaps between the fingers?",
       "options": [
-       "Cells between the fingers die when they get a signal",
        "Fingers grow out and stick on to the palm",
+       "Cells between the fingers die when they get a signal",
        "The hand is cut by the womb"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The hand begins as a flat paddle. A signal tells the cells between the finger lines to die, and that leaves the fingers. Nothing is stuck on and nothing cuts."
      },
      "context": "In this step, you make one hand by taking dough away, and one hand by adding fingers."
@@ -1471,11 +1471,11 @@
      "t": "mcq",
      "p": "Which statement about the cells in your body is true?",
      "opts": [
-      "Nearly all of them hold the same DNA, but each kind uses different genes",
       "Each kind of cell holds different DNA",
-      "Only brain cells hold DNA"
+      "Only brain cells hold DNA",
+      "Nearly all of them hold the same DNA, but each kind uses different genes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "You began as one cell, and a full copy of the DNA was passed on to every new cell. A skin cell and a nerve cell hold the same genes but switch on different ones. Picking 'different DNA' means thinking that the cells lost genes as they changed.",
      "outcome": 0
     },
@@ -1526,11 +1526,11 @@
      "t": "mcq",
      "p": "In a model of a growing embryo, a row of paper pieces gets dye from one end. What decides how dark each piece is?",
      "opts": [
-      "How far the piece is from the dye",
       "What the piece is called",
-      "What is written on the piece"
+      "What is written on the piece",
+      "How far the piece is from the dye"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The dye fades with distance, so the closer pieces are darker. A real embryo works in the same way: the amount of signal that reaches a cell depends on how far away the source is.",
      "outcome": 1
     },
@@ -1597,11 +1597,11 @@
      "t": "mcq",
      "p": "Why can a baby's blood take oxygen from the mother's blood in the placenta?",
      "opts": [
-      "The baby's haemoglobin holds oxygen more tightly than the mother's does",
       "The two bloods mix together",
-      "The mother's blood is pumped into the baby's body"
+      "The mother's blood is pumped into the baby's body",
+      "The baby's haemoglobin holds oxygen more tightly than the mother's does"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The two bloods run close together but do not mix. The baby's blood holds oxygen more tightly, so oxygen passes across the thin wall. Picking 'mix' misses the thin wall that keeps the two bloodstreams apart.",
      "outcome": 3
     },
@@ -1636,11 +1636,11 @@
      "t": "mcq",
      "p": "You practise writing with your other hand every day for a week. What is happening in your brain?",
      "opts": [
-      "The connections you use get stronger",
       "Your brain grows a new part",
+      "The connections you use get stronger",
       "Your nerve cells are replaced by new ones"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each time you write, the connections between the nerve cells you use get stronger, so the movement gets faster. A brain does not grow a new part for a new skill.",
      "outcome": 6
     },
@@ -1695,11 +1695,11 @@
      "t": "mcq",
      "p": "A scientist moves a small piece of an early embryo to the belly of another embryo, and a second body starts to form there. What does this show?",
      "opts": [
-      "The piece sends signals that tell the neighbouring cells what to become",
       "The piece turns into the whole second body by itself",
+      "The piece sends signals that tell the neighbouring cells what to become",
       "Every embryo can grow two bodies"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In Hilde Mangold's experiment, most of the second body was made from the cells of the embryo that received the piece. The piece did not become the body. It told its neighbours what to become.",
      "outcome": 7
     },
@@ -1707,11 +1707,11 @@
      "t": "mcq",
      "p": "The nucleus of a cell from a tadpole's gut is put into an egg cell, and a whole frog grows. What does this show about the gut cell?",
      "opts": [
-      "It still holds every instruction for building a frog",
       "It was already part of a frog's egg",
+      "It still holds every instruction for building a frog",
       "Gut cells are the same as egg cells"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The frog could only grow if the cell held all the instructions. So the gut cell had kept every gene, even though the cell used only a few.",
      "outcome": 0
     },
@@ -1839,11 +1839,11 @@
      "t": "mcq",
      "p": "At birth the baby's lungs are filled with fluid. What happens at the first breath?",
      "opts": [
-      "Air opens the lungs and blood starts to flow through them",
       "The lungs fill with milk",
+      "Air opens the lungs and blood starts to flow through them",
       "The cord starts to carry air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Before birth the lungs hold fluid and the placenta supplies oxygen. At the first breath, air opens the lungs and blood flows through them. The small shortcuts in the heart then close.",
      "outcome": 3
     },
@@ -1873,11 +1873,11 @@
      "t": "mcq",
      "p": "A growth graph of a baby's length is steep at the start and flat later on. What does this show?",
      "opts": [
-      "The baby grows fastest when very young, and then more slowly",
       "The baby stops growing at six months",
+      "The baby grows fastest when very young, and then more slowly",
       "The baby is growing the same amount each month"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A steep line means fast growth, and a flatter line means slower growth. A baby grows fastest in the first months and slows down. The line does not go flat, because growing carries on.",
      "outcome": 5
     },
@@ -1937,11 +1937,11 @@
      "t": "mcq",
      "p": "Dye goes into a paper strip at both ends at the same time. Where on the strip is the colour palest?",
      "opts": [
-      "In the middle",
       "At both ends",
+      "In the middle",
       "Next to the left end"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The dye fades with distance from each end. The middle is the farthest point from both sources, so it is the palest. Real bodies make parts that match on both sides in the same way.",
      "outcome": 1
     },
@@ -1971,11 +1971,11 @@
      "t": "mcq",
      "p": "A skin cell and a heart muscle cell are looked at closely. What would you expect to find about their DNA?",
      "opts": [
-      "The same genes in both",
       "Different genes in each",
+      "The same genes in both",
       "DNA only in the heart cell"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both cells came from the same first cell, and they hold the same set of genes. They differ in which genes they use.",
      "outcome": 0
     },
@@ -2063,11 +2063,11 @@
      "t": "mcq",
      "p": "A friend says: 'The paper strip proves exactly how cells in an embryo work.' What is the best reply?",
      "opts": [
-      "It is a model. It shows a fading signal, but real cells use chemicals and have many more jobs",
       "You are right. Real cells work exactly like paper",
-      "Models cannot teach us anything"
+      "Models cannot teach us anything",
+      "It is a model. It shows a fading signal, but real cells use chemicals and have many more jobs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A model can show an idea without being exactly like the real thing. Scientists use models, and then check them against real embryos.",
      "outcome": 2
     },
@@ -2110,11 +2110,11 @@
      "t": "mcq",
      "p": "Why might learning a new language be easier at age three than at age thirty?",
      "opts": [
-      "A young brain has many more connections, and keeps the ones that are used",
       "Young children are cleverer than adults",
+      "A young brain has many more connections, and keeps the ones that are used",
       "Adults have no connections left"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A young brain has far more connections than it will keep. The ones used often get stronger, and the others fade. Picking 'cleverer' is a common mistake. It is about the number of connections, and not about being smarter.",
      "outcome": 6
     },
@@ -2152,11 +2152,11 @@
    "t": "mcq",
    "p": "In an early embryo, what mostly tells a cell which job to take?",
    "opts": [
-    "Signals from nearby cells, and how strong they are at that spot",
     "A label stuck on the cell at birth",
+    "Signals from nearby cells, and how strong they are at that spot",
     "The size of the cell"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Signals spread out from some cells and fade with distance. A cell reads how much has reached them, and that gives them a job that fits their place.",
    "outcome": 1
   },
@@ -2188,11 +2188,11 @@
    "t": "mcq",
    "p": "What happens to a baby's blood at the first breath?",
    "opts": [
-    "It begins to flow through the lungs",
     "It stops flowing",
+    "It begins to flow through the lungs",
     "It mixes with the mother's blood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Before birth most blood skips the lungs. At the first breath the lungs open and blood starts to pour through them. The shortcuts in the heart close within days.",
    "outcome": 3
   },
@@ -2224,11 +2224,11 @@
    "t": "mcq",
    "p": "A child's growth line is below another child's, but they follow their own line steadily. What does this mean?",
    "opts": [
-    "They are probably growing well",
     "They are growing badly",
-    "They have stopped growing"
+    "They have stopped growing",
+    "They are probably growing well"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Healthy children follow their own lines, and the lines are often different. What matters is a steady path, and not how close it is to someone else's.",
    "outcome": 5
   },
@@ -2236,11 +2236,11 @@
    "t": "mcq",
    "p": "Which helps a skill become easier?",
    "opts": [
-    "Repeating it, so the connections you use get stronger",
     "Waiting for a new brain part to grow",
-    "Doing it once, very hard"
+    "Doing it once, very hard",
+    "Repeating it, so the connections you use get stronger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Repeating a skill strengthens the connections you use. This is why practice works. You improve a lot in the first few tries and less after that, because the easy gains come first.",
    "outcome": 6
   },
@@ -2248,11 +2248,11 @@
    "t": "mcq",
    "p": "A scientist moves a small piece of one embryo onto another embryo, called the host. Why might the scientist mark the cells of the piece with a different colour from the host's cells?",
    "opts": [
-    "To tell which cells came from the piece and which belonged to the host",
     "To make the picture prettier",
-    "To stop the cells dividing"
+    "To stop the cells dividing",
+    "To tell which cells came from the piece and which belonged to the host"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Marking lets the scientist see what the moved piece became and what the neighbours built. That shows whether the piece made the new body, or told its neighbours to build it.",
    "outcome": 7
   },
@@ -2272,11 +2272,11 @@
    "t": "mcq",
    "p": "A row of cells gets a signal from one end. Which cell gets the most signal?",
    "opts": [
-    "The one closest to the source",
     "The one farthest from the source",
-    "They all get the same"
+    "They all get the same",
+    "The one closest to the source"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A signal fades with distance. The closest cell gets the most, and the farthest cell gets the least.",
    "outcome": 1
   }

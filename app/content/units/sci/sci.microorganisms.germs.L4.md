@@ -638,7 +638,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 ## Worksheets
 ### Germs, Medicines and Vaccines (core) (core, 17 questions)
 1. (mcq) Which of these illnesses is NOT caused by a germ?  
-   Options: Measles / Diabetes / Ringworm / Typhoid  
+   Options: Diabetes / Measles / Ringworm / Typhoid  
    **Answer:** Diabetes. *Why:* Measles is caused by a virus, ringworm by a fungus and typhoid by bacteria. Diabetes comes from the way the body handles sugar, so nobody can catch it.
 2. (sort) Sort each illness by its cause.  
    **Answer:** typhoid → Bacteria; a common cold → Virus; ringworm → Fungus; a broken arm → No germ; measles → Virus; tuberculosis → Bacteria; anaemia from too little iron → No germ; tetanus → Bacteria. *Why:* Each cause needs a different medicine. Typhoid, tuberculosis and tetanus come from bacteria. Colds and measles come from viruses. Ringworm comes from a fungus. A broken arm and anaemia have no germ at all.
@@ -665,7 +665,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 12. (draw) Draw nine houses in a square, three rows of three. Colour one house red for an ill house. Then colour the neighbours of that house to show vaccinated houses, and show where the illness is stopped.  
    **Answer:** A drawing in which the vaccinated houses surround the ill house, and arrows from the ill house are stopped at them.. *Why:* This is a ring. A germ spreads only to the neighbours within reach, so a ring of protected houses leaves it nowhere to go.
 13. (mcq) Which of these is a danger sign that needs a doctor at once?  
-   Options: A child cannot drink and is very sleepy / A runny nose for two days / A child sneezing in the morning  
+   Options: A runny nose for two days / A child cannot drink and is very sleepy / A child sneezing in the morning  
    **Answer:** A child cannot drink and is very sleepy. *Why:* Not being able to drink and being very sleepy can mean the body is in trouble. A runny nose and a few sneezes are common in a cold.
 14. (truefalse) Left-over tablets from last month are safe to give for a new illness.  
    **Answer:** False. *Why:* False. A new illness may have a different cause. The packet may be the wrong dose or the wrong medicine, and it may be out of date.
@@ -674,7 +674,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 16. (write) ORS has no germ-killer in it. How does it still save the lives of children with loose motions?  
    **Answer:** Loose motions make the body lose water and salts. ORS puts them back, so the body does not dry out while the defenders clear the germs.. *Why:* Many children die of losing water, not from the germ. Keeping the body topped up gives the defenders time.
 17. (mcq) Almost everyone in a school is vaccinated against measles. A baby in the neighbourhood is too young for the vaccine. Why is the baby safer?  
-   Options: The germ keeps meeting protected people and rarely reaches the baby / Babies have a stronger body than children / Measles cannot infect babies  
+   Options: Babies have a stronger body than children / The germ keeps meeting protected people and rarely reaches the baby / Measles cannot infect babies  
    **Answer:** The germ keeps meeting protected people and rarely reaches the baby. *Why:* Each vaccinated person is a broken link in the chain, so the germ has a hard time reaching anyone. Babies can catch measles, and they can become very ill.
 ### Resistance, Vaccines and Evidence (stretch) (stretch, 18 questions)
 1. (mcq) Penicillin weakens the wall of a bacterium so that she bursts. Why does penicillin not harm the cells of a human?  
@@ -683,7 +683,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 2. (truefalse) Taking an antibiotic for a cold can make the cold virus resistant.  
    **Answer:** False. *Why:* False. An antibiotic does nothing to a virus, so the virus cannot become resistant to the antibiotic. But the antibiotic can still leave tough bacteria behind in the body.
 3. (mcq) Two plates start the same, with 38 ordinary germs and 2 tough germs. Plate A gets a medicine every day that removes 9 out of every 10 ordinary germs. Plate B gets none. After two days, which describes Plate A best?  
-   Options: Almost no ordinary germs are left, and the tough germs have multiplied / There are more ordinary germs than at the start / The germs are the same as Plate B  
+   Options: There are more ordinary germs than at the start / Almost no ordinary germs are left, and the tough germs have multiplied / The germs are the same as Plate B  
    **Answer:** Almost no ordinary germs are left, and the tough germs have multiplied. *Why:* The medicine removes most ordinary germs each day, and the tough ones survive and double each night. Plate B keeps its crowd of ordinary germs, which holds the tough ones back.
 4. (fill) When the germs that survive a medicine are the ones that carry on, this is called natural ________.  
    **Answer:** ['selection']. *Why:* Natural selection means that the living beings who survive and multiply are the ones whose kind carries on. It shaped every living being, and it shapes germs too.
@@ -694,7 +694,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 7. (sort) Which kind of medicine would a doctor choose? Sort each illness.  
    **Answer:** a throat infection confirmed as bacterial → Antibiotic; ringworm → Antifungal; an ordinary cold → No germ-killer: rest and drinks; flu in a person at high risk → Antiviral; a chest infection caused by bacteria → Antibiotic; a fungus infection of the foot → Antifungal. *Why:* A doctor matches the medicine to the cause. Antibiotics are for bacteria, antifungal medicines for fungi, and an antiviral for a few viruses. For an ordinary cold, no germ-killer helps.
 8. (mcq) A flu vaccine is changed every year. What is the best reason?  
-   Options: Flu viruses change a little, so last year's antibodies may not fit this year's virus / The vaccine goes off after a year in the fridge / Flu is a bacterium  
+   Options: The vaccine goes off after a year in the fridge / Flu is a bacterium / Flu viruses change a little, so last year's antibodies may not fit this year's virus  
    **Answer:** Flu viruses change a little, so last year's antibodies may not fit this year's virus. *Why:* Antibodies fit one shape, like a key in a lock. If the virus changes shape, the old key may not fit. So each year's vaccine is matched to the viruses that are going around.
 9. (write) A neighbour says, "Nobody around here gets measles, so my child does not need the vaccine." Using herd protection, explain what she may be missing.  
    **Answer:** A strong answer says that measles is rare around there because most children are vaccinated. If many stop being vaccinated, the germ will find enough unprotected children to spread to, and measles will come back.. *Why:* Herd protection works only while enough people stay vaccinated. The reason nobody sees measles is the vaccine.
@@ -710,14 +710,14 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 14. (order) Put these in order to show how tough germs take over a body that takes an antibiotic.  
    **Answer:** ['A few germs in the crowd are already tough by chance', 'A person takes an antibiotic', 'The ordinary germs die', 'The tough germs multiply with plenty of room and food', 'Most of the germs in the body are now tough']. *Why:* The tough germs are there first. The medicine removes their competitors. Then they multiply into the space.
 15. (mcq) Why can taking an antibiotic cause loose motions?  
-   Options: It kills some of the helpful bacteria in the gut as well / It is made of salt / It makes the body drink too much  
+   Options: It is made of salt / It makes the body drink too much / It kills some of the helpful bacteria in the gut as well  
    **Answer:** It kills some of the helpful bacteria in the gut as well. *Why:* The gut is home to trillions of helpful bacteria. An antibiotic cannot always tell the helpful ones from the harmful ones, so a change in the gut can cause loose motions.
 16. (write) A bacteriophage attacks only one kind of bacterium. Give one reason this could be good for a medicine and one reason it could be hard.  
    **Answer:** Good: it leaves the helpful bacteria and the person's cells alone. Hard: a doctor must find out exactly which bacterium causes the infection, and must have the right phage ready.. *Why:* A narrow tool does less harm but needs more knowledge to use. That is one reason phages are still being tested.
 17. (draw) Esther Lederberg used a round velvet stamp to copy bacteria from one dish to other dishes. Draw how the stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.  
    **Answer:** A drawing of a dish with dots, a round velvet pad pressed on it, then pressed on two new dishes where the same pattern of dots appears, one with a label for the medicine.. *Why:* The stamp copies the position of each colony, which is one small dot of bacteria. So scientists can compare the same colony on a dish with the medicine and a dish without it.
 18. (mcq) A doctor says a throat infection needs an antibiotic only after a test. Why wait for the test?  
-   Options: A sore throat looks the same whether bacteria or a virus cause the pain / Tests make the medicine stronger / The doctor wants the child to wait  
+   Options: Tests make the medicine stronger / A sore throat looks the same whether bacteria or a virus cause the pain / The doctor wants the child to wait  
    **Answer:** A sore throat looks the same whether bacteria or a virus cause the pain. *Why:* The cause decides the medicine, and you cannot tell the cause by looking. A test avoids giving an antibiotic that cannot help.
 ### Thinking Like a Scientist About Medicine (challenge) (challenge, 15 questions)
 1. (mcq) A scientist presses a velvet stamp on a dish of bacteria, and then on new dishes that have a medicine in them. Resistant dots grow in the same places on every copy. The bacteria in those same places on the first dish are resistant too. What different result would have shown that the medicine made the bacteria resistant?  
@@ -726,7 +726,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 2. (write) A trial gives a new vaccine to 1,000 children and a dummy injection to another 1,000. In the next year, 5 of the vaccinated children and 50 of the children who had the dummy injection catch the illness. What does this show, and how big is the effect?  
    **Answer:** The vaccinated group had far fewer cases, 5 against 50. That is 10 times fewer, or 9 out of 10 fewer cases (90 percent fewer).. *Why:* Comparing a group that gets the vaccine with one that does not shows what the vaccine does. 50 minus 5 is 45, and 45 out of 50 is 9 out of 10.
 3. (mcq) Why does a trial use a dummy injection for the comparison group?  
-   Options: So that both groups expect the same thing, and any difference comes from the vaccine / Because the vaccine is too expensive / To make the trial longer  
+   Options: Because the vaccine is too expensive / To make the trial longer / So that both groups expect the same thing, and any difference comes from the vaccine  
    **Answer:** So that both groups expect the same thing, and any difference comes from the vaccine. *Why:* If one group knew they had nothing, they might behave differently, and that could change the result. A dummy keeps everything the same except the vaccine.
 4. (perspective) A new vaccine is made, but there is only enough for a few thousand people.  
    **Answer:** A strong answer picks a plan and gives a reason, such as protecting the most vulnerable or breaking the most chains. It names evidence that would decide, such as how much each group spreads the germ and how likely each is to become very ill.. *Why:* Both plans protect people in different ways. This is a question about fairness as well as science, and a good answer says what it values.
@@ -735,7 +735,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 6. (truefalse) Bacteria can pass genes for resistance to other kinds of bacteria.  
    **Answer:** True. *Why:* True. Bacteria can hand pieces of their genes to each other, even across kinds, so resistance can spread fast.
 7. (mcq) In one town, measles cases fall every year for ten years. In the last year, the number of vaccinated children falls too. What should a careful scientist say?  
-   Options: Cases may rise soon, because fewer children are now protected / Measles has gone for good / The vaccine has stopped working  
+   Options: Measles has gone for good / Cases may rise soon, because fewer children are now protected / The vaccine has stopped working  
    **Answer:** Cases may rise soon, because fewer children are now protected. *Why:* The fall in cases came from past vaccination. If protection drops now, the chains will have more links again. A careful scientist watches the trend and the cause.
 8. (write) Alexander Fleming saw a clear ring around a mould on a dish of bacteria. What could a scientist do next to find out whether the mould caused the ring?  
    **Answer:** Grow the mould alone, then put some liquid from the mould on fresh dishes of the bacteria and see if rings appear. Also use dishes with no mould liquid as a comparison, and repeat the test.. *Why:* A ring next to a mould is a clue, not a proof. A test with the mould's liquid alone, and a comparison dish, tells whether the mould is the cause.
@@ -763,7 +763,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 
 ## Quiz
 1. (mcq) Which illness is infectious but NOT contagious?  
-   Options: Tetanus / Measles / Chickenpox  
+   Options: Measles / Tetanus / Chickenpox  
    **Answer:** Tetanus. *Why:* Tetanus is caused by bacteria from soil that get into deep cuts, and nobody catches it from another person. Measles and chickenpox pass from person to person.
 2. (mcq) During the incubation period, what are the germs doing?  
    Options: Multiplying quietly while the person feels well / Waiting for a medicine / Leaving the body  
@@ -772,22 +772,22 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
    Options: Fits one germ like a key in a lock, sticks to that germ and marks the germ to be removed / Kills every germ at once / Carries oxygen in the blood  
    **Answer:** Fits one germ like a key in a lock, sticks to that germ and marks the germ to be removed. *Why:* An antibody has a shape that fits one particular germ. It does not kill every germ, and oxygen is carried by red blood cells.
 4. (mcq) Why does an antibiotic not help against a cold?  
-   Options: A cold is caused by a virus, which has no cell wall for the antibiotic to attack / A cold is too small to feel / Antibiotics only work in the morning  
+   Options: A cold is too small to feel / Antibiotics only work in the morning / A cold is caused by a virus, which has no cell wall for the antibiotic to attack  
    **Answer:** A cold is caused by a virus, which has no cell wall for the antibiotic to attack. *Why:* Antibiotics attack parts that bacteria have. A virus is not a cell and has none of those parts.
 5. (mcq) In a game, a medicine removes 9 out of 10 ordinary germs from a crowd but cannot touch the few tough ones. After several days, what will most of the germs be?  
-   Options: Tough ones / Ordinary ones / The same mix as at the start  
+   Options: Ordinary ones / Tough ones / The same mix as at the start  
    **Answer:** Tough ones. *Why:* The medicine removes the ordinary germs, and the tough ones survive and multiply into the space. The medicine did not make any germ tougher. It only chose which ones carry on.
 6. (mcq) Who or what becomes resistant to an antibiotic?  
    Options: The bacteria / The person who takes it / The tablet  
    **Answer:** The bacteria. *Why:* Resistance belongs to the germs. A person who takes many antibiotics can carry resistant bacteria, but the person does not become resistant.
 7. (mcq) Which sign means a child should see a doctor at once?  
-   Options: A child who vomits everything and cannot keep a drink down / A child with a runny nose / A child who feels warm after running  
+   Options: A child with a runny nose / A child who feels warm after running / A child who vomits everything and cannot keep a drink down  
    **Answer:** A child who vomits everything and cannot keep a drink down. *Why:* A child who cannot keep any drink down can quickly dry out. A runny nose and feeling warm after exercise are common and not dangerous in themselves.
 8. (mcq) A doctor says a child's cold needs no antibiotic. What is the best next step?  
-   Options: Rest, drinks, and watching for danger signs / Asking another doctor for an antibiotic / Using tablets left over from an earlier illness  
+   Options: Asking another doctor for an antibiotic / Using tablets left over from an earlier illness / Rest, drinks, and watching for danger signs  
    **Answer:** Rest, drinks, and watching for danger signs. *Why:* A cold is caused by a virus, and the body clears it with time. An antibiotic cannot help, and old tablets are the wrong medicine.
 9. (mcq) What does a vaccine hold?  
-   Options: A safe form or piece of a germ, or a harmless copy of the germ's poison / A full-strength germ / Only vitamins  
+   Options: A full-strength germ / A safe form or piece of a germ, or a harmless copy of the germ's poison / Only vitamins  
    **Answer:** A safe form or piece of a germ, or a harmless copy of the germ's poison. *Why:* A vaccine shows the defenders what the germ looks like, without being able to make you ill.
 10. (mcq) Why is the body faster the second time the same germ arrives?  
    Options: Memory cells stay behind and make the right antibody quickly / The germ gets weaker with age / The body forgets it was ill  
@@ -799,10 +799,10 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
    Options: 95 / 50 / 75  
    **Answer:** 95. *Why:* Measles spreads so easily that one ill child can pass it to 12 to 18 unprotected others. So almost everyone, about 95 out of 100, needs protection.
 13. (mcq) A glass of yeast with strong salt makes much less foam than a glass with nothing added. What does this show?  
-   Options: Strong salt slows a living microbe / Yeast prefers salt / Salt turns into foam  
+   Options: Yeast prefers salt / Strong salt slows a living microbe / Salt turns into foam  
    **Answer:** Strong salt slows a living microbe. *Why:* The only difference between the glasses was the salt, so the salt held the yeast back. Strong salt would also harm our own cells, so it is not a medicine.
 14. (mcq) Which health worker writes the prescription that tells a family which medicine to take, and for how long?  
-   Options: A doctor / A nurse / A village health worker  
+   Options: A nurse / A doctor / A village health worker  
    **Answer:** A doctor. *Why:* A doctor decides what the illness is and writes the prescription. A nurse gives injections and vaccines. A village health worker visits homes and takes people to the centre.
 
 ## Applications

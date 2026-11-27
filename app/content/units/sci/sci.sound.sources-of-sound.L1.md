@@ -427,7 +427,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 3. (match) A grown-up reads the words. Draw a line from each sound to its source.  
    **Answer:** Caw caw → A crow; Whistle → A pressure cooker; Moo → A cow; Tring tring → A bicycle bell. *Why:* Each sound tells us its source. A crow caws, a pressure cooker whistles when steam rushes out, a cow moos and a bicycle bell rings when you press it.
 4. (mcq) In the Shaker Test, a child shook the chana shaker gently, then hard. When was it louder?  
-   Options: When she shook it gently / When she shook it hard / Both were the same  
+   Options: When she shook it gently / Both were the same / When she shook it hard  
    **Answer:** When she shook it hard. *Why:* A hard shake makes the chana hit the bottle harder, so the sound is louder. A gentle shake makes a soft sound.
 5. (draw) Draw one thing in your home that makes a loud sound. Then draw one thing that makes a soft sound.  
    **Answer:** One loud sound source, such as a pressure cooker, a mixie or a doorbell, and one soft sound source, such as a clock, a fan or a whisper.. *Why:* A strong drawing shows a real sound source for each, and draws something that moves to make the sound.
@@ -445,10 +445,10 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 1. (order) A grown-up reads these steps of the Shaker Test. Number them 1, 2 and 3 in the right order.  
    **Answer:** ['Guess which shaker will be loudest', 'Shake each shaker five times and listen', 'Line up the shakers from loud to soft']. *Why:* First we guess, then we test by shaking and listening, then we line them up by what we heard.
 2. (mcq) You ring a bell on the table. Then you walk to the other side of the room and listen. How does the ring sound from far away?  
-   Options: Louder than close up / Softer than close up / Just the same  
+   Options: Louder than close up / Just the same / Softer than close up  
    **Answer:** Softer than close up. *Why:* A sound gets softer as you move away from its source. That is why you can find a hidden sound by walking towards where it gets louder.
 3. (mcq) A phone is playing a song. Where is the sound coming from?  
-   Options: A tiny part inside the phone that moves very fast / The air in the room, all by itself / Your ears  
+   Options: The air in the room, all by itself / A tiny part inside the phone that moves very fast / Your ears  
    **Answer:** A tiny part inside the phone that moves very fast. *Why:* Inside the phone's speaker, a tiny part moves back and forth very fast. That moving part is the sound source. We cannot see it move, but it is moving.
 4. (truefalse) Only living things can make sounds.  
    **Answer:** False. *Why:* False. Rain, wind, thunder and a falling spoon all make sounds, and none of them is alive. Anything that moves can make a sound.
@@ -472,31 +472,31 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 
 ## Quiz
 1. (mcq) What is a sound source?  
-   Options: The ear that hears a sound / The thing that makes a sound / A very loud sound  
+   Options: The thing that makes a sound / The ear that hears a sound / A very loud sound  
    **Answer:** The thing that makes a sound. *Why:* A sound source is the thing that makes a sound, like a bell or a crow. The ear hears the sound, but it does not make it.
 2. (mcq) A pressure cooker whistles in the kitchen. What is the sound source?  
-   Options: The pressure cooker / A listener's ear / The kitchen window  
+   Options: A listener's ear / The pressure cooker / The kitchen window  
    **Answer:** The pressure cooker. *Why:* The sound comes from the pressure cooker, as steam rushes out of the top.
 3. (mcq) Which of these sound sources is not alive?  
-   Options: A crow cawing / Rain on the roof / A cow mooing  
+   Options: A crow cawing / A cow mooing / Rain on the roof  
    **Answer:** Rain on the roof. *Why:* Rain is not alive, but it still makes a sound when the drops hit the roof. The crow and the cow are living beings who call with their breath.
 4. (mcq) A temple bell hangs still. Nobody touches it. What do you hear from the bell?  
-   Options: A loud ring / A soft ring / Nothing  
+   Options: Nothing / A loud ring / A soft ring  
    **Answer:** Nothing. *Why:* A still bell makes no sound. It rings only when something moves it, like a hand pulling the rope.
 5. (mcq) A boy claps his hands. What moved to make the sound?  
-   Options: His ears / His hands / The floor  
+   Options: His ears / The floor / His hands  
    **Answer:** His hands. *Why:* His hands moved and hit each other. That is what made the clap.
 6. (mcq) A girl wants a louder sound from her drum. What should she do?  
-   Options: Hit it harder / Hit it more gently / Stop hitting it  
+   Options: Hit it more gently / Hit it harder / Stop hitting it  
    **Answer:** Hit it harder. *Why:* A harder hit makes a louder sound. A gentle hit makes a soft sound, and no hit makes no sound.
 7. (mcq) Remember the Shaker Test, with chana, rice, cotton and an empty bottle. Which shaker with something inside made the softest sound?  
-   Options: The one with chana / The one with rice / The one with cotton  
+   Options: The one with cotton / The one with chana / The one with rice  
    **Answer:** The one with cotton. *Why:* Cotton is soft, so it hits the bottle gently and makes almost no sound. Hard chana makes the loudest rattle.
 8. (mcq) Why is a whisper a soft sound?  
    Options: Only a little air moves, gently / A whisper has no source / Your ears are closed  
    **Answer:** Only a little air moves, gently. *Why:* When you whisper, only a little air moves out of your mouth, gently. A shout pushes out much more air, much harder.
 9. (mcq) Your eyes are closed. You hear keys jingling. What is moving?  
-   Options: Nothing is moving / Only your ears / The keys, hitting each other  
+   Options: Nothing is moving / The keys, hitting each other / Only your ears  
    **Answer:** The keys, hitting each other. *Why:* Every sound comes from something moving. Jingling keys are moving and hitting each other.
 10. (mcq) You hear a sound behind a door, but you cannot see what made it. How can you find the sound source?  
    Options: Walk towards where the sound gets louder / Cover your ears / Walk away from the sound  

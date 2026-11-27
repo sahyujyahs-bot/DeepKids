@@ -514,7 +514,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 15. (draw) Draw an LED bulb with two arrows, one for the useful energy and one for the spread-out energy. Make the arrows the right sizes.  
    **Answer:** A bulb with a big arrow labelled light and a smaller arrow labelled warmth.. *Why:* For an LED bulb, more energy becomes light than becomes warmth, so the light arrow is the bigger one. For an old bulb, the warmth arrow would be bigger.
 16. (mcq) Why does the meter light blink faster when you switch on a geyser?  
-   Options: The geyser takes more joules every second, so the meter counts more blinks every second / The geyser uses up the energy, so the meter has to hurry / The geyser makes the electricity hotter  
+   Options: The geyser uses up the energy, so the meter has to hurry / The geyser takes more joules every second, so the meter counts more blinks every second / The geyser makes the electricity hotter  
    **Answer:** The geyser takes more joules every second, so the meter counts more blinks every second. *Why:* Each blink counts the same fixed amount of energy. A geyser takes energy at a high rate in watts, so blinks come more often.
 ### Amount and Rate (stretch) (stretch, 17 questions)
 1. (order) Put these steps in order for finding the watts of a stair climb.  
@@ -542,7 +542,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 11. (count) Your body uses about 100 watts. A chapati holds about 420,000 joules. For how many minutes could it keep you going at 100 watts?  
    **Answer:** 70. *Why:* 420,000 divided by 100 is 4,200 seconds. Divided by 60 that is 70 minutes. A whole day needs about twenty chapatis.
 12. (mcq) A ball rolls across the floor and stops. What happened to its movement energy?  
-   Options: It became a little warmth and sound in the ball, the floor and the air / It disappeared / It went back to the Sun  
+   Options: It disappeared / It went back to the Sun / It became a little warmth and sound in the ball, the floor and the air  
    **Answer:** It became a little warmth and sound in the ball, the floor and the air. *Why:* Energy is never destroyed. Friction turned the movement into warmth and sound, and they spread out.
 13. (odd) Which is the odd one out, and why? Joule, kilojoule, watt-hour, watt.  
    **Answer:** The watt, because it counts how fast energy moves. The other three count how much energy there is.. *Why:* Joules, kilojoules and watt-hours are all amounts. The watt is a rate.
@@ -560,7 +560,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 2. (count) An appliance of 460 watts runs for 5 hours. How many units of electricity is that?  
    **Answer:** 2.3. *Why:* 460 times 5 is 2,300 watt-hours. Divided by 1,000 that is 2.3 units.
 3. (mcq) Heater A uses 2,000 watts for 1 hour. Heater B uses 1,000 watts for 2 hours. Which uses more energy?  
-   Options: They use the same, 2,000 watt-hours / Heater A / Heater B  
+   Options: Heater A / They use the same, 2,000 watt-hours / Heater B  
    **Answer:** They use the same, 2,000 watt-hours. *Why:* 2,000 times 1 is 2,000. 1,000 times 2 is also 2,000. The bigger watts and the longer time cancel out.
 4. (count) A battery holds 3,000 watt-hours. A 100 watt television is the only thing running. For how many hours does the battery last?  
    **Answer:** 30. *Why:* 3,000 divided by 100 is 30 hours. Hours equal watt-hours divided by watts.
@@ -597,28 +597,28 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 
 ## Quiz
 1. (mcq) Which is the best description of a watt?  
-   Options: One joule of energy every second / The amount of energy in a battery / The heat of a bulb  
+   Options: The amount of energy in a battery / One joule of energy every second / The heat of a bulb  
    **Answer:** One joule of energy every second. *Why:* A watt is a rate. One watt is one joule moving each second. The amount in a battery is counted in joules or watt-hours.
 2. (mcq) Which holds more energy, a chapati or a phone battery?  
-   Options: A chapati holds about seven times as much / A phone battery holds more / They hold the same  
+   Options: A phone battery holds more / A chapati holds about seven times as much / They hold the same  
    **Answer:** A chapati holds about seven times as much. *Why:* A chapati holds about 420 kilojoules and a phone battery about 60. A battery gives its energy out faster, but the chapati holds more.
 3. (mcq) A 1,000 watt iron runs for 30 minutes. A 100 watt television runs for 8 hours. Which uses more energy?  
-   Options: The television, 800 watt-hours / The iron, because it has more watts / They use the same  
+   Options: The iron, because it has more watts / They use the same / The television, 800 watt-hours  
    **Answer:** The television, 800 watt-hours. *Why:* The iron uses 1,000 times half an hour, which is 500 watt-hours. The television uses 100 times 8, which is 800 watt-hours. Time matters as much as watts.
 4. (mcq) A child climbs the same stairs slowly, and then fast. What stays the same?  
-   Options: The joules / The watts / The seconds  
+   Options: The watts / The joules / The seconds  
    **Answer:** The joules. *Why:* The climb is the same height and the same body, so the joules are the same. The seconds and the watts change.
 5. (mcq) A bulb is warm after an hour. What does the warmth show?  
-   Options: Some of the energy it took in did not become light, and spread out as heat / The bulb is faulty / The bulb is making new energy  
+   Options: The bulb is faulty / The bulb is making new energy / Some of the energy it took in did not become light, and spread out as heat  
    **Answer:** Some of the energy it took in did not become light, and spread out as heat. *Why:* Every bulb turns some energy into heat. The warmth is the spread-out energy. No machine makes new energy.
 6. (mcq) Which statement is true?  
    Options: Energy is never made or destroyed, only moved or changed / Energy is used up when a battery goes flat / Energy is made when a fire burns  
    **Answer:** Energy is never made or destroyed, only moved or changed. *Why:* A flat battery has given its energy to light, movement, sound and warmth. A fire changes stored energy into heat and light. The total stays the same.
 7. (mcq) The meter light blinks faster when a geyser is switched on. What does that mean?  
-   Options: The home is taking energy at a higher rate, so more watts / The geyser stores more energy / The meter is nearly full  
+   Options: The geyser stores more energy / The home is taking energy at a higher rate, so more watts / The meter is nearly full  
    **Answer:** The home is taking energy at a higher rate, so more watts. *Why:* Each blink counts the same amount of energy. More blinks each second means more energy each second, which is more watts.
 8. (mcq) What is one unit of electricity on a bill?  
-   Options: 3.6 million joules, the energy of a 1,000 watt appliance running for an hour / One joule / One watt for one second  
+   Options: One joule / One watt for one second / 3.6 million joules, the energy of a 1,000 watt appliance running for an hour  
    **Answer:** 3.6 million joules, the energy of a 1,000 watt appliance running for an hour. *Why:* One unit is one kilowatt-hour. That is 1,000 watts for 3,600 seconds, which is 3.6 million joules.
 9. (mcq) Burned on a plate, a chapati would let out its energy in a few minutes. Your body lets it out over about an hour at 100 watts. What does this show?  
    Options: The same joules can come out at very different watts / The body makes less energy than fire / A fire holds more energy than a body  
@@ -627,12 +627,12 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
    Options: Movement can turn into heat at a fixed rate, so heat is not just a fluid that flows / Heat is a fluid that is poured into water / Water cannot get warm  
    **Answer:** Movement can turn into heat at a fixed rate, so heat is not just a fluid that flows. *Why:* A fluid that only flows could not be made from movement. A fixed rate shows that movement and heat can be counted in the same unit.
 11. (mcq) At noon on a clear day, about how much sunlight power reaches one square metre of ground?  
-   Options: About 1,000 watts / About 10 watts / About 1,000,000 watts  
+   Options: About 10 watts / About 1,000 watts / About 1,000,000 watts  
    **Answer:** About 1,000 watts. *Why:* About 1,000 watts, which is like a 1,000 watt heater on every square metre. The Sun is very powerful, and the light is spread over a huge area.
 12. (truefalse) A bigger watt rating always means a bigger electricity bill.  
    **Answer:** False. *Why:* False. The bill depends on watts times hours. A small appliance on for a long time can cost more than a big one used briefly.
 13. (mcq) In a village, a solar panel fills a battery in the day, and the bulb lights at night. What happens to the energy?  
-   Options: The battery makes new energy each night / Electricity is made from nothing at the panel / Sunlight changes into electricity, then into light / The bulb makes light with no energy used  
+   Options: Sunlight changes into electricity, then into light / The battery makes new energy each night / Electricity is made from nothing at the panel / The bulb makes light with no energy used  
    **Answer:** Sunlight changes into electricity, then into light. *Why:* Energy is never made or destroyed. In the panel, sunlight becomes electricity. The battery holds it, and the bulb turns it into light and some warmth. Choosing 'the battery makes new energy' breaks the rule that energy is never made.
 
 ## Applications

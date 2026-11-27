@@ -993,10 +993,10 @@
       "q": "Your pulse rose while you sat still and raced the timer. What does that show?",
       "options": [
        "Sums use a lot of muscle",
-       "The body can sound an alarm from a thought alone",
-       "Talking always speeds the heart a lot"
+       "Talking always speeds the heart a lot",
+       "The body can sound an alarm from a thought alone"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Nothing chased you and no big muscle worked. Your brain judged the race urgent, and signals went out to your heart. The calm counting shows that talking alone changes the pulse very little. Choosing 'talking' may mean forgetting what the calm task was for."
      }
     }
@@ -1194,11 +1194,11 @@
       "t": "mcq",
       "q": "Why were screens put away on bright evenings as well as on dim ones?",
       "options": [
-       "So that only the room light differed",
        "Because screens are always harmful",
+       "So that only the room light differed",
        "To make the evenings shorter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test only one thing changes. If screens were used on bright evenings only, you could not tell whether the room light or the screen made the difference. Choosing 'always harmful' may mean answering from a rule and not from the plan of the test."
      }
     }
@@ -1365,11 +1365,11 @@
       "t": "mcq",
       "q": "Tumbler 4 tastes like plain water. What is the best thing to say about it?",
       "options": [
-       "It has no sugar in it",
        "It has sugar, but too little for my tongue",
+       "It has no sugar in it",
        "The sugar has turned into water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "You put sugar in, and sugar does not vanish when it is diluted. Your tongue's receptors need more of it before they answer. Choosing 'no sugar' may mean trusting the senses over what you know you did."
      }
     }
@@ -1641,11 +1641,11 @@
       "t": "mcq",
       "q": "How did the ripe banana make its green neighbours ripen sooner?",
       "options": [
-       "It warmed them",
        "It gave off a hormone gas that they answered",
+       "It warmed them",
        "Its yellow colour rubbed off"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A ripening banana releases ethylene gas. Cells in the green bananas have receptors for ethylene, and they start to ripen. Choosing 'warmed' is a fair guess, but a ripe banana is not warmer than a green one."
      }
     }
@@ -2022,11 +2022,11 @@
      "t": "mcq",
      "p": "What is a hormone?",
      "opts": [
-      "A chemical message carried in the blood",
       "An electrical signal along a nerve",
-      "A kind of blood cell"
+      "A kind of blood cell",
+      "A chemical message carried in the blood"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A hormone is a chemical that cells release into the blood. It changes what certain other cells do. Choosing 'electrical signal' mixes it up with a nerve message.",
      "outcome": 0
     },
@@ -2178,11 +2178,11 @@
      "t": "mcq",
      "p": "Which two things together set the time you feel sleepy?",
      "opts": [
-      "The body clock and sleep pressure",
       "Your height and your pulse",
+      "The body clock and sleep pressure",
       "Dinner and homework"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The body clock sends the night signal, melatonin. Sleep pressure builds up the longer you stay awake. Sleepiness depends on both.",
      "outcome": 4
     },
@@ -2223,11 +2223,11 @@
      "t": "mcq",
      "p": "Adrenaline speeds up heart muscle and relaxes gut muscle. Why do the two answer differently?",
      "opts": [
-      "The cells carry different receptors",
       "There are two kinds of adrenaline",
+      "The cells carry different receptors",
       "The gut gets a weaker dose"
      ],
-     "a": 0,
+     "a": 1,
      "why": "It is one chemical. Heart cells and gut muscle cells carry different kinds of adrenaline receptor, and each kind starts a different chain inside the cell.",
      "outcome": 2
     },
@@ -2390,11 +2390,11 @@
      "t": "mcq",
      "p": "A long afternoon nap makes you less sleepy at bedtime. What has the nap changed?",
      "opts": [
-      "Your sleep pressure",
       "Your body clock",
+      "Your sleep pressure",
       "Your pineal gland"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sleep pressure builds while you are awake and falls while you sleep. The nap lowered it. The body clock and melatonin still run on time.",
      "outcome": 4
     },
@@ -2479,11 +2479,11 @@
      "t": "mcq",
      "p": "A man was still growing taller at 28. His body made all its hormones. What was missing?",
      "opts": [
-      "Working oestrogen receptors",
       "Growth hormone",
+      "Working oestrogen receptors",
       "Iodine in his food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Oestrogen closes the growth plates. His cells had no working receptor for it, so the message was sent and never received. This shows that a hormone does nothing without its receptor.",
      "outcome": 2
     },
@@ -2649,11 +2649,11 @@
    "t": "mcq",
    "p": "Where are the adrenal glands?",
    "opts": [
-    "On top of the kidneys",
     "At the front of the neck",
-    "Under the brain"
+    "Under the brain",
+    "On top of the kidneys"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One adrenal gland sits on top of each kidney. The thyroid is in the neck, and the pituitary is under the brain.",
    "outcome": 0
   },
@@ -2661,11 +2661,11 @@
    "t": "mcq",
    "p": "After a fright, why does your heart thump for a minute or more?",
    "opts": [
-    "Adrenaline stays in the blood until it is broken down",
     "The heart has been damaged",
+    "Adrenaline stays in the blood until it is broken down",
     "The danger is still there"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Nerve signals stop quickly, but adrenaline keeps acting until the body has cleared it, which takes a few minutes. Choosing 'danger is still there' forgets that the thumping goes on after the danger has gone.",
    "outcome": 1
   },
@@ -2685,11 +2685,11 @@
    "t": "mcq",
    "p": "Why does a hormone change some cells and not others?",
    "opts": [
-    "Only some cells have its receptor",
     "The blood takes it to only some cells",
-    "Some cells are asleep"
+    "Some cells are asleep",
+    "Only some cells have its receptor"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Blood carries the hormone nearly everywhere. A cell answers only if it carries the receptor that the hormone fits. Choosing 'blood takes it to only some cells' pictures a hormone as travelling like a nerve signal.",
    "outcome": 2
   },
@@ -2704,11 +2704,11 @@
    "t": "mcq",
    "p": "What ends a person's growth in height?",
    "opts": [
-    "The growth plates turn to bone",
     "The pituitary stops making growth hormone",
+    "The growth plates turn to bone",
     "The bones become too heavy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At the end of puberty, oestrogen makes the cartilage of the growth plates turn to bone. Growth hormone goes on being made all through life.",
    "outcome": 3
   },
@@ -2728,11 +2728,11 @@
    "t": "mcq",
    "p": "You have been awake for 16 hours. What has been building up all that time?",
    "opts": [
-    "Sleep pressure",
     "Adrenaline",
+    "Sleep pressure",
     "Iodine"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sleep pressure rises the longer you are awake and falls while you sleep. It is separate from the body clock.",
    "outcome": 4
   },
@@ -2740,11 +2740,11 @@
    "t": "mcq",
    "p": "Which part of the brain sends releasing hormones to the pituitary?",
    "opts": [
-    "The hypothalamus",
     "The pineal gland",
-    "The brainstem"
+    "The brainstem",
+    "The hypothalamus"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The hypothalamus sits just above the pituitary and sends releasing hormones down a short stalk. This is why 'master gland' is only partly right for the pituitary.",
    "outcome": 5
   },
@@ -2752,11 +2752,11 @@
    "t": "mcq",
    "p": "How can a tiny amount of a hormone have a big effect?",
    "opts": [
-    "Each cell amplifies the signal",
     "Hormone molecules are very heavy",
-    "Glands are very large"
+    "Glands are very large",
+    "Each cell amplifies the signal"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A receptor that has caught one hormone molecule starts a chain inside the cell, and each step switches on many molecules of the next. Glands are small, and hormones act in tiny amounts.",
    "outcome": 6
   },

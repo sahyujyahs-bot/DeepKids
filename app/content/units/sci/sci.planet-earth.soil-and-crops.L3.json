@@ -590,11 +590,11 @@
       "t": "mcq",
       "q": "You land on STORM ON BARE LAND and go back 4 squares. What could the farmer have done to stop the soil washing away?",
       "options": [
-       "Kept plants or crop stubble on the field, so roots hold the soil",
        "Ploughed the field just before the storm",
-       "Taken out all the worms"
+       "Taken out all the worms",
+       "Kept plants or crop stubble on the field, so roots hold the soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Roots and plant cover hold soil in place and slow the rain. Bare, freshly ploughed soil washes away most easily. Worms help, because their tunnels let rain soak in instead of running off."
      }
     },
@@ -719,11 +719,11 @@
       "t": "mcq",
       "q": "Atta and sand are both powders. Why does atta make the water cloudy for longer?",
       "options": [
-       "Atta grains are much finer, so they sink more slowly",
        "Atta is heavier than sand",
+       "Atta grains are much finer, so they sink more slowly",
        "Atta dissolves completely"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Fine grains sink slowly, so they float in the water for longer and make it cloudy. Clay does the same in the soil jar. Atta does not dissolve completely, which is why it settles in the end."
      }
     },
@@ -881,11 +881,11 @@
       "t": "mcq",
       "q": "The water in the jar is still cloudy after 30 minutes. Why?",
       "options": [
-       "The soil has turned into water",
        "Very tiny clay grains are still floating in the water",
+       "The soil has turned into water",
        "The dish-washing liquid made it cloudy"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Clay grains are the smallest grains in soil, so they sink very slowly. They can stay floating for a day or more. Picking the dish-washing liquid is a sensible guess, but a few drops in a jar of clear water stay clear. Try it to check."
      }
     },
@@ -909,11 +909,11 @@
       "t": "mcq",
       "q": "What were the dark bits floating on top?",
       "options": [
-       "Bits of dead plants, which are part of the humus",
        "Tiny stones",
+       "Bits of dead plants, which are part of the humus",
        "Dust from the air"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The floating bits are pieces of dead roots, leaves and stems. They are on their way to becoming humus. Stones are heavy and sink, so they cannot be floating on top."
      }
     }
@@ -1072,11 +1072,11 @@
       "t": "mcq",
       "q": "Why does rain soak into a field with many earthworms faster?",
       "options": [
-       "Earthworms drink the rain",
        "Their tunnels let water run down into the soil",
+       "Earthworms drink the rain",
        "Earthworms make the soil hotter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Worm tunnels are open paths into the soil. Water runs down them, the way it ran down the pencil holes. Picking 'drink the rain' is a fair thought, because worms need damp skin. But a worm takes in very little water compared with a rain shower."
      }
     }
@@ -1202,10 +1202,10 @@
       "q": "River pebbles are smooth and round. Why?",
       "options": [
        "They grew that way",
-       "They were knocked against other stones for a long time, which wore off their corners",
-       "Fish polish them"
+       "Fish polish them",
+       "They were knocked against other stones for a long time, which wore off their corners"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Like the chalk in the box, stones rolled along a river bed knock together and wear off their corners. The broken-off bits become sand and silt. Picking 'grew that way' is understandable, because pebbles look so perfect. But broken rock always starts with sharp edges."
      }
     }
@@ -1422,11 +1422,11 @@
       "t": "mcq",
       "q": "After a week, some leaves have been pulled down into the soil. Who did it?",
       "options": [
-       "The wind",
        "The earthworms, who pull leaves into their burrows to eat",
+       "The wind",
        "The leaves sank on their own"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Earthworms pull leaves down into their tunnels and eat them there, safe from the light and from birds. This carries humus down into the soil."
      }
     }
@@ -1490,11 +1490,11 @@
       "t": "mcq",
       "q": "Which crop grows so well in the Deccan's black soil that the soil is named after it?",
       "options": [
-       "Rice",
        "Cotton",
+       "Rice",
        "Coconut"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Black soil is also called black cotton soil. It holds water for a long time, which suits cotton. Rice grows mostly in river soil and deltas."
      }
     }
@@ -1974,11 +1974,11 @@
    "t": "mcq",
    "p": "What is most of the solid part of soil made of?",
    "opts": [
-    "Tiny grains of broken rock",
     "Dead leaves",
-    "Water"
+    "Water",
+    "Tiny grains of broken rock"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Most of the solid part of soil is rock broken into sand, silt and clay. Humus from dead plants is a smaller part, and water fills some of the gaps.",
    "outcome": 0
   },
@@ -1986,11 +1986,11 @@
    "t": "mcq",
    "p": "You shake pot soil in a jar of water and put the jar down. Which layer reaches the bottom first?",
    "opts": [
-    "Clay",
     "Sand",
+    "Clay",
     "Humus"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Sand grains are the biggest and heaviest, so they sink in seconds. Clay grains are so small they take a day or more. Humus bits often float.",
    "outcome": 2,
    "how": "e1"
@@ -1999,11 +1999,11 @@
    "t": "mcq",
    "p": "You sieve soil and mix it with water in a jar. After the water is left still, how do you get clay?",
    "opts": [
-    "Pour off the water, and keep the fine mud that settled on top",
     "Boil the soil",
+    "Pour off the water, and keep the fine mud that settled on top",
     "Heat the jar in the sun until the water is gone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The fine grains of silt and clay sink slowly and form the mud on top. Pouring off the water leaves that mud, which you can shape. Boiling or heating the jar changes the soil for no reason.",
    "outcome": 2,
    "how": "a6"
@@ -2012,11 +2012,11 @@
    "t": "mcq",
    "p": "Where does humus come from?",
    "opts": [
-    "From rocks melting",
     "From dead plants and animals that decomposers have broken down",
+    "From rocks melting",
     "From rain water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Humus is the dark part of soil made when fungi, bacteria, earthworms and other decomposers break down dead leaves, roots and animals.",
    "outcome": 3
   },
@@ -2036,11 +2036,11 @@
    "t": "mcq",
    "p": "A peepal plant grows in a crack in an old wall. What happens to the wall over many years?",
    "opts": [
-    "Nothing, because roots are soft",
     "The roots grow thicker and push the crack wider",
+    "Nothing, because roots are soft",
     "The wall turns into a tree"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Roots grow thicker as the plant grows, and they push with great force. This is one way rock and stone are broken up by living things.",
    "outcome": 1
   },
@@ -2048,11 +2048,11 @@
    "t": "mcq",
    "p": "You pour water on two cups of packed soil. One cup has pencil holes. What happens?",
    "opts": [
-    "The cup with holes soaks up the water much faster",
     "Both soak it up at the same speed",
+    "The cup with holes soaks up the water much faster",
     "The cup with holes keeps a puddle on top"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The holes are open paths, like worm tunnels. Water runs down them quickly. On packed soil with no holes, the water sits on top.",
    "outcome": 4,
    "how": "e2"
@@ -2062,10 +2062,10 @@
    "p": "Why do farmers like earthworms in their fields?",
    "opts": [
     "Worms eat the crops' pests",
-    "Worm tunnels let in air and water, and their castings are rich in nutrients",
-    "Worms keep the soil dry"
+    "Worms keep the soil dry",
+    "Worm tunnels let in air and water, and their castings are rich in nutrients"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Worm tunnels help air and rain into the soil and give roots easy paths. Worm castings hold nutrients plants can use.",
    "outcome": 4
   },
@@ -2073,11 +2073,11 @@
    "t": "mcq",
    "p": "After rain, you turn over a flowerpot and find long, brown, many-legged creatures that curl up. What are they probably?",
    "opts": [
-    "Millipedes, who eat dead leaves in the damp soil",
     "Earthworms, who have no legs",
-    "Centipedes, who have a single pair of legs on each ring"
+    "Centipedes, who have a single pair of legs on each ring",
+    "Millipedes, who eat dead leaves in the damp soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Millipedes have two pairs of short legs on almost every ring, and many curl up when touched. They live in damp soil and eat dead leaves, so they help make humus. Earthworms have no legs. Centipedes have one pair on each ring.",
    "outcome": 4
   },
@@ -2085,11 +2085,11 @@
    "t": "mcq",
    "p": "Why is the red soil of Tamil Nadu and Karnataka red?",
    "opts": [
-    "It has iron in it, the same way rust is red",
     "Red flowers have rotted into it",
+    "It has iron in it, the same way rust is red",
     "It is very hot"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Red soil holds iron. Iron that has joined with oxygen, like rust, is red.",
    "outcome": 5
   },
@@ -2097,11 +2097,11 @@
    "t": "mcq",
    "p": "Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?",
    "opts": [
-    "Crops can keep drinking for weeks after the rain",
     "The soil stays cold",
-    "Water makes the soil black"
+    "Water makes the soil black",
+    "Crops can keep drinking for weeks after the rain"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Black soil is full of clay, which holds water. So crops like cotton can keep growing well into the dry season. It is also called black cotton soil.",
    "outcome": 5
   },
@@ -2121,11 +2121,11 @@
    "t": "mcq",
    "p": "Why is soil that washes away in a storm such a big loss?",
    "opts": [
-    "New soil takes hundreds of years to form",
     "Soil cannot get wet again",
-    "The rain takes the soil to the Moon"
+    "The rain takes the soil to the Moon",
+    "New soil takes hundreds of years to form"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soil forms very slowly from rock and dead plants. It can take up to a thousand years to make one centimetre. Soil lost in a storm cannot be quickly replaced.",
    "outcome": 6
   },
@@ -2146,11 +2146,11 @@
    "t": "mcq",
    "p": "What happens to a well or a canal when soil keeps washing into it?",
    "opts": [
-    "It fills up with mud and holds less water",
     "It gets deeper",
-    "It is not changed"
+    "It is not changed",
+    "It fills up with mud and holds less water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Eroded soil settles at the bottom of wells, canals and rivers, so they hold less water. A river with a lot of mud in it can also flood sooner. Soil washed off the farm can harm farms that are far downstream.",
    "outcome": 6
   },
@@ -2298,11 +2298,11 @@
      "t": "mcq",
      "p": "In the Worm Tunnels test, why did we pack both cups of soil the same?",
      "opts": [
-      "So that only the tunnels were different",
       "Because packed soil is prettier",
-      "So that the water would go cold"
+      "So that the water would go cold",
+      "So that only the tunnels were different"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a fair test, only one thing changes. If one cup were packed harder, we could not tell whether the tunnels or the packing made the difference.",
      "how": "e2"
     },
@@ -2414,11 +2414,11 @@
      "t": "mcq",
      "p": "Two soils are tested in jars. Soil A has a thick sand layer and almost no clay. Soil B has a thick clay layer. Which soil will water drain through faster?",
      "opts": [
-      "Soil A, the sandy one",
       "Soil B, the clayey one",
-      "They will be the same"
+      "They will be the same",
+      "Soil A, the sandy one"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sand grains are big, with big gaps between them, so water runs through fast. Clay grains are tiny, with tiny gaps, so water moves slowly and is held.",
      "how": "e1"
     },
@@ -2469,11 +2469,11 @@
      "t": "mcq",
      "p": "Old worm tunnels in a field often have roots growing down inside them. Why do roots grow there?",
      "opts": [
-      "The soil in a tunnel is loose and has air and water",
       "Roots are afraid of worms",
+      "The soil in a tunnel is loose and has air and water",
       "The tunnels are full of sunlight"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Worm tunnels are open paths, with air, water and castings rich in nutrients. A root senses these and grows where it is easiest and best."
     },
     {
@@ -2501,11 +2501,11 @@
      "t": "mcq",
      "p": "Why does the black soil of the Deccan crack open in summer?",
      "opts": [
-      "It has lots of clay, which swells when wet and shrinks as it dries",
       "Earthquakes crack it",
+      "It has lots of clay, which swells when wet and shrinks as it dries",
       "The cotton roots pull it apart"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Clay soaks up water and swells, then shrinks as it dries. Black soil is full of clay, so the shrinking opens deep cracks."
     },
     {
@@ -2580,11 +2580,11 @@
      "t": "mcq",
      "p": "You shake pieces of chalk in a closed jar of water for a long time. A white powder collects at the bottom. What does this show about stones in a river?",
      "opts": [
-      "Stones knock against each other and break into tiny grains like silt and clay",
       "Stones melt in water",
+      "Stones knock against each other and break into tiny grains like silt and clay",
       "The water turns into salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The powder is tiny grains knocked off the chalk, like the silt and clay knocked off stones in a river. Over a long time this is how rock becomes part of soil.",
      "how": "e3"
     },
@@ -2729,11 +2729,11 @@
      "t": "mcq",
      "p": "A farmer near Thanjavur grows rice in the same field every year and never adds manure. What will slowly happen?",
      "opts": [
-      "The soil will lose nutrients and the crops will get smaller",
       "The soil will turn into rock",
+      "The soil will lose nutrients and the crops will get smaller",
       "Nothing, because rice adds nutrients"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each harvest carries away nutrients from the field. Without manure, compost or fertiliser to put them back, the soil slowly gets poorer."
     },
     {
@@ -2805,11 +2805,11 @@
      "t": "mcq",
      "p": "Why does a jar of soil from under a big old tree usually have more floating bits than a jar of sand from a building site?",
      "opts": [
-      "Leaves have fallen and rotted there for years, adding humus",
       "Trees make sand",
-      "Building sand has been cleaned of rock"
+      "Building sand has been cleaned of rock",
+      "Leaves have fallen and rotted there for years, adding humus"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Under a tree, leaves keep falling and decomposing, so the soil gathers humus. Building sand is rock grains with almost no dead plant material.",
      "how": "e1"
     },

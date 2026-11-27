@@ -576,11 +576,11 @@
       "t": "mcq",
       "q": "A gull chick pecks more at a striped red stick than at a model of a real beak. Why?",
       "options": [
-       "The stick has more of the feature that sets off pecking",
        "The stick tastes of fish",
+       "The stick has more of the feature that sets off pecking",
        "The chick knows the stick is a toy"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The chick responds to redness and contrast on a thin shape. The stick has more of these than a real beak, so it sets off more pecks. If you chose the taste of fish, remember that the chick pecks before tasting anything."
      },
      "context": "This is the last step of Which One Did They Choose. You look for cards where a dummy beat the real thing."
@@ -873,11 +873,11 @@
       "t": "mcq",
       "q": "In the Cold Face Test, why do you also test a hand in cold water?",
       "options": [
-       "To see if cold on any body part works",
        "To wash the hand",
-       "To make the water warmer"
+       "To make the water warmer",
+       "To see if cold on any body part works"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Suppose a cold hand does not slow the heart but a cold face does. Then the trigger is cold on the face. If you chose washing the hand, remember that each test changes one thing to find the trigger."
      },
      "context": "In this step of the Cold Face Test you hold your breath with your face in cold water, three times."
@@ -1153,11 +1153,11 @@
       "t": "mcq",
       "q": "In Find the Trigger, what was the stimulus for the blink?",
       "options": [
-       "The sock ball rushing at the eyes",
        "The eyelids shutting",
-       "The clear sheet"
+       "The clear sheet",
+       "The sock ball rushing at the eyes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The stimulus is what sets the reflex off, and here that was something rushing at the eyes. The eyelids shutting is the response. If you chose the sheet, remember that the sheet was there the whole time and caused no blink by itself."
      },
      "context": "This is the last step of Find the Trigger. You match each of the three reflexes to its stimulus."
@@ -1242,11 +1242,11 @@
       "t": "mcq",
       "q": "Which two things are true of a fixed action pattern, such as a swallow?",
       "options": [
-       "It needs a trigger and runs to the end",
        "It needs practice and a teacher",
+       "It needs a trigger and runs to the end",
        "It is slow and can stop anywhere"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the Swallow Test, a swallow would not start without something to swallow, and it could not be stopped halfway. Those are the two marks of a fixed action pattern. Nobody practises swallowing with a teacher."
      },
      "context": "This is the last step of the Swallow Test. You compare the two counts and say what a swallow needs to start."
@@ -1423,11 +1423,11 @@
       "t": "mcq",
       "q": "On the ducklings' graph, the line is highest at 13 to 16 hours and at zero by 32 hours. What does this show?",
       "options": [
-       "Imprinting works only for a short time",
        "Older ducklings imprint best",
-       "Age makes no difference"
+       "Age makes no difference",
+       "Imprinting works only for a short time"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The line rises, peaks in the first day and falls to zero. So there is a short sensitive period for imprinting. If you chose 'older ducklings imprint best', look again at the right-hand end of the graph."
      },
      "context": "This is the last step of When Does the Window Close. You mark the sensitive period on your graph and say what it means."
@@ -1662,12 +1662,12 @@
      "t": "mcq",
      "p": "A drop of lemon juice makes your mouth water. Which one is the stimulus?",
      "opts": [
-      "The lemon juice",
       "The saliva",
       "The swallow",
-      "The tongue"
+      "The tongue",
+      "The lemon juice"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The stimulus is what sets the reflex off. The saliva flowing is the response. The tongue is where the sensors are.",
      "outcome": 0
     },
@@ -1675,12 +1675,12 @@
      "t": "mcq",
      "p": "A goose's egg is taken away halfway through a roll. What does she do?",
      "opts": [
-      "She finishes the rolling movement",
       "She stops at once",
       "She flies away",
+      "She finishes the rolling movement",
       "She rolls much faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fixed action pattern usually runs to the end once it has started. Lorenz and Tinbergen saw the goose draw her beak back to the nest with no egg.",
      "outcome": 1
     },
@@ -1688,12 +1688,12 @@
      "t": "mcq",
      "p": "What does a newly hatched gosling imprint on?",
      "opts": [
-      "The first big moving thing she sees",
       "The biggest egg in the nest",
       "The first food she eats",
-      "The colour of the nest"
+      "The colour of the nest",
+      "The first big moving thing she sees"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A gosling fixes on the first large moving thing near her in her first day. In nature that is her mother.",
      "outcome": 5
     },
@@ -1701,12 +1701,12 @@
      "t": "mcq",
      "p": "What is a sign stimulus?",
      "opts": [
-      "The one feature that sets off a behaviour",
       "A reward given after a trick",
       "A loud warning call",
-      "A mark on a tree"
+      "A mark on a tree",
+      "The one feature that sets off a behaviour"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A sign stimulus is one feature, such as the red spot on a gull's beak. The animal responds to that feature more than to the whole thing.",
      "outcome": 3
     },
@@ -1864,12 +1864,12 @@
      "t": "mcq",
      "p": "A hen ignores a chick she can see but cannot hear. What is the trigger for her rescue?",
      "opts": [
-      "The chick's cheeping",
       "The chick's colour",
       "The chick's size",
+      "The chick's cheeping",
       "The glass cover"
      ],
-     "a": 0,
+     "a": 2,
      "why": "She runs to a cheeping chick even when she cannot see them. So the sound is the trigger, more than the sight.",
      "outcome": 3
     },
@@ -1877,12 +1877,12 @@
      "t": "mcq",
      "p": "Why can a dummy set off an inborn behaviour?",
      "opts": [
-      "It has the one feature that matters",
       "It smells of food",
       "It is bigger than the animal",
-      "Animals like new things"
+      "Animals like new things",
+      "It has the one feature that matters"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The animal responds to the sign stimulus. Any dummy that carries that feature, such as a red spot, can set off the behaviour.",
      "outcome": 3
     },
@@ -1890,12 +1890,12 @@
      "t": "mcq",
      "p": "A duckling first sees a moving thing at 40 hours old. What will most likely happen?",
      "opts": [
-      "She will not imprint on it",
       "She will imprint at once",
       "She will imprint twice as strongly",
+      "She will not imprint on it",
       "She will forget how to walk"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The sensitive period for a mallard duckling is nearly over by 30 hours. At 40 hours she is more likely to move away from a new thing.",
      "outcome": 5
     },
@@ -1903,12 +1903,12 @@
      "t": "mcq",
      "p": "Why is a reflex faster than an action you plan?",
      "opts": [
-      "The message skips the brain's planning parts",
       "Reflex nerves are outside the body",
       "Planned actions use no nerves",
+      "The message skips the brain's planning parts",
       "Reflexes use bigger muscles"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In a reflex the message goes in to the spinal cord or lower brain. Then it goes straight back out to a muscle. A planned action takes a longer path.",
      "outcome": 0
     },
@@ -2081,12 +2081,12 @@
      "t": "mcq",
      "p": "A stickleback attacks a red wax lump and leaves a lifelike grey model alone. What does this show?",
      "opts": [
-      "A red underside is the trigger",
       "Wax smells like a fish",
       "He is hungry",
+      "A red underside is the trigger",
       "Grey fish are his friends"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The lump had only one fish-like feature, the red underside, and the lump was attacked. The lifelike model lacked red and was left alone.",
      "outcome": 3
     },
@@ -2107,12 +2107,12 @@
      "t": "mcq",
      "p": "In the Cold Face Test, why is the pulse counted three times for each test?",
      "opts": [
-      "One count can be wrong by chance",
       "The heart needs to warm up",
+      "One count can be wrong by chance",
       "The water gets colder each time",
       "Three counts take less time"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A single count can be off by a beat or two. Three counts show whether the result repeats, and the middle count is a fair one to use.",
      "outcome": 4,
      "how": "e1"
@@ -2121,12 +2121,12 @@
      "t": "mcq",
      "p": "Mice raised in cages still dig the burrow shape of their own kind. What does this show?",
      "opts": [
-      "Burrow shape is inherited",
       "Cages are like burrows",
       "The mice copied other mice",
-      "Digging has to be taught"
+      "Digging has to be taught",
+      "Burrow shape is inherited"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The mice had never seen a burrow or another mouse digging. So the shape did not come from copying or teaching.",
      "outcome": 2
     },
@@ -2255,12 +2255,12 @@
    "t": "mcq",
    "p": "Which of these is a reflex?",
    "opts": [
-    "Blinking when something flies at your eye",
     "Tying a shoelace",
+    "Blinking when something flies at your eye",
     "Singing a song",
     "Choosing a ripe mango"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A blink at something rushing towards the eye is fast, automatic and unlearned. The other three are learned or chosen.",
    "outcome": 0
   },
@@ -2281,12 +2281,12 @@
    "t": "mcq",
    "p": "Which sentence is true of a fixed action pattern?",
    "opts": [
-    "Once started, it usually runs to the end",
     "It is different every time",
     "It has to be taught",
+    "Once started, it usually runs to the end",
     "Only birds have them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A goose finishes the rolling movement even when the egg has gone. Humans have fixed patterns too, such as swallowing.",
    "outcome": 1
   },
@@ -2294,12 +2294,12 @@
    "t": "mcq",
    "p": "A cuckoo chick pushes eggs out of the nest a day after hatching. What kind of behaviour is this?",
    "opts": [
-    "An instinct",
     "A habit copied from others",
+    "An instinct",
     "A trick taught by the foster mother",
     "A game"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The chick is blind and has never seen this done, so the behaviour cannot be copied or taught. It is an instinct.",
    "outcome": 2
   },
@@ -2320,12 +2320,12 @@
    "t": "mcq",
    "p": "With the breath held and the face in cold water, a person's heart usually:",
    "opts": [
-    "beats more slowly",
     "beats faster",
     "stops for a minute",
+    "beats more slowly",
     "beats the same as before"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This is the diving reflex. In humans the heart usually slows by a tenth to a quarter.",
    "outcome": 4,
    "how": "e1"
@@ -2347,12 +2347,12 @@
    "t": "mcq",
    "p": "Goslings hatched by Konrad Lorenz followed him and not adult geese. Why?",
    "opts": [
-    "He was the first moving thing they saw",
     "He gave them the best food",
     "He looked like a goose",
+    "He was the first moving thing they saw",
     "He trained them with rewards"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The goslings imprinted on the first large moving thing near them, and that was Lorenz. No rewards or training were needed.",
    "outcome": 5
   },
@@ -2360,12 +2360,12 @@
    "t": "mcq",
    "p": "When can a mallard duckling imprint?",
    "opts": [
-    "Only in a short time after hatching",
     "At any age",
     "Only as an adult",
-    "Only in winter"
+    "Only in winter",
+    "Only in a short time after hatching"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Imprinting has a sensitive period. For mallard ducklings this period peaks at 13 to 16 hours and is nearly over by 30 hours.",
    "outcome": 5
   },
@@ -2373,12 +2373,12 @@
    "t": "mcq",
    "p": "An oystercatcher chooses a giant egg over her own. What is the giant egg?",
    "opts": [
-    "A supernormal stimulus",
     "A fixed action pattern",
     "A reflex",
+    "A supernormal stimulus",
     "An instinct"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The giant egg is a made-up trigger that works better than the real one. That is a supernormal stimulus.",
    "outcome": 6
   },
@@ -2393,12 +2393,12 @@
    "t": "mcq",
    "p": "A duckling hatches with the urge to follow. What must she still learn?",
    "opts": [
-    "What her parent looks like",
     "How to walk",
     "How to breathe",
-    "How to swallow"
+    "How to swallow",
+    "What her parent looks like"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The urge and the movements are innate. Which bird to follow is learned by imprinting in the first day.",
    "outcome": 7
   }

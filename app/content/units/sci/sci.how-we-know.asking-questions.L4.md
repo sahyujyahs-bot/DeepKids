@@ -605,7 +605,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 ## Worksheets
 ### Saw It, Thought It (core) (core, 16 questions)
 1. (mcq) Which sentence is an observation about a steel tumbler of ice water?  
-   Options: The tumbler leaked / There are small clear drops on the outside of the tumbler / The ice made the steel sweat  
+   Options: The tumbler leaked / The ice made the steel sweat / There are small clear drops on the outside of the tumbler  
    **Answer:** There are small clear drops on the outside of the tumbler. *Why:* An observation is what you can see, and anyone can check it. 'Leaked' and 'made the steel sweat' are stories about why the drops are there. They are inferences.
 2. (sort) Sort each sentence about a bowl of curd on the shelf. Is it something you saw, or something you think?  
    **Answer:** There is a thin watery layer on top of the curd → I saw; The curd has gone sour → I think; The bowl is cold to touch → I saw; Someone left the fridge door open → I think; A few small bubbles are in the curd → I saw; The curd was made with too much starter → I think. *Why:* Sentences that report what you see, feel or count belong in 'I saw'. Sentences about why something happened, or what someone did, are stories. They belong in 'I think', until a test checks them.
@@ -619,7 +619,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 6. (write) A bowl of dosa batter did not rise overnight. Write two different explanations that could both fit.  
    **Answer:** For example: the kitchen was too cold. Or: there was not enough time. Or: the batter was too thick. Any two sensible, different explanations score.. *Why:* A good answer gives two ideas that are different from each other and that could each be checked, for example by keeping batter in a warm place and in a cold place.
 7. (mcq) One idea is that ants find the sugar by smell. Another idea is that they follow a trail left by other ants. Which check can tell the ideas apart?  
-   Options: Count how many ants arrive / Wipe a short piece of the ants' path and watch what they do / Give the ants a bigger piece of sugar  
+   Options: Count how many ants arrive / Give the ants a bigger piece of sugar / Wipe a short piece of the ants' path and watch what they do  
    **Answer:** Wipe a short piece of the ants' path and watch what they do. *Why:* If the ants follow a trail, wiping a piece of it will confuse them. If they find the sugar alone by smell, they will carry on. Counting or giving more sugar gives the same result under both ideas.
 8. (match) Match each word to what it means.  
    **Answer:** Observation → what you notice, without adding why; Inference → a guess you work out from what you noticed; Prediction → what you expect to see if an idea is true; Evidence → what you saw that counts for or against an idea; Hypothesis → an explanation you can test. *Why:* These words come up in every investigation. A strong answer could give an example for each one.
@@ -636,7 +636,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 13. (draw) Draw two columns headed 'I saw' and 'I think'. Write three sentences about a crow on your railing in the correct columns.  
    **Answer:** A page with two columns. Under 'I saw': for example, 'A crow sits on the railing' and 'The crow turns their head'. Under 'I think': for example, 'The crow is hungry'.. *Why:* A strong drawing keeps what can be seen apart from the reasons we add. 'The crow is waiting for food' belongs in the second column.
 14. (mcq) In the Weeping Tumbler test, the water inside a cold tumbler is coloured red. The drops on the outside are clear. What is the best conclusion?  
-   Options: The drops did not come from the water inside / Colour cannot go through steel / The red colour was too weak  
+   Options: Colour cannot go through steel / The red colour was too weak / The drops did not come from the water inside  
    **Answer:** The drops did not come from the water inside. *Why:* If the water inside had crossed the steel, the drops would carry the colour. They are clear, so the water came from somewhere else. The air is the likely source.
 15. (perspective) A girl's test gives a result she did not expect. She wants to rub it out and write what she thought would happen. Her brother wants to keep it and repeat the test. Who do you agree with?  
    **Answer:** A strong answer keeps the odd result, writes it down as it is and repeats the test, and also gives the girl's worry a fair hearing.. *Why:* Pick-a-side questions have no single right side. Marks go for using the idea of evidence and for stating the other view fairly.
@@ -644,10 +644,10 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
    **Answer:** Once you have seen the result, it is easy to believe you expected it all along. A written prediction is fixed, so the test can really show you wrong.. *Why:* A strong answer says that the written prediction cannot change after the result, so we can trust it as a test of the idea.
 ### Patterns, Causes and Surprises (stretch) (stretch, 16 questions)
 1. (mcq) On a normal day, why does a tumbler of warm water stay dry on the outside?  
-   Options: The air next to a warm tumbler stays warm, so its water vapour does not turn into drops / Warm water has no vapour / Warm water is too heavy to leak  
+   Options: Warm water has no vapour / Warm water is too heavy to leak / The air next to a warm tumbler stays warm, so its water vapour does not turn into drops  
    **Answer:** The air next to a warm tumbler stays warm, so its water vapour does not turn into drops. *Why:* Drops form when air touches something cold enough to turn some of its vapour into liquid. A warm tumbler does not cool the air next to it.
 2. (mcq) A cold bottle from the fridge gets wet outside in a damp kitchen but stays almost dry in a very dry winter room. What is the best reason?  
-   Options: Dry air has less water vapour to collect / The bottle leaks more in summer / The fridge is cold only in summer  
+   Options: The bottle leaks more in summer / The fridge is cold only in summer / Dry air has less water vapour to collect  
    **Answer:** Dry air has less water vapour to collect. *Why:* Condensation needs vapour in the air. When the air is dry, there is less vapour, so fewer drops form and they come more slowly.
 3. (sort) Choose the best way of finding out for each question.  
    **Answer:** Does more salt in water help a potato float? → Fair test; Do taller children have longer feet? → Pattern search; When does the school bus come each morning? → Long watch; How far away is the Sun? → Look it up; Does a bigger paper helicopter fall slower? → Fair test; How many petals do hibiscus flowers have? → Pattern search. *Why:* A fair test changes one thing. A pattern search measures many cases. A long watch looks again and again over time. Looking it up suits questions we cannot check at home.
@@ -656,7 +656,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 5. (write) You measure 8 people. Seven have an arm span within 4 centimetres of their height. One has a span 12 centimetres more than their height. What should you do about the odd one, and why?  
    **Answer:** Measure that person again, check the tape was straight, and write down both results. If it is the same again, keep it. Do not rub it out.. *Why:* A good answer says to check and repeat before deciding, and to keep the record honest whatever the second measurement shows.
 6. (mcq) Which gives a steadier pattern about arm span and height?  
-   Options: Measuring 3 people / Measuring 12 people / Measuring only the tallest person  
+   Options: Measuring 12 people / Measuring 3 people / Measuring only the tallest person  
    **Answer:** Measuring 12 people. *Why:* More cases give a steadier pattern, because any one person may be a little odd. Measuring only one kind of person is also unfair.
 7. (fill) The small wobble in any measurement, from where you hold the tape or how you read it, is called measurement ____.  
    **Answer:** ['error']. *Why:* Measurement error is not a mistake. It is the small difference you get when you measure the same thing twice. Every measurement has some.
@@ -686,7 +686,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
    Options: It follows star time, so it may come from the sky / It follows the clock on the wall, so it is a machine on Earth / It was drawn by someone  
    **Answer:** It follows star time, so it may come from the sky. *Why:* Things in the sky return about four minutes earlier each day. Machines on Earth follow the clock on the wall. This is the test Jocelyn Bell's team used.
 2. (mcq) A crackle on a radio comes at exactly 7 pm every day by the clock. What does that suggest?  
-   Options: It probably comes from something that works on the clock, such as a neighbour's machine / It comes from a distant star / It is a message from space  
+   Options: It comes from a distant star / It is a message from space / It probably comes from something that works on the clock, such as a neighbour's machine  
    **Answer:** It probably comes from something that works on the clock, such as a neighbour's machine. *Why:* Anything that returns at the same clock time each day follows human routines. A star would drift earlier each day.
 3. (write) A damp patch grows on the wall under the terrace. Idea A: rain is seeping in. Idea B: a pipe is leaking. Write a deciding question and say what each idea predicts.  
    **Answer:** Does the patch grow during a long dry spell? If rain is seeping in, the patch will stop growing on dry days. If a pipe is leaking, the patch will keep growing on dry days too.. *Why:* A strong answer chooses something about which the ideas disagree and says what each would show.
@@ -695,7 +695,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 5. (perspective) A research student sees a strange mark on a chart and her supervisor receives the biggest prize for the discovery. Should the person who first noticed the mark have her name on the prize?  
    **Answer:** A strong answer weighs both views and says what counts as discovering something. Real prizes have often gone to supervisors, and many scientists now say students deserved more credit.. *Why:* Pick-a-side questions have no single right side. Marks go for fairly stating both views and giving a reason.
 6. (mcq) Which sentence is a good if-then prediction?  
-   Options: If the light is a timer, it will come on at the same clock time on a very cloudy evening / If the light is a timer, it will come on / If it is cloudy, I will be sad  
+   Options: If the light is a timer, it will come on / If it is cloudy, I will be sad / If the light is a timer, it will come on at the same clock time on a very cloudy evening  
    **Answer:** If the light is a timer, it will come on at the same clock time on a very cloudy evening. *Why:* A good prediction names the idea, the situation and the result you expect. It could turn out wrong.
 7. (truefalse) An idea that fits every possible result is the strongest kind of idea.  
    **Answer:** False. *Why:* False. An idea that fits every result tells you nothing about this case and cannot be tested. A strong idea says what you will see, so it can be wrong.
@@ -709,7 +709,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 11. (match) Match each word about measurements to what it means.  
    **Answer:** Signal → a pattern in measurements that carries information; Noise → random wobble with no message; Interference → unwanted noise from things nearby; Sample → the group of people or things you measure; Pattern → something that goes together in many cases. *Why:* These words help us talk about measurements that are hard to read. A strong answer could give an example for each.
 12. (mcq) A scientist wants to know how old the Moon is. Which way of finding out is best?  
-   Options: A fair test at home / Looking it up in the work of other scientists / Asking five friends to vote  
+   Options: Looking it up in the work of other scientists / A fair test at home / Asking five friends to vote  
    **Answer:** Looking it up in the work of other scientists. *Why:* We cannot change the Moon or watch its whole history at home. Other scientists have measured the age with rock samples and careful reasoning, and we can read what they found.
 13. (write) Describe a pattern you could look for with a measuring tape and ten people. Say what you would measure, and what you could not say from the result.  
    **Answer:** For example: foot length and height. We could say whether taller people tend to have longer feet. We could not say whether height causes long feet, or whether this is true for everyone in the world.. *Why:* A strong answer names two things to measure and says what the result would show and what it could not show.
@@ -728,13 +728,13 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 
 ## Quiz
 1. (mcq) Which of these is an inference about a wet tumbler?  
-   Options: The outside is covered in small drops / The steel is sweating because it is hot inside / The tumbler is on a plate  
+   Options: The outside is covered in small drops / The tumbler is on a plate / The steel is sweating because it is hot inside  
    **Answer:** The steel is sweating because it is hot inside. *Why:* 'Sweating because it is hot inside' is a story about why. Even the idea of the tumbler 'sweating' is a story. The drops and the plate can be seen.
 2. (mcq) Two ideas both fit everything you have seen. What will help you choose between them?  
    Options: Watching the same thing for longer / Finding a situation where the ideas predict different things / Voting on which idea is nicer  
    **Answer:** Finding a situation where the ideas predict different things. *Why:* More of the same watching gives results that fit both ideas. A situation where they disagree can separate them.
 3. (mcq) The water inside a cold tumbler is coloured. What would show that the drops on the outside came from the air?  
-   Options: The drops are coloured / The drops are clear / There are no drops  
+   Options: The drops are clear / The drops are coloured / There are no drops  
    **Answer:** The drops are clear. *Why:* If the water had leaked through, the drops would carry the colour. Clear drops fit the air idea.
 4. (mcq) Which is the best if-then prediction for 'the streetlight is switched by a timer'?  
    Options: If it is a timer, the light will come on at the same clock time on a dark cloudy evening / If it is a timer, the light will glow / If it is a timer, the sky will be dark  
@@ -752,13 +752,13 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
    Options: Does lemon juice slow browning of cut fruit? / Do the pigeons leave earlier each week as the days shorten? / How far is the Sun?  
    **Answer:** Do the pigeons leave earlier each week as the days shorten?. *Why:* A long watch looks at the same thing again and again over time. Browning needs a fair test, and the Sun's distance can be looked up.
 9. (mcq) A test gives a result nobody expected. What is the best first step?  
-   Options: Rub it out / Check how the test was done and repeat it / Change the idea to match  
+   Options: Rub it out / Change the idea to match / Check how the test was done and repeat it  
    **Answer:** Check how the test was done and repeat it. *Why:* A surprise might be a slip, or it might be a discovery. Checking and repeating shows which.
 10. (mcq) Two things go up together in summer: ice cream sales and sunburn. Which statement is best?  
    Options: Ice cream causes sunburn / Hot sunny weather may cause both / Sunburn causes ice cream  
    **Answer:** Hot sunny weather may cause both. *Why:* A third thing can cause both. Going up together is a pattern, not proof of a cause.
 11. (mcq) Why do we write predictions before a test?  
-   Options: So we cannot change our minds about what we expected after seeing the result / So the test runs faster / So the answer is always right  
+   Options: So the test runs faster / So we cannot change our minds about what we expected after seeing the result / So the answer is always right  
    **Answer:** So we cannot change our minds about what we expected after seeing the result. *Why:* A written prediction cannot be changed by the result. That keeps the test honest.
 12. (mcq) A warm tumbler of water stays dry outside while a cold one gets wet. What does this show about the drops?  
    Options: The cold steel matters, because the same air made no drops on the warm one / Warm water cannot leak / The tumblers were different sizes  

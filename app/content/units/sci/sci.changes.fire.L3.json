@@ -1190,11 +1190,11 @@
       "t": "mcq",
       "q": "The oiled wick burned for 10 minutes and hardly got shorter. What does that show?",
       "options": [
-       "The oil is the fuel, and it burns at the tip of the wick",
        "Oil stops cotton from ever burning",
-       "The flame was too small to burn anything"
+       "The flame was too small to burn anything",
+       "The oil is the fuel, and it burns at the tip of the wick"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The oil climbs up the wick and burns as a gas at its tip. While oil keeps coming, the cotton is soaked and stays cool enough not to burn away. Picking 'oil stops cotton from ever burning' is close. But when a diya's oil runs out, the cotton does burn, just like the dry wick."
      }
     }
@@ -1378,10 +1378,10 @@
       "q": "You smell gas in the kitchen. What should you do first?",
       "options": [
        "Switch on the light to see better",
-       "Tell a grown-up at once, without touching any switch",
-       "Light a match to find the leak"
+       "Light a match to find the leak",
+       "Tell a grown-up at once, without touching any switch"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A switch or a match can make a spark or flame that lights the gas. So tell a grown-up straight away and touch nothing. Picking the light is a natural thing to want, because it is hard to see. But the spark inside a switch can be enough."
      }
     }
@@ -1437,11 +1437,11 @@
       "t": "mcq",
       "q": "Your shirt sleeve catches fire from a lamp. What should you do?",
       "options": [
-       "Run to the bathroom for water",
        "Stop, drop to the ground, cover your face and roll",
+       "Run to the bathroom for water",
        "Wave your arm to blow it out"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Running and waving both bring more air to the flames, so they burn harder. Stopping, dropping and rolling keeps the air away. Picking the bathroom is a fair idea, because water does put out burning cloth. But running there feeds the fire on the way."
      }
     }
@@ -1507,10 +1507,10 @@
       "q": "You touch a hot tawa and burn your finger. What is the best thing to do?",
       "options": [
        "Put toothpaste on it",
-       "Hold it under cool running water for 20 minutes",
-       "Hold an ice cube on it"
+       "Hold an ice cube on it",
+       "Hold it under cool running water for 20 minutes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cool running water for 20 minutes takes the heat out of the skin and helps it heal. Picking toothpaste or ice is very common, because both feel cool. But they do not cool the burn deep down, and ice can damage the skin."
      }
     }
@@ -1576,10 +1576,10 @@
       "q": "Why did early people blow gently on a glowing ember in dry grass?",
       "options": [
        "To cool it down",
-       "To give it more oxygen, so it burned hotter and the grass caught fire",
-       "To blow the smoke away"
+       "To blow the smoke away",
+       "To give it more oxygen, so it burned hotter and the grass caught fire"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Blowing brings fresh air, and fresh oxygen makes the ember glow hotter until the dry grass bursts into flame. Picking 'to cool it' makes sense, because blowing on hot tea cools it. But a gentle breath on an ember feeds it more than it cools it."
      }
     }
@@ -1865,11 +1865,11 @@
       "t": "mcq",
       "q": "Why should children wear cotton clothes, not thin synthetic ones, near crackers?",
       "options": [
-       "Thin synthetic cloth catches fire easily and can melt onto the skin",
        "Cotton cannot burn at all",
+       "Thin synthetic cloth catches fire easily and can melt onto the skin",
        "Synthetic clothes are too warm"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Thin synthetic cloth catches fire quickly and melts, sticking to the skin and making burns worse. Cotton can still burn, so keep a safe distance anyway. Picking 'cotton cannot burn' is a common idea, but it is not true."
      }
     }
@@ -1917,11 +1917,11 @@
    "t": "mcq",
    "p": "Which three things does every fire need?",
    "opts": [
-    "Fuel, oxygen and heat",
     "Wood, water and wind",
-    "Smoke, light and ash"
+    "Smoke, light and ash",
+    "Fuel, oxygen and heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every fire needs fuel, oxygen and heat at once. Smoke, light and ash are what a fire gives out, not what it needs.",
    "outcome": 0
   },
@@ -1930,10 +1930,10 @@
    "p": "A box of matches sits on a shelf. It has fuel and air all round it. Why doesn't it catch fire?",
    "opts": [
     "It has no oxygen",
-    "It is not hot enough",
-    "Matches burn only at night"
+    "Matches burn only at night",
+    "It is not hot enough"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The matches have fuel and air, but they need heat to start. Striking a match on the box gives that heat. Picking 'no oxygen' is a fair try, but the air all round the box has oxygen.",
    "outcome": 0
   },
@@ -1941,11 +1941,11 @@
    "t": "mcq",
    "p": "In The Jumping Flame, a match held in the white smoke of a blown-out candle relit the wick. What was burning in the smoke?",
    "opts": [
-    "Wax gas",
     "The air",
-    "Bits of the match"
+    "Bits of the match",
+    "Wax gas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Just after the candle went out, wax gas kept rising from the hot wick. The match lit that gas, and the flame ran down it to the wick. Picking 'the air' is a good thought, because oxygen from the air was needed too. But the air alone does not burn.",
    "outcome": 1,
    "how": "e1"
@@ -1954,11 +1954,11 @@
    "t": "mcq",
    "p": "In The Jumping Flame, a grown-up held a lit match to a lump of wax with no wick. What happened?",
    "opts": [
-    "It burst into flame",
     "It melted a little but did not keep burning",
+    "It burst into flame",
     "It turned into water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The heat spread into the big lump and only melted it. Not enough wax turned into gas in one place to keep a flame going. A wick fixes that by lifting a little melted wax into the hottest part of the flame.",
    "outcome": 1,
    "how": "e1"
@@ -2003,11 +2003,11 @@
    "t": "mcq",
    "p": "In a fire in a tall building, why should you use the stairs and not the lift?",
    "opts": [
-    "The power may fail, and smoke can fill the lift shaft",
     "The lift is too slow to reach the ground",
-    "Lifts cannot go downstairs"
+    "Lifts cannot go downstairs",
+    "The power may fail, and smoke can fill the lift shaft"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a fire the lift can stop between floors when the power fails, and smoke can fill the lift shaft. The stairs are the safe way out. Picking 'too slow' is a fair thought, but speed is not the main danger.",
    "outcome": 3
   },
@@ -2052,10 +2052,10 @@
    "p": "Humphry Davy put a lamp's flame inside a cylinder of fine iron mesh. Why could the flame not light the gas outside?",
    "opts": [
     "The mesh kept out all the gas",
-    "The metal took heat away, so the gas outside was too cool to burn",
-    "The mesh made the flame smaller"
+    "The mesh made the flame smaller",
+    "The metal took heat away, so the gas outside was too cool to burn"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.",
    "outcome": 5,
    "how": "e2"
@@ -2064,11 +2064,11 @@
    "t": "mcq",
    "p": "A potter bakes a clay diya in a kiln. What does the heat do?",
    "opts": [
-    "It changes the clay into something hard",
     "It only dries the clay, so water can soften it again",
+    "It changes the clay into something hard",
     "It melts the clay so it can be shaped again"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The heat drives out the water and changes the clay itself, so the grains join into something hard. Drying alone would leave a pot that turns to mud again, and melting is not what a kiln does.",
    "outcome": 0
   },
@@ -2167,11 +2167,11 @@
     {
      "t": "mcq",
      "p": "You blow out a birthday candle. What does your breath do to the flame?",
-     "a": 0,
+     "a": 1,
      "why": "Your breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.",
      "opts": [
-      "Pushes the wax gas away and cools the wick",
       "Adds water to the flame",
+      "Pushes the wax gas away and cools the wick",
       "Uses up all the oxygen"
      ]
     },
@@ -2223,11 +2223,11 @@
     {
      "t": "mcq",
      "p": "Which of these should a child never do?",
-     "a": 1,
+     "a": 0,
      "why": "Matches and lighters stay with grown-ups, because a child may not be able to control the flame or put it out. The others are good habits.",
      "opts": [
-      "Tell a grown-up if you smell gas",
       "Play with a lighter",
+      "Tell a grown-up if you smell gas",
       "Keep a lamp on a steel plate"
      ]
     },
@@ -2362,12 +2362,12 @@
     {
      "t": "mcq",
      "p": "In Dry Wick or Oiled Wick?, the dry wick burned for under a minute, but the wick in oil burned for 10 minutes. What was the main fuel in the oiled diya?",
-     "a": 1,
+     "a": 2,
      "why": "The oil climbed the wick and burned as a gas at its tip. The soaked cotton hardly burned. Picking 'the cotton' is natural, because the flame sits on it, but the dry wick showed how fast cotton alone burns away.",
      "opts": [
       "The cotton",
-      "The oil",
-      "The clay diya"
+      "The clay diya",
+      "The oil"
      ],
      "how": "e3"
     },
@@ -2388,12 +2388,12 @@
     {
      "t": "mcq",
      "p": "A big log will not light from one match, but a handful of thin dry twigs will. Why?",
-     "a": 0,
+     "a": 2,
      "why": "Thin twigs heat up quickly all the way through, so they give off gas fast. In a big log, the heat spreads into the wood and only warms it. Picking 'logs have no fuel' is not right, because a log burns well once a twig fire is under it.",
      "opts": [
-      "Thin twigs heat up quickly and give off burning gas",
       "Logs have no fuel in them",
-      "Twigs have more oxygen inside them"
+      "Twigs have more oxygen inside them",
+      "Thin twigs heat up quickly and give off burning gas"
      ]
     },
     {
@@ -2462,11 +2462,11 @@
     {
      "t": "mcq",
      "p": "Why is it dangerous to keep petrol or kerosene near a flame, even when they are cold?",
-     "a": 0,
+     "a": 1,
      "why": "Petrol and kerosene give off flammable gas even at room temperature. That gas can spread and reach a flame. Picking 'they are hot inside' is not right: the danger is the gas they give off.",
      "opts": [
-      "They give off flammable gas even when cold",
       "They are hot inside",
+      "They give off flammable gas even when cold",
       "They have no oxygen"
      ]
     },
@@ -2518,11 +2518,11 @@
     {
      "t": "mcq",
      "p": "A cold steel spoon is held in a yellow candle flame for a moment. It comes out black. What is the black stuff?",
-     "a": 0,
+     "a": 1,
      "why": "It is soot: tiny bits of carbon from wax gas that did not burn fully. A blue gas stove flame leaves much less.",
      "opts": [
-      "Soot",
       "Burnt steel",
+      "Soot",
       "Ash from the wick"
      ]
     },
@@ -2553,10 +2553,10 @@
     {
      "t": "mcq",
      "p": "The flame on a gas stove has turned yellow, and the pans get black marks. What should a child who notices this do?",
-     "a": 1,
+     "a": 0,
      "opts": [
-      "Pour water on the burner",
       "Tell a grown-up that the burner may need cleaning",
+      "Pour water on the burner",
       "Cover the stove with a lid"
      ],
      "why": "A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out."
@@ -2609,10 +2609,10 @@
     {
      "t": "mcq",
      "p": "Two diyas of the same size burn with the same oil. One is covered with a small closed glass jar and the other with a big closed glass jar. Which diya goes out first?",
-     "a": 1,
+     "a": 0,
      "opts": [
-      "The one under the big jar",
       "The one under the small jar",
+      "The one under the big jar",
       "They go out together"
      ],
      "why": "Both have fuel and heat. A small jar holds less air, so its oxygen runs out sooner. Picking 'together' is a fair guess, because the diyas are the same. But the amount of air is different.",
@@ -2634,11 +2634,11 @@
     {
      "t": "mcq",
      "p": "Coal miners in the 1700s used a spinning steel wheel that threw sparks for light. They thought it was safer than a candle. Why was it still dangerous?",
-     "a": 0,
+     "a": 1,
      "why": "A spark is a tiny hot bit of metal. It is hot enough to light firedamp gas. An explosion at Wallsend Colliery in 1785 showed this.",
      "opts": [
-      "Sparks are hot enough to light firedamp",
       "Sparks use up all the oxygen",
+      "Sparks are hot enough to light firedamp",
       "The wheel was too heavy to carry"
      ]
     },
@@ -2669,22 +2669,22 @@
     {
      "t": "mcq",
      "p": "Why does a gas stove flame look blue, while a candle flame looks yellow?",
-     "a": 0,
+     "a": 1,
      "why": "In a gas stove, air is mixed with the gas before it burns, so it burns fully and makes very little soot. In a candle, soot forms inside the flame and glows yellow.",
      "opts": [
-      "Air is mixed into the gas first, so it burns fully with little soot",
       "Cooking gas is blue",
+      "Air is mixed into the gas first, so it burns fully with little soot",
       "The stove flame is colder"
      ]
     },
     {
      "t": "mcq",
      "p": "Richard Wrangham thinks learning to cook changed human bodies. Which fact supports his idea?",
-     "a": 0,
+     "a": 1,
      "why": "Cooked food gives the body more energy and needs less chewing, which fits with smaller teeth and guts and bigger brains. The other two are true facts, but they do not support his idea.",
      "opts": [
-      "Cooked food gives more energy and needs less chewing",
       "Chimpanzees cannot swim",
+      "Cooked food gives more energy and needs less chewing",
       "Fire was on Earth before people"
      ]
     },

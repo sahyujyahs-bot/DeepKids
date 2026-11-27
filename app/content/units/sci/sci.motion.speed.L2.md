@@ -404,7 +404,7 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
 1. (match) Draw a line from each racer to the word that fits: faster or slower than you running.  
    **Answer:** a cheetah → faster; a snail → slower; a train → faster; a tortoise → slower. *Why:* A cheetah and a train go further than you in the same time. A snail and a tortoise go less far.
 2. (mcq) In the Step Race, you walked the same path three ways. How did you know which way was fastest?  
-   Options: It took the fewest claps / It took the most steps / It made my feet move fastest  
+   Options: It took the most steps / It made my feet move fastest / It took the fewest claps  
    **Answer:** It took the fewest claps. *Why:* The distance was the same each time. So the way that took the least time, the fewest claps, was the fastest.
 3. (draw) Draw two footprint trails across the same room: one with tiny steps and one with your ordinary steps.  
    **Answer:** Two trails of the same length. The tiny-step trail has many footprints close together. The ordinary trail has fewer footprints, further apart.. *Why:* A strong drawing shows that tiny steps need many more footprints to cover the same distance.
@@ -479,37 +479,37 @@ Joel thought about it all the way home on the bus. At the bus stop, he tried wal
    Options: How far something goes in a stretch of time / How heavy something is / How big something is  
    **Answer:** How far something goes in a stretch of time. *Why:* Speed tells you how far a thing goes in a stretch of time. Weight and size are different things.
 2. (mcq) Meera and Zoya walk to the same door. Meera takes 5 claps and Zoya takes 8 claps. Who is faster?  
-   Options: Meera / Zoya / They are the same  
+   Options: Zoya / They are the same / Meera  
    **Answer:** Meera. *Why:* The distance is the same, and Meera took fewer claps. If you picked Zoya, remember that more claps means more time, so slower.
 3. (mcq) Two children ride cycles for 1 minute. Chitra goes 150 metres. Hema goes 100 metres. Who is faster?  
-   Options: Chitra / Hema / You cannot tell  
+   Options: Hema / Chitra / You cannot tell  
    **Answer:** Chitra. *Why:* The time is the same, and Chitra went further. So she is faster.
 4. (mcq) Which race is fair?  
-   Options: Everyone starts at one line and goes at the same 'Go!' / The youngest starts closer to the finish / Each runner starts when they feel ready  
+   Options: The youngest starts closer to the finish / Everyone starts at one line and goes at the same 'Go!' / Each runner starts when they feel ready  
    **Answer:** Everyone starts at one line and goes at the same 'Go!'. *Why:* A fair race has the same start, the same finish and the same signal for everyone. A head start is kind, but it is not a fair test of speed.
 5. (mcq) You cross the room with tiny quick steps and then with your ordinary walk. Which usually takes fewer claps?  
    Options: Your ordinary walk / Tiny quick steps / Both always take the same  
    **Answer:** Your ordinary walk. *Why:* Each tiny step covers only a foot's length, so tiny steps take more claps. If you picked tiny steps, you judged speed by how busy the feet look.
 6. (mcq) How fast you walk depends on what?  
-   Options: How long your steps are and how often you take them / Only how fast your feet move / Only how long your legs are  
+   Options: Only how fast your feet move / How long your steps are and how often you take them / Only how long your legs are  
    **Answer:** How long your steps are and how often you take them. *Why:* Speed needs both: the length of each step and how many steps you take in a clap.
 7. (mcq) A slow walker starts well ahead of a fast walker. Which race will the slow walker most likely win?  
-   Options: A short race / A long race / Every race  
+   Options: A long race / A short race / Every race  
    **Answer:** A short race. *Why:* The fast walker gains a little every clap. In a short race, the finish comes before the fast walker catches up.
 8. (mcq) In the hare and tortoise story, why does the tortoise win?  
-   Options: The hare stops to sleep / Tortoises are faster than hares / The tortoise starts ahead  
+   Options: Tortoises are faster than hares / The hare stops to sleep / The tortoise starts ahead  
    **Answer:** The hare stops to sleep. *Why:* A hare runs much faster than a tortoise walks. The tortoise wins only because the hare stops for a long time.
 9. (mcq) Why should claps be steady when you use them to time a race?  
-   Options: So every racer is timed the same way / So the claps sound nice / So the race ends sooner  
+   Options: So the claps sound nice / So the race ends sooner / So every racer is timed the same way  
    **Answer:** So every racer is timed the same way. *Why:* The claps are the clock. If they speed up or slow down, the race is not fair.
 10. (mcq) Before you try an experiment, what should you do first?  
-   Options: Guess what will happen and say why / Write the answer you want / Skip the guess  
+   Options: Write the answer you want / Guess what will happen and say why / Skip the guess  
    **Answer:** Guess what will happen and say why. *Why:* A guess with a reason lets the experiment show you whether your idea was right.
 11. (mcq) A mosquito beats her wings very fast. Why can you still run away from her?  
-   Options: Each wing beat moves her only a tiny way / Mosquitoes cannot see you / Her wings go backwards  
+   Options: Mosquitoes cannot see you / Each wing beat moves her only a tiny way / Her wings go backwards  
    **Answer:** Each wing beat moves her only a tiny way. *Why:* Many quick, tiny movements can add up to a slow speed, like tiny quick steps.
 12. (mcq) What is the fastest thing there is?  
-   Options: Light / A cheetah / An aeroplane  
+   Options: A cheetah / Light / An aeroplane  
    **Answer:** Light. *Why:* Light travels about 3 lakh kilometres every second. Nothing has been found that goes faster.
 
 ## Applications

@@ -635,11 +635,11 @@
       "t": "mcq",
       "q": "If the Sun were swapped for a black hole of the same mass, the Earth would:",
       "options": [
-       "be sucked in at once",
        "keep going round on the same path, in the dark",
+       "be sucked in at once",
        "fly away into space"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The pull from far away depends on mass, and the mass is the same. So the Earth would keep going round once a year. It would just get very dark and cold, because a black hole gives no light."
      }
     },
@@ -743,11 +743,11 @@
       "t": "mcq",
       "q": "A star moves fast in a small circle round a spot where nothing can be seen. What does that tell astronomers?",
       "options": [
-       "Something very heavy is hidden there",
        "Nothing is there at all",
-       "The star is lost"
+       "The star is lost",
+       "Something very heavy is hidden there"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Something must be pulling the star round. The faster the star goes in its small circle, the heavier the hidden thing must be. That is how Andrea Ghez and Reinhard Genzel found the black hole at the centre of our galaxy."
      }
     }
@@ -1123,10 +1123,10 @@
    "p": "What is a black hole?",
    "opts": [
     "An empty hole in space",
-    "A place where gravity is so strong that not even light can get out",
-    "A star that has gone dark for the night"
+    "A star that has gone dark for the night",
+    "A place where gravity is so strong that not even light can get out"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 0,
    "why": "A black hole is a place where a huge amount of mass is squeezed so tight that its gravity traps even light. Many people pick 'an empty hole' because of the name, but a black hole is not empty at all."
   },
@@ -1135,10 +1135,10 @@
    "p": "Why does a black hole look black?",
    "opts": [
     "It is made of black rock",
-    "No light comes out of it",
-    "It is always in a shadow"
+    "It is always in a shadow",
+    "No light comes out of it"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 1,
    "why": "We see black where no light comes back to our eyes. A black hole's gravity lets no light out. It is not made of anything painted or coloured black."
   },
@@ -1183,10 +1183,10 @@
    "p": "You squeeze a slice of bread into a tiny ball. What has changed?",
    "opts": [
     "Its mass, the amount of bread",
-    "Its size",
-    "Both its size and its mass"
+    "Both its size and its mass",
+    "Its size"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 3,
    "why": "Squeezing changes the size, not the amount of stuff. A black hole is a huge amount of mass squeezed into a tiny space, in the same way."
   },
@@ -1195,10 +1195,10 @@
    "p": "Can the Sun become a black hole?",
    "opts": [
     "Yes, very soon",
-    "No, it is not heavy enough",
-    "Yes, every star does"
+    "Yes, every star does",
+    "No, it is not heavy enough"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 3,
    "why": "Only stars many times heavier than the Sun end as black holes. The Sun will end as a small, hot star called a white dwarf."
   },
@@ -1225,11 +1225,11 @@
    "t": "mcq",
    "p": "How did Andrea Ghez find the black hole at the centre of our galaxy?",
    "opts": [
-    "She took a photo of the black hole itself",
     "She watched stars move fast round a spot where nothing could be seen",
+    "She took a photo of the black hole itself",
     "She flew a spaceship there"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 5,
    "why": "A black hole gives no light. Ghez tracked stars for years. From how fast they swung round, she worked out that something about 4 million times as heavy as the Sun was hidden there."
   },
@@ -1238,10 +1238,10 @@
    "p": "Long ago, some great scientists thought black holes could not form in nature. What kind of evidence would show they are real?",
    "opts": [
     "A story about one hitting the Earth",
-    "Stars racing round a spot where nothing can be seen",
-    "A photo of a bright light"
+    "A photo of a bright light",
+    "Stars racing round a spot where nothing can be seen"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 5,
    "why": "Only something with huge mass could pull stars round that fast. If nothing can be seen there, it is a black hole. Evidence like this showed that black holes are real, even though Albert Einstein once doubted they could form."
   }
@@ -1348,11 +1348,11 @@
      "t": "mcq",
      "p": "You throw a ball up gently, then harder. The harder throw:",
      "opts": [
-      "goes higher before it comes back",
       "comes back at once",
+      "goes higher before it comes back",
       "stays in the air for ever"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The faster a thing goes up, the higher it gets before gravity stops it. Only at escape speed would it never come back."
     },
     {
@@ -1365,11 +1365,11 @@
      "t": "mcq",
      "p": "What do we call the path a star takes as it goes round a black hole?",
      "opts": [
-      "an orbit",
       "an event horizon",
-      "an escape"
+      "an escape",
+      "an orbit"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The path one thing takes as it goes round another, held by gravity, is an orbit. The Earth orbits the Sun, and the star S2 orbits the black hole at the centre of our galaxy."
     },
     {
@@ -1459,11 +1459,11 @@
      "t": "mcq",
      "p": "In the Blackest Black experiment, lining the inside of the box with black cloth made the big hole look:",
      "opts": [
-      "darker",
       "lighter",
-      "exactly the same"
+      "exactly the same",
+      "darker"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e1",
      "context": "In the Blackest Black experiment, a box lid is covered with black paper and a small hole is made in it. The child compares how dark the hole looks with the black paper beside it.",
      "why": "A black lining soaks up more light at each bounce, so even less comes back out of the hole."
@@ -1486,11 +1486,11 @@
      "t": "mcq",
      "p": "The Moon's escape speed is lower than the Earth's. Why?",
      "opts": [
-      "The Moon has less mass, so its gravity is weaker",
       "The Moon is further from the Sun",
+      "The Moon has less mass, so its gravity is weaker",
       "The Moon is made of cheese"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Less mass means weaker gravity, so a lower speed is enough to escape. The Moon's escape speed is about 2 and a half kilometres a second."
     },
     {
@@ -1588,11 +1588,11 @@
      "t": "mcq",
      "p": "In the Hidden Partner activity, the heavier grown-up made:",
      "opts": [
-      "a small circle, near the middle",
       "a bigger circle than the child",
-      "no circle, and fell over"
+      "no circle, and fell over",
+      "a small circle, near the middle"
      ],
-     "a": 0,
+     "a": 2,
      "how": "a3",
      "context": "In the Hidden Partner activity, a child holding a torch spins slowly holding hands with a grown-up in dark clothes, in a dark room.",
      "why": "The heavier partner turns almost on the spot, near the middle. A black hole is so much heavier than the stars round it that it stays near the middle while they swing round."

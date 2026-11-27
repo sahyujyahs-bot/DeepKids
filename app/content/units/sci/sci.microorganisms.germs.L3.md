@@ -496,7 +496,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 ## Worksheets
 ### Germ Detective (core) (core, 16 questions)
 1. (mcq) Which of these is caused by a virus?  
-   Options: A cold / Cholera / Ringworm / A broken arm  
+   Options: Cholera / Ringworm / A cold / A broken arm  
    **Answer:** A cold. *Why:* Colds are caused by viruses. Cholera is caused by bacteria, ringworm by a fungus, and a broken arm by no germ at all.
 2. (truefalse) Most microbes are germs that make us ill.  
    **Answer:** False. *Why:* False. Only a few kinds of microbe are germs. Your body carries trillions of bacteria, and nearly all of them do no harm.
@@ -505,12 +505,12 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 4. (sort) Sort these illnesses by how they mostly travel: through the air in droplets, or through dirty water.  
    **Answer:** Measles → Through the air; Tuberculosis (TB) → Through the air; Cholera → Through dirty water; Chickenpox → Through the air. *Why:* Measles, TB and chickenpox spread in droplets and in the air. Cholera spreads through water that has germs in it.
 5. (mcq) In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?  
-   Options: Much less glitter reached the things and the other people / More glitter reached everyone / Exactly the same as round 1  
+   Options: More glitter reached everyone / Much less glitter reached the things and the other people / Exactly the same as round 1  
    **Answer:** Much less glitter reached the things and the other people. *Why:* The elbow does not open doors or press buttons, so the glitter mostly stayed on it. That is why we cough into our elbow.
 6. (fill) When germs get inside your body and multiply, that is called an ________.  
    **Answer:** ['infection']. *Why:* An infection means germs have got in and are multiplying. Germs just sitting on your skin are not an infection.
 7. (mcq) Where do germs most often get into the body?  
-   Options: Through the eyes, nose and mouth / Through dry skin with no cuts / Through the hair  
+   Options: Through dry skin with no cuts / Through the eyes, nose and mouth / Through the hair  
    **Answer:** Through the eyes, nose and mouth. *Why:* The eyes, nose and mouth have soft, wet linings that germs can get through. Skin with no cuts keeps most germs out.
 8. (match) Match each habit to the link it breaks.  
    **Answer:** Cough into your elbow → Keeps germs off your hands; Wash hands before eating → Stops germs reaching your mouth; Boil or filter drinking water → Stops germs in water; Cover food → Keeps flies off; Stay home when ill → Keeps your germs away from others. *Why:* Each habit breaks a different link in a germ chain. Breaking any one link stops that chain.
@@ -526,7 +526,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 13. (write) Why should you wash your hands even on a day you feel well?  
    **Answer:** Because you can carry germs, and pass them on, before you feel ill, or without ever feeling ill.. *Why:* Many germs spread before a person has symptoms. Washing every day breaks chains you cannot see.
 14. (mcq) Which of these is NOT contagious?  
-   Options: A broken leg / Chickenpox / A cold / Flu  
+   Options: Chickenpox / A broken leg / A cold / Flu  
    **Answer:** A broken leg. *Why:* A broken leg cannot pass from one person to another. Chickenpox, colds and flu are caused by germs that spread.
 15. (perspective) Kavya has a cold. Her friend Nandini had a cold last week, but Kavya never sat near her.  
    **Answer:** A strong answer picks a side and gives evidence: in the Glitter Trail, people who never touched the carrier still got glitter from the handle and remote. It also says what the other side has right: colds do spread through droplets in the air too, so both can happen.. *Why:* Both ways are real. Scientists still argue about which matters more for colds, so a good answer uses evidence and does not throw the other view away.
@@ -536,22 +536,22 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 1. (truefalse) In the Handshake Chain, where glitter passed along four hands, the fourth hand usually had as many specks as the first.  
    **Answer:** False. *Why:* False. Each shake passes on only part of the glitter and keeps some on the hand that gave it. So less reaches each hand down the chain.
 2. (mcq) In the Handshake Chain, each hand got less glitter than the hand before. Why might real germs not always get fewer along a chain?  
-   Options: Some germs can multiply on the way, for example in warm food / Germs are bigger than glitter / Germs stick less than glitter  
+   Options: Germs are bigger than glitter / Some germs can multiply on the way, for example in warm food / Germs stick less than glitter  
    **Answer:** Some germs can multiply on the way, for example in warm food. *Why:* Glitter cannot make more of itself, but bacteria can multiply in warm, wet places. So a few germs on a hand can become many in a plate of food left out.
 3. (fill) Starting from 1 bacterium, the number doubles 6 times: 1, 2, 4, 8, 16, 32, ____.  
    **Answer:** ['64', 'sixty-four']. *Why:* 32 doubled is 64. At each step, every bacterium splits into two, so the number doubles.
 4. (mcq) In Warm or Cool, one bowl of rice sat on a shelf and one in the fridge. Why did the shelf rice change faster?  
-   Options: Microbes multiply faster in warmth / The fridge adds a special chemical / Light from the window spoiled it  
+   Options: The fridge adds a special chemical / Light from the window spoiled it / Microbes multiply faster in warmth  
    **Answer:** Microbes multiply faster in warmth. *Why:* Bacteria and moulds multiply much faster in warmth. Cold slows them down, though it does not kill them all.
 5. (truefalse) Antibiotics are a good medicine for a cold.  
    **Answer:** False. *Why:* False. Colds are caused by viruses, and antibiotics work only on bacteria. Taking them when not needed helps bacteria learn to resist them.
 6. (mcq) Two children sit near an ill friend. Only one of them catches the cold. What is the best explanation?  
-   Options: Fewer germs reached the other child, or their body cleared them / The other child was lucky, and germs have nothing to do with it / Colds only affect girls  
+   Options: The other child was lucky, and germs have nothing to do with it / Colds only affect girls / Fewer germs reached the other child, or their body cleared them  
    **Answer:** Fewer germs reached the other child, or their body cleared them. *Why:* Whether you get ill depends on how many germs reach you, where they get in, and how ready your body is to fight. Picking 'germs have nothing to do with it' misses that the cold is caused by a virus.
 7. (write) Cold viruses can make copies only inside someone's nose or throat, and the body clears them out in about a week. Why does a sneeze help the viruses?  
    **Answer:** A sneeze carries copies of the virus out of one body, so they can reach a new nose before the first body clears them out.. *Why:* Looking at it from the virus's side: without a way to reach a new body, that family of viruses comes to an end.
 8. (mcq) Dengue spreads through mosquito bites. Which habit breaks this chain best?  
-   Options: Emptying standing water so mosquitoes cannot breed / Washing hands / Coughing into your elbow  
+   Options: Washing hands / Emptying standing water so mosquitoes cannot breed / Coughing into your elbow  
    **Answer:** Emptying standing water so mosquitoes cannot breed. *Why:* Mosquitoes lay eggs in still water, such as in flower-pot trays and old tyres. Empty them, and fewer mosquitoes are born to carry the virus. Hand-washing does not stop a mosquito.
 9. (sort) Is it caused by bacteria or a virus?  
    **Answer:** cholera → Bacteria; a cold → Virus; typhoid → Bacteria; chickenpox → Virus; flu → Virus; tuberculosis → Bacteria. *Why:* Cholera, typhoid and tuberculosis are caused by bacteria. Colds, chickenpox and flu are caused by viruses.
@@ -560,7 +560,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 11. (fill) A doctor finds that 9 of 10 ill families in a colony drink from the same well. The best clue is that the illness is in the ________.  
    **Answer:** ['well', 'water', 'well water']. *Why:* When ill families cluster round one water source, that water is the best clue. John Snow used this clue in London in 1854.
 12. (mcq) Why can someone pass on flu before they know they are ill?  
-   Options: The virus multiplies and leaves the body a day or so before symptoms start / Flu only spreads before you are ill / The fever makes the germs jump out  
+   Options: Flu only spreads before you are ill / The virus multiplies and leaves the body a day or so before symptoms start / The fever makes the germs jump out  
    **Answer:** The virus multiplies and leaves the body a day or so before symptoms start. *Why:* The virus is already multiplying in the nose and throat before the body's fight makes you feel ill. So some copies get out first.
 13. (write) Your building has one lift and 40 families. Why does a cough into a hand matter more there than in a house on its own?  
    **Answer:** Because the lift button is touched by people from all 40 families, so germs on one hand can reach many families through it.. *Why:* The more hands share one thing, the further a germ can travel through that thing.
@@ -571,10 +571,10 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
    **Answer:** A strong answer says that most microbes are harmless, and that the germs that matter travel along chains of hands and things. Washing breaks the way-in link, so fewer germs reach the mouth, nose or eyes.. *Why:* Washing does not remove every microbe. It cuts the number of germs that get a ride to the next person, and that lowers the chance of illness.
 ### Thinking Like John Snow (challenge) (challenge, 15 questions)
 1. (mcq) John Snow found that workers at a brewery near the bad pump hardly ever got cholera. Why did that support his idea?  
-   Options: They drank beer and the brewery's own water, not water from the pump / Beer kills every germ in the body / They breathed different air  
+   Options: Beer kills every germ in the body / They breathed different air / They drank beer and the brewery's own water, not water from the pump  
    **Answer:** They drank beer and the brewery's own water, not water from the pump. *Why:* The workers breathed the same air as everyone nearby, but did not drink the pump water. So bad air could not be the cause, and the water could.
 2. (mcq) A widow far away in Hampstead died of cholera in the same week. Her family said she had Broad Street water brought to her, because she liked its taste. What did this show?  
-   Options: The illness travelled with the water, not the air / Hampstead had bad air too / Cholera can fly across a city  
+   Options: Hampstead had bad air too / Cholera can fly across a city / The illness travelled with the water, not the air  
    **Answer:** The illness travelled with the water, not the air. *Why:* She lived far from the air around Broad Street, but she drank its water and caught cholera. The water was the link.
 3. (draw) Draw a germ chain for an illness that travels in water: from a sick person, to dirty waste, to a well, to the people who drink from it. Then draw where you could break the chain.  
    **Answer:** A chain of pictures joined by arrows, with a break marked, for example at the well or the pump.. *Why:* Drawing the chain shows how the illness travels in water, and that breaking one link, like closing a dirty well, protects everyone after it.
@@ -593,7 +593,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 9. (write) Glitter is a good pretend germ in one way, and a poor one in another. Say one of each.  
    **Answer:** Good: it rides on hands and things, like germs, and you can see it. Poor: it cannot multiply, and real germs can also die on dry surfaces.. *Why:* A model helps us see something we cannot see. It is useful to know where the model is like the real thing and where it is not.
 10. (mcq) Why does a vaccine protect people who did not have it, as well as people who did?  
-   Options: Vaccinated people break the chain, so the germ reaches fewer people / The vaccine spreads through the air / It makes the germ weaker everywhere  
+   Options: The vaccine spreads through the air / Vaccinated people break the chain, so the germ reaches fewer people / It makes the germ weaker everywhere  
    **Answer:** Vaccinated people break the chain, so the germ reaches fewer people. *Why:* A vaccinated person rarely catches the germ, so they rarely pass the germ on. When most people are vaccinated, the germ runs out of links.
 11. (write) Draw or describe a germ chain that goes through water, from one family to another.  
    **Answer:** For example: an ill person's loose motions get into a well or a leaking pipe, and another family drinks that water without boiling it.. *Why:* This is how cholera and typhoid spread. Toilets that keep waste away from water, and boiling or filtering, break this chain.
@@ -604,7 +604,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 14. (write) Plan a fair test to find out whether soap takes glitter off hands better than water alone. What stays the same? What changes?  
    **Answer:** A strong answer keeps the same amount of glitter, the same hand, the same rubbing time and the same water, and changes only soap or no soap. It counts the specks left after washing.. *Why:* A fair test changes one thing at a time, so any difference can be put down to that one thing.
 15. (mcq) London's cholera outbreaks stopped after the city built sewers and cleaned its water. Why did that work better than telling each person to be careful?  
-   Options: Clean water breaks the chain for everyone at once / Sewers kill the cholera bacteria in every person / People stopped drinking water  
+   Options: Sewers kill the cholera bacteria in every person / People stopped drinking water / Clean water breaks the chain for everyone at once  
    **Answer:** Clean water breaks the chain for everyone at once. *Why:* Some links are too big for one person to break. A city can break them for everyone together.
 
 ## Videos
@@ -617,7 +617,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
    Options: The virus that causes a cold / The bacteria that turn milk into curd / A mosquito  
    **Answer:** The virus that causes a cold. *Why:* A germ is a microbe or virus that can make us ill, like the cold virus. Curd bacteria are helpful microbes. A mosquito is an insect that can carry germs, but is not a germ.
 2. (mcq) Which of these illnesses is caused by bacteria?  
-   Options: Cholera / A cold / Chickenpox  
+   Options: A cold / Chickenpox / Cholera  
    **Answer:** Cholera. *Why:* Cholera is caused by bacteria in dirty water. Colds and chickenpox are caused by viruses, which are much smaller and can only make copies inside cells.
 3. (mcq) Which of these can carry germs from one person to another?  
    Options: A door handle / A shared tumbler / A cough / All of these  
@@ -626,22 +626,22 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
    Options: Mosquito bites / Shaking hands / Eating rice  
    **Answer:** Mosquito bites. *Why:* Dengue virus travels in the blood, carried from one person to the next by a mosquito. That is why emptying standing water helps.
 5. (mcq) A girl has glitter on her hand and touches the door handle. Her grandmother never touches her, but opens the door. What will the grandmother's hand have?  
-   Options: Some glitter, from the handle / No glitter, because she never touched the girl / More glitter than the girl  
+   Options: No glitter, because she never touched the girl / More glitter than the girl / Some glitter, from the handle  
    **Answer:** Some glitter, from the handle. *Why:* The glitter rides from the girl's hand to the handle, then to her grandmother's hand. Picking 'no glitter' means thinking germs pass only by touching people.
 6. (mcq) What is an infection?  
-   Options: Germs getting inside the body and multiplying / Germs sitting on a door handle / Washing your hands  
+   Options: Germs sitting on a door handle / Germs getting inside the body and multiplying / Washing your hands  
    **Answer:** Germs getting inside the body and multiplying. *Why:* An infection means germs are inside you and growing in number. Germs on a handle have not infected anyone yet.
 7. (mcq) Some bacteria can split in two every 20 minutes. Starting with 1, how many are there after one hour?  
    Options: 8 / 3 / 6  
    **Answer:** 8. *Why:* One hour is three lots of 20 minutes, so they double three times: 1, 2, 4, 8. Picking 3 counts the splits, not the bacteria.
 8. (mcq) You have just come home from the park. When is the most important time to wash your hands?  
-   Options: Before you eat your snack / After you have eaten / Only at bedtime  
+   Options: After you have eaten / Before you eat your snack / Only at bedtime  
    **Answer:** Before you eat your snack. *Why:* Washing before eating breaks the link from your hand to your mouth. Washing later is still good, but the germs could already be in.
 9. (mcq) You have flu. What is the best way to protect your classmates?  
    Options: Stay home until you are well / Go to school and sit at the back / Go to school and take medicine  
    **Answer:** Stay home until you are well. *Why:* Staying home breaks the very first link, so your germs never reach the classroom. Sitting at the back still shares the air, the door handle and the tap.
 10. (mcq) Long ago, many people thought bad-smelling air caused cholera. Which finding would show that dirty water, not air, was the cause?  
-   Options: People who breathed the same air but drank clean water did not fall ill / The air near the river smelled bad / Mosquitoes were seen near the houses  
+   Options: The air near the river smelled bad / People who breathed the same air but drank clean water did not fall ill / Mosquitoes were seen near the houses  
    **Answer:** People who breathed the same air but drank clean water did not fall ill. *Why:* If air were the cause, everyone breathing it would fall ill. If only those who drank the dirty water fell ill, the water is to blame. Mosquitoes spread other illnesses, like malaria, not cholera.
 11. (mcq) Many people near one water pump fall ill. How could you find out whether the pump is to blame?  
    Options: Ask each family where they get their water, and see whether most who fell ill drank from that pump / Look for the germ with your own eyes / Smell the air near it  

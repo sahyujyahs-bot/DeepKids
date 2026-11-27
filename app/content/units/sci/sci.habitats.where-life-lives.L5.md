@@ -582,7 +582,7 @@ She set the plant back on the water, and Unni pushed off for school.
 ## Worksheets
 ### Why life lives where it does (core) (core, 15 questions)
 1. (mcq) What does biogeography study?  
-   Options: How the stars move / How animals digest their food / Where living beings are found, and why / What rocks are made of  
+   Options: How the stars move / How animals digest their food / What rocks are made of / Where living beings are found, and why  
    **Answer:** Where living beings are found, and why. *Why:* Biogeography asks where each kind of living being is found, and why there and not somewhere else.
 2. (truefalse) True or false: if a place suits an animal, that animal always lives there.  
    **Answer:** False. *Why:* False. The animal's ancestors must also have been able to reach the place. The Arctic would probably suit penguins, but none live there.
@@ -591,14 +591,14 @@ She set the plant back on the water, and Unni pushed off for school.
 4. (match) Match each traveller to the way they cross the sea.  
    **Answer:** A coconut → Floats on the water; A fruit bat → Flies; An iguana → Rides on a floating tree; A rat → Rides on a ship; A fern spore → Is blown by the wind. *Why:* Each traveller crosses in a way that suits their body. A coconut's husk is full of air, and a fern spore is as light as dust.
 5. (mcq) About how fast do the Earth's plates move?  
-   Options: A few metres a year / A few kilometres a year / They do not move / A few centimetres a year  
+   Options: A few metres a year / A few centimetres a year / A few kilometres a year / They do not move  
    **Answer:** A few centimetres a year. *Why:* Plates move a few centimetres a year, about as fast as a fingernail grows. Choosing 'they do not move' is natural, because nobody can feel it.
 6. (order) Put these in order, to tell India's journey.  
    **Answer:** ['India is joined to Madagascar inside Gondwana', 'India splits from Madagascar', 'The Seychelles break off from India', 'India moves north as an island', 'India meets Asia and the Himalaya rise']. *Why:* India left Madagascar first and the Seychelles next. Then India crossed the sea alone, and last of all pushed into Asia.
 7. (write) Fossils of one land animal lie in India and in Antarctica. How could that be? Explain.  
    **Answer:** India and Antarctica were once joined in one land, Gondwana. The animal lived across that land. Later the land broke up and the pieces moved apart, carrying the fossils with them.. *Why:* A strong answer says the lands were joined when the animal lived, and that the land moved afterwards. It does not need the animal to cross an ocean.
 8. (mcq) Why was the sea lower during the last ice age?  
-   Options: The sea had dried in the Sun / Much water was frozen on the land / The Moon was further away / The land had sunk  
+   Options: The sea had dried in the Sun / The Moon was further away / Much water was frozen on the land / The land had sunk  
    **Answer:** Much water was frozen on the land. *Why:* Thick ice lay on the land, and that water came from the sea. So the sea stood about 120 metres lower.
 9. (truefalse) True or false: Sri Lanka was once joined to India by dry land.  
    **Answer:** True. *Why:* True. The sea between them is very shallow. When the sea was lower, it was dry land, until about 7,000 years ago.
@@ -612,13 +612,13 @@ She set the plant back on the water, and Unni pushed off for school.
    Options: They grow in water / They have thorns or poison / They spread alone and harm others / They came from another country  
    **Answer:** They spread alone and harm others. *Why:* Invasive means brought by people, spreading without help and harming those who were there before. Coming from another country only makes a species introduced.
 14. (mcq) Lantana takes over forests in India but not in tropical America. What is one likely reason?  
-   Options: Lantana changed colour in India / The insects that eat lantana stayed behind / Indian soil is much richer / India is hotter than America  
+   Options: Lantana changed colour in India / Indian soil is much richer / The insects that eat lantana stayed behind / India is hotter than America  
    **Answer:** The insects that eat lantana stayed behind. *Why:* At home many insects and diseases feed on lantana. Most of them did not travel with the plant. This is one explanation, and scientists have others too.
 15. (draw) Draw a mainland, an island near it and an island far away. Use arrows to show which island gets more travellers.  
    **Answer:** A mainland with many arrows reaching the near island and only one or two reaching the far island. The near island is drawn with more kinds of living beings on it.. *Why:* A strong drawing shows fewer arrows reaching the far island, and so fewer kinds living there.
 ### Barriers, bridges and newcomers (stretch) (stretch, 15 questions)
 1. (mcq) Camels brought by people now live wild in Australia. What does that show about Australia before?  
-   Options: Camels had died out there / It had no deserts / It already suited camels / It was too cold for camels  
+   Options: Camels had died out there / It already suited camels / It had no deserts / It was too cold for camels  
    **Answer:** It already suited camels. *Why:* The land did not change when camels arrived. So it suited camels all along, and they were missing only because they could not get there.
 2. (write) A warm sea stops a penguin but not a sea turtle. Why does a barrier depend on who meets it?  
    **Answer:** A barrier is something a living being cannot cross. Penguins need cold water, so warm sea stops them. A sea turtle lives in warm sea, so for her it is a road.. *Why:* A strong answer says that each living being has their own needs and ways of moving, so the same sea is a wall for one and a path for another.
@@ -627,7 +627,7 @@ She set the plant back on the water, and Unni pushed off for school.
 4. (truefalse) True or false: some of the heat that moves the plates comes from atoms breaking down deep underground.  
    **Answer:** True. *Why:* True. About half of the Earth's inner heat comes from atoms of uranium, thorium and potassium breaking down. The rest is left from when the Earth formed.
 5. (mcq) Bali and Lombok are 35 kilometres apart, yet have very different animals. Why?  
-   Options: They have different weather / People removed the animals / Lombok is a much older island / The sea between them is deep  
+   Options: They have different weather / People removed the animals / The sea between them is deep / Lombok is a much older island  
    **Answer:** The sea between them is deep. *Why:* The channel is too deep to have become dry land in the ice age. Walking animals from Asia reached Bali and stopped there.
 6. (label) Draw the sea floor from a mainland to two islands, seen from the side. Label the three things listed.  
    **Answer:** ['Shallow channel: between the mainland and the first island, above the ice-age sea level', 'Deep channel: between the two islands, still under water in the ice age', "Sea level in the ice age: a line about 120 metres below today's sea level"]. *Why:* A strong drawing shows the ice-age line below the shallow sea floor, so that it is dry, and above the deep sea floor, so that it stays sea.
@@ -638,7 +638,7 @@ She set the plant back on the water, and Unni pushed off for school.
 9. (sort) Sort these travellers. Are they likely or unlikely to reach a far island without people?  
    **Answer:** Bat → Likely to arrive; Coconut → Likely to arrive; Fern spore → Likely to arrive; Frog → Unlikely to arrive; Elephant → Unlikely to arrive; River fish → Unlikely to arrive. *Why:* Fliers, floaters and wind-blown spores cross the sea. Salt water stops frogs and river fish, and an elephant cannot swim that far.
 10. (mcq) Why do far islands have many endemic species?  
-   Options: Islands are colder than mainlands / Few arrive, and they stay isolated / Island animals live longer / Islands have richer soil  
+   Options: Few arrive, and they stay isolated / Islands are colder than mainlands / Island animals live longer / Islands have richer soil  
    **Answer:** Few arrive, and they stay isolated. *Why:* Few living beings reach a far island, and their descendants do not mix with the mainland. Over a long time they become kinds found nowhere else.
 11. (perspective) A dry village in Tamil Nadu is covered with seemai karuvelam, an invasive thorn tree.  
    **Answer:** Any view with a reason. One reason is that an invasive tree harms native plants and uses water. Another is that people now depend on the tree. A good reply to another view says what that view gets right.. *Why:* A strong answer uses a fact, such as the harm to native plants or the family's income, and treats the other view fairly.
@@ -649,20 +649,20 @@ She set the plant back on the water, and Unni pushed off for school.
 14. (write) Cane toads were released in Australia to eat beetles in sugarcane. What went wrong, and what test was missing?  
    **Answer:** The toads did not control the beetles. They multiplied into many millions, and their poison kills native animals who eat them. Nobody had first tested what the toads would eat and who would eat them.. *Why:* A strong answer names both failures: the toads did not do the job, and they harmed others. It says the testing should have come before the release.
 15. (mcq) A bowl twice as far from scattering grains catches much less than half as many. Why?  
-   Options: The far bowl is smaller / Rice is too heavy to bounce / The grains spread over a wider ring / The sheet slopes downhill  
+   Options: The far bowl is smaller / The grains spread over a wider ring / Rice is too heavy to bounce / The sheet slopes downhill  
    **Answer:** The grains spread over a wider ring. *Why:* Few grains travel far, and those that do are spread round a bigger circle. One bowl covers a smaller share of that circle.
 ### Evidence, deep time and hard choices (challenge) (challenge, 15 questions)
 1. (write) Hummingbirds live only in the Americas, though India has many nectar flowers. Give two possible reasons.  
    **Answer:** One reason: hummingbirds arose in the Americas, and wide oceans stopped them reaching India. Another: India already has sunbirds who feed on nectar, so a newcomer would find the food taken.. *Why:* A strong answer gives one reason about reaching the place, and one about what is already there. Both are possible, and a good answer says how to tell them apart.
 2. (mcq) A sea crossing happens about once in 10,000 years. About how many times in 1 million years?  
-   Options: 10 times / Never / 1,000 times / 100 times  
+   Options: 10 times / Never / 100 times / 1,000 times  
    **Answer:** 100 times. *Why:* 1,000,000 divided by 10,000 is 100. A crossing too rare for anyone to see becomes almost certain over a very long time.
 3. (write) Alfred Wegener said the continents had moved. Why did most geologists reject this? What later changed their minds?  
    **Answer:** Wegener could not say what force could move a continent, and nobody could feel the movement. Later, maps of the sea floor showed a long crack where new floor forms, and measurements showed the sea floor spreading.. *Why:* A strong answer separates the two parts. The evidence of fit and fossils was there early. What was missing was a way for the land to move.
 4. (truefalse) True or false: a plate moving 5 centimetres a year travels 50 kilometres in a million years.  
    **Answer:** True. *Why:* True. 5 centimetres times 1,000,000 is 5,000,000 centimetres. That is 50,000 metres, which is 50 kilometres.
 5. (mcq) Two frog species differ in very many places in their DNA. What does that suggest?  
-   Options: They eat different food / They have been apart a long time / They live in the same pond / One is much bigger  
+   Options: They have been apart a long time / They eat different food / They live in the same pond / One is much bigger  
    **Answer:** They have been apart a long time. *Why:* Copying mistakes build up at a roughly steady rate. Many differences mean the two species have been separate for a long time.
 6. (draw) Draw one group of birds split by a new sea. Then draw both groups a very long time later.  
    **Answer:** Two drawings. First: sea between two halves of a land, with the same birds on each side. Second: the birds on each side look different, for example in beak or colour.. *Why:* A strong drawing shows the birds alike just after the split and different only much later. The sea does not change them. It stops them mixing.
@@ -671,7 +671,7 @@ She set the plant back on the water, and Unni pushed off for school.
 8. (perspective) Lantana has grown in India's forests for about 200 years.  
    **Answer:** Any view with a reason. Lantana does shade out grass. Birds do use the bushes. Cutting for craft does remove some. A good answer says where and how fast to clear, and what to plant afterwards.. *Why:* A strong answer sees that all three views hold some truth, and proposes something that takes account of more than one.
 9. (mcq) Sri Lanka left India 7,000 years ago, and the Seychelles 65 million. Whose animals differ more from India's?  
-   Options: Neither differs at all / Those of Sri Lanka / Both differ equally / Those of the Seychelles  
+   Options: Those of the Seychelles / Neither differs at all / Those of Sri Lanka / Both differ equally  
    **Answer:** Those of the Seychelles. *Why:* The longer two groups are kept apart, the more different they become. 65 million years is far longer than 7,000.
 10. (write) The common myna is native in India and invasive in Australia. Explain how one bird can be both.  
    **Answer:** Native and invasive describe a species in a place. Mynas reached India without people, so they are native here. People took them to Australia, where they spread and drive native birds from their nest holes.. *Why:* A strong answer says that the words belong to the bird and the place together. The bird is the same in both countries.
@@ -684,7 +684,7 @@ She set the plant back on the water, and Unni pushed off for school.
 14. (write) Some scientists think a planet needs moving plates to have many kinds of life. What evidence would help test this?  
    **Answer:** We would need other planets to compare: some with moving plates and some without. If life, or varied life, were found only on planets with plates, that would support the idea. With one living planet we cannot tell.. *Why:* A strong answer sees that one example cannot test the idea, and says what a comparison would need.
 15. (mcq) Why do introduced rats harm island birds more than mainland birds?  
-   Options: Islands have less food / Mainland birds fly faster / Island birds never met hunting mammals / Island rats grow much bigger  
+   Options: Islands have less food / Island birds never met hunting mammals / Mainland birds fly faster / Island rats grow much bigger  
    **Answer:** Island birds never met hunting mammals. *Why:* On many far islands no hunting mammal ever arrived. Birds there nest on the ground and do not flee. They have no defence against a rat.
 
 ## Videos
@@ -694,7 +694,7 @@ She set the plant back on the water, and Unni pushed off for school.
 
 ## Quiz
 1. (mcq) Polar bears do not live in Antarctica. What is the most likely reason?  
-   Options: Antarctica is too cold / Penguins chase them away / Their ancestors could not reach it / There is nothing to eat  
+   Options: Antarctica is too cold / Their ancestors could not reach it / Penguins chase them away / There is nothing to eat  
    **Answer:** Their ancestors could not reach it. *Why:* Polar bears arose in the far north, and no land or ice ever joined the north to Antarctica. Antarctica is cold and has seals, so it might well suit them.
 2. (mcq) Which of these is a barrier for a river fish?  
    Options: A deep pool in the river / A floating leaf / A rainy day / The salty sea  
@@ -708,22 +708,22 @@ She set the plant back on the water, and Unni pushed off for school.
 5. (truefalse) True or false: India has always been joined to Asia.  
    **Answer:** False. *Why:* False. India was part of Gondwana, then an island, and began to join Asia only about 50 million years ago.
 6. (mcq) What can turn a shallow sea into a land bridge?  
-   Options: Fish leaving the sea / The sea level falling in an ice age / Heavy rain for a year / A very strong tide  
+   Options: The sea level falling in an ice age / Fish leaving the sea / Heavy rain for a year / A very strong tide  
    **Answer:** The sea level falling in an ice age. *Why:* In an ice age much water is frozen on land, so the sea falls. Shallow sea floor is uncovered and joins two lands.
 7. (mcq) A sea splits one species into two groups. What happens over a very long time?  
    Options: Nothing changes at all / The groups become more alike / Both groups always die out / The groups become different  
    **Answer:** The groups become different. *Why:* Each group makes its own small changes, and nothing mixes them. Choosing 'nothing changes' forgets that every copy of DNA has a few mistakes.
 8. (mcq) Which island will probably have the fewest kinds of living beings?  
-   Options: A small island far from land / A large island far from land / A large island near land / A small island near land  
+   Options: A large island far from land / A large island near land / A small island near land / A small island far from land  
    **Answer:** A small island far from land. *Why:* Few travellers reach a far island, and a small island keeps fewer kinds alive. Small and far together give the fewest.
 9. (mcq) Potato plants came to India from South America and grow only on farms. They are:  
    Options: Native to India / Introduced, but not invasive / Endemic to India / Invasive in India  
    **Answer:** Introduced, but not invasive. *Why:* People brought potatoes, so they are introduced. They do not spread through wild land or harm others, so they are not invasive.
 10. (mcq) Before releasing an insect to control a weed, what must scientists test?  
-   Options: That the insect lives for years / That the insect is easy to see / That the insect flies quickly / That the insect eats only that weed  
+   Options: That the insect lives for years / That the insect is easy to see / That the insect eats only that weed / That the insect flies quickly  
    **Answer:** That the insect eats only that weed. *Why:* An insect who also eats crops or native plants would become a new problem. Cane toads in Australia were released without such a test.
 11. (mcq) A water weed doubles every two weeks. When is the weed cheapest to remove?  
-   Options: When the whole lake is covered / When the first few plants appear / The timing makes no difference / When half the lake is covered  
+   Options: When the whole lake is covered / The timing makes no difference / When the first few plants appear / When half the lake is covered  
    **Answer:** When the first few plants appear. *Why:* A few plants can be lifted out by hand. A half-covered lake is only two weeks from being full, and then the work is enormous.
 12. (mcq) Which is the best evidence that two lands were once joined?  
    Options: The same number of people / The same land-animal fossils on both / The same weather on both / Rivers on both lands  

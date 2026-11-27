@@ -413,7 +413,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 ## Worksheets
 ### Me and My Touch (core) (core, 10 questions)
 1. (mcq) In the Tickle Test, you stroked your own foot with a feather, and then someone else stroked it. Whose stroke tickled you more?  
-   Options: My own stroke / Someone else's stroke / Both were exactly the same  
+   Options: Someone else's stroke / My own stroke / Both were exactly the same  
    **Answer:** Someone else's stroke. *Why:* For most people, someone else's stroke tickles more. Your brain predicts your own stroke and turns it down.
 2. (draw) In the Tickle Test, you scored each tickle with four faces, from 0 to 3. Draw the four faces.  
    **Answer:** A straight face for 0, a small smile for 1, a big smile for 2 and a laughing face for 3.. *Why:* A strong drawing shows the four faces in order, so anyone can see what each score means.
@@ -428,7 +428,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 7. (perspective) Kavya, a girl aged 7, and her father (Appa) talk about the tickle test.  
    **Answer:** A strong answer picks a side with a reason. Kavya's test shows knowing when is not enough. Appa is partly right: the brain does predict your own touch, very exactly.. *Why:* Both views use the idea of knowing. The test shows the brain must predict the exact moment and way, which only works for your own movements.
 8. (mcq) Your shadow moves whenever you move. Is your shadow part of your body?  
-   Options: Yes, it is made of the same stuff as your skin / No, it is a patch where your body blocks the light / Yes, because you can feel it  
+   Options: Yes, it is made of the same stuff as your skin / Yes, because you can feel it / No, it is a patch where your body blocks the light  
    **Answer:** No, it is a patch where your body blocks the light. *Why:* Your shadow is a dark patch where your body stops light. It is not made of anything from your body.
 9. (mcq) You put a sticker on your right cheek. Which one shows you the way your friends see you: the mirror or the photo?  
    Options: The mirror / The photo / Both are the same  
@@ -452,7 +452,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 7. (draw) Draw yourself looking in a mirror with a sticker on your right cheek. Draw where the sticker is on the mirror you.  
    **Answer:** In the mirror, the sticker is on the side of the mirror face that is nearest your own right hand. In a photo it is on the other side.. *Why:* In a mirror your sides look swapped compared with a photo. A strong drawing shows the sticker on the other side in the photo.
 8. (mcq) Why does humming with your fingers in your ears sound louder?  
-   Options: The sound through your bones stays inside your head / Your fingers make the sound / Your ears grow bigger  
+   Options: Your fingers make the sound / Your ears grow bigger / The sound through your bones stays inside your head  
    **Answer:** The sound through your bones stays inside your head. *Why:* With ears blocked, less sound leaks out, so you hear more of the sound that travels through your bones.
 9. (write) Name one like that changed since you were three. Why do you think it changed?  
    **Answer:** I didn't like idli, but now I do, because I ate it every week.. *Why:* A strong answer names a real like and gives a reason, such as trying it often, growing or friends.
@@ -465,7 +465,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 2. (perspective) Two girls talk about the glove hand test, where a glove is stroked while your real hand is hidden.  
    **Answer:** A strong answer sees that the test worked for one girl and not the other, which is a real result. The first girl's idea fits her result. The second girl is right that it does not work for everyone. Next, test more people, with strokes at the same moment and at different moments.. *Why:* Scientists found the glove trick works for many people, not all. One person's result is not enough either way.
 3. (mcq) Scientists made a robot that touched a person's hand a tiny moment after the person moved a lever. What happened?  
-   Options: The touch tickled more / The touch tickled less / The person felt nothing  
+   Options: The touch tickled less / The touch tickled more / The person felt nothing  
    **Answer:** The touch tickled more. *Why:* With a small delay, the touch no longer matched what the brain predicted, so it was not turned down as much.
 4. (draw) Draw a machine that could let you tickle yourself. Label the part you move and the part that touches your foot.  
    **Answer:** A drawing with labels, for example a string over a chair with a feather on one end.. *Why:* A strong design makes the feather move later than the hand, or in a different direction.
@@ -478,7 +478,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 8. (truefalse) True or false: if the glove never feels like your hand, you did the test wrong.  
    **Answer:** False. *Why:* False. The glove trick works for many people but not for everyone. If nothing happens, that is a real result too.
 9. (mcq) In the glove hand test, you stroke the glove and your hidden hand at the same moment. Which second try is a fair comparison?  
-   Options: Stroking them at different moments / Using a different glove and a different person / Taking the glove away  
+   Options: Using a different glove and a different person / Taking the glove away / Stroking them at different moments  
    **Answer:** Stroking them at different moments. *Why:* A fair test changes only one thing. Here only the timing of the strokes changes.
 10. (order) Put the steps of the glove hand test in order.  
    **Answer:** ['hide the real hand behind a book', 'put the glove where you can see it', 'stroke the glove and the hidden hand at the same moment', 'ask what each person felt']. *Why:* First hide the hand and set up the glove, then stroke, then ask.
@@ -490,31 +490,31 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 
 ## Quiz
 1. (mcq) What is a sense of self?  
-   Options: Knowing that you are you / Knowing all the answers / Being the tallest  
+   Options: Knowing all the answers / Being the tallest / Knowing that you are you  
    **Answer:** Knowing that you are you. *Why:* A sense of self is knowing that your body, likes and feelings are yours.
 2. (mcq) Why does your own stroke on your foot tickle less?  
-   Options: Your brain predicts it and turns it down / Your foot is tired / Your hand is too soft  
+   Options: Your foot is tired / Your brain predicts it and turns it down / Your hand is too soft  
    **Answer:** Your brain predicts it and turns it down. *Why:* Your brain keeps a copy of your movement and predicts the touch, so it feels weaker.
 3. (mcq) In a fair tickle test, what should change?  
-   Options: Only who is stroking / The feather and the spot / How many strokes  
+   Options: The feather and the spot / How many strokes / Only who is stroking  
    **Answer:** Only who is stroking. *Why:* Change only one thing, so you know what made the difference.
 4. (mcq) Why does your voice sound strange on a phone?  
-   Options: The phone records only the sound in the air / Phones always change voices / You speak differently to phones  
+   Options: Phones always change voices / The phone records only the sound in the air / You speak differently to phones  
    **Answer:** The phone records only the sound in the air. *Why:* You also hear your voice through your bones. The phone records only the sound in the air.
 5. (mcq) A boy did not like curd when he was 3. Now he loves it. What does this show?  
-   Options: Likes can change / He is a different boy / Curd changed  
+   Options: He is a different boy / Curd changed / Likes can change  
    **Answer:** Likes can change. *Why:* Many likes change as we grow and try things again.
 6. (mcq) Many flowers can tell their own pollen from pollen of another plant. What do the flowers do with their own pollen?  
-   Options: Stop it from making seeds / Eat it / Throw it at bees  
+   Options: Eat it / Throw it at bees / Stop it from making seeds  
    **Answer:** Stop it from making seeds. *Why:* Many flowers know their own pollen and stop it from making seeds.
 7. (mcq) A cricket sings very loudly. What happens to his hearing while he sings?  
    Options: It turns down for a moment / It gets louder / It stops forever  
    **Answer:** It turns down for a moment. *Why:* His hearing turns down while he sings, so his own song does not deafen him.
 8. (mcq) Who can feel your feelings from the inside?  
-   Options: Only you / Anyone who looks at you / Your teacher  
+   Options: Anyone who looks at you / Only you / Your teacher  
    **Answer:** Only you. *Why:* Others see clues like your face. Only you feel the feeling inside.
 9. (mcq) When you sit still, you stop feeling your shirt. Why?  
-   Options: Your brain turns down touches that don't change / Your shirt disappears / Your skin falls asleep forever  
+   Options: Your shirt disappears / Your skin falls asleep forever / Your brain turns down touches that don't change  
    **Answer:** Your brain turns down touches that don't change. *Why:* Your brain turns down touches that are always there, so you can notice new ones.
 10. (mcq) Which of these would your brain NOT turn down?  
    Options: A mosquito landing on your arm / Your shirt on your shoulders / Your tongue in your mouth  

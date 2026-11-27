@@ -526,7 +526,7 @@ Doddamma had brought her family to the river again.
 11. (write) A wolf alone rarely catches a big deer, but a pack often can. Give two reasons why hunting together helps.  
    **Answer:** They can chase in turns, so the deer gets tired first. They can surround the deer, so the deer cannot escape.. *Why:* A strong answer gives two different ways that cooperation helps, such as taking turns, surrounding prey, or guarding the catch from other animals.
 12. (mcq) Older brothers and sisters in a wolf pack often bring food to the new pups. What does this show about the pack?  
-   Options: It is a family that raises the young together / The pups are lazy / Only the parents care for pups / The older wolves want to be the alpha  
+   Options: The pups are lazy / Only the parents care for pups / It is a family that raises the young together / The older wolves want to be the alpha  
    **Answer:** It is a family that raises the young together. *Why:* Wolf packs raise their pups together. Older young wolves carry meat in their stomachs and bring it up for the pups.
 13. (label) Label this elephant family picture: matriarch, mother, calf, teenage male.  
    **Answer:** The old female at the front is the matriarch. A female with a small elephant under her is a mother and calf. A young male with small tusks at the back is the teenage male.. *Why:* A strong answer finds the matriarch at the front and the young male at the edge, ready to leave.
@@ -538,14 +538,14 @@ Doddamma had brought her family to the river again.
 1. (write) Your friend says, 'A group needs a boss, or it will fall apart.' Use ants to argue against this, then say one way a leader can help a group.  
    **Answer:** Ants have no boss, yet the colony finds the best food and builds roads, because each ant follows the trail and adds her own scent. But a leader with knowledge helps too, like an elephant matriarch who remembers water.. *Why:* A strong answer uses evidence on both sides: the leaderless ant colony and the elephant family led by experience.
 2. (mcq) In some places, poachers kill the oldest females in elephant families. What problem might the families have later, in a drought?  
-   Options: No one remembers where water was in past droughts / The calves grow faster / The males come back to lead / Nothing changes  
+   Options: The calves grow faster / The males come back to lead / Nothing changes / No one remembers where water was in past droughts  
    **Answer:** No one remembers where water was in past droughts. *Why:* The old matriarch's memory is lost with her. Younger females may never have lived through a drought, so they may not know where to find water.
 3. (write) Design a better sugar test. How would you find out whether ants pick the strong drop because it is sweeter, or only because they found it first?  
    **Answer:** Put out the weak drop first and let a trail form. Then add the strong drop at the same distance. If the ants move to the strong drop, sweetness wins. If they stay, finding it first wins. Repeat with the order swapped.. *Why:* A strong answer changes only the order the drops are found, keeps everything else the same, and repeats the test.
 4. (perspective) A family in Madurai argues about the old 'alpha wolf' idea.  
    **Answer:** A strong answer explains that science corrects itself when better evidence comes, as when David Mech watched wild wolves and changed his mind. It also takes the worry seriously: the wrong idea spread for decades, so asking how something was tested is wise.. *Why:* This is a real question about trust in science. A strong answer weighs all three views.
 5. (mcq) In some paper wasp nests, the queen is calm and does not bully the workers, yet only she lays eggs. When she is taken away, one worker becomes aggressive for a short time, then calms down and starts laying eggs. What does this suggest?  
-   Options: The nest falls apart without a queen / A queen does not need to bully to keep her place / The biggest wasp is always the queen / Workers can never change their job  
+   Options: The nest falls apart without a queen / The biggest wasp is always the queen / A queen does not need to bully to keep her place / Workers can never change their job  
    **Answer:** A queen does not need to bully to keep her place. *Why:* The old queen kept her place calmly, and a worker could become the new queen. So in this wasp, being queen is not about bullying.
 6. (draw) Draw a cartoon strip in four boxes showing how an elephant calf learns the way to the river from her grandmother, and later shows her own calf.  
    **Answer:** Box 1: calf walks behind grandmother in a dry year. Box 2: they reach the river. Box 3: years later, the calf is grown and leading. Box 4: she leads her own calf to the river.. *Why:* A strong strip shows knowledge passing down the female line over many years.
@@ -556,7 +556,7 @@ Doddamma had brought her family to the river again.
 9. (fill) When many animals each make small choices, and together these become one choice for the group, scientists call it collective ____-making.  
    **Answer:** ['decision']. *Why:* Collective decision-making is how ant colonies, honeybee swarms and flocks of birds choose together without a boss.
 10. (mcq) Honeybees choosing a new home send out scouts, who dance for the places they found. How does the swarm choose?  
-   Options: The queen tastes each place / The best place gets more and more dancers, until most scouts agree / The oldest bee decides / They pick the first place found, always  
+   Options: The queen tastes each place / The oldest bee decides / They pick the first place found, always / The best place gets more and more dancers, until most scouts agree  
    **Answer:** The best place gets more and more dancers, until most scouts agree. *Why:* Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like the strong drop gaining ants in the sugar drop test.
 11. (label) On a sketch of your kitchen, label where you think the ant nest is, where the food is, and draw the trail between them.  
    **Answer:** A nest entrance at a crack or wall, a food spot such as the dustbin or sugar tin, and a line joining them.. *Why:* A strong answer uses what the child saw, such as where ants disappeared into the wall.
@@ -583,34 +583,34 @@ Doddamma had brought her family to the river again.
    Options: She is the strongest / She may remember where water was in a drought long ago / She eats the least / She can run the fastest  
    **Answer:** She may remember where water was in a drought long ago. *Why:* Her long memory is the family's store of knowledge. Strength and speed don't find hidden water.
 3. (mcq) Where do adult male elephants usually live?  
-   Options: As the leaders of the families / Alone, or in loose groups of males / In the middle of the family, guarding the calves / With the wolves  
+   Options: As the leaders of the families / In the middle of the family, guarding the calves / Alone, or in loose groups of males / With the wolves  
    **Answer:** Alone, or in loose groups of males. *Why:* Males leave their family as teenagers and live apart, visiting families only for a short time.
 4. (mcq) In many kinds of ants, which workers go out of the nest to look for food?  
-   Options: The youngest workers / The oldest workers / The queen / The male ants  
+   Options: The oldest workers / The youngest workers / The queen / The male ants  
    **Answer:** The oldest workers. *Why:* In many kinds of ants, young workers stay safe inside the nest and the older workers go out to forage. The queen stays deep in the nest.
 5. (mcq) How does an ant tell her sisters where food is?  
-   Options: By drawing a map / By leaving a scent trail, made of pheromone, on the way home / By shouting / By carrying every sister to the food  
+   Options: By drawing a map / By shouting / By leaving a scent trail, made of pheromone, on the way home / By carrying every sister to the food  
    **Answer:** By leaving a scent trail, made of pheromone, on the way home. *Why:* She dabs pheromone on the floor as she walks home. Other ants follow the smell.
 6. (mcq) A weak sugar drop and a strong sugar drop were put near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?  
-   Options: The ants at the strong drop were bigger / Ants that drank the strong sugar laid more scent, so more ants followed their trail / The weak drop was poisonous / The queen chose the strong drop  
+   Options: The ants at the strong drop were bigger / The weak drop was poisonous / The queen chose the strong drop / Ants that drank the strong sugar laid more scent, so more ants followed their trail  
    **Answer:** Ants that drank the strong sugar laid more scent, so more ants followed their trail. *Why:* A sweeter food makes ants lay more trail scent, so the trail grows stronger and pulls in more ants. No ant gave orders.
 7. (mcq) In a sugar drop test, why should both drops be the same distance from the ant road?  
-   Options: So the test looks tidy / So that only the sweetness is different, and neither drop gets an unfair start / Because ants can only see a short way / It does not matter  
+   Options: So the test looks tidy / Because ants can only see a short way / So that only the sweetness is different, and neither drop gets an unfair start / It does not matter  
    **Answer:** So that only the sweetness is different, and neither drop gets an unfair start. *Why:* In a fair test you change only one thing. If one drop is closer, ants may find it first, and then you can't tell whether sweetness or distance made the difference.
 8. (mcq) Who leads a wild wolf pack, usually?  
-   Options: The toughest fighter / The parents: a mother and a father / The youngest pup / Nobody  
+   Options: The parents: a mother and a father / The toughest fighter / The youngest pup / Nobody  
    **Answer:** The parents: a mother and a father. *Why:* A wild pack is a family, so the parents lead and the young follow, as children follow parents.
 9. (mcq) Scientists watched wolves who were strangers put together in a zoo, and saw them fight for rank. Why might this give the wrong idea about wild wolf packs?  
-   Options: Wild packs are families, and strangers in a zoo do not behave like a family / Zoo wolves are a different animal / Wolves never fight / Dogs are not wolves  
+   Options: Zoo wolves are a different animal / Wild packs are families, and strangers in a zoo do not behave like a family / Wolves never fight / Dogs are not wolves  
    **Answer:** Wild packs are families, and strangers in a zoo do not behave like a family. *Why:* How animals act depends on who they live with. Wild packs are mostly parents and their young, who do not fight for rank. Watching wild wolves showed this.
 10. (mcq) Why do wolves howl?  
    Options: Only at the full moon / To find each other when apart, and to tell other packs to keep away / Because they are sad / To scare the pups  
    **Answer:** To find each other when apart, and to tell other packs to keep away. *Why:* A howl carries far. Pack members use it to find each other, and other packs hear that the area is taken. The full moon has nothing to do with it.
 11. (mcq) In what way is a human family most like an elephant family?  
-   Options: Grown-up sons always leave / Children learn a lot from older relatives, such as grandmothers / The biggest person leads / Everyone eats grass  
+   Options: Grown-up sons always leave / The biggest person leads / Children learn a lot from older relatives, such as grandmothers / Everyone eats grass  
    **Answer:** Children learn a lot from older relatives, such as grandmothers. *Why:* In both, the young learn from older family members. In many human families sons stay, so that part is different.
 12. (mcq) Which of these do scientists still argue about?  
-   Options: Whether worker ants are female / Whether an ant colony is one mind, a superorganism / Whether ants lay scent trails / Whether elephant families have matriarchs  
+   Options: Whether an ant colony is one mind, a superorganism / Whether worker ants are female / Whether ants lay scent trails / Whether elephant families have matriarchs  
    **Answer:** Whether an ant colony is one mind, a superorganism. *Why:* The other three are settled by long study. Whether a colony is one being or many ants following rules is still debated.
 
 ## Applications

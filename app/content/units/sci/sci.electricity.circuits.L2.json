@@ -485,11 +485,11 @@
       "t": "mcq",
       "q": "You tie a knot in one wire of a working circuit. What happens to the bulb?",
       "options": [
-       "It stays lit",
        "It goes dark",
-       "It gets much brighter"
+       "It gets much brighter",
+       "It stays lit"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The metal inside the wire is still one piece, so the circuit is still complete. A knot in a water pipe can block water, but a knot in a covered wire does not break the path for electricity."
      }
     }
@@ -611,11 +611,11 @@
       "t": "mcq",
       "q": "You turn the cell round in a bulb circuit. What happens?",
       "options": [
-       "The bulb lights just the same",
        "The bulb goes dark",
-       "The bulb breaks"
+       "The bulb breaks",
+       "The bulb lights just the same"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Each end of the cell is still joined to the bulb, so the path is still complete. A plain bulb lights whichever way the electricity flows. Some things, like a remote, need the cells the right way round."
      }
     }
@@ -731,11 +731,11 @@
       "t": "mcq",
       "q": "Which circuit will make the bulb shine?",
       "options": [
-       "One wire from the bump to the bulb",
        "A wire from the bump to the bulb, and a wire from the bulb to the flat end",
+       "One wire from the bump to the bulb",
        "Two wires from the bump to the bulb"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Electricity must flow out of one end of the cell, through the bulb, and back into the other end. One wire leaves no way back. Two wires on the bump give no path to the flat end."
      }
     }
@@ -822,11 +822,11 @@
       "t": "mcq",
       "q": "Which part of a bulb glows?",
       "options": [
-       "The thin coiled wire, called the filament",
        "The glass",
-       "The metal base"
+       "The metal base",
+       "The thin coiled wire, called the filament"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Electricity makes the very thin filament so hot that it glows. The glass only keeps the air away, so the filament does not burn up."
      }
     }
@@ -916,11 +916,11 @@
       "t": "mcq",
       "q": "Why does a phone charger plug have two pins?",
       "options": [
-       "Electricity goes in through one and back through the other",
        "Two pins hold it in the wall more tightly",
+       "Electricity goes in through one and back through the other",
        "One pin is a spare"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every circuit needs a way out and a way back. The charger's two pins are like the two wires in your bulb circuit."
      }
     }
@@ -1034,11 +1034,11 @@
       "t": "mcq",
       "q": "The bulb is dark. Both wires are on the cell, and the bulb is screwed in. What should you check next?",
       "options": [
-       "Whether the wires are on different ends of the cell",
        "Whether the wires are the same colour",
+       "Whether the wires are on different ends of the cell",
        "Whether the table is wooden"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If both wires are on the same end of the cell, there is no path from one end to the other. The colour of the wires and the table make no difference."
      }
     }
@@ -1251,11 +1251,11 @@
       "t": "mcq",
       "q": "The lighthouse wires are hidden and bent inside the tube. Why does the bulb still light?",
       "options": [
-       "The metal path from the cell to the bulb and back is unbroken",
        "Bent wires carry more electricity",
-       "Paper makes electricity"
+       "Paper makes electricity",
+       "The metal path from the cell to the bulb and back is unbroken"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The bulb needs a complete path, metal touching metal. Bending or hiding a covered wire does not break the metal inside."
      }
     }
@@ -1502,11 +1502,11 @@
      "t": "mcq",
      "p": "Which of these needs its cell the right way round?",
      "opts": [
-      "A TV remote",
       "A plain torch bulb in a circuit",
-      "A foil wire"
+      "A foil wire",
+      "A TV remote"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A remote has tiny parts inside that need the electricity to flow one way. A plain bulb lights whichever way round the cell is.",
      "how": "e2"
     },
@@ -1733,11 +1733,11 @@
      "t": "mcq",
      "p": "A Venus flytrap shuts only after an insect touches her trigger hairs twice. What carries the message through her leaf?",
      "opts": [
-      "An electric signal",
       "A wire",
-      "An AA cell"
+      "An AA cell",
+      "An electric signal"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each touch sends a tiny electric signal through her leaf. She has no wires or AA cells, but she uses electricity, as our nerves do."
     }
    ]
@@ -1748,11 +1748,11 @@
    "t": "mcq",
    "p": "How many wires does a simple circuit with one cell and one bulb need?",
    "opts": [
-    "Two",
     "One",
-    "None"
+    "None",
+    "Two"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One wire takes the electricity to the bulb and one brings it back to the cell. With only one wire the bulb stays dark, because the electricity has no way back.",
    "outcome": 0
   },
@@ -1760,11 +1760,11 @@
    "t": "mcq",
    "p": "Where must the two wires go on the cell?",
    "opts": [
-    "One on each end",
     "Both on the bump",
+    "One on each end",
     "Both on the flat end"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Electricity flows out of one end and back into the other. With both wires on one end, there is no path.",
    "outcome": 3
   },
@@ -1796,11 +1796,11 @@
    "t": "mcq",
    "p": "What is a circuit?",
    "opts": [
-    "A complete ring that electricity flows round",
     "A kind of bulb",
-    "A box for cells"
+    "A box for cells",
+    "A complete ring that electricity flows round"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A circuit is the whole ring: cell, wire, bulb, wire and back to the cell.",
    "outcome": 1
   },
@@ -1808,11 +1808,11 @@
    "t": "mcq",
    "p": "Which part of a bulb glows?",
    "opts": [
-    "The filament",
     "The glass",
-    "The metal base"
+    "The metal base",
+    "The filament"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Electricity makes the thin filament so hot that it glows. The glass keeps the air away.",
    "outcome": 5
   },

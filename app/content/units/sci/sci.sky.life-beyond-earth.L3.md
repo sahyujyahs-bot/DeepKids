@@ -508,7 +508,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 1. (write) Name the three things every living thing found so far needs.  
    **Answer:** Liquid water, a supply of energy (such as sunlight, food or chemicals), and the chemicals their body is built from.. *Why:* A strong answer names liquid water, not just water, because ice and steam are no use to a cell.
 2. (mcq) In the freezer test, which cup froze first?  
-   Options: The plain water / The one-spoon cup / The six-spoon cup  
+   Options: The one-spoon cup / The six-spoon cup / The plain water  
    **Answer:** The plain water. *Why:* Plain water freezes at 0 degrees, so it freezes first. Salt lowers the freezing point, so the salty cups must get colder.
 3. (write) In the freezer test, the six-spoon cup was still liquid next morning, but the plain cup was frozen hard. Both sat on the same shelf all night. Explain why.  
    **Answer:** Salt lowers the freezing point of water. The salt particles get in the way of the water particles lining up into ice. Very salty water does not freeze until about minus 21 degrees, which is colder than a home freezer.. *Why:* A strong answer says the cups were equally cold, so the difference must come from the salt, and says what salt does.
@@ -519,7 +519,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 6. (match) Match each living thing to the hard place they live in.  
    **Answer:** Thermus aquaticus → a hot spring; Haloarchaea → a very salty lake; Bacteria in Lake Vida → salty water under Antarctic ice; Tardigrade → moss that dries out in summer; Vent microbes → hot water deep in the sea, with no sunlight. *Why:* Each of these lives where most life could not. Knowing where they live helps scientists choose where to look on other worlds.
 7. (mcq) Heat breaks the working parts inside most cells. How do hot-spring microbes survive?  
-   Options: They stay cool by swimming fast / Their working parts are built to hold their shape in heat / They only come out at night  
+   Options: Their working parts are built to hold their shape in heat / They stay cool by swimming fast / They only come out at night  
    **Answer:** Their working parts are built to hold their shape in heat. *Why:* Their working parts are heat-proof, so they keep working in hot water. Swimming does not cool them, and the spring is hot day and night.
 8. (draw) Draw a cup of sea water that is half frozen. Show where the ice is, and where the salt has gone.  
    **Answer:** Ice on top, almost without salt. Salty leftover water underneath, with the salt drawn as dots crowded in the liquid.. *Why:* A strong drawing shows the salt pushed out of the ice and into the liquid, as Sea Ice in a Cup showed.
@@ -540,7 +540,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
    **Answer:** The salt melted a thin layer of the ice under the thread. The cold ice around it froze that water again, with the thread stuck in it, so the cube could be lifted.. *Why:* A strong answer says that salt makes ice melt even in the cold. That is also what kept the salty cups liquid in the freezer test.
 ### Extreme Lives and Icy Moons (stretch) (stretch, 16 questions)
 1. (mcq) Suppose you do the freezer test with a cup of sugar water as well. It freezes, but later than plain water. What does that tell you?  
-   Options: Only salt can lower the freezing point / Other things dissolved in water lower the freezing point too / Sugar makes water colder  
+   Options: Only salt can lower the freezing point / Sugar makes water colder / Other things dissolved in water lower the freezing point too  
    **Answer:** Other things dissolved in water lower the freezing point too. *Why:* Anything dissolved in water gets in the way of ice forming, so it lowers the freezing point. Spoon for spoon, salt lowers it more than sugar does.
 2. (write) In a small single-door fridge, at about minus 8 degrees, a one-spoon cup stayed slushy all night. In a big fridge, at minus 18 degrees, a one-spoon cup froze. Explain both results.  
    **Answer:** One spoon of salt lowers the freezing point a few degrees below zero. At minus 8, the cup was only a little below its freezing point, so it froze slowly and stayed slushy. At minus 18, it was much colder than its freezing point, so it froze.. *Why:* A strong answer compares each freezer's temperature with the salty water's freezing point.
@@ -560,7 +560,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 9. (order) Put these steps of the freezer test in order.  
    **Answer:** ['Add 0, 1 and 6 spoons of salt', 'Guess what will happen and why', 'Put the cups side by side in the freezer', 'Check after 1 hour, 3 hours and next morning', 'Explain what you saw']. *Why:* The guess comes before the test, so the test can show whether the guess was right.
 10. (mcq) Why did the freezer test use three cups that were the same, on the same shelf?  
-   Options: So only the amount of salt changed / So the cups looked neat / So they would freeze faster  
+   Options: So the cups looked neat / So only the amount of salt changed / So they would freeze faster  
    **Answer:** So only the amount of salt changed. *Why:* Keeping everything else the same is called a fair test. Then any difference must come from the salt.
 11. (draw) Draw a tardigrade in moss in the rainy season, and the same tardigrade in summer when the moss is dry.  
    **Answer:** In the rain, a tardigrade walking on eight stubby legs in wet moss. In summer, the tardigrade curled into a small dry ball with no legs showing.. *Why:* A strong drawing shows the problem, the moss drying, and the trick, curling into a dry ball until water returns.
@@ -581,7 +581,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 2. (write) Plan a test: does sugar lower the freezing point as much as salt? Say what you would change, what you would keep the same, and what you would look for.  
    **Answer:** I would put two cups of the same amount of water in the freezer, one with six spoons of salt and one with six spoons of sugar. Same cups, same shelf, same times. I would check after 1 hour, 3 hours and next morning, and see which freezes first. The one that stays liquid longer lowers the freezing point more.. *Why:* A strong plan changes only one thing, keeps the rest the same, and says what result would answer the question.
 3. (mcq) Europa is about five times further from the Sun than Earth, so it gets very little sunlight. Which is the most likely energy source for any life in its ocean?  
-   Options: Sunlight shining through the thick ice / Chemicals from warm rock on the ocean floor, like at Earth's deep-sea vents / Lightning in the ocean  
+   Options: Sunlight shining through the thick ice / Lightning in the ocean / Chemicals from warm rock on the ocean floor, like at Earth's deep-sea vents  
    **Answer:** Chemicals from warm rock on the ocean floor, like at Earth's deep-sea vents. *Why:* Very little sunlight gets through kilometres of ice. On Earth, vent microbes take energy from chemicals in the dark, so scientists think the same could happen on Europa's sea floor. There is no evidence of lightning in the ocean.
 4. (write) A scientist finds microbes on Mars. Another scientist says, 'They might have come from Earth on our own spacecraft.' How could the first scientist show that they are really Martian?  
    **Answer:** By showing the spacecraft was cleaned carefully, by checking that the microbes are not like any known Earth microbes, and by finding them deep in rock where a spacecraft could not have put them.. *Why:* A strong answer sees why keeping spacecraft clean matters, and suggests a check that could tell Earth life from Martian life.
@@ -597,7 +597,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
 9. (order) Put these discoveries in order, earliest first.  
    **Answer:** ['Mariner 4 shows Mars has no canals', 'Thermus aquaticus is grown from a Yellowstone spring', "Cassini finds salt in Enceladus's jets", 'Bacteria are reported in Lake Vida']. *Why:* Mariner 4 flew past Mars in 1965. Thermus aquaticus was grown in 1966. Cassini found salt in the jets around 2009. Bacteria in Lake Vida were reported in 2012.
 10. (mcq) Which of these would be the strongest sign of life in a faraway planet's air?  
-   Options: Water vapour / A lot of oxygen together with methane / Dust  
+   Options: A lot of oxygen together with methane / Water vapour / Dust  
    **Answer:** A lot of oxygen together with methane. *Why:* On Earth, oxygen and methane react with each other, so both stay plentiful only because living things keep making them. Water vapour and dust can come from places with no life.
 11. (fill) The science that asks where else life could live, and how we could find it, is called ____.  
    **Answer:** ['astrobiology']. *Why:* Astro means star, and biology is the study of life.
@@ -623,7 +623,7 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
    Options: Salt lowers the freezing point of water / The salty cup was warmer / Salt water is too heavy to freeze  
    **Answer:** Salt lowers the freezing point of water. *Why:* Salt gets in the way of water particles lining up into ice, so salty water must get much colder before it freezes. The salty water was just as cold as the plain water.
 3. (mcq) Plain water freezes at 0 degrees. About when does water with as much salt as it can hold freeze?  
-   Options: At 10 degrees / At 0 degrees too / At about minus 21 degrees  
+   Options: At about minus 21 degrees / At 10 degrees / At 0 degrees too  
    **Answer:** At about minus 21 degrees. *Why:* Very salty water stays liquid until about minus 21 degrees, colder than a home freezer.
 4. (mcq) Thermus aquaticus lives in hot springs at about 70 degrees. How does heat affect most other cells?  
    Options: Heat breaks their working parts, the way heat sets egg white / Heat makes them grow faster forever / Heat has no effect  
@@ -632,13 +632,13 @@ Arjun put his face close to it. "Hello," he whispered to the water. "Is anybody 
    Options: Inside the solid crystals / In thin channels of salty liquid water / Only on top  
    **Answer:** In thin channels of salty liquid water. *Why:* Freezing pushes salt into thin channels of brine. The brine stays liquid, and the microbes live there.
 6. (mcq) Salty water pulls water out of most cells. How do salt-loving microbes deal with this?  
-   Options: They fill their cells with salts too, so water stays inside / They drink fresh water / They live only in rain  
+   Options: They drink fresh water / They live only in rain / They fill their cells with salts too, so water stays inside  
    **Answer:** They fill their cells with salts too, so water stays inside. *Why:* With salts inside as well as outside, water is not pulled out. Many salt-loving microbes are pink, like the ones that turned Lonar Lake pink in 2020.
 7. (mcq) What is an extremophile?  
-   Options: A very big animal / A living thing who lives where most life could not survive / A kind of spacecraft  
+   Options: A very big animal / A kind of spacecraft / A living thing who lives where most life could not survive  
    **Answer:** A living thing who lives where most life could not survive. *Why:* Extremophile means 'lover of extremes', such as near-boiling water, ice or very salty water.
 8. (mcq) Why is Europa, a moon of Jupiter, one of the best places to look for life?  
-   Options: It is the closest moon to Earth / It has a deep salty ocean of liquid water under its ice / It is very hot  
+   Options: It is the closest moon to Earth / It is very hot / It has a deep salty ocean of liquid water under its ice  
    **Answer:** It has a deep salty ocean of liquid water under its ice. *Why:* Liquid water is what life needs, and Europa probably has more of it than all of Earth's oceans.
 9. (mcq) Why do scientists study rocks from an old lake bed on Mars?  
    Options: Mars once had liquid water, so microbes might have lived there long ago / Mars has many cities / The rocks are made of gold  

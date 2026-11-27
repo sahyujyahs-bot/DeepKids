@@ -602,11 +602,11 @@
      "t": "mcq",
      "p": "Your thumb is taped down. Which job will be the hardest?",
      "opts": [
-      "Picking up a coin from the floor",
       "Waving goodbye",
-      "Clapping your hands"
+      "Clapping your hands",
+      "Picking up a coin from the floor"
      ],
-     "a": 0,
+     "a": 2,
      "why": "To pick up a flat coin, the thumb presses on one side and a finger on the other. Waving and clapping need no pinch, so they stay easy.",
      "how": "e1"
     },
@@ -719,11 +719,11 @@
      "t": "mcq",
      "p": "A newspaper tube is round your elbow, so your arm cannot bend. Which can you not do with that hand?",
      "opts": [
-      "Put a biscuit in your mouth",
       "Pick up a ball from the floor",
+      "Put a biscuit in your mouth",
       "Wave to your friend"
      ],
-     "a": 0,
+     "a": 1,
      "why": "With the elbow kept straight, your arm cannot fold, so your hand cannot come back to your mouth. Picking up a ball and waving need no bending at the elbow.",
      "how": "a2"
     },
@@ -830,11 +830,11 @@
      "t": "mcq",
      "p": "What is an elephant's trunk?",
      "opts": [
-      "A long nose and upper lip joined together",
       "A long arm",
-      "A long tail at the front"
+      "A long tail at the front",
+      "A long nose and upper lip joined together"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An elephant's trunk is a nose and upper lip joined together. The elephant smells, breathes, drinks and picks things up with the trunk."
     },
     {
@@ -1152,11 +1152,11 @@
       "t": "mcq",
       "q": "A girl writes with her left hand. Which hand will she most likely move more beans with?",
       "options": [
-       "Her left hand",
        "Her right hand",
-       "Nobody can guess"
+       "Nobody can guess",
+       "Her left hand"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Most people are quicker with the hand they use most. She uses her left hand most, so her left hand will most likely move more beans."
      }
     }
@@ -1350,10 +1350,10 @@
       "q": "With the tube on, why could your hand not reach your mouth?",
       "options": [
        "The snack was too heavy",
-       "The elbow could not bend",
-       "The fingers were tired"
+       "The fingers were tired",
+       "The elbow could not bend"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The elbow is a joint, where two arm bones meet. Bones do not bend, so your arm bends at the elbow. With the elbow kept straight, the arm stayed long and the hand could not come back to your mouth."
      }
     }
@@ -1744,11 +1744,11 @@
    "t": "mcq",
    "p": "Which part helps you smell a jasmine flower?",
    "opts": [
-    "Your nose",
     "Your chin",
+    "Your nose",
     "Your heel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your nose smells, and you breathe through your nose too.",
    "outcome": 1
   },
@@ -1756,11 +1756,11 @@
    "t": "mcq",
    "p": "In the thumb test, why was picking up rice harder with the thumb taped?",
    "opts": [
-    "The fingers had no thumb to press against",
     "The rice got heavier",
-    "The tape was too sticky"
+    "The tape was too sticky",
+    "The fingers had no thumb to press against"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A pinch needs the thumb on one side and a finger on the other. With the thumb taped, the fingers could only press against each other.",
    "outcome": 2,
    "how": "e1"
@@ -1769,11 +1769,11 @@
    "t": "mcq",
    "p": "Which job needs your thumb the most?",
    "opts": [
-    "Doing up a button",
     "Kicking a ball",
-    "Nodding your head"
+    "Nodding your head",
+    "Doing up a button"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A button has to be pinched from both sides, by the thumb and a finger. Kicking and nodding do not use your thumb.",
    "outcome": 2
   },
@@ -1781,11 +1781,11 @@
    "t": "mcq",
    "p": "What is a joint?",
    "opts": [
-    "A place where two bones meet, where you can bend",
     "A kind of muscle",
-    "The hard part of a bone"
+    "The hard part of a bone",
+    "A place where two bones meet, where you can bend"
    ],
-   "a": 0,
+   "a": 2,
    "why": "At a joint, two bones meet. Bones do not bend, so your body bends at its joints.",
    "outcome": 3
   },
@@ -1830,11 +1830,11 @@
    "t": "mcq",
    "p": "Which animal has six legs?",
    "opts": [
-    "An ant",
     "A crow",
+    "An ant",
     "A cat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "An ant has six legs and two feelers. A crow has two legs and a cat has four.",
    "outcome": 4
   }

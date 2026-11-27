@@ -744,10 +744,10 @@
       "q": "How does a rohu fish breathe?",
       "options": [
        "With lungs, like us",
-       "With gills, which take oxygen out of water",
-       "Through their scales"
+       "Through their scales",
+       "With gills, which take oxygen out of water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Fish breathe with gills. Water flows in at the mouth, over the red frills, and out at the sides. Picking lungs usually means thinking all animals breathe the way we do. Picking scales mixes up a fish with a frog, which breathes partly through their skin."
      }
     },
@@ -763,10 +763,10 @@
       "q": "Where does a garden lizard get their warmth?",
       "options": [
        "They make their own heat from food, like us",
-       "They take heat from outside, from the sun and warm stones",
-       "They have no warmth at all"
+       "They have no warmth at all",
+       "They take heat from outside, from the sun and warm stones"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Lizards are reptiles. Most reptiles take their heat from outside. That is why they bask in the morning sun. Picking 'no warmth' usually comes from the old word 'cold-blooded'. A lizard in the sun can be warmer than you."
      }
     },
@@ -791,10 +791,10 @@
       "q": "A bat flies. Which family do they belong to?",
       "options": [
        "Birds, because they fly",
-       "Mammals, because they have fur and feed their babies milk",
-       "Reptiles, because their wings have skin"
+       "Reptiles, because their wings have skin",
+       "Mammals, because they have fur and feed their babies milk"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Bats have fur and feed their babies milk, so they are mammals. They make their own heat too. Picking 'birds' means sorting by flying, but many things fly, even insects. Families are sorted by skin, breathing and babies."
      }
     },
@@ -919,11 +919,11 @@
       "t": "mcq",
       "q": "On a COLD NIGHT, what does a lizard do?",
       "options": [
-       "Runs around to warm up",
        "Stays still and slow until the sun comes",
+       "Runs around to warm up",
        "Eats lots of food to make heat"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A lizard takes their heat from outside. On a cold night they simply go slow and still, and wait. Picking 'eats food to make heat' is what a sparrow does. Picking 'runs around' is what we do when we feel cold."
      }
     },
@@ -1125,11 +1125,11 @@
       "t": "mcq",
       "q": "Which bottle usually cools the least?",
       "options": [
-       "The bare bottle",
        "The bottle in the dry woollen sock",
+       "The bare bottle",
        "The bottle in the wet woollen sock"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The dry wool traps still air, and still air lets heat out slowly. So that bottle stays warmest. Picking the wet sock usually means thinking 'more covering is always better'. But in wet wool, water fills the gaps where the air was, and the drying water carries heat away. That is why a wet animal gets cold so fast."
      },
      "how": "e1",
@@ -1268,10 +1268,10 @@
       "q": "After 30 minutes, which tumbler is likely to be warmer?",
       "options": [
        "The one in the shade, because it is cooler there",
-       "The one in the sun",
-       "They will be the same, because the water is the same"
+       "They will be the same, because the water is the same",
+       "The one in the sun"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The sunny tumbler takes in the sun's warmth, just as a basking lizard does. Picking 'the same' means forgetting that a thing that cannot make its own heat warms up and cools down with its surroundings."
      },
      "how": "e2",
@@ -1386,11 +1386,11 @@
       "t": "mcq",
       "q": "Which jelly eggs dried out the most?",
       "options": [
-       "The ones in water",
        "The ones in the open bowl",
+       "The ones in water",
        "The ones inside the eggshell"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Out in the open air, water leaves the jelly and it dries into a crust. In water, it stays soft. Inside the shell, much less water escapes. Picking the shell usually means thinking a shell is just for protection. It also keeps the egg from drying out, so birds and reptiles can lay eggs on dry land."
      },
      "wait": "Leave it until the next day",
@@ -1591,10 +1591,10 @@
       "q": "A frog sits in a wet drain on a hot day in the monsoon. Why might they stay there?",
       "options": [
        "Frogs like dirty water",
-       "Frogs must keep their skin damp, because they breathe through it",
-       "Frogs cannot see the dry ground"
+       "Frogs cannot see the dry ground",
+       "Frogs must keep their skin damp, because they breathe through it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A frog breathes partly through their thin skin, and the skin only works when it is damp. A wet drain also keeps them cool. Picking 'dirty water' misses the real reason. The frog is looking for wet, not dirt."
      }
     }
@@ -1655,10 +1655,10 @@
       "q": "Which wrist feels cooler when you fan them?",
       "options": [
        "The dry wrist",
-       "The wet wrist",
-       "Both feel the same"
+       "Both feel the same",
+       "The wet wrist"
       ],
-      "a": 1,
+      "a": 2,
       "why": "When water dries off your skin, it carries heat away with it. That is how sweating cools you. Picking 'both the same' usually means thinking the fan does all the cooling. The fan only helps the water dry faster."
      }
     },
@@ -1770,11 +1770,11 @@
       "t": "mcq",
       "q": "The small bottle usually cools faster. What does this tell us about small animals?",
       "options": [
-       "Small animals stay warm more easily",
        "Small animals lose heat fast, so they must eat a lot for their size",
+       "Small animals stay warm more easily",
        "Size makes no difference"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A small body has lots of skin for its size, so heat escapes quickly. That is why a tiny sunbird or a mouse eats almost all day. Picking 'stay warm more easily' mixes up 'small' with 'cosy'. An elephant has the opposite problem. They must work to cool down."
      },
      "how": "a4"
@@ -1861,11 +1861,11 @@
       "t": "mcq",
       "q": "The air changed by 8 degrees. Your body changed by less than 1 degree. Why?",
       "options": [
-       "The thermometer is broken",
        "Your body makes its own heat and keeps itself steady",
+       "The thermometer is broken",
        "You stayed indoors all day"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Mammals and birds keep their bodies at almost the same warmth, day and night. Your body makes more heat when it is cold and sweats when it is hot. Picking 'stayed indoors' is a fair thought, but even outdoors your body stays near 37 °C. A lizard's body would have changed with the air."
      }
     }
@@ -2106,10 +2106,10 @@
       "q": "What will a woollen sock do to an ice cube?",
       "options": [
        "Melt it faster, because wool is warm",
-       "Slow down the melting, because wool slows heat moving in",
-       "Nothing at all"
+       "Nothing at all",
+       "Slow down the melting, because wool slows heat moving in"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Wool is not warm by itself. It slows heat moving from one side to the other, in either direction. So it keeps the room's heat away from the ice. Picking 'melt it faster' is the most common guess, because we feel warm in sweaters. But that warmth comes from our own bodies, not from the wool."
      }
     },
@@ -2191,11 +2191,11 @@
       "t": "mcq",
       "q": "Why do frogs come out mostly at night and in the rain?",
       "options": [
-       "Because they are scared of the sun",
        "Because damp, cool air keeps their skin from drying out",
+       "Because they are scared of the sun",
        "Because they cannot see in daylight"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Frogs breathe partly through thin, damp skin. Sun and dry air would dry it out, so hiding by day keeps them safe. Picking 'scared' names a feeling but not the reason behind it. Picking 'cannot see' is not true. Many frogs see well by day."
      }
     },
@@ -2298,12 +2298,12 @@
      "t": "mcq",
      "p": "Watch a fish in a tank. The flaps just behind their eyes open and close all the time. What are the flaps doing?",
      "opts": [
-      "Pumping water over the gills, which take oxygen out of the water",
       "Chewing food",
       "Listening for danger",
+      "Pumping water over the gills, which take oxygen out of the water",
       "Drinking water to stay wet"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Fish breathe with gills. The fish gulps water in at the mouth, and the water flows over the red gills and out under the flaps. Blood in the gills picks up oxygen from the water. Many people think fish do not breathe at all, because they never take a breath of air."
     },
     {
@@ -2318,11 +2318,11 @@
      "t": "mcq",
      "p": "Which two groups make their own body heat?",
      "opts": [
-      "Fish and reptiles",
       "Birds and mammals",
+      "Fish and reptiles",
       "Amphibians and fish"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Birds and mammals make their own heat from food. Picking fish or reptiles is common, because some of them are warm in the sun. But that warmth comes from outside."
     },
     {
@@ -2391,23 +2391,23 @@
      "t": "mcq",
      "p": "Which animal feeds their babies milk?",
      "opts": [
-      "Hen",
       "Goat",
+      "Hen",
       "Cobra",
       "Rohu"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Mammal mothers feed their babies milk, and a goat is a mammal. Picking hen is common, because hens look after their chicks. But hen chicks peck grain and insects, and drink no milk."
     },
     {
      "t": "mcq",
      "p": "Look at the chart from the fur coat test. Which bottle kept its warmth best?",
      "opts": [
-      "Bare",
       "Dry sock",
+      "Bare",
       "Wet sock"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The dry sock bottle cooled only 4 degrees. That is the shortest bar. Picking 'wet sock' means reading the tallest bar as best. Here a tall bar means it lost the most heat.",
      "how": "e1",
      "chart": {
@@ -2452,10 +2452,10 @@
      "p": "Which of these animals is a reptile?",
      "opts": [
       "Toad",
-      "Star tortoise",
-      "Seahorse"
+      "Seahorse",
+      "Star tortoise"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A tortoise has dry scales on their shell, breathes with lungs and lays shelled eggs on land. A toad is an amphibian and a seahorse is a fish."
     },
     {
@@ -2506,11 +2506,11 @@
      "t": "mcq",
      "p": "A mouse and a snake weigh the same. Which needs more food each week?",
      "opts": [
-      "The snake",
       "The mouse",
+      "The snake",
       "Both need the same"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The mouse makes their own heat, which burns many times more food. The snake takes their heat from outside, so they can wait weeks between meals."
     },
     {
@@ -2527,11 +2527,11 @@
      "t": "mcq",
      "p": "In the fur coat test, why did the wet sock bottle cool fastest?",
      "opts": [
-      "Wet wool has no trapped air, and drying water carries heat away",
       "Water is always cold",
+      "Wet wool has no trapped air, and drying water carries heat away",
       "The sock was too small"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wet fur or wool loses its trapped air, and the water drying off takes heat with it. That is why a wet dog shivers.",
      "how": "e1"
     },
@@ -2556,11 +2556,11 @@
      "t": "mcq",
      "p": "Which animal is a mammal that lays eggs?",
      "opts": [
-      "Platypus",
       "Penguin",
+      "Platypus",
       "Crocodile"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The platypus of Australia is a mammal with fur that feeds their babies milk, but they lay eggs. Picking penguin or crocodile is wrong: they lay eggs but are a bird and a reptile."
     },
     {
@@ -2673,10 +2673,10 @@
      "p": "All the warmth of a sparrow comes, in the end, from where?",
      "opts": [
       "From their feathers",
-      "From the sun, through the grain they eat",
-      "From the air around them"
+      "From the air around them",
+      "From the sun, through the grain they eat"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The sparrow burns food to make heat. That food's energy came from plants, which caught it from sunlight. Feathers only hold the heat in."
     },
     {
@@ -2706,11 +2706,11 @@
      "t": "mcq",
      "p": "In 2010, scientists found that alligators share something with birds. What is it?",
      "opts": [
-      "Feathers",
       "Air flowing one way through their lungs",
+      "Feathers",
       "Warm blood"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Colleen Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins."
     },
     {
@@ -2758,12 +2758,12 @@
      "t": "mcq",
      "p": "In 1774, Charles Blagden and George Fordyce sat in a room heated far above the boiling point of water. Eggs left in the room cooked hard. But the two men came out well, dripping with sweat. What does this show?",
      "opts": [
-      "A body that makes its own heat also works to stay cool, for example by sweating.",
       "The room thermometer was broken.",
+      "A body that makes its own heat also works to stay cool, for example by sweating.",
       "People cannot get hot at all.",
       "Eggs cook more easily than people because eggs are smaller."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Before this, many people thought a body heats up like a stone in the sun. But a living body keeps its own warmth steady. Sweat drying on the skin carries heat away. A stone, or an egg, cannot do that."
     },
     {
@@ -2817,11 +2817,11 @@
    "t": "mcq",
    "p": "A Ganges river dolphin lives in water all their life. How do they breathe?",
    "opts": [
-    "With gills, like a fish",
     "They come up and breathe air with lungs",
+    "With gills, like a fish",
     "Through their skin"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dolphins are mammals. They breathe air with lungs, so they must come up every minute or two. Picking gills means sorting by where an animal lives, not by their body.",
    "outcome": 1
   },
@@ -2865,11 +2865,11 @@
    "t": "mcq",
    "p": "A yak lives high up in Ladakh, where the winter is freezing. What keeps the yak warm?",
    "opts": [
-    "Thick, shaggy fur that traps still air, and a layer of fat",
     "Drinking warm water",
-    "Standing still all winter"
+    "Standing still all winter",
+    "Thick, shaggy fur that traps still air, and a layer of fat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The yak makes their own heat from food. The fur holds a layer of still air next to the skin, and fat under the skin slows heat leaving too.",
    "outcome": 3
   },
@@ -2877,11 +2877,11 @@
    "t": "mcq",
    "p": "A hen's egg can lie on dry straw for three weeks without drying out. What stops it drying out?",
    "opts": [
-    "The shell keeps the water in, but tiny holes let air through",
     "The hen sprinkles water on the egg",
-    "The yolk soaks up the air"
+    "The yolk soaks up the air",
+    "The shell keeps the water in, but tiny holes let air through"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shelled egg can be laid on land. A frog's jelly egg has no shell, so in dry air it dries out. That is why frogs lay their eggs in water.",
    "outcome": 4
   },
@@ -2890,10 +2890,10 @@
    "p": "What makes mammals different from all other groups?",
    "opts": [
     "They lay eggs",
-    "Mothers feed their babies milk",
-    "They can fly"
+    "They can fly",
+    "Mothers feed their babies milk"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Mammal mothers make milk in their own bodies to feed their babies. No other group does. Pigeons feed chicks a soft food called crop milk, but it is not real milk. Picking 'lay eggs' is true of most other groups. Picking 'fly' fits bats, but also birds and insects.",
    "outcome": 4
   },
@@ -2914,11 +2914,11 @@
    "t": "mcq",
    "p": "What do scientists still argue about?",
    "opts": [
-    "Whether fish have gills",
     "When animals first began to make their own heat",
+    "Whether fish have gills",
     "Whether birds lay eggs"
    ],
-   "a": 1,
+   "a": 0,
    "why": "We know fish have gills and that all birds lay eggs. But nobody is sure when, or why, warm bodies began, or how warm the dinosaurs were.",
    "outcome": 6
   }

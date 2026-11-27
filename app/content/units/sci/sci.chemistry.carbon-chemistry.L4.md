@@ -529,7 +529,7 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 8. (fill) Rice, potato and cornflour are mostly ____, a long chain of glucose rings.  
    **Answer:** ['starch']. *Why:* Plants join glucose rings into starch and pack the starch away as a food store.
 9. (mcq) Which of these is built from glucose rings joined in long, straight chains?  
-   Options: Cotton / Salt / Steel / Glass  
+   Options: Salt / Steel / Cotton / Glass  
    **Answer:** Cotton. *Why:* Cotton is mostly cellulose. Each cellulose molecule is a straight chain of thousands of glucose rings.
 10. (order) Put these in order, from the shortest carbon chain to the longest.  
    **Answer:** ['Methane', 'Butane', 'Octane', 'Candle wax', 'Polythene']. *Why:* Methane has 1 carbon atom, butane 4, octane 8, wax about 25 and polythene many thousands.
@@ -542,14 +542,14 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 14. (perspective) Is a plastic bottle 'unnatural'?  
    **Answer:** Any view with a reason from the unit. One reason is that plastic and wood share a carbon frame. Another is that microbes have enzymes for wood but almost none for plastic.. *Why:* Each view has something right in it. A strong answer uses a fact about carbon chains or about microbes, and answers another view fairly.
 15. (mcq) Where does a plant get the carbon to build wood?  
-   Options: From carbon dioxide in the air / From the soil / From water / From sunlight  
+   Options: From the soil / From water / From sunlight / From carbon dioxide in the air  
    **Answer:** From carbon dioxide in the air. *Why:* A leaf takes carbon dioxide from the air and joins the carbon into glucose. Sunlight gives the energy, but light is not a material.
 ### Chains, rings and reasons (stretch, 15 questions)
 1. (mcq) An atom makes only one bond. What is the biggest molecule that such atoms can build alone?  
-   Options: A pair of two atoms / A chain of three / A ring of six / A chain of any length  
+   Options: A chain of three / A ring of six / A chain of any length / A pair of two atoms  
    **Answer:** A pair of two atoms. *Why:* Once two one-bond atoms join, neither has a bond left for a third. Hydrogen gas is made of such pairs.
 2. (mcq) A carbon atom in the middle of a chain has two bonds left. What can they hold?  
-   Options: Hydrogen atoms or a branch / Nothing at all / Only another chain end / Only oxygen atoms  
+   Options: Nothing at all / Only another chain end / Hydrogen atoms or a branch / Only oxygen atoms  
    **Answer:** Hydrogen atoms or a branch. *Why:* Each spare bond can hold a hydrogen atom, or it can hold another carbon atom and start a branch.
 3. (truefalse) Baking soda holds carbon, so it turns black on a hot tawa.  
    **Answer:** False. *Why:* False. Each carbon atom in baking soda sits alone, held by oxygen atoms. When heated, it leaves as carbon dioxide gas. A black solid needs carbon atoms joined to each other.
@@ -577,20 +577,20 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 14. (perspective) Should a food packet be allowed to say 'chemical-free'?  
    **Answer:** Any view with a reason. A strong answer notices that the word 'chemical' is used with two meanings. It may suggest a clearer label.. *Why:* This is a real disagreement about words. A strong answer separates what is true in chemistry from what the customer wants to know.
 15. (mcq) Fuel gas from a cylinder burns. What becomes of its carbon atoms?  
-   Options: They join oxygen as carbon dioxide / They vanish / They turn into heat / They stay in the burner  
+   Options: They vanish / They turn into heat / They stay in the burner / They join oxygen as carbon dioxide  
    **Answer:** They join oxygen as carbon dioxide. *Why:* Atoms are never lost. Each carbon atom joins with oxygen and leaves as carbon dioxide gas. The heat comes from the new bonds forming.
 ### Carbon, from stars to plastic (challenge, 15 questions)
 1. (mcq) In 1828 Friedrich Wöhler made urea from a mineral salt. Which idea did this test?  
-   Options: That only living bodies make such substances / That carbon makes four bonds / That urea is an element / That salt holds carbon  
+   Options: That carbon makes four bonds / That urea is an element / That salt holds carbon / That only living bodies make such substances  
    **Answer:** That only living bodies make such substances. *Why:* Chemists thought a life force was needed. Wöhler made a substance of the body from a mineral, with no living thing involved.
 2. (mcq) A diamond is burnt in pure oxygen. Only carbon dioxide forms. What does this show?  
-   Options: Diamond is pure carbon / Diamond holds water / Diamond is a kind of glass / Oxygen is made of carbon  
+   Options: Diamond holds water / Diamond is pure carbon / Diamond is a kind of glass / Oxygen is made of carbon  
    **Answer:** Diamond is pure carbon. *Why:* Carbon dioxide holds only carbon and oxygen. The oxygen was supplied, so the carbon must have come from the diamond, and nothing else was in it.
 3. (mcq) Silicon atoms also make four bonds. Why is life not built on silicon chains?  
    Options: Silicon chains break easily / Silicon is too rare / Silicon is a gas / Silicon makes only one bond  
    **Answer:** Silicon chains break easily. *Why:* Bonds between silicon atoms are weaker than bonds between carbon atoms. Long silicon chains fall apart in water and air. Silicon is not rare: sand is full of it.
 4. (mcq) Where were the carbon atoms in your body first made?  
-   Options: Inside stars / In the soil / In the sea / In the Sun, this year  
+   Options: In the soil / In the sea / In the Sun, this year / Inside stars  
    **Answer:** Inside stars. *Why:* Old stars press three helium atoms into one carbon atom. Dying stars threw that carbon into space, and the Earth formed from it.
 5. (truefalse) Two substances with exactly the same atoms must behave in exactly the same way.  
    **Answer:** False. *Why:* False. The three liquids made of 5 carbon and 12 hydrogen atoms boil at 36, 28 and 10 degrees. The pattern of the joins matters too.
@@ -622,25 +622,25 @@ At breakfast, Kathir's dosa came off the tawa with one black edge. He held it up
 
 ## Quiz
 1. (mcq) Why can carbon atoms build long chains?  
-   Options: Each makes four strong bonds / They are the smallest atoms / They are black / They are magnetic  
+   Options: They are the smallest atoms / Each makes four strong bonds / They are black / They are magnetic  
    **Answer:** Each makes four strong bonds. *Why:* A carbon atom holds two neighbours and still has two bonds free. The bonds between carbon atoms are strong, so the chain lasts.
 2. (mcq) What is the black solid left when sugar is heated strongly?  
-   Options: Mostly carbon / Burnt salt / Iron from the tawa / Dried water  
+   Options: Burnt salt / Mostly carbon / Iron from the tawa / Dried water  
    **Answer:** Mostly carbon. *Why:* Heat drives the hydrogen and oxygen out of sugar. A black solid that is mostly carbon stays behind.
 3. (mcq) Which of these stays white on a hot tawa?  
-   Options: Salt / Sugar / Atta / Paper  
+   Options: Sugar / Atta / Salt / Paper  
    **Answer:** Salt. *Why:* Salt holds no carbon. Sugar, atta and paper are built on carbon chains and rings, so they char.
 4. (mcq) Which list holds only forms of the element carbon?  
-   Options: Charcoal, graphite, diamond / Sugar, salt, sand / Iron, gold, silver / Water, ice, steam  
+   Options: Sugar, salt, sand / Iron, gold, silver / Charcoal, graphite, diamond / Water, ice, steam  
    **Answer:** Charcoal, graphite, diamond. *Why:* Charcoal, graphite and diamond are carbon atoms joined in different ways. The other lists hold other elements or mixtures of atoms.
 5. (mcq) What do cooking gas, petrol and candle wax have in common?  
-   Options: All are chains of carbon and hydrogen / All are gases / All hold oxygen atoms / All are made by plants today  
+   Options: All are gases / All are chains of carbon and hydrogen / All hold oxygen atoms / All are made by plants today  
    **Answer:** All are chains of carbon and hydrogen. *Why:* All three are hydrocarbons. They differ in the length of the carbon chain.
 6. (mcq) Candle wax is a solid and cooking gas is a gas. What is the main reason?  
    Options: Wax has much longer chains / Wax holds more water / Gas has heavier atoms / Wax is colder  
    **Answer:** Wax has much longer chains. *Why:* A wax chain has about 25 carbon atoms and a cooking gas molecule has 1 to 4. Long chains hold each other strongly.
 7. (mcq) What is a starch molecule?  
-   Options: A long chain of glucose rings / A single glucose ring / A chain of salt / A ring of iron atoms  
+   Options: A single glucose ring / A chain of salt / A long chain of glucose rings / A ring of iron atoms  
    **Answer:** A long chain of glucose rings. *Why:* Plants join hundreds or thousands of glucose rings into one starch chain.
 8. (truefalse) Cotton and cornflour are both built from glucose rings.  
    **Answer:** True. *Why:* True. Cotton is cellulose and cornflour is starch. Both are chains of glucose rings, joined in different ways.

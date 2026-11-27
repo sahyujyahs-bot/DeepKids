@@ -875,11 +875,11 @@
       "t": "mcq",
       "q": "Turmeric stains a plastic box that plain water cannot clean. What lifts the stain?",
       "options": [
-       "Oil or soap, because the colour dissolves in oily things",
        "Cold water, because cold water is strong",
+       "Oil or soap, because the colour dissolves in oily things",
        "Nothing can lift it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The turmeric colour dissolves in oil and holds on to the oily plastic. Water cannot take it up, but oil or soap can. Cold water is not stronger than warm water at this, and the stain can be lifted."
      },
      "context": "In this step you talk about the surprises and check what you learned.",
@@ -1041,11 +1041,11 @@
       "t": "mcq",
       "q": "Why does each colour go into one water jar and one oil jar, with the same amount of liquid?",
       "options": [
-       "So that only the liquid changes",
        "So the jars look neat",
+       "So that only the liquid changes",
        "So the colours do not mix"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. Here it is water against oil. If one jar had more liquid or more powder, you would not know whether the liquid or the amount made the difference."
      },
      "context": "In this step you set up six jars. Each colour is tested in water and in oil."
@@ -1099,11 +1099,11 @@
       "t": "mcq",
       "q": "Turmeric colour is yellow and clear in the oil jar, and pale with floating bits in the water jar. What does this show?",
       "options": [
-       "Turmeric colour dissolves in oil better than in water",
        "Oil is stronger than water",
+       "Turmeric colour dissolves in oil better than in water",
        "Water cannot dissolve anything"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The clear yellow oil shows that the colour has dissolved in oil. The floating bits in water show it has not dissolved there. Water can dissolve many things, such as food colour, so it is not weaker. It just holds on to different things than oil does."
      },
      "context": "In this step you say what you think, what you saw, and why."
@@ -1233,11 +1233,11 @@
       "t": "mcq",
       "q": "Why do both bottles stay unopened while they warm and cool?",
       "options": [
-       "So no gas escapes before the test starts",
        "So they do not get dirty",
-       "So they stay the same size"
+       "So they stay the same size",
+       "So no gas escapes before the test starts"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If gas escaped before you started, the test would not be fair. Keeping the bottles shut means both start with all their gas inside."
      },
      "context": "In this step you chill one soda, warm the other, and stretch the balloons."
@@ -1272,11 +1272,11 @@
       "t": "mcq",
       "q": "The balloon on the warm soda grew bigger than the balloon on the cold soda. What does this show?",
       "options": [
-       "Warm soda lets out more gas than cold soda",
        "Warm soda has more gas inside it to begin with",
+       "Warm soda lets out more gas than cold soda",
        "The warm balloon was a bigger balloon"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both bottles started with the same amount of gas. The warm drink could not hold on to as much, so more of it escaped into the balloon. The balloons were the same kind and stretched the same, so the balloon cannot explain it."
      },
      "context": "In this step you say what you think, what you saw, and why."
@@ -1396,11 +1396,11 @@
       "t": "mcq",
       "q": "Why does only one big bag get salt?",
       "options": [
-       "So that salt is the only thing that changes",
        "Because salt is expensive",
-       "So one bag can be saltier to eat"
+       "So one bag can be saltier to eat",
+       "So that salt is the only thing that changes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, one thing changes. If both bags had salt, there would be nothing to compare. The plain ice bag is the one you compare with. Scientists call it the control."
      },
      "context": "In this step you pack ice round the milk. Only one bag gets salt."
@@ -1534,11 +1534,11 @@
       "t": "mcq",
       "q": "Before the soda bottle is opened there are no bubbles, yet the soda fizzes when it is poured. Where was the gas?",
       "options": [
-       "Dissolved in the liquid, in pieces too small to see",
        "In the cap",
+       "Dissolved in the liquid, in pieces too small to see",
        "It was made by the glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The gas was spread through the liquid as tiny pieces, held in by the pressure in the sealed bottle. Opening the bottle lowers the pressure, and the gas comes out as bubbles. The cap only keeps the pressure in, and the glass does not make gas."
      },
      "context": "In this step you stir one glass and compare it with the still glass. You see how a glass of soda goes flat."
@@ -1653,11 +1653,11 @@
       "t": "mcq",
       "q": "A glass is cloudy, a torch beam shows inside it, and nothing settles after twenty minutes. What kind of mixture is it?",
       "options": [
-       "A colloid",
        "A solution",
+       "A colloid",
        "A suspension"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A solution is clear and does not scatter light. A suspension settles. A mixture that is cloudy, shows the beam and does not settle is a colloid, like milk."
      },
      "context": "In this step you name the three kinds and sort your glasses."
@@ -1741,11 +1741,11 @@
       "t": "mcq",
       "q": "Why did the thread end up frozen into the ice cube?",
       "options": [
-       "The salt made a little ice melt and the mixture colder, then the water froze again round the thread",
        "The salt glued the thread to the ice",
-       "The thread was colder than the ice"
+       "The thread was colder than the ice",
+       "The salt made a little ice melt and the mixture colder, then the water froze again round the thread"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Salt dissolves in the thin film of water on the ice and makes the ice melt, which takes heat and makes the mixture colder. Then the melting ice waters down the salty water, and the cold ice freezes it again, with the thread inside. Salt is not a glue, and the thread was not colder than the ice."
      },
      "context": "In this step you explain what happened with the thread and the salt."
@@ -2081,11 +2081,11 @@
       "t": "mcq",
       "q": "A dyed cloth loses much of its colour when washed. What does this suggest about that dye?",
       "options": [
-       "The cloth held it loosely, so the water could take it back",
        "The dye was not coloured enough",
-       "The soap made new colour"
+       "The soap made new colour",
+       "The cloth held it loosely, so the water could take it back"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A dye that stays in cloth is held on by the cloth. A dye that washes out is only loosely held, so soap and water can dissolve it again. Soap does not make colour, and strong colour does not always mean strong hold."
      },
      "context": "In this step you compare the washed and dry halves and say what you found."
@@ -2187,11 +2187,11 @@
       "t": "mcq",
       "q": "Why does the salt go through the cloth, but the rava stays on it?",
       "options": [
-       "The salt has dissolved into pieces far smaller than the cloth's holes, and rava has not dissolved",
        "Rava is heavier than salt",
-       "The cloth likes salt"
+       "The cloth likes salt",
+       "The salt has dissolved into pieces far smaller than the cloth's holes, and rava has not dissolved"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Dissolved salt is in tiny pieces that pass through any cloth, but rava does not dissolve and stays as bits that are too big to pass. Weight does not matter here, and a cloth does not like anything."
      },
      "context": "In this step you dissolve the salt in water and catch the rava with a cloth."
@@ -2230,12 +2230,12 @@
      "t": "mcq",
      "p": "Which of these dissolves much better in oil than in water?",
      "opts": [
-      "The yellow colour of turmeric",
       "Salt",
       "Sugar",
+      "The yellow colour of turmeric",
       "Food colour for cakes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Turmeric colour is oily, so it dissolves in oil. Salt and sugar dissolve in water. Food colour for cakes is made to dissolve in water.",
      "how": "e1"
     },
@@ -2329,11 +2329,11 @@
      "t": "mcq",
      "p": "A glass of liquid is cloudy, a torch beam shows up inside it, and nothing settles at the bottom after an hour. What is it most likely to be?",
      "opts": [
-      "Milk in water, a colloid",
       "Salt water, a solution",
-      "Muddy water, a suspension"
+      "Muddy water, a suspension",
+      "Milk in water, a colloid"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A solution is clear. A suspension settles. A cloudy liquid that shows the beam and does not settle is a colloid, like milk.",
      "how": "a2"
     },
@@ -2467,11 +2467,11 @@
      "t": "mcq",
      "p": "A TDS meter reads about 20 in a glass of water with a teaspoon of sugar stirred in, and about 20 in plain filtered water. What is the best explanation?",
      "opts": [
-      "The meter reads charged particles, and sugar makes none",
       "The sugar did not dissolve",
+      "The meter reads charged particles, and sugar makes none",
       "Sugar water is the same as salt water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A TDS meter senses electricity carried by charged particles. Sugar dissolves into whole molecules with no charge, so the meter does not notice it. Sugar did dissolve, and it is very different from salt.",
      "how": "a5"
     },
@@ -2594,11 +2594,11 @@
      "t": "mcq",
      "p": "Rainwater slowly dissolves limestone and makes caves. Why does it take so long?",
      "opts": [
-      "Limestone dissolves only a very little each time, so it takes a very long time to remove a lot",
       "Rainwater cannot dissolve rock",
-      "Caves are dug by animals"
+      "Caves are dug by animals",
+      "Limestone dissolves only a very little each time, so it takes a very long time to remove a lot"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Limestone dissolves very slowly. Each drop of rainwater takes away only a tiny amount, but over hundreds of thousands of years the amount adds up to a cave."
     },
     {
@@ -2619,11 +2619,11 @@
      "t": "mcq",
      "p": "Which soda will lose its fizz fastest after being opened?",
      "opts": [
-      "A warm soda that is stirred",
       "A cold soda left still",
-      "A cold soda in a closed bottle"
+      "A cold soda in a closed bottle",
+      "A warm soda that is stirred"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Warmth makes the water hold less gas, and stirring gives the gas many places to escape. A cold soda left still loses gas slowly, and a closed bottle keeps the pressure in."
     }
    ]
@@ -2646,11 +2646,11 @@
      "t": "mcq",
      "p": "William Henry found that the mass of gas that dissolves in a liquid is in proportion to the pressure. If the pressure on a sealed soda is doubled, about how much more gas will dissolve?",
      "opts": [
-      "About twice as much",
       "About the same",
-      "About half as much"
+      "About half as much",
+      "About twice as much"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In proportion means that doubling the pressure doubles the gas that dissolves. That is why a sealed bottle holds so much more gas than an open glass."
     },
     {
@@ -2686,11 +2686,11 @@
      "t": "mcq",
      "p": "Why do kulfi sellers pack ice and salt around the kulfi pot?",
      "opts": [
-      "Salty ice is colder than plain ice, so it can freeze the kulfi",
       "Salt makes the kulfi sweet",
+      "Salty ice is colder than plain ice, so it can freeze the kulfi",
       "Salt makes the ice last longer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plain ice cannot freeze sweet milk, because melting ice stays at zero degrees. Salty ice can fall to about minus 20 degrees, which freezes the kulfi."
     },
     {
@@ -2798,11 +2798,11 @@
      "t": "mcq",
      "p": "A bottle of soda is opened, closed again, and left in a cold fridge for a day. It is now almost flat even though it is cold. Why?",
      "opts": [
-      "When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back",
       "Cold water cannot hold gas",
-      "The fridge removes gas"
+      "The fridge removes gas",
+      "When it was opened the pressure fell and much of the gas escaped, and the closed bottle could not squeeze it back"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Opening the bottle let the pressure drop, so most of the dissolved gas left as bubbles. Closing it again does not push the gas back into the water. Cold water holds gas well, but there was little gas left."
     },
     {
@@ -2847,12 +2847,12 @@
    "t": "mcq",
    "p": "Which of these dissolves in oil but hardly in water?",
    "opts": [
-    "The orange colour of carrots",
     "Sugar",
+    "The orange colour of carrots",
     "Salt",
     "Lemon juice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The orange colour of carrots is carotene, which dissolves in fat. Sugar, salt and lemon juice all dissolve in water.",
    "outcome": 0
   },
@@ -2860,11 +2860,11 @@
    "t": "mcq",
    "p": "A turmeric stain on a plastic box does not come off with plain water. What is likely to lift it?",
    "opts": [
-    "Oil, followed by soap",
     "More cold water",
-    "Salt water"
+    "Salt water",
+    "Oil, followed by soap"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Turmeric colour dissolves in oil, so oil takes it up and soap rinses the oil away. Cold water and salt water cannot take the colour.",
    "outcome": 1
   },
@@ -2872,11 +2872,11 @@
    "t": "mcq",
    "p": "After eating a hot chilli, which helps most?",
    "opts": [
-    "A spoon of curd, because the hot chemical dissolves in fat",
     "A big glass of water, because water washes it away",
+    "A spoon of curd, because the hot chemical dissolves in fat",
     "A pinch of salt"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The hot chemical in chilli dissolves in fat and hardly in water. Curd has fat, so it takes the chemical up. Water only spreads it around.",
    "outcome": 2
   },
@@ -2884,11 +2884,11 @@
    "t": "mcq",
    "p": "Why does a warm soda go flat faster than a cold soda?",
    "opts": [
-    "Warm water holds less dissolved gas",
     "Warm water is heavier",
-    "The bubbles in warm soda are bigger"
+    "The bubbles in warm soda are bigger",
+    "Warm water holds less dissolved gas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The warmer the water, the less gas it can hold, so the gas leaves sooner. The size of the bubbles is not the reason.",
    "outcome": 3,
    "how": "e2"
@@ -2897,11 +2897,11 @@
    "t": "mcq",
    "p": "A sealed bottle of soda has no bubbles. What keeps the gas dissolved?",
    "opts": [
-    "The high pressure inside the bottle",
     "The cold glass",
+    "The high pressure inside the bottle",
     "The label"
    ],
-   "a": 0,
+   "a": 1,
    "why": "High pressure squeezes the gas into the water. When the pressure drops at opening, the gas comes out as bubbles.",
    "outcome": 3
   },
@@ -2909,11 +2909,11 @@
    "t": "mcq",
    "p": "You shine a torch through a glass of liquid from the side and see a bright beam inside. After an hour nothing has settled. What kind of mixture is it?",
    "opts": [
-    "A colloid",
     "A solution",
-    "A suspension"
+    "A suspension",
+    "A colloid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A beam shows when floating bits scatter light, so it is not a solution. Nothing settled, so it is not a suspension. It is a colloid.",
    "outcome": 4,
    "how": "a2"
@@ -2935,11 +2935,11 @@
    "t": "mcq",
    "p": "Why does salt help to freeze kulfi?",
    "opts": [
-    "Salty ice is colder than plain ice",
     "Salt is cold",
+    "Salty ice is colder than plain ice",
     "Salt turns milk into ice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Plain melting ice stays at zero, which is not cold enough. Salty ice falls much lower, enough to freeze sweet milk.",
    "outcome": 5
   },
@@ -2959,11 +2959,11 @@
    "t": "mcq",
    "p": "What does the word insoluble really mean, if almost nothing is completely insoluble?",
    "opts": [
-    "It dissolves so little that we do not notice",
     "It never dissolves at all",
-    "It dissolves in oil only"
+    "It dissolves in oil only",
+    "It dissolves so little that we do not notice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Everything dissolves a very little. Insoluble means that so little dissolves that we cannot see it in a short time.",
    "outcome": 6
   },
@@ -2971,11 +2971,11 @@
    "t": "mcq",
    "p": "People once thought air was a single thing. What did Joseph Black find when he heated chalky stones?",
    "opts": [
-    "They gave off a gas that was not ordinary air",
     "They turned into water",
+    "They gave off a gas that was not ordinary air",
     "They became lighter because they dried"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stones lost weight because a gas escaped. This gas was different from ordinary air. It is carbon dioxide, which Priestley later dissolved in water.",
    "outcome": 7
   },

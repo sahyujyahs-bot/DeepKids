@@ -522,11 +522,11 @@
       "t": "mcq",
       "q": "In the oil bowl, the powder did not fizz until water reached it. What does this show?",
       "options": [
-       "The powders change only when water lets them meet",
        "Oil spoils the powders for ever",
-       "The powders fizz on their own if you wait"
+       "The powders fizz on their own if you wait",
+       "The powders change only when water lets them meet"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When water reached the powder under the oil, it fizzed at once. So the powder was not spoiled. It needed water to react."
      }
     }
@@ -676,11 +676,11 @@
       "t": "mcq",
       "q": "Most moong sprouted in plain water, and few sprouted in sea-salty water. What does this show?",
       "options": [
-       "Moong, a land plant, needs fresh water to sprout",
        "Seeds never need water",
-       "Salt helps every seed grow"
+       "Salt helps every seed grow",
+       "Moong, a land plant, needs fresh water to sprout"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Only the salt was different between the cups. The cup with sea-salty water had the fewest sprouts, so the salt stopped most of the moong."
      }
     }
@@ -1343,11 +1343,11 @@
      "t": "mcq",
      "p": "Why do scientists say life began in water?",
      "opts": [
-      "The chemicals of life can move about, meet and react in water",
       "Water is cold and keeps things asleep",
-      "There was no land at all"
+      "There was no land at all",
+      "The chemicals of life can move about, meet and react in water"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Just as the powders met and fizzed only in water, the chemicals of life met and changed in water. There was land, but life began in the sea.",
      "context": "This question is about where life began, which you read about after the dry mix test."
     },
@@ -1484,11 +1484,11 @@
      "t": "mcq",
      "p": "Tiny cells like the first living cells are very small. About how many would fit side by side across one hair?",
      "opts": [
-      "About 50",
       "Only 1",
-      "About 5 million"
+      "About 5 million",
+      "About 50"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Tiny cells like the first cells are far too small to see. About 50 of them, side by side, would just stretch across one hair.",
      "context": "This question is about the hair and the first cells, from the activity on how small the first life was.",
      "how": "a2"
@@ -1587,11 +1587,11 @@
      "t": "mcq",
      "p": "A scientist works out the Earth's age from how fast it has cooled. Later, people find that rocks inside the Earth make their own heat. What does this mean for his answer?",
      "opts": [
-      "The Earth cooled more slowly, so it is older than he worked out",
       "The Earth must be younger",
-      "Nothing changes"
+      "Nothing changes",
+      "The Earth cooled more slowly, so it is older than he worked out"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Extra heat from inside means the Earth took much longer to cool. So it is older. This happened to Lord Kelvin, who did not know about radioactive rock."
     },
     {
@@ -1721,11 +1721,11 @@
    "t": "mcq",
    "p": "Why did the fruit salt in the packet not fizz for months?",
    "opts": [
-    "It was dry, so the powders could not meet",
     "It was too old",
+    "It was dry, so the powders could not meet",
     "The packet was too small"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The powders react only when water dissolves them. Picking 'too old' may mean thinking the powder went bad, but a pinch in water still fizzes.",
    "outcome": 0
   },
@@ -1733,11 +1733,11 @@
    "t": "mcq",
    "p": "Where did life on Earth begin?",
    "opts": [
-    "In water",
     "On dry rock",
+    "In water",
     "In the air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The chemicals of life meet and react in water, and the oldest signs of life come from rocks made in sea water.",
    "outcome": 1
   },
@@ -1745,11 +1745,11 @@
    "t": "mcq",
    "p": "What is most of every cell in your body made of?",
    "opts": [
-    "Water",
     "Salt",
-    "Sand"
+    "Sand",
+    "Water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every cell is mostly water inside. That is where the body's chemicals meet and react.",
    "outcome": 1
   },
@@ -1757,11 +1757,11 @@
    "t": "mcq",
    "p": "What were the first living beings like?",
    "opts": [
-    "Tiny cells, far too small to see",
     "Big fish",
-    "Small dinosaurs"
+    "Small dinosaurs",
+    "Tiny cells, far too small to see"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The first life was single tiny cells. Fish and dinosaurs came billions of years later.",
    "outcome": 2
   },
@@ -1805,11 +1805,11 @@
    "t": "mcq",
    "p": "If the story of the Earth were one year, when would humans like us appear?",
    "opts": [
-    "About half an hour before midnight on 31 December",
     "On 1 January",
+    "About half an hour before midnight on 31 December",
     "In June"
    ],
-   "a": 0,
+   "a": 1,
    "why": "On the Year of Life, one day is about 12 million years. 300,000 years is only about half an hour.",
    "outcome": 4
   },
@@ -1817,11 +1817,11 @@
    "t": "mcq",
    "p": "Where do all the living beings alive today come from?",
    "opts": [
-    "From the first cells, through a very long line of parents",
     "Each kind appeared suddenly, all at once",
-    "From rocks"
+    "From rocks",
+    "From the first cells, through a very long line of parents"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every living being comes from parents. Those parents had parents too, all the way back to the first cells.",
    "outcome": 5
   },

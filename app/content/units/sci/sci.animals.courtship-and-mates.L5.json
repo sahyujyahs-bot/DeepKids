@@ -1177,11 +1177,11 @@
       "t": "mcq",
       "q": "Why can one male elephant seal keep many females, but a male pigeon cannot?",
       "options": [
-       "Female seals gather closely, so one male can guard them",
        "Seals are stronger than pigeons",
+       "Female seals gather closely, so one male can guard them",
        "Pigeons do not want many partners"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One guard can hold many only when they are close together, as you found with the coins. Female seals crowd on to a few beaches. Female pigeons are spread out, each at a nest. If you chose strength, remember that the strongest guard still lost coins in the far layout."
      },
      "parent": "After your child has answered, explain. Stephen Emlen and Lewis Oring said in 1977 that harems arise where females, or the food and nesting places they need, are gathered closely enough for one animal to guard. Where they are spread out, an animal who tried to guard several partners would lose them all, and does better with one. The coins are a model. Real females are not coins. They move, and they choose, and many female seals also mate with males away from the harem.",
@@ -1681,11 +1681,11 @@
      "t": "mcq",
      "p": "What makes an animal female?",
      "opts": [
-      "She makes the larger sex cells",
       "She looks after the young",
-      "She is smaller than the male"
+      "She is smaller than the male",
+      "She makes the larger sex cells"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A female is the one who makes egg cells, the larger sex cells. Caring and size do not decide it. Jacana females are bigger than males and do not sit on the eggs.",
      "outcome": 0
     },
@@ -1804,11 +1804,11 @@
      "t": "mcq",
      "p": "What are the two parts of sexual selection?",
      "opts": [
-      "Competing for partners and choosing partners",
       "Finding food and hiding from hunters",
-      "Laying eggs and guarding them"
+      "Laying eggs and guarding them",
+      "Competing for partners and choosing partners"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sexual selection is about winning partners, by competing with rivals and by being chosen. Finding food and hiding are about staying alive, which is a different matter.",
      "outcome": 1
     },
@@ -1897,11 +1897,11 @@
      "t": "mcq",
      "p": "Why is the sex that spends more on each young usually the choosier one?",
      "opts": [
-      "A poor choice costs them more",
       "They are shyer by nature",
+      "A poor choice costs them more",
       "They are the weaker sex"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A cow who chooses badly loses a whole year. A bull loses almost nothing. Choosiness follows the cost. In jacanas the father spends more, and he is the one the females compete for.",
      "outcome": 3
     },
@@ -2063,11 +2063,11 @@
      "t": "mcq",
      "p": "Some pond algae make sex cells of one size only. What follows from that?",
      "opts": [
-      "They have no females and no males",
       "They are all female",
-      "They cannot have young"
+      "They cannot have young",
+      "They have no females and no males"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Female and male are defined by two sizes of sex cell. With one size there are no two sexes, yet the cells still join and make young.",
      "outcome": 0
     },
@@ -2087,11 +2087,11 @@
      "t": "mcq",
      "p": "The sand on a turtle beach gets warmer every year. What is likely to change?",
      "opts": [
-      "More hatchlings will be female",
       "More hatchlings will be male",
-      "The eggs will grow larger"
+      "The eggs will grow larger",
+      "More hatchlings will be female"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In sea turtles the warmth of the nest sets the sex of the hatchling. Warmer nests give more females. Too few males could become a problem.",
      "outcome": 0
     },
@@ -2243,11 +2243,11 @@
    "t": "mcq",
    "p": "Among all animals, which one is the female?",
    "opts": [
-    "The one who makes egg cells",
     "The one who sits on the eggs",
+    "The one who makes egg cells",
     "The smaller of the two"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Female means the maker of the larger sex cells, the egg cells. If you chose 'sits on the eggs', remember the jacana father and the emperor penguin father.",
    "outcome": 0
   },
@@ -2255,11 +2255,11 @@
    "t": "mcq",
    "p": "Peahens pick among peacocks. Blackbuck males fight each other. Both are parts of what?",
    "opts": [
-    "Sexual selection",
     "Parental care",
+    "Sexual selection",
     "Cooperative breeding"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Choosing and competing are the two parts of sexual selection. Parental care is what happens after the eggs or young arrive.",
    "outcome": 1
   },
@@ -2274,11 +2274,11 @@
    "t": "mcq",
    "p": "One female jacana has three mates. What is this family system called?",
    "opts": [
-    "Polyandry",
     "Polygyny",
+    "Polyandry",
     "Monogamy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Polyandry is one female with several males. Polygyny is the reverse, one male with several females.",
    "outcome": 2
   },
@@ -2286,11 +2286,11 @@
    "t": "mcq",
    "p": "One male gorilla lives with several females. What is this family system called?",
    "opts": [
-    "Polygyny",
     "Polyandry",
+    "Polygyny",
     "Promiscuity"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Polygyny is one male with several females. In promiscuity, both sexes have several partners and no group stays around one male.",
    "outcome": 2
   },
@@ -2310,11 +2310,11 @@
    "t": "mcq",
    "p": "In the Warm Egg Test, what did the lid and cloth do?",
    "opts": [
-    "They slowed the loss of warmth",
     "They made new warmth",
-    "They made no difference"
+    "They made no difference",
+    "They slowed the loss of warmth"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cover only slows the loss. The warmth that left in the bare minutes did not come back. If you chose 'made new warmth', remember that even tumbler A cooled a little.",
    "outcome": 4,
    "how": "e1"
@@ -2335,11 +2335,11 @@
    "t": "mcq",
    "p": "Where do young seahorses grow before they are born?",
    "opts": [
-    "In a pouch on the father",
     "Inside the mother",
-    "In a nest of seagrass"
+    "In a nest of seagrass",
+    "In a pouch on the father"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The mother puts her eggs into the father's brood pouch. He carries them for 9 to 45 days and then gives birth.",
    "outcome": 5
   },
@@ -2366,11 +2366,11 @@
    "t": "mcq",
    "p": "Some animals keep harems. Does that show how people should live?",
    "opts": [
-    "No. A fact is not a rule",
     "Yes. Nature is always right",
+    "No. A fact is not a rule",
     "Yes, if the animal is a mammal"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Other animals live in every kind of family. What happens in nature is a fact about them. It cannot tell people what is fair or right.",
    "outcome": 7
   }

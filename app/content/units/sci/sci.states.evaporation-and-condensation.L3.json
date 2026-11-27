@@ -832,11 +832,11 @@
      "p": "A cold water bottle is taken out of the fridge. Soon its outside is covered in drops. Where did the drops come from?",
      "opts": [
       "Water leaked through the bottle",
-      "Water vapour in the room's air condensed on the cold bottle",
       "The fridge sprayed the bottle",
+      "Water vapour in the room's air condensed on the cold bottle",
       "The bottle is melting"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The cold bottle cools the water vapour in the air that touches it, and the vapour condenses into drops. A closed bottle cannot leak, and a steel bottle gets drops too."
     },
     {
@@ -939,12 +939,12 @@
      "t": "mcq",
      "p": "In the Closed Box Test, the cloth in the open box dried, but the cloth in the closed box stayed wet. What was different for the cloth in the closed box?",
      "opts": [
-      "It had more water to begin with",
       "The air in its box filled up with water vapour, so as much water landed back as left",
+      "It had more water to begin with",
       "It was in a colder place",
       "Cloth cannot dry in plastic"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Both cloths got the same water and the same place. Only the lid was different. In the closed box the vapour could not drift away, so water landed back as fast as it left.",
      "how": "e1"
     },
@@ -1023,11 +1023,11 @@
      "p": "Clothes take much longer to dry in Chennai in November than in May. Why?",
      "opts": [
       "Clothes are heavier in November",
-      "The damp November air makes water land back almost as fast as it leaves",
       "Water only evaporates in summer",
-      "There is no wind in November"
+      "There is no wind in November",
+      "The damp November air makes water land back almost as fast as it leaves"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In the northeast monsoon the air is very humid. Water still evaporates, but nearly as much lands back. In hot, dry May, much more leaves than lands back."
     },
     {
@@ -1041,11 +1041,11 @@
      "t": "mcq",
      "p": "You wear spectacles. You walk out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to your spectacles?",
      "opts": [
-      "They mist up",
       "They get hot and dry",
+      "They mist up",
       "Nothing happens"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The spectacles are still cold from the shop. The street's damp air touches them, and its water vapour condenses into a mist of drops."
     },
     {
@@ -1087,12 +1087,12 @@
      "t": "mcq",
      "p": "Which of these would dry a wet cloth fastest?",
      "opts": [
+      "Warm air with a breeze",
       "Warm air that is still",
       "Cool air that is still",
-      "Warm air with a breeze",
       "Cool, damp air"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Warmth makes more particles escape, and a breeze carries the damp air away so fewer land back. Both together are fastest."
     },
     {
@@ -1171,11 +1171,11 @@
      "t": "mcq",
      "p": "On a hot, humid day, sweat stays on your skin and feels sticky. Why does it not dry quickly?",
      "opts": [
-      "Humid air already holds a lot of water vapour, so evaporation slows down",
       "Sweat cannot evaporate in hot weather",
+      "Humid air already holds a lot of water vapour, so evaporation slows down",
       "Your skin stops sweat from drying"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Damp air makes water land back almost as fast as it leaves, just as with a wet cloth on a monsoon day. So sweat dries slowly."
     },
     {
@@ -1209,11 +1209,11 @@
      "p": "A glass jar with a little water at the bottom is closed tightly and left on a table for a week. What happens to the amount of water?",
      "opts": [
       "It all evaporates",
-      "It stays nearly the same, because as many particles land back as leave",
       "It grows bigger every day",
-      "It turns into ice"
+      "It turns into ice",
+      "It stays nearly the same, because as many particles land back as leave"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A tiny amount evaporates until the air in the jar is saturated. After that, leaving and landing back are equal, so the water stays almost the same for weeks."
     },
     {
@@ -1303,11 +1303,11 @@
      "p": "In the Namib Desert it almost never rains. Why does a beetle there stand on top of a sand dune on foggy mornings, with their back raised?",
      "opts": [
       "To warm up in the sun",
-      "So fog drops collect on their back and run down to their mouth to drink",
       "To look out for enemies",
-      "To dig a hole"
+      "To dig a hole",
+      "So fog drops collect on their back and run down to their mouth to drink"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The beetle needs water and has no puddles to drink from. Fog drops condense and join on their back, then run down to their mouth. The dune top is where most fog blows past."
     },
     {
@@ -1488,10 +1488,10 @@
       "q": "Drops appeared on the inside of the lid, under the ice. Where did that water come from?",
       "options": [
        "The ice leaked through the lid",
-       "Water vapour from the wet cloth, in the air of the box, condensed on the cold lid",
-       "The plastic of the lid made water"
+       "The plastic of the lid made water",
+       "Water vapour from the wet cloth, in the air of the box, condensed on the cold lid"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The ice was in a bowl, outside the box, so it could not leak in. The water came from the cloth. It evaporated into the air of the box, and the cold lid turned it back into drops. If you picked the ice, look again: the drops are inside, and the bowl is outside."
      },
      "parent": "Drops should show within 5 minutes. If you see none, wait 5 more minutes and tilt the box to the light. On a cool day the drops can be very small. That is still a result. Say what you saw."
@@ -1532,11 +1532,11 @@
       "t": "mcq",
       "q": "Why did the cloth in the closed box stay wet?",
       "options": [
-       "Cloth cannot dry inside plastic",
        "The air in the box filled with water vapour, so as much water landed back on the cloth as left it",
+       "Cloth cannot dry inside plastic",
        "The closed box was colder"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water kept leaving the cloth, as the drops on the lid showed. But the vapour had nowhere to go, so the air in the box became saturated. Then as many particles landed back as left. When the lid came off, the vapour could drift away, and the same cloth dried. 'Colder' is a fair guess, but both boxes were side by side in the same room."
      }
     }
@@ -1626,10 +1626,10 @@
       "q": "Suppose the tumbler misted fastest in the bathroom just after a bath. Why would that be?",
       "options": [
        "The bathroom is the coldest room",
-       "Hot bath water evaporated, so the bathroom air had a lot of water vapour",
-       "Soap makes tumblers mist"
+       "Soap makes tumblers mist",
+       "Hot bath water evaporated, so the bathroom air had a lot of water vapour"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Warm bath water evaporates quickly, and the small closed bathroom keeps the vapour in. More water vapour hits the cold tumbler each second, so more condenses. 'The coldest room' mixes up the room with the tumbler: it is the tumbler that must be cold."
      }
     }
@@ -1762,10 +1762,10 @@
       "q": "First the cold bottle got wet. Later, as it warmed up, it became dry again. What happened to the drops?",
       "options": [
        "They soaked into the bottle",
-       "They evaporated back into the air",
-       "They went back into the fridge"
+       "They went back into the fridge",
+       "They evaporated back into the air"
       ],
-      "a": 1,
+      "a": 2,
       "why": "While the bottle was colder than the air, water vapour condensed on it. When it warmed up, the drops evaporated back into the air. The same water went from the air to the bottle and back again."
      }
     }
@@ -1918,11 +1918,11 @@
       "t": "mcq",
       "q": "Water drips out of an AC's pipe, but no water pipe goes into the AC. Where does the water come from?",
       "options": [
-       "The water vapour in the room's air condenses on the cold parts inside the AC",
        "The AC makes water from electricity",
+       "The water vapour in the room's air condenses on the cold parts inside the AC",
        "Rain gets into the AC"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The AC blows the room's air over very cold metal. Water vapour in the air condenses there, like on a cold bottle, and runs out through the pipe. That is also why an AC room feels less damp."
      },
      "parent": "On humid days in coastal cities, an AC can drip a lot of water. It is condensed water, but it can pick up dust, and mould can grow inside the AC. So never drink this water. It is fine for mopping or for plants."
@@ -2294,11 +2294,11 @@
       "t": "mcq",
       "q": "A warm mirror mists much less when you breathe on it. Why?",
       "options": [
-       "Warm glass repels water",
        "Your breath's water vapour condenses only on things that are cold enough, and the warm mirror is not",
+       "Warm glass repels water",
        "Warm water washed the mist away"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Condensation needs a surface cold enough to slow the water particles down. A warm mirror is close to the temperature of your breath, so little condenses."
      },
      "parent": "The warm mirror stays clear only for a few seconds, until it cools down. So breathe on it quickly."
@@ -2338,11 +2338,11 @@
    "p": "What is evaporation?",
    "opts": [
     "Water vapour turning into drops",
-    "Liquid water turning into water vapour",
     "Water turning into ice",
-    "Water soaking into the ground"
+    "Water soaking into the ground",
+    "Liquid water turning into water vapour"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Evaporation is liquid turning into gas. Picking 'water vapour turning into drops' mixes it up with condensation, its opposite.",
    "outcome": 0
   },
@@ -2364,11 +2364,11 @@
    "p": "Can water evaporate without boiling?",
    "opts": [
     "No, it must reach 100 degrees Celsius",
-    "Yes, at any temperature, only faster when warm",
     "Only in the sun",
-    "Only at night"
+    "Only at night",
+    "Yes, at any temperature, only faster when warm"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Puddles and mopped floors dry without boiling. Warmth only makes evaporation faster.",
    "outcome": 0
   },
@@ -2391,11 +2391,11 @@
    "p": "Why does a fan help a wet uniform dry?",
    "opts": [
     "The fan makes the air hotter",
-    "The fan carries the damp air away from the cloth, so fewer water particles land back",
     "The fan pushes the water out through the cloth",
+    "The fan carries the damp air away from the cloth, so fewer water particles land back",
     "The fan makes the uniform lighter"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fan does not heat the air. It replaces the damp air next to the cloth with other air, so more water leaves than lands back.",
    "outcome": 3
   },
@@ -2403,12 +2403,12 @@
    "t": "mcq",
    "p": "Which day is best for drying clothes?",
    "opts": [
-    "A rainy, still day",
     "A warm, breezy, dry day",
+    "A rainy, still day",
     "A cold, foggy morning",
     "A humid, cloudy day"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Warmth helps particles escape, the breeze carries the damp away, and dry air has little water vapour to land back.",
    "outcome": 3
   },
@@ -2416,12 +2416,12 @@
    "t": "mcq",
    "p": "The lid is lifted off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?",
    "opts": [
-    "From the steel of the lid",
     "From the rice water, which evaporated and condensed on the cooler lid",
+    "From the steel of the lid",
     "From the air in the kitchen only",
     "From the gas flame"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Hot water in the pot evaporates fast. The lid is cooler than the vapour, so the vapour condenses on it.",
    "outcome": 4,
    "how": "a1"
@@ -2430,12 +2430,12 @@
    "t": "mcq",
    "p": "Where does the water dripping from an AC pipe come from?",
    "opts": [
-    "From the water tank",
     "From water vapour in the room's air, condensed on the cold parts inside the AC",
+    "From the water tank",
     "From rain",
     "The AC makes it from electricity"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The room's air is blown over very cold metal inside the AC, and its water vapour condenses there and drips out.",
    "outcome": 4,
    "how": "a4"
@@ -2458,11 +2458,11 @@
    "p": "On a clear, still night, the grass gets colder than the air above it. By morning, the grass is covered in dew. Where did the dew come from?",
    "opts": [
     "It fell from the sky like fine rain",
-    "Water vapour in the air condensed on the cold grass",
     "It came up out of the soil",
-    "The Moon made it"
+    "The Moon made it",
+    "Water vapour in the air condensed on the cold grass"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Cold surfaces turn water vapour back into drops, just like a cold bottle from the fridge. The grass cooled first, then the vapour in the air touching it condensed. Dew does not fall like rain.",
    "outcome": 6
   },
@@ -2470,12 +2470,12 @@
    "t": "mcq",
    "p": "The white cloud above a boiling kettle is made of what?",
    "opts": [
-    "Water vapour",
     "Tiny drops of liquid water",
+    "Water vapour",
     "Smoke",
     "Air"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The vapour itself is invisible. It condenses into tiny drops in the cooler air, and those drops make the white cloud.",
    "outcome": 1
   },
@@ -2483,12 +2483,12 @@
    "t": "mcq",
    "p": "A wet cloth in the open air is drying. What is happening at its surface?",
    "opts": [
-    "Water is only leaving",
     "Water is leaving and landing back, but more leaves than lands back",
+    "Water is only leaving",
     "Water is only landing back",
     "Nothing is happening"
    ],
-   "a": 1,
+   "a": 0,
    "why": "At every wet surface both happen at once. The cloth dries because more particles leave than land back.",
    "outcome": 2
   }

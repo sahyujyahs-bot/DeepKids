@@ -511,7 +511,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 12. (order) Put these in the order they happen when a wind-up clock runs.  
    **Answer:** ['Someone turns the key', 'The spring is coiled tight, with energy waiting', 'The spring slowly unwinds, one tick at a time', 'After eight days the spring has no energy left']. *Why:* Energy goes in first, waits, comes out slowly, and then the store is empty.
 13. (mcq) Which of these has energy waiting in its shape?  
-   Options: A mattress with a child sitting on it / A ball rolling across the floor / A torch shining  
+   Options: A ball rolling across the floor / A torch shining / A mattress with a child sitting on it  
    **Answer:** A mattress with a child sitting on it. *Why:* The mattress is squashed, and a squashed mattress holds energy that pushes the child back up when they stand. The rolling ball and the shining torch have energy that is moving now.
 14. (write) Choose one thing you found in the home hunt. Say what kind of store it is, and what would let its energy out.  
    **Answer:** For example: the water tank on the roof. The energy waits in its height. Opening a tap lets the water fall and the energy come out.. *Why:* A strong answer names one of the four stores and the release that matches it.
@@ -519,7 +519,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
    **Answer:** ['kinetic']. *Why:* Kinetic means 'to do with movement'. Stored energy can turn into kinetic energy when it comes out.
 ### Where Did It Go? (stretch) (stretch, 15 questions)
 1. (mcq) Someone says, 'My roll-back jar came back past the start line, so it got extra energy from somewhere.' What really happened?  
-   Options: It got energy from the floor / It was moving fast at the start line, so it twisted the band the other way and kept going a little / The padlock pushed it  
+   Options: It got energy from the floor / The padlock pushed it / It was moving fast at the start line, so it twisted the band the other way and kept going a little  
    **Answer:** It was moving fast at the start line, so it twisted the band the other way and kept going a little. *Why:* At the start line the band is untwisted, but the jar is moving fast. It keeps rolling and twists the band the other way, until it stops. It never gets more energy than was put in. It just changes between movement and twist.
 2. (write) Your roll-back jar did not keep rolling for ever. It rocked back and forth a few times and stopped. Where did its energy go?  
    **Answer:** Some energy spread out as a soft rumbling sound as the jar rolled on the floor. Some warmed the band a tiny bit as it twisted and untwisted, and some warmed the floor. That energy cannot be collected again, so the jar stopped.. *Why:* A strong answer says the energy did not vanish. It spread out as sound and warmth.
@@ -528,14 +528,14 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 4. (sort) Sort these stores into how they let their energy out.  
    **Answer:** a bow shooting an arrow → All at once; a wound wall clock → Slowly; a flea's jump → All at once; a phone battery during the day → Slowly; a pop-up jumper → All at once; a candle burning → Slowly. *Why:* Some stores let everything out in a moment. Others let it out a little at a time. What matters is how the store is released, not how much it holds.
 5. (mcq) A tall bottle full of water has three holes: one near the top, one in the middle and one near the bottom. Which jet of water shoots out hardest?  
-   Options: The top hole / The middle hole / The bottom hole  
+   Options: The top hole / The bottom hole / The middle hole  
    **Answer:** The bottom hole. *Why:* The bottom hole has the most water above it. The top of the water has furthest to fall to reach that hole, so its jet is fastest.
 6. (truefalse) A tall bottle full of water has three holes, one above the other. As the bottle empties, all three jets get weaker.  
    **Answer:** True. *Why:* True. As the water level falls, every hole has less water above it, so every jet slows. The top jet stops first.
 7. (write) A flea must jump many times their own height to land on a passing dog. Their leg muscles are too slow to throw them that high. How does a flea solve this problem?  
    **Answer:** The flea slowly squeezes a pad of very springy material called resilin, and stores energy in it. Then they let it go all at once, so the jump is far quicker than their muscles alone could make it.. *Why:* A strong answer says the energy is stored slowly and released fast. That is the flea's way of getting a big, quick jump from slow muscles.
 8. (mcq) Why does a seed carry a store of food?  
-   Options: To feed birds / To grow a root and a shoot in the dark soil, before they have leaves to catch sunlight / To make the seed heavy so they fall  
+   Options: To feed birds / To make the seed heavy so they fall / To grow a root and a shoot in the dark soil, before they have leaves to catch sunlight  
    **Answer:** To grow a root and a shoot in the dark soil, before they have leaves to catch sunlight. *Why:* A young plant cannot make food until their first leaves reach the light. Until then, they live on the store their parent packed into the seed. Birds do eat seeds, but that is not what the store is for.
 9. (fill) Almost all the energy in our food was first caught from ____ by plants.  
    **Answer:** ['sunlight', 'the Sun', 'the sun']. *Why:* Plants use sunlight to build sugar from air and water. Animals that eat plants, and people who eat both, get that stored sunlight energy.
@@ -557,7 +557,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 2. (write) A grandmother winds her clock for a few minutes, and it ticks for eight days. Does the clock get more energy out than she put in? Explain.  
    **Answer:** No. The clock lets the energy out very slowly, a tiny bit at each tick, so a few minutes of winding last eight days. But the total energy out is no more than went in. Some of it even spreads out as sound and warmth.. *Why:* A strong answer separates how long a store lasts from how much it holds.
 3. (mcq) A roll-back jar is wound 10 turns, much more than before. The padlock flips over inside, and the jar does not roll back at all. Why?  
-   Options: 10 turns removed all the energy / The twist pulled so hard that it swung the padlock over, so the band unwound inside instead of turning the jar / The jar was too heavy  
+   Options: The twist pulled so hard that it swung the padlock over, so the band unwound inside instead of turning the jar / 10 turns removed all the energy / The jar was too heavy  
    **Answer:** The twist pulled so hard that it swung the padlock over, so the band unwound inside instead of turning the jar. *Why:* With too many turns, the band pulls harder than the padlock's weight can resist. The padlock swings up and over, and the band unwinds without turning the jar. With a heavier weight, the jar could be wound more turns.
 4. (write) On a cold day you get hungry sooner, and when you run you breathe hard. Explain how food and the oxygen you breathe work together to keep your body warm.  
    **Answer:** The body slowly burns food with oxygen, a little like a very slow fire, and this gives warmth and energy. In a cold place the body loses more warmth, so it needs to burn more food, and you feel hungry sooner. Running uses energy fast, so you breathe hard to take in more oxygen.. *Why:* A strong answer joins food and oxygen into one idea: the body burns food slowly with oxygen to make warmth and movement.
@@ -582,7 +582,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 13. (write) A bow stores energy slowly and gives it out in a moment. A clock stores it quickly and gives it out slowly. Name one other store of each kind, and say why it is useful that way.  
    **Answer:** Slow in, fast out: a flea's springy pad, because a quick release gives a big jump. Fast in, slow out: a phone battery, charged in two hours and used all day, because we need a little energy for a long time.. *Why:* A strong answer gives a correct example of each and says how the timing helps.
 14. (mcq) During a power cut, an inverter keeps a fan turning. Where does the fan's energy come from?  
-   Options: From the inverter's battery, which was charged while the power was on / From the fan itself / From the air in the room  
+   Options: From the fan itself / From the inverter's battery, which was charged while the power was on / From the air in the room  
    **Answer:** From the inverter's battery, which was charged while the power was on. *Why:* The battery stores chemical energy that was put in while the power was on. In the power cut it gives that energy back to the fan. The fan has no store of its own.
 15. (truefalse) A phone battery gives out more energy during the day than the energy that was put in when it was charged.  
    **Answer:** False. *Why:* False. A store can give back at most what was put in, and a little always spreads out as warmth. Charging puts the energy in, and the day's use takes it out again.
@@ -594,40 +594,40 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 
 ## Quiz
 1. (mcq) What is stored energy?  
-   Options: Energy that is moving right now / Energy waiting in a thing, ready to come out later / Energy that has been used up  
+   Options: Energy that is moving right now / Energy that has been used up / Energy waiting in a thing, ready to come out later  
    **Answer:** Energy waiting in a thing, ready to come out later. *Why:* Stored energy waits until it is released. Picking 'used up' is a common mix-up. Energy that has been used has spread out. It is no longer stored.
 2. (mcq) You hold a rubber band stretched between your fingers, without moving. Where is the energy?  
    Options: There is none, because nothing moves / In the stretch of the band / In the air around it  
    **Answer:** In the stretch of the band. *Why:* The stretch of the band holds the energy. The band flies off when you let go. Picking 'none' comes from thinking only moving things have energy.
 3. (mcq) In the roll-back jar, what does winding more turns do?  
-   Options: Stores more energy in the twisted band, so the jar rolls back further / Makes the padlock lighter / Uses up the jar's energy  
+   Options: Makes the padlock lighter / Uses up the jar's energy / Stores more energy in the twisted band, so the jar rolls back further  
    **Answer:** Stores more energy in the twisted band, so the jar rolls back further. *Why:* More turns mean more twist, and more twist holds more energy. That is why the jar rolled back further after 4 turns than after 1.
 4. (mcq) A roll-back jar is wound 3 turns and held still for a minute. What happens when it is let go?  
-   Options: Nothing, because the energy leaked away / It rolls back about as far as without the wait / It rolls back much further, because it rested  
+   Options: It rolls back about as far as without the wait / Nothing, because the energy leaked away / It rolls back much further, because it rested  
    **Answer:** It rolls back about as far as without the wait. *Why:* The energy waited in the twisted band, so it still rolls back about as far. Waiting does not add energy, and in one minute the band loses only a tiny bit.
 5. (mcq) Why does a bouncing ball bounce lower each time, and stop in the end?  
    Options: The ball forgets how to bounce / Some energy spreads out as sound and warmth at each bounce / Gravity gets stronger  
    **Answer:** Some energy spreads out as sound and warmth at each bounce. *Why:* At each bounce some energy spreads out as sound and a little warmth in the ball and the floor. It cannot be collected again, so each bounce is lower.
 6. (mcq) Where does the water in the tank on the roof get the energy to flow to the taps?  
-   Options: From its height, because a motor pumped it up there / From the taps / From the pipes  
+   Options: From the taps / From its height, because a motor pumped it up there / From the pipes  
    **Answer:** From its height, because a motor pumped it up there. *Why:* The motor lifted the water and stored energy in its height. When a tap is opened, the water falls and that energy comes out.
 7. (mcq) A coconut falls from a tall tree, and another falls from a short tree. Which hits the ground harder?  
    Options: The one from the short tree / The one from the tall tree / Both the same  
    **Answer:** The one from the tall tree. *Why:* The coconut higher up had more energy waiting, so it is moving faster when it lands. That is why you should never stand under a coconut palm.
 8. (mcq) Where did almost all the energy in a plate of ragi dosa first come from?  
-   Options: The gas stove / Sunlight caught by the ragi plants / The water in the batter  
+   Options: Sunlight caught by the ragi plants / The gas stove / The water in the batter  
    **Answer:** Sunlight caught by the ragi plants. *Why:* Ragi plants caught sunlight and stored its energy in their grains. The stove only cooks the dosa. Picking the stove is a common guess, because the stove makes heat.
 9. (mcq) A biscuit packet says 'Energy 480 kcal per 100 g'. What does this tell you?  
    Options: How much energy is stored in 100 grams of the biscuits / How healthy the biscuits are / How many biscuits are in the packet  
    **Answer:** How much energy is stored in 100 grams of the biscuits. *Why:* Kcal is a unit for the energy stored in food. The number tells you nothing about vitamins or protein.
 10. (mcq) Why can a tired cell that dims a torch often still run a wall clock?  
-   Options: A clock needs only a tiny flow of electricity / A clock charges the cell / A clock uses no energy  
+   Options: A clock charges the cell / A clock uses no energy / A clock needs only a tiny flow of electricity  
    **Answer:** A clock needs only a tiny flow of electricity. *Why:* A torch needs a big flow and a clock needs only a trickle. A tired cell can still push a trickle. A clock does use energy, just very little.
 11. (mcq) Which of these is a safe thing to do with an ordinary AA cell?  
-   Options: Charge it in a phone charger / Put a tired one in a clock, and drop a finished one in e-waste / Open it to see the chemicals  
+   Options: Charge it in a phone charger / Open it to see the chemicals / Put a tired one in a clock, and drop a finished one in e-waste  
    **Answer:** Put a tired one in a clock, and drop a finished one in e-waste. *Why:* Charging an ordinary cell can make it burst, and the chemicals inside can burn skin. Using it until it is finished, then giving it to e-waste, is safe.
 12. (mcq) After you run, you feel warm and you are soon hungry. Where does the energy for your warmth and movement come from?  
-   Options: A special life force / The energy stored in the food you ate / The heat of the Sun on your skin  
+   Options: A special life force / The heat of the Sun on your skin / The energy stored in the food you ate  
    **Answer:** The energy stored in the food you ate. *Why:* Your body slowly uses the energy stored in food to keep warm and to move. That is why you get hungry after hard work. Picking the Sun on your skin forgets that you stay warm at night too.
 
 ## Applications

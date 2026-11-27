@@ -641,11 +641,11 @@
       "t": "mcq",
       "q": "Which of these is the biggest number?",
       "options": [
+       "The bacteria on and in one grown-up",
        "The people on Earth",
-       "The cells of your own in your body",
-       "The bacteria on and in one grown-up"
+       "The cells of your own in your body"
       ],
-      "a": 2,
+      "a": 0,
       "why": "One grown-up carries about 38 trillion bacteria. A ten-year-old has about 17 trillion cells of their own, and the Earth has about 8 billion people. Choosing 'people on Earth' usually means that billions and trillions feel the same. A trillion is a thousand billions."
      },
      "context": "This is the last step of the Big Number Line. Here you read the finished line and talk about the surprises."
@@ -812,10 +812,10 @@
       "q": "Which of these is one of your own living cells?",
       "options": [
        "The tip of a fingernail",
-       "A red blood cell",
-       "A bacterium in your gut"
+       "A bacterium in your gut",
+       "A red blood cell"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A red blood cell is alive and grew from your own first cell. The nail tip is made of dead cells. The gut bacterium is alive, but she is a guest with her own instructions. Choosing the nail usually means thinking that every part of the body is alive."
      },
      "context": "This is the last step of Mine, a Guest, or Not Alive? Here you count the points and argue one hard card."
@@ -1014,11 +1014,11 @@
       "t": "mcq",
       "q": "In the Morning Coat test, clean teeth took colour again by morning, though no food was eaten. What explains this best?",
       "options": [
-       "Some colour was left from the night before",
        "Bacteria left in the mouth divided in the night",
+       "Some colour was left from the night before",
        "Teeth make the coat by themselves"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The clean start score showed that the old colour was gone. The coat is made of living bacteria. A few stay in every mouth after brushing, and each one divides into two again and again. Choosing 'teeth make the coat' usually means thinking of plaque as dirt, and not as living cells."
      },
      "context": "This is the last step of the Morning Coat test. Here you compare the two charts and explain what you found."
@@ -1307,10 +1307,10 @@
       "q": "Why does every part of your body need blood to reach it?",
       "options": [
        "Blood keeps the skin pink",
-       "Every cell is alive and needs food and oxygen",
-       "Blood holds the body together"
+       "Blood holds the body together",
+       "Every cell is alive and needs food and oxygen"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each cell is a living being who uses food and oxygen all the time. Blood brings both, through capillaries that pass close to nearly every cell. Choosing 'keeps the skin pink' names what we see, not what the blood is for."
      },
      "context": "This is the last step of Pink Again. Here you explain why the cold finger turned pink more slowly."
@@ -1432,10 +1432,10 @@
       "q": "After 10 doublings, one cell has become about a thousand cells. About how many are there after 20 doublings?",
       "options": [
        "About two thousand",
-       "About twenty thousand",
-       "About a million"
+       "About a million",
+       "About twenty thousand"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Ten more doublings multiply the number by about a thousand again. A thousand thousands is a million. Choosing 'two thousand' usually means adding where the cells are multiplying."
      },
      "context": "This is the last step of Count the Doublings. Here you write down the pattern and check what it means."
@@ -1528,10 +1528,10 @@
       "q": "Where do most of the bacteria in a human body live?",
       "options": [
        "On the hands",
-       "In the large intestine",
-       "In the blood"
+       "In the blood",
+       "In the large intestine"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The large intestine is warm, wet and full of fibre that our own cells could not digest. Nearly all of a person's bacteria live there. Healthy blood has none. Choosing 'hands' usually comes from hearing about germs on hands, which matter for illness but are few in number."
      },
      "context": "This is the last step of Where Would You Live? Here you say what the map shows."
@@ -1607,10 +1607,10 @@
       "q": "Which of these does a single cell in your body do?",
       "options": [
        "Only sit still, like a brick",
-       "Take in food and answer signals",
-       "Wait for the brain to move it"
+       "Wait for the brain to move it",
+       "Take in food and answer signals"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Every living cell takes in food and oxygen, releases energy and answers signals from around her. Choosing the brick usually comes from pictures that show cells as a still pattern."
      },
      "context": "This is the last step of A Day as One Cell. Here you share the comic and compare the cell's life with your own."
@@ -1724,10 +1724,10 @@
       "q": "A painted line on a nail moves away from the skin as weeks pass. What does that show?",
       "options": [
        "The polish is sliding along the nail",
-       "New nail is made at the root and pushes the old nail out",
-       "The nail stretches like rubber"
+       "The nail stretches like rubber",
+       "New nail is made at the root and pushes the old nail out"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Cells at the root of the nail divide and add new nail behind the line, so the line is pushed outwards. The polish is stuck to the nail. Choosing 'stretches' usually means thinking that the whole nail grows, when only the root does."
      },
      "context": "This is the last step of the Nail March. Here you take the final measurement and explain it."
@@ -1841,10 +1841,10 @@
      "opts": [
       "About 17 thousand",
       "About 17 million",
-      "About 17 billion",
-      "About 17 trillion"
+      "About 17 trillion",
+      "About 17 billion"
      ],
-     "a": 3,
+     "a": 2,
      "why": "About 17 trillion, which is 17 lakh crore. Choosing a smaller number is common, because trillions are hard to picture.",
      "outcome": 0
     },
@@ -1869,12 +1869,12 @@
      "t": "mcq",
      "p": "Which kind of cell do you have the most of, by number?",
      "opts": [
+      "Red blood cells",
       "Skin cells",
       "Muscle cells",
-      "Red blood cells",
       "Nerve cells"
      ],
-     "a": 2,
+     "a": 0,
      "why": "About 84 in every 100 of your own cells are red blood cells. Skin and muscle are what we see and feel, so they are common guesses.",
      "outcome": 0
     },
@@ -2006,11 +2006,11 @@
      "p": "In the Morning Coat test, where does the colour usually show first?",
      "opts": [
       "On the flat middle of each tooth",
-      "Along the gums and between teeth",
       "Only on the back teeth",
+      "Along the gums and between teeth",
       "On the tongue only"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The brush, tongue and cheeks reach the gum line and the gaps least, so more bacteria are left there to multiply.",
      "outcome": 5,
      "how": "e1"
@@ -2058,11 +2058,11 @@
      "p": "After 20 doublings, one cell has become about how many cells?",
      "opts": [
       "About 40",
-      "About 400",
       "About a million",
+      "About 400",
       "About a trillion"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Ten doublings make about a thousand. Ten more multiply that by a thousand again, which is about a million. Choosing 40 means adding 2 each time, where the number doubles.",
      "outcome": 2,
      "how": "a2"
@@ -2113,12 +2113,12 @@
      "t": "mcq",
      "p": "38 trillion bacteria weigh only about 200 grams. Why so little?",
      "opts": [
-      "Bacteria are mostly air",
       "A bacterium is far smaller than a human cell",
+      "Bacteria are mostly air",
       "They live in the gut, so they float",
       "Scales do not measure living things"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A bacterium is about ten times smaller across than one of your cells. That makes her about a thousand times smaller in volume.",
      "outcome": 4
     },
@@ -2261,12 +2261,12 @@
      "t": "mcq",
      "p": "A heaped spoon is counted, then multiplied by the number of level spoons. The estimate will be:",
      "opts": [
-      "Too big",
       "Too small",
       "Exactly right",
-      "Impossible to work out"
+      "Impossible to work out",
+      "Too big"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A heaped spoon holds more than a level one, so every spoon is counted as fuller than it was. The estimate comes out too big.",
      "outcome": 7,
      "how": "e2"
@@ -2293,11 +2293,11 @@
      "p": "Two careful teams estimate a grown-up's cells as 30 trillion and 36 trillion. What is the best conclusion?",
      "opts": [
       "One team made a mistake",
-      "Nobody knows anything",
       "The true number is near those values",
+      "Nobody knows anything",
       "The body changed between studies"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Estimates made in different ways never agree exactly. When they land close together, we can trust the rough size. Choosing 'a mistake' treats an estimate as if it were an exact count.",
      "outcome": 0
     },
@@ -2349,11 +2349,11 @@
      "p": "Mice raised with no microbes at all need more food to keep their weight. What does that suggest?",
      "opts": [
       "Microbes steal food from ordinary mice",
-      "Microbes help to get energy from food",
       "Germ-free mice run about more",
-      "Food is worse in clean cages"
+      "Food is worse in clean cages",
+      "Microbes help to get energy from food"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Gut microbes break down fibre that the mouse cannot digest, and the mouse takes in what they make. Without them, some of the food is wasted.",
      "outcome": 4
     },
@@ -2494,12 +2494,12 @@
    "t": "mcq",
    "p": "How do scientists know roughly how many cells are in a body?",
    "opts": [
-    "They count every cell",
     "They count samples and multiply",
+    "They count every cell",
     "They weigh one cell",
     "They guess"
    ],
-   "a": 1,
+   "a": 0,
    "why": "They measure the cells in small samples of each tissue and multiply by how much tissue there is. Choosing 'guess' mixes up a guess and an estimate.",
    "outcome": 0
   },
@@ -2507,12 +2507,12 @@
    "t": "mcq",
    "p": "Which is the best evidence that one cell is alive on her own?",
    "opts": [
+    "A cell can live and divide in a dish",
     "Cells are very small",
     "Cells have a skin",
-    "A cell can live and divide in a dish",
     "Cells are packed in rows"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A cell that feeds and divides away from the body is clearly alive on her own. Being small or having a skin is true of some non-living things too.",
    "outcome": 1
   },
@@ -2541,11 +2541,11 @@
    "p": "A grown-up's body makes billions of new cells every day. Which cells make up most of them?",
    "opts": [
     "Brain cells",
-    "Blood cells and gut lining cells",
     "Bone cells",
-    "Heart cells"
+    "Heart cells",
+    "Blood cells and gut lining cells"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Blood cells and gut lining cells wear out fastest, so they are replaced most. Most brain and heart cells stay for many years.",
    "outcome": 3
   },
@@ -2554,11 +2554,11 @@
    "p": "About how many bacteria does a grown-up carry, compared with their own cells?",
    "opts": [
     "Almost none",
-    "About as many",
     "Ten times as many",
-    "A thousand times as many"
+    "A thousand times as many",
+    "About as many"
    ],
-   "a": 1,
+   "a": 3,
    "why": "About 38 trillion bacteria beside about 30 trillion human cells. 'Ten times as many' was believed for forty years and was shown wrong in 2016.",
    "outcome": 4
   },
@@ -2566,12 +2566,12 @@
    "t": "mcq",
    "p": "What do gut bacteria feed on that your own cells cannot digest?",
    "opts": [
-    "Fibre",
     "Water",
+    "Fibre",
     "Sugar",
     "Salt"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fibre from plants. The bacteria break it into small molecules, and some of these feed the cells of your gut wall.",
    "outcome": 4
   },
@@ -2579,12 +2579,12 @@
    "t": "mcq",
    "p": "Clean teeth took colour again after one night with no food. Why?",
    "opts": [
-    "Bacteria in the mouth divided",
     "The colour came back by itself",
     "Teeth grow a new layer nightly",
-    "Water left a stain"
+    "Water left a stain",
+    "Bacteria in the mouth divided"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A few bacteria stay after any brushing. Each divides into two again and again, and by morning their families make a coat that takes the colour.",
    "outcome": 5,
    "how": "e1"
@@ -2600,12 +2600,12 @@
    "t": "mcq",
    "p": "Which is a fair reason to say you are one organism and not a community?",
    "opts": [
-    "Your microbes weigh very little",
     "Your own cells share one set of instructions",
+    "Your microbes weigh very little",
     "Microbes are too small to matter",
     "You were born alone"
    ],
-   "a": 1,
+   "a": 0,
    "why": "All your own cells came from one fertilised egg and carry the same instructions, and the microbes carry their own. This is evidence for one side of a real debate.",
    "outcome": 6
   },
@@ -2614,11 +2614,11 @@
    "p": "Why did the 'ten to one' number last for forty years?",
    "opts": [
     "It was correct until 2016",
-    "People repeated it without checking the working",
     "Nobody was interested",
-    "Bodies have changed since"
+    "Bodies have changed since",
+    "People repeated it without checking the working"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The number was copied from book to book. When the working was checked, a wrong size for the gut was found. A number is only as good as its working.",
    "outcome": 7
   }

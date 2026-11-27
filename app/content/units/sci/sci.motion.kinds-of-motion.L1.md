@@ -428,7 +428,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 5. (truefalse) A swing keeps going for ever after one push.  
    **Answer:** False. *Why:* False. The bag on the handle swung smaller and smaller and stopped. A swing needs more pushes to keep going.
 6. (mcq) Why do suitcases have wheels?  
-   Options: Rolling is easier than sliding / Wheels make them lighter / Wheels look nice  
+   Options: Wheels make them lighter / Wheels look nice / Rolling is easier than sliding  
    **Answer:** Rolling is easier than sliding. *Why:* A rolling wheel hardly rubs the floor, so a small pull moves a heavy suitcase. Without wheels it would scrape and slide.
 7. (label) A ceiling fan is spinning. Label the part that stays still and the part that moves round in the biggest circle.  
    **Answer:** ['Stays still', 'Moves round in the biggest circle']. *Why:* A spinning thing turns round its middle. The tips are furthest from the middle, so they go round in the biggest circle.
@@ -469,34 +469,34 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 
 ## Quiz
 1. (mcq) A ceiling fan turns round and round in one place. How does it move?  
-   Options: It spins / It slides / It bounces  
+   Options: It slides / It spins / It bounces  
    **Answer:** It spins. *Why:* Spinning is turning round in one place.
 2. (mcq) You lie on a mat and turn over and over. What are you doing?  
    Options: Rolling / Swinging / Sliding  
    **Answer:** Rolling. *Why:* Rolling is turning over and over while moving along.
 3. (mcq) Which of these swings?  
-   Options: A bag hanging on a door handle / A ball on a slope / A box pushed on the floor  
+   Options: A ball on a slope / A box pushed on the floor / A bag hanging on a door handle  
    **Answer:** A bag hanging on a door handle. *Why:* A swinging thing hangs from one point and goes back and forth.
 4. (mcq) You must move a heavy round tin across the floor with a small push. What should you do?  
-   Options: Lay it on its side and roll it / Push it standing up / Fill it with more rice  
+   Options: Push it standing up / Fill it with more rice / Lay it on its side and roll it  
    **Answer:** Lay it on its side and roll it. *Why:* Rolling hardly rubs the floor, so a small push moves it. Sliding it standing up rubs its whole bottom.
 5. (mcq) A ball of atta dough falls on the floor. What happens?  
-   Options: It goes flat and does not bounce / It bounces high / It rolls away  
+   Options: It bounces high / It goes flat and does not bounce / It rolls away  
    **Answer:** It goes flat and does not bounce. *Why:* Dough squashes and stays squashed. It does not spring back, so it does not bounce.
 6. (mcq) You push a steel plate flat across the floor. How does it move?  
    Options: It slides / It bounces / It swings  
    **Answer:** It slides. *Why:* The same flat part keeps touching and rubbing along the floor, so it slides.
 7. (mcq) A child finds a heavy box very hard to drag. What could help?  
-   Options: Put it on a cart with wheels / Make it heavier / Drag it more slowly on its side  
+   Options: Make it heavier / Put it on a cart with wheels / Drag it more slowly on its side  
    **Answer:** Put it on a cart with wheels. *Why:* A wheel rolls and hardly rubs the ground, so heavy things move with a small push.
 8. (mcq) You guess the dabba will go further standing flat. What should you do next?  
-   Options: Test it, and see what happens / Ask someone and believe them / Give up  
+   Options: Ask someone and believe them / Give up / Test it, and see what happens  
    **Answer:** Test it, and see what happens. *Why:* A guess is checked by a test. Push the dabba both ways with the same push and count the tiles.
 9. (mcq) A rolling pin goes over and over as it moves along the kitchen floor. How does it move?  
-   Options: It rolls / It swings / It bounces  
+   Options: It swings / It rolls / It bounces  
    **Answer:** It rolls. *Why:* Rolling is turning over and over while moving along.
 10. (mcq) What does a rubber ball do for a moment when it hits the floor?  
-   Options: It squashes a little, then springs back / It spins in one place / It slides along the floor  
+   Options: It spins in one place / It squashes a little, then springs back / It slides along the floor  
    **Answer:** It squashes a little, then springs back. *Why:* The ball squashes a little where it hits, then springs back to round and pushes itself up.
 
 ## Applications

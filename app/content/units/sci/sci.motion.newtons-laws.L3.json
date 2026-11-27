@@ -568,10 +568,10 @@
       "t": "mcq",
       "q": "A marble rolls onto a towel. Keep going or change?",
       "options": [
-       "Keep going, because moving things keep moving",
-       "Change, because friction from the towel slows it down"
+       "Change, because friction from the towel slows it down",
+       "Keep going, because moving things keep moving"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Moving things do keep moving, unless a force acts. Here a force does act: friction from the towel's rough fibres slows the marble and soon stops it. That is why it is 'change'."
      }
     },
@@ -665,11 +665,11 @@
       "t": "mcq",
       "q": "The bus brakes suddenly. Which way does a passenger lean?",
       "options": [
-       "Forward",
        "Backward",
+       "Forward",
        "Not at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The passenger's body was moving forward with the bus, and it keeps moving forward when the bus slows down. So they lean forward. When the bus starts suddenly, it is the opposite: the body stays behind, so they lean back."
      }
     },
@@ -835,10 +835,10 @@
       "q": "You walk past a plate and let go of rolled socks right above it. Where do the socks land?",
       "options": [
        "On the plate",
-       "Before the plate, behind you",
-       "Past the plate, in the direction you were walking"
+       "Past the plate, in the direction you were walking",
+       "Before the plate, behind you"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The socks were moving forward with you. After you let go, nothing pushed them back, so they kept moving forward while they fell, and landed past the plate. Picking 'on the plate' means thinking the socks stop moving forward the moment they leave the hand. Picking 'behind you' means thinking the socks are left behind. Both are very common guesses."
      }
     },
@@ -1206,10 +1206,10 @@
       "q": "You flick the card away fast, and the coin drops into the tumbler. Why?",
       "options": [
        "The flick pushed the coin down",
-       "The coin stayed still while the card shot away, and then gravity pulled it down",
-       "The coin is magnetic"
+       "The coin is magnetic",
+       "The coin stayed still while the card shot away, and then gravity pulled it down"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The coin was still, and it stayed still, because the card rubbed on it for only a tiny moment. That was too short to get it moving. With the card gone, gravity pulled the coin straight down. With a slow pull, the card rubs on the coin for longer, so the coin moves with it. Things at rest stay at rest until a force has time to move them. This is inertia."
      }
     }
@@ -1284,11 +1284,11 @@
       "t": "mcq",
       "q": "You stir water in a bowl and lift the spoon out. Why does the water keep turning?",
       "options": [
-       "Because of inertia: moving water keeps moving until friction slows it",
        "Because the bowl is still turning",
+       "Because of inertia: moving water keeps moving until friction slows it",
        "Because the tea leaves are pushing it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The moving water keeps moving because nothing has stopped it yet. Friction with the bowl slowly takes its motion away. The bowl is not turning, and the tea leaves are only carried along. They just help you see the water move."
      }
     }
@@ -1428,11 +1428,11 @@
       "t": "mcq",
       "q": "You are standing in a city bus. The bus brakes suddenly. Which way does your body lurch?",
       "options": [
-       "Forward, because your body keeps moving",
        "Backward, because the bus pushes you back",
+       "Forward, because your body keeps moving",
        "You do not move at all"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your body was moving forward with the bus. When the bus slows, your body keeps moving forward until your feet, the floor and your hand on the bar slow you down. That is why people hold the bar. Picking 'backward' mixes it up with what happens when the bus starts suddenly."
      }
     }
@@ -1594,11 +1594,11 @@
       "t": "mcq",
       "q": "In the dough passenger test, what does the rubber band seatbelt do?",
       "options": [
-       "It pushes the car forward",
        "It gives the force that stops the passenger along with the car",
+       "It pushes the car forward",
        "It makes the passenger lighter"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Without the band, the passenger keeps moving at the old speed after the car stops. The band gives the force that stops the passenger along with the car, more gently. A real seatbelt does the same job, which is why Indian road rules ask everyone in a car to wear one, front and back."
      }
     }
@@ -1949,10 +1949,10 @@
    "p": "A coin sits on a card on a tumbler. You flick the card away fast. What does the coin do?",
    "opts": [
     "Flies away with the card",
-    "Drops into the tumbler",
-    "Stays floating in the air"
+    "Stays floating in the air",
+    "Drops into the tumbler"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The coin stays still because of inertia, and then gravity pulls it down into the tumbler. It does not fly with the card, because the flick rubs it for too short a time.",
    "outcome": 1,
    "how": "a1"
@@ -1961,11 +1961,11 @@
    "t": "mcq",
    "p": "You walk past a plate and let go of rolled socks right above it. Where do they land?",
    "opts": [
+    "Past the plate",
     "On the plate",
-    "Behind the plate",
-    "Past the plate"
+    "Behind the plate"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The socks keep moving forward as they fall, so they land past the plate. Picking 'on the plate' means thinking they lose their forward motion when they leave your hand.",
    "outcome": 2,
    "how": "e1"
@@ -1974,11 +1974,11 @@
    "t": "mcq",
    "p": "In the walking drop, what happens when you walk faster?",
    "opts": [
-    "The socks land further past the plate",
     "The socks land on the plate",
+    "The socks land further past the plate",
     "The socks land behind you"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Walking faster gives the socks more forward speed, so they travel further forward while they fall.",
    "outcome": 2,
    "how": "e1"
@@ -1987,11 +1987,11 @@
    "t": "mcq",
    "p": "Why does a rolling marble stop sooner on a towel than on tiles?",
    "opts": [
-    "The towel gives more friction",
     "The towel is heavier",
-    "The tiles push the marble"
+    "The tiles push the marble",
+    "The towel gives more friction"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The towel's rough fibres give more friction, which slows the marble. On smooth tiles there is less friction, so it rolls further.",
    "outcome": 3,
    "how": "e3"
@@ -2000,11 +2000,11 @@
    "t": "mcq",
    "p": "A stone is slid across smooth ice. Why does it go so far?",
    "opts": [
-    "Ice gives very little friction to slow it",
     "Ice pushes it forward",
+    "Ice gives very little friction to slow it",
     "Cold makes stones faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ice is very slippery, so there is very little friction. With little to slow it, the stone keeps moving a long way.",
    "outcome": 3
   },
@@ -2012,11 +2012,11 @@
    "t": "mcq",
    "p": "Why should everyone in a car wear a seatbelt?",
    "opts": [
-    "When the car stops suddenly, their body keeps moving forward, and the belt stops them safely",
     "It keeps the car from moving",
-    "It makes the car go faster"
+    "It makes the car go faster",
+    "When the car stops suddenly, their body keeps moving forward, and the belt stops them safely"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In a sudden stop, a passenger's body keeps its speed. The seatbelt gives the force that stops them along with the car, instead of the seat in front or the windscreen.",
    "outcome": 4
   },
@@ -2024,11 +2024,11 @@
    "t": "mcq",
    "p": "A bus brakes suddenly. Which way does water in a tumbler on the seat slop?",
    "opts": [
-    "Forward",
     "Backward",
-    "It does not move"
+    "It does not move",
+    "Forward"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water keeps moving forward while the tumbler slows with the bus, so it slops forward.",
    "outcome": 4,
    "how": "a4"
@@ -2037,11 +2037,11 @@
    "t": "mcq",
    "p": "Why can't we feel the Earth moving?",
    "opts": [
-    "It moves smoothly and steadily, and we move with it",
     "It is not moving",
+    "It moves smoothly and steadily, and we move with it",
     "It moves too slowly"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Earth moves very fast, but smoothly. Like a ball in a smooth train, everything moves with us, so we feel nothing.",
    "outcome": 5
   },
@@ -2061,11 +2061,11 @@
    "t": "mcq",
    "p": "Pierre Gassendi dropped stones from the top of a moving ship's mast in 1640. What did he find?",
    "opts": [
-    "They landed at the foot of the mast",
     "They landed behind the ship",
-    "They floated"
+    "They floated",
+    "They landed at the foot of the mast"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The stones kept the ship's forward motion while they fell, so they landed at the foot of the mast. This showed a moving Earth would not leave falling things behind.",
    "outcome": 5
   },
@@ -2074,10 +2074,10 @@
    "p": "You stop a spinning raw egg for a second and let go. What happens?",
    "opts": [
     "It stays still",
-    "It starts turning again",
-    "It breaks"
+    "It breaks",
+    "It starts turning again"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The runny inside keeps turning when the shell is stopped, because of inertia. When you let go, it turns the shell again.",
    "outcome": 1,
    "how": "e2"
@@ -2149,10 +2149,10 @@
      "p": "You walk past a steel plate and let go of rolled socks right above it. Where do they land?",
      "opts": [
       "On the plate",
-      "Behind the plate",
-      "Past the plate, the way you were walking"
+      "Past the plate, the way you were walking",
+      "Behind the plate"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The socks were moving forward with you, and they kept moving forward as they fell. So they landed past the plate. Picking 'on the plate' means thinking a dropped thing loses its forward motion as soon as you let go.",
      "how": "e1"
     },
@@ -2176,11 +2176,11 @@
      "t": "mcq",
      "p": "A marble rolls down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?",
      "opts": [
+      "The bare tiles",
       "The towel",
-      "The doormat",
-      "The bare tiles"
+      "The doormat"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The bare tiles are the smoothest, so they give the least friction, and the marble rolls furthest. The towel's rough fibres give the most friction, so it stops soonest.",
      "how": "e3"
     },
@@ -2324,11 +2324,11 @@
      "t": "mcq",
      "p": "In the walking drop, the socks landed 70 cm past the plate at a fast walk and 35 cm past at a slow walk. What does this show?",
      "opts": [
-      "Faster walking gives the socks more forward speed, so they go further while falling",
       "Faster walking makes the socks heavier",
-      "The socks fall slower when you walk fast"
+      "The socks fall slower when you walk fast",
+      "Faster walking gives the socks more forward speed, so they go further while falling"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The socks keep the speed they had in your hand. Walking faster gives them more forward speed, so they travel further forward in the same falling time.",
      "how": "e1"
     },
@@ -2536,10 +2536,10 @@
      "p": "Gassendi had stones dropped from the top of a ship's mast while the ship moved fast. Where did they land?",
      "opts": [
       "Behind the mast",
-      "At the foot of the mast",
-      "In the sea"
+      "In the sea",
+      "At the foot of the mast"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The stones were moving forward with the ship before they were dropped. They kept that motion as they fell, so they landed at the foot of the mast. This showed that the old argument against a moving Earth was wrong."
     },
     {
@@ -2569,11 +2569,11 @@
      "t": "mcq",
      "p": "Which of these has the most inertia?",
      "opts": [
-      "A full steel almirah",
       "An empty steel almirah",
+      "A full steel almirah",
       "A plastic chair"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Inertia grows with mass. The full almirah has the most mass, so it is hardest to start, stop or turn."
     },
     {
@@ -2592,11 +2592,11 @@
      "t": "mcq",
      "p": "A girl tosses a ball straight up in a train that is slowing down for a station. Where will it land?",
      "opts": [
-      "In her hand",
       "A little ahead of her hand, towards the front of the train",
+      "In her hand",
       "A little behind her, towards the back of the train"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The ball keeps the speed it had when tossed. The train and her hand slow down while it is in the air, so the ball gets ahead and lands a little in front."
     },
     {

@@ -627,16 +627,16 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 14. (perspective) Two friends, the first person and the second person, talk about a video in which a person in a gorilla suit walks through a ball game while viewers count the passes.  
    **Answer:** A strong answer agrees with the second person, because missing the gorilla comes from attention being used on the passes, not from carelessness. It can say that the first person is right that attention matters, and that if you were told to look for a gorilla, you would not miss the gorilla.. *Why:* Missing a large thing is normal when attention is elsewhere. People miss the gorilla because they are paying attention to the passes.
 15. (mcq) A tiger's stripes in tall dry grass help her hide. What is the best name for this trick?  
-   Options: Breaking up her outline / Making a loud noise / Looking bigger  
+   Options: Making a loud noise / Looking bigger / Breaking up her outline  
    **Answer:** Breaking up her outline. *Why:* Dark and light stripes cut across the edge of the tiger's body, so the brain does not read the outline as one animal. The stripes do not make her bigger or noisier.
 16. (fill) A mental picture of what you are looking for is called a search ____.  
    **Answer:** ['image']. *Why:* A search image helps you find the thing you are looking for, and it hides things that do not match.
 ### Worlds, Faces and Hiding (stretch) (stretch, 16 questions)
 1. (mcq) Why does the brain show only one reading of an ambiguous picture?  
-   Options: A body must act on one reading at a time / The eyes can only see half of a picture / The paper only has one meaning  
+   Options: The eyes can only see half of a picture / A body must act on one reading at a time / The paper only has one meaning  
    **Answer:** A body must act on one reading at a time. *Why:* You cannot reach for a cube that is both near and far. The brain picks the likeliest reading so the body can act. The eyes can see the whole picture, and the picture has two readings.
 2. (mcq) A bird has eaten green caterpillars for a week. What is she most likely to do next?  
-   Options: Miss a brown caterpillar right next to her beak / Find every kind of caterpillar equally well / Stop looking for food  
+   Options: Find every kind of caterpillar equally well / Miss a brown caterpillar right next to her beak / Stop looking for food  
    **Answer:** Miss a brown caterpillar right next to her beak. *Why:* A search image for green caterpillars helps the bird find them fast, and makes brown ones easier to miss. Searching for one kind of thing tends to hide others.
 3. (match) Match each idea to the example that shows it.  
    **Answer:** Colour constancy → a white shirt looks white in sunlight and under a lamp; Inverted face effect → a friend's photo is harder to recognise upside down; Change blindness → a big change goes unseen when a flash hides it; Umwelt → a tick's world is the smell of sweat and the warmth of a body. *Why:* Each idea describes a way in which seeing is built by the brain, or by the body of the animal doing the seeing.
@@ -658,7 +658,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
    Options: The one that splits five and five / The one that splits seven and three / They are the same  
    **Answer:** The one that splits five and five. *Why:* A two-way picture is best when both readings are about equally strong. A five and five split shows that both readings are equally easy to find.
 12. (mcq) If the card that hides the moment of change is taken away, watchers see the change at once. What does this show?  
-   Options: The brain notices movement without needing to compare two scenes / The watchers were not paying attention before / The card made the change bigger  
+   Options: The watchers were not paying attention before / The card made the change bigger / The brain notices movement without needing to compare two scenes  
    **Answer:** The brain notices movement without needing to compare two scenes. *Why:* A change that happens in plain sight comes with movement, which draws attention at once. The card removes that movement, so the brain has to compare two scenes.
 13. (label) Label the ghost triangle drawing: a circle with a slice missing, the edge that is not drawn, and the triangle you see.  
    **Answer:** ['a circle with a slice missing', 'the edge that is not drawn', 'the triangle you see']. *Why:* The brain joins the three circles into one shape and makes edges that are not on the paper.
@@ -673,12 +673,12 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 1. (write) Plan a fair test of whether a small change in a scene is noticed more slowly than a big one when a card hides the moment of change. Say what you will change, what you will keep the same, and what you will measure.  
    **Answer:** Change which thing changes: a big red cup or a small button. Keep the tray, the card, the timing, the watchers and the number of items the same. Measure how many blinks it takes a watcher to say what changed. Use more than one watcher.. *Why:* A strong answer changes one thing, keeps the rest the same, and counts something. It uses several watchers because one watcher can be lucky.
 2. (mcq) Three watchers took 4, 9 and 5 blinks to find a change. What is the best way to report this?  
-   Options: Say all three numbers and the average of 6 / Say only the smallest number, 4 / Say only the largest number, 9  
+   Options: Say only the smallest number, 4 / Say only the largest number, 9 / Say all three numbers and the average of 6  
    **Answer:** Say all three numbers and the average of 6. *Why:* Reporting all the numbers and the average shows the whole result and how much it varies. Choosing only the smallest or largest number gives a false picture.
 3. (perspective) Two students, the first person and the second person, talk about what seeing is.  
    **Answer:** A strong answer agrees with the second person, because the cube flipped though the lines did not change, a big change went unseen, and F's were missed because of expectation. It can say that the first person is right that the eye does catch light like a camera does, and that most guesses are good.. *Why:* The eye does catch light, but the brain builds the seeing from it. Seeing is usually right because the brain's guesses are good, and wrong in the cases we tested.
 4. (mcq) When you cover one circle of the ghost triangle, the triangle disappears. What does this show?  
-   Options: The brain needs all three circles to complete the shape / The triangle was drawn in invisible ink / The covered circle was the triangle  
+   Options: The triangle was drawn in invisible ink / The covered circle was the triangle / The brain needs all three circles to complete the shape  
    **Answer:** The brain needs all three circles to complete the shape. *Why:* The triangle is made by the brain from the three circles. Remove one circle, and there is nothing to complete. The triangle was never drawn on the paper.
 5. (fill) The brain's choice of what is the thing in front, and what is the background behind it, is called figure and ____.  
    **Answer:** ['ground']. *Why:* In the vase and faces drawing, the vase can be the figure and the faces the ground, or the other way round.
@@ -696,14 +696,14 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 11. (perspective) Two children, Devi and the first person, talk about the minute they waited.  
    **Answer:** A strong answer says that both are right in different ways. The clock minute is the same for everyone, as Devi says. The felt minute changes with attention, as the first person says. The word minute is used for two different things.. *Why:* A clock measures time. The brain's sense of time is built from attention and an inner clock, and can stretch or shrink.
 12. (mcq) Why is it better to ask many watchers than one?  
-   Options: One watcher can be lucky or unlucky, and many show the usual result / Many watchers make the change bigger / One watcher cannot see the tray  
+   Options: Many watchers make the change bigger / One watcher cannot see the tray / One watcher can be lucky or unlucky, and many show the usual result  
    **Answer:** One watcher can be lucky or unlucky, and many show the usual result. *Why:* One try can be a fluke. Results from many people show the pattern that most people share, and how much it varies.
 13. (match) Match each hiding trick to the animal that uses the trick.  
    **Answer:** Looking like a leaf, with veins and bite marks → a leaf insect; Looking like a dead leaf when the wings are folded → a leaf butterfly; Stripes that break up the outline in tall grass → a tiger; Looking like a twig, and holding still → a stick insect. *Why:* Each animal hides by matching what a hunter expects to see, or by breaking up the outline so the brain does not read it as an animal.
 14. (write) Describe a time when two people read the same thing in two different ways. What clues did each one use?  
    **Answer:** For example, two friends read a message that says 'fine' and one thinks the writer is happy while the other thinks the writer is upset. One used the word alone, and one used how the writer usually writes. Both read the same words with different clues.. *Why:* A strong answer names a real situation and says what clue each person used, showing that a reading depends on clues and expectation.
 15. (mcq) A student wants to know whether upside-down faces are harder to read. Which plan is best?  
-   Options: Show the same faces upright and upside down to several people and score each / Ask one friend which she prefers / Show faces upside down only  
+   Options: Ask one friend which she prefers / Show faces upside down only / Show the same faces upright and upside down to several people and score each  
    **Answer:** Show the same faces upright and upside down to several people and score each. *Why:* A fair plan changes only the direction of the faces, uses the same faces and gives the same task to several people. To compare, you need both upright and upside-down faces.
 
 ## Videos
@@ -713,31 +713,31 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 
 ## Quiz
 1. (mcq) A drawing that can be read as a vase or as two faces is called what?  
-   Options: An ambiguous picture / A mirror image / A shadow  
+   Options: A mirror image / A shadow / An ambiguous picture  
    **Answer:** An ambiguous picture. *Why:* Ambiguous means able to mean two things equally well. The brain shows one reading at a time and switches between them.
 2. (mcq) When you see the two faces in the vase and faces drawing, what does the vase become?  
    Options: The background behind the faces / A bigger vase / Part of the faces  
    **Answer:** The background behind the faces. *Why:* The brain picks one part as the figure in front. The other part becomes the ground behind it. The paper has not changed.
 3. (mcq) A driver on a phone looks straight at a red light and does not see it. What is the best explanation?  
-   Options: The driver's attention is on the call, so the light is not noticed / The light is too dim for any eye / The driver's eyes were closed  
+   Options: The light is too dim for any eye / The driver's attention is on the call, so the light is not noticed / The driver's eyes were closed  
    **Answer:** The driver's attention is on the call, so the light is not noticed. *Why:* Looking at something does not mean noticing it. Detailed seeing needs attention, and attention was on the call.
 4. (mcq) A card is held over a tray for a second, and a big thing on the tray changes. Why might a watcher miss it?  
-   Options: There is no movement to catch the eye, and the brain does not compare the two scenes / The change was too small to see / The watcher was not looking at the tray  
+   Options: The change was too small to see / There is no movement to catch the eye, and the brain does not compare the two scenes / The watcher was not looking at the tray  
    **Answer:** There is no movement to catch the eye, and the brain does not compare the two scenes. *Why:* In plain sight, a change brings movement, which draws attention at once. When something hides the moment, the brain has to compare before and after, and often does not.
 5. (mcq) Why do many people miss the extra word in 'Paris in the the spring'?  
-   Options: The brain expects the familiar phrase and passes over the repeat / The extra word is written in light ink / The eyes cannot read two words that are the same  
+   Options: The extra word is written in light ink / The eyes cannot read two words that are the same / The brain expects the familiar phrase and passes over the repeat  
    **Answer:** The brain expects the familiar phrase and passes over the repeat. *Why:* The brain reads familiar phrases by guessing what is next. It saw 'the' and expected 'spring', so the repeat was not noticed.
 6. (mcq) A person looks for a missing key and keeps passing it. What may be happening?  
-   Options: Their search image does not match how the key looks now / The key is invisible / Keys cannot be found by looking  
+   Options: The key is invisible / Their search image does not match how the key looks now / Keys cannot be found by looking  
    **Answer:** Their search image does not match how the key looks now. *Why:* A search image helps you find what you picture, and hides what does not match. If the key looks different from the picture in your mind, you may pass it.
 7. (mcq) Three circles with a slice missing each are placed so that a triangle appears. Where are the triangle's edges?  
-   Options: The brain makes them, and they are not drawn / Drawn in very thin lines / In the white paper  
+   Options: Drawn in very thin lines / In the white paper / The brain makes them, and they are not drawn  
    **Answer:** The brain makes them, and they are not drawn. *Why:* The brain joins the three circles into one shape and supplies the missing edges. Nerve cells have been found that respond to such edges as if they were real.
 8. (mcq) A photo of a person is harder to recognise when it is upside down. What does this suggest?  
-   Options: The brain has a special way of reading upright faces / The person's face changes when it is upside down / Photos cannot be turned  
+   Options: The person's face changes when it is upside down / The brain has a special way of reading upright faces / Photos cannot be turned  
    **Answer:** The brain has a special way of reading upright faces. *Why:* Faces are harder to recognise upside down than other objects are. This suggests that the brain reads upright faces all at once, in a special way.
 9. (mcq) A bee sees dark stripes on a flower that looks plain to you. What is the best explanation?  
-   Options: The stripes are in ultraviolet light, which bees can see and we cannot / The bee is imagining the stripes / The flower changes when a bee comes  
+   Options: The bee is imagining the stripes / The stripes are in ultraviolet light, which bees can see and we cannot / The flower changes when a bee comes  
    **Answer:** The stripes are in ultraviolet light, which bees can see and we cannot. *Why:* Many flowers have ultraviolet patterns that guide bees to the nectar. Our eyes cannot sense ultraviolet light, so the flower looks plain to us.
 10. (mcq) A moth with a pattern that runs across the edge of her wings is found less often by birds. Why?  
    Options: The pattern breaks up the outline, so the brain does not read the shape as a moth / The moth is smaller / Birds cannot see patterns  

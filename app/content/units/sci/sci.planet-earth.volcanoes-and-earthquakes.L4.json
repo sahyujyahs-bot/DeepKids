@@ -803,11 +803,11 @@
       "t": "mcq",
       "q": "Why did India slow down after it met Asia?",
       "options": [
-       "Two continents met and neither could dive under",
        "The mantle cooled and went hard",
+       "Two continents met and neither could dive under",
        "India ran out of sea to cross"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Continent rock is too light to sink into the mantle, so the two lands jammed and crumpled into the Himalaya. The mantle did not go hard. If you chose the sea, remember that the plate is moved by forces in the rock and not by the water."
      },
      "parent": "With 4 players the cards may go round twice, which is fine. A player who misses a turn still listens to the other squares being read.",
@@ -961,11 +961,11 @@
       "t": "mcq",
       "q": "During a wait, the box is not moving. Where is the energy of your pull going?",
       "options": [
-       "Into the stretched rubber band",
        "Nowhere, because nothing is moving",
+       "Into the stretched rubber band",
        "Into the cloth"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Your hand moves, so you are doing work, and the band stores it as it stretches. If you chose 'nowhere', look at the band during the next wait. It gets longer with every count, and all of that is let go in the jump."
      },
      "parent": "A heavier box presses harder on the cloth, so the band must stretch further before it wins. Most families see longer waits and bigger jumps. Most children get only one or two calls right out of 8, and some get none. That is the result. Do not help them to do better.",
@@ -1070,11 +1070,11 @@
       "t": "mcq",
       "q": "In which liquid did the air find it harder to get out?",
       "options": [
-       "The thick batter",
        "The water",
+       "The thick batter",
        "It was the same in both"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A thick liquid flows slowly, so it closes in around a bubble and holds it. The bubble must grow large before it can push its way up. If you chose water, watch again and time how long the bubbles stay after you stop blowing."
      },
      "parent": "In water the bubbles are small, rise at once and are gone in about a second. In batter the air collects into large bubbles that push the surface up into a dome and burst with a plop, sometimes throwing specks. Some stay trapped for many seconds. Blowing hard into the water makes it splash, which spoils the test, so keep the breath gentle. Keep the tumblers on a plate to catch drips.",
@@ -1693,11 +1693,11 @@
      "t": "mcq",
      "p": "Which layer of the Earth do we live on?",
      "opts": [
-      "The crust",
       "The mantle",
-      "The outer core"
+      "The outer core",
+      "The crust"
      ],
-     "a": 0,
+     "a": 2,
      "why": "We live on the crust, the thin outer layer. The mantle begins tens of kilometres below us, and nobody has ever reached it.",
      "outcome": 0
     },
@@ -1778,11 +1778,11 @@
      "t": "mcq",
      "p": "What do we call the place on the surface straight above the start of an earthquake?",
      "opts": [
-      "The epicentre",
       "The focus",
-      "The crater"
+      "The crater",
+      "The epicentre"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The epicentre is on the surface. The focus is the place underground where the slip begins. A crater belongs to a volcano.",
      "outcome": 2
     },
@@ -1926,11 +1926,11 @@
      "t": "mcq",
      "p": "What are the Deccan Traps mostly made of?",
      "opts": [
-      "Basalt, which is cooled lava",
       "Sand laid down by rivers",
+      "Basalt, which is cooled lava",
       "Old coral reefs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "They are layer upon layer of basalt from lava floods. Sandstone and coral rock form in water, in a quite different way.",
      "outcome": 5
     },
@@ -2002,11 +2002,11 @@
      "t": "mcq",
      "p": "How much more does the ground move in a magnitude 7 earthquake than in a magnitude 6?",
      "opts": [
-      "10 times more",
       "Twice as much",
+      "10 times more",
       "A little more"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each whole step in magnitude means ten times more ground movement. If you chose 'a little more', remember that the scale multiplies and does not add.",
      "outcome": 2
     },
@@ -2134,11 +2134,11 @@
      "t": "mcq",
      "p": "Why does a P wave reach a seismograph before an S wave from the same earthquake?",
      "opts": [
-      "It travels faster",
       "It sets off earlier",
+      "It travels faster",
       "It is stronger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Both leave at the same moment. P waves travel at about 6 kilometres a second in the crust and S waves at about 4, so the P wave wins the race.",
      "outcome": 2
     },
@@ -2363,11 +2363,11 @@
    "t": "mcq",
    "p": "About how fast do plates move?",
    "opts": [
-    "As fast as fingernails grow",
     "As fast as a person walks",
-    "They stay where they are"
+    "They stay where they are",
+    "As fast as fingernails grow"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plates move 2 to 10 centimetres a year. If you chose 'they stay', remember that satellites measure the movement every day.",
    "outcome": 1
   },
@@ -2375,11 +2375,11 @@
    "t": "mcq",
    "p": "What happens where two plates carrying continents push together?",
    "opts": [
-    "High mountains rise",
     "A new ocean opens",
+    "High mountains rise",
     "A hot spot forms"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Continent rock is too light to dive, so it crumples and piles up, as in the Himalaya. A new ocean opens where plates move apart.",
    "outcome": 1
   },
@@ -2387,11 +2387,11 @@
    "t": "mcq",
    "p": "What makes the ground shake in an earthquake?",
    "opts": [
-    "Stuck rock suddenly slipping",
     "Wind rushing out of caves",
+    "Stuck rock suddenly slipping",
     "The core spinning faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rock bends while a fault is stuck and then slips. The wind idea is very old and was given up when faults were studied.",
    "outcome": 2
   },
@@ -2406,11 +2406,11 @@
    "t": "mcq",
    "p": "Why do some volcanoes explode?",
    "opts": [
-    "Sticky magma traps the gas",
     "They are taller than others",
+    "Sticky magma traps the gas",
     "Their lava is colder than ice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Thick magma holds its bubbles until the push blows it apart. Runny magma lets the gas out, and its lava flows quietly.",
    "outcome": 3
   },
@@ -2418,11 +2418,11 @@
    "t": "mcq",
    "p": "A volcano has been quiet for 300 years. What is the most truthful thing to say?",
    "opts": [
-    "It may still erupt again",
     "It is certainly dead",
+    "It may still erupt again",
     "It was never a volcano"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A volcano's life is far longer than 300 years. Barren Island was quiet for well over a century before 1991.",
    "outcome": 3
   },
@@ -2430,11 +2430,11 @@
    "t": "mcq",
    "p": "Where do most earthquakes and volcanoes happen?",
    "opts": [
-    "Along the edges of plates",
     "Evenly all over the Earth",
-    "Only in hot countries"
+    "Only in hot countries",
+    "Along the edges of plates"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Marked on a map, they fall into narrow belts along plate edges. Iceland and Alaska are cold and have plenty of both.",
    "outcome": 4
   },
@@ -2442,11 +2442,11 @@
    "t": "mcq",
    "p": "Which of these lies far from any plate edge?",
    "opts": [
-    "Latur",
     "Kathmandu",
+    "Latur",
     "The Nicobar Islands"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Latur is deep inside the Indian plate, which is why its earthquake in 1993 surprised people. The other two lie along plate edges.",
    "outcome": 4
   },
@@ -2454,11 +2454,11 @@
    "t": "mcq",
    "p": "What built the Himalaya?",
    "opts": [
-    "India pushing into Asia",
     "A giant volcano",
+    "India pushing into Asia",
     "The Deccan lava floods"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The sea floor between India and Asia was squeezed and lifted. That is why the high rocks hold sea shells and no lava.",
    "outcome": 5
   },
@@ -2466,11 +2466,11 @@
    "t": "mcq",
    "p": "Where is India's active volcano?",
    "opts": [
-    "Barren Island, in the Andaman Sea",
     "Mahabaleshwar, in Maharashtra",
-    "Bhuj, in Gujarat"
+    "Bhuj, in Gujarat",
+    "Barren Island, in the Andaman Sea"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Barren Island sits above a diving plate. Mahabaleshwar is old Deccan lava that stopped flowing about 66 million years ago.",
    "outcome": 5
   },
@@ -2490,11 +2490,11 @@
    "t": "mcq",
    "p": "Rain and rivers wear a hill down a little every year, and carry the grains away. What is this called?",
    "opts": [
-    "Erosion",
     "Lava",
-    "A seismic wave"
+    "A seismic wave",
+    "Erosion"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Erosion is the slow wearing away of land by rain, rivers, wind and ice. Lava is melted rock that has reached the surface, and a seismic wave carries an earthquake's energy. Neither wears land away.",
    "outcome": 1
   },

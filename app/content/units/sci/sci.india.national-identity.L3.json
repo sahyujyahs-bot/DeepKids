@@ -503,10 +503,10 @@
       "q": "A tigress called Kaveri left a 14 cm print in wet mud and an 11 cm print on a dusty path. Why?",
       "options": [
        "Kaveri's paw shrank",
-       "Wet mud spreads under a paw, and dry dust does not",
-       "Two different tigers made them"
+       "Two different tigers made them",
+       "Wet mud spreads under a paw, and dry dust does not"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The same paw makes a bigger print in soft wet mud, because the mud spreads and the paw sinks deeper. Thinking 'two different tigers' is the mistake forest staff once made."
      }
     }
@@ -729,10 +729,10 @@
       "q": "A hard press usually leaves a wider print than a gentle press. Why?",
       "options": [
        "The fist grew bigger",
-       "The fist went deeper, so more of it touched the atta",
-       "The atta got wetter"
+       "The atta got wetter",
+       "The fist went deeper, so more of it touched the atta"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A fist is rounded. When it goes deeper, more of its sides touch the atta, so the print is wider. A heavy tiger, or a running one, also presses deeper. Picking 'the fist grew bigger' is a fair thought, but your hand stayed the same size. The press changed."
      },
      "parent": "Usually the hard prints are 1 or 2 cm wider than the gentle ones. Damp prints have sharp edges, and you can see the finger joints. Dry prints are blurred. If two widths are the same, that is a real result too. Ask your child what else looked different."
@@ -888,11 +888,11 @@
       "t": "mcq",
       "q": "Why do the times often come closer to each other when everyone sings together?",
       "options": [
-       "People listen to each other and match their speed",
        "The anthem gets shorter when many people sing",
-       "The stopwatch runs slower"
+       "The stopwatch runs slower",
+       "People listen to each other and match their speed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "When people sing together they listen and keep the same pace, so their times come closer to each other. They do not always come closer to 52 seconds."
      },
      "parent": "Singing together often brings the times closer to each other, because people listen and adjust. It does not always bring them closer to 52."
@@ -1142,11 +1142,11 @@
       "t": "mcq",
       "q": "What is the best way to find out if a fact is true?",
       "options": [
+       "Check with the people or records that would really know",
        "Ask who feels most sure",
-       "Count how many people say it",
-       "Check with the people or records that would really know"
+       "Count how many people say it"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The government is the one that would declare a national game, so asking it gave the real answer. Many people were sure about hockey, but being sure is not the same as checking. Counting how many say it only tells you what is popular."
      }
     }
@@ -1500,12 +1500,12 @@
    "t": "mcq",
    "p": "Who first designed the flag that India's flag grew from?",
    "opts": [
-    "Pingali Venkayya",
     "Rabindranath Tagore",
     "D. Udaya Kumar",
-    "Dhyan Chand"
+    "Dhyan Chand",
+    "Pingali Venkayya"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Pingali Venkayya, a teacher from Andhra Pradesh, showed his design to Gandhi in 1921. Tagore wrote the anthem, Udaya Kumar designed the ₹ symbol and Dhyan Chand was a hockey player.",
    "outcome": 0
   },
@@ -1513,11 +1513,11 @@
    "t": "mcq",
    "p": "Books explain the green band in different ways: 'the land and plenty' or 'faith'. What does this show?",
    "opts": [
-    "People explain what the colours mean in more than one way, so check the source",
     "One of the books is always wrong",
-    "The flag changes its colours each year"
+    "The flag changes its colours each year",
+    "People explain what the colours mean in more than one way, so check the source"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The flag's design is fixed, but the meaning of each colour is worded in different ways in different books. Neither book needs to be wrong. When books differ, look at where each one got its words.",
    "outcome": 0
   },
@@ -1539,10 +1539,10 @@
    "opts": [
     "The crow",
     "The parrot",
-    "The peacock",
-    "The kingfisher"
+    "The kingfisher",
+    "The peacock"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The peacock has been India's national bird since 1963.",
    "outcome": 1
   },
@@ -1587,12 +1587,12 @@
    "t": "mcq",
    "p": "India became free in 1947, but it became a republic only when its Constitution came into force. What does a constitution do?",
    "opts": [
-    "It sets out how the country is run and the rights of every citizen",
     "It lists the winners of the Olympics",
+    "It sets out how the country is run and the rights of every citizen",
     "It is the words of the national song",
     "It gives the date of Gandhi's birthday"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A constitution is the country's main set of rules: who makes the laws, how leaders are chosen, and what rights every person has. Republic Day, 26 January, remembers the day India's Constitution came into force.",
    "outcome": 2
   },
@@ -1600,12 +1600,12 @@
    "t": "mcq",
    "p": "India has a national anthem and a national song, as well as a flag. Why might a country choose songs as symbols?",
    "opts": [
-    "Singing together lets many people share one feeling at the same time",
     "Songs are cheaper than flags",
+    "Singing together lets many people share one feeling at the same time",
     "Flags cannot be seen at night",
     "Every country must have exactly two songs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A song is shared in a way a picture is not: everyone sings the same words at the same moment, which makes people feel part of one country.",
    "outcome": 2
   },
@@ -1614,11 +1614,11 @@
    "p": "You press your fist into damp atta, first gently, then hard. What will you find?",
    "opts": [
     "Both prints are the same width",
-    "The hard print is wider",
     "The gentle print is wider",
-    "No print at all"
+    "No print at all",
+    "The hard print is wider"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Pressing harder pushes the rounded fist deeper, so more of it touches the atta and the print is wider.",
    "outcome": 3,
    "how": "e1"
@@ -1627,12 +1627,12 @@
    "t": "mcq",
    "p": "Why are prints in dry atta harder to measure than prints in damp atta?",
    "opts": [
-    "Dry atta is heavier",
     "The edges of dry prints crumble in",
+    "Dry atta is heavier",
     "Dry atta is a different colour",
     "Damp atta is softer to touch"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Dry atta doesn't hold its shape, so the edges crumble in and the print looks blurred. Dry dust does the same to a tiger's pugmark.",
    "outcome": 3,
    "how": "e1"
@@ -1641,11 +1641,11 @@
    "t": "mcq",
    "p": "In the mud by a pond you find two large, split hoof prints, far bigger than a chital's. Which animal most likely left them?",
    "opts": [
-    "A gaur, the Indian bison",
     "A rabbit",
-    "A crow"
+    "A crow",
+    "A gaur, the Indian bison"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Hoof prints that are split in two belong to hoofed animals such as deer, cattle and the gaur. A rabbit leaves small paw marks with toes, and a crow leaves thin three-toed marks. A print shows the kind of animal, but not the single animal that came.",
    "outcome": 3,
    "how": "a5"
@@ -1655,11 +1655,11 @@
    "p": "Why do scientists now count tigers with camera traps instead of pugmarks?",
    "opts": [
     "Cameras are cheaper than people",
-    "Each tiger's stripes are their own, and they never change",
     "Tigers stopped leaving pugmarks",
+    "Each tiger's stripes are their own, and they never change",
     "Pugmarks are too small to see"
    ],
-   "a": 1,
+   "a": 2,
    "why": "One tiger leaves different prints on different ground, but their stripe pattern stays the same all their life. So a photo shows exactly which tiger they are.",
    "outcome": 4
   },
@@ -1667,12 +1667,12 @@
    "t": "mcq",
    "p": "A forest's records count tigers from their footprints. Then careful searches find no tigers there at all. What most likely went wrong?",
    "opts": [
-    "Old or repeated footprints were counted as tigers, though nobody saw the tigers",
     "Tigers are invisible",
+    "Old or repeated footprints were counted as tigers, though nobody saw the tigers",
     "The tigers changed their stripes",
     "Footprints always give the right number"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Footprints change with the ground and the step, and one tiger can leave many. Counting prints without seeing the animals let tigers vanish without anyone knowing. This happened at Sariska, and India changed how it counts.",
    "outcome": 4
   },
@@ -1681,11 +1681,11 @@
    "p": "A quiz book says hockey is India's official national game. How could you check whether this is true?",
    "opts": [
     "Believe it, because it is printed",
-    "Ask the government, which keeps the record of what is official",
     "Count which sport has the most players",
+    "Ask the government, which keeps the record of what is official",
     "Ask a friend who likes hockey"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A printed claim can be wrong. Only the official record can say what has been declared. When a schoolgirl asked the government, the answer was that no sport has been declared the national game.",
    "outcome": 5
   },
@@ -1694,11 +1694,11 @@
    "p": "Many people are very sure about a fact. What is the best way to know if it is true?",
    "opts": [
     "Believe the person who sounds most sure",
-    "Check with the people or records that would really know",
     "Count how many people say it",
+    "Check with the people or records that would really know",
     "Choose the answer you like best"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Being sure is a feeling. Going to the source that would know, such as the government for a national game, is how you check.",
    "outcome": 5
   }
@@ -1767,12 +1767,12 @@
      "t": "mcq",
      "p": "When India's national anthem plays, everyone stands still together. Why do people do this?",
      "opts": [
-      "To show respect for the country, all together",
       "Because sitting is never allowed",
       "So the music sounds louder",
+      "To show respect for the country, all together",
       "To be ready to leave"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Standing together is a way of showing respect that everyone can share. The anthem is a symbol, and how we behave towards it shows what it means to us."
     },
     {
@@ -1809,10 +1809,10 @@
      "opts": [
       "Two different tigers walked there",
       "One big tiger and one cub walked there",
-      "At least one tiger walked there",
-      "The big tiger is older"
+      "The big tiger is older",
+      "At least one tiger walked there"
      ],
-     "a": 2,
+     "a": 3,
      "why": "The same tiger can leave a big print in wet mud and a smaller one on dry ground. So the prints only show that at least one tiger walked there. Choosing 'two tigers' is the mistake the old counts made.",
      "how": "e1"
     },
@@ -2004,11 +2004,11 @@
      "p": "Why might a country start something new, like its Constitution, on a date that was already special?",
      "opts": [
       "The printing was late",
-      "To honour an earlier day that meant a lot to people",
       "Because any date is a holiday",
+      "To honour an earlier day that meant a lot to people",
       "Because new things must start in January"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Choosing an old date links the new start to an earlier moment people care about. India started its Constitution on 26 January to honour the day in 1930 when the freedom movement asked for complete independence."
     },
     {
@@ -2024,12 +2024,12 @@
      "t": "mcq",
      "p": "A peacock's tail shines blue and green, and changes colour as you tilt it. What makes the colour?",
      "opts": [
-      "Blue and green paint inside the feather",
       "Tiny ridges in the feather that send back light in different ways",
+      "Blue and green paint inside the feather",
       "Water stored in the feather",
       "The colour of the sky"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The feather has brown colouring, but tiny ridges on it send back blue and green light. That is why the colour changes when you tilt it."
     },
     {
@@ -2222,11 +2222,11 @@
      "p": "Someone says, 'I can see three lions on the emblem, so there are three lions.' What is wrong with this thinking?",
      "opts": [
       "Nothing, there are three",
-      "The fourth lion is hidden behind, because they sit back to back",
       "There are five lions",
+      "The fourth lion is hidden behind, because they sit back to back",
       "The emblem has no lions"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Lion Capital has four lions sitting back to back. From the front you see three. In the same way, one side of a tiger shows only the stripes on that side. That is why camera traps photograph both sides of a tiger."
     },
     {
@@ -2248,11 +2248,11 @@
      "p": "In the Anthem Clock, a family timed themselves. Alone they sang in 47, 55 and 61 seconds, and together in 53 seconds. What does this best show?",
      "opts": [
       "Everyone sings at the same speed",
-      "Singing together brings people to one speed",
       "The anthem is too long",
+      "Singing together brings people to one speed",
       "Clocks are wrong"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Alone, the times spread from 47 to 61 seconds. Together, they sang as one, in 53. When people sing together, they listen and match each other's speed.",
      "how": "e2"
     },

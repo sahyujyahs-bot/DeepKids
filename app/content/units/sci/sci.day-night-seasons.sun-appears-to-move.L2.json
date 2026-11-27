@@ -435,11 +435,11 @@
       "t": "mcq",
       "q": "A card says: your shadow is very long and points east. What time is it?",
       "options": [
-       "Evening",
        "Morning",
-       "Noon"
+       "Noon",
+       "Evening"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A long shadow means a low Sun. It points east, so the Sun is in the west. A low Sun in the west means evening."
      }
     }
@@ -554,11 +554,11 @@
       "t": "mcq",
       "q": "The caller shows the card for 4 in the afternoon. Which way should the shadow player lie?",
       "options": [
-       "Pointing towards the East sign",
        "Pointing towards the West sign",
+       "Pointing towards the East sign",
        "Curled up at the feet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "At 4 in the afternoon the Sun is in the west. A shadow points away from the Sun, so it points east."
      }
     }
@@ -691,11 +691,11 @@
       "t": "mcq",
       "q": "You mark a sun patch every 5 minutes and nobody touches the window. What do you see?",
       "options": [
-       "The patch moves a little each time",
        "The patch stays exactly where it was",
+       "The patch moves a little each time",
        "The patch jumps to the other side of the room"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The Sun seems to move slowly across the sky, so the sunlight comes in at a new slant. The patch creeps a little way every few minutes. It does not jump."
      },
      "parent": "Let your child give a reason before you explain. Then read the card \"Why the Sun seems to move: the Earth turns\". It says that the Earth, with your home on it, is turning."
@@ -816,11 +816,11 @@
       "t": "mcq",
       "q": "Your shadow is 12 footsteps long in the morning. What is it likely to be at noon?",
       "options": [
-       "About 2 footsteps",
        "About 12 footsteps",
-       "About 25 footsteps"
+       "About 25 footsteps",
+       "About 2 footsteps"
       ],
-      "a": 0,
+      "a": 2,
       "why": "At noon the Sun is high, so the light comes from above and the shadow is short. A shadow of 12 or 25 footsteps would need a low Sun."
      }
     }
@@ -1148,11 +1148,11 @@
       "t": "mcq",
       "q": "At 9 in the morning, washing is put in a sunny corner of the terrace. At 3 in the afternoon, the corner is in shade. Why?",
       "options": [
-       "The Sun has moved across the sky, so the shadows have moved",
        "The washing made the shade",
+       "The Sun has moved across the sky, so the shadows have moved",
        "The terrace moved away from the building"
       ],
-      "a": 0,
+      "a": 1,
       "why": "As the Sun seems to move from east to west, the shadows of walls and tanks swing round. A corner that was sunny in the morning can be in shade by the afternoon."
      }
     }
@@ -1234,11 +1234,11 @@
       "t": "mcq",
       "q": "You hold your paper Sun low, near the West sign. What time of day are you showing?",
       "options": [
-       "Evening",
        "Morning",
-       "Noon"
+       "Noon",
+       "Evening"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun sets in the west. Low near the West sign means it is evening, close to sunset."
      }
     }
@@ -1324,11 +1324,11 @@
       "t": "mcq",
       "q": "A floor clock worked on Monday and again on Tuesday. Why can a sun patch tell the time?",
       "options": [
-       "The Sun seems to move across the sky the same way every day",
        "The patch moves only when someone walks past",
-       "The floor moves at night"
+       "The floor moves at night",
+       "The Sun seems to move across the sky the same way every day"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Earth turns at the same speed every day, so the Sun seems to take the same path. The patch reaches each mark at nearly the same time each day."
      },
      "parent": "Over a few weeks, the patch drifts a little, because the Sun's path changes with the seasons. Over two days, the floor clock is usually right to within a few minutes."
@@ -1443,11 +1443,11 @@
    "t": "mcq",
    "p": "On which side of the sky does the Sun set?",
    "opts": [
-    "West",
     "East",
+    "West",
     "Straight overhead"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The Sun sets in the west every evening. It rises in the east, on the opposite side.",
    "outcome": 0
   },
@@ -1467,11 +1467,11 @@
    "t": "mcq",
    "p": "Why does the Sun seem to move across the sky?",
    "opts": [
-    "The Earth turns once a day",
     "The Sun runs round the Earth",
-    "The clouds push the Sun along"
+    "The clouds push the Sun along",
+    "The Earth turns once a day"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Earth rotates, carrying us with it. From the ground, that makes the Sun seem to move. The Sun is not going round us.",
    "outcome": 1
   },
@@ -1491,11 +1491,11 @@
    "t": "mcq",
    "p": "At what time of day is your shadow shortest?",
    "opts": [
-    "Around noon",
     "At 8 in the morning",
+    "Around noon",
     "At 5 in the evening"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Around noon the Sun is high, so its light comes from above and your body blocks only a small patch near your feet.",
    "outcome": 2
   },
@@ -1503,11 +1503,11 @@
    "t": "mcq",
    "p": "Why is your shadow long in the early morning?",
    "opts": [
-    "The Sun is low, so its light comes in sideways",
     "You are taller in the morning",
+    "The Sun is low, so its light comes in sideways",
     "The Sun is closer in the morning"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A low Sun shines sideways, so your body blocks the light over a long stretch of ground.",
    "outcome": 2,
    "how": "e2"
@@ -1516,11 +1516,11 @@
    "t": "mcq",
    "p": "In the morning, the Sun is in the east. Which way do shadows point?",
    "opts": [
-    "West",
     "East",
-    "Up"
+    "Up",
+    "West"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shadow falls on the side away from the light. With the Sun in the east, shadows point west.",
    "outcome": 3
   },
@@ -1528,11 +1528,11 @@
    "t": "mcq",
    "p": "Your shadow is in front of you as you walk. Where is the Sun?",
    "opts": [
-    "Behind you",
     "In front of you",
-    "Under your feet"
+    "Under your feet",
+    "Behind you"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shadow points away from the Sun. If your shadow is in front, the Sun must be behind you.",
    "outcome": 3
   },
@@ -1540,11 +1540,11 @@
    "t": "mcq",
    "p": "You mark the corner of a sun patch every 5 minutes. Each mark is further from the first one. What does this show?",
    "opts": [
-    "The sun patch moves slowly and steadily",
     "The sun patch stays still",
-    "The sun patch moves only when you look away"
+    "The sun patch moves only when you look away",
+    "The sun patch moves slowly and steadily"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The marks show that the patch creeps a little way every few minutes, because the Sun seems to move across the sky.",
    "outcome": 4,
    "how": "e1"
@@ -1553,11 +1553,11 @@
    "t": "mcq",
    "p": "What is the safe way to find where the Sun is?",
    "opts": [
-    "Look at a shadow. The Sun is on the opposite side",
     "Look at the Sun for just a second",
+    "Look at a shadow. The Sun is on the opposite side",
     "Look at the Sun through sunglasses"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Looking at the Sun, even briefly or with sunglasses, can hurt the back of your eyes. A shadow tells you where the Sun is without any danger.",
    "outcome": 5
   },
@@ -1724,11 +1724,11 @@
      "t": "mcq",
      "p": "Your shadow points west and is very long. Is it morning or evening?",
      "opts": [
-      "Morning",
       "Evening",
-      "Noon"
+      "Noon",
+      "Morning"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A shadow points away from the Sun. Pointing west means the Sun is in the east, low down. A low Sun in the east means morning."
     },
     {
@@ -1874,11 +1874,11 @@
      "t": "mcq",
      "p": "In Bengaluru, on a day in late April, a girl stands in the sun at noon. Her shadow hides right under her feet. Why?",
      "opts": [
-      "The Sun is straight overhead",
       "The Sun has gone behind a cloud",
+      "The Sun is straight overhead",
       "Shadows stop working in April"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On Zero Shadow Day, the noon Sun is straight overhead. The light falls straight down, so the shadow is right under her."
     },
     {

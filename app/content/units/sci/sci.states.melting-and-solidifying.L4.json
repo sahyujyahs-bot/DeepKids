@@ -739,11 +739,11 @@
       "t": "mcq",
       "q": "Why did the Salt bowl get colder?",
       "options": [
-       "Salt is a cold substance",
        "Melting takes in heat from the bowl and the ice",
+       "Salt is a cold substance",
        "The salt blocked the warm air"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Melting always takes in heat. Nobody was heating the bowl, so the heat came from the ice, the salty water and the bowl, and they got colder. Salt from the shelf is at room temperature. It is not cold."
      },
      "parent": "Read the card 'Why salt melts ice, and makes it colder' only after your child has written the three lines."
@@ -916,11 +916,11 @@
       "t": "mcq",
       "q": "When will tumbler A start to warm up?",
       "options": [
-       "When the last ice has melted",
        "After exactly 15 minutes",
+       "When the last ice has melted",
        "When the room gets warmer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "While any ice is left, the heat coming in is used for melting. Only when the ice has gone can the heat make the water warmer. It depends on the ice, not on the clock or the room."
      }
     }
@@ -1689,10 +1689,10 @@
      "p": "Butter on a hot dosa turns runny. Which change is this?",
      "opts": [
       "Dissolving",
-      "Melting",
-      "Evaporating"
+      "Evaporating",
+      "Melting"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Melting. One substance, butter, turns into its own liquid because of heat. Dissolving would need a second substance, a liquid for the butter to spread into.",
      "outcome": 0
     },
@@ -1700,11 +1700,11 @@
      "t": "mcq",
      "p": "Coconut oil melts at about 24 degrees. The kitchen is at 19 degrees. What is the oil?",
      "opts": [
-      "A solid",
       "A liquid",
-      "A gas"
+      "A gas",
+      "A solid"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A solid. 19 is below 24, so the oil is colder than its melting point. If you chose liquid, compare the two numbers again: below the melting point means solid.",
      "outcome": 2
     },
@@ -1712,11 +1712,11 @@
      "t": "mcq",
      "p": "Melted candle wax drips on a table and turns hard. Where did its heat go?",
      "opts": [
-      "Into the table and the air",
       "It was used up and is gone",
+      "Into the table and the air",
       "Deeper into the wax"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A liquid gives out heat as it solidifies, and the heat goes into whatever it touches. Heat is not used up. You can feel the table warm under a fresh wax drop.",
      "outcome": 0
     },
@@ -1724,11 +1724,11 @@
      "t": "mcq",
      "p": "Iron melts at 1,538 degrees and wax at about 60. Which has stronger pulls between its particles?",
      "opts": [
-      "Iron",
       "Wax",
-      "They are the same"
+      "They are the same",
+      "Iron"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Iron. Stronger pulls hold the particles in place more firmly, so the solid must be much hotter before they break free.",
      "outcome": 1
     },
@@ -1736,11 +1736,11 @@
      "t": "mcq",
      "p": "Sugar stirred into cold water seems to vanish. Which change is this?",
      "opts": [
-      "Melting",
       "Dissolving",
+      "Melting",
       "Freezing"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Dissolving. There are two substances, and the water is far colder than the temperature at which sugar turns liquid. If you chose melting, count the substances.",
      "outcome": 0
     },
@@ -1901,11 +1901,11 @@
      "t": "mcq",
      "p": "Ice and water are stirred in a tumbler in a warm room. What does a thermometer show while ice is left?",
      "opts": [
-      "About 0 degrees the whole time",
       "A slow, steady rise",
-      "The same as the room"
+      "The same as the room",
+      "About 0 degrees the whole time"
      ],
-     "a": 0,
+     "a": 2,
      "why": "About 0. The heat coming in is used to melt the ice, so the temperature holds at the melting point. A steady rise begins only when the ice has gone.",
      "outcome": 3
     },
@@ -1925,11 +1925,11 @@
      "t": "mcq",
      "p": "Why does a bowl of salted ice get colder than a bowl of plain ice?",
      "opts": [
-      "Salt is cold when it leaves the shelf",
       "The extra melting takes heat from the ice and bowl",
+      "Salt is cold when it leaves the shelf",
       "Salt keeps the room's heat out"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Salt makes more ice melt, and melting takes in heat. With no one heating the bowl, the heat comes from the ice, the bowl and the salty water. Salt on the shelf is at room temperature.",
      "outcome": 4
     },
@@ -1938,10 +1938,10 @@
      "p": "A spoon of sugar melts less ice than a spoon of salt. What is the main reason?",
      "opts": [
       "Sugar is sweet",
-      "A spoon of sugar has far fewer particles",
-      "Sugar is colder than salt"
+      "Sugar is colder than salt",
+      "A spoon of sugar has far fewer particles"
      ],
-     "a": 1,
+     "a": 2,
      "why": "What matters most is how many dissolved particles get in the way at the surface of the ice. Sugar particles are big, so a spoonful holds about ten times fewer.",
      "outcome": 4
     },
@@ -1949,11 +1949,11 @@
      "t": "mcq",
      "p": "Ghee melts bit by bit and not at one temperature. Why?",
      "opts": [
-      "It is a mixture of many fats",
       "It has been kept too long",
-      "Its particles are very large"
+      "Its particles are very large",
+      "It is a mixture of many fats"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Each fat in ghee has its own melting point. The low ones melt first and the high ones last, so ghee softens over a stretch of temperatures.",
      "outcome": 2
     },
@@ -2126,11 +2126,11 @@
      "t": "mcq",
      "p": "Supercooled water flash-freezes into slush, not a hard block. Why?",
      "opts": [
-      "Freezing gives out heat, which warms it back to 0",
       "The bottle is too small",
-      "Slush is a different substance"
+      "Slush is a different substance",
+      "Freezing gives out heat, which warms it back to 0"
      ],
-     "a": 0,
+     "a": 2,
      "why": "As ice forms it gives out hidden heat. This warms the water back up to 0 degrees, and then no more can freeze until the freezer takes that heat away.",
      "outcome": 3
     },
@@ -2138,11 +2138,11 @@
      "t": "mcq",
      "p": "The Earth's inner core is solid iron at more than 5,000 degrees. What keeps it solid?",
      "opts": [
-      "Huge pressure",
       "Its great age",
+      "Huge pressure",
       "Ice mixed into it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Pressure raises the melting point of iron. At the centre of the Earth the pressure is millions of times that of the air, so iron stays solid far above 1,538 degrees.",
      "outcome": 6
     },
@@ -2150,11 +2150,11 @@
      "t": "mcq",
      "p": "A tiny speck of gold melts at a lower temperature than a gold bangle. Why?",
      "opts": [
-      "Most of its particles are at the surface",
       "Small things are always warmer",
+      "Most of its particles are at the surface",
       "The speck is not real gold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Particles at a surface have fewer neighbours holding them, so they break free more easily. In a tiny speck, most particles are at the surface.",
      "outcome": 1
     },
@@ -2162,11 +2162,11 @@
      "t": "mcq",
      "p": "You want to mark 0 degrees on a new thermometer. Which would you trust more?",
      "opts": [
-      "Stirred, melting ice",
       "Still water in a freezer, as it freezes",
-      "Either, they always agree"
+      "Either, they always agree",
+      "Stirred, melting ice"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Melting ice always holds 0 degrees. Still water can go below 0 before it freezes, so the moment of freezing is not a dependable mark.",
      "outcome": 6
     },
@@ -2353,11 +2353,11 @@
    "t": "mcq",
    "p": "Melted bronze cools from 1,100 degrees to 900 and turns solid. What is this change called?",
    "opts": [
-    "Freezing, or solidifying",
     "Melting",
-    "Burning"
+    "Burning",
+    "Freezing, or solidifying"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A liquid turning solid is freezing, at any temperature. If you chose melting, think about which way the change went: from liquid to solid.",
    "outcome": 0
   },
@@ -2377,11 +2377,11 @@
    "t": "mcq",
    "p": "Pure water is heated in a pan at sea level. At what temperature does it boil and turn into steam?",
    "opts": [
-    "About 100 degrees Celsius",
     "About 0 degrees Celsius",
+    "About 100 degrees Celsius",
     "About 60 degrees Celsius"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At sea level, pure water boils at 100 degrees Celsius. 0 degrees is where it freezes and melts, not where it boils. About 60 is where candle wax melts, not water.",
    "outcome": 0
   },
@@ -2389,11 +2389,11 @@
    "t": "mcq",
    "p": "What do the particles of a solid do at its melting point?",
    "opts": [
-    "Break out of their places and slide past each other",
     "Stop moving",
-    "Split into smaller particles"
+    "Split into smaller particles",
+    "Break out of their places and slide past each other"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The particles shake hard enough to break out of their places. They never stop moving, and they do not split. They are the same particles in the liquid.",
    "outcome": 1
   },
@@ -2432,11 +2432,11 @@
    "t": "mcq",
    "p": "A tumbler of ice and water stands in the sun. Half the ice has gone. How warm is the water, if stirred?",
    "opts": [
-    "About 0 degrees",
     "About 15 degrees",
-    "As warm as the air"
+    "As warm as the air",
+    "About 0 degrees"
    ],
-   "a": 0,
+   "a": 2,
    "why": "While any ice is left, the heat from the sun goes into melting it. The stirred water stays at about 0 degrees.",
    "outcome": 3
   },
@@ -2444,11 +2444,11 @@
    "t": "mcq",
    "p": "You stir salt into a bowl of ice. What happens?",
    "opts": [
-    "It melts faster and gets colder",
     "It melts faster and gets warmer",
-    "It melts more slowly and gets colder"
+    "It melts more slowly and gets colder",
+    "It melts faster and gets colder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Salt tips the balance towards melting, and melting takes in heat from the ice and the bowl. If you chose warmer, remember that salt gives no heat.",
    "outcome": 4
   },
@@ -2456,11 +2456,11 @@
    "t": "mcq",
    "p": "Why does a kulfi seller mix salt into the ice around the kulfi?",
    "opts": [
-    "To make the ice mix colder than 0 degrees",
     "To make the kulfi salty",
-    "To stop the ice from melting"
+    "To stop the ice from melting",
+    "To make the ice mix colder than 0 degrees"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Sweet milk freezes below 0 degrees, and plain ice is only at 0. Ice with salt can reach minus 15, which is cold enough. The salt makes the ice melt faster, not slower.",
    "outcome": 4
   },
@@ -2468,11 +2468,11 @@
    "t": "mcq",
    "p": "A goldsmith melts a ring and casts a coin from it. What is the same before and after?",
    "opts": [
-    "The substance and its weight",
     "The shape",
+    "The substance and its weight",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Melting and solidifying are reversible. The gold and its weight are unchanged. The shape is new, because the liquid took the shape of the mould.",
    "outcome": 5
   },
@@ -2480,11 +2480,11 @@
    "t": "mcq",
    "p": "Which sentence about window glass is true?",
    "opts": [
-    "It softens slowly, with no exact melting point",
     "It melts at one exact temperature",
-    "It has flowed down in old windows"
+    "It has flowed down in old windows",
+    "It softens slowly, with no exact melting point"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The particles of glass are jumbled, so it softens over a stretch of temperatures. Careful sums show old panes have not flowed. They were made uneven.",
    "outcome": 6
   },
@@ -2499,11 +2499,11 @@
    "t": "mcq",
    "p": "In a fair test of salt on ice, what is the only thing that should change?",
    "opts": [
-    "What is sprinkled on the ice",
     "The size of the bowls",
-    "The number of ice cubes"
+    "The number of ice cubes",
+    "What is sprinkled on the ice"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If the bowls or the number of cubes changed too, you could not tell what caused the difference. Change one thing and keep the rest the same.",
    "outcome": 7
   },

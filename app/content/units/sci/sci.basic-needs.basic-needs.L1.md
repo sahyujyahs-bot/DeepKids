@@ -421,7 +421,7 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
 3. (sort) Circle the needs we take inside our body. Put a box round the needs that stay outside and keep us safe.  
    **Answer:** Air → Inside our body; Water → Inside our body; Food → Inside our body; Clothes → Outside, keeps us safe; A home → Outside, keeps us safe. *Why:* We breathe in air, drink water and eat food. Clothes and a home stay outside us and protect us.
 4. (mcq) You hold a tissue flag in front of a fan and it flaps. What is moving it?  
-   Options: Moving air / The floor / The light  
+   Options: The floor / Moving air / The light  
    **Answer:** Moving air. *Why:* Wind is moving air. We cannot see air, but we can see the flag it moves.
 5. (draw) Draw the fan and the tissue flag. Draw lines to show the moving air.  
    **Answer:** The flag points away from the fan, with lines of air between them.. *Why:* A strong drawing shows the flag blown away from the fan by the moving air.
@@ -445,7 +445,7 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
 1. (perspective) Two friends in Kolkata, Rumi and Joyita, are building a tent on a windy terrace.  
    **Answer:** Joyita will have a calmer tent, because the closed back faces the wind. But Rumi is right that a home needs fresh air. A tent with its door away from the wind still gets fresh air through the door.. *Why:* A strong answer uses the wind box test and is fair to Rumi: fresh air is a need too.
 2. (mcq) A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?  
-   Options: The side the wind comes from / The side away from the wind / The middle of the field  
+   Options: The side away from the wind / The middle of the field / The side the wind comes from  
    **Answer:** The side the wind comes from. *Why:* The trees are a wall. The wind goes around them, and the crops behind them get calm air.
 3. (write) In the wind box test, why did the flag hang still when the box's closed wall faced the fan? Say your answer to a grown-up, who writes it down.  
    **Answer:** The wind hit the closed wall and went around the box. So the air inside stayed calm.. *Why:* A strong answer says the wind went around the wall, not through it.
@@ -474,34 +474,34 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
    Options: Water / A toy car / A phone  
    **Answer:** Water. *Why:* Water is a basic need. A toy car and a phone are nice to have, but we can live without them.
 2. (mcq) A newborn baby drinks only milk. What does the milk give the baby?  
-   Options: Food and water / Clothes and a home / Only air  
+   Options: Clothes and a home / Only air / Food and water  
    **Answer:** Food and water. *Why:* Milk is the baby's food, and it gives the baby water too.
 3. (mcq) Why do we drink water every day, and not just once?  
-   Options: Water leaves our body when we wee, sweat and breathe out / Water makes us tall / Water is only for washing  
+   Options: Water makes us tall / Water leaves our body when we wee, sweat and breathe out / Water is only for washing  
    **Answer:** Water leaves our body when we wee, sweat and breathe out. *Why:* Our body keeps losing water, so we must keep putting it back.
 4. (mcq) What does a roof keep off us?  
-   Options: Rain and hot sun / Air / Food  
+   Options: Air / Rain and hot sun / Food  
    **Answer:** Rain and hot sun. *Why:* A roof keeps off the rain and the hot sun. Walls keep off the wind.
 5. (mcq) In which room of a home is food cooked?  
    Options: The kitchen / The bedroom / The bathroom  
    **Answer:** The kitchen. *Why:* Food is cooked in the kitchen. We sleep in the bedroom and wash in the bathroom, so each room has its own work.
 6. (mcq) You get lost in a crowded market. What should you do?  
-   Options: Go to a shopkeeper and say your name and your parent's phone number / Go with a friendly person you have never met / Keep running through the crowd to find your family  
+   Options: Go with a friendly person you have never met / Keep running through the crowd to find your family / Go to a shopkeeper and say your name and your parent's phone number  
    **Answer:** Go to a shopkeeper and say your name and your parent's phone number. *Why:* A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.
 7. (mcq) Why do we wear a raincoat and chappals on a wet day?  
    Options: The raincoat keeps our body dry and the chappals protect our feet / They help us to breathe / They give us water to drink  
    **Answer:** The raincoat keeps our body dry and the chappals protect our feet. *Why:* Clothes protect the body. A raincoat keeps rain off, and chappals protect our feet. They do not give us air or water.
 8. (mcq) In the wind box test, which way should the open door of the box face to keep the tissue flag still?  
-   Options: Towards the fan / Away from the fan / It does not matter  
+   Options: Away from the fan / Towards the fan / It does not matter  
    **Answer:** Away from the fan. *Why:* With the door away from the fan, the closed wall faced the wind. The air went around the box, so the flag hung still.
 9. (mcq) In the wind box test, a tunnel was open at both ends. What did the tissue flag do inside it?  
    Options: It flapped, because the wind blew straight through / It hung still, because it had a roof / It fell over  
    **Answer:** It flapped, because the wind blew straight through. *Why:* A roof alone does not stop the wind. The wind blew in at one end and out of the other.
 10. (mcq) Which of these is a shelter for a pigeon?  
-   Options: A nest on a ledge under a roof / A puddle on the road / A plate of rice  
+   Options: A puddle on the road / A nest on a ledge under a roof / A plate of rice  
    **Answer:** A nest on a ledge under a roof. *Why:* A nest under a roof keeps a pigeon safe from rain and wind. It is the pigeon's home.
 11. (mcq) Which is true?  
-   Options: Humans are animals, and we need air, water and food like other animals / Only people need water / Plants need nothing  
+   Options: Only people need water / Plants need nothing / Humans are animals, and we need air, water and food like other animals  
    **Answer:** Humans are animals, and we need air, water and food like other animals. *Why:* Humans are animals. Crows, cats, ants and people all need air, water and food. Plants need air, water and light.
 12. (mcq) In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?  
    Options: Far fewer people will get ill / More people will get ill / Nothing will change  

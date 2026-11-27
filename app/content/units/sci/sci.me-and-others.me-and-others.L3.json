@@ -471,11 +471,11 @@
       "t": "mcq",
       "q": "Your card says 'a baby of one year'. Someone asks 'What do big people look like to you?' Which answer is from the baby's point of view?",
       "options": [
-       "Like giants, and I mostly see their knees",
        "Like friends who help with my homework",
-       "Like players in my cricket team"
+       "Like players in my cricket team",
+       "Like giants, and I mostly see their knees"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A baby of one is very small and sees grown-ups from below. A baby does not do homework or play cricket. If you chose one of those, you answered as yourself, not as the baby."
      }
     },
@@ -747,10 +747,10 @@
       "q": "A person closes the left eye and the clock stays in the hole. Then the person closes the right eye and the clock jumps away. Which is the dominant eye?",
       "options": [
        "The left eye",
-       "The right eye",
-       "Neither eye"
+       "Neither eye",
+       "The right eye"
       ],
-      "a": 1,
+      "a": 2,
       "why": "With only the right eye open, the clock stayed in the hole, so the person lined it up with the right eye. If you chose the left eye, look again at which eye was open when the clock stayed."
      }
     },
@@ -926,11 +926,11 @@
       "t": "mcq",
       "q": "Someone puts buttons in a sweet box. A friend has not seen inside. What will the friend say is in the box?",
       "options": [
-       "Buttons, because that is what is inside",
        "Sweets, because the box looks like a sweet box",
+       "Buttons, because that is what is inside",
        "The friend won't say anything"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The friend can only go by what they have seen, and they have seen a sweet box. Their belief is false, but it makes sense. If you chose buttons, remember that the friend never saw the buttons go in."
      }
     }
@@ -1376,11 +1376,11 @@
    "t": "mcq",
    "p": "You sit on one side of a table. A tall tumbler hides a lime from you. Can a person sitting on the other side see the lime?",
    "opts": [
-    "Yes, if nothing is between them and the lime",
     "No, because you can't see it",
-    "Only if you point at it"
+    "Only if you point at it",
+    "Yes, if nothing is between them and the lime"
    ],
-   "a": 0,
+   "a": 2,
    "why": "What one person can see depends on where they sit. The tumbler blocks your view, not the view of the person on the other side. Picking 'No, because you can't see it' means thinking everyone sees what you see.",
    "outcome": 0,
    "how": "e1"
@@ -1390,10 +1390,10 @@
    "p": "You face someone across a table. The banana is on your left. Where is it for the person facing you?",
    "opts": [
     "On their left",
-    "On their right",
-    "In front of them"
+    "In front of them",
+    "On their right"
    ],
-   "a": 1,
+   "a": 2,
    "why": "When two people face each other, left and right swap. If you chose 'on their left', stand face to face with someone and both point to one thing.",
    "outcome": 0,
    "how": "e1"
@@ -1426,11 +1426,11 @@
    "t": "mcq",
    "p": "In the Dominant Eye Test, what does 'dominant eye' mean?",
    "opts": [
-    "The stronger eye, which sees more clearly",
     "The eye your brain uses first to aim and line things up",
+    "The stronger eye, which sees more clearly",
     "The eye on the same side as your writing hand"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The dominant eye is the one the brain uses first for aiming. It is not always the clearer eye, and it is not always on the side of the writing hand.",
    "outcome": 2,
    "how": "e2"
@@ -1439,11 +1439,11 @@
    "t": "mcq",
    "p": "About how many people in 10 write with their left hand?",
    "opts": [
-    "About 1",
     "About 5",
+    "About 1",
     "About 9"
    ],
-   "a": 0,
+   "a": 1,
    "why": "About 1 person in 10 is left-handed. So in a class of 30 you might find about 3 left-handed children.",
    "outcome": 2
   },
@@ -1463,11 +1463,11 @@
    "t": "mcq",
    "p": "A test asks small children to pick a photo of what a doll sees across a model of three mountains. Many get it wrong. What is the best conclusion?",
    "opts": [
-    "The children cannot ever picture what another person sees",
     "The test may be strange and hard, so it may not show what they can really do",
+    "The children cannot ever picture what another person sees",
     "Children see more than grown-ups"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A strange task can hide what a child understands. When children play a hiding game that makes sense to them, most three- and four-year-olds can picture what someone else sees.",
    "outcome": 3
   },
@@ -1476,10 +1476,10 @@
    "p": "A four-year-old plays a game: hide a toy boy behind toy walls so that two toy watchmen cannot see him. If the child can picture what each watchman sees, what will they do?",
    "opts": [
     "Hide the boy where the watchmen can see him",
-    "Hide the boy where neither watchman can see him",
-    "Refuse to play"
+    "Refuse to play",
+    "Hide the boy where neither watchman can see him"
    ],
-   "a": 1,
+   "a": 2,
    "why": "To hide well, you must picture what each watchman can see from where he stands. In real tests, about 9 children in 10 of this age did it, because the game made sense to them.",
    "outcome": 3,
    "how": "a1"
@@ -1488,11 +1488,11 @@
    "t": "mcq",
    "p": "A child retells the Panchatantra story of the monkey and the crocodile as the crocodile would tell it. What changes?",
    "opts": [
-    "The events of the story",
     "What the teller saw, knew and wanted",
+    "The events of the story",
     "The ending"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The same things happen, but each teller notices and explains them from their own place. If you chose 'the ending', remember the monkey still escapes.",
    "outcome": 4,
    "how": "a4"
@@ -1501,11 +1501,11 @@
    "t": "mcq",
    "p": "Three children of different ages share one swing. What makes a turns plan fair?",
    "opts": [
-    "The oldest always decides",
     "Each child can see why it is fair from their own point of view",
+    "The oldest always decides",
     "Whoever runs fastest goes first"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A plan is fair when each person can see why it is fair from where they stand. 'The oldest decides' works for the oldest only.",
    "outcome": 5,
    "how": "c2"
@@ -1514,11 +1514,11 @@
    "t": "mcq",
    "p": "A family makes a drink, but each person holds a card with only one step of the recipe. Why does everyone have to take part?",
    "opts": [
-    "Each card holds a different part of the recipe",
     "The cards are all the same",
-    "Only the grown-up's card matters"
+    "Only the grown-up's card matters",
+    "Each card holds a different part of the recipe"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each person holds one part, so the drink can only be made together. This is the idea of the jigsaw classroom: when everyone's part is needed, everyone matters.",
    "outcome": 5,
    "how": "a3"
@@ -1642,10 +1642,10 @@
      "p": "Two books stand in a cross on the table, making four corners. A toy watchman stands at the end of one book. How many corners can the watchman see?",
      "opts": [
       "One",
-      "Two",
-      "All four"
+      "All four",
+      "Two"
      ],
-     "a": 1,
+     "a": 2,
      "why": "From the end of one book, the watchman can look along both sides of it, into two corners. The other book hides the other two corners.",
      "how": "a1"
     },
@@ -1711,10 +1711,10 @@
      "p": "A psychologist gave each child in a group one part of a lesson, so they needed each other. What did his studies find?",
      "opts": [
       "The children fought more",
-      "The children came to like each other more",
-      "Nothing changed"
+      "Nothing changed",
+      "The children came to like each other more"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Elliot Aronson's jigsaw classroom studies found children in these groups came to like each other more. Scientists still argue about when working together helps most."
     },
     {
@@ -1789,11 +1789,11 @@
      "t": "mcq",
      "p": "A three-year-old sees the biscuit box opened to show pencils. Many three-year-olds then say something surprising. What?",
      "opts": [
-      "That they knew it held pencils all along",
       "That it holds biscuits",
+      "That they knew it held pencils all along",
       "That it is empty"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Many children of three say they thought 'pencils' from the start, and that the next person will say 'pencils' too. They find it hard to hold what they used to believe apart from what they now know.",
      "how": "a2"
     },
@@ -1809,10 +1809,10 @@
      "p": "In the Dominant Eye Test, a grandmother's eye changed from try to try. What is the best thing to write?",
      "opts": [
       "Right, because most people are right-eyed",
-      "Not clear, and test again another day",
-      "Left, because her first try was left"
+      "Left, because her first try was left",
+      "Not clear, and test again another day"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Some people do not have a clear dominant eye. A scientist writes what they really found, not what is usual.",
      "how": "e2"
     },
@@ -1840,10 +1840,10 @@
      "p": "Scientists put out two pieces of food for two chimpanzees. A screen hid one piece from the high-ranking chimp. Which piece did the low-ranking chimp mostly take?",
      "opts": [
       "The piece the high-ranking chimp could see",
-      "The piece hidden from the high-ranking chimp",
-      "Neither piece"
+      "Neither piece",
+      "The piece hidden from the high-ranking chimp"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The low-ranking chimp mostly took the hidden piece. Many scientists think this shows the chimp knew what the other could see. Others think a simple rule could explain it."
     },
     {
@@ -1885,10 +1885,10 @@
      "p": "In the story 'The Monster Under Meenu's Cot', Meenu lay on the floor and her chappals looked as big as boats. What does this show?",
      "opts": [
       "The chappals really grew",
-      "How big something looks depends on where you look from",
-      "Meenu was dreaming"
+      "Meenu was dreaming",
+      "How big something looks depends on where you look from"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The chappals did not change. From the floor you are small and close to them, so they look huge. If you chose 'dreaming', remember that Kombu saw the same from the floor."
     }
    ]
@@ -1951,11 +1951,11 @@
      "t": "mcq",
      "p": "In many countries about 1 boy in 12 has red-green colour blindness, but only about 1 girl in 200. In a school of 600 boys and 600 girls, about how many would you expect to be colour blind?",
      "opts": [
-      "About 53",
       "About 6",
+      "About 53",
       "About 600"
      ],
-     "a": 0,
+     "a": 1,
      "why": "600 divided by 12 is 50 boys. 600 divided by 200 is 3 girls. 50 + 3 = 53. The real number in any one school may be different."
     },
     {

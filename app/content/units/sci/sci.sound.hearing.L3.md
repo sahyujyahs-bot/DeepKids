@@ -550,14 +550,14 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 6. (fill) How high or low a sound is, is called its ____.  
    **Answer:** ['pitch']. *Why:* Pitch depends on how fast something vibrates. Faster vibration makes a higher pitch.
 7. (mcq) Which of these can harm hearing for ever?  
-   Options: Whispering to a friend / Listening to earphones at full volume for hours every day / Hearing birds in the morning / Talking on the phone  
+   Options: Whispering to a friend / Hearing birds in the morning / Talking on the phone / Listening to earphones at full volume for hours every day  
    **Answer:** Listening to earphones at full volume for hours every day. *Why:* Loud sound for a long time breaks hair cells in the cochlea, and in people they never grow back. Earphones put the loud sound right at the ear.
 8. (draw) Draw the ear from the side, cut open, and label the ear flap, ear canal, eardrum, three tiny bones and cochlea.  
    **Answer:** A drawing with the ear flap outside, a tube going in, a thin skin at its end, three small bones behind it and a snail-shaped coil.. *Why:* A strong drawing puts the parts in the right order and shows the cochlea as a coil.
 9. (sort) Sort these habits: good for ears, or harmful for ears?  
    **Answer:** standing far back from crackers → Good for ears; pushing a hairpin into the ear → Harmful for ears; turning earphones down → Good for ears; sitting next to a loudspeaker at a wedding → Harmful for ears; wiping only the outside of the ear → Good for ears; putting a cotton bud deep in the ear → Harmful for ears. *Why:* Distance, low volume and leaving the canal alone protect hearing. Pushing things in and staying close to loud sounds harm it.
 10. (mcq) A bat sends out a call and listens for the sound that bounces back off a moth. What is this called?  
-   Options: Echolocation / Bone conduction / Infrasound / A hearing test  
+   Options: Bone conduction / Infrasound / A hearing test / Echolocation  
    **Answer:** Echolocation. *Why:* Echolocation means finding things with echoes. The bat's calls are ultrasound. An echo is a sound that bounces off something and comes back.
 11. (write) Your hum got louder when you pressed your ear flaps shut. How did the sound reach your cochlea?  
    **Answer:** Through the bones of my head. My voice made my bones vibrate, and they carried the vibration to the cochlea. With the ear shut, less of the hum escaped.. *Why:* A strong answer names bone conduction, or says the bones carried the vibration.
@@ -574,7 +574,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** ['ultrasound']. *Why:* Ultra means beyond. Ultrasound is above about 20,000 hertz. Bats, dogs, cats and mice hear it.
 ### Sound Detective (stretch) (stretch, 17 questions)
 1. (mcq) Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?  
-   Options: Cupped hands / Towel / Ear flaps pressed shut / They all blocked the same  
+   Options: Cupped hands / Ear flaps pressed shut / Towel / They all blocked the same  
    **Answer:** Ear flaps pressed shut. *Why:* The flaps needed 8 steps, 6 more than open ears, so they blocked the most. They seal the ear hole, while hands and towels leave gaps.
 2. (write) Why do you think pressing the ear flaps shut blocked more sound than cupping your hands?  
    **Answer:** Pressing the flap closes the ear hole completely. Cupped hands leave gaps between the fingers and round the edges, and sound slips through gaps.. *Why:* A strong answer uses the idea of gaps or sealing.
@@ -593,7 +593,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 9. (perspective) The first child's grandfather keeps the TV very loud. The family argues about what to do.  
    **Answer:** A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives the first child credit for wanting to help quickly.. *Why:* Each person sees part of it. Thatha's own words are the best clue.
 10. (mcq) Why does your recorded voice sound strange to you?  
-   Options: The phone changes your voice / You normally hear yourself through the bones of your head too, which adds low sounds / Your voice is different in the morning / Phones only record high sounds  
+   Options: The phone changes your voice / Your voice is different in the morning / You normally hear yourself through the bones of your head too, which adds low sounds / Phones only record high sounds  
    **Answer:** You normally hear yourself through the bones of your head too, which adds low sounds. *Why:* Other people hear only the air part of your voice. You also hear the bone part, which carries low sounds well. So you sound deeper to yourself than you really do to others.
 11. (draw) Draw the band of pitches, from very low to very high. Show where people hear, and put an elephant, a dog and a bat where they belong.  
    **Answer:** A long strip with people in the middle, the elephant reaching below the people's band, the dog reaching a bit above the people's band, and the bat far above the people's band.. *Why:* A strong drawing shows that people hear only the middle of a much bigger band.
@@ -618,7 +618,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 3. (write) Birds can grow new hair cells but people cannot. If scientists learn how birds do it, how might that help people?  
    **Answer:** It might one day help people with hearing loss grow new hair cells and hear again.. *Why:* A strong answer links the bird finding to people whose hair cells are broken.
 4. (mcq) In the door test, a listener scored the low note 2 with the door open and 2 with it shut. The listener scored the high note 3 with the door open and 1 with it shut. What do these results show?  
-   Options: The door blocked the high note more / The door blocked the low note more / The door blocked nothing / High notes are always quieter  
+   Options: The door blocked the low note more / The door blocked nothing / High notes are always quieter / The door blocked the high note more  
    **Answer:** The door blocked the high note more. *Why:* The low note did not drop at all. The high note dropped by 2. So the door blocked the high note more.
 5. (write) In 1794, Louis Jurine plugged bats' ears with wax and they bumped into walls. Why didn't this prove that bats make sounds?  
    **Answer:** It showed bats need their ears, but nobody could hear any sound from them. They might have been listening to other sounds. It took a machine that picks up ultrasound, in 1938, to show the bats were calling.. *Why:* A strong answer sees that an experiment can show one thing without proving the next.
@@ -634,7 +634,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 10. (sort) Sort these: do they help someone with high-pitch hearing loss understand you?  
    **Answer:** facing them → Helps; shouting → Does not help; turning off the fan → Helps; talking from another room → Does not help; speaking a little slower → Helps; covering your mouth → Does not help. *Why:* Facing the person so they can read your lips, less background noise and slower speech all help. Shouting makes the voice higher and blurrier, and covering your mouth hides your lips.
 11. (mcq) Why do the three tiny bones make the push stronger before it reaches the cochlea?  
-   Options: The cochlea is full of liquid, which is harder to move than air / Bones are louder than skin / The brain needs the sound slower / The cochlea is very far away  
+   Options: Bones are louder than skin / The brain needs the sound slower / The cochlea is very far away / The cochlea is full of liquid, which is harder to move than air  
    **Answer:** The cochlea is full of liquid, which is harder to move than air. *Why:* Liquid is much harder to set moving than air. The bones collect the push from the large eardrum onto the tiny stirrup, making it strong enough to ripple the liquid.
 12. (write) Many moths have ears only for the high pitches that bats use. Why might a moth not need to hear low sounds?  
    **Answer:** The danger in a moth's life is bats, and bats call in high pitches. Hearing that band is what keeps the moth alive.. *Why:* A strong answer links the hearing to the problem in the moth's life.
@@ -653,40 +653,40 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 
 ## Quiz
 1. (mcq) Which part of the ear vibrates first when a sound arrives?  
-   Options: The cochlea / The eardrum / The auditory nerve / The three tiny bones  
+   Options: The cochlea / The auditory nerve / The three tiny bones / The eardrum  
    **Answer:** The eardrum. *Why:* The ear flap and canal collect and lead the sound in, and the eardrum is the first part that vibrates. Then the bones, then the cochlea.
 2. (mcq) Where are the hair cells that turn vibrations into signals?  
    Options: In the ear flap / In the cochlea / On the eardrum / In the ear canal  
    **Answer:** In the cochlea. *Why:* Hair cells line the cochlea, the snail-shaped tube deep inside the head. Picking 'ear canal' mixes up hair cells with the tiny hairs near the ear hole.
 3. (mcq) A phone is turned up one step at a time from across the room. A boy first hears the song at step 3. What is step 3?  
-   Options: The loudest sound he can hear / The quietest sound he can hear from there / The phone's broken step / The song's best part  
+   Options: The quietest sound he can hear from there / The loudest sound he can hear / The phone's broken step / The song's best part  
    **Answer:** The quietest sound he can hear from there. *Why:* Below step 3 the phone was playing, but too softly for him to catch. Step 3 is his quietest sound at that distance.
 4. (mcq) In a fair test of ear covers, what must change?  
-   Options: Only the ear cover / The phone and the song / The distance each time / The listener each time  
+   Options: The phone and the song / The distance each time / Only the ear cover / The listener each time  
    **Answer:** Only the ear cover. *Why:* In a fair test, only one thing changes. If the phone or distance changed too, you couldn't tell what caused the difference.
 5. (mcq) Why can loud sound cause hearing loss that never gets better?  
-   Options: It makes the ear canal smaller / It breaks hair cells, and in people they do not grow back / It melts earwax / It makes the ear flap stiff  
+   Options: It breaks hair cells, and in people they do not grow back / It makes the ear canal smaller / It melts earwax / It makes the ear flap stiff  
    **Answer:** It breaks hair cells, and in people they do not grow back. *Why:* Hair cells bend and break under loud sound. Birds can grow new ones, but people cannot, so the loss stays.
 6. (mcq) You have to shout to be heard by a friend who is an arm's length away. What does that tell you?  
-   Options: Your friend is not listening / The place is loud enough to harm hearing over time / You should talk faster / Nothing, shouting is normal  
+   Options: The place is loud enough to harm hearing over time / Your friend is not listening / You should talk faster / Nothing, shouting is normal  
    **Answer:** The place is loud enough to harm hearing over time. *Why:* This is the arm's-length test. If you must shout at an arm's length, the sound is loud enough to harm hearing if you stay long.
 7. (mcq) What is the safest way to look after earwax?  
-   Options: Clean it out with a cotton bud every day / Leave it, and wipe only the outside of the ear / Use a hairpin / Pour oil in every week  
+   Options: Clean it out with a cotton bud every day / Use a hairpin / Pour oil in every week / Leave it, and wipe only the outside of the ear  
    **Answer:** Leave it, and wipe only the outside of the ear. *Why:* Earwax traps dust and moves out by itself. Pushing anything in can push wax deeper or harm the eardrum.
 8. (mcq) Why do many moths have ears that hear bat calls?  
-   Options: To sing with the bats / To hear a hunting bat and dive away / To find flowers / Moths have no ears  
+   Options: To sing with the bats / To find flowers / Moths have no ears / To hear a hunting bat and dive away  
    **Answer:** To hear a hunting bat and dive away. *Why:* Bats hunt moths at night with ultrasound calls. A moth who hears the calls can dive or zigzag and escape.
 9. (mcq) Which animal hears sounds too low for people?  
-   Options: A bat / A mouse / An elephant / A moth  
+   Options: An elephant / A bat / A mouse / A moth  
    **Answer:** An elephant. *Why:* Elephants hear infrasound, which is too low for us. Their low rumbles help herd members keep in touch over long distances.
 10. (mcq) A drum skin vibrates slowly. A small bell vibrates very fast. Which has the higher pitch?  
-   Options: The drum / The bell / Both the same / Neither has a pitch  
+   Options: The drum / Both the same / Neither has a pitch / The bell  
    **Answer:** The bell. *Why:* Faster vibration makes a higher pitch. Pitch is counted in hertz, vibrations each second.
 11. (mcq) Most children can hear a tone of 17,000 hertz that many grandparents cannot. Why?  
-   Options: Grandparents' hair cells for the highest pitches have worn out / Children have bigger ear flaps / Grandparents don't want to hear it / The tone is too low  
+   Options: Children have bigger ear flaps / Grandparents' hair cells for the highest pitches have worn out / Grandparents don't want to hear it / The tone is too low  
    **Answer:** Grandparents' hair cells for the highest pitches have worn out. *Why:* Hair cells for the highest pitches wear out first as people grow older, so the top of the band drops.
 12. (mcq) A dog barks at a whistle that you can't hear at all. What is happening?  
-   Options: The dog is imagining things / The whistle makes ultrasound, which dogs hear and people don't / The whistle is broken / Dogs hear through their noses  
+   Options: The whistle makes ultrasound, which dogs hear and people don't / The dog is imagining things / The whistle is broken / Dogs hear through their noses  
    **Answer:** The whistle makes ultrasound, which dogs hear and people don't. *Why:* Dog whistles vibrate above 20,000 hertz. That is ultrasound: above our band, but inside a dog's.
 13. (mcq) A call comes from a tree, but you cannot see the bird. How can you find out which bird it is?  
    Options: Compare the call with a bird-call guide or recording, and note the time of day / Decide the bird must be a bat, since bats also call / Guess from the colour of the tree / All birds sing the same call, so no call can be told apart  

@@ -1706,11 +1706,11 @@
       "t": "mcq",
       "q": "The filtered water looks as clear as the plain water. What does that tell you?",
       "options": [
-       "Nothing in it is dissolved",
        "The mud pieces are held back",
+       "Nothing in it is dissolved",
        "The salt has gone"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The paper holds back mud pieces that are bigger than its holes. Clear to the eye does not mean nothing is dissolved, because dissolved pieces are far too small to see. If you picked 'the salt has gone', see what the plates show."
      }
     },
@@ -3226,11 +3226,11 @@
      "t": "mcq",
      "p": "Which one is a mixture of two materials?",
      "opts": [
-      "A cup of rice with a few small stones",
       "One small stone",
+      "A cup of rice with a few small stones",
       "A cup of only rice"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rice and stones are two materials, each still itself. A single stone or a cup of one grain is one material. If you picked another, you looked for two different materials together.",
      "outcome": 0
     },
@@ -3339,10 +3339,10 @@
      "p": "You pour tea through a strainer. What stays behind in the strainer?",
      "opts": [
       "The filtrate",
-      "The residue",
-      "The water vapour"
+      "The water vapour",
+      "The residue"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The solid that stays behind is the residue. The tea that passes through is the filtrate. If you chose the filtrate, you named the wrong part.",
      "outcome": 2
     },
@@ -3358,11 +3358,11 @@
      "t": "mcq",
      "p": "Iron pins, sand and salt are all dry. What is the best first step?",
      "opts": [
-      "Stir them into water",
       "Pass a magnet through them",
+      "Stir them into water",
       "Heat all of it on a stove"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A magnet works best on dry pieces. It takes out the pins cleanly while the sand and salt are loose. Adding water first would dissolve the salt and make wet sand cling to the pins. Heating would not separate anything.",
      "outcome": 3
     },
@@ -3557,11 +3557,11 @@
      "t": "mcq",
      "p": "Why wait before pouring off the clear water from muddy water?",
      "opts": [
-      "Mud sinks in time and the top clears",
       "Mud turns into water",
+      "Mud sinks in time and the top clears",
       "Mud dissolves slowly"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heavier pieces sink if you wait, so the top becomes clearer. Mud does not dissolve or become water, so do not expect it to vanish.",
      "outcome": 2
     },
@@ -3601,11 +3601,11 @@
      "t": "mcq",
      "p": "A test finds nothing else in a water sample. What can the scientist say?",
      "opts": [
-      "It is pure forever",
       "It passed the test she used",
+      "It is pure forever",
       "All water is pure"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A test only finds what it can catch. A new test may still find more, so 'pure' tells you which tests the sample has passed.",
      "outcome": 5
     },
@@ -3630,11 +3630,11 @@
      "t": "mcq",
      "p": "A river slows down. Which pieces does it drop first?",
      "opts": [
-      "The biggest, heaviest stones",
       "The finest clay",
-      "The dissolved salt"
+      "The dissolved salt",
+      "The biggest, heaviest stones"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heavy pieces sink first as the water slows. Fine clay sinks last and dissolved salt does not sink at all.",
      "outcome": 4
     }
@@ -3651,11 +3651,11 @@
      "t": "mcq",
      "p": "Sand and sugar are left. Water is added and stirred. What next?",
      "opts": [
-      "Filter, to hold back the sand",
       "Sieve, to hold back the sugar",
+      "Filter, to hold back the sand",
       "Pick out the sugar"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sugar dissolves and passes through the filter with the water. Sand stays on the filter. The sugar is too small to sieve or pick.",
      "outcome": 3
     },
@@ -3670,11 +3670,11 @@
      "t": "mcq",
      "p": "The Sun heats the sea and a cloud forms. Why is rain not salty?",
      "opts": [
-      "Salt cannot leave with the vapour",
       "Sunlight destroys the salt",
+      "Salt cannot leave with the vapour",
       "Clouds filter out the salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Evaporation takes only the water. Salt is left behind in the sea. Salt is not destroyed and clouds are not filters.",
      "outcome": 4
     },
@@ -3729,11 +3729,11 @@
      "t": "mcq",
      "p": "Argon was found when nitrogen from air weighed a bit more than nitrogen made in a lab. What does this show?",
      "opts": [
-      "A small difference can reveal a hidden part",
       "Air is one element",
+      "A small difference can reveal a hidden part",
       "Nitrogen changes weight in air"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The air sample held a heavier gas mixed in, which turned out to be argon. A careful test finds what an earlier one missed.",
      "outcome": 5
     },
@@ -3812,11 +3812,11 @@
    "t": "mcq",
    "p": "Sugar is stirred into tea and seems to vanish. What is the best description?",
    "opts": [
-    "Still there, in pieces too small to see",
     "It has turned into tea",
-    "It has turned into water"
+    "It has turned into water",
+    "Still there, in pieces too small to see"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The tea tastes sweet, so the sugar is still there. If you chose the other answers, you may have thought that unseen means gone.",
    "outcome": 0
   },
@@ -3824,11 +3824,11 @@
    "t": "mcq",
    "p": "Which test best shows that lemon in milk made a new material?",
    "opts": [
-    "You cannot get the smooth milk back",
     "The lemon is yellow",
-    "It tastes sour"
+    "It tastes sour",
+    "You cannot get the smooth milk back"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A mixture can be taken apart and give back each part unchanged. Colour and taste do not tell you that.",
    "outcome": 0
   },
@@ -3836,11 +3836,11 @@
    "t": "mcq",
    "p": "A magnet lifts steel pins out of sand. Why did the sand not change the pins?",
    "opts": [
-    "Materials keep their properties in a mixture",
     "The sand is also magnetic",
-    "Pins are lighter than sand"
+    "Pins are lighter than sand",
+    "Materials keep their properties in a mixture"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The pins are still attracted, because mixing does not change what a material is. Sand is not magnetic, and weight is not what the magnet uses.",
    "outcome": 1
   },
@@ -3848,11 +3848,11 @@
    "t": "mcq",
    "p": "Salt water freezes at a lower temperature than plain water. What does this show?",
    "opts": [
-    "A mixture can have a property its parts lack alone",
     "Salt melts water into ice",
-    "Salt turns into water"
+    "Salt turns into water",
+    "A mixture can have a property its parts lack alone"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The whole mixture can have a new property, even though each part keeps its own. Freezing point is one of them.",
    "outcome": 1
   },
@@ -3860,11 +3860,11 @@
    "t": "mcq",
    "p": "Which difference is easiest to use to separate chalk powder from iron filings?",
    "opts": [
-    "Being attracted by a magnet",
     "Colour",
-    "Taste"
+    "Taste",
+    "Being attracted by a magnet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Iron is attracted by a magnet and chalk is not. The magnet leaves the chalk behind. Colour and taste are poor tools here.",
    "outcome": 2
   },
@@ -3908,11 +3908,11 @@
    "t": "mcq",
    "p": "Why does mixed rubbish cost a waste picker more work than rubbish kept apart?",
    "opts": [
-    "Mixing is easy but separating always needs work",
     "Mixed waste unmixes itself",
-    "Separating needs no effort"
+    "Separating needs no effort",
+    "Mixing is easy but separating always needs work"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Mixing happens by itself, but taking things apart needs effort from a hand, a machine or the Sun.",
    "outcome": 3
   },
@@ -3920,11 +3920,11 @@
    "t": "mcq",
    "p": "Sweat dries on a shirt and leaves a white mark. What does this show?",
    "opts": [
-    "Salt stayed when the water evaporated",
     "Water changed into salt",
-    "The cloth made salt"
+    "The cloth made salt",
+    "Salt stayed when the water evaporated"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The water left as vapour and the salt could not follow, the same as in a salt pan.",
    "outcome": 4
   },
@@ -3944,11 +3944,11 @@
    "t": "mcq",
    "p": "A bottle says '99.9 per cent pure'. Why does it not say 100?",
    "opts": [
-    "No test can show that nothing else is there",
     "The bottle is old",
-    "100 is not a number"
+    "100 is not a number",
+    "No test can show that nothing else is there"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A test only shows what it can find. A finer test may find more, so purity is given as a number.",
    "outcome": 5
   },
@@ -3956,11 +3956,11 @@
    "t": "mcq",
    "p": "Which question about mixing has no agreed answer yet?",
    "opts": [
-    "Why the universe began in such an orderly state",
     "Whether salt dissolves in water",
+    "Why the universe began in such an orderly state",
     "Whether sand sinks in water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Physicists can explain why mixing is likely, but not yet why the universe began so orderly.",
    "outcome": 5
   },
@@ -3968,11 +3968,11 @@
    "t": "mcq",
    "p": "Black ink splits into blue, pink and yellow on wet paper. What made the colours spread apart?",
    "opts": [
-    "They climb the paper at different speeds",
     "They dissolve at different times",
+    "They climb the paper at different speeds",
     "They sink at different speeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each colour is carried along by the water and clings to the paper by a different amount, so it travels at its own speed.",
    "outcome": 2
   }

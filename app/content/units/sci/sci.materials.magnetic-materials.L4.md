@@ -628,7 +628,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 ## Worksheets
 ### How Materials Answer a Magnet, Class 4 (core) (core, 15 questions)
 1. (mcq) A fridge magnet is held still against an aluminium can. What happens?  
-   Options: Nothing, because a still magnet does not attract aluminium / The can sticks firmly / The can rolls away / The can melts  
+   Options: The can sticks firmly / The can rolls away / Nothing, because a still magnet does not attract aluminium / The can melts  
    **Answer:** Nothing, because a still magnet does not attract aluminium. *Why:* Aluminium is not a magnetic material, so a still magnet does not hold it. Picking 'sticks firmly' is the idea that all metals stick.
 2. (mcq) A strong magnet is swished quickly past an aluminium can that lies on its side. What is most likely to happen?  
    Options: The can rolls after the magnet / Nothing, because aluminium is not magnetic / The can jumps onto the magnet and sticks / The can is pushed away from the magnet  
@@ -638,14 +638,14 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 4. (truefalse) A plastic bottle rolls after a fast-moving magnet just as an aluminium can does.  
    **Answer:** False. *Why:* False. Plastic does not carry electricity, so no swirls of current form in it. A fast-moving magnet does not move a plastic bottle.
 5. (mcq) Which of these carries electricity best, and so drags a moving magnet most?  
-   Options: Copper / Wood / Glass / Rubber  
+   Options: Wood / Glass / Copper / Rubber  
    **Answer:** Copper. *Why:* Copper is one of the best conductors of electricity, so strong swirls form in it. Wood, glass and rubber do not carry electricity.
 6. (match) Match each word to what it means.  
    **Answer:** Ferromagnetic → strongly attracted by a still magnet; Paramagnetic → attracted extremely weakly by a very strong magnet; Diamagnetic → pushed away extremely weakly by a very strong magnet; Eddy current → a swirl of electricity made in metal by a moving magnet; Conductor → a material that lets electricity pass easily. *Why:* These five words are the vocabulary of the unit. A strong answer could also give an example of each.
 7. (sort) Sort each thing by what a magnet does to it: a still magnet attracts it strongly, a fast-moving magnet is dragged by it, or neither.  
    **Answer:** a steel nail → Strongly attracted (STICK); a thick copper pot → Dragged when moving (SLOW); a wooden spoon → Neither (SKIP); a cast iron tawa → Strongly attracted (STICK); an aluminium tiffin box → Dragged when moving (SLOW); a plastic bottle → Neither (SKIP). *Why:* Iron and steel are attracted even by a still magnet. Copper and aluminium carry electricity well and drag a moving magnet. Wood and plastic do neither.
 8. (mcq) A recycling centre must take steel cans out of a heap before it uses a spinning magnet drum to throw aluminium off the belt. Why?  
-   Options: Steel would stick to the drum, since a still magnet attracts it / Steel is heavier / Steel is cheaper / Steel makes the belt rust  
+   Options: Steel is heavier / Steel is cheaper / Steel would stick to the drum, since a still magnet attracts it / Steel makes the belt rust  
    **Answer:** Steel would stick to the drum, since a still magnet attracts it. *Why:* A drum of magnets would grab the steel and hold it. So a magnet takes out the steel first.
 9. (fill) A pan works well on an induction stove when a magnet sticks ____ to its base.  
    **Answer:** ['firmly']. *Why:* A base of magnetic steel heats well in the changing magnetic field of the stove.
@@ -657,7 +657,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 12. (truefalse) If a magnet does not stick to a metal, the metal has no iron in it.  
    **Answer:** False. *Why:* False. Common stainless steel is mostly iron, but its mixture means a magnet hardly sticks.
 13. (mcq) A metal detector beeps over a buried brass key. Brass is not attracted by a still magnet. How can the detector find it?  
-   Options: It senses the eddy currents the changing magnetic field makes in the key / It senses the key's tiny magnets / It smells the metal / It weighs the ground  
+   Options: It senses the key's tiny magnets / It senses the eddy currents the changing magnetic field makes in the key / It smells the metal / It weighs the ground  
    **Answer:** It senses the eddy currents the changing magnetic field makes in the key. *Why:* The detector makes a changing magnetic field. This field makes eddy currents in any metal that carries electricity, and the detector senses them.
 14. (write) Explain in your own words why a magnet falls slowly in a thick copper pipe but quickly in a plastic pipe.  
    **Answer:** As the magnet falls, it makes swirling electric currents in the copper. These make a magnetic field that pushes up against the falling magnet and slows it. Plastic does not carry electricity, so nothing pushes up.. *Why:* A strong answer says that swirls form in the copper only and that they push against the movement.
@@ -665,23 +665,23 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
    **Answer:** A flat plate with a magnet above it and an arrow for its motion. Inside the plate, curved loops of arrows swirl under the magnet.. *Why:* The swirls form in the plate under the moving magnet. Without movement, there are no swirls.
 ### Swirls, Steel and Sorting (stretch) (stretch, 17 questions)
 1. (mcq) A magnet swings over a wooden board, a plastic tray and an aluminium plate. Over which does it stop in the fewest swings?  
-   Options: The aluminium plate / The wooden board / The plastic tray / All the same  
+   Options: The wooden board / The aluminium plate / The plastic tray / All the same  
    **Answer:** The aluminium plate. *Why:* Swirls of current form only in the aluminium, and they push against the swinging magnet. Wood and plastic do nothing.
 2. (mcq) A thin sheet of aluminium foil and a thick aluminium plate are both under a swinging magnet. Which stops it sooner, and why?  
-   Options: The thick plate, because more metal gives the swirls more room / The foil, because it is lighter / They stop it equally / Neither, because aluminium is not magnetic  
+   Options: The foil, because it is lighter / The thick plate, because more metal gives the swirls more room / They stop it equally / Neither, because aluminium is not magnetic  
    **Answer:** The thick plate, because more metal gives the swirls more room. *Why:* A thick plate has more room for eddy currents to flow, so the push is stronger. 'Not magnetic' only applies to a still magnet.
 3. (mcq) Cuts are made in a copper plate so that the swirls cannot loop round. What happens to the drag on a moving magnet?  
-   Options: It gets weaker / It gets stronger / It stays the same / The plate becomes magnetic  
+   Options: It gets stronger / It gets weaker / It stays the same / The plate becomes magnetic  
    **Answer:** It gets weaker. *Why:* The swirls need unbroken paths to flow round. Slits stop them, so the push on the magnet falls.
 4. (order) Put the steps of the chain of events in order, from the moving magnet to the dragged can.  
    **Answer:** ['The magnet moves past the can', 'Electric currents swirl inside the can', 'The swirls make a magnetic field in the can', "The can's field drags the can after the magnet"]. *Why:* A moving magnet makes the swirls, the swirls make a field of their own, and that field acts on the magnet. The can is dragged along.
 5. (mcq) A magnet sticks firmly to the base of a pan but not to the sides. Will the pan heat on an induction stove?  
-   Options: Probably yes, because the base touches the stove and is magnetic / No, because the sides are not magnetic / No, because pans need to stick everywhere / It will melt  
+   Options: No, because the sides are not magnetic / Probably yes, because the base touches the stove and is magnetic / No, because pans need to stick everywhere / It will melt  
    **Answer:** Probably yes, because the base touches the stove and is magnetic. *Why:* The stove heats the part of the pan that sits on it. A magnetic base heats well.
 6. (truefalse) A steel spoon that does not stick at its smooth bowl might stick slightly at its bent neck.  
    **Answer:** True. *Why:* True for some stainless steels. Bending changes how the atoms are packed, and some tiny magnets can then line up.
 7. (mcq) A tin can is steel with a very thin coat of tin on it. A magnet sticks to the can. Why?  
-   Options: The magnet feels the steel under the thin coat of tin / Tin is magnetic / The magnet pulls the label / The can is hollow  
+   Options: Tin is magnetic / The magnet pulls the label / The can is hollow / The magnet feels the steel under the thin coat of tin  
    **Answer:** The magnet feels the steel under the thin coat of tin. *Why:* Tin is not magnetic, but the coat is very thin and the steel is what the magnet feels. A name for a thing may describe only its outside.
 8. (sort) Sort each of these by what a very strong lab magnet does to it: pulls strongly, pulls extremely weakly, or pushes extremely weakly.  
    **Answer:** iron → Pulls strongly; aluminium → Pulls extremely weakly; water → Pushes extremely weakly; copper → Pushes extremely weakly; nickel → Pulls strongly; oxygen in air → Pulls extremely weakly. *Why:* Iron and nickel are ferromagnetic. Aluminium and oxygen are paramagnetic. Water and copper are diamagnetic.
@@ -694,7 +694,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 12. (label) Here is a drawing of a recycling line. Label the three parts: the steel lifter, the spinning drum and the bin of aluminium.  
    **Answer:** ['Big magnet over the belt: steel lifter', 'Magnets spinning inside the belt roller: spinning drum', 'Bin at the end of the belt that cans leap into: bin of aluminium']. *Why:* The big magnet lifts steel. The drum makes swirls in the aluminium, which throws the cans forward into their bin.
 13. (mcq) Why is the oxygen in the air called paramagnetic?  
-   Options: It is pulled extremely weakly by a very strong magnet / It is pushed strongly away / It sticks to a fridge magnet / It carries electricity  
+   Options: It is pushed strongly away / It sticks to a fridge magnet / It carries electricity / It is pulled extremely weakly by a very strong magnet  
    **Answer:** It is pulled extremely weakly by a very strong magnet. *Why:* Oxygen is attracted extremely weakly. Liquid oxygen, which is very cold, clings between the poles of a strong magnet.
 14. (match) Match each device to the job it does.  
    **Answer:** Eddy current brake → slows a roller coaster car without touching it; Induction stove → heats a pan with a magnetic base; Metal detector → finds a buried coin that a magnet does not attract; Magnetic separator → lifts steel cans out of mixed waste. *Why:* Each device uses a magnet in a different way. A strong answer can say which ones use attraction and which use eddy currents.
@@ -710,7 +710,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
    Options: Plain steel is magnetic too, so a magnet cannot show it is stainless / Stainless steel is never magnetic / Magnetic pans are made of aluminium / Nothing is wrong  
    **Answer:** Plain steel is magnetic too, so a magnet cannot show it is stainless. *Why:* Plain steel also sticks to a magnet. Stainless steel is a family. Some kinds stick and some do not. A magnet cannot name the steel.
 2. (mcq) A magnet falls slowly down a thick copper pipe. What would make the fall even slower?  
-   Options: A pipe with a thicker wall made of copper / A pipe with slits cut along it / A pipe made of plastic / A pipe made of wood  
+   Options: A pipe with slits cut along it / A pipe with a thicker wall made of copper / A pipe made of plastic / A pipe made of wood  
    **Answer:** A pipe with a thicker wall made of copper. *Why:* More copper means more room for swirls, so a stronger push up. Slits break the swirls, and plastic and wood have none.
 3. (truefalse) An induction stove would heat an aluminium pan just as well as a pan with a thick magnetic steel base.  
    **Answer:** False. *Why:* False. An aluminium pan is not magnetic and carries electricity so well that it heats very little. A pan with a magnetic steel base heats much better.
@@ -724,21 +724,21 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 7. (match) Match each tool or device to the main idea it uses.  
    **Answer:** A scrapyard crane magnet → a magnet attracts iron and steel; A spinning-drum separator → a moving magnet makes eddy currents in aluminium; An induction stove → a changing magnetic field heats a magnetic steel pan; A metal detector → a changing field makes eddy currents in any metal that conducts. *Why:* Some of these use attraction and some use eddy currents. A strong answer can say which is which.
 8. (mcq) A rusty nail still sticks to a magnet, but the brown flakes mostly do not. What is the best explanation?  
-   Options: The nail still has an iron core, and the rust is only weakly magnetic / The flakes are too small / Rust is a different colour / A magnet cannot lift flakes  
+   Options: The flakes are too small / Rust is a different colour / A magnet cannot lift flakes / The nail still has an iron core, and the rust is only weakly magnetic  
    **Answer:** The nail still has an iron core, and the rust is only weakly magnetic. *Why:* A magnet feels iron that is still iron. The rust is iron joined with oxygen and water, which is only weakly magnetic.
 9. (perspective) A city plans to build a centre with machines to sort all its waste. Waste pickers say they should be part of the plan.  
    **Answer:** Either can be argued, and both are partly right. A centre sorts steel and aluminium quickly, but hands and eyes still do much of the sorting. A strong answer says how both can work together, for example by employing the pickers in the centre.. *Why:* A strong answer uses the idea that machines are good at some steps and people at others.
 10. (truefalse) A magnet that is moving makes electricity in a nearby piece of metal even if the metal is not magnetic.  
    **Answer:** True. *Why:* True. Faraday found in 1831 that a moving magnet makes electric currents in a conductor. The metal does not have to be magnetic.
 11. (mcq) A magnet does not stick to a coin. Someone says this proves the coin is real silver. What does the test truly show?  
-   Options: The coin is not made of iron, nickel or cobalt, but it could be made of many other things / The coin is definitely silver / The coin is definitely aluminium / The coin has no metal in it  
+   Options: The coin is definitely silver / The coin is definitely aluminium / The coin has no metal in it / The coin is not made of iron, nickel or cobalt, but it could be made of many other things  
    **Answer:** The coin is not made of iron, nickel or cobalt, but it could be made of many other things. *Why:* Many metals ignore a still magnet. A magnet that does not stick rules out only a few.
 12. (write) A material can answer a still magnet with nothing and a moving magnet with a push. Does this mean that a material has no fixed nature? Argue either side.  
    **Answer:** One side: the material's atoms have a fixed structure, and the two answers both come from it, so its nature is fixed. Other side: what we call its nature is how it answers our tests, and different tests give different answers, so a label depends on the test.. *Why:* A strong answer gives a reason for the side it chooses and says what the other side would say.
 13. (label) Here is a drawing of a magnet falling through a copper pipe. Label the magnet, the swirls of current and the upward push.  
    **Answer:** ['The falling magnet: magnet', 'Curved arrows in the pipe wall: swirls of current', 'Arrow pointing up on the magnet: upward push']. *Why:* The magnet makes swirls in the pipe. The swirls make a field that pushes up against the falling magnet.
 14. (mcq) In a recycling centre, which step uses an eddy current separator?  
-   Options: Throwing aluminium cans off the belt / Lifting steel cans off the belt / Blowing paper off the belt / Picking glass by hand  
+   Options: Lifting steel cans off the belt / Blowing paper off the belt / Throwing aluminium cans off the belt / Picking glass by hand  
    **Answer:** Throwing aluminium cans off the belt. *Why:* The spinning drum makes eddy currents in aluminium and other non-ferrous metals, and these push the pieces forward. The magnet lifts steel. The blower lifts paper.
 15. (truefalse) On Mars, magnets on rovers have collected dust, which shows that some of the dust has magnetic iron minerals in it.  
    **Answer:** True. *Why:* True. Magnets on Mars landers and rovers collected dark magnetic dust. The red colour of Mars is from iron joined with oxygen.
@@ -759,46 +759,46 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
    Options: Iron, nickel and cobalt / All metals / Aluminium and copper / Wood and plastic  
    **Answer:** Iron, nickel and cobalt. *Why:* Only iron, nickel, cobalt and some mixtures are attracted strongly. Many other metals ignore a still magnet.
 2. (mcq) Which of these is extremely weakly pushed away by a very strong magnet?  
-   Options: Water / Iron / Nickel / Cobalt  
+   Options: Iron / Nickel / Cobalt / Water  
    **Answer:** Water. *Why:* Water is diamagnetic, so it is pushed away extremely weakly. Iron, nickel and cobalt are pulled strongly.
 3. (mcq) A magnet sticks to the rim of a steel tumbler, but hardly to its wall. What is the best explanation?  
-   Options: Rolling the rim may have changed the steel inside, so more tiny magnets line up / The rim is made of a different metal / The magnet is stronger at the rim / The wall is thicker  
+   Options: The rim is made of a different metal / Rolling the rim may have changed the steel inside, so more tiny magnets line up / The magnet is stronger at the rim / The wall is thicker  
    **Answer:** Rolling the rim may have changed the steel inside, so more tiny magnets line up. *Why:* Bending and rolling can change how atoms are packed in some stainless steels.
 4. (mcq) A fast-moving magnet makes an aluminium can roll. What is the main reason?  
-   Options: It makes swirling electric currents in the can / The can becomes a magnet like iron / The air moves the can / The magnet sticks to the can  
+   Options: The can becomes a magnet like iron / It makes swirling electric currents in the can / The air moves the can / The magnet sticks to the can  
    **Answer:** It makes swirling electric currents in the can. *Why:* The swirls make a magnetic field that drags the can. A still magnet does nothing.
 5. (mcq) What name do we give the swirling currents a moving magnet makes in metal?  
-   Options: Eddy currents / Static charges / Tiny magnets / Rust  
+   Options: Static charges / Tiny magnets / Eddy currents / Rust  
    **Answer:** Eddy currents. *Why:* An eddy is a small whirl, like a river's swirl behind a rock.
 6. (mcq) Which of these will drag a moving magnet the most?  
-   Options: A thick copper plate / A glass plate / A rubber mat / A wooden board  
+   Options: A glass plate / A rubber mat / A wooden board / A thick copper plate  
    **Answer:** A thick copper plate. *Why:* Copper carries electricity very well, so strong swirls form in it. The others are insulators.
 7. (mcq) A magnet dropped through a plastic pipe falls fast. Dropped through a copper pipe of the same size, it falls slowly. Why?  
-   Options: Swirling currents in the copper push up against the falling magnet / Copper is heavier / Plastic is slippery / Copper is magnetic like iron  
+   Options: Copper is heavier / Plastic is slippery / Copper is magnetic like iron / Swirling currents in the copper push up against the falling magnet  
    **Answer:** Swirling currents in the copper push up against the falling magnet. *Why:* Plastic makes no swirls. Copper makes them, and they push against the movement.
 8. (mcq) A recycling centre first lifts steel off the belt with a magnet. Why?  
    Options: So the steel does not stick to the spinning drum that throws off aluminium / Steel is the most valuable / Steel is the heaviest / Steel is the cleanest  
    **Answer:** So the steel does not stick to the spinning drum that throws off aluminium. *Why:* A drum of magnets would hold the steel cans instead of letting them pass.
 9. (mcq) Which machine throws aluminium cans off a conveyor belt?  
-   Options: An eddy current separator / A big magnet over the belt / An air blower / A sieve  
+   Options: A big magnet over the belt / An air blower / An eddy current separator / A sieve  
    **Answer:** An eddy current separator. *Why:* A spinning magnetic drum makes eddy currents in the aluminium that push the cans forward.
 10. (mcq) A pan works on an induction stove. What is likely to be true of its base?  
-   Options: A magnet sticks firmly to it / It is made of aluminium / It is made of glass / It is made of clay  
+   Options: It is made of aluminium / It is made of glass / It is made of clay / A magnet sticks firmly to it  
    **Answer:** A magnet sticks firmly to it. *Why:* A magnetic steel base heats well in the stove's changing field.
 11. (mcq) Why does an aluminium pan heat poorly on an induction stove?  
-   Options: It is not magnetic and carries electricity so well that it heats very little / It is too light / It is too shiny / It is too cold  
+   Options: It is too light / It is too shiny / It is not magnetic and carries electricity so well that it heats very little / It is too cold  
    **Answer:** It is not magnetic and carries electricity so well that it heats very little. *Why:* A magnetic steel base heats strongly. Aluminium heats very little.
 12. (mcq) A magnet does not stick to a ring. What can you truly say?  
-   Options: The ring is not made of iron, nickel or cobalt, but it could be made of many other things / The ring is gold / The ring has no metal / The ring is silver  
+   Options: The ring is gold / The ring is not made of iron, nickel or cobalt, but it could be made of many other things / The ring has no metal / The ring is silver  
    **Answer:** The ring is not made of iron, nickel or cobalt, but it could be made of many other things. *Why:* Many metals ignore a still magnet, including gold, silver, copper, brass and aluminium.
 13. (mcq) A metal detector finds a brass key in the ground. Brass is not attracted by a still magnet. How can the detector find it?  
-   Options: It senses the eddy currents the key makes / It senses the key's weight / It smells the key / It sees the key  
+   Options: It senses the key's weight / It smells the key / It sees the key / It senses the eddy currents the key makes  
    **Answer:** It senses the eddy currents the key makes. *Why:* The detector's changing field makes eddy currents in any conducting metal.
 14. (mcq) A rusty nail sticks to a magnet. What is the best reason?  
-   Options: The nail still has an iron core under the rust / Rust is the strongest magnet / The nail is clean / The rust is steel  
+   Options: Rust is the strongest magnet / The nail is clean / The rust is steel / The nail still has an iron core under the rust  
    **Answer:** The nail still has an iron core under the rust. *Why:* The rust itself is only weakly magnetic, but the iron under it is.
 15. (mcq) Which sentence is most exact?  
-   Options: A still magnet does not attract aluminium, but a moving magnet pushes on it / Aluminium is not affected by magnets / Aluminium is magnetic like iron / Aluminium does not carry electricity  
+   Options: Aluminium is not affected by magnets / A still magnet does not attract aluminium, but a moving magnet pushes on it / Aluminium is magnetic like iron / Aluminium does not carry electricity  
    **Answer:** A still magnet does not attract aluminium, but a moving magnet pushes on it. *Why:* The best sentence says what the test was. A still magnet and a moving magnet give different answers.
 
 ## Applications

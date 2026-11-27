@@ -591,7 +591,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 3. (truefalse) A flat line on a chart always means that nothing is happening.  
    **Answer:** False. *Why:* False. A flat level can hide a lot of work. In the Level Bottle, the level was flat while water poured in and out all the time.
 4. (mcq) In the Level Bottle, why did deeper water leak out of the hole faster?  
-   Options: Deeper water presses harder on the hole / The hole gets bigger when the water is deep / Water is lazy when it is shallow  
+   Options: The hole gets bigger when the water is deep / Water is lazy when it is shallow / Deeper water presses harder on the hole  
    **Answer:** Deeper water presses harder on the hole. *Why:* More water above the hole presses harder, so it squirts out faster. That is why a rising level makes its own push back.
 5. (match) Match each part of the body to what it does with blood sugar.  
    **Answer:** Insulin → lowers the sugar in the blood; Glucagon → raises the sugar in the blood; Pancreas → the gland that makes both hormones; Liver → stores sugar and releases it when needed. *Why:* The pancreas makes insulin and glucagon. Insulin tells cells and the liver to take sugar in. Glucagon tells the liver to let sugar out. The liver is the store.
@@ -608,7 +608,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 11. (draw) Draw a see-saw. Write insulin at one end and glucagon at the other. Draw a small ball near the middle for the sugar level.  
    **Answer:** A see-saw with insulin labelled on the end pushing down, glucagon on the other end pushing up, and a ball near the middle.. *Why:* A strong drawing shows two opposite pushes and the level in between. The ball stays near the middle because both pushes are working.
 12. (mcq) What goes wrong in type 1 diabetes?  
-   Options: The body makes almost no insulin / The body makes too much glucagon / The body cannot digest food  
+   Options: The body makes too much glucagon / The body makes almost no insulin / The body cannot digest food  
    **Answer:** The body makes almost no insulin. *Why:* In type 1 diabetes the cells that make insulin are destroyed, so almost no insulin is made. People take insulin from outside.
 13. (perspective) Anita and Karthik are looking at a flat line of sugar readings from a healthy child.  
    **Answer:** Answers vary. A strong answer picks a side and gives evidence, such as the Level Bottle staying flat while water flowed, or the ankle wobbling to stay up.. *Why:* Karthik's view matches the evidence. A flat line can hide two opposite pushes. Anita's view fits if you think of steady as still.
@@ -638,7 +638,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 8. (count) Your pulse at rest is 72 beats a minute. Just after you stop running it is 140. Two minutes later it is 100. By how many beats a minute did it fall in those two minutes, and how many beats a minute is it still above rest?  
    **Answer:** It fell by 40 beats a minute. It is still 28 above rest.. *Why:* 140 take away 100 is 40. And 100 take away 72 is 28, so the pulse is still 28 above rest.
 9. (mcq) Why does a shower swing from too hot to too cold when the hot water is slow to arrive?  
-   Options: You keep correcting before the last correction has arrived / The tap is broken / Hot water is heavier than cold water  
+   Options: The tap is broken / Hot water is heavier than cold water / You keep correcting before the last correction has arrived  
    **Answer:** You keep correcting before the last correction has arrived. *Why:* Nothing changes at first, so you turn the tap more. When the hot water finally arrives, you have already turned the tap too far. A message that arrives late makes the correction go too far.
 10. (write) Someone says, 'Diabetes happens because a person ate too many sweets.' Give two reasons this is not the whole story.  
    **Answer:** Type 1 diabetes happens when the body's own defences destroy the cells that make insulin, which has nothing to do with sweets. Type 2 comes from many causes together, such as genes, body weight and how active a person is.. *Why:* A strong answer separates the two types and says that many causes work together. It does not blame the person.
@@ -659,14 +659,14 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 1. (write) A girl runs a long race. Use insulin and glucagon to explain what her body does with her blood sugar during the race and just after she eats a banana.  
    **Answer:** During the race her muscles take in a lot of sugar, so her blood sugar starts to fall. Glucagon rises and tells the liver to release stored sugar, so the level stays near right. When she eats a banana the sugar rises, and the pancreas releases insulin, which tells cells and the liver to take sugar in and store it.. *Why:* A strong answer uses both hormones in the right direction, and says that the aim of both is to keep the level steady.
 2. (mcq) A person with type 1 diabetes takes insulin and then does not eat for hours. What is most likely?  
-   Options: Their blood sugar falls too low, and they need sugar quickly / Their blood sugar goes very high / Nothing changes  
+   Options: Their blood sugar goes very high / Nothing changes / Their blood sugar falls too low, and they need sugar quickly  
    **Answer:** Their blood sugar falls too low, and they need sugar quickly. *Why:* The insulin keeps lowering the sugar, and no food is adding any. Low sugar causes shaking, sweating and confusion. Sweet food or drink given right away helps. A grown-up or doctor should be called.
 3. (count) A can of juice has 24 grams of sugar. A level teaspoon holds 4 grams, and a grown-up has about one teaspoon of sugar in all their blood. How many times more sugar is in the juice than in all the blood?  
    **Answer:** 6. *Why:* 24 divided by 4 is 6 teaspoons. So the can holds about six times the sugar in all the blood, and the body moves it out of the blood so the level stays small.
 4. (perspective) The people who found insulin sold their patent to a university for one dollar, so that no company would own it.  
    **Answer:** Answers vary. A strong answer picks a side, and asks about cost, who needs the medicine and who can afford it.. *Why:* Both views have a point. Insulin saves lives, and making it takes money. The question is how to make sure everyone who needs it can get it.
 5. (mcq) Why is it dangerous to take lots of big breaths before holding your breath in water?  
-   Options: Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it / Big breaths make the water cold / Big breaths make the lungs smaller  
+   Options: Big breaths make the water cold / Big breaths make the lungs smaller / Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it  
    **Answer:** Big breaths blow away carbon dioxide, so the urge to breathe comes late and you can faint before you feel it. *Why:* The urge to breathe comes mostly from carbon dioxide. If you blow it off with big breaths, the warning comes late, and oxygen may run out first. Never do it in water.
 6. (truefalse) A loop with a delay always overshoots, however gently it corrects.  
    **Answer:** False. *Why:* False. Gentle, small corrections give the message time to arrive. The body also predicts, so it can start a correction before the change arrives.
@@ -675,7 +675,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 8. (sort) Sort each pair by whether the two work against each other like an opposing pair.  
    **Answer:** insulin and glucagon → An opposing pair; the muscle that bends the elbow and the muscle that straightens it → An opposing pair; the ring and spoke muscles of the iris → An opposing pair; sweating and shivering → An opposing pair; the stomach and the heart → Not an opposing pair; salt and pepper → Not an opposing pair. *Why:* An opposing pair has two controls that push in opposite directions on the same level. The stomach and heart do different jobs and do not push against each other.
 9. (mcq) The Sun stays almost the same size for billions of years. Which explanation fits the idea of this lesson?  
-   Options: Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal / The Sun is simply not moving / The Sun has no energy flowing through it  
+   Options: The Sun is simply not moving / The Sun has no energy flowing through it / Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal  
    **Answer:** Gravity pulls inwards and the pressure of hot gas pushes outwards, and the two are equal. *Why:* A star holds steady because two opposite pushes balance. If it shrank, the pressure would rise and push it back out. If it swelled, gravity would pull it back in.
 10. (draw) Draw the Level Bottle when the level is steady. Draw an arrow for the water going in, an arrow for the water going out, and show how long each one is.  
    **Answer:** A bottle with a hole near the base, a trickle entering at the top, an arrow in and an arrow out, both the same length.. *Why:* When the level is steady, the flow in equals the flow out, so the two arrows must be the same length.
@@ -697,16 +697,16 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
 
 ## Quiz
 1. (mcq) What makes a level stay steady?  
-   Options: What flows in matches what flows out / Nothing moving at all / A single push in one direction  
+   Options: Nothing moving at all / A single push in one direction / What flows in matches what flows out  
    **Answer:** What flows in matches what flows out. *Why:* A level is steady when the flow in equals the flow out. If one flow wins, the level rises or falls.
 2. (mcq) You pour a cup of water into a Level Bottle that was steady. The level jumps up. What happens next?  
-   Options: The level falls back to where it was / The level stays high / The level rises until the bottle overflows  
+   Options: The level stays high / The level falls back to where it was / The level rises until the bottle overflows  
    **Answer:** The level falls back to where it was. *Why:* Deeper water leaks faster, so the leak is bigger than the trickle until the level has come back down. The change causes its own push back.
 3. (mcq) Which pair is correct for the sugar in the blood?  
    Options: Insulin lowers it and glucagon raises it / Insulin raises it and glucagon lowers it / Both of them raise it  
    **Answer:** Insulin lowers it and glucagon raises it. *Why:* Insulin tells cells to take sugar in, which lowers the level. Glucagon tells the liver to release sugar, which raises it.
 4. (mcq) Where in the body are insulin and glucagon made?  
-   Options: In the pancreas / In the liver / In the heart  
+   Options: In the liver / In the pancreas / In the heart  
    **Answer:** In the pancreas. *Why:* Beta cells in the pancreas make insulin and alpha cells make glucagon. The liver is where sugar is stored and released.
 5. (mcq) What is the main signal that makes you want to breathe?  
    Options: Carbon dioxide building up in the blood / Oxygen disappearing from the air / A tired feeling in the lungs  
@@ -715,7 +715,7 @@ Devaki had not noticed. She had been doing nothing at all, very hard.
    Options: It falls fast at first and then more slowly / It falls at the same speed all the way / It stays high for an hour  
    **Answer:** It falls fast at first and then more slowly. *Why:* The further the pulse is from rest, the faster it falls. That is why the biggest drop comes in the first minute.
 7. (mcq) A bright light comes on and your pupils shrink at once. What decided this?  
-   Options: An automatic loop through the brainstem / Your decision to protect your eyes / The light itself changed your eyes  
+   Options: Your decision to protect your eyes / An automatic loop through the brainstem / The light itself changed your eyes  
    **Answer:** An automatic loop through the brainstem. *Why:* Light on the eye sends a signal to the brainstem, which tightens the ring muscles. It happens in under a second, before you could decide anything.
 8. (mcq) Why does a shower swing between too hot and too cold when the water is slow to arrive?  
    Options: The correction arrives late, so you overshoot / Hot water and cold water do not mix / The tap gets tired  

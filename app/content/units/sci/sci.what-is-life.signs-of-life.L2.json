@@ -397,10 +397,10 @@
       "q": "A robot moves and senses walls. Why is the robot not alive?",
       "options": [
        "The robot is too noisy",
-       "The robot does not eat, grow or have young",
-       "The robot is made of plastic"
+       "The robot is made of plastic",
+       "The robot does not eat, grow or have young"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Moving and sensing are only two of the seven signs. A robot never eats food, grows or makes baby robots. One or two signs alone do not make something alive."
      }
     }
@@ -690,10 +690,10 @@
       "q": "The chuna water went milky in the sprout dabba, but not in the dabba with only a wet cloth. What does this show?",
       "options": [
        "Wet cloth makes chuna water milky",
-       "The sprouts breathed out carbon dioxide",
-       "Steel dabbas make water milky"
+       "Steel dabbas make water milky",
+       "The sprouts breathed out carbon dioxide"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Both dabbas had a wet cloth and were steel, so those cannot be the reason. Only the sprout dabba changed. Your breath made chuna water milky too, because breath has carbon dioxide. So the sprouts were breathing out carbon dioxide."
      }
     }
@@ -867,11 +867,11 @@
       "t": "mcq",
       "q": "The shelf sprouts made the chuna water more milky than the fridge sprouts. What does this show?",
       "options": [
-       "Sprouts breathe more slowly in the cold",
        "The fridge has no air in it",
+       "Sprouts breathe more slowly in the cold",
        "Cold sprouts are dead"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both dabbas had the same sprouts and the same air. The cold sprouts were still alive, and they would grow again when warm. They breathed out less carbon dioxide because cold slows down their breathing."
      }
     }
@@ -1412,11 +1412,11 @@
       "t": "mcq",
       "q": "A money plant was turned away from the window. Two days later, the leaves face the window again. What does this show?",
       "options": [
-       "The plant sensed the light and moved to face the window",
        "Somebody turned the pot back",
+       "The plant sensed the light and moved to face the window",
        "The wind blew the leaves"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Plants sense light and slowly turn their leaves towards it, by growing more on the shady side. This shows two signs of life together: sensing and moving."
      }
     }
@@ -1688,11 +1688,11 @@
      "t": "mcq",
      "p": "A spoon of curd set a whole katori of warm milk overnight. Which sign of life did the curd bacteria show?",
      "opts": [
-      "They had young: they made more of themselves",
       "They moved to a new house",
-      "They got rid of the milk"
+      "They got rid of the milk",
+      "They had young: they made more of themselves"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The bacteria ate the milk sugar, grew and split into more bacteria. Making more of their own kind is having young."
     },
     {
@@ -1851,11 +1851,11 @@
    "t": "mcq",
    "p": "How many signs of life are there?",
    "opts": [
-    "Three",
     "Seven",
+    "Three",
     "Ten"
    ],
-   "a": 1,
+   "a": 0,
    "why": "There are seven: eat, breathe, grow, move, sense, get rid of waste and have young.",
    "outcome": 0
   },
@@ -1864,10 +1864,10 @@
    "p": "Which of these is a sign of life?",
    "opts": [
     "Being shiny",
-    "Having young",
-    "Being heavy"
+    "Being heavy",
+    "Having young"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Having young is one of the seven signs. Being shiny or heavy has nothing to do with being alive: a steel spoon is shiny, and a stone is heavy.",
    "outcome": 0
   },
@@ -1875,11 +1875,11 @@
    "t": "mcq",
    "p": "In the chuna water test, clear chuna water turned milky next to the moong sprouts. What made it milky?",
    "opts": [
-    "Carbon dioxide breathed out by the sprouts",
     "Water from the wet cloth",
-    "Light from the window"
+    "Light from the window",
+    "Carbon dioxide breathed out by the sprouts"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The dabba with only a wet cloth had the same wet cloth and stayed clear. The dabba was shut, so light did not matter. The sprouts breathed out carbon dioxide.",
    "outcome": 5,
    "how": "e1"
@@ -1888,11 +1888,11 @@
    "t": "mcq",
    "p": "Why do plants seem still, though they are alive?",
    "opts": [
-    "Plants move slowly, mostly by growing",
     "Plants are only pretending to be alive",
-    "Plants move only at night"
+    "Plants move only at night",
+    "Plants move slowly, mostly by growing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants move by growing: shoots bend to light and roots grow down. This is too slow for our eyes to see. If you said plants move only at night, think of the money plant turning to the window in daytime.",
    "outcome": 1
   },
@@ -1900,11 +1900,11 @@
    "t": "mcq",
    "p": "Someone says, 'My toy car moves, so my car is alive.' What is wrong with this idea?",
    "opts": [
-    "Moving is not enough: the car never eats, grows or has young",
     "Nothing, the idea is right",
+    "Moving is not enough: the car never eats, grows or has young",
     "A car is alive only when the engine is on"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One sign alone does not show life. A living being does all seven signs.",
    "outcome": 3
   },
@@ -1912,11 +1912,11 @@
    "t": "mcq",
    "p": "Which of these is alive, though it seems to do nothing?",
    "opts": [
-    "A glass marble",
     "A dry moong seed",
+    "A glass marble",
     "A plastic spoon"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A dry moong seed is alive and resting. With water, the seed sprouts. A marble and a plastic spoon were never alive.",
    "outcome": 2
   },
@@ -1924,11 +1924,11 @@
    "t": "mcq",
    "p": "Why does a spoon of curd turn warm milk into curd?",
    "opts": [
-    "The curd has tiny living bacteria that grow in the milk",
     "Curd makes milk cold",
-    "Curd is heavier than milk"
+    "Curd is heavier than milk",
+    "The curd has tiny living bacteria that grow in the milk"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Curd bacteria eat the sugar in milk, grow and make more of themselves. As they do, the milk turns thick and sour.",
    "outcome": 2
   },
@@ -1943,11 +1943,11 @@
    "t": "mcq",
    "p": "In the chuna water test, why was there a dabba with only a wet cloth?",
    "opts": [
-    "To compare: it shows what happens with no sprouts",
     "To keep a spare dabba",
+    "To compare: it shows what happens with no sprouts",
     "To make the test quicker"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The dabba with only a wet cloth is the same in every way except the sprouts. So any difference must be caused by the sprouts. This is a fair test.",
    "outcome": 4,
    "how": "e1"
@@ -1968,11 +1968,11 @@
    "t": "mcq",
    "p": "A karela vine on a balcony touches a string with a thin tendril. The tendril curls tightly round the string. Which sign of life is this?",
    "opts": [
-    "Sensing touch",
     "Having young",
+    "Sensing touch",
     "Getting rid of waste"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The tendril senses the touch of the string and curls round it. That is sensing, and moving too.",
    "outcome": 1
   }

@@ -634,10 +634,10 @@
       "q": "A chewed maize plant gives off a smell, and wasps follow it to the caterpillar. Which path did the news take?",
       "options": [
        "Inside the plant",
-       "Through the air",
-       "Along fungal threads"
+       "Along fungal threads",
+       "Through the air"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The wasps are not part of the plant, and they are above the ground. So the news reached them through the air as a smell. Choosing 'inside the plant' usually means thinking only of the plant's own far leaves, which get news that way."
      },
      "context": "This is the last step of Which Path Did the News Take? Here you count the points and sort the cards by path."
@@ -1176,11 +1176,11 @@
       "t": "mcq",
       "q": "A touch-me-not stops folding after many harmless drops, but folds at once when shaken. What does the shake show?",
       "options": [
-       "The plant was too tired to fold",
        "The plant could still fold",
+       "The plant was too tired to fold",
        "The drops had damaged the leaves"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The leaves folded for the shake, so the plant still had the energy and the working parts to fold. That rules out tiredness and damage. The plant had stopped responding only to the harmless drop. Choosing 'tired' is the first idea most people have, and the shake is the test that checks it."
      },
      "context": "This is the last step of the Drop Test. Here you test the plant again a day later."
@@ -1383,11 +1383,11 @@
       "t": "mcq",
       "q": "What is the main body of a fungus made of?",
       "options": [
-       "Fine threads called hyphae",
        "A mushroom cap and stalk",
-       "Green leaves"
+       "Green leaves",
+       "Fine threads called hyphae"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The body is a web of fine threads, called the mycelium. A mushroom is only the part that makes spores, as a mango is the fruit and not the whole tree. Choosing 'mushroom' is common, because the mushroom is the only part we usually see."
      },
      "context": "This is the last step of See the Threads. Here you look at the threads of the mould through a magnifying glass."
@@ -1544,11 +1544,11 @@
       "t": "mcq",
       "q": "A tendril curls round a stick that rubs one side. Why is curling towards the rubbed side useful?",
       "options": [
-       "The rubbed side is where the support is",
        "The rubbed side is hurt",
-       "Curling makes the tendril warmer"
+       "Curling makes the tendril warmer",
+       "The rubbed side is where the support is"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Something that keeps rubbing one side is probably a twig or a wire the plant can hold. Curling towards that side wraps the tendril round it. Choosing 'hurt' treats the touch as damage, but the stroke is gentle and the tendril stays healthy."
      },
      "context": "This is the last step of Stroke a Tendril. Here you compare the three tendrils after half an hour."
@@ -1617,11 +1617,11 @@
       "t": "mcq",
       "q": "Trained touch-me-nots fold for a shake but not for a drop. Which explanation does this rule out?",
       "options": [
-       "The plants were too tired to fold",
        "The plants learned the drop was harmless",
+       "The plants were too tired to fold",
        "The plants can sense a shake"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A plant too tired to fold would not fold for the shake either. So tiredness is ruled out. The result fits the idea that the plants had stopped responding to the drop alone. Ruling out an explanation is different from proving the other one, which is why scientists go on testing."
      },
      "context": "This is the last step of Learned or Tired? Here you think of one more test a doubting scientist would ask for."
@@ -1684,11 +1684,11 @@
       "t": "mcq",
       "q": "Which of these is evidence that can be used in a debate about what plants feel?",
       "options": [
-       "A touch-me-not in ether fumes stops folding",
        "Plants are obviously just green machines",
-       "Everybody knows flowers are happy in the sun"
+       "Everybody knows flowers are happy in the sun",
+       "A touch-me-not in ether fumes stops folding"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The first is something that was measured, and anyone can repeat it. The other two are opinions, said as if they were facts. Both sides of a debate may use the same evidence and still read it differently."
      },
      "context": "This is the last step of Three Chairs. Here you choose the view you agree with most and say what could change your mind."
@@ -1850,11 +1850,11 @@
       "t": "mcq",
       "q": "Two cups of seedlings differ by 2 millimetres on average. Inside each cup, shoots differ by 3 centimetres. What can you say?",
       "options": [
-       "The music clearly helped",
        "The test shows no clear difference",
+       "The music clearly helped",
        "The music clearly harmed"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Shoots in one cup differ from each other far more than the two means differ. So a gap of 2 millimetres could easily be chance. The honest report is 'no clear difference in this test'. Choosing 'clearly helped' usually means looking only at the means and not at the spread."
      },
      "context": "This is day 10 of the Music Claim. Here you measure both cups and decide what the test shows."
@@ -1955,11 +1955,11 @@
       "t": "mcq",
       "q": "A torch is 10 centimetres from a shoot and 100 centimetres from a wall. The shadow tip moves 5 millimetres. How much did the shoot grow?",
       "options": [
-       "5 millimetres",
        "Half a millimetre",
+       "5 millimetres",
        "50 millimetres"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The wall is 10 times as far from the torch as the shoot is, so the shadow moves 10 times as far as the tip. 5 millimetres divided by 10 is half a millimetre. Choosing 5 millimetres forgets that the shadow is magnified."
      },
      "context": "This is the last step of the Growth Magnifier. Here you design and test your own magnifier."
@@ -2204,11 +2204,11 @@
      "p": "A tree on a windy hilltop is shorter and thicker than the same kind in a valley. Why?",
      "opts": [
       "The wind blew the top off",
-      "Being bent often changed how the tree grew",
       "Hilltop soil has no water",
-      "The hilltop tree is older"
+      "The hilltop tree is older",
+      "Being bent often changed how the tree grew"
      ],
-     "a": 1,
+     "a": 3,
      "why": "A plant that is bent again and again makes less of the hormone that lengthens stems, and builds thicker walls. Choosing 'blew the top off' treats the shape as damage, but the tree grew that way.",
      "outcome": 4
     },
@@ -2271,11 +2271,11 @@
      "p": "Wasps come to maize chewed by caterpillars, but not to maize torn by hand. What does that show?",
      "opts": [
       "Wasps look for holes in leaves",
-      "Torn leaves have no smell",
       "The plant tells a bite from a tear",
+      "Torn leaves have no smell",
       "Caterpillars call the wasps"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Both plants are damaged, but only the chewed one brings wasps. So the plant's response differs. Caterpillar spit in the wound makes the plant give off a different smell. If wasps looked for holes, torn leaves would bring them too.",
      "outcome": 1
     },
@@ -2299,12 +2299,12 @@
      "t": "mcq",
      "p": "Why should the person measuring the seedlings not know which cup was stroked?",
      "opts": [
-      "They might stroke the wrong cup",
       "Hopes can shift a measurement without anyone meaning to",
+      "They might stroke the wrong cup",
       "Seedlings grow faster when watched",
       "It makes the test quicker"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A person who expects the stroked cup to be shorter may read the ruler a little low for that cup. Measuring without knowing removes that risk.",
      "how": "e1",
      "outcome": 6
@@ -2515,11 +2515,11 @@
      "p": "In a pot, a warning passes between plants. A mesh that blocks fungal threads but not water stops it. What follows?",
      "opts": [
       "The warning went through the air",
-      "The warning went through the soil water",
       "The warning needed the fungal threads",
+      "The warning went through the soil water",
       "The plants were never attacked"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Water still crossed the mesh, and the air was not blocked, yet the warning stopped. The only thing that changed was the threads. So in that pot the threads were needed.",
      "how": "c2",
      "outcome": 6
@@ -2539,10 +2539,10 @@
      "opts": [
       "One half",
       "One third",
-      "One quarter",
-      "One fifth"
+      "One fifth",
+      "One quarter"
      ],
-     "a": 3,
+     "a": 2,
      "why": "The difference is 15 − 12 = 3 centimetres. 3 out of 15 is one fifth. So the stroked seedlings are one fifth shorter.",
      "how": "e1",
      "outcome": 3
@@ -2605,11 +2605,11 @@
      "p": "A fungus sends more minerals to the root that gives more sugar. What does this suggest?",
      "opts": [
       "Roots do not need minerals",
-      "The fungus acts for their own gain",
       "The tree controls the fungus",
+      "The fungus acts for their own gain",
       "Sugar is bad for fungi"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The fungus rewards the root that pays best, which helps the fungus. So the fungus is a partner with their own needs, not a pipe that the tree controls.",
      "outcome": 2
     },
@@ -2679,11 +2679,11 @@
    "p": "A ripe banana's gas makes a nearby mango ripen. What is the carrier of this signal?",
    "opts": [
     "The banana",
-    "The air",
     "The mango",
+    "The air",
     "The paper bag"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The banana is the sender and the mango is the receiver. The gas travels through the air, so the air is the carrier.",
    "outcome": 0
   },
@@ -2704,12 +2704,12 @@
    "t": "mcq",
    "p": "Wasps arrive at a plant that caterpillars are chewing. What led them there?",
    "opts": [
-    "A smell the chewed plant gave off",
     "The colour of the holes",
     "The warmth of the plant",
+    "A smell the chewed plant gave off",
     "A call from the caterpillars"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A chewed plant gives off volatiles, and the wasps have receptors for them. The caterpillars are often hidden, so the wasps are not using their eyes.",
    "outcome": 1
   },
@@ -2719,10 +2719,10 @@
    "opts": [
     "Water",
     "Phosphorus",
-    "Sunlight",
-    "Sugars and fats"
+    "Sugars and fats",
+    "Sunlight"
    ],
-   "a": 3,
+   "a": 2,
    "why": "A fungus has no chlorophyll and cannot make food from light. The plant gives sugars and fats, and the fungus brings water and minerals such as phosphorus.",
    "outcome": 2
   },
@@ -2738,11 +2738,11 @@
    "p": "In a fair touch test, what is the cup of untouched seedlings for?",
    "opts": [
     "It holds spare seedlings",
-    "It is the control to compare with",
     "It gets more light",
-    "It is for next week's test"
+    "It is for next week's test",
+    "It is the control to compare with"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The control shows how the seedlings grow without the change. Only by comparing with it can you tell what the strokes did.",
    "how": "e1",
    "outcome": 3
@@ -2752,11 +2752,11 @@
    "p": "Seedlings are stroked every day for a week. How do they usually grow?",
    "opts": [
     "Taller and thinner",
-    "Exactly as before",
     "Shorter and thicker",
+    "Exactly as before",
     "They stop growing"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Repeated touch makes a plant produce less of the hormone that lengthens stems and build thicker walls. 'Taller' is a common guess, from the idea that attention helps plants.",
    "outcome": 4
   },
@@ -2765,11 +2765,11 @@
    "p": "Which of these shows that a plant's body keeps information about the past?",
    "opts": [
     "A leaf is green",
-    "A flytrap closes only on a second touch",
     "A root grows in soil",
-    "A seed is small"
+    "A seed is small",
+    "A flytrap closes only on a second touch"
    ],
-   "a": 1,
+   "a": 3,
    "why": "To close on the second touch, the trap must hold on to the first touch for some seconds. The other three say nothing about the past.",
    "outcome": 5
   },
@@ -2778,11 +2778,11 @@
    "p": "After many harmless drops, touch-me-nots are shaken sideways and they fold. Which idea does the shake test?",
    "opts": [
     "Whether the plants need water",
-    "Whether the plants were simply tired",
     "Whether the plants are alive",
-    "Whether light matters"
+    "Whether light matters",
+    "Whether the plants were simply tired"
    ],
-   "a": 1,
+   "a": 3,
    "why": "If the plants were tired, they could not fold for the shake either. They folded, so tiredness is ruled out.",
    "outcome": 6
   },
@@ -2791,11 +2791,11 @@
    "p": "A surprising result is reported once. What makes scientists trust it more?",
    "opts": [
     "It appears in a newspaper",
+    "Others repeat it and get the same result",
     "The scientist is famous",
-    "It sounds exciting",
-    "Others repeat it and get the same result"
+    "It sounds exciting"
    ],
-   "a": 3,
+   "a": 1,
    "why": "A result that other laboratories can replicate is much less likely to be a fluke or a mistake. Fame and excitement are not evidence.",
    "outcome": 6
   },
@@ -2804,11 +2804,11 @@
    "p": "What is still debated about fungal networks in forests?",
    "opts": [
     "Whether fungi live in soil",
-    "Whether trees have roots",
     "How much food and news they carry between trees",
+    "Whether trees have roots",
     "Whether fungi are plants"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Everyone accepts that the networks exist. Scientists disagree about how much sugar and how many warnings pass through them in real forests, and whether seedlings gain from it.",
    "outcome": 7
   }

@@ -576,7 +576,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 ## Worksheets
 ### Friction: direction, use and heat (core) (core, 15 questions)
 1. (mcq) What must be true before friction can act between two things?  
-   Options: They must touch / They must be moving / They must be heavy / They must be rough  
+   Options: They must be moving / They must be heavy / They must be rough / They must touch  
    **Answer:** They must touch. *Why:* Friction is a contact force, so the two surfaces must touch. Choosing 'moving' forgets static friction, which acts on things that are still.
 2. (truefalse) True or false: friction can act on a thing that is not moving.  
    **Answer:** True. *Why:* True. Static friction holds a book still on a tilted board. A strong answer gives an example like this.
@@ -589,7 +589,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 6. (draw) Draw a book sliding to the right across a table. Add the friction arrow and label it.  
    **Answer:** A box on a line, with an arrow along the table pointing to the left, labelled 'friction'.. *Why:* A strong drawing puts the arrow along the table top, pointing against the slide. An arrow pointing down or to the right shows a mix-up with gravity or with the push.
 7. (mcq) In the Stopping Distance Test, the marble stopped sooner on a towel than on a bedsheet. What does that show?  
-   Options: The towel pushed back with a bigger force / The marble was slower on the towel's ramp / The bedsheet made the marble heavier / The towel had less friction  
+   Options: The marble was slower on the towel's ramp / The bedsheet made the marble heavier / The towel pushed back with a bigger force / The towel had less friction  
    **Answer:** The towel pushed back with a bigger force. *Why:* The marble had the same energy at the bottom each time. The towel used that energy up in a shorter distance, so its force against the marble was bigger.
 8. (sort) On a bicycle, sort these places into friction we want and friction we do not want.  
    **Answer:** brake pads on the rim → Friction wanted; tyres on the road → Friction wanted; the wheel axles → Friction not wanted; the links of the chain → Friction not wanted; hands on the handle grips → Friction wanted; shoes on the pedals → Friction wanted. *Why:* We want grip at the tyres, brake pads, pedals and handle grips. We want easy sliding in the axles and the chain, so those are oiled.
@@ -607,7 +607,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 14. (label) On a drawing of a bicycle, label two places where friction is wanted and two where it is not.  
    **Answer:** ['Wanted: tyres on the road', 'Wanted: brake pads on the rim', 'Not wanted: wheel axles', 'Not wanted: chain links']. *Why:* Pedals, handle grips and the seat are also right for 'wanted'. The pedal axle and the brake cable are also right for 'not wanted'.
 15. (mcq) Why do your palms get warm when you rub them together?  
-   Options: Friction turns the movement into heat / Rubbing squeezes blood into the palms / The air between them catches fire / Skin stores heat until it is rubbed  
+   Options: Rubbing squeezes blood into the palms / Friction turns the movement into heat / The air between them catches fire / Skin stores heat until it is rubbed  
    **Answer:** Friction turns the movement into heat. *Why:* Your arm muscles give the hands kinetic energy, and friction between the palms turns it into heat. Nothing was stored in the skin beforehand.
 ### Friction arrows and stopping distances (stretch) (stretch, 16 questions)
 1. (mcq) A box rides on a lorry that is speeding up. Which way does friction push the box?  
@@ -620,7 +620,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 4. (count) Three runs of a marble on a towel are 22, 26 and 24 centimetres. What is the mean, in centimetres?  
    **Answer:** 24. *Why:* 22 + 26 + 24 = 72. Then 72 ÷ 3 = 24. The mean is 24 centimetres.
 5. (mcq) A marble starts twice as high on the same ramp and towel. About how far does it roll?  
-   Options: About twice as far / The same distance / About half as far / About ten times as far  
+   Options: The same distance / About half as far / About twice as far / About ten times as far  
    **Answer:** About twice as far. *Why:* Twice the height gives about twice the kinetic energy at the bottom. The towel takes away about the same energy in each centimetre, so the marble rolls about twice as far.
 6. (draw) Draw a walker's back foot as she steps forward. Show the foot's push and the friction on the foot.  
    **Answer:** A foot on a floor line. One arrow on the floor pointing backward, labelled 'foot pushes floor'. One arrow on the foot pointing forward, labelled 'friction on foot'.. *Why:* A strong drawing has two arrows of the same length pointing opposite ways. The friction arrow is on the foot and points forward.
@@ -633,7 +633,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 10. (match) Match each trouble at home to a fix that makes sense.  
    **Answer:** A squeaky door hinge → a drop of oil; A zip that sticks → candle wax along the teeth; A jar lid that slips in the hand → a rubber band round the lid; A chopping board that slides → a damp cloth underneath; A heavy trunk to move across a room → round rods or pipes underneath. *Why:* Oil and wax are lubricants, for less friction. Rubber and a damp cloth grip, for more friction. Rollers swap sliding for rolling.
 11. (mcq) In the Warm Coin Test, a firm press warmed the coin more than a light press. Why?  
-   Options: The friction force was bigger / The coin moved faster / The cardboard was hotter to begin with / The coin became heavier  
+   Options: The coin moved faster / The cardboard was hotter to begin with / The coin became heavier / The friction force was bigger  
    **Answer:** The friction force was bigger. *Why:* A firmer press makes a bigger friction force. Energy turned into heat is force multiplied by distance, so the same strokes make more heat.
 12. (odd) Three of these forces act against a movement. Which one does not?  
    Options: Sliding friction / Air resistance / Upthrust / Water resistance  
@@ -661,7 +661,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 6. (count) A cycle brakes with a friction force of 40 newtons and stops in 5 metres. How many joules become heat?  
    **Answer:** 200. *Why:* Energy turned into heat is force multiplied by distance. 40 × 5 = 200 joules.
 7. (mcq) A train's wheels spin on wet rails. Why does the loco pilot lower the power before using sand?  
-   Options: A spinning wheel grips less / The engine needs to rest / Sand works only on a cold rail / Less power makes the train lighter  
+   Options: The engine needs to rest / Sand works only on a cold rail / Less power makes the train lighter / A spinning wheel grips less  
    **Answer:** A spinning wheel grips less. *Why:* Sliding friction is smaller than the biggest static friction. So a wheel that spins grips less than one that holds. Lowering the power lets the wheel stop slipping, and the sand then adds grip.
 8. (fill) A wheel that grips the road and pushes a car forward is using ____.  
    **Answer:** ['traction', 'friction']. *Why:* Traction is friction that pushes a wheel or a walker forward.
@@ -688,37 +688,37 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 
 ## Quiz
 1. (mcq) Which of these is a contact force?  
-   Options: Gravity on a falling mango / Friction on a sliding coin / A magnet's force on a pin / The Earth's pull on the Moon  
+   Options: Gravity on a falling mango / A magnet's force on a pin / The Earth's pull on the Moon / Friction on a sliding coin  
    **Answer:** Friction on a sliding coin. *Why:* Friction acts only where two surfaces touch. The other three act across a gap, so they are non-contact forces.
 2. (mcq) A carrom coin slides to the right. Which way does friction push the coin?  
-   Options: To the left / To the right / Downward / Upward  
+   Options: To the right / Downward / To the left / Upward  
    **Answer:** To the left. *Why:* The coin slides to the right over the board. Friction acts against that slide, so it points to the left.
 3. (mcq) You start to walk forward. Which way does friction from the floor push your back foot?  
-   Options: Forward / Backward / Downward / There is no friction  
+   Options: Backward / Forward / Downward / There is no friction  
    **Answer:** Forward. *Why:* Your foot pushes backward on the floor and would slide backward without friction. So friction on the foot points forward. Choosing 'backward' means using the rule 'friction is against movement', which is only half right.
 4. (mcq) A train's wheels spin on wet rails, and the train stays still. What is missing?  
-   Options: Enough friction between wheels and rails / Enough power in the engine / Enough weight in the coaches / Enough air in front  
+   Options: Enough power in the engine / Enough friction between wheels and rails / Enough weight in the coaches / Enough air in front  
    **Answer:** Enough friction between wheels and rails. *Why:* The engine is turning the wheels, so power is not the problem. The rails must push the wheels forward by friction, and wet rails give too little.
 5. (mcq) In a stopping distance test, why do you roll the marble three times on each surface?  
-   Options: One run can be a fluke / The marble needs to warm up / Three is a lucky number / The surface changes each time  
+   Options: The marble needs to warm up / One run can be a fluke / Three is a lucky number / The surface changes each time  
    **Answer:** One run can be a fluke. *Why:* A small push or a wrinkle can spoil one run. Three runs and a mean give a number you can trust more.
 6. (mcq) Which pair names useful friction first, and unwanted friction second, on a bicycle?  
-   Options: Brake pads, then the axle / The axle, then brake pads / The chain, then the tyres / The axle, then the chain  
+   Options: The axle, then brake pads / Brake pads, then the axle / The chain, then the tyres / The axle, then the chain  
    **Answer:** Brake pads, then the axle. *Why:* Brake pads must grip the rim, so friction there is useful. An axle must turn easily, so friction there wastes the rider's effort.
 7. (mcq) One coin is rubbed for 80 strokes and another for 20, in the same way. Which is warmer, and why?  
    Options: The 80-stroke coin: longer rubbing, more heat / The 20-stroke coin: less time to cool / Both the same: friction force was equal / Neither: coins cannot get warm  
    **Answer:** The 80-stroke coin: longer rubbing, more heat. *Why:* Energy turned into heat is friction force multiplied by distance rubbed. Four times the strokes is four times the distance, so more heat.
 8. (mcq) After a rolling ball stops, where has its kinetic energy gone?  
-   Options: Into heat in the ball, floor and air / Nowhere: it was destroyed / Back into the hand that rolled it / Into the ball's weight  
+   Options: Nowhere: it was destroyed / Back into the hand that rolled it / Into heat in the ball, floor and air / Into the ball's weight  
    **Answer:** Into heat in the ball, floor and air. *Why:* Friction and air resistance turn kinetic energy into heat. The heat spreads out, so we do not notice it, but the energy still exists.
 9. (mcq) A cycle goes twice as fast and brakes in the same way. About how far does it need to stop?  
-   Options: Four times as far / Twice as far / The same distance / Half as far  
+   Options: Twice as far / Four times as far / The same distance / Half as far  
    **Answer:** Four times as far. *Why:* Twice the speed means four times the kinetic energy. The same braking force needs four times the distance to turn it all into heat.
 10. (mcq) Which force from water acts on a boat even when the boat is still?  
-   Options: Upthrust / Water resistance / Sliding friction / Traction  
+   Options: Water resistance / Sliding friction / Upthrust / Traction  
    **Answer:** Upthrust. *Why:* Upthrust pushes up on anything in water, moving or still. Water resistance acts only when the boat moves through the water.
 11. (mcq) Which of these is still not fully understood by scientists?  
-   Options: Exactly how sliding atoms turn movement into heat / Whether friction makes heat / Whether oil makes friction smaller / Whether friction needs touching surfaces  
+   Options: Whether friction makes heat / Exactly how sliding atoms turn movement into heat / Whether oil makes friction smaller / Whether friction needs touching surfaces  
    **Answer:** Exactly how sliding atoms turn movement into heat. *Why:* Scientists agree that friction makes heat, that oil lowers friction and that friction is a contact force. The exact steps by which sliding atoms pass on their energy are still being studied.
 12. (mcq) A carrom player dusts the board with fine powder, so the coins slide further. What does the powder do?  
    Options: It lowers the friction between the coin and the board / It makes the friction bigger, so the coins stop sooner / It pushes the coins up off the board  

@@ -546,11 +546,11 @@
       "t": "mcq",
       "q": "A 100 watt television runs for 3 hours. How many watt-hours is that?",
       "options": [
-       "300 watt-hours",
        "103 watt-hours",
-       "33 watt-hours"
+       "33 watt-hours",
+       "300 watt-hours"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Watt-hours are watts times hours, and 100 times 3 is 300. Adding the numbers gives 103, which mixes up the two different things. Dividing gives 33, which is not what the question asks."
      },
      "context": "In this step, you work out how many squares each appliance uses."
@@ -1011,11 +1011,11 @@
       "t": "mcq",
       "q": "A chapati holds about 420,000 joules. Pretend lifting the bottle once takes 10 joules. About how many lifts is that?",
       "options": [
-       "About 42,000 lifts",
        "About 420 lifts",
+       "About 42,000 lifts",
        "About 4,200,000 lifts"
       ],
-      "a": 0,
+      "a": 1,
       "why": "420,000 divided by 10 is 42,000. If you picked 420, you took away three zeros instead of one. The chapati holds a very large number of lifts."
      },
      "context": "In this step, you work out how many lifts a chapati holds. You guess first."
@@ -1110,11 +1110,11 @@
       "t": "mcq",
       "q": "A 60 watt fan runs for 12 hours and a 2,000 watt geyser runs for 15 minutes. Which uses more energy?",
       "options": [
-       "The geyser, because it has more watts",
        "The fan, because it runs much longer",
+       "The geyser, because it has more watts",
        "They use the same"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The fan uses 60 times 12, which is 720 watt-hours. The geyser uses 2,000 times a quarter of an hour, which is 500 watt-hours. So the fan uses more. If you picked the geyser, you looked only at the watts. You must multiply, because time matters as much as watts."
      },
      "context": "In this step, you work out the energy each appliance uses in a day."
@@ -1217,11 +1217,11 @@
       "t": "mcq",
       "q": "A tap fills a one litre bottle in 5 seconds. How many litres a minute is that?",
       "options": [
-       "12 litres a minute",
        "5 litres a minute",
+       "12 litres a minute",
        "300 litres a minute"
       ],
-      "a": 0,
+      "a": 1,
       "why": "There are 60 seconds in a minute, and 60 divided by 5 is 12. The tap would fill 12 bottles in a minute. If you picked 300, you multiplied instead of dividing."
      },
      "context": "In this step, you turn your times into litres a minute and link the idea to joules and watts."
@@ -1312,11 +1312,11 @@
       "t": "mcq",
       "q": "A phone charger is warm. What does that tell you?",
       "options": [
-       "Some of the energy it takes in becomes heat instead of charging the phone",
        "The charger is broken",
+       "Some of the energy it takes in becomes heat instead of charging the phone",
        "The charger makes energy"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Every machine turns some of its energy into heat, so not all of the energy does the job. A charger that is a little warm is normal. It is broken only if it gets very hot or smells."
      },
      "context": "In this step, you say where the warmth comes from and where it goes."
@@ -1412,11 +1412,11 @@
       "t": "mcq",
       "q": "A bill shows 240 units used over 30 days. How many units a day is that?",
       "options": [
-       "8 units a day",
        "24 units a day",
-       "270 units a day"
+       "270 units a day",
+       "8 units a day"
       ],
-      "a": 0,
+      "a": 2,
       "why": "240 divided by 30 is 8. Twenty-four means you divided by 10. Two hundred seventy means you added the days instead of dividing."
      },
      "context": "In this step, you find the units your home uses in a day and for each person."
@@ -1569,11 +1569,11 @@
    "t": "mcq",
    "p": "Which is the best description of a watt?",
    "opts": [
-    "One joule of energy every second",
     "The amount of energy in a battery",
+    "One joule of energy every second",
     "The heat of a bulb"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A watt is a rate. One watt is one joule moving each second. The amount in a battery is counted in joules or watt-hours.",
    "outcome": 1
   },
@@ -1581,11 +1581,11 @@
    "t": "mcq",
    "p": "Which holds more energy, a chapati or a phone battery?",
    "opts": [
-    "A chapati holds about seven times as much",
     "A phone battery holds more",
+    "A chapati holds about seven times as much",
     "They hold the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A chapati holds about 420 kilojoules and a phone battery about 60. A battery gives its energy out faster, but the chapati holds more.",
    "outcome": 1
   },
@@ -1593,11 +1593,11 @@
    "t": "mcq",
    "p": "A 1,000 watt iron runs for 30 minutes. A 100 watt television runs for 8 hours. Which uses more energy?",
    "opts": [
-    "The television, 800 watt-hours",
     "The iron, because it has more watts",
-    "They use the same"
+    "They use the same",
+    "The television, 800 watt-hours"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The iron uses 1,000 times half an hour, which is 500 watt-hours. The television uses 100 times 8, which is 800 watt-hours. Time matters as much as watts.",
    "outcome": 4
   },
@@ -1605,11 +1605,11 @@
    "t": "mcq",
    "p": "A child climbs the same stairs slowly, and then fast. What stays the same?",
    "opts": [
-    "The joules",
     "The watts",
+    "The joules",
     "The seconds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The climb is the same height and the same body, so the joules are the same. The seconds and the watts change.",
    "outcome": 2
   },
@@ -1617,11 +1617,11 @@
    "t": "mcq",
    "p": "A bulb is warm after an hour. What does the warmth show?",
    "opts": [
-    "Some of the energy it took in did not become light, and spread out as heat",
     "The bulb is faulty",
-    "The bulb is making new energy"
+    "The bulb is making new energy",
+    "Some of the energy it took in did not become light, and spread out as heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every bulb turns some energy into heat. The warmth is the spread-out energy. No machine makes new energy.",
    "outcome": 5
   },
@@ -1641,11 +1641,11 @@
    "t": "mcq",
    "p": "The meter light blinks faster when a geyser is switched on. What does that mean?",
    "opts": [
-    "The home is taking energy at a higher rate, so more watts",
     "The geyser stores more energy",
+    "The home is taking energy at a higher rate, so more watts",
     "The meter is nearly full"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each blink counts the same amount of energy. More blinks each second means more energy each second, which is more watts.",
    "outcome": 3
   },
@@ -1653,11 +1653,11 @@
    "t": "mcq",
    "p": "What is one unit of electricity on a bill?",
    "opts": [
-    "3.6 million joules, the energy of a 1,000 watt appliance running for an hour",
     "One joule",
-    "One watt for one second"
+    "One watt for one second",
+    "3.6 million joules, the energy of a 1,000 watt appliance running for an hour"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One unit is one kilowatt-hour. That is 1,000 watts for 3,600 seconds, which is 3.6 million joules.",
    "outcome": 3
   },
@@ -1689,11 +1689,11 @@
    "t": "mcq",
    "p": "At noon on a clear day, about how much sunlight power reaches one square metre of ground?",
    "opts": [
-    "About 1,000 watts",
     "About 10 watts",
+    "About 1,000 watts",
     "About 1,000,000 watts"
    ],
-   "a": 0,
+   "a": 1,
    "why": "About 1,000 watts, which is like a 1,000 watt heater on every square metre. The Sun is very powerful, and the light is spread over a huge area.",
    "outcome": 1
   },
@@ -1707,13 +1707,13 @@
   {
    "t": "mcq",
    "p": "In a village, a solar panel fills a battery in the day, and the bulb lights at night. What happens to the energy?",
-   "a": 2,
+   "a": 0,
    "why": "Energy is never made or destroyed. In the panel, sunlight becomes electricity. The battery holds it, and the bulb turns it into light and some warmth. Choosing 'the battery makes new energy' breaks the rule that energy is never made.",
    "outcome": 5,
    "opts": [
+    "Sunlight changes into electricity, then into light",
     "The battery makes new energy each night",
     "Electricity is made from nothing at the panel",
-    "Sunlight changes into electricity, then into light",
     "The bulb makes light with no energy used"
    ]
   }
@@ -1923,11 +1923,11 @@
      "t": "mcq",
      "p": "Why does the meter light blink faster when you switch on a geyser?",
      "opts": [
-      "The geyser takes more joules every second, so the meter counts more blinks every second",
       "The geyser uses up the energy, so the meter has to hurry",
+      "The geyser takes more joules every second, so the meter counts more blinks every second",
       "The geyser makes the electricity hotter"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each blink counts the same fixed amount of energy. A geyser takes energy at a high rate in watts, so blinks come more often.",
      "outcome": 3
     }
@@ -2081,11 +2081,11 @@
      "t": "mcq",
      "p": "A ball rolls across the floor and stops. What happened to its movement energy?",
      "opts": [
-      "It became a little warmth and sound in the ball, the floor and the air",
       "It disappeared",
-      "It went back to the Sun"
+      "It went back to the Sun",
+      "It became a little warmth and sound in the ball, the floor and the air"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Energy is never destroyed. Friction turned the movement into warmth and sound, and they spread out.",
      "outcome": 5
     },
@@ -2151,11 +2151,11 @@
      "t": "mcq",
      "p": "Heater A uses 2,000 watts for 1 hour. Heater B uses 1,000 watts for 2 hours. Which uses more energy?",
      "opts": [
-      "They use the same, 2,000 watt-hours",
       "Heater A",
+      "They use the same, 2,000 watt-hours",
       "Heater B"
      ],
-     "a": 0,
+     "a": 1,
      "why": "2,000 times 1 is 2,000. 1,000 times 2 is also 2,000. The bigger watts and the longer time cancel out.",
      "outcome": 4
     },

@@ -495,7 +495,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 ## Worksheets
 ### Tastes and a Balanced Plate (core) (core, 16 questions)
 1. (mcq) Which sentence best describes a balanced diet?  
-   Options: Many different foods eaten over days, so the body gets all the nutrients it needs / One perfect plate at every single meal / Only the foods that people call healthy  
+   Options: One perfect plate at every single meal / Only the foods that people call healthy / Many different foods eaten over days, so the body gets all the nutrients it needs  
    **Answer:** Many different foods eaten over days, so the body gets all the nutrients it needs. *Why:* What matters is what you eat over days and weeks, not at a single meal. Many kinds of food together give all the nutrients. Choosing only 'healthy' foods can still leave out some groups.
 2. (truefalse) Each taste is sensed only in its own zone of the tongue.  
    **Answer:** False. *Why:* False. Taste buds for every taste are spread over the tongue. The zones differ only a little in how strongly they sense each taste. The old tongue map was a mistake.
@@ -506,7 +506,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 5. (sort) Sort each food by the taste it mainly gives.  
    **Answer:** jaggery → Sweet; tamarind → Sour; karela → Bitter; lemon → Sour; neem flowers → Bitter; honey → Sweet. *Why:* Jaggery and honey have sugar, which tastes sweet. Tamarind and lemon have acids, which taste sour. Karela and neem have bitter chemicals.
 6. (mcq) A green chilli makes your mouth feel hot. What does science say this heat is?  
-   Options: A signal of heat and pain from nerves, not one of the five tastes / The sixth basic taste / A sweet taste in disguise  
+   Options: The sixth basic taste / A signal of heat and pain from nerves, not one of the five tastes / A sweet taste in disguise  
    **Answer:** A signal of heat and pain from nerves, not one of the five tastes. *Why:* Chilli heat is felt by nerves that sense heat and pain. Science lists five tastes: sweet, sour, salty, bitter and umami. Ayurveda counts pungent as one of its six rasas.
 7. (truefalse) A glass of sweet fizzy drink and a ripe mango send the same sweet signal to the tongue.  
    **Answer:** True. *Why:* True. The tongue senses sugar and reports sweet. It cannot tell whether fibre, vitamins and water come with the sugar. The mango gives them, and the fizzy drink gives almost none.
@@ -515,7 +515,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 9. (write) True or false: sweet is tasted only at the tip of the tongue. Explain your answer, using what you found in the blind taste test.  
    **Answer:** I would say that is the old tongue map, and it is wrong. In our test, sweet was named correctly on the tip, the edges and the back. Taste buds for every taste are spread across the tongue. Some zones are a little more sensitive, but none are blind to a taste.. *Why:* A strong answer names the evidence from the test, that every taste was sensed in every zone. It may also say that small differences in strength are not the same as separate zones.
 10. (mcq) A thali has rice, roti, puri and halwa. Which food jobs are missing?  
-   Options: Body-building foods and protective foods / Energy foods / None, because the thali is full  
+   Options: Energy foods / None, because the thali is full / Body-building foods and protective foods  
    **Answer:** Body-building foods and protective foods. *Why:* Rice, roti, puri and halwa are all mostly energy foods. The thali also needs dal, curd or another pulse or milk food for building, and vegetables or fruit for protection.
 11. (odd) Which one is the odd one out, and why? Ragi, jowar, bajra, rice.  
    **Answer:** Rice, because the other three are millets.. *Why:* Ragi, jowar and bajra are millets, small-seeded grains that grow well in dry land. Rice is a different grain that needs much more water.
@@ -524,7 +524,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 13. (draw) Draw a plate for a festival meal that has all three food jobs. Label each food with its job.  
    **Answer:** A plate with at least one energy food such as rice or roti, one body-building food such as dal or curd, and one protective food such as a vegetable or fruit, each labelled.. *Why:* A strong drawing shows all three jobs on the one plate and labels them correctly. Two dishes may share a job, and one dish may do more than one job.
 14. (mcq) Why can many festival sweets, like laddu, be kept for weeks?  
-   Options: They have very little water, so microbes cannot grow in them / They are always kept in a fridge / They are cooked with a lot of water  
+   Options: They are always kept in a fridge / They have very little water, so microbes cannot grow in them / They are cooked with a lot of water  
    **Answer:** They have very little water, so microbes cannot grow in them. *Why:* Microbes need water to grow. A laddu is made of sugar, flour, ghee and nuts, with very little water in it, so spoilage microbes grow very slowly.
 15. (write) A laddu at Diwali fits in a balanced diet, but a laddu at every meal would not. Why not?  
    **Answer:** A laddu is rich in sugar and ghee, so it gives a lot of energy and few other nutrients. A balanced diet is a pattern over many days. One laddu on a special day is a small part of the pattern. Laddus at every meal would crowd out dal, vegetables and fruit.. *Why:* A strong answer says that a balanced diet is a pattern, and that one festival sweet is a small part of it. It may also say that eating it every day would leave less room for other foods.
@@ -535,7 +535,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: Umami / Pungent / Astringent  
    **Answer:** Umami. *Why:* Umami is the savoury taste of foods like ripe tomato and mushroom. Ayurveda's six rasas are sweet, sour, salty, pungent, bitter and astringent. Pungent and astringent are feelings, not tastes.
 2. (mcq) In 1942, a chart showed small differences in how strongly each part of the tongue senses a taste. The chart was then turned into a map of separate zones. What was the mistake?  
-   Options: Small differences in strength were read as separate zones / Taste buds were found only on the tip / People could not taste at all  
+   Options: Taste buds were found only on the tip / People could not taste at all / Small differences in strength were read as separate zones  
    **Answer:** Small differences in strength were read as separate zones. *Why:* Hänig's numbers in 1901 showed only small differences. When they were drawn as a map, each taste seemed to have its own zone. Careful tests in 1974 showed every zone senses every taste.
 3. (truefalse) A taste cell lives as long as the person who owns it.  
    **Answer:** False. *Why:* False. A taste cell lives only about ten days to two weeks, and then a new one grows. Your sense of taste is being rebuilt all the time.
@@ -554,12 +554,12 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 10. (write) Why does a sweet fizzy drink give a sweet taste without the goodness of a mango?  
    **Answer:** The tongue senses sugar and reports sweet. It cannot tell what else is in the food. A mango has sugar together with fibre, vitamins and water. A fizzy drink has sugar and almost nothing else. So both taste sweet, but only the mango gives the goodness.. *Why:* A strong answer says that taste is a signal from a chemical, and that the same signal can come with or without the other nutrients.
 11. (mcq) Two cousins taste the same piece of karela. One says it is very bitter and the other says it is a little bitter. What is the best explanation?  
-   Options: Their taste sensors differ a little because of genes and past experience / One of them must be telling a lie / The karela changed between the two bites  
+   Options: One of them must be telling a lie / Their taste sensors differ a little because of genes and past experience / The karela changed between the two bites  
    **Answer:** Their taste sensors differ a little because of genes and past experience. *Why:* People have slightly different genes for bitter sensors, and the foods they grew up on also change how strong a taste feels. So the same food can taste different to two people.
 12. (truefalse) Free school meals can bring more children to school as well as feeding them.  
    **Answer:** True. *Why:* True. Studies of school meals in India have found that more children come to school when a meal is served. Tamil Nadu began giving school meals in the 1950s, and a national scheme now reaches children across India.
 13. (mcq) A family eats rice, rice flakes and potato at most meals. Which change would improve their balance most?  
-   Options: Add dal or other pulses, vegetables, curd or milk, and fruit / Eat more rice so nobody is hungry / Stop eating rice completely  
+   Options: Eat more rice so nobody is hungry / Add dal or other pulses, vegetables, curd or milk, and fruit / Stop eating rice completely  
    **Answer:** Add dal or other pulses, vegetables, curd or milk, and fruit. *Why:* Rice, rice flakes and potato are all energy foods. The family's diet lacks building foods and protective foods. Adding them is better than removing the rice, which is still a useful staple.
 14. (draw) Draw a bowl of Ugadi pachadi with its six ingredients. Label the taste of each one.  
    **Answer:** A bowl with six labelled ingredients: jaggery (sweet), tamarind (sour), salt (salty), neem flowers (bitter), pepper (pungent) and raw mango (astringent).. *Why:* The pachadi holds all six rasas. A strong drawing labels each ingredient with its taste, and may note that pungent and astringent are feelings and not tastes.
@@ -573,14 +573,14 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 1. (write) Design a fair blind test to find out whether people can tell a spoon of sugar water from a spoon of apple juice with the same sweetness. Say what you keep the same and what you change.  
    **Answer:** I would put the sugar water and the apple juice in two cups the same size, with the same amount in each, and let the tester shut their eyes. A helper would shuffle the cups so the tester does not know which is which. The only thing I change is which liquid it is. I keep the temperature, the amount and the spoon the same. I would test many people and write down how often they are right.. *Why:* A strong answer keeps everything the same except the one thing being tested, hides which cup is which from the tester, and tests more than once. A control of two identical cups would also be a good idea.
 2. (mcq) A friend tests her own tongue with her eyes open and with no plain water cup. Which problem matters most?  
-   Options: She can see which cup is which, so her answers are not blind / She used cups instead of bowls / She rinsed her mouth between tests  
+   Options: She used cups instead of bowls / She rinsed her mouth between tests / She can see which cup is which, so her answers are not blind  
    **Answer:** She can see which cup is which, so her answers are not blind. *Why:* If the tester can see the cup, she may name the taste she expects and not the taste she feels. Hiding the cups, and adding plain water, makes the test fair. Rinsing is a good idea, not a problem.
 3. (perspective) Ayurveda says a good meal holds all six tastes. A nutrition scientist says a body needs nutrients, which are measured, and not tasted.  
    **Answer:** Answers vary. A strong answer picks a view and gives a reason, for example that tastes are a good guide for a cook, but nutrients must still be checked.. *Why:* Both views have something right. Tastes are a convenient guide, but they do not measure nutrients. The cook uses both, which is often how real planning works.
 4. (count) A festival feast has 15 dishes. One third are protective, and one third are body-building. How many are energy foods?  
    **Answer:** 5. *Why:* One third of 15 is 5. So 5 are protective and 5 are body-building. That leaves 15 take away 10, which is 5 energy foods. The feast has an equal number of each job.
 5. (mcq) A sweet like mysore pak keeps for weeks. Which fact explains this best?  
-   Options: It is made of sugar, flour and ghee with almost no water / It is cooked at a very high heat / It is wrapped in leaves  
+   Options: It is cooked at a very high heat / It is wrapped in leaves / It is made of sugar, flour and ghee with almost no water  
    **Answer:** It is made of sugar, flour and ghee with almost no water. *Why:* Microbes need water to grow. A food with sugar and fat but little water gives them almost nothing to work with, so it keeps. Heat during cooking does not protect food once it has cooled.
 6. (write) True or false: if you crave biscuits, it means your body needs them. Explain your answer, using what you know about taste.  
    **Answer:** A craving is a wish for a taste. Our body does have a real hunger for salt when we are short of it. But a craving for sugar, salt and fat in a packet is often habit, because factory food is made to be hard to stop. The biscuit gives the taste signal but not much else. So a craving does not always mean the body needs the food.. *Why:* A strong answer separates a taste signal from a need. It may say that some cravings, such as for salt, can be real, and that others come from habit and factory food.
@@ -614,16 +614,16 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: Not balanced, because it leaves out many groups of food / Balanced, because it fills her stomach / Balanced, because ghee is healthy  
    **Answer:** Not balanced, because it leaves out many groups of food. *Why:* Feeling full is not the same as getting every nutrient. Rice and ghee are both energy foods. A balanced diet also needs building foods and protective foods over the days.
 2. (mcq) Where on the tongue can you taste sour?  
-   Options: Anywhere there are taste buds / Only on the sides / Only at the back  
+   Options: Only on the sides / Anywhere there are taste buds / Only at the back  
    **Answer:** Anywhere there are taste buds. *Why:* Taste buds for every taste are found all over the tongue. The old map that put sour only on the sides was a mistake.
 3. (mcq) In the blind taste test, what is the job of the cup of plain water?  
-   Options: It checks whether the tester is really tasting or only guessing / It makes the other cups taste weaker / It gives the tester a drink  
+   Options: It makes the other cups taste weaker / It gives the tester a drink / It checks whether the tester is really tasting or only guessing  
    **Answer:** It checks whether the tester is really tasting or only guessing. *Why:* Plain water is the control. If the tester names a taste for it, the test shows that some answers may be guesses.
 4. (mcq) Which of these is not one of the five basic tastes found by science?  
-   Options: Pungent / Umami / Bitter  
+   Options: Umami / Pungent / Bitter  
    **Answer:** Pungent. *Why:* Pungent is the hot feeling of chilli and pepper, sensed by nerves of heat and pain. Umami and bitter are basic tastes sensed by taste cells.
 5. (mcq) Why do sprouted moong seeds cook faster than dry moong seeds?  
-   Options: They have taken in water and started to grow, so the seeds are softer inside / They are a different kind of seed / They are cooked on a hotter flame  
+   Options: They are a different kind of seed / They are cooked on a hotter flame / They have taken in water and started to grow, so the seeds are softer inside  
    **Answer:** They have taken in water and started to grow, so the seeds are softer inside. *Why:* In a fair test, the seed and the flame are the same. Soaking lets water in, and sprouting starts the seed breaking down the stored food, so the seed softens sooner.
 6. (mcq) A mango and a sweet fizzy drink both taste sweet. What is the main difference between them?  
    Options: The mango has fibre and vitamins with its sugar, and the drink has almost none / The mango has no sugar in it / The tongue can tell which one is healthier  
@@ -632,7 +632,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: It helps build the body / It mostly gives energy / It does nothing the rice does not do  
    **Answer:** It helps build the body. *Why:* Dal is rich in protein, which the body uses to grow and mend. Rice is the main energy food in this thali. The two do different jobs.
 8. (mcq) Why is Ugadi pachadi made with raw mango and neem flowers?  
-   Options: They are in season in spring, when Ugadi falls / They are the only foods that taste bitter and sour / They are the cheapest foods in the market all year  
+   Options: They are the only foods that taste bitter and sour / They are in season in spring, when Ugadi falls / They are the cheapest foods in the market all year  
    **Answer:** They are in season in spring, when Ugadi falls. *Why:* Festival foods often follow the season. Raw mango and neem flowers appear in spring. Their tastes also fit the idea of a bowl with all six tastes.
 9. (mcq) Which action helps the body take in iron from dal and palak?  
    Options: A squeeze of lemon on the meal / Drinking strong tea with the meal / Eating the meal very fast  
@@ -647,7 +647,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    Options: This week had few vegetables and fruits, so add some next week / The family has done something wrong and must be told off / Protective foods are not needed  
    **Answer:** This week had few vegetables and fruits, so add some next week. *Why:* A short row is information about the week, not a mistake. The next step is to add some of that group in a way the family enjoys.
 13. (mcq) In a Punjabi meal of makki roti, sarson saag and lassi, which item mainly builds the body?  
-   Options: Lassi, a milk drink / Makki roti / Sarson saag  
+   Options: Makki roti / Sarson saag / Lassi, a milk drink  
    **Answer:** Lassi, a milk drink. *Why:* Lassi is made from curd, which is a milk food with protein for building. Makki roti is mainly energy, and sarson saag mainly protects with vitamins and minerals.
 
 ## Applications

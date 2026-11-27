@@ -593,10 +593,10 @@
       "q": "A pangolin is covered in scales, and the mother feeds her baby milk. What is a pangolin?",
       "options": [
        "A fish",
-       "A mammal",
-       "A bird"
+       "A bird",
+       "A mammal"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Animals whose mothers feed them milk are mammals. A pangolin is a mammal with scales instead of fur. One body part alone does not tell you the group."
      }
     }
@@ -708,10 +708,10 @@
       "q": "Which mix belongs to a real animal?",
       "options": [
        "Feathers and four legs",
-       "Hair, two legs and no wings",
-       "Fur and six legs"
+       "Fur and six legs",
+       "Hair, two legs and no wings"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Hair, two legs and no wings is a human. No animal alive today has feathers and four legs, and no animal with fur has six legs."
      }
     }
@@ -859,11 +859,11 @@
       "t": "mcq",
       "q": "The dough animal fell over on two legs, but stood on three. Why can you stand on two legs?",
       "options": [
-       "Because your legs are longer",
        "Because your feet and ankles keep making tiny moves to keep you up",
+       "Because your legs are longer",
        "Because you are heavier"
       ],
-      "a": 1,
+      "a": 0,
       "why": "All the time you stand, your body keeps catching itself before you tip over. The dough cannot do that, so it needs three legs in a triangle."
      }
     }
@@ -1038,11 +1038,11 @@
       "t": "mcq",
       "q": "With a fin, the bottle stopped rolling. What does the fin on a fish's back do?",
       "options": [
-       "Helps the fish see",
        "Keeps the fish from rolling over",
+       "Helps the fish see",
        "Keeps the fish warm"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A fin pushes against the water when the fish starts to roll, so the fish stays upright. The tail fin is the one that pushes a fish forward."
      }
     }
@@ -1243,11 +1243,11 @@
       "t": "mcq",
       "q": "Your nails and a crow's feathers are made of the same material. What is it called?",
       "options": [
-       "Keratin",
        "Wood",
+       "Keratin",
        "Bone"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Hair, nails, feathers, horns and the scales of snakes and lizards are all made of keratin, shaped in different ways."
      }
     }
@@ -1311,11 +1311,11 @@
       "t": "mcq",
       "q": "Which animal moves with no legs?",
       "options": [
-       "A snake",
        "A sparrow",
-       "A cow"
+       "A cow",
+       "A snake"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A snake has no legs. The snake moves by bending their whole body and pushing against the ground."
      }
     }
@@ -1394,11 +1394,11 @@
       "t": "mcq",
       "q": "A crow lives on the water tank of your building. What kind of animal is the crow?",
       "options": [
+       "A wild animal",
        "A pet",
-       "A farm animal",
-       "A wild animal"
+       "A farm animal"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Nobody owns or feeds the crow. The crow finds their own food and home, so the crow is wild, even in a city."
      }
     }
@@ -1480,10 +1480,10 @@
       "q": "You make a tiger mask. What should you stick on the face to show their covering?",
       "options": [
        "Paper circles, for scales",
-       "Fur, such as cotton wool or wool",
-       "Paper strips, for feathers"
+       "Paper strips, for feathers",
+       "Fur, such as cotton wool or wool"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A tiger is a mammal and has fur. Scales belong to fish and snakes, and feathers belong to birds."
      }
     }
@@ -1554,11 +1554,11 @@
       "t": "mcq",
       "q": "The water rolled off the feather but soaked into the paper. Why is this useful for a bird?",
       "options": [
-       "It keeps the bird dry and light in the rain",
        "It makes the bird heavier",
+       "It keeps the bird dry and light in the rain",
        "It helps the bird lay eggs"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Wet feathers are heavy and cold. Feathers that shed water keep a bird light enough to fly and warm in the rain."
      }
     }
@@ -1624,11 +1624,11 @@
       "t": "mcq",
       "q": "Which fin pushes most fish forward?",
       "options": [
-       "The tail fin",
        "The fin on the back",
+       "The tail fin",
        "The side fins"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Most fish sweep their tail fin from side to side to push forward. The other fins keep the fish upright and help them steer and stop."
      }
     }
@@ -1717,10 +1717,10 @@
       "q": "Which of these is true about you?",
       "options": [
        "You have feathers and two legs",
-       "You have hair and two legs",
-       "You have scales and four legs"
+       "You have scales and four legs",
+       "You have hair and two legs"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Humans have hair and skin, and walk on two legs. Humans are mammals."
      }
     }
@@ -1799,11 +1799,11 @@
       "t": "mcq",
       "q": "Which change helps a two-legged body stand without help?",
       "options": [
-       "Thinner feet",
        "Wide feet with long toes",
+       "Thinner feet",
        "A taller body"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Wide feet with long toes give the body more floor to stand on, so the body does not tip as easily. A bird's spread toes do this."
      }
     }
@@ -2074,10 +2074,10 @@
      "p": "Which one is a mammal?",
      "opts": [
       "A hen",
-      "A cow",
-      "A crocodile"
+      "A crocodile",
+      "A cow"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A cow has hair, and her calf drinks her milk, so a cow is a mammal. A hen has feathers and a crocodile has scales, and both lay eggs."
     },
     {
@@ -2105,11 +2105,11 @@
      "t": "mcq",
      "p": "An Indian pangolin is covered in scales, and the mother feeds her baby milk. Which group is the pangolin in?",
      "opts": [
-      "Fish",
       "Mammals",
+      "Fish",
       "Birds"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Animals whose babies drink milk are mammals. The pangolin is a mammal with scales instead of fur. One body part alone does not tell you the group."
     },
     {
@@ -2279,11 +2279,11 @@
      "t": "mcq",
      "p": "A floating bottle rolls over when you flick it. What do you think happens if a fin is taped on underneath?",
      "opts": [
-      "The bottle rolls more",
       "The bottle rocks and stops",
+      "The bottle rolls more",
       "The bottle sinks"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The fin pushes against the water when the bottle starts to roll, so the bottle rocks and stops. A fish's back fin does the same job.",
      "how": "e2"
     },
@@ -2390,11 +2390,11 @@
      "t": "mcq",
      "p": "An animal has scales and four legs, and lays eggs on land. Which animal could this be?",
      "opts": [
-      "A fish",
       "A gecko",
+      "A fish",
       "A frog"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A gecko has scales and four legs, and lays eggs on land. A fish has no legs. A frog has bare skin, not scales, and lays eggs in water."
     },
     {
@@ -2543,11 +2543,11 @@
      "t": "mcq",
      "p": "Someone says: 'All animals with wings are birds.' Which animal shows that this is wrong?",
      "opts": [
-      "A crow",
       "A butterfly",
+      "A crow",
       "A peacock"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A butterfly has wings but is an insect, with six legs and no feathers. Crows and peacocks are birds, so they do not show that it is wrong."
     },
     {
@@ -2566,10 +2566,10 @@
    "p": "Which animal is covered in feathers?",
    "opts": [
     "A cat",
-    "A pigeon",
-    "A frog"
+    "A frog",
+    "A pigeon"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A pigeon is a bird, and every bird has feathers. A cat has fur, and a frog has bare skin.",
    "outcome": 0
   },
@@ -2589,11 +2589,11 @@
    "t": "mcq",
    "p": "Which animal swims with fins?",
    "opts": [
-    "A rohu fish",
     "A goat",
+    "A rohu fish",
     "A sparrow"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A rohu is a fish, and fish swim with fins. Goats walk on four legs, and sparrows fly with wings.",
    "outcome": 2
   },
@@ -2626,11 +2626,11 @@
    "t": "mcq",
    "p": "Which group are humans in?",
    "opts": [
-    "Birds",
     "Mammals",
+    "Birds",
     "Insects"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Humans have hair, and our babies drink milk, so we are mammals, like cows and dogs.",
    "outcome": 5
   },
@@ -2651,10 +2651,10 @@
    "p": "What does the fin on a fish's back do?",
    "opts": [
     "Pushes the fish forward",
-    "Keeps the fish from rolling over",
-    "Helps the fish breathe"
+    "Helps the fish breathe",
+    "Keeps the fish from rolling over"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The back fin pushes against the water when the fish starts to roll, like the fin on the floating bottle in the Roll Stopper test. The tail fin pushes the fish forward.",
    "how": "e2",
    "outcome": 2
@@ -2663,11 +2663,11 @@
    "t": "mcq",
    "p": "In the Dough Legs experiment, you stood still with your eyes shut. What did your feet and ankles do?",
    "opts": [
-    "Nothing at all",
     "Kept making tiny moves to keep you up",
+    "Nothing at all",
     "Went to sleep"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your feet and ankles keep making tiny moves to catch you before you tip. With your eyes shut, you sway more, so you feel them more.",
    "how": "e1",
    "outcome": 3
@@ -2676,11 +2676,11 @@
    "t": "mcq",
    "p": "A green parakeet lives in a forest in Kerala. What kind of animal is the parakeet?",
    "opts": [
-    "A pet",
     "A wild animal",
+    "A pet",
     "A farm animal"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The parakeet lives on their own and finds their own food, so the parakeet is wild. In India the law protects wild birds like parakeets.",
    "outcome": 4
   },
@@ -2688,11 +2688,11 @@
    "t": "mcq",
    "p": "What is your own body covered in?",
    "opts": [
-    "Feathers",
     "Skin and hair",
+    "Feathers",
     "Scales"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your body is covered in skin, with hair growing out of it. Like other mammals, you have hair.",
    "outcome": 0
   },
@@ -2701,10 +2701,10 @@
    "p": "A duck walks on land, paddles on a pond and flies over the field. Where can a duck move?",
    "opts": [
     "On land only",
-    "On land, in water and in the air",
-    "In water only"
+    "In water only",
+    "On land, in water and in the air"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Some animals use more than one place. A duck walks, swims and flies. A fish moves in water only, and a buffalo on land.",
    "outcome": 2
   },
@@ -2712,11 +2712,11 @@
    "t": "mcq",
    "p": "Your family keeps a pet cat. Why must someone give her food and fresh water every day?",
    "opts": [
-    "A pet cannot find her own food at home, so the family must give it",
     "Cats do not need water",
-    "Wild animals are given food every day too"
+    "Wild animals are given food every day too",
+    "A pet cannot find her own food at home, so the family must give it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A wild animal finds her own food, but a pet lives with a family who look after her. Every animal needs water, so a cat needs fresh water daily.",
    "outcome": 4
   },
@@ -2724,11 +2724,11 @@
    "t": "mcq",
    "p": "It is a very hot day. What is a kind thing to do for the birds near your building?",
    "opts": [
-    "Chase them away from the balcony",
     "Put a bowl of fresh water on the balcony",
+    "Chase them away from the balcony",
     "Throw a stone to see if they fly"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Birds feel thirst in the heat, as you do. A bowl of water is kind. Chasing or hurting animals frightens them and can harm them.",
    "outcome": 4
   },
@@ -2736,11 +2736,11 @@
    "t": "mcq",
    "p": "Asha makes a parrot mask for a play. Which covering should she stick on it?",
    "opts": [
-    "Cotton wool, for fur",
     "Paper strips, for feathers",
+    "Cotton wool, for fur",
     "Paper circles, for scales"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A parrot is a bird, and birds are covered in feathers. Fur belongs to mammals and scales to fish and snakes.",
    "outcome": 0
   }

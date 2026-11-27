@@ -395,7 +395,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Space → the room around things and between them; Distance → how much space there is between two things; Near → a small distance away; Far → a big distance away. *Why:* These are the four words the child needs for this lesson. Distance is a way of saying how much space is between things.
 2. (mcq) In the bottle strip test, the strip from 4 steps was shorter than the strip from 1 step. Why?  
-   Options: The bottle got smaller / You were farther away, so the bottle looked smaller / The pencil got shorter  
+   Options: You were farther away, so the bottle looked smaller / The bottle got smaller / The pencil got shorter  
    **Answer:** You were farther away, so the bottle looked smaller. *Why:* The bottle and the pencil stayed the same. Only the distance changed. Choosing 'the bottle got smaller' means thinking far things really shrink. Walking back and picking up the same bottle shows they do not.
 3. (draw) Draw two of the same tree: one near you, and one far away.  
    **Answer:** A big tree low on the page and a small tree higher up.. *Why:* A strong drawing shows the far tree smaller, because far things take up less of what we see. The trees are really the same size.
@@ -418,7 +418,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    **Answer:** 2. *Why:* The tumbler is a thing. It takes up space, and there is space all around it. The others are spaces between things or inside them.
 ### Why Far Things Look Small (stretch) (stretch, 11 questions)
 1. (mcq) In the mirror tunnel, how did each bindi look compared with the one before it?  
-   Options: Smaller and dimmer / Bigger and brighter / Exactly the same  
+   Options: Bigger and brighter / Smaller and dimmer / Exactly the same  
    **Answer:** Smaller and dimmer. *Why:* Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.
 2. (order) Put these in order, from nearest to you to farthest: the Moon, the ceiling fan, the Sun, a plane in the sky.  
    **Answer:** [0, 1, 2, 3]. *Why:* The fan is a few steps away, a plane about 10 kilometres up, the Moon about 384,000 kilometres away and the Sun about 150 million kilometres away.
@@ -475,24 +475,24 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    Options: Only the sky above us / The room around things and between them / Only places with nothing in them  
    **Answer:** The room around things and between them. *Why:* Space is everywhere, not only in the sky. It is the room around and between all things, even between your nose and this page.
 2. (mcq) Which of these is nearest to you right now?  
-   Options: Your nose / The door / The Moon  
+   Options: The door / The Moon / Your nose  
    **Answer:** Your nose. *Why:* Your nose is on your face, so there is almost no space between it and you. The door is a few steps away, and the Moon is very far.
 3. (mcq) You count 5 steps to the window and 9 steps to the door. Which is farther from you?  
-   Options: The window / The door / They are the same  
+   Options: The window / They are the same / The door  
    **Answer:** The door. *Why:* More steps means more space between, so the door is farther. 9 is more than 5.
 4. (mcq) Revathi says, "My tiffin box is in the bag, and the bag is on the chair." Where is the tiffin box?  
    Options: On the chair, with the bag inside it / Inside the bag, and the bag sits on the chair / Below the chair  
    **Answer:** Inside the bag, and the bag sits on the chair. *Why:* In means inside something. On means resting on top of something. The box is inside the bag, and the bag rests on the chair. Nothing here is below the chair.
 5. (mcq) You lie on your bed and look at the ceiling fan. Which way are you looking?  
-   Options: Up / Down / Left  
+   Options: Down / Up / Left  
    **Answer:** Up. *Why:* The ceiling is high above you, so you look up. Down is toward the floor. Left is sideways, toward your left hand.
 6. (mcq) You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?  
-   Options: Smaller / Bigger / Just the same  
+   Options: Bigger / Smaller / Just the same  
    **Answer:** Smaller. *Why:* From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.
 7. (truefalse) A thing that is far away is really smaller than the same thing close up.  
    **Answer:** False. *Why:* False. It only looks smaller. Walk up to it, and you find it is the same size as before.
 8. (mcq) The Sun is about 400 times wider than the Moon. Why does it look about the same size?  
-   Options: It is also about 400 times farther away / It is nearer than the Moon / The Moon is really bigger  
+   Options: It is nearer than the Moon / It is also about 400 times farther away / The Moon is really bigger  
    **Answer:** It is also about 400 times farther away. *Why:* Far things look smaller. The Sun is much bigger, and also much farther away, so in the sky they look about the same.
 9. (mcq) A plane high in the sky looks as small as a bird. Why?  
    Options: The plane shrinks when it flies / The plane is far away / Planes are really tiny  
@@ -504,10 +504,10 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    Options: The copies got too small and dim to see / The big mirror ran out / There was a wall at the end  
    **Answer:** The copies got too small and dim to see. *Why:* Each copy was farther and dimmer than the one before, until you could not see them any more. That did not show whether the row ended.
 12. (mcq) What fills the space in your room between the bed and the wall?  
-   Options: Nothing at all / Air / Water  
+   Options: Air / Nothing at all / Water  
    **Answer:** Air. *Why:* The space looks empty, but it is full of air. A shut bottle pushes back when you squeeze it, because it is full of air.
 13. (mcq) What is outer space like, out between the stars?  
-   Options: Full of air, like your room / Almost empty / Full of water  
+   Options: Full of air, like your room / Full of water / Almost empty  
    **Answer:** Almost empty. *Why:* Out between the stars, there is only about one tiny bit of gas in a space the size of a sugar cube. It is almost empty.
 
 ## Applications

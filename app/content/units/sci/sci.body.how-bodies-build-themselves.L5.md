@@ -602,7 +602,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 6. (truefalse) True or false: a germ layer is a layer of germs that can make you ill.  
    **Answer:** False. *Why:* False. 'Germ' here means a beginning, as in 'germinate'. A germ layer is a sheet of the embryo's own cells.
 7. (mcq) In the Curling Strip Test, which strips of spring onion curled the most?  
-   Options: The ones in plain water / The ones in salt water / The dry ones / All curled equally  
+   Options: The ones in salt water / The dry ones / All curled equally / The ones in plain water  
    **Answer:** The ones in plain water. *Why:* In plain water the soft cells on one face take in water and swell, so that face becomes longer and the strip curls. Check this against your own table.
 8. (write) In the Curling Strip Test, why were three strips used in each place and not one?  
    **Answer:** One strip can behave oddly because of how it was cut or which part of the leaf it came from. Three strips, and their mean, show what usually happens.. *Why:* A strong answer says that one result can be a fluke, and that repeats let you see the usual result.
@@ -620,7 +620,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 14. (write) Why does an embryo need a working heart when it is only a few millimetres long?  
    **Answer:** Food and oxygen can seep from cell to cell only over a very short distance. Once the embryo is thicker than that, blood must carry them, so a pump is needed.. *Why:* A strong answer links the size of the embryo to the need to move food and oxygen.
 15. (mcq) What do doctors give to women who may become pregnant, to help the neural tube close?  
-   Options: Extra salt / Vitamin D only / Folic acid / Antibiotics  
+   Options: Extra salt / Vitamin D only / Antibiotics / Folic acid  
    **Answer:** Folic acid. *Why:* Folate, a B vitamin, is needed in the first four weeks, when the neural tube closes. Tablets of folic acid lower the risk of a gap in the spine.
 ### Signals, switches and addresses (stretch, 15 questions)
 1. (mcq) Where in a growing hand is the signal Sonic hedgehog made?  
@@ -649,7 +649,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: Mouse / Fruit fly / Centipede / Jellyfish  
    **Answer:** 3. *Why:* A mouse, a fly and a centipede each have a head end and a tail end marked by a full row of Hox genes. A jellyfish is built in a ring and has only a few Hox-like genes.
 12. (mcq) A mouse's Pax6 gene is switched on in a fly's wing. What grows there?  
-   Options: A mouse's eye / A second wing / Nothing / A fly's eye  
+   Options: A fly's eye / A mouse's eye / A second wing / Nothing  
    **Answer:** A fly's eye. *Why:* Pax6 only says 'build an eye here'. The fly's own cells and genes do the building, so the eye is a fly's eye.
 13. (write) Why were scientists surprised to find the same Hox genes in a fly and a human?  
    **Answer:** The two bodies look completely different, so most scientists expected different genes to build them. The same genes mean both inherited them from one ancestor that lived very long ago.. *Why:* A strong answer gives the old expectation and says what the shared genes show about ancestry.
@@ -666,7 +666,7 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
 3. (write) In Regrow the Arm, rule B made the cut forget its number. What arm did rule B give, and why?  
    **Answer:** Rule B gave boxes 1 to 5 followed by a new 1 to 8: a whole arm growing out of a wrist. The cells at the cut started from the shoulder again because they did not know they were at the wrist.. *Why:* A strong answer describes the too-long arm and links it to the lost record of place.
 4. (mcq) Tadpoles given extra vitamin A grew legs where a cut tail had been. What had changed?  
-   Options: The tadpoles' DNA letters / The address that the stump cells read / The number of cells in the tail / The water temperature  
+   Options: The tadpoles' DNA letters / The number of cells in the tail / The address that the stump cells read / The water temperature  
    **Answer:** The address that the stump cells read. *Why:* Retinoic acid, made from vitamin A, is one of the signals for position. Too much of it reset the cells' address, so they built a different part. Their DNA stayed the same.
 5. (sort) Sort these by what usually happens after the part is lost.  
    **Answer:** An axolotl's leg → Regrows; A grown human's hand → Heals with a scar; A stag's antlers → Regrows; A zebrafish's fin → Regrows; A deep cut in human skin → Heals with a scar; A starfish's arm → Regrows. *Why:* Many animals rebuild lost parts. Mammals such as humans mostly close a deep wound quickly with scar tissue, though antlers show that a mammal can regrow bone.
@@ -705,13 +705,13 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: The embryo attaches to the womb / The fingers separate / The heart gets four chambers / Cells move to form three layers  
    **Answer:** Cells move to form three layers. *Why:* At gastrulation, cells move through a groove and settle into an outer, a middle and an inner layer. Attaching to the womb happens about a week earlier.
 3. (mcq) Which germ layer makes the brain and the nerves?  
-   Options: The mesoderm, the middle layer / The endoderm, the inner layer / The ectoderm, the outer layer / None: the brain forms separately  
+   Options: The mesoderm, the middle layer / The ectoderm, the outer layer / The endoderm, the inner layer / None: the brain forms separately  
    **Answer:** The ectoderm, the outer layer. *Why:* The brain begins as a strip of the outer layer that rolls into a tube. Choosing the middle layer may come from thinking of the brain as being deep inside.
 4. (mcq) Which pair both come from the mesoderm?  
-   Options: Skin and liver / Bone and blood / Brain and nails / Lungs and nerves  
+   Options: Bone and blood / Skin and liver / Brain and nails / Lungs and nerves  
    **Answer:** Bone and blood. *Why:* The middle layer makes bones, muscles, the heart and blood. Brain and nails are ectoderm. The liver and the lining of the lungs are endoderm.
 5. (mcq) A flat strip of cells bends by itself. What must have happened?  
-   Options: One face became longer than the other / Something outside pushed it / The strip dried evenly / All its cells grew equally  
+   Options: Something outside pushed it / The strip dried evenly / All its cells grew equally / One face became longer than the other  
    **Answer:** One face became longer than the other. *Why:* A strip curls only when its two faces become different in length. Equal growth makes a strip longer but leaves it flat.
 6. (truefalse) True or false: strips of spring onion curl as much in strong salt water as in plain water.  
    **Answer:** False. *Why:* False. In salt water the cells cannot take in water, so the soft face does not swell and the strip stays limp.
@@ -719,19 +719,19 @@ Kayal opened her mouth to answer. She looked at the seven dancers, and at the po
    Options: From DNA that other cells lack / From the size of the cell / By chance / From how much signal reaches the cell  
    **Answer:** From how much signal reaches the cell. *Why:* All the cells have the same DNA. A signal made at the little-finger edge thins out across the hand, and each cell acts on how much they sense.
 8. (mcq) What is the best description of a Hox gene?  
-   Options: The full plan for a leg / A gene found only in flies / A switch that marks a place along the body / A gene that makes cells divide  
+   Options: The full plan for a leg / A switch that marks a place along the body / A gene found only in flies / A gene that makes cells divide  
    **Answer:** A switch that marks a place along the body. *Why:* A Hox gene tells cells where along the body they are, and so which part to build. The plans for the part itself are in many other genes.
 9. (mcq) A fly grows legs where the antennae should be. What went wrong?  
-   Options: The fly ate the wrong food / A Hox switch was on in the wrong place / The leg genes were missing / The antennae fell off  
+   Options: A Hox switch was on in the wrong place / The fly ate the wrong food / The leg genes were missing / The antennae fell off  
    **Answer:** A Hox switch was on in the wrong place. *Why:* The legs are normal, so the leg genes work. A Hox gene that should be off in the head was on there, and gave the cells the wrong address.
 10. (mcq) Flies and humans use the same family of Hox genes. What is the best explanation?  
-   Options: Both got them from an ancestor they share / Humans got them from eating flies / It is a coincidence / All genes are the same in all animals  
+   Options: Humans got them from eating flies / Both got them from an ancestor they share / It is a coincidence / All genes are the same in all animals  
    **Answer:** Both got them from an ancestor they share. *Why:* The genes match in their DNA letters and in their order on the chromosome. The simplest explanation is that both animals inherited them from one ancestor, long ago.
 11. (mcq) An axolotl cut at the elbow regrows a forearm and hand, not a whole arm. Why?  
-   Options: She runs out of energy / The other arm tells her when to stop / The cut seals the stump / The stump cells remember where they are  
+   Options: The stump cells remember where they are / She runs out of energy / The other arm tells her when to stop / The cut seals the stump  
    **Answer:** The stump cells remember where they are. *Why:* The cells at the cut keep a record of their place along the arm, so they build only what lies beyond it. This is called positional memory.
 12. (mcq) Scientists disagree about why humans cannot regrow a hand. Which is one of their ideas?  
-   Options: Humans have no stem cells / Human DNA has no building genes / Fast scarring blocks the regrowing signals / Hands are too heavy  
+   Options: Fast scarring blocks the regrowing signals / Humans have no stem cells / Human DNA has no building genes / Hands are too heavy  
    **Answer:** Fast scarring blocks the regrowing signals. *Why:* One idea is that mammals close wounds fast with a scar, and scar tissue blocks the signals a blastema needs. Humans do have stem cells and nearly all the genes an axolotl uses.
 
 ## Applications

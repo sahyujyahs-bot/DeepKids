@@ -521,7 +521,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
 ## Worksheets
 ### The moving ground (core, 16 questions)
 1. (mcq) Which layer of the Earth do we live on?  
-   Options: The crust / The mantle / The outer core  
+   Options: The mantle / The outer core / The crust  
    **Answer:** The crust. *Why:* We live on the crust, the thin outer layer. The mantle begins tens of kilometres below us, and nobody has ever reached it.
 2. (fill) The layer of liquid metal deep inside the Earth is the outer ____.  
    **Answer:** ['core']. *Why:* The outer core is liquid iron and nickel. The inner core, at the very centre, is solid.
@@ -537,7 +537,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
 7. (order) Put these in order to tell how an earthquake happens.  
    **Answer:** ['The plates keep moving', 'The rock at the fault stays stuck', 'The rock bends and stores energy', 'The stuck rock suddenly slips', 'Waves of shaking spread out']. *Why:* The plates never stop, but friction holds the fault. The rock bends like a stretched rubber band until the stuck patch gives way, and the stored energy travels out as waves.
 8. (mcq) What do we call the place on the surface straight above the start of an earthquake?  
-   Options: The epicentre / The focus / The crater  
+   Options: The focus / The crater / The epicentre  
    **Answer:** The epicentre. *Why:* The epicentre is on the surface. The focus is the place underground where the slip begins. A crater belongs to a volcano.
 9. (fill) Melted rock that is still under the ground is called ____.  
    **Answer:** ['magma']. *Why:* It is magma while it is underground and lava once it comes out onto the surface.
@@ -560,7 +560,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
 1. (order) Put India's journey in order, from the oldest event to the newest.  
    **Answer:** ['India is part of Gondwana', 'India splits from Madagascar', 'The Deccan lava floods pour out', 'India touches Asia', 'The Himalaya rise']. *Why:* India left Gondwana, lost Madagascar about 88 million years ago, crossed a hot spot about 66 million years ago and met Asia about 50 million years ago. The Himalaya have been rising since.
 2. (mcq) What are the Deccan Traps mostly made of?  
-   Options: Basalt, which is cooled lava / Sand laid down by rivers / Old coral reefs  
+   Options: Sand laid down by rivers / Basalt, which is cooled lava / Old coral reefs  
    **Answer:** Basalt, which is cooled lava. *Why:* They are layer upon layer of basalt from lava floods. Sandstone and coral rock form in water, in a quite different way.
 3. (truefalse) Barren Island in the Andaman Sea is an active volcano.  
    **Answer:** True. *Why:* True. It erupted in 1991 after well over a century of quiet, and it has erupted on and off ever since.
@@ -574,7 +574,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
 7. (count) A tsunami crosses deep ocean at 700 kilometres an hour. A coast is 1,400 kilometres away. How many hours until it arrives?  
    **Answer:** 2. *Why:* 1,400 divided by 700 is 2 hours. That is enough time to clear a coast, if a warning is sent and people know what to do.
 8. (mcq) How much more does the ground move in a magnitude 7 earthquake than in a magnitude 6?  
-   Options: 10 times more / Twice as much / A little more  
+   Options: Twice as much / 10 times more / A little more  
    **Answer:** 10 times more. *Why:* Each whole step in magnitude means ten times more ground movement. If you chose 'a little more', remember that the scale multiplies and does not add.
 9. (truefalse) An earthquake has one magnitude, but the shaking it causes differs from place to place.  
    **Answer:** True. *Why:* True. Magnitude measures the size at the source. How hard the ground shakes at your home depends on your distance and on the soil under you.
@@ -596,7 +596,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
    **Answer:** ['Gond', 'Gonds']. *Why:* Geologists named the old southern land after the region of the Gond people, where the first rocks of that age were studied.
 ### Read the evidence (challenge, 16 questions)
 1. (mcq) Why does a P wave reach a seismograph before an S wave from the same earthquake?  
-   Options: It travels faster / It sets off earlier / It is stronger  
+   Options: It sets off earlier / It travels faster / It is stronger  
    **Answer:** It travels faster. *Why:* Both leave at the same moment. P waves travel at about 6 kilometres a second in the crust and S waves at about 4, so the P wave wins the race.
 2. (count) A P wave travels 6 kilometres a second. A seismograph is 300 kilometres away. After how many seconds does it arrive?  
    **Answer:** 50. *Why:* 300 divided by 6 is 50 seconds. Seismologists use arrival times like this from many stations to find where an earthquake began.
@@ -644,39 +644,39 @@ After the call she sat on the steps outside and pressed both palms flat on the w
    Options: The mantle / The crust / The inner core  
    **Answer:** The mantle. *Why:* The mantle is about 2,900 kilometres thick. The crust is the thinnest layer, and the inner core is a ball about 1,220 kilometres in radius.
 3. (mcq) About how fast do plates move?  
-   Options: As fast as fingernails grow / As fast as a person walks / They stay where they are  
+   Options: As fast as a person walks / They stay where they are / As fast as fingernails grow  
    **Answer:** As fast as fingernails grow. *Why:* Plates move 2 to 10 centimetres a year. If you chose 'they stay', remember that satellites measure the movement every day.
 4. (mcq) What happens where two plates carrying continents push together?  
-   Options: High mountains rise / A new ocean opens / A hot spot forms  
+   Options: A new ocean opens / High mountains rise / A hot spot forms  
    **Answer:** High mountains rise. *Why:* Continent rock is too light to dive, so it crumples and piles up, as in the Himalaya. A new ocean opens where plates move apart.
 5. (mcq) What makes the ground shake in an earthquake?  
-   Options: Stuck rock suddenly slipping / Wind rushing out of caves / The core spinning faster  
+   Options: Wind rushing out of caves / Stuck rock suddenly slipping / The core spinning faster  
    **Answer:** Stuck rock suddenly slipping. *Why:* Rock bends while a fault is stuck and then slips. The wind idea is very old and was given up when faults were studied.
 6. (truefalse) The focus of an earthquake is underground, and the epicentre is on the surface above it.  
    **Answer:** True. *Why:* True. The slip begins at the focus. The epicentre is the point on the map straight above.
 7. (mcq) Why do some volcanoes explode?  
-   Options: Sticky magma traps the gas / They are taller than others / Their lava is colder than ice  
+   Options: They are taller than others / Sticky magma traps the gas / Their lava is colder than ice  
    **Answer:** Sticky magma traps the gas. *Why:* Thick magma holds its bubbles until the push blows it apart. Runny magma lets the gas out, and its lava flows quietly.
 8. (mcq) A volcano has been quiet for 300 years. What is the most truthful thing to say?  
-   Options: It may still erupt again / It is certainly dead / It was never a volcano  
+   Options: It is certainly dead / It may still erupt again / It was never a volcano  
    **Answer:** It may still erupt again. *Why:* A volcano's life is far longer than 300 years. Barren Island was quiet for well over a century before 1991.
 9. (mcq) Where do most earthquakes and volcanoes happen?  
-   Options: Along the edges of plates / Evenly all over the Earth / Only in hot countries  
+   Options: Evenly all over the Earth / Only in hot countries / Along the edges of plates  
    **Answer:** Along the edges of plates. *Why:* Marked on a map, they fall into narrow belts along plate edges. Iceland and Alaska are cold and have plenty of both.
 10. (mcq) Which of these lies far from any plate edge?  
-   Options: Latur / Kathmandu / The Nicobar Islands  
+   Options: Kathmandu / Latur / The Nicobar Islands  
    **Answer:** Latur. *Why:* Latur is deep inside the Indian plate, which is why its earthquake in 1993 surprised people. The other two lie along plate edges.
 11. (mcq) What built the Himalaya?  
-   Options: India pushing into Asia / A giant volcano / The Deccan lava floods  
+   Options: A giant volcano / India pushing into Asia / The Deccan lava floods  
    **Answer:** India pushing into Asia. *Why:* The sea floor between India and Asia was squeezed and lifted. That is why the high rocks hold sea shells and no lava.
 12. (mcq) Where is India's active volcano?  
-   Options: Barren Island, in the Andaman Sea / Mahabaleshwar, in Maharashtra / Bhuj, in Gujarat  
+   Options: Mahabaleshwar, in Maharashtra / Bhuj, in Gujarat / Barren Island, in the Andaman Sea  
    **Answer:** Barren Island, in the Andaman Sea. *Why:* Barren Island sits above a diving plate. Mahabaleshwar is old Deccan lava that stopped flowing about 66 million years ago.
 13. (mcq) Which of these can scientists do today?  
    Options: Warn seconds after an earthquake starts / Name the day a week ahead / Stop a fault from slipping  
    **Answer:** Warn seconds after an earthquake starts. *Why:* Sensors catch the first waves and send an alert ahead of the strong shaking. Nobody can name the day or stop the slip.
 14. (mcq) Rain and rivers wear a hill down a little every year, and carry the grains away. What is this called?  
-   Options: Erosion / Lava / A seismic wave  
+   Options: Lava / A seismic wave / Erosion  
    **Answer:** Erosion. *Why:* Erosion is the slow wearing away of land by rain, rivers, wind and ice. Lava is melted rock that has reached the surface, and a seismic wave carries an earthquake's energy. Neither wears land away.
 15. (mcq) The floor starts to shake hard while you are indoors. What do you do first?  
    Options: Drop, cover your head, hold on / Run to the lift / Stand at the window to look  

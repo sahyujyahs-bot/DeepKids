@@ -552,7 +552,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 4. (truefalse) True or false: a baby girl is born with her egg cells already in her ovaries.  
    **Answer:** True. *Why:* True. Egg cells begin forming before a girl is born. About 1 to 2 million are there at birth.
 5. (mcq) Where are sperm cells made?  
-   Options: In the testes / In the bladder / In the womb  
+   Options: In the bladder / In the testes / In the womb  
    **Answer:** In the testes. *Why:* The two testes make sperm cells from puberty onwards. The bladder only stores urine.
 6. (match) Match each part of the body to its work.  
    **Answer:** Ovary → keeps and ripens egg cells; Testis → makes sperm cells; Egg tube → where the two cells meet; Womb → where the baby grows. *Why:* Egg cells ripen in an ovary and sperm cells are made in a testis. The two meet in an egg tube, and the embryo grows in the womb.
@@ -570,7 +570,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 12. (sort) Sort each change at puberty: does it happen to girls, to boys, or to everyone?  
    **Answer:** periods begin → Girls; testes start making sperm cells → Boys; growing faster → Everyone; hair grows under the arms → Everyone; breasts grow → Girls; the voice deepens a lot → Boys. *Why:* Hormones start all of these changes. Some are shared, and some depend on whether the body has ovaries or testes.
 13. (mcq) What is a period?  
-   Options: The womb's unused lining leaving the body / Blood from an injury / A sign of illness  
+   Options: Blood from an injury / The womb's unused lining leaving the body / A sign of illness  
    **Answer:** The womb's unused lining leaving the body. *Why:* Each month the womb builds a lining for an embryo. If none arrives, the lining comes away. Nothing is injured.
 14. (draw) Draw an egg cell and a sperm cell side by side. Label what each one brings.  
    **Answer:** A large round egg cell labelled with half the instructions, food and mitochondria. A tiny sperm cell with a tail, labelled with half the instructions.. *Why:* A strong drawing shows the difference in size, and that both bring half of the instructions.
@@ -578,12 +578,12 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    **Answer:** Any three, for example: parents raising the child born to them, adoption, a single parent, grandparents raising a child, a step-family, or help from IVF.. *Why:* Every child begins from an egg cell and a sperm cell. A family is the people who love and raise the child.
 ### The journey, the cycle and chance (stretch) (stretch, 15 questions)
 1. (mcq) Why must sex cells carry half the usual number of chromosomes?  
-   Options: So the number is 46 again after they join / Because sex cells are small / So that they can swim faster  
+   Options: Because sex cells are small / So the number is 46 again after they join / So that they can swim faster  
    **Answer:** So the number is 46 again after they join. *Why:* If each carried 46, the zygote would have 92, and the number would double in every generation.
 2. (truefalse) True or false: the embryo gets bigger with every division in the first three days.  
    **Answer:** False. *Why:* False. The cells get smaller each time they divide, so the embryo stays about the size of the egg cell.
 3. (mcq) After one sperm cell joins, what does the egg cell's coat do?  
-   Options: It changes to keep other sperm cells out / It opens wider / It dissolves at once  
+   Options: It opens wider / It changes to keep other sperm cells out / It dissolves at once  
    **Answer:** It changes to keep other sperm cells out. *Why:* A second sperm cell would bring too many chromosomes. The coat changes within moments to block it.
 4. (fill) The embryo attaching to the lining of the womb is called ____.  
    **Answer:** ['implantation']. *Why:* Implantation usually happens 8 to 10 days after ovulation.
@@ -594,7 +594,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 7. (sort) Sort each thing: does it come from the egg cell only, or from both cells?  
    **Answer:** mitochondria → Egg cell only; chromosomes → Both cells; food for the first days → Egg cell only; instructions for building a body → Both cells. *Why:* Both cells bring half of the chromosomes. The egg cell also brings the food store and the mitochondria that last.
 8. (mcq) A family has four daughters. What is the chance that the next baby is a girl?  
-   Options: About one in two / Very small / Certain  
+   Options: Very small / About one in two / Certain  
    **Answer:** About one in two. *Why:* Each time, a sperm cell with an X or with a Y arrives by chance. Earlier babies do not change the next one.
 9. (write) Explain why nobody chooses whether a baby is XX or XY.  
    **Answer:** Every egg cell carries an X. Half the sperm cells carry an X and half carry a Y. Which sperm cell joins the egg cell is chance, so nobody controls it.. *Why:* A strong answer names both cells and says that which sperm cell arrives is chance.
@@ -607,7 +607,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 13. (perspective) Two girls disagree about when a person begins.  
    **Answer:** Answers vary. For Yazhini: the zygote is the first cell with this person's own set of 46 chromosomes. For Ananya: both cells were alive before, the embryo is not attached for a week, and one embryo can still split into twins.. *Why:* Both girls are using the science. The facts do not settle it, because the answer depends on what we mean by 'a person'.
 14. (mcq) Why do the testes hang outside the belly?  
-   Options: Sperm cells are made best slightly cooler / To protect them from harm / They are too large to fit inside  
+   Options: To protect them from harm / Sperm cells are made best slightly cooler / They are too large to fit inside  
    **Answer:** Sperm cells are made best slightly cooler. *Why:* Sperm cells are made best about 2 degrees cooler than the inside of the body.
 15. (fill) Chemical messages carried in the blood are called ____.  
    **Answer:** ['hormones']. *Why:* Hormones from a gland under the brain start puberty, and hormones run the monthly cycle.
@@ -615,7 +615,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 1. (write) Use the Two Gates Test to explain why millions of sperm cells start.  
    **Answer:** In the test each bean had a small chance, and a bean usually arrived only when many started. In a body the chance for each sperm cell is far smaller, so far more must start for a few to arrive.. *Why:* A strong answer links a small chance for each one to the need for a large number of starters.
 2. (mcq) Which of these does the Two Gates Test leave out?  
-   Options: Real sperm cells sense and respond / Chance plays a part / Many must start  
+   Options: Chance plays a part / Real sperm cells sense and respond / Many must start  
    **Answer:** Real sperm cells sense and respond. *Why:* Beans and a die show the part that chance plays. They cannot show living cells that swim and sense chemicals.
 3. (truefalse) True or false: scientists have watched and counted embryos being lost inside a woman's body.  
    **Answer:** False. *Why:* False. Nobody can see this happen inside a body. The figure of 40 to 50 in 100 is an estimate worked out from other measurements.
@@ -630,7 +630,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
 8. (match) Match each living being to how the sex of the young is settled.  
    **Answer:** Human → by the sperm cell's X or Y; Hen → by a chromosome in the egg cell; Sea turtle → by the warmth of the nest. *Why:* Living beings settle this in different ways. In humans it is the sperm cell, in birds the egg cell, and in sea turtles the temperature.
 9. (mcq) Why is a hen's egg cell so much bigger than a human egg cell?  
-   Options: All the chick's food must be packed inside / Hens are bigger than humans / A hen's cells are always larger  
+   Options: Hens are bigger than humans / All the chick's food must be packed inside / A hen's cells are always larger  
    **Answer:** All the chick's food must be packed inside. *Why:* A chick grows outside the mother, so the egg holds all the food. A human embryo is fed through the placenta.
 10. (write) A due date is 40 weeks after the last period began. Why has the baby been growing for only about 38 weeks?  
    **Answer:** Ovulation and fertilisation happen about two weeks after a period begins. So the count of 40 weeks starts about two weeks before the baby began.. *Why:* A strong answer says that doctors count from the last period because that day is known, and fertilisation comes about two weeks later.
@@ -656,7 +656,7 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    Options: Half of the instructions / All of the instructions / The food for the first week  
    **Answer:** Half of the instructions. *Why:* The sperm cell brings 23 chromosomes, which is half. The egg cell brings the other half and the food store.
 2. (mcq) Where does a woman's body keep egg cells?  
-   Options: In the ovaries / In the womb / In the egg tubes  
+   Options: In the womb / In the egg tubes / In the ovaries  
    **Answer:** In the ovaries. *Why:* Egg cells are kept and ripened in the two ovaries. The womb is where a baby grows.
 3. (mcq) What does a zygote have that neither sex cell had alone?  
    Options: A full set of 46 chromosomes / A tail for swimming / A placenta  
@@ -665,28 +665,28 @@ Each of them began the way Miriam first saw it. Two cells that were given enough
    Options: In an egg tube / In the womb / In the vagina  
    **Answer:** In an egg tube. *Why:* They meet in an egg tube. The embryo reaches the womb about five days later.
 5. (mcq) About when does the embryo attach to the lining of the womb?  
-   Options: About 8 to 10 days after ovulation / Within one hour / After three months  
+   Options: Within one hour / After three months / About 8 to 10 days after ovulation  
    **Answer:** About 8 to 10 days after ovulation. *Why:* The embryo floats free for about a week and then attaches. This is implantation.
 6. (mcq) Each traveller has only a small chance of arriving. What makes it likely that one arrives?  
-   Options: Many of them starting / One very strong one / Starting earlier in the day  
+   Options: One very strong one / Starting earlier in the day / Many of them starting  
    **Answer:** Many of them starting. *Why:* In the Two Gates Test a bean usually arrived only when many started. More starters means more chances.
 7. (mcq) Which cell settles whether the zygote is XX or XY?  
    Options: The sperm cell / The egg cell / Neither. It is settled at birth  
    **Answer:** The sperm cell. *Why:* Every egg cell carries an X. The sperm cell carries an X or a Y.
 8. (mcq) What starts the changes of puberty?  
-   Options: Hormone messages from a gland under the brain / Eating more food / Reaching the age of thirteen  
+   Options: Eating more food / Reaching the age of thirteen / Hormone messages from a gland under the brain  
    **Answer:** Hormone messages from a gland under the brain. *Why:* A small gland under the brain sends hormones to the ovaries or testes. The age differs from child to child.
 9. (mcq) If no embryo arrives in a month, what happens to the womb's lining?  
-   Options: It comes away as a period / It stays for the next month / It turns into an egg cell  
+   Options: It stays for the next month / It turns into an egg cell / It comes away as a period  
    **Answer:** It comes away as a period. *Why:* The lining is not needed, so it comes away and leaves as a period. Then a new lining is built.
 10. (mcq) What is the same about a child born after IVF and every other child?  
-   Options: Both began from an egg cell and a sperm cell / Both began in a glass dish / Nothing is the same  
+   Options: Both began in a glass dish / Nothing is the same / Both began from an egg cell and a sperm cell  
    **Answer:** Both began from an egg cell and a sperm cell. *Why:* Every person begins from one egg cell and one sperm cell. In IVF the two cells meet in a dish.
 11. (mcq) Who are an adopted child's parents?  
    Options: The people who raise the child / Only the birth parents / Nobody  
    **Answer:** The people who raise the child. *Why:* Adoption makes the people who raise a child their parents, by law and for life. Birth parents are part of the child's story too.
 12. (mcq) Why can scientists only estimate how many embryos are lost before they attach?  
-   Options: Nobody can see it happen inside a body / Nobody has tried to find out / It happens only in other animals  
+   Options: Nobody has tried to find out / Nobody can see it happen inside a body / It happens only in other animals  
    **Answer:** Nobody can see it happen inside a body. *Why:* The embryo is tiny and hidden, and the woman usually does not know. So the number is worked out from other measurements.
 
 ## Applications

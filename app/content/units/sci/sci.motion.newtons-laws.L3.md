@@ -568,14 +568,14 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 2. (truefalse) If you stop pushing a moving thing, it stops by itself.  
    **Answer:** False. *Why:* False. A moving thing keeps moving until a force stops it. On Earth that force is usually friction or air resistance, which is why it seems to stop by itself. On ice it slides much further, and in space it would not stop at all.
 3. (mcq) You walk past a steel plate and let go of rolled socks right above it. Where do they land?  
-   Options: On the plate / Behind the plate / Past the plate, the way you were walking  
+   Options: On the plate / Past the plate, the way you were walking / Behind the plate  
    **Answer:** Past the plate, the way you were walking. *Why:* The socks were moving forward with you, and they kept moving forward as they fell. So they landed past the plate. Picking 'on the plate' means thinking a dropped thing loses its forward motion as soon as you let go.
 4. (write) In the coin and card trick, explain why the coin drops into the tumbler when you flick the card fast. Use the word 'inertia'.  
    **Answer:** The coin is still, and because of inertia it stays still. The fast flick rubs it for only a moment, too short to move it. So the card goes and the coin stays, and gravity pulls it down into the tumbler.. *Why:* A strong answer says the coin stays still because no force acted on it long enough, and that gravity then pulls it down.
 5. (draw) In the walking drop, your helper watched from the side. Draw the path of the rolled socks through the air as your helper saw it, from your hand to the floor. Draw the plate too.  
    **Answer:** A curve that starts at the hand, goes forward and down, and lands past the plate.. *Why:* Seen from the side, the socks move forward and fall at the same time, so the path curves. A strong drawing shows the socks landing past the plate, in the direction of walking.
 6. (mcq) A marble rolls down the same ramp onto a towel, a doormat and bare tiles. On which does it roll furthest?  
-   Options: The towel / The doormat / The bare tiles  
+   Options: The bare tiles / The towel / The doormat  
    **Answer:** The bare tiles. *Why:* The bare tiles are the smoothest, so they give the least friction, and the marble rolls furthest. The towel's rough fibres give the most friction, so it stops soonest.
 7. (fill) The grip between two surfaces that slows a rolling marble is called ____.  
    **Answer:** ['friction']. *Why:* Friction is the grip between two surfaces that touch. It works against sliding and rolling, so it slows moving things down.
@@ -602,7 +602,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    **Answer:** For example: when the auto braked, my school bag slid forward off the seat, because it kept moving.. *Why:* A strong answer names a real moment and says what kept doing what it was doing.
 ### Eggs, Buses and Bowls (stretch) (stretch, 16 questions)
 1. (mcq) In the walking drop, the socks landed 70 cm past the plate at a fast walk and 35 cm past at a slow walk. What does this show?  
-   Options: Faster walking gives the socks more forward speed, so they go further while falling / Faster walking makes the socks heavier / The socks fall slower when you walk fast  
+   Options: Faster walking makes the socks heavier / The socks fall slower when you walk fast / Faster walking gives the socks more forward speed, so they go further while falling  
    **Answer:** Faster walking gives the socks more forward speed, so they go further while falling. *Why:* The socks keep the speed they had in your hand. Walking faster gives them more forward speed, so they travel further forward in the same falling time.
 2. (write) In the walking drop, you want the socks to land on the plate while you walk. When should you let go, and why?  
    **Answer:** Before my hand reaches the plate. The socks keep moving forward as they fall, so I must let go early for them to land on it.. *Why:* A strong answer uses the idea that the socks keep their forward motion, and says to let go before the plate.
@@ -643,7 +643,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 2. (perspective) Three people talk about why a thrown cricket ball keeps moving after it leaves the bowler's hand.  
    **Answer:** A strong answer sides with Newton and the child, with evidence: in space, with no air at all, Voyager 1 keeps moving, so air cannot be what keeps things going. The air actually slows a thrown ball down. Aristotle's idea seemed sensible because on Earth everything stops unless something keeps pushing, and nobody could test motion without air.. *Why:* Aristotle's idea was believed for nearly 2,000 years. Tests with less and less friction, and travel in space, showed it was wrong.
 3. (mcq) Gassendi had stones dropped from the top of a ship's mast while the ship moved fast. Where did they land?  
-   Options: Behind the mast / At the foot of the mast / In the sea  
+   Options: Behind the mast / In the sea / At the foot of the mast  
    **Answer:** At the foot of the mast. *Why:* The stones were moving forward with the ship before they were dropped. They kept that motion as they fell, so they landed at the foot of the mast. This showed that the old argument against a moving Earth was wrong.
 4. (write) People once said, 'If the Earth were moving, a stone dropped from a tower would land far behind it.' Explain what is wrong with this argument.  
    **Answer:** The stone is moving with the Earth and the tower before it is dropped. While it falls, it keeps that motion, so it stays with the tower and lands at its foot, just as the socks in the walking drop kept moving with me.. *Why:* A strong answer uses inertia and links it to the walking drop or Gassendi's ship.
@@ -652,13 +652,13 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 6. (write) In one family's hover puck test, the puck glided about 3 metres with air under it. Without air, the same tap sent it only about 10 cm. What does this show about friction and inertia?  
    **Answer:** The puck rode on air, so there was almost no friction. With almost nothing to slow it, it kept moving much longer. This shows that moving things keep moving, and friction is what stops them.. *Why:* A strong answer uses the numbers as evidence and names friction as the force that made the difference.
 7. (mcq) Which of these has the most inertia?  
-   Options: A full steel almirah / An empty steel almirah / A plastic chair  
+   Options: An empty steel almirah / A full steel almirah / A plastic chair  
    **Answer:** A full steel almirah. *Why:* Inertia grows with mass. The full almirah has the most mass, so it is hardest to start, stop or turn.
 8. (mcq) Why does a raw egg wobble and spin slowly when you first twist it?  
    Options: Its runny inside stays still at first, while the shell turns / It is lighter than a boiled egg / Its shell is rougher  
    **Answer:** Its runny inside stays still at first, while the shell turns. *Why:* When you twist the shell, the runny inside does not turn at once, because of inertia. It drags on the shell, so the raw egg is hard to spin fast and wobbles.
 9. (mcq) A girl tosses a ball straight up in a train that is slowing down for a station. Where will it land?  
-   Options: In her hand / A little ahead of her hand, towards the front of the train / A little behind her, towards the back of the train  
+   Options: A little ahead of her hand, towards the front of the train / In her hand / A little behind her, towards the back of the train  
    **Answer:** A little ahead of her hand, towards the front of the train. *Why:* The ball keeps the speed it had when tossed. The train and her hand slow down while it is in the air, so the ball gets ahead and lands a little in front.
 10. (write) Newton's law tells us what moving things do, but not why they have inertia. Do you think scientists will ever find out why? Give a reason.  
    **Answer:** Any thoughtful answer. For example: yes, because scientists have already found out where most mass comes from. Or: maybe not, because every answer leads to a new 'why'.. *Why:* A strong answer gives a reason. It also shows that the law describes what happens without saying why.
@@ -687,37 +687,37 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
    Options: A moving thing always slows down by itself / A thing stays still, or keeps moving straight at the same speed, until a force changes it / Heavy things fall faster  
    **Answer:** A thing stays still, or keeps moving straight at the same speed, until a force changes it. *Why:* This is the first law. The first option is the old, wrong idea. Moving things slow down only when a force, such as friction, acts on them.
 2. (mcq) A coin sits on a card on a tumbler. You flick the card away fast. What does the coin do?  
-   Options: Flies away with the card / Drops into the tumbler / Stays floating in the air  
+   Options: Flies away with the card / Stays floating in the air / Drops into the tumbler  
    **Answer:** Drops into the tumbler. *Why:* The coin stays still because of inertia, and then gravity pulls it down into the tumbler. It does not fly with the card, because the flick rubs it for too short a time.
 3. (mcq) You walk past a plate and let go of rolled socks right above it. Where do they land?  
-   Options: On the plate / Behind the plate / Past the plate  
+   Options: Past the plate / On the plate / Behind the plate  
    **Answer:** Past the plate. *Why:* The socks keep moving forward as they fall, so they land past the plate. Picking 'on the plate' means thinking they lose their forward motion when they leave your hand.
 4. (mcq) In the walking drop, what happens when you walk faster?  
-   Options: The socks land further past the plate / The socks land on the plate / The socks land behind you  
+   Options: The socks land on the plate / The socks land further past the plate / The socks land behind you  
    **Answer:** The socks land further past the plate. *Why:* Walking faster gives the socks more forward speed, so they travel further forward while they fall.
 5. (mcq) Why does a rolling marble stop sooner on a towel than on tiles?  
-   Options: The towel gives more friction / The towel is heavier / The tiles push the marble  
+   Options: The towel is heavier / The tiles push the marble / The towel gives more friction  
    **Answer:** The towel gives more friction. *Why:* The towel's rough fibres give more friction, which slows the marble. On smooth tiles there is less friction, so it rolls further.
 6. (mcq) A stone is slid across smooth ice. Why does it go so far?  
-   Options: Ice gives very little friction to slow it / Ice pushes it forward / Cold makes stones faster  
+   Options: Ice pushes it forward / Ice gives very little friction to slow it / Cold makes stones faster  
    **Answer:** Ice gives very little friction to slow it. *Why:* Ice is very slippery, so there is very little friction. With little to slow it, the stone keeps moving a long way.
 7. (mcq) Why should everyone in a car wear a seatbelt?  
-   Options: When the car stops suddenly, their body keeps moving forward, and the belt stops them safely / It keeps the car from moving / It makes the car go faster  
+   Options: It keeps the car from moving / It makes the car go faster / When the car stops suddenly, their body keeps moving forward, and the belt stops them safely  
    **Answer:** When the car stops suddenly, their body keeps moving forward, and the belt stops them safely. *Why:* In a sudden stop, a passenger's body keeps its speed. The seatbelt gives the force that stops them along with the car, instead of the seat in front or the windscreen.
 8. (mcq) A bus brakes suddenly. Which way does water in a tumbler on the seat slop?  
-   Options: Forward / Backward / It does not move  
+   Options: Backward / It does not move / Forward  
    **Answer:** Forward. *Why:* The water keeps moving forward while the tumbler slows with the bus, so it slops forward.
 9. (mcq) Why can't we feel the Earth moving?  
-   Options: It moves smoothly and steadily, and we move with it / It is not moving / It moves too slowly  
+   Options: It is not moving / It moves smoothly and steadily, and we move with it / It moves too slowly  
    **Answer:** It moves smoothly and steadily, and we move with it. *Why:* The Earth moves very fast, but smoothly. Like a ball in a smooth train, everything moves with us, so we feel nothing.
 10. (mcq) The stars seem to move west across the night sky, but really the Earth is turning and the stars are still. Which comparison fits this best?  
    Options: A person in a moving boat, who sees the trees on the bank move backwards / A spinning top / A falling stone  
    **Answer:** A person in a moving boat, who sees the trees on the bank move backwards. *Why:* When you move, still things seem to move the other way. Aryabhata used this same comparison around 499 CE to explain that the Earth turns.
 11. (mcq) Pierre Gassendi dropped stones from the top of a moving ship's mast in 1640. What did he find?  
-   Options: They landed at the foot of the mast / They landed behind the ship / They floated  
+   Options: They landed behind the ship / They floated / They landed at the foot of the mast  
    **Answer:** They landed at the foot of the mast. *Why:* The stones kept the ship's forward motion while they fell, so they landed at the foot of the mast. This showed a moving Earth would not leave falling things behind.
 12. (mcq) You stop a spinning raw egg for a second and let go. What happens?  
-   Options: It stays still / It starts turning again / It breaks  
+   Options: It stays still / It breaks / It starts turning again  
    **Answer:** It starts turning again. *Why:* The runny inside keeps turning when the shell is stopped, because of inertia. When you let go, it turns the shell again.
 13. (mcq) What do scientists still not know about inertia?  
    Options: Whether it exists / Why things have inertia at all / How to measure mass  

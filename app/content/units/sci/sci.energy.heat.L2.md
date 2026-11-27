@@ -399,7 +399,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 2. (match) Draw a line from each warm thing to what made it warm.  
    **Answer:** A sunny window sill → The Sun; A hot dosa tawa → A gas flame; Your palms after rubbing → Rubbing; Warm eggs under a hen → The hen's body. *Why:* Each warm thing got its warmth from something that makes warmth: sunlight, a flame, rubbing or a living body.
 3. (mcq) In the Sweater and Coconut Oil test, which oil stayed white and hard for longer?  
-   Options: The oil wrapped in the sweater / The bare oil / Both melted at the same time  
+   Options: The bare oil / Both melted at the same time / The oil wrapped in the sweater  
    **Answer:** The oil wrapped in the sweater. *Why:* The sweater slowed the room's warmth from getting in, so the wrapped oil stayed cold and hard for longer.
 4. (truefalse) An ice cube melts fast in your hand because your hand is warmer than the ice.  
    **Answer:** True. *Why:* True. Your body makes warmth, so your hand is warmer than the ice. Heat moves from your hand into the ice.
@@ -414,11 +414,11 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 9. (perspective) Arjun, a boy aged 5, and his sister Meenakshi, aged 8, talk about the Sweater and Coconut Oil test before they try it. In the test, one katori of cold, hard coconut oil is wrapped in a sweater and one is left bare.  
    **Answer:** Meenakshi. The wrapped oil stayed hard longer, so the sweater kept the cold oil cold. Arjun is right that we feel warm in a sweater, but that warmth comes from our body.. *Why:* A strong answer uses the test result as evidence, and is fair to Arjun's idea.
 10. (mcq) Why do your hands get warm when you rub them together?  
-   Options: Rubbing makes warmth. / Rubbing takes warmth from the air. / Your hands were hot inside all along.  
+   Options: Rubbing takes warmth from the air. / Rubbing makes warmth. / Your hands were hot inside all along.  
    **Answer:** Rubbing makes warmth.. *Why:* Rubbing makes warmth. That is one way things get warm, along with the Sun, fire, electricity and living bodies.
 ### Keeping warm and cooling down (stretch) (stretch, 10 questions)
 1. (mcq) In the Sweater and Coconut Oil test, why did the bare oil melt before the oil wrapped in the sweater?  
-   Options: The room was warmer than the oil, and the room's heat moved into it. / The bare katori made heat. / The oil in the sweater was a different oil.  
+   Options: The bare katori made heat. / The room was warmer than the oil, and the room's heat moved into it. / The oil in the sweater was a different oil.  
    **Answer:** The room was warmer than the oil, and the room's heat moved into it.. *Why:* The oil came from the cold fridge, so the room was warmer. Heat moves from warmer to cooler things, and nothing slowed it down for the bare oil.
 2. (order) Put these in order, from the hottest to the coldest.  
    **Answer:** ['a cup of hot tea', 'your hand', 'water from the fridge', 'an ice cube']. *Why:* Hot tea is much hotter than a hand. A hand is warmer than fridge water. Ice is the coldest.
@@ -444,7 +444,7 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
 1. (write) In the story Arjun's Cold Idli, Arjun wrapped his cold idli in his sweater to warm it up. What will happen? What could he do instead? You can say it and a grown-up can write it down.  
    **Answer:** The idli will stay cold, because the sweater makes no warmth. He could ask a grown-up to warm it on the stove or in steam.. *Why:* A strong answer says the sweater can only keep the warmth that is already there, and names a real maker of warmth.
 2. (mcq) Some people say mango heats the body and curd cools it. What have scientists found?  
-   Options: They have not found that these foods change body temperature by much. / A mango raises body temperature by 5 degrees. / Curd is colder than ice, so it cools you.  
+   Options: A mango raises body temperature by 5 degrees. / They have not found that these foods change body temperature by much. / Curd is colder than ice, so it cools you.  
    **Answer:** They have not found that these foods change body temperature by much.. *Why:* Many families feel that foods heat or cool them. But scientists have not found that a mango or curd changes body temperature by much.
 3. (perspective) A hen sits on her eggs to keep them warm. Two girls argue about it.  
    **Answer:** Both are partly right. The hen's body makes the warmth from her food. Her feathers keep it in, around the eggs.. *Why:* A strong answer separates making warmth from keeping it, and gives each girl her part.
@@ -477,28 +477,28 @@ Arjun looked at the box, then at his sweater. 'So a sweater keeps hot things hot
    Options: A diya flame / A woollen shawl / A pair of socks  
    **Answer:** A diya flame. *Why:* A flame burns and makes warmth. A shawl and socks make no warmth. They only keep it in.
 3. (mcq) A sweater has been lying on a chair all night. How warm is it?  
-   Options: As warm as the chair and the room / Warmer than the room / Colder than the fridge  
+   Options: Warmer than the room / Colder than the fridge / As warm as the chair and the room  
    **Answer:** As warm as the chair and the room. *Why:* A sweater makes no warmth, so it is as warm as the things around it.
 4. (mcq) Where does the warmth inside your sweater come from?  
    Options: From your body / From the wool / From the cupboard  
    **Answer:** From your body. *Why:* Your body makes warmth from food. The wool only keeps it close to you.
 5. (mcq) You test a sweater on cold coconut oil. One katori of oil is wrapped in the sweater and one is bare. What should be the same for both katoris?  
-   Options: The oil, the katori, the table and the time / Nothing / Only the colour of the katoris  
+   Options: Nothing / Only the colour of the katoris / The oil, the katori, the table and the time  
    **Answer:** The oil, the katori, the table and the time. *Why:* In a fair test, only one thing changes: here, the sweater. Everything else stays the same.
 6. (mcq) You want your coconut oil test to be fair. One katori of cold oil is wrapped in a sweater and one is bare. Which change would make the test unfair?  
    Options: Putting one katori in the sun and one in the shade / Using the same amount of oil in both / Starting the timer for both at the same time  
    **Answer:** Putting one katori in the sun and one in the shade. *Why:* In a fair test, only the sweater is different. Sun on one katori would change the test too, so we could not tell what melted the oil.
 7. (mcq) A hot idli sits on a plate for an hour. What happens?  
-   Options: It cools down to the warmth of the room. / It stays hot all day. / It gets colder than ice.  
+   Options: It stays hot all day. / It cools down to the warmth of the room. / It gets colder than ice.  
    **Answer:** It cools down to the warmth of the room.. *Why:* Hot things cool down until they are as warm as the room around them.
 8. (mcq) Why do your cheeks get warm after you run up the stairs?  
-   Options: Working muscles make more warmth. / The stairs are warm. / Running makes cold go away.  
+   Options: The stairs are warm. / Working muscles make more warmth. / Running makes cold go away.  
    **Answer:** Working muscles make more warmth.. *Why:* When muscles work hard, they make more warmth. The stairs make none.
 9. (mcq) On a cold night, how does a dog keep warm?  
    Options: They curl up into a ball. / They sit by an open window. / They take a cold bath.  
    **Answer:** They curl up into a ball.. *Why:* Curling up hides the parts that lose warmth fastest, so the dog's own warmth stays in.
 10. (mcq) On a hot day in Chennai, which helps you cool down?  
-   Options: Sitting in the shade under a fan / Wrapping up in a quilt / Sitting on a sunny terrace  
+   Options: Wrapping up in a quilt / Sitting in the shade under a fan / Sitting on a sunny terrace  
    **Answer:** Sitting in the shade under a fan. *Why:* Shade keeps the Sun's light off you, and the fan's moving air carries your warmth away. A quilt would keep your warmth in.
 
 ## Applications

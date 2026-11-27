@@ -363,7 +363,7 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 1. (sort) Sort these animals into 'has fur or hair' and 'no fur or hair'.  
    **Answer:** cow → Fur or hair; you → Fur or hair; bat → Fur or hair; elephant → Fur or hair; fish → No fur or hair; frog → No fur or hair; earthworm → No fur or hair; hen → No fur or hair. *Why:* The cow, you, the bat and the elephant have fur or hair. The fish, the frog, the earthworm and the hen do not. The hen has feathers instead.
 2. (mcq) Which rule puts the frog and the gecko together, but not the cow?  
-   Options: Has 4 legs / Has no fur or hair / Has wings  
+   Options: Has 4 legs / Has wings / Has no fur or hair  
    **Answer:** Has no fur or hair. *Why:* The frog and the gecko have no fur or hair, but the cow has hair. All three have 4 legs, so that rule cannot tell them apart.
 3. (odd) Ant, butterfly, spider. Which one does not have 6 legs?  
    Options: Ant / Butterfly / Spider  
@@ -387,13 +387,13 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 
 ## Quiz
 1. (mcq) A crow, a hen and a peacock are in one group. What could the rule be?  
-   Options: They all have feathers / They are all black / They all live in water  
+   Options: They are all black / They all have feathers / They all live in water  
    **Answer:** They all have feathers. *Why:* Every bird has feathers. The hen and the peacock are not black, and none of them lives in water.
 2. (mcq) Which of these animals has 8 legs?  
-   Options: An ant / A spider / A hen  
+   Options: A spider / An ant / A hen  
    **Answer:** A spider. *Why:* A spider has 8 legs. An ant has 6, and a hen has 2.
 3. (mcq) A butterfly and a crow both have...  
-   Options: Feathers / Wings / A beak  
+   Options: Wings / Feathers / A beak  
    **Answer:** Wings. *Why:* Both have wings. Only the crow has feathers and a beak.
 4. (mcq) You pick two tulsi leaves from one plant. Are they exactly the same?  
    Options: Yes, leaves from one plant are exactly the same / No, they are a little different in size or shape / They are the same only when they are small  
@@ -402,16 +402,16 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
    Options: Has feathers / Has 2 legs / Has 6 legs  
    **Answer:** Has 2 legs. *Why:* You have 2 legs, like a crow and a hen. Humans are animals, and we share groups with other animals.
 6. (mcq) A bat and a cow are both in which group?  
-   Options: Has fur or hair / Has a beak / Has 4 legs  
+   Options: Has a beak / Has fur or hair / Has 4 legs  
    **Answer:** Has fur or hair. *Why:* Both have fur or hair, and both mothers feed their babies milk. A bat has 2 legs and wings, so the bat is not in the 4-legs group.
 7. (mcq) What should a scientist do first, before doing a test?  
    Options: Guess what will happen, and say why / Throw away the things to test / Look up the answer  
    **Answer:** Guess what will happen, and say why. *Why:* Scientists guess first and give a reason. Then the test shows whether the guess was right.
 8. (mcq) Which of these animals has no legs?  
-   Options: An earthworm / A frog / A gecko  
+   Options: A frog / A gecko / An earthworm  
    **Answer:** An earthworm. *Why:* An earthworm has no legs and moves by stretching and squeezing her body. A frog and a gecko each have 4 legs.
 9. (mcq) You sort leaves into 'big' and 'small'. One leaf is in the middle, not clearly big or small. What can you do?  
-   Options: Make the rule clearer, like 'bigger than my palm' / Throw that leaf away / Stop sorting  
+   Options: Throw that leaf away / Stop sorting / Make the rule clearer, like 'bigger than my palm'  
    **Answer:** Make the rule clearer, like 'bigger than my palm'. *Why:* A clear rule gives a yes or a no for every leaf. Holding the leaf next to a palm settles it.
 10. (mcq) You feed a caterpillar and watch her for many days. She makes a hard case, and later a butterfly comes out. What does this show?  
    Options: A caterpillar grows into a butterfly / Caterpillars grow out of mud / Caterpillars turn into fish  

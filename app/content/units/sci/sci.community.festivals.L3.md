@@ -614,7 +614,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 4. (write) A turmeric stain on a white shirt turned red when it was scrubbed with soap. After a long rinse, it turned yellow again. Explain both changes.  
    **Answer:** Soap is a base, so it turned the turmeric red. Rinsing washed the soap away, so the turmeric was in plain water again and turned back to yellow.. *Why:* A strong answer explains the red with the base and the change back with the base being washed away.
 5. (mcq) In the Hibiscus Test, hibiscus juice turned pink with lemon and green with soap. Which can hibiscus do that turmeric cannot?  
-   Options: Show that something is a base / Show that something is an acid / Make red aarathi water  
+   Options: Show that something is an acid / Show that something is a base / Make red aarathi water  
    **Answer:** Show that something is an acid. *Why:* Turmeric stays yellow in acids and in plain water, so it cannot tell them apart. Hibiscus turns pink in acids, so it shows an acid clearly.
 6. (write) You add baking soda water to turmeric water. It turns only a little orange. What could you change to make the colour stronger? Why would it work?  
    **Answer:** Add more baking soda water, or a pinch of dry baking soda. More base makes the change stronger, so the colour turns redder.. *Why:* A strong answer adds more base, and explains that more base makes the colour change stronger.
@@ -636,7 +636,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 14. (truefalse) A rice-flour kolam is drawn only to look pretty.  
    **Answer:** False. *Why:* False. A kolam is decorative, and rice flour is also food for ants and small birds.
 15. (mcq) Why is sakkarai pongal cooked with new rice at Pongal?  
-   Options: The rice has just been harvested / New rice is the only rice that boils over / Old rice cannot be cooked with jaggery  
+   Options: New rice is the only rice that boils over / Old rice cannot be cooked with jaggery / The rice has just been harvested  
    **Answer:** The rice has just been harvested. *Why:* Pongal is a harvest festival, and festival food often uses the crop that has just been harvested.
 16. (match) Match each spring festival to its custom.  
    **Answer:** Vishu, Kerala → A vishukkani is the first sight of the year; Phool Dei, Uttarakhand → Children put flowers on every doorstep; Sarhul, Jharkhand → Sal flowers are offered to the Earth and the Sun; Ugadi, Karnataka → A pachadi has all the tastes of the year. *Why:* All four welcome spring with flowers and food, but each has its own custom.
@@ -650,7 +650,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 2. (perspective) In the 1770s, Antoine Lavoisier said all acids contain oxygen. In 1810, Humphry Davy studied hydrochloric acid, the strong acid that can be made from salt.  
    **Answer:** Davy's, because one acid with no oxygen is enough to show the rule is wrong. Lavoisier did right to look for a pattern in his results and to test many acids. His pattern was true for the acids he had tested.. *Why:* One clear case that breaks a rule shows the rule is wrong. A strong answer also respects Lavoisier for making a rule that could be tested.
 3. (mcq) You mix a mystery white powder in water and add it to turmeric water. It stays yellow. What can you say for sure?  
-   Options: The powder is an acid / The powder is not a base / The powder is salt  
+   Options: The powder is an acid / The powder is salt / The powder is not a base  
    **Answer:** The powder is not a base. *Why:* Turmeric stays yellow in acids and in things that are neither, so you cannot tell which the powder is. You can only say it is not a base. Hibiscus juice would tell you more.
 4. (write) Design a test to find out whether toothpaste is a base. Say what you would use, what you would do, and what each result would mean.  
    **Answer:** Mix a pea-sized blob of toothpaste in 3 spoons of water. Add one spoon to a bowl of turmeric water, and keep a bowl with plain water to compare. Wait one minute. If it turns red, the toothpaste is a base. If it stays yellow, it is not a base.. *Why:* A strong design has a control, the same amounts and wait, and says what red and yellow would each mean.
@@ -658,7 +658,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
    Options: Vishu / Christmas / Ganesh Chaturthi / Independence Day  
    **Answer:** 2. *Why:* Ganesh Chaturthi is counted from a new moon, so it moves between August and September. Vishu, Christmas and Independence Day follow the Sun.
 6. (mcq) A seller at a mela wants her stall to survive a windy evening. Which change helps most?  
-   Options: A heavier cloth roof / Slanted poles from the corners to the ground, making triangles / Taller poles  
+   Options: Slanted poles from the corners to the ground, making triangles / A heavier cloth roof / Taller poles  
    **Answer:** Slanted poles from the corners to the ground, making triangles. *Why:* Triangles do not change shape when pushed, so slanted poles stop the stall leaning over. A heavier roof or taller poles make it more likely to tip.
 7. (write) A mela is built in a week and gone in a week. Think of three people whose work keeps going after it ends, and say why.  
    **Answer:** The potter and toy maker, who start making things for the next mela. The cleaners, who clear the ground. The families who earned money, who use it for the rest of the year.. *Why:* A strong answer thinks past the mela days, about makers, cleaners and the money and memories people take home.
@@ -689,28 +689,28 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 
 ## Quiz
 1. (mcq) Why are mela stalls usually made of bamboo poles, rope and cloth?  
-   Options: They are light, and quick to put up and take down / They are the strongest materials there are / Bricks are not allowed at a mela  
+   Options: They are the strongest materials there are / Bricks are not allowed at a mela / They are light, and quick to put up and take down  
    **Answer:** They are light, and quick to put up and take down. *Why:* A mela lasts a few days or weeks, so its stalls must go up and come down quickly. Bamboo and cloth are light and can be used again. Bamboo is strong for its weight, but bricks and steel are stronger. They would just take too long.
 2. (mcq) You get lost at a big mela. What is the best thing to do?  
-   Options: Walk around until you find your family / Go to the Lost and Found booth, or ask a police officer or a volunteer / Leave the mela and walk home  
+   Options: Go to the Lost and Found booth, or ask a police officer or a volunteer / Walk around until you find your family / Leave the mela and walk home  
    **Answer:** Go to the Lost and Found booth, or ask a police officer or a volunteer. *Why:* The Lost and Found booth, the police and the volunteers are there to help lost children. Your family will look for you there. Walking around makes you harder to find.
 3. (mcq) In Kerala, Onam comes just when the rice is harvested. Families cook a big meal with the new crop and share it. Why do so many festivals come at harvest time?  
-   Options: People have new food to share, and want to give thanks for it / Schools are closed then / It never rains at harvest time  
+   Options: Schools are closed then / People have new food to share, and want to give thanks for it / It never rains at harvest time  
    **Answer:** People have new food to share, and want to give thanks for it. *Why:* After the harvest, there is plenty of food and the hardest work is done. So people gather, share the new crop and give thanks. Schools and rain have nothing to do with it.
 4. (mcq) Pongal, Lohri, Magh Bihu and Uttarayan all come in mid-January. What do they have in common?  
    Options: They are all festivals of Tamil Nadu / They all celebrate the winter harvest, under different names / They all have kite flying  
    **Answer:** They all celebrate the winter harvest, under different names. *Why:* They are the same harvest festival in different states: Tamil Nadu, Punjab, Assam and Gujarat. Kites are the custom in Gujarat, but not everywhere.
 5. (mcq) Why does Pongal come on 14 or 15 January almost every year?  
-   Options: It follows the Sun, like our school calendar / It follows the Moon / The government chose the date  
+   Options: It follows the Moon / The government chose the date / It follows the Sun, like our school calendar  
    **Answer:** It follows the Sun, like our school calendar. *Why:* Pongal is fixed by the Sun's place in the sky, so it stays in step with our Sun calendar. Festivals that follow the Moon, like Diwali, move.
 6. (mcq) Eid-ul-Fitr comes about 11 days earlier every year. Why?  
-   Options: People choose an earlier day each year / Twelve Moon months are about 11 days shorter than a Sun year / The Earth is speeding up  
+   Options: Twelve Moon months are about 11 days shorter than a Sun year / People choose an earlier day each year / The Earth is speeding up  
    **Answer:** Twelve Moon months are about 11 days shorter than a Sun year. *Why:* Twelve Moon months are about 354 days, and a Sun year is about 365. The Islamic calendar follows only the Moon, so Eid slides 11 days earlier on our calendar each year.
 7. (mcq) What does Republic Day, on 26 January, remember?  
    Options: The day India became free from British rule / The day India's Constitution came into force, in 1950 / Mahatma Gandhi's birthday  
    **Answer:** The day India's Constitution came into force, in 1950. *Why:* Republic Day remembers 26 January 1950, when the Constitution came into force. Independence Day, 15 August 1947, is the day India became free. Gandhi Jayanti, 2 October, is his birthday.
 8. (mcq) Which of these is a national festival, celebrated by the whole country?  
-   Options: Vishu / Gandhi Jayanti / Durga Puja  
+   Options: Gandhi Jayanti / Vishu / Durga Puja  
    **Answer:** Gandhi Jayanti. *Why:* Gandhi Jayanti, on 2 October, is one of India's three national festivals, with Independence Day and Republic Day. Vishu and Durga Puja are celebrated mostly in some states.
 9. (mcq) You add a spoon of soapy water to yellow turmeric water. What will you most likely see?  
    Options: It stays yellow / It turns red-brown / It turns blue  
@@ -719,19 +719,19 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
    Options: More baking soda / Lemon juice / Sugar  
    **Answer:** Lemon juice. *Why:* Lemon juice is an acid. Enough of it changes the curcumin back, and the colour turns yellow again. More baking soda makes it redder. Sugar is neither an acid nor a base, so it does nothing.
 11. (mcq) How does a pinch of lime turn turmeric water into red aarathi water?  
-   Options: Lime is a base, and turmeric turns red in bases / Lime has red colour hidden inside it / Lime makes the water hot, and it burns  
+   Options: Lime has red colour hidden inside it / Lime is a base, and turmeric turns red in bases / Lime makes the water hot, and it burns  
    **Answer:** Lime is a base, and turmeric turns red in bases. *Why:* Lime is white, so it adds no red. It is a strong base, and turmeric turns red in bases. The same happens with soap and baking soda in the Turmeric Test.
 12. (mcq) A chemist thinks every acid contains oxygen. What would show that this idea is wrong?  
    Options: Finding just one acid that has no oxygen in it / Finding more acids that do have oxygen in them / Tasting an acid  
    **Answer:** Finding just one acid that has no oxygen in it. *Why:* One clear case that breaks a rule is enough to show the rule is wrong. For example, hydrochloric acid is made of hydrogen and chlorine, with no oxygen. It can be made from salt, and it is also the acid in your stomach. Finding more acids that have oxygen cannot prove the rule, because the next acid might break it.
 13. (mcq) What is Eidi?  
-   Options: A sweet made of seviyan / A small gift of money that elders give to children / The special Eid prayer  
+   Options: A small gift of money that elders give to children / A sweet made of seviyan / The special Eid prayer  
    **Answer:** A small gift of money that elders give to children. *Why:* Eidi is a gift of money that children get at Eid. Seviyan is the sweet dish, and the prayer is held at the mosque or idgah.
 14. (mcq) At the end of the nine nights, big figures of Ravana are burnt in north India. Which play comes first?  
    Options: Ramlila / Mattu Pongal / Lohri  
    **Answer:** Ramlila. *Why:* The Ramlila is a play of the story of Rama, and it ends with the burning of Ravana at Dussehra. Mattu Pongal and Lohri are harvest festivals in January.
 15. (mcq) Why do many families light only diyas at Deepawali and few firecrackers?  
-   Options: Crackers make smoke and noise that harm people and frighten animals / Crackers can only be used at Christmas / Diyas are brighter than the Moon  
+   Options: Crackers can only be used at Christmas / Crackers make smoke and noise that harm people and frighten animals / Diyas are brighter than the Moon  
    **Answer:** Crackers make smoke and noise that harm people and frighten animals. *Why:* The smoke hurts weak lungs, and the loud noise frightens dogs, birds and cows. Diyas give a soft light without these harms.
 16. (mcq) What is a crib at Christmas?  
    Options: A small model of the baby Jesus in a stable, with Mary, Joseph and animals / A rich plum cake / A paper star lantern  
@@ -740,7 +740,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
    Options: So the first thing they see in the new year is a sign of plenty / So they cannot see the sadya / Because the room is dark  
    **Answer:** So the first thing they see in the new year is a sign of plenty. *Why:* The vishukkani has rice, fruit, flowers and a lamp. Seeing it first is a way of wishing for plenty in the new year.
 18. (mcq) At Sarhul in Jharkhand, which tree's flowers are offered in the sacred grove?  
-   Options: Sal / Neem / Mango  
+   Options: Neem / Sal / Mango  
    **Answer:** Sal. *Why:* Sarhul comes when the sal trees flower. The priest offers sal flowers to the Earth and the Sun. Neem flowers are used for Ugadi pachadi.
 19. (mcq) Why do children use play money at a mock mela?  
    Options: They can practise buying and selling without spending real money / Real money is not allowed at melas / Play money is worth more  

@@ -738,10 +738,10 @@
       "q": "In which test did the tissue flag hang still?",
       "options": [
        "The tunnel, open at both ends",
-       "The box, door facing the fan",
-       "The box, door facing away from the fan"
+       "The box, door facing away from the fan",
+       "The box, door facing the fan"
       ],
-      "a": 2,
+      "a": 1,
       "why": "With the door facing away, the closed wall faced the fan. The moving air hit that wall and went around the box, so the air inside stayed calm."
      },
      "parent": "A strong answer: I think the door should face away from the wind. The flag hung still when the wall faced the fan. The wind hit the wall and went around."
@@ -1162,11 +1162,11 @@
    "t": "mcq",
    "p": "A newborn baby drinks only milk. What does the milk give the baby?",
    "opts": [
-    "Food and water",
     "Clothes and a home",
-    "Only air"
+    "Only air",
+    "Food and water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Milk is the baby's food, and it gives the baby water too.",
    "outcome": 1
   },
@@ -1174,11 +1174,11 @@
    "t": "mcq",
    "p": "Why do we drink water every day, and not just once?",
    "opts": [
-    "Water leaves our body when we wee, sweat and breathe out",
     "Water makes us tall",
+    "Water leaves our body when we wee, sweat and breathe out",
     "Water is only for washing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Our body keeps losing water, so we must keep putting it back.",
    "outcome": 1
   },
@@ -1186,11 +1186,11 @@
    "t": "mcq",
    "p": "What does a roof keep off us?",
    "opts": [
-    "Rain and hot sun",
     "Air",
+    "Rain and hot sun",
     "Food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A roof keeps off the rain and the hot sun. Walls keep off the wind.",
    "outcome": 2
   },
@@ -1210,11 +1210,11 @@
    "t": "mcq",
    "p": "You get lost in a crowded market. What should you do?",
    "opts": [
-    "Go to a shopkeeper and say your name and your parent's phone number",
     "Go with a friendly person you have never met",
-    "Keep running through the crowd to find your family"
+    "Keep running through the crowd to find your family",
+    "Go to a shopkeeper and say your name and your parent's phone number"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.",
    "outcome": 2
   },
@@ -1234,11 +1234,11 @@
    "t": "mcq",
    "p": "In the wind box test, which way should the open door of the box face to keep the tissue flag still?",
    "opts": [
-    "Towards the fan",
     "Away from the fan",
+    "Towards the fan",
     "It does not matter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "With the door away from the fan, the closed wall faced the wind. The air went around the box, so the flag hung still.",
    "outcome": 3,
    "how": "e1"
@@ -1260,11 +1260,11 @@
    "t": "mcq",
    "p": "Which of these is a shelter for a pigeon?",
    "opts": [
-    "A nest on a ledge under a roof",
     "A puddle on the road",
+    "A nest on a ledge under a roof",
     "A plate of rice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A nest under a roof keeps a pigeon safe from rain and wind. It is the pigeon's home.",
    "outcome": 4
   },
@@ -1272,11 +1272,11 @@
    "t": "mcq",
    "p": "Which is true?",
    "opts": [
-    "Humans are animals, and we need air, water and food like other animals",
     "Only people need water",
-    "Plants need nothing"
+    "Plants need nothing",
+    "Humans are animals, and we need air, water and food like other animals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humans are animals. Crows, cats, ants and people all need air, water and food. Plants need air, water and light.",
    "outcome": 4
   },
@@ -1385,11 +1385,11 @@
      "t": "mcq",
      "p": "You hold a tissue flag in front of a fan and it flaps. What is moving it?",
      "opts": [
-      "Moving air",
       "The floor",
+      "Moving air",
       "The light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wind is moving air. We cannot see air, but we can see the flag it moves.",
      "how": "e1"
     },
@@ -1506,11 +1506,11 @@
      "t": "mcq",
      "p": "A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?",
      "opts": [
-      "The side the wind comes from",
       "The side away from the wind",
-      "The middle of the field"
+      "The middle of the field",
+      "The side the wind comes from"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The trees are a wall. The wind goes around them, and the crops behind them get calm air.",
      "how": "e1"
     },

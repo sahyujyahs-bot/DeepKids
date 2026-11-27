@@ -461,7 +461,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 ## Worksheets
 ### Star Patterns (core) (core, 15 questions)
 1. (mcq) What is a constellation?  
-   Options: A group of stars that are close together in space / A pattern of stars that people have named / A kind of planet / A very bright star  
+   Options: A pattern of stars that people have named / A group of stars that are close together in space / A kind of planet / A very bright star  
    **Answer:** A pattern of stars that people have named. *Why:* A constellation is a pattern people see and name, such as the Saptarishi or Orion. Its stars are usually far apart in space. Picking 'close together in space' is the most common mistake. The Thread Saptarishi model shows why it is wrong: from the side, two paper stars were far behind the other five.
 2. (truefalse) The seven stars of the Saptarishi are all the same distance from Earth.  
    **Answer:** False. *Why:* False. Five are about 80 light-years away. Kratu is about 123 and Marichi about 104.
@@ -470,7 +470,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 4. (match) Match each nakshatra to its star or star group.  
    **Answer:** Krittika → the Pleiades, a tight star cluster; Chitra → the bright white star Spica; Swati → the bright orange star Arcturus; Rohini → the red star Aldebaran. *Why:* Each nakshatra is named after a star or star group that lies in that part of the Moon's path.
 5. (mcq) In the Thread Saptarishi model, where must your eye be to see the seven paper stars make a ladle?  
-   Options: Anywhere in the room / At the hole in the Earth card / Right next to the wall  
+   Options: Anywhere in the room / Right next to the wall / At the hole in the Earth card  
    **Answer:** At the hole in the Earth card. *Why:* The paper stars line up into a ladle only when seen from the Earth card, because that is where all the threads start. One step to the side, and the shape bends. If you picked 'anywhere', try the model again from the side.
 6. (write) In the Thread Saptarishi model, the paper stars for Kratu and Marichi were much nearer the wall than the other five. What does that tell you about the real stars?  
    **Answer:** Kratu and Marichi are much further from Earth than the other five stars. They only seem to be part of one group because they lie in the same direction from Earth.. *Why:* A strong answer links the model to the real sky: further along the thread means further from Earth, so the ladle is a pattern seen from here.
@@ -486,7 +486,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 11. (truefalse) The Moon moves into about one new nakshatra each day.  
    **Answer:** True. *Why:* True. There are 27 nakshatras, and the Moon goes round the sky in about 27 days.
 12. (mcq) Many Indian festivals fall on the day the Moon is in a certain nakshatra. Why does such a festival come on a different date of the English calendar each year?  
-   Options: The Moon's trip round the nakshatras does not fit evenly into the English months / The stars move to new places every year / People choose a new date each year  
+   Options: The stars move to new places every year / The Moon's trip round the nakshatras does not fit evenly into the English months / People choose a new date each year  
    **Answer:** The Moon's trip round the nakshatras does not fit evenly into the English months. *Why:* The Moon goes round all the nakshatras in about 27 days. That does not divide evenly into the months of the English calendar, so the day the Moon reaches a nakshatra shifts from year to year.
 13. (perspective) The first child, a girl in Class 3, says the Saptarishi is not real, because its stars are not together. Her grandmother says it is real, because everyone can see it. Their neighbour Asha, an astronomer, has a third view.  
    **Answer:** A strong answer picks a side with evidence: from the side, the paper stars did not make a ladle, so the first child has a point. But it also admits that from Earth the ladle really does show every time, as the grandmother says.. *Why:* This is a real question about what 'real' means. Everyone agrees on the facts: the distances and the view from Earth. They disagree about whether a view counts as a real thing.
@@ -511,7 +511,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 6. (sort) Sort these into what is the same and what is different for a child in Kochi and a child in Delhi looking up on the same night.  
    **Answer:** the shape of the Saptarishi → The same; the nakshatra the Moon is in → The same; how high the Saptarishi is above the horizon → Different; the names they may use for the stars → Different. *Why:* The stars are so far away that both children see the same patterns and the Moon in the same nakshatra. Delhi is further north, so the northern stars sit higher in its sky. The languages and names they learnt may differ.
 7. (mcq) An astronomer compares her star positions with a star list made about 1,600 years earlier. Most stars match well, but a few bright ones are far out of place. What is the best explanation?  
-   Options: All the old positions were careless mistakes / Those few stars have really moved, slowly, over the centuries / Every star had moved by the same amount  
+   Options: All the old positions were careless mistakes / Every star had moved by the same amount / Those few stars have really moved, slowly, over the centuries  
    **Answer:** Those few stars have really moved, slowly, over the centuries. *Why:* Careless mistakes would be spread over many stars, not only a few bright ones. So those few stars must have really moved. Picking 'careless mistakes' ignores that most stars matched.
 8. (truefalse) The stars of Krittika, the Pleiades, really are close together in space.  
    **Answer:** True. *Why:* True. Krittika is a star cluster. Its stars were born together about 100 million years ago and are all about 440 light-years away. This is different from the Saptarishi.
@@ -520,7 +520,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 10. (draw) Draw the night sky above your balcony with three stars of different brightness. Draw the city lights below. Show with arrows how the city light hides the faintest star.  
    **Answer:** Arrows of light from streetlights going up and lighting the air. The faintest star is lost in that glow, while the brightest still shows.. *Why:* Light pollution does not stop starlight. It adds a glow to the air, and the faint stars cannot be seen against it.
 11. (mcq) Arcturus, the nakshatra Swati, has moved about twice the width of the full Moon since Ptolemy's time, nearly 1,900 years ago. Why does it still look fixed to us?  
-   Options: It moves too slowly to see in one life, because it is so far away / It has stopped moving / Our eyes cannot see stars move  
+   Options: It has stopped moving / Our eyes cannot see stars move / It moves too slowly to see in one life, because it is so far away  
    **Answer:** It moves too slowly to see in one life, because it is so far away. *Why:* A star racing through space shifts only a tiny bit in our sky in a lifetime, because it is so far away. Over thousands of years the tiny shifts add up.
 12. (write) Someone says: 'The Moon is in Krittika tonight, so it will be in Krittika all month.' Use what you know about the nakshatras to explain the mistake.  
    **Answer:** The Moon moves east among the stars into about one new nakshatra each night. Tonight Krittika, tomorrow Rohini, the next night Mrigashira. It comes back to Krittika after about 27 nights.. *Why:* A strong answer says how fast the Moon moves among the stars and gives the next nakshatras as evidence.
@@ -535,7 +535,7 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 1. (write) Suppose you lived on a planet round Kratu, the star at the corner of the Saptarishi's bowl. Would you see the Saptarishi? Explain using the thread model.  
    **Answer:** No. In the model, the ladle showed only from the Earth card. Kratu is about 43 light-years further away than the five middle stars. From a planet round Kratu, you would see those stars from a different place, so they would make a different pattern, and you would not see the ladle. Kratu would be your own sun.. *Why:* A strong answer uses the model's lesson, that the shape depends on where you look from, and reasons about the new viewpoint.
 2. (mcq) Five stars of the Saptarishi travel through space together. The other two travel in different directions. What will the ladle look like in about 50,000 years?  
-   Options: Bent out of shape, because two stars have drifted away from the others / Exactly the same, because stars are fixed / Bigger and brighter, because all seven moved together  
+   Options: Exactly the same, because stars are fixed / Bent out of shape, because two stars have drifted away from the others / Bigger and brighter, because all seven moved together  
    **Answer:** Bent out of shape, because two stars have drifted away from the others. *Why:* Stars that move in different directions slowly pull the pattern apart. Over tens of thousands of years, the two stars that travel differently drift out of the ladle.
 3. (write) The Thread Saptarishi model uses 1 centimetre for every 2 light-years. Krittika is about 440 light-years away. How long would its thread have to be? Would it fit in your room?  
    **Answer:** 440 divided by 2 is 220, so 220 centimetres, which is 2 metres and 20 centimetres. It might fit in a large room, but it would be much longer than the Saptarishi threads.. *Why:* A strong answer does the division correctly and compares the result with the room and with the other threads.
@@ -574,31 +574,31 @@ Vikram put down a suitcase. 'So the old story picked the one pair in the ladle t
 
 ## Quiz
 1. (mcq) Most of the stars in a constellation are:  
-   Options: at very different distances from us / touching each other / all the same distance from us  
+   Options: touching each other / all the same distance from us / at very different distances from us  
    **Answer:** at very different distances from us. *Why:* Constellations join stars that lie in the same direction from Earth. Their distances are usually very different. The sky looks like a flat dome, which makes us think the stars are all the same distance away.
 2. (mcq) In the Thread Saptarishi model, you look at the paper stars from the side. What do you see?  
-   Options: A ladle, just like from the Earth card / Five paper stars close together, and two much further away / No paper stars at all  
+   Options: A ladle, just like from the Earth card / No paper stars at all / Five paper stars close together, and two much further away  
    **Answer:** Five paper stars close together, and two much further away. *Why:* Five stars are about 80 light-years away and two are much further. From the side, you can see that difference. The ladle shows only from the Earth card.
 3. (mcq) Why are there 27 nakshatras?  
    Options: The Moon takes about 27 days to go round the sky and come back to the same stars / There are 27 stars in the sky / The year has 27 weeks  
    **Answer:** The Moon takes about 27 days to go round the sky and come back to the same stars. *Why:* There is one nakshatra for each day of the Moon's trip round the sky. The real time is about 27 and one-third days.
 4. (mcq) Tonight the Moon is in Rohini. About where will it be in two nights?  
-   Options: Two nakshatras further east, in Ardra / Still in Rohini / On the other side of the sky  
+   Options: Still in Rohini / On the other side of the sky / Two nakshatras further east, in Ardra  
    **Answer:** Two nakshatras further east, in Ardra. *Why:* The Moon moves into about one new nakshatra each night. After Rohini comes Mrigashira, then Ardra.
 5. (mcq) The Greeks saw a hunter in the stars of Orion. Indian astronomers saw a deer's head there. What does this show?  
-   Options: Different peoples join the same stars into different pictures / The Greeks and Indians saw different stars / One of them was wrong  
+   Options: The Greeks and Indians saw different stars / One of them was wrong / Different peoples join the same stars into different pictures  
    **Answer:** Different peoples join the same stars into different pictures. *Why:* The stars are the same for everyone. The pictures and stories come from the people. Neither is wrong.
 6. (mcq) In India, the Krittikas are six mothers. In Greece, the same stars are seven sisters. Why might the numbers differ?  
    Options: Most people see six stars there, and some see seven / The Greeks had better eyes / There are 13 stars in Krittika  
    **Answer:** Most people see six stars there, and some see seven. *Why:* In a tight cluster, some stars are near the limit of what eyes can see. Most people see six, and sharp eyes on a dark night see seven or more.
 7. (mcq) An astronomer compares today's sky with a star map made 1,600 years ago. Most stars match, but a few bright ones are in slightly different places. What does this show?  
-   Options: Some stars really move, so slowly that it takes hundreds of years to notice / The Earth goes round the Sun / Every star jumps about each night  
+   Options: The Earth goes round the Sun / Some stars really move, so slowly that it takes hundreds of years to notice / Every star jumps about each night  
    **Answer:** Some stars really move, so slowly that it takes hundreds of years to notice. *Why:* If the old map were simply careless, the mistakes would be everywhere. Only a few stars are out of place, so those stars have really moved. The 'fixed stars' move too, just very slowly.
 8. (mcq) Why will the Saptarishi look different in about 50,000 years?  
    Options: Two of its stars move in different directions from the other five / The stars will burn out / The Earth will stop spinning  
    **Answer:** Two of its stars move in different directions from the other five. *Why:* Five stars travel together. Kratu and Marichi move differently, so the ladle slowly bends.
 9. (mcq) You go onto the terrace to look for faint stars. What should you do first?  
-   Options: Switch off nearby lights and wait about 20 minutes without looking at your phone / Look at your phone to find the stars quickly / Shine a bright white torch at the sky  
+   Options: Look at your phone to find the stars quickly / Shine a bright white torch at the sky / Switch off nearby lights and wait about 20 minutes without looking at your phone  
    **Answer:** Switch off nearby lights and wait about 20 minutes without looking at your phone. *Why:* Your eyes need 20 to 30 minutes of darkness to see faint stars. A bright phone screen or white torch undoes it. A dim red light is fine.
 10. (mcq) Why do people in a big city see far fewer stars than people in a village?  
    Options: City lights light up the air, and faint stars are lost in the glow / There are fewer stars above cities / Tall buildings block all the stars  

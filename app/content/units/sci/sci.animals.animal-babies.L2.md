@@ -455,31 +455,31 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
    Options: Within about an hour of birth / After one month / After one year  
    **Answer:** Within about an hour of birth. *Why:* A calf stands within about an hour, so she can follow her mother.
 3. (mcq) What does a sparrow chick look like when they first hatch?  
-   Options: Covered in brown feathers / Almost bare, with shut eyes / Just like a small grown-up  
+   Options: Almost bare, with shut eyes / Covered in brown feathers / Just like a small grown-up  
    **Answer:** Almost bare, with shut eyes. *Why:* Sparrow chicks hatch almost bare and with shut eyes. They need their parents to feed them.
 4. (mcq) Which is a way a hen cares for her chicks?  
-   Options: She broods them under her wings to keep them warm / She leaves them alone on the first day / She feeds them milk  
+   Options: She leaves them alone on the first day / She broods them under her wings to keep them warm / She feeds them milk  
    **Answer:** She broods them under her wings to keep them warm. *Why:* A hen broods her chicks under her wings. Birds do not make milk.
 5. (mcq) Who helps a langur mother look after her baby?  
-   Options: Nobody / Other female langurs, who take turns holding the baby / Only crows  
+   Options: Other female langurs, who take turns holding the baby / Nobody / Only crows  
    **Answer:** Other female langurs, who take turns holding the baby. *Why:* Among langurs, other females take turns holding and carrying a new baby.
 6. (mcq) What does a hungry sparrow chick do when a parent lands at the nest?  
-   Options: Hides quietly / Stretches up, cheeps and opens a wide mouth / Flies away  
+   Options: Hides quietly / Flies away / Stretches up, cheeps and opens a wide mouth  
    **Answer:** Stretches up, cheeps and opens a wide mouth. *Why:* The chick begs. Begging tells the parent the chick is hungry and where to put the food.
 7. (mcq) How does a human baby help their own care?  
-   Options: By cooking / By crying, gripping and smiling / By walking to the kitchen  
+   Options: By crying, gripping and smiling / By cooking / By walking to the kitchen  
    **Answer:** By crying, gripping and smiling. *Why:* Babies cry when they need something, grip fingers and smile at faces. Carers answer these signals.
 8. (mcq) Paper chick mouths of different colours are laid in a dark box. A player puts chana on the mouths they find. Why should the mouths be mixed up before every round?  
    Options: So no colour is always in the best place / To make the game longer / So the chana do not roll  
    **Answer:** So no colour is always in the best place. *Why:* Mixing makes the test fair. If yellow was always in the middle, it might be found because of the place, not the colour.
 9. (mcq) In the Find the Hungry Mouth experiment, yellow mouths got 5 chana in all in dim light and black mouths got 1. What does that show?  
-   Options: Yellow mouths are easier to find in dim light / Black mouths are hungrier / The test did not work  
+   Options: Black mouths are hungrier / The test did not work / Yellow mouths are easier to find in dim light  
    **Answer:** Yellow mouths are easier to find in dim light. *Why:* The yellow mouths were found five times as often. In dim light, bright colours stand out against a dark nest.
 10. (mcq) Which of these is true about humans?  
    Options: Humans are not animals / Humans are animals whose young need care for many years / Human babies walk on the first day  
    **Answer:** Humans are animals whose young need care for many years. *Why:* Humans are animals, and mammals. Human babies need care for many years, longer than most animals.
 11. (mcq) About how long does a human take to grow up?  
-   Options: About two months / About two years / About eighteen years  
+   Options: About eighteen years / About two months / About two years  
    **Answer:** About eighteen years. *Why:* A human takes about 18 years to grow up. A mouse takes about two months and a cow about two years.
 
 ## Applications

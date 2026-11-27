@@ -561,7 +561,7 @@ Then she asked for the telephone number in Penang.
 ## Worksheets
 ### Reading and building family trees (core) (core, 16 questions)
 1. (mcq) What decides how closely two living beings are related?  
-   Options: How recently their family lines split / How alike they look / Whether they live in the same place / Whether they eat the same food  
+   Options: How alike they look / Whether they live in the same place / Whether they eat the same food / How recently their family lines split  
    **Answer:** How recently their family lines split. *Why:* Relatives are close when their shared ancestor lived recently. Looks and homes can match in distant relatives. Choosing 'how alike they look' is the natural first guess, and the dolphin and the shark show why it fails.
 2. (fill) On a family tree, each fork stands for a common ____.  
    **Answer:** ['ancestor']. *Why:* A fork is the point where one family line became two. The population living at that point is the ancestor of everything above the fork.
@@ -581,7 +581,7 @@ Then she asked for the telephone number in Penang.
 9. (write) In the Dice Clock Test, no roll could be predicted. Explain how the strips could still tell time.  
    **Answer:** About one roll in three gives a 5 or a 6. Over many rolls the changes add up at close to that rate. So the number of coloured squares rises roughly in step with the number of rounds, and can be read back as a time.. *Why:* A strong answer separates one roll, which is chance, from many rolls, which have a steady average.
 10. (mcq) A strip gains 6 coloured squares in 20 rounds. What is the rate?  
-   Options: 0.3 squares in each round / 3 squares in each round / 26 squares in each round / 120 squares in each round  
+   Options: 3 squares in each round / 0.3 squares in each round / 26 squares in each round / 120 squares in each round  
    **Answer:** 0.3 squares in each round. *Why:* A rate is the amount divided by the time. 6 ÷ 20 = 0.3. Choosing 120 means multiplying where dividing was needed. Choosing 26 means adding.
 11. (order) Put the steps of using a molecular clock in order.  
    **Answer:** ['Count the DNA differences between two species', 'Find a split whose date is known from fossils', 'Work out the rate from that known split', 'Divide the differences by the rate to date the new split']. *Why:* The count comes first, and it is not yet a date. The rate has to be set against something known before the count can be turned into years.
@@ -595,7 +595,7 @@ Then she asked for the telephone number in Penang.
 15. (write) Name one surprising pair of close relatives. Say what evidence shows they are close.  
    **Answer:** For example: whales and hippos. DNA puts them together, and they share jumping genes at the same places. Early fossil whales have the same double-pulley ankle bone as hippos, cattle and deer.. *Why:* A strong answer names the pair and gives at least one piece of evidence that is not about looks.
 16. (mcq) Why do scientists give the date of a split as a range?  
-   Options: The changes arrive by chance, so counts wobble / They have not tried hard enough / Dates are a matter of opinion / The fossils keep moving  
+   Options: They have not tried hard enough / Dates are a matter of opinion / The fossils keep moving / The changes arrive by chance, so counts wobble  
    **Answer:** The changes arrive by chance, so counts wobble. *Why:* A count of chance events is never exactly the average, and the rate itself is an estimate. A range is the honest way to say how far off the date could be. Choosing 'a matter of opinion' misses that the range is worked out from the data.
 ### Fewest changes, fast and slow genes, and setting the clock (stretch) (stretch, 16 questions)
 1. (mcq) On a possible tree, the two animals that share a feature are sisters. How many changes does that feature cost?  
@@ -606,7 +606,7 @@ Then she asked for the telephone number in Penang.
 3. (truefalse) True or false: a dugong is a closer relative of a dolphin than of an elephant.  
    **Answer:** False. *Why:* False. The dugong's line and the elephant's line split about 61 million years ago. The dugong's line and the dolphin's line split about 97 million years ago. The shared shape is a lookalike feature.
 4. (mcq) A fast-changing strip of 12 squares is nearly full. What can it no longer tell you?  
-   Options: A long time from a very long time / Whether any time has passed / Which die was used / How many squares it has  
+   Options: Whether any time has passed / A long time from a very long time / Which die was used / How many squares it has  
    **Answer:** A long time from a very long time. *Why:* Once nearly every square has changed, more rounds add almost nothing to the count. So 24 rounds and 48 rounds look alike. The strip still shows that plenty of time has passed.
 5. (match) Match each kind of evidence to what it is best used for.  
    **Answer:** Fast-changing DNA → Telling apart groups that split recently; A slow-changing gene → Dating a very old split; The same jumping gene at the same place → Showing two species share an ancestor; A fossil in dated rock → Setting the rate of the clock. *Why:* Each tool suits a job. Fast DNA has enough changes to separate recent splits. Slow genes have not filled up over long times. A jumping gene at one place is a rare shared event. A dated fossil turns counts into years.
@@ -621,7 +621,7 @@ Then she asked for the telephone number in Penang.
 10. (sort) Sort each group: a clade, or not a clade?  
    **Answer:** Birds → A clade; Animals that fly → Not a clade; Mammals → A clade; Animals that live in the sea → Not a clade; Whales and hippos, with their shared ancestor → A clade; Fish, without the land animals → Not a clade. *Why:* A clade is one ancestor with all the descendants. Birds, mammals, and whales with hippos each pass that test. Flyers and sea animals come from many separate branches. 'Fish' leaves out the land animals, who descend from fish.
 11. (mcq) Two frog families split 131 million years ago. Their lands broke apart 65 million years ago. What follows?  
-   Options: The families were separate before the land split / The land split caused the families to split / The frogs swam across the sea / The clock must be wrong  
+   Options: The land split caused the families to split / The families were separate before the land split / The frogs swam across the sea / The clock must be wrong  
    **Answer:** The families were separate before the land split. *Why:* 131 is older than 65. So the two families already existed while the land was one piece. When the land broke up, each piece carried one family away. Choosing 'the land split caused it' would need the two dates to match.
 12. (write) The oldest fossil of a branch is 50 million years old. Why might the branch be older than that?  
    **Answer:** Fossils form rarely, and few are found. The first members of the branch probably lived before the oldest fossil we happen to have. So the fossil shows the branch is at least 50 million years old, and it may be older.. *Why:* A strong answer says the fossil gives the latest date by which the branch existed, not the date it began.
@@ -631,7 +631,7 @@ Then she asked for the telephone number in Penang.
    Options: Elephant / Dugong / Hyrax / Dolphin  
    **Answer:** 3. *Why:* Elephants, dugongs and hyraxes belong to an old African branch called Afrotheria. The dolphin belongs with hippos, cattle and deer, on a different branch.
 15. (mcq) Two species differ in 2 letters per 100 and split 10 million years ago. When did a pair that differs in 6 split?  
-   Options: About 30 million years ago / About 12 million years ago / About 60 million years ago / About 3 million years ago  
+   Options: About 12 million years ago / About 30 million years ago / About 60 million years ago / About 3 million years ago  
    **Answer:** About 30 million years ago. *Why:* If the rate is the same, three times the differences means three times the time. 6 ÷ 2 = 3, and 3 × 10 = 30. Choosing 12 means adding 2 to 10 where multiplying was needed. These numbers are made up.
 16. (write) A rohu and a shark are both called fish. Explain why 'fish' is not one branch of the tree.  
    **Answer:** The rohu's line is closer to the line of frogs, birds and humans than to the shark's line. Any branch that holds both the rohu and the shark must also hold the land animals. Leaving them out makes 'fish' a group by way of life, not a whole branch.. *Why:* A strong answer uses the idea of a clade: one ancestor with all the descendants.
@@ -639,7 +639,7 @@ Then she asked for the telephone number in Penang.
 1. (write) Chimpanzees are our closest relatives. Explain how one stretch of our DNA can still be closer to a gorilla's.  
    **Answer:** The ancestor population of all three had several versions of that stretch. The gorilla line split first, and soon after, the human and chimpanzee lines split. By chance the human line kept the same old version as the gorilla line, and the chimpanzee line kept a different one.. *Why:* A strong answer says that the old population had variety, and that the two splits came close together, so chance decided which line kept which version.
 2. (mcq) Different genes give different trees for three species. What do scientists report as the species tree?  
-   Options: The tree most of the DNA supports / The tree from the longest gene / The tree found first / The tree that matches looks  
+   Options: The tree from the longest gene / The tree most of the DNA supports / The tree found first / The tree that matches looks  
    **Answer:** The tree most of the DNA supports. *Why:* Each stretch of DNA has a history of its own. The species tree is the one that the large majority of stretches agree on. Scientists also report how many disagree, because that shows how quickly the splits followed each other.
 3. (perspective) Two scientists argue about the first fork in the tree of the animals.  
    **Answer:** A strong answer picks a side and gives the evidence. For comb jellies first: the old arrangement of genes on their chromosomes. For sponges first: comb jelly DNA changes fast and may be misplaced, and a sponge has the simpler body. It also says what would settle it, such as more species or a new kind of evidence.. *Why:* This question is not settled. A simple body proves little, because bodies can lose parts. A fast-changing branch is a known source of error. Both points are fair.
@@ -648,7 +648,7 @@ Then she asked for the telephone number in Penang.
 5. (write) Two notebooks say '60' and one says '6'. One '60' was copied from the other. Why is this not two against one?  
    **Answer:** The copy only repeats what its source said. So the two notebooks give one piece of evidence, not two. It is one against one, and another notebook from a separate line of copying is needed to decide.. *Why:* Evidence counts as separate only when it comes by separate routes. Scientists apply the same care to genes that are inherited together.
 6. (mcq) Rats collect DNA changes faster each year than elephants do. What is one likely reason?  
-   Options: Rat generations are short, so DNA is copied more often / Rats are less careful animals / Rat DNA uses different letters / Elephant DNA never changes  
+   Options: Rats are less careful animals / Rat DNA uses different letters / Elephant DNA never changes / Rat generations are short, so DNA is copied more often  
    **Answer:** Rat generations are short, so DNA is copied more often. *Why:* Many mutations happen when DNA is copied for the next generation. A rat can be a parent within months, and an elephant takes more than ten years. So a century holds far more rat generations. Scientists think other causes add to this too.
 7. (draw) Sketch the fast strip and the slow strip as two lines over 48 rounds. Label where the fast line flattens.  
    **Answer:** The fast line climbs steeply and then bends flat near 12 squares. The slow line climbs gently and is still rising at round 48. The label points to the bend in the fast line.. *Why:* The bend is where hidden changes take over. After it, the fast strip can no longer separate one long time from another.
@@ -661,7 +661,7 @@ Then she asked for the telephone number in Penang.
 11. (write) There is no fossil for a certain split. Suggest two other ways to check a clock date for it.  
    **Answer:** Use a date from the Earth, such as when an island or a continent broke away. Or date the split again with different genes, or with a rate set from a different fossil, and see whether the answers agree.. *Why:* A strong answer looks for a second route to the same date. A result reached by two separate routes can be trusted more.
 12. (mcq) Tamil and Malayalam share many old words. What does a family tree of languages say about this?  
-   Options: Both descend from one earlier language / Each borrowed every word from the other / All languages have the same words / It is chance  
+   Options: Each borrowed every word from the other / All languages have the same words / It is chance / Both descend from one earlier language  
    **Answer:** Both descend from one earlier language. *Why:* Languages are passed on by copying, with small changes kept. Two languages that share many old words, changed in regular ways, split from one parent language. The reasoning is the same as for shared changes in DNA.
 13. (truefalse) True or false: a tree built from a single gene always matches the tree of the species.  
    **Answer:** False. *Why:* False. A single stretch of DNA can have a history that differs from the species' history, most often when two splits came close together. That is why many genes are used.
@@ -681,36 +681,36 @@ Then she asked for the telephone number in Penang.
 
 ## Quiz
 1. (mcq) On a family tree, how do you find out how closely two tips are related?  
-   Options: Trace back to the fork where their lines meet / See how near each other they are drawn / Count the tips between them / Check which is nearer the top  
+   Options: See how near each other they are drawn / Count the tips between them / Trace back to the fork where their lines meet / Check which is nearer the top  
    **Answer:** Trace back to the fork where their lines meet. *Why:* The fork where two lines meet is their last shared ancestor. The more recent that fork, the closer the relatives. How near two tips are drawn means nothing, because any fork can be flipped.
 2. (mcq) A tree is drawn with a fish at the left and a human at the right. What does that order show?  
-   Options: Nothing: the order of the tips has no meaning / Fish are less evolved than humans / Humans came last / Fish are the ancestors of humans  
+   Options: Fish are less evolved than humans / Humans came last / Nothing: the order of the tips has no meaning / Fish are the ancestors of humans  
    **Answer:** Nothing: the order of the tips has no meaning. *Why:* The same tree can be drawn with the tips in many orders. Every living tip has been evolving for the same length of time. Choosing 'less evolved' reads the tree as a ladder, which a tree is not.
 3. (mcq) A bat and a crow both have wings. Why is that weak evidence that they are close relatives?  
-   Options: Wings evolved separately in each, and are built differently / Wings are too small to study / Bats fly only at night / All animals once had wings  
+   Options: Wings are too small to study / Wings evolved separately in each, and are built differently / Bats fly only at night / All animals once had wings  
    **Answer:** Wings evolved separately in each, and are built differently. *Why:* A bat's wing is skin over long finger bones, and a crow's is feathers on an arm. The two evolved separately, for the same job. A lookalike feature tells you how animals live, not who their ancestors were.
 4. (mcq) Which feature best shows that a dolphin is closer to a cow than to a shark?  
-   Options: The mother feeds her young on milk / The dolphin lives in the sea / The dolphin has a backbone / The dolphin has a smooth shape  
+   Options: The dolphin lives in the sea / The dolphin has a backbone / The mother feeds her young on milk / The dolphin has a smooth shape  
    **Answer:** The mother feeds her young on milk. *Why:* Milk is a new feature that appeared once, in the first mammals, so sharing it marks a shared ancestor. All three have a backbone, so it cannot separate them. The smooth shape is a lookalike shared with the shark.
 5. (mcq) Scientists first try the tree that needs the fewest changes. What counts as a change?  
-   Options: A feature appearing or being lost / A new fossil being found / A scientist changing her mind / An animal moving to a new place  
+   Options: A new fossil being found / A feature appearing or being lost / A scientist changing her mind / An animal moving to a new place  
    **Answer:** A feature appearing or being lost. *Why:* Each change is an event in a family line: a feature appears, or is lost. A tree that makes milk or lungs appear twice needs more such events, so it is less likely.
 6. (mcq) Why can copying mistakes in DNA be used as a clock?  
-   Options: Over long times they add up at a steady average rate / Each mistake happens on a fixed date / Cells count the years / Mistakes happen only once a year  
+   Options: Each mistake happens on a fixed date / Cells count the years / Mistakes happen only once a year / Over long times they add up at a steady average rate  
    **Answer:** Over long times they add up at a steady average rate. *Why:* Each mistake is chance, but a large number of chance events has a steady average. So the count of differences grows roughly in step with time. No cell counts years, and no mistake has a fixed date.
 7. (truefalse) True or false: a scientist can predict which DNA letter will change next.  
    **Answer:** False. *Why:* False. Each mutation is a chance event, like one roll of a die. Only the average rate over very many letters and many generations can be measured.
 8. (mcq) What is a dated fossil used for in a molecular clock?  
-   Options: To set the rate of the clock / To supply the DNA / To replace the counting of differences / To decide which genes to read  
+   Options: To supply the DNA / To replace the counting of differences / To decide which genes to read / To set the rate of the clock  
    **Answer:** To set the rate of the clock. *Why:* The fossil gives a known date for one split. Dividing the DNA differences for that split by the date gives the rate. Almost no fossil has DNA left, so the DNA comes from living relatives.
 9. (mcq) A study dates a split to '131 million years ago, between 93 and 177'. What does the range tell you?  
-   Options: How far from 131 the true date might be / That the scientists disagree with each other / That there were two splits / That the study failed  
+   Options: That the scientists disagree with each other / How far from 131 the true date might be / That there were two splits / That the study failed  
    **Answer:** How far from 131 the true date might be. *Why:* The count of chance changes wobbles, and the rate is an estimate. The range shows the dates that fit the evidence. A study that gave no range would be hiding its uncertainty.
 10. (mcq) Which pair are each other's closest living relatives?  
-   Options: A whale and a hippo / A shark and a dolphin / A bat and a crow / A dugong and a dolphin  
+   Options: A shark and a dolphin / A bat and a crow / A whale and a hippo / A dugong and a dolphin  
    **Answer:** A whale and a hippo. *Why:* DNA, jumping genes and fossil ankle bones all place whales beside hippos. The other three pairs only look alike, because they swim or fly in the same way.
 11. (mcq) Fossil whales with legs had a double-pulley ankle bone. What did that show?  
-   Options: Whales belong with hippos, cattle and deer / Whales once climbed trees / The fossils were not whales / Ankles are lookalike features  
+   Options: Whales once climbed trees / The fossils were not whales / Ankles are lookalike features / Whales belong with hippos, cattle and deer  
    **Answer:** Whales belong with hippos, cattle and deer. *Why:* Only the even-toed hoofed mammals have that ankle. Finding it in early whales agreed with what DNA had already shown. An odd bone shape with no link to diet or swimming is unlikely to be a lookalike.
 12. (mcq) You want to date a split from 500 million years ago. Which gene do you choose?  
    Options: A slow-changing gene / A fast-changing gene / Any gene, since all change alike / The shortest gene  

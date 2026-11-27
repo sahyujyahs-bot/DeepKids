@@ -1008,11 +1008,11 @@
       "t": "mcq",
       "q": "Someone drank kadha and their cold got better in 6 days. Why is this not a fair test of kadha?",
       "options": [
-       "There is no control group, and colds often get better on their own",
        "6 days is too short for any test",
+       "There is no control group, and colds often get better on their own",
        "Kadha is hot"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The cold might have got better in 6 days without kadha. A fair test compares people who drink kadha with similar people who do not."
      }
     }
@@ -1183,11 +1183,11 @@
       "t": "mcq",
       "q": "Why does the Spice Guard test have a square with plain rice flour on top?",
       "options": [
-       "To check whether any powder at all stops mould, or only the spice",
        "To make the potato taste better",
+       "To check whether any powder at all stops mould, or only the spice",
        "Because rice flour is a strong medicine"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rice flour is a dry powder like haldi and clove, but it has no strong chemical. If the rice flour square also stays clean, the powder layer was doing the work. If it grows mould, the spice chemical made the difference."
      }
     },
@@ -1384,11 +1384,11 @@
       "t": "mcq",
       "q": "In the Node Test, which money plant cutting is most likely to grow no roots at all?",
       "options": [
-       "The piece from between two nodes, with no node",
        "The piece with a node and a leaf",
+       "The piece from between two nodes, with no node",
        "The piece with a node but no leaf"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Roots grow from the nodes. A piece with no node has nothing to grow roots from. The leaf helps by making food, so A usually roots fastest."
      }
     },
@@ -1576,11 +1576,11 @@
       "t": "mcq",
       "q": "In the Too Much Water? test, cups B and C got the same amount of water. Why did cup C do worse?",
       "options": [
-       "Cup C had no holes, so water filled the soil and the roots got no air",
        "Cup C got more sunlight",
-       "Methi does not like water"
+       "Methi does not like water",
+       "Cup C had no holes, so water filled the soil and the roots got no air"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Cups B and C got the same water. Only the holes were different. In cup B, extra water drained away and air came back into the soil. In cup C, the soil stayed soaked, so the roots could not get the oxygen they need."
      }
     },
@@ -1678,11 +1678,11 @@
       "t": "mcq",
       "q": "A grandmother says tulsi kadha cured her cold in five days. Why is this not enough to show that tulsi kadha works?",
       "options": [
-       "A cold often gets better in about a week anyway, so we need a fair comparison with a control group",
        "Grandmothers always remember wrongly",
+       "A cold often gets better in about a week anyway, so we need a fair comparison with a control group",
        "Tulsi is poisonous"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The grandmother really did get better. But colds usually get better on their own in about a week. Only a fair trial, with some people who drink kadha and some who drink a similar drink without tulsi, can show whether the tulsi helped."
      }
     }
@@ -1759,11 +1759,11 @@
       "t": "mcq",
       "q": "Tamarind is used in rasam all over South India. Where did the tamarind tree first grow?",
       "options": [
-       "Africa",
        "Kerala",
-       "Australia"
+       "Australia",
+       "Africa"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Tamarind first grew in Africa and reached India long ago. Now tamarind is so common that many people think of the tree as Indian. Even the scientific name, Tamarindus indica, says 'of India'."
      }
     }
@@ -1955,11 +1955,11 @@
       "t": "mcq",
       "q": "A pot feels damp 2 cm down, and the pot still feels heavy. What should you do?",
       "options": [
-       "Wait, and check again tomorrow",
        "Water a lot, to be safe",
-       "Move the plant into a dark cupboard"
+       "Move the plant into a dark cupboard",
+       "Wait, and check again tomorrow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Damp soil still has water for the roots. Adding more would fill the air gaps and could rot the roots. Checking first is how good gardeners care for a plant."
      }
     }
@@ -2045,11 +2045,11 @@
       "t": "mcq",
       "q": "Why does a botanist write the date and the place on every pressed plant?",
       "options": [
-       "So that anyone later can know where and when the plant grew, and compare",
        "To make the sheet look nice",
+       "So that anyone later can know where and when the plant grew, and compare",
        "Because pressed plants need a birthday"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A sheet with a date and a place is a piece of evidence. Scientists can compare old sheets with plants today to see which plants have disappeared from a place."
      }
     }
@@ -2187,11 +2187,11 @@
       "t": "mcq",
       "q": "Why did the mint grow roots when the lower leaves were stripped off and the stems stood in water?",
       "options": [
-       "The nodes under the water can grow roots",
        "Water makes any stem grow roots",
-       "Mint leaves grow roots"
+       "Mint leaves grow roots",
+       "The nodes under the water can grow roots"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Roots grow from the nodes. Stripping the lower leaves put the nodes under water. A bare piece of stem with no node would not root."
      }
     }
@@ -2278,11 +2278,11 @@
       "t": "mcq",
       "q": "A wick of cotton string carries water from a bowl up into a pot. Why does the water move up the string?",
       "options": [
-       "Water creeps along the tiny gaps between the cotton threads",
        "The plant sucks the bowl dry with a pump",
+       "Water creeps along the tiny gaps between the cotton threads",
        "Cotton makes new water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water is drawn into narrow gaps, like those between cotton threads, and creeps along them. As the soil dries, more water moves up the string."
      }
     }
@@ -2363,11 +2363,11 @@
       "t": "mcq",
       "q": "In a fair trial of kadha, why should the control group get a drink that looks and tastes like kadha?",
       "options": [
-       "So people cannot tell which group they are in, because believing you got a remedy can make you feel better",
        "Because kadha is too expensive",
-       "So the control group also gets the tulsi"
+       "So the control group also gets the tulsi",
+       "So people cannot tell which group they are in, because believing you got a remedy can make you feel better"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Feeling cared for can make people feel better. If both groups get a similar drink, any extra difference can only come from the tulsi."
      }
     }
@@ -2385,22 +2385,22 @@
      "t": "mcq",
      "p": "Why do many plants make bitter, smelly or hot chemicals?",
      "opts": [
-      "To protect themselves from insects, animals and moulds",
       "To make food taste nice for people",
-      "Because they are old and going bad"
+      "Because they are old and going bad",
+      "To protect themselves from insects, animals and moulds"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A plant cannot run away, so many plants protect themselves with chemistry. People found these chemicals useful later. Many people think the chemicals are there to make food taste nice, but they were there long before anyone cooked."
     },
     {
      "t": "mcq",
      "p": "A clove is which part of the clove tree?",
      "opts": [
-      "A dried flower bud",
       "A seed",
+      "A dried flower bud",
       "A piece of root"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cloves are flower buds picked before they open and dried in the sun. Look at the little ball on top: that is the unopened flower."
     },
     {
@@ -2516,11 +2516,11 @@
      "t": "mcq",
      "p": "Why does a pot need a hole at the bottom?",
      "opts": [
-      "So extra water can drain out and air can get back to the roots",
       "So ants can get in",
-      "To make the pot lighter"
+      "To make the pot lighter",
+      "So extra water can drain out and air can get back to the roots"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Roots need water and air. Without a hole, water fills every gap in the soil and the roots can rot."
     },
     {
@@ -2566,11 +2566,11 @@
      "t": "mcq",
      "p": "All the neelakurinji plants on a hillside bloom together, once in about 12 years, then make seeds and die. How might blooming all at once help them?",
      "opts": [
-      "So many seeds are made together that seed-eaters cannot eat them all",
       "Because the flowers are blue",
-      "So each flower can see the others"
+      "So each flower can see the others",
+      "So many seeds are made together that seed-eaters cannot eat them all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When every plant makes seeds at the same time, animals that eat seeds get far more than they can eat, so many seeds survive. Nobody yet knows how the plants keep count of the years."
     },
     {
@@ -2682,11 +2682,11 @@
      "t": "mcq",
      "p": "Three money plant cuttings stood in water. After 14 days, cutting A had 5 roots, cutting B had 2 roots, and cutting C had none. Which cutting had no node?",
      "opts": [
-      "C",
       "A",
-      "B"
+      "B",
+      "C"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Roots grow from the nodes. A cutting with no node grows no roots.",
      "how": "e2",
      "context": "In the Node Test, you stood three money plant cuttings in water: one with a node and a leaf, one with a node and no leaf, and one with no node."
@@ -2782,11 +2782,11 @@
      "t": "mcq",
      "p": "Why are there so many endemic plants in the Western Ghats and the hills of Meghalaya?",
      "opts": [
-      "Their plants were cut off from other places for a very long time, so new kinds grew there",
       "Endemic plants only grow in rain",
-      "People planted them all there"
+      "People planted them all there",
+      "Their plants were cut off from other places for a very long time, so new kinds grew there"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hills and islands keep plants apart from other places. Over a long time, new kinds of plants grow there and nowhere else."
     },
     {
@@ -2865,11 +2865,11 @@
      "t": "mcq",
      "p": "Suppose that in Too Much Water?, cup A, with holes and watered only when dry, got about half as much water as cup B over 12 days. Both cups grew about the same number of healthy seedlings. What would this show?",
      "opts": [
-      "Watering every day was not needed, because the soil in cup A still had enough water",
       "Methi grows better with no water at all",
+      "Watering every day was not needed, because the soil in cup A still had enough water",
       "Cup B had too little water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cup A got water only when the soil was dry, and did just as well. Extra water drained out of cup B and was wasted. The plant needed some water, not as much as possible.",
      "how": "e3",
      "context": "In Too Much Water?, you grew methi in three cups: A with holes, watered when dry, B with holes, watered daily, and C with no holes, watered daily."
@@ -3002,11 +3002,11 @@
      "t": "mcq",
      "p": "A plant has a chemical that kills mould on food in a box. What should scientists test next, before anyone uses the chemical as a medicine?",
      "opts": [
-      "Whether the chemical is safe for people, and what dose is needed",
       "Nothing more, it is ready",
+      "Whether the chemical is safe for people, and what dose is needed",
       "Whether the plant has nice flowers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A laboratory test is only the first step. Next come careful tests of safety and dose, then fair trials in people."
     }
    ]
@@ -3017,11 +3017,11 @@
    "t": "mcq",
    "p": "Neem leaves taste bitter. Who is the bitterness mainly for?",
    "opts": [
-    "The neem, to keep insects from eating the leaves",
     "People, to use in medicine",
+    "The neem, to keep insects from eating the leaves",
     "Birds, to make them sing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The neem was bitter long before people used neem leaves. People borrowed the neem's protection later.",
    "outcome": 0
   },
@@ -3029,11 +3029,11 @@
    "t": "mcq",
    "p": "Which chemical makes a chilli hot?",
    "opts": [
-    "Capsaicin",
     "Curcumin",
-    "Eugenol"
+    "Eugenol",
+    "Capsaicin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Capsaicin burns the mouths of mammals. Curcumin is the yellow in haldi, and eugenol is the smell of clove.",
    "outcome": 0
   },
@@ -3041,11 +3041,11 @@
    "t": "mcq",
    "p": "In Spice Guard, which square is the control?",
    "opts": [
-    "The plain potato with nothing added",
     "The clove potato",
+    "The plain potato with nothing added",
     "The haldi potato"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The control has nothing new added. It shows what happens anyway, so you can compare the others with it.",
    "outcome": 1,
    "how": "e1",
@@ -3055,11 +3055,11 @@
    "t": "mcq",
    "p": "In Spice Guard, you count the same 16 grid squares on each potato, every day. Why?",
    "opts": [
-    "So the numbers on each potato and each day can be compared fairly",
     "Because 16 is a lucky number",
+    "So the numbers on each potato and each day can be compared fairly",
     "So the boxes look neat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Counting the same squares on every potato, on the same days, makes the numbers comparable.",
    "outcome": 1,
    "how": "e1",
@@ -3069,11 +3069,11 @@
    "t": "mcq",
    "p": "Which medicine for high blood pressure came from sarpagandha root?",
    "opts": [
-    "Reserpine",
     "Aspirin",
-    "Artemisinin"
+    "Artemisinin",
+    "Reserpine"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Reserpine was taken out of sarpagandha root in 1952. Aspirin came from a chemical in willow bark, and artemisinin from sweet wormwood.",
    "outcome": 2
   },
@@ -3081,11 +3081,11 @@
    "t": "mcq",
    "p": "A medicine for epilepsy was made from a small water fern that people in Bengal eat as a green. Why do scientists study plants that people already use as food or medicine?",
    "opts": [
-    "Such plants may hold useful chemicals worth testing",
     "Every plant is a medicine",
+    "Such plants may hold useful chemicals worth testing",
     "Ferns are the only plants with medicines"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If people have used a plant for a long time, it may contain something that works. Scientists then test it carefully to find out what it does and whether it is safe.",
    "outcome": 2
   },
@@ -3093,11 +3093,11 @@
    "t": "mcq",
    "p": "A fair trial of a remedy gives one group the remedy. What does the control group get?",
    "opts": [
-    "A placebo that looks and tastes the same but should do nothing",
     "Twice as much remedy",
+    "A placebo that looks and tastes the same but should do nothing",
     "Nothing, and they are told so"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A placebo stops people knowing which group they are in, because believing you got a remedy can make you feel better.",
    "outcome": 3
   },
@@ -3105,11 +3105,11 @@
    "t": "mcq",
    "p": "Why can a natural plant oil, like clove oil, be dangerous for a small child?",
    "opts": [
-    "Defence chemicals are strong, and a large dose can poison",
     "Natural things are never dangerous",
+    "Defence chemicals are strong, and a large dose can poison",
     "Clove oil is made in a factory"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The dose decides. A drop on a tooth can help. A spoonful swallowed by a child can harm badly.",
    "outcome": 3
   },
@@ -3177,12 +3177,12 @@
    "t": "mcq",
    "p": "A family lines an earthen pot with dry neem leaves before they pour in the rice. Why?",
    "opts": [
-    "The bitter chemicals in neem stop weevils from feeding on the rice",
     "The neem leaves make the rice taste sweeter",
+    "The bitter chemicals in neem stop weevils from feeding on the rice",
     "The leaves soak up water so the rice can sprout",
     "The leaves keep the pot warm in winter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Neem leaves are bitter because of a defence chemical, and insects that taste it stop feeding. People borrowed that shield for their grain. The sweeter-rice answer is a guess about taste, but the job of neem here is to keep insects out.",
    "outcome": 0
   },
@@ -3203,12 +3203,12 @@
    "t": "mcq",
    "p": "The brown hairy husk of a coconut is spun into rope and doormats in Kerala. What is this fibre called?",
    "opts": [
-    "Coir",
     "Jute",
     "Latex",
-    "Cotton"
+    "Cotton",
+    "Coir"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The husk fibre of the coconut is called coir. Jute is a fibre from a stem. Latex is milky sap. Cotton fibre grows round the cotton seed.",
    "outcome": 2
   },
@@ -3229,12 +3229,12 @@
    "t": "mcq",
    "p": "Why is the palash tree called the flame of the forest?",
    "opts": [
-    "In spring its bare branches fill with orange-red flowers that look like flames",
     "Its leaves burn easily when forest fires start",
+    "In spring its bare branches fill with orange-red flowers that look like flames",
     "It grows only where fires have burned the forest",
     "Its wood glows red in the dark"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Palash drops its leaves in the dry season and flowers in February and March. Whole trees look like they are on fire. The tree does not burn, and its wood does not glow.",
    "outcome": 4
   }

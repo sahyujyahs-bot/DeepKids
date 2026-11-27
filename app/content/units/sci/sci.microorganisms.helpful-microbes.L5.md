@@ -620,7 +620,7 @@ Washed is not the same as dry.
 ## Worksheets
 ### Why food spoils and how we keep it (core, 16 questions)
 1. (mcq) What makes food spoil?  
-   Options: Air touching the food / Microbes growing in the food / The food simply getting old / The food being kept in the dark  
+   Options: Microbes growing in the food / Air touching the food / The food simply getting old / The food being kept in the dark  
    **Answer:** Microbes growing in the food. *Why:* Bacteria, yeasts and moulds eat the food and multiply. Air alone does not spoil food, and food does not go bad just by being old: dry rice keeps for years.
 2. (fill) Bacteria, yeasts and moulds are all ____: living beings too small to see.  
    **Answer:** ['microbes']. *Why:* Microbe is the word for any living being too small to see without a microscope.
@@ -631,14 +631,14 @@ Washed is not the same as dry.
 5. (match) Match each way of keeping food to what it does to microbes.  
    **Answer:** Drying → Removes the water they need; A lot of salt → Holds the water so they get none; The fridge → Slows their growth; Boiling → Kills most of them; A layer of oil → Keeps air away from moulds. *Why:* Each method takes away one thing microbes need, or kills them. Drying and salt take away free water, cold takes away warmth, oil takes away air, and boiling kills.
 6. (mcq) Thick jaggery syrup has more sugar than thin jaggery water. Why does the thick syrup keep better?  
-   Options: Sugar is a poison for yeasts / Thick syrup is colder / The sugar holds the water / Yeasts dislike the dark colour  
+   Options: The sugar holds the water / Sugar is a poison for yeasts / Thick syrup is colder / Yeasts dislike the dark colour  
    **Answer:** The sugar holds the water. *Why:* Sugar holds on to water. In thick syrup almost no water is free, so yeasts lose water and stop growing. Sugar does not poison them: thin sugar water is their food.
 7. (order) Put these foods in order, from the one that spoils fastest on a shelf to the one that keeps longest.  
    **Answer:** ['Cooked dal', 'Bread', 'Opened jam', 'Raw rice']. *Why:* Cooked dal is wet and warm and spoils in a day. Bread has free water and grows mould in about a week. Jam is held by sugar for weeks. Dry rice keeps for a year or more.
 8. (truefalse) Freezing kills all the microbes in food.  
    **Answer:** False. *Why:* False. Freezing stops microbes from growing, because there is no liquid water. Most are still alive, and grow again when the food warms up.
 9. (mcq) Which of these changes is caused by microbes?  
-   Options: A cut apple going brown / A biscuit going soft / Bread growing green fuzz / Honey turning grainy  
+   Options: A cut apple going brown / A biscuit going soft / Honey turning grainy / Bread growing green fuzz  
    **Answer:** Bread growing green fuzz. *Why:* Green fuzz is a mould growing. A cut apple browns by reacting with air, and a biscuit softens by taking in water. Honey turns grainy as sugar forms crystals.
 10. (fill) Curd bacteria turn milk sugar into an ____, which makes curd sour.  
    **Answer:** ['acid', 'lactic acid']. *Why:* The acid is lactic acid. The acid sets the milk and makes the curd sour. Most other microbes grow poorly in that acid.
@@ -651,19 +651,19 @@ Washed is not the same as dry.
 14. (perspective) A lemon has grown blue-green mould. Is the lemon spoiled?  
    **Answer:** Any view with a reason from the unit. The cook is right that the lemon is unsafe for people. The mould is doing what every living being does, which is to eat and grow. The gardener points out that where the lemon is changes what we call it.. *Why:* Each view is true from where it stands. A strong answer keeps two things apart: whether the lemon is safe for us to eat, and whether something has gone wrong in nature.
 15. (mcq) A sealed tin of food has swollen ends. What should be done with the tin?  
-   Options: Open it and smell the food / Boil the food and eat it / Throw it away unopened / Put it in the fridge  
+   Options: Throw it away unopened / Open it and smell the food / Boil the food and eat it / Put it in the fridge  
    **Answer:** Throw it away unopened. *Why:* Gas from bacteria that grow without air has swollen the tin. They can make a deadly toxin that tasting or boiling at home will not make safe.
 16. (order) Put the steps for growing moong sprouts at home in order.  
    **Answer:** ['Soak the moong in water overnight', 'Drain the water from the moong', 'Keep the soaked moong in a damp cloth for a day or two', 'Rinse the sprouts well, and cook them lightly if they sat long']. *Why:* A seed needs water to wake up, then damp air to grow. The warm, wet cloth also suits microbes, so the last step keeps the sprouts safe.
 ### Amounts, hurdles and reasons (stretch, 16 questions)
 1. (mcq) With no salt or a quarter teaspoon, dal water spoiled. With 2 teaspoons it kept. What does this show?  
-   Options: Any amount of salt stops spoiling / Salt works only in large amounts / Salt makes food spoil faster / Salt has no effect on microbes  
+   Options: Any amount of salt stops spoiling / Salt makes food spoil faster / Salt has no effect on microbes / Salt works only in large amounts  
    **Answer:** Salt works only in large amounts. *Why:* A small amount of salt made no difference, and a large amount stopped the spoiling. So salt preserves only above a certain strength.
 2. (mcq) Honey is one-sixth water. Bread is over one-third water. Why does only the bread go mouldy?  
-   Options: Bread has more free water / Honey is kept colder / Bread has more sugar / No spores ever land on honey  
+   Options: Honey is kept colder / Bread has more sugar / No spores ever land on honey / Bread has more free water  
    **Answer:** Bread has more free water. *Why:* What matters is free water. In honey the sugar holds nearly all the water. In bread much of the water is free for moulds to use.
 3. (mcq) Why do moulds not grow under the oil in a pickle jar?  
-   Options: Oil is too cold for them / Oil is a strong acid / Moulds are afraid of oil / Moulds need air, and oil keeps air out  
+   Options: Moulds need air, and oil keeps air out / Oil is too cold for them / Oil is a strong acid / Moulds are afraid of oil  
    **Answer:** Moulds need air, and oil keeps air out. *Why:* Moulds must have air. The oil keeps air away from the pickle. Pieces that stick out above the oil can grow mould.
 4. (truefalse) No living microbes are left on dried food.  
    **Answer:** False. *Why:* False. Drying stops microbes from growing but does not kill them all. Many wait as spores, and grow if the food gets damp.
@@ -694,16 +694,16 @@ Washed is not the same as dry.
    **Answer:** heat. *Why:* When water dries into the air, it takes heat from what it leaves. This is evaporation. The pot loses heat, so it is cooler than the room.
 ### Testing ideas about keeping food (challenge, 16 questions)
 1. (mcq) Cooked rice sat out all day and was then fried until very hot. Is the rice safe now?  
-   Options: Yes, heat destroys everything harmful / Not always: some toxins survive heat / Yes, as long as it smells fine / Yes, rice never causes illness  
+   Options: Yes, heat destroys everything harmful / Yes, as long as it smells fine / Not always: some toxins survive heat / Yes, rice never causes illness  
    **Answer:** Not always: some toxins survive heat. *Why:* Frying kills the bacteria, but some bacteria leave toxins in the rice that heat does not destroy. Smell is no guide, because this rice can smell normal.
 2. (mcq) Hot countries use more spices. Does this prove that spices are used to stop food spoiling?  
-   Options: Yes, the pattern proves it / No, other reasons could explain the pattern / No, spices never affect microbes / Yes, because spices taste strong  
+   Options: No, other reasons could explain the pattern / Yes, the pattern proves it / No, spices never affect microbes / Yes, because spices taste strong  
    **Answer:** No, other reasons could explain the pattern. *Why:* Two things going together does not show that one causes the other. Hot countries also grow more spice plants, for example. A later study found that spice use does not match the risk of illness from food.
 3. (mcq) A test compares salt, lemon juice and drying as ways to keep carrot. Which jar is still needed?  
    Options: A jar of plain carrot / A jar with all three together / A jar of plain water / A second jar with salt  
    **Answer:** A jar of plain carrot. *Why:* Without a plain jar, there is nothing to compare with. Nobody would know how fast the carrot spoils when nothing is done to it.
 4. (mcq) Which finding shows that air alone does not spoil food?  
-   Options: Food in open bowls spoiled / Salted fish kept for months / Sealed tins with no air inside spoiled / Dry rice kept for a year  
+   Options: Food in open bowls spoiled / Salted fish kept for months / Dry rice kept for a year / Sealed tins with no air inside spoiled  
    **Answer:** Sealed tins with no air inside spoiled. *Why:* If air were the cause, a tin with no air could never spoil. Bacteria that survived weak heating spoiled such tins from inside.
 5. (truefalse) If food looks and smells normal, it is always safe to eat.  
    **Answer:** False. *Why:* False. Some harmful bacteria reach dangerous numbers, or leave toxins, without changing the look or smell of the food.
@@ -737,25 +737,25 @@ Washed is not the same as dry.
 
 ## Quiz
 1. (mcq) Which three kinds of microbes most often spoil food?  
-   Options: Bacteria, yeasts and moulds / Ants, flies and cockroaches / Dust, air and light / Salt, sugar and acid  
+   Options: Ants, flies and cockroaches / Bacteria, yeasts and moulds / Dust, air and light / Salt, sugar and acid  
    **Answer:** Bacteria, yeasts and moulds. *Why:* Bacteria, yeasts and moulds are the microbes that eat food and multiply there. Flies and ants are animals we can see, and they are not what makes dal froth or bread grow fuzz.
 2. (mcq) Which of these do spoiling microbes need in order to grow?  
    Options: Darkness / Free water / A lot of salt / Freezing cold  
    **Answer:** Free water. *Why:* Microbes can grow only where there is water they can take in. Salt and cold both hold them back, and light makes little difference.
 3. (mcq) How does drying keep food?  
-   Options: It kills every microbe / It adds sunlight to the food / It leaves too little water for microbes / It makes the food sour  
+   Options: It leaves too little water for microbes / It kills every microbe / It adds sunlight to the food / It makes the food sour  
    **Answer:** It leaves too little water for microbes. *Why:* Dried food has too little free water for microbes to grow. Many microbes are still on the food, waiting. That is why dried food must stay dry.
 4. (mcq) Why does pickle have to be very salty?  
    Options: Salt works only in large amounts / Salt adds colour / People like the taste / Salt makes mango softer  
    **Answer:** Salt works only in large amounts. *Why:* A little salt leaves plenty of free water for microbes. Only a lot of salt holds enough of the water to stop them.
 5. (mcq) What does a fridge do to most microbes in food?  
-   Options: Kills them / Slows them down / Removes them / Turns them into spores  
+   Options: Kills them / Removes them / Slows them down / Turns them into spores  
    **Answer:** Slows them down. *Why:* Cold slows the growth of microbes. They are still alive, so food from the fridge spoils once it is left warm.
 6. (mcq) Jam and murabba keep for months because they are:  
-   Options: More than half sugar / Brightly coloured / Made from fruit / Kept in glass  
+   Options: Brightly coloured / Made from fruit / Kept in glass / More than half sugar  
    **Answer:** More than half sugar. *Why:* At that strength the sugar holds the water, so microbes get almost none. Fruit alone spoils quickly, and glass does nothing without the sugar.
 7. (mcq) Idli batter has risen overnight and smells a little sour. The batter is:  
-   Options: Spoiled / Fermented / Only changed by air / Dried  
+   Options: Spoiled / Only changed by air / Dried / Fermented  
    **Answer:** Fermented. *Why:* Bacteria and yeasts that we wanted have made gas and acid in the batter. That is fermentation. Spoiling is the work of microbes nobody chose.
 8. (mcq) A crisp biscuit left out overnight now bends. What happened to the biscuit?  
    Options: Microbes ate part of the biscuit / It took in water from the air / It lost its sugar / The air cooled it  
@@ -764,19 +764,19 @@ Washed is not the same as dry.
    Options: Curd is thicker / Curd is whiter / Curd bacteria made acid / Curd has no bacteria  
    **Answer:** Curd bacteria made acid. *Why:* Curd is full of living bacteria. The acid they made holds back most other microbes.
 10. (mcq) What do your gut microbes eat that your own body is unable to digest?  
-   Options: Sugar / Plant fibre / Water / Salt  
+   Options: Plant fibre / Sugar / Water / Salt  
    **Answer:** Plant fibre. *Why:* Your enzymes do not break down most fibre, so it reaches the large intestine. Gut microbes ferment the fibre, and what they make feeds your gut wall.
 11. (mcq) In a fair test of how much salt keeps food, what is the one thing that changes?  
-   Options: The kind of food / The size of the glass / The amount of salt / The place the glasses stand  
+   Options: The kind of food / The size of the glass / The place the glasses stand / The amount of salt  
    **Answer:** The amount of salt. *Why:* Only the amount of salt changes. If the food, the glass or the place also changed, nobody could tell which one caused the result.
 12. (mcq) What are scientists still unsure of about curd and other fermented foods?  
-   Options: Whether they hold living bacteria / Whether their bacteria settle in the gut / Whether they are safe to eat / Whether bacteria make them sour  
+   Options: Whether they hold living bacteria / Whether they are safe to eat / Whether their bacteria settle in the gut / Whether bacteria make them sour  
    **Answer:** Whether their bacteria settle in the gut. *Why:* Fermented foods are safe and do hold living bacteria. What is still being tested is whether those bacteria stay in the gut and change a person's health.
 13. (mcq) Where would a mud pot with a wet cloth round it keep water coolest?  
    Options: In hot, dry air on a summer afternoon in Rajasthan / In damp air on the Kerala coast during the monsoon / Inside a closed steel cupboard  
    **Answer:** In hot, dry air on a summer afternoon in Rajasthan. *Why:* The cloth cools the pot as water dries off it. In hot, dry air the water dries fast and takes away more heat. In damp air it dries slowly, and in a closed cupboard it hardly dries at all.
 14. (mcq) Farmers dig potatoes in February. How does a cold store help families eat them in August?  
-   Options: Cold slows the microbes that would rot the potatoes / Cold kills every microbe on the potatoes / Cold turns the potatoes into dry flour  
+   Options: Cold kills every microbe on the potatoes / Cold slows the microbes that would rot the potatoes / Cold turns the potatoes into dry flour  
    **Answer:** Cold slows the microbes that would rot the potatoes. *Why:* Cold slows microbes but does not kill them. The potatoes rot far more slowly, so they last for months. Once they come out into warm air, microbes speed up again.
 15. (mcq) Priya soaks moong overnight and keeps it in a damp cloth for two days. Why should she rinse the sprouts well?  
    Options: The warm, wet cloth is also a good home for microbes / Sprouts are poisonous until they are rinsed / Rinsing makes the sprouts grow taller  

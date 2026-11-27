@@ -808,11 +808,11 @@
       "t": "mcq",
       "q": "One packet needs a stretch of 4 cm. Two packets need 8 cm. What would you expect for three packets?",
       "options": [
-       "About 12 cm",
        "About 6 cm",
-       "About 4 cm"
+       "About 4 cm",
+       "About 12 cm"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The stretch went up by 4 cm for each packet, so three packets would be about 12 cm. If the numbers rise evenly like this, we say the pull is proportional to the load. A wrong pick often means looking at the last number only, instead of the pattern."
      },
      "context": "In this step, you pull the box with 0, 1, 2 and 3 packets in it, and read the gap each time."
@@ -940,11 +940,11 @@
       "t": "mcq",
       "q": "Why do we use the same bottle, thread and pencil each time?",
       "options": [
-       "So only the number of turns changes",
        "So the thread does not tear",
+       "So only the number of turns changes",
        "So the pencil does not roll"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If we changed the thread as well, we would not know whether the turns or the thread caused the difference."
      },
      "context": "In this step, you set up the pencil, the bottle and the bag."
@@ -1197,11 +1197,11 @@
       "t": "mcq",
       "q": "Why is the pull smaller on pencils?",
       "options": [
-       "The pencils roll, so nothing rubs and slides at the touching spot",
        "The pencils make the box lighter",
-       "The pencils are smoother than the floor"
+       "The pencils are smoother than the floor",
+       "The pencils roll, so nothing rubs and slides at the touching spot"
       ],
-      "a": 0,
+      "a": 2,
       "why": "On a roller, the part that touches the floor is still for a moment, so it does not rub. The box is the same weight, so the pressing force has not changed. A wrong pick often means thinking that the box became lighter."
      },
      "context": "In this step, you measure the pull needed to roll the box on pencils."
@@ -1306,11 +1306,11 @@
       "t": "mcq",
       "q": "Honey is warmed. What happens to its friction on a falling nut?",
       "options": [
-       "It gets smaller, so the nut falls faster",
        "It gets bigger, so the nut falls slower",
+       "It gets smaller, so the nut falls faster",
        "It stays the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Warmer honey is thinner and runnier, which means it has less internal friction. A wrong pick often means thinking that warm honey is stickier. Honey becomes thicker when cold, not when warm."
      },
      "context": "In this step, you warm the honey and see how heat changes the fall."
@@ -1401,11 +1401,11 @@
       "t": "mcq",
       "q": "Why do we swap the order of the hands for the second try?",
       "options": [
-       "Practice would make the second try faster, whichever hand it was",
        "The marbles get wetter each time",
+       "Practice would make the second try faster, whichever hand it was",
        "Wrinkles go away after the first try"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If we always used the same hand first, practice could make the second hand look better. Swapping the order makes the test fairer."
      },
      "context": "In this step, you test the wrinkled hand and the smooth hand on wet marbles."
@@ -1532,11 +1532,11 @@
      "t": "mcq",
      "p": "A box needs 4 newtons of pull to start moving. You put a second box, exactly the same, on top of it. About how much pull will the pair need?",
      "opts": [
-      "About 8 newtons",
       "About 4 newtons",
+      "About 8 newtons",
       "About 2 newtons"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The pressing force on the floor has doubled, so the friction has about doubled too. A wrong pick often means thinking that extra weight makes no difference.",
      "outcome": 0
     },
@@ -1586,11 +1586,11 @@
      "t": "mcq",
      "p": "In a test, the two dots on a rubber band start 4 centimetres apart. Just before the box moves, they are 9 centimetres apart. What is the stretch?",
      "opts": [
-      "5 centimetres",
       "9 centimetres",
-      "13 centimetres"
+      "13 centimetres",
+      "5 centimetres"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The stretch is how much the gap grew. 9 take away 4 is 5. A wrong pick often means reading the gap and forgetting to take away the starting length.",
      "outcome": 1
     },
@@ -1644,11 +1644,11 @@
      "t": "mcq",
      "p": "When you slide two fingers together under a ruler, why does the finger nearer the middle stay stuck while the other one slides?",
      "opts": [
-      "It carries more of the weight, so it presses harder and has more friction",
       "It is the stronger finger",
-      "The ruler is stickier in the middle"
+      "The ruler is stickier in the middle",
+      "It carries more of the weight, so it presses harder and has more friction"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The finger nearer the middle carries more of the ruler's weight, so its friction is bigger. A wrong pick often means thinking about the finger's strength, not the load on it.",
      "outcome": 3
     },
@@ -1689,11 +1689,11 @@
      "t": "mcq",
      "p": "Why does honey slow a falling ball more than water does?",
      "opts": [
-      "Honey has more friction inside it, which is called viscosity",
       "Honey is heavier than water",
-      "Honey is smoother than water"
+      "Honey is smoother than water",
+      "Honey has more friction inside it, which is called viscosity"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The layers of honey rub against each other and against the ball with much more friction than water. A wrong pick often means thinking about weight, when the real reason is the friction inside the liquid.",
      "outcome": 4
     },
@@ -1859,11 +1859,11 @@
      "t": "mcq",
      "p": "A boatman lets the rope slide slowly round the post instead of locking it tight. Why is this better?",
      "opts": [
-      "It stops the boat gently, without a jerk that could break the line",
       "It makes the rope stronger",
-      "It makes the post colder"
+      "It makes the post colder",
+      "It stops the boat gently, without a jerk that could break the line"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Stopping all at once puts a huge force on the line and the boat. Letting the rope slide a little slows the boat gently. A wrong pick often means thinking that the rope gets stronger.",
      "outcome": 5
     },
@@ -1915,11 +1915,11 @@
      "t": "mcq",
      "p": "A box slides across the floor and stops. Where did its movement go?",
      "opts": [
-      "It turned into heat in the box and the floor",
       "It was used up and disappeared",
-      "It went into the air as light"
+      "It went into the air as light",
+      "It turned into heat in the box and the floor"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Friction turns movement into heat, which spreads into the surfaces and the air. Movement is not used up. A wrong pick often means thinking that movement just ends.",
      "outcome": 6
     },
@@ -1964,11 +1964,11 @@
      "t": "mcq",
      "p": "Rubber on a dry road has mu of about 0.8. Steel on ice has mu of about 0.03. About how many times more grip does the rubber have?",
      "opts": [
-      "About 27 times",
       "About 3 times",
+      "About 27 times",
       "About 800 times"
      ],
-     "a": 0,
+     "a": 1,
      "why": "0.8 divided by 0.03 is about 27. A wrong pick often means mixing up the decimals.",
      "outcome": 0
     },
@@ -2024,11 +2024,11 @@
      "t": "mcq",
      "p": "An earthquake happens when rocks that were stuck together deep underground suddenly slip. Which idea from this lesson does that match?",
      "opts": [
-      "Stick-slip",
       "Rolling friction",
-      "Fluid friction"
+      "Fluid friction",
+      "Stick-slip"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The rocks stick, the push builds up, and then they slip all at once. This is stick-slip on a giant scale.",
      "outcome": 3
     },
@@ -2079,11 +2079,11 @@
      "t": "mcq",
      "p": "A graph of pull against load for a box is a straight line that starts near zero. What does this show?",
      "opts": [
-      "The pull is proportional to the load",
       "The pull does not depend on the load",
-      "The pull is bigger for lighter loads"
+      "The pull is bigger for lighter loads",
+      "The pull is proportional to the load"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A straight line from the start means that doubling the load doubles the pull. A wrong pick often means thinking a straight line means no change.",
      "outcome": 1
     },
@@ -2146,11 +2146,11 @@
    "t": "mcq",
    "p": "You put a second school bag on top of the bag that you are dragging across the floor. What happens to the friction?",
    "opts": [
-    "It becomes about twice as big",
     "It becomes much smaller",
+    "It becomes about twice as big",
     "It stays exactly the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The pressing force doubles, so the friction roughly doubles. A wrong pick often means thinking that the weight has no effect.",
    "outcome": 0
   },
@@ -2170,11 +2170,11 @@
    "t": "mcq",
    "p": "Why do two hard, flat surfaces touch at only a few tiny spots?",
    "opts": [
-    "Every surface has tiny peaks, and only the tips of the peaks meet",
     "The surfaces push each other away",
-    "The surfaces are covered in oil"
+    "The surfaces are covered in oil",
+    "Every surface has tiny peaks, and only the tips of the peaks meet"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Even a smooth surface is a mountain range under a microscope. Only the tips of the peaks touch. A wrong pick often means thinking the surfaces repel each other.",
    "outcome": 2
   },
@@ -2194,11 +2194,11 @@
    "t": "mcq",
    "p": "What is stick-slip?",
    "opts": [
-    "Movement in jerks, as a thing sticks, slips, and sticks again",
     "A kind of glue",
-    "A very smooth floor"
+    "A very smooth floor",
+    "Movement in jerks, as a thing sticks, slips, and sticks again"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Starting friction holds a thing still until the pull passes its limit. Then the thing slips, and sliding friction is a little smaller, so it can stick again.",
    "outcome": 3
   },
@@ -2230,11 +2230,11 @@
    "t": "mcq",
    "p": "Why does warm honey flow faster than cold honey?",
    "opts": [
-    "Heat makes the molecules move faster, so there is less friction inside the honey",
     "Warm honey is heavier",
-    "Warm honey is a different liquid"
+    "Warm honey is a different liquid",
+    "Heat makes the molecules move faster, so there is less friction inside the honey"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Heat helps the molecules slide past each other. Honey is then less viscous.",
    "outcome": 4
   },
@@ -2242,11 +2242,11 @@
    "t": "mcq",
    "p": "A rope is wound round a post. Two turns need a hold of 36 newtons, and each turn makes the hold 6 times easier. What does a third turn need?",
    "opts": [
-    "About 6 newtons",
     "About 30 newtons",
+    "About 6 newtons",
     "About 216 newtons"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The third turn divides the hold by 6 again, and 36 divided by 6 is 6. A wrong pick often means taking away 6 instead of dividing by 6.",
    "outcome": 5
   },
@@ -2254,11 +2254,11 @@
    "t": "mcq",
    "p": "You pull a box with a friction force of 8 newtons along 5 metres. How much work do you do against the friction?",
    "opts": [
-    "40 joules, which ends up as heat",
     "13 joules, which disappears",
+    "40 joules, which ends up as heat",
     "8 joules, which ends up as light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Work is the force times the distance. 8 times 5 is 40 joules. All of it becomes heat.",
    "outcome": 6
   },

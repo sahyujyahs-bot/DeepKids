@@ -501,7 +501,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
    Options: Pink / Green / It stays purple  
    **Answer:** Pink. *Why:* Vinegar contains acetic acid. Acids turn cabbage water pink.
 3. (mcq) Detergent powder is stirred into cabbage water. It turns green. What does that tell you?  
-   Options: Detergent water is a base / Detergent water is an acid / Detergent water is neutral  
+   Options: Detergent water is an acid / Detergent water is a base / Detergent water is neutral  
    **Answer:** Detergent water is a base. *Why:* Bases turn cabbage water blue or green. Green means a fairly strong base.
 4. (fill) Something that changes colour to show whether a liquid is an acid or a base is called an ____.  
    **Answer:** ['indicator']. *Why:* Red cabbage water and turmeric are both indicators.
@@ -520,7 +520,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 11. (write) Cooking soda fizzes when lemon juice drips on it, but salt does not. Why?  
    **Answer:** Cooking soda is a base and lemon juice has acid, so they react and make carbon dioxide bubbles. Salt is neutral, so nothing reacts.. *Why:* A strong answer names the acid, the base, and the gas.
 12. (mcq) Why does your hand feel slippery after you rub it in soapy water?  
-   Options: Soap is a base, and bases in water feel slippery / Soap is an acid / The water is warm  
+   Options: Soap is an acid / Soap is a base, and bases in water feel slippery / The water is warm  
    **Answer:** Soap is a base, and bases in water feel slippery. *Why:* Bases in water feel slippery. Soap and detergent are bases.
 13. (fill) Strong acids and strong bases can ____ skin and eyes.  
    **Answer:** ['burn']. *Why:* Weak acids and bases, like lemon and cooking soda, are safe in food. Strong ones burn, so only grown-ups handle them.
@@ -554,7 +554,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 11. (fill) The gas that makes the bubbles when lemon juice drips on cooking soda is called ____ ____.  
    **Answer:** ['carbon dioxide']. *Why:* Acids react with cooking soda and give off carbon dioxide gas.
 12. (mcq) Buttermilk is a weak acid. Which pH number could it have?  
-   Options: About 4 or 5 / About 7 / About 12  
+   Options: About 7 / About 12 / About 4 or 5  
    **Answer:** About 4 or 5. *Why:* Acids have numbers below 7. Buttermilk is only a weak acid, so its number is a little below 7, not far below like lemon juice.
 13. (truefalse) Tomato juice turns cabbage water pinkish, so tomato juice contains an acid.  
    **Answer:** True. *Why:* True. Pink in cabbage water means an acid. Tomato has a weak acid, so the pink is soft.
@@ -592,7 +592,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 13. (sort) Sort these by which way they move cabbage water along the line.  
    **Answer:** amla juice → Towards pink; washing powder → Towards green; tomato juice → Towards pink; cooking soda → Towards green; sugar → Stays the same; salt → Stays the same. *Why:* Acids move it towards pink, bases towards green, and neutral things leave it where it is.
 14. (mcq) Cooks in Assam make khar with water filtered through the ash of burnt banana peel. What kind of liquid is the ashy water?  
-   Options: A base (an alkali) / An acid / Neutral, like plain water  
+   Options: An acid / A base (an alkali) / Neutral, like plain water  
    **Answer:** A base (an alkali). *Why:* Ash from burnt plants gives an alkali, which is a base that dissolves in water. That is where the word alkali comes from.
 15. (truefalse) Pure water has no acid particles and no base particles in it at all.  
    **Answer:** False. *Why:* False. Even pure water holds a tiny number of both, in equal amounts. That balance is why it is neutral, at pH 7.
@@ -604,13 +604,13 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 
 ## Quiz
 1. (mcq) Which of these tastes sour because it contains an acid?  
-   Options: Tamarind / Sugar / Salt / Rice  
+   Options: Sugar / Tamarind / Salt / Rice  
    **Answer:** Tamarind. *Why:* Tamarind contains tartaric acid. Sugar tastes sweet and salt tastes salty, but neither is an acid. Picking salt is common, because its taste is strong.
 2. (mcq) Which of these is a base?  
-   Options: Bath soap / Lemon juice / Vinegar / Curd  
+   Options: Lemon juice / Vinegar / Bath soap / Curd  
    **Answer:** Bath soap. *Why:* Soap is a base. It feels slippery in water and turns cabbage water blue-green. The other three are sour, so they are acids.
 3. (mcq) Red cabbage water stays purple when you add a liquid. What is that liquid?  
-   Options: Neutral / A strong acid / A strong base  
+   Options: A strong acid / Neutral / A strong base  
    **Answer:** Neutral. *Why:* Purple is the neutral colour. An acid would turn it pink, and a base blue or green.
 4. (mcq) Cooking soda water is added to cabbage water. What colour will it most likely turn?  
    Options: Blue or blue-green / Pink / Red  
@@ -619,22 +619,22 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
    Options: The red one / The pink one / The green one / The purple one  
    **Answer:** The red one. *Why:* Red is the very end of the acid side. Pink is a weaker acid. Purple is neutral and green is a base.
 6. (mcq) Lemon juice, plain water and detergent water are lined up from pinkest to greenest. Which one is in the middle?  
-   Options: Plain water / Lemon juice / Detergent water  
+   Options: Lemon juice / Plain water / Detergent water  
    **Answer:** Plain water. *Why:* Plain water is neutral, so it sits in the middle. Lemon juice is at the pink end and detergent water at the green end.
 7. (mcq) Why do scientists never taste an unknown liquid to test it?  
    Options: It might be a strong acid or base that burns / It might taste too sweet / Tasting takes too long  
    **Answer:** It might be a strong acid or base that burns. *Why:* Strong acids and bases burn. An indicator such as cabbage water tells us safely.
 8. (mcq) Which of these is a strong base that only grown-ups should handle?  
-   Options: Chuna (lime paste) / Cooking soda / Curd  
+   Options: Cooking soda / Curd / Chuna (lime paste)  
    **Answer:** Chuna (lime paste). *Why:* Chuna is a strong base and can burn skin and eyes. Cooking soda is a weak base and curd is a weak acid, both safe in food.
 9. (mcq) Soda water is added spoon by spoon to pink lemony cabbage water. What happens to the colour?  
-   Options: It turns purple, then blue / It gets pinker / It turns red and stays red  
+   Options: It gets pinker / It turns red and stays red / It turns purple, then blue  
    **Answer:** It turns purple, then blue. *Why:* The base uses up the acid, so the colour moves back to purple, then on to blue as more base is added.
 10. (mcq) Curd bacteria turn milk sour. How does the sourness help the bacteria?  
-   Options: Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves / It makes the milk sweeter for them / It keeps the milk warm  
+   Options: It makes the milk sweeter for them / It keeps the milk warm / Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves  
    **Answer:** Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves. *Why:* The acid keeps many other microbes away, so the curd bacteria have the milk sugar to themselves.
 11. (mcq) Long ago, a chemist guessed that acids taste sour because their tiny particles have sharp spikes. How could chemists check an idea like this?  
-   Options: Look for the spikes with better tools, and test what acids do in water / Taste more lemons / Vote on whether they like the idea  
+   Options: Taste more lemons / Look for the spikes with better tools, and test what acids do in water / Vote on whether they like the idea  
    **Answer:** Look for the spikes with better tools, and test what acids do in water. *Why:* An idea must be tested. When chemists looked, they never found spikes. Instead they found that all acids give out charged hydrogen particles in water.
 
 ## Applications

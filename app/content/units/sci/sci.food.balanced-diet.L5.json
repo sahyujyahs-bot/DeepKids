@@ -644,11 +644,11 @@
       "t": "mcq",
       "q": "Ragi appears on the cards for vitamin B1, iron and calcium. What does that show?",
       "options": [
-       "One cheap food can supply several nutrients",
        "Ragi is the only food a person needs",
-       "The cards have a mistake"
+       "The cards have a mistake",
+       "One cheap food can supply several nutrients"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Ragi, drumstick leaves and dals each hold several nutrients, so a few cheap foods can fill many gaps. If you chose 'the only food', remember that ragi has almost no vitamin C or vitamin A."
      },
      "context": "This is the last step of Missing Nutrient. You count your sets and look for foods that supply several nutrients."
@@ -790,11 +790,11 @@
       "t": "mcq",
       "q": "A plate holds 7 cards. Why does a packet of chips make the plate harder to balance?",
       "options": [
-       "It takes a place and fills one need",
        "It has too many vitamins",
+       "It takes a place and fills one need",
        "It is a soft food"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Chips give energy and little else. So a place on the plate is spent without helping the other four needs. If you chose vitamins, look at the card again: it gives Energy 1 only."
      },
      "context": "This is the last step of Fill the Plate. You compare two plates made for two different people."
@@ -1334,11 +1334,11 @@
       "t": "mcq",
       "q": "A pencil's shadow is longer than the pencil. Where is the Sun?",
       "options": [
-       "Low in the sky",
        "High in the sky",
-       "Behind a cloud"
+       "Behind a cloud",
+       "Low in the sky"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A low Sun throws long shadows, as at sunrise and sunset. A high Sun throws short ones. If you chose 'behind a cloud', remember that a clear shadow needs direct sunlight."
      },
      "context": "In this step of the Short Shadow Test you compare the four shadows with the height of the pencil."
@@ -1824,11 +1824,11 @@
       "t": "mcq",
       "q": "Toor dal costs 16 rupees for 100 grams and holds 22 grams of protein. About how much protein does 10 rupees buy?",
       "options": [
-       "About 14 grams",
        "About 35 grams",
-       "About 22 grams"
+       "About 22 grams",
+       "About 14 grams"
       ],
-      "a": 0,
+      "a": 2,
       "why": "22 divided by 16 is about 1.4 grams for each rupee. Ten rupees buy about 14 grams. If you chose 22, that is the protein in 16 rupees' worth."
      },
      "context": "In this step of Protein for Ten Rupees you work out the protein that ten rupees buys in each food."
@@ -2256,12 +2256,12 @@
      "t": "mcq",
      "p": "What is a balanced diet?",
      "opts": [
-      "Enough of every nutrient for one person's body",
       "As much food as a person can eat",
       "Only fruit and vegetables",
-      "The same plate for every person"
+      "The same plate for every person",
+      "Enough of every nutrient for one person's body"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A balanced diet gives one person enough of every nutrient, with water and fibre, and not too much of any. 'As much as you can eat' and 'the same for everyone' both ignore what one body needs.",
      "outcome": 0
     },
@@ -2375,12 +2375,12 @@
      "t": "mcq",
      "p": "Why is iodine added to salt, and not to sweets?",
      "opts": [
-      "Nearly everyone eats a little salt daily",
       "Salt tastes better with iodine",
       "Sweets already hold iodine",
-      "Iodine makes salt whiter"
+      "Iodine makes salt whiter",
+      "Nearly everyone eats a little salt daily"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Rich and poor eat salt every day in nearly the same small amount. So everyone gets enough iodine and nobody gets far too much.",
      "outcome": 5
     },
@@ -2462,12 +2462,12 @@
      "t": "mcq",
      "p": "A child sees well at noon but stumbles in a dim room. Which nutrient may be short?",
      "opts": [
-      "Vitamin A",
       "Vitamin C",
+      "Vitamin A",
       "Calcium",
       "Iodine"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The eye builds its dim-light substance from vitamin A. Trouble seeing at dusk, called night blindness, is the first sign of too little.",
      "outcome": 1
     },
@@ -2558,12 +2558,12 @@
      "t": "mcq",
      "p": "Why does a squeeze of lemon on kala chana help the body?",
      "opts": [
-      "Vitamin C helps the gut absorb iron",
       "Lemon adds a lot of protein",
+      "Vitamin C helps the gut absorb iron",
       "Lemon removes the fibre",
       "Sour food kills all microbes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The iron in plant foods is hard to absorb. Vitamin C in the same meal changes the iron into a form that crosses the gut wall more easily.",
      "outcome": 4
     },
@@ -2571,12 +2571,12 @@
      "t": "mcq",
      "p": "Boiled cabbage water cleared the blue liquid in 2 teaspoons. Cold cabbage water took 7. What follows?",
      "opts": [
-      "More vitamin C moved into the boiled water",
       "Boiling made new vitamin C",
       "Cold water destroys vitamin C",
-      "The cabbage held no vitamin C"
+      "The cabbage held no vitamin C",
+      "More vitamin C moved into the boiled water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Fewer teaspoons means more vitamin C in each teaspoon. Heat softened the cells of the leaf, so more of the vitamin leaked into the water.",
      "outcome": 6,
      "how": "e2"
@@ -2773,12 +2773,12 @@
      "t": "mcq",
      "p": "From six months a baby needs soft top food. Which is a good top food?",
      "opts": [
-      "A mash of rice, dal and a little milk",
       "A fizzy drink",
       "A packet of chips",
-      "Strong tea"
+      "Strong tea",
+      "A mash of rice, dal and a little milk"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A baby needs soft, plain food with protein. A rice and dal mash is easy to eat and gives energy and protein.",
      "outcome": 3
     },
@@ -2814,12 +2814,12 @@
      "t": "mcq",
      "p": "In a test of iodised salt, some villages were given plain salt. Why?",
      "opts": [
-      "To compare with villages given iodised salt",
       "Because iodine had run out",
       "Because plain salt is cheaper",
+      "To compare with villages given iodised salt",
       "To punish those villages"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Goitre might have fallen for some other reason, such as better roads or more food. Only a comparison group shows what the iodine itself did.",
      "outcome": 6
     },
@@ -2827,12 +2827,12 @@
      "t": "mcq",
      "p": "Which is the best evidence that tea with a meal reduces the iron absorbed?",
      "opts": [
-      "Less traced iron reached the blood with tea",
       "Tea is dark in colour",
       "Tea drinkers say they feel tired",
+      "Less traced iron reached the blood with tea",
       "Tea plants grow in iron-poor soil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists gave meals holding iron atoms they could trace, and measured how much reached the blood. A measurement beats a guess from colour or from feelings.",
      "outcome": 6
     },
@@ -2987,12 +2987,12 @@
      "t": "mcq",
      "p": "A lychee seller says, 'These came from our village orchard this morning.' What is a good reason to buy them?",
      "opts": [
-      "They are fresh, local and in season",
       "They are out of season",
       "They are packed in plastic",
+      "They are fresh, local and in season",
       "They came a long way"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Local fruit in season is fresh and often cheaper.",
      "outcome": 4
     },
@@ -3025,12 +3025,12 @@
    "t": "mcq",
    "p": "A person's gums bleed and small wounds do not heal. Which nutrient is most likely missing?",
    "opts": [
-    "Vitamin C",
     "Iodine",
+    "Vitamin C",
     "Vitamin D",
     "Calcium"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Vitamin C helps build collagen, the strong threads in gums, skin and blood vessels. Without it they weaken. The disease is scurvy.",
    "outcome": 1
   },
@@ -3038,12 +3038,12 @@
    "t": "mcq",
    "p": "Which cheap food helps most to prevent night blindness?",
    "opts": [
-    "Drumstick leaves",
     "Polished white rice",
     "Sugar",
-    "Tea"
+    "Tea",
+    "Drumstick leaves"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Drumstick leaves are rich in carotene, which the body turns into vitamin A. Rice, sugar and tea hold almost none.",
    "outcome": 1
   },
@@ -3051,12 +3051,12 @@
    "t": "mcq",
    "p": "What is hidden hunger?",
    "opts": [
-    "Lacking a vitamin or mineral while feeling full",
     "Feeling hungry between meals",
     "Hiding food to eat later",
-    "Eating too fast to taste the food"
+    "Eating too fast to taste the food",
+    "Lacking a vitamin or mineral while feeling full"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Fullness reports energy and bulk. A person can feel full and still be short of iron, iodine or vitamin A.",
    "outcome": 2
   },
@@ -3077,12 +3077,12 @@
    "t": "mcq",
    "p": "Why does a breastfeeding mother need extra food?",
    "opts": [
-    "She makes milk that feeds a growing baby",
     "Her stomach has grown bigger",
+    "She makes milk that feeds a growing baby",
     "She sleeps less at night",
     "Milk needs extra salt"
    ],
-   "a": 0,
+   "a": 1,
    "why": "She makes about 750 millilitres of milk a day. Everything in it comes from her own food and body, and it costs her about 600 kilocalories.",
    "outcome": 3
   },
@@ -3090,12 +3090,12 @@
    "t": "mcq",
    "p": "Why should the water from boiled vegetables go into the dish?",
    "opts": [
-    "Vitamins have dissolved into it",
     "It holds most of the protein",
     "It holds all the fibre",
-    "It makes the dish cook faster"
+    "It makes the dish cook faster",
+    "Vitamins have dissolved into it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Vitamin C and the B vitamins dissolve in water. Pouring the water away throws them out. Rasam, sambar and kootu keep it.",
    "outcome": 4
   },
@@ -3103,12 +3103,12 @@
    "t": "mcq",
    "p": "Why do rice and dal together give better protein than rice alone?",
    "opts": [
-    "Each supplies a building unit the other lacks",
     "Dal makes the rice softer",
     "Rice has no protein at all",
+    "Each supplies a building unit the other lacks",
     "Together they hold more water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rice is short of lysine and dal is short of methionine. The body builds with complete sets, so together they build more.",
    "outcome": 4
   },
@@ -3129,12 +3129,12 @@
    "t": "mcq",
    "p": "In a fair test of two ways of cooking cabbage, what must stay the same?",
    "opts": [
-    "The cabbage, the water and the time",
     "Only the colour of the vessel",
     "Nothing needs to stay the same",
+    "The cabbage, the water and the time",
     "Only the person who cooks"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes one thing. If the amount of cabbage, the water and the time are equal, any difference comes from the cooking method.",
    "outcome": 6
   },
@@ -3142,12 +3142,12 @@
    "t": "mcq",
    "p": "Goitre fell only in villages that were given iodised salt. What did that show?",
    "opts": [
-    "Too little iodine was the main cause",
     "Goitre spreads from person to person",
+    "Too little iodine was the main cause",
     "Plain salt causes goitre",
     "Hill air causes goitre"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The villages differed in one thing, the iodine in their salt. So the fall in goitre was due to iodine. Plain salt did not cause goitre. It only failed to prevent it.",
    "outcome": 7
   },
@@ -3155,12 +3155,12 @@
    "t": "mcq",
    "p": "Which food is a good source of calcium for strong bones?",
    "opts": [
-    "Ragi",
     "Sugar",
     "Plain oil",
-    "Tea"
+    "Tea",
+    "Ragi"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Ragi has a lot of calcium. Milk, curd and sesame seeds do too. Sugar and oil have none, and tea has almost none.",
    "outcome": 1
   },
@@ -3168,12 +3168,12 @@
    "t": "mcq",
    "p": "A child eats chips and sweets every day instead of dal, rice and vegetables. What may happen over time?",
    "opts": [
-    "The child may gain weight and lack vitamins and minerals",
     "The child will get stronger bones",
     "The child will see better in the dark",
+    "The child may gain weight and lack vitamins and minerals",
     "Nothing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Junk food has a lot of sugar, salt and fat, and few vitamins or minerals. It becomes a problem when it takes the place of healthy food.",
    "outcome": 5
   },
@@ -3181,12 +3181,12 @@
    "t": "mcq",
    "p": "A girl looks tired, and her nails and gums look pale. Which problem may she have?",
    "opts": [
-    "Anaemia",
     "Rickets",
+    "Anaemia",
     "Goitre",
     "Night blindness"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Pale gums and nails can be a sign of anaemia, caused by too little iron. A doctor must check it.",
    "outcome": 1
   },
@@ -3194,12 +3194,12 @@
    "t": "mcq",
    "p": "Which of these helps to prevent rickets?",
    "opts": [
-    "Fish oil and sunlight",
     "Chilli",
     "Soda",
-    "Salt only"
+    "Salt only",
+    "Fish oil and sunlight"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Vitamin D helps the gut take in calcium for bones. Fish oil has vitamin D, and sunlight on the skin makes it.",
    "outcome": 1
   },
@@ -3207,12 +3207,12 @@
    "t": "mcq",
    "p": "A boy has sores at the corners of his mouth and dry, cracked skin. Which food may help?",
    "opts": [
-    "Whole grains, curd and green leaves",
     "Only sweets",
+    "Whole grains, curd and green leaves",
     "Only fizzy drinks",
     "Only chips"
    ],
-   "a": 0,
+   "a": 1,
    "why": "These signs can come from a lack of B vitamins. Whole grains, curd and green leaves hold B vitamins.",
    "outcome": 1
   },
@@ -3220,12 +3220,12 @@
    "t": "mcq",
    "p": "From what age does a baby need soft top food as well as mother's milk?",
    "opts": [
-    "Six months",
     "One week",
+    "Six months",
     "Two months",
     "Four years"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Until six months, mother's milk alone is enough. After that, the baby needs soft top food as well.",
    "outcome": 3
   },
@@ -3233,12 +3233,12 @@
    "t": "mcq",
    "p": "Which food is cheap and rich in iron for a girl who has started her periods?",
    "opts": [
-    "Bajra and green leaves",
     "White sugar",
+    "Bajra and green leaves",
     "Fizzy drinks",
     "Sweet biscuits"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Girls who have started periods lose some blood each month, so they need more iron. Bajra and greens are rich in iron.",
    "outcome": 3
   },
@@ -3246,12 +3246,12 @@
    "t": "mcq",
    "p": "A person who is sick needs which kind of food to recover?",
    "opts": [
-    "Energy foods and protective foods such as fruit, vegetables and dal",
     "Only sweets",
+    "Energy foods and protective foods such as fruit, vegetables and dal",
     "Only tea",
     "No food"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sick person needs energy to stay strong, and vitamins and minerals to fight infection.",
    "outcome": 3
   },
@@ -3272,12 +3272,12 @@
    "t": "mcq",
    "p": "Why do people in Mexico soak maize in lime water before cooking?",
    "opts": [
-    "It sets free vitamin B3 in the grain",
     "It makes it red",
     "It makes it sweet",
+    "It sets free vitamin B3 in the grain",
     "It removes calcium"
    ],
-   "a": 0,
+   "a": 2,
    "why": "This old way of cooking frees niacin (vitamin B3), which is locked in maize. It also adds calcium.",
    "outcome": 4
   },
@@ -3285,12 +3285,12 @@
    "t": "mcq",
    "p": "Why is a local, seasonal fruit often better than one from far away out of season?",
    "opts": [
-    "It is fresher and often cheaper",
     "It is always sweeter",
     "It has no seeds",
+    "It is fresher and often cheaper",
     "It has more sugar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A local fruit has less far to travel, so it is fresher. In season it tends to cost less.",
    "outcome": 4
   }

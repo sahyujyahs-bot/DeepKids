@@ -993,10 +993,10 @@
       "q": "Cup 6 looks clear. Is there still colour in it?",
       "options": [
        "No, the colour is gone",
-       "Yes, a tiny amount, spread so thinly you cannot see it",
-       "Yes, but it has all sunk to the bottom"
+       "Yes, but it has all sunk to the bottom",
+       "Yes, a tiny amount, spread so thinly you cannot see it"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each spoonful carried a tenth of the colour forward, so cup 6 holds a hundred thousandth of the colour in cup 1. The colour particles are still there, but there are too few in each spoonful for the eye to see. Picking 'gone' means trusting your eyes over the numbers. Picking 'sunk to the bottom' forgets that you stirred."
      }
     },
@@ -1317,11 +1317,11 @@
       "t": "mcq",
       "q": "Where does the rice model get a gas wrong?",
       "options": [
-       "The grains in a gas model should be much further apart, with nothing between them",
        "Rice grains are too round",
-       "Rice is not a gas"
+       "Rice is not a gas",
+       "The grains in a gas model should be much further apart, with nothing between them"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Real gas particles are very far apart for their size, with empty space between them. In the box, the grains are close, and there is air in between. Picking 'too round' is about shape, which is not the main problem. Picking 'not a gas' misses the point of a model: it does not have to be a gas to show how gas acts."
      },
      "think": "What would you need to change to make the box a better model of a gas?",
@@ -1419,11 +1419,11 @@
       "t": "mcq",
       "q": "Water still went into a jug that looked full of grains and seeds. Where did it go?",
       "options": [
-       "Into the tiny gaps between the grains and seeds",
        "It soaked into the grains and made them vanish",
+       "Into the tiny gaps between the grains and seeds",
        "It made the jug bigger"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Even after the small seeds filled the big gaps, there were still tiny gaps between the seeds, and water slid into them. Picking 'made them vanish' ignores that the grains are still there. Picking 'made the jug bigger' forgets that the jug is hard and cannot change size."
      }
     },
@@ -1916,11 +1916,11 @@
    "t": "mcq",
    "p": "Water is poured from a bottle into a wide bowl. Why does the water take the shape of the bowl, but stay the same amount?",
    "opts": [
-    "The particles slide past each other but stay close",
     "The particles fly apart",
-    "The particles are fixed in rows"
+    "The particles are fixed in rows",
+    "The particles slide past each other but stay close"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Liquid particles slide, so the liquid can change shape. They stay touching, so the amount stays the same.",
    "outcome": 2
   },
@@ -1928,11 +1928,11 @@
    "t": "mcq",
    "p": "Why can air be squeezed into a smaller space?",
    "opts": [
-    "Its particles are far apart, with empty space between them",
     "Its particles are soft",
-    "Air has no particles"
+    "Air has no particles",
+    "Its particles are far apart, with empty space between them"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The particles are not squashed. They are pushed closer together, into the empty space.",
    "outcome": 4
   },
@@ -1941,10 +1941,10 @@
    "p": "A drop of colour is stirred into a cup, and a spoonful of that is stirred into another cup, again and again. The last cup looks clear. What is the best description?",
    "opts": [
     "The colour is gone",
-    "The colour is there, spread so thin you cannot see it",
-    "The colour is at the bottom of the first cup"
+    "The colour is at the bottom of the first cup",
+    "The colour is there, spread so thin you cannot see it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each spoonful carries a tenth of the colour onward. Some always goes on, even when too faint to see.",
    "outcome": 3
   },
@@ -1952,11 +1952,11 @@
    "t": "mcq",
    "p": "What makes gas pressure?",
    "opts": [
-    "Particles hitting the walls",
     "Particles being heavy",
+    "Particles hitting the walls",
     "Particles sticking to the walls"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A gas pushes on its container because its particles hit the walls and bounce back.",
    "outcome": 5
   },
@@ -1977,10 +1977,10 @@
    "p": "Which change makes the particles of a solid move faster?",
    "opts": [
     "Cooling it",
-    "Heating it",
-    "Putting it in a box"
+    "Putting it in a box",
+    "Heating it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Heat is movement of particles. A warmer solid has particles that jiggle harder.",
    "outcome": 1
   },
@@ -1995,11 +1995,11 @@
    "t": "mcq",
    "p": "A model of particles uses tiny balls. What is true about this model?",
    "opts": [
-    "It is useful, but not exactly right",
     "It is exactly right",
+    "It is useful, but not exactly right",
     "It is useless"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The balls help us think, but real atoms are fuzzy. All models have limits.",
    "outcome": 6
   },
@@ -2007,11 +2007,11 @@
    "t": "mcq",
    "p": "Which of these makes a smell spread faster across a room?",
    "opts": [
-    "A fan moving the air",
     "Closing all the windows",
-    "Cooling the room"
+    "Cooling the room",
+    "A fan moving the air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Moving air carries the smell particles much faster than they could spread by themselves.",
    "outcome": 4
   },
@@ -2026,11 +2026,11 @@
    "t": "mcq",
    "p": "Why was the idea of flying gas particles so useful to scientists?",
    "opts": [
-    "It explained why heating a gas raises its pressure",
     "It explained why ice floats",
-    "It explained why metals shine"
+    "It explained why metals shine",
+    "It explained why heating a gas raises its pressure"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Faster particles hit harder, so a hotter gas pushes more. The older idea of fixed particles could not explain this.",
    "outcome": 7
   }
@@ -2058,11 +2058,11 @@
      "t": "mcq",
      "p": "The end of a syringe full of air is sealed, and the plunger is pushed. It goes in about half way. What does this tell you about air?",
      "opts": [
-      "Air is made of nothing",
       "There is empty space between the air particles",
+      "Air is made of nothing",
       "Air particles are soft"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The particles moved closer together into the empty space between them. Air is made of particles, so it is not nothing. The particles do not get squashed, they just get closer.",
      "outcome": 4
     },
@@ -2070,11 +2070,11 @@
      "t": "mcq",
      "p": "Why does the steam from a kettle spread out until you cannot see it?",
      "opts": [
-      "Gas particles fly about and spread into all the space they can reach",
       "Steam is lighter than the kitchen",
-      "Steam particles melt away"
+      "Steam particles melt away",
+      "Gas particles fly about and spread into all the space they can reach"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Gas particles are free to fly in every direction, so a gas spreads out to fill the space it is in. Particles do not melt away.",
      "outcome": 2
     },
@@ -2082,11 +2082,11 @@
      "t": "mcq",
      "p": "Ice, water and steam are three states of one substance. What is the same in all three?",
      "opts": [
-      "The distance between the particles",
       "The kind of particle",
+      "The distance between the particles",
       "How fast the particles move"
      ],
-     "a": 1,
+     "a": 0,
      "why": "All three are made of the same water particles. What changes is the distance between them and how fast they move.",
      "outcome": 1
     },
@@ -2094,11 +2094,11 @@
      "t": "mcq",
      "p": "Why does a football feel hard when it is pumped up?",
      "opts": [
-      "Nothing is hitting the inside wall",
       "Air particles hit the inside wall very often and push outwards",
+      "Nothing is hitting the inside wall",
       "The air has turned into a solid"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A huge number of air particles hit the inside wall every second. Together they push outwards, and that makes the ball hard. The air is still a gas.",
      "outcome": 5
     },
@@ -2246,10 +2246,10 @@
      "p": "A pressure cooker is heated, and the steam cannot escape. What happens to the push of the steam on the lid?",
      "opts": [
       "It gets smaller",
-      "It stays the same",
-      "It gets bigger, because the particles fly faster and hit the lid harder"
+      "It gets bigger, because the particles fly faster and hit the lid harder",
+      "It stays the same"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Heat makes the steam particles move faster. They hit the lid harder and more often, so the pressure goes up. This is also why the lid will not open until the cooker cools.",
      "outcome": 5
     }
@@ -2277,11 +2277,11 @@
      "t": "mcq",
      "p": "A smell takes minutes to cross a room, though air particles fly at hundreds of metres a second. What is the best reason?",
      "opts": [
-      "The smell particles keep colliding with air particles and zigzag",
       "The smell particles are very slow",
-      "Smells are not made of particles"
+      "Smells are not made of particles",
+      "The smell particles keep colliding with air particles and zigzag"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A smell particle hits an air particle billions of times each second, and changes direction each time. So it travels only a little way from where it started. Moving air from a fan carries it much faster.",
      "outcome": 4
     },
@@ -2289,11 +2289,11 @@
      "t": "mcq",
      "p": "A balloon left in a hot car bursts. What is the best reason?",
      "opts": [
-      "The hot air particles fly faster and hit the skin harder",
       "The rubber melts into the air",
+      "The hot air particles fly faster and hit the skin harder",
       "The air particles grow bigger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Heat makes the particles faster, so they hit the balloon harder and more often. The pressure goes up until the skin gives way. The particles do not grow.",
      "outcome": 5
     },
@@ -2313,11 +2313,11 @@
      "t": "mcq",
      "p": "Which of these is a mixture?",
      "opts": [
-      "A glass of distilled water",
       "A bowl of sambar",
+      "A glass of distilled water",
       "A grain of table sugar"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Sambar has water, dal, vegetables, tamarind and spices. The other two are very nearly one substance.",
      "outcome": 0
     },
@@ -2500,11 +2500,11 @@
      "t": "mcq",
      "p": "100 millilitres of mustard seeds are poured into 100 millilitres of big dal. What total is most likely?",
      "opts": [
-      "200 millilitres",
       "About 170 millilitres, because the seeds fill gaps",
+      "200 millilitres",
       "300 millilitres"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Small seeds slip into the gaps between the big grains, so the total is less than the two added together.",
      "outcome": 4
     },
@@ -2512,11 +2512,11 @@
      "t": "mcq",
      "p": "A syringe holds 10 millilitres of air. It is squashed to 2 millilitres. About how many times as many air particles are there in each millilitre now?",
      "opts": [
-      "The same number",
       "5 times as many",
+      "The same number",
       "10 times as many"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The same particles are in one fifth of the space. 10 divided by 2 is 5, so there are 5 times as many in each millilitre.",
      "outcome": 4
     },
@@ -2524,11 +2524,11 @@
      "t": "mcq",
      "p": "The air in a bicycle tyre is at about three times the push of the outside air, at the same warmth. What does this mean for the particles?",
      "opts": [
-      "There are about three times as many particles in the same space",
       "The particles are three times bigger",
+      "There are about three times as many particles in the same space",
       "The particles are three times slower"
      ],
-     "a": 0,
+     "a": 1,
      "why": "At the same warmth, the particles move at the same speed. The extra push comes from more particles hitting the wall each second.",
      "outcome": 5
     },

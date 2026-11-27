@@ -515,7 +515,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 1. (match) Match each helper to their work.  
    **Answer:** Postwoman → delivers letters and parcels; Cobbler → mends shoes and chappals; Caretaker → runs the water motor and looks after the building; Nurse → cares for sick people and gives vaccines. *Why:* Each helper does one kind of work that the neighbourhood needs. Matching them shows who you would go to for each job.
 2. (mcq) A flat gets its water from the city's water board. What kind of service is this?  
-   Options: A private shop / A public service / A family job  
+   Options: A private shop / A family job / A public service  
    **Answer:** A public service. *Why:* The water board is run by the city government for everyone, so it is a public service. A strong answer says who it is for.
 3. (fill) India's single emergency number for police, fire and ambulance is ____.  
    **Answer:** ['112']. *Why:* 112 brings any of the three services.
@@ -532,7 +532,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 9. (draw) Draw one helper who comes to your building, with the tool they use. Write their name and what they do.  
    **Answer:** A drawing of a real helper with their tool, their name and their work.. *Why:* A strong drawing shows the tool clearly, such as the broom, the iron or the post bag, and uses the helper's real name.
 10. (mcq) You buy a notebook at a shop. Part of the price is a tax called GST. Where does that tax money go?  
-   Options: To the shopkeeper only / To the notebook factory / To the government, to pay for things like roads and schools  
+   Options: To the shopkeeper only / To the government, to pay for things like roads and schools / To the notebook factory  
    **Answer:** To the government, to pay for things like roads and schools. *Why:* Taxes go to the government, which uses them for public services. That is how a child buying a notebook helps pay for schools and roads.
 11. (label) Here is a picture of the water's path to a flat. Label each part: the sump, the motor, the tank on the roof, the tap.  
    **Answer:** ['A: the sump', 'B: the motor', 'C: the tank on the roof', 'D: the tap']. *Why:* Water from the city or a lorry goes into the sump under the ground. The motor pumps it up to the tank. From the tank, it flows down to every tap.
@@ -555,7 +555,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** A teacher teaches children. A caretaker keeps the school clean and safe. A bus driver brings children to school.. *Why:* A strong answer names three roles and says how each helps.
 ### Why Shared Things Last or Run Out (stretch) (stretch, 19 questions)
 1. (mcq) A building has 12 flats sharing one water tank. Every flat says, "I only take my share." Yet the tank is empty by afternoon. What is the most likely reason?  
-   Options: The lorry brought no water / Each flat's share added up to more than the tank holds / The water leaked out of the sky  
+   Options: Each flat's share added up to more than the tank holds / The lorry brought no water / The water leaked out of the sky  
    **Answer:** Each flat's share added up to more than the tank holds. *Why:* Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.
 2. (write) Garrett Hardin said shared things are always ruined. Elinor Ostrom found villages that kept them for centuries. Write how both could be right about different shared things.  
    **Answer:** For example: a small village where people know each other can talk and agree rules, so the meadow lasts. The sea is shared by millions of strangers who cannot all talk, so fish get used up.. *Why:* A strong answer gives one example where Ostrom's view fits and one where Hardin's fits, and says what is different between them.
@@ -570,7 +570,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 7. (sort) Sort these helpers. Is each one usually paid by the family, or by taxes?  
    **Answer:** the tailor → Paid by the family; the government school teacher → Paid by taxes; the presswala → Paid by the family; the firefighter → Paid by taxes; the municipal sweeper → Paid by taxes; the cobbler → Paid by the family. *Why:* Public services are paid for by taxes. Other helpers are paid by the family that uses them.
 8. (mcq) Long ago, farmers in a Tamil Nadu village shared one rain tank. A water keeper opened the gate so each field got water in turn. Why was this better than each farmer opening the gate whenever they liked?  
-   Options: The far fields still got water, and the tank did not empty in one day / The water keeper wanted to stay busy / Water flows faster when one person opens the gate  
+   Options: The water keeper wanted to stay busy / The far fields still got water, and the tank did not empty in one day / Water flows faster when one person opens the gate  
    **Answer:** The far fields still got water, and the tank did not empty in one day. *Why:* Taking turns, with one person in charge, shares the water fairly and makes it last. If everyone opened the gate at once, the nearest fields would take most of it.
 9. (fill) A shared resource, which many people use and nobody owns alone, is also called a ____.  
    **Answer:** ['commons']. *Why:* Scientists call a shared resource a commons.
@@ -630,7 +630,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 14. (write) Two families played the same pond game. Both talked first, but one family's pond still ran out. Besides talking, what else helps a shared pond last?  
    **Answer:** For example: a clear limit everyone knows, such as 'leave 10 fish', and someone who counts after every round, so everyone can see whether the rule was kept.. *Why:* A strong answer names something more than talk: a clear limit, a person who checks, or a way to see the pond.
 15. (mcq) A building tries a new water rule for a month. Which is the best sign that the rule is working?  
-   Options: Nobody ever talks about the rule / The tank is still half full at two o'clock, and everyone can read the notebook / The rule is very long  
+   Options: The tank is still half full at two o'clock, and everyone can read the notebook / Nobody ever talks about the rule / The rule is very long  
    **Answer:** The tank is still half full at two o'clock, and everyone can read the notebook. *Why:* A rule works when people can see it working. A tank still half full at two o'clock, with a notebook everyone can read, is evidence. A rule nobody talks about or a very long rule proves nothing.
 16. (truefalse) The police decide the law in a court.  
    **Answer:** False. *Why:* The police bring a matter, but a judge in a court decides.
@@ -644,7 +644,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 
 ## Quiz
 1. (mcq) A family eats idli for breakfast. Whose work was needed to make it?  
-   Options: Only the person who cooked it / The farmer, the shopkeeper, the gas delivery man and the cook / Only the shopkeeper, who sold the rice  
+   Options: Only the person who cooked it / Only the shopkeeper, who sold the rice / The farmer, the shopkeeper, the gas delivery man and the cook  
    **Answer:** The farmer, the shopkeeper, the gas delivery man and the cook. *Why:* Many people's work is in one plate: the farmer grew the rice and dal, the shopkeeper sold them, the gas delivery man brought the cylinder and the cook made the idli. Choosing only one person means seeing only the last step.
 2. (mcq) Some people say a sweeper's work is less important than a doctor's. What would happen if no sweeper came to a street for a month?  
    Options: Nothing would change / Garbage would pile up, drains would block, and people could fall ill / The doctors would sweep the street  
@@ -653,19 +653,19 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    Options: Nobody, they are free / Everyone, through taxes / Only the people who use them that day  
    **Answer:** Everyone, through taxes. *Why:* Public services are paid for with taxes, which people and shops pay to the government. Most things you buy include a tax called GST. So they are free to use, but not free to run.
 4. (mcq) You see smoke coming from the flat below. Which number should you call?  
-   Options: 1098 / 112 / A friend's number  
+   Options: 112 / 1098 / A friend's number  
    **Answer:** 112. *Why:* 112 is India's single emergency number. It brings the fire service, the police or an ambulance. 1098 is the helpline for children who need help.
 5. (mcq) Which of these is a shared resource?  
-   Options: A child's own water bottle / The water tank on the roof of a building / A song on the radio  
+   Options: The water tank on the roof of a building / A child's own water bottle / A song on the radio  
    **Answer:** The water tank on the roof of a building. *Why:* Many flats use the tank, and the water one flat uses is not there for the others. A child's own bottle is hers or his alone. A song on the radio is shared, but when you listen to it there is no less of the song for anyone else.
 6. (mcq) A pond has 20 fish. After each round, the fish left in the pond double, up to 20. Four players each take 5 fish in the first round. What happens?  
-   Options: The pond fills up again / No fish are left, so the pond is empty for good / Each player gets 10 fish  
+   Options: The pond fills up again / Each player gets 10 fish / No fish are left, so the pond is empty for good  
    **Answer:** No fish are left, so the pond is empty for good. *Why:* 5 fish each for 4 players is 20 fish, the whole pond. No fish are left to double, so no new fish come. Taking everything at once ends the game for everyone.
 7. (mcq) Two groups play the same fish-sharing game with the same pond. One group chooses in silence. The other talks first and agrees a rule. Which pond is more likely to last, and why?  
-   Options: The silent group's, because nobody argues / The talking group's, because they agreed how much to leave / Both the same, because the fish are the same  
+   Options: The talking group's, because they agreed how much to leave / The silent group's, because nobody argues / Both the same, because the fish are the same  
    **Answer:** The talking group's, because they agreed how much to leave. *Why:* The fish, the players and the rounds are the same. Only the talking changes. Agreeing a rule lets everyone leave enough fish to breed.
 8. (mcq) A village has shared one forest for 300 years without using it up. What is the most likely reason?  
-   Options: Nobody ever took anything from the forest / The villagers made their own rules about how much each could take, and checked that the rules were kept / The forest grew faster every year by luck  
+   Options: The villagers made their own rules about how much each could take, and checked that the rules were kept / Nobody ever took anything from the forest / The forest grew faster every year by luck  
    **Answer:** The villagers made their own rules about how much each could take, and checked that the rules were kept. *Why:* Shared things can last a very long time when the people who use them agree rules and check them. Scientists have found many villages like this around the world.
 9. (mcq) Some people say a shared pond will always be emptied. What reason do they give?  
    Options: Because a person who takes more keeps all of the extra, but the loss is spread over everyone / Because people do not like fish / Because ponds dry up in summer  
@@ -674,10 +674,10 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    Options: The family on the top floor decides alone / The families agree two lines for each flat, and the caretaker checks / Nobody dries clothes on the terrace  
    **Answer:** The families agree two lines for each flat, and the caretaker checks. *Why:* A rule that the users agree together, with someone checking, is what Ostrom found works best. One family deciding alone is not fair, and banning the terrace wastes it.
 11. (mcq) In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?  
-   Options: No, each person must do their family's work / Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law / Only if all jobs pay the same  
+   Options: No, each person must do their family's work / Only if all jobs pay the same / Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law  
    **Answer:** Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law. *Why:* India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.
 12. (mcq) Which of these is a way neighbours help one another?  
-   Options: Taking a sick neighbour to the doctor / Playing loud music at night / Blocking the lane / Hiding a lost parcel  
+   Options: Playing loud music at night / Blocking the lane / Hiding a lost parcel / Taking a sick neighbour to the doctor  
    **Answer:** Taking a sick neighbour to the doctor. *Why:* Neighbours help by looking after a child or a sick person. The others make life harder for the neighbours.
 13. (mcq) Which person uses science as part of their work?  
    Options: A farmer who tests the soil / A person who never looks at the weather / A person who only guesses / None of them  
@@ -686,22 +686,22 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    Options: Because every family can use them, even without a garden or clinic of its own / Because only the rich can use them / So that nobody needs a home / To block the road  
    **Answer:** Because every family can use them, even without a garden or clinic of its own. *Why:* A public place gives everyone a place to play, read or get well.
 15. (mcq) A child sees a banana peel on a park path. What is the best thing to do?  
-   Options: Put it in a bin / Kick it into the bushes / Leave it for others / Throw it at a friend  
+   Options: Kick it into the bushes / Leave it for others / Put it in a bin / Throw it at a friend  
    **Answer:** Put it in a bin. *Why:* A bin keeps a public place clean and safe.
 16. (mcq) A neighbourhood has a mela. Which service takes care of a child who has lost her mother?  
-   Options: The lost-and-found booth with the police / The fire engine / The ambulance alone / Nobody  
+   Options: The fire engine / The lost-and-found booth with the police / The ambulance alone / Nobody  
    **Answer:** The lost-and-found booth with the police. *Why:* A mela has a lost-and-found booth where a lost child is looked after until the family comes.
 17. (mcq) What does a judge in a court do?  
-   Options: Listens to both sides and decides by the law / Catches thieves / Guides traffic / Puts out fires  
+   Options: Catches thieves / Guides traffic / Puts out fires / Listens to both sides and decides by the law  
    **Answer:** Listens to both sides and decides by the law. *Why:* The police bring a matter, and the court decides. The judge listens to both sides.
 18. (mcq) Why did many jobs, such as lamplighting, change over time?  
-   Options: New tools and machines changed the work / People forgot how to work / The Sun stopped shining / Nobody wanted lamps  
+   Options: People forgot how to work / New tools and machines changed the work / The Sun stopped shining / Nobody wanted lamps  
    **Answer:** New tools and machines changed the work. *Why:* New machines and new needs mean old jobs shrink and new ones appear.
 19. (mcq) A school has a teacher, a caretaker and a bus driver. What happens if the caretaker is not there?  
    Options: The school becomes dirty and unsafe, so everyone feels it / Nothing changes / School closes for ever / Children teach the class  
    **Answer:** The school becomes dirty and unsafe, so everyone feels it. *Why:* Each role matters. A school runs only when all do their jobs.
 20. (mcq) During COVID-19, which workers helped keep neighbourhoods clean and healthy?  
-   Options: Sanitation workers, nurses and doctors / Nobody / Only the police / Only the shopkeepers  
+   Options: Nobody / Sanitation workers, nurses and doctors / Only the police / Only the shopkeepers  
    **Answer:** Sanitation workers, nurses and doctors. *Why:* Health workers treated the sick, and sanitation workers kept the streets clean.
 
 ## Applications

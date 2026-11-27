@@ -702,7 +702,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 4. (fill) A good sorting rule has a clear yes or no ____.  
    **Answer:** ['answer']. *Why:* A good rule gives a clear answer, yes or no, and the same answer whoever asks.
 5. (mcq) A girl sorts a heap of things by the rule 'Is it big?'. Her friend uses the same rule on the same heap and gets different groups. What is the best fix?  
-   Options: Change the rule to 'Is it longer than my hand?' / Let the first girl decide, because she started / Sort the heap again by the same rule / Use a bigger heap  
+   Options: Let the first girl decide, because she started / Sort the heap again by the same rule / Use a bigger heap / Change the rule to 'Is it longer than my hand?'  
    **Answer:** Change the rule to 'Is it longer than my hand?'. *Why:* 'Big' has no clear line, so two people answer differently. 'Longer than my hand' can be checked, so everyone gets the same answer. Sorting again by the same unclear rule will give the same muddle.
 6. (truefalse) If a thing does not fit any group, the best thing to do is throw it away.  
    **Answer:** False. *Why:* False. A thing that does not fit is useful. It may mean the rule is not clear, or that a new group is needed. Scientists have made new groups because of tricky things.
@@ -710,7 +710,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    Options: 1 / 3 / 5 / 6  
    **Answer:** 5. *Why:* The box where Dull meets Soft holds five things: rubber band, woollen sock, cotton hanky, candle and paper cup. Picking 3 usually means the Dull and Hard box was read. Always check both labels.
 8. (mcq) A key starts: 'Is it hard?' If yes: 'Is it shiny?' Yes is ice, no is a brick. If the first answer is no: 'Is it waterproof?' Yes is a balloon, no is paper. What is a hard, shiny thing?  
-   Options: Ice / Brick / Balloon / Paper  
+   Options: Brick / Balloon / Ice / Paper  
    **Answer:** Ice. *Why:* Follow the key. Hard, so yes. Shiny, so yes. That leads to ice. A brick is hard but not shiny. The balloon and the paper are not hard.
 9. (order) Put the steps of making a branching key in order.  
    **Answer:** order shown. *Why:* First choose the things. Then ask a question that splits them in half. Keep adding questions on each branch until each thing is alone. Last, test the key on someone else.
@@ -721,7 +721,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 12. (perspective) A grown-up asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.  
    **Answer:** A strong answer ties the rule to the job: finding things quickly. Many children choose Farida's rule, because you look for a thing by what you need it for. It then gives a fair point for another rule, for example that Meena's rule is best for recycling, or that Swathi's rule helps you see everything at once.. *Why:* There is no single right way to sort. The best rule is the one that fits the job, and a different job needs a different rule.
 13. (mcq) A family has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?  
-   Options: Is it small enough for a baby? / Is it red? / Is it cotton? / Is it folded?  
+   Options: Is it red? / Is it cotton? / Is it folded? / Is it small enough for a baby?  
    **Answer:** Is it small enough for a baby?. *Why:* The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job.
 14. (truefalse) If two things look almost the same, they must be made of the same material.  
    **Answer:** False. *Why:* False. A brass bowl and a kansa bowl can look almost the same. Tap them, and the kansa bowl rings for much longer than the brass one. Looks are only one rule. A test like sound can show a difference that looks miss.
@@ -732,14 +732,14 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** Each child used a different rule, and the rule decides the groups. *Why:* The spoons stay the same. Material and length are two different questions, so they give two different sets of groups. Both are right for a job: material for recycling, length for fitting in a drawer.
 ### Sorting in the Real World (stretch) (stretch, 15 questions)
 1. (mcq) In the Scratch Ladder, a fingernail marks soap but not a plastic comb. A steel nail marks the comb. Which is harder?  
-   Options: The soap / The plastic comb / They are the same  
+   Options: The soap / They are the same / The plastic comb  
    **Answer:** The plastic comb. *Why:* The comb was not marked by the fingernail, but the soap was. So the comb is harder. Picking the soap usually means the ladder was read upside down. A thing that is marked more easily is softer.
 2. (sort) Put these on the right rung of the Scratch Ladder.  
    **Answer:** soap → Rung 1: a fingernail marks it; candle → Rung 1: a fingernail marks it; wooden spoon → Rung 2: only a steel nail marks it; plastic comb → Rung 2: only a steel nail marks it; ceramic mug → Rung 3: even a steel nail does not mark it; glass jar → Rung 3: even a steel nail does not mark it. *Why:* Soap and candle are marked by a fingernail. Wood and plastic need the steel nail. The glaze on a ceramic mug and a glass jar resist even that.
 3. (write) Someone says, 'The steel spoon is hard because it is shiny.' What is wrong with this reasoning? What test would you use instead?  
    **Answer:** Shiny and hard are two different rules. A foil ball is shiny but soft, and a wooden spoon is hard but dull. A strong answer says to use the fingernail test for hard, and a look or a torch for shiny.. *Why:* Judging one property from another is a common mistake. Each property needs its own test.
 4. (mcq) A key has the question 'Is it shiny or hard?'. Why is this a bad question for a key?  
-   Options: It asks two things at once, so a thing that is shiny but soft has no clear yes or no / It is too short / A key may only ask about colour / Nothing is wrong with it  
+   Options: It is too short / A key may only ask about colour / It asks two things at once, so a thing that is shiny but soft has no clear yes or no / Nothing is wrong with it  
    **Answer:** It asks two things at once, so a thing that is shiny but soft has no clear yes or no. *Why:* Each question in a key must ask about one property, so every thing gets one clear answer. A foil ball is shiny but soft: is that a yes or a no? Splitting it into 'Is it shiny?' and then 'Is it hard?' fixes the key.
 5. (truefalse) Rice pours like water, so rice is a liquid.  
    **Answer:** False. *Why:* False. Each grain is a hard solid. A pile of grains can flow because the grains slide over each other, but each one keeps its shape.
@@ -757,7 +757,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 11. (write) A glass bangle, a steel spoon and a wooden spoon are sorted by three rules: hard or soft, shiny or dull, metal or not metal. Which thing is with the steel spoon in two sorts but not in the third? Why do some things move between groups more than others?  
    **Answer:** The glass bangle. It is hard and shiny like the steel spoon, but it is not metal. A strong answer explains that the bangle has a mix of properties that the rules split differently.. *Why:* A thing with an unusual mix of properties, like the glass bangle, lands in different groups under different rules. A thing with a plain set of properties stays in the same groups more often.
 12. (mcq) In a Venn diagram with two circles, 'Metal' and 'Shiny', a glass marble is put in the overlap. What is the mistake?  
-   Options: Glass is not a metal, so the marble goes in the Shiny circle only / Glass is not shiny, so it goes outside both / There is no mistake / A marble cannot go in a Venn diagram  
+   Options: Glass is not shiny, so it goes outside both / There is no mistake / Glass is not a metal, so the marble goes in the Shiny circle only / A marble cannot go in a Venn diagram  
    **Answer:** Glass is not a metal, so the marble goes in the Shiny circle only. *Why:* The overlap is only for things that fit both rules. The marble is shiny, but it is glass, not metal. Picking 'no mistake' is common, because shiny things often look like metal.
 13. (draw) Draw a Carroll table with the rules 'Is it made of metal?' and 'Does it float in water?'. Put one thing from home in each of the four boxes.  
    **Answer:** For example: metal and floats, an empty steel bowl or a foil boat. Metal and sinks, a steel spoon or a nail. Not metal and floats, a wooden spoon or a plastic bottle cap. Not metal and sinks, a stone or a glass marble.. *Why:* A Carroll table has a box for every pair of answers. Finding a metal that floats is the hard part. A steel bowl is metal, yet it floats because its shape holds a lot of air. So whether a thing floats depends on its shape as well as on what it is made of.
@@ -767,7 +767,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** order shown. *Why:* For stars, the bluer the light, the hotter the surface. The order runs blue-white, white, yellow, orange, red.
 ### Who Decides the Rule? (challenge) (challenge, 15 questions)
 1. (mcq) Why must we use the same test on every thing when we sort?  
-   Options: So the groups show how the things differ, and not how we tested / To make the job longer / To use fewer things / So we can change our mind  
+   Options: To make the job longer / To use fewer things / So the groups show how the things differ, and not how we tested / So we can change our mind  
    **Answer:** So the groups show how the things differ, and not how we tested. *Why:* If every thing has a different test, a difference in the groups could come from the test and not from the things. The same test makes it fair. Picking 'change our mind' misses the point of a fair test.
 2. (truefalse) Glass is a slow liquid, so old windows are thicker at the bottom.  
    **Answer:** False. *Why:* False. Calculations show window glass would take longer than the age of the universe to sag. Old windows are uneven because of how they were made.
@@ -787,7 +787,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    Options: The job is to save lives, so the rule is how badly someone is hurt / It is quicker to sort by name / The first people can always wait / Nurses like that rule  
    **Answer:** The job is to save lives, so the rule is how badly someone is hurt. *Why:* In a queue at a shop, 'who came first' is a fair rule. In an emergency, the job is to save lives, so the rule changes. The same people sorted for a different job need a different rule.
 9. (mcq) A recycling plant uses a big magnet to lift steel tins off a moving belt of rubbish. A magnet does not attract aluminium cans. What happens to them?  
-   Options: They stay with the paper and plastic, so another rule is needed to pick them out / The magnet attracts them anyway / They melt / They turn into steel  
+   Options: The magnet attracts them anyway / They melt / They turn into steel / They stay with the paper and plastic, so another rule is needed to pick them out  
    **Answer:** They stay with the paper and plastic, so another rule is needed to pick them out. *Why:* A magnet sorts by 'Does a magnet attract it?', and aluminium says no. So one rule cannot separate every material. Recycling plants add more steps, each with its own rule.
 10. (write) Dan Shechtman found a solid whose pattern did not fit either old group, crystal or glass. When something does not fit any group, should scientists change the groups, or doubt the thing? What would you want to see before changing the groups?  
    **Answer:** A strong answer says both are fair first steps. Scientists should check the strange thing carefully, again and again, and in other laboratories. If it is still there, the groups should change. That is what happened: other scientists made the same solid, and in 1992 the meaning of 'crystal' was changed.. *Why:* A thing that does not fit is either a mistake or a discovery. Careful checking tells which.
@@ -798,7 +798,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 13. (sort) Is the rule clear enough that everyone gets the same answer? Sort the rules.  
    **Answer:** Is it longer than 10 centimetres? → Clear rule; Does a magnet attract it? → Clear rule; Does it float in water? → Clear rule; Is it heavy? → Unclear rule; Is it old? → Unclear rule; Is it beautiful? → Unclear rule. *Why:* A clear rule can be checked with a ruler, a magnet or a bowl of water, so everyone gets the same answer. 'Heavy', 'old' and 'beautiful' depend on who is asked. Each can be made clear, for example 'Is it heavier than a full water bottle?'.
 14. (mcq) Two scientists each find a pattern in the elements. One just lists the pattern. The other leaves gaps and says what the missing elements will be like. Why are more people convinced by the second?  
-   Options: The pattern predicts something new that can be checked / The list is longer / It uses a different colour for each element / Nobody can check it  
+   Options: The list is longer / It uses a different colour for each element / Nobody can check it / The pattern predicts something new that can be checked  
    **Answer:** The pattern predicts something new that can be checked. *Why:* Mendeleev left gaps and said what the missing elements would be like. Gallium, scandium and germanium were found and matched. A pattern that predicts something new is much harder to laugh at.
 15. (truefalse) Ice, water and steam are three different materials.  
    **Answer:** False. *Why:* False. They are the same stuff, water, in three states. Solid, liquid and gas describe what the material is doing at that moment, and the same material can move from one group to another.
@@ -813,46 +813,46 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    Options: A question that every thing can answer, to decide its group / The name of a group / A list of things  
    **Answer:** A question that every thing can answer, to decide its group. *Why:* A rule is a question, like 'Is it shiny?'. Each thing is checked against it. Picking 'the name of a group' mixes up the question and its answer.
 2. (mcq) Which is the best sorting rule?  
-   Options: Is it shiny? / Is it pretty? / Is it nice?  
+   Options: Is it pretty? / Is it nice? / Is it shiny?  
    **Answer:** Is it shiny?. *Why:* 'Is it shiny?' has a clear answer that anyone can check. 'Pretty' and 'nice' depend on who is asked.
 3. (mcq) A brick is hard and dull. We sort by hard or soft, then by shiny or dull. What happens to the brick?  
-   Options: It goes in the hard group, then in the dull group / It goes in the hard group both times / It goes in the soft group  
+   Options: It goes in the hard group both times / It goes in the soft group / It goes in the hard group, then in the dull group  
    **Answer:** It goes in the hard group, then in the dull group. *Why:* The same brick lands in a group with a different name each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.
 4. (mcq) A friend says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?  
-   Options: No. Each rule asks a different question, so the spoon can be in both / Yes. A thing can only be in one group / Yes, because shiny is not a rule  
+   Options: Yes. A thing can only be in one group / Yes, because shiny is not a rule / No. Each rule asks a different question, so the spoon can be in both  
    **Answer:** No. Each rule asks a different question, so the spoon can be in both. *Why:* The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. 'A thing can only be in one group' is a common idea, but it is true only within one sort.
 5. (mcq) A candle is hard, but a fingernail can mark it. What is the best way to settle where it goes?  
-   Options: Use a fair test, and let the test decide / Guess / Throw it away  
+   Options: Guess / Throw it away / Use a fair test, and let the test decide  
    **Answer:** Use a fair test, and let the test decide. *Why:* A test gives the same answer for everyone. Guessing can differ from person to person. Throwing it away leaves the problem unsolved.
 6. (mcq) Which of these is a good way to deal with a tricky middle thing?  
-   Options: Add a middle group / Hide it / Pretend it fits  
+   Options: Hide it / Add a middle group / Pretend it fits  
    **Answer:** Add a middle group. *Why:* A middle group makes a place for a thing that is truly in between. Hiding it, or pretending it fits, makes the sort less true.
 7. (mcq) In a Venn diagram of Soft and Waterproof, where does a cotton hanky go?  
    Options: In the Soft circle only / In the overlap / In the Waterproof circle only / Outside both circles  
    **Answer:** In the Soft circle only. *Why:* A cotton hanky is soft, but water soaks into it, so it is not waterproof. It fits one rule, so it goes in that circle only. Picking the overlap means the second rule was not checked.
 8. (mcq) In a Carroll table, what do the four boxes show?  
-   Options: Both, only the first, only the second, and neither / Four kinds of metal / Four sizes  
+   Options: Four kinds of metal / Both, only the first, only the second, and neither / Four sizes  
    **Answer:** Both, only the first, only the second, and neither. *Why:* Two yes or no rules make four combinations. Each thing goes in exactly one box.
 9. (mcq) You want a key to find one of eight things. Which first question makes the best start?  
-   Options: One that splits the eight things into four and four / One that picks out a single thing / One that every thing answers with yes  
+   Options: One that picks out a single thing / One that every thing answers with yes / One that splits the eight things into four and four  
    **Answer:** One that splits the eight things into four and four. *Why:* A question that splits the group in half leaves four things, and the next question leaves two. A question that picks out one thing leaves seven. A question that every thing answers the same way splits nothing.
 10. (mcq) A kabadiwala buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?  
-   Options: Each material is recycled in its own way / She likes colours / It looks tidy  
+   Options: She likes colours / It looks tidy / Each material is recycled in its own way  
    **Answer:** Each material is recycled in its own way. *Why:* Each material is recycled in its own way, so each pile is sold to a different buyer. Picking 'it looks tidy' misses the purpose.
 11. (mcq) Before washing, white clothes go in one bucket and coloured clothes in another. What is the job of this sort?  
-   Options: To stop dye from coloured clothes staining the white ones / To make the buckets equally heavy / Because white clothes are a different material / To make the clothes dry faster  
+   Options: To make the buckets equally heavy / To stop dye from coloured clothes staining the white ones / Because white clothes are a different material / To make the clothes dry faster  
    **Answer:** To stop dye from coloured clothes staining the white ones. *Why:* Some coloured cloth lets out dye in water, and the dye can stain white cloth. So the rule is colour, because that is what the job needs. Sorting by material would not help here: a white shirt and a red shirt can both be cotton.
 12. (mcq) A scientist sorts all the known elements into a table by a pattern. Some places in the pattern have no element. What should he do?  
-   Options: Leave gaps, because elements nobody has found yet may fit there / Squeeze the elements together to hide the gaps / Give up on the pattern  
+   Options: Squeeze the elements together to hide the gaps / Give up on the pattern / Leave gaps, because elements nobody has found yet may fit there  
    **Answer:** Leave gaps, because elements nobody has found yet may fit there. *Why:* A good pattern can point to things nobody has found yet. Mendeleev left gaps like this, and gallium, scandium and germanium were later found and matched his predictions.
 13. (mcq) What do the star letters O, B, A, F, G, K, M show?  
-   Options: How hot the surface of the star is / How old the star is / How far away it is  
+   Options: How old the star is / How far away it is / How hot the surface of the star is  
    **Answer:** How hot the surface of the star is. *Why:* Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell how hot the star is.
 14. (mcq) Do scientists agree on exactly what a species is?  
-   Options: No, there are over twenty different definitions / Yes, there is only one rule / Yes, but only for animals  
+   Options: Yes, there is only one rule / Yes, but only for animals / No, there are over twenty different definitions  
    **Answer:** No, there are over twenty different definitions. *Why:* Biologists still argue. Different definitions work better for animals, plants and bacteria.
 15. (mcq) Why was Pluto moved to a new group in 2006?  
-   Options: Astronomers changed the rule for what a planet is / Pluto got smaller / Pluto moved away  
+   Options: Pluto got smaller / Astronomers changed the rule for what a planet is / Pluto moved away  
    **Answer:** Astronomers changed the rule for what a planet is. *Why:* The rule changed, not Pluto. Some astronomers still disagree with the new rule. Picking 'Pluto got smaller' is a common guess, but Pluto did not change.
 16. (mcq) Why do ketchup and cornflour mixed with water belong to the tricky middle?  
    Options: They act like a solid and like a liquid / They are gases / They are too small to see  

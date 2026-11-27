@@ -418,7 +418,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 2. (match) Draw a line from each machine to what it does.  
    **Answer:** Tractor → Pulls a trolley full of sugarcane; Bulldozer → Pushes soil and stones; Crane → Pulls heavy things up; Tugboat → Pulls a big ship into the harbour. *Why:* Machines are made to push or pull for us. A tractor and a tugboat pull, a bulldozer pushes, and a crane pulls up with its cable.
 3. (mcq) You flick a carrom striker softly, then flick it hard. Which time does the striker go further?  
-   Options: The gentle push / The hard push / Both the same  
+   Options: The gentle push / Both the same / The hard push  
    **Answer:** The hard push. *Why:* A harder flick is a bigger push. The striker moves faster, so it goes further before it stops.
 4. (draw) Draw yourself pushing something. Show it moving away from you.  
    **Answer:** A child pushing a thing, such as a swing or a ball, with the thing moving away.. *Why:* A strong drawing shows the child's hands or feet on the thing, and the thing going away.
@@ -466,10 +466,10 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
 
 ## Quiz
 1. (mcq) You drag a mat across the room by its corner, walking backwards. Is that a push or a pull?  
-   Options: A pull / A push / Neither  
+   Options: A push / Neither / A pull  
    **Answer:** A pull. *Why:* The mat comes towards you, so it is a pull.
 2. (mcq) A boy called Arjun pushes a swing. Which way does the swing move?  
-   Options: Towards Arjun / Away from Arjun / It stays still  
+   Options: Towards Arjun / It stays still / Away from Arjun  
    **Answer:** Away from Arjun. *Why:* A push moves a thing away from you.
 3. (mcq) A ball sits on a flat floor. Nobody touches it. What happens?  
    Options: It rolls away by itself / It jumps up / It stays still  
@@ -478,7 +478,7 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
    Options: A force / A machine / A toy  
    **Answer:** A force. *Why:* Force is the scientists' word for every push and every pull.
 5. (mcq) You want your toy car to go as far as it can. What should you do?  
-   Options: Give it a tiny push / Hold it still / Give it a big push  
+   Options: Give it a tiny push / Give it a big push / Hold it still  
    **Answer:** Give it a big push. *Why:* A bigger push makes the car go faster, so it goes further.
 6. (mcq) You push someone on a swing. Which push sends the swing higher?  
    Options: A smaller push / A bigger push / Both the same  
@@ -490,10 +490,10 @@ Paati smiled at them both. 'You are both right,' she said. 'It all depends on wh
    Options: The sand is too hot / One person would push it too far / The boat is heavy and needs a big push  
    **Answer:** The boat is heavy and needs a big push. *Why:* Many pushes together make a big push, big enough to move a heavy boat.
 9. (mcq) Which machine is made to pull?  
-   Options: A bulldozer / A tractor with a trolley / A road roller  
+   Options: A tractor with a trolley / A bulldozer / A road roller  
    **Answer:** A tractor with a trolley. *Why:* A tractor pulls a trolley behind it. A bulldozer pushes soil, and a road roller presses the road flat.
 10. (mcq) In the playground, you push a roundabout. What does your push do?  
-   Options: It makes the roundabout start to turn / It pulls the roundabout towards you / Nothing  
+   Options: It pulls the roundabout towards you / Nothing / It makes the roundabout start to turn  
    **Answer:** It makes the roundabout start to turn. *Why:* Your push moves the roundabout away from your hands, so it starts to turn.
 
 ## Applications

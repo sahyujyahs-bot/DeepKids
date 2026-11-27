@@ -538,7 +538,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 ## Worksheets
 ### Partners and Rivals (core) (core, 15 questions)
 1. (mcq) Two kinds of living beings live together and both gain. What is this called?  
-   Options: Mutualism / Competition / Parasitism / Commensalism  
+   Options: Competition / Mutualism / Parasitism / Commensalism  
    **Answer:** Mutualism. *Why:* In mutualism both partners gain more than they lose. In competition both lose, and in parasitism one loses.
 2. (truefalse) True or false: in science, the word symbiosis always means that both partners are helped.  
    **Answer:** False. *Why:* False. Symbiosis only means two kinds living closely together. It can help both, help one, or harm one. A strong answer gives an example of each.
@@ -551,7 +551,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 6. (write) In the Crowded Cup Test, which cup had the thinnest seedlings? Explain why, using the word 'share'.  
    **Answer:** The cup with 64 seeds. All 64 seedlings had to share the same water, minerals and light as the 4 seedlings in the first cup, so each one got much less.. *Why:* A strong answer uses a result from the child's own table. It says that the seedlings needed the same things, so more seedlings meant a smaller share for each.
 7. (mcq) What do seedlings in a crowded cup compete for?  
-   Options: Water, light and minerals / Nectar / Pollen / Bees  
+   Options: Nectar / Pollen / Water, light and minerals / Bees  
    **Answer:** Water, light and minerals. *Why:* Seedlings need water and minerals from the soil and light from above. Nectar and pollen belong to flowers and their visitors.
 8. (draw) Draw a lichen cut through from top to bottom. Show where the fungus is and where the alga is.  
    **Answer:** A drawing with fungus threads at the top and bottom, and a thin band of green algal cells just under the top skin, each wrapped in threads.. *Why:* A strong drawing puts the algae near the top, where the light is, and shows that the fungus makes most of the body.
@@ -567,7 +567,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 13. (perspective) A farmer's seedlings have come up very thickly in her nursery bed. Two neighbours give her advice.  
    **Answer:** A strong answer uses the Crowded Cup Test: crowded seedlings share water and light, so they grow thin and fall easily. It also sees the other side: pulling seedlings wastes seed and work, and some seedlings will die anyway, so a few spare ones are useful.. *Why:* Both neighbours want a good crop. Thinning gives each plant more, and keeping spares guards against losses. Real farmers do some of both.
 14. (mcq) A bee and a flower can be partners. Two bees at one small flower compete. Why?  
-   Options: The bee and the flower need different things / Bees dislike each other / Flowers are bigger than bees / Bees are all one colour  
+   Options: Bees dislike each other / Flowers are bigger than bees / Bees are all one colour / The bee and the flower need different things  
    **Answer:** The bee and the flower need different things. *Why:* The flower needs pollen carried and the bee needs sugar, so they can exchange. Two bees both need the same nectar, so each leaves less for the other.
 15. (write) Kalpasi is sold as 'stone flower'. Explain why kalpasi is not a flower.  
    **Answer:** Kalpasi is a lichen, which is a fungus and an alga living as one body. A flower is a part of a plant that makes seeds. A lichen has no flowers, seeds, roots or leaves.. *Why:* A strong answer says what a lichen is and names at least one thing a flower has that a lichen lacks.
@@ -584,7 +584,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 5. (sort) Sort each fact about a lichen: is it true of the fungus or of the alga?  
    **Answer:** makes sugar from sunlight → Alga; holds water like a cloth → Fungus; grips the rock or bark → Fungus; is green → Alga; makes most of the body → Fungus; lives in a thin layer near the top → Alga. *Why:* The alga is the food-maker and needs light. The fungus builds the body, holds the water and grips the surface.
 6. (mcq) In heavily fertilised soil, a plant with root fungi may grow a little less. Why?  
-   Options: The plant pays sugar but needs little help / Fungi eat the roots / Fungi block the light / Fertiliser turns fungi green  
+   Options: Fungi eat the roots / The plant pays sugar but needs little help / Fungi block the light / Fertiliser turns fungi green  
    **Answer:** The plant pays sugar but needs little help. *Why:* In rich soil the plant can get phosphate alone. The fungus still takes sugar, so the plant pays for something they hardly need.
 7. (draw) Draw a root and a fungus under the ground. Add one arrow for sugar and one for minerals.  
    **Answer:** A root with fine threads spreading far into the soil. A sugar arrow goes from root to fungus. A minerals arrow goes from fungus to root.. *Why:* A strong drawing shows the threads reaching farther than the root, and the two arrows pointing in opposite directions.
@@ -597,7 +597,7 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 11. (match) Match each word to what it means.  
    **Answer:** Hypha → one thread of a fungus; Nectar → sweet liquid a flower makes for visitors; Alga → simple green being who makes food from sunlight; Resource → something a living being needs and uses up; Cheater → takes from a partner and gives little back. *Why:* These are the words needed to talk about partnerships. A strong answer could give an example of each.
 12. (mcq) Bushy lichens hang from trees in a hill town but not in a city centre. What is the most likely reason?  
-   Options: The city air is dirtier / City trees are taller / Lichens dislike people / Hills have more rock  
+   Options: City trees are taller / Lichens dislike people / The city air is dirtier / Hills have more rock  
    **Answer:** The city air is dirtier. *Why:* Lichens soak up whatever the rain and air carry, and bushy kinds are harmed most easily. A careful scientist would also check the age of the trees and how damp each place is.
 13. (odd) Three of these plants need animals to carry their pollen. Which is the odd one out?  
    Options: Pumpkin / Mango / Rice / Cardamom  
@@ -612,14 +612,14 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
 2. (perspective) Do big trees feed small trees through fungi? Scientists disagree.  
    **Answer:** A strong answer says exactly what would count as evidence. For example: block only the fungal threads with a fine mesh, leave the soil path open, and see whether the carbon still arrives and whether the seedlings grow less.. *Why:* Both sides agree that fungi join roots and that some carbon moves. They disagree about how much, by which path, and whether it helps. A good test separates the paths.
 3. (mcq) You want to test whether a root fungus helps a plant. What should you compare?  
-   Options: One kind of plant, with and without fungus / Big plants and small plants / Two different kinds of plant / Plants in sun and plants in shade  
+   Options: Big plants and small plants / One kind of plant, with and without fungus / Two different kinds of plant / Plants in sun and plants in shade  
    **Answer:** One kind of plant, with and without fungus. *Why:* Only the fungus should differ. Soil, water, light and the kind of plant must be the same, as the cups were in the Crowded Cup Test.
 4. (write) Orchid seeds sprout on old bark but not on clean bark. How could you check that a fungus is the reason?  
    **Answer:** Put seeds on clean bark with the fungus added and on clean bark without, and keep everything else the same. If only the seeds with the fungus grow, the fungus is the reason.. *Why:* A strong answer changes only one thing and has a comparison. It may add that old bark also holds more water, so that must be kept the same.
 5. (truefalse) True or false: the mitochondria in your cells have their own genes.  
    **Answer:** True. *Why:* True. Their genes are separate from the genes in the rest of the cell, and are most like the genes of certain bacteria.
 6. (mcq) Which evidence best shows that mitochondria were once free-living bacteria?  
-   Options: Their genes are like the genes of bacteria / They are very small / They are inside cells / They use food  
+   Options: They are very small / They are inside cells / They use food / Their genes are like the genes of bacteria  
    **Answer:** Their genes are like the genes of bacteria. *Why:* Many things are small or use food. Genes that match those of bacteria point to a shared family history.
 7. (write) In Pay or Cheat?, cheating earns the most in one round. Why does it earn less over many rounds?  
    **Answer:** A partner who has been cheated can refuse to visit again. The cheater gains 3 once and then gets nothing, while two fair players each gain 2 in every round.. *Why:* A strong answer uses the numbers from the game and says that the partner's answer to a cheat is what changes the result.
@@ -652,33 +652,33 @@ In June she carried the piece of old bark to school in a tiffin box lined with d
    Options: Mutualism / Commensalism / Competition / Parasitism  
    **Answer:** Commensalism. *Why:* One gains and the other is neither helped nor harmed. If you chose mutualism, ask what the buffalo gets. In this case, very little.
 2. (mcq) Why were the seedlings in the 64-seed cup thinner than those in the 4-seed cup?  
-   Options: They attacked each other / Each got less water and light / Their seeds were smaller / They were a different kind  
+   Options: Each got less water and light / They attacked each other / Their seeds were smaller / They were a different kind  
    **Answer:** Each got less water and light. *Why:* All the cups had the same water, soil and light. With 64 sharing, each seedling got less. Nobody attacks anybody in competition.
 3. (mcq) Why do we measure seedlings from the middle of a crowded cup, not the edge?  
    Options: Middle seedlings are easier to reach / Edge seedlings get extra light from the side / Edge seedlings are a different kind / Middle seedlings are older  
    **Answer:** Edge seedlings get extra light from the side. *Why:* A seedling at the edge has neighbours on only one side, so they are less crowded than the rest. Measuring them would hide the effect of crowding.
 4. (mcq) A flower gives nectar and a bee carries pollen. Why is this a good trade for both?  
-   Options: Both can make sugar / Bees are kind to flowers / Each gives what the other cannot do / Flowers can fly to bees  
+   Options: Both can make sugar / Bees are kind to flowers / Flowers can fly to bees / Each gives what the other cannot do  
    **Answer:** Each gives what the other cannot do. *Why:* A plant makes sugar easily but cannot move. A bee flies easily but cannot make sugar. Kindness is not needed for a trade to work.
 5. (mcq) What does a root fungus get from the plant?  
-   Options: Phosphate / Sunlight / Nitrogen from the air / Sugar  
+   Options: Sugar / Phosphate / Sunlight / Nitrogen from the air  
    **Answer:** Sugar. *Why:* A fungus cannot make sugar, so the plant's sugar is the payment. Phosphate goes the other way, from the fungus to the plant.
 6. (mcq) Why can fungal threads reach minerals that roots cannot?  
-   Options: They are far thinner and spread farther / They are green / They are heavier / They make their own minerals  
+   Options: They are green / They are heavier / They make their own minerals / They are far thinner and spread farther  
    **Answer:** They are far thinner and spread farther. *Why:* Hyphae are many times thinner than the finest root, so they enter tiny gaps and spread beyond the soil the root has used up.
 7. (truefalse) True or false: a lichen is a kind of moss.  
    **Answer:** False. *Why:* False. A moss is a small plant with tiny leaves. A lichen is a fungus and an alga living as one body, with no leaves at all.
 8. (mcq) Lichens are among the first living beings to be harmed by dirty air. Why?  
-   Options: They have very large leaves / They have deep roots / They soak up rain and dust all over / They breathe very fast  
+   Options: They soak up rain and dust all over / They have very large leaves / They have deep roots / They breathe very fast  
    **Answer:** They soak up rain and dust all over. *Why:* A lichen has no waxy skin and no roots. Whatever is in the rain and dust goes straight in.
 9. (mcq) An orchid makes no nectar but looks like a flower that does. A bee visits. Who gains?  
-   Options: Only the bee / Only the orchid / Both / Neither  
+   Options: Only the bee / Both / Neither / Only the orchid  
    **Answer:** Only the orchid. *Why:* The orchid gets pollen carried and pays nothing. The bee spends time and effort for no food. The orchid is a cheater.
 10. (mcq) The same fungus helps a plant in poor soil but not in rich soil. Why?  
-   Options: The fungus dies in rich soil / Rich soil has no water / In rich soil the plant needs little help / The plant stops making sugar  
+   Options: The fungus dies in rich soil / In rich soil the plant needs little help / Rich soil has no water / The plant stops making sugar  
    **Answer:** In rich soil the plant needs little help. *Why:* A trade is worth making only if you need what the other side offers. In rich soil the plant can get minerals alone, but still pays sugar.
 11. (mcq) Which of these do scientists still argue about?  
-   Options: Whether bees carry pollen / Whether crowded plants compete / Whether a lichen holds a fungus / Whether old trees feed young trees through fungi  
+   Options: Whether old trees feed young trees through fungi / Whether bees carry pollen / Whether crowded plants compete / Whether a lichen holds a fungus  
    **Answer:** Whether old trees feed young trees through fungi. *Why:* The first three have been tested many times. The idea that trees feed each other through fungi rests on few tests in real forests, and scientists read them differently.
 
 ## Applications

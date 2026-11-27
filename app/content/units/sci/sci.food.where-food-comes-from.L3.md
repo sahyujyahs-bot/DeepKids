@@ -669,7 +669,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 5. (truefalse) A mushroom is a kind of plant.  
    **Answer:** False. *Why:* False. A mushroom is a fungus. Fungi have no green leaves and do not make food from sunlight. They feed on dead wood and leaves. Fungi are a separate kind of living being.
 6. (mcq) In the Milk to Curd test, which katori set into thick curd by morning?  
-   Options: Milk with curd added, kept warm / Milk with nothing added, kept warm / Milk with curd added, kept in the fridge  
+   Options: Milk with nothing added, kept warm / Milk with curd added, kept in the fridge / Milk with curd added, kept warm  
    **Answer:** Milk with curd added, kept warm. *Why:* The curd bacteria need to be added, and they need warmth to work. If you picked 'nothing added', you may think milk sets by itself. If you picked 'the fridge', remember that cold slows the bacteria down.
 7. (write) Mushrooms grow on a damp, dead log in a shady corner. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?  
    **Answer:** The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.. *Why:* A strong answer says how each one gets food: the plant makes food with light, the fungus takes food from dead things.
@@ -690,7 +690,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 15. (truefalse) A friend's family eats very different food from ours, so their food must be wrong.  
    **Answer:** False. *Why:* Different places, seasons and family traditions give different food. A different dinner is not a wrong one.
 16. (mcq) Which of these food chains is the longest?  
-   Options: Sun, algae, small fish, big fish, fish curry / Sun, rice plant, rice / Sun, sugarcane, jaggery / Sun, mango tree, mango  
+   Options: Sun, rice plant, rice / Sun, sugarcane, jaggery / Sun, algae, small fish, big fish, fish curry / Sun, mango tree, mango  
    **Answer:** Sun, algae, small fish, big fish, fish curry. *Why:* The fish curry chain has five links. Each of the others has only three. Every extra animal in a chain adds one more link.
 ### Food Journeys (stretch) (stretch, 18 questions)
 1. (match) Each masala comes from one part of a plant. Match each masala to that part.  
@@ -698,12 +698,12 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 2. (match) Match each cooking oil to what gives the oil.  
    **Answer:** mustard oil → mustard seeds; groundnut oil → peanuts; til oil → sesame seeds; coconut oil → white flesh of the coconut. *Why:* Plants pack oil into their seeds as food for their babies, and people press the oil out. Peanuts and sesame are seeds. Coconut oil comes from the white flesh inside the coconut.
 3. (mcq) A botanist is a scientist who studies plants. To a botanist, which of these is a fruit?  
-   Options: Bhindi / Potato / Radish / Keerai  
+   Options: Potato / Radish / Bhindi / Keerai  
    **Answer:** Bhindi. *Why:* Botanists call any part that grows from a flower and holds seeds a fruit. Bhindi is full of seeds, so it is a fruit, even though a cook calls it a vegetable. Potato is a stem, radish is a root and keerai is leaves.
 4. (order) Put the steps of making curd at home in order.  
    **Answer:** ['Let boiled milk cool until it is just warm', 'Stir in a spoon of old curd', 'Keep the katori in a warm place overnight', 'Bacteria feed on the milk, and the milk turns thick and sour']. *Why:* Hot milk would kill the bacteria, so the milk cools first. The old curd brings the bacteria. Warmth lets them work overnight, and they turn the milk into curd.
 5. (mcq) In the iodine test, which food turned blue-black?  
-   Options: Cooked rice / Paneer / Salt / Sugar  
+   Options: Paneer / Salt / Sugar / Cooked rice  
    **Answer:** Cooked rice. *Why:* Rice is a seed, full of the starch the plant packed for their baby. Iodine turns blue-black on starch. Paneer comes from milk and salt from the Earth. Sugar is easy to get wrong: sugar comes from a plant, but sugar is a different kind of food from starch.
 6. (truefalse) Animals store their food as starch, just like plants.  
    **Answer:** False. *Why:* False. Starch is how plants store food. That is why paneer did not turn blue-black in the iodine test. Animals store food mostly as fat, and a little as glycogen, a starch-like store in the liver and muscles.
@@ -714,7 +714,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 9. (perspective) Three people are arguing about where curd comes from.  
    **Answer:** A strong answer picks one and backs it up, for example with the Milk to Curd test, where milk with no curd added stayed runny. It then admits that the others are right too, because curd needs a plant, an animal and microbes.. *Why:* All three are partly right. Curd needs grass that grew in sunlight, a cow who made milk, and bacteria who turned the milk sour and thick. The strength is in the reasons.
 10. (mcq) Honey is sweet. Where did that sweetness first come from?  
-   Options: Sugar made by a flowering plant, using sunlight / The bee's own body fat / The wax of the hive  
+   Options: The bee's own body fat / Sugar made by a flowering plant, using sunlight / The wax of the hive  
    **Answer:** Sugar made by a flowering plant, using sunlight. *Why:* Bees drink nectar, a sugary juice made by flowers. The plant made that sugar using the energy of sunlight. The bees thicken it into honey, but the sweetness began in the plant.
 11. (sort) Sort these into usual summer foods and usual winter foods in India.  
    **Answer:** mango → Summer; til-jaggery sweets of Pongal and Sankranti → Winter; buttermilk → Summer; gajar halwa → Winter; watermelon → Summer; til laddoo → Winter. *Why:* Mangoes and watermelons ripen in summer, and buttermilk cools us. Mustard greens and carrots grow in winter, and sesame and jaggery sweets give lots of energy in the cold.
@@ -723,7 +723,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 13. (fill) Warm, rich winter foods like til laddoo and gajar halwa give the body lots of ____ to stay active in the cold.  
    **Answer:** ['energy']. *Why:* Rich foods are full of the energy that plants stored. Summer foods are watery and help replace sweat; winter foods give energy.
 14. (mcq) In the Windowsill Farm, the seedlings in the dark cupboard grew tall, thin and pale yellow. What were they living on?  
-   Options: The food packed in their seeds / Food they made from light / The soil / Food from the dark  
+   Options: Food they made from light / The soil / Food from the dark / The food packed in their seeds  
    **Answer:** The food packed in their seeds. *Why:* In the dark, a seedling cannot make new food. They live on the food stored in their seed, stretching to look for light. 'The soil' is the old idea that plants eat soil, which van Helmont's willow tree showed was wrong.
 15. (truefalse) A dry moong seed sitting in a jar in the kitchen is not alive.  
    **Answer:** False. *Why:* False. A dry seed is alive, but resting. Scientists call this dormant. Give the seed water and warmth, and the baby plant inside wakes up and grows. A dead seed would never sprout.
@@ -732,7 +732,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 17. (order) Put the steps of making salt in the salt pans in order.  
    **Answer:** ['Sea water flows into shallow fields', 'The Sun dries the water', 'White salt crystals are left behind', 'Workers rake the white salt into heaps']. *Why:* Sea water is let into the fields. The Sun dries the water away, and the salt that was in the water stays behind as crystals. Then the workers rake it into heaps.
 18. (mcq) Before farming, people got food by gathering wild plants and hunting. Why did farming let people stay in one place and build villages?  
-   Options: They could grow food near their homes year after year / Wild animals stopped moving / Farming needed no work / Rivers stopped flooding  
+   Options: Wild animals stopped moving / Farming needed no work / They could grow food near their homes year after year / Rivers stopped flooding  
    **Answer:** They could grow food near their homes year after year. *Why:* Hunters and gatherers had to follow the food. With fields and animals near home, people could stay put, store food and build villages. Farming began about 11,000 years ago.
 ### From the Sun to the Sea Floor (challenge) (challenge, 15 questions)
 1. (write) Before 1977, scientists thought every food chain began with sunlight. Then they found crabs and tube worms living around hot vents deep under the sea, where no light reaches. Why was this a surprise? What feeds these animals?  
@@ -740,7 +740,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 2. (write) About 380 years ago, a scientist called van Helmont grew a willow tree in a pot for five years. The tree got about 30 times heavier, but the soil hardly changed. What does this tell us about what plants are made of?  
    **Answer:** The tree did not get their weight from the soil, because the soil stayed almost the same. So the weight must have come from what the tree took in: water and, as later scientists found, air. Plants build themselves mostly from air and water, using the energy of sunlight.. *Why:* Van Helmont thought it was all water. Later scientists found most of a plant's weight comes from carbon dioxide gas in the air. A strong answer uses the evidence: the soil did not change.
 3. (mcq) A cow eats a field of grass. About how much of the grass's energy ends up stored in the cow's body?  
-   Options: About a tenth / All of it / About half / None  
+   Options: All of it / About half / About a tenth / None  
    **Answer:** About a tenth. *Why:* This is a rough rule. Most of the grass's energy is used by the cow for walking, keeping warm, breathing and living. Only about a tenth is stored in her body. 'All of it' forgets that a cow uses energy all day, just like you.
 4. (write) Only about a tenth of the energy passes on at each step of a food chain. Use this rough rule to explain why feeding people on milk and meat takes more land than feeding them on grains and dal.  
    **Answer:** When people eat grains and dal, they get the plant's energy directly. When a cow eats the plants first, she uses up most of the energy. Only about a tenth is left in her milk and meat. So to get the same energy from animal food, many more fields of plants are needed.. *Why:* A strong answer uses the tenth rule: every extra step in a food chain loses most of the energy, so shorter chains need less land.
@@ -756,12 +756,12 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 9. (sort) Sort these by what was at the very start of their food chain.  
    **Answer:** chapati → Sunlight; honey → Sunlight; tube worm → Chemicals from a deep-sea vent; salt → Never alive; fish curry → Sunlight; vent crab → Chemicals from a deep-sea vent. *Why:* Chapati, honey and fish curry all trace back to plants or algae using sunlight. Tube worms and vent crabs depend on microbes that use chemicals from the vents. Salt was never alive.
 10. (mcq) You want to find out whether methi seedlings need light to turn green. You set up two trays. Which setup is a fair test?  
-   Options: Same seeds, soil and water. One tray in the sun, one in a dark cupboard / One tray in the sun with lots of water, one in the dark with a little water / Methi seeds in the sun, moong seeds in the dark / One tray in the sun, and no second tray  
+   Options: One tray in the sun with lots of water, one in the dark with a little water / Methi seeds in the sun, moong seeds in the dark / One tray in the sun, and no second tray / Same seeds, soil and water. One tray in the sun, one in a dark cupboard  
    **Answer:** Same seeds, soil and water. One tray in the sun, one in a dark cupboard. *Why:* A fair test changes only one thing, here the light. The seeds, soil and water stay the same. In the other setups, water or the seeds also change, so you could not tell what made the difference.
 11. (write) Some people say old food traditions are just superstition. Others say they are always right. What do you think? Give one example that supports your answer.  
    **Answer:** Any answer with a reason and an example. For example: some old traditions were clever, because people made curd and idli with microbes long before microbes were discovered. But each old rule should be tested, because some have never been checked.. *Why:* The fair way is to test each idea, not to accept or reject them all. A strong answer gives a real example and a reason.
 12. (mcq) Millets like ragi, jowar and bajra are being grown more again in India. What is one big reason?  
-   Options: They need much less water than rice / They grow without any sunlight / They are new crops that were never grown in India before  
+   Options: They grow without any sunlight / They are new crops that were never grown in India before / They need much less water than rice  
    **Answer:** They need much less water than rice. *Why:* Millets grow well with little rain, while rice needs a lot of water. In places like Punjab, pumping water for rice is making the water under the ground fall. Millets are not new: people in India have grown them for thousands of years. Like every plant, they need sunlight.
 13. (truefalse) Fungi, like mushrooms, are more closely related to animals than to plants.  
    **Answer:** True. *Why:* True. Studies of their cells and their genes show that fungi and animals share a closer ancestor than fungi and plants do. That surprised many people, because mushrooms grow in one place like plants.
@@ -777,40 +777,40 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 
 ## Quiz
 1. (mcq) Which of these foods comes from a plant?  
-   Options: Jaggery / Ghee / Egg / Paneer  
+   Options: Ghee / Egg / Paneer / Jaggery  
    **Answer:** Jaggery. *Why:* Jaggery is made from sugarcane juice, so it comes from a plant stem. Ghee and paneer come from milk, and eggs come from hens. Picking ghee often happens because ghee is yellow and oily like plant oil, but ghee is made from butter.
 2. (mcq) Which plate does salt belong on?  
-   Options: Plant / Animal / Fungi and microbes / The non-living Earth  
+   Options: Plant / Animal / The non-living Earth / Fungi and microbes  
    **Answer:** The non-living Earth. *Why:* Salt is a mineral from the sea or from rocks. It was never alive. Picking 'plant' sometimes happens because salt is found in so many plant dishes.
 3. (mcq) What part of the plant is a carrot?  
-   Options: Root / Stem / Fruit  
+   Options: Stem / Root / Fruit  
    **Answer:** Root. *Why:* A carrot is a root. It grows straight down, stores food and has no eyes or buds. Picking 'stem' often comes from knowing that a potato is a stem, and guessing all underground food is the same.
 4. (mcq) What part of the plant is cauliflower?  
-   Options: Leaf / Flower / Root  
+   Options: Leaf / Root / Flower  
    **Answer:** Flower. *Why:* Cauliflower is a big bunch of flower buds packed tightly together. The name even says flower. Picking 'leaf' is a natural guess, because a cauliflower comes wrapped in big green leaves. But the white part we eat is the flower buds.
 5. (mcq) When we eat rice, dal or peanuts, which part of the plant are we eating?  
-   Options: Seeds / Roots / Leaves  
+   Options: Roots / Seeds / Leaves  
    **Answer:** Seeds. *Why:* Rice, dal and peanuts are all seeds: baby plants with their food packed around them. Picking 'roots' happens with peanuts, because they grow under the ground. But a peanut is a seed inside a pod.
 6. (mcq) Mustard oil is squeezed out of which part of the mustard plant?  
-   Options: The seeds / The roots / The leaves  
+   Options: The roots / The seeds / The leaves  
    **Answer:** The seeds. *Why:* Mustard seeds hold a store of oil, packed there as food for the baby plant. Pressing the seeds squeezes the oil out. Mustard leaves are eaten as saag, but they do not give oil.
 7. (mcq) A cow gives milk. What did the cow eat to make her milk?  
    Options: Grass and fodder / Milk / Nothing  
    **Answer:** Grass and fodder. *Why:* A cow makes milk from the grass and fodder she eats. That is why animal food is really plant food that has passed through an animal. Picking 'nothing' means imagining milk just appears inside the cow.
 8. (mcq) What is at the very start of almost every food chain on land?  
-   Options: A plant, using sunlight / A lion / A shop / A cow  
+   Options: A lion / A shop / A cow / A plant, using sunlight  
    **Answer:** A plant, using sunlight. *Why:* Every food chain on land starts with a plant, which makes food from sunlight. Picking 'a cow' means starting in the middle. The cow ate grass first.
 9. (mcq) What do plants make most of their own body from?  
-   Options: Air and water / Soil / Fertiliser  
+   Options: Soil / Air and water / Fertiliser  
    **Answer:** Air and water. *Why:* Plants use sunlight to join carbon dioxide from the air with water. Picking 'soil' is the old idea that van Helmont tested. His willow tree grew huge, but the soil in the pot hardly changed.
 10. (mcq) In the Milk to Curd test, why do we keep everything the same except one thing?  
-   Options: So we know which change made the difference / Because it looks neater / To use less milk  
+   Options: Because it looks neater / To use less milk / So we know which change made the difference  
    **Answer:** So we know which change made the difference. *Why:* If only one thing changes, that one thing must have caused the difference. That is a fair test. Picking 'looks neater' misses the reason. A test can be messy and still fair, or neat and still unfair.
 11. (mcq) Look at the bar chart from Sprouting Moong. Which plate had more sprouted seeds?  
    Options: The wet cloth / The dry cloth / They were the same  
    **Answer:** The wet cloth. *Why:* The wet cloth's bar is much taller: 18 seeds sprouted, and none on the dry cloth. Seeds need water to sprout. Picking 'the same' might mean the chart was not read. The dry bar is at zero.
 12. (mcq) Old Indian books named six tastes, or rasas. Which one of these is in that list?  
-   Options: Astringent, the dry puckery feel of raw banana / Crunchy / Cold / Colourful  
+   Options: Crunchy / Cold / Astringent, the dry puckery feel of raw banana / Colourful  
    **Answer:** Astringent, the dry puckery feel of raw banana. *Why:* The six rasas are sweet, sour, salty, pungent, bitter and astringent. Astringent is the dry feeling from raw banana or strong tea. Crunchy and cold are about texture and temperature, not taste.
 13. (mcq) Why do many families eat watery foods like watermelon and buttermilk in summer?  
    Options: They help replace the water we lose in sweat / They are only sold in summer by law / They make us sweat more  
@@ -819,16 +819,16 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
    Options: Ask what it is called and what goes into it / Say it smells strange / Tell her to eat what you eat  
    **Answer:** Ask what it is called and what goes into it. *Why:* Families eat differently because of the place they live, the season and their own traditions. Asking shows respect and teaches you something new. Saying it smells strange or telling her to change would hurt her, and no family's food is wrong.
 15. (mcq) A winter plate has gajar halwa and a hot soup. A summer plate has cucumber and buttermilk. What is the main difference in what each plate does for us?  
-   Options: The summer plate gives back water we sweat out, and the winter plate gives lots of energy / The summer plate gives energy, and the winter plate gives water / There is no difference, because all food does the same thing  
+   Options: The summer plate gives energy, and the winter plate gives water / There is no difference, because all food does the same thing / The summer plate gives back water we sweat out, and the winter plate gives lots of energy  
    **Answer:** The summer plate gives back water we sweat out, and the winter plate gives lots of energy. *Why:* Cucumber and buttermilk are very watery, so they replace the water we lose in sweat. Gajar halwa and soup are warm and rich, so they give energy in the cold. The other answers swap the two jobs or ignore them.
 16. (mcq) Rajasthan is dry and gets little rain. Bengal has many rivers and plenty of rain. Why do many families in Rajasthan eat bajra and jowar, while many in Bengal eat rice?  
    Options: They eat what grows well in the place where they live / Rice is not allowed in Rajasthan / Bajra and jowar need more water than rice  
    **Answer:** They eat what grows well in the place where they live. *Why:* Rice needs a lot of water, so it grows well in rainy, river-rich Bengal. Bajra and jowar manage with little water, so they grow well in dry Rajasthan. Picking 'bajra and jowar need more water' turns it upside down.
 17. (mcq) Deep in the sea there is no sunlight at all. Yet whole groups of animals live around hot vents there. What could their food chain start with?  
-   Options: Microbes that make food from chemicals in the hot water / Plants growing in the dark / Nothing: the animals need no food  
+   Options: Plants growing in the dark / Microbes that make food from chemicals in the hot water / Nothing: the animals need no food  
    **Answer:** Microbes that make food from chemicals in the hot water. *Why:* At the vents, microbes make food from chemicals in the hot water, and the animals depend on them. Before scientists found this in 1977, most thought every animal community depended on sunlight. Plants cannot grow without light.
 18. (mcq) Why do seed banks, like the one in Svalbard in Norway, keep seeds very dry and very cold?  
-   Options: So the baby plants stay dormant and alive for many years / To make the seeds taste better / To kill the seeds  
+   Options: To make the seeds taste better / So the baby plants stay dormant and alive for many years / To kill the seeds  
    **Answer:** So the baby plants stay dormant and alive for many years. *Why:* Water and warmth start a seed growing. Kept dry and cold, the baby plant inside stays dormant and alive for a very long time. Picking 'to kill the seeds' is the opposite of the plan. A dead seed can never be grown again.
 
 ## Applications

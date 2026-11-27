@@ -610,19 +610,19 @@ Malar pulled until the light turned orange. Somewhere after the two hundredth pu
 ## Worksheets
 ### Lungs, gills and hearts (core) (core, 18 questions)
 1. (mcq) Where does oxygen pass from the air into your blood?  
-   Options: In the alveoli / In the trachea / In the heart / In the nose  
+   Options: In the trachea / In the heart / In the nose / In the alveoli  
    **Answer:** In the alveoli. *Why:* The alveoli are the tiny air sacs at the ends of the airways. Their walls are thin enough for oxygen to diffuse through. The trachea and nose only carry the air.
 2. (mcq) What happens to the air in your lungs during one quiet breath?  
-   Options: All of it is changed / Part of it is changed / None of it is changed / It turns into water  
+   Options: Part of it is changed / All of it is changed / None of it is changed / It turns into water  
    **Answer:** Part of it is changed. *Why:* A quiet breath brings in a small amount of new air, which mixes with the air that stayed in the lungs. If you chose 'all of it', remember that the lungs never empty.
 3. (mcq) Why do gills stop working in air?  
-   Options: Air has no oxygen / Air is too cold / The wet plates cling together / Air is too light to pump  
+   Options: The wet plates cling together / Air has no oxygen / Air is too cold / Air is too light to pump  
    **Answer:** The wet plates cling together. *Why:* In water each thin plate floats free. In air the wet plates stick to each other, and most of the surface is lost. Air has plenty of oxygen.
 4. (mcq) How many chambers does a fish's heart have?  
-   Options: One / Two / Three / Four  
+   Options: One / Three / Two / Four  
    **Answer:** Two. *Why:* A fish's heart has one atrium and one ventricle. It pumps blood to the gills, and the blood goes straight on to the body.
 5. (mcq) Which of these animals has an open circulatory system?  
-   Options: Earthworm / Rohu fish / Crow / Grasshopper  
+   Options: Earthworm / Grasshopper / Rohu fish / Crow  
    **Answer:** Grasshopper. *Why:* A grasshopper's tube heart pumps haemolymph into the spaces of the body. The earthworm, the fish and the crow keep their blood inside vessels.
 6. (truefalse) After you breathe out as hard as you can, your lungs are empty.  
    **Answer:** False. *Why:* False. About a litre of air stays in an adult's lungs even after the hardest breath out. It is called residual air.
@@ -652,10 +652,10 @@ Malar pulled until the light turned orange. Somewhere after the two hundredth pu
    **Answer:** One loop with arrows: heart, then gills, then body, then back to the heart. The blood is low in oxygen from the body to the gills, and rich in oxygen from the gills to the body.. *Why:* A strong drawing has a single loop, with the gills between the heart and the body. The blood passes through the heart once on each trip.
 ### Pressure, direction and leaks (stretch) (stretch, 18 questions)
 1. (mcq) About how much of the air deep in an adult's lungs does one quiet breath change?  
-   Options: About one seventh / About one half / All of it / None of it  
+   Options: About one half / About one seventh / All of it / None of it  
    **Answer:** About one seventh. *Why:* About 350 millilitres of new air reaches the alveoli and mixes with roughly 2 litres already there. That is about one part in seven.
 2. (mcq) In a gill, why does blood flow against the water and not with it?  
-   Options: To cool the blood / To slow the water down / So oxygen keeps crossing all along / To stop the gill leaking  
+   Options: To cool the blood / So oxygen keeps crossing all along / To slow the water down / To stop the gill leaking  
    **Answer:** So oxygen keeps crossing all along. *Why:* Flowing against the water, the blood always meets water with a little more oxygen than the blood has. So oxygen crosses along the whole length.
 3. (mcq) Which side of your heart pushes harder, and where does it send blood?  
    Options: The right, to the lungs / The left, to the body / Both push the same / The right, to the body  
@@ -664,7 +664,7 @@ Malar pulled until the light turned orange. Somewhere after the two hundredth pu
    Options: Red blood cells / Gills / The stomach / Air tubes  
    **Answer:** Air tubes. *Why:* Tracheae carry air from the spiracles right to the cells. The haemolymph of a grasshopper carries almost no oxygen.
 5. (mcq) What happens to the watery liquid that leaks out of your capillaries?  
-   Options: Lymph vessels return it to the blood / It is all lost as sweat / It collects in the feet for good / It turns into red blood cells  
+   Options: It is all lost as sweat / It collects in the feet for good / It turns into red blood cells / Lymph vessels return it to the blood  
    **Answer:** Lymph vessels return it to the blood. *Why:* Most of the liquid goes back into the capillaries. The rest, about 3 litres a day in an adult, is collected by lymph vessels and returned near the heart.
 6. (truefalse) Air flows one way through a bird's lungs, on the breath in and on the breath out.  
    **Answer:** True. *Why:* True. Air sacs work as bellows and push air through the stiff lungs in the same direction in both halves of the breath.
@@ -695,19 +695,19 @@ Malar pulled until the light turned orange. Somewhere after the two hundredth pu
    **Answer:** ['larynx']. *Why:* Air passes through the larynx on the way to the trachea, and the vocal cords inside it make sound.
 ### Mixtures, models and other bodies (challenge) (challenge, 17 questions)
 1. (mcq) Lungs that mix old air with new waste part of each breath. What do they gain?  
-   Options: A steady mixture for the blood / More oxygen than a gill takes / Blue blood / A faster heartbeat  
+   Options: More oxygen than a gill takes / Blue blood / A faster heartbeat / A steady mixture for the blood  
    **Answer:** A steady mixture for the blood. *Why:* Because each breath changes only a little of the air, the oxygen and carbon dioxide next to the blood stay almost steady from breath to breath.
 2. (mcq) What helps an icefish live with no haemoglobin?  
-   Options: Icefish need no oxygen / Their gills work as lungs / Very cold water holds more oxygen / They breathe through ice  
+   Options: Icefish need no oxygen / Their gills work as lungs / They breathe through ice / Very cold water holds more oxygen  
    **Answer:** Very cold water holds more oxygen. *Why:* Cold water holds more dissolved oxygen, and a cold body uses less. An icefish also has a large heart that moves a great deal of blood.
 3. (mcq) An animal has air tubes that reach every cell. What might the blood not need to carry?  
-   Options: Food / Oxygen / Waste / Hormones  
+   Options: Food / Waste / Oxygen / Hormones  
    **Answer:** Oxygen. *Why:* If air is piped straight to the cells, the blood is not needed for oxygen. It still has to carry food, waste and hormones.
 4. (mcq) In the Squirt Test, what stood for the capillaries of a gill?  
    Options: The squeeze bottle / The chalk line / The tumbler / The cotton-wool plug  
    **Answer:** The cotton-wool plug. *Why:* Water had to push through thousands of tiny gaps in the cotton wool, as blood pushes through tiny capillaries. The bottle stood for the ventricle.
 5. (mcq) Oxygen pressure is higher in lung air than in the blood arriving. Which way does oxygen diffuse?  
-   Options: From air to blood / From blood to air / Both ways equally / It does not move  
+   Options: From blood to air / Both ways equally / It does not move / From air to blood  
    **Answer:** From air to blood. *Why:* Diffusion goes from where there is more to where there is less. No pumping is needed. Carbon dioxide diffuses the other way for the same reason.
 6. (truefalse) In an open circulatory system, the blood and the liquid round the cells are one liquid.  
    **Answer:** True. *Why:* True. The liquid is called haemolymph. It leaves the vessels and washes over the organs directly.
@@ -748,34 +748,34 @@ Malar pulled until the light turned orange. Somewhere after the two hundredth pu
    Options: The nose is too narrow / Some air always stays in the lungs / The heart is in the way / Air is too heavy  
    **Answer:** Some air always stays in the lungs. *Why:* The chest cannot squeeze the lungs flat. About a litre stays in an adult's lungs after the hardest breath out.
 3. (mcq) A tumbler loses half its dark water with each 'breath'. When is all the first water gone?  
-   Options: After 1 breath / After 2 breaths / After 3 breaths / Never completely  
+   Options: After 1 breath / After 2 breaths / Never completely / After 3 breaths  
    **Answer:** Never completely. *Why:* Each breath leaves half of what was there: a half, a quarter, an eighth, and so on. The amount gets too small to see, but halving never reaches zero.
 4. (mcq) What holds the thin plates of a gill apart?  
-   Options: Small bones / The water between them / Air bubbles / A muscle in each plate  
+   Options: Small bones / Air bubbles / A muscle in each plate / The water between them  
    **Answer:** The water between them. *Why:* The plates float free in water. This is why they cling together when a fish is lifted into air.
 5. (mcq) Blood and water flow the same way past each other. How much oxygen can the blood collect at most?  
    Options: About half / Almost all / None / About a tenth  
    **Answer:** About half. *Why:* Oxygen crosses until blood and water hold equal amounts, and then it stops. Flowing opposite ways, the blood can collect far more.
 6. (mcq) In which animal does blood go from the breathing organ straight on to the body?  
-   Options: A crow / A human / A fish / A crocodile  
+   Options: A crow / A human / A crocodile / A fish  
    **Answer:** A fish. *Why:* A fish has single circulation. Blood leaves the gills and goes on to the body without returning to the heart first.
 7. (mcq) Why does your right ventricle push more gently than your left?  
-   Options: It is a tired muscle / Lungs need very little blood / It rests on every second beat / Lung capillaries have very thin walls  
+   Options: Lung capillaries have very thin walls / It is a tired muscle / Lungs need very little blood / It rests on every second beat  
    **Answer:** Lung capillaries have very thin walls. *Why:* The walls between air and blood in the lungs are extremely thin, so the blood there is kept at low pressure. All of the blood still passes through the lungs.
 8. (mcq) Where does the haemolymph of a grasshopper flow?  
-   Options: Inside capillaries / Through the body spaces, round the organs / Only in the wings / Inside the air tubes  
+   Options: Inside capillaries / Only in the wings / Inside the air tubes / Through the body spaces, round the organs  
    **Answer:** Through the body spaces, round the organs. *Why:* A grasshopper has an open circulatory system. The tube heart pumps haemolymph out into the spaces of the body.
 9. (mcq) What shares the work of breathing with a frog's lungs?  
-   Options: Thin, wet skin / A diaphragm / Air sacs / Spiracles  
+   Options: A diaphragm / Air sacs / Thin, wet skin / Spiracles  
    **Answer:** Thin, wet skin. *Why:* A frog's skin is thin, wet and full of capillaries, and a large share of the oxygen crosses there. Frogs have no diaphragm.
 10. (mcq) What do a bird's air sacs do?  
-   Options: Store food for long flights / Take up most of the oxygen / Push air one way through the lungs / Pump blood to the wings  
+   Options: Push air one way through the lungs / Store food for long flights / Take up most of the oxygen / Pump blood to the wings  
    **Answer:** Push air one way through the lungs. *Why:* The air sacs are bellows. Oxygen is taken up in the stiff lungs, and the sacs keep air moving through them in one direction.
 11. (mcq) In the Squirt Test, what gave the water its push back after the cotton wool?  
-   Options: A thicker plug / A second squeeze / More water / A longer nozzle  
+   Options: A thicker plug / More water / A second squeeze / A longer nozzle  
    **Answer:** A second squeeze. *Why:* The water lost its push in the plug. Only a second squeeze sent it far again. In your body, the left ventricle gives that second push.
 12. (mcq) A doctor says: 'This vessel has thin walls and valves, and it carries blood back to the heart.' What is it?  
-   Options: An artery / A vein / The aorta  
+   Options: An artery / The aorta / A vein  
    **Answer:** A vein. *Why:* Veins carry blood back to the heart, and their valves stop it flowing backwards. Arteries, such as the aorta, carry blood away from the heart.
 13. (mcq) Which is the biggest artery, leaving the left ventricle?  
    Options: The aorta / The venae cavae / The trachea  

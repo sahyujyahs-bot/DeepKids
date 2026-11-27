@@ -1127,11 +1127,11 @@
       "t": "mcq",
       "q": "Why must all five planes be folded the same way?",
       "options": [
-       "So only the bends change",
        "So they look neat",
+       "So only the bends change",
        "So they fit in a row"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. If the planes were different, you would not know whether the bends or the folds caused the difference."
      },
      "context": "In this step, you fold five identical planes."
@@ -1173,11 +1173,11 @@
       "t": "mcq",
       "q": "Plane 4 has its left back edge up and its right back edge down. Which way will it most likely turn?",
       "options": [
-       "To the left",
        "To the right",
-       "It will fly straight"
+       "It will fly straight",
+       "To the left"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flap bent up makes its wing lift less, so that wing drops. The left wing goes down, the plane banks left and turns left. A plane turns towards the wing with the flap up."
      },
      "context": "In this step, you bend the wings in four different ways and see how each one steers."
@@ -1290,11 +1290,11 @@
       "t": "mcq",
       "q": "The open cup is blown further than the rounded back of the same cup. What does this show?",
       "options": [
-       "Shape changes how hard the air pushes",
        "The cup got heavier",
+       "Shape changes how hard the air pushes",
        "The fan blew harder on one side"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The card, the fan and the distance were the same. Only the shape was turned round. So the shape made the difference in drag. This is why cup anemometers spin."
      },
      "context": "In this step, you test the card in four ways and read the ruler."
@@ -1513,11 +1513,11 @@
       "t": "mcq",
       "q": "The card stopped, but the smoke kept curling. What does that show?",
       "options": [
-       "The moving air carried on after the card stopped",
        "The card was still pushing the smoke",
+       "The moving air carried on after the card stopped",
        "The smoke moves by itself"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The card pushed the air, and the air carried the motion on to the smoke after the card had stopped. A moving thing leaves moving air behind it."
      },
      "context": "In this step, you swish the card and watch what happens to the smoke."
@@ -1628,11 +1628,11 @@
       "t": "mcq",
       "q": "Why does the card balance at the point where the two lines cross?",
       "options": [
-       "The weight is the same all round that point",
        "The pencil pushes up harder there",
-       "The card is thinner there"
+       "The card is thinner there",
+       "The weight is the same all round that point"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The balance point is the one spot where the weight on every side is equal, so the card does not tip. It lies on every hanging line, so it is where the lines cross."
      },
      "context": "In this step, you hang the card from two holes and find the balance point."
@@ -1837,11 +1837,11 @@
       "t": "mcq",
       "q": "A rider cycles close behind another rider in the wind. Why does she find it easier?",
       "options": [
-       "She is in the calmer air behind the first rider",
        "The first rider pulls her forward with a rope",
-       "The wind stops blowing on her"
+       "The wind stops blowing on her",
+       "She is in the calmer air behind the first rider"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Just as the ribbon hung still behind the book, the air is calmer behind the front rider. The rider behind feels less push from the air."
      },
      "context": "In this step, you move the ribbon back behind the book and write what it does."
@@ -1937,11 +1937,11 @@
       "t": "mcq",
       "q": "A pigeon spreads her tail wide as she lands. Why?",
       "options": [
-       "The wide tail adds drag and slows her down",
        "She wants to look bigger",
-       "She has to push the air up"
+       "She has to push the air up",
+       "The wide tail adds drag and slows her down"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A wide tail catches more air, so the drag is bigger and it slows her down. Birds also tilt the tail to steer, in the same way as the flaps on a plane."
      },
      "context": "In this step, you watch the birds and make marks."
@@ -2065,11 +2065,11 @@
       "t": "mcq",
       "q": "Why is it better to throw the hoop glider gently than hard?",
       "options": [
-       "A hard throw makes drag very large and the glider tumbles",
        "A hard throw makes it too heavy",
-       "A gentle throw makes the air thicker"
+       "A gentle throw makes the air thicker",
+       "A hard throw makes drag very large and the glider tumbles"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Drag grows very quickly with speed. A hard throw makes the drag very large, and a light glider is thrown off course. A gentle, level throw lets the glider find its steady glide."
      },
      "context": "In this step, you throw the glider and measure how far it flies."
@@ -2197,11 +2197,11 @@
       "t": "mcq",
       "q": "Why must all four cups face the same way round?",
       "options": [
-       "So the wind pushes harder on the open sides than on the backs, and the cups keep turning",
        "So the cups look neat",
+       "So the wind pushes harder on the open sides than on the backs, and the cups keep turning",
        "So the cups weigh the same"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The open side of a cup has more drag than its rounded back. If all cups face the same way, the push is bigger on one side, and this difference keeps the meter turning. If they faced different ways, the pushes would cancel."
      },
      "context": "In this step, you build the cup wind meter."
@@ -2417,11 +2417,11 @@
      "t": "mcq",
      "p": "Which sentence says what drag is?",
      "opts": [
-      "The push of air against a thing moving through it",
       "The pull of the Earth on a falling thing",
-      "The push that makes a plane go forward"
+      "The push that makes a plane go forward",
+      "The push of air against a thing moving through it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Drag is the air pushing back against anything that moves through it. The pull of the Earth is weight, and the push forward is thrust.",
      "outcome": 0
     },
@@ -2528,11 +2528,11 @@
      "t": "mcq",
      "p": "A big raindrop stops speeding up as it falls. What does this tell you?",
      "opts": [
-      "The drag has grown as big as its weight",
       "Gravity has stopped pulling it",
+      "The drag has grown as big as its weight",
       "The cloud stopped pushing it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "When drag equals weight, the forces are balanced and the drop falls at a steady speed. Gravity is still pulling it.",
      "outcome": 1
     },
@@ -2581,11 +2581,11 @@
      "t": "mcq",
      "p": "A badminton shuttlecock is hit sideways. Why does it end up flying cork-first?",
      "opts": [
-      "The feathers have more drag and trail behind the heavy cork",
       "The cork pulls it towards the ground",
+      "The feathers have more drag and trail behind the heavy cork",
       "The feathers are heavier than the cork"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The feathers catch much more air than the cork, so the drag swings them behind. This steadies the shuttlecock.",
      "outcome": 3
     },
@@ -2631,11 +2631,11 @@
      "t": "mcq",
      "p": "Why does a heavier parachute fall faster than a lighter one with the same canopy?",
      "opts": [
-      "It needs more drag to balance its weight, so it must go faster",
       "Gravity pulls harder on heavy things in a different way",
+      "It needs more drag to balance its weight, so it must go faster",
       "A heavier parachute has a smaller canopy"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Drag grows with speed. A heavier load needs more drag to balance it, and the drag grows big enough only at a higher speed.",
      "outcome": 1
     },
@@ -2760,11 +2760,11 @@
      "t": "mcq",
      "p": "A jet lands at a much lower speed than it cruises. Why does it need to go faster when it flies high?",
      "opts": [
-      "The thin air gives less lift, so the wings must move faster",
       "The engines are stronger at height",
-      "Gravity is stronger at height"
+      "Gravity is stronger at height",
+      "The thin air gives less lift, so the wings must move faster"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Lift depends on how much air the wings push down. Thin air gives less lift at the same speed, so the plane must go faster to make enough.",
      "outcome": 6
     },
@@ -2809,11 +2809,11 @@
      "t": "mcq",
      "p": "On an anemometer, all the cups face the same way round. Why does it spin?",
      "opts": [
-      "The wind pushes harder on the open sides than on the rounded backs",
       "The cups are heavier on one side",
-      "The wind blows only on one cup"
+      "The wind blows only on one cup",
+      "The wind pushes harder on the open sides than on the rounded backs"
      ],
-     "a": 0,
+     "a": 2,
      "why": "An open cup has more drag than its rounded back. The difference in push keeps the anemometer turning.",
      "outcome": 0
     },
@@ -2848,11 +2848,11 @@
      "t": "mcq",
      "p": "In a test, parachute A (a small canopy and 1 coin) fell in 1.4 seconds. Parachute B (a big canopy and 1 coin) took 2.7 seconds. Parachute C (the big canopy and 4 coins) took 1.5 seconds. Which sentence do the results support?",
      "opts": [
-      "Canopy size changes the fall, and so does the load",
       "Only the load changes the fall",
+      "Canopy size changes the fall, and so does the load",
       "Only the canopy size changes the fall"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A and B differ only in canopy size, and the times differ. B and C differ only in load, and the times differ. So both matter.",
      "outcome": 2
     },
@@ -3021,11 +3021,11 @@
      "t": "mcq",
      "p": "Why can a plane not fly at 150 kilometres above the Earth?",
      "opts": [
-      "There is not enough air for the wings to push down",
       "The Sun is too hot",
+      "There is not enough air for the wings to push down",
       "Gravity stops at that height"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Wings make lift by pushing air down. At 150 kilometres there is almost no air, so wings do nothing.",
      "outcome": 6
     },
@@ -3052,11 +3052,11 @@
    "t": "mcq",
    "p": "Which of these makes the drag on a moving thing bigger?",
    "opts": [
-    "Going faster",
     "Turning off the engine",
-    "Making the front more rounded"
+    "Making the front more rounded",
+    "Going faster"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Drag grows quickly with speed. A rounded, smooth front reduces drag, and turning off the engine does not change the push of the air.",
    "outcome": 0
   },
@@ -3064,11 +3064,11 @@
    "t": "mcq",
    "p": "A car goes from 30 kilometres an hour to 60. About how much does the air drag change?",
    "opts": [
-    "It becomes about 4 times bigger",
     "It stays the same",
-    "It doubles"
+    "It doubles",
+    "It becomes about 4 times bigger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Twice the speed means about four times the drag, because there is twice as much air each second, hit twice as hard.",
    "outcome": 0
   },
@@ -3112,11 +3112,11 @@
    "t": "mcq",
    "p": "A paper plane keeps climbing steeply, stalls, and falls. What is a good fix?",
    "opts": [
-    "Bend the back edges of the wings down a little",
     "Bend the back edges of the wings up",
+    "Bend the back edges of the wings down a little",
     "Fold the nose upwards"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The nose is rising too much. Bending the back edges down pushes the back of the wings up, which pushes the nose down.",
    "outcome": 3
   },
@@ -3124,11 +3124,11 @@
    "t": "mcq",
    "p": "An arrow has feathers at its back. What is the job of the feathers?",
    "opts": [
-    "They add drag at the back, which keeps the point forward",
     "They make the arrow heavier",
+    "They add drag at the back, which keeps the point forward",
     "They make the arrow spin"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Feathers add drag at the back, so if the arrow turns sideways the air pushes it back in line, like a shuttlecock's feathers.",
    "outcome": 3
   },
@@ -3136,11 +3136,11 @@
    "t": "mcq",
    "p": "A pilot wants to roll a plane to the right. What does the pilot do with the ailerons?",
    "opts": [
-    "Raises the right aileron and lowers the left",
     "Raises both ailerons",
-    "Turns the rudder"
+    "Turns the rudder",
+    "Raises the right aileron and lowers the left"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wing with its aileron up lifts less and goes down. Raising the right aileron lowers the right wing, so the plane rolls right.",
    "outcome": 4
   },
@@ -3148,11 +3148,11 @@
    "t": "mcq",
    "p": "How does a plane go round a bend in the sky?",
    "opts": [
-    "It banks, and the tilted lift pulls it round",
     "It points its rudder like a boat",
-    "It stops its engine"
+    "It stops its engine",
+    "It banks, and the tilted lift pulls it round"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A plane tilts its wings, and part of the lift then pulls it sideways, round a curve. A cyclist leans in the same way.",
    "outcome": 4
   },
@@ -3160,11 +3160,11 @@
    "t": "mcq",
    "p": "A bird flies a little behind and to the side of another bird in a V. What helps her?",
    "opts": [
-    "The rising air from the wing tip of the bird in front",
     "The bird in front pulling her",
-    "The wind from behind"
+    "The wind from behind",
+    "The rising air from the wing tip of the bird in front"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The front bird leaves air rising just outside her wing tip. The bird behind can catch that air and save energy.",
    "outcome": 5
   },
@@ -3172,11 +3172,11 @@
    "t": "mcq",
    "p": "Why can a small insect fall from a table and be unhurt?",
    "opts": [
-    "She has a lot of skin for her weight, so air slows her fall",
     "Gravity is weaker for small things",
-    "Insects have very strong bones"
+    "Insects have very strong bones",
+    "She has a lot of skin for her weight, so air slows her fall"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A small body has more skin for each bit of weight than a big one. The air slows her fall so much that she lands gently.",
    "outcome": 6
   },

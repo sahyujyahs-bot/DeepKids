@@ -654,14 +654,14 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Worksheets
 ### Machine Detective (core) (core, 16 questions)
 1. (mcq) Many people think a machine must have a motor. Which of these is a machine with no motor?  
-   Options: A spoon used to prise the lid off a tin / A pebble lying on the ground / A puddle of water / A cloud  
+   Options: A pebble lying on the ground / A spoon used to prise the lid off a tin / A puddle of water / A cloud  
    **Answer:** A spoon used to prise the lid off a tin. *Why:* A simple machine is a tool with few parts that makes a push or a pull easier. The spoon is a lever, so it is a machine. Machines with motors are only one kind. A see-saw, a ramp and a spoon have no motor at all.
 2. (fill) A see-saw turns on the post in its middle. The point a lever turns on is called the ____.  
    **Answer:** ['fulcrum', 'pivot']. *Why:* The fulcrum, also called the pivot, is where a lever turns. On scissors it is the screw in the middle, and on a door it is the hinges.
 3. (match) A spoon is used to lift the lid off a tin of ghee. Match each part to its name.  
    **Answer:** the rim of the tin, where the spoon rests and turns → fulcrum; the tight lid → load; your hand pressing down on the handle → effort. *Why:* The fulcrum is where the lever turns. The load is what you want to move. The effort is your push. Mixing up the load and the effort is the most common slip.
 4. (mcq) A light child and her heavy uncle get on a see-saw. Where should the uncle sit, so that they balance?  
-   Options: At the very end / Closer to the middle / On the child's side / Nowhere. They can never balance  
+   Options: Closer to the middle / At the very end / On the child's side / Nowhere. They can never balance  
    **Answer:** Closer to the middle. *Why:* Weight close to the fulcrum turns the plank less. So the heavy uncle moves in towards the middle, and the child stays far out. Picking 'never balance' means only weight was counted. Distance matters too.
 5. (truefalse) On a see-saw, the heavier person always goes down, wherever they sit.  
    **Answer:** False. *Why:* False. Distance from the fulcrum matters as much as weight. A heavy person close to the middle can be lifted by a light person far out.
@@ -675,15 +675,15 @@ That night, under the stars, the whole village ate together round the fires of U
 9. (write) In the ramp test, you pulled a loaded toy truck up to the same height on different ramps. Before you started, which ramp did you guess would stretch the rubber band least? Why? What did the test show?  
    **Answer:** For example: I guessed the long gentle ramp, because a slope you can walk up easily feels less hard. The test showed the long ramp stretched the band least, and lifting straight up stretched it most.. *Why:* A strong answer gives the guess, the reason, and the real result, and says whether the guess was right.
 10. (mcq) A girl needs to move a heavy box of books across the floor. Which way is easiest?  
-   Options: Rolling it on round pencils / Dragging it along the floor / Lifting and carrying it  
+   Options: Dragging it along the floor / Lifting and carrying it / Rolling it on round pencils  
    **Answer:** Rolling it on round pencils. *Why:* Rollers touch the floor at only a few thin lines, so there is much less rubbing, called friction. Picking 'dragging' means only the box's weight was counted. How it touches the floor matters too.
 11. (fill) A doorknob is a big wheel fixed to a thin rod. This simple machine is called a wheel and ____.  
    **Answer:** ['axle']. *Why:* A wheel and axle turns a small push on the big wheel into a strong twist on the thin rod, called the axle.
 12. (mcq) In the door test, where was it easiest to push the door open?  
-   Options: Far from the hinges, near the handle / Right next to the hinges / It was the same everywhere  
+   Options: Right next to the hinges / It was the same everywhere / Far from the hinges, near the handle  
    **Answer:** Far from the hinges, near the handle. *Why:* The hinges are where the door turns, like the fulcrum of a lever. A push far from the hinges turns the door much more. Picking 'the same everywhere' is common, because the door weighs the same wherever you push.
 13. (mcq) When you lift a cup of water, your forearm is a lever. Where is its fulcrum?  
-   Options: Your elbow / Your hand / Your fingers / Your shoulder  
+   Options: Your hand / Your fingers / Your elbow / Your shoulder  
    **Answer:** Your elbow. *Why:* Your forearm turns at the elbow, so the elbow is the fulcrum. Picking 'your hand' mixes up where the load is held with where the arm turns.
 14. (write) Name three levers you can find in your home. For each one, say where its fulcrum is.  
    **Answer:** For example: scissors, fulcrum at the screw in the middle. A spoon opening a tin, fulcrum at the rim. A door, fulcrum at the hinges.. *Why:* Any three real levers with the right fulcrum are correct.
@@ -693,17 +693,17 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The grown-up sits close to the middle. The child sits near the far end. The fulcrum is the post in the middle, marked with a triangle.. *Why:* A strong drawing puts the heavy person nearer the fulcrum and the light person further away, and keeps the plank level.
 ### Levers, Ramps and Wheels at Work (stretch) (stretch, 16 questions)
 1. (mcq) Five coins sit 2 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?  
-   Options: 2 cm from the pencil / 4 cm from the pencil / 5 cm from the pencil / 10 cm from the pencil  
+   Options: 2 cm from the pencil / 5 cm from the pencil / 4 cm from the pencil / 10 cm from the pencil  
    **Answer:** 5 cm from the pencil. *Why:* 5 coins times 2 cm is 10. 2 coins times 5 cm is also 10. So the 2 coins go 5 cm away. Picking 2 cm matches the place but forgets the weight. Picking 10 cm uses the total instead of sharing it between the 2 coins.
 2. (fill) 4 coins sit on peg 1. To balance them with coins on peg 2, you need ____ coins.  
    **Answer:** ['2', 'two']. *Why:* 4 times 1 is 4. 2 times 2 is also 4. So 2 coins on peg 2 balance 4 coins on peg 1.
 3. (mcq) Kitchen tongs (a chimta in Hindi, an idukki in Tamil) are held in the middle. They make your squeeze weaker at the tips. So why do cooks use them?  
-   Options: They are cheaper / The tips move further than your fingers, and keep your hand away from the heat / They make your push stronger / They are not a lever  
+   Options: They are cheaper / They make your push stronger / They are not a lever / The tips move further than your fingers, and keep your hand away from the heat  
    **Answer:** The tips move further than your fingers, and keep your hand away from the heat. *Why:* In tongs, the effort is in the middle, so they trade strength for distance. The tips open wide, and your fingers stay away from the hot pan. Picking 'stronger' is very common, because we expect every lever to make pushes bigger. Some levers are for distance and speed instead.
 4. (sort) Sort these levers by what is in the middle.  
    **Answer:** see-saw → Fulcrum in the middle; scissors → Fulcrum in the middle; nutcracker → Load in the middle; wheelbarrow → Load in the middle; chimta tongs → Effort in the middle; broom → Effort in the middle. *Why:* Scissors and see-saws turn in the middle. In a nutcracker and a wheelbarrow, the load sits between the fulcrum and your hands. In tongs and a broom, your push is in the middle.
 5. (mcq) A wheelbarrow has its wheel at the front, the bricks in the middle and your hands at the back. You slide the bricks closer to the wheel. What happens to the lift your hands need?  
-   Options: It gets smaller / It gets bigger / It stays the same  
+   Options: It gets bigger / It gets smaller / It stays the same  
    **Answer:** It gets smaller. *Why:* The wheel is the fulcrum. A load closer to the fulcrum turns the barrow less, so your hands lift with a smaller force. Picking 'stays the same' forgets that distance from the fulcrum matters, as it did on the see-saw.
 6. (mcq) Look at the chart. Lifting a bag straight up 1 metre takes 12 newtons. Up a 3-metre ramp, about how much push does it take, with no friction?  
    Options: 36 newtons / 12 newtons / 4 newtons / 3 newtons  
@@ -713,7 +713,7 @@ That night, under the stars, the whole village ate together round the fires of U
 8. (truefalse) The brake handle on a bicycle is a lever.  
    **Answer:** True. *Why:* True. The brake handle turns on a small fulcrum. A gentle squeeze of your fingers far from the fulcrum becomes a strong pull on the brake cable close to it.
 9. (mcq) A hand pump has a long handle. The rod inside moves only a short way when the handle goes down. Suppose the handle were half as long. What would change?  
-   Options: You would need a bigger push / You would need a smaller push / Nothing would change  
+   Options: You would need a smaller push / You would need a bigger push / Nothing would change  
    **Answer:** You would need a bigger push. *Why:* Your hand would be closer to the fulcrum, so it turns the handle less. You would need a bigger push for the same lift. A long handle trades a small push for a long way.
 10. (match) Each of these is really a simple machine. Match each one to the machine it is.  
    **Answer:** A knife → wedge; A jar lid → screw; A doorknob → wheel and axle; A slide → ramp. *Why:* A knife is two ramps back to back, a wedge. A jar lid is a ramp wrapped round, a screw. A doorknob is a wheel and axle.
@@ -722,7 +722,7 @@ That night, under the stars, the whole village ate together round the fires of U
 12. (perspective) Your biceps muscle pulls close to the elbow, so it has to pull several times as hard as the load in your hand. A girl in Class 4 and a physiotherapist disagree about this.  
    **Answer:** Both see a real trade. The girl is right that a muscle joined further out would need less force. The physiotherapist is right that, as it is, a tiny shortening of the muscle makes a big, fast swing of the hand. A muscle near the hand would also make a thick, clumsy wrist. A strong answer says what is gained and what is lost.. *Why:* A strong answer names the trade between strength and speed, uses the body levers activity as evidence, and answers back fairly.
 13. (mcq) Mountain roads up the ghats zigzag instead of going straight up. Why?  
-   Options: To make the view better / A longer, gentler road needs a smaller push from the engine / Because straight roads are not allowed / To make the trip shorter  
+   Options: A longer, gentler road needs a smaller push from the engine / To make the view better / Because straight roads are not allowed / To make the trip shorter  
    **Answer:** A longer, gentler road needs a smaller push from the engine. *Why:* A zigzag road is a long ramp. It is longer, but gentler, so trucks and buses can climb with less push. Picking 'shorter' is the opposite. Zigzags make the trip longer.
 14. (forces) A ruler lever lifts a book. You press down on the far end. The pencil is the fulcrum. Show the forces on the ruler with arrows.  
    Options: your push / book pushes down / pencil pushes up / friction  
@@ -733,27 +733,27 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The effort is your squeeze on the handle. The fulcrum is the pivot where the handle joins the bar. The handle makes the small squeeze into a bigger pull on the brake cable.. *Why:* A strong answer names the effort at the hand, the fulcrum at the pivot, and says the lever makes the pull stronger, using the same lever rule as the see-saw.
 ### Balance Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Predict: 2 coins sit on left peg 2, and 3 coins sit on right peg 1. What will the see-saw do?  
-   Options: Tips left / Tips right / Balances  
+   Options: Tips right / Balances / Tips left  
    **Answer:** Tips left. *Why:* 2 times 2 is 4. 3 times 1 is 3. The left side makes more turning, so it tips left. Picking 'tips right' means counting coins and forgetting distance.
 2. (fill) A packet of salt on peg 3 balances 6 coins on peg 1. The packet weighs the same as ____ coins.  
    **Answer:** ['2', 'two']. *Why:* 6 coins times 1 is 6. The packet times 3 must also be 6. So the packet weighs 2 coins. This is how you weigh an unknown thing with a lever.
 3. (mcq) Why can't a wheel with shifting weights keep turning for ever by itself?  
-   Options: It could. Nobody has tried hard enough / The turning on both sides always balances out, and friction slowly stops it / Wheels are too heavy / It needs to be bigger  
+   Options: It could. Nobody has tried hard enough / Wheels are too heavy / The turning on both sides always balances out, and friction slowly stops it / It needs to be bigger  
    **Answer:** The turning on both sides always balances out, and friction slowly stops it. *Why:* Every design ever tried has failed. Energy cannot come from nothing. Picking 'nobody has tried hard enough' is a hopeful guess. In fact people have tried for over 800 years, since Bhaskara II described one in about 1150.
 4. (mcq) A vegetable seller's tarazu has two pans hanging the same distance from the middle. A 1 kg weight in one pan balances the tomatoes in the other pan. How much do the tomatoes weigh, and why?  
-   Options: 1 kg, because the distances are equal, so the weights must be equal / 2 kg, because there are more tomatoes / Less than 1 kg, because tomatoes are soft / It cannot be known  
+   Options: 2 kg, because there are more tomatoes / Less than 1 kg, because tomatoes are soft / It cannot be known / 1 kg, because the distances are equal, so the weights must be equal  
    **Answer:** 1 kg, because the distances are equal, so the weights must be equal. *Why:* With equal distances from the fulcrum, weight times distance matches only when the weights match. So the tomatoes weigh 1 kg. Picking 'it cannot be known' forgets that this is exactly how a tarazu weighs things.
 5. (truefalse) Astronomers can find planets round other stars by watching the stars wobble.  
    **Answer:** True. *Why:* True. A planet and its star swing round a shared balance point, so the star wobbles a little. In 1995, Michel Mayor and Didier Queloz found a planet this way.
 6. (mcq) Someone says, 'A single pulley over a well makes the bucket lighter.' What is wrong with this idea?  
-   Options: The bucket weighs just the same. The pulley only lets you pull down instead of up / Nothing. Pulleys make things lighter / Pulleys make the bucket heavier / Pulleys only work on ropes  
+   Options: Nothing. Pulleys make things lighter / Pulleys make the bucket heavier / The bucket weighs just the same. The pulley only lets you pull down instead of up / Pulleys only work on ropes  
    **Answer:** The bucket weighs just the same. The pulley only lets you pull down instead of up. *Why:* A single fixed pulley changes the direction of your pull, not its size. Pulling down is easier, because you can use your own weight. To need a smaller pull, you must use more pulleys together, and then you pull a longer length of rope.
 7. (perspective) Who should get the credit for the lever? Here are three views.  
    **Answer:** Each view has truth in it. The textbook is wrong that Archimedes discovered the lever, because people used levers long before him. The historian is right about who invented and used it, often women working a dhenki and farmers at a shaduf, whose names were not written down. The scientist is right that proving the rule mattered. A strong answer might share the credit.. *Why:* A strong answer separates using an idea, inventing it and explaining it, and gives a reason for where the credit should go.
 8. (fill) A girl lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.  
    **Answer:** ['2', 'two']. *Why:* Half the pull means twice the distance. 20 newtons for 1 metre is the same as 10 newtons for 2 metres. Pulleys, like every machine, never give something for nothing. Picking half a metre means thinking the pull and the distance can both get smaller. They cannot: when the pull gets smaller, the distance gets longer.
 9. (mcq) A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?  
-   Options: Many turns of a small push move it in only a little, with a big force / It is sharp / It is made of iron / It is glued  
+   Options: It is sharp / It is made of iron / Many turns of a small push move it in only a little, with a big force / It is glued  
    **Answer:** Many turns of a small push move it in only a little, with a big force. *Why:* A screw is a long ramp. Each turn moves it forward only a little, so a small twist gives a big push forward. Picking 'sharp' is part of it, since the tip is a wedge. But the thread is a ramp.
 10. (mcq) A see-saw has a child of 15 kg sitting 3 metres from the middle. Where must a 45 kg grown-up sit to balance?  
    Options: 9 metres from the middle / 3 metres from the middle / 1 metre from the middle / Half a metre from the middle  
@@ -779,40 +779,40 @@ That night, under the stars, the whole village ate together round the fires of U
    Options: Makes a push or a pull easier, by changing its size or its direction / Makes energy out of nothing / Works only with a motor  
    **Answer:** Makes a push or a pull easier, by changing its size or its direction. *Why:* A simple machine makes a push or pull easier. Picking 'makes energy' means machines were thought to give out extra. They never do. And a machine does not need a motor: a see-saw has none.
 2. (mcq) Which of these is not one of the six simple machines?  
-   Options: A battery / A pulley / A screw  
+   Options: A pulley / A battery / A screw  
    **Answer:** A battery. *Why:* The six are the lever, the ramp, the wheel and axle, the pulley, the wedge and the screw. A battery stores energy, but it does not change a push or a pull.
 3. (mcq) On a pair of scissors, where is the fulcrum?  
-   Options: The screw in the middle / The tips of the blades / Your thumb  
+   Options: The tips of the blades / The screw in the middle / Your thumb  
    **Answer:** The screw in the middle. *Why:* The two blades turn on the screw, so that is the fulcrum. Picking 'your thumb' mixes up the effort with the fulcrum.
 4. (mcq) When you stand on tiptoe, your foot works as a lever. Where does it turn?  
-   Options: At the ball of your foot, near your toes / At your heel / At your knee  
+   Options: At your heel / At your knee / At the ball of your foot, near your toes  
    **Answer:** At the ball of your foot, near your toes. *Why:* Your calf muscle pulls your heel up, and the foot turns on the ball of the foot. Picking 'at your heel' mixes up where the effort pulls with where the foot turns.
 5. (mcq) A bicycle brake handle is a lever. Where is its fulcrum?  
    Options: The point where the handle joins the bar and turns / Under your fingers, where you squeeze / The brake pad, where it rubs the wheel  
    **Answer:** The point where the handle joins the bar and turns. *Why:* A lever turns on its fulcrum. The brake handle turns at its pivot on the bar. Your fingers give the effort, and the brake pad is the part that rubs the wheel, not the point the handle turns on.
 6. (mcq) A see-saw is level. Then the child on the left slides further out from the middle. What happens?  
-   Options: The left side goes down / The right side goes down / Nothing changes  
+   Options: The right side goes down / The left side goes down / Nothing changes  
    **Answer:** The left side goes down. *Why:* The same weight further from the fulcrum turns the plank more. So the left side goes down. Picking 'nothing changes' means only weight was counted, not distance.
 7. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
    Options: 2 cm / 8 cm / 32 cm  
    **Answer:** 2 cm. *Why:* 1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.
 8. (mcq) Instead of using the steps, a girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
-   Options: She must push for a longer way / She needs a bigger push / Nothing at all  
+   Options: She needs a bigger push / She must push for a longer way / Nothing at all  
    **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
 9. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
    Options: Its thin edge puts all of your push onto a tiny line / It is heavier / It is colder  
    **Answer:** Its thin edge puts all of your push onto a tiny line. *Why:* A wedge turns a push into a big sideways push at its thin edge. The thinner the edge, the more the push is crowded into one tiny line.
 10. (mcq) Why does a tap have a wide handle, and not just a thin rod?  
-   Options: The wide handle is a wheel, so a small push makes a strong twist / It looks nicer / A wide handle uses less water  
+   Options: It looks nicer / The wide handle is a wheel, so a small push makes a strong twist / A wide handle uses less water  
    **Answer:** The wide handle is a wheel, so a small push makes a strong twist. *Why:* A tap is a wheel and axle. Your hand goes round a bigger circle with a smaller push, and the thin rod twists strongly.
 11. (mcq) Why is a heavy cart on wheels easier to move than dragging the same load?  
-   Options: Rolling has much less friction than sliding / Wheels make the load lighter / Wheels push the cart by themselves  
+   Options: Wheels make the load lighter / Wheels push the cart by themselves / Rolling has much less friction than sliding  
    **Answer:** Rolling has much less friction than sliding. *Why:* A rolling wheel does not rub along the ground the way a sliding load does, so there is much less friction. Picking 'lighter' mixes up weight and push.
 12. (mcq) In the ruler see-saw test, why did you try each coin position more than once?  
-   Options: Because one try can be a fluke / To make the test take longer / Because the ruler gets longer  
+   Options: To make the test take longer / Because one try can be a fluke / Because the ruler gets longer  
    **Answer:** Because one try can be a fluke. *Why:* A coin can slip, or the ruler can wobble. Trying more than once shows which result is real.
 13. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
-   Options: Lifted straight up / Short, steep ramp / Long, gentle ramp  
+   Options: Lifted straight up / Long, gentle ramp / Short, steep ramp  
    **Answer:** Long, gentle ramp. *Why:* The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.
 14. (mcq) A girl lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
    Options: About 10 cm / About 1 cm / About one tenth of a centimetre  
@@ -821,7 +821,7 @@ That night, under the stars, the whole village ate together round the fires of U
    Options: The long one, but your hand must go round a bigger circle / The short one, with no catch / The long one, with no catch  
    **Answer:** The long one, but your hand must go round a bigger circle. *Why:* The long handle puts your push further from the nut, so a smaller push gives the same twist. But your hand travels round a much bigger circle for each turn. Picking 'no catch' means the spanner was thought to give something for nothing.
 16. (mcq) Your biceps pulls on your forearm very close to the elbow. What do you gain from that?  
-   Options: Your hand moves far and fast / A stronger grip / Nothing. It is a mistake  
+   Options: A stronger grip / Your hand moves far and fast / Nothing. It is a mistake  
    **Answer:** Your hand moves far and fast. *Why:* With the muscle close to the fulcrum, a small shortening swings the hand a long way, fast. Picking 'a mistake' is a fair first guess, but it is a trade of strength for speed.
 
 ## Applications

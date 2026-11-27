@@ -682,7 +682,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 ## Worksheets
 ### Sorting animals (core) (core, 16 questions)
 1. (mcq) What do all animals with a backbone have in common?  
-   Options: A row of bones or hard cartilage down the middle of the back / Four legs / Warm blood  
+   Options: Four legs / Warm blood / A row of bones or hard cartilage down the middle of the back  
    **Answer:** A row of bones or hard cartilage down the middle of the back. *Why:* A backbone is a row of small bones or hard cartilage. Four legs is not the shared clue, because a shark and a snake have no legs and a bird does not have four. Warm blood is not the shared clue either, because many of these animals have cold blood.
 2. (truefalse) Most kinds of animals have a backbone.  
    **Answer:** False. *Why:* False. About 19 of every 20 named kinds of animal have no backbone. Insects alone are more than a million kinds.
@@ -693,12 +693,12 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 5. (match) Match each animal group to a clue that helps decide it.  
    **Answer:** Fish → Breathes with gills all her life; Amphibian → Thin moist skin and jelly eggs; Reptile → Dry scales and lungs; Bird → Feathers; Mammal → Feeds her babies milk. *Why:* Each group is decided by a few clues together. These are the main clue for each group.
 6. (mcq) A dolphin lives in water and has flippers. Why is she a mammal?  
-   Options: She breathes air with lungs and feeds her baby milk / She is big / She has a tail  
+   Options: She is big / She breathes air with lungs and feeds her baby milk / She has a tail  
    **Answer:** She breathes air with lungs and feeds her baby milk. *Why:* Breathing air with lungs and feeding milk are the clues that decide the group. Size and a tail do not.
 7. (odd) Which one is the odd one out, and why? Bat, crow, cat, cow.  
    **Answer:** Crow, because she has feathers and lays eggs. The other three are mammals with fur who feed milk.. *Why:* A bat has fur and feeds milk, so she goes with the cat and the cow, even though she flies like a crow.
 8. (mcq) A rule says: animals that fly are birds. Which animal breaks this rule?  
-   Options: A bat, who flies but is a mammal / A crow, who flies and is a bird / A cow, who does not fly  
+   Options: A crow, who flies and is a bird / A bat, who flies but is a mammal / A cow, who does not fly  
    **Answer:** A bat, who flies but is a mammal. *Why:* A bat flies, so the rule lets her in, but she is a mammal. A crow follows the rule, and the rule does not let a cow in.
 9. (truefalse) A platypus lays eggs, so she cannot be a mammal.  
    **Answer:** False. *Why:* False. A platypus has fur and feeds her young milk, and those are the clues that decide a mammal. Laying eggs does not rule her out.
@@ -707,14 +707,14 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 11. (fill) A frog's young, who breathes with gills and has a tail, is called a ____.  
    **Answer:** ['tadpole']. *Why:* A tadpole is a young frog. She changes shape into a frog with lungs and legs.
 12. (mcq) An ant has six jointed legs and a hard skeleton outside her body. Which group is she in?  
-   Options: Arthropod / Mollusc / Annelid  
+   Options: Mollusc / Annelid / Arthropod  
    **Answer:** Arthropod. *Why:* Jointed legs and a hard outer skeleton are the clues for an arthropod. A mollusc has a soft body, and an annelid has a body in rings.
 13. (draw) Draw your arm and a bat's wing side by side. Colour the bones that match in the same colour.  
    **Answer:** A drawing of an arm and a wing, each with one upper bone, two lower bones and finger bones, matching bones in matching colours.. *Why:* A strong drawing shows one bone in the top part and two in the lower part of each, and the same colours for matching bones. It shows the same plan in a different shape.
 14. (order) Put these groups in order, from the biggest group to the smallest group that holds a house crow.  
    **Answer:** ['Animals', 'Animals with a backbone', 'Birds', 'House crows']. *Why:* Each group sits inside the one before. A house crow is a bird, a bird has a backbone, and an animal with a backbone is an animal.
 15. (mcq) A snake has no legs. Which clue shows that she is a reptile?  
-   Options: Dry scales and lungs / No legs / She lives on land  
+   Options: No legs / Dry scales and lungs / She lives on land  
    **Answer:** Dry scales and lungs. *Why:* Dry scales and lungs are the clues for a reptile. Having no legs and living on land are shared by many animals, such as worms and some lizards.
 16. (write) Why is 'where an animal lives' a weak clue for sorting animals? Give one example.  
    **Answer:** Animals who live in the same place can belong to different groups. For example, a dolphin, a shark and a sea turtle all live in the sea, but they are a mammal, a fish and a reptile.. *Why:* A strong answer says that unrelated animals can live in one place, and gives an example such as a dolphin and a shark.
@@ -725,7 +725,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 2. (truefalse) Animals who look alike are always close relatives.  
    **Answer:** False. *Why:* False. A shark, a dolphin and a penguin look alike but are a fish, a mammal and a bird. Clues from the body, such as milk or the bones, show who is related.
 3. (mcq) A bat's wing and a human arm have one upper bone, two lower bones and finger bones. What does this suggest?  
-   Options: They inherited the plan from a shared ancestor / They are used for the same job / A bat is a kind of person  
+   Options: They are used for the same job / A bat is a kind of person / They inherited the plan from a shared ancestor  
    **Answer:** They inherited the plan from a shared ancestor. *Why:* Different jobs but the same bones in the same order are what you expect if both inherited the plan from one ancestor.
 4. (fill) A mammal is an animal who feeds her babies ____.  
    **Answer:** ['milk']. *Why:* Feeding milk from her own body is the clue that decides a mammal, even for the egg-laying platypus.
@@ -743,7 +743,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 10. (perspective) Should a whale shark and a dolphin be in the same group, since both live in the sea and are huge? Here are two views.  
    **Answer:** Answers vary. A strong answer picks a side and gives a reason. For example, it says that a group by habitat is useful for a fisher, and a group by body clues shows relatives.. *Why:* Both views are useful for different jobs. A scientist who wants to know who is related uses body clues such as gills, lungs and milk.
 11. (mcq) Birds descend from small feathered dinosaurs. Which living animals are the closest relatives of birds?  
-   Options: Crocodiles / Lizards / Frogs  
+   Options: Lizards / Frogs / Crocodiles  
    **Answer:** Crocodiles. *Why:* The closest living relatives of birds are crocodiles. Lizards and snakes are on another branch.
 12. (fill) The fossil Tiktaalik had fins with ____ bones and a neck, and lived about 375 million years ago.  
    **Answer:** ['wrist']. *Why:* Tiktaalik's fins held wrist bones, and she shows an animal in between a fish and a land animal.
@@ -752,7 +752,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 14. (truefalse) A lungfish is more closely related to a cow than to a rohu.  
    **Answer:** True. *Why:* True. Genes show that lungfish are the closest living relatives of animals who walk on land, and a rohu is on a different branch of fish.
 15. (mcq) Why do scientists use two or three clues together to sort an animal?  
-   Options: One clue can mislead, because animals who are not related can share it / Three is the rule in science / One clue is too hard to find  
+   Options: Three is the rule in science / One clue is too hard to find / One clue can mislead, because animals who are not related can share it  
    **Answer:** One clue can mislead, because animals who are not related can share it. *Why:* A clue such as flying or living in water is shared by animals on different branches. Two or three clues from the body are much harder to share by accident.
 16. (write) Why do animals with no backbone not make one family? Explain in one or two sentences.  
    **Answer:** Invertebrate only says what the animals lack. They belong to many separate groups, such as insects, snails and starfish, which are as different from each other as a fish is from a snail.. *Why:* A strong answer says that the word names a missing feature and that the animals belong to many separate groups.
@@ -767,7 +767,7 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 4. (truefalse) If a rule has one exception, the whole group must be wrong.  
    **Answer:** False. *Why:* False. A hard case shows that the rule is weak, not that the group is wrong. Scientists mend the rule with a better clue.
 5. (mcq) Which pair are the closest relatives?  
-   Options: A crow and a crocodile / A crocodile and a gecko / A crocodile and a frog  
+   Options: A crocodile and a gecko / A crocodile and a frog / A crow and a crocodile  
    **Answer:** A crow and a crocodile. *Why:* Birds and crocodiles share a more recent ancestor than crocodiles and lizards do.
 6. (fill) A rule can fail in two ways. It can leave out an animal that belongs, or it can ____ an animal that does not.  
    **Answer:** ['let in']. *Why:* A rule fails when it lets in an animal who does not belong, just as it fails when it leaves out an animal who does.
@@ -801,19 +801,19 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
    Options: Only about 1 in 20 kinds have a backbone / About half have a backbone / Most have a backbone  
    **Answer:** Only about 1 in 20 kinds have a backbone. *Why:* About 19 of every 20 named kinds of animals have no backbone. The animals with a backbone are the small half.
 2. (mcq) Which clue best shows that a bat is a mammal?  
-   Options: She has fur and feeds her baby milk / She flies at night / She hangs upside down  
+   Options: She flies at night / She hangs upside down / She has fur and feeds her baby milk  
    **Answer:** She has fur and feeds her baby milk. *Why:* Fur and milk are the clues for a mammal. Flying and hanging upside down are things she does, and a bird or an insect can do them too.
 3. (mcq) A penguin cannot fly. Why is he still a bird?  
-   Options: He has feathers and lays hard-shelled eggs / He lives near the sea / He has two legs  
+   Options: He lives near the sea / He has feathers and lays hard-shelled eggs / He has two legs  
    **Answer:** He has feathers and lays hard-shelled eggs. *Why:* Feathers and hard-shelled eggs decide a bird. A penguin swims instead of flying.
 4. (mcq) A rule leaves out an animal that belongs and lets in an animal that does not. What does this show?  
    Options: The rule is weak and needs a better clue / The group does not exist / The animals are wrong  
    **Answer:** The rule is weak and needs a better clue. *Why:* A rule that fails in both ways is weak. Scientists mend it by trying a body clue or two clues together.
 5. (mcq) Which animal is a hard case for the rule 'reptiles lay eggs'?  
-   Options: A Russell's viper, who gives birth to live young / A house gecko, who lays eggs / A crocodile, who lays eggs  
+   Options: A house gecko, who lays eggs / A Russell's viper, who gives birth to live young / A crocodile, who lays eggs  
    **Answer:** A Russell's viper, who gives birth to live young. *Why:* A Russell's viper is a reptile with live young, so she breaks the rule. A gecko and a crocodile follow it.
 6. (mcq) A Ganges river dolphin must come up for air every minute or two. Why?  
-   Options: She has lungs and no gills / She is tired / She likes the sunlight  
+   Options: She is tired / She has lungs and no gills / She likes the sunlight  
    **Answer:** She has lungs and no gills. *Why:* A dolphin breathes air with lungs, so she must come to the surface. A fish has gills and can stay under.
 7. (mcq) Why do a bat's wing and a human arm have the same bones in the same order?  
    Options: Both came from an ancestor with that plan / Both are used for flying / Both are used for holding  
@@ -821,16 +821,16 @@ Young: hatch from eggs (back: No backbone. Echinoderm. Spiny skin, tube feet and
 8. (truefalse) A tadpole should be sorted with the fish because she has gills.  
    **Answer:** False. *Why:* False. A tadpole turns into a frog, and a fish keeps her gills for life. You must look at the whole life of an animal.
 9. (mcq) Which question separates a snail from an ant?  
-   Options: Does she have jointed legs and a hard outer skeleton? / Does she live on land? / Is she small?  
+   Options: Does she live on land? / Does she have jointed legs and a hard outer skeleton? / Is she small?  
    **Answer:** Does she have jointed legs and a hard outer skeleton?. *Why:* An ant is an arthropod with jointed legs and a hard outer skeleton. A snail is a mollusc with a soft body and one muscular foot.
 10. (mcq) Why is 'invertebrate' not one family?  
-   Options: It only says what the animals lack, and they belong to many separate groups / All of them are the same shape / There are very few of them  
+   Options: All of them are the same shape / It only says what the animals lack, and they belong to many separate groups / There are very few of them  
    **Answer:** It only says what the animals lack, and they belong to many separate groups. *Why:* The word names a missing backbone. Insects, snails and starfish are as different from each other as a fish is from a snail.
 11. (mcq) What is surprising about a lungfish?  
    Options: She is a closer relative of a cow than of a rohu / She lives on land / She is a kind of frog  
    **Answer:** She is a closer relative of a cow than of a rohu. *Why:* A lungfish is a fish with lungs and fins that have bones. Her genes put her closer to land animals than to most fish.
 12. (mcq) A scientist finds an animal that lays eggs and also has fur and feeds milk. What should scientists do about the rule 'mammals give birth to live young'?  
-   Options: Mend the rule so that milk decides a mammal / Say the animal is not a mammal / Ignore the animal  
+   Options: Say the animal is not a mammal / Ignore the animal / Mend the rule so that milk decides a mammal  
    **Answer:** Mend the rule so that milk decides a mammal. *Why:* When evidence breaks a rule, scientists mend the rule. This is what happened with the platypus, so a mammal is defined by feeding milk.
 
 ## Applications

@@ -473,7 +473,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
    Options: A bird's dropping with seeds that sprout far from the tree / A bee drinking nectar / A termite eating dead wood  
    **Answer:** A bird's dropping with seeds that sprout far from the tree. *Why:* In travel, an animal carries a plant's seeds to a new place. A bee at a flower shows making new plants, and a termite eating dead wood shows clean-up.
 5. (mcq) A friend says: 'The web of life is just who eats whom.' What would you say?  
-   Options: There are other links too, such as shelter, travel, clean-up and changing the place / Yes, eating is the only link / Links only matter in a forest  
+   Options: Yes, eating is the only link / Links only matter in a forest / There are other links too, such as shelter, travel, clean-up and changing the place  
    **Answer:** There are other links too, such as shelter, travel, clean-up and changing the place. *Why:* Eating is one link. A bird nesting in a tree, a worm opening the soil and a bee carrying pollen are links too. Saying eating is the only one misses most of the web.
 6. (truefalse) Bare soil on a slope loses more soil in heavy rain than soil covered with leaf litter.  
    **Answer:** True. *Why:* True. Raindrops break the crumbs of bare soil and the water carries the mud away. Leaf litter breaks the fall of the drops and slows the water, so less soil is lost.
@@ -508,7 +508,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
    Options: Count the kinds of plants in patches of the same size in both / Ask which one is older / Look at a photograph of each  
    **Answer:** Count the kinds of plants in patches of the same size in both. *Why:* A fair comparison counts the same-sized patches in both places. Age and photographs do not measure the number of kinds.
 4. (mcq) In the Forest Floor Test, why do we pour rain a second time as well as a first time?  
-   Options: Wet soil can behave differently from dry soil / Two numbers always look better / To use up the water  
+   Options: Two numbers always look better / Wet soil can behave differently from dry soil / To use up the water  
    **Answer:** Wet soil can behave differently from dry soil. *Why:* Soil that is already wet soaks up less, so more water runs off in the second rain. This is how floods can follow days of heavy rain.
 5. (truefalse) A forest with no soil animals or fungi would still be a perfect sponge, because the leaves do all the work.  
    **Answer:** False. *Why:* False. The tunnels, threads and crumbs that hold water are made by roots, worms, termites and fungi. Without them, the soil is more like dust.
@@ -539,10 +539,10 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
    Options: Shade and a cover of leaves both reduce drying / Only shade matters / Leaves make no difference  
    **Answer:** Shade and a cover of leaves both reduce drying. *Why:* Both Q and R lost less water than P. Q had leaves and R had shade, so both reduce the drying. Saying leaves make no difference does not match Q.
 2. (mcq) The same rain is poured on two plates. Plate X has a mat of grass roots and plate Y is bare soil. The water from Y is brown and arrives in 5 seconds. The water from X is clear and arrives after 40 seconds. What does this suggest?  
-   Options: Roots hold the soil and let water sink in / Plate X got less rain / Plate Y has more soil  
+   Options: Plate X got less rain / Roots hold the soil and let water sink in / Plate Y has more soil  
    **Answer:** Roots hold the soil and let water sink in. *Why:* Plate X's water arrived later and was clearer, so the roots slowed the water and held the soil. The rain was the same, so plate X did not get less.
 3. (mcq) A city covers every yard with concrete and sends the rain into drains. After a big rain the streets flood. Which idea from this lesson explains this best?  
-   Options: Concrete stops water sinking in, so all of it runs off / Concrete makes the rain heavier / Drains make more rain  
+   Options: Concrete makes the rain heavier / Concrete stops water sinking in, so all of it runs off / Drains make more rain  
    **Answer:** Concrete stops water sinking in, so all of it runs off. *Why:* Concrete has no tunnels or roots, so there is no infiltration and all the rain runs off at once. Concrete does not change how much rain falls.
 4. (mcq) Which sentence is best supported by the Forest Floor Test?  
    Options: Holding water is done by soil and leaves working together / The biggest tree holds most of the water / Soil alone holds all of the water  
@@ -579,13 +579,13 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 
 ## Quiz
 1. (mcq) Which sentence best describes a web of life?  
-   Options: All the living beings of a place and every link between them / A spider's web in a forest / A list of who eats whom  
+   Options: A spider's web in a forest / A list of who eats whom / All the living beings of a place and every link between them  
    **Answer:** All the living beings of a place and every link between them. *Why:* A web of life is the whole set of links between the beings in one place. Eating is one link, but not the only one.
 2. (mcq) Which of these is a link that is not about eating?  
    Options: A bird nesting in a tree hole / A tiger eating a deer / A cow eating grass  
    **Answer:** A bird nesting in a tree hole. *Why:* A nest is shelter. The other two are food links.
 3. (mcq) In the Forest Floor Test, why is plate A, with bare soil, called the control?  
-   Options: It is the starting point to compare the others with / It has the most soil / It is the first plate  
+   Options: It has the most soil / It is the starting point to compare the others with / It is the first plate  
    **Answer:** It is the starting point to compare the others with. *Why:* The control is the plain version. Each other plate differs from it in one way, so we can see what that change does.
 4. (mcq) Muddy brown water running off a slope means what?  
    Options: Soil is being carried away, which is erosion / The rain is dirty / The slope has too many leaves  
@@ -594,21 +594,21 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
    Options: Termites that dig tunnels and build mounds / A crow sitting on a wire / A rain cloud  
    **Answer:** Termites that dig tunnels and build mounds. *Why:* Termites change the soil and the land so much that others can use their tunnels and mounds. A crow on a wire does not change the place.
 6. (mcq) Why do farmers use mulch?  
-   Options: It keeps the soil damp and cool / It makes the soil as cold as ice / It adds sunlight  
+   Options: It makes the soil as cold as ice / It adds sunlight / It keeps the soil damp and cool  
    **Answer:** It keeps the soil damp and cool. *Why:* Mulch shades the soil and keeps the wind off it, so less water evaporates. It does not add sunlight.
 7. (mcq) A dropping full of purple seeds lies under a fig tree. Which link does it show?  
-   Options: Travel of seeds / Clean-up / Shelter  
+   Options: Clean-up / Shelter / Travel of seeds  
    **Answer:** Travel of seeds. *Why:* The animal ate the figs and is carrying the seeds in her gut. The dropping puts them in a new place. That is travel.
 8. (mcq) What did Elinor Ostrom find about shared meadows, forests and canals?  
-   Options: Many were kept safe for centuries by rules the villagers made / They were always ruined / Only governments can save them  
+   Options: They were always ruined / Only governments can save them / Many were kept safe for centuries by rules the villagers made  
    **Answer:** Many were kept safe for centuries by rules the villagers made. *Why:* She studied real villages and found many shared things that lasted for centuries. People made rules, watched each other and fined cheats.
 9. (truefalse) A sacred grove protects only the trees in it, and has no link to water.  
    **Answer:** False. *Why:* False. Many groves also feed springs and streams. Scientists are still studying how much groves protect.
 10. (mcq) A bamboo clump grows new stems every year. Which way of cutting is sustainable?  
-   Options: Cutting only the oldest stems / Cutting every stem / Cutting only the youngest stems  
+   Options: Cutting every stem / Cutting only the youngest stems / Cutting only the oldest stems  
    **Answer:** Cutting only the oldest stems. *Why:* Old stems can be cut while the young ones keep the clump growing. Cutting every stem kills the clump, and cutting the youngest takes away its future.
 11. (mcq) Which is the best reason to leave fallen leaves under a tree in a garden?  
-   Options: They soak up rain, keep the soil damp and feed the worms / They look untidy and that is good / They stop the tree growing  
+   Options: They look untidy and that is good / They stop the tree growing / They soak up rain, keep the soil damp and feed the worms  
    **Answer:** They soak up rain, keep the soil damp and feed the worms. *Why:* Leaf litter protects the soil from the beating of the rain, keeps it damp and feeds the animals and fungi that make the soil.
 12. (mcq) What do scientists still argue about?  
    Options: Whether a forest is best seen as one whole or as many separate lives / Whether leaves can soak up water / Whether rain falls on forests  

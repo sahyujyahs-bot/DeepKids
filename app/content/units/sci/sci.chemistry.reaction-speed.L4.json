@@ -1175,11 +1175,11 @@
       "t": "mcq",
       "q": "Why is plate A, the plain chunk, kept in the test?",
       "options": [
-       "So that we can compare the other plates with it",
        "Because it is the biggest chunk",
+       "So that we can compare the other plates with it",
        "To eat at the end"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Plate A shows what the apple does on its own. The other plates are each changed in one way, so any difference from A comes from that change. If you chose another answer, think again about what a control is for."
      }
     },
@@ -1213,11 +1213,11 @@
       "t": "mcq",
       "q": "Plate B, the grated apple, is darker than plate A, the chunk, at 10 minutes. What best explains this?",
       "options": [
-       "Grated apple has much more surface touching the air",
        "Grated apple is sweeter",
+       "Grated apple has much more surface touching the air",
        "Grated apple is warmer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Browning needs the cut surface to meet oxygen from the air. Grating makes many tiny pieces, so far more surface meets the air. If you chose sweeter or warmer, remember that the grated apple came from the same apple and was at the same temperature."
      }
     },
@@ -1326,11 +1326,11 @@
       "t": "mcq",
       "q": "Cups A, B and C all have 2 teaspoons of lime juice. What is different about the acid in them?",
       "options": [
-       "How crowded it is",
        "How much of it there is",
-       "What it is made of"
+       "What it is made of",
+       "How crowded it is"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The same amount of acid is spread through 2, 6 or 14 teaspoons of liquid. So the amount stays the same, but the crowding changes. If you chose 'how much of it there is', remember that the amount of acid is the same in all three cups. Only the crowding changes."
      }
     },
@@ -1515,11 +1515,11 @@
       "t": "mcq",
       "q": "A catalytic converter helps harmful gases change into safer gases. What happens to the metal in the converter?",
       "options": [
-       "It stays, ready to help again",
        "It is used up and must be refilled each week",
-       "It turns into the safer gas"
+       "It turns into the safer gas",
+       "It stays, ready to help again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A catalyst is not used up. The metal in the converter helps again and again, and lasts for years. If you chose 'used up', you may be thinking of a catalyst as an ordinary ingredient. An ingredient is used up, but a catalyst is not."
      }
     },
@@ -1821,11 +1821,11 @@
      "t": "mcq",
      "p": "What happens in a chemical reaction?",
      "opts": [
-      "Particles of different substances meet and rearrange into new substances",
       "A substance only changes its shape",
+      "Particles of different substances meet and rearrange into new substances",
       "A solid always turns into a liquid"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A reaction makes new substances, because particles meet and rearrange. Changing shape or state, like ice melting, makes no new substance. If you chose another answer, remember that a change of state is not a reaction, because the substance stays the same.",
      "outcome": 0
     },
@@ -1923,11 +1923,11 @@
      "t": "mcq",
      "p": "In the chart, which glass finished fizzing first?",
      "opts": [
-      "The warm glass",
       "The cold glass",
+      "The warm glass",
       "The room glass"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The warm glass has the shortest bar, 15 seconds. A shorter time means a faster reaction. If you chose another glass, remember that a taller bar means more seconds, and that means slower.",
      "outcome": 2,
      "how": "e1",
@@ -1988,11 +1988,11 @@
      "t": "mcq",
      "p": "What is special about a catalyst?",
      "opts": [
-      "It speeds up a reaction and is not used up",
       "It is the ingredient that makes the most product",
-      "It slows a reaction down"
+      "It slows a reaction down",
+      "It speeds up a reaction and is not used up"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A catalyst comes out the same as it went in, so it can work again. It is not an ingredient. If you chose 'slows a reaction down', you may be thinking of a fridge, which slows changes. A catalyst does the opposite.",
      "outcome": 3
     },
@@ -2122,11 +2122,11 @@
      "t": "mcq",
      "p": "Why can a washing powder with enzymes lift food stains even in cool water?",
      "opts": [
-      "Enzymes are catalysts that work without needing high heat",
       "Enzymes heat the water",
+      "Enzymes are catalysts that work without needing high heat",
       "Enzymes are scrubbed away with the stain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Enzymes are catalysts. They lower the effort the reaction needs, so the stain breaks down quickly without hot water. If you chose 'heat the water', remember that a catalyst is a helper and not a heater.",
      "outcome": 3
     },
@@ -2196,11 +2196,11 @@
      "t": "mcq",
      "p": "A hot dip of just-boiled water keeps a cut apple pale. Why?",
      "opts": [
-      "The heat breaks the browning enzyme, so it cannot help any more",
       "The heat makes the apple wet",
-      "The heat cools the apple"
+      "The heat cools the apple",
+      "The heat breaks the browning enzyme, so it cannot help any more"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Enzymes are folded chains that fall apart in strong heat. Without the enzyme, the browning reaction is far slower. If you chose another answer, remember that heat does not always speed things up. Too much heat can break an enzyme.",
      "outcome": 4
     },
@@ -2230,11 +2230,11 @@
      "t": "mcq",
      "p": "A lump of flour does not explode, but a cloud of fine flour dust can. What is the best reason?",
      "opts": [
-      "Dust has far more surface touching the air, so it burns almost all at once",
       "Dust is hotter than a lump",
+      "Dust has far more surface touching the air, so it burns almost all at once",
       "Dust is a different substance"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A lump burns only on its outside. Fine dust spreads out in the air, so almost every bit meets oxygen at the same time. If you chose 'a different substance', remember that dust and a lump are the same substance. The difference is how much surface touches the air.",
      "outcome": 1
     },
@@ -2296,11 +2296,11 @@
      "t": "mcq",
      "p": "A catalyst is added to a reaction that would finally make 10 grams of product. How much product does it finally make?",
      "opts": [
-      "10 grams, but it makes it faster",
       "20 grams, because a catalyst doubles the product",
+      "10 grams, but it makes it faster",
       "5 grams, because the catalyst uses some"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A catalyst is not an ingredient. It only speeds up the change, and the amount of product depends on the reactants. If you chose 20 grams, remember that a catalyst does not make more product.",
      "outcome": 3
     },
@@ -2399,11 +2399,11 @@
      "t": "mcq",
      "p": "Diamond is always very slowly turning into graphite, but a diamond ring seems to stay the same forever. Why?",
      "opts": [
-      "The rate is so low that no change is visible in a lifetime",
       "The change has stopped completely",
-      "Diamonds are alive and repair themselves"
+      "Diamonds are alive and repair themselves",
+      "The rate is so low that no change is visible in a lifetime"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Slow does not mean stopped. The meetings that would change diamond are extremely rare. If you chose another answer, check that you are not mixing up slow with still.",
      "outcome": 4
     },
@@ -2458,11 +2458,11 @@
    "t": "mcq",
    "p": "Why does the same fruit salt finish fizzing sooner in warm water?",
    "opts": [
-    "Warm water has faster particles that meet more often and harder",
     "Warm water has more fruit salt in it",
-    "Warm water makes the powder lighter"
+    "Warm water makes the powder lighter",
+    "Warm water has faster particles that meet more often and harder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Temperature measures how fast particles move. Faster particles meet more often and more forcefully. The amount of powder is the same in every glass.",
    "outcome": 1
   },
@@ -2470,11 +2470,11 @@
    "t": "mcq",
    "p": "Why does grated apple turn brown faster than one big chunk?",
    "opts": [
-    "More of the apple is touching the air",
     "Grated apple is sweeter",
+    "More of the apple is touching the air",
     "Grated apple is warmer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Browning happens where cut apple meets oxygen. Grating makes many tiny pieces, so far more surface meets the air.",
    "outcome": 1
   },
@@ -2494,11 +2494,11 @@
    "t": "mcq",
    "p": "What is the best way to slow down the rusting of an iron gate?",
    "opts": [
-    "Cover it with paint, so water and air cannot reach it",
     "Leave it in salty air",
-    "Wash it with vinegar"
+    "Wash it with vinegar",
+    "Cover it with paint, so water and air cannot reach it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Rusting needs iron to meet water and oxygen. Paint keeps them apart. Salty air and vinegar speed rusting up.",
    "outcome": 4
   },
@@ -2506,11 +2506,11 @@
    "t": "mcq",
    "p": "The same lime juice is mixed with more water. What happens to the speed of its fizz on baking soda?",
    "opts": [
-    "It slows down, because the acid is less crowded",
     "It speeds up, because there is more liquid",
+    "It slows down, because the acid is less crowded",
     "It stays the same"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same acid spread through more water is less crowded, so meetings with baking soda are rarer. The final amount of gas stays the same.",
    "outcome": 1
   },
@@ -2518,11 +2518,11 @@
    "t": "mcq",
    "p": "A graph of gas made against time rises steeply and then flattens. What does the steep part show?",
    "opts": [
-    "The reaction is fastest at the start",
     "The reaction has stopped",
+    "The reaction is fastest at the start",
     "A catalyst was added"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At the start there are plenty of fresh particles to meet, so the rate is highest. It slows as they are used up.",
    "outcome": 5
   },
@@ -2565,11 +2565,11 @@
    "t": "mcq",
    "p": "Stirring a glass of fizz makes it finish sooner. What does stirring do?",
    "opts": [
-    "It brings fresh water to the powder",
     "It makes the particles hotter",
-    "It makes the powder bigger"
+    "It makes the powder bigger",
+    "It brings fresh water to the powder"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stirring does not change the temperature or the size of the powder. It carries used-up liquid away and brings fresh partners to the meeting.",
    "outcome": 1
   }

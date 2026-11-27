@@ -569,10 +569,10 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 ## Worksheets
 ### Same Part or Same Job? (core) (core, 16 questions)
 1. (mcq) A dolphin's flipper and your arm hold the same bones in the same order. What are such parts called?  
-   Options: Homologous parts / Analogous parts / Vestigial parts  
+   Options: Analogous parts / Homologous parts / Vestigial parts  
    **Answer:** Homologous parts. *Why:* Homologous parts are the same part, inherited from a shared ancestor, even when the jobs differ. Analogous parts share a job and not a build. Vestigial parts have lost most of an old job.
 2. (mcq) Which pair of wings does the same job with a different build?  
-   Options: Butterfly wing and crow wing / Bat wing and human arm / Whale flipper and mole hand  
+   Options: Bat wing and human arm / Whale flipper and mole hand / Butterfly wing and crow wing  
    **Answer:** Butterfly wing and crow wing. *Why:* A butterfly's wing has no bones and a crow's wing has arm bones, so the two are analogous. The other two pairs hold the same bones, so they are homologous.
 3. (truefalse) A vestigial part is always a useless part.  
    **Answer:** False. *Why:* False. Vestigial means that a part has lost most of the job it did in ancestors. Many such parts keep a smaller job. Your tailbone still anchors muscles.
@@ -611,7 +611,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    Options: Whales belong with the even-toed hoofed animals / Whales once climbed trees / Whales are close relatives of sharks  
    **Answer:** Whales belong with the even-toed hoofed animals. *Why:* Only even-toed hoofed animals, such as cows, deer and hippos, have that ankle bone. Swimming does not need it, so it is an inherited mark.
 3. (mcq) A fly's eye-starting gene and a mouse's match. What is the best explanation?  
-   Options: Both inherited the gene from one ancestor / Flies and mice eat the same food / The two eyes are built alike  
+   Options: Flies and mice eat the same food / The two eyes are built alike / Both inherited the gene from one ancestor  
    **Answer:** Both inherited the gene from one ancestor. *Why:* The eyes themselves are built very differently. A matching gene is best explained by a shared ancestor who already had it.
 4. (truefalse) A human embryo is, for a short time, a fish.  
    **Answer:** False. *Why:* False. A human embryo has throat folds and a tail, as a fish embryo has. But the folds never become gills. Embryos of relatives resemble each other. They do not turn into each other's adults.
@@ -642,7 +642,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    Options: The body is an older body, altered / Giraffes need very long nerves / The nerve grows longer every year  
    **Answer:** The body is an older body, altered. *Why:* In a fish the matching nerve takes a direct path. As necks grew longer over generations, the nerve stayed looped round the same blood vessel. The detour is a sign of the older layout.
 2. (mcq) Which statement about a bat's wing and a crow's wing is correct?  
-   Options: Homologous as limbs, analogous as wings / Homologous in every way / Analogous in every way  
+   Options: Homologous in every way / Homologous as limbs, analogous as wings / Analogous in every way  
    **Answer:** Homologous as limbs, analogous as wings. *Why:* Both inherited the front limb with its bones, so the limbs are homologous. But flying arose separately in bats and birds, and the wings are built differently, so as wings they are analogous.
 3. (mcq) Why is DNA alone not enough to place most extinct animals in the family tree?  
    Options: Almost no fossil keeps any DNA / Extinct animals had no DNA / Bones are easier to read than DNA  
@@ -679,36 +679,36 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 
 ## Quiz
 1. (mcq) Which of these is a feature of an animal's body plan?  
-   Options: Whether the gut has one opening or two / The colour of the fur / How fast the animal runs  
+   Options: The colour of the fur / Whether the gut has one opening or two / How fast the animal runs  
    **Answer:** Whether the gut has one opening or two. *Why:* A body plan is the basic layout that is set in the embryo. Colour and speed can change quickly over generations, and the layout changes very little.
 2. (mcq) Ants, crabs and spiders are in one phylum. What do they all share?  
-   Options: Jointed legs and a skeleton on the outside / A backbone / A sac gut with one opening  
+   Options: A backbone / Jointed legs and a skeleton on the outside / A sac gut with one opening  
    **Answer:** Jointed legs and a skeleton on the outside. *Why:* They are arthropods. A backbone belongs to the chordate body plan, and a sac gut to jellyfish and flatworms.
 3. (mcq) Which feature does every chordate have at some stage of life?  
-   Options: A notochord, a firm rod along the back / A hard skeleton on the outside / Six jointed legs  
+   Options: A hard skeleton on the outside / A notochord, a firm rod along the back / Six jointed legs  
    **Answer:** A notochord, a firm rod along the back. *Why:* The notochord gives the chordates their name. You had one as an embryo. The other two answers describe arthropods.
 4. (mcq) A whale's flipper and a shark's fin look alike. Are they homologous parts?  
    Options: No. Same job, different parts / Yes. Both are fins / Yes. Both animals live in the sea  
    **Answer:** No. Same job, different parts. *Why:* The flipper holds arm and finger bones, and the fin holds none. The two are analogous. Doing the same job in the same place does not make parts the same part.
 5. (mcq) Which is the best evidence that two animals are close relatives?  
-   Options: Many matching parts inside the body / The same body shape / Living in the same place  
+   Options: The same body shape / Living in the same place / Many matching parts inside the body  
    **Answer:** Many matching parts inside the body. *Why:* Shape and home can be shared by animals who simply live alike. Many detailed inside features that the way of life does not need are best explained by shared ancestors.
 6. (mcq) Why do some healthy people have no palmaris longus muscle in the forearm?  
-   Options: The muscle has lost its main job / They did not exercise enough / They were hurt as babies  
+   Options: They did not exercise enough / They were hurt as babies / The muscle has lost its main job  
    **Answer:** The muscle has lost its main job. *Why:* The muscle did more in ancestors who climbed. In humans it does very little. A part like that is not always built, and some people are born with none. Exercise and injury have nothing to do with whether a muscle is built.
 7. (truefalse) If a survey of ten wrists finds the cord in every one, then no human lacks the cord.  
    **Answer:** False. *Why:* False. Ten wrists is a small group, and a small group can easily miss something uncommon. Bigger studies find people with no cord.
 8. (mcq) Bones pointed to one ancestor for whales and DNA pointed to another. What did scientists do?  
-   Options: Looked for more evidence, and found ankle bones / Chose the bones, because bones are older / Gave up on the question  
+   Options: Chose the bones, because bones are older / Looked for more evidence, and found ankle bones / Gave up on the question  
    **Answer:** Looked for more evidence, and found ankle bones. *Why:* When two kinds of evidence disagree, the answer is to find more. Ankle bones of early whales, found later, agreed with the DNA.
 9. (mcq) What do very young embryos of a fish, a chick and a human show?  
    Options: They look much alike / Each is a tiny copy of the adult / The human one has working gills  
    **Answer:** They look much alike. *Why:* All three have throat folds and a tail. Embryos of relatives are built by inherited steps, and the earliest steps differ least. A human embryo never has gills.
 10. (mcq) Which sentence about animal bodies is correct?  
-   Options: Each body is an older body, altered / Each body is planned fresh for its job / Bodies stay the same over generations  
+   Options: Each body is planned fresh for its job / Each body is an older body, altered / Bodies stay the same over generations  
    **Answer:** Each body is an older body, altered. *Why:* Every animal inherits a body and passes it on with small changes. That is why bodies keep leftover parts and odd routes, such as the long nerve in a giraffe's neck.
 11. (mcq) Why can each part of a tube gut do one job well?  
-   Options: Food passes the parts in one order / The tube is always full / Food moves both ways along it  
+   Options: The tube is always full / Food passes the parts in one order / Food moves both ways along it  
    **Answer:** Food passes the parts in one order. *Why:* Food moves one way in a tube, so grinding can come first and taking in can come later. In a sac, new food and old waste share one space.
 12. (mcq) A diving beetle in a pond has flat back legs fringed with hairs. What are they mainly for?  
    Options: Digging up roots from the mud / Rowing through the water / Holding a bubble of air  

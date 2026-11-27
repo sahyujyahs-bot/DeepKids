@@ -383,7 +383,7 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 2. (write) Someone has a raincoat made of cotton cloth. What will happen when they walk in the rain? What would you tell them?  
    **Answer:** The cotton will soak up the rain, and they will get wet. Tell them to wear a plastic raincoat.. *Why:* A strong answer says that cotton absorbs water, and suggests a waterproof material.
 3. (mcq) A towel and a raincoat are both used in the rainy season. Which one should soak up water?  
-   Options: The towel / The raincoat / Both  
+   Options: The raincoat / The towel / Both  
    **Answer:** The towel. *Why:* A towel's job is to dry you, so it must soak up water. A raincoat's job is to keep you dry, so it must keep water out.
 4. (truefalse) Being waterproof is always good.  
    **Answer:** False. *Why:* False. Waterproof is good for a raincoat. But a waterproof towel could not dry your hands. The job decides.
@@ -412,22 +412,22 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
    Options: To keep you dry in the rain / To keep your food hot / To help you see in the dark  
    **Answer:** To keep you dry in the rain. *Why:* A raincoat keeps the rain off you, so you stay dry.
 2. (mcq) What are most spoons in an Indian kitchen made of?  
-   Options: Steel / Paper / Cloth  
+   Options: Paper / Cloth / Steel  
    **Answer:** Steel. *Why:* Most spoons are stainless steel. Steel stays stiff in wet and hot food, and lasts for years.
 3. (mcq) Which spoon is best for a non-stick pan?  
-   Options: A wooden spoon / A steel spoon / A metal fork  
+   Options: A steel spoon / A metal fork / A wooden spoon  
    **Answer:** A wooden spoon. *Why:* Wood does not scratch the pan. Steel can scratch it.
 4. (mcq) What does waterproof mean?  
-   Options: Water cannot get through / It soaks up water / It is full of water  
+   Options: It soaks up water / Water cannot get through / It is full of water  
    **Answer:** Water cannot get through. *Why:* A waterproof material keeps water out. Rain runs off it.
 5. (mcq) A raincoat must bend when you walk. Which word means bends easily?  
-   Options: Flexible / Stiff / Waterproof  
+   Options: Stiff / Waterproof / Flexible  
    **Answer:** Flexible. *Why:* Flexible means it bends easily without breaking. Stiff is the opposite.
 6. (mcq) Why are rubber boots good in the monsoon?  
-   Options: Rubber is waterproof and bends / Rubber soaks up the rain / Rubber is stiff like steel  
+   Options: Rubber soaks up the rain / Rubber is waterproof and bends / Rubber is stiff like steel  
    **Answer:** Rubber is waterproof and bends. *Why:* Rubber keeps water out, and it bends when you walk.
 7. (mcq) In the Spoon Test, a steel spoon and a card spoon sit in water for three minutes. Then you stir thick curd with each one. What happens?  
-   Options: The steel spoon stirs, and the card spoon bends / Both spoons bend / Both spoons stir well  
+   Options: Both spoons bend / The steel spoon stirs, and the card spoon bends / Both spoons stir well  
    **Answer:** The steel spoon stirs, and the card spoon bends. *Why:* Steel does not soak up water, so it stays stiff. The card soaks up water and goes soft.
 8. (mcq) In the Spoon Test, why does every spoon sit in the same water for the same time?  
    Options: So only the material is different / So the water stays warm / So the curd does not spill  

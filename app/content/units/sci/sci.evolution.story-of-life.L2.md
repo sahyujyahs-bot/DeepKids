@@ -403,7 +403,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 4. (match) Draw a line from each word to what it means.  
    **Answer:** Cell → the smallest part of a living being that is alive by itself; Fossil → the mark of a living being from long ago, kept in rock; React → when chemicals meet and change into new ones; Timeline → a line that shows things in the order they happened. *Why:* These are the four words the child needs most in this lesson.
 5. (mcq) Why do scientists say life began in water?  
-   Options: The chemicals of life can move about, meet and react in water / Water is cold and keeps things asleep / There was no land at all  
+   Options: Water is cold and keeps things asleep / There was no land at all / The chemicals of life can move about, meet and react in water  
    **Answer:** The chemicals of life can move about, meet and react in water. *Why:* Just as the powders met and fizzed only in water, the chemicals of life met and changed in water. There was land, but life began in the sea.
 6. (fill) The first living beings on Earth lived in ____.  
    **Answer:** ['water', 'the sea', 'sea water']. *Why:* The chemicals of life meet and react in water, and the oldest signs of life come from rocks that formed in sea water.
@@ -422,7 +422,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 2. (sort) Sort these living beings: lives in water, or lives on land.  
    **Answer:** prawn → Lives in water; crow → Lives on land; octopus → Lives in water; tulsi plant → Lives on land; starfish → Lives in water; goat → Lives on land. *Why:* Many kinds still live in water, where all life began. The land kinds came from ancestors who once lived in water.
 3. (mcq) Tiny cells like the first living cells are very small. About how many would fit side by side across one hair?  
-   Options: About 50 / Only 1 / About 5 million  
+   Options: Only 1 / About 5 million / About 50  
    **Answer:** About 50. *Why:* Tiny cells like the first cells are far too small to see. About 50 of them, side by side, would just stretch across one hair.
 4. (write) The first living beings had no bones and no shells. Why do you think their fossils are layered rocks called stromatolites, and not bones?  
    **Answer:** Because they were tiny soft cells. The only thing big enough to stay was the layered rock their mats built.. *Why:* A strong answer says tiny cells leave no bones, so we find the rocks their mats built, layer by layer.
@@ -442,7 +442,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 1. (write) Many people think the first living beings were fish. What evidence shows they were not?  
    **Answer:** The oldest fossils are stromatolites and tiny cells, about 3.5 billion years old. Fish fossils appear only about 500 million years ago.. *Why:* A strong answer uses the order of fossils in the rocks: tiny cells come far earlier than any fish.
 2. (mcq) A scientist works out the Earth's age from how fast it has cooled. Later, people find that rocks inside the Earth make their own heat. What does this mean for his answer?  
-   Options: The Earth cooled more slowly, so it is older than he worked out / The Earth must be younger / Nothing changes  
+   Options: The Earth must be younger / Nothing changes / The Earth cooled more slowly, so it is older than he worked out  
    **Answer:** The Earth cooled more slowly, so it is older than he worked out. *Why:* Extra heat from inside means the Earth took much longer to cool. So it is older. This happened to Lord Kelvin, who did not know about radioactive rock.
 3. (perspective) Two people are arguing about where life began.  
    **Answer:** A strong answer picks a side with a reason, such as 'drying pushes chemicals close together', and gives the other side's reason too. It may say that nobody knows yet, and that scientists test both ideas in labs.. *Why:* This is a real argument among scientists. Both ideas have some evidence, and the question is still open.
@@ -469,16 +469,16 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 
 ## Quiz
 1. (mcq) Why did the fruit salt in the packet not fizz for months?  
-   Options: It was dry, so the powders could not meet / It was too old / The packet was too small  
+   Options: It was too old / It was dry, so the powders could not meet / The packet was too small  
    **Answer:** It was dry, so the powders could not meet. *Why:* The powders react only when water dissolves them. Picking 'too old' may mean thinking the powder went bad, but a pinch in water still fizzes.
 2. (mcq) Where did life on Earth begin?  
-   Options: In water / On dry rock / In the air  
+   Options: On dry rock / In water / In the air  
    **Answer:** In water. *Why:* The chemicals of life meet and react in water, and the oldest signs of life come from rocks made in sea water.
 3. (mcq) What is most of every cell in your body made of?  
-   Options: Water / Salt / Sand  
+   Options: Salt / Sand / Water  
    **Answer:** Water. *Why:* Every cell is mostly water inside. That is where the body's chemicals meet and react.
 4. (mcq) What were the first living beings like?  
-   Options: Tiny cells, far too small to see / Big fish / Small dinosaurs  
+   Options: Big fish / Small dinosaurs / Tiny cells, far too small to see  
    **Answer:** Tiny cells, far too small to see. *Why:* The first life was single tiny cells. Fish and dinosaurs came billions of years later.
 5. (mcq) What is a stromatolite?  
    Options: A rock built in layers by mats of tiny cells / A dinosaur egg / A kind of fish  
@@ -490,10 +490,10 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
    Options: Humans / Flowers / Dinosaurs  
    **Answer:** Humans. *Why:* Humans like us came only about 300,000 years ago. Flowers came about 130 million years ago, and dinosaurs before that.
 8. (mcq) If the story of the Earth were one year, when would humans like us appear?  
-   Options: About half an hour before midnight on 31 December / On 1 January / In June  
+   Options: On 1 January / About half an hour before midnight on 31 December / In June  
    **Answer:** About half an hour before midnight on 31 December. *Why:* On the Year of Life, one day is about 12 million years. 300,000 years is only about half an hour.
 9. (mcq) Where do all the living beings alive today come from?  
-   Options: From the first cells, through a very long line of parents / Each kind appeared suddenly, all at once / From rocks  
+   Options: Each kind appeared suddenly, all at once / From rocks / From the first cells, through a very long line of parents  
    **Answer:** From the first cells, through a very long line of parents. *Why:* Every living being comes from parents. Those parents had parents too, all the way back to the first cells.
 10. (mcq) How did a few kinds of tiny cells become so many kinds of living beings?  
    Options: Small changes added up over a very, very long time / They all changed in one day / People made the new kinds  

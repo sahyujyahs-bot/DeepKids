@@ -497,7 +497,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 ## Worksheets
 ### Where things come from, and what a paint needs (core, 15 questions)
 1. (mcq) Where does the nitrogen in urea fertiliser come from?  
-   Options: The air / Sea water / Crushed rock / Cow's milk  
+   Options: Sea water / Crushed rock / The air / Cow's milk  
    **Answer:** The air. *Why:* About four fifths of the air is nitrogen gas. A factory joins it with hydrogen to make ammonia, and then urea.
 2. (match) Match each product to the raw material it starts from.  
    **Answer:** LPG → Crude oil and natural gas; Urea → Air and natural gas; Quinine → The bark of a tree; Red ochre → A coloured rock. *Why:* Each product is made from a raw material taken from nature. These four products come from different places. They come from crude oil under the ground, the air, a living tree and a rock.
@@ -508,14 +508,14 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 5. (sort) Sort these into four families: fertiliser, fuel, medicine or paint.  
    **Answer:** urea → Fertiliser; potash → Fertiliser; LPG → Fuel; diesel → Fuel; paracetamol → Medicine; penicillin → Medicine; lime wash → Paint; wall emulsion → Paint. *Why:* Fertilisers feed plants, fuels are burned for heat, medicines treat illness, and paints colour and protect surfaces.
 6. (mcq) What do the letters N, P and K on a fertiliser bag stand for?  
-   Options: Nitrogen, phosphorus, potassium / Nickel, platinum, krypton / Nutrient, plant, crop / North, plain, coast  
+   Options: Nickel, platinum, krypton / Nutrient, plant, crop / North, plain, coast / Nitrogen, phosphorus, potassium  
    **Answer:** Nitrogen, phosphorus, potassium. *Why:* N, P and K are the chemical symbols of the three main plant nutrients. K comes from kalium, an old name for potassium.
 7. (order) Put these in order, from the shortest carbon chain to the longest.  
    **Answer:** ['LPG', 'Petrol', 'Diesel', 'Candle wax']. *Why:* LPG has 3 or 4 carbon atoms in a chain, and petrol has about 5 to 12. Diesel has about 12 to 20, and candle wax about 20 to 40.
 8. (truefalse) Burning a hydrocarbon fuel makes carbon dioxide and water.  
    **Answer:** True. *Why:* True. The carbon atoms join with oxygen to make carbon dioxide, and the hydrogen atoms join with oxygen to make water.
 9. (mcq) Why is a child's dose of medicine smaller than a grown-up's?  
-   Options: A child's body is smaller / Children dislike bitter tastes / Medicine is costly / Children are never very ill  
+   Options: Children dislike bitter tastes / Medicine is costly / Children are never very ill / A child's body is smaller  
    **Answer:** A child's body is smaller. *Why:* A medicine spreads through the body. In a smaller body the same amount is stronger, so a child needs less.
 10. (fill) A substance that a factory makes along with its product is called a ____.  
    **Answer:** ['by-product']. *Why:* A by-product is made at the same time as the product. Some by-products can be used, and some are waste.
@@ -528,20 +528,20 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 14. (perspective) Should a farmer use factory fertiliser on a paddy field?  
    **Answer:** Any view with a reason from the unit. One reason is that a harvest carries nutrients away, so something must put them back. Another is that a crop cannot use extra fertiliser, and the extra feeds algae in ponds.. *Why:* Each view has something right in it. A strong answer uses a fact about fertiliser, such as what the crop takes up and where the rest goes.
 15. (mcq) Which raw material do most plastics and wall-paint binders start from?  
-   Options: Crude oil / Sea salt / Limestone / Rain water  
+   Options: Sea salt / Limestone / Crude oil / Rain water  
    **Answer:** Crude oil. *Why:* A refinery supplies the starting substances for plastics. The binder in most wall paint is a plastic of this kind.
 ### Why each product works as it does (stretch, 16 questions)
 1. (mcq) A refinery separates crude oil into its parts. What does it use to separate them?  
-   Options: Their different boiling points / Their different colours / A strong magnet / A fine sieve  
+   Options: Their different colours / Their different boiling points / A strong magnet / A fine sieve  
    **Answer:** Their different boiling points. *Why:* Short carbon chains boil at low temperatures and long chains at high temperatures. So each part is collected at its own height in the tower.
 2. (mcq) Water-based wall paint dries on a wall. What happens to its water?  
-   Options: It evaporates into the air / It turns into pigment / It sinks into the binder / It burns away  
+   Options: It turns into pigment / It sinks into the binder / It burns away / It evaporates into the air  
    **Answer:** It evaporates into the air. *Why:* The water is the solvent. It evaporates, and the binder particles join into a sheet that holds the pigment.
 3. (mcq) Why does lime wash turn hard on a wall?  
-   Options: It reacts with carbon dioxide from the air / It cools down / It soaks up sunlight / Its water turns to stone  
+   Options: It cools down / It soaks up sunlight / It reacts with carbon dioxide from the air / Its water turns to stone  
    **Answer:** It reacts with carbon dioxide from the air. *Why:* Lime takes in carbon dioxide and becomes calcium carbonate, the substance of chalk and limestone. This is a chemical reaction.
 4. (mcq) A crop takes up half of the urea spread on a field. Where can the other half go?  
-   Options: Into ponds, rivers and the air / Back into the bag / Into the grain anyway / Nowhere, because it vanishes  
+   Options: Back into the bag / Into ponds, rivers and the air / Into the grain anyway / Nowhere, because it vanishes  
    **Answer:** Into ponds, rivers and the air. *Why:* Atoms cannot vanish. Nitrogen that the crop does not take up is washed away by rain or lost to the air as gases.
 5. (truefalse) Carbon dioxide is harmful in any amount, however small.  
    **Answer:** False. *Why:* False. You breathe it out, and plants need it. A little in the air keeps the Earth warm enough to live on. The harm comes from too much.
@@ -573,13 +573,13 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
    Options: How the fuel itself was made / Whether its flame is pretty / Who gave it its name / Whether water is wet  
    **Answer:** How the fuel itself was made. *Why:* Hydrogen burns to give only water. But most hydrogen is made from natural gas, and that step gives off carbon dioxide.
 2. (mcq) A paint stays on in a dry rub but smears when wet. What does this show about its binder?  
-   Options: Water softens it again / It is too strong / It holds no pigment / It has reacted with air  
+   Options: It is too strong / Water softens it again / It holds no pigment / It has reacted with air  
    **Answer:** Water softens it again. *Why:* The binder holds the pigment while dry, as rice paste does. Water softens it, so it would not last on an outside wall.
 3. (mcq) Which finding first showed that a substance from living bodies can be made from non-living materials?  
    Options: Urea made from a mineral salt / Rust forming on iron / Ice melting to water / Salt dissolving in water  
    **Answer:** Urea made from a mineral salt. *Why:* Urea is made by the body. In 1828 it was made in a laboratory from a mineral salt, with no kidney involved.
 4. (mcq) A factory doubles what it makes, and changes nothing else. What happens to its by-products?  
-   Options: They double too / They halve / They stay the same / They vanish  
+   Options: They halve / They stay the same / They double too / They vanish  
    **Answer:** They double too. *Why:* Each batch of product comes with its by-products. Twice the product by the same reactions gives twice the by-products.
 5. (truefalse) Scientists have found a small amount of lead that is safe for children.  
    **Answer:** False. *Why:* False. Harm to the growing brain has been found at every amount measured. That is why lead is now kept out of house paint.
@@ -611,34 +611,34 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 
 ## Quiz
 1. (mcq) Fertilisers, medicines, fuels and paints are all made in which way?  
-   Options: By chemical reactions from raw materials / By digging them up ready-made / By picking them from trees / By melting old ones down  
+   Options: By digging them up ready-made / By chemical reactions from raw materials / By picking them from trees / By melting old ones down  
    **Answer:** By chemical reactions from raw materials. *Why:* Each is made by changing a raw material into a new substance. The raw material may be air, rock, crude oil or a plant.
 2. (mcq) Which of these is a raw material?  
-   Options: Crude oil / Petrol / Paracetamol / Wall paint  
+   Options: Petrol / Crude oil / Paracetamol / Wall paint  
    **Answer:** Crude oil. *Why:* Crude oil is taken from nature as it is. Petrol, paracetamol and wall paint are all products made from raw materials.
 3. (mcq) Why do farmers add nitrogen fertiliser to a field?  
    Options: Harvests carry nitrogen away / Soil holds no air / Rain water is too clean / Seeds dislike water  
    **Answer:** Harvests carry nitrogen away. *Why:* The nitrogen inside a crop leaves the field with the harvest. Fertiliser puts nitrogen back for the next crop.
 4. (mcq) What can happen when too much fertiliser washes into a pond?  
-   Options: Algae grow and fish die / The pond freezes over / The water turns salty / The fish grow larger  
+   Options: The pond freezes over / The water turns salty / Algae grow and fish die / The fish grow larger  
    **Answer:** Algae grow and fish die. *Why:* The extra nitrogen feeds algae. When the algae die and rot, the oxygen in the water is used up, and fish cannot breathe.
 5. (mcq) What is a fuel?  
-   Options: A substance that gives heat on burning / Any liquid that flows / A gas found only in air / Any substance with a smell  
+   Options: Any liquid that flows / A gas found only in air / Any substance with a smell / A substance that gives heat on burning  
    **Answer:** A substance that gives heat on burning. *Why:* A fuel stores energy and gives it out as heat when it burns. A fuel can be a gas, a liquid or a solid.
 6. (mcq) Which two substances does burning LPG mainly make?  
    Options: Carbon dioxide and water / Oxygen and nitrogen / Soot and salt / Hydrogen and sand  
    **Answer:** Carbon dioxide and water. *Why:* LPG is made of carbon and hydrogen. Joined with oxygen, the carbon becomes carbon dioxide and the hydrogen becomes water.
 7. (mcq) Which of these medicines was first found in a mould?  
-   Options: Penicillin / Quinine / Aspirin / Artemisinin  
+   Options: Quinine / Aspirin / Penicillin / Artemisinin  
    **Answer:** Penicillin. *Why:* Penicillin comes from the mould Penicillium. Quinine, aspirin and artemisinin each began with a plant.
 8. (mcq) Why are new medicines tested on many volunteers before they are sold?  
-   Options: To check they work and are safe / To make them taste better / To use up spare tablets / To give them a colour  
+   Options: To make them taste better / To use up spare tablets / To check they work and are safe / To give them a colour  
    **Answer:** To check they work and are safe. *Why:* A substance may work in a glass dish and still fail or harm in a body. Only careful tests on many people can show that.
 9. (mcq) The same dose goes into a small body and a big body. In which is it stronger?  
    Options: The small body / The big body / Equally strong in both / It has no strength in either  
    **Answer:** The small body. *Why:* In a small body the dose is spread through less blood and water. This is what the dark small glass showed in One Dose, Two Bodies.
 10. (mcq) What does the solvent in a paint do?  
-   Options: Makes the paint thin enough to spread / Gives the paint its colour / Sticks the pigment to the wall / Stops the wall from cracking  
+   Options: Gives the paint its colour / Sticks the pigment to the wall / Stops the wall from cracking / Makes the paint thin enough to spread  
    **Answer:** Makes the paint thin enough to spread. *Why:* The solvent carries the pigment and the binder, and then evaporates. The pigment gives colour and the binder does the sticking.
 11. (mcq) What is pollution?  
    Options: A substance present in a harmful amount / Anything made in a factory / Any gas at all / Any by-product at all  
@@ -646,7 +646,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 12. (truefalse) Urea can be made only inside a living body.  
    **Answer:** False. *Why:* False. In 1828 urea was made in a laboratory from a mineral salt. Today factories make it from air, natural gas and water.
 13. (mcq) A factory makes a fertiliser that raises harvests, but some of it washes into a pond. What is the best way to think about it?  
-   Options: Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm / It is all good, because a bigger harvest is all that matters / It is all bad, so no farmer should ever use it / Nothing to weigh, because pond water cleans itself at once  
+   Options: It is all good, because a bigger harvest is all that matters / Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm / It is all bad, so no farmer should ever use it / Nothing to weigh, because pond water cleans itself at once  
    **Answer:** Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm. *Why:* A change can have a benefit and a cost at the same time. The bigger harvest is real, and so is the harm in the pond. Good thinking weighs both and looks for ways to cut the harm.
 
 ## Applications

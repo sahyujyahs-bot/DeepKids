@@ -634,10 +634,10 @@
       "q": "A man in a village asked the Gram Panchayat for work 20 days ago and got none. Which law helps him?",
       "options": [
        "The Right to Information Act",
-       "The Right to Education Act",
-       "The rural job guarantee"
+       "The rural job guarantee",
+       "The Right to Education Act"
       ],
-      "a": 2,
+      "a": 1,
       "why": "The rural job guarantee is about paid work for village families. If no work comes within 15 days, he must be paid an allowance. The other two laws are about information and school."
      }
     },
@@ -1119,11 +1119,11 @@
       "t": "mcq",
       "q": "A phone box says 'Made in India', but its parts came from five countries. What does the label tell you?",
       "options": [
-       "Where the phone was put together at the end",
        "Where every part was made",
-       "Where the phone was designed"
+       "Where the phone was designed",
+       "Where the phone was put together at the end"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A 'Made in' label names the country where the thing was finished. The parts can come from many countries, and the design from another. Many people think the label covers every part, but it does not say where the parts were made."
      }
     },
@@ -1369,11 +1369,11 @@
       "t": "mcq",
       "q": "In the Muster Roll Check, how did you find that Suresh might be a fake worker?",
       "options": [
-       "The register said so",
        "He had no job card, and nobody in the village knew him",
+       "The register said so",
        "His name was spelled wrong"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The register alone looked fine. The mistake showed only when it was compared with other evidence: the job cards and what the villagers knew. That is what a social audit does."
      }
     },
@@ -1819,12 +1819,12 @@
   {
    "t": "mcq",
    "p": "You buy a packet of biscuits. Do you pay any tax?",
-   "a": 1,
+   "a": 2,
    "why": "Yes. GST is added to the price of packaged food, so you pay a little tax inside the price, even though you never hand money to the government.",
    "opts": [
     "No, children never pay tax",
-    "Yes, a little GST is in the price",
     "Only if you have a job",
+    "Yes, a little GST is in the price",
     "Only if the shop is big"
    ],
    "outcome": 0
@@ -1845,39 +1845,39 @@
   {
    "t": "mcq",
    "p": "What is a right?",
-   "a": 0,
+   "a": 3,
    "why": "A right is something every person may have or do, which the law protects. It is not a gift that can be taken back.",
    "opts": [
-    "Something every person may have or do, which the law protects",
     "A present from a rich person",
     "A prize for good marks",
-    "A rule only for children"
+    "A rule only for children",
+    "Something every person may have or do, which the law protects"
    ],
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "Which of these is a right that India's laws give?",
-   "a": 3,
+   "a": 2,
    "why": "Every child aged 6 to 14 has the right to a free school place. The others are not rights.",
    "opts": [
     "A free phone",
     "A free car",
-    "A holiday every month",
-    "A free school place for children aged 6 to 14"
+    "A free school place for children aged 6 to 14",
+    "A holiday every month"
    ],
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "A school asks a 6-year-old to pass a test before giving a seat in Class 1. Is that allowed?",
-   "a": 1,
+   "a": 3,
    "why": "No. The Right to Education Act bans tests for small children before admission.",
    "opts": [
     "Yes, schools can test anyone",
-    "No, the Right to Education Act does not allow it",
     "Only if she is a girl",
-    "Only in Chennai"
+    "Only in Chennai",
+    "No, the Right to Education Act does not allow it"
    ],
    "outcome": 2
   },
@@ -1897,12 +1897,12 @@
   {
    "t": "mcq",
    "p": "Why may any citizen ask how public money is spent?",
-   "a": 0,
+   "a": 2,
    "why": "Public money comes mostly from tax that people pay, so it is the people's money.",
    "opts": [
-    "Because it came mostly from the people, as tax",
     "Because officers are bored",
     "Because only rich people pay tax",
+    "Because it came mostly from the people, as tax",
     "Because it is a school rule"
    ],
    "outcome": 3
@@ -1923,12 +1923,12 @@
   {
    "t": "mcq",
    "p": "Under the rural job guarantee, where does a village family ask for work?",
-   "a": 2,
+   "a": 1,
    "why": "The Gram Panchayat is the elected village council. It registers families and gives job cards.",
    "opts": [
     "At a bank",
-    "At a city factory",
     "At the Gram Panchayat",
+    "At a city factory",
     "At the post office"
    ],
    "outcome": 4
@@ -1936,37 +1936,37 @@
   {
    "t": "mcq",
    "p": "At a social audit, what happens?",
-   "a": 3,
+   "a": 0,
    "why": "The work records are read aloud to the village, and the workers say whether they are true.",
    "opts": [
+    "Work records are read aloud, and workers say if they are true",
     "Workers are paid twice",
     "The pond is filled with water",
-    "Officers check the sums in secret",
-    "Work records are read aloud, and workers say if they are true"
+    "Officers check the sums in secret"
    ],
    "outcome": 4
   },
   {
    "t": "mcq",
    "p": "You check 20 things at home. A phone box says 'Made in India', and a shirt says 'Made in Bangladesh'. What does this show?",
-   "a": 0,
+   "a": 3,
    "why": "Things in one home come from many countries. Countries trade, and this is part of globalisation.",
    "opts": [
-    "The home has things from more than one country",
     "Bangladesh is in India",
     "Shirts can't be made in India",
-    "The labels must be wrong"
+    "The labels must be wrong",
+    "The home has things from more than one country"
    ],
    "outcome": 5
   },
   {
    "t": "mcq",
    "p": "Which is a real worry about trade with the whole world?",
-   "a": 1,
+   "a": 0,
    "why": "Cheaper goods from far away can put some local makers, such as handloom weavers or toy makers, out of work.",
    "opts": [
-    "Things get more expensive",
     "Some local makers lose their work",
+    "Things get more expensive",
     "Nobody can buy phones",
     "Ships stop running"
    ],
@@ -1975,12 +1975,12 @@
   {
    "t": "mcq",
    "p": "Some people say officers get too many RTI letters. Others say the letters catch waste. What is the fairest thing to say?",
-   "a": 2,
+   "a": 0,
    "why": "Both sides have real points. A fair answer weighs the time taken against the waste caught.",
    "opts": [
+    "Both have a point, and the evidence matters",
     "Only the officers are right",
     "Only the citizens are right",
-    "Both have a point, and the evidence matters",
     "Nobody should ever ask questions"
    ],
    "outcome": 6
@@ -2002,12 +2002,12 @@
    "t": "mcq",
    "p": "Who may vote in India?",
    "opts": [
-    "Every citizen aged 18 or more, rich or poor",
     "Only people who pay income tax",
     "Only people who can read and write",
+    "Every citizen aged 18 or more, rich or poor",
     "Only men who own land"
    ],
-   "a": 0,
+   "a": 2,
    "why": "India gave every grown-up the vote from the start. It does not depend on money, reading or being a man. Every vote counts the same.",
    "outcome": 1
   },
@@ -2015,12 +2015,12 @@
    "t": "mcq",
    "p": "Which part of the government makes new laws?",
    "opts": [
-    "Parliament and the state assemblies",
     "The officers in the town office",
     "The courts",
-    "The shopkeepers in the market"
+    "The shopkeepers in the market",
+    "Parliament and the state assemblies"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The legislature makes laws, which means Parliament and the state assemblies. Officers carry the laws out, and courts check them.",
    "outcome": 1
   },
@@ -2028,12 +2028,12 @@
    "t": "mcq",
    "p": "On a shop bill, CGST and SGST are two shares of the tax. Who gets each share?",
    "opts": [
-    "CGST goes to the Centre and SGST to the state",
     "CGST goes to the state and SGST to the Centre",
     "Both go to the shop",
-    "Both go to the Gram Panchayat"
+    "Both go to the Gram Panchayat",
+    "CGST goes to the Centre and SGST to the state"
    ],
-   "a": 0,
+   "a": 3,
    "why": "C is for Centre, and S is for state. The tax on one bill is shared between the two governments.",
    "outcome": 1
   },
@@ -2041,12 +2041,12 @@
    "t": "mcq",
    "p": "A man teaches children in a shed. The state has not recognised it as a school. What does the law say?",
    "opts": [
-    "He may not run it as a school, and can be fined",
     "He may run it if the fees are low",
+    "He may not run it as a school, and can be fined",
     "He may run it if he is a graduate",
     "He may run it if there are fewer than 20 children"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A school must be recognised by the state before it teaches children. Without recognition, the owner can be fined up to 1 lakh rupees.",
    "outcome": 2
   },
@@ -2080,12 +2080,12 @@
    "t": "mcq",
    "p": "A court has forbidden a case paper to be shown to anyone. A person asks for it by RTI. What may the office do?",
    "opts": [
-    "Refuse, because the court has forbidden it",
     "Give it, because anyone may ask",
     "Give it only to rich people",
-    "Give it after 100 days"
+    "Give it after 100 days",
+    "Refuse, because the court has forbidden it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The RTI law lets an office keep back anything a court has forbidden. It lists a few other secrets too, such as threats to India's safety.",
    "outcome": 3
   },
@@ -2113,13 +2113,13 @@
     {
      "t": "mcq",
      "p": "A family's supermarket bill has a line called 'GST'. What is GST?",
-     "a": 1,
+     "a": 3,
      "why": "GST is the Goods and Services Tax, added to the price of most things we buy. The shop passes it on to the government. A strong answer knows it is tax, not a shop charge or a discount.",
      "opts": [
       "A discount the shop gives",
-      "Tax that goes to the government",
       "A tip for the cashier",
-      "The shop's profit"
+      "The shop's profit",
+      "Tax that goes to the government"
      ]
     },
     {
@@ -2209,12 +2209,12 @@
     {
      "t": "mcq",
      "p": "A girl aged 11 is told by her family to stop going to school and work at home instead. Which law says she has a right to go to school?",
-     "a": 0,
+     "a": 2,
      "why": "The Right to Education Act gives every child aged 6 to 14 the right to free school. The other laws are about information and work.",
      "opts": [
-      "The Right to Education Act",
       "The Right to Information Act",
       "The rural job guarantee",
+      "The Right to Education Act",
       "GST"
      ]
     },
@@ -2371,13 +2371,13 @@
     {
      "t": "mcq",
      "p": "A new phone box says 'Assembled in India'. What does that tell you?",
-     "a": 2,
+     "a": 3,
      "why": "Assembled means put together. The parts may have been made in other countries, then joined in a factory in India.",
      "opts": [
       "Every part was made in India",
       "The phone was designed in India",
-      "The parts were joined together in India",
-      "The phone will only work in India"
+      "The phone will only work in India",
+      "The parts were joined together in India"
      ],
      "how": "e2"
     },
@@ -2398,13 +2398,13 @@
     {
      "t": "mcq",
      "p": "Which of these must a job-guarantee work site have?",
-     "a": 0,
+     "a": 3,
      "why": "A work site must have drinking water, shade and first aid for the workers.",
      "opts": [
-      "Drinking water and shade",
       "A shop selling tea",
       "A school for the workers",
-      "A bank"
+      "A bank",
+      "Drinking water and shade"
      ]
     },
     {
@@ -2489,13 +2489,13 @@
     {
      "t": "mcq",
      "p": "A wooden toy is made in Channapatna, near Bengaluru. A plastic toy is made in a giant factory far away. Why might the far-away toy cost less?",
-     "a": 0,
+     "a": 3,
      "why": "Giant factories make huge numbers of the same thing, so each one costs little to make. Big ships carry them cheaply. A strong answer sees that distance is not the only thing that sets a price.",
      "opts": [
-      "The factory makes huge numbers, and ships carry them cheaply",
       "Far-away things never have tax",
       "Plastic is free",
-      "Wood is a rare material"
+      "Wood is a rare material",
+      "The factory makes huge numbers, and ships carry them cheaply"
      ]
     },
     {
@@ -2703,12 +2703,12 @@
     {
      "t": "mcq",
      "p": "A woman who works on a village pond was paid for 12 days but worked 15. Which record would help her most at the social audit?",
-     "a": 1,
+     "a": 2,
      "why": "Her own job card shows the days she really worked. Comparing it with the register shows the mistake.",
      "opts": [
       "A photo of the pond",
-      "Her job card",
       "The officer's diary",
+      "Her job card",
       "Her bus ticket"
      ]
     },
@@ -2749,13 +2749,13 @@
     {
      "t": "mcq",
      "p": "Which of these would be the best evidence that the job guarantee helped poor families?",
-     "a": 3,
+     "a": 0,
      "why": "A careful study compares families with and without the work, and measures something real, such as meals. A speech or one story can't show how common something is.",
      "opts": [
+      "A study comparing how many meals families ate in villages with and without the work",
       "A minister's speech saying it worked",
       "One happy family on TV",
-      "The number of posters printed",
-      "A study comparing how many meals families ate in villages with and without the work"
+      "The number of posters printed"
      ]
     },
     {
@@ -2810,12 +2810,12 @@
     {
      "t": "mcq",
      "p": "A woman in a village asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?",
-     "a": 0,
+     "a": 2,
      "why": "If no work comes within 15 days, the receipt proves when she asked, so she can claim the allowance.",
      "opts": [
-      "It proves when she asked, so she can claim the allowance if no work comes",
       "It is her wage",
       "It lets her skip the queue",
+      "It proves when she asked, so she can claim the allowance if no work comes",
       "It is a ticket to the city"
      ]
     },
@@ -2850,13 +2850,13 @@
     {
      "t": "mcq",
      "p": "Which of these could an office refuse to answer under the Right to Information Act?",
-     "a": 1,
+     "a": 3,
      "why": "Information about a private person's own money can be kept back, unless it is in the public interest. The others are about public money and services.",
      "opts": [
       "How much the new bus stop cost",
-      "How much money a private person has in the bank",
       "How many doctors work at the government hospital",
-      "When the school's roof will be repaired"
+      "When the school's roof will be repaired",
+      "How much money a private person has in the bank"
      ]
     },
     {

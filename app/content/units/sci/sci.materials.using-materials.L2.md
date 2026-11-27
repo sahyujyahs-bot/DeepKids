@@ -356,7 +356,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 1. (match) Draw a line from each job to the property it needs most.  
    **Answer:** a tray mat → grips; a raincoat → waterproof; a towel → soaks up water; a window → see-through. *Why:* Each job needs a different property. We choose the material by what the job needs.
 2. (mcq) In the tilt test, what do we measure?  
-   Options: How high the lifted end is when the katori slides / How heavy the katori is / How long the board is  
+   Options: How heavy the katori is / How high the lifted end is when the katori slides / How long the board is  
    **Answer:** How high the lifted end is when the katori slides. *Why:* We read the height of the lifted end at the moment the katori starts to slide. A bigger height means more grip.
 3. (truefalse) Friction is the grip between two things that touch.  
    **Answer:** True. *Why:* True. Friction stops things sliding. It is why your chappal does not slip on the road.
@@ -367,7 +367,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 6. (write) Why are chappal soles made of rubber? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** Rubber grips the road, so you don't slip. It also bends when you walk.. *Why:* A strong answer names the property, grip, and says why the job needs it.
 7. (mcq) A park needs a new slide. Which property does the material for the slide need?  
-   Options: It grips well / It soaks up water / It is slippery  
+   Options: It is slippery / It grips well / It soaks up water  
    **Answer:** It is slippery. *Why:* A slide must let children slide down. A grippy material, like a rubber mat, would make them stop halfway.
 8. (fill) The grip between two things that touch is called ____.  
    **Answer:** ['friction']. *Why:* Friction is the real word for grip between surfaces.
@@ -377,7 +377,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
    **Answer:** 1. *Why:* 5 materials take away the 4 that slid off leaves 1. In the tilt test, that one is usually the rubber.
 ### What Does the Job Need? (stretch) (stretch, 10 questions)
 1. (mcq) Someone says, 'Steel is good for a tumbler because it is shiny.' What does a tumbler really need?  
-   Options: To be shiny / To hold water and not break when dropped / To be cold  
+   Options: To be shiny / To be cold / To hold water and not break when dropped  
    **Answer:** To hold water and not break when dropped. *Why:* Being shiny does not help a tumbler hold water. Shiny is a property of steel, but it is not one the job needs.
 2. (write) The steps of a city bus get wet in the rain. People must not slip on them. What material would you put on the steps, and why?  
    **Answer:** Rubber, or rough metal with ridges, because it grips wet shoes.. *Why:* A strong answer says the job needs grip, even when wet, and names a grippy material.
@@ -405,12 +405,12 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 2. (write) A mixture was made for one job, but it turned out to be right for a different one. Water and oil run straight off it. What everyday job could it be right for, and what property makes it right?  
    **Answer:** Keeping cloth clean, as a stain guard. Water and oil run off it, so spills and dirt do not soak in.. *Why:* A strong answer names the new job and the property that made the material suit it.
 3. (mcq) The tilt test was done once, and the katori slid off the cloth at 12 cm. Then a second person did it and got 9 cm. What should they do?  
-   Options: Believe the first try only / Try it 3 more times and look at the middle number / Stop testing  
+   Options: Try it 3 more times and look at the middle number / Believe the first try only / Stop testing  
    **Answer:** Try it 3 more times and look at the middle number. *Why:* One try can be a fluke. More tries show what usually happens.
 4. (draw) Design a tray for a tea seller who carries tumblers of tea through a moving train. Label the material on top and say why you chose it.  
    **Answer:** A tray with a rubber mat, or holes for each tumbler, labelled with the material and the reason.. *Why:* A strong design gives grip, or holds each tumbler in place, because the train shakes and tips.
 5. (mcq) A ramp at the entrance of a building helps people in wheelchairs and people with walking sticks. Which surface is most suitable?  
-   Options: Polished smooth, like a mirror / Covered with a plastic sheet / Rough, so it grips wheels and feet  
+   Options: Rough, so it grips wheels and feet / Polished smooth, like a mirror / Covered with a plastic sheet  
    **Answer:** Rough, so it grips wheels and feet. *Why:* A ramp is a slope. Without grip, wheels and feet slide back down, as the katori slid off the plastic in the tilt test.
 6. (sort) Sort each job by the property it needs most.  
    **Answer:** a tray mat → Grip; a slide → Slip; a raincoat → Waterproof; a mop → Soaks up water; a carrom board → Slip; an umbrella → Waterproof; the feet of a mixie → Grip; a kitchen sponge → Soaks up water. *Why:* Every job has its own needs. The same material can be right for one and wrong for another.
@@ -433,13 +433,13 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
    Options: A kind of rubber / The grip between two things that touch / Water on a floor  
    **Answer:** The grip between two things that touch. *Why:* Friction is grip between surfaces. Picking 'a kind of rubber' mixes up the grip with one material that grips well.
 2. (mcq) You put a katori on rubber bands and then on a plastic sheet, and tilt the board each time. Which holds the katori on a steeper tilt?  
-   Options: The rubber bands / The plastic sheet / Both the same  
+   Options: The plastic sheet / The rubber bands / Both the same  
    **Answer:** The rubber bands. *Why:* Rubber grips much better. Picking 'both the same' may mean thinking only the katori matters, not what it sits on.
 3. (mcq) Which job needs a slippery material?  
    Options: A chappal sole / A bathroom mat / A slide in the park  
    **Answer:** A slide in the park. *Why:* A slide must let you slide down. Chappals and bathroom mats must stop you slipping.
 4. (mcq) Why is rubber a poor material to cover a slide?  
-   Options: It is too shiny / It grips, so you would stop halfway / It is see-through  
+   Options: It grips, so you would stop halfway / It is too shiny / It is see-through  
    **Answer:** It grips, so you would stop halfway. *Why:* Rubber grips, so you would stop halfway down. The same grip is what makes rubber a good tray mat.
 5. (mcq) A tumbler is made of steel. Which property matters most for a tumbler's job?  
    Options: It holds water and does not break when dropped / It is shiny / It feels cold  
@@ -451,16 +451,16 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
    Options: Foil / A plastic sheet / Rubber  
    **Answer:** Rubber. *Why:* Rubber grips. Foil and a plastic sheet are smooth, so the tumblers slide.
 8. (mcq) You think cloth will grip better than newspaper. What should you do next?  
-   Options: Test both on the tilted board and compare / Write it down as true / Ask a friend only  
+   Options: Write it down as true / Ask a friend only / Test both on the tilted board and compare  
    **Answer:** Test both on the tilted board and compare. *Why:* A guess becomes something we know only after a test.
 9. (mcq) A new material makes water and oil run straight off it, instead of soaking in. Which job would it be right for?  
-   Options: Making tyres / Keeping cloth clean / Building slides  
+   Options: Making tyres / Building slides / Keeping cloth clean  
    **Answer:** Keeping cloth clean. *Why:* If water and oil run off, spills cannot soak into cloth, so it works as a stain guard. A material wrong for one job can be right for another.
 10. (mcq) A raincoat must keep water out and bend when you move. Which material is suitable?  
-   Options: Newspaper / Steel / Plastic  
+   Options: Newspaper / Plastic / Steel  
    **Answer:** Plastic. *Why:* Plastic is waterproof and flexible. Steel is waterproof but rigid. Newspaper soaks up water.
 11. (mcq) Why does soft rubber grip a katori so well?  
-   Options: It squashes into the tiny bumps and touches in many places / It is wet / It is heavy  
+   Options: It is wet / It is heavy / It squashes into the tiny bumps and touches in many places  
    **Answer:** It squashes into the tiny bumps and touches in many places. *Why:* More places touching means more grip. Picking 'it is wet' may come from thinking of wet floors, but water usually makes things slip.
 
 ## Applications

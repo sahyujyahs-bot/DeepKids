@@ -405,11 +405,11 @@
       "t": "mcq",
       "q": "How did people find out that soap turns haldi red?",
       "options": [
-       "Someone tried it and looked",
        "A king said so",
+       "Someone tried it and looked",
        "Nobody knows"
       ],
-      "a": 0,
+      "a": 1,
       "why": "People found out by trying it. You can try it too, and see the same thing. That is how a test works."
      }
     }
@@ -499,10 +499,10 @@
       "q": "Which of these is a 'wonder'?",
       "options": [
        "The window is open.",
-       "Why do birds sit on wires?",
-       "I dropped a spoon."
+       "I dropped a spoon.",
+       "Why do birds sit on wires?"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A wonder is a question. 'Why do birds sit on wires?' is a question. The others say what happened or what you see."
      }
     }
@@ -653,10 +653,10 @@
       "q": "In the Haldi Test, the soap box went red and the lemon box stayed yellow. What did the test show?",
       "options": [
        "All liquids turn haldi red",
-       "Soap turns haldi red, and lemon does not",
-       "Haldi turns red by itself"
+       "Haldi turns red by itself",
+       "Soap turns haldi red, and lemon does not"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each liquid had its own box, and only the liquid changed. So the red came from the soap, not from the paper or the water."
      }
     }
@@ -747,11 +747,11 @@
       "t": "mcq",
       "q": "Soap made haldi red. Lemon made it yellow again. What happens if you add soap again?",
       "options": [
-       "It goes red again",
        "It goes black",
-       "Nothing ever changes it again"
+       "Nothing ever changes it again",
+       "It goes red again"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The haldi colouring is still there. Soap turns it red, and lemon turns it yellow again."
      },
      "parent": "The soap has to use up the lemon first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon."
@@ -1006,11 +1006,11 @@
       "t": "mcq",
       "q": "The old book gave Tu Youyou a clue. What did her test do?",
       "options": [
-       "It showed whether her guess was right",
        "It wrote a new book",
-       "It changed nothing"
+       "It changed nothing",
+       "It showed whether her guess was right"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A clue is only a start. She made the medicine without much heat and tested it, and the test showed her guess was right."
      }
     }
@@ -1203,11 +1203,11 @@
    "t": "mcq",
    "p": "What does a scientist do?",
    "opts": [
-    "Notices, asks questions and tests ideas",
     "Only reads books",
-    "Only wears a white coat"
+    "Only wears a white coat",
+    "Notices, asks questions and tests ideas"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Scientists find out by noticing, asking and testing. Anyone can do these things, with or without a white coat.",
    "outcome": 0
   },
@@ -1215,11 +1215,11 @@
    "t": "mcq",
    "p": "Who can be a scientist?",
    "opts": [
-    "Only grown-up men",
     "Anyone who is curious and tests their ideas",
+    "Only grown-up men",
     "Only people from far away"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Girls, boys, women and men from every country have made discoveries. Mary Anning started as a girl.",
    "outcome": 1
   },
@@ -1240,11 +1240,11 @@
    "t": "mcq",
    "p": "In the haldi test, why did each liquid get its own box?",
    "opts": [
-    "So we could tell which liquid made the colour change",
     "To make the paper look nice",
+    "So we could tell which liquid made the colour change",
     "Because the paper was too big"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If two liquids touched the same box, we would not know which one changed the colour. One liquid in each box keeps the test fair.",
    "outcome": 5,
    "how": "e1"
@@ -1253,11 +1253,11 @@
    "t": "mcq",
    "p": "A scientist is looking for a new medicine. Where could she find a clue?",
    "opts": [
-    "In old books about medicine, which she then tests",
     "On the Moon",
+    "In old books about medicine, which she then tests",
     "In a dream, with no test"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Old books hold what people tried long ago. A clue from them is a start, but it must be tested. Tu Youyou found her clue this way.",
    "outcome": 3
   },
@@ -1266,10 +1266,10 @@
    "p": "Tu Youyou guessed that heat was spoiling the medicine. How did she find out if she was right?",
    "opts": [
     "She asked a king",
-    "She made it without much heat and tested it",
-    "She stopped looking"
+    "She stopped looking",
+    "She made it without much heat and tested it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "She tested her guess. The medicine made without much heat worked.",
    "outcome": 3
   },
@@ -1277,11 +1277,11 @@
    "t": "mcq",
    "p": "Where do discoveries in science come from?",
    "opts": [
-    "People in every country",
     "Only one country",
-    "Only rich countries"
+    "Only rich countries",
+    "People in every country"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Anyone who asks questions and tests them can find things out. Great scientists have come from India, China, England and everywhere else.",
    "outcome": 4
   },
@@ -1290,10 +1290,10 @@
    "p": "You guess that salt turns haldi red. What should you do?",
    "opts": [
     "Believe your guess",
-    "Test it with salt water on haldi paper",
-    "Ask a friend to guess too"
+    "Ask a friend to guess too",
+    "Test it with salt water on haldi paper"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A guess needs a test. If you try salt water on haldi, you will see it stays yellow.",
    "outcome": 5,
    "how": "e1"
@@ -1302,11 +1302,11 @@
    "t": "mcq",
    "p": "A red soap spot is on yellow haldi paper. You add lemon juice. What happens?",
    "opts": [
-    "It turns black",
     "It turns yellow again",
+    "It turns black",
     "It gets more red"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Lemon turns the red haldi colouring back to yellow.",
    "outcome": 2,
    "how": "e2"
@@ -1315,11 +1315,11 @@
    "t": "mcq",
    "p": "Long ago, Aryabhata said the Earth spins round. What do we see every day that fits his idea?",
    "opts": [
-    "The Sun seems to rise and set",
     "The Earth looks flat",
-    "The Earth is a square"
+    "The Earth is a square",
+    "The Sun seems to rise and set"
    ],
-   "a": 0,
+   "a": 2,
    "why": "As the Earth spins, our side turns towards the Sun and away again. So the Sun seems to rise and set. Aryabhata in India said the Earth spins.",
    "outcome": 4
   }
@@ -1376,11 +1376,11 @@
      "t": "mcq",
      "p": "In the story, Meenakshi rubbed haldi paper hard with a dry finger, and it stayed yellow. Then soap turned it red. What did the rubbing show?",
      "opts": [
-      "Rubbing is not what turns haldi red",
       "Haldi never changes",
-      "Soap is not needed"
+      "Soap is not needed",
+      "Rubbing is not what turns haldi red"
      ],
-     "a": 0,
+     "a": 2,
      "why": "She tried the rubbing on its own, and nothing changed. So the red came from something else: the soap."
     },
     {
@@ -1501,11 +1501,11 @@
      "t": "mcq",
      "p": "In The Secret Red Message, your hidden soap word turned red when you brushed haldi water on it. What does that show?",
      "opts": [
-      "The soap was still there, though you could not see it",
       "Haldi can read",
+      "The soap was still there, though you could not see it",
       "The paper was red"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The dried soap was hard to see, but it was still on the paper. The haldi showed where it was.",
      "how": "a2"
     },

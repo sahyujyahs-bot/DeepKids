@@ -567,7 +567,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 ## Worksheets
 ### Mass Extinctions and Recovery (core) (core, 15 questions)
 1. (mcq) What is a mass extinction?  
-   Options: Most species on Earth ending within a short time / One species ending in one forest / Many animals dying in one cold winter / A species moving to a new place  
+   Options: One species ending in one forest / Most species on Earth ending within a short time / Many animals dying in one cold winter / A species moving to a new place  
    **Answer:** Most species on Earth ending within a short time. *Why:* A mass extinction ends most species, all over the world, in a short stretch of geological time. One hard winter kills many animals but ends no species.
 2. (fill) The slow, steady ending of species in normal times is called ____ extinction.  
    **Answer:** ['background']. *Why:* A few species end in every million years, even when nothing unusual happens. That steady loss is the background.
@@ -578,7 +578,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 5. (match) Match each mass extinction to a likely cause.  
    **Answer:** End of the Ordovician → ice sheets and a falling sea; End of the Permian → huge eruptions in Siberia; End of the Triassic → lava where the Atlantic opened; End of the Cretaceous → an asteroid strike, with eruptions in India. *Why:* Each one had a different cause. In each, the air, the sea or the climate changed too fast for most species.
 6. (mcq) Which rare metal in a thin clay layer was the first clue to an asteroid strike?  
-   Options: Iridium / Iron / Gold / Copper  
+   Options: Iron / Gold / Copper / Iridium  
    **Answer:** Iridium. *Why:* Asteroids hold far more iridium than Earth's surface rocks. Iron is common in ordinary rock, so it would be no clue.
 7. (sort) Sort these by what happened to them 66 million years ago.  
    **Answer:** big dinosaurs → Ended; ammonites → Ended; crocodiles → Lived on; small mammals → Lived on; mosasaurs → Ended; turtles → Lived on; ground birds → Lived on; frogs → Lived on. *Why:* Large animals and those who depended on fresh plants or floating algae ended. Small animals with shelter, and those in rivers, mostly lived.
@@ -587,7 +587,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 9. (truefalse) True or false: after a mass extinction, the lost species come back.  
    **Answer:** False. *Why:* False. A lost species never returns. New and different species arise from the survivors.
 10. (mcq) Which land animals mostly survived the asteroid strike?  
-   Options: Small ones with shelter who ate insects or seeds / The largest plant-eaters / The largest meat-eaters / Animals who lived in treetops  
+   Options: The largest plant-eaters / Small ones with shelter who ate insects or seeds / The largest meat-eaters / Animals who lived in treetops  
    **Answer:** Small ones with shelter who ate insects or seeds. *Why:* Small animals need little food, and insects and seeds were still there. Choosing the largest animals mixes up strength with what the dark months demanded.
 11. (fill) A species thought to be extinct and then found alive is called a ____ species.  
    **Answer:** ['Lazarus']. *Why:* The coelacanth and Jerdon's courser are Lazarus species. Each was missed for a very long time.
@@ -602,7 +602,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
    **Answer:** A strong answer picks a side and gives evidence, such as how long the big dinosaurs or the trilobites lasted. It also says what the other child has right: some species do end because rivals do better.. *Why:* The second child is closer to what the rocks show for mass extinctions. In normal times, though, a species can lose out to others, so the first child is not wholly wrong.
 ### Who Survives, and How We Know (stretch) (stretch, 15 questions)
 1. (mcq) Why did shell-building sea animals suffer most at the end of the Permian?  
-   Options: Dissolved carbon dioxide made the sea more acid / The sea froze solid / Fishing boats caught them / The sea dried up  
+   Options: The sea froze solid / Dissolved carbon dioxide made the sea more acid / Fishing boats caught them / The sea dried up  
    **Answer:** Dissolved carbon dioxide made the sea more acid. *Why:* Carbon dioxide from the eruptions dissolved in the sea and made a weak acid. Shells are harder to build in more acid water. There were no people or boats then.
 2. (write) Great size helped dinosaurs for millions of years. Explain why it became a danger after the asteroid strike.  
    **Answer:** A large body needs a lot of food every day. With sunlight blocked, plants died and food ran out. Large animals starved first. Small animals needed little and could shelter.. *Why:* A strong answer links size to food, and says that the same feature can help in one world and harm in another.
@@ -613,7 +613,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 5. (order) Put these in order, starting from the asteroid strike.  
    **Answer:** ['Dust and soot block the Sun', 'Ferns cover the bare ground', 'Forests grow back', 'Some mammals reach 50 kilograms']. *Why:* Darkness came first. Ferns grew from spores, then forests returned. Large mammals appeared hundreds of thousands of years later.
 6. (mcq) In a refill game, a group holding 2 squares may add at most 2 more. What does this rule stand for?  
-   Options: New species arise only from living species / Small groups are lazy / The die is unfair / Species grow bigger each round  
+   Options: Small groups are lazy / The die is unfair / New species arise only from living species / Species grow bigger each round  
    **Answer:** New species arise only from living species. *Why:* Each new species splits off from one that already exists. So a group with few species can add only a few at a time.
 7. (fill) The splitting of one group into many new species that fill empty niches is an adaptive ____.  
    **Answer:** ['radiation']. *Why:* After the big dinosaurs ended, mammals went through an adaptive radiation into bats, whales, horses and many more.
@@ -624,7 +624,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 10. (label) Draw a time line from 500 million years ago to now. Label the five mass extinctions on it.  
    **Answer:** ['End of the Ordovician, about 444 million years ago', 'Late Devonian, about 370 million years ago', 'End of the Permian, about 252 million years ago', 'End of the Triassic, about 201 million years ago', 'End of the Cretaceous, about 66 million years ago']. *Why:* The gaps between them are uneven. Mass extinctions do not come on a timetable.
 11. (mcq) About how long did the number of species take to recover after past extinctions?  
-   Options: About 10 million years / About 100 years / About 10,000 years / It never recovered  
+   Options: About 100 years / About 10,000 years / It never recovered / About 10 million years  
    **Answer:** About 10 million years. *Why:* A study of the whole record of sea life found about 10 million years. That is more than 30 times as long as our species has existed.
 12. (truefalse) True or false: a species that nobody has seen for 50 years must be extinct.  
    **Answer:** False. *Why:* False. Jerdon's courser was missed for 86 years and found alive. Small, rare animals who are active at night are easy to miss.
@@ -634,13 +634,13 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
    Options: Growing ice sheets / Huge lava floods / An asteroid strike / A tiger hunting deer  
    **Answer:** 3. *Why:* Ice, lava floods and an asteroid changed the whole Earth's air, sea or climate. A predator hunting prey is part of normal life and ends no species by itself.
 15. (mcq) Why were rivers and lakes hit less hard than the open sea after the strike?  
-   Options: Dead matter washed in from the land fed them / Rivers have no animals / The dust did not reach rivers / River water is always warm  
+   Options: Rivers have no animals / The dust did not reach rivers / River water is always warm / Dead matter washed in from the land fed them  
    **Answer:** Dead matter washed in from the land fed them. *Why:* River food chains can run on dead leaves and other detritus from the land. Food chains of the open sea begin with floating algae, who need light.
 ### Extinction Today and Big Questions (challenge) (challenge, 15 questions)
 1. (write) Normally 2 species in 10,000 end every 100 years. How many of 40,000 species should end in 100 years?  
    **Answer:** 8 species. 40,000 is 4 lots of 10,000, and 4 × 2 = 8.. *Why:* This is the expected number for normal times. Real losses are compared with it.
 2. (mcq) Since 1900, 477 species were lost where 9 were expected. About how many times the normal number is that?  
-   Options: About 50 times / About 5 times / About 470 times / About 9 times  
+   Options: About 5 times / About 470 times / About 50 times / About 9 times  
    **Answer:** About 50 times. *Why:* 477 ÷ 9 = 53, which is about 50 times. Subtracting 9 from 477 gives the extra losses, not how many times.
 3. (perspective) Two scientists argue about what to call today's extinctions.  
    **Answer:** A strong answer picks a side and uses numbers. For 'already begun': losses are about 50 times normal, and over one in four checked species are at risk. For 'not yet': fewer than 1 in 100 named species are recorded lost, and a mass extinction means 3 in 4.. *Why:* The two agree on the facts and on the danger. They differ on the word. Seeing that is part of a strong answer.
@@ -658,7 +658,7 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
 9. (draw) Draw a branching tree of life. Show a mass extinction cutting most branches, and what grows afterwards.  
    **Answer:** A tree with many branches. A line across the tree ends most of them. A few branches pass the line and split into many new twigs. The cut branches do not regrow.. *Why:* A strong drawing shows three things: most branches end, a few continue, and the new twigs come only from those few.
 10. (mcq) Suppose the asteroid had missed the Earth. Why might humans never have appeared?  
-   Options: Big dinosaurs would have kept the niches of large animals / Mammals did not exist yet / The Earth would be too hot / Humans come from dinosaurs  
+   Options: Mammals did not exist yet / Big dinosaurs would have kept the niches of large animals / The Earth would be too hot / Humans come from dinosaurs  
    **Answer:** Big dinosaurs would have kept the niches of large animals. *Why:* Mammals already existed, but stayed small while big dinosaurs held the niches for large land animals. Large mammals, including apes, arose only after those niches emptied.
 11. (fill) Unrelated animals arriving at the same answer to the same problem is called ____.  
    **Answer:** ['convergence']. *Why:* Dolphins and ichthyosaurs are unrelated, and both have the body shape of a fast fish. That is convergence.
@@ -682,34 +682,34 @@ He named the fish Latimeria, after her. It took fourteen years to find the secon
    Options: A few species end in every million years / Most species end in a short time / Species that ended come back / No species ever ends  
    **Answer:** A few species end in every million years. *Why:* Background extinction is the slow, steady loss of normal times. Most species ending in a short time is a mass extinction.
 2. (mcq) Which of these would count as a mass extinction?  
-   Options: Three quarters of all species end within a short time / A lake dries and one fish species ends / A flood kills many animals in one state / A forest loses half of the trees  
+   Options: A lake dries and one fish species ends / A flood kills many animals in one state / Three quarters of all species end within a short time / A forest loses half of the trees  
    **Answer:** Three quarters of all species end within a short time. *Why:* A mass extinction ends most species across the world. A flood or a lost forest kills many living beings, but that is different from ending most species.
 3. (mcq) Which mass extinction was the largest?  
    Options: End of the Permian / End of the Cretaceous / End of the Triassic / End of the Ordovician  
    **Answer:** End of the Permian. *Why:* About 8 in 10 sea species ended about 252 million years ago. The end of the Cretaceous is the best known, because of the dinosaurs, but was smaller.
 4. (mcq) Which mass extinction has clear signs of an asteroid strike?  
-   Options: End of the Cretaceous / End of the Permian / Late Devonian / End of the Ordovician  
+   Options: End of the Permian / Late Devonian / End of the Ordovician / End of the Cretaceous  
    **Answer:** End of the Cretaceous. *Why:* The crater and the iridium layer are both 66 million years old. The end of the Permian is linked to eruptions in Siberia.
 5. (mcq) After a mass extinction, where do the new species come from?  
-   Options: From the species that survived / From the species that ended / From other planets / From rocks and soil  
+   Options: From the species that ended / From other planets / From the species that survived / From rocks and soil  
    **Answer:** From the species that survived. *Why:* Every new species splits off from a living one. That is why the group you wiped out never returned to your board.
 6. (mcq) Why do new species arise faster after a mass extinction than before?  
-   Options: Many niches are empty / The survivors try harder / The Sun is brighter / Fossils form faster  
+   Options: The survivors try harder / The Sun is brighter / Fossils form faster / Many niches are empty  
    **Answer:** Many niches are empty. *Why:* With few rivals, more varieties can live and have young, and natural selection fits them to the empty niches. Trying harder does not change what is inherited.
 7. (mcq) Which animal was most likely to survive the asteroid strike?  
-   Options: A small burrowing insect-eater / A giant plant-eater / A giant meat-eater / A treetop bird  
+   Options: A giant plant-eater / A small burrowing insect-eater / A giant meat-eater / A treetop bird  
    **Answer:** A small burrowing insect-eater. *Why:* A small animal needs little food, insects lived on, and a burrow gave shelter. Giants starved, and the forests that treetop birds needed were lost.
 8. (mcq) In the dark months, why did food chains that begin with dead leaves keep going?  
-   Options: Dead matter was there without sunlight / Dead leaves make their own food / Insects stopped eating / Dead leaves grew back  
+   Options: Dead leaves make their own food / Dead matter was there without sunlight / Insects stopped eating / Dead leaves grew back  
    **Answer:** Dead matter was there without sunlight. *Why:* Fallen leaves and wood were already lying there, so the animals who eat them still had food. Chains that begin with living plants stopped when the plants could not make food.
 9. (mcq) A rare species' last fossil lies eight layers below a boundary. What is the fairest conclusion?  
-   Options: They may have lived up to the boundary / They surely ended eight layers early / They never existed / They are alive today  
+   Options: They surely ended eight layers early / They never existed / They may have lived up to the boundary / They are alive today  
    **Answer:** They may have lived up to the boundary. *Why:* Rare species leave gaps, so the last fossil is usually below the real end. Choosing 'surely ended early' reads the gap as the truth.
 10. (mcq) Which finding points to an asteroid and not to volcanoes?  
    Options: Quartz grains with shock cracks / Thick layers of lava / Fern spores above the layer / Warming of the climate  
    **Answer:** Quartz grains with shock cracks. *Why:* Only a huge sudden shock cracks quartz in that way. Lava points to volcanoes, and fern spores and warming fit both causes.
 11. (mcq) What do scientists agree about extinction today?  
-   Options: Species are ending faster than normal, because of people / Three quarters of species are already gone / No species has ended since 1900 / The rate is the same as always  
+   Options: Three quarters of species are already gone / No species has ended since 1900 / Species are ending faster than normal, because of people / The rate is the same as always  
    **Answer:** Species are ending faster than normal, because of people. *Why:* The rate is many times the normal one, and the causes are things people do. But most species are still alive, so three quarters gone is wrong.
 12. (mcq) Fewer than 1 in 100 named species are recorded as lost. Why are scientists still worried?  
    Options: The rate of loss is far above normal / They enjoy worrying / Fossils are running out / An asteroid is coming  

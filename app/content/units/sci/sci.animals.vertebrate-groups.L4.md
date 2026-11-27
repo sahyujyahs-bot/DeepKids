@@ -558,7 +558,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 ## Worksheets
 ### Senses of the five groups (core) (core, 17 questions)
 1. (mcq) Which sense organ does a fish use to feel water moving along her sides?  
-   Options: The lateral line / The eardrum / The heat pit / The ear flap  
+   Options: The eardrum / The heat pit / The lateral line / The ear flap  
    **Answer:** The lateral line. *Why:* The lateral line is a row of tiny sensors along a fish's sides. Hairs in it bend when water moves. An eardrum is for sound, a heat pit is for warmth, and an ear flap collects sound.
 2. (truefalse) All animals with a backbone use exactly the same senses in exactly the same way.  
    **Answer:** False. *Why:* False. All five groups have eyes, ears, a nose and touch, but each group has developed some of them much further. Fish have a lateral line, some snakes have heat pits, and many birds see ultraviolet.
@@ -567,14 +567,14 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 4. (match) Match each part to what it does.  
    **Answer:** Lateral line → feels moving water; Heat pit → feels the warmth of a body from a distance; Eardrum → shakes when sound reaches it; Cone → senses colour in the eye. *Why:* Each sense organ picks up one kind of signal. The lateral line feels water movement, the heat pit feels infrared, the eardrum shakes with sound, and a cone reacts to colour.
 5. (mcq) Where does a frog's eardrum sit?  
-   Options: Flat on the skin of her head, with no ear flap / Deep inside her head, behind an ear flap / At the end of her tail / Under her tongue  
+   Options: Deep inside her head, behind an ear flap / At the end of her tail / Under her tongue / Flat on the skin of her head, with no ear flap  
    **Answer:** Flat on the skin of her head, with no ear flap. *Why:* A frog's eardrum is a round disc on the outside of her head, behind the eye. She has no ear flap. Mammals are the animals with ear flaps.
 6. (sort) Sort each sense under the group that is best known for it.  
    **Answer:** lateral line → Fish; heat pits on the lips → Reptile; a fourth colour cone for ultraviolet → Bird; three tiny middle-ear bones → Mammal; a forked tongue gathering scent → Reptile; taste cells on whiskers → Fish. *Why:* These are the best-known examples. Some of these senses are shared. Many fish and reptiles also see ultraviolet, for example. But the lateral line, the three middle-ear bones and the forked tongue are best known in the groups shown.
 7. (truefalse) A dog sees only in black and white.  
    **Answer:** False. *Why:* False. Dogs have two kinds of colour cones. They tell blue from yellow, but cannot tell red from green. Some people cannot tell red from green either.
 8. (mcq) Why do many hunted animals, such as pigeons and horses, have eyes on the sides of the head?  
-   Options: Side eyes give a very wide view, so they can spot a hunter from almost any side / Side eyes help to judge distance / Side eyes let them see in the dark / Side eyes make the head lighter  
+   Options: Side eyes help to judge distance / Side eyes let them see in the dark / Side eyes give a very wide view, so they can spot a hunter from almost any side / Side eyes make the head lighter  
    **Answer:** Side eyes give a very wide view, so they can spot a hunter from almost any side. *Why:* Eyes on the sides see a very wide view. But the two eyes share very little space, so judging distance is harder. Judging distance is what front eyes do best.
 9. (count) A pigeon sees about 340 degrees around her. A person sees about 200 degrees. How many more degrees does the pigeon see?  
    **Answer:** 140. *Why:* 340 take away 200 is 140. The pigeon sees 140 degrees more than a person.
@@ -600,7 +600,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
    Options: Birds see ultraviolet, and their feathers may differ in ultraviolet / Birds have heat pits that show warmth / Sparrows use a lateral line / Sparrows use echolocation  
    **Answer:** Birds see ultraviolet, and their feathers may differ in ultraviolet. *Why:* Most birds have a fourth kind of colour cone that senses ultraviolet. A feather can have a pattern in ultraviolet that people never see.
 2. (mcq) An owl cannot move her eyes in their sockets. How does she look to the side?  
-   Options: She turns her whole head / She rolls her eyes / She uses her heat pits / She does not look to the side  
+   Options: She rolls her eyes / She turns her whole head / She uses her heat pits / She does not look to the side  
    **Answer:** She turns her whole head. *Why:* An owl's eyes are fixed in tube-shaped sockets, so she turns her head instead, up to about 270 degrees.
 3. (truefalse) Cobras find prey in the dark with heat pits.  
    **Answer:** False. *Why:* False. Heat pits are found on pit vipers, boas and pythons. Cobras and Russell's vipers have none, so they use smell, touch and sight.
@@ -620,14 +620,14 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 10. (perspective) A python in a dark storeroom finds a warm rat. Here are two views of how she does it.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason and names a test. For example, cover the python's eyes and see if she still strikes at a warm target but not a cool one.. *Why:* The second view fits the evidence from snakes with covered eyes. A good test removes one sense at a time and checks the result.
 11. (mcq) According to most biologists, why does no animal have every sense?  
-   Options: Senses cost energy, and each animal keeps the ones that fit her life / No animal wants more senses / Heavy senses make animals sink / Nobody has looked for more senses  
+   Options: No animal wants more senses / Senses cost energy, and each animal keeps the ones that fit her life / Heavy senses make animals sink / Nobody has looked for more senses  
    **Answer:** Senses cost energy, and each animal keeps the ones that fit her life. *Why:* Eyes, ears and the brain parts that read them use a lot of energy. A sense that is hardly needed is a waste of food. This is a widely held idea, and scientists are still measuring the costs.
 12. (truefalse) Scientists fully understand how birds sense the Earth's magnetic field.  
    **Answer:** False. *Why:* False. Experiments show that birds use the magnetic field, but the receptor has not been found with certainty. There are two main ideas, one based on light and one based on iron.
 13. (draw) Draw a top view of a pigeon and an owl. Shade how far round each one can see, and write the angle beside each shape.  
    **Answer:** A pigeon with a very wide shaded wedge of about 340 degrees, and an owl with a narrow wedge of about 110 degrees with a larger overlap in front.. *Why:* A strong drawing shows the pigeon seeing almost all the way round, with a small overlap in front, and the owl seeing a narrow wedge that is mostly overlap.
 14. (mcq) A harbour seal follows the swirl a fish left in the water. Which part does she use?  
-   Options: Her whiskers / Her heat pits / Her lateral line / Her eardrum  
+   Options: Her heat pits / Her lateral line / Her eardrum / Her whiskers  
    **Answer:** Her whiskers. *Why:* A seal's whiskers have many nerves at the base. They feel the swirl left in the water by a swimming fish.
 15. (count) A full circle is 360 degrees. A pigeon sees about 340 degrees. How many degrees does she not see?  
    **Answer:** 20. *Why:* 360 take away 340 is 20. Only a small slice straight behind her is hidden.
@@ -663,7 +663,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
 12. (draw) Draw an owl's face from the front. Add arrows to show how the face works as a dish that gathers sound.  
    **Answer:** A heart-shaped face with arrows curving inwards from the sides towards the ears.. *Why:* A strong drawing shows the flat face as a dish, with arrows of sound gathering into the ears.
 13. (mcq) A scientist covers a snake's eyes and nostrils. The snake still strikes at a warm target but not at a cool one. What does this show?  
-   Options: The snake can sense heat, not just light or smell / The snake is blind / The snake hears the target / Snakes never use their eyes  
+   Options: The snake is blind / The snake can sense heat, not just light or smell / The snake hears the target / Snakes never use their eyes  
    **Answer:** The snake can sense heat, not just light or smell. *Why:* With sight and smell blocked, the only difference left between the two targets is warmth. So the snake must sense warmth.
 14. (write) A farmer says: 'Owls bring bad luck.' Write one fair question you could ask, and one way to test it, to find out whether owls help or harm the farmer.  
    **Answer:** How many rats are in the granary with and without an owl? Count the rat holes in the sacks for two weeks with an owl, and then compare with two weeks without one.. *Why:* A strong answer asks a question that can be tested and describes a fair comparison. It treats the farmer's belief with respect while looking for evidence.
@@ -682,38 +682,38 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
    Options: Reacts to one kind of signal and sends a message / Makes the signal / Stores food / Moves the body  
    **Answer:** Reacts to one kind of signal and sends a message. *Why:* A receptor is a tiny cell that reacts to one kind of signal, such as light, a smell or a push, and sends a message to the brain.
 2. (mcq) Which animal feels moving water with a lateral line?  
-   Options: A rohu fish / A cow / A crow / A python  
+   Options: A cow / A rohu fish / A crow / A python  
    **Answer:** A rohu fish. *Why:* Fish have a lateral line. Cows and crows have no such sensors, and a python feels heat with her pits.
 3. (mcq) A python lies in the dark and finds a warm rat. Which part senses the rat?  
-   Options: The heat pits on her lips / Her ear flaps / Her whiskers / Her eardrum  
+   Options: Her ear flaps / Her whiskers / Her eardrum / The heat pits on her lips  
    **Answer:** The heat pits on her lips. *Why:* Pythons have heat pits along their lips. They sense the infrared given off by a warm body. Pythons have no ear flaps or whiskers.
 4. (mcq) Why does a pigeon see almost all the way round?  
    Options: Her eyes are on the sides of her head / Her eyes are at the front / She has four eyes / Her eyes move around inside her head  
    **Answer:** Her eyes are on the sides of her head. *Why:* Eyes on the sides of the head see a very wide view. This helps a hunted animal to spot danger from any side.
 5. (mcq) Why do owls and cats judge distance well?  
-   Options: Their eyes face forwards and overlap / Their eyes are small / Their eyes are on the sides / They have heat pits  
+   Options: Their eyes are small / Their eyes are on the sides / Their eyes face forwards and overlap / They have heat pits  
    **Answer:** Their eyes face forwards and overlap. *Why:* When two eyes see the same space, the brain compares the pictures and works out distance. Side eyes overlap very little.
 6. (mcq) How does a cupped hand behind the ear help you hear?  
-   Options: It catches more sound and guides it in / It makes the sound louder at the source / It blocks all other sounds / It warms the ear  
+   Options: It makes the sound louder at the source / It catches more sound and guides it in / It blocks all other sounds / It warms the ear  
    **Answer:** It catches more sound and guides it in. *Why:* The hand works as a bigger ear flap. It collects more of the sound and points it into the ear.
 7. (mcq) How does a barn owl catch a rat in a dark room?  
-   Options: She hears the rat and turns her face towards the sound / She smells the rat / She feels the rat's heat / She sees ultraviolet light  
+   Options: She smells the rat / She hears the rat and turns her face towards the sound / She feels the rat's heat / She sees ultraviolet light  
    **Answer:** She hears the rat and turns her face towards the sound. *Why:* A barn owl can find a rat in complete darkness using sound alone. Her flat face works like a dish that gathers sound.
 8. (truefalse) Dogs see only in black and white.  
    **Answer:** False. *Why:* False. Dogs see blues and yellows, and cannot tell red from green.
 9. (mcq) Which group of animals with a backbone has three tiny bones in the middle ear?  
-   Options: Mammals / Birds / Reptiles / Fish  
+   Options: Birds / Mammals / Reptiles / Fish  
    **Answer:** Mammals. *Why:* Only mammals have three middle-ear bones. Birds and reptiles have one.
 10. (mcq) You test whether cupped hands help you hear a clock. What should stay the same in a fair test?  
-   Options: The clock, the room and the way the helper walks / The position of the ears / Everything / Nothing  
+   Options: The position of the ears / The clock, the room and the way the helper walks / Everything / Nothing  
    **Answer:** The clock, the room and the way the helper walks. *Why:* In a fair test, only one thing changes. Here, only the position of the ears should change. Everything else, such as the clock, the room and the walking, stays the same.
 11. (mcq) Which of these do scientists still not fully understand?  
-   Options: How birds sense the Earth's magnetic field / That bats use echoes / That fish have a lateral line / That snakes smell with their tongue  
+   Options: That bats use echoes / That fish have a lateral line / How birds sense the Earth's magnetic field / That snakes smell with their tongue  
    **Answer:** How birds sense the Earth's magnetic field. *Why:* Birds seem to use the magnetic field, but the sensor has not been found with certainty. The other three are well shown.
 12. (match) Match each group to a sense that stands out in it.  
    **Answer:** Fish → lateral line; Reptile → heat pits in some snakes; Bird → ultraviolet vision; Mammal → ear flaps and three middle-ear bones. *Why:* Each group is best known for these senses. Some are shared with other groups, but these are the clearest examples.
 13. (mcq) A gharial has a long, narrow snout. What is it mainly for?  
-   Options: Catching fish in the water / Hearing sounds from the air / Digging a burrow in the sand  
+   Options: Hearing sounds from the air / Digging a burrow in the sand / Catching fish in the water  
    **Answer:** Catching fish in the water. *Why:* A narrow snout moves quickly through the water, and the many thin teeth hold slippery fish. A gharial's snout does not help it hear in the air, and the burrow is not dug with the snout.
 
 ## Applications

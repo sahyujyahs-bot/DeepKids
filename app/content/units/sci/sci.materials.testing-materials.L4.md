@@ -690,7 +690,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 ## Worksheets
 ### Spread and Real Differences (core) (core, 16 questions)
 1. (mcq) You drop the same rubber ball ten times from the same height and get ten slightly different bounces. What is the best explanation?  
-   Options: Many tiny things change a little from drop to drop, such as how your fingers let go and where the ball lands / The ball gets tired and bounces differently each time / The test was done wrongly and the results should be thrown away / The floor changes its mind  
+   Options: The ball gets tired and bounces differently each time / The test was done wrongly and the results should be thrown away / Many tiny things change a little from drop to drop, such as how your fingers let go and where the ball lands / The floor changes its mind  
    **Answer:** Many tiny things change a little from drop to drop, such as how your fingers let go and where the ball lands. *Why:* Tiny differences in the release, the landing spot, the spin and the reading add up to a spread. Picking 'done wrongly' usually means expecting a perfect test, and no test is perfect.
 2. (truefalse) If the same test gives ten different numbers, the tester must have made a mistake.  
    **Answer:** False. *Why:* False. Variation is normal in every test. The numbers should be close, not equal. Only a number far from the rest needs a second look.
@@ -699,7 +699,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 4. (order) Put the steps of drawing a dot plot in order.  
    **Answer:** order shown. *Why:* You need to know the smallest and biggest first, so the number line fits. Then each result becomes a dot. Equal results stack. Last, you read the picture.
 5. (mcq) Look at the table. Which two balls have ranges that overlap?  
-   Options: The rubber ball and the table-tennis ball / The rubber ball and the marble / The marble and the table-tennis ball / None of them overlap  
+   Options: The rubber ball and the marble / The rubber ball and the table-tennis ball / The marble and the table-tennis ball / None of them overlap  
    **Answer:** The rubber ball and the table-tennis ball. *Why:* The rubber ball ranged from 30 to 35 and the table-tennis ball from 31 to 36, so they share the numbers 31 to 35. The marble's 23 to 28 does not touch either of them.
 6. (sort) Sort each pair of ranges. Do the two ranges overlap, or are they apart?  
    **Answer:** 10 to 14 and 13 to 17 → Overlap; 20 to 25 and 30 to 35 → Apart; 5 to 9 and 9 to 12 → Overlap; 40 to 50 and 51 to 60 → Apart; 7 to 12 and 3 to 8 → Overlap; 14 to 18 and 15 to 16 → Overlap. *Why:* Ranges overlap when they share at least one number. 5 to 9 and 9 to 12 share the 9. 14 to 18 holds all of 15 to 16. 40 to 50 and 51 to 60 miss each other by one.
@@ -713,14 +713,14 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 10. (truefalse) If one ball has a bigger middle value than another ball, it is always the better ball.  
    **Answer:** False. *Why:* False. If the ranges overlap a lot, another set of drops could reverse the order. A difference is real only when it is bigger than the wobble.
 11. (mcq) A ruler's first centimetre has broken off, so it starts at the 1 centimetre mark. A strip really measures 10 centimetres. What does this ruler read when the strip's end lines up with the end of the ruler?  
-   Options: 11 centimetres, which is 1 too big / 9 centimetres, which is 1 too small / 10 centimetres, which is right / 12 centimetres, which is 2 too big  
+   Options: 9 centimetres, which is 1 too small / 11 centimetres, which is 1 too big / 10 centimetres, which is right / 12 centimetres, which is 2 too big  
    **Answer:** 11 centimetres, which is 1 too big. *Why:* The ruler starts counting at 1, so every reading is 1 too big. This is a zero error. Picking 9 usually means thinking a missing piece makes a ruler read less.
 12. (fill) A test in which the tester does not know which sample is which is called a ____ test.  
    **Answer:** ['blind']. *Why:* A blind test stops the tester's hopes from nudging the result without them knowing.
 13. (draw) Draw a dot plot for these five bounce heights, in centimetres: 30, 32, 32, 33, 35.  
    **Answer:** A number line from 30 to 35. One dot above 30, two dots stacked above 32, one dot above 33 and one dot above 35. The range is 5 centimetres.. *Why:* Each result becomes a dot on the number line. Equal results stack. The range is the gap between the smallest and the biggest dot.
 14. (mcq) Why do scientists draw the order of testing from a bowl?  
-   Options: So that no sample always goes first or last / So the test takes longer / So that the tester can guess the result / So that the samples get tired  
+   Options: So the test takes longer / So that the tester can guess the result / So that no sample always goes first or last / So that the samples get tired  
    **Answer:** So that no sample always goes first or last. *Why:* A random order gives every sample a fair chance of an early slot and a late slot. Choosing 'takes longer' misses the reason: order can quietly change results.
 15. (sort) Does each fault push every reading the same way, or make readings wobble?  
    **Answer:** A ruler with a chipped end → Same way every time; A thermometer that reads 2 degrees too high → Same way every time; Reading a fast bounce by eye → Wobbles; Strips with hidden nicks → Wobbles; A cloth tape that has stretched → Same way every time; A ball landing on slightly different spots → Wobbles. *Why:* A zero error or a stretched tape adds the same push to each reading. Hidden nicks, fast bounces and different landing spots make the numbers wobble from try to try.
@@ -733,14 +733,14 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 2. (truefalse) The average and the middle value are always the same number.  
    **Answer:** False. *Why:* False. For 9, 14, 17, 19 and 22, the average is 16.2 and the middle value is 17. A very low or high result pulls the average but not the middle value.
 3. (mcq) Two labs test the same rope. Lab A says it holds 200 kilograms and Lab B says 150 kilograms. What is the best next step?  
-   Options: Check whether they used the same method, the same sample size and the same speed, then repeat with one agreed method / Believe the bigger number / Believe the smaller number / Add the numbers together  
+   Options: Believe the bigger number / Check whether they used the same method, the same sample size and the same speed, then repeat with one agreed method / Believe the smaller number / Add the numbers together  
    **Answer:** Check whether they used the same method, the same sample size and the same speed, then repeat with one agreed method. *Why:* Different methods give different numbers. A standard test fixes the method, so labs can agree. Believing one lab without checking is only a guess.
 4. (sort) Does each action help a fair test or hurt it?  
    **Answer:** Drawing the order from a bowl → Helps a fair test; Testing the new bag three times and the old bag once → Hurts a fair test; A helper hiding the names with codes → Helps a fair test; Writing down only the results that agree with your guess → Hurts a fair test; Reading every bounce from eye level → Helps a fair test; Telling the tasters which one is Premium → Hurts a fair test. *Why:* A random order, secret codes and the same way of reading help. Giving one sample more tries, hiding results and telling tasters the label push the result.
 5. (write) An advert says: 'This bag is 30 per cent stronger.' Write three questions you would ask before believing it.  
    **Answer:** Stronger than what? How many bags were tested, and how many tries? How much did the results wobble, and did the ranges overlap? Who did the test?. *Why:* A number without a comparison, a number of tries and the spread cannot be checked.
 6. (mcq) Arrows land close together, but far from the middle of the target. Which two words fit?  
-   Options: Precise but not accurate / Accurate but not precise / Both precise and accurate / Neither precise nor accurate  
+   Options: Accurate but not precise / Both precise and accurate / Precise but not accurate / Neither precise nor accurate  
    **Answer:** Precise but not accurate. *Why:* Close together means the readings agree, which is precise. Far from the middle means they are not near the true size, which is not accurate. A tool with a zero error gives this pattern.
 7. (match) Match each problem to a fix.  
    **Answer:** A bounce that is too fast for the eye → Film it and look frame by frame; A ruler with a zero error → Check it against another ruler; A tester who knows which sample is which → Use secret codes and a helper; Always testing one cloth first → Draw the order from a bowl; Only two tries → Do ten tries and draw a dot plot. *Why:* Each fault has a fix. Slow motion helps the eyes, a second ruler finds a zero error, codes stop hopes, a random order stops order effects, and more tries show the spread.
@@ -762,7 +762,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 15. (fill) A dot plot shows 3 dots at 31, 2 dots at 33 and 1 dot at 40. The range is ____ centimetres.  
    **Answer:** ['9']. *Why:* The range is the biggest minus the smallest. 40 minus 31 is 9. The dot at 40 is odd and widens the range a lot, which is a reason to check that drop.
 16. (mcq) A lift cable is tested on many pieces. The middle piece broke at 20 tonnes and the weakest broke at 14 tonnes. The lift will carry 2 tonnes. Which number does an engineer worry about most?  
-   Options: 14, because the weakest piece sets how safe the cable is / 20, because the middle is the usual / 2, because it is the smallest / The average of all three  
+   Options: 20, because the middle is the usual / 2, because it is the smallest / The average of all three / 14, because the weakest piece sets how safe the cable is  
    **Answer:** 14, because the weakest piece sets how safe the cable is. *Why:* A cable can contain a weak piece. Safety comes from the weakest, with a big gap between it and the load. Choosing 20 usually means trusting the middle too much.
 17. (mcq) Which is the best claim from a dot plot where two ranges overlap a lot?  
    Options: We cannot tell which is better with this test / The bigger middle value is better / The test is broken / Both are exactly the same  
@@ -778,7 +778,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 4. (perspective) A chemist makes a cloudy, thin liquid that is not what she expected. Her colleagues argue about it.  
    **Answer:** A strong answer chooses to keep and test it. Odd results can be slips or discoveries, and testing finds out which. Colleague 3 is right that a few repeats are a sensible start, and Colleague 1 is right that many odd results are mistakes. Throwing it away risks losing a discovery.. *Why:* An odd result needs to be checked. Deleting it hides evidence. Repeating it, and writing down its cause, is what finds the truth.
 5. (mcq) A cloth test gives 20 for cloth A and 22 for cloth B, with ranges that overlap a lot. A buyer must choose one. What else should she think about?  
-   Options: Price, how the cloth will be used and the weakest piece in each / Only the bigger number / Only the colour / Nothing, because the test says they are equal  
+   Options: Only the bigger number / Only the colour / Nothing, because the test says they are equal / Price, how the cloth will be used and the weakest piece in each  
    **Answer:** Price, how the cloth will be used and the weakest piece in each. *Why:* When a test cannot tell two things apart, other facts decide: cost, use and the weak end of the range. Choosing 'the bigger number' ignores the wobble.
 6. (sort) Does each test break the thing, or leave it whole?  
    **Answer:** Pulling a paper strip until it tears → Breaks it; Tapping a pot and listening to the ring → Leaves it whole; Bending a paper clip until it snaps → Breaks it; Sending ultrasound (sound too high to hear) into a railway line to look for cracks → Leaves it whole; Looking at a bridge through a magnifier for cracks → Leaves it whole; Loading a rope until it snaps → Breaks it. *Why:* Some tests ask 'how much can it take?' and must break the sample. Others look for hidden cracks without harm. Engineers use both.
@@ -787,7 +787,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 8. (match) Match each fault to an example.  
    **Answer:** Bias → A tester pulls the cloth she hopes will lose a bit faster; Order effect → The last cloth is tested when the tester's arms are tired; Zero error → A ruler with a chipped end; Variation → Ten strips from one roll hold different loads; Control → A strip left dry beside the strips that are wetted. *Why:* Each example shows a different thing: a hope that pushes, an order that favours, a steady fault in a tool, a natural spread in the material, and a sample that does nothing.
 9. (mcq) A ball dropped from 50 centimetres bounces to 30 centimetres. What fraction of the drop height did it keep?  
-   Options: 3 out of 5, or 0.6 / 5 out of 3 / 2 out of 5 / 30 out of 80  
+   Options: 5 out of 3 / 2 out of 5 / 3 out of 5, or 0.6 / 30 out of 80  
    **Answer:** 3 out of 5, or 0.6. *Why:* The ball kept 30 of the 50 centimetres. 30 divided by 50 is 0.6, which is the same as 3 out of 5. The rest of the energy went into sound and warmth.
 10. (draw) Draw a plan for a blind test of two kinds of tissue paper. Show who does what, and how the order is chosen.  
    **Answer:** A helper tags 10 pieces of each kind with secret letters and keeps the list. The tester draws chits to set the order, tests each piece the same way, and writes the number against its letter. At the end the helper opens the list and the numbers are sorted into two dot plots.. *Why:* A blind test needs a helper with a secret list, a random order, one method for all pieces and a list opened only at the end.
@@ -796,7 +796,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 12. (write) Seeds from one packet sprout on different days in the same pot. Say how this spread could help the seeds when the monsoon is late in some years.  
    **Answer:** If all seeds sprouted on the same day and the rains were late, they might all die. Seeds that sprout on different days give a chance that some meet the rain. The spread works like a safety margin for the plant.. *Why:* Variation in a group, such as sprouting day, can protect the group when the future is not certain.
 13. (mcq) Why do labs in different countries agree on standard tests?  
-   Options: So that results from different places can be compared / So that every lab gets the same answer by magic / So that no one needs to repeat a test / So that tests become shorter  
+   Options: So that every lab gets the same answer by magic / So that results from different places can be compared / So that no one needs to repeat a test / So that tests become shorter  
    **Answer:** So that results from different places can be compared. *Why:* A standard fixes the size of the sample, the speed and the air, so results from different labs can be compared. It does not remove the wobble, but it makes comparisons fair.
 14. (fill) A test that rubs a material again and again to find how long it lasts is called a ____ test.  
    **Answer:** ['wear']. *Why:* A wear test copies rubbing in real use, in a shorter time.
@@ -813,36 +813,36 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
    Options: How much the results vary / The exact true size of the thing / That the first try was wrong / Which sample you like best  
    **Answer:** How much the results vary. *Why:* Ten tries show the spread, so you know how much to trust one number. Picking 'the exact true size' is common but wrong: repeating shows the wobble, not the perfect number.
 2. (mcq) Two groups of results have ranges 40 to 55 and 52 to 70. What can you honestly say?  
-   Options: We cannot tell if they are really different, because the ranges overlap / The second is certainly bigger / The first is certainly bigger / The test must be wrong  
+   Options: The second is certainly bigger / We cannot tell if they are really different, because the ranges overlap / The first is certainly bigger / The test must be wrong  
    **Answer:** We cannot tell if they are really different, because the ranges overlap. *Why:* The ranges share the numbers 52 to 55, so the wobble is bigger than the gap. Choosing 'certainly bigger' ignores the overlap.
 3. (mcq) Six results in order are 12, 13, 14, 16, 17, 19. What are the range and the middle value?  
-   Options: Range 7, middle value 15 / Range 19, middle value 14 / Range 7, middle value 14 / Range 6, middle value 16  
+   Options: Range 19, middle value 14 / Range 7, middle value 14 / Range 6, middle value 16 / Range 7, middle value 15  
    **Answer:** Range 7, middle value 15. *Why:* The range is 19 minus 12, which is 7. With six results, the middle is between 14 and 16, so the middle value is 15. Picking 14 means taking only the third result.
 4. (mcq) A ruler with a chipped end reads 1 centimetre too much on every strip. What kind of fault is this?  
-   Options: A zero error, which is the same on every reading / Variation in the material / Bias from the tester's hopes / A random wobble that changes each time  
+   Options: Variation in the material / Bias from the tester's hopes / A random wobble that changes each time / A zero error, which is the same on every reading  
    **Answer:** A zero error, which is the same on every reading. *Why:* The error is steady and comes from the tool. It can be found by comparing with another ruler. Choosing 'random wobble' mixes up two kinds of fault.
 5. (mcq) In a blind test, a helper keeps the secret list. Why must the helper not be the tester?  
-   Options: The tester must not know which sample is which, so hopes cannot nudge the result / The helper is better at measuring / It makes the test faster / It makes the samples stronger  
+   Options: The helper is better at measuring / It makes the test faster / The tester must not know which sample is which, so hopes cannot nudge the result / It makes the samples stronger  
    **Answer:** The tester must not know which sample is which, so hopes cannot nudge the result. *Why:* A blind test works because the tester cannot favour any sample. Choosing 'faster' misses the reason.
 6. (mcq) Why is a random order better than 'start with my favourite'?  
-   Options: Because no sample always goes first or last / Because it is more exciting / Because the tester can finish early / Because favourites are always the strongest  
+   Options: Because it is more exciting / Because no sample always goes first or last / Because the tester can finish early / Because favourites are always the strongest  
    **Answer:** Because no sample always goes first or last. *Why:* An order can quietly change results as the tester tires or the materials change. A random order gives every sample the same chances.
 7. (mcq) A bag for the monsoon is tested only when dry. What is the main problem?  
-   Options: The test does not copy the real job, so it may not be valid / The test uses too many tries / The bag is too heavy / Dry tests are never used  
+   Options: The test uses too many tries / The bag is too heavy / The test does not copy the real job, so it may not be valid / Dry tests are never used  
    **Answer:** The test does not copy the real job, so it may not be valid. *Why:* A test is valid if it measures what you care about. A bag meets rain, so its wet strength matters. A dry test answers a different question.
 8. (mcq) Which claim best says how sure you are?  
-   Options: The rubber ball bounces higher. I am fairly sure, because the ranges do not touch, but I tested on only one floor. / The rubber ball is the best ball. / The rubber ball won. / Rubber is always bouncy.  
+   Options: The rubber ball is the best ball. / The rubber ball won. / The rubber ball bounces higher. I am fairly sure, because the ranges do not touch, but I tested on only one floor. / Rubber is always bouncy.  
    **Answer:** The rubber ball bounces higher. I am fairly sure, because the ranges do not touch, but I tested on only one floor.. *Why:* A good claim names the evidence, the reasoning and its limits. The other sentences give no evidence or go too far.
 9. (truefalse) Repeating a test a hundred times will fix a ruler with a zero error.  
    **Answer:** False. *Why:* False. Repeating shrinks the effect of luck but not a fault that pushes every reading the same way.
 10. (mcq) In a test of tissue strength, one strip is left dry in the same room while the others are wetted. What is the dry strip?  
-   Options: A control / A bias / A zero error / An odd result  
+   Options: A bias / A zero error / A control / An odd result  
    **Answer:** A control. *Why:* A control gets everything except the thing being tested. It shows what changes anyway.
 11. (mcq) A cable's middle piece breaks at 20 tonnes and its weakest piece at 14. Why does an engineer use the weakest piece?  
-   Options: The weakest piece sets how safe the cable is / The weakest piece is always the average / The strongest piece is the least likely / The middle piece is not important  
+   Options: The weakest piece is always the average / The weakest piece sets how safe the cable is / The strongest piece is the least likely / The middle piece is not important  
    **Answer:** The weakest piece sets how safe the cable is. *Why:* A chain gives way at its weakest link. Engineers look at the low end of the spread and add a safety factor.
 12. (mcq) In the Secret Code Test, why did people give different scores to identical squares?  
-   Options: Labels can push scores, and touch also wobbles from moment to moment / The squares were different cloths / The squares changed during the test / People were told the wrong answer  
+   Options: The squares were different cloths / The squares changed during the test / Labels can push scores, and touch also wobbles from moment to moment / People were told the wrong answer  
    **Answer:** Labels can push scores, and touch also wobbles from moment to moment. *Why:* The squares were the same cloth. The differences came from the label's push and ordinary wobble. A blind round takes away the push.
 
 ## Applications

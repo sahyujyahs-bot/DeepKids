@@ -525,7 +525,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 ## Worksheets
 ### Beyond the Air (core) (core, 15 questions)
 1. (mcq) You cover a tealight with a small glass. The flame goes out after 8 seconds. You try again with a big jar. What will most likely happen?  
-   Options: The flame goes out at once / The flame lasts longer than 8 seconds / The flame lasts exactly 8 seconds again  
+   Options: The flame goes out at once / The flame lasts exactly 8 seconds again / The flame lasts longer than 8 seconds  
    **Answer:** The flame lasts longer than 8 seconds. *Why:* A big jar holds more air, so the flame has more oxygen to use before it runs low. A strong answer says why: more air, more oxygen.
 2. (write) In The Jar and the Flame, a lit candle was covered with a jar. The flame went out even though there was still wax left in the candle. Explain why.  
    **Answer:** The flame needs oxygen as well as wax. Under the jar, no fresh air could get in. The flame used up the oxygen near the wick, and when too little was left, it went out. The wax was still there, but it could not burn without oxygen.. *Why:* A strong answer names both things a flame needs, fuel and oxygen, and says which one ran out.
@@ -575,7 +575,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 8. (fill) A path that goes round and round a planet, like the space station's path round the Earth, is called an ____.  
    **Answer:** ['orbit']. *Why:* The space station's orbit takes it round the Earth about every 90 minutes.
 9. (mcq) In Ice in the Crater, one ice cube sat in sunlight and one in the shadow of a book. Which one is most like ice in a dark crater on the Moon?  
-   Options: The cube in sunlight / The cube in the shadow / Neither  
+   Options: The cube in sunlight / Neither / The cube in the shadow  
    **Answer:** The cube in the shadow. *Why:* The shaded cube gets no direct sunlight, like the floor of a deep polar crater. It melted more slowly. On the Moon, with almost no air to carry warmth in, the crater ice can last for a very long time.
 10. (truefalse) An astronaut on the space station can open a window to let in fresh air.  
    **Answer:** False. *Why:* False. Outside the station there is almost no air. Opening a window would let the station's own air rush out. All the air must be carried up or made on board.
@@ -594,7 +594,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 1. (write) In The Jar and the Flame, the candle went out long before all the air in the jar was gone. Also, most of the air is not oxygen. So why does a bigger jar still help?  
    **Answer:** A flame stops when the oxygen near it gets too low, not when it is all gone. A bigger jar has more oxygen to start with, so it takes longer for the oxygen to drop that low. The other gases in the air, mostly nitrogen, do not help the flame.. *Why:* A strong answer understands that the flame needs enough oxygen near it, and that a bigger jar holds more of it.
 2. (mcq) Suppose you do the jar test with two tealights side by side under the same big jar. What do you predict?  
-   Options: They burn twice as long / They go out sooner than one tealight would / Nothing changes  
+   Options: They go out sooner than one tealight would / They burn twice as long / Nothing changes  
    **Answer:** They go out sooner than one tealight would. *Why:* Two flames use oxygen twice as fast. The same jar has the same amount of oxygen, so it runs low sooner. A strong answer links the speed of using oxygen with the amount there is.
 3. (perspective) A family is talking about why astronauts float on the space station.  
    **Answer:** The daughter is right. Gravity at the station's height is about nine tenths of what it is on the ground. The station moves sideways so fast that as it falls, the Earth curves away below it, so it keeps falling round and round. The father's idea is easy to believe because astronauts look as if nothing is pulling them.. *Why:* This is a very common idea that turns out to be wrong. A strong answer gives the evidence and is fair to why people believe the other view.
@@ -621,7 +621,7 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
 13. (label) Label the picture of a spacesuit: helmet, oxygen pack, gloves, visor.  
    **Answer:** The helmet is round the head, with the visor at the front. The oxygen pack is on the back. The gloves are on the hands.. *Why:* A strong labeller puts the oxygen pack on the back, because the suit carries its own air.
 14. (mcq) Why are many rocket launch sites built next to the sea?  
-   Options: Rockets need sea water to fly / If something goes wrong, falling rocket parts land in the water, away from towns / The sea is the highest place  
+   Options: Rockets need sea water to fly / The sea is the highest place / If something goes wrong, falling rocket parts land in the water, away from towns  
    **Answer:** If something goes wrong, falling rocket parts land in the water, away from towns. *Why:* Rockets drop used parts as they climb, and a launch can fail. Launching out over the sea keeps people on the ground safe. India's launch site at Sriharikota is on the coast for this reason.
 15. (write) No spacecraft had landed near the Moon's south pole before 2023. Landing is hard and costly. What evidence would you want first, from a spacecraft circling the Moon, before choosing that spot to look for water?  
    **Answer:** I would want measurements of reflected light showing signs of water, strongest near the poles, and signs of ice in the dark craters. Then I would know the poles are the best place to look, before spending money on a landing.. *Why:* A strong answer names evidence that can be collected from above, and says why checking first is wise before a costly landing.
@@ -636,34 +636,34 @@ That evening, back on the sand, Kavya watched the sky turn orange and then grey.
    Options: The air above the clouds / Everything beyond the Earth's air, where there is almost nothing to breathe / The inside of a rocket  
    **Answer:** Everything beyond the Earth's air, where there is almost nothing to breathe. *Why:* Space is what lies beyond the atmosphere. It is almost empty, with no air to breathe. Picking 'the air above the clouds' is a common mix-up, but the air goes on far above the clouds before it thins out.
 2. (mcq) You cover a lit candle with a jar and the flame goes out. Why?  
-   Options: The jar is too heavy / The flame runs short of oxygen / The jar is made of glass  
+   Options: The jar is too heavy / The jar is made of glass / The flame runs short of oxygen  
    **Answer:** The flame runs short of oxygen. *Why:* A flame needs oxygen. Under the jar, no fresh air gets in, so the flame goes out when the oxygen near it runs low.
 3. (mcq) A rocket lifts off. What pushes it up?  
-   Options: The air under it / The hot gas it pushes down out of its engine, which pushes back on it / The launch tower  
+   Options: The air under it / The launch tower / The hot gas it pushes down out of its engine, which pushes back on it  
    **Answer:** The hot gas it pushes down out of its engine, which pushes back on it. *Why:* The rocket pushes the gas down and the gas pushes the rocket up. This works in space too, where there is no air.
 4. (mcq) Why is a rocket built in stages?  
-   Options: So that empty tanks can be dropped and the rocket gets lighter / So it looks taller / So it can be painted in parts  
+   Options: So it looks taller / So that empty tanks can be dropped and the rocket gets lighter / So it can be painted in parts  
    **Answer:** So that empty tanks can be dropped and the rocket gets lighter. *Why:* When a stage's fuel is used up, it is dropped. The rest of the rocket is lighter, so its fuel can push it faster.
 5. (mcq) Why do the biggest telescopes have huge mirrors?  
-   Options: To collect lots of light, so faint stars and galaxies show up / To make stars look like big balls / So they can see in the daytime  
+   Options: To make stars look like big balls / To collect lots of light, so faint stars and galaxies show up / So they can see in the daytime  
    **Answer:** To collect lots of light, so faint stars and galaxies show up. *Why:* A bigger mirror catches more light. Stars stay as points in any telescope. What a big mirror gives is a brighter picture of faint things.
 6. (mcq) You cover half of a magnifying glass that is making a picture of a window. What happens to the picture?  
-   Options: Half of it vanishes / It stays whole but gets dimmer / It turns the right way up  
+   Options: Half of it vanishes / It turns the right way up / It stays whole but gets dimmer  
    **Answer:** It stays whole but gets dimmer. *Why:* Every part of the lens gathers light from the whole window. Covering half lets in half the light, so the picture dims but stays whole.
 7. (mcq) Which of these do astronauts on the space station clean and use again?  
    Options: Water / Food / Rockets  
    **Answer:** Water. *Why:* Most of the station's water is cleaned and used again, even the water from sweat and urine. Food is eaten, so new food must come from Earth.
 8. (mcq) Why does a spacesuit have a pack on its back?  
-   Options: To carry snacks / To hold the astronaut's own air and keep them at a safe temperature / To make the astronaut heavier  
+   Options: To carry snacks / To make the astronaut heavier / To hold the astronaut's own air and keep them at a safe temperature  
    **Answer:** To hold the astronaut's own air and keep them at a safe temperature. *Why:* Outside the spacecraft there is no air. The pack gives the astronaut oxygen and keeps the suit at a safe temperature.
 9. (mcq) A spacecraft is going to land on the Moon to look for ice. Where is the best place to land?  
-   Options: In a sunny spot near the Moon's middle / Near a pole, beside deep craters that never get sunlight / Anywhere, because the Moon has lakes  
+   Options: Near a pole, beside deep craters that never get sunlight / In a sunny spot near the Moon's middle / Anywhere, because the Moon has lakes  
    **Answer:** Near a pole, beside deep craters that never get sunlight. *Why:* Ice cannot last in sunlight on the Moon. Deep craters near the poles never see the Sun, so ice can stay frozen there. That is why India landed Chandrayaan-3 near the south pole in 2023.
 10. (mcq) An astronaut goes outside the space station to fix something. Why must she wear a sealed suit with its own air?  
-   Options: Space is too bright / There is almost no air in space to breathe / To look smart in photos  
+   Options: There is almost no air in space to breathe / Space is too bright / To look smart in photos  
    **Answer:** There is almost no air in space to breathe. *Why:* Space has almost no air, so there is no oxygen to breathe. Astronauts and rockets must carry their own.
 11. (mcq) A spacecraft circling the Moon cannot touch the ground. How could it find signs of water there?  
-   Options: By listening for waves / By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap / By catching rain  
+   Options: By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap / By listening for waves / By catching rain  
    **Answer:** By measuring the sunlight reflected from the ground, because water takes in some kinds of light and leaves a gap. *Why:* Water takes in certain kinds of light, so light reflected from damp dust has a gap in it. India's Chandrayaan-1 found thin traces of water in the Moon's dust this way, and later ice in dark polar craters.
 
 ## Applications

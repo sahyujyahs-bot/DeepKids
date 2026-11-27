@@ -715,11 +715,11 @@
       "t": "mcq",
       "q": "A test says a mule is not alive because she makes no young. Is the test fooled or fair?",
       "options": [
-       "Fooled, because a mule is alive",
        "Fair, because mules make no young",
-       "It cannot be said"
+       "It cannot be said",
+       "Fooled, because a mule is alive"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A mule is alive. A test that says she is not alive gives the wrong answer, so it is fooled."
      },
      "context": "In this step, you play the rest of the cards and keep score."
@@ -847,11 +847,11 @@
       "t": "mcq",
       "q": "Why do we rinse the cubes before the test?",
       "options": [
-       "The cut cells leaked juice, and rinsing washes it off so we only see red from whole cells",
        "To make the cubes taste better",
-       "To make the beetroot colder"
+       "To make the beetroot colder",
+       "The cut cells leaked juice, and rinsing washes it off so we only see red from whole cells"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The knife breaks some cells, and they leak. If we did not rinse, every glass would be pink from the start and we could not tell what the water temperature did."
      },
      "context": "In this step, you cut the beetroot and rinse the cubes so that the test is fair."
@@ -898,11 +898,11 @@
       "t": "mcq",
       "q": "Glass A stays clear and glass D turns deep red. What does this suggest?",
       "options": [
-       "Heat damages whatever kept the red colour inside the cells",
        "Beetroot likes hot water",
+       "Heat damages whatever kept the red colour inside the cells",
        "Cold water makes the colour disappear"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The cold glass shows the colour stays inside whole cells. The hot glass shows that heat lets it out. The skin around each cell is what changed."
      },
      "context": "In this step, you put the beetroot in and watch the colour change."
@@ -1073,11 +1073,11 @@
       "t": "mcq",
       "q": "In one test, the water went from 41 to 34 degrees, and the child went from 36.6 to 36.7 degrees. What does this show?",
       "options": [
-       "The water drifted towards the room's temperature, and the child's body worked to stay warm",
        "The thermometer was broken",
-       "The child was cold and the water was alive"
+       "The child was cold and the water was alive",
+       "The water drifted towards the room's temperature, and the child's body worked to stay warm"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Left alone, warm water cools until it matches the room. A living body burns food to stay warm, so it did not drift."
      },
      "context": "In this step, you take the last readings and see where each one ended up."
@@ -1224,11 +1224,11 @@
       "t": "mcq",
       "q": "The youngest seeds sprouted 9 out of 10 and the oldest only 2 out of 10. What is the best claim?",
       "options": [
-       "In this test, the older seeds sprouted less often",
        "All old seeds are dead",
+       "In this test, the older seeds sprouted less often",
        "Young seeds are cleverer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A claim should stick to what the test showed. The test only shows that these older seeds sprouted less often. It does not say that every old seed is dead, because even the oldest group had two sprouts."
      },
      "wait": "Day 4",
@@ -1346,11 +1346,11 @@
       "t": "mcq",
       "q": "Your rule says 'alive means it moves'. A dry seed does not move, but is alive. What does this show?",
       "options": [
-       "The rule has an exception, so it needs mending",
        "The seed is not alive",
-       "Rules about life are never any use"
+       "Rules about life are never any use",
+       "The rule has an exception, so it needs mending"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A single case that breaks a rule shows the rule is not complete. Scientists then mend the rule and test again, which is what you will do next."
      },
      "context": "In this step, you test your rule on eight hard cases."
@@ -1432,11 +1432,11 @@
       "t": "mcq",
       "q": "A mule almost never has young. Why does she still pass NASA's test?",
       "options": [
-       "The test is about a kind of living thing over many generations, not each single body",
        "A mule is secretly not alive",
-       "NASA made an error"
+       "NASA made an error",
+       "The test is about a kind of living thing over many generations, not each single body"
       ],
-      "a": 0,
+      "a": 2,
       "why": "NASA's test asks if a kind of living thing can evolve over many generations. A mule comes from the horse and donkey lines, and those lines do evolve."
      },
      "context": "In this step, you fill in the table with your child."
@@ -1523,11 +1523,11 @@
       "t": "mcq",
       "q": "Which part of a fridge works like your skin sensing that you are cold?",
       "options": [
-       "The thermostat, which senses the temperature",
        "The door",
+       "The thermostat, which senses the temperature",
        "The light inside"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A thermostat senses the temperature and tells the machine to switch on or off. Your skin and brain do the same job for your body."
      },
      "context": "In this step, you work out how each machine keeps something steady."
@@ -1819,11 +1819,11 @@
      "t": "mcq",
      "p": "A friend says: 'Growing proves that something is alive.' Which example shows that this is wrong?",
      "opts": [
-      "A salt crystal in strong salt water gets bigger, and a crystal is not alive",
       "A tree gets bigger, and a tree is alive",
-      "A puppy gets bigger, and a puppy is alive"
+      "A puppy gets bigger, and a puppy is alive",
+      "A salt crystal in strong salt water gets bigger, and a crystal is not alive"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A salt crystal grows by adding more salt from the water, and it is not alive. So growing alone cannot prove that something is alive.",
      "outcome": 0
     },
@@ -1925,11 +1925,11 @@
      "t": "mcq",
      "p": "Warm water in a tumbler and a child both start warm and sit in a cooler room for half an hour. What do you expect to find?",
      "opts": [
-      "Both cool down at the same speed",
       "The water cools towards the room's temperature, and the child's temperature stays almost the same",
+      "Both cool down at the same speed",
       "The child cools down and the water stays warm"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Warm water drifts towards the room's temperature. A living body burns food to stay warm, so a child's temperature barely changes.",
      "outcome": 2
     },
@@ -1952,10 +1952,10 @@
      "p": "What does the cell membrane of a beetroot cell do?",
      "opts": [
       "It makes the beetroot taste sweet",
-      "It stores the beetroot's roots",
-      "It is a thin skin that keeps the red colour inside the cell"
+      "It is a thin skin that keeps the red colour inside the cell",
+      "It stores the beetroot's roots"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A cell membrane is a thin skin around the cell. It controls what goes in and what stays out, and in the beetroot it keeps the red inside.",
      "outcome": 3
     },
@@ -2037,11 +2037,11 @@
      "t": "mcq",
      "p": "The NASA group wrote that life is a self-sustaining chemical system capable of Darwinian evolution. What does 'capable of Darwinian evolution' mean?",
      "opts": [
-      "Its young can differ a little from their parents, and helpful differences are passed on",
       "It can run fast",
-      "It is made of cells"
+      "It is made of cells",
+      "Its young can differ a little from their parents, and helpful differences are passed on"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Darwinian evolution is change across generations. Young differ a little, and the differences that help survival are passed on.",
      "outcome": 1
     },
@@ -2084,10 +2084,10 @@
      "p": "In a seed test, 9 of 10 fresh seeds sprouted and 2 of 10 old ones did. What is the best claim?",
      "opts": [
       "Old seeds are dead",
-      "In this test, the older seeds sprouted less often",
-      "Fresh seeds are better than old seeds in every way"
+      "Fresh seeds are better than old seeds in every way",
+      "In this test, the older seeds sprouted less often"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A claim should only say what the evidence shows. Two of the old seeds sprouted, so they are not all dead.",
      "outcome": 6
     },
@@ -2166,10 +2166,10 @@
      "p": "Why do scientists still call a mule alive, even though she almost never has young?",
      "opts": [
       "Mules make young in secret",
-      "Mules are not alive",
-      "The test 'makes young' is about a whole kind across many generations, not each single body"
+      "The test 'makes young' is about a whole kind across many generations, not each single body",
+      "Mules are not alive"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A kind of living thing goes on by making young. A single body can still be alive without doing that.",
      "outcome": 1
     },
@@ -2284,11 +2284,11 @@
      "t": "mcq",
      "p": "A beetroot cube that was frozen and thawed turns the cold water pink straight away. What is the most likely reason?",
      "opts": [
-      "Freezing broke the cell skins, so the red leaked out even without heat",
       "The beetroot got older",
-      "Frozen beetroot is a different colour"
+      "Frozen beetroot is a different colour",
+      "Freezing broke the cell skins, so the red leaked out even without heat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Ice crystals inside the cells can tear the membranes. A torn skin lets the red out, whatever the temperature of the water.",
      "outcome": 3
     },
@@ -2393,11 +2393,11 @@
      "t": "mcq",
      "p": "Carol Cleland says it may be too early to define life. What is her reason?",
      "opts": [
-      "Nobody has ever studied life",
       "People used the word 'water' for thousands of years before anyone knew water was H2O, so a good definition of life may need a theory we do not yet have",
+      "Nobody has ever studied life",
       "Life cannot be measured"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Cleland compares life with water. A good definition of water had to wait for chemistry. A good definition of life may have to wait for a theory of life.",
      "outcome": 1
     },
@@ -2413,10 +2413,10 @@
      "p": "Which of these would be the strongest evidence that a pattern in a computer was alive?",
      "opts": [
       "It moves across the screen",
-      "It makes a copy of itself",
-      "It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive"
+      "It builds its own parts from raw materials, repairs itself, and its copies change in ways that are passed on and help it survive",
+      "It makes a copy of itself"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Flames and crystals can move or copy too. Building and repairing itself from other materials, and evolving, are much harder to fake.",
      "outcome": 1
     },
@@ -2462,11 +2462,11 @@
    "t": "mcq",
    "p": "A mule almost never has young, but a mule is alive. What does this show about the test 'living things make young'?",
    "opts": [
-    "Mules are not alive",
     "It applies to a whole kind across many generations, not to each single body",
+    "Mules are not alive",
     "The test is perfect"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A single body can be alive without having young. The test describes a kind of living thing over time.",
    "outcome": 1
   },
@@ -2486,11 +2486,11 @@
    "t": "mcq",
    "p": "You heat a raw beetroot cube in very hot water and the water turns red. What happened to the cells?",
    "opts": [
-    "The cells grew larger",
     "Heat damaged the skin of the cells, so the red leaked out",
+    "The cells grew larger",
     "The beetroot produced more red"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The cell membrane keeps the pigment inside. Heat shakes it out of shape, and the pigment leaks out.",
    "outcome": 3
   },
@@ -2499,10 +2499,10 @@
    "p": "What does the cell membrane do?",
    "opts": [
     "It makes food for the cell",
-    "It stops the cell from moving",
-    "It controls what goes into the cell and what stays in"
+    "It controls what goes into the cell and what stays in",
+    "It stops the cell from moving"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The membrane is a thin skin around the cell. It lets some things pass and keeps other things in.",
    "outcome": 3
   },
@@ -2523,10 +2523,10 @@
    "p": "In 1935, Wendell Stanley made crystals of the tobacco mosaic virus. Why were people so surprised by the crystals?",
    "opts": [
     "They were the biggest crystals ever seen",
-    "They were red like beetroot",
-    "The crystals could still make plants sick, even though they were crystals"
+    "The crystals could still make plants sick, even though they were crystals",
+    "They were red like beetroot"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Stanley's crystals infected plants when they were dissolved again. It showed that a germ could be a chemical that forms crystals.",
    "outcome": 5
   },
@@ -2546,11 +2546,11 @@
    "t": "mcq",
    "p": "A salt crystal grows in strong salt water. How is its growth different from a sprout's?",
    "opts": [
-    "The crystal adds more of the salt that was already in the water, and the sprout turns other things into new roots and leaves",
     "The crystal grows more slowly",
+    "The crystal adds more of the salt that was already in the water, and the sprout turns other things into new roots and leaves",
     "The sprout does not use energy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A crystal stacks more of the same. A living thing builds its body out of other materials.",
    "outcome": 0
   },
@@ -2559,10 +2559,10 @@
    "p": "You test your rule 'alive means it moves' on a dry seed, and the rule gives the wrong answer. What is the best next step?",
    "opts": [
     "Decide the seed is dead",
-    "Never write another rule",
-    "Mend the rule and test it again"
+    "Mend the rule and test it again",
+    "Never write another rule"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Scientists mend a rule after a hard case breaks it, and then test again.",
    "outcome": 6
   },
@@ -2571,10 +2571,10 @@
    "p": "Two groups of seeds are tested. 9 of 10 fresh seeds sprout, and 2 of 10 old seeds sprout. What is the best claim?",
    "opts": [
     "All old seeds are dead",
-    "In this test, the older seeds sprouted less often",
-    "Fresh seeds are always better"
+    "Fresh seeds are always better",
+    "In this test, the older seeds sprouted less often"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A claim should only say what the evidence shows. Two old seeds sprouted, so not all old seeds are dead.",
    "outcome": 6
   },
@@ -2582,11 +2582,11 @@
    "t": "mcq",
    "p": "A fridge keeps its inside colder than the kitchen. Why is a fridge still not alive?",
    "opts": [
-    "Someone built it and powers it, and it cannot build or mend its own parts from other materials",
     "A fridge is too cold",
+    "Someone built it and powers it, and it cannot build or mend its own parts from other materials",
     "A fridge does not use energy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fridge and a living body both hold an inside different from the outside using energy. Only a living thing builds and mends itself.",
    "outcome": 2
   }

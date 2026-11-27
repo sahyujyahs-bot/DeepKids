@@ -583,7 +583,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 1. (order) Put the seven stages of a flowering plant's life in order.  
    **Answer:** ['Germination', 'Growth', 'Flowering', 'Pollination', 'Fertilisation', 'Fruit and seed formation', 'Seed dispersal']. *Why:* The stages always come in this order. The seeds from the last stage start the first stage again. A strong answer says that if one stage fails, no new seeds are made.
 2. (mcq) A bee leaves pollen on a flower. What must happen before a seed can start to form?  
-   Options: A male cell joins an egg cell inside the flower / The petals fall off / The fruit turns ripe / The seed germinates  
+   Options: The petals fall off / The fruit turns ripe / A male cell joins an egg cell inside the flower / The seed germinates  
    **Answer:** A male cell joins an egg cell inside the flower. *Why:* After pollination, a male cell from the pollen joins an egg cell inside the flower. That is fertilisation, and a seed starts only after that. Choosing the petals falling off mixes up a sign that often follows with the cause.
 3. (match) Match each stage to what happens in it.  
    **Answer:** Germination → a seed takes in water, and a root and shoot grow out; Pollination → pollen is carried to the female part of a flower; Fertilisation → a male cell joins an egg cell inside the flower; Fruit and seed formation → fertilised egg cells grow into seeds inside a fruit; Seed dispersal → seeds are carried away from the parent plant. *Why:* Each stage has one job. A strong answer can say why pollination and fertilisation are different stages: one carries the pollen, and the other joins the cells.
@@ -594,12 +594,12 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 6. (sort) Sort these plants into annual, biennial and perennial.  
    **Answer:** paddy → Annual; moong → Annual; wheat → Annual; carrot → Biennial; cabbage → Biennial; mango → Perennial; coconut palm → Perennial; tamarind → Perennial. *Why:* Paddy, moong and wheat live one season. Carrot and cabbage flower in their second year. Mango, coconut and tamarind live for many years. A strong answer gives the clue for each group.
 7. (mcq) Which stage does a fern never have?  
-   Options: Pollination / Germination / Growth / Seed dispersal  
+   Options: Germination / Growth / Seed dispersal / Pollination  
    **Answer:** Pollination. *Why:* A fern has no flowers, so a fern has no pollination. A fern spore germinates, the fern grows, and spores are carried away by wind. Choosing seed dispersal forgets that spores are dispersed too.
 8. (write) A pumpkin plant has many flowers, but no insect ever visits them. Which stage fails? Explain why no fruit grows.  
    **Answer:** Pollination fails. Pumpkin pollen must be carried by insects from one flower to another. Without pollination, no male cell can reach an egg cell, so no seed starts and no fruit grows.. *Why:* A strong answer names pollination, says what is missing (a carrier for the pollen), and links this to why fertilisation and fruit cannot follow.
 9. (mcq) Which plant can live for several thousand years?  
-   Options: A bristlecone pine / A mustard plant / A moong plant / A paddy plant  
+   Options: A mustard plant / A moong plant / A paddy plant / A bristlecone pine  
    **Answer:** A bristlecone pine. *Why:* Bristlecone pines in California have been counted at nearly 5,000 years. Mustard, moong and paddy live a few months.
 10. (odd) Three of these are annuals. Which one is the odd one out?  
    Options: Paddy / Mustard / Moong / Mango  
@@ -609,14 +609,14 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 12. (label) Draw a flower where pollen has landed, and label: pollen grain, pollen tube, egg cell.  
    **Answer:** ["Pollen grain on the top of the flower's female part", 'Pollen tube growing down', 'Egg cell at the bottom, inside the flower']. *Why:* After pollination, the pollen grain grows a thin tube down to an egg cell. A male cell travels down the tube. A strong drawing shows the tube joining the pollen grain to the egg cell.
 13. (mcq) A mustard plant lives 120 days and first flowers at day 40. What share of the life passes before the first flower?  
-   Options: One third / One half / One quarter / Two thirds  
+   Options: One half / One quarter / Two thirds / One third  
    **Answer:** One third. *Why:* 40 ÷ 120 = 1 third. One half would need 60 days, and one quarter would need 30 days.
 14. (write) Think about the Bad Year Test. On the riverbank, why did the perennial usually leave fewer seeds than the annual?  
    **Answer:** On the riverbank, the ground was cleared in about half of the years. Each time, the perennial went back to the start and had to grow for two years again before making 12 seeds. The annual lost only one season, and made 5 seeds in each good year.. *Why:* A strong answer uses evidence from the test: how often the rajma went back to the start, and what a cleared year cost each plant.
 15. (truefalse) True or false: pollination and fertilisation are the same stage.  
    **Answer:** False. *Why:* False. Pollination is the carrying of pollen to the flower. Fertilisation happens afterwards, inside the flower, when a male cell joins an egg cell.
 16. (mcq) Which of these foods comes from a perennial plant?  
-   Options: Pepper / Rice / Wheat / Moong  
+   Options: Rice / Wheat / Moong / Pepper  
    **Answer:** Pepper. *Why:* Pepper grows on a vine that lives for many years. Rice, wheat and moong are annuals.
 ### Lives and Places (stretch) (stretch, 16 questions)
 1. (mcq) On a riverbank that floods often, why do annuals do well?  
@@ -629,14 +629,14 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 4. (fill) Food spent on seeds leaves less for roots and wood. A choice like this is called a ____.  
    **Answer:** ['trade-off', 'trade off', 'tradeoff']. *Why:* A trade-off means that having more of one thing means having less of another.
 5. (mcq) A coconut palm first flowers at 8 years and lives 80 years. What share of life passes before the first flower?  
-   Options: One tenth / One eighth / One fifth / One half  
+   Options: One eighth / One tenth / One fifth / One half  
    **Answer:** One tenth. *Why:* 8 ÷ 80 = 1 tenth. One eighth comes from dividing 80 by 10 by mistake.
 6. (order) After a field is cleared and left alone, plants change in a regular order. Put them in order, first to last.  
    **Answer:** ['Annual weeds', 'Perennial grasses and herbs', 'Shrubs', 'Trees']. *Why:* Annual weeds arrive first, because they flower young. Perennial grasses and herbs follow, then shrubs, and after many years trees.
 7. (truefalse) True or false: the biggest tree in a forest is always the oldest.  
    **Answer:** False. *Why:* False. The oldest trees counted so far are small bristlecone pines on dry mountains. A tree in rich soil can grow large in a few hundred years.
 8. (mcq) A chrysanthemum plant flowers when the nights are long. Which part of the plant senses the length of the night?  
-   Options: The leaves / The buds / The roots / The petals  
+   Options: The buds / The roots / The petals / The leaves  
    **Answer:** The leaves. *Why:* Scientists covered or lit different parts of plants. They found that the leaves sense the night and send a signal to the buds.
 9. (write) Claim: a plant that lives longer is more successful. Do you agree? Use evidence from the Bad Year Test.  
    **Answer:** I do not fully agree. In the Bad Year Test, the perennial left more seeds in the old grove, but the annual left more on the riverbank. Which plant leaves more seeds depends on how often the ground is cleared. So a longer life is not always more successful.. *Why:* A strong answer uses results from the test, names both places, and says what decides the winner.
@@ -666,7 +666,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 4. (write) A tree core has 120 rings, then a rotten hollow that may hide 20 more. Give the age as a range.  
    **Answer:** The tree is at least 120 years old. With the rotten centre, it could be about 120 to 140 years old. I give a range, because I cannot count rings that have rotted.. *Why:* A strong answer says 'at least 120', gives a range with a reason, and does not claim an exact age.
 5. (mcq) When a die clears the ground on a 1 or a 2, what do you expect in the Bad Year Test?  
-   Options: Neither plant wins every run, and the totals are close / The annual wins every run / The perennial wins every run / Neither plant leaves any seeds  
+   Options: The annual wins every run / The perennial wins every run / Neither plant wins every run, and the totals are close / Neither plant leaves any seeds  
    **Answer:** Neither plant wins every run, and the totals are close. *Why:* When clearing happens one year in three, the annual averages about 40 seeds and the perennial about 36. Either can win a single run, so you need several runs.
 6. (write) If the perennial needed five growing years instead of two, what would happen to the seeds? Why?  
    **Answer:** It would leave fewer seeds. Each cleared year would send it back to the start, and it would need five good years in a row before making any seeds. In the old grove that would happen less often, and on the riverbank almost never.. *Why:* A strong answer says the perennial leaves fewer seeds, and explains it with the longer wait and the cleared years.
@@ -676,7 +676,7 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 8. (truefalse) True or false: a plant that flowers once and then dies, like the talipot palm, must be an annual.  
    **Answer:** False. *Why:* False. The talipot palm lives for decades, so it is a perennial. It flowers only once, at the end of its life.
 9. (mcq) A core from a bristlecone pine shows 4,600 rings. Why do scientists say 'more than 4,600 years'?  
-   Options: Some rings may be missing, so the count is low / Rings grow twice a year / The core is always cut in half / Bristlecone pines have no rings  
+   Options: Rings grow twice a year / The core is always cut in half / Bristlecone pines have no rings / Some rings may be missing, so the count is low  
    **Answer:** Some rings may be missing, so the count is low. *Why:* A tree can miss a ring in a very dry year, and the centre may have rotted away. The real age is probably higher than the count.
 10. (match) Match each way of finding a plant's age to what limits that way.  
    **Answer:** A record of the planting → works only if someone wrote it down; Counting tree rings → needs yearly rings, which many tropical trees lack; Carbon dating → gives a range, not an exact year; Counting leaf scars → is only as good as the rate of new leaves. *Why:* Each method suits some plants and not others. A strong answer says why an honest age is given as a range.
@@ -699,40 +699,40 @@ Valli pressed her forehead to the window. By next summer these bushes would be d
 
 ## Quiz
 1. (mcq) Pollen lands on a flower. Later, a male cell joins an egg cell inside the flower. What is this stage called?  
-   Options: Fertilisation / Pollination / Germination / Seed dispersal  
+   Options: Pollination / Germination / Fertilisation / Seed dispersal  
    **Answer:** Fertilisation. *Why:* The joining of a male cell and an egg cell is fertilisation. Choosing pollination means mixing up the carrying of pollen with the joining of cells.
 2. (mcq) Which stage comes straight after fertilisation?  
-   Options: Fruit and seed formation / Germination / Pollination / Flowering  
+   Options: Germination / Pollination / Fruit and seed formation / Flowering  
    **Answer:** Fruit and seed formation. *Why:* After fertilisation, the egg cells grow into seeds and the flower around them grows into a fruit. Germination comes later, when a seed starts to grow.
 3. (mcq) How does a fern make new plants?  
-   Options: With spores / With seeds in a fruit / With seeds on a cone / With flowers  
+   Options: With seeds in a fruit / With seeds on a cone / With spores / With flowers  
    **Answer:** With spores. *Why:* Ferns never flower. They make spores, which are single cells. Choosing cones means mixing up ferns with pines.
 4. (mcq) Which plant makes seeds without any flower or fruit?  
-   Options: A deodar / A fern / A moss / A mango tree  
+   Options: A fern / A moss / A deodar / A mango tree  
    **Answer:** A deodar. *Why:* A deodar is a conifer, and makes seeds on the scales of cones. Ferns and mosses make spores, and the mango tree has flowers and fruit.
 5. (mcq) A plant grows leaves and a thick root in year one, flowers in year two and then dies. What is the plant?  
-   Options: A biennial / An annual / A perennial / A non-flowering plant  
+   Options: An annual / A perennial / A biennial / A non-flowering plant  
    **Answer:** A biennial. *Why:* A biennial takes two years, and flowers in the second. An annual takes one season, and a perennial lives more than two years.
 6. (mcq) Which of these plants is a perennial?  
-   Options: Tamarind / Paddy / Mustard / Moong  
+   Options: Paddy / Mustard / Tamarind / Moong  
    **Answer:** Tamarind. *Why:* A tamarind tree lives for many years. Paddy, mustard and moong live for one season.
 7. (mcq) Paddy lives about 150 days and first flowers at about day 90. What share of its life passes before the first flower?  
-   Options: Three fifths / One third / One half / Two fifths  
+   Options: One third / One half / Three fifths / Two fifths  
    **Answer:** Three fifths. *Why:* 90 ÷ 150 = 3 fifths, which is 60 percent. One third is the share for mustard.
 8. (mcq) Why do annuals do well in a field that is ploughed every year?  
-   Options: Ploughing clears the ground, and annuals grow quickly from seed / Ploughing helps perennial roots / Annuals have deeper roots / Ploughing makes the soil colder  
+   Options: Ploughing helps perennial roots / Annuals have deeper roots / Ploughing makes the soil colder / Ploughing clears the ground, and annuals grow quickly from seed  
    **Answer:** Ploughing clears the ground, and annuals grow quickly from seed. *Why:* Ploughing clears the plants from the ground. An annual flowers young and leaves seeds before the next clearing, while a perennial loses the years it spent growing.
 9. (mcq) Why does a young perennial often leave fewer seeds than an annual in the first years?  
-   Options: It spends food on roots and wood, and not on seeds / It cannot make flowers / It has no leaves / It needs less water  
+   Options: It cannot make flowers / It has no leaves / It spends food on roots and wood, and not on seeds / It needs less water  
    **Answer:** It spends food on roots and wood, and not on seeds. *Why:* Food spent on seeds cannot be spent on growing. A perennial grows first and makes seeds for many years afterwards.
 10. (mcq) A scientist drills a thin core out of a living tree and counts the rings. What does the count tell us?  
-   Options: About how many years old the tree is / How tall the tree will grow / How many leaves the tree has / What fruit the tree makes  
+   Options: How tall the tree will grow / How many leaves the tree has / About how many years old the tree is / What fruit the tree makes  
    **Answer:** About how many years old the tree is. *Why:* In places with seasons, a tree adds one ring each year, so the count gives the age. The core does not harm the tree.
 11. (mcq) In a test that depends on chance, a perennial wins one run. What should you do before you trust this?  
    Options: Repeat the run several times and look at the average / Stop, because the perennial won / Change the die / Use only the best run  
    **Answer:** Repeat the run several times and look at the average. *Why:* One run can be lucky. Repeating the run, and using the average, shows the pattern. Stopping after one run mistakes a fluke for a result.
 12. (mcq) Which is a fair reason to grow perennial crops?  
-   Options: Roots hold the soil all year / Perennial crops always give more grain / Perennial crops need no water / Perennial crops grow in one month  
+   Options: Perennial crops always give more grain / Perennial crops need no water / Perennial crops grow in one month / Roots hold the soil all year  
    **Answer:** Roots hold the soil all year. *Why:* Roots in the soil hold it, and the farmer saves the work of sowing. But the farmer must wait some years for the first crop, and some perennial grains give less grain so far.
 
 ## Applications

@@ -618,7 +618,7 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    **Answer:** 32. *Why:* The numbers go 1, 2, 4, 8, 16, 32. Doubling five times gives 32. This is why a body has only a few days to learn a new coat.
 ### Coats, medicines and parasites who steer (stretch, 15 questions)
 1. (mcq) Why can most parasites change faster than their hosts?  
-   Options: Parasites have new generations much more often / Parasites are cleverer than hosts / Hosts never change at all  
+   Options: Parasites are cleverer than hosts / Hosts never change at all / Parasites have new generations much more often  
    **Answer:** Parasites have new generations much more often. *Why:* Change spreads from one generation to the next. A parasite may have a new generation in days and a host in years. Hosts do change, but more slowly.
 2. (truefalse) An antibody made for one coat of a parasite grips every other coat too.  
    **Answer:** False. *Why:* False. Each antibody fits one shape. When the parasite switches coat, the body must start learning again.
@@ -653,7 +653,7 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    **Answer:** The koel chick grows up beside the crow chicks. *Why:* The koel mother lays the egg and leaves. The crows feed the koel chick together with their own chicks. The koel chick does not push the crow chicks out.
 ### Testing, arguing and working it out (challenge, 15 questions)
 1. (mcq) Animals with a parasite sit in the open. What must be shown before calling it the parasite's trick?  
-   Options: More of them reach the parasite's next host / They look unusual / They are thinner than the others  
+   Options: They look unusual / They are thinner than the others / More of them reach the parasite's next host  
    **Answer:** More of them reach the parasite's next host. *Why:* A change is manipulation only if it carries more parasites onward. Looking unusual or being thin could be side effects of illness.
 2. (mcq) In a hunting test with paper bugs, which round is the control?  
    Options: All bugs hide in the same way / Dotted bugs stand in the open / The hunter uses both hands  
@@ -696,36 +696,36 @@ But she went on thinking about the walk across the yard. The mantis had gone so 
    Options: Each side keeps changing in answer to the other / The host changes and the parasite stays the same / The stronger side wins and it ends  
    **Answer:** Each side keeps changing in answer to the other. *Why:* Each defence is followed by a way round it. Choosing 'the stronger side wins' misses that neither side stays ahead, because both keep changing.
 2. (mcq) A medicine against a parasite is used widely. After years it works less well. Why?  
-   Options: Parasites who survive it left the young / The tablets became weaker / People's bodies got used to it  
+   Options: The tablets became weaker / People's bodies got used to it / Parasites who survive it left the young  
    **Answer:** Parasites who survive it left the young. *Why:* The medicine removes the ordinary parasites. The few who can survive it multiply. The tablets and the people have not changed. The parasites have.
 3. (mcq) Flukes each fit one kind of snail. One kind of snail becomes very common. What happens next?  
-   Options: Flukes who fit that kind multiply, and it goes down / That kind stays on top for ever / The flukes die out  
+   Options: That kind stays on top for ever / The flukes die out / Flukes who fit that kind multiply, and it goes down  
    **Answer:** Flukes who fit that kind multiply, and it goes down. *Why:* Being common makes a snail kind the easiest host to find, so her flukes do best. Choosing 'stays on top for ever' treats the flukes as fixed.
 4. (mcq) Why is a group of clones in more danger from a parasite than a mixed group?  
-   Options: A parasite who fits one clone fits them all / Clones are always smaller / Clones cannot have young  
+   Options: Clones are always smaller / Clones cannot have young / A parasite who fits one clone fits them all  
    **Answer:** A parasite who fits one clone fits them all. *Why:* Clones are copies, so they share the same locks. A mixed group always has some rare kind that few parasites fit.
 5. (mcq) What does an antibody do?  
    Options: Grips one particular shape on a germ or parasite / Carries oxygen in the blood / Kills every microbe nearby  
    **Answer:** Grips one particular shape on a germ or parasite. *Why:* An antibody is a Y-shaped protein that fits one shape only. It marks the parasite for other cells to destroy. It does not fit every microbe.
 6. (mcq) How does a coat-changing parasite stay in the blood for months?  
-   Options: Some switch to a coat the body has not learned / They hide in the stomach / They stop multiplying  
+   Options: They hide in the stomach / Some switch to a coat the body has not learned / They stop multiplying  
    **Answer:** Some switch to a coat the body has not learned. *Why:* Antibodies clear one coat, but a few parasites have already switched to another. The body has to start learning again, so the numbers rise and fall in waves.
 7. (mcq) A fluke must get from a fish into a bird. Which change in the fish helps the fluke?  
    Options: The fish flashes near the surface / The fish hides in deep weed / The fish swims faster from birds  
    **Answer:** The fish flashes near the surface. *Why:* A fish who flashes near the surface is easier for a bird to see and catch. Birds ate infected killifish 10 to 30 times as often as healthy ones.
 8. (mcq) A mantis with a full-grown hairworm inside walks into water. Who needs the water?  
-   Options: The hairworm, who mates in water / The mantis, who is thirsty / Neither of them  
+   Options: The mantis, who is thirsty / Neither of them / The hairworm, who mates in water  
    **Answer:** The hairworm, who mates in water. *Why:* Adult hairworms live and mate in water. Healthy mantises keep away from water. Choosing 'the mantis is thirsty' does not explain why only infected mantises do it.
 9. (mcq) An ill goat lies still all day. What must be shown before calling this a parasite's trick?  
-   Options: That lying still helps the parasite spread / That the goat has a parasite / That the goat looks unhappy  
+   Options: That the goat has a parasite / That lying still helps the parasite spread / That the goat looks unhappy  
    **Answer:** That lying still helps the parasite spread. *Why:* Lying still could be a side effect of being weak, or the goat saving strength. It is a trick only if the change carries more parasites to the next host.
 10. (truefalse) Every odd behaviour of an infected animal is caused by the parasite to help the parasite.  
    **Answer:** False. *Why:* False. Some odd behaviours are the host's own defence, such as a fever or basking in the sun. Some are side effects of illness. Each case has to be tested.
 11. (mcq) Which of these claims do scientists still argue about?  
-   Options: Toxoplasma changes human personality / Infected rats lose their fear of cat smell / Birds eat more infected killifish  
+   Options: Infected rats lose their fear of cat smell / Birds eat more infected killifish / Toxoplasma changes human personality  
    **Answer:** Toxoplasma changes human personality. *Why:* The rat and killifish findings were tested by comparing infected and healthy animals. Studies of people and Toxoplasma disagree with each other.
 12. (mcq) A dog's tooth scratches your hand and breaks the skin. What do you do first?  
-   Options: Wash with soap and running water for 15 minutes / Cover it with turmeric / Wait to see if the dog falls ill  
+   Options: Cover it with turmeric / Wait to see if the dog falls ill / Wash with soap and running water for 15 minutes  
    **Answer:** Wash with soap and running water for 15 minutes. *Why:* Washing at once removes much of the virus. Then tell a grown-up and see a doctor the same day. Waiting is dangerous, because rabies cannot be cured once signs begin.
 13. (truefalse) You can catch Toxoplasma by stroking a healthy cat's fur.  
    **Answer:** False. *Why:* False. The parasite is passed in cat dung and gets into soil, sand and unwashed vegetables. Wash your hands after touching soil or a litter tray, and wash vegetables.

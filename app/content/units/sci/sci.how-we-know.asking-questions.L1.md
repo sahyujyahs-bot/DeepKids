@@ -389,7 +389,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 2. (match) Draw a line from each sound to what might be inside the shut dabba.  
    **Answer:** Shhh, like rain → Rice; One bump and a roll → A lemon; Almost nothing → A cotton ball; Clink, clink → A steel spoon. *Why:* Many grains make a shhh. One round thing bumps and rolls. Soft things are almost silent. Metal on metal clinks.
 3. (mcq) A girl hears a tap-tap at her window every morning. What is the best thing to do first?  
-   Options: Watch quietly to see what makes the sound / Say it is a ghost / Shut the curtain and forget it  
+   Options: Say it is a ghost / Watch quietly to see what makes the sound / Shut the curtain and forget it  
    **Answer:** Watch quietly to see what makes the sound. *Why:* Watching quietly is observing. It gives real clues, for example that a bird is pecking at his own reflection.
 4. (draw) Draw something at home that you wonder about. Then say your question out loud, and a grown-up writes it.  
    **Answer:** A drawing of one thing, and a question about it that starts with what, why or how.. *Why:* A strong answer has a real question that the child wants to find out, such as 'Why does the fridge hum?'
@@ -403,10 +403,10 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 8. (write) Say out loud, and a grown-up writes it: in the Mystery Dabbas experiment, which clue helped you most, and why?  
    **Answer:** For example: the sound, because the rice went shhh and the lemon went bump.. *Why:* A strong answer names one clue and says how it pointed to what was inside.
 9. (mcq) You smell something sweet from the kitchen. What is the best way to find out what it is?  
-   Options: Go and look, and ask what is cooking / Say nothing and wonder all day / Taste everything in the kitchen  
+   Options: Say nothing and wonder all day / Taste everything in the kitchen / Go and look, and ask what is cooking  
    **Answer:** Go and look, and ask what is cooking. *Why:* Looking and asking are safe ways to get clues. Tasting unknown things is not.
 10. (mcq) You want to know if your glass of milk is hot. What is the safest way to find out first?  
-   Options: Look for steam and gently touch the outside of the glass / Gulp it fast / Put your finger in the milk  
+   Options: Gulp it fast / Look for steam and gently touch the outside of the glass / Put your finger in the milk  
    **Answer:** Look for steam and gently touch the outside of the glass. *Why:* Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you.
 11. (sort) Sort these into safe things to do and things not to do.  
    **Answer:** Wave the smell towards my nose → Safe; Taste a mystery powder → Not safe; Wash my hands when I finish → Safe; Wait for a grown-up to cut the lemon → Safe; Sniff with my nose pushed into a jar → Not safe. *Why:* Safe work means listening, waiting for a grown-up for sharp or hot things, and washing hands. Tasting and deep sniffing mystery things can hurt you.
@@ -420,7 +420,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 3. (write) Nobody has ever been to the middle of the Earth. Say out loud how scientists could find out what is there, and a grown-up writes it.  
    **Answer:** They can look very closely at how the shaking from earthquakes comes through the Earth.. *Why:* A strong answer says scientists use clues from earthquake shaking, the way we used the sounds from a shaken dabba.
 4. (mcq) A doctor wants to know if your heart is beating well. She cannot see inside you. What does she do?  
-   Options: She listens with a stethoscope / She opens you up / She guesses  
+   Options: She opens you up / She guesses / She listens with a stethoscope  
    **Answer:** She listens with a stethoscope. *Why:* The sound of your heart is a clue. A stethoscope helps her hear it clearly.
 5. (draw) Draw an animal finding out about something new. Show the body part they use.  
    **Answer:** For example: an ant touching a crumb with her feelers, a dog sniffing, or a crow looking with one eye.. *Why:* A strong drawing shows a real way an animal finds out, with the right body part.
@@ -430,7 +430,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 7. (match) Draw a line from each animal to the body part they use most to find food.  
    **Answer:** An ant → Feelers; A dog → Nose; A crow → Eyes; A snake → Tongue. *Why:* Ants smell and touch with their feelers. Dogs follow smells. Crows spot food with their sharp eyes. A snake flicks her tongue to pick up smells.
 8. (mcq) You hear a drip, drip at night. Which question would help you find out most?  
-   Options: Where is the sound coming from? / Is it a nice sound? / Should I go to sleep?  
+   Options: Is it a nice sound? / Where is the sound coming from? / Should I go to sleep?  
    **Answer:** Where is the sound coming from?. *Why:* Knowing where the sound comes from tells you where to look next: the tap, the window or the roof.
 9. (odd) Which of these can you NOT find out by shaking a shut dabba?  
    Options: If there is one thing or many / If the thing is hard or soft / The colour of the thing  
@@ -449,19 +449,19 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 
 ## Quiz
 1. (mcq) You see a snail on the balcony wall. Which one is a question?  
-   Options: The snail is slow. / Why does the snail leave a shiny line? / I like snails.  
+   Options: The snail is slow. / I like snails. / Why does the snail leave a shiny line?  
    **Answer:** Why does the snail leave a shiny line?. *Why:* A question asks something you want to find out. 'Why does the snail leave a shiny line?' asks. The other two only tell.
 2. (mcq) You want to find out why the ceiling fan makes a clicking sound. What should you do first?  
-   Options: Watch and listen to the fan closely / Decide it is broken / Forget about it  
+   Options: Decide it is broken / Watch and listen to the fan closely / Forget about it  
    **Answer:** Watch and listen to the fan closely. *Why:* Observing closely comes first. You may see where the click comes from, and how often it comes.
 3. (mcq) Which question can you answer by looking closely at one ant?  
-   Options: How many legs does the ant have? / Who will win the cricket match? / What is my friend's name?  
+   Options: Who will win the cricket match? / How many legs does the ant have? / What is my friend's name?  
    **Answer:** How many legs does the ant have?. *Why:* You can count the ant's legs by looking closely. The other questions have nothing to do with the ant.
 4. (mcq) To observe a flower closely, what should you do?  
-   Options: Look at the flower from across the room, once / Look closely, smell the flower and gently touch the petals / Close your eyes and guess  
+   Options: Look at the flower from across the room, once / Close your eyes and guess / Look closely, smell the flower and gently touch the petals  
    **Answer:** Look closely, smell the flower and gently touch the petals. *Why:* Observing means using your senses carefully, and looking more than once. Each sense gives a different clue.
 5. (mcq) Which sense must you never use on a mystery thing?  
-   Options: Hearing / Tasting / Seeing  
+   Options: Tasting / Hearing / Seeing  
    **Answer:** Tasting. *Why:* A mystery thing might be unsafe to eat. Scientists taste only things they know are food.
 6. (mcq) A shut dabba makes almost no sound and feels very light. What could be inside?  
    Options: A cotton ball / A steel spoon / A potato  
@@ -470,16 +470,16 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
    Options: Something round, like a lemon / Lots of tiny grains, like salt / Something soft, like cotton  
    **Answer:** Something round, like a lemon. *Why:* One round thing rolls and hits the end with one knock. Grains slide together, and cotton hardly moves.
 8. (mcq) You guessed rice, but the dabba had dal in it. What is the best thing to do?  
-   Options: Feel bad and stop / Say which clue fooled you, and try again / Say you were right anyway  
+   Options: Say which clue fooled you, and try again / Feel bad and stop / Say you were right anyway  
    **Answer:** Say which clue fooled you, and try again. *Why:* Rice and dal sound alike. Knowing which clue fooled you helps you next time. That is how scientists learn from a wrong guess.
 9. (mcq) You guess what is in a shut dabba. Why do you open it at the end?  
-   Options: To check if your clues led you to the right answer / Because shaking is boring / To eat what is inside  
+   Options: Because shaking is boring / To check if your clues led you to the right answer / To eat what is inside  
    **Answer:** To check if your clues led you to the right answer. *Why:* Clues help you guess. Opening the lid checks the guess.
 10. (mcq) Nobody can dig to the middle of the Earth. How can scientists find out what is there?  
-   Options: By studying how earthquake shaking travels through the Earth / Only by guessing / By looking down a deep well  
+   Options: Only by guessing / By looking down a deep well / By studying how earthquake shaking travels through the Earth  
    **Answer:** By studying how earthquake shaking travels through the Earth. *Why:* Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.
 11. (mcq) You want to smell the elaichi pod that a grown-up has opened. What is the safe way?  
-   Options: Wave the smell towards your nose with your hand / Push your nose right inside and sniff hard / Taste a tiny bit to check  
+   Options: Push your nose right inside and sniff hard / Wave the smell towards your nose with your hand / Taste a tiny bit to check  
    **Answer:** Wave the smell towards your nose with your hand. *Why:* Waving brings a little of the smell to you. A strong sniff can hurt your nose, and you never taste a mystery thing.
 12. (mcq) You measure the table with your hand and get 8 hands. Your grandfather gets 6 hands. Why?  
    Options: His hand is bigger than yours / The table shrank / He counted wrong, because counts must always match  

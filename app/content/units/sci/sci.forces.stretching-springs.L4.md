@@ -550,7 +550,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 ## Worksheets
 ### Stiffness, bounces and beats (core) (core, 16 questions)
 1. (mcq) A band stretches 4 cm under a 2 N load. What is its stiffness?  
-   Options: 0.5 N for each cm / 2 N for each cm / 8 N for each cm  
+   Options: 2 N for each cm / 8 N for each cm / 0.5 N for each cm  
    **Answer:** 0.5 N for each cm. *Why:* Stiffness is the pull divided by the stretch. 2 divided by 4 is 0.5. An answer of 8 comes from multiplying the numbers instead of dividing them.
 2. (truefalse) A bottle bounces on a band. If you pull it down twice as far before letting go, ten bounces take twice as long.  
    **Answer:** False. *Why:* False. A bigger bounce goes further, but the band pulls harder and the bottle goes faster. The extra distance and the extra speed make up for each other, so the time stays the same.
@@ -577,7 +577,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 12. (draw) Draw a graph with the pull along the bottom and the stretch up the side. Draw one line for a stiff spring and one for a soft spring. Label each line.  
    **Answer:** Two straight lines from the corner. The soft spring's line climbs steeply upward, since it stretches a lot for each newton. The stiff spring's line climbs gently, since it stretches only a little for each newton.. *Why:* On a graph of stretch against pull, a soft spring has a steep line and a stiff spring has a gentle line. If the axes are the other way, the stiff one is steep.
 13. (mcq) What does a quartz watch count to keep time?  
-   Options: The vibrations of a tiny crystal / The swings of a pendulum / The movement of the Sun  
+   Options: The swings of a pendulum / The vibrations of a tiny crystal / The movement of the Sun  
    **Answer:** The vibrations of a tiny crystal. *Why:* A quartz watch uses a tiny crystal that vibrates 32,768 times each second. A chip counts the beats. The other answers describe other kinds of clock. A pendulum clock counts the swings of a pendulum, and a sundial uses the shadow of the Sun.
 14. (count) Two bands in a row stretch 20 cm under a packet. How far will the same packet stretch two such bands side by side?  
    **Answer:** 5. *Why:* Two bands in a row stretch 20 cm, so each band alone stretches 10 cm. Two bands side by side stretch half as far as one, which is 5 cm.
@@ -604,7 +604,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 7. (match) Match each clock or scale to the springy thing it uses.  
    **Answer:** Mechanical watch → a fine coiled balance spring; Quartz watch → a tiny vibrating crystal; Atomic clock → vibrating atoms of caesium; Astronaut's mass scale → a seat on springs. *Why:* Each one counts or times a springy beat. The watch counts the swings of a balance spring, the quartz watch counts a crystal, the atomic clock counts atoms, and a spring seat times the bounce to find a mass.
 8. (mcq) Why does a rubber band feel warm after a quick stretch?  
-   Options: The long chains line up as they stretch and give out a little heat / The band is rubbing against the air / The band was warm inside before  
+   Options: The band is rubbing against the air / The band was warm inside before / The long chains line up as they stretch and give out a little heat  
    **Answer:** The long chains line up as they stretch and give out a little heat. *Why:* When rubber is stretched, the tangled chains line up, which gives out some heat. This is different from friction with the air, and it happens even in a clean, cool band.
 9. (write) Soldiers are told to break step when they cross a bridge. Explain why, using the idea of a natural beat.  
    **Answer:** A bridge can have a natural beat, like a swing. If many people march in time, their steps might push at the bridge's natural beat. Each step would add to the last, and the bridge could sway more and more. Breaking step means the pushes are not all in time.. *Why:* A strong answer says that a bridge can have a natural beat, and that regular pushes at that beat could build up a large movement.
@@ -613,7 +613,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 11. (count) Twenty bounces of a bag take 15 seconds. How long does one bounce take, in seconds?  
    **Answer:** 0.75. *Why:* 15 divided by 20 is 0.75. Timing twenty bounces and dividing gives a more exact answer than timing one.
 12. (mcq) A pendulum clock runs down, and its swings get smaller. What happens to the time for one swing?  
-   Options: It stays about the same / It gets much longer / It gets much shorter  
+   Options: It gets much longer / It gets much shorter / It stays about the same  
    **Answer:** It stays about the same. *Why:* For small swings, the time of one swing does not depend on how big the swing is. This is why pendulum clocks can keep time even as the swings get smaller.
 13. (order) Put these in order to show how small pushes build a big swing.  
    **Answer:** ['Pull the swing back and let go', 'Push gently as it moves away', 'Wait for it to come back', 'Push gently again at the same moment', 'Each push adds to the swing, and it grows high']. *Why:* The pushes must come at the same moment in each swing. Each one adds to the movement, so the swing builds up.
@@ -622,7 +622,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 15. (truefalse) A stiffer spring is always a stronger spring.  
    **Answer:** False. *Why:* False. Stiff means a big pull for a small stretch. Strong means able to take a big load without breaking. A stiff glass rod breaks easily, and a soft steel spring can take a very big load.
 16. (mcq) Why can a spring seat find an astronaut's mass in space, when a bathroom scale cannot?  
-   Options: The bounce time depends on the mass and the stiffness, and not on gravity / The spring makes gravity / The bathroom scale is too heavy  
+   Options: The spring makes gravity / The bounce time depends on the mass and the stiffness, and not on gravity / The bathroom scale is too heavy  
    **Answer:** The bounce time depends on the mass and the stiffness, and not on gravity. *Why:* A bathroom scale measures how hard you press on it, which needs gravity. A spring seat bounces at a beat set by the mass and the stiffness, so it works wherever you are.
 17. (write) Using the idea of the pull of the spring, explain why a big bounce takes the same time as a small bounce.  
    **Answer:** A bigger bounce means the spring is stretched further, so it pulls harder. A harder pull speeds the load up more. The load goes further but also faster. The extra distance and the extra speed make up for each other, so the time stays the same.. *Why:* A strong answer says that the pull grows with the stretch, that the load is speeded up more, and that the longer path is covered at a higher speed.
@@ -635,7 +635,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 3. (write) A singer can break a wine glass with a loud note. Explain what the note must match, and why a louder note at the wrong pitch does not break it.  
    **Answer:** A wine glass has a natural beat, which is the pitch it rings at when tapped. If the singer's note matches that beat, each push of sound adds to the glass's vibration, until it shakes so much that it breaks. A louder note at the wrong pitch is out of time with the glass, so the pushes do not add up.. *Why:* A strong answer says that the note must match the glass's natural beat, so the pushes add up, and that a push out of time does not build up.
 4. (mcq) A quartz watch crystal vibrates 32,768 times each second. A chip halves the count 15 times to get one tick each second. Why 15 times?  
-   Options: 32,768 is 2 multiplied by itself 15 times / Because 15 is the number of seconds in a quarter minute / Because quartz has 15 corners  
+   Options: Because 15 is the number of seconds in a quarter minute / 32,768 is 2 multiplied by itself 15 times / Because quartz has 15 corners  
    **Answer:** 32,768 is 2 multiplied by itself 15 times. *Why:* Halving 32,768 fifteen times gives 1, because 2 multiplied by itself 15 times is 32,768. The other reasons are made up.
 5. (truefalse) A metal part that is bent only a little each time can never break from bending.  
    **Answer:** False. *Why:* False. Even small bends, repeated many times, can start and grow cracks. This is fatigue, and it is why engineers inspect parts that flex over and over.
@@ -646,7 +646,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 8. (fill) A bounce time of 0.5 seconds means a frequency of ____ hertz.  
    **Answer:** ['2']. *Why:* The frequency is the number of cycles in one second. One cycle takes 0.5 seconds, so two cycles fit in one second, which is 2 hertz.
 9. (mcq) Why do aeroplane windows have round corners rather than square ones?  
-   Options: Cracks from fatigue start easily at sharp corners / Round windows are lighter / Round windows look nicer  
+   Options: Round windows are lighter / Cracks from fatigue start easily at sharp corners / Round windows look nicer  
    **Answer:** Cracks from fatigue start easily at sharp corners. *Why:* Sharp corners concentrate the stress, so fatigue cracks start there. After two Comet airliners broke up in 1954, round corners became the rule. Lightness and looks were not the reason.
 10. (count) The surface of the Sun rises and falls once about every 5 minutes. About how many times does it do this in 2 hours?  
    **Answer:** 24. *Why:* Two hours is 120 minutes. 120 divided by 5 is 24.
@@ -669,22 +669,22 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 
 ## Quiz
 1. (mcq) What does the stiffness of a spring tell you?  
-   Options: How much pull it needs for each centimetre it stretches / How long the spring is / How heavy the spring is  
+   Options: How long the spring is / How much pull it needs for each centimetre it stretches / How heavy the spring is  
    **Answer:** How much pull it needs for each centimetre it stretches. *Why:* Stiffness is the pull divided by the stretch. A stiff spring needs a big pull for a small stretch.
 2. (mcq) Why are two identical bands side by side stiffer than one band?  
    Options: They share the pull, so each one stretches less / They are heavier / They are longer  
    **Answer:** They share the pull, so each one stretches less. *Why:* Each band carries half the pull and stretches half as far, so the pair is twice as stiff. Length and weight are not the reason.
 3. (mcq) Why do we time ten bounces and divide, rather than time one bounce?  
-   Options: A stopwatch cannot time a fraction of a second well, and dividing shrinks the error / Ten bounces are more fun / One bounce is not a real bounce  
+   Options: Ten bounces are more fun / A stopwatch cannot time a fraction of a second well, and dividing shrinks the error / One bounce is not a real bounce  
    **Answer:** A stopwatch cannot time a fraction of a second well, and dividing shrinks the error. *Why:* A small timing error of a quarter of a second is a big part of one bounce, but a small part of ten bounces. Dividing by ten shares the error out.
 4. (mcq) A bottle on a band is pulled down 3 cm and let go. Later it is pulled down 6 cm and let go. What can you say about the bounce time?  
-   Options: About the same / The 6 cm bounce takes twice as long / The 6 cm bounce takes half as long  
+   Options: The 6 cm bounce takes twice as long / About the same / The 6 cm bounce takes half as long  
    **Answer:** About the same. *Why:* The band pulls harder when stretched further, so the bottle goes faster. The bounce time stays about the same.
 5. (mcq) A load bounces in 2 seconds. A load 4 times heavier, on the same spring, will bounce in about:  
    Options: 4 seconds / 8 seconds / 2 seconds  
    **Answer:** 4 seconds. *Why:* Four times the load doubles the bounce time, because the square root of 4 is 2. Twice 2 seconds is 4 seconds.
 6. (mcq) A spring is swapped for one that is 4 times stiffer, with the same load. What happens to the bounce time?  
-   Options: It is half as long / It is twice as long / It stays the same  
+   Options: It is twice as long / It stays the same / It is half as long  
    **Answer:** It is half as long. *Why:* A stiffer spring pulls harder and speeds the load up faster. Four times the stiffness halves the bounce time.
 7. (mcq) What is resonance?  
    Options: Pushes in time with a thing's natural beat building a big movement / A very loud sound / Bouncing that never stops  
@@ -693,13 +693,13 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
    Options: As the swing is starting to move away, in the same direction / At random moments / While the swing is coming towards the parent  
    **Answer:** As the swing is starting to move away, in the same direction. *Why:* A push in the direction of the swing's movement adds to it. A push against the movement, or at random, does not build up the swing.
 9. (mcq) What happens to the temperature of a rubber band that is stretched quickly and then let go?  
-   Options: It warms up when stretched and cools when let go / It cools when stretched and warms when let go / It never changes  
+   Options: It cools when stretched and warms when let go / It warms up when stretched and cools when let go / It never changes  
    **Answer:** It warms up when stretched and cools when let go. *Why:* The rubber chains line up when stretched, which gives out heat. When let go, they tangle again and take in heat from their surroundings, so the band cools.
 10. (mcq) What is fatigue in a material?  
    Options: Cracks growing from being bent or stretched again and again / A material getting tired when it is warm / A material that is too heavy  
    **Answer:** Cracks growing from being bent or stretched again and again. *Why:* Fatigue is the slow growth of tiny cracks in a material that flexes many times, even if each flex is small. It ends in a sudden break.
 11. (mcq) Which of these keeps time by the swing of a fine coiled spring?  
-   Options: A mechanical watch / A sundial / A candle clock  
+   Options: A sundial / A candle clock / A mechanical watch  
    **Answer:** A mechanical watch. *Why:* A mechanical watch has a balance spring that swings a small wheel at a steady beat. A sundial uses the Sun's shadow, and a candle clock uses burning.
 12. (mcq) What is used to define the length of one second today?  
    Options: The vibrations of caesium atoms / One turn of a pendulum / The time between two heartbeats  

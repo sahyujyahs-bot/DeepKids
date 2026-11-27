@@ -492,7 +492,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 ## Worksheets
 ### Spores, Cones and Flowers (core) (core, 15 questions)
 1. (mcq) Which of these plants makes spores, not seeds?  
-   Options: A mango tree / A maidenhair fern / A deodar tree / A rice plant  
+   Options: A mango tree / A deodar tree / A rice plant / A maidenhair fern  
    **Answer:** A maidenhair fern. *Why:* Ferns make spores. The mango and rice make seeds in fruits, and the deodar makes seeds on cones. Choosing the deodar means thinking 'no flowers means no seeds', but conifers make seeds without flowers.
 2. (truefalse) True or false: every plant makes flowers at some time in their life.  
    **Answer:** False. *Why:* False. Mosses, ferns and conifers never make flowers. A strong answer names one, such as a fern or a pine.
@@ -505,7 +505,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 6. (write) Remember the Fan Test, where you dropped haldi, mustard and rajma in front of a fan. Explain why the haldi landed farthest. Use the word 'light' or 'heavy' in your answer.  
    **Answer:** Each grain of haldi is very small and light, so it falls very slowly. The moving air from the fan has time to carry it a long way before it lands. The rajma is heavy and falls fast, so the air hardly moves the bean.. *Why:* A strong answer links how slowly something falls to how far the air can carry it, and uses evidence from the test.
 7. (mcq) Green moss grows on a wall in the monsoon. In April the same moss looks brown and dry. Why?  
-   Options: Mosses grow and stay green only when they are wet / Moss turns brown because they are old and dead / Moss is green only in the dark / Someone painted the wall  
+   Options: Moss turns brown because they are old and dead / Moss is green only in the dark / Someone painted the wall / Mosses grow and stay green only when they are wet  
    **Answer:** Mosses grow and stay green only when they are wet. *Why:* Mosses have no veins to bring up water, so they need rain and damp air. In dry weather they shut down and turn brown, and they turn green again with the first rain. Choosing 'dead' means not knowing that many mosses can survive drying.
 8. (draw) Draw the underside of a fern frond. Show the brown dots and label 'frond' and 'sorus (spore dots)'.  
    **Answer:** A frond with rows of dots underneath, labelled frond and sorus.. *Why:* A strong drawing shows the dots in neat rows or lines under the leaf, not scattered like a disease.
@@ -521,13 +521,13 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 13. (perspective) Two friends argue about spores and seeds.  
    **Answer:** A strong answer uses how far things blow: tiny spores travel far, heavy seeds stay near. It sees that each way has a cost: spores have no food, seeds travel less far. It agrees with one friend and gives one fair point from the other.. *Why:* There is no single winner. Each way of making new plants suits a different kind of life.
 14. (mcq) A dhania 'seed' splits into two halves when pressed. What does this show?  
-   Options: A dhania 'seed' is really a tiny fruit with two seeds inside / Dhania seeds are broken / Dhania is a fern / Dhania makes spores  
+   Options: Dhania seeds are broken / Dhania is a fern / A dhania 'seed' is really a tiny fruit with two seeds inside / Dhania makes spores  
    **Answer:** A dhania 'seed' is really a tiny fruit with two seeds inside. *Why:* Dhania is a flowering plant. What we call a seed is a small dry fruit, and each half holds one true seed. Seeds of flowering plants always form inside a fruit.
 15. (write) Name one plant without flowers that you might see in an Indian city. Say where you would look for them, and which group they are in.  
    **Answer:** For example: the ladder fern, in cracks in old walls or near drains. They are a fern, so they make spores.. *Why:* A strong answer names a real plant, a real place and the right group, with a reason.
 ### Why Plants Live Where They Live (stretch) (stretch, 15 questions)
 1. (mcq) Why can a deodar grow 50 metres tall, while most mosses stay a few centimetres tall?  
-   Options: A deodar has veins with stiff walls that carry water up and hold the tree up / A deodar drinks more water / Mosses grow only in the dark / Mosses are always young  
+   Options: A deodar drinks more water / A deodar has veins with stiff walls that carry water up and hold the tree up / Mosses grow only in the dark / Mosses are always young  
    **Answer:** A deodar has veins with stiff walls that carry water up and hold the tree up. *Why:* Veins with lignin carry water high and hold a tall body up. Mosses have no such veins, so water moves only over their surface, which works for a few centimetres.
 2. (write) A small fern is growing on a wall, across the street from any other fern. Explain how the fern could have got there.  
    **Answer:** A fern somewhere nearby released spores into the air. The wind carried one spore to the damp wall. The spore grew into a tiny heart-shaped plant, and then into a new fern.. *Why:* A strong answer uses the idea that spores are light enough for the wind to carry far, as the haldi was in the Fan Test.
@@ -551,7 +551,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 11. (match) Match each plant to a place in India where they grow.  
    **Answer:** Deodar → the hills around Shimla; Khasi pine → the hills around Shillong; Azolla → rice fields and ponds; Tree fern → the wet forests of the Western Ghats; Dhekia fern → eaten as a vegetable in Assam. *Why:* These show that non-flowering plants grow all over India, not only in the hills.
 12. (mcq) A banyan tree is a flowering plant, but you never see their flowers. Where are they?  
-   Options: Hidden inside the figs / Underground / Only on the hanging roots / Banyans have no flowers  
+   Options: Underground / Only on the hanging roots / Banyans have no flowers / Hidden inside the figs  
    **Answer:** Hidden inside the figs. *Why:* Banyans and peepals keep hundreds of tiny flowers inside each young fig. Tiny fig wasps crawl in and carry pollen.
 13. (odd) Three of these have no veins. Which one is the odd one out?  
    Options: Wall moss / Marchantia / Fern / Sphagnum moss  
@@ -566,7 +566,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 2. (perspective) Scientists disagree about when flowering plants began. Charles Darwin called their sudden rise in the fossils 'an abominable mystery'.  
    **Answer:** A strong answer explains each side's evidence: fossils about 130 million years old, and DNA estimates that go much further back. It may suggest how both could be partly right, such as flowering plants starting early but staying rare.. *Why:* This is still argued about. Both kinds of evidence are real, and each has limits.
 3. (mcq) Orchid seeds are as fine as dust and carry almost no food. What do they need before they can sprout?  
-   Options: A fungus that gives them food / Very hot sand / A bird to eat them first / Nothing at all  
+   Options: Very hot sand / A bird to eat them first / A fungus that gives them food / Nothing at all  
    **Answer:** A fungus that gives them food. *Why:* Orchid seeds are like spores: light enough to travel far, but with no food store. In nature, they sprout only with help from a fungus that feeds them.
 4. (write) Before seed plants, only mosses, ferns and their relatives lived on land. Explain why seed plants could spread into dry lands where mosses and ferns could not live.  
    **Answer:** Seed plants use pollen, which travels by wind or animals, so their male cells don't need water to swim. Their seeds carry food and a tough coat, so they can wait in dry ground until rain comes.. *Why:* A strong answer gives both reasons: pollen means the male cells need no water to travel, and seeds can survive dry times.
@@ -582,7 +582,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 9. (sort) Sort each statement: is it true of spores, of seeds, or of both?  
    **Answer:** is a single cell → Spores; has a store of food → Seeds; has a tough coat made of many cells → Seeds; can grow into a new plant → Both; is light enough for gentle wind to carry far → Spores; can be carried away from the parent → Both. *Why:* A spore is one cell with almost no food. A seed is many cells with a young plant, a food store and a coat. Both can grow into a new plant and both can be carried away from the parent.
 10. (mcq) Botanists have named about 295,000 flowering plants, 12,700 mosses, 10,500 ferns and 1,000 conifers and their relatives. About what fraction of these plants are flowering plants?  
-   Options: About 9 in 10 / About half / About 1 in 10 / About 1 in 4  
+   Options: About half / About 9 in 10 / About 1 in 10 / About 1 in 4  
    **Answer:** About 9 in 10. *Why:* The total is about 318,500. 295,000 is a little over 9 tenths of that. So about 9 in every 10 named plants flower.
 11. (order) Put these events in order, from the oldest to the most recent.  
    **Answer:** ['The first land plants, making spores (about 470 million years ago)', 'The first plants with veins (about 430 million years ago)', 'The first seeds (about 365 million years ago)', 'The first flowers (about 130 million years ago)', 'The first humans (about 300,000 years ago)']. *Why:* Each new feature appeared inside an older group: land plants, then veins, then seeds, then flowers. Humans came very late.
@@ -603,22 +603,22 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
 
 ## Quiz
 1. (mcq) A friend says, 'Plants with no flowers cannot make seeds.' Which plant shows this is wrong?  
-   Options: A deodar, which makes seeds on cones / A fern, which makes spores / A moss, which makes spores / A rose, which has flowers  
+   Options: A fern, which makes spores / A deodar, which makes seeds on cones / A moss, which makes spores / A rose, which has flowers  
    **Answer:** A deodar, which makes seeds on cones. *Why:* Conifers like the deodar make seeds without flowers, on the scales of cones. Ferns and mosses make no seeds, so they don't prove the friend wrong.
 2. (mcq) What is inside a seed that is not inside a spore?  
-   Options: A tiny young plant and a store of food / Water only / Pollen / Nothing: they are the same  
+   Options: Water only / Pollen / Nothing: they are the same / A tiny young plant and a store of food  
    **Answer:** A tiny young plant and a store of food. *Why:* A seed is many cells: a young plant, food and a coat. A spore is one cell with almost no food. That is why seeds are heavier.
 3. (mcq) Fine haldi powder blown by a fan travels far. Heavy rajma drops close. Fern spores are as tiny and light as haldi grains. What does this tell us about fern spores?  
-   Options: Being tiny and light, spores can be carried far by gentle wind / Spores are heavier than seeds / Spores travel only on water / Spores never leave the parent fern  
+   Options: Spores are heavier than seeds / Being tiny and light, spores can be carried far by gentle wind / Spores travel only on water / Spores never leave the parent fern  
    **Answer:** Being tiny and light, spores can be carried far by gentle wind. *Why:* Haldi is about as fine as fern spores. Like the haldi, spores fall slowly, so even gentle wind carries them far.
 4. (mcq) You are using a key. The first question is 'Does the plant have flowers?' The answer is no. The next is 'Does the plant make cones?' The answer is no. The plant has fronds with veins. What is the plant?  
-   Options: A fern / A conifer / A flowering plant / A moss  
+   Options: A conifer / A flowering plant / A moss / A fern  
    **Answer:** A fern. *Why:* No flowers, no cones, but veins and fronds: that is a fern. A moss would have no veins.
 5. (mcq) Why do most mosses grow only a few centimetres tall?  
-   Options: They have no veins with stiff walls to carry water up and hold them up / They are always young / They grow only at night / Insects eat their tops  
+   Options: They are always young / They grow only at night / They have no veins with stiff walls to carry water up and hold them up / Insects eat their tops  
    **Answer:** They have no veins with stiff walls to carry water up and hold them up. *Why:* Without veins, water moves only over the moss's surface, which works over a few centimetres. Ferns and trees have veins, so they can grow tall.
 6. (mcq) Why do mosses and ferns need water to make new plants, but pines do not?  
-   Options: Moss and fern male cells must swim to an egg, but pine pollen is carried by wind / Pines drink more water / Mosses and ferns are thirsty all the time / Pines make spores  
+   Options: Pines drink more water / Mosses and ferns are thirsty all the time / Moss and fern male cells must swim to an egg, but pine pollen is carried by wind / Pines make spores  
    **Answer:** Moss and fern male cells must swim to an egg, but pine pollen is carried by wind. *Why:* In mosses and ferns, a male cell swims through a film of water to reach an egg. Seed plants use pollen, which needs no water to travel.
 7. (mcq) On a family tree of plants, why are a pine and a mango on the same branch?  
    Options: Both make seeds, which came from one shared ancestor / Both are tall / Both have broad leaves / Both grow in Kerala  
@@ -627,7 +627,7 @@ Arjun carried the paper with the brown print all the way home to Chennai in a cl
    Options: DNA / Colour / Price / Smell  
    **Answer:** DNA. *Why:* DNA carries the instructions passed from parent to young, so comparing DNA shows who is related to whom. It mostly agrees with groups made from features like seeds and veins.
 9. (mcq) Why do most botanists today avoid calling mosses 'lower plants'?  
-   Options: Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life / Mosses are taller than trees / Mosses came after flowering plants / Mosses have flowers  
+   Options: Mosses are taller than trees / Mosses came after flowering plants / Mosses have flowers / Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life  
    **Answer:** Today's mosses have been changing for as long as flowering plants, and are very good at their own way of life. *Why:* Mosses' ancestors came earlier, but living mosses are not unfinished plants. 'Lower' suggests a ladder, but a family tree branches like a bush.
 10. (mcq) You want to know if til travels farther than mustard in the Fan Test. Which test is fair?  
    Options: Drop both from the same height, at the same spot, with the same fan speed, 3 times each / Drop til from higher up because it is lighter / Use a fast fan for til and a slow one for mustard / Drop each only once  

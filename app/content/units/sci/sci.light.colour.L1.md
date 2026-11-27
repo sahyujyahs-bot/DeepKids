@@ -399,7 +399,7 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 1. (order) Put the Drop by Drop test in order.  
    **Answer:** ['Make yellow water', 'Add blue, one drop at a time', 'Pour in lots of water']. *Why:* First we make yellow water, then we add blue to make green, then we try to undo the green with water.
 2. (mcq) You add 1 drop of blue to yellow water, and then 5 more drops. What happens to the green?  
-   Options: It gets darker / It gets lighter / It turns yellow  
+   Options: It gets lighter / It gets darker / It turns yellow  
    **Answer:** It gets darker. *Why:* Each drop of blue adds more blue, which absorbs more light. So the green gets darker.
 3. (write) Say out loud, and a grown-up writes it down: why did the green water stay green, even after you poured in lots of water?  
    **Answer:** The water spread the colours out, so it got paler. But the yellow and blue were both still there, so it was still green.. *Why:* A strong answer says that the water made the colour paler but did not take out the blue or the yellow.
@@ -414,7 +414,7 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 8. (draw) Draw a torch shining on yellow paint and on brown paint. Draw arrows of light coming back from each paint. Give more arrows to the paint that sends back more light.  
    **Answer:** More arrows coming back from the yellow paint, and very few from the brown.. *Why:* Brown is a mix of all three paints, so it absorbs the most light. Yellow absorbs only a little, so lots of light comes back.
 9. (mcq) A pigeon's neck shines green and then purple as they turn their head. What makes those colours?  
-   Options: Tiny layers in their feathers / Paint / Sunlight getting tired  
+   Options: Paint / Sunlight getting tired / Tiny layers in their feathers  
    **Answer:** Tiny layers in their feathers. *Why:* Tiny layers in the feathers send back different colours as the pigeon moves. That is why the colour changes when they turn.
 10. (write) Say out loud, and a grown-up writes it down: green was not in the yellow pot or the blue pot. So where did the green come from?  
    **Answer:** Yellow paint soaks up blue light and blue paint soaks up red and yellow light. Together, green is what is left to come back to my eyes.. *Why:* A strong answer says that each paint soaks up some light, and green is the light left over. Any answer that uses what the child saw in the Colour Mixing Test is good thinking.
@@ -429,31 +429,31 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
    Options: Green / Orange / Purple  
    **Answer:** Green. *Why:* Yellow and blue make green. Red and yellow make orange, and red and blue make purple.
 2. (mcq) You mix red and yellow paint. What colour do you get?  
-   Options: Orange / Green / Blue  
+   Options: Green / Orange / Blue  
    **Answer:** Orange. *Why:* Red and yellow make orange, like a marigold or a carrot.
 3. (mcq) Which two paints make purple?  
-   Options: Red and blue / Yellow and blue / Red and yellow  
+   Options: Yellow and blue / Red and yellow / Red and blue  
    **Answer:** Red and blue. *Why:* Red and blue make purple, like a brinjal or a jamun.
 4. (mcq) What are red, yellow and blue called in a paint box?  
    Options: Primary colours / Mixed colours / Dark colours  
    **Answer:** Primary colours. *Why:* They are the primary colours. You cannot mix them from the other paints in the box, but you can mix many colours from them.
 5. (mcq) Which of these colours can you mix from two other paints?  
-   Options: Orange / Red / Yellow  
+   Options: Red / Orange / Yellow  
    **Answer:** Orange. *Why:* Orange is mixed from red and yellow. Red and yellow are primary colours.
 6. (mcq) Is a mix of yellow and blue paint lighter or darker than the yellow?  
-   Options: Darker / Lighter / Just the same  
+   Options: Lighter / Just the same / Darker  
    **Answer:** Darker. *Why:* The blue paint absorbs more of the light, so less light comes back. The green is darker than the yellow.
 7. (mcq) You add lots of water to green paint. What happens?  
-   Options: It turns pale green / It turns yellow / It turns blue  
+   Options: It turns yellow / It turns pale green / It turns blue  
    **Answer:** It turns pale green. *Why:* Water spreads the colours out, so the green gets paler. The yellow and blue are both still there.
 8. (mcq) What does paint do with some of the light that falls on it?  
    Options: It absorbs, or soaks up, the light / It makes new light / It stores the light for night  
    **Answer:** It absorbs, or soaks up, the light. *Why:* Paint absorbs some light and sends the rest back to our eyes. That is the colour we see.
 9. (mcq) Why do many flowers have bright colours?  
-   Options: To call bees and butterflies / To keep warm / To frighten the Sun  
+   Options: To keep warm / To call bees and butterflies / To frighten the Sun  
    **Answer:** To call bees and butterflies. *Why:* Bright colours help bees and butterflies find a flower's nectar.
 10. (mcq) Why do we see a leaf as green?  
-   Options: The leaf sends green light back to our eyes / The leaf makes green light in the dark / Someone paints the leaf green  
+   Options: The leaf makes green light in the dark / The leaf sends green light back to our eyes / Someone paints the leaf green  
    **Answer:** The leaf sends green light back to our eyes. *Why:* A leaf soaks up some of the light that falls on it and sends green light back to our eyes. With no light, there is no green to see.
 
 ## Applications

@@ -728,11 +728,11 @@
       "t": "mcq",
       "q": "A tin of food is bulging at the top. Should you keep it or throw it?",
       "options": [
-       "Throw it, because microbes inside may be making gas",
        "Keep it, because tins keep food for years",
-       "Keep it, but shake it first"
+       "Keep it, but shake it first",
+       "Throw it, because microbes inside may be making gas"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A bulging tin can mean microbes are growing inside and making gas. Some of them make dangerous poisons, so it must be thrown away unopened."
      }
     },
@@ -914,11 +914,11 @@
       "t": "mcq",
       "q": "In a Three Dabbas test, dabba C, with the unwashed leaf, went sour first. What does this show?",
       "options": [
-       "The leaf brought many microbes into the dal water",
        "Coriander makes food sour by itself",
+       "The leaf brought many microbes into the dal water",
        "Closed dabbas always spoil first"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Dabba A was closed too, but stayed fresh longer. The only difference in C was the unwashed leaf. So the leaf added microbes, and more microbes means faster spoiling."
      },
      "wait": "Day 3: look, smell and decide the order."
@@ -1082,11 +1082,11 @@
       "t": "mcq",
       "q": "After 4 washes, the water looked clear. What is most likely true about the coriander?",
       "options": [
-       "Most soil and many microbes are gone, but some microbes are still there",
        "Every microbe is gone",
-       "The coriander is now dirtier"
+       "The coriander is now dirtier",
+       "Most soil and many microbes are gone, but some microbes are still there"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Clear water means the soil we can see is gone. Microbes are too small to see, so a few stay. That is why we wash well, and cook food when we can."
      }
     }
@@ -1399,11 +1399,11 @@
       "t": "mcq",
       "q": "In the Dust Catcher, the open plate had many specks after one night, and the covered plate had almost none. Why do we cover food?",
       "options": [
-       "To keep dust and the microbes on it from landing on the food",
        "To keep the food warm for longer",
-       "To make the food cook faster"
+       "To make the food cook faster",
+       "To keep dust and the microbes on it from landing on the food"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Dust settles from the air all night. Microbes ride on dust, so a cover keeps many of them off the food."
      }
     }
@@ -1783,11 +1783,11 @@
       "t": "mcq",
       "q": "A family's lemon pickle stayed good for weeks without a fridge. What is the main reason?",
       "options": [
-       "The salt pulled water out of the lemons and out of any microbes",
        "The turmeric made it yellow",
-       "The lemons were cut into small pieces"
+       "The lemons were cut into small pieces",
+       "The salt pulled water out of the lemons and out of any microbes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Lots of salt, and the sour lemon juice, make it very hard for microbes to grow. That is why the jar and spoon must stay dry: water would weaken the salt."
      },
      "parent": "At 14 days the pieces are still firm, sharp and very salty. They turn soft and mellow after about three weeks. Taste only a small piece."
@@ -1983,11 +1983,11 @@
    "t": "mcq",
    "p": "Why does cooked dal go sour if left out on a hot day?",
    "opts": [
-    "Microbes land on it, feed on it and multiply",
     "The heat turns the dal into lemon juice",
+    "Microbes land on it, feed on it and multiply",
     "The dal absorbs sourness from the air"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Microbes feed on the dal and make acid as they multiply. That acid is the sour smell.",
    "outcome": 0
   },
@@ -2007,11 +2007,11 @@
    "t": "mcq",
    "p": "What does a fridge do to the microbes in food?",
    "opts": [
-    "Slows them down",
     "Kills them all",
-    "Makes them grow faster"
+    "Makes them grow faster",
+    "Slows them down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cold slows microbes down a lot, but most survive. When food warms up again, they start multiplying.",
    "outcome": 1
   },
@@ -2019,11 +2019,11 @@
    "t": "mcq",
    "p": "Why should cooked food not sit at room temperature for more than about 2 hours?",
    "opts": [
-    "A few microbes can double again and again into very many",
     "The food gets too cold to eat",
-    "The food loses its colour"
+    "The food loses its colour",
+    "A few microbes can double again and again into very many"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In warm food, some bacteria split every 20 minutes. After a few hours, a few have become millions.",
    "outcome": 2
   },
@@ -2044,11 +2044,11 @@
    "t": "mcq",
    "p": "Which part of food mainly gives us energy?",
    "opts": [
-    "Carbohydrate, as in rice and ragi",
     "Protein, as in dal",
+    "Carbohydrate, as in rice and ragi",
     "Fibre, as in guava skin"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Carbohydrates, such as starch and sugar, give most of our energy. Protein builds the body, and fibre helps the gut.",
    "outcome": 4
   },
@@ -2068,11 +2068,11 @@
    "t": "mcq",
    "p": "A piece of wet food drops on the floor, and you pick it up in under five seconds. Is it free of germs?",
    "opts": [
-    "No. Germs can move onto food in under a second, and wet food picks up the most",
     "Yes, if it is lifted within five seconds",
-    "Yes, unless it is dry food"
+    "Yes, unless it is dry food",
+    "No. Germs can move onto food in under a second, and wet food picks up the most"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Germs move across as soon as food touches the floor. Wet food picks up the most, and longer contact moves more. When scientists tested it, some germs moved across in under a second.",
    "outcome": 6
   },
@@ -2080,11 +2080,11 @@
    "t": "mcq",
    "p": "Chicken sat out all afternoon after a party. It still smells fine. What is true?",
    "opts": [
-    "It may still be unsafe, because some harmful bacteria do not change the smell",
     "It is safe, because it smells fine",
+    "It may still be unsafe, because some harmful bacteria do not change the smell",
     "It is safe if it is eaten cold"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A good smell does not prove food is safe. After hours in the warmth, harmful bacteria may have grown without any smell.",
    "outcome": 6
   },
@@ -2092,11 +2092,11 @@
    "t": "mcq",
    "p": "Why do we cut raw fish and cucumber salad on two different boards?",
    "opts": [
-    "Microbes from the raw fish could move onto the salad, which is not cooked",
     "Fish makes cucumber taste bitter",
-    "A board can only be used for one food a day"
+    "A board can only be used for one food a day",
+    "Microbes from the raw fish could move onto the salad, which is not cooked"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cooking kills the microbes in raw fish, but the salad is eaten raw. Microbes that move onto it from the board stay alive.",
    "outcome": 1
   }
@@ -2112,22 +2112,22 @@
      "t": "mcq",
      "p": "Dal left out overnight in summer smells sour and has bubbles on top. What is the main cause?",
      "opts": [
-      "Microbes are feeding and multiplying in it",
       "The dal is drying out",
+      "Microbes are feeding and multiplying in it",
       "The steel vessel is reacting with the dal"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes landed on the dal, fed on it and multiplied. As they feed, they make acid, which smells sour, and gas, which makes bubbles."
     },
     {
      "t": "mcq",
      "p": "What do most microbes need to grow fast in food?",
      "opts": [
-      "Water and warmth",
       "Light and cold",
+      "Water and warmth",
       "Salt and dryness"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Microbes need water to take in food, and warmth to grow quickly. Cold, dryness and lots of salt all slow them down."
     },
     {
@@ -2406,11 +2406,11 @@
      "t": "mcq",
      "p": "Dal and milk feed us well, and they also spoil fast. Why?",
      "opts": [
-      "Microbes need the same nutrients, such as protein and sugar, that we do",
       "They are always cooked badly",
-      "They are heavier than other foods"
+      "They are heavier than other foods",
+      "Microbes need the same nutrients, such as protein and sugar, that we do"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Microbes feed on the same nutrients as us. Wet foods rich in protein and sugar, like dal and milk, are a feast for them."
     },
     {
@@ -2582,11 +2582,11 @@
      "t": "mcq",
      "p": "Why does a pressure cooker kill more microbes than an open pan of boiling water?",
      "opts": [
-      "It gets hotter, about 120 degrees, instead of 100",
       "It cooks faster because it is heavier",
+      "It gets hotter, about 120 degrees, instead of 100",
       "It keeps out light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Steam trapped under pressure gets hotter than 100 degrees. The higher heat kills more microbes, even some spores."
     },
     {
@@ -2647,11 +2647,11 @@
      "t": "mcq",
      "p": "You want to test whether a fridge slows microbes. Which test is fair?",
      "opts": [
-      "The same dal water in two identical closed dabbas, one in the fridge and one on a shelf",
       "Dal water in the fridge and milk on a shelf",
+      "The same dal water in two identical closed dabbas, one in the fridge and one on a shelf",
       "A closed dabba in the fridge and an open dabba on a shelf"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Only one thing should change, which is the cold. The food, the dabba and the lid must stay the same, or we cannot tell what caused the difference."
     },
     {

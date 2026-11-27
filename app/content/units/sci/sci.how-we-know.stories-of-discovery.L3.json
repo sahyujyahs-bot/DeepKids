@@ -559,11 +559,11 @@
       "t": "mcq",
       "q": "Spencer Silver tried to make a strong glue and made a weak one. Which pile does this card go in?",
       "options": [
-       "Accident",
        "Mistake",
+       "Accident",
        "Plan"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Silver was trying to make a strong glue and got a weak one. That makes it a mistake. An accident is something nobody planned at all, like mould falling onto Fleming's dish."
      }
     },
@@ -704,10 +704,10 @@
       "q": "Jocelyn Bell saw a strange mark on her chart. Which job was that?",
       "options": [
        "Leader",
-       "Noticer",
-       "Writer"
+       "Writer",
+       "Noticer"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Bell noticed the strange mark on the chart, so she was the noticer. She also checked that it came back, and helped build the telescope, so she was a checker and a maker too. Her supervisor Antony Hewish was the leader."
      }
     },
@@ -1001,10 +1001,10 @@
       "q": "Mpemba's teacher said he was confused. What was the best thing to do about his result?",
       "options": [
        "Forget it, because a teacher said so",
-       "Test it again, fairly, and see",
-       "Believe it, because he saw it once"
+       "Believe it, because he saw it once",
+       "Test it again, fairly, and see"
       ],
-      "a": 1,
+      "a": 2,
       "why": "One result can be a fluke, and a teacher can be wrong. The way to find out is a fair test, repeated. Denis Osborne did that, and saw the effect too. Picking 'believe it' trusts one try. Picking 'forget it' trusts a person instead of a test."
      }
     },
@@ -1177,10 +1177,10 @@
       "q": "Bell Burnell saw a strange mark on her chart. What showed it was a real signal from space?",
       "options": [
        "It was the biggest mark on the chart",
-       "It came back, keeping time with the stars",
-       "Her supervisor said so"
+       "Her supervisor said so",
+       "It came back, keeping time with the stars"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Her mark was small, not big. It came back about four minutes earlier each day, just as the stars rise four minutes earlier each day. Signals from Earth do not do that. Picking 'the biggest mark' is a common idea, but a random bump can be big too. A real signal repeats in a pattern."
      }
     }
@@ -1705,12 +1705,12 @@
    "t": "mcq",
    "p": "A young chemist is trying to make a medicine. Instead, his mixture turns bright purple and stains cloth. What is the best thing for him to do?",
    "opts": [
-    "Throw it away, because it failed",
     "Test whether the purple could be useful, for example as a dye for clothes",
+    "Throw it away, because it failed",
     "Hide it so nobody knows",
     "Add more of everything and hope for medicine"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A failed experiment can still make something useful for a different job. Testing the strange result is how an accident becomes a discovery. A purple mistake like this really did become the first dye made from chemicals.",
    "outcome": 1
   },
@@ -1718,12 +1718,12 @@
    "t": "mcq",
    "p": "A scientist sees a clear ring around a mould on a dish of bacteria. What would turn this lucky accident into a discovery?",
    "opts": [
-    "Throwing the dish away",
     "Growing the mould again and checking whether the bacteria die again",
+    "Throwing the dish away",
     "Going on holiday",
     "Painting the dish"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Checking turns a surprise into knowledge. If the mould kills the bacteria again in fresh dishes, the result is real. Without the check, it is only a lucky accident.",
    "outcome": 2
   },
@@ -1745,11 +1745,11 @@
    "p": "You dab strips of tape on a cotton cloth before sticking a paper note down with them. Which strip is usually best for a note you want to stick and move again?",
    "opts": [
     "A fresh strip, never dabbed",
-    "A strip dabbed on cloth a few times",
     "A strip dabbed 15 times",
+    "A strip dabbed on cloth a few times",
     "A wet strip"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Fresh tape tears the paper. Tape dabbed many times cannot hold. A strip dabbed a few times holds lightly and comes off clean.",
    "outcome": 3,
    "how": "e1"
@@ -1758,12 +1758,12 @@
    "t": "mcq",
    "p": "In the Too-Weak Tape Test, why does fresh tape tear the newspaper?",
    "opts": [
-    "The glue gripped the paper fibres harder than the fibres gripped each other",
     "The tape was sharp",
     "The newspaper was old",
-    "The tape was weak"
+    "The tape was weak",
+    "The glue gripped the paper fibres harder than the fibres gripped each other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Paper is a mat of fibres. Strong glue holds the top fibres so tightly that they pull away from the rest of the paper.",
    "outcome": 3,
    "how": "e1"
@@ -1772,12 +1772,12 @@
    "t": "mcq",
    "p": "A student notices a strange signal and checks it carefully. Her supervisor designed the telescope and led the project. Only the supervisor and one other scientist get a big prize. Why do people argue about this?",
    "opts": [
-    "The student did a key part of the work and was left out",
     "Prizes should go to telescopes",
+    "The student did a key part of the work and was left out",
     "Nobody did any real work",
     "The signal was a mistake"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The noticer, the checker and the leader all did a part. When a prize names only some of them, people ask whether the credit was shared fairly. This really happened with the discovery of pulsars, and people still argue about it.",
    "outcome": 4
   },
@@ -1798,12 +1798,12 @@
    "t": "mcq",
    "p": "Which of these is a common reason why people get left out of credit?",
    "opts": [
-    "They were students, assistants or women at a time when such people were taken less seriously",
     "They did not want to be named",
     "They were too tall",
-    "They worked too fast"
+    "They worked too fast",
+    "They were students, assistants or women at a time when such people were taken less seriously"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Many left-out scientists were young, junior or women. Rules such as the three-person limit on prizes add to the problem.",
    "outcome": 4
   },
@@ -1812,11 +1812,11 @@
    "p": "A boy puts a bowl of milk on top of the fridge by accident, and the curd sets better there than anywhere else. His sister says, 'He found it by accident, so he gets no credit.' What is the best answer back?",
    "opts": [
     "She is right. Accidents don't count",
-    "Without his accident there would be no surprise to check, so he deserves some credit",
     "Only grown-ups get credit",
-    "The fridge gets the credit"
+    "The fridge gets the credit",
+    "Without his accident there would be no surprise to check, so he deserves some credit"
    ],
-   "a": 1,
+   "a": 3,
    "why": "An accident is often the start of a discovery. The noticer, the explainer and the checker all did a part.",
    "outcome": 5
   },
@@ -1943,11 +1943,11 @@
      "p": "In the Too-Weak Tape Test, you dab one strip of tape on a cotton cloth 8 times. What happens to the tape?",
      "opts": [
       "It gets stickier",
-      "Tiny cotton fibres cover parts of the glue, so it sticks more gently",
       "The glue melts",
-      "Nothing at all"
+      "Nothing at all",
+      "Tiny cotton fibres cover parts of the glue, so it sticks more gently"
      ],
-     "a": 1,
+     "a": 3,
      "why": "The cloth leaves tiny fibres on the glue. Where a fibre covers the glue, the glue cannot touch the paper. So the strip grips more gently.",
      "how": "e1"
     },
@@ -1975,12 +1975,12 @@
      "t": "mcq",
      "p": "A scientist finds a strange mark on her telescope chart. What should she and her team do first?",
      "opts": [
-      "Tell the newspapers about aliens",
       "Check whether it is a fault or a signal from Earth",
+      "Tell the newspapers about aliens",
       "Throw the chart away",
       "Give it a prize"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Most strange results turn out to be errors. So the first job is to check. If the mark keeps time with the stars, not with clocks on Earth, it must come from space."
     },
     {
@@ -2188,11 +2188,11 @@
      "p": "A grandmother says that leaving dosa batter out on a hot day by mistake gave the softest dosas ever. What is the best way to find out if it was more than luck?",
      "opts": [
       "Believe it, because a grandmother is always right",
-      "Leave batter out on a warm day again, on purpose, and compare it with batter kept cool",
       "Forget it, because it was a mistake",
+      "Leave batter out on a warm day again, on purpose, and compare it with batter kept cool",
       "Ask a friend what they think"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A surprise becomes knowledge only when it happens again on purpose, in a fair comparison. Batter does ferment faster in warmth, so the test would probably work. But testing is how you know."
     },
     {
@@ -2381,11 +2381,11 @@
      "p": "In one freezer test, the hot water got ice after 90 minutes and the cold water after 60 minutes. Erasto Mpemba found the opposite. What is the best thing to say?",
      "opts": [
       "Mpemba was lying",
-      "The test was done wrong",
       "The result may depend on the freezer, the cups and the mixture, so more fair tests are needed",
+      "The test was done wrong",
       "Hot water always freezes first"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Different freezers and containers can give different results. Mpemba's was ice cream mixture, not water. Scientists still argue about this, so the honest answer is to test more, carefully.",
      "how": "e2"
     },

@@ -627,7 +627,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 ## Worksheets
 ### Magnets, metals and alloys (core, 16 questions)
 1. (mcq) What is the difference between a magnet and a magnetic material?  
-   Options: A magnet has its own field. A magnetic material is only attracted. / A magnetic material is stronger than a magnet. / A magnet is iron, and a magnetic material is not. / There is no difference.  
+   Options: A magnetic material is stronger than a magnet. / A magnet is iron, and a magnetic material is not. / A magnet has its own field. A magnetic material is only attracted. / There is no difference.  
    **Answer:** A magnet has its own field. A magnetic material is only attracted.. *Why:* A magnet has a field of its own and can attract or repel. A magnetic material, such as a steel nail, is attracted but has no field of its own. Two nails do not pull each other.
 2. (truefalse) Two steel nails lying side by side attract each other.  
    **Answer:** False. *Why:* False. A nail is a magnetic material, not a magnet. In Two Nails, Then the T Test, the two nails did nothing until a magnet came near.
@@ -641,7 +641,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 6. (fill) Brass is an alloy of copper and ____.  
    **Answer:** ['zinc']. *Why:* Brass is copper with zinc. Neither metal is magnetic, and nor is brass.
 7. (mcq) Which Indian coin made today does an ordinary magnet attract?  
-   Options: The one-rupee coin / The golden five-rupee coin / The ten-rupee coin / All of them  
+   Options: The golden five-rupee coin / The ten-rupee coin / The one-rupee coin / All of them  
    **Answer:** The one-rupee coin. *Why:* The one-rupee coin is stainless steel. The golden five-rupee coin is nickel-brass, and the ten-rupee coin is two copper alloys.
 8. (odd) Three of these are not attracted by a magnet. Which one is attracted?  
    Options: Golden five-rupee coin / Ten-rupee coin / Brass bell / One-rupee coin  
@@ -651,7 +651,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 10. (truefalse) Every metal thing with iron inside it is attracted by a magnet.  
    **Answer:** False. *Why:* False. A steel plate is mostly iron and a magnet does not attract it. How the iron atoms are packed matters.
 11. (mcq) Which three pure metals are strongly magnetic at room temperature?  
-   Options: Iron, nickel and cobalt / Copper, zinc and tin / Gold, silver and aluminium / Iron, copper and gold  
+   Options: Copper, zinc and tin / Gold, silver and aluminium / Iron, nickel and cobalt / Iron, copper and gold  
    **Answer:** Iron, nickel and cobalt. *Why:* Only iron, nickel and cobalt are strongly attracted. Gadolinium joins them only below about 20 degrees Celsius.
 12. (fill) Steel is an alloy of iron and a little ____.  
    **Answer:** ['carbon']. *Why:* The carbon makes steel harder than plain iron.
@@ -670,7 +670,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 2. (truefalse) Each iron atom is a tiny magnet.  
    **Answer:** True. *Why:* True. A few of its electrons are unpaired, so the whole atom has a small magnetic field. One atom's field is far too weak to notice.
 3. (mcq) One iron atom is hardly attracted by a magnet, but a nail is attracted strongly. Why?  
-   Options: The tiny magnets of billions of atoms line up and add together / A nail is heavier than an atom / The nail has more electrons than one atom has / A nail has been rubbed on a magnet  
+   Options: A nail is heavier than an atom / The nail has more electrons than one atom has / A nail has been rubbed on a magnet / The tiny magnets of billions of atoms line up and add together  
    **Answer:** The tiny magnets of billions of atoms line up and add together. *Why:* One atom's field is very weak. In a nail, billions of tiny magnets point the same way and their fields add up.
 4. (match) Match each alloy to the metals it is made of.  
    **Answer:** Brass → Copper and zinc; Bronze → Copper and tin; Steel → Iron and a little carbon; Cupronickel → Copper and nickel; Nickel-brass → Copper, zinc and a little nickel. *Why:* Every alloy is a recipe of metals, and each recipe answers a magnet in its own way.
@@ -686,7 +686,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
    Options: Alnico / Permalloy / Neodymium magnet alloy / Nichrome  
    **Answer:** 3. *Why:* Nichrome is mostly nickel, yet the chromium stops the nickel atoms lining up. The other three are magnetic.
 10. (mcq) In 1903 Friedrich Heusler mixed copper, manganese and aluminium. What surprised scientists?  
-   Options: A magnet attracted the alloy, though none of its metals is magnetic / The alloy was lighter than water / The alloy melted in the cold / The alloy contained a lot of iron  
+   Options: The alloy was lighter than water / A magnet attracted the alloy, though none of its metals is magnetic / The alloy melted in the cold / The alloy contained a lot of iron  
    **Answer:** A magnet attracted the alloy, though none of its metals is magnetic. *Why:* Before then, every magnetic alloy known held iron, nickel or cobalt. Heusler's alloy broke that rule.
 11. (mcq) Why is a compass case made of brass and not of steel?  
    Options: Steel would pull the needle away from north / Brass is cheaper than steel / Steel is too soft / Brass is a magnet  
@@ -707,20 +707,20 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
    **Answer:** A strong answer says that iron is magnetic, so the magnet pulls the iron pipes. Copper is not magnetic, so the magnet leaves the copper wire on the heap.. *Why:* A magnet pulls only magnetic materials. Iron is one of the three pure magnetic metals. Copper is not.
 ### Testing ideas about metals (challenge, 17 questions)
 1. (mcq) Before 1903, every magnetic alloy that anyone had tested held iron, nickel or cobalt. What did that show?  
-   Options: That it fitted every alloy tested so far, and that is all / That no other magnetic alloy can exist / That the rule was proved / That Heusler's alloy must hold iron  
+   Options: That no other magnetic alloy can exist / That it fitted every alloy tested so far, and that is all / That the rule was proved / That Heusler's alloy must hold iron  
    **Answer:** That it fitted every alloy tested so far, and that is all. *Why:* A rule that fits many things can still be wrong. One new thing, Heusler's alloy, broke it.
 2. (mcq) In a made-up test, 6 of 6 one-rupee coins were lifted. A two-rupee coin from 1998 was not. What does it show?  
-   Options: The value of a coin does not tell you the answer / The magnet had got weaker / Two-rupee coins are never lifted / The coin was lighter than the others  
+   Options: The magnet had got weaker / The value of a coin does not tell you the answer / Two-rupee coins are never lifted / The coin was lighter than the others  
    **Answer:** The value of a coin does not tell you the answer. *Why:* Two-rupee coins from 1998 are cupronickel, and newer ones are steel. One coin of a value that answers differently is enough to break the rule 'value tells the answer'.
 3. (truefalse) A magnet that does not stick to a chain proves the chain is real gold.  
    **Answer:** False. *Why:* False. Brass and copper do not stick either. A 'no' rules out steel and nothing more.
 4. (mcq) In the Bent Spoon, why test a spot 5 centimetres away that is never bent?  
-   Options: To compare, so that bending is the only change / To use up the spoon evenly / Because the magnet is weak at the bent spot / To check that the spoon is clean  
+   Options: To use up the spoon evenly / Because the magnet is weak at the bent spot / To compare, so that bending is the only change / To check that the spoon is clean  
    **Answer:** To compare, so that bending is the only change. *Why:* Without the unbent spot, a cling could come from the spoon or the magnet. The comparison shows that bending caused the change.
 5. (count) A coin sorter was run with 20 coins and sorted 17 correctly. What percentage was correct?  
    **Answer:** 85. *Why:* 17 out of 20 is 17 times 5 out of 100, which is 85 percent.
 6. (mcq) You compare how two kinds of steel answer a magnet. What must stay the same?  
-   Options: The magnet, its face and how you bring it near / The size of the steel pieces only / The room you sit in / Nothing, since the steels are different  
+   Options: The size of the steel pieces only / The magnet, its face and how you bring it near / The room you sit in / Nothing, since the steels are different  
    **Answer:** The magnet, its face and how you bring it near. *Why:* A fair test changes one thing, here the steel. The magnet and the way you use it stay the same.
 7. (fill) In a fair test you change ____ thing and keep everything else the same.  
    **Answer:** ['one']. *Why:* If you change two things, you cannot tell which one caused the result.
@@ -745,7 +745,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 16. (draw) Draw the results table for a fair test of five metal things. Add columns for the thing, prediction and result.  
    **Answer:** A table with three columns headed thing, prediction and result, and five rows with one metal thing named in each row.. *Why:* A strong table has a prediction column filled in before the result column.
 17. (mcq) Which of these can nobody yet calculate exactly from the atoms alone?  
-   Options: The temperature where iron stops being magnetic / The number of coins in a bowl / The mass of a steel nail / The colour of brass  
+   Options: The number of coins in a bowl / The temperature where iron stops being magnetic / The mass of a steel nail / The colour of brass  
    **Answer:** The temperature where iron stops being magnetic. *Why:* Large groups of atoms behave in ways that are very hard to work out from one atom. Iron's exact temperature is one of them.
 
 ## Videos
@@ -755,43 +755,43 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 
 ## Quiz
 1. (mcq) Which of these is a magnet, and not only a magnetic material?  
-   Options: A fridge magnet / A steel nail / An iron tawa / A steel spoon  
+   Options: A steel nail / An iron tawa / A fridge magnet / A steel spoon  
    **Answer:** A fridge magnet. *Why:* A fridge magnet has a field of its own. A nail, a tawa and a spoon are attracted, and have no field of their own.
 2. (mcq) Which of these metals is strongly attracted by a magnet?  
-   Options: Nickel / Copper / Aluminium / Gold  
+   Options: Copper / Aluminium / Nickel / Gold  
    **Answer:** Nickel. *Why:* Iron, nickel and cobalt are strongly magnetic. Copper, aluminium and gold are not attracted.
 3. (mcq) A new two-rupee coin is attracted by a magnet. What is it made of?  
-   Options: Stainless steel / Brass / Gold / Aluminium foil  
+   Options: Brass / Gold / Aluminium foil / Stainless steel  
    **Answer:** Stainless steel. *Why:* Two-rupee coins made since about 2007 are a stainless steel that a magnet attracts. Eleven-sided coins from the 1990s are cupronickel.
 4. (mcq) Why do you write your prediction before you test?  
-   Options: So that you cannot change it afterwards / So the test takes less time / So the magnet is stronger / So that the answer is always right  
+   Options: So the test takes less time / So the magnet is stronger / So that the answer is always right / So that you cannot change it afterwards  
    **Answer:** So that you cannot change it afterwards. *Why:* A prediction written afterwards could be changed to fit. Written first, it shows what you really expected.
 5. (mcq) The rule says: shiny metals are magnetic. Which thing breaks it?  
-   Options: A shiny brass lamp / A black iron tawa / A steel nail / A one-rupee coin  
+   Options: A black iron tawa / A steel nail / A shiny brass lamp / A one-rupee coin  
    **Answer:** A shiny brass lamp. *Why:* A brass lamp is shiny and not attracted. One thing like this is enough to show the rule is wrong.
 6. (mcq) A one-rupee coin and a steel plate are both mostly iron. What differs?  
-   Options: How the iron atoms are packed / How many iron atoms there are / The colour of the iron / Nothing  
+   Options: How many iron atoms there are / The colour of the iron / How the iron atoms are packed / Nothing  
    **Answer:** How the iron atoms are packed. *Why:* Extra nickel or manganese in the plate changes the packing. Then the tiny magnets of the atoms do not line up.
 7. (mcq) Why does a magnet attract a steel nail strongly?  
-   Options: Tiny magnets of billions of atoms line up / One iron atom is very strong / The nail is hot / The nail is a magnet already  
+   Options: One iron atom is very strong / Tiny magnets of billions of atoms line up / The nail is hot / The nail is a magnet already  
    **Answer:** Tiny magnets of billions of atoms line up. *Why:* Each atom is a very weak magnet. In a nail, billions of them point the same way, and their fields add up.
 8. (mcq) A ball of foil clings to a magnet. What do you know?  
-   Options: Something magnetic is inside it / The foil is steel / The ball is a magnet / The ball is full of iron  
+   Options: The foil is steel / The ball is a magnet / Something magnetic is inside it / The ball is full of iron  
    **Answer:** Something magnetic is inside it. *Why:* Foil is not attracted. So a cling shows that magnetic metal, such as steel, is hidden inside.
 9. (mcq) A magnet does not stick to a gold-coloured chain. What can you say?  
-   Options: It has no steel in it, but it may still be brass / It is real gold / It holds no metal / It is plastic  
+   Options: It is real gold / It has no steel in it, but it may still be brass / It holds no metal / It is plastic  
    **Answer:** It has no steel in it, but it may still be brass. *Why:* A no rules out steel and nothing more. Brass, copper and gold all say no.
 10. (mcq) What is the honest thing to say about magnetic alloys today?  
-   Options: New magnetic alloys are still being found and explained / Everything about them is known / No new ones can exist / Only iron alloys matter  
+   Options: Everything about them is known / New magnetic alloys are still being found and explained / No new ones can exist / Only iron alloys matter  
    **Answer:** New magnetic alloys are still being found and explained. *Why:* Heusler alloys are still studied. Why atoms line up in one pattern and not in another is still hard to calculate.
 11. (mcq) Which fact shows that a rule about magnetic alloys can be wrong?  
-   Options: Heusler's alloy has no iron, nickel or cobalt, and is magnetic / A steel nail is attracted / Copper is not attracted / Brass is yellow  
+   Options: A steel nail is attracted / Copper is not attracted / Heusler's alloy has no iron, nickel or cobalt, and is magnetic / Brass is yellow  
    **Answer:** Heusler's alloy has no iron, nickel or cobalt, and is magnetic. *Why:* Before 1903 every magnetic alloy held iron, nickel or cobalt. Heusler's alloy broke the rule.
 12. (mcq) In a coin sorter, why might an old coin go to the wrong cup?  
    Options: Its metal differs from a new coin of the same value / It is older, so it is heavier / The magnet knows the year / The slope remembers it  
    **Answer:** Its metal differs from a new coin of the same value. *Why:* The magnet answers to the metal, not the value or the year. An old cupronickel coin is not attracted, though it buys the same things.
 13. (mcq) A scrap yard has a heap of mixed metal: iron pipes, copper wire and aluminium cans. What does a big magnet on a crane do?  
-   Options: It pulls the iron pipes out and leaves the copper and aluminium / It pulls the copper and aluminium out and leaves the iron / It melts all the metals into one lump / It turns the copper into iron  
+   Options: It pulls the copper and aluminium out and leaves the iron / It pulls the iron pipes out and leaves the copper and aluminium / It melts all the metals into one lump / It turns the copper into iron  
    **Answer:** It pulls the iron pipes out and leaves the copper and aluminium. *Why:* Iron is magnetic, but copper and aluminium are not, so the magnet lifts only the iron. A magnet cannot turn one metal into another.
 
 ## Applications

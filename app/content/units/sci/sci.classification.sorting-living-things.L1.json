@@ -484,11 +484,11 @@
       "t": "mcq",
       "q": "The bat and the crow both have wings. What does the crow have that the bat does not?",
       "options": [
-       "Feathers",
        "Legs",
+       "Feathers",
        "Eyes"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A crow has feathers and a beak. A bat has fur instead. Both have legs and eyes."
      }
     }
@@ -573,11 +573,11 @@
       "t": "mcq",
       "q": "Group one: snake, fish, earthworm. Group two: cow, crow, ant. What is the rule?",
       "options": [
-       "Has no legs",
        "Lives in water",
+       "Has no legs",
        "Is long"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The snake, the fish and the earthworm have no legs. The cow, the crow and the ant all have legs. The snake and the earthworm do not live in water, so that rule does not fit."
      }
     }
@@ -926,11 +926,11 @@
       "t": "mcq",
       "q": "You and a crow are both in the two-legs group. What does this tell you?",
       "options": [
-       "You and the crow are the same in every way",
        "You and the crow share one feature: two legs",
+       "You and the crow are the same in every way",
        "You are a bird"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A group shares one feature. You and the crow both have two legs. The crow has feathers and you have hair, so you are different in many other ways."
      }
     }
@@ -985,10 +985,10 @@
       "q": "Your eyes are closed. Which feature can you still use to sort leaves?",
       "options": [
        "Colour",
-       "Smell and feel",
-       "Nothing at all"
+       "Nothing at all",
+       "Smell and feel"
       ],
-      "a": 1,
+      "a": 2,
       "why": "You can feel if a leaf is soft, stiff, smooth or rough, and you can smell it. Colour needs your eyes."
      }
     }
@@ -1144,10 +1144,10 @@
       "q": "Which label works best for a child who cannot read?",
       "options": [
        "The word 'WINGS'",
-       "A drawing of a wing",
-       "A blank box"
+       "A blank box",
+       "A drawing of a wing"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A child who cannot read can still see a drawing of a wing and know what goes in that box. A word needs reading, and a blank box tells nothing."
      }
     }
@@ -1160,11 +1160,11 @@
    "t": "mcq",
    "p": "A crow, a hen and a peacock are in one group. What could the rule be?",
    "opts": [
-    "They all have feathers",
     "They are all black",
+    "They all have feathers",
     "They all live in water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Every bird has feathers. The hen and the peacock are not black, and none of them lives in water.",
    "outcome": 1
   },
@@ -1172,11 +1172,11 @@
    "t": "mcq",
    "p": "Which of these animals has 8 legs?",
    "opts": [
-    "An ant",
     "A spider",
+    "An ant",
     "A hen"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A spider has 8 legs. An ant has 6, and a hen has 2.",
    "outcome": 0
   },
@@ -1184,11 +1184,11 @@
    "t": "mcq",
    "p": "A butterfly and a crow both have...",
    "opts": [
-    "Feathers",
     "Wings",
+    "Feathers",
     "A beak"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Both have wings. Only the crow has feathers and a beak.",
    "outcome": 0
   },
@@ -1220,11 +1220,11 @@
    "t": "mcq",
    "p": "A bat and a cow are both in which group?",
    "opts": [
-    "Has fur or hair",
     "Has a beak",
+    "Has fur or hair",
     "Has 4 legs"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Both have fur or hair, and both mothers feed their babies milk. A bat has 2 legs and wings, so the bat is not in the 4-legs group.",
    "outcome": 0
   },
@@ -1244,11 +1244,11 @@
    "t": "mcq",
    "p": "Which of these animals has no legs?",
    "opts": [
-    "An earthworm",
     "A frog",
-    "A gecko"
+    "A gecko",
+    "An earthworm"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An earthworm has no legs and moves by stretching and squeezing her body. A frog and a gecko each have 4 legs.",
    "outcome": 0
   },
@@ -1256,11 +1256,11 @@
    "t": "mcq",
    "p": "You sort leaves into 'big' and 'small'. One leaf is in the middle, not clearly big or small. What can you do?",
    "opts": [
-    "Make the rule clearer, like 'bigger than my palm'",
     "Throw that leaf away",
-    "Stop sorting"
+    "Stop sorting",
+    "Make the rule clearer, like 'bigger than my palm'"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A clear rule gives a yes or a no for every leaf. Holding the leaf next to a palm settles it.",
    "outcome": 2
   },
@@ -1486,10 +1486,10 @@
      "p": "Which rule puts the frog and the gecko together, but not the cow?",
      "opts": [
       "Has 4 legs",
-      "Has no fur or hair",
-      "Has wings"
+      "Has wings",
+      "Has no fur or hair"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The frog and the gecko have no fur or hair, but the cow has hair. All three have 4 legs, so that rule cannot tell them apart."
     },
     {

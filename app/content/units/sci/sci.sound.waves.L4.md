@@ -558,7 +558,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 2. (fill) The number of times something repeats each second is called its ____.  
    **Answer:** ['frequency']. *Why:* Frequency tells you how often. A clock that ticks once a second has a frequency of one hertz.
 3. (mcq) Three pendulums hang side by side. One has a 20 centimetre thread, one has 50 and one has 100. Which one swings most often?  
-   Options: The one with the 20 centimetre thread / The one with the 50 centimetre thread / The one with the 100 centimetre thread  
+   Options: The one with the 50 centimetre thread / The one with the 100 centimetre thread / The one with the 20 centimetre thread  
    **Answer:** The one with the 20 centimetre thread. *Why:* A shorter pendulum swings more often. Length is the thing that sets a pendulum's beat.
 4. (truefalse) If you hang a heavier washer on the same thread, the pendulum swings faster.  
    **Answer:** False. *Why:* False. The time of a swing depends on the length, not the weight. A heavier washer is pulled down harder but is also harder to move, and these cancel.
@@ -570,14 +570,14 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 7. (sort) Is each one set by the source of a wave, or by the material the wave travels through?  
    **Answer:** how many taps are made each second → Set by the source; how fast a ripple moves across the water → Set by the material; how fast a dupatta is flicked → Set by the source; how fast a sound moves through air → Set by the material; how often a guitar string shakes → Set by the source. *Why:* The source decides how often crests are made. The material decides how fast each crest travels.
 8. (mcq) Ripples travel 20 centimetres each second. You tap twice each second. How far apart are the ripples?  
-   Options: 10 centimetres / 22 centimetres / 40 centimetres  
+   Options: 22 centimetres / 40 centimetres / 10 centimetres  
    **Answer:** 10 centimetres. *Why:* The gap is the speed divided by the taps each second. 20 divided by 2 is 10 centimetres. Adding 20 and 2 to get 22 is a common slip.
 9. (fill) When the wave speed stays the same, a higher frequency makes a ____ wavelength.  
    **Answer:** ['shorter']. *Why:* More crests are made each second, so the same distance holds more of them, and each gap is smaller.
 10. (truefalse) A wave with a bigger amplitude carries more energy than a wave with a smaller amplitude.  
    **Answer:** True. *Why:* True. A tall wave has more energy in it. That is why a big sea wave can knock you over and a ripple cannot.
 11. (mcq) Which kind of wave is sound in air?  
-   Options: A push wave, where the air is squeezed and spread along the way the sound goes / A shake wave, where the air moves up and down across the way the sound goes / A wave that needs no material to travel through  
+   Options: A shake wave, where the air moves up and down across the way the sound goes / A wave that needs no material to travel through / A push wave, where the air is squeezed and spread along the way the sound goes  
    **Answer:** A push wave, where the air is squeezed and spread along the way the sound goes. *Why:* Sound in air is a push wave. The air is squeezed together and spread out along the line of travel. Air cannot hold its shape sideways, so it cannot carry a shake wave.
 12. (order) Put these in order of wavelength, from the shortest to the longest.  
    **Answer:** ['red light', 'a Wi-Fi wave', 'an FM radio wave', 'a sea wave at a beach']. *Why:* Red light is under a thousandth of a millimetre. A Wi-Fi wave is about 12 centimetres. An FM radio wave is about 3 metres. A sea wave at a beach can be about 100 metres.
@@ -595,7 +595,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
    Options: 1 metre / 340 metres / 115,600 metres  
    **Answer:** 1 metre. *Why:* Wavelength is the speed divided by the frequency. 340 divided by 340 is 1 metre. If you got 115,600, you multiplied instead of dividing.
 2. (mcq) A second note has a frequency of 680 hertz, twice the first, in the same air. What is its wavelength?  
-   Options: Half a metre / 2 metres / 1 metre  
+   Options: 2 metres / 1 metre / Half a metre  
    **Answer:** Half a metre. *Why:* 340 divided by 680 is half a metre. Doubling the frequency halves the wavelength when the speed stays the same.
 3. (fill) Wave speed equals frequency times ____.  
    **Answer:** ['wavelength']. *Why:* Each second, a number of waves pass, and each one has a length. Multiply the two and you have the distance the wave travelled in that second.
@@ -617,7 +617,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
    Options: The same energy is spread over a longer ring, so each part has less / The ripples get heavier as they travel / The water at the edge pushes back and flattens them  
    **Answer:** The same energy is spread over a longer ring, so each part has less. *Why:* A bigger ring is a longer line of water, and the energy of the splash is shared along all of it. Each bit has less, so the wave is lower.
 11. (mcq) A radio signal always shows up at the same place among the stars, about four minutes earlier by the clock each day. Where does the signal most likely come from?  
-   Options: From far away among the stars, because it follows the stars' timing / From something on Earth, such as a car or a radio / From the Sun, because the Sun rises every day  
+   Options: From something on Earth, such as a car or a radio / From far away among the stars, because it follows the stars' timing / From the Sun, because the Sun rises every day  
    **Answer:** From far away among the stars, because it follows the stars' timing. *Why:* The stars rise about four minutes earlier each day. A signal that keeps their time is following the sky, not anything on the ground.
 12. (write) A friend says that if you shake the end of a long rope faster, the waves will travel faster along the rope. Is your friend right? Explain.  
    **Answer:** No. Shaking faster makes more waves each second, so the waves are closer together, but they travel at the speed that the rope allows. A tighter rope would carry them faster.. *Why:* A strong answer says that the speed is set by the rope and not by the shaking, and that shaking faster shortens the wavelength.
@@ -636,7 +636,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
    Options: 4 metres / 2 metres / 8 metres  
    **Answer:** 4 metres. *Why:* Twice the time needs four times the length, as the pattern shows. 1 metre gives 2 seconds, so 4 metres gives 4 seconds. Doubling the length to 2 metres would give a time about 1.4 times longer, not twice.
 2. (mcq) Ripples are made 5 times each second and travel 25 centimetres each second. What is the gap between ripples?  
-   Options: 5 centimetres / 20 centimetres / 125 centimetres  
+   Options: 20 centimetres / 5 centimetres / 125 centimetres  
    **Answer:** 5 centimetres. *Why:* The gap is the speed divided by the frequency. 25 divided by 5 is 5 centimetres. If you got 125, you multiplied instead of dividing.
 3. (mcq) The gap between ripples is 4 centimetres, and they are made 6 times each second. How fast do they travel?  
    Options: 24 centimetres each second / 10 centimetres each second / 1.5 centimetres each second  
@@ -678,7 +678,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 
 ## Quiz
 1. (mcq) Which of these is a frequency?  
-   Options: 3 taps each second / 12 centimetres / 5 seconds  
+   Options: 12 centimetres / 5 seconds / 3 taps each second  
    **Answer:** 3 taps each second. *Why:* Frequency is a count of how many times something repeats each second. 12 centimetres is a distance and 5 seconds is a time.
 2. (mcq) You hang a heavy stone and a light stone on two threads of exactly the same length, and let them both swing a short way. What happens?  
    Options: They swing together, one swing taking the same time for each / The heavy one swings faster / The light one swings faster  
@@ -686,13 +686,13 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 3. (truefalse) A finger that taps the water faster makes ripples that travel faster across the water.  
    **Answer:** False. *Why:* False. Faster taps make more ripples each second, so they are closer together. They all travel at the speed the water allows.
 4. (mcq) Ripples travel 30 centimetres each second. You tap 3 times each second. How far apart are the ripples?  
-   Options: 10 centimetres / 33 centimetres / 90 centimetres  
+   Options: 33 centimetres / 10 centimetres / 90 centimetres  
    **Answer:** 10 centimetres. *Why:* The gap is the speed divided by the frequency. 30 divided by 3 is 10 centimetres.
 5. (mcq) In a shake wave, a bump moves along a rope while the rope moves up and down. How does the material move in a push wave?  
    Options: Back and forth along the way the wave travels / Up and down across the way the wave travels / Round in a circle, never along  
    **Answer:** Back and forth along the way the wave travels. *Why:* In a push wave the material is squeezed and spread along the line of travel. Sound in air is a push wave.
 6. (mcq) Two waves on the same string have the same frequency. One is twice as tall as the other. Which carries more energy?  
-   Options: The taller one / The shorter one / They carry the same  
+   Options: The shorter one / They carry the same / The taller one  
    **Answer:** The taller one. *Why:* A bigger amplitude means more energy. The frequency is the same, so the height is the only thing that differs.
 7. (fill) Red light has a ____ wavelength than violet light.  
    **Answer:** ['longer']. *Why:* Red light is about 700 nanometres. Violet is about 400. Red waves are the longest we can see.
@@ -708,7 +708,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
    Options: An FM radio wave / A Wi-Fi wave / Red light  
    **Answer:** An FM radio wave. *Why:* An FM radio wave is about 3 metres. A Wi-Fi wave is about 12 centimetres. Red light is under a thousandth of a millimetre.
 12. (mcq) In an earthquake, which kind of wave cannot travel through the liquid part of the Earth?  
-   Options: The shake waves / The push waves / Both can  
+   Options: The push waves / Both can / The shake waves  
    **Answer:** The shake waves. *Why:* A liquid does not hold its shape sideways, so it cannot carry a shake wave. Push waves can cross liquid.
 
 ## Applications

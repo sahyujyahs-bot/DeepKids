@@ -764,11 +764,11 @@
       "t": "mcq",
       "q": "A fish has a belly like a sucker and wide flat fins. Which home fits?",
       "options": [
-       "A fast hill stream",
        "A still deep lake",
+       "A fast hill stream",
        "The open sunlit sea"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A sucker belly and flat fins hold a fish on rock in a strong current. In a still lake or the open sea there is no current to hold against."
      },
      "context": "In this step of Whose Home Is This? you finish the stack of cards. The cards you missed come back for a second try."
@@ -1072,11 +1072,11 @@
       "t": "mcq",
       "q": "Why do we stir and then wait before each reading?",
       "options": [
-       "So the milk is spread evenly and the water is still",
        "So the milk has time to turn sour",
+       "So the milk is spread evenly and the water is still",
        "So the water has time to warm up"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The test compares amounts of milk. If the milk sits in one cloud, or the water is swirling, the reading depends on where the cloud is. If you chose 'to warm up', remember that only the milk should change in a fair test."
      },
      "parent": "If the disc can still be seen on the bottom, write 'deeper than the bucket' and go on. If it vanishes within 3 centimetres, the bucket is small or the milk is rich. Start again with fresh water and use half-teaspoons.",
@@ -1260,11 +1260,11 @@
       "t": "mcq",
       "q": "Why do all three glasses get the same amounts of water and tea?",
       "options": [
-       "So that only the top treatment differs",
        "So that no tea is wasted",
+       "So that only the top treatment differs",
        "So that the glasses look neat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A fair test changes one thing. Here that one thing is what happens at the top: nothing, wind or ice. If you chose 'so no tea is wasted', remember that saving tea would not change which glass mixes."
      },
      "parent": "If the layers mix while you pour, the tea was too cool or was poured too fast. Empty that glass and try again more slowly.",
@@ -1714,11 +1714,11 @@
       "t": "mcq",
       "q": "Why does a red prawn look black in the deep sea?",
       "options": [
-       "No red light reaches her to bounce back",
        "Her colour washes off in deep water",
+       "No red light reaches her to bounce back",
        "The pressure changes her skin"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A red thing looks red because it sends back red light and soaks up the rest. Deep water has no red light left, so nothing comes back. If you chose another answer, remember the red paper: it did not change, only the light did."
      },
      "parent": "A red surface sends back red light and soaks up the other colours. Sea water soaks up red light near the top, and blue travels deepest. In blue light a red animal sends back almost nothing, so she looks black. The same prawn looks bright red in a net at the surface.",
@@ -1955,11 +1955,11 @@
       "t": "mcq",
       "q": "Why does a Ganga river dolphin use sound to find fish?",
       "options": [
-       "Light cannot pass far through muddy water",
        "Fish in the Ganga are very noisy",
-       "Sound cannot travel through clear water"
+       "Sound cannot travel through clear water",
+       "Light cannot pass far through muddy water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Her river is turbid, so eyes are of little use there. Sound travels well through muddy water. If you chose 'sound cannot travel through clear water', that is not so: sound travels well through all water."
      },
      "parent": "The 'shhh' bounces off the plate and returns to the ears, so it sounds louder and nearer. That is a small form of echolocation. A dolphin's clicks are much sharper and her hearing far finer than ours. Engine noise covers her echoes, as the fan covered yours.",
@@ -2340,11 +2340,11 @@
       "t": "mcq",
       "q": "Why does a fish pass have pools between the steps?",
       "options": [
-       "So the fish can rest in slower water",
        "So the pass uses more water",
-       "So the pass looks like a staircase"
+       "So the pass looks like a staircase",
+       "So the fish can rest in slower water"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Swimming up against fast water is hard work. A pool is deeper and slower, so a fish can rest there before the next step. If you chose 'looks like a staircase', remember that fish do not walk: each step is a short climb through flowing water."
      },
      "context": "In this step of A Way Round the Wall you pour water down your fish pass. You measure every step and every pool."
@@ -2382,12 +2382,12 @@
      "t": "mcq",
      "p": "Which of these is a freshwater habitat?",
      "opts": [
-      "A village tank",
       "A coral reef",
       "The deep sea floor",
+      "A village tank",
       "A salt pan"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A tank holds rain or river water with very little salt. A coral reef, the deep sea floor and a salt pan all have salty water.",
      "outcome": 0
     },
@@ -2395,12 +2395,12 @@
      "t": "mcq",
      "p": "Why do plants and algae grow only in the top layer of a lake or sea?",
      "opts": [
-      "Only that layer has enough light",
       "Only that layer has water",
       "The deep water is too clean",
-      "Fish eat all the deep plants"
+      "Fish eat all the deep plants",
+      "Only that layer has enough light"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Plants and algae make food from light. Water takes light away with depth, so below the sunlit zone no food can be made.",
      "outcome": 1
     },
@@ -2408,12 +2408,12 @@
      "t": "mcq",
      "p": "What does a river drop when its water slows down?",
      "opts": [
-      "Sediment",
       "Oxygen",
+      "Sediment",
       "Salt",
       "Heat"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Slow water cannot carry sand and silt, so they settle. This builds floodplains and deltas.",
      "outcome": 4
     },
@@ -2421,12 +2421,12 @@
      "t": "mcq",
      "p": "What is marine snow?",
      "opts": [
-      "Dead plankton and waste sinking through the sea",
       "Ice that falls on the sea in winter",
+      "Dead plankton and waste sinking through the sea",
       "Salt that settles on the sea floor",
       "White sand washed in by rivers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Marine snow is dead plankton, droppings, slime and dust stuck together. It is the main food of the deep sea.",
      "outcome": 6
     },
@@ -2636,12 +2636,12 @@
      "t": "mcq",
      "p": "A disc vanishes at 12 centimetres in cloudy water. The cloudiness is doubled. About where does the disc vanish now?",
      "opts": [
-      "About 6 centimetres",
       "About 12 centimetres",
+      "About 6 centimetres",
       "About 24 centimetres",
       "About 10 centimetres"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Twice as many bits take the light away in about half the distance. If you chose 24, you doubled the depth, but more bits mean a smaller depth.",
      "outcome": 1,
      "how": "e1"
@@ -2650,12 +2650,12 @@
      "t": "mcq",
      "p": "In a deep lake in a hot month, where is there least oxygen?",
      "opts": [
-      "In the cold bottom layer",
       "At the surface",
       "Among the plants at the edge",
-      "Just under the surface"
+      "Just under the surface",
+      "In the cold bottom layer"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Oxygen comes in at the top. The warm layer hardly mixes with the cold layer below, where bacteria keep using oxygen up.",
      "outcome": 2
     },
@@ -2889,12 +2889,12 @@
      "t": "mcq",
      "p": "Each 10 centimetres of a pond lets half the light through. How much is left at 30 centimetres?",
      "opts": [
-      "One eighth",
       "One third",
       "One sixth",
+      "One eighth",
       "None"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Half is left at 10 centimetres, a quarter at 20 and an eighth at 30. If you chose 'none', remember that halving never quite reaches zero.",
      "outcome": 1
     },
@@ -2902,12 +2902,12 @@
      "t": "mcq",
      "p": "Vent bacteria make food without light. What do vent animals still need that was made in sunlight?",
      "opts": [
-      "Oxygen dissolved in the sea water",
       "Heat from the Sun",
+      "Oxygen dissolved in the sea water",
       "Marine snow from the surface",
       "Salt from rivers"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bacteria and animals at vents use oxygen. That oxygen was made by algae and plants in the light, and carried down by sinking cold water.",
      "outcome": 6
     },
@@ -2928,12 +2928,12 @@
      "t": "mcq",
      "p": "Why are many animals of the twilight zone see-through or red?",
      "opts": [
-      "Both colours are hard to see there",
       "Both colours keep them warm",
+      "Both colours are hard to see there",
       "Red and clear bodies need less food",
       "The pressure removes other colours"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In open water there is nothing to hide behind. A clear body lets the faint light pass. A red body sends back no light, because no red light reaches that depth.",
      "outcome": 6,
      "how": "a3"
@@ -3069,12 +3069,12 @@
    "t": "mcq",
    "p": "Which pair are both freshwater habitats?",
    "opts": [
-    "A lake and a river",
     "A lagoon and a coral reef",
+    "A lake and a river",
     "A salt pan and a tank",
     "The abyss and a pond"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lakes and rivers hold water with very little salt. Reefs, salt pans and the abyss are salty.",
    "outcome": 0
   },
@@ -3082,12 +3082,12 @@
    "t": "mcq",
    "p": "About what share of all the kinds of fish live in fresh water?",
    "opts": [
-    "About half",
     "About 1 in 100",
     "About 1 in 10",
+    "About half",
     "Nearly all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About half of all kinds of fish live in fresh water. Rivers and lakes are cut off from each other, so each grows kinds of its own.",
    "outcome": 0
   },
@@ -3095,12 +3095,12 @@
    "t": "mcq",
    "p": "What happens to light as it goes deeper into water?",
    "opts": [
-    "It gets weaker with every layer",
     "It stays the same to the bottom",
     "It gets stronger",
+    "It gets weaker with every layer",
     "It turns red"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Each layer of water soaks up and scatters a share of the light. If you chose 'turns red', remember that red is the first colour to be lost.",
    "outcome": 1
   },
@@ -3108,12 +3108,12 @@
    "t": "mcq",
    "p": "Where in a deep lake do rooted plants such as lotus grow?",
    "opts": [
-    "At the shallow edge",
     "In the deepest middle",
+    "At the shallow edge",
     "Floating far from shore with no roots",
     "Everywhere on the bottom"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A rooted plant needs a bottom shallow enough for light to reach, or for the stalk to reach the surface.",
    "outcome": 1
   },
@@ -3121,12 +3121,12 @@
    "t": "mcq",
    "p": "Which pond plant floats free on the water, with roots that hang down and do not touch the mud?",
    "opts": [
-    "Water hyacinth",
     "Lotus",
+    "Water hyacinth",
     "Water lily",
     "Reed"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water hyacinth floats on swollen stalks that hold air. Lotus, water lily and reeds are rooted in the mud. Water hyacinth came from South America and can spread over a whole lake, which cuts off light for the plants below.",
    "outcome": 1
   },
@@ -3134,12 +3134,12 @@
    "t": "mcq",
    "p": "Why does warm water stay on top of cold water in a lake?",
    "opts": [
-    "Warm water is lighter",
     "Warm water is saltier",
+    "Warm water is lighter",
     "Wind holds the warm water up",
     "Fish push the cold water down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Warm water is a little lighter than cold water, so it floats. That is why the two layers hardly mix in hot months.",
    "outcome": 2
   },
@@ -3147,12 +3147,12 @@
    "t": "mcq",
    "p": "What makes a layered lake mix from top to bottom?",
    "opts": [
-    "The top water cools and sinks",
     "The Sun heats the top water more",
     "Fish swim up and down",
+    "The top water cools and sinks",
     "Rain falls on the surface"
    ],
-   "a": 0,
+   "a": 2,
    "why": "When the top water cools, it becomes as heavy as the water below and sinks. Then wind can mix the whole lake.",
    "outcome": 2
   },
@@ -3160,12 +3160,12 @@
    "t": "mcq",
    "p": "Which stretch of a river is cold, clear, fast and rich in oxygen?",
    "opts": [
-    "The upper stretch, near the source",
     "The lower stretch, near the sea",
     "The delta",
-    "The floodplain lakes"
+    "The floodplain lakes",
+    "The upper stretch, near the source"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Near the source the stream is steep and tumbles over rocks, which stirs in oxygen. Shade keeps the water cold.",
    "outcome": 3
   },
@@ -3173,12 +3173,12 @@
    "t": "mcq",
    "p": "Which fin of a fish does most of the pushing forward?",
    "opts": [
-    "The tail fin",
     "The fin on the back",
+    "The tail fin",
     "The small fin on the belly",
     "The fin of a loach"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The tail sweeps from side to side and pushes the fish through the water. The back fin keeps her upright, and the side fins steer and brake.",
    "outcome": 3
   },
@@ -3186,12 +3186,12 @@
    "t": "mcq",
    "p": "Why do many river fish lay their eggs on flooded land?",
    "opts": [
-    "The young find food and hiding places there",
     "The water there is colder",
     "There is no oxygen there",
+    "The young find food and hiding places there",
     "The eggs need dry soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Warm shallow flood water fills with plankton and insects, and plants give cover. The young return to the river as the flood goes down.",
    "outcome": 4
   },
@@ -3212,12 +3212,12 @@
    "t": "mcq",
    "p": "How does a wall across a river harm a fish like the hilsa?",
    "opts": [
-    "She cannot reach her breeding places upstream",
     "The wall makes the water salty",
     "The wall takes away her gills",
-    "She forgets how to swim"
+    "She forgets how to swim",
+    "She cannot reach her breeding places upstream"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Hilsa live in the sea and breed in rivers. A wall with no suitable way round cuts the journey.",
    "outcome": 4
   },
@@ -3225,12 +3225,12 @@
    "t": "mcq",
    "p": "Why do coral reefs hold so many kinds of fish and other sea animals?",
    "opts": [
-    "The reef gives food and hiding places in warm, sunlit water",
     "Reefs are the deepest part of the sea",
+    "The reef gives food and hiding places in warm, sunlit water",
     "Fish cannot live anywhere else",
     "Corals make the sea water fresh"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Reefs grow only in warm, bright, shallow water. Their many nooks give young fish and small animals a place to hide and feed. They are not deep, and the sea stays salty.",
    "outcome": 5
   },
@@ -3238,12 +3238,12 @@
    "t": "mcq",
    "p": "By how much does the pressure rise for every 10 metres of depth in the sea?",
    "opts": [
-    "By about 1 kilogram on each square centimetre",
     "By nothing",
     "By half each time",
-    "By 10 kilograms on each square centimetre"
+    "By 10 kilograms on each square centimetre",
+    "By about 1 kilogram on each square centimetre"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Every 10 metres of water adds about as much press as the whole of the air above us: about 1 kilogram on each square centimetre.",
    "outcome": 5
   },
@@ -3251,12 +3251,12 @@
    "t": "mcq",
    "p": "Where does most of the food eaten on the deep sea floor come from?",
    "opts": [
-    "It sinks from the sunlit zone",
     "It grows in the mud",
     "Rivers pour it straight onto the floor",
-    "Deep-sea fish make it from light"
+    "Deep-sea fish make it from light",
+    "It sinks from the sunlit zone"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Food is made where there is light, and sinks as marine snow. Only about 1 to 3 parts in 100 reach the floor.",
    "outcome": 6
   },
@@ -3264,12 +3264,12 @@
    "t": "mcq",
    "p": "In a fair test of how milk hides a disc, what is the one thing that changes?",
    "opts": [
-    "The amount of milk",
     "The person who looks",
     "The light in the room",
+    "The amount of milk",
     "The size of the disc"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the thing you are testing should change. If the light or the observer changed too, you could not tell what caused the result.",
    "outcome": 7,
    "how": "e1"

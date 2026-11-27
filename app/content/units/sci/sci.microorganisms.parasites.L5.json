@@ -897,11 +897,11 @@
       "t": "mcq",
       "q": "Infected fish flash more. What else must be shown before calling it a parasite's trick?",
       "options": [
-       "That birds really eat more infected fish",
        "That the fish are a bright colour",
-       "That the fish feel ill"
+       "That the fish feel ill",
+       "That birds really eat more infected fish"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A change counts as manipulation only if it carries more parasites to the next host. For the killifish, birds ate infected fish 10 to 30 times as often. Picking 'the fish feel ill' mixes up a side effect of illness with a change that helps the parasite."
      },
      "context": "This is the last step of How Strong Is the Evidence? Here you count your cards and plan a fair test for one untested claim."
@@ -1309,11 +1309,11 @@
       "t": "mcq",
       "q": "In the control round, dotted and plain bugs were caught equally. What does that show?",
       "options": [
-       "Where a bug stands decides who is caught",
        "The hunter was tired by then",
+       "Where a bug stands decides who is caught",
        "Dotted bugs are slower"
       ],
-      "a": 0,
+      "a": 1,
       "why": "When the dotted bugs hid like the others, the dot made no difference. So the earlier difference came from their place, which stands for their behaviour. Picking 'dotted bugs are slower' is the old idea that infected animals are simply weak. Paper bugs cannot be slow, and Janice Moore's real infected pill bugs moved more, not less."
      },
      "parent": "This is a model. Real pill bugs with the worm were also found on paler ground and in drier air, and real starlings did eat more of them. Paper cannot show whether a real infected bug is weaker, which Janice Moore checked separately.",
@@ -1402,11 +1402,11 @@
       "t": "mcq",
       "q": "A lizard with an infection sits longer in the sun. Who gains?",
       "options": [
-       "The lizard, because heat slows the microbes",
        "The microbes, because they like heat",
-       "Nobody gains"
+       "Nobody gains",
+       "The lizard, because heat slows the microbes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A hotter body slows many microbes, so basking is the lizard's own defence, like a fever. Picking 'the microbes' usually means thinking that every odd behaviour of an ill animal is the parasite's doing. Some are the host fighting back."
      },
      "context": "This is the last step of Who Gains? Here you choose the behaviour you are least sure about and say how its gain could be tested."
@@ -1557,11 +1557,11 @@
       "t": "mcq",
       "q": "In this model, why does the number of parasites fall every few days?",
       "options": [
-       "The body has learned that coat",
        "The parasites get tired",
+       "The body has learned that coat",
        "The medicine has worked"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each fall comes when antibodies for one coat are ready and clear every parasite wearing it. The number rises again because one parasite had already switched to a coat the body has not met. Picking 'the medicine has worked' adds something that is not in the model. No medicine was given."
      },
      "parent": "The graph is a row of equal waves. In the model a new coat appears every 4 days, so 2,000 coats would last 8,000 days, about 22 years. Real switching is less tidy, and many coat genes are broken pieces that the parasite joins together.",
@@ -1645,11 +1645,11 @@
       "t": "mcq",
       "q": "Preening costs a bird time. Why do birds still preen so much?",
       "options": [
-       "Lice and mites would multiply and damage the feathers",
        "Birds enjoy looking tidy for people",
-       "Preening has no use"
+       "Preening has no use",
+       "Lice and mites would multiply and damage the feathers"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Lice and mites feed on feathers and skin. Preening removes many of them and also keeps the feathers in order for flying. A defence that costs this much time shows how much parasites matter to a host. Picking 'no use' misses that birds who cannot preen properly carry far more lice."
      },
      "context": "This is the last step of the Preening Count. Here you work out what fraction of the looks showed preening, and think about why a bird spends time on it."
@@ -1736,11 +1736,11 @@
       "t": "mcq",
       "q": "A puppy scratches your leg and it bleeds only a little. What do you do first?",
       "options": [
-       "Wash with soap and water for 15 minutes",
        "Wait and see if it hurts tomorrow",
-       "Put turmeric on it and tell nobody"
+       "Put turmeric on it and tell nobody",
+       "Wash with soap and water for 15 minutes"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Washing at once removes much of the virus, and then a grown-up and a doctor decide about the vaccine. A small scratch from a puppy can still pass rabies. Picking 'wait and see' is the dangerous choice, because once signs of rabies begin there is no cure."
      },
      "parent": "Also agree on two habits. Do not touch or tease dogs you do not know, and do not touch an animal who is ill or dead. A pet dog needs a rabies vaccine every year.",
@@ -1860,11 +1860,11 @@
       "t": "mcq",
       "q": "Which evidence best shows that a behaviour change is a parasite's trick?",
       "options": [
-       "More infected hosts reach the parasite's next home",
        "The infected host looks strange",
-       "The story is told in many films"
+       "The story is told in many films",
+       "More infected hosts reach the parasite's next home"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The change must carry more parasites onward, as when birds ate more infected killifish. Looking strange could be a side effect of illness. Picking 'many films' mixes up how often a story is told with how well it has been tested."
      },
      "context": "This is the last step of the Case File project. Here you present your case file to your family and they vote on whether the parasite's trick is proved."
@@ -2311,11 +2311,11 @@
      "t": "mcq",
      "p": "Why can most parasites change faster than their hosts?",
      "opts": [
-      "Parasites have new generations much more often",
       "Parasites are cleverer than hosts",
-      "Hosts never change at all"
+      "Hosts never change at all",
+      "Parasites have new generations much more often"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Change spreads from one generation to the next. A parasite may have a new generation in days and a host in years. Hosts do change, but more slowly.",
      "outcome": 0
     },
@@ -2534,11 +2534,11 @@
      "t": "mcq",
      "p": "Animals with a parasite sit in the open. What must be shown before calling it the parasite's trick?",
      "opts": [
-      "More of them reach the parasite's next host",
       "They look unusual",
-      "They are thinner than the others"
+      "They are thinner than the others",
+      "More of them reach the parasite's next host"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A change is manipulation only if it carries more parasites onward. Looking unusual or being thin could be side effects of illness.",
      "outcome": 4
     },
@@ -2755,11 +2755,11 @@
    "t": "mcq",
    "p": "A medicine against a parasite is used widely. After years it works less well. Why?",
    "opts": [
-    "Parasites who survive it left the young",
     "The tablets became weaker",
-    "People's bodies got used to it"
+    "People's bodies got used to it",
+    "Parasites who survive it left the young"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The medicine removes the ordinary parasites. The few who can survive it multiply. The tablets and the people have not changed. The parasites have.",
    "outcome": 0
   },
@@ -2767,11 +2767,11 @@
    "t": "mcq",
    "p": "Flukes each fit one kind of snail. One kind of snail becomes very common. What happens next?",
    "opts": [
-    "Flukes who fit that kind multiply, and it goes down",
     "That kind stays on top for ever",
-    "The flukes die out"
+    "The flukes die out",
+    "Flukes who fit that kind multiply, and it goes down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Being common makes a snail kind the easiest host to find, so her flukes do best. Choosing 'stays on top for ever' treats the flukes as fixed.",
    "how": "e1",
    "outcome": 1
@@ -2780,11 +2780,11 @@
    "t": "mcq",
    "p": "Why is a group of clones in more danger from a parasite than a mixed group?",
    "opts": [
-    "A parasite who fits one clone fits them all",
     "Clones are always smaller",
-    "Clones cannot have young"
+    "Clones cannot have young",
+    "A parasite who fits one clone fits them all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Clones are copies, so they share the same locks. A mixed group always has some rare kind that few parasites fit.",
    "how": "e1",
    "outcome": 1
@@ -2805,11 +2805,11 @@
    "t": "mcq",
    "p": "How does a coat-changing parasite stay in the blood for months?",
    "opts": [
-    "Some switch to a coat the body has not learned",
     "They hide in the stomach",
+    "Some switch to a coat the body has not learned",
     "They stop multiplying"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Antibodies clear one coat, but a few parasites have already switched to another. The body has to start learning again, so the numbers rise and fall in waves.",
    "how": "a2",
    "outcome": 2
@@ -2830,11 +2830,11 @@
    "t": "mcq",
    "p": "A mantis with a full-grown hairworm inside walks into water. Who needs the water?",
    "opts": [
-    "The hairworm, who mates in water",
     "The mantis, who is thirsty",
-    "Neither of them"
+    "Neither of them",
+    "The hairworm, who mates in water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Adult hairworms live and mate in water. Healthy mantises keep away from water. Choosing 'the mantis is thirsty' does not explain why only infected mantises do it.",
    "outcome": 3
   },
@@ -2842,11 +2842,11 @@
    "t": "mcq",
    "p": "An ill goat lies still all day. What must be shown before calling this a parasite's trick?",
    "opts": [
-    "That lying still helps the parasite spread",
     "That the goat has a parasite",
+    "That lying still helps the parasite spread",
     "That the goat looks unhappy"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Lying still could be a side effect of being weak, or the goat saving strength. It is a trick only if the change carries more parasites to the next host.",
    "outcome": 4
   },
@@ -2861,11 +2861,11 @@
    "t": "mcq",
    "p": "Which of these claims do scientists still argue about?",
    "opts": [
-    "Toxoplasma changes human personality",
     "Infected rats lose their fear of cat smell",
-    "Birds eat more infected killifish"
+    "Birds eat more infected killifish",
+    "Toxoplasma changes human personality"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The rat and killifish findings were tested by comparing infected and healthy animals. Studies of people and Toxoplasma disagree with each other.",
    "outcome": 5
   },
@@ -2873,11 +2873,11 @@
    "t": "mcq",
    "p": "A dog's tooth scratches your hand and breaks the skin. What do you do first?",
    "opts": [
-    "Wash with soap and running water for 15 minutes",
     "Cover it with turmeric",
-    "Wait to see if the dog falls ill"
+    "Wait to see if the dog falls ill",
+    "Wash with soap and running water for 15 minutes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Washing at once removes much of the virus. Then tell a grown-up and see a doctor the same day. Waiting is dangerous, because rabies cannot be cured once signs begin.",
    "outcome": 6
   },

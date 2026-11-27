@@ -724,11 +724,11 @@
       "t": "mcq",
       "q": "A dry moong seed seems to do nothing. Why do we still call the seed alive?",
       "options": [
-       "Because they are small and green",
        "Because, with water, they wake up and do all seven signs",
+       "Because they are small and green",
        "Because they came from a shop"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A dry seed is dormant. They are alive but resting. Give the seed water and warmth, and they feed on their stored food, respire, grow a root, sense which way is down and later make new seeds. Picking 'small and green' means judging by looks. A green bead is small and green too, and it is not alive."
      }
     },
@@ -909,10 +909,10 @@
       "q": "Excretion: a neem tree! How does a tree get rid of their waste?",
       "options": [
        "They cannot. Trees make no waste.",
-       "They give out waste gases through tiny holes in their leaves, and drop old leaves.",
-       "They push waste out of their roots like a tap."
+       "They push waste out of their roots like a tap.",
+       "They give out waste gases through tiny holes in their leaves, and drop old leaves."
       ],
-      "a": 1,
+      "a": 2,
       "why": "Trees make waste, like every living thing. They give out waste gases through tiny holes in their leaves, and they drop old leaves with some waste stored inside. Picking 'trees make no waste' usually means thinking only animals do excretion."
      }
     },
@@ -1076,10 +1076,10 @@
       "q": "In the balloon test, bottle A is foaming and its balloon is filling up. What is happening?",
       "options": [
        "The water is boiling",
-       "The yeast is feeding on sugar and giving out a gas",
-       "The sugar is melting into air"
+       "The sugar is melting into air",
+       "The yeast is feeding on sugar and giving out a gas"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Yeast is alive. The yeast feeds on the sugar, gets energy from the sugar and gives out carbon dioxide gas as waste. The gas fills the balloon. That is nutrition, respiration and excretion, three signs of life. Picking 'boiling' means mixing up bubbles from heat with bubbles from life. The water is only warm. Picking 'sugar melting into air' means thinking sugar turns into gas by itself. It does not, or bottle C would fill too."
      }
     },
@@ -1444,10 +1444,10 @@
       "q": "In the breath counter, you breathe much faster after jumping. Why?",
       "options": [
        "Your lungs got smaller",
-       "Your muscles need more energy, so respiration needs more oxygen",
-       "Jumping pushes extra air into your nose"
+       "Jumping pushes extra air into your nose",
+       "Your muscles need more energy, so respiration needs more oxygen"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Working muscles need more energy. They get it by respiration, which uses oxygen. So you breathe faster to bring in more oxygen and push out more carbon dioxide. Picking 'lungs got smaller' means guessing about size. Lungs stay the same size. Picking 'jumping pushes air in' means thinking breathing is just air being pushed, not something your body needs."
      }
     },
@@ -1712,11 +1712,11 @@
       "t": "mcq",
       "q": "When you touch a touch-me-not leaf, it folds shut. Which signs of life is the plant showing?",
       "options": [
-       "Sensing and movement",
        "Nutrition and growth",
-       "Reproduction"
+       "Reproduction",
+       "Sensing and movement"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plant senses the touch and responds by moving their leaflets. That is sensing and movement. Picking 'nutrition and growth' mixes up a quick response with slow feeding and growing. Picking 'reproduction' means thinking any change is making young."
      }
     },
@@ -1813,11 +1813,11 @@
       "t": "mcq",
       "q": "After 2 hours in the sun, the bag on the living branch is misty with water, and the bag on the dead twig is dry. Why?",
       "options": [
-       "Rain got into the first bag",
        "The living plant took water up from their roots and gave it out through their leaves",
+       "Rain got into the first bag",
        "The dead twig drank all the water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A living plant pulls water up from their roots and lets water vapour out of tiny holes in their leaves. The vapour turns back into drops on the inside of the bag. The dead twig is once alive. It no longer does this. Picking 'rain' cannot explain why only one bag is wet. Picking 'the twig drank it' means thinking a dead twig still feeds."
      },
      "parent": "Usually a fine mist or a few drops show inside the bag on the living branch within an hour or two. On a cool or cloudy day the mist can be faint, so leave the bags a little longer. The bag on the dead twig stays clear or nearly clear."
@@ -1906,11 +1906,11 @@
       "t": "mcq",
       "q": "A child does six signs of life every day, but cannot make babies yet. Is the child alive?",
       "options": [
-       "No, because one sign is missing",
        "Yes. Living things do all seven over their whole life, not every day.",
+       "No, because one sign is missing",
        "Only half alive"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A living thing does all seven signs over their life, not at every moment. Children grow up first, and reproduction can come much later. Picking 'no' means thinking every sign must happen all the time. A sleeping cat is not running, but is still alive."
      },
      "parent": "The answer is reproduction, which means having young. It is fine, because a living thing does all seven signs over a whole life, not all at once."
@@ -1971,10 +1971,10 @@
       "q": "In the food chart, where does grass get their food?",
       "options": [
        "From the soil, by eating it",
-       "They make their own food in their leaves, using sunlight, air and water",
-       "They do not need food"
+       "They do not need food",
+       "They make their own food in their leaves, using sunlight, air and water"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Green plants make their own food, a sugar, using sunlight, air and water. They take in water and a few minerals from the soil, but the soil is not their food. Picking 'eats the soil' is a very common idea. Picking 'does not need food' forgets that all living things need nutrition."
      }
     },
@@ -2207,11 +2207,11 @@
       "t": "mcq",
       "q": "In the Mars life detector test, cup A bubbled slowly and kept going. But powder from cup A that was heated first did not bubble. Powder from cup C fizzed at once, even after heating. Which cup had something alive?",
       "options": [
-       "Cup C, because it fizzed most",
        "Cup A, because its bubbles grew slowly and heating stopped them",
+       "Cup C, because it fizzed most",
        "Neither, because bubbles are never a sign of life"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The yeast in cup A fed on sugar, respired and gave out gas, slowly and steadily. Heat killed the yeast, so the bubbles stopped. Baking soda in cup C is not alive. It fizzes with lemon juice, heated or not. Picking 'cup C' means thinking more bubbles means more life. Picking 'neither' is close, because one sign alone is not proof. But bubbles that grow slowly and also stop after heating are good evidence."
      }
     },
@@ -2294,11 +2294,11 @@
       "t": "mcq",
       "q": "A plant stayed alive in a closed jar for two weeks with no new water. Where did their water come from?",
       "options": [
-       "The water went round and round: from soil to plant to air to glass and back to soil",
        "The plant made new water from light",
-       "The plant did not need any water"
+       "The plant did not need any water",
+       "The water went round and round: from soil to plant to air to glass and back to soil"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plant took water from the soil and let the water out from their leaves. The water turned into drops on the glass and ran back down into the soil. The same water was used again and again. The plant also used light to make food, and the gases they gave out were used again. Picking 'made water from light' means thinking light is a kind of water. Picking 'did not need water' forgets that all living things need water."
      }
     },
@@ -2370,12 +2370,12 @@
      "t": "mcq",
      "p": "Many people think breathing and respiration mean the same thing. Which sentence is right?",
      "opts": [
+      "Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food",
       "They are two words for the same thing",
       "Respiration happens only inside the lungs",
-      "Only animals respire",
-      "Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food"
+      "Only animals respire"
      ],
-     "a": 3,
+     "a": 0,
      "why": "Breathing brings in the oxygen that respiration uses. Respiration itself happens in every cell, even in plants, which have no lungs. A strong answer keeps the two words apart."
     },
     {
@@ -2448,10 +2448,10 @@
      "opts": [
       "Grow the most of all three",
       "Burst",
-      "Grow only a little, because the yeast have almost no food",
-      "Get smaller"
+      "Get smaller",
+      "Grow only a little, because the yeast have almost no food"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Yeast are alive and need food to give out gas. Sugar is their food. Without sugar, they make very little gas. Picking 'grow the most' forgets that living things need food.",
      "how": "e1"
     },
@@ -2473,12 +2473,12 @@
      "t": "mcq",
      "p": "A dry neem leaf lies on the ground. Which is the best evidence that the leaf is no longer alive?",
      "opts": [
-      "The leaf no longer takes in water or grows, and will never make anything new",
       "The leaf is brown",
       "The leaf is on the ground",
-      "The leaf is very light"
+      "The leaf is very light",
+      "The leaf no longer takes in water or grows, and will never make anything new"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Colour, place and weight do not tell you about life. What matters is what the leaf does. A dead leaf does none of the signs of life, so the leaf is once alive."
     },
     {
@@ -2557,12 +2557,12 @@
      "t": "mcq",
      "p": "A money plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?",
      "opts": [
+      "Respiring: using sugar and oxygen for energy, and giving out carbon dioxide",
       "Nothing at all until the morning",
       "Making food from moonlight",
-      "Respiring: using sugar and oxygen for energy, and giving out carbon dioxide",
       "Breathing with tiny lungs"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Plants respire all the time, day and night, like animals. In the dark they cannot make food, so they only respire. A strong answer names respiration and the gas given out.",
      "how": "c2"
     },
@@ -2570,12 +2570,12 @@
      "t": "mcq",
      "p": "Which of these is NOT true excretion, because it is mostly food the body could not use?",
      "opts": [
-      "Doing poo",
       "Passing wee",
       "Sweating",
+      "Doing poo",
       "Breathing out carbon dioxide"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Poo is mostly water, gut bacteria and food that was never digested. Scientists call it egestion. Wee, sweat and carbon dioxide are waste made inside the body. A strong answer says where each waste comes from."
     },
     {
@@ -2711,12 +2711,12 @@
      "t": "mcq",
      "p": "A crow's feather has fallen onto the balcony. Which of these is true?",
      "opts": [
+      "The feather is once alive. The feather was part of a living crow, but no longer grows",
       "The feather is still alive",
       "The feather was never alive",
-      "The feather comes alive when wet",
-      "The feather is once alive. The feather was part of a living crow, but no longer grows"
+      "The feather comes alive when wet"
      ],
-     "a": 3,
+     "a": 0,
      "why": "A feather grew on a living bird, so the feather is once alive. On the balcony, the feather does none of the signs of life. The crow, flying off somewhere, is still alive."
     },
     {
@@ -2731,10 +2731,10 @@
      "opts": [
       "Keep growing upwards",
       "Stop growing for ever",
-      "Bend round and grow downwards again",
-      "Fall off the seed"
+      "Fall off the seed",
+      "Bend round and grow downwards again"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Roots sense gravity and grow down, wherever the seed is facing. This is sensing and movement at the same time.",
      "how": "e2"
     },
@@ -2817,22 +2817,22 @@
      "opts": [
       "They stay healthy for ever",
       "They turn back into a seed",
-      "They grow tall and pale, use up their stored food, and then die",
-      "They make food from water alone"
+      "They make food from water alone",
+      "They grow tall and pale, use up their stored food, and then die"
      ],
-     "a": 2,
+     "a": 3,
      "why": "A seedling lives on the food stored in the seed at first. After that, they need light to make food. In the dark, the store runs out. All the energy in a plant's food comes from the Sun."
     },
     {
      "t": "mcq",
      "p": "In the 1860s, Louis Pasteur, a French scientist, boiled soup in a flask with a long, bent neck. Dust from the air got stuck in the bend. The soup stayed clear for months. When he broke the neck off, the soup went cloudy with tiny living things. What did this show?",
      "opts": [
-      "The tiny living things came in on dust from the air. They did not grow out of the soup",
       "Soup turns into living things by itself",
+      "The tiny living things came in on dust from the air. They did not grow out of the soup",
       "Boiling makes soup alive",
       "The glass flask was alive"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The soup only went cloudy when dust could fall in. So living things come only from other living things. A strong answer explains why the bent neck mattered."
     },
     {
@@ -2894,12 +2894,12 @@
      "t": "mcq",
      "p": "A friend says: 'Plants get their food from the soil. That is why they need soil.' What is the mistake?",
      "opts": [
-      "Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy",
       "Plants eat insects from the soil",
       "Plants do not need any food",
+      "Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy",
       "There is no mistake"
      ],
-     "a": 0,
+     "a": 2,
      "why": "This is one of the most common ideas, even among grown-ups. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree gained a lot of weight, but the soil lost almost none."
     },
     {
@@ -2914,10 +2914,10 @@
      "opts": [
       "Nothing, because animals do not need the Sun",
       "Only the plants would be affected",
-      "The plants could not make food, so plant-eaters and then meat-eaters would starve",
-      "The animals would eat soil instead"
+      "The animals would eat soil instead",
+      "The plants could not make food, so plant-eaters and then meat-eaters would starve"
      ],
-     "a": 2,
+     "a": 3,
      "why": "Almost all the energy in food starts as sunlight caught by plants. Every food chain in the forest leads back to the plants, and the plants lead back to the Sun."
     },
     {
@@ -2972,12 +2972,12 @@
    "t": "mcq",
    "p": "A dog hears her name, pricks up her ears and runs to the door. Which two signs of life is she showing?",
    "opts": [
+    "Sensing and movement",
     "Growth and excretion",
     "Nutrition and reproduction",
-    "Sensing and movement",
     "Respiration and growth"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Hearing her name is sensing. Running to the door is movement. Respiration is going on too, inside her cells, but you cannot see it here.",
    "outcome": 0
   },
@@ -2986,11 +2986,11 @@
    "p": "A hen's eggs hatch into chicks. Which sign of life is this?",
    "opts": [
     "Growth",
-    "Reproduction",
     "Nutrition",
-    "Sensing"
+    "Sensing",
+    "Reproduction"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Reproduction is making young of your own kind. The chicks will grow up into hens and roosters.",
    "outcome": 0
   },
@@ -3000,10 +3000,10 @@
    "opts": [
     "One",
     "Three",
-    "None",
-    "All seven"
+    "All seven",
+    "None"
    ],
-   "a": 2,
+   "a": 3,
    "why": "A spoon does not feed, respire, grow, move by itself, sense, excrete or make young. Steel was never part of a living thing.",
    "outcome": 1
   },
@@ -3011,12 +3011,12 @@
    "t": "mcq",
    "p": "A ceiling fan moves round and round very fast. Why is moving not enough to show that the fan is alive?",
    "opts": [
-    "Non-living things can move too. A living thing shows all the signs together",
     "The fan moves too fast",
     "Fans are made of metal",
+    "Non-living things can move too. A living thing shows all the signs together",
     "Moving is not a sign of life"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Moving is a sign of life, but clouds, rivers and fans move too. One sign alone is never enough.",
    "outcome": 2
   },
@@ -3031,12 +3031,12 @@
    "t": "mcq",
    "p": "You test yeast in two bottles of warm water. You add sugar to one bottle and not to the other. What are you testing?",
    "opts": [
+    "Whether yeast need sugar, their food, to make gas",
     "Whether yeast need warmth",
     "Whether the bottles are alive",
-    "Whether water is alive",
-    "Whether yeast need sugar, their food, to make gas"
+    "Whether water is alive"
    ],
-   "a": 3,
+   "a": 0,
    "why": "Only one thing changed, the sugar. So any difference in the balloons must come from the sugar. That makes it a fair test.",
    "outcome": 3,
    "how": "e1"
@@ -3046,11 +3046,11 @@
    "p": "In the seed test, the three wet cups got the same amount of water, and all four cups sat in the same warm place. Why?",
    "opts": [
     "So that the cups look neat",
-    "So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads",
     "Because seeds only grow in a row",
+    "So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads",
     "So the cotton does not dry out"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A fair test keeps everything the same except the one thing you are testing. Then any difference must come from that one thing.",
    "outcome": 3,
    "how": "e2"
@@ -3061,10 +3061,10 @@
    "opts": [
     "Carbon dioxide",
     "Smoke",
-    "Oxygen",
-    "Steam"
+    "Steam",
+    "Oxygen"
    ],
-   "a": 2,
+   "a": 3,
    "why": "In sunlight, plants make food and give out oxygen. They also respire and use some oxygen, but they make more than they use.",
    "outcome": 4
   },
@@ -3081,10 +3081,10 @@
    "p": "A wooden cricket bat is…",
    "opts": [
     "Alive",
-    "Never alive",
-    "Once alive"
+    "Once alive",
+    "Never alive"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Wood comes from a tree that was alive. The bat does no signs of life now, so the bat is once alive.",
    "outcome": 5
   },
@@ -3106,10 +3106,10 @@
    "opts": [
     "The cow's drinking water",
     "The fridge",
-    "The soil",
-    "The Sun"
+    "The Sun",
+    "The soil"
    ],
-   "a": 3,
+   "a": 2,
    "why": "The cow ate grass. The grass caught sunlight and stored its energy as food. So the energy in milk began as sunlight.",
    "outcome": 6
   },
@@ -3119,10 +3119,10 @@
    "opts": [
     "Whether plants need water",
     "Whether yeast are alive",
-    "How the very first living thing on Earth began",
-    "Whether a stone is alive"
+    "Whether a stone is alive",
+    "How the very first living thing on Earth began"
    ],
-   "a": 2,
+   "a": 3,
    "why": "There are ideas, like warm ponds or hot springs deep in the sea, but nobody knows yet. The other questions have been answered by tests.",
    "outcome": 6
   }

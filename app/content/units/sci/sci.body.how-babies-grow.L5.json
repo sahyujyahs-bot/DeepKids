@@ -560,11 +560,11 @@
       "t": "mcq",
       "q": "Where does a sperm cell usually join the egg cell?",
       "options": [
-       "In the womb",
        "In an egg tube",
+       "In the womb",
        "In the ovary"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Fertilisation happens in an egg tube, and the embryo then takes about five days to reach the womb. Choosing 'the womb' is common, because the womb is where the baby grows. Choosing 'the ovary' forgets that the egg cell leaves the ovary first."
      }
     }
@@ -1805,11 +1805,11 @@
      "t": "mcq",
      "p": "Where are sperm cells made?",
      "opts": [
-      "In the testes",
       "In the bladder",
+      "In the testes",
       "In the womb"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The two testes make sperm cells from puberty onwards. The bladder only stores urine.",
      "outcome": 0
     },
@@ -1931,11 +1931,11 @@
      "t": "mcq",
      "p": "What is a period?",
      "opts": [
-      "The womb's unused lining leaving the body",
       "Blood from an injury",
+      "The womb's unused lining leaving the body",
       "A sign of illness"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each month the womb builds a lining for an embryo. If none arrives, the lining comes away. Nothing is injured.",
      "outcome": 5
     },
@@ -1967,11 +1967,11 @@
      "t": "mcq",
      "p": "Why must sex cells carry half the usual number of chromosomes?",
      "opts": [
-      "So the number is 46 again after they join",
       "Because sex cells are small",
+      "So the number is 46 again after they join",
       "So that they can swim faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If each carried 46, the zygote would have 92, and the number would double in every generation.",
      "outcome": 1
     },
@@ -1986,11 +1986,11 @@
      "t": "mcq",
      "p": "After one sperm cell joins, what does the egg cell's coat do?",
      "opts": [
-      "It changes to keep other sperm cells out",
       "It opens wider",
+      "It changes to keep other sperm cells out",
       "It dissolves at once"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A second sperm cell would bring too many chromosomes. The coat changes within moments to block it.",
      "outcome": 2
     },
@@ -2074,11 +2074,11 @@
      "t": "mcq",
      "p": "A family has four daughters. What is the chance that the next baby is a girl?",
      "opts": [
-      "About one in two",
       "Very small",
+      "About one in two",
       "Certain"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Each time, a sperm cell with an X or with a Y arrives by chance. Earlier babies do not change the next one.",
      "outcome": 4
     },
@@ -2136,11 +2136,11 @@
      "t": "mcq",
      "p": "Why do the testes hang outside the belly?",
      "opts": [
-      "Sperm cells are made best slightly cooler",
       "To protect them from harm",
+      "Sperm cells are made best slightly cooler",
       "They are too large to fit inside"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sperm cells are made best about 2 degrees cooler than the inside of the body.",
      "outcome": 0
     },
@@ -2174,11 +2174,11 @@
      "t": "mcq",
      "p": "Which of these does the Two Gates Test leave out?",
      "opts": [
-      "Real sperm cells sense and respond",
       "Chance plays a part",
+      "Real sperm cells sense and respond",
       "Many must start"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Beans and a die show the part that chance plays. They cannot show living cells that swim and sense chemicals.",
      "outcome": 7,
      "how": "e1"
@@ -2292,11 +2292,11 @@
      "t": "mcq",
      "p": "Why is a hen's egg cell so much bigger than a human egg cell?",
      "opts": [
-      "All the chick's food must be packed inside",
       "Hens are bigger than humans",
+      "All the chick's food must be packed inside",
       "A hen's cells are always larger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A chick grows outside the mother, so the egg holds all the food. A human embryo is fed through the placenta.",
      "outcome": 0
     },
@@ -2372,11 +2372,11 @@
    "t": "mcq",
    "p": "Where does a woman's body keep egg cells?",
    "opts": [
-    "In the ovaries",
     "In the womb",
-    "In the egg tubes"
+    "In the egg tubes",
+    "In the ovaries"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Egg cells are kept and ripened in the two ovaries. The womb is where a baby grows.",
    "outcome": 0
   },
@@ -2408,11 +2408,11 @@
    "t": "mcq",
    "p": "About when does the embryo attach to the lining of the womb?",
    "opts": [
-    "About 8 to 10 days after ovulation",
     "Within one hour",
-    "After three months"
+    "After three months",
+    "About 8 to 10 days after ovulation"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The embryo floats free for about a week and then attaches. This is implantation.",
    "outcome": 2
   },
@@ -2420,11 +2420,11 @@
    "t": "mcq",
    "p": "Each traveller has only a small chance of arriving. What makes it likely that one arrives?",
    "opts": [
-    "Many of them starting",
     "One very strong one",
-    "Starting earlier in the day"
+    "Starting earlier in the day",
+    "Many of them starting"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In the Two Gates Test a bean usually arrived only when many started. More starters means more chances.",
    "outcome": 3,
    "how": "e1"
@@ -2445,11 +2445,11 @@
    "t": "mcq",
    "p": "What starts the changes of puberty?",
    "opts": [
-    "Hormone messages from a gland under the brain",
     "Eating more food",
-    "Reaching the age of thirteen"
+    "Reaching the age of thirteen",
+    "Hormone messages from a gland under the brain"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A small gland under the brain sends hormones to the ovaries or testes. The age differs from child to child.",
    "outcome": 5
   },
@@ -2457,11 +2457,11 @@
    "t": "mcq",
    "p": "If no embryo arrives in a month, what happens to the womb's lining?",
    "opts": [
-    "It comes away as a period",
     "It stays for the next month",
-    "It turns into an egg cell"
+    "It turns into an egg cell",
+    "It comes away as a period"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The lining is not needed, so it comes away and leaves as a period. Then a new lining is built.",
    "outcome": 5
   },
@@ -2469,11 +2469,11 @@
    "t": "mcq",
    "p": "What is the same about a child born after IVF and every other child?",
    "opts": [
-    "Both began from an egg cell and a sperm cell",
     "Both began in a glass dish",
-    "Nothing is the same"
+    "Nothing is the same",
+    "Both began from an egg cell and a sperm cell"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every person begins from one egg cell and one sperm cell. In IVF the two cells meet in a dish.",
    "outcome": 6
   },
@@ -2493,11 +2493,11 @@
    "t": "mcq",
    "p": "Why can scientists only estimate how many embryos are lost before they attach?",
    "opts": [
-    "Nobody can see it happen inside a body",
     "Nobody has tried to find out",
+    "Nobody can see it happen inside a body",
     "It happens only in other animals"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The embryo is tiny and hidden, and the woman usually does not know. So the number is worked out from other measurements.",
    "outcome": 7
   }

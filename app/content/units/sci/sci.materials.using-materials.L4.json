@@ -772,11 +772,11 @@
       "t": "mcq",
       "q": "A material is strong, cheap and quick to make, but it lasts a very long time in the ground. Which statement is fair?",
       "options": [
-       "It is a trade-off. It can be a good choice for some jobs and a poor choice for others",
        "It is the worst material",
+       "It is a trade-off. It can be a good choice for some jobs and a poor choice for others",
        "It is the best material"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Whether a material is good or bad depends on the job and the place. A long-lasting material is a gain for a bridge and a problem for a bag used for ten minutes. Choosing 'worst' or 'best' usually means looking at only one side."
      },
      "context": "In this step, you play most of the cards. Notice that more than one material can be a good choice."
@@ -992,11 +992,11 @@
       "t": "mcq",
       "q": "A clay kullad is broken. Which mat fits best?",
       "options": [
-       "Stays a very long time, but harmlessly, as clay pieces",
        "Rots, because clay is natural",
+       "Stays a very long time, but harmlessly, as clay pieces",
        "Rusts, because clay is a metal"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Fired clay does not rot or rust. It breaks into smaller clay pieces that join the soil. 'Stays' does not always mean harmful. Picking 'rots' usually comes from thinking that anything natural rots."
      },
      "context": "In this step, you play most of the game and learn what happens to common things."
@@ -1165,11 +1165,11 @@
       "t": "mcq",
       "q": "Why do we make two bars of each kind?",
       "options": [
-       "To see how much one kind varies, and not trust a single bar",
        "Because one bar will break first",
+       "To see how much one kind varies, and not trust a single bar",
        "To use up the paper"
       ],
-      "a": 0,
+      "a": 1,
       "why": "One bar may have a hidden flaw. Two bars of the same kind show how much that kind varies. Then you can tell whether the difference between two kinds is bigger than that. Picking 'one will break' misses the point."
      },
      "adult": true,
@@ -1382,11 +1382,11 @@
       "t": "mcq",
       "q": "Why do we keep a cup with soil only and no scrap?",
       "options": [
-       "As a control, to see what the soil does by itself",
        "So there are seven cups",
+       "As a control, to see what the soil does by itself",
        "To save soil"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A control gets everything except the thing being tested. The soil-only cup shows what changes in the soil itself, such as mould or damp. Picking 'seven cups' misses the purpose."
      },
      "adult": true,
@@ -1564,11 +1564,11 @@
       "t": "mcq",
       "q": "A steel tumbler costs 120 rupees and lasts 20 years. A paper cup costs 2 rupees and lasts one use. Which costs less for each use?",
       "options": [
-       "It depends on how many times you use the tumbler. After 60 uses the tumbler costs less for each use",
        "The paper cup, because it is cheaper to buy",
-       "The steel tumbler, because it is stronger"
+       "The steel tumbler, because it is stronger",
+       "It depends on how many times you use the tumbler. After 60 uses the tumbler costs less for each use"
       ],
-      "a": 0,
+      "a": 2,
       "why": "120 rupees divided by 60 uses is 2 rupees, the same as the paper cup. After more than 60 uses, the tumbler is cheaper for each use. Choosing 'the paper cup' looks only at the price today."
      },
      "context": "In this step, you work out the cost for each year and what happens after."
@@ -1702,11 +1702,11 @@
       "t": "mcq",
       "q": "Which is a good question about an object's whole life?",
       "options": [
-       "How much energy does it take to make, and how many times can it be used?",
        "What colour is it?",
+       "How much energy does it take to make, and how many times can it be used?",
        "Is it nice?"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A good question about a whole life is one that can be measured or looked up, and it covers a stage of the life. The colour of an object, and whether it is nice, are about the object, not its life."
      },
      "context": "In this step, you write the open questions. Knowing what we do not know is part of the science."
@@ -1790,11 +1790,11 @@
       "t": "mcq",
       "q": "An older person says banana leaf plates were used because they cost nothing and rotted afterwards. Which words describe the leaf plates?",
       "options": [
-       "The leaf was cheap, light, and biodegradable",
        "The leaf was strong and lasted for years",
+       "The leaf was cheap, light, and biodegradable",
        "The leaf was a made material"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A leaf plate costs little, is light and rots after use. It does not last for years, and it is not made in a factory. Choosing 'lasted for years' mixes up leaf plates with steel plates."
      },
      "context": "In this step, you compare old and new choices fairly."
@@ -1900,11 +1900,11 @@
       "t": "mcq",
       "q": "The stitched strip held 120 millilitres of water and the taped strip held 90. The unmended strip held 60. What does this tell you?",
       "options": [
-       "Both mends helped, and stitching helped more in this test",
        "The tape made it weaker",
+       "Both mends helped, and stitching helped more in this test",
        "The mend did nothing"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both mended strips held more than the unmended one. Stitches held more than tape. But one test cannot be sure of a small difference, so it is worth repeating. Choosing 'the tape made it weaker' reads the numbers the wrong way round."
      },
      "context": "In this step, you compare the mends."
@@ -1992,11 +1992,11 @@
       "t": "mcq",
       "q": "Why might the best material for a desk be different in Chennai and in Leh?",
       "options": [
-       "The weather and what matters most are different in the two places",
        "Chennai children are heavier",
+       "The weather and what matters most are different in the two places",
        "Steel is only made in Leh"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The place changes which needs matter most, such as damp or cold. That changes the scores and the best choice. The other answers have no link to the materials."
      },
      "context": "In this step, you explain what you found."
@@ -2146,11 +2146,11 @@
       "t": "mcq",
       "q": "Why is recycled paper usually weaker than new paper?",
       "options": [
-       "The fibres are broken and shorter each time paper is recycled",
        "Recycled paper has no fibres",
+       "The fibres are broken and shorter each time paper is recycled",
        "Recycled paper is wetter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Each time paper is pulped and remade, the fibres get shorter and fewer. Short fibres make fewer links, so the paper is weaker. Picking 'no fibres' mixes up recycled paper with plastic."
      },
      "context": "In this step, you test the new paper against the old."
@@ -2352,11 +2352,11 @@
       "t": "mcq",
       "q": "A paper cup lined with plastic goes in which tray?",
       "options": [
-       "Hard to deal with, because the paper and the plastic are stuck together",
        "Rots, because paper rots",
-       "Remade, because all paper is remade"
+       "Remade, because all paper is remade",
+       "Hard to deal with, because the paper and the plastic are stuck together"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper rots but the thin plastic layer does not, and the two cannot easily be separated. Choosing 'rots' looks only at the paper."
      },
      "context": "In this step, you sort and count, to see what the pile is made of."
@@ -2681,12 +2681,12 @@
      "t": "mcq",
      "p": "A plastic tiffin box and a steel tiffin box both score 30 in a decision matrix. What is the best next step?",
      "opts": [
-      "Look at the weights and ask which need matters most for this job",
       "Pick the plastic one",
       "Pick the steel one",
-      "Throw both out"
+      "Throw both out",
+      "Look at the weights and ask which need matters most for this job"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A tie shows that the scores alone cannot settle the matter. The weights, which say what matters most, can. If the box is carried with curry, 'does not leak' gets a bigger weight.",
      "outcome": 0
     },
@@ -2694,12 +2694,12 @@
      "t": "mcq",
      "p": "A 600 rupee pair of shoes lasts 2 years. A 300 rupee pair lasts 6 months. Which costs less for each year?",
      "opts": [
-      "The 600 rupee pair, at 300 rupees a year",
       "The 300 rupee pair, at 300 rupees a year",
       "The 300 rupee pair, at 600 rupees a year",
+      "The 600 rupee pair, at 300 rupees a year",
       "They cost the same"
      ],
-     "a": 0,
+     "a": 2,
      "why": "600 divided by 2 years is 300 a year. 300 divided by half a year is 600 a year. So the dearer shoes cost less each year.",
      "outcome": 5
     },
@@ -2802,12 +2802,12 @@
      "t": "mcq",
      "p": "Why does stainless steel rust much less than ordinary steel?",
      "opts": [
-      "It has chromium mixed in, which forms a thin protective skin on the surface",
       "It has no iron in it",
       "It is painted",
-      "It is made of aluminium"
+      "It is made of aluminium",
+      "It has chromium mixed in, which forms a thin protective skin on the surface"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Chromium atoms in stainless steel form a very thin invisible layer that protects the metal below. Stainless steel is still an alloy of iron.",
      "outcome": 2
     },
@@ -2841,12 +2841,12 @@
      "t": "mcq",
      "p": "In the past, tests of asbestos asked, 'does it do the job?' What question was missing?",
      "opts": [
-      "What does it do to people's lungs years later?",
       "What colour is it?",
+      "What does it do to people's lungs years later?",
       "How cheap is it?",
       "How big is it?"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A test answers only the question it asks. Asbestos did the job, but doctors found years later that its fibres could harm the lungs. This is why engineers look at the whole life.",
      "outcome": 6
     },
@@ -2876,12 +2876,12 @@
      "t": "mcq",
      "p": "In reinforced concrete, what do the steel bars do?",
      "opts": [
-      "They carry the pulling, which concrete is weak at",
       "They make the concrete wet",
+      "They carry the pulling, which concrete is weak at",
       "They make the concrete lighter",
       "They hold the concrete's colour"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Concrete is strong when squeezed but weak when pulled. The steel bars carry the pull. This is a composite at work.",
      "outcome": 1
     },
@@ -2930,12 +2930,12 @@
      "t": "mcq",
      "p": "A cloth bag costs 40 rupees. A plastic bag costs 2 rupees and is used once. After how many uses does the cloth bag cost less per use than buying a new plastic bag each time?",
      "opts": [
-      "More than 20 uses",
       "More than 2 uses",
       "More than 40 uses",
+      "More than 20 uses",
       "More than 80 uses"
      ],
-     "a": 0,
+     "a": 2,
      "why": "40 divided by 2 is 20. After 20 uses the cloth bag has cost the same as 20 plastic bags. After that, each use is cheaper.",
      "outcome": 5
     },
@@ -2981,12 +2981,12 @@
      "t": "mcq",
      "p": "Which is the best sign that an old tradition of using a material is wise?",
      "opts": [
-      "There is a reason we can test, such as water cooling in a clay pot",
       "It is very old",
       "Many people believe it",
+      "There is a reason we can test, such as water cooling in a clay pot",
       "It is part of a festival"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Old and popular do not make a belief true. A reason that can be tested does. Water seeping through a clay pot and cooling it can be measured.",
      "outcome": 6
     },
@@ -3066,12 +3066,12 @@
      "t": "mcq",
      "p": "Bone is hard, yet slightly bendy. Which explanation fits?",
      "opts": [
-      "It is a composite of hard mineral and soft protein",
       "It is a pure metal",
       "It is made of one kind of atom only",
+      "It is a composite of hard mineral and soft protein",
       "It is a kind of plastic"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The mineral makes bone hard and the protein makes it tough, so a crack does not run straight through. This is how a composite works.",
      "outcome": 1
     },
@@ -3093,12 +3093,12 @@
      "t": "mcq",
      "p": "A cup is sold as 'compostable', but it only breaks down in very hot industrial composters. What happens to the cup in a family that has no such composter?",
      "opts": [
-      "The cup may stay for a long time, so the claim does not help them",
       "The cup rots in their garden in a week",
       "The cup is eaten by animals",
-      "The cup turns into soil in their kitchen"
+      "The cup turns into soil in their kitchen",
+      "The cup may stay for a long time, so the claim does not help them"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A claim about rotting depends on where it happens. A family without the right composter gets little benefit. It is important to ask 'where?' and 'how fast?'",
      "outcome": 3
     },
@@ -3155,12 +3155,12 @@
    "t": "mcq",
    "p": "What does it mean to say that a choice is a trade-off?",
    "opts": [
-    "Getting more of one good thing costs you some of another",
     "One material wins at everything",
     "Two materials are the same",
-    "The choice is wrong"
+    "The choice is wrong",
+    "Getting more of one good thing costs you some of another"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A trade-off means every choice gives up something. Picking 'one material wins' ignores the catch every material has.",
    "outcome": 0
   },
@@ -3168,12 +3168,12 @@
    "t": "mcq",
    "p": "A decision matrix gives two cups the same total. What helps most to decide?",
    "opts": [
-    "Checking which need matters most for the job",
     "Choosing the shinier cup",
+    "Checking which need matters most for the job",
     "Choosing the heavier cup",
     "Flipping a coin without thinking"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The weights say what matters most. When totals tie, the argument is really about the weights.",
    "outcome": 0
   },
@@ -3181,12 +3181,12 @@
    "t": "mcq",
    "p": "A bar of paper glued with paste holds far more than a bar of dried paste alone. What best explains it?",
    "opts": [
-    "The paper carries the pull and the paste holds the layers so they cannot slide",
     "The paper is a metal",
     "The paste is stronger than steel",
-    "The bar is wetter"
+    "The bar is wetter",
+    "The paper carries the pull and the paste holds the layers so they cannot slide"
    ],
-   "a": 0,
+   "a": 3,
    "why": "In a composite, each material covers the other's weakness. The fibre carries the pull and the matrix holds it in place.",
    "outcome": 1
   },
@@ -3194,12 +3194,12 @@
    "t": "mcq",
    "p": "Why is bronze harder than pure copper?",
    "opts": [
-    "Tin atoms of a different size get in the way when layers of copper atoms try to slide",
     "Bronze is lighter",
     "Bronze is a plastic",
-    "Bronze is made colder"
+    "Bronze is made colder",
+    "Tin atoms of a different size get in the way when layers of copper atoms try to slide"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Atoms of a different size jam the layers. This is why alloys are harder than pure metals.",
    "outcome": 2
   },
@@ -3207,12 +3207,12 @@
    "t": "mcq",
    "p": "Which stage is not part of the whole life of a steel katori?",
    "opts": [
-    "Turning into a living plant",
     "Mining iron ore",
+    "Turning into a living plant",
     "Making it in a factory",
     "Using it in the kitchen"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A katori's life is source, making, use and after. It never turns into a plant. It can be melted and made again.",
    "outcome": 3
   },
@@ -3220,12 +3220,12 @@
    "t": "mcq",
    "p": "A banana peel, a steel can and a plastic bag are left in damp soil for a long time. Which statement is most accurate?",
    "opts": [
-    "The peel rots, the can rusts or is remade, and the bag stays a very long time",
     "All three rot at the same speed",
     "None of them changes",
-    "Only the bag rots"
+    "Only the bag rots",
+    "The peel rots, the can rusts or is remade, and the bag stays a very long time"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Living things break down the peel. Iron in the can slowly rusts. Most plastics resist breaking down. These are different endings.",
    "outcome": 4
   },
@@ -3233,12 +3233,12 @@
    "t": "mcq",
    "p": "Shoes at 400 rupees last 2 years. Shoes at 150 rupees last 6 months. Which costs less for each year?",
    "opts": [
-    "The 400 rupee shoes, at 200 rupees a year",
     "The 150 rupee shoes, at 150 rupees a year",
     "They cost the same",
+    "The 400 rupee shoes, at 200 rupees a year",
     "The 150 rupee shoes, at 300 rupees a year"
    ],
-   "a": 0,
+   "a": 2,
    "why": "400 divided by 2 is 200 a year. 150 divided by half a year is 300 a year. The dearer shoes cost less each year.",
    "outcome": 5
   },
@@ -3253,12 +3253,12 @@
    "t": "mcq",
    "p": "Which comes first when we try to throw away less?",
    "opts": [
-    "Reduce: make and buy less",
     "Recycle: melt it down",
     "Repair: mend it",
-    "Reuse: use it again"
+    "Reuse: use it again",
+    "Reduce: make and buy less"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The order is reduce, reuse, repair, recycle. Not making the thing in the first place saves the most.",
    "outcome": 3
   },
@@ -3266,12 +3266,12 @@
    "t": "mcq",
    "p": "Why does the best desk for Leh differ from the best desk for Chennai?",
    "opts": [
-    "The place changes which needs matter most, such as cold or damp",
     "Chennai children are bigger",
     "Steel cannot be made in Leh",
+    "The place changes which needs matter most, such as cold or damp",
     "Desks are only made in Chennai"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The needs change with the place, so the scores and the best choice change.",
    "outcome": 0
   },
@@ -3279,12 +3279,12 @@
    "t": "mcq",
    "p": "Why is recycled paper often weaker than new paper?",
    "opts": [
-    "The fibres get shorter each time paper is pulped and remade",
     "Recycled paper has no fibres",
     "Recycled paper is thicker",
-    "Recycled paper is wetter"
+    "Recycled paper is wetter",
+    "The fibres get shorter each time paper is pulped and remade"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Short fibres make fewer links, so the paper is weaker.",
    "outcome": 4
   },
@@ -3305,11 +3305,11 @@
    "t": "mcq",
    "p": "Tissue paper is used to wipe up a spill. Why is it a poor choice for a box?",
    "opts": [
-    "It soaks up water well, but it is too thin and soft to hold a box's shape",
     "It cannot be made from plant fibres",
-    "It is too thick to fold"
+    "It is too thick to fold",
+    "It soaks up water well, but it is too thin and soft to hold a box's shape"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tissue is thin, so it soaks up water and wipes well. A box needs stiff, thick cardboard that holds its shape. Tissue is made from plant fibres too, so that is not the reason.",
    "outcome": 0
   }

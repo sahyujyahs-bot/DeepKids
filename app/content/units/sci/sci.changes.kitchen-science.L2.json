@@ -415,10 +415,10 @@
       "t": "mcq",
       "q": "Where does 'Milk sets into curd' go?",
       "options": [
-       "Goes back",
-       "Stays changed"
+       "Stays changed",
+       "Goes back"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Bacteria make an acid that makes the milk thick and sour. Curd never turns back into milk."
      }
     },
@@ -505,11 +505,11 @@
       "t": "mcq",
       "q": "What turned the dry rice into soft cooked rice?",
       "options": [
-       "Cold",
        "Hot water",
+       "Cold",
        "Tiny living beings"
       ],
-      "a": 1,
+      "a": 0,
       "why": "In hot water, the starch in each grain absorbs water and swells, so the rice turns soft."
      }
     }
@@ -724,10 +724,10 @@
       "q": "Which grains made the longest line?",
       "options": [
        "The dry grains",
-       "The grains soaked in cold water",
-       "The boiled grains"
+       "The boiled grains",
+       "The grains soaked in cold water"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Heat loosens the packed starch inside each grain. Then water can go deep inside, and the grain swells long and soft. In cold water, only a little water gets in."
      },
      "parent": "This is the heart of the unit. The only difference between the soaked and the boiled grains was heat. So heat is what let the water go deep inside."
@@ -884,11 +884,11 @@
       "t": "mcq",
       "q": "Why did the rice pan lose more water than the water-only pan?",
       "options": [
-       "The rice pan was hotter",
        "The rice drank some of the water",
+       "The rice pan was hotter",
        "The rice pan had a hole"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Steam left both pans. The rice pan lost extra water because the grains absorbed it. That water is now inside the cooked rice."
      }
     }
@@ -1016,11 +1016,11 @@
       "t": "mcq",
       "q": "Why can ghee not turn back into butter?",
       "options": [
-       "Ghee is too cold",
        "The water in the butter boiled away as steam",
+       "Ghee is too cold",
        "Ghee is made from a different milk"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Butter has some water mixed in. Heated for longer, that water boils away as steam, and the milk bits brown. Cooling does not bring the water back, so the ghee stays ghee."
      },
      "parent": "The gently melted butter sets solid and pale yellow again. It may look a little different, with a thin watery layer underneath. The ghee may stay soft or set grainy. It is golden, has brown bits and smells nutty. Both are worth eating with rice afterwards."
@@ -1091,11 +1091,11 @@
       "t": "mcq",
       "q": "Who turned the milk into curd?",
       "options": [
-       "The heat of the stove",
        "Tiny living beings called bacteria",
+       "The heat of the stove",
        "The cold of the fridge"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Bacteria from a spoon of curd feed on the milk sugar and make an acid. The acid makes the milk sour and thick."
      },
      "parent": "Curd can never turn back into milk. This is a change that stays."
@@ -1431,11 +1431,11 @@
    "t": "mcq",
    "p": "Ten dry rice grains and ten boiled grains are lined up end to end. Which line is longer?",
    "opts": [
-    "The dry grains",
     "The boiled grains",
+    "The dry grains",
     "They are the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Boiled grains absorb water and swell, so each one is longer. If you chose the same, try lining them up yourself.",
    "outcome": 0,
    "how": "e1"
@@ -1444,11 +1444,11 @@
    "t": "mcq",
    "p": "Some grains sat in cold water and some in boiling water, for 12 minutes each. Which grains stayed hard?",
    "opts": [
-    "The ones in cold water",
     "The ones in boiling water",
-    "Both stayed hard"
+    "Both stayed hard",
+    "The ones in cold water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In cold water only a little water gets in. Heat lets water go deep inside the grain, which makes it soft.",
    "outcome": 1,
    "how": "e1"
@@ -1457,11 +1457,11 @@
    "t": "mcq",
    "p": "Where does most of the water in a pan of cooking rice go?",
    "opts": [
-    "Into the rice grains",
     "Through the bottom of the pan",
-    "Nowhere, it is still in the pan"
+    "Nowhere, it is still in the pan",
+    "Into the rice grains"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The grains absorb it. Some water also leaves as steam, but most of it ends up inside the rice.",
    "outcome": 0
   },
@@ -1482,11 +1482,11 @@
    "t": "mcq",
    "p": "Butter in a hot pan fizzes and bubbles. What is the fizzing?",
    "opts": [
-    "Water in the butter boiling into steam",
     "The butter catching fire",
+    "Water in the butter boiling into steam",
     "Air going into the butter"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Butter has some water mixed in. When it boils, it leaves as steam and makes the fizzing sound.",
    "outcome": 2,
    "how": "a1"
@@ -1507,11 +1507,11 @@
    "t": "mcq",
    "p": "Why does curd taste sour?",
    "opts": [
-    "The bacteria make an acid",
     "Someone added lemon",
-    "The milk was old"
+    "The milk was old",
+    "The bacteria make an acid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "As the bacteria feed on milk sugar, they make an acid. Acids taste sour, like lemon juice.",
    "outcome": 3
   },
@@ -1519,11 +1519,11 @@
    "t": "mcq",
    "p": "Which change can go back?",
    "opts": [
-    "A dosa cooking on a tawa",
     "Ice melting into water",
+    "A dosa cooking on a tawa",
     "Milk setting into curd"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Put the water in the freezer and it turns back into ice. A dosa and curd stay changed.",
    "outcome": 4
   },
@@ -1543,11 +1543,11 @@
    "t": "mcq",
    "p": "In the ten-grain test, why did we use ten grains in a line, not just one?",
    "opts": [
-    "One grain is too small to see",
     "A line of ten shows the difference more clearly",
+    "One grain is too small to see",
     "Ten is a lucky number"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One grain grows only a few millimetres. Ten grains add up, so the difference between the lines is easy to see and measure.",
    "outcome": 5,
    "how": "e1"
@@ -1556,11 +1556,11 @@
    "t": "mcq",
    "p": "In the ten-grain test, the soaked and the boiled grains stayed in water for the same time. Why?",
    "opts": [
-    "So that only the heat was different",
     "So we could finish quickly",
-    "Because rice needs exactly 12 minutes"
+    "Because rice needs exactly 12 minutes",
+    "So that only the heat was different"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If only one thing changes, we know that thing made the difference. Here it was the heat.",
    "outcome": 5,
    "how": "e1"
@@ -1577,11 +1577,11 @@
      "t": "mcq",
      "p": "In the Ten Grains in a Line experiment, some rice grains stayed dry, some were soaked in cold water and some were boiled. Which grains turned soft?",
      "opts": [
+      "The boiled grains",
       "The dry grains",
-      "The soaked grains",
-      "The boiled grains"
+      "The soaked grains"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Boiled grains absorbed lots of water and swelled. They squash flat between your fingers.",
      "how": "e1"
     },
@@ -1709,11 +1709,11 @@
      "t": "mcq",
      "p": "A grown-up melts butter in a katori. What will make it set solid again?",
      "opts": [
-      "Heating it more",
       "Making it cold",
+      "Heating it more",
       "Stirring it with a spoon"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Butter is mostly fat. Fat sets solid when it gets cold.",
      "how": "a1"
     }
@@ -1729,11 +1729,11 @@
      "t": "mcq",
      "p": "Rice grains boiled for 12 minutes grew more than grains soaked in cold water for 12 minutes. Why?",
      "opts": [
-      "Heat let the water go deep inside",
       "Boiled water is wetter",
-      "The soaked grains were smaller to start with"
+      "The soaked grains were smaller to start with",
+      "Heat let the water go deep inside"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Heat loosens the packed starch inside the grain. Then much more water can get in.",
      "how": "e1"
     },
@@ -1806,11 +1806,11 @@
      "t": "mcq",
      "p": "A spoon of curd is stirred into warm milk. What does the spoon of curd bring to the milk?",
      "opts": [
-      "Bacteria",
       "Heat",
-      "Sugar"
+      "Sugar",
+      "Bacteria"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The curd holds millions of bacteria. They feed on the milk sugar and multiply."
     },
     {
@@ -1825,11 +1825,11 @@
      "t": "mcq",
      "p": "In the experiment How Much Water Does Rice Drink?, one pan had only water and the other had water and rice. Why did both pans get the same amount of water and the same time on the stove?",
      "opts": [
-      "So the steam lost from both pans would be about the same",
       "So both pans would finish at the same time",
+      "So the steam lost from both pans would be about the same",
       "Because the pans were the same colour"
      ],
-     "a": 0,
+     "a": 1,
      "why": "If both pans lose the same to steam, the extra water missing from the rice pan is what the rice drank.",
      "how": "e2"
     }

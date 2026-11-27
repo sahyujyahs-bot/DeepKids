@@ -488,7 +488,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 8. (sort) Sort each one by how its parts are wired.  
    **Answer:** an old festival string that goes dark when one bulb fails → In a row; a fan and a tube light in a room → Side by side; a switch and the light it controls → In a row; the lights in different rooms of a home → Side by side; three AA cells inside a torch → In a row; a front-door bell button and a back-door bell button that ring one bell → Side by side. *Why:* When one break must stop everything, or when the pushes must add up, the parts are in a row. When each part must work on its own, the parts are side by side.
 9. (mcq) A fan keeps turning when you switch off the tube light in the same room. What does that show about how they are wired?  
-   Options: They are on separate branches, side by side / The fan has its own cell / They are in a row  
+   Options: The fan has its own cell / They are in a row / They are on separate branches, side by side  
    **Answer:** They are on separate branches, side by side. *Why:* Switching off the tube light opens only its own branch. The fan's branch is still a complete loop, so the fan keeps turning.
 10. (order) Put these in order, from the dimmest bulbs to the brightest.  
    **Answer:** ['three bulbs in a row', 'two bulbs in a row', 'one bulb alone']. *Why:* The more bulbs share the push in a row, the less each one gets. Three in a row are the dimmest, and one alone is the brightest.
@@ -502,7 +502,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 14. (label) Here is a circuit diagram of a cell, a switch and a bulb in one loop. Label each part.  
    **Answer:** ['a long thin line next to a short fat line: cell', 'a gap with a lever: switch', 'a circle with a cross: bulb']. *Why:* Each part has its own symbol: the cell is a long thin line beside a short fat one, the switch is a gap with a lever, and the bulb is a circle with a cross.
 15. (mcq) You join an LED to a coin cell and it does not light. When you turn it round, it lights. What was wrong the first time?  
-   Options: It was joined the wrong way round / The LED was broken / The coin cell was empty  
+   Options: The LED was broken / The coin cell was empty / It was joined the wrong way round  
    **Answer:** It was joined the wrong way round. *Why:* An LED lets current through one way only. Turned round, it simply blocks the current. It is not damaged, and the cell was fine since it lit afterwards.
 ### Sharing the Push (stretch) (stretch, 15 questions)
 1. (mcq) Three equal bulbs are joined in a row to cells that push with 4.5 volts. About how many volts does each bulb get?  
@@ -523,7 +523,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
    Options: the lights in different rooms of a home / an old festival string that goes dark when one bulb fails / two doorbell buttons that ring the same bell / a fan and a tube light in one room  
    **Answer:** 1. *Why:* The old festival string has its bulbs in a row, with one path. The other three each have separate branches, so they work alone.
 8. (mcq) Why do engineers still draw the arrow of current from plus to minus, when the electrons really move from minus to plus?  
-   Options: Millions of diagrams and rules already use it, and the answers are right either way / Nobody has found out which way the electrons move / The electrons switch direction every second  
+   Options: Nobody has found out which way the electrons move / Millions of diagrams and rules already use it, and the answers are right either way / The electrons switch direction every second  
    **Answer:** Millions of diagrams and rules already use it, and the answers are right either way. *Why:* Franklin guessed the direction in 1747, long before electrons were found. Keeping the rule means old and new diagrams agree, and the results come out right.
 9. (write) Someone says: 'The first bulb in a row uses up some of the electricity, so the second bulb is dimmer.' Explain what is wrong with this idea.  
    **Answer:** In a row the same current goes through every bulb, so nothing is used up on the way. If the second bulb were dimmer, equal bulbs would not glow equally, but they do. Both bulbs are dim because they share the cells' push.. *Why:* A strong answer uses what was seen: both bulbs glowed equally, which shows the same current reached both.
@@ -539,11 +539,11 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
    Options: The fuse will melt too soon / The lights will be dimmer / The wires could overheat and start a fire before the fuse melts  
    **Answer:** The wires could overheat and start a fire before the fuse melts. *Why:* A fuse protects the wires by melting before they get too hot. A fuse that is too big does not melt in time.
 15. (mcq) Why is a bulb's filament made so thin?  
-   Options: A thin wire carries more current / A thin wire is cheaper to make / A thin wire holds back the flow, so it gets hot enough to glow  
+   Options: A thin wire holds back the flow, so it gets hot enough to glow / A thin wire carries more current / A thin wire is cheaper to make  
    **Answer:** A thin wire holds back the flow, so it gets hot enough to glow. *Why:* A thin wire has high resistance. The charges give up their energy there as heat, which makes it glow.
 ### Fuses, Switches and Credit (challenge) (challenge, 15 questions)
 1. (mcq) Two cells are joined in a row but facing opposite ways, with a bulb. What does the bulb do?  
-   Options: It glows as bright as with one cell / It glows twice as bright / It stays dark, because the pushes cancel  
+   Options: It glows as bright as with one cell / It stays dark, because the pushes cancel / It glows twice as bright  
    **Answer:** It stays dark, because the pushes cancel. *Why:* Cells in a row add their pushes only if they face the same way. Facing opposite ways, the pushes work against each other and cancel.
 2. (mcq) A string has 100 equal bulbs in a row, joined to the 230 volts of the mains. About how many volts does each bulb get?  
    Options: 23 volts / 230 volts / 2.3 volts  
@@ -560,7 +560,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
    Options: a fuse / an MCB / a bulb's filament / a thick copper wire in a house  
    **Answer:** 3. *Why:* A fuse, an MCB and a filament are made to heat or break. A thick copper wire is made to hold back the current as little as possible so it stays cool.
 8. (mcq) Why does a wire joined straight across a cell get hot so fast?  
-   Options: The cell makes heat on its own / Nothing holds back the flow, so a huge current goes through the wire / The wire is too long  
+   Options: Nothing holds back the flow, so a huge current goes through the wire / The cell makes heat on its own / The wire is too long  
    **Answer:** Nothing holds back the flow, so a huge current goes through the wire. *Why:* A short circuit has almost no resistance, so the current is very large. A large current heats even a thick wire.
 9. (write) An old festival string goes dark when one bulb fails. Explain, step by step, how you would find the broken bulb and fix it safely.  
    **Answer:** First a grown-up unplugs the string. Then look into each bulb with a torch for a gap in the thread, or swap each bulb with a spare one. Replace the broken bulb, check the plug and the wire, and plug in again.. *Why:* A strong answer starts with unplugging, since mains is 230 volts. It then finds the one bulb that broke the path. Everything lights again when it is replaced.
@@ -573,7 +573,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 13. (perspective) Two inventors and an engineer disagree about who should be remembered for the electric light bulb.  
    **Answer:** A strong answer picks a side and gives a reason, such as the first working lamp, the whole system, or the improvement that made it practical. It also notes that the bulb came from many people.. *Why:* Credit for an invention is often shared. Inventions are built by many people, and the best-known name is not always the only one.
 14. (mcq) A circuit must light a bulb if either a door switch or a hand switch is closed. How should the two switches be wired?  
-   Options: In a row / Side by side / Both on one side of the cell with no bulb between  
+   Options: In a row / Both on one side of the cell with no bulb between / Side by side  
    **Answer:** Side by side. *Why:* Side by side, closing either switch makes a whole path. In a row, both would have to be closed.
 15. (truefalse) A cell that runs three bulbs side by side will run down about three times as fast as the same cell running one bulb.  
    **Answer:** True. *Why:* True. Each bulb on its own branch takes its own current, so the cell must give out three times as much each second.
@@ -594,28 +594,28 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
    Options: 18 volts / 6 volts / 2 volts  
    **Answer:** 2 volts. *Why:* The push is shared equally in a row. 6 volts divided between 3 bulbs is 2 volts each.
 4. (mcq) What makes a bulb's filament glow while the thick wires joined to it stay cool?  
-   Options: The thick wires have no current in them / The filament has more electrons / The filament is thin and holds back the flow a lot, so it gets very hot  
+   Options: The thick wires have no current in them / The filament is thin and holds back the flow a lot, so it gets very hot / The filament has more electrons  
    **Answer:** The filament is thin and holds back the flow a lot, so it gets very hot. *Why:* The same current goes through both. Only the thin filament has high resistance, so the energy turns to heat and light there.
 5. (mcq) In a circuit diagram, which symbol stands for a cell?  
-   Options: A long thin line next to a short fat line / A circle with a cross inside / A gap with a lever  
+   Options: A circle with a cross inside / A gap with a lever / A long thin line next to a short fat line  
    **Answer:** A long thin line next to a short fat line. *Why:* The cell is a long thin line, the plus end, next to a short fat line, the minus end. The circle with a cross is a bulb, and the gap with a lever is a switch.
 6. (mcq) The arrow in a circuit diagram goes from the plus end of the cell round to the minus end. What is true about the electrons in a metal wire?  
-   Options: They move the opposite way, from minus to plus / They move the same way as the arrow / They do not move at all  
+   Options: They move the same way as the arrow / They move the opposite way, from minus to plus / They do not move at all  
    **Answer:** They move the opposite way, from minus to plus. *Why:* Franklin guessed the direction of the arrow in 1747. Later the electron was found, and it moves the other way.
 7. (mcq) An LED does not light when you join it to a coin cell. What should you try first?  
-   Options: Turn the LED round / Wet the legs / Join a second coin cell in a row  
+   Options: Wet the legs / Turn the LED round / Join a second coin cell in a row  
    **Answer:** Turn the LED round. *Why:* An LED works only one way round. Turned the right way, its long leg is on the plus face. The wrong way round it blocks the current but is not harmed. Two coin cells in a row could burn it out.
 8. (mcq) What does a fuse do?  
-   Options: It melts and breaks the circuit when the current gets too big / It makes the current steady / It stores electricity  
+   Options: It makes the current steady / It stores electricity / It melts and breaks the circuit when the current gets too big  
    **Answer:** It melts and breaks the circuit when the current gets too big. *Why:* A fuse is a thin wire that heats first. It breaks the circuit before the wires in the walls get dangerously hot.
 9. (mcq) A loose wire touches both ends of a cell and quickly gets hot. What is this called?  
-   Options: A switch / A parallel circuit / A short circuit  
+   Options: A short circuit / A switch / A parallel circuit  
    **Answer:** A short circuit. *Why:* Nothing holds back the flow except the wire, so the current is huge and the wire heats up. It is dangerous and the wire should be removed at once.
 10. (mcq) A safe light should come on only when two keys are both turned. How are the two key switches joined?  
-   Options: In a row / Side by side / On opposite sides of the bulb with no wire  
+   Options: Side by side / In a row / On opposite sides of the bulb with no wire  
    **Answer:** In a row. *Why:* In a row, the only path goes through both switches, so both must be closed.
 11. (mcq) A bell should ring if either of two buttons is pressed. How are the buttons joined?  
-   Options: Side by side / One button in the cell holder / In a row  
+   Options: One button in the cell holder / In a row / Side by side  
    **Answer:** Side by side. *Why:* Side by side, pressing either button makes a whole loop. Pressing both works too.
 12. (truefalse) In two equal bulbs in a row, more current goes through the first bulb than the second.  
    **Answer:** False. *Why:* False. The current is the same all round a series loop, so equal bulbs glow equally. They are dim because they share the push.

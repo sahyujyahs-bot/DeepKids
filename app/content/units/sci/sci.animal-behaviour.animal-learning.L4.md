@@ -453,7 +453,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 ## Worksheets
 ### Getting Used To It, Linking and Teaching (core) (core, 16 questions)
 1. (mcq) Which of these is learning?  
-   Options: A sparrow stops fleeing from a scarecrow that never moves / A baby bird opens her beak when a parent lands on the nest / A chick's legs getting stronger as she grows  
+   Options: A baby bird opens her beak when a parent lands on the nest / A sparrow stops fleeing from a scarecrow that never moves / A chick's legs getting stronger as she grows  
    **Answer:** A sparrow stops fleeing from a scarecrow that never moves. *Why:* Learning is a change caused by experience that lasts. The sparrow changed because of what she saw each day. The beak opening is ready at hatching, and stronger legs come from growing, not from experience.
 2. (truefalse) When you stop hearing the fridge, your ears have stopped working.  
    **Answer:** False. *Why:* False. The sound still reaches your ears. Your mind has learned that the sound does not matter, and stopped reacting to it. If you listen on purpose, you hear it again.
@@ -475,7 +475,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 10. (truefalse) Only animals with a big brain can learn.  
    **Answer:** False. *Why:* False. A sea slug has about 20,000 nerve cells, and a honeybee about a million. Both learn. A human brain has about 86 billion.
 11. (mcq) A child is ill an hour after eating brinjal curry and refuses brinjal for years. What kind of learning is this?  
-   Options: Linking a taste with feeling ill, in one go / Getting used to the taste of brinjal / Copying a sister who also refuses it  
+   Options: Getting used to the taste of brinjal / Copying a sister who also refuses it / Linking a taste with feeling ill, in one go  
    **Answer:** Linking a taste with feeling ill, in one go. *Why:* Bodies are ready to link a taste with feeling ill, even when the illness comes a long time later, and even after just one time. This protects against food that may harm.
 12. (fill) A sea slug pulls in the gill when touched. After many gentle touches, the pull gets ____.  
    **Answer:** ['weaker', 'smaller']. *Why:* The slug has learned that the gentle touch is harmless, so the pull gets weaker.
@@ -486,16 +486,16 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 15. (perspective) A sparrow sits on the clay-pot head of a scarecrow.  
    **Answer:** Answers vary. A strong answer picks a side and gives a reason. It may suggest checking whether the sparrow still flees a hawk or a new object.. *Why:* Both views try to explain the same fact. A way to check them is to see whether the sparrow reacts to something new. If she does, she has learned about this scarecrow only.
 16. (mcq) Honeybees fed at a window at four o'clock for five days come at four o'clock on day six, when there is no food. What does this show?  
-   Options: Bees can learn the time of day when food appears / Bees can read a clock / Bees only come when they smell food  
+   Options: Bees can read a clock / Bees can learn the time of day when food appears / Bees only come when they smell food  
    **Answer:** Bees can learn the time of day when food appears. *Why:* The bees came at four o'clock, with no food or smell to bring them. So they had learned the time of day. Ingeborg Beling found this in 1929.
 ### Signs, Links and Connections (stretch) (stretch, 16 questions)
 1. (mcq) Which result would show that a drop in jumping is tiredness and not habituation?  
-   Options: The person also stops jumping at a brand new sound / The person jumps again at a new sound / The jumps are smallest at the end  
+   Options: The person jumps again at a new sound / The jumps are smallest at the end / The person also stops jumping at a brand new sound  
    **Answer:** The person also stops jumping at a brand new sound. *Why:* A tired person would react less to every sound. If a new sound brings the jump back, the person is not just tired.
 2. (truefalse) After a loud thunderclap, a dog who now jumps at small sounds is showing sensitisation.  
    **Answer:** True. *Why:* True. Sensitisation is a rise in how strongly a being reacts, after a strong or scary event.
 3. (mcq) What is dishabituation?  
-   Options: A new stimulus bringing back a response that had grown weak / Forgetting what you learned / Getting used to two sounds at once  
+   Options: Forgetting what you learned / A new stimulus bringing back a response that had grown weak / Getting used to two sounds at once  
    **Answer:** A new stimulus bringing back a response that had grown weak. *Why:* Dishabituation is the return of a response when something new happens. It is one sign that the earlier drop was learned.
 4. (match) Match each word to what it means.  
    **Answer:** Habituation → Reacting less to a repeated harmless sound; Dishabituation → A new sound bringing the reaction back; Sensitisation → Reacting more strongly after a scary event; Association → Learning that two things go together. *Why:* These four words describe different ways that experience changes how strongly a being reacts or what she expects.
@@ -546,7 +546,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 9. (draw) Draw a model of two nerve cells before and after many gentle touches. Show what changes at the gap.  
    **Answer:** Two cells with a gap. Before: many chemical dots cross the gap. After: fewer dots cross the gap.. *Why:* The change that Kandel's team found was less chemical crossing the synapse. Models are drawings that explain, so any clear picture of fewer dots crossing is a good answer.
 10. (mcq) Many of the molecules at a synapse are replaced within days or weeks, yet some memories last for decades. What does this suggest?  
-   Options: The memory may be a pattern that continues while the parts are replaced / The memory must be held in the molecules that never change / Memories do not really last for decades  
+   Options: The memory must be held in the molecules that never change / Memories do not really last for decades / The memory may be a pattern that continues while the parts are replaced  
    **Answer:** The memory may be a pattern that continues while the parts are replaced. *Why:* Scientists have long wondered about this puzzle. One idea is that a memory is a pattern or process, and not a thing, so it can continue as the parts change. It is still debated.
 11. (sort) Sort each claim by how sure scientists are.  
    **Answer:** Learning changes the connections between nerve cells → Settled; Spaced practice usually beats cramming → Settled; Plants such as the touch-me-not learn → Still argued; Meerkats and ants teach → Still argued; A sea slug can get used to a gentle touch → Settled; A memory sits in one group of cells → Still argued. *Why:* Getting used to a touch, changed connections and spaced practice have been tested many times. Plant learning, animal teaching and whether a memory sits in one group of cells are still argued about.
@@ -577,7 +577,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 3. (truefalse) A new sound can bring back a reaction that had grown weak.  
    **Answer:** True. *Why:* True. This is dishabituation. It shows that only the old sound had been learned as harmless.
 4. (mcq) Which result shows that a drop in response is habituation and not tiredness?  
-   Options: A new stimulus brings the response back at full strength / The response is weakest at the end / The being lies still  
+   Options: The response is weakest at the end / The being lies still / A new stimulus brings the response back at full strength  
    **Answer:** A new stimulus brings the response back at full strength. *Why:* A tired being reacts less to everything. A strong reaction to something new shows the drop belongs to the old stimulus.
 5. (mcq) Why can a person avoid a food for years after one bad meal?  
    Options: Bodies are ready to link a taste with feeling ill, even in one go / The food changes after one meal / Taste is never learned  
@@ -585,7 +585,7 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 6. (fill) Honeybees can learn flower colours, smells and the ____ of day when food appears.  
    **Answer:** ['time']. *Why:* Honeybees fed at the same time each day come at that time on later days, even with no food.
 7. (mcq) Which living thing has been shown to get used to a harmless bitter bridge?  
-   Options: A slime mould, a single cell that senses with chemicals / A stone / A dead leaf  
+   Options: A stone / A dead leaf / A slime mould, a single cell that senses with chemicals  
    **Answer:** A slime mould, a single cell that senses with chemicals. *Why:* Slime moulds are single giant cells, and they can stop avoiding a harmless bitter bridge. Only living things can do this.
 8. (mcq) Which way of learning a list of words usually lasts longer?  
    Options: Short sittings spread over a day or more / One long sitting / A sitting just before the test  
@@ -593,10 +593,10 @@ Thatha raised his hand, and Kavya thought he would shoo her away. Instead, he lo
 9. (truefalse) In animal teaching, the teacher pays a cost, such as time.  
    **Answer:** True. *Why:* True. A leader ant slows down and waits, and a meerkat helper gives up a meal. The cost is one of the three signs of teaching.
 10. (mcq) What do meerkat helpers do as the pups grow older?  
-   Options: Give them scorpions that are more alive and harder to handle / Stop feeding them / Give them the same dead scorpions  
+   Options: Stop feeding them / Give them scorpions that are more alive and harder to handle / Give them the same dead scorpions  
    **Answer:** Give them scorpions that are more alive and harder to handle. *Why:* Helpers give young pups dead scorpions, then scorpions that are crippled, and live ones as the pups get older. The lessons get harder as the pups get better.
 11. (mcq) In a sea slug, what happens at the synapse when a gentle touch is repeated many times?  
-   Options: The touch-sensing cell releases less chemical / The cell grows a new arm / Nothing changes  
+   Options: The cell grows a new arm / Nothing changes / The touch-sensing cell releases less chemical  
    **Answer:** The touch-sensing cell releases less chemical. *Why:* Less chemical crosses the gap, so the gill pulls in less. This is how Kandel's team traced a simple learned change to one connection.
 12. (truefalse) Learning can change the physical connections between nerve cells.  
    **Answer:** True. *Why:* True. In sea slugs, and in people such as taxi drivers learning streets, learning leaves a physical mark.

@@ -724,11 +724,11 @@
       "t": "mcq",
       "q": "You land on DRY POOL. How can an old matriarch find water?",
       "options": [
-       "Wait for rain",
        "Dig in a dry riverbed where she found water before",
+       "Wait for rain",
        "Follow the youngest calf"
       ],
-      "a": 1,
+      "a": 0,
       "why": "An old matriarch remembers where water was in earlier dry years. In a dry riverbed she digs, and water seeps into the hole from the sand below. Waiting for rain could take weeks. The youngest calf has never seen a dry year."
      }
     },
@@ -1022,10 +1022,10 @@
       "q": "A grandmother scored 3 out of 3 on 'long ago' questions. A child scored 3 out of 3 on 'now' questions. What does this show?",
       "options": [
        "Older people always know more",
-       "What a person knows depends on what they have lived through",
-       "The test was not fair"
+       "The test was not fair",
+       "What a person knows depends on what they have lived through"
       ],
-      "a": 1,
+      "a": 2,
       "why": "People know most about what they have lived through. A grandmother remembers years nobody else in the family saw. A child knows the newest shops. That is why an old matriarch is so useful in a drought: she lived through droughts long ago. Picking 'older people always know more' misses the 'now' questions, where the child did best."
      }
     }
@@ -1454,11 +1454,11 @@
       "t": "mcq",
       "q": "Where is the queen of these ants, most likely?",
       "options": [
-       "Walking at the front of the line",
        "Deep inside the nest, laying eggs",
+       "Walking at the front of the line",
        "At the food, telling the others to carry it"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The queen stays deep inside the nest, laying eggs. The ants on the road are workers, her daughters. Picking 'at the front of the line' is a natural guess if you think a queen must lead. But no ant leads the line."
      }
     }
@@ -1607,11 +1607,11 @@
    "p": "Where do adult male elephants usually live?",
    "opts": [
     "As the leaders of the families",
-    "Alone, or in loose groups of males",
     "In the middle of the family, guarding the calves",
+    "Alone, or in loose groups of males",
     "With the wolves"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Males leave their family as teenagers and live apart, visiting families only for a short time.",
    "outcome": 1
   },
@@ -1619,12 +1619,12 @@
    "t": "mcq",
    "p": "In many kinds of ants, which workers go out of the nest to look for food?",
    "opts": [
-    "The youngest workers",
     "The oldest workers",
+    "The youngest workers",
     "The queen",
     "The male ants"
    ],
-   "a": 1,
+   "a": 0,
    "why": "In many kinds of ants, young workers stay safe inside the nest and the older workers go out to forage. The queen stays deep in the nest.",
    "outcome": 2
   },
@@ -1633,11 +1633,11 @@
    "p": "How does an ant tell her sisters where food is?",
    "opts": [
     "By drawing a map",
-    "By leaving a scent trail, made of pheromone, on the way home",
     "By shouting",
+    "By leaving a scent trail, made of pheromone, on the way home",
     "By carrying every sister to the food"
    ],
-   "a": 1,
+   "a": 2,
    "why": "She dabs pheromone on the floor as she walks home. Other ants follow the smell.",
    "outcome": 2
   },
@@ -1646,11 +1646,11 @@
    "p": "A weak sugar drop and a strong sugar drop were put near an ant road. After 30 minutes the strong drop had 20 ants and the weak drop had 3. What is the best explanation?",
    "opts": [
     "The ants at the strong drop were bigger",
-    "Ants that drank the strong sugar laid more scent, so more ants followed their trail",
     "The weak drop was poisonous",
-    "The queen chose the strong drop"
+    "The queen chose the strong drop",
+    "Ants that drank the strong sugar laid more scent, so more ants followed their trail"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A sweeter food makes ants lay more trail scent, so the trail grows stronger and pulls in more ants. No ant gave orders.",
    "how": "e1",
    "outcome": 3
@@ -1660,11 +1660,11 @@
    "p": "In a sugar drop test, why should both drops be the same distance from the ant road?",
    "opts": [
     "So the test looks tidy",
-    "So that only the sweetness is different, and neither drop gets an unfair start",
     "Because ants can only see a short way",
+    "So that only the sweetness is different, and neither drop gets an unfair start",
     "It does not matter"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test you change only one thing. If one drop is closer, ants may find it first, and then you can't tell whether sweetness or distance made the difference.",
    "how": "e1",
    "outcome": 3
@@ -1673,12 +1673,12 @@
    "t": "mcq",
    "p": "Who leads a wild wolf pack, usually?",
    "opts": [
-    "The toughest fighter",
     "The parents: a mother and a father",
+    "The toughest fighter",
     "The youngest pup",
     "Nobody"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A wild pack is a family, so the parents lead and the young follow, as children follow parents.",
    "outcome": 4
   },
@@ -1686,12 +1686,12 @@
    "t": "mcq",
    "p": "Scientists watched wolves who were strangers put together in a zoo, and saw them fight for rank. Why might this give the wrong idea about wild wolf packs?",
    "opts": [
-    "Wild packs are families, and strangers in a zoo do not behave like a family",
     "Zoo wolves are a different animal",
+    "Wild packs are families, and strangers in a zoo do not behave like a family",
     "Wolves never fight",
     "Dogs are not wolves"
    ],
-   "a": 0,
+   "a": 1,
    "why": "How animals act depends on who they live with. Wild packs are mostly parents and their young, who do not fight for rank. Watching wild wolves showed this.",
    "outcome": 4
   },
@@ -1713,11 +1713,11 @@
    "p": "In what way is a human family most like an elephant family?",
    "opts": [
     "Grown-up sons always leave",
-    "Children learn a lot from older relatives, such as grandmothers",
     "The biggest person leads",
+    "Children learn a lot from older relatives, such as grandmothers",
     "Everyone eats grass"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In both, the young learn from older family members. In many human families sons stay, so that part is different.",
    "outcome": 5
   },
@@ -1725,12 +1725,12 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
-    "Whether worker ants are female",
     "Whether an ant colony is one mind, a superorganism",
+    "Whether worker ants are female",
     "Whether ants lay scent trails",
     "Whether elephant families have matriarchs"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The other three are settled by long study. Whether a colony is one being or many ants following rules is still debated.",
    "outcome": 5
   }
@@ -2082,12 +2082,12 @@
      "t": "mcq",
      "p": "Older brothers and sisters in a wolf pack often bring food to the new pups. What does this show about the pack?",
      "opts": [
-      "It is a family that raises the young together",
       "The pups are lazy",
       "Only the parents care for pups",
+      "It is a family that raises the young together",
       "The older wolves want to be the alpha"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Wolf packs raise their pups together. Older young wolves carry meat in their stomachs and bring it up for the pups."
     },
     {
@@ -2139,12 +2139,12 @@
      "t": "mcq",
      "p": "In some places, poachers kill the oldest females in elephant families. What problem might the families have later, in a drought?",
      "opts": [
-      "No one remembers where water was in past droughts",
       "The calves grow faster",
       "The males come back to lead",
-      "Nothing changes"
+      "Nothing changes",
+      "No one remembers where water was in past droughts"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The old matriarch's memory is lost with her. Younger females may never have lived through a drought, so they may not know where to find water."
     },
     {
@@ -2182,11 +2182,11 @@
      "p": "In some paper wasp nests, the queen is calm and does not bully the workers, yet only she lays eggs. When she is taken away, one worker becomes aggressive for a short time, then calms down and starts laying eggs. What does this suggest?",
      "opts": [
       "The nest falls apart without a queen",
-      "A queen does not need to bully to keep her place",
       "The biggest wasp is always the queen",
+      "A queen does not need to bully to keep her place",
       "Workers can never change their job"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The old queen kept her place calmly, and a worker could become the new queen. So in this wasp, being queen is not about bullying."
     },
     {
@@ -2252,11 +2252,11 @@
      "p": "Honeybees choosing a new home send out scouts, who dance for the places they found. How does the swarm choose?",
      "opts": [
       "The queen tastes each place",
-      "The best place gets more and more dancers, until most scouts agree",
       "The oldest bee decides",
-      "They pick the first place found, always"
+      "They pick the first place found, always",
+      "The best place gets more and more dancers, until most scouts agree"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Scouts dance longer for better places. More bees go to look, and dance too. The best place gains dancers fastest, like the strong drop gaining ants in the sugar drop test."
     },
     {

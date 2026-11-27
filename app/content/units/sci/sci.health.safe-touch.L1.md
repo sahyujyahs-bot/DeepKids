@@ -49,7 +49,7 @@ Your arms, your hair, your tummy and your feet are all yours. Nobody else lives 
 - e.g. An aunt wants to pinch your cheeks. You may say, 'Please don't. I will say namaste.'
 - e.g. A friend wants to hold your hand in the line. You may say yes or no.
 - e.g. Your hair, your school bag and your tiffin are yours too. But only your body can feel.
-- **The United Nations Convention on the Rights of the Child, 1989, article 19:** Nearly every country, India among them, has agreed that every child must be kept safe from being hurt in body or mind. India signed this promise in 1992.
+- **The United Nations Convention on the Rights of the Child, 1989, article 19:** Nearly every country, India among them, has agreed that every child must be kept safe from being hurt in body or mind. India agreed to this promise in 1992.
 - **Many families in India and elsewhere:** Elders decide many things for a small child, and a polite child greets relatives the way the family does. Many parents now keep the greeting and let the child choose the kind: a namaste, a wave, a high five or a hug.
 ### Your skin feels every touch with tiny sensors · *defined*
 **Definition:** A sensor is a tiny part of the body that notices something and sends a message to the brain. Skin has touch sensors all over.
@@ -62,7 +62,7 @@ Your skin covers all of you. Inside your skin are tiny sensors. A sensor notices
 **Definition:** A safe touch is a touch you are happy to have, that does not hurt you, and that nobody asks you to hide. Many people call it a good touch.
 
 A hug from Amma. Holding hands to cross the road. A pat on the back from your teacher. A friend's high five. These are safe touches. You feel warm, cared for and calm. Scientists have found that gentle touch is good for the body. Skin has special nerves that answer best to a slow, soft stroke. Tiny babies who are held against a parent's bare chest grow better.
-- e.g. In 1986 Tiffany Field, a scientist in the United States, found that very small babies who were gently massaged each day gained weight faster than babies who were not.
+- e.g. In 1986 a scientist in the United States, Tiffany Field, gently massaged very small babies each day. These babies gained weight faster than babies who were not massaged.
 - e.g. In 1978 doctors in Bogotá, Colombia, began asking mothers to hold very small babies skin to skin on the chest all day. It is called kangaroo care, and hospitals across India now use it. Fathers do it too.
 - e.g. Monkeys sit and comb each other's fur with their fingers. This calms them and keeps friends close.
 - **Scientists who study touch, such as Tiffany Field and Håkan Olausson:** Gentle touch slows the heart and lowers the body's worry chemicals. Olausson's team in Sweden showed in 2002 that some skin nerves carry only the feeling of a soft, slow stroke.
@@ -131,7 +131,7 @@ Sometimes a frightened child cannot shout or run. The body goes stiff and quiet.
 - e.g. A child is touched in an unsafe way and stays silent. Later she tells her father. That is exactly right.
 - e.g. A squirrel caught in the open flattens against a branch and does not move a whisker.
 - **Scientists who study fear in humans and other animals:** They count three quick answers to danger: fight, run away, or freeze. Which one comes is decided by old parts of the brain in less than a second.
-- **Many parents and teachers of earlier generations, in India and elsewhere:** For a long time, many grown-ups asked, 'Why didn't you shout?' and took silence to mean nothing bad had happened. Studies of freezing showed this was unfair. Courts in India do not treat a child's silence as agreement.
+- **Many parents and teachers of earlier generations, in India and elsewhere:** For a long time, many grown-ups asked, 'Why didn't you shout?' and took silence to mean nothing bad had happened. Now we know that freezing is the body's own quick answer to fear, so this was unfair. India's 2012 law says a child under 18 cannot agree to an unsafe touch, so silence is never a yes.
 ### A surprise is told soon. An unsafe secret is never kept · *defined*
 **Definition:** A surprise is something happy that will be told soon. An unsafe secret is about touch, or makes you worried, or is meant to be kept for ever.
 
@@ -145,7 +145,7 @@ A surprise is fun. You hide Akka's birthday present, and in two days everyone kn
 Hold up one hand. Choose one trusted grown-up for each finger. A trusted grown-up listens, believes you and does not ask for unsafe secrets. Choose some from home and at least one from outside home, such as a teacher. If the first grown-up is busy, or does not believe you, tell the next one. Keep telling until someone helps. In India, any child can also call 1098. It is a free phone line for children, open day and night.
 - e.g. Thumb: Amma. First finger: Appa. Middle finger: Paatti. Ring finger: my class teacher. Little finger: Sharada aunty next door.
 - e.g. If the unsafe touch came from someone on your hand, tell another finger.
-- **Jeroo Billimoria, a social worker in Mumbai:** In 1996 she started Childline, the 1098 phone line, after street children kept ringing her own phone at night for help. It grew to cover the whole country.
+- **Jeroo Billimoria, a social worker in Mumbai:** In 1996 she started Childline, the 1098 phone line, so that street children had a number to ring for help. It grew to cover the whole country.
 - **The Protective Behaviours programme:** Its second idea is that nothing is so awful that we cannot talk about it with someone we trust. It also began the habit of naming helpers on the fingers of one hand.
 ### An unsafe touch can come from someone you know · *defined*
 **Definition:** The body rules are about the touch. They are the same whoever the person is.
@@ -174,7 +174,7 @@ Your body is yours. In the same way, your friend's body is your friend's. So you
 **Definition:** Every living being feels touch and answers in their own way. We learn their signs and respect them.
 
 A cat who wants a stroke pushes her head into your hand. A cat who has had enough flicks her tail and walks off. A dog who wants to play bows down with front legs low and tail up. A puppy yelps when a bite is too hard, and the game stops. These are their yes and their no. Plants feel touch too. Brush a touch-me-not plant, and their leaves fold shut in a second or two. So ask an animal as well: hold out your hand, wait, and let them come to you.
-- e.g. Marc Bekoff, a scientist who has studied dog play since the 1970s, found that dogs use the play bow to ask, 'Shall we play?' They also use it to say, 'That bite was only play.'
+- e.g. Marc Bekoff has studied how dogs play since the 1970s. He found that a dog bows low with her front legs to ask, 'Shall we play?' She bows again to say, 'That bite was only play.'
 - e.g. In 2014 Monica Gagliano dropped touch-me-not plants gently, again and again. The plants stopped folding once they had learned the drop did no harm. They still remembered a month later.
 - e.g. A calf turns away from a hand they do not know and walks back to their mother.
 - **Monica Gagliano and other scientists who study plant behaviour:** Plants feel, learn and remember. The touch-me-not told a harmless drop from a harmful shake and changed what they did.
@@ -191,8 +191,8 @@ In many Indian homes people greet with joined palms and no touch at all. Namaste
 You say 'my bag' and 'my body'. A bag can be given away. A body cannot. Your body is built from food, water and air that came from outside you. And yet only you feel your tummy ache. So what does 'mine' mean here? For keeping safe, the meaning is clear: you have the say. But ask what the 'I' is that has a body, and thinkers have given different answers for thousands of years. Science has no final answer either. What do you think?
 - e.g. You can lend your pencil. Can you lend your hand?
 - e.g. The skin you had as a baby has been replaced many times. Is this the same body?
-- **The Katha Upanishad, chapter 1, section 3, verse 3:** Know the self as the rider in a chariot, and the body as the chariot. The body is yours to look after, and you are more than the body.
-- **The Buddha, in the Anattalakkhana Sutta (Samyutta Nikaya 22.59):** The body is not the self, because we cannot order the body, 'Be like this, do not fall ill.' He taught that no fixed, unchanging self can be found.
+- **The Katha Upanishad, chapter 1, section 3, verse 3:** The Upanishad pictures the self as a rider and the body as a chariot. The body is yours to look after, and you are more than the body.
+- **The Buddha, in the Anattalakkhana Sutta (Samyutta Nikaya 22.59):** The Buddha said the body cannot be the self, because we cannot order it, 'Be like this. Do not fall ill.' He taught that no fixed, unchanging self can be found.
 - **The Charvaka thinkers of ancient India, as reported by Madhava in the 14th century CE:** There is no rider apart from the chariot. The self is the living, aware body, and nothing else.
 - **Most brain scientists today:** The feeling of owning a body is built by the brain from touch, sight and the sensors inside the body. How that building gives an inner feeling at all is not known.
 
@@ -202,7 +202,7 @@ You say 'my bag' and 'my body'. A bag can be given away. A body cannot. Your bod
 - Many children wait a long time before telling, and some never tell as children. *How we know:* Surveys of adults in many countries, India among them, find that a large share of those harmed in childhood told nobody for years. Fear of not being believed and fear of getting someone into trouble are the reasons given most often.
 
 ## How we found out
-**David Finkelhor, Cordelia Anderson, Jeroo Billimoria, Pinki Virani, and the 12,447 children who answered India's 2007 study, 1979 to 2012.** For a long time, most people believed that children were harmed only by strangers, and only rarely. It fitted what they saw: the newspapers told of strangers, and no child at home said anything. Then researchers began to ask people directly. In 1979 David Finkelhor in the United States surveyed college students about their childhoods. Many had been touched unsafely, most often by someone they knew, and most had told nobody. In the late 1970s Cordelia Anderson, a teacher in Minneapolis, began talking with children about kinds of touch, and found they had no words for the confusing kind. In India, the journalist Pinki Virani broke a long silence with her book 'Bitter Chocolate' in 2000. In 2007 the Ministry of Women and Child Development asked 12,447 children in 13 states. About half reported some unsafe touch, boys about as often as girls, and half of those named a person they knew and trusted. Five years later India passed a law to protect every child under 18.  
+**David Finkelhor, Cordelia Anderson, Jeroo Billimoria, Pinki Virani, and the 12,447 children who answered India's 2007 study, 1979 to 2012.** For a long time, most people believed that children were harmed only by strangers, and only rarely. It fitted what they saw: the newspapers told of strangers, and no child at home said anything. Then researchers began to ask people directly. In 1979 David Finkelhor in the United States surveyed college students about their childhoods. Many had been touched unsafely, most often by someone they knew, and most had told nobody. In the late 1970s a teacher in Minneapolis, Cordelia Anderson, began talking with children about kinds of touch. She found they had no words for the confusing kind. In India, the journalist Pinki Virani broke a long silence with her book 'Bitter Chocolate' in 2000. In 2007 the Ministry of Women and Child Development asked 12,447 children in 13 states. About half reported some unsafe touch, boys about as often as girls, and half of those named a person they knew and trusted. Five years later India passed a law to protect every child under 18.  
 *What people believed before:* Children are harmed only by strangers, it happens very rarely, and a child who is harmed will say so at once.
 
 ## Challenging perspectives
@@ -232,7 +232,7 @@ You have learnt how skin feels a touch, and the rules that keep bodies safe. Now
 
 Touch is the one sense that always works both ways at once. You can see without being seen, and hear without being heard. You cannot touch without being touched. So touch shows very plainly that two beings can share one happening. The body rules in this lesson follow from that: if a touch belongs to both, then both must agree. Many old teachings reached the same rule from the other direction, by saying that what hurts me also hurts you.
 
-- **Thirukkural, kural 316:** What you have known as pain in yourself, do not do to another. (The poet asks the reader to use their own skin as the measure. The lesson's science agrees that other beings have the same kinds of sensors and the same alarm.)
+- **Thirukkural, kural 316:** What you have known as pain in yourself, do not do to another. (The poet asks the reader to use their own skin as the measure. The lesson's science agrees that other animals have touch sensors and an alarm much like ours.)
 - **Acharanga Sutra, book 1, lecture 4, lesson 1:** All breathing, living, feeling beings should not be hurt, ill-treated or tormented. This, the text says, is the pure and lasting law. (The Jain teaching stretches the rule past people to every being who feels. The cat, the dog and the touch-me-not in this lesson show that feeling touch is not a human thing only.)
 - **Katha Upanishad, chapter 1, section 3, verse 3:** Know the self as the rider and the body as the chariot. (The sage says you are more than your body, and also that the chariot is in your keeping. The lesson's first rule, my body is mine, is the keeping part.)
 - Science (settled): The skin and the brain grow from the same thin layer of cells in the first weeks of life in the womb. Touch sensors are the brain's own reach to the surface of the body.
@@ -254,7 +254,7 @@ Touch is the one sense that always works both ways at once. You can see without 
 - *big:* Why is a secret so powerful that one sentence, 'Don't tell', can keep a child quiet? (hint: Think about what the child fears will happen, and who made the child fear it.)
 
 ## Story: Karuppi's No
-*A made-up story set in Kochi, Kerala. The people and the cat are imagined. What is real: cats show a yes and a no with their head, ears and tail, frightened animals and children often freeze, and a good grown-up believes a child who tells. Read it with your child on your lap or beside you, and stop to talk wherever your child wants to.*
+*A made-up story set in Kochi, Kerala. The people and the cat are imagined. What is real: cats show a yes and a no with their head, ears and tail, frightened animals and children often freeze, and a good grown-up believes a child who tells. Parent, please read it yourself first. A neighbour touches a child's private parts and asks for secrecy, and the child tells her father, who believes her. Then read it with your child on your lap or beside you, and stop to talk wherever your child wants to. If your child tells you something while you read, stay calm and say Appa's three sentences: 'Thank you for telling me. I believe you. You did nothing wrong.' You can ring Childline 1098 for advice.*
 
 Meenu was six, and she wanted very much to carry the cat. The cat lived on the wall between Meenu's house and the next one. She was black all over, so everyone in the lane called her Karuppi.
 
@@ -276,17 +276,17 @@ Meenu stroked the cat, twice. Karuppi's tail began to flick. Meenu lifted her ha
 
 On Saturday, Meenu went next door to return a steel dabba. Shaji uncle was on the verandah with his phone. Meenu had known him all her life. 'Come and see this car game,' he said. 'Sit here.' He lifted her on to his lap.
 
-The game was good. But Shaji uncle's hand was on her leg, and then it was under the edge of her frock, and it stayed there. Meenu's tummy went tight. Her heart went fast. She wanted to say something and no words came. She went stiff as a stick.
+The game was good. But then Shaji uncle's hand went to her private parts, and it stayed there. Meenu's tummy went tight. Her heart went fast. She wanted to say something and no words came. She went stiff as a stick.
 
-'This is our game,' said Shaji uncle softly. 'No need to tell Appa. I'll get you a Dairy Milk.'
+'This is our game,' said Shaji uncle softly. 'No need to tell Appa. I'll get you a chocolate.'
 
 Stiff as a stick. Where had she seen that? Karuppi. That was Karuppi's no.
 
 Meenu wriggled, the way the cat did. She slid off his lap. She did not take the dabba lid, or say goodbye. She ran home.
 
-Appa was grinding coconut for the fish curry. Meenu stood in the kitchen doorway. The words were stuck. She thought about the Dairy Milk, and about 'no need to tell'. A surprise makes people happy when they hear it. This did not feel like that. This sat in her tummy like a stone.
+Appa was grinding coconut for the fish curry. Meenu stood in the kitchen doorway. The words were stuck. She thought about the chocolate, and about 'no need to tell'. A surprise makes people happy when they hear it. This did not feel like that. This sat in her tummy like a stone.
 
-'Appa,' she said. 'Shaji uncle put his hand under my frock. He said don't tell.'
+'Appa,' she said. 'Shaji uncle touched my private parts. He said don't tell.'
 
 Appa switched off the grinder. He washed his hands and sat down on the floor, so that his face was level with hers. His eyes were wet, but his voice was steady.
 
@@ -310,7 +310,7 @@ That evening she sat on the back step and held out one finger. Karuppi came, sni
 
 'Ammamma,' said Meenu, 'Karuppi knew how to say no all along. Who taught her?'
 
-Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 'I think every body knows. The hard part is the listening.'
+Ammamma thought about it for a long time. 'I do not believe anyone did,' she said. 'I think every body knows. The hard part is the listening.'
 
 **For the parent:** A no can be said by a body before a mouth can say it, and a frozen body has not said yes. Telling afterwards is still telling.
 
@@ -323,7 +323,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
 ### g1 · Green, amber, red: the touch lights game (20 min)
 - **rules:** The grown-up reads the front of a card aloud. The child puts the card on the green, amber or red mat and says why.; Then turn the card over and read the back. If the colour is the same as the back, the team takes a counter.; If the child chose another colour but gave a good reason, the team takes a counter too, because some cards can be argued both ways.; Whenever a card goes on the red mat, say 'No, Go, Tell' together.; The game ends when all 18 cards have been used. The team counts the counters.; Play again to beat your own number. With friends, take turns to choose a mat, and work as one team.
 - **Printable mats: 3 colour mats to colour by hand:** Green mat: a safe touch. I like it, it does not hurt me, and nothing is hidden.; Amber mat: I am not sure, or I do not want it. I can say no thank you, and tell a trusted grown-up if it goes on.; Red mat: an unsafe touch. I say No, I Go to other people, and I Tell a trusted grown-up.
-- **Printable cards: 18 situation cards, with the answer on the back:** Amma gives you a hug and you like it. (back: Green. A safe touch you are happy to have, and nothing is hidden.); Your teacher gives you a high five for a good answer. (back: Green. A safe touch, and everyone can see it.); A grown-up holds your hand to cross a busy road. (back: Green. A safe touch that keeps you safe.); The doctor looks in your ear. Your parent is in the room, and the doctor tells you what she is doing. (back: Green. The doctor and your parent know, and the doctor says why.); You have an injection at the clinic. It stings. Your parent is holding your hand. (back: Green. It hurts a little, but everyone knows, it keeps you well, and nothing is hidden.); An aunt wants to pinch your cheek, and you do not like it. (back: Amber. You can say, 'No thank you, I will say namaste.' If she goes on, tell a trusted grown-up.); A relative wants a kiss, but you do not feel like it today. (back: Amber. You may say no thank you and offer a wave. You are allowed to choose.); A friend keeps tickling you after you say, 'Stop.' (back: Amber. Say 'Stop' in a big voice. If the friend does not stop, tell a trusted grown-up.); Someone you do not know well says, 'Come and sit on my lap.' (back: Amber. You do not have to. Go to your grown-up and tell them.); A person gives you a gift and says, 'Give me a hug to say thank you.' (back: Amber. You can say thank you in your own way. You do not have to hug.); A person says, 'Take off your underwear so I can see your private parts.' (back: Red. This breaks the private-parts rule. Say No. Go to other people. Tell a trusted grown-up.); Someone asks you to look at pictures of private parts. (back: Red. This breaks the private-parts rule. Say No. Go. Tell.); A person says, 'Do not tell your mother. I will give you a sweet.' (back: Red. A person who asks you to hide something is giving you an unsafe secret. Tell a trusted grown-up.); Someone hits you hard on purpose. (back: Red. A touch that hurts you on purpose is unsafe. Say No. Go. Tell.); An older person asks you to touch their private parts. (back: Red. Nobody may ask you to do this. Say No. Go. Tell. It is never your fault.); A person you know well says, 'This is our special game. Do not tell.' (back: Red. A secret about touch is never kept, even from someone you know. Tell a trusted grown-up.); Someone says, 'If you tell, you will get into trouble.' (back: Red. An unsafe secret is never kept. You will not get into trouble. Tell a trusted grown-up.); A person says, 'You cannot tell anyone. Nobody will believe you.' (back: Red. Keep telling until someone helps. A trusted grown-up will believe you.)
+- **Printable cards: 18 situation cards, with the answer on the back:** Amma gives you a hug and you like it. (back: Green. A safe touch you are happy to have, and nothing is hidden.); Your teacher gives you a high five for a good answer. (back: Green. A safe touch, and everyone can see it.); A grown-up holds your hand to cross a busy road. (back: Green. A safe touch that keeps you safe.); The doctor looks in your ear. Your parent is in the room, and the doctor tells you what she is doing. (back: Green. The doctor and your parent know, and the doctor says why.); You have an injection at the clinic. It stings. Your parent is holding your hand. (back: Green. It hurts a little, but everyone knows, it keeps you well, and nothing is hidden.); An aunt wants to pinch your cheek, and you do not like it. (back: Amber. You can say, 'No thank you, I will say namaste.' If she goes on, tell a trusted grown-up.); A relative wants a kiss, but you are not in the mood today. (back: Amber. You may say no thank you and offer a wave. You are allowed to choose.); A friend keeps tickling you after you say, 'Stop.' (back: Amber. Say 'Stop' in a big voice. If the friend does not stop, tell a trusted grown-up.); Someone you do not know well says, 'Come and sit on my lap.' (back: Amber. You do not have to. Go to your grown-up and tell them.); A person gives you a gift and says, 'Give me a hug to say thank you.' (back: Amber. You can say thank you in your own way. You do not have to hug.); A person says, 'Let me look at your private parts.' (back: Red. This breaks the private-parts rule. Say No. Go to other people. Tell a trusted grown-up.); Someone asks you to look at pictures of private parts. (back: Red. This breaks the private-parts rule. Say No. Go. Tell.); A person says, 'Do not tell your mother. I will give you a sweet.' (back: Red. A person who asks you to hide something is giving you an unsafe secret. Tell a trusted grown-up.); Someone hits you hard on purpose. (back: Red. A touch that hurts you on purpose is unsafe. Say No. Go. Tell.); An older person asks you to touch them under their clothes. (back: Red. Nobody may ask you to do this. Say No. Go. Tell. It is never your fault.); A person you know well says, 'This is our special game. Do not tell.' (back: Red. A secret about touch is never kept, even from someone you know. Tell a trusted grown-up.); Someone says, 'If you tell, you will get into trouble.' (back: Red. An unsafe secret is never kept. You will not get into trouble. Tell a trusted grown-up.); A person says, 'You cannot tell anyone. Nobody will believe you.' (back: Red. Keep telling until someone helps. A trusted grown-up will believe you.)
 - **g1s1 (5 min)**  
   *Parent does:* Colour three sheets green, amber and red. Cut out the 18 cards from the printed sheet and shuffle them. Read the rules on the three mats.  
   *Parent says:* Green means safe, amber means not sure or not wanted, red means unsafe. Let us colour the mats.  
@@ -356,7 +356,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
   *Parent says:* This test finds out how well your skin can tell one touch from two. I will ask 'May I touch you?' each time, and you can say yes or no.  
   *Child mode:* Look at the two pencils. They are blunt. You can say yes or no each time.
   - Ask: Which place do you think will feel two touches best? Why do you think so? (good: Any guess with a reason, such as the fingertip because we use it to feel things.; It is a guess, so every answer is fine.)
-  - Note: Use only blunt pencils or cotton buds, never pins or pointed things. A pencil with a smooth, rubbed tip is enough. If the child says no at any time, stop that try and ask if they want to carry on. Keep the press the same each time, just enough to feel and never to hurt.
+  - Note: Use only blunt pencils or cotton buds, never pins or pointed things. A pencil with a smooth, rubbed tip is enough. If the child says no at any time, stop that try and ask if they want to carry on. Keep the press the same each time, just enough to feel and never to hurt. Touch only the fingertip, palm, forearm and upper back, never the private parts. The child may choose to do the test on their own hand instead.
 - **s2 (3 min)**  
   *Parent does:* Ask the child to close the eyes. Ask, 'May I touch your fingertip?' Wait for a yes. Touch the fingertip once with one pencil, and then with two pencils side by side. Ask 'one or two?' each time.  
   *Parent says:* Eyes closed. May I touch your fingertip? Tell me, one touch or two touches?  
@@ -390,7 +390,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
   *Parent says:* Which place felt the most? Which felt the least? Why do you think that is?  
   *Child mode:* Look at your table. Which place felt two the soonest? Which needed the biggest gap?
   - Ask: Why does the fingertip feel two points when they are so close? (good: The fingertip has many more touch sensors packed close together.; There are more sensors, so each pencil point meets its own sensor.)
-  - Note: The test tells us how well each place sorts out two touches. It cannot say which place feels the strongest or most painful, and it cannot say how a different person would feel. Scientists use this test with finer tools and find about 3 millimetres on a fingertip and about 4 centimetres on the back. With pencils you will find a bigger gap on the fingertip.
+  - Note: The test tells us how well each place sorts out two touches. It cannot say which place feels the strongest or most painful, and it cannot say how a different person would feel. Scientists use this test with finer tools and find about 3 millimetres on a fingertip and about 4 centimetres on the back. With pencils you will find a bigger gap on the fingertip. If anything in the test felt odd or unpleasant, the child can say so, and a trusted grown-up listens.
   - Think: If your fingertips have the most sensors, which jobs do they do that your back never does?
 
 ## Activities
@@ -460,7 +460,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
   *Parent says:* Surprise bowl or unsafe-secret bowl? Why?  
   *Child mode:* Listen to the sentence. Drop a button in the surprise bowl or the unsafe-secret bowl.
   - Ask: How can you tell a surprise from an unsafe secret? (good: A surprise is happy and told soon. An unsafe secret is never kept.; A surprise makes people smile. An unsafe secret makes you worried.)
-  - Note: Answers: 1, 3, 5 and 7 are surprises. 2, 4, 6 and 8 are unsafe secrets. For each unsafe one, say: 'We tell a trusted grown-up anyway.' A person who asks for a secret like this may be trying to stop the child telling.
+  - Note: Answers: the surprises are 1, 3, 5 and 7. The unsafe secrets are 2, 4, 6 and 8. After each unsafe one, say together: We tell a trusted grown-up anyway. Someone who asks for a secret like this may be trying to stop the child telling.
 - **a3s3 (3 min)**  
   *Parent does:* Count the buttons in each bowl. Ask what a child does if someone asks for an unsafe secret.  
   *Parent says:* Four surprises and four unsafe secrets. What do we do with an unsafe secret?  
@@ -507,7 +507,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
   *Parent says:* Now guess from the back of your hand. Is it harder or easier than with your fingers?  
   *Child mode:* Close your eyes. Guess from the back of your hand.
   - Ask: Was it easier with your fingers or the back of your hand? (good: Easier with my fingers, because they have more sensors.; The fingers, because fingertips are good at feeling.)
-  - Note: Ask first: 'May I touch the back of your hand?' Fingertips have many sensors and the back of the hand has fewer.
+  - Note: Ask first: 'May I touch the back of your hand?' Fingertips have many sensors and the back of the hand has fewer. If the child did not like any touch, they can say so to you or to another trusted grown-up from the helping hand.
   - Think: Why do you think a fingertip is so much better at feeling?
 ### a6 · Reading a yes and a no: an animal or a plant, if you have one nearby (15 min)
 - **record:** Draw the animal or plant. Write 'yes' beside the sign that says 'come' and 'no' beside the sign that says 'go away'.
@@ -590,7 +590,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
 ## Worksheets
 ### Safe and unsafe touch (core) (core, 10 questions)
 1. (mcq) A friend wants to hold your hand and you do not. What is a kind thing to say?  
-   Options: No thanks, but I will wave. / You have to say yes. / Pretend to be asleep.  
+   Options: You have to say yes. / Pretend to be asleep. / No thanks, but I will wave.  
    **Answer:** No thanks, but I will wave.. *Why:* Your body is yours, so you can say no. A wave is a kind way to say it. Saying yes when you mean no, or pretending to sleep, hides what you want.
 2. (truefalse) True or false: A touch that comes with 'do not tell anyone' is a safe touch.  
    **Answer:** False. *Why:* False. A safe touch is never hidden. A touch that comes with a demand to keep it secret is unsafe, and we tell a trusted grown-up.
@@ -613,12 +613,12 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
    **Answer:** Stop and leave her alone.. *Why:* Her body says no. We listen to other beings, as well as to people, and we stop.
 ### Warning feelings, freezing and asking first (stretch) (stretch, 10 questions)
 1. (mcq) An injection hurts, but it is safe. Why?  
-   Options: Everyone knows, it keeps you well, nothing is hidden. / Because it hurts, it must be good. / Because the doctor is tall.  
+   Options: Because it hurts, it must be good. / Because the doctor is tall. / Everyone knows, it keeps you well, nothing is hidden.  
    **Answer:** Everyone knows, it keeps you well, nothing is hidden.. *Why:* A safe touch does not depend on how it feels. It depends on who knows, why it happens and that nothing is kept secret.
 2. (truefalse) True or false: A tight tummy during a touch is a warning feeling worth listening to.  
    **Answer:** True. *Why:* True. Your body gives warning feelings, such as a fast heart or a tight tummy. We listen to them, and we also check the three signs of an unsafe touch.
 3. (mcq) A child goes very still and says nothing when a touch feels wrong. What does that mean?  
-   Options: The body froze. It is not a yes. / The child agreed. / The child did not mind.  
+   Options: The child agreed. / The body froze. It is not a yes. / The child did not mind.  
    **Answer:** The body froze. It is not a yes.. *Why:* Bodies sometimes freeze when frightened. Freezing is the body's way of coping and is never a yes.
 4. (sort) Sort each touch into safe or unsafe.  
    **Answer:** A hug from Amma that you like → Safe touch; A touch that comes with 'do not tell' → Unsafe touch; A teacher's pat on the back → Safe touch; Someone asking to see your private parts → Unsafe touch. *Why:* A safe touch is a touch you are happy to have, that does not hurt and is not hidden. An unsafe touch hurts on purpose, breaks the private-parts rule or comes with a demand for secrecy.
@@ -659,37 +659,37 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
    **Answer:** Answers vary. A strong answer sees that stopping a child from danger is for her safety, is done openly, and is explained afterwards. An unsafe touch is hidden, hurts or breaks the private-parts rule. Both views can be right.. *Why:* A touch is sorted by why it happens, who knows and whether it is hidden. Both people care about the child's safety.
 
 ## Videos
-- **A video for children on how the skin feels touch** (, 4 min) id `to find`: To see how touch sensors in the skin send messages along nerves to the brain. *Check:* Find a short video from a children's science channel that explains touch sensors and nerves simply. Check that it does not say we have only five senses.
-- **Body safety for young children: say No, go and tell** (, 5 min) id `to find`: To hear the three body rules and No, Go, Tell in a calm voice. *Check:* Find a video from a child-protection group in India, such as Childline India. Watch it first, and check that it uses real names, says it is never the child's fault and shows no frightening scenes.
-- **Mimosa pudica, the touch-me-not plant, folding her leaves** (, 3 min) id `to find`: To watch a touch-me-not fold when touched and open again a few minutes later. *Check:* Find a close-up film that shows the plant folding and re-opening. Check that it says the plant remembers a harmless touch only if the film covers it.
+- **A video for children on how the skin feels touch** (, 4 min) id `mWeTqNdSQlE`: To see how touch sensors in the skin send messages along nerves to the brain. *Check:* Found by YouTube search: "The Sense of Touch - Senses for Kids" by Smile and Learn - English. Title checked automatically; a parent may still preview it.
+- **Body safety for young children: say No, go and tell** (, 5 min) id `EnQ4pC-NO3k`: To hear the three body rules and No, Go, Tell in a calm voice. *Check:* Found by YouTube search: "SAY NO! 🖐️ | Body Safety Song for Kids | Learn to Set Boundaries & Stay Safe" by EasyFun Kids. Title checked automatically; a parent may still preview it.
+- **Mimosa pudica, the touch-me-not plant, folding her leaves** (, 3 min) id `nPf3FbR6eQE`: To watch a touch-me-not fold when touched and open again a few minutes later. *Check:* Found by YouTube search: "Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड" by Akshay Marathe. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) A relative wants to pinch your cheek, and you do not like it. What may you say?  
-   Options: Nothing, because grown-ups decide / No thank you. I will say namaste. / You must let them  
+   Options: Nothing, because grown-ups decide / You must let them / No thank you. I will say namaste.  
    **Answer:** No thank you. I will say namaste.. *Why:* Your body is yours, so you have a say, even with a grown-up who means well. You can say no thank you and offer a different greeting.
 2. (mcq) A doctor gives an injection while your parent watches and the doctor says why. Is it safe?  
-   Options: Yes, it keeps you well and nothing is hidden / No, because it hurts / Only if you do not cry  
+   Options: No, because it hurts / Yes, it keeps you well and nothing is hidden / Only if you do not cry  
    **Answer:** Yes, it keeps you well and nothing is hidden. *Why:* A safe touch is not about whether it hurts. It is about who knows, why it happens and that nothing is hidden.
 3. (mcq) Which one is a sign of an unsafe touch?  
-   Options: Someone says, 'Do not tell anyone.' / A hug from Amma that you like / A high five from a friend  
+   Options: A hug from Amma that you like / Someone says, 'Do not tell anyone.' / A high five from a friend  
    **Answer:** Someone says, 'Do not tell anyone.'. *Why:* A demand for secrecy is one of the three signs. The other two are a touch that hurts on purpose and a touch that breaks the private-parts rule.
 4. (mcq) A touch does not hurt at all, but the person says it is a secret. Is it safe?  
-   Options: Yes, because it does not hurt / No, a demand for secrecy is a sign of unsafe / Yes, if the person is a relative  
-   **Answer:** No, a demand for secrecy is a sign of unsafe. *Why:* Some unsafe touches do not hurt. So we check the three signs and not only the feeling. A secret about touch is never kept.
+   Options: Yes, because it does not hurt / Yes, if the person is a relative / No, a demand for secrecy is a sign of an unsafe touch  
+   **Answer:** No, a demand for secrecy is a sign of an unsafe touch. *Why:* Some unsafe touches do not hurt. So we check the three signs and not only the feeling. A secret about touch is never kept.
 5. (mcq) Why do we use real names for private parts?  
-   Options: So we can tell a grown-up clearly / Because the names are rude / So we can use them as jokes  
+   Options: Because the names are rude / So we can use them as jokes / So we can tell a grown-up clearly  
    **Answer:** So we can tell a grown-up clearly. *Why:* Real names help a child tell a grown-up exactly what they mean, and help a doctor understand. We cannot make a rule about parts that have no names.
 6. (mcq) Who may touch your private parts?  
-   Options: Nobody, except to keep you clean or healthy, and never in secret / Any grown-up you know / Anyone who gives you a sweet  
+   Options: Any grown-up you know / Anyone who gives you a sweet / Nobody, except to keep you clean or healthy, and never in secret  
    **Answer:** Nobody, except to keep you clean or healthy, and never in secret. *Why:* The only reasons are to keep you clean or healthy, such as a parent bathing a small child or a doctor with your parent present. It is never a secret.
 7. (mcq) A touch feels unsafe. What three things do you do?  
-   Options: Say no, go away, tell / Stay quiet, wait, hope / Laugh, hide, forget  
+   Options: Stay quiet, wait, hope / Say no, go away, tell / Laugh, hide, forget  
    **Answer:** Say no, go away, tell. *Why:* No is your big voice, Go is moving to where other people are, and Tell is speaking to a trusted grown-up. If words stick, you can still go and tell.
 8. (mcq) A girl froze when a touch felt wrong. A week later she tells her mother. Was that right?  
-   Options: Yes, telling later is also right / No, it is too late now / No, she should have shouted  
+   Options: No, it is too late now / No, she should have shouted / Yes, telling later is also right  
    **Answer:** Yes, telling later is also right. *Why:* Many children cannot speak at the time, and bodies sometimes freeze. Telling later still counts and a grown-up still helps.
 9. (mcq) Someone says, 'This is our secret,' about a touch. What do you do?  
-   Options: Tell a trusted grown-up anyway / Keep it, because you promised / Wait until you are older  
+   Options: Keep it, because you promised / Tell a trusted grown-up anyway / Wait until you are older  
    **Answer:** Tell a trusted grown-up anyway. *Why:* An unsafe secret is never kept. A person who asks for one is trying to stop you telling, and you will not get into trouble.
 10. (mcq) Why is a surprise different from an unsafe secret?  
    Options: A surprise is happy and told soon / A surprise is bigger / They are the same  
@@ -701,7 +701,7 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
    Options: One who listens, believes and helps / One who gives you sweets / One who is rich  
    **Answer:** One who listens, believes and helps. *Why:* Trust comes from how a person treats you and what they do, never from sweets or from being a relative.
 13. (mcq) A friend says, 'Stop, I do not want that hug.' What do you do?  
-   Options: Stop right away / Hug anyway, once / Ask three more times  
+   Options: Hug anyway, once / Ask three more times / Stop right away  
    **Answer:** Stop right away. *Why:* Other people's bodies belong to them, so we stop when they say no. The body rules work in both directions.
 
 ## Applications
@@ -724,8 +724,8 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
 ## Open questions
 - **Do lessons like this one lower the number of children who are harmed?** Trials show that children learn the rules and tell adults more often. To show that fewer children are harmed, researchers would have to follow thousands of children for years and count something that is usually hidden. No study has done that well yet.
 - **Do plants feel a touch, or only respond to it?** Plants sense touch and change what they do, and touch-me-not plants learn. Scientists do not agree on what 'feel' should mean for a being with no nerves, and nobody has a test for inner feeling in any being.
-- **Why does gentle touch from another person calm the body, when our own touch calms far less?** The slow-stroke nerves in skin are part of the answer. But the brain also treats a touch it expects from itself differently from a touch that comes from another, and how the two are joined is still being worked out.
-- **How does the brain make the feeling that this body is mine?** Tricks such as the rubber hand test, reported by Matthew Botvinick and Jonathan Cohen in 1998, show the feeling can shift to a rubber hand within minutes. So the feeling is built, moment by moment. How it is built, and why it comes with an inner experience, is unknown.
+- **Why does gentle touch from another person calm the body, when our own touch calms far less?** The slow-stroke nerves in skin are part of the answer. The brain also treats a touch from yourself differently from a touch from another person. This may be why you cannot tickle yourself. How the two parts fit together is still being worked out.
+- **How does the brain make the feeling that this body is mine?** Matthew Botvinick and Jonathan Cohen reported the rubber hand test in 1998. A rubber hand is stroked in view while the real hand is hidden and stroked too. Within minutes the feeling of ownership can move to the rubber hand. So the feeling is built moment by moment. How it is built, and why it comes with an inner experience, is unknown.
 
 ## Questions to ask kids
 - Who are the five grown-ups on your helping hand? What makes each one a good person to tell?
@@ -741,9 +741,9 @@ Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 
 - How do you greet a tiger politely? *From very, very far away, with a loud 'Namaste!'*
 - What did the left hand say to the right hand? *'I will always give you five!'*
 - Which finger is best at saying no? *The pointer finger. It can wag, 'No, no, no!' all day.*
-- Why did the cat ask for permission before sitting on your lap? *She wanted a purr-mission.*
-- Why did the sensor go to the party on the fingertip? *Because that is where all the touching news is.*
-- Why could the dosa never keep a surprise? *Because it always turned out to be on the plate by the end of the meal!*
+- What does a cat's tail flick mean? *'This hug is over, thank you.'*
+- Why did the fingertip win the mystery bag game? *It had the most sensors, so nothing could slip past it.*
+- Why is a masala dosa bad at keeping a surprise? *Because it gets opened before the party, and everyone sees what is inside!*
 - What is a hand's favourite way to say hello to an elephant? *Wave. A trunk shake would be too much.*
 - Why can you not surprise yourself with a tap on the shoulder? *Because your brain already knows who is coming.*
 

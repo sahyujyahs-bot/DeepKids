@@ -646,19 +646,19 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 ## Worksheets
 ### Roots, Air and Minerals (core) (core, 16 questions)
 1. (mcq) A plant stands in soaked soil and their leaves droop. What is the best explanation?  
-   Options: The roots have no air, so they cannot take up water / The plant has too much sunlight / The plant is asleep / The soil has run out of water  
+   Options: The plant has too much sunlight / The plant is asleep / The soil has run out of water / The roots have no air, so they cannot take up water  
    **Answer:** The roots have no air, so they cannot take up water. *Why:* Water fills all the gaps and pushes out the air. Roots without oxygen cannot work, so the leaves droop as if the plant were thirsty. A plant in soaked soil does not lack water.
 2. (fill) The air in soil is found in the ____ between the grains.  
    **Answer:** ['gaps', 'spaces', 'holes']. *Why:* Soil is made of grains with gaps between them. The gaps hold air and water, and roots breathe the air.
 3. (truefalse) A drooping plant always needs more water.  
    **Answer:** False. *Why:* False. A plant droops from too little water, and also when the roots are drowning in too much. Feel the soil before you water.
 4. (mcq) You pour water onto 100 millilitres of dry soil. 40 millilitres go in before the water reaches the top. What does this show?  
-   Options: About 40 out of every 100 millilitres of the soil were gaps / The soil weighs 40 grams / The soil is 40 per cent water / Only 40 millilitres of the soil is useful  
+   Options: The soil weighs 40 grams / The soil is 40 per cent water / About 40 out of every 100 millilitres of the soil were gaps / Only 40 millilitres of the soil is useful  
    **Answer:** About 40 out of every 100 millilitres of the soil were gaps. *Why:* The water filled the gaps and pushed the air out. So the water that went in equals the gaps that were there. 40 out of 100 were gaps.
 5. (sort) Each line describes nitrogen, phosphorus or potassium. Sort them.  
    **Answer:** Needed to make chlorophyll and proteins → Nitrogen; Needed to build energy carriers and DNA → Phosphorus; Helps the stomata open and close → Potassium; Old leaves turn pale yellow when it is short → Nitrogen; Dark green or purple leaves and slow growth when it is short → Phosphorus; Older leaves get yellow-brown edges when it is short → Potassium. *Why:* Nitrogen builds chlorophyll and proteins, phosphorus builds energy carriers and DNA, and potassium helps manage water and the stomata. Each shortage leaves its own clue.
 6. (mcq) A path that people walk on every day has few plants. What is the best reason?  
-   Options: Walking packs the soil, squeezing the gaps so roots get little air / People take the minerals away on their feet / Soil on paths is always poisonous / Plants dislike the sound of walking  
+   Options: People take the minerals away on their feet / Walking packs the soil, squeezing the gaps so roots get little air / Soil on paths is always poisonous / Plants dislike the sound of walking  
    **Answer:** Walking packs the soil, squeezing the gaps so roots get little air. *Why:* Packed soil has fewer and smaller gaps, so there is less air for roots. In the Soil Breath test, packed soil took in less water than loose soil.
 7. (match) Match each clue to the most likely problem.  
    **Answer:** Pale old leaves, green new leaves, well-drained soil → Short of nitrogen; New leaves yellow with green veins → Short of iron; Brown, crispy leaf edges the day after a big dose of fertiliser → Too much fertiliser; Drooping leaves and soaked, sour-smelling soil → Roots have no air. *Why:* Where the yellowing starts, and what the soil is like, point to the cause. Nitrogen moves to new growth, so old leaves yellow first. Iron cannot move, so new leaves show it.
@@ -667,7 +667,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 9. (truefalse) Plants cannot use the nitrogen gas in the air directly.  
    **Answer:** True. *Why:* True. Nitrogen gas has its atoms locked together very tightly. Plants need nitrogen that has been fixed, such as nitrate in the soil.
 10. (mcq) A farmer grows black gram after a crop of rice in the same field. What is the farmer making use of?  
-   Options: Bacteria in the dal's roots that put nitrogen into the soil / A way of making the soil harder / A way of scaring away insects / A way of drying the soil  
+   Options: A way of making the soil harder / A way of scaring away insects / Bacteria in the dal's roots that put nitrogen into the soil / A way of drying the soil  
    **Answer:** Bacteria in the dal's roots that put nitrogen into the soil. *Why:* Rice takes nitrogen out of the soil. A legume such as black gram has root nodules with bacteria that fix nitrogen from the air, and leaves some for the next crop.
 11. (fill) A bean plant gives sugar to the bacteria in their root nodules. In return, the bacteria give the plant ____.  
    **Answer:** ['nitrogen']. *Why:* The bacteria turn nitrogen gas from the air into a form the plant can use. Both sides gain from the trade.
@@ -680,21 +680,21 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 15. (perspective) A grandmother in Kochi, her grandson the first child and a neighbour argue about a banana plant with yellow, drooping leaves in a pot with no hole.  
    **Answer:** Any choice can be strong if it uses the science. A strong answer follows the first child: check the soil, and if it is soaked, drain it, because roots need air. It gives Meenakshi credit that a dry plant does droop, and Hari credit that a plant may need minerals later. But more water or fertiliser on drowned roots makes things worse.. *Why:* The first child's advice checks the cause before acting. Water and fertiliser would not help roots that have no air. The other views are reasonable guesses, but they come before the facts.
 16. (mcq) Which is the most useful first check for a drooping plant in a pot?  
-   Options: Push a finger into the soil and feel whether it is wet or dry, and check the drain hole / Add fertiliser at once / Move the plant into a dark cupboard / Water the plant again just in case  
+   Options: Add fertiliser at once / Push a finger into the soil and feel whether it is wet or dry, and check the drain hole / Move the plant into a dark cupboard / Water the plant again just in case  
    **Answer:** Push a finger into the soil and feel whether it is wet or dry, and check the drain hole. *Why:* The soil tells you whether the problem is too little water or too much. The drain hole tells you whether water can get out. Acting before checking can make a drowning plant worse.
 ### Minerals, Partners and the Shortest Plank (stretch) (stretch, 16 questions)
 1. (mcq) Bean seedlings grew in three jars. Jar A had plain water and the seedlings were pale and small. Jar B had a small dose of fertiliser and the seedlings were green and tall. Jar C had a big dose and the seedlings were short with brown root tips. What does the difference between B and C show?  
-   Options: More fertiliser is not always better, because too much can harm roots / More fertiliser is always better / Fertiliser has no effect / Brown tips mean the roots are healthy  
+   Options: More fertiliser is always better / More fertiliser is not always better, because too much can harm roots / Fertiliser has no effect / Brown tips mean the roots are healthy  
    **Answer:** More fertiliser is not always better, because too much can harm roots. *Why:* A small dose gave the best growth, and a large dose harmed the roots. A plant needs minerals, but a strong dose of salts can scorch the roots. The plain water jar shows that the seedlings do need minerals.
 2. (mcq) Why can a plant surrounded by air still be short of nitrogen?  
-   Options: The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed / There is no nitrogen in air / Plants breathe only oxygen / Nitrogen is poisonous to plants  
+   Options: There is no nitrogen in air / The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed / Plants breathe only oxygen / Nitrogen is poisonous to plants  
    **Answer:** The atoms in nitrogen gas are locked together, and the plant cannot use the gas until it is fixed. *Why:* About 78 parts in 100 of the air is nitrogen gas. Its atoms are joined too strongly for a plant to use. Bacteria, lightning and factories must first fix it into forms such as nitrate.
 3. (fill) Fixing nitrogen means joining nitrogen from the ____ to other atoms, so that plants can use it.  
    **Answer:** ['air', 'gas']. *Why:* Nitrogen gas in the air is turned into nitrate or ammonium. Bacteria, lightning and factories can all do it.
 4. (truefalse) Plants grown with their roots in water holding only a few mineral salts, and no soil, can grow well and make seeds.  
    **Answer:** True. *Why:* True. Julius Sachs and Wilhelm Knop showed this around 1860. The plant makes their own food from carbon dioxide and water, and takes in only minerals and water through the roots.
 5. (mcq) A plant has plenty of nitrogen and potassium but very little phosphorus. A farmer adds a lot more nitrogen. What does the shortest plank idea predict?  
-   Options: Little change, because phosphorus is still the shortest supply / The plant will grow twice as fast / The plant will make their own phosphorus / The plant will stop needing phosphorus  
+   Options: The plant will grow twice as fast / The plant will make their own phosphorus / Little change, because phosphorus is still the shortest supply / The plant will stop needing phosphorus  
    **Answer:** Little change, because phosphorus is still the shortest supply. *Why:* Growth is held back by the shortest supply. Adding more of a mineral that is already plentiful does not help until the limiting one is supplied.
 6. (match) Match each partnership to what each side gives.  
    **Answer:** Legume and root bacteria → The plant gives sugar and the bacteria give nitrogen; Tree and root fungus → The plant gives sugar and the fungus gives water and phosphorus; Azolla and the bacteria in the leaves → The fern gives a home and the bacteria give nitrogen; Compost heap and decomposers → The dead plants give food and the decomposers give back minerals. *Why:* In each partnership, both sides get something. This kind of trade between different living things is very common.
@@ -714,19 +714,19 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 13. (truefalse) Carl Sprengel described the shortest plank idea before Justus von Liebig made it famous.  
    **Answer:** True. *Why:* True. Sprengel wrote about it in 1828, and Liebig made it famous in the 1840s. Some scientists now say it should be called the Sprengel-Liebig law.
 14. (mcq) Why did the chemistry of Fritz Haber and Carl Bosch matter for feeding people?  
-   Options: It let factories fix nitrogen from the air into fertiliser on a huge scale / It made soil from rock / It taught plants to fix their own nitrogen / It made rain  
+   Options: It made soil from rock / It taught plants to fix their own nitrogen / It made rain / It let factories fix nitrogen from the air into fertiliser on a huge scale  
    **Answer:** It let factories fix nitrogen from the air into fertiliser on a huge scale. *Why:* Before the early 1900s, nitrogen for crops came from manure, legumes and a few mineral deposits. Factory ammonia gave much more. It is estimated to feed roughly half the people alive today.
 15. (perspective) Three people argue about organic and factory fertiliser.  
    **Answer:** Any choice can be strong. A strong answer notes that a root takes up the same simple minerals from either kind, but that manure and compost also open the soil and feed soil life, while factory fertiliser is quick and exact. It gives Sunita credit that supply and cost are real limits, or Lakshmi credit for looking after the soil over many years.. *Why:* Each view has a real point. The science says the minerals are the same, but the effects on soil structure, cost and run-off are different. There is no single right answer.
 16. (mcq) In 2023, a group of scientists reviewed the studies on fungus networks in forests. They said that some popular claims go beyond the evidence. What does this show about science?  
-   Options: Scientists check each other's claims, and claims should match the evidence / Science is always wrong / Popular books are always right / Fungus networks do not exist  
+   Options: Science is always wrong / Popular books are always right / Fungus networks do not exist / Scientists check each other's claims, and claims should match the evidence  
    **Answer:** Scientists check each other's claims, and claims should match the evidence. *Why:* The reviewers did not say that fungus networks do not exist. They said that some claims were stronger than the studies. Checking and correcting is how science works.
 ### Evidence, Tests and Trade-offs (challenge) (challenge, 17 questions)
 1. (mcq) Here are the results for three soils in the Soil Breath test. Which soil has the most room for air for roots to breathe?  
-   Options: Loose garden soil / Sand / Packed garden soil / They all have exactly the same  
+   Options: Sand / Loose garden soil / Packed garden soil / They all have exactly the same  
    **Answer:** Loose garden soil. *Why:* The bar for loose garden soil is the tallest, at 44. Packed soil has the smallest. Packing squeezes the gaps, so there is less air for roots.
 2. (mcq) In the Soil Breath test, you measure the water that goes in, but you say you have measured the air. Why is that fair?  
-   Options: The water fills the gaps and pushes the air out, so the water equals the air that was there / Water and air are the same thing / The air is heavier than water / The air turns into water in the soil  
+   Options: Water and air are the same thing / The water fills the gaps and pushes the air out, so the water equals the air that was there / The air is heavier than water / The air turns into water in the soil  
    **Answer:** The water fills the gaps and pushes the air out, so the water equals the air that was there. *Why:* The water can only go where the air was. When the water reaches the top, it has taken the place of all the air in the gaps. So the volume of water equals the volume of gaps.
 3. (fill) A 50-kilogram bag of fertiliser is labelled 20-10-10, which gives the percentages of nitrogen, phosphorus and potassium. About ____ kilograms of the bag are nitrogen.  
    **Answer:** ['10', 'ten']. *Why:* 20 per cent of 50 kilograms is 10 kilograms, because 50 divided by 5 is 10. The rest of the bag is other things.
@@ -735,7 +735,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 5. (match) Match each plant to the way they cope with their roots or their soil.  
    **Answer:** Rice → Air channels carry air from the leaves to the roots in mud; Mangrove → Pencil-like roots stick up out of the mud to breathe; Groundnut → Nodules on the roots hold nitrogen-fixing bacteria; A forest tree → Fungus threads help gather phosphorus and water. *Why:* Each plant has their own solution. Rice and mangrove solve the problem of no air in mud. The groundnut solves the problem of low nitrogen. The tree uses help from fungi.
 6. (mcq) The saucer under a pot plant has been full of water for a week, and the leaves are yellow. What is the best first action?  
-   Options: Empty the saucer, check the drain hole and let the soil dry a little before watering / Add a spoon of fertiliser / Water the plant more / Cover the pot with a plastic bag  
+   Options: Add a spoon of fertiliser / Water the plant more / Cover the pot with a plastic bag / Empty the saucer, check the drain hole and let the soil dry a little before watering  
    **Answer:** Empty the saucer, check the drain hole and let the soil dry a little before watering. *Why:* The roots are probably short of air. Letting the water drain and the soil dry a little brings air back into the gaps. Fertiliser or more water would make the problem worse.
 7. (mcq) Farms that grow lettuce with their roots in flowing water often pump air bubbles into the water. Why?  
    Options: Roots in water still need oxygen to breathe / The bubbles feed the lettuce / The bubbles keep the water cold / The bubbles make the lettuce taste sweeter  
@@ -755,7 +755,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 14. (perspective) Three people discuss the Green Revolution in India.  
    **Answer:** Any choice can be strong. A strong answer uses facts about fertiliser, water and soil, for example that fertiliser raises yields but uses water and money, and that rotating crops and compost might help the soil. It gives each person credit: Dr. Swati for the hunger that was avoided, Harjeet for the real cost, or Anbu for the idea of keeping variety.. *Why:* All three views are partly right. The honest answer weighs a large benefit against real costs, and looks for ways to keep the benefit while reducing the costs.
 15. (mcq) Scientists found that carbon moved between trees through fungus threads. Which of these conclusions goes beyond that evidence?  
-   Options: Old trees care for their own young on purpose / Carbon can move between trees through fungi / Fungi can link the roots of different trees / Some carbon passes through the fungus  
+   Options: Carbon can move between trees through fungi / Fungi can link the roots of different trees / Old trees care for their own young on purpose / Some carbon passes through the fungus  
    **Answer:** Old trees care for their own young on purpose. *Why:* Three of the statements describe what was measured. The claim that old trees care for their own young on purpose says why the carbon moved. Moving a small amount of carbon does not show that a tree acts on purpose to help their young.
 16. (truefalse) Roots grow evenly in all directions, whatever is in the soil.  
    **Answer:** False. *Why:* False. Roots grow towards water and mineral-rich patches, branch more where food is plentiful, and bend away from stones and salt.
@@ -770,39 +770,39 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 
 ## Quiz
 1. (mcq) About what share of a good, loose soil is gaps that hold air and water?  
-   Options: Between a third and a half / Almost none / All of it / One in every hundred parts  
+   Options: Almost none / All of it / One in every hundred parts / Between a third and a half  
    **Answer:** Between a third and a half. *Why:* Soil is grains with gaps between them. In loose garden soil, the gaps can be nearly half of the volume. Packed soil has less.
 2. (mcq) A plant in a pot droops. The soil is soaked and smells sour. What is the most likely problem?  
-   Options: The roots are drowning for lack of air / The plant needs more water / The plant needs more fertiliser / The plant needs less light  
+   Options: The plant needs more water / The plant needs more fertiliser / The roots are drowning for lack of air / The plant needs less light  
    **Answer:** The roots are drowning for lack of air. *Why:* Soaked soil has no air in its gaps. Roots without oxygen cannot work, and begin to rot, which gives the sour smell. More water or fertiliser would make this worse.
 3. (mcq) Which three minerals do plants need in the largest amounts?  
-   Options: Nitrogen, phosphorus and potassium / Iron, zinc and copper / Sodium, chlorine and calcium / Carbon, oxygen and hydrogen  
+   Options: Iron, zinc and copper / Sodium, chlorine and calcium / Carbon, oxygen and hydrogen / Nitrogen, phosphorus and potassium  
    **Answer:** Nitrogen, phosphorus and potassium. *Why:* Nitrogen, phosphorus and potassium are the three numbers on a bag of fertiliser. Iron, zinc and copper are needed in tiny amounts. Carbon, oxygen and hydrogen come from air and water.
 4. (mcq) A soil has plenty of phosphorus and potassium but very little nitrogen. What limits the crop?  
-   Options: Nitrogen, the shortest supply / Phosphorus, the most plentiful / Potassium, the most plentiful / Nothing limits it  
+   Options: Phosphorus, the most plentiful / Potassium, the most plentiful / Nitrogen, the shortest supply / Nothing limits it  
    **Answer:** Nitrogen, the shortest supply. *Why:* Growth is held back by the shortest supply. The plentiful minerals do not help until the shortest one is added.
 5. (mcq) Plants grown with their roots in water that holds a few mineral salts, and no soil, grew well and made seeds. What did this show?  
    Options: Soil gives minerals, water and support, but the plant makes their own food / Plants eat soil / Plants do not need minerals / Plants need humus  
    **Answer:** Soil gives minerals, water and support, but the plant makes their own food. *Why:* The plants had no soil and no humus, and still grew. So the plant's food is made in the leaves. The soil supplies minerals, water and a place to hold on.
 6. (mcq) What do bacteria in a bean's root nodules give the plant, and what do they get from the plant?  
-   Options: They give nitrogen and get sugar / They give sugar and get nitrogen / They give water and get light / They give nothing and get a home  
+   Options: They give sugar and get nitrogen / They give water and get light / They give nitrogen and get sugar / They give nothing and get a home  
    **Answer:** They give nitrogen and get sugar. *Why:* The bacteria fix nitrogen from the air into a form the plant can use. The plant gives them sugar from photosynthesis. Both sides gain.
 7. (mcq) Why can a plant not use the nitrogen gas that makes up most of the air?  
    Options: Its atoms are locked together tightly, and it must be fixed first / It is too heavy / It is poisonous / It is the wrong colour  
    **Answer:** Its atoms are locked together tightly, and it must be fixed first. *Why:* The two atoms in a nitrogen molecule are joined by a very strong bond. Only bacteria, lightning and factories can break it and join the nitrogen to other atoms.
 8. (mcq) What does a fungus on a tree's roots mainly bring to the tree?  
-   Options: Water and minerals such as phosphorus, in return for sugar / Light / Carbon dioxide / Sugar, in return for water  
+   Options: Light / Water and minerals such as phosphorus, in return for sugar / Carbon dioxide / Sugar, in return for water  
    **Answer:** Water and minerals such as phosphorus, in return for sugar. *Why:* Fungus threads reach farther into the soil than roots, and gather minerals and water. The tree pays with sugar from photosynthesis.
 9. (truefalse) Scientists all agree that trees use fungus networks to care for their young on purpose.  
    **Answer:** False. *Why:* False. Carbon does move between trees linked by fungi, but scientists disagree about how much, and whether the trees do it on purpose. This is still being tested.
 10. (mcq) A day after a big dose of fertiliser, the leaf edges of a pot plant turn brown and crispy. What is the most likely cause?  
-   Options: Fertiliser salts have burned the roots and leaf edges / The plant needs more fertiliser / The plant has too little water in the saucer / The plant needs less air  
+   Options: The plant needs more fertiliser / Fertiliser salts have burned the roots and leaf edges / The plant has too little water in the saucer / The plant needs less air  
    **Answer:** Fertiliser salts have burned the roots and leaf edges. *Why:* Strong fertiliser salts draw water out of roots and scorch the leaf edges. The fix is to flush the pot with plenty of water and use a smaller dose next time.
 11. (mcq) Which statement about a plant's needs in the soil is correct?  
-   Options: Roots need air as well as water / Roots need only water / Roots need only minerals / Roots need no air because they are underground  
+   Options: Roots need only water / Roots need only minerals / Roots need air as well as water / Roots need no air because they are underground  
    **Answer:** Roots need air as well as water. *Why:* Roots are alive and respire, so they need oxygen. The gaps in soil hold the air they breathe. Waterlogged soil has no air.
 12. (mcq) In 1828, Carl Sprengel described the shortest plank idea, but it became known as Liebig's law. What does this show about science?  
-   Options: Credit does not always go to the first person who found something / The first person always gets the credit / Only famous people can make discoveries / Ideas cannot be named after anyone  
+   Options: The first person always gets the credit / Only famous people can make discoveries / Credit does not always go to the first person who found something / Ideas cannot be named after anyone  
    **Answer:** Credit does not always go to the first person who found something. *Why:* Liebig was famous and wrote a best-selling book, so his name stuck. Sprengel had the idea first. Looking back at who found what helps give credit where it is due.
 
 ## Applications

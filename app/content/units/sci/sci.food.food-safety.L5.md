@@ -599,7 +599,7 @@ Mallika did not look up from the fire.
 ## Worksheets
 ### How food is lost, and where it keeps (core, 16 questions)
 1. (mcq) A biscuit left open in the monsoon turns soft. In which way was it lost?  
-   Options: Water moved in from the air / Microbes ate the biscuit / The biscuit's own life went on / Pests got in  
+   Options: Microbes ate the biscuit / The biscuit's own life went on / Water moved in from the air / Pests got in  
    **Answer:** Water moved in from the air. *Why:* A dry biscuit takes in water from damp air and turns soft. No microbe is needed. Microbes would leave mould, slime or a bad smell.
 2. (match) Match each sign to the way the food was lost.  
    **Answer:** Slime on old rice → Microbes ate the food; A shoot on a potato → The food's own life went on; Small beetles in the atta → Pests got in; A sharp smell from old oil → Air and warmth changed it; A hard, dry chapati → Water moved out. *Why:* Each way of losing food leaves its own sign. Reading the sign tells you which kind of storage would have saved the food.
@@ -608,7 +608,7 @@ Mallika did not look up from the fire.
 4. (truefalse) Food that looks and smells fine is always safe to eat.  
    **Answer:** False. *Why:* False. Spoilage microbes change the look and smell. Many harmful bacteria and toxins change nothing. Safety depends on how warm the food was kept, and for how long.
 5. (mcq) Which microbes are most likely to spoil a bowl of wet cooked rice first?  
-   Options: Bacteria / Moulds / Yeasts / Weevils  
+   Options: Moulds / Yeasts / Weevils / Bacteria  
    **Answer:** Bacteria. *Why:* Bacteria multiply fastest on wet food that is not sour. Moulds are slower, and they win only on drier or sourer food. Weevils are insects, and they eat dry grain.
 6. (sort) Sort these foods by the place where each keeps best.  
    **Answer:** cooked dal → Fridge; milk → Fridge; rice → Dry, airtight dabba; atta → Dry, airtight dabba; potatoes → Cool, dark, airy basket; onions → Cool, dark, airy basket. *Why:* Cooked dal and milk are perishable, so they need cold. Rice and atta are lost to damp and pests, so they need a dry, sealed place. Potatoes and onions are alive, so they need dark and moving air.
@@ -617,7 +617,7 @@ Mallika did not look up from the fire.
 8. (fill) A chemical added to food to slow the growth of microbes is called a ____.  
    **Answer:** ['preservative']. *Why:* A preservative keeps food for longer when it is used in the right amount. Too little does not stop the microbes, and too much can harm the eater.
 9. (mcq) Why is cooked food cooled in shallow vessels?  
-   Options: Every part is near the surface / Shallow vessels are cleaner / Thin food tastes better / The fridge holds more of them  
+   Options: Shallow vessels are cleaner / Thin food tastes better / Every part is near the surface / The fridge holds more of them  
    **Answer:** Every part is near the surface. *Why:* Heat leaves food only through the surface. In a shallow layer no part is far from the surface, so the whole of the food cools fast.
 10. (fill) The range of temperature from about 5 to 60 degrees Celsius is called the ____ zone.  
    **Answer:** ['danger']. *Why:* Bacteria multiply in the danger zone, fastest between 20 and 45 degrees Celsius. Cooked food should spend no more than about two hours there.
@@ -632,13 +632,13 @@ Mallika did not look up from the fire.
 15. (order) Put these in order, from the food that keeps for the shortest time to the longest.  
    **Answer:** ['Cooked dal on the counter', 'Curd in the fridge', 'Onions in an airy basket', 'Dry rice in an airtight bin']. *Why:* Warm, wet dal lasts about two hours. Cold, sour curd lasts about a week. Onions last about two months, and dry rice about two years. Dryness protects longest.
 16. (mcq) Who needs the most care with food at a family meal?  
-   Options: A baby of 8 months / A healthy girl of 10 / A healthy man of 30 / A football player of 20  
+   Options: A healthy girl of 10 / A healthy man of 30 / A baby of 8 months / A football player of 20  
    **Answer:** A baby of 8 months. *Why:* A baby has less stomach acid, defences that are still learning, and a small body that loses water fast. The other three are healthy and well past babyhood.
 ### Time, temperature and extra care (stretch, 16 questions)
 1. (count) Ten bacteria double every 20 minutes. How many are there after 2 hours?  
    **Answer:** 640. *Why:* Two hours hold six lots of 20 minutes. 10 doubles to 20, 40, 80, 160, 320 and 640.
 2. (mcq) Bacteria wait before they start to multiply in new food. What is this wait called?  
-   Options: Lag time / Doubling time / Shelf life / Danger zone  
+   Options: Doubling time / Shelf life / Danger zone / Lag time  
    **Answer:** Lag time. *Why:* The lag time is the wait before doubling begins. Doubling time is how long one doubling takes once they have started.
 3. (write) Dal sat out for one hour at lunch and one hour at dinner. Why do the two hours add up?  
    **Answer:** The bacteria that multiplied at lunch are still in the dal. The fridge only stopped them for a while. At dinner they go on doubling from where they stopped.. *Why:* A strong answer says that cold pauses bacteria and does not remove them, so the count carries on.
@@ -675,7 +675,7 @@ Mallika did not look up from the fire.
 1. (write) In Dry Enough, salt stuck to the glass in the jar of wetted rice. Explain where the water came from.  
    **Answer:** The water came out of the rice. The rice looked dry, but it still held extra water inside. In the closed jar that water passed into the air, and the dry salt took it up and turned sticky.. *Why:* A strong answer traces the water from the rice, to the air in the jar, to the salt.
 2. (mcq) Why does a mould poison still matter after the mouldy food is cooked?  
-   Options: Cooking does not destroy the poison / Cooking makes the mould grow / The mould hides from the heat / Cooked mould tastes bitter  
+   Options: Cooking makes the mould grow / Cooking does not destroy the poison / The mould hides from the heat / Cooked mould tastes bitter  
    **Answer:** Cooking does not destroy the poison. *Why:* Aflatoxin and some other mould poisons mostly survive roasting and boiling. The heat kills the mould, but most of the poison the mould made stays in the food.
 3. (count) A bowl cools in 1 hour. At double the width it takes 4 hours. And at 4 times the width?  
    **Answer:** 16. *Why:* Four times as wide is twice as wide, and then twice as wide again. So the time is 4 times 4, which is 16 hours.
@@ -688,7 +688,7 @@ Mallika did not look up from the fire.
 7. (write) Birds on many farms fall ill. How could you find out whether a germ or the feed is the cause?  
    **Answer:** Find out what all the ill flocks have in common. If they share one batch of feed, and flocks on other feed stay well, the feed is suspected. Then give that feed to a few healthy birds and see whether they fall ill. If a germ were the cause, ill birds would pass the illness to healthy birds beside them.. *Why:* A strong answer compares ill and healthy flocks, and then tests the suspected cause directly.
 8. (mcq) Weevils are sealed inside an airtight bin of grain. What happens over the next weeks?  
-   Options: The oxygen runs low and they stop feeding / They multiply faster than before / The grain turns to flour / Nothing changes  
+   Options: They multiply faster than before / The grain turns to flour / Nothing changes / The oxygen runs low and they stop feeding  
    **Answer:** The oxygen runs low and they stop feeding. *Why:* The insects and the grain use up the oxygen in the sealed bin. With too little oxygen the weevils stop feeding and die. Farmers store grain in sealed bags for this reason.
 9. (fill) Shops sell the oldest stock first. This rule is called first in, first ____.  
    **Answer:** ['out']. *Why:* First in, first out means the food that arrived first is used first. At home, older food goes to the front and new food behind it.
@@ -699,7 +699,7 @@ Mallika did not look up from the fire.
 12. (write) Why does a nose warn you about spoiled food, but not about the most harmful microbes?  
    **Answer:** A nose picks up the acids and gases that huge numbers of spoilage microbes make. Many harmful bacteria make people ill in small numbers, and they make no smell. Some leave a toxin that has no smell either.. *Why:* A strong answer separates spoilage, which makes smells, from harm, which may make none.
 13. (mcq) Which storage place suits potatoes best?  
-   Options: A dark, airy basket / A sunny window sill / A sealed plastic bag / The freezer  
+   Options: A sunny window sill / A sealed plastic bag / A dark, airy basket / The freezer  
    **Answer:** A dark, airy basket. *Why:* Potatoes are alive. Light turns them green, and the green part holds a poison called solanine. A sealed bag traps damp, so they rot. Freezing breaks their cells.
 14. (truefalse) On a day hotter than 32 degrees Celsius, cooked food should be chilled within one hour.  
    **Answer:** True. *Why:* True. Bacteria double faster as food gets warmer. So food safety agencies shorten the two-hour rule to one hour on very hot days.
@@ -716,13 +716,13 @@ Mallika did not look up from the fire.
    Options: Air and warmth turned the oil rancid / Bacteria ate the nuts / The nuts sprouted / Water moved into the nuts  
    **Answer:** Air and warmth turned the oil rancid. *Why:* The oil in nuts slowly changes in air, light and warmth, and smells rancid. Dry nuts hold too little water for bacteria.
 2. (mcq) How do microbes eat solid food?  
-   Options: They digest it outside their bodies / They bite off small pieces / They wait for it to melt / They breathe it in  
+   Options: They bite off small pieces / They digest it outside their bodies / They wait for it to melt / They breathe it in  
    **Answer:** They digest it outside their bodies. *Why:* A microbe has no mouth. Enzymes cut the food outside the microbe's body, and the small pieces pass in. The leftovers are the sourness, smell and slime of spoiled food.
 3. (mcq) Which food is most likely to grow fuzzy mould, and not slime?  
-   Options: Bread / Cooked dal / Milk / Fish curry  
+   Options: Cooked dal / Bread / Milk / Fish curry  
    **Answer:** Bread. *Why:* Bread is too dry for most bacteria, so moulds spoil it. Dal, milk and fish curry are wet and not sour, so bacteria get there first.
 4. (mcq) Why can cooked food stay out for only about two hours?  
-   Options: Bacteria in warm food keep doubling / The food loses its vitamins / Flies need two hours to find it / The food dries out  
+   Options: The food loses its vitamins / Bacteria in warm food keep doubling / Flies need two hours to find it / The food dries out  
    **Answer:** Bacteria in warm food keep doubling. *Why:* In warm food some bacteria double every 20 minutes. After a short wait, their numbers rise faster and faster.
 5. (mcq) Two cups of hot rice are pressed into a deep bowl. Which part cools last?  
    Options: The middle / The top / The side / The rim  
@@ -733,22 +733,22 @@ Mallika did not look up from the fire.
    Options: In an airtight dabba / In an open basket / In a paper bag near the sink / On the window sill  
    **Answer:** In an airtight dabba. *Why:* Atta takes in damp from monsoon air, and damp atta grows mould and draws insects. An airtight dabba keeps the damp out.
 8. (mcq) Which of these must a baby under one year never be given?  
-   Options: Honey / Mashed idli / Boiled and cooled water / Mashed banana  
+   Options: Mashed idli / Boiled and cooled water / Honey / Mashed banana  
    **Answer:** Honey. *Why:* Honey can hold spores that grow in a baby's gut and make a toxin. The other three are safe foods for a baby.
 9. (mcq) Which meal needs the most care?  
-   Options: Sambar for 200 guests, cooked the night before / Hot dosas eaten straight off the tawa / A banana peeled and eaten / Roasted chana from a dabba  
+   Options: Hot dosas eaten straight off the tawa / Sambar for 200 guests, cooked the night before / A banana peeled and eaten / Roasted chana from a dabba  
    **Answer:** Sambar for 200 guests, cooked the night before. *Why:* A large amount cooked hours ahead cools slowly, and many people will eat it. The other three are fresh and hot, or protected by a peel, or dry.
 10. (mcq) In a fair test of how two vessels cool hot food, what must be different?  
-   Options: Only the shape of the vessel / The amount of food / The room / The thermometer  
+   Options: The amount of food / The room / Only the shape of the vessel / The thermometer  
    **Answer:** Only the shape of the vessel. *Why:* A fair test changes one thing and keeps the rest the same. Then any difference in the result comes from that one thing.
 11. (mcq) Groundnuts stored damp grow a mould. Why is roasting them not enough?  
    Options: The mould's poison survives the heat / Roasting adds water / Mould grows faster when hot / Roasted nuts turn rancid  
    **Answer:** The mould's poison survives the heat. *Why:* The mould makes a poison called aflatoxin. Roasting kills the mould, but most of the poison stays. Mouldy and shrivelled nuts are thrown away.
 12. (mcq) A cook adds far too much preservative to a sauce that will be sold. What might happen?  
-   Options: It can harm the person who eats the sauce / It makes the sauce safe for ever / Nothing, because more preservative is always better  
+   Options: It makes the sauce safe for ever / It can harm the person who eats the sauce / Nothing, because more preservative is always better  
    **Answer:** It can harm the person who eats the sauce. *Why:* A preservative works in a set amount. Too much can harm the eater, and too little may not stop the microbes. Food law sets the limit for each one.
 13. (mcq) Dal is frozen, then melts in a power cut. The family freezes it again. What is the problem?  
-   Options: Microbes that the cold had slowed can start to grow again when the dal melts / The dal turns sweet / Nothing, because freezing kills every microbe  
+   Options: The dal turns sweet / Nothing, because freezing kills every microbe / Microbes that the cold had slowed can start to grow again when the dal melts  
    **Answer:** Microbes that the cold had slowed can start to grow again when the dal melts. *Why:* Freezing only slows microbes. When the dal melts, they can grow again, and freezing it a second time does not clean the food.
 
 ## Applications

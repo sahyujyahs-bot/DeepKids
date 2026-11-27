@@ -572,11 +572,11 @@
       "t": "mcq",
       "q": "A lab tests 100 seeds, not 5, from a big sack. What is the main reason?",
       "options": [
-       "A bigger sample gives a steadier answer",
        "Small samples take longer to count",
-       "Five seeds cannot germinate alone"
+       "Five seeds cannot germinate alone",
+       "A bigger sample gives a steadier answer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "With 5 seeds, one dead seed changes the answer by 20 percent, so luck decides the result. With 100 seeds, one dead seed changes the answer by 1 percent. This is a game moment, so talk about it and play on."
      },
      "context": "This is the last step of Scoop and Guess. You find out which sample size gave the closest guesses about the seeds in the dabba."
@@ -945,11 +945,11 @@
       "t": "mcq",
       "q": "In the Freezer Test, why do dry seeds go in the freezer too?",
       "options": [
-       "To see what cold does to a dry seed",
        "To keep the soaked seeds company",
-       "To make the dry seeds wet"
+       "To make the dry seeds wet",
+       "To see what cold does to a dry seed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Group B shows what cold alone does to a dry seed. Without group B you could not tell whether cold or water caused a result. If you chose another answer, remember that each group is there to test one thing."
      },
      "parent": "The soaked seeds should be swollen but should not yet show a root. In a very hot room, soak for 6 hours.",
@@ -1458,11 +1458,11 @@
       "t": "mcq",
       "q": "In the Five Jars table, which two jars test whether moong seeds need light?",
       "options": [
-       "Jar 2 and jar 4",
        "Jar 1 and jar 2",
+       "Jar 2 and jar 4",
        "Jar 3 and jar 5"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Jars 2 and 4 are both wet and warm, and only the light differs. Jar 4 in the dark germinated fully, so moong do not need light. Jars 1 and 2 differ in water, not light."
      },
      "parent": "The oil in jar 5 stops air from dissolving into the water, so those seeds get almost no oxygen.",
@@ -1853,11 +1853,11 @@
       "t": "mcq",
       "q": "In a soaked chana, what are the two big halves?",
       "options": [
-       "The food store for the young plant",
        "Two young plants",
+       "The food store for the young plant",
        "The seed coat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The two halves are the cotyledons, which hold the food. The young plant is the tiny pointed part joined to them. If you chose two plants, look again: there is only one tiny root."
      },
      "parent": "The skin is the seed coat. The halves are the cotyledons. The pointed tip under the beak is the radicle, and the tiny folded tip between the halves is the plumule.",
@@ -2247,12 +2247,12 @@
      "t": "mcq",
      "p": "Which part of a seed is the young plant?",
      "opts": [
-      "The embryo",
       "The seed coat",
       "The food store",
+      "The embryo",
       "The soil around the seed"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The embryo is the young plant, with a tiny root and a tiny shoot. The seed coat protects the embryo, and the food store feeds the embryo.",
      "outcome": 0
     },
@@ -2315,12 +2315,12 @@
      "t": "mcq",
      "p": "To test whether seeds need water, which two jars should you compare?",
      "opts": [
-      "Wet warm jar and dry warm jar",
       "Wet warm jar and wet cold jar",
       "Dry warm jar and wet cold jar",
-      "Two dry warm jars"
+      "Two dry warm jars",
+      "Wet warm jar and dry warm jar"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Only the water should differ between the two jars. If warmth changed too, you could not tell which one caused the result.",
      "outcome": 1
     },
@@ -2376,12 +2376,12 @@
      "t": "mcq",
      "p": "What happens inside a soaked seed in a freezer?",
      "opts": [
-      "Ice crystals tear the cells",
       "The food store melts",
+      "Ice crystals tear the cells",
       "The seed dries out safely",
       "The embryo grows faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A soaked seed is full of water. The water freezes into sharp crystals that tear the cell membranes, and the cells die.",
      "outcome": 3
     },
@@ -2480,12 +2480,12 @@
      "t": "mcq",
      "p": "Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?",
      "opts": [
-      "Cold and water together",
       "Cold alone",
       "Water alone",
-      "Old age"
+      "Old age",
+      "Cold and water together"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Dry frozen seeds lived, so cold alone is not the cause. Soaked seeds on the shelf lived, so water alone is not the cause. Only the group with both died.",
      "outcome": 3,
      "how": "e1"
@@ -2635,12 +2635,12 @@
      "t": "mcq",
      "p": "Why does a seed bank regrow a sample when germination falls below 85 percent?",
      "opts": [
-      "Fresh seeds replace the ageing ones",
       "The freezer has become too full",
       "Old seeds grow into weeds",
-      "Farmers ask for bigger seeds"
+      "Farmers ask for bigger seeds",
+      "Fresh seeds replace the ageing ones"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.",
      "outcome": 6
     },
@@ -2734,12 +2734,12 @@
      "t": "mcq",
      "p": "Two groups of 20 seeds score 95 percent and 90 percent. What is the fairest conclusion?",
      "opts": [
-      "No clear difference: it is one seed",
       "The first group is clearly better",
       "The second group is dying",
-      "The whole test failed"
+      "The whole test failed",
+      "No clear difference: it is one seed"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With 20 seeds, 5 percent is a single seed. One seed more or less can happen by chance, so the two groups are about the same.",
      "outcome": 2
     },
@@ -2771,12 +2771,12 @@
      "t": "mcq",
      "p": "Why is waiting for a heavy rain safer for a desert seed than waking at the first drops?",
      "opts": [
-      "A woken seedling cannot go back to waiting",
       "Heavy rain is warmer than light rain",
       "Light rain washes the seeds away",
+      "A woken seedling cannot go back to waiting",
       "Seeds wake only at night"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Germination cannot be undone. After a light shower the soil soon dries, and a seedling dies. A heavy rain wets the soil for long enough for roots to grow deep.",
      "outcome": 5
     },
@@ -2914,12 +2914,12 @@
    "t": "mcq",
    "p": "What comes out of a germinating seed first?",
    "opts": [
-    "The root",
     "The shoot",
+    "The root",
     "A green leaf",
     "A flower bud"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The root, called the radicle, comes out first and turns down. The seedling needs water and a hold on the ground before anything else.",
    "outcome": 0
   },
@@ -2927,12 +2927,12 @@
    "t": "mcq",
    "p": "What feeds a seedling before the first green leaves open?",
    "opts": [
-    "The food store in the seed",
     "Sunlight",
     "The soil",
-    "Rainwater"
+    "Rainwater",
+    "The food store in the seed"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The embryo lives on the food the parent plant packed into the seed. That is why a seed can germinate in the dark.",
    "outcome": 0
   },
@@ -2940,12 +2940,12 @@
    "t": "mcq",
    "p": "Which three things do most seeds need to germinate?",
    "opts": [
-    "Water, oxygen and warmth",
     "Water, light and soil",
+    "Water, oxygen and warmth",
     "Soil, light and warmth",
     "Light, oxygen and fertiliser"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Fair tests show that seeds without water, air or warmth do not germinate. Most germinate without light or soil.",
    "outcome": 1
   },
@@ -2953,12 +2953,12 @@
    "t": "mcq",
    "p": "Seeds in a dark box germinate as well as seeds in the light. What does this show?",
    "opts": [
-    "These seeds do not need light",
     "Seeds need darkness",
+    "These seeds do not need light",
     "The test was unfair",
     "Light harms seeds"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two groups differ only in light, and the result is the same. So light does not matter for these seeds.",
    "outcome": 1
   },
@@ -2986,12 +2986,12 @@
    "t": "mcq",
    "p": "Why does a dry seed live through a night in a freezer?",
    "opts": [
-    "Too little water inside to form ice",
     "The seed coat keeps the cold out",
+    "Too little water inside to form ice",
     "A dry seed is already dead",
     "The seed grows a thicker coat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Freezing harms cells when the water in them turns to ice. A dry seed is only about one tenth water, held too tightly to freeze into crystals.",
    "outcome": 3
   },
@@ -2999,12 +2999,12 @@
    "t": "mcq",
    "p": "Soaked seeds are frozen, thawed and put on a wet cloth. What is most likely?",
    "opts": [
-    "They do not germinate",
     "They germinate faster",
+    "They do not germinate",
     "They germinate as usual",
     "They become dry seeds again"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ice crystals formed inside the wet cells and tore them. The cells leak and die when they thaw.",
    "outcome": 3
   },
@@ -3051,12 +3051,12 @@
    "t": "mcq",
    "p": "What can a farmer's field do for a crop variety that a freezer cannot?",
    "opts": [
-    "Let the crop keep adapting",
     "Keep the seeds safe from floods",
     "Stop the seeds from ageing",
-    "Hold thousands of varieties in one room"
+    "Hold thousands of varieties in one room",
+    "Let the crop keep adapting"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.",
    "outcome": 7
   },
@@ -3064,11 +3064,11 @@
    "t": "mcq",
    "p": "A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?",
    "opts": [
-    "Rabi",
     "Kharif",
+    "Rabi",
     "Zaid"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.",
    "outcome": 7
   }

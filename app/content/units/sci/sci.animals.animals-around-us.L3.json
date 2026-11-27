@@ -1382,11 +1382,11 @@
       "t": "mcq",
       "q": "In one test in a garden, the open sun was 44 °C, the shade 35 °C, and inside the hole 30 °C. Why was the hole coolest?",
       "options": [
-       "The Sun heats the top of the soil first, and soil passes heat down slowly.",
        "There is ice under the ground.",
-       "The thermometer was broken."
+       "The thermometer was broken.",
+       "The Sun heats the top of the soil first, and soil passes heat down slowly."
       ],
-      "a": 0,
+      "a": 2,
       "why": "The Sun heats the surface. Soil passes heat down very slowly, so a little way underground stays cool in the day. That is why many animals hide in burrows at noon. Picking 'ice' means guessing without evidence. Picking 'broken' is worth checking, but the same thermometer gave sensible readings in the other two places."
      },
      "parent": "In a flower pot the hole is usually only a few degrees cooler than the top, because the pot heats up from the sides. In garden soil the difference is bigger. Write what you really measure. The numbers in the question are made up, to show what a garden might give."
@@ -1514,11 +1514,11 @@
       "t": "mcq",
       "q": "Before rubbing, 12 ants crossed the spot in one minute. With a hand above, 11 crossed. In the first minute after rubbing, only 2 crossed. What is the best explanation?",
       "options": [
-       "The ants follow something on the floor, and rubbing took it away.",
        "The ants are scared of hands.",
+       "The ants follow something on the floor, and rubbing took it away.",
        "The ants were tired."
       ],
-      "a": 0,
+      "a": 1,
       "why": "A hand above the trail hardly changed anything, so the hand was not the reason. Rubbing the floor did. Ants leave a smell trail made of a chemical called a pheromone. Other ants follow the smell to the food and add their own as they go. Rubbing wiped the smell away, so the ants lost the path until some crossed and laid it again. Picking 'scared of hands' does not fit, because the ants walked on under the hand. Picking 'tired' does not explain why they stopped only at the rubbed strip."
      }
     },
@@ -1603,11 +1603,11 @@
       "t": "mcq",
       "q": "You saw a crow sitting on a wire for one minute. What can you say for sure?",
       "options": [
-       "The crow always sits on that wire.",
        "The crow sat on the wire this time.",
+       "The crow always sits on that wire.",
        "The crow lives on the wire."
       ],
-      "a": 1,
+      "a": 0,
       "why": "One watch tells you what happened once. To know what an animal usually does, you need to watch them many times. That is why we watch for a week. Picking 'always sits there' is a guess about a habit made from one look. Picking 'lives on the wire' mixes up sitting somewhere with living there."
      }
     }
@@ -1681,11 +1681,11 @@
       "t": "mcq",
       "q": "You find a neat round hole in an old tree trunk, high up. Who might use it?",
       "options": [
-       "A parakeet, an owl or a barbet, as a nest",
        "A cow, to sleep in",
+       "A parakeet, an owl or a barbet, as a nest",
        "Nobody. Holes are just empty."
       ],
-      "a": 0,
+      "a": 1,
       "why": "Holes in old trees are valuable homes. Barbets and woodpeckers dig them. Later, parakeets, owls, mynas and squirrels move in. Picking 'cow' ignores the size. Picking 'nobody' is a common mistake, because an empty-looking hole may be someone's home."
      }
     },
@@ -1933,10 +1933,10 @@
       "q": "Where do leopards live in India?",
       "options": [
        "Only in deep forests far from people",
-       "In forests, and also near villages and at the edge of cities like Mumbai",
-       "Only in zoos"
+       "Only in zoos",
+       "In forests, and also near villages and at the edge of cities like Mumbai"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Leopards live in many places, including farmland and the edges of towns. Sanjay Gandhi National Park, inside Mumbai, has leopards that walk past homes at night. Picking 'only deep forests' is the most common belief, but the evidence shows otherwise."
      }
     },
@@ -2158,10 +2158,10 @@
       "q": "Your ants were busy on the sugar tin every evening, but you never saw them there in the morning. What is the best claim?",
       "options": [
        "Ants hate mornings.",
-       "In my kitchen, the ants come to the sugar mostly in the evening.",
-       "All ants in the world eat only in the evening."
+       "All ants in the world eat only in the evening.",
+       "In my kitchen, the ants come to the sugar mostly in the evening."
       ],
-      "a": 1,
+      "a": 2,
       "why": "A good claim says what you found, where you found it, and no more. You watched one ant trail in one kitchen. Picking 'all ants in the world' goes far beyond your evidence. Picking 'hate mornings' is a guess about a feeling. Maybe the kitchen is busy with people in the morning, so the ants keep away."
      }
     },
@@ -2252,11 +2252,11 @@
       "t": "mcq",
       "q": "Why should a sparrow box have a small hole, about 3 cm wide?",
       "options": [
-       "So bigger birds like crows and mynas cannot get in and take the eggs",
        "So the sparrows feel squeezed",
-       "So the box looks nicer"
+       "So the box looks nicer",
+       "So bigger birds like crows and mynas cannot get in and take the eggs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small hole lets a sparrow in but keeps out bigger birds that might take the eggs or the box. Picking 'looks nicer' means thinking about us, not the bird. A good design starts with what the animal needs."
      }
     },
@@ -2382,12 +2382,12 @@
      "t": "mcq",
      "p": "A house gecko is hardly ever seen in the day. But every night they wait beside the tube light. Why there, at night?",
      "opts": [
-      "Moths and other insects fly to the light at night, so the gecko's food comes to them.",
       "Geckos cannot see at all in daylight.",
       "The tube light keeps them warm in winter.",
+      "Moths and other insects fly to the light at night, so the gecko's food comes to them.",
       "Geckos want to be near people."
      ],
-     "a": 0,
+     "a": 2,
      "why": "Many insects fly to lights at night. A gecko who waits by the light gets dinner without hunting far. Picking 'cannot see in daylight' is not true. Geckos see in the day, but they rest then. Their habit follows their food."
     },
     {
@@ -2476,11 +2476,11 @@
      "p": "It is noon in May, and the open ground is very hot. Where would a rat stay coolest?",
      "opts": [
       "Out on the open ground",
-      "On a sunny wall",
       "A hand's length down inside a burrow",
+      "On a sunny wall",
       "On the roof of a parked car"
      ],
-     "a": 2,
+     "a": 1,
      "why": "The Sun heats the top of the ground. Soil lets heat through very slowly, so a little way down it stays cool. If you did the Cool Home Test, you measured this yourself. Picking a sunny wall or a car roof puts the rat where the Sun hits hardest.",
      "how": "e2"
     },
@@ -2495,11 +2495,11 @@
      "p": "Crows dive at people who walk under one tree. They do it only for a few weeks in summer. What is the most likely reason?",
      "opts": [
       "The crows have gone mad.",
-      "They are guarding a nest with eggs or chicks.",
       "They want to play with people.",
+      "They are guarding a nest with eggs or chicks.",
       "They are lost."
      ],
-     "a": 1,
+     "a": 2,
      "why": "Crows guard their nest in the nesting months, and dive at anyone who walks close. In the story The Wire Nest, a girl called Tara found this by noting the time and place of every dive. Picking 'mad' explains nothing, and it does not explain why the diving stops when the chicks fly."
     },
     {
@@ -2654,11 +2654,11 @@
      "p": "In the Busy Times test, only one rainy morning was watched, and only 2 birds came to the bowl. Why can we not write 'Birds do not drink in the morning'?",
      "opts": [
       "Nothing is wrong. We saw it ourselves.",
-      "One rainy day can be unusual. We should count on more days.",
       "We should have counted at midnight.",
+      "One rainy day can be unusual. We should count on more days.",
       "2 birds is too many to count."
      ],
-     "a": 1,
+     "a": 2,
      "why": "On a rainy day there are puddles everywhere, so birds need the bowl less. That is why we count on 3 different days. One odd day cannot then fool us.",
      "how": "e1"
     },
@@ -2693,12 +2693,12 @@
      "t": "mcq",
      "p": "A new glass tower has no ledges at all. The old building next door has many window ledges. Where will rock pigeons nest, and why?",
      "opts": [
-      "On the old building, because ledges are like the cliff ledges their wild relatives nest on",
       "On the glass tower, because it is taller",
       "On neither, because pigeons nest only in trees",
+      "On the old building, because ledges are like the cliff ledges their wild relatives nest on",
       "On the glass tower, because it is shiny"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Wild rock pigeons nest on cliff ledges. A building with ledges is a cliff to them. A smooth glass wall gives them nowhere to put a nest. Picking 'only in trees' is wrong. Pigeons hardly ever nest in trees."
     },
     {
@@ -2729,12 +2729,12 @@
      "t": "mcq",
      "p": "A tiger has no fixed home and rests anywhere in their large area. But a tigress with small cubs uses a den. What does this show?",
      "opts": [
-      "Many animals use a home mainly to keep their young safe.",
       "Tigers are lazy.",
+      "Many animals use a home mainly to keep their young safe.",
       "All animals live in one home all year.",
       "Dens are for storing food."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Small cubs cannot walk far or defend themselves, so the mother keeps them in a hidden den. When the cubs grow, the den is left. Birds' nests work the same way."
     },
     {
@@ -2904,12 +2904,12 @@
      "t": "mcq",
      "p": "A fruit fly is kept in total darkness for a week. What happens to their waking and sleeping?",
      "opts": [
-      "They sleep all the time.",
       "They keep waking and resting on a cycle of about 24 hours.",
+      "They sleep all the time.",
       "They never sleep.",
       "They wake at a random time each day."
      ],
-     "a": 1,
+     "a": 0,
      "why": "Their body clock keeps running in the dark, on a cycle of about one day. Most people's first guess is that darkness means sleep forever. But the clock is inside the fly. Sunlight only resets the clock each morning."
     },
     {
@@ -2973,24 +2973,24 @@
      "t": "mcq",
      "p": "Your diary shows a gecko by the tube light every night at 8 pm. One night the light is off, and the gecko is not there. What is the best next step?",
      "opts": [
-      "Decide that geckos hate the dark.",
       "Test it: watch on more nights, some with the light on and some with it off.",
+      "Decide that geckos hate the dark.",
       "Stop the diary.",
       "Say the gecko has moved away for ever."
      ],
-     "a": 1,
+     "a": 0,
      "why": "One night is not enough to be sure. A scientist tests the idea again, with the light on some nights and off others. Picking 'hate the dark' jumps to an answer from one night."
     },
     {
      "t": "mcq",
      "p": "In cities with bright streetlights, some birds start singing long before dawn. Which idea best explains this?",
      "opts": [
-      "The bright light tells their body clock that morning has come.",
       "Birds are scared of the light.",
+      "The bright light tells their body clock that morning has come.",
       "Streetlights keep the birds warm.",
       "The birds are migrating."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Light resets a body clock each morning. Bright light at night can make a bird's clock think the day has begun. Scientists are still studying how much this harms the birds."
     },
     {
@@ -3017,24 +3017,24 @@
      "t": "mcq",
      "p": "René Descartes, a French thinker who lived about 400 years ago, said animals build like machines, with no learning at all. Young baya weavers weave messy nests at first, and better ones each time. What does this show?",
      "opts": [
-      "Building is partly something the bird is born with and partly learned by practice.",
       "Descartes was completely right.",
       "Young birds copy people.",
-      "The grass gets better each year."
+      "The grass gets better each year.",
+      "Building is partly something the bird is born with and partly learned by practice."
      ],
-     "a": 0,
+     "a": 3,
      "why": "A young weaver who has never seen a nest can still weave one, so part of the skill is inborn. But the nests improve with practice, so part is learned. Crows also choose wire when twigs are scarce. That is a choice a machine would not make."
     },
     {
      "t": "mcq",
      "p": "Dung beetles roll their balls of dung in a straight line, even on moonless nights. In a room with a pretend starry sky, they rolled straight when the Milky Way was showing, and wandered when their eyes were covered. What does this show?",
      "opts": [
-      "They use the glow of the Milky Way to keep their way",
       "They use street lights",
       "They follow the smell of the ball",
-      "Nothing, it is luck"
+      "Nothing, it is luck",
+      "They use the glow of the Milky Way to keep their way"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Only the sky changed between the two tries. The beetles went straight when they could see the Milky Way and got lost when they could not, so they must steer by it. Picking 'luck' ignores what the test showed."
     },
     {
@@ -3056,12 +3056,12 @@
      "t": "mcq",
      "p": "Before 1960, most scientists said that only humans make tools. Then Jane Goodall, a young English woman, watched wild chimpanzees in Tanzania. After months, she saw one strip a twig and use it to fish termites out of a mound. Why did it take months?",
      "opts": [
-      "Rare behaviours only show up after a long time of patient watching.",
       "Chimpanzees only use tools in one month of the year.",
       "She did not know what a tool was.",
+      "Rare behaviours only show up after a long time of patient watching.",
       "The termites were hiding."
      ],
-     "a": 0,
+     "a": 2,
      "why": "A quick look shows only one moment. The chimpanzees also had to get used to her before they behaved normally nearby. Long, quiet watching is how she found something nobody had seen."
     },
     {
@@ -3087,12 +3087,12 @@
    "t": "mcq",
    "p": "Which of these is a habit?",
    "opts": [
-    "A crow calling at first light every morning",
     "A crow who once landed on a scooter",
+    "A crow calling at first light every morning",
     "A crow's black feathers",
     "A crow's nest"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A habit is something done again and again, often at the same time. Landing once is one event. Feathers and nests are things the crow has, not things they do again and again.",
    "outcome": 0
   },
@@ -3101,11 +3101,11 @@
    "p": "Which animal is diurnal, busy in the day?",
    "opts": [
     "Owl",
-    "Fruit bat",
     "Palm squirrel",
+    "Fruit bat",
     "Moth"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Palm squirrels are busy all day and sleep at night. Owls, fruit bats and moths are mostly nocturnal.",
    "outcome": 1
   },
@@ -3113,12 +3113,12 @@
    "t": "mcq",
    "p": "Why are many animals in India quiet at noon?",
    "opts": [
-    "It is the hottest time, so they rest in the shade.",
     "They are all asleep for the night.",
+    "It is the hottest time, so they rest in the shade.",
     "They cannot see at noon.",
     "They are eating all the time."
    ],
-   "a": 0,
+   "a": 1,
    "why": "Noon is the hottest part of the day. Resting in the shade or in a burrow saves water and energy. Picking 'cannot see' is not true for most animals.",
    "outcome": 1
   },
@@ -3127,11 +3127,11 @@
    "p": "What is a crow's nest mainly for?",
    "opts": [
     "Sleeping in every night of the year",
-    "Laying eggs and raising chicks",
     "Storing food",
+    "Laying eggs and raising chicks",
     "Hiding from rain only"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Crows build nests to lay eggs and raise chicks. The rest of the year they sleep on branches at a roost.",
    "outcome": 2
   },
@@ -3140,11 +3140,11 @@
    "p": "Which home is woven from strips of grass?",
    "opts": [
     "A honey bee hive",
-    "A baya weaver's nest",
     "A rat's burrow",
-    "A termite mound"
+    "A termite mound",
+    "A baya weaver's nest"
    ],
-   "a": 1,
+   "a": 3,
    "why": "The baya weaver tears long strips of grass and weaves a hanging nest. Bees build with wax, rats dig, and termites build with soil.",
    "outcome": 2
   },
@@ -3152,12 +3152,12 @@
    "t": "mcq",
    "p": "A leopard lives in a forest park at the edge of a city. Rubbish piles up near the homes beside the park. Why might the leopard start coming close to those homes at night?",
    "opts": [
-    "The rubbish feeds stray dogs, and the leopard comes to hunt the dogs",
     "Leopards like the smell of rubbish",
     "Leopards want to live with people",
-    "Nothing would change"
+    "Nothing would change",
+    "The rubbish feeds stray dogs, and the leopard comes to hunt the dogs"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Rubbish feeds stray dogs, and dogs draw leopards. So clearing rubbish is one way to keep leopards away from homes. Wild animals near people usually come for food.",
    "outcome": 3
   },
@@ -3178,12 +3178,12 @@
    "t": "mcq",
    "p": "Which animal would live most easily in a busy town?",
    "opts": [
-    "One who eats many kinds of food and is not too shy",
     "One who eats only one kind of leaf",
     "One who needs a quiet forest",
+    "One who eats many kinds of food and is not too shy",
     "One who hides from every noise"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Towns are full of scraps, insects at lights, fruit trees and grain. An animal who can eat many things can live on whatever is around. Crows, rats and mynas are like this.",
    "outcome": 3
   },
@@ -3191,12 +3191,12 @@
    "t": "mcq",
    "p": "You want to find out when your pigeons are busiest. What should you do?",
    "opts": [
-    "Look once, for one minute.",
     "Watch at set times for a week and write down what they do.",
+    "Look once, for one minute.",
     "Ask a friend to guess.",
     "Read a book only."
    ],
-   "a": 1,
+   "a": 0,
    "why": "Habits show up only when you watch many times and write things down. One look shows just one moment.",
    "outcome": 4
   },
@@ -3204,12 +3204,12 @@
    "t": "mcq",
    "p": "A girl watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?",
    "opts": [
-    "The squirrel often eats guavas in the early morning.",
     "The squirrel eats nothing but guavas.",
     "The squirrel will surely eat guavas tomorrow.",
+    "The squirrel often eats guavas in the early morning.",
     "Squirrels hate every other food."
    ],
-   "a": 0,
+   "a": 2,
    "why": "Her notes show a pattern at one time of day. They do not show what the squirrel eats at other times. A good claim says only what the evidence shows.",
    "outcome": 4
   },
@@ -3219,10 +3219,10 @@
    "opts": [
     "The bowl",
     "The place",
-    "The time of day",
-    "How long we watched"
+    "How long we watched",
+    "The time of day"
    ],
-   "a": 2,
+   "a": 3,
    "why": "In a fair test we change only one thing. Here it is the time of day. The bowl, the place and how long you watch stay the same.",
    "outcome": 5,
    "how": "e1"
@@ -3231,12 +3231,12 @@
    "t": "mcq",
    "p": "In the Ant Trail Test, the ants walked on under a hand held above the trail. But they stopped and wandered where the floor was rubbed. What is the best claim?",
    "opts": [
-    "Ants follow something on the floor, and rubbing removed it.",
     "Ants are scared of hands.",
     "Ants can only walk in straight lines.",
-    "Ants stop wherever a person has been."
+    "Ants stop wherever a person has been.",
+    "Ants follow something on the floor, and rubbing removed it."
    ],
-   "a": 0,
+   "a": 3,
    "why": "The hand above the trail changed little, so the hand was not the cause. Rubbing took away the smell trail, a chemical called a pheromone, that the ants were following.",
    "outcome": 5,
    "how": "e3"
@@ -3246,11 +3246,11 @@
    "p": "You find a nest with eggs in a bush. What should you do?",
    "opts": [
     "Pick up an egg to look closely.",
-    "Watch from a distance and leave it alone.",
     "Take the nest home to keep it safe.",
-    "Shake the bush to see the bird."
+    "Shake the bush to see the bird.",
+    "Watch from a distance and leave it alone."
    ],
-   "a": 1,
+   "a": 3,
    "why": "Touching or moving a nest can make the parents leave the eggs. We watch kindly, from far away.",
    "outcome": 6
   },
@@ -3271,12 +3271,12 @@
    "t": "mcq",
    "p": "You want to find out if the soil in a burrow is cooler than the soil outside. Which tool should you use?",
    "opts": [
-    "A thermometer",
     "A measuring cylinder",
+    "A thermometer",
     "A ruler",
     "A water bowl"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A thermometer tells how hot or cold something is. A measuring cylinder measures water, and a ruler measures length.",
    "outcome": 5
   },
@@ -3323,12 +3323,12 @@
    "t": "mcq",
    "p": "Meena watched a squirrel. Which note tells how the squirrel moves?",
    "opts": [
-    "Runs up the trunk in short jumps, tail flicking",
     "He is a naughty squirrel",
     "Squirrels are nice",
-    "He lives in the park"
+    "He lives in the park",
+    "Runs up the trunk in short jumps, tail flicking"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The first note tells what Meena saw: how the squirrel moves. 'Naughty' is a guess about feelings, and the other two do not say how he moved.",
    "outcome": 4
   },
@@ -3362,12 +3362,12 @@
    "t": "mcq",
    "p": "Which squirrel is large and reddish-brown, and leaps between trees in the forest?",
    "opts": [
-    "The Indian giant squirrel",
     "The palm squirrel on a town wall",
     "The house sparrow",
+    "The Indian giant squirrel",
     "The black kite"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The Indian giant squirrel is much bigger than the palm squirrel and lives in forests. The sparrow and the kite are birds.",
    "outcome": 3
   },

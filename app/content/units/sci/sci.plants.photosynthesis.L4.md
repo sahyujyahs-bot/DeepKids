@@ -604,14 +604,14 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 ## Worksheets
 ### Making and Spending (core) (core, 16 questions)
 1. (mcq) What does a green plant do with the air during the night?  
-   Options: Take in a little oxygen and give out a little carbon dioxide / Take in carbon dioxide and give out oxygen / Nothing, because plants sleep at night / Take in only nitrogen  
+   Options: Take in carbon dioxide and give out oxygen / Take in a little oxygen and give out a little carbon dioxide / Nothing, because plants sleep at night / Take in only nitrogen  
    **Answer:** Take in a little oxygen and give out a little carbon dioxide. *Why:* At night there is no light, so photosynthesis stops. But every cell of the plant still respires, so they take in some oxygen and give out some carbon dioxide. It is a common wrong idea that plants do nothing at night.
 2. (fill) The job that needs light and builds sugar from carbon dioxide and water is called ____.  
    **Answer:** ['photosynthesis']. *Why:* Photosynthesis means putting together with light. It happens in the green parts of plants, in algae and in cyanobacteria.
 3. (truefalse) The roots of a plant do photosynthesis.  
    **Answer:** False. *Why:* False. Roots under the ground get no light and have no chlorophyll. They respire, and live on sugar sent down from the leaves.
 4. (mcq) Blue-purple cabbage water turns pink when you blow into it through a straw. What does your breath add to the water?  
-   Options: Carbon dioxide, which makes the water slightly sour / Oxygen, which makes the water pink / Heat, which changes the colour / Nitrogen, which bleaches the cabbage  
+   Options: Oxygen, which makes the water pink / Heat, which changes the colour / Nitrogen, which bleaches the cabbage / Carbon dioxide, which makes the water slightly sour  
    **Answer:** Carbon dioxide, which makes the water slightly sour. *Why:* Your breath has a lot of carbon dioxide. It dissolves in water and makes a weak acid, and cabbage water turns pinker with acid. Heat from the breath is far too small to change the colour.
 5. (sort) Each of these belongs to photosynthesis or to respiration. Sort them.  
    **Answer:** Needs light → Photosynthesis; Happens in chloroplasts → Photosynthesis; Happens in mitochondria → Respiration; Goes on in the day and the night → Respiration; Gives out oxygen → Photosynthesis; Breaks sugar down to release energy → Respiration. *Why:* Photosynthesis needs light, happens in chloroplasts and gives out oxygen. Respiration happens in mitochondria, goes on all the time and releases energy from sugar. A strong answer keeps the two jobs apart.
@@ -638,11 +638,11 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 15. (perspective) Fish are gasping at dawn in a pond in Nagapattinam after three cloudy days. Three people say what to do.  
    **Answer:** Any choice can be strong if it uses the science. For example, stirring and feeding less is quick and cheap and fixes the missing oxygen. A strong answer says that the neighbour is right that fresh water has oxygen, but draining and refilling takes days and may harm the fish. It also says that the fish farmer's powder might help in some cases, but it does not add oxygen unless it is the right kind.. *Why:* Stirring mixes air in at once and attacks the real problem, which is a lack of oxygen. The other ideas are slower or do not fix the oxygen. There is more than one reasonable view, so the reasons matter.
 16. (mcq) After three cloudy days, which one thing would most likely help a pond at 4 in the morning?  
-   Options: Stirring the water to mix in air / Adding more fish / Adding extra food / Covering the pond with a cloth  
+   Options: Adding more fish / Adding extra food / Stirring the water to mix in air / Covering the pond with a cloth  
    **Answer:** Stirring the water to mix in air. *Why:* Stirring mixes air from above into the water, which adds oxygen when nothing is making it. More fish and more food would use up more oxygen. A cloth would cut off even more air.
 ### Limits, Pumps and the Carbon Trip (stretch) (stretch, 16 questions)
 1. (mcq) A leaf is at its compensation point. What is true about its gases overall?  
-   Options: No oxygen or carbon dioxide leaves or enters overall / Oxygen leaves in large amounts / Only carbon dioxide enters / The leaf makes no sugar  
+   Options: Oxygen leaves in large amounts / Only carbon dioxide enters / No oxygen or carbon dioxide leaves or enters overall / The leaf makes no sugar  
    **Answer:** No oxygen or carbon dioxide leaves or enters overall. *Why:* At the compensation point, the sugar made equals the sugar spent. The oxygen from photosynthesis is used by respiration, and the carbon dioxide from respiration is used by photosynthesis, so nothing moves in or out overall. The leaf is still making sugar.
 2. (mcq) A leaf is in bright light, but there is very little carbon dioxide around them. Adding more light does not speed up photosynthesis. What is the limiting factor?  
    Options: Carbon dioxide / Light / Chlorophyll colour / The size of the pot  
@@ -659,10 +659,10 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
    Options: The light stage, where water is split / The sugar-building stage, where carbon dioxide is joined / Respiration in the mitochondria / The closing of the stomata  
    **Answer:** The light stage, where water is split. *Why:* The oxygen comes from the water that is split in the light stage. The sugar-building stage uses the energy carriers that the light stage charged up.
 8. (mcq) A graph of photosynthesis against light rises steeply and then goes flat. What does the flat part show?  
-   Options: Something else, such as carbon dioxide or warmth, is now the limit / The plant has stopped being alive / Light has stopped being needed / The leaf has run out of water  
+   Options: The plant has stopped being alive / Light has stopped being needed / Something else, such as carbon dioxide or warmth, is now the limit / The leaf has run out of water  
    **Answer:** Something else, such as carbon dioxide or warmth, is now the limit. *Why:* When more light no longer makes any difference, light is no longer the shortest supply. Another factor has taken over as the limit.
 9. (mcq) Why does the amount of carbon dioxide in the whole Earth's air dip each northern summer?  
-   Options: The land plants of the north are growing and taking in carbon dioxide / The northern oceans freeze / People burn less fuel in summer / The Sun gets brighter in summer  
+   Options: The northern oceans freeze / The land plants of the north are growing and taking in carbon dioxide / People burn less fuel in summer / The Sun gets brighter in summer  
    **Answer:** The land plants of the north are growing and taking in carbon dioxide. *Why:* Most of the Earth's land lies in the north. When the leaves open in spring, photosynthesis pulls carbon dioxide out of the air. In autumn, the fallen leaves rot and give it back.
 10. (order) Put these in order along the trip of one carbon atom.  
    **Answer:** order shown. *Why:* The atom goes from air to leaf to grain to child and back to the air. Photosynthesis takes it in and respiration gives it back.
@@ -681,10 +681,10 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
    **Answer:** Sugarcane has a carbon dioxide pump, so rubisco rarely grabs oxygen by mistake. *Why:* Sugarcane is a C4 plant. Its pump fills the inner cells with carbon dioxide, so rubisco rarely meets oxygen. Rice does not have the pump.
 ### Reading Evidence and Making Tests (challenge) (challenge, 17 questions)
 1. (mcq) Look at the graph of oxygen in a pond on a cloudy day. About when is the oxygen lowest?  
-   Options: At about 6 in the morning / At about 3 in the afternoon / At about noon / At about 9 at night  
+   Options: At about 3 in the afternoon / At about 6 in the morning / At about noon / At about 9 at night  
    **Answer:** At about 6 in the morning. *Why:* The line falls all night and reaches its lowest value, 1.5, at 6 in the morning. The peak, 4.5, is in the afternoon.
 2. (mcq) Someone repeats the cabbage-water test with leaves in the light, but the jar is no pinker or bluer than the jar with no leaves. What is the most likely reason?  
-   Options: Too few leaves, or too little light, for a change to show / Leaves cannot change the water at all / The cabbage water was too fresh / Jars must be kept in the dark  
+   Options: Leaves cannot change the water at all / The cabbage water was too fresh / Jars must be kept in the dark / Too few leaves, or too little light, for a change to show  
    **Answer:** Too few leaves, or too little light, for a change to show. *Why:* A leaf only takes up a little carbon dioxide each hour, so a small number of leaves or weak light may give a change too small to see. The fix is to use more leaves, give brighter light or wait longer.
 3. (fill) Air you breathe out has about 4 parts in 100 carbon dioxide. Ordinary air has about 4 parts in 10,000. Your breath has about ____ times as much.  
    **Answer:** ['100', 'one hundred']. *Why:* 4 in 100 is the same as 400 in 10,000. 400 divided by 4 is 100. So your breath has about 100 times as much carbon dioxide as ordinary air.
@@ -693,10 +693,10 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 5. (match) Match each tool to what it tells you in this lesson's tests.  
    **Answer:** A thermometer → How warm the water is; A light meter or a phone app → How bright the light is; A dissolved oxygen meter → How much oxygen is in the water; Cabbage water → Whether the water has gained or lost carbon dioxide. *Why:* Each tool measures one thing. Cabbage water is an indicator that changes colour with the acidity caused by dissolved carbon dioxide.
 6. (mcq) Which chain of events best explains how an algae bloom can kill fish?  
-   Options: The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae / The algae eat the fish / The bloom makes the water too cold / The algae make too much oxygen  
+   Options: The algae eat the fish / The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae / The bloom makes the water too cold / The algae make too much oxygen  
    **Answer:** The bloom dies and rots, and bacteria use up the oxygen while they rot the dead algae. *Why:* Rotting uses oxygen. A big bloom that dies at once feeds a big crowd of bacteria, which use up the oxygen the fish need.
 7. (mcq) A grower raises the light and the warmth in a greenhouse, but the plants grow no faster. What does this suggest?  
-   Options: Carbon dioxide may be the limiting factor / Light is always the limit / Plants cannot grow faster than they do / The plants need less water  
+   Options: Light is always the limit / Carbon dioxide may be the limiting factor / Plants cannot grow faster than they do / The plants need less water  
    **Answer:** Carbon dioxide may be the limiting factor. *Why:* If raising two factors changes nothing, the limit is probably the factor that was not raised. A grower would test by adding carbon dioxide.
 8. (sort) It is 4 in the morning at a pond. Sort each of these by what it would do to the oxygen in the water.  
    **Answer:** Stirring the water → Raises the oxygen; Extra food that nobody eats → Lowers the oxygen; A breeze rippling the surface → Raises the oxygen; Painting the wall of the pond → No real difference; A very hot night → Lowers the oxygen; Taking some fish out → Raises the oxygen. *Why:* Stirring and breezes mix air in. Rotting food uses up oxygen, and on a hot night the warm water holds less. Fewer fish use less oxygen. Painting a wall changes nothing in the water.
@@ -713,12 +713,12 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 14. (perspective) Three people argue about whether a greenhouse should add extra carbon dioxide.  
    **Answer:** Any choice can be strong. A strong answer uses limiting factors: extra carbon dioxide only helps if it is the shortest supply. It gives the greenhouse grower credit that growth can rise, the organic farmer credit that the cost and burning of gas matter, or the plant scientist credit for testing first.. *Why:* The plant scientist's view uses the idea of the limiting factor. The others each have a real concern. There is no single right answer, but wasted spending on a factor that is not the limit is easy to avoid.
 15. (mcq) Which situation matches the idea of the pond at dawn, where something is made and used at the same time?  
-   Options: A water tank that fills from a small tap while a bigger tap at the bottom is open / A bottle with its cap on / A stone sitting on the ground / A lamp that is switched off  
+   Options: A bottle with its cap on / A water tank that fills from a small tap while a bigger tap at the bottom is open / A stone sitting on the ground / A lamp that is switched off  
    **Answer:** A water tank that fills from a small tap while a bigger tap at the bottom is open. *Why:* The pond's oxygen goes up when making beats using, and down when using beats making. A tank with water coming in and going out does the same. The level depends on which flow is bigger.
 16. (truefalse) In sugarcane, the carbon dioxide pump means rubisco rarely grabs oxygen by mistake.  
    **Answer:** True. *Why:* True. The pump fills the inner cells with carbon dioxide, so rubisco is surrounded by it and has little chance to grab oxygen.
 17. (mcq) A scientist finds that photorespiration protects a leaf in very strong light. What does this do to the argument about it?  
-   Options: It supports the view that photorespiration is not only a waste, but it does not settle the question / It proves photorespiration is only a waste / It ends the argument for good / It shows that rubisco is not needed  
+   Options: It proves photorespiration is only a waste / It ends the argument for good / It supports the view that photorespiration is not only a waste, but it does not settle the question / It shows that rubisco is not needed  
    **Answer:** It supports the view that photorespiration is not only a waste, but it does not settle the question. *Why:* One finding adds a reason in favour of one view. The debate is about the total of costs and benefits, which needs many tests in many plants and conditions.
 
 ## Videos
@@ -731,36 +731,36 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
    Options: Plants respire all the time, and in good light they also photosynthesise, so overall they give out oxygen / Plants only take in carbon dioxide and only give out oxygen / Plants take in oxygen only at night and never in the day / Plants do not respire because they make their own food  
    **Answer:** Plants respire all the time, and in good light they also photosynthesise, so overall they give out oxygen. *Why:* Every living cell respires. Plants also photosynthesise when there is light, and in good light that is faster, so they give out more oxygen than they use. Making food does not stop a plant needing energy from that food.
 2. (mcq) A jar of blue-purple cabbage water with breath in it turns pink. A jar with the same water and breath, with leaves in the light, ends up bluer than that jar. What does this show?  
-   Options: The leaves in the light used up carbon dioxide / The leaves gave out carbon dioxide / The light turned the water blue / The breath changed itself  
+   Options: The leaves gave out carbon dioxide / The leaves in the light used up carbon dioxide / The light turned the water blue / The breath changed itself  
    **Answer:** The leaves in the light used up carbon dioxide. *Why:* Pink means more carbon dioxide. Bluer means less. The jar with leaves in the light lost carbon dioxide because photosynthesis used it.
 3. (mcq) When is the dissolved oxygen in a still pond usually lowest?  
-   Options: Just before sunrise / At noon / At about three in the afternoon / Just after sunset  
+   Options: At noon / Just before sunrise / At about three in the afternoon / Just after sunset  
    **Answer:** Just before sunrise. *Why:* The oxygen falls through the whole night, because nothing makes any and everything uses it. It is lowest just before the sun comes up.
 4. (mcq) Why is warm water a problem for pond fish on a hot night?  
-   Options: It holds less oxygen, and the living things in it use oxygen faster / It holds more oxygen, which is too much / It makes the plants stop breathing / It makes the water heavy  
+   Options: It holds more oxygen, which is too much / It holds less oxygen, and the living things in it use oxygen faster / It makes the plants stop breathing / It makes the water heavy  
    **Answer:** It holds less oxygen, and the living things in it use oxygen faster. *Why:* Warm water holds less dissolved gas, and the living things in warm water use oxygen faster. Both lower the oxygen at the same time.
 5. (mcq) Where in a cell does respiration mainly happen?  
-   Options: In the mitochondria / In the chloroplasts / In the cell wall / In the stomata  
+   Options: In the chloroplasts / In the mitochondria / In the cell wall / In the stomata  
    **Answer:** In the mitochondria. *Why:* Mitochondria break sugar down with oxygen to release energy. Chloroplasts are where photosynthesis happens. Stomata are holes in the leaf, not parts of a cell.
 6. (mcq) A graph of photosynthesis rises with light, then goes flat. A grower adds carbon dioxide and the graph rises again. What was limiting the plants before?  
-   Options: Carbon dioxide / Light / Soil colour / The age of the plant  
+   Options: Light / Soil colour / Carbon dioxide / The age of the plant  
    **Answer:** Carbon dioxide. *Why:* The flat part means light was no longer the limit. When adding carbon dioxide made the rate rise, carbon dioxide was the limiting factor there.
 7. (mcq) Why do pineapples and cactuses open their stomata at night?  
-   Options: It is cooler, so they lose less water while taking in carbon dioxide / They need moonlight to make sugar / They cannot open them in the day because they are asleep / They breathe out more oxygen at night  
+   Options: They need moonlight to make sugar / They cannot open them in the day because they are asleep / They breathe out more oxygen at night / It is cooler, so they lose less water while taking in carbon dioxide  
    **Answer:** It is cooler, so they lose less water while taking in carbon dioxide. *Why:* CAM plants take in carbon dioxide at night, when little water escapes, and store it. They keep the stomata shut in the hot day and use the stored carbon dioxide with sunlight.
 8. (mcq) Sugarcane stays green and grows fast in hot, bright weather. What helps it do so?  
-   Options: A pump that gathers carbon dioxide, so photosynthesis stays fast even when the stomata are only a little open / More chlorophyll than any other plant / It does not need light / It does not do respiration  
+   Options: More chlorophyll than any other plant / A pump that gathers carbon dioxide, so photosynthesis stays fast even when the stomata are only a little open / It does not need light / It does not do respiration  
    **Answer:** A pump that gathers carbon dioxide, so photosynthesis stays fast even when the stomata are only a little open. *Why:* Sugarcane is a C4 plant. Its carbon dioxide pump keeps a crowd of carbon dioxide round rubisco, so it works well in heat with its stomata partly shut.
 9. (mcq) Coal and oil are called fossil fuels. Which is the best description of where their energy came from?  
-   Options: Sunlight caught by plants and tiny sea creatures millions of years ago / Heat from inside the Earth only / The Moon / Electricity stored in rocks  
+   Options: Heat from inside the Earth only / Sunlight caught by plants and tiny sea creatures millions of years ago / The Moon / Electricity stored in rocks  
    **Answer:** Sunlight caught by plants and tiny sea creatures millions of years ago. *Why:* The carbon in coal and oil was taken from the air by photosynthesis long ago. The stored energy is that ancient sunlight.
 10. (mcq) Each year, the carbon dioxide in the world's air dips in the northern spring and summer. What is the best reason?  
-   Options: Land plants in the north are growing and taking carbon dioxide in / Fewer people breathe in summer / The air gets colder / The oceans stop taking in gas  
+   Options: Fewer people breathe in summer / Land plants in the north are growing and taking carbon dioxide in / The air gets colder / The oceans stop taking in gas  
    **Answer:** Land plants in the north are growing and taking carbon dioxide in. *Why:* Most of the land lies in the north. When the leaves open, photosynthesis pulls carbon dioxide out of the air. In autumn the leaves fall and rot, and it goes back.
 11. (truefalse) A very green pond is always a healthy pond for fish.  
    **Answer:** False. *Why:* False. A thick bloom can make the oxygen crash at night or when the bloom dies and rots. What matters is the balance of making and using oxygen.
 12. (mcq) In 1882, Theodor Engelmann shone a rainbow on a thread of green alga with oxygen-loving bacteria around it. Why did the bacteria gather in the red and blue parts?  
-   Options: Those colours made the alga give out the most oxygen, and the bacteria swim towards oxygen / The bacteria like to eat red and blue light / Those colours are the warmest / Green light is poisonous to bacteria  
+   Options: The bacteria like to eat red and blue light / Those colours are the warmest / Those colours made the alga give out the most oxygen, and the bacteria swim towards oxygen / Green light is poisonous to bacteria  
    **Answer:** Those colours made the alga give out the most oxygen, and the bacteria swim towards oxygen. *Why:* The bacteria were a living instrument. They gather where there is most oxygen. The crowds in the red and blue showed that chlorophyll uses those colours best.
 
 ## Applications

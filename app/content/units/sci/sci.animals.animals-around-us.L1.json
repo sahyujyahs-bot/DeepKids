@@ -451,11 +451,11 @@
       "t": "mcq",
       "q": "Which animal got the most food cards?",
       "options": [
-       "The crow",
        "The butterfly",
-       "The cow"
+       "The cow",
+       "The crow"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A crow eats almost anything, so many foods go under the crow. A butterfly only sips nectar, so only the flower goes under her."
      },
      "parent": "If every card was matched right, the crow gets the most, 11 cards. The butterfly gets the fewest, only the flower. An animal that eats many kinds of food gets many cards."
@@ -607,11 +607,11 @@
       "t": "mcq",
       "q": "Where does a gecko hide in the day?",
       "options": [
-       "Behind a cupboard, in the dark",
        "In the middle of the floor",
+       "Behind a cupboard, in the dark",
        "Inside the fridge"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A gecko hides in dark, safe gaps in the day, and comes out near the lights at night to catch insects."
      },
      "parent": "You found all 10 cards, and you are one of them. A real home has even more animals, such as ants and spiders in places you have not looked."
@@ -827,11 +827,11 @@
       "t": "mcq",
       "q": "Which teeth bite a piece off a carrot?",
       "options": [
-       "Front teeth",
        "Back teeth",
-       "No teeth"
+       "No teeth",
+       "Front teeth"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Thin front teeth bite and cut pieces off. Wide back teeth then chew the piece up small."
      },
      "parent": "Grass is tough, so a cow has to chew a lot. Her wide, flat back teeth grind it small. A good answer says that grass is hard to chew, like the carrot."
@@ -1281,11 +1281,11 @@
      "t": "mcq",
      "p": "In the Chewing Test, you ate banana, carrot, chapati, curd and puffed rice. Which food needed almost no chewing?",
      "opts": [
-      "Carrot",
       "Curd",
+      "Carrot",
       "Chapati"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Curd is soft, so it needs almost no chewing. Carrot and chapati are tougher, so the back teeth must chew them many times.",
      "how": "e1"
     },
@@ -1379,11 +1379,11 @@
      "t": "mcq",
      "p": "A cow has wide, flat back teeth. What food are those teeth best for?",
      "opts": [
-      "Grinding grass",
       "Catching moths",
-      "Sipping flower juice"
+      "Sipping flower juice",
+      "Grinding grass"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Wide, flat back teeth grind tough grass. Catching moths needs speed and small gripping teeth. Sipping needs a tube."
     },
     {
@@ -1532,11 +1532,11 @@
    "t": "mcq",
    "p": "Are humans animals?",
    "opts": [
-    "Yes, humans are animals",
     "No, humans are not animals",
-    "Only grown-ups are animals"
+    "Only grown-ups are animals",
+    "Yes, humans are animals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Humans are animals. We eat, breathe, grow and have babies like other animals.",
    "outcome": 0
   },
@@ -1544,11 +1544,11 @@
    "t": "mcq",
    "p": "What does a gecko eat?",
    "opts": [
-    "Grass",
     "Insects, like moths and mosquitoes",
+    "Grass",
     "Rice"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A gecko eats insects. That is why a gecko waits near a light at night, where insects come.",
    "outcome": 1
   },
@@ -1556,11 +1556,11 @@
    "t": "mcq",
    "p": "What does a pigeon mostly eat?",
    "opts": [
-    "Grains and seeds",
     "Grass",
+    "Grains and seeds",
     "Flies"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A pigeon picks up grains and seeds with a short beak.",
    "outcome": 1
   },
@@ -1568,11 +1568,11 @@
    "t": "mcq",
    "p": "Where do the ants in a kitchen usually live?",
    "opts": [
-    "In tiny cracks in the walls and floor",
     "On top of the fan",
+    "In tiny cracks in the walls and floor",
     "Inside the tap"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ants live in small cracks, close to the food in the kitchen.",
    "outcome": 2
   },
@@ -1592,11 +1592,11 @@
    "t": "mcq",
    "p": "How does a sparrow move on the ground?",
    "opts": [
-    "The sparrow hops with both feet together",
     "The sparrow slithers",
+    "The sparrow hops with both feet together",
     "The sparrow swims"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Sparrows hop with both feet together. Pigeons walk one foot at a time.",
    "outcome": 3
   },
@@ -1617,10 +1617,10 @@
    "p": "In the chewing test, which teeth chewed the food up small?",
    "opts": [
     "The front teeth",
-    "The back teeth",
-    "No teeth"
+    "No teeth",
+    "The back teeth"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Wide back teeth chew and grind the food. Thin front teeth bite pieces off.",
    "outcome": 4,
    "how": "e1"
@@ -1629,11 +1629,11 @@
    "t": "mcq",
    "p": "Why did each piece of food in the chewing test have to be the same size?",
    "opts": [
-    "So that only the kind of food was different",
     "To save food",
+    "So that only the kind of food was different",
     "Because big pieces taste better"
    ],
-   "a": 0,
+   "a": 1,
    "why": "If one piece were bigger, it might need more chews just because of its size. With the same size, only the kind of food is different.",
    "outcome": 5,
    "how": "e1"

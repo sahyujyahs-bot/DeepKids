@@ -718,11 +718,11 @@
       "t": "mcq",
       "q": "Why do we agree on the scoring card before the first ring?",
       "options": [
-       "So every sound is scored by the same rule",
        "So the volunteer knows the answers",
-       "So the test finishes faster"
+       "So the test finishes faster",
+       "So every sound is scored by the same rule"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the rule changed halfway, a smaller score might come from a changed rule, not from a smaller jump. A fixed card keeps the test fair."
      },
      "context": "In this step you make the scoring card, so that every sound is scored the same way."
@@ -1036,11 +1036,11 @@
       "t": "mcq",
       "q": "You did not hear the fridge until you listened. What is the best explanation?",
       "options": [
-       "The sound was there, but your mind had stopped reacting to it",
        "The sound switched off until you listened",
-       "Your ears turned off"
+       "Your ears turned off",
+       "The sound was there, but your mind had stopped reacting to it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The sound reached your ears all the time. Your mind had learned that the sound does not matter, and stopped reacting. Listening on purpose brought it back. 'Your ears turned off' is a common idea, but ears do not switch off."
      },
      "think": "Is getting used to something a kind of learning?",
@@ -1494,11 +1494,11 @@
    "t": "mcq",
    "p": "Which result shows that a drop in response is habituation and not tiredness?",
    "opts": [
-    "A new stimulus brings the response back at full strength",
     "The response is weakest at the end",
-    "The being lies still"
+    "The being lies still",
+    "A new stimulus brings the response back at full strength"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tired being reacts less to everything. A strong reaction to something new shows the drop belongs to the old stimulus.",
    "outcome": 1
   },
@@ -1527,11 +1527,11 @@
    "t": "mcq",
    "p": "Which living thing has been shown to get used to a harmless bitter bridge?",
    "opts": [
-    "A slime mould, a single cell that senses with chemicals",
     "A stone",
-    "A dead leaf"
+    "A dead leaf",
+    "A slime mould, a single cell that senses with chemicals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Slime moulds are single giant cells, and they can stop avoiding a harmless bitter bridge. Only living things can do this.",
    "outcome": 3
   },
@@ -1558,11 +1558,11 @@
    "t": "mcq",
    "p": "What do meerkat helpers do as the pups grow older?",
    "opts": [
-    "Give them scorpions that are more alive and harder to handle",
     "Stop feeding them",
+    "Give them scorpions that are more alive and harder to handle",
     "Give them the same dead scorpions"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Helpers give young pups dead scorpions, then scorpions that are crippled, and live ones as the pups get older. The lessons get harder as the pups get better.",
    "outcome": 5
   },
@@ -1570,11 +1570,11 @@
    "t": "mcq",
    "p": "In a sea slug, what happens at the synapse when a gentle touch is repeated many times?",
    "opts": [
-    "The touch-sensing cell releases less chemical",
     "The cell grows a new arm",
-    "Nothing changes"
+    "Nothing changes",
+    "The touch-sensing cell releases less chemical"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Less chemical crosses the gap, so the gill pulls in less. This is how Kandel's team traced a simple learned change to one connection.",
    "outcome": 6
   },
@@ -1597,11 +1597,11 @@
      "t": "mcq",
      "p": "Which of these is learning?",
      "opts": [
-      "A sparrow stops fleeing from a scarecrow that never moves",
       "A baby bird opens her beak when a parent lands on the nest",
+      "A sparrow stops fleeing from a scarecrow that never moves",
       "A chick's legs getting stronger as she grows"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Learning is a change caused by experience that lasts. The sparrow changed because of what she saw each day. The beak opening is ready at hatching, and stronger legs come from growing, not from experience.",
      "outcome": 0
     },
@@ -1745,11 +1745,11 @@
      "t": "mcq",
      "p": "A child is ill an hour after eating brinjal curry and refuses brinjal for years. What kind of learning is this?",
      "opts": [
-      "Linking a taste with feeling ill, in one go",
       "Getting used to the taste of brinjal",
-      "Copying a sister who also refuses it"
+      "Copying a sister who also refuses it",
+      "Linking a taste with feeling ill, in one go"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Bodies are ready to link a taste with feeling ill, even when the illness comes a long time later, and even after just one time. This protects against food that may harm.",
      "outcome": 2
     },
@@ -1799,11 +1799,11 @@
      "t": "mcq",
      "p": "Honeybees fed at a window at four o'clock for five days come at four o'clock on day six, when there is no food. What does this show?",
      "opts": [
-      "Bees can learn the time of day when food appears",
       "Bees can read a clock",
+      "Bees can learn the time of day when food appears",
       "Bees only come when they smell food"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The bees came at four o'clock, with no food or smell to bring them. So they had learned the time of day. Ingeborg Beling found this in 1929.",
      "outcome": 3
     }
@@ -1819,11 +1819,11 @@
      "t": "mcq",
      "p": "Which result would show that a drop in jumping is tiredness and not habituation?",
      "opts": [
-      "The person also stops jumping at a brand new sound",
       "The person jumps again at a new sound",
-      "The jumps are smallest at the end"
+      "The jumps are smallest at the end",
+      "The person also stops jumping at a brand new sound"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A tired person would react less to every sound. If a new sound brings the jump back, the person is not just tired.",
      "outcome": 1
     },
@@ -1838,11 +1838,11 @@
      "t": "mcq",
      "p": "What is dishabituation?",
      "opts": [
-      "A new stimulus bringing back a response that had grown weak",
       "Forgetting what you learned",
+      "A new stimulus bringing back a response that had grown weak",
       "Getting used to two sounds at once"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Dishabituation is the return of a response when something new happens. It is one sign that the earlier drop was learned.",
      "outcome": 1
     },
@@ -2193,11 +2193,11 @@
      "t": "mcq",
      "p": "Many of the molecules at a synapse are replaced within days or weeks, yet some memories last for decades. What does this suggest?",
      "opts": [
-      "The memory may be a pattern that continues while the parts are replaced",
       "The memory must be held in the molecules that never change",
-      "Memories do not really last for decades"
+      "Memories do not really last for decades",
+      "The memory may be a pattern that continues while the parts are replaced"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists have long wondered about this puzzle. One idea is that a memory is a pattern or process, and not a thing, so it can continue as the parts change. It is still debated.",
      "outcome": 6
     },

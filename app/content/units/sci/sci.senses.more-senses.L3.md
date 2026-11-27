@@ -516,7 +516,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 3. (fill) The word for the senses inside your body, such as hunger and thirst, is ____.  
    **Answer:** ['interoception']. *Why:* Interoception means sensing what is happening inside the body: hunger, thirst, being full, being short of breath and needing the toilet.
 4. (mcq) Which of these is the best conductor of heat?  
-   Options: A cotton towel / A steel tumbler / A wooden spoon / A plastic plate  
+   Options: A cotton towel / A wooden spoon / A plastic plate / A steel tumbler  
    **Answer:** A steel tumbler. *Why:* Metals such as steel carry heat quickly. Cloth, wood and plastic carry heat slowly, so they are poor conductors.
 5. (sort) Sort these moments by the sense that noticed them.  
    **Answer:** feeling the lift start → Balance; touching your nose with eyes shut → Body position; cold tiles under bare feet → Warm and cold; a thorn in your finger → Pain; the room spinning after a swing → Balance; eating without looking at your hand → Body position. *Why:* Each moment uses a different hidden sense. Balance feels turning and speeding up. Body position feels where your parts are.
@@ -525,7 +525,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 7. (draw) A bowl of water with a paper arrow floating on it is spun round, then stopped suddenly. Draw the bowl just after it stops. Show with arrows what the water is doing.  
    **Answer:** A still bowl, with curved arrows showing the water and the paper arrow still turning.. *Why:* The water keeps turning after the bowl stops, just as the liquid in your ear loops keeps swirling after you stop spinning.
 8. (mcq) Why can you still walk down the stairs in a power cut?  
-   Options: Your eyes work in the dark / Your balance and body-position senses keep working without light / Stairs are always easy / Your ears hear the steps  
+   Options: Your eyes work in the dark / Stairs are always easy / Your balance and body-position senses keep working without light / Your ears hear the steps  
    **Answer:** Your balance and body-position senses keep working without light. *Why:* The balance organs and the stretch sensors in your muscles need no light. They tell you where your feet are and whether you are tipping.
 9. (odd) Which one is the odd one out, and why? Stretch sensors in muscles, ear crystals, semicircular canals, taste buds.  
    **Answer:** taste buds. *Why:* Taste buds are part of taste, one of the old five senses. The others are parts of the balance sense or the body-position sense.
@@ -545,7 +545,7 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 1. (write) A lift starts going up, and you feel heavier for a moment. Then it moves smoothly, and you feel normal. Explain why, using the ear crystals.  
    **Answer:** When the lift speeds up, the crystals lag behind and press down harder on the hairs, so I feel heavier. At a steady speed nothing presses extra, so I feel normal. My balance sense feels changes in speed, not steady movement.. *Why:* A strong answer explains that the crystals respond to speeding up and slowing down, not to steady movement.
 2. (mcq) Kathak dancers spin many times without falling. What do they do with their eyes and head?  
-   Options: Close their eyes / Fix their eyes on one spot and turn the head quickly at the end of each spin / Look at the floor / Look at the ceiling  
+   Options: Fix their eyes on one spot and turn the head quickly at the end of each spin / Close their eyes / Look at the floor / Look at the ceiling  
    **Answer:** Fix their eyes on one spot and turn the head quickly at the end of each spin. *Why:* Fixing the eyes on one spot, called spotting, keeps the head still for most of each turn. The ear loops get less steady spinning, so the dancer gets less dizzy.
 3. (write) In Find the Dot, your pencil landed 2 cm from the dot with your eyes shut, but right on it with your eyes open. What does this tell you about how the senses work together?  
    **Answer:** My body-position sense got my hand close, but my eyes made the last correction. Senses check each other, and with both, the hand is more exact.. *Why:* A strong answer says each sense does part of the job, and the brain puts them together.
@@ -582,12 +582,12 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 3. (write) In 1893, Alois Kreidl gave freshly moulted shrimps iron filings (tiny bits of iron) instead of sand, and held a magnet above them. The shrimps tipped over. A friend says the shrimps could see the magnet. What test could show that the iron in their balance pits made them tip?  
    **Answer:** Give other freshly moulted shrimps sand and hold the same magnet above them. If they stay upright and only the shrimps with iron tip over, the iron in the pits is the reason, not their eyes.. *Why:* A strong answer changes one thing, iron or sand, and keeps the magnet the same.
 4. (mcq) Astronauts in space often feel sick for the first few days. Which is the best explanation?  
-   Options: Space is cold / With almost no feeling of down, their ear crystals send strange signals that do not match their eyes / They miss home / The food is different  
+   Options: With almost no feeling of down, their ear crystals send strange signals that do not match their eyes / Space is cold / They miss home / The food is different  
    **Answer:** With almost no feeling of down, their ear crystals send strange signals that do not match their eyes. *Why:* In orbit, the ear crystals no longer rest towards one side, so the balance sense and the eyes disagree. Most astronauts get used to it within a few days.
 5. (write) A child is born unable to feel pain. Write three rules the family could follow to keep the child safe.  
    **Answer:** Check the child's skin, hands and feet every day for cuts, burns and bruises. Test bath water and food temperature for them. Teach them to look carefully at what they touch and to rest a hurt part even when it does not hurt.. *Why:* A strong answer replaces each job pain does with a check the family can do.
 6. (mcq) In the Ice Race, the two cubes melted at almost the same time. Which is the most likely reason?  
-   Options: Steel is a poor conductor / The steel plate had just come out of a hot sink, or the board was in the sun / Ice is the same everywhere / Nobody watched closely  
+   Options: The steel plate had just come out of a hot sink, or the board was in the sun / Steel is a poor conductor / Ice is the same everywhere / Nobody watched closely  
    **Answer:** The steel plate had just come out of a hot sink, or the board was in the sun. *Why:* If the two surfaces did not start at the same temperature, the test is not fair. Leaving both in the same shady spot for an hour fixes it. A thicker metal, such as an aluminium lid, gives a bigger difference.
 7. (draw) Draw a cartoon strip of four pictures showing how a fish's lateral line helps them escape a hunter in muddy water.  
    **Answer:** 1. A fish in muddy water. 2. A bigger fish coming from behind, out of sight. 3. Water pushed ahead of the hunter reaching the fish's side. 4. The fish darting away.. *Why:* A strong strip shows the fish's problem, the water movement, the sense, and the escape, in order.
@@ -615,34 +615,34 @@ He tilted his head slowly to one side, and then to the other. He imagined thousa
 
 ## Quiz
 1. (mcq) Which of these is a sense that is NOT on the list of five?  
-   Options: Sight / Balance / Taste / Hearing  
+   Options: Sight / Taste / Balance / Hearing  
    **Answer:** Balance. *Why:* Balance has its own organs in the inner ear. Sight, taste and hearing are on the old list of five. Many more senses exist, such as body position, warmth, cold and pain.
 2. (mcq) A girl spins round 10 times and sits down. The room seems to keep turning. What is really still moving?  
-   Options: The room / The liquid in the loops of her inner ear / Her eyes, by themselves / The floor  
+   Options: The room / Her eyes, by themselves / The liquid in the loops of her inner ear / The floor  
    **Answer:** The liquid in the loops of her inner ear. *Why:* The liquid in her semicircular canals keeps swirling after she stops, so her brain thinks she is still turning. Her eyes do flick for a moment, but because the brain thinks the head is turning, not by themselves.
 3. (mcq) A steel plate and a wooden board have been in the same room all day. Which is true?  
-   Options: The steel is colder / The wood is colder / They are at the same temperature, but the steel feels colder / They are at the same temperature, and they feel the same  
+   Options: They are at the same temperature, but the steel feels colder / The steel is colder / The wood is colder / They are at the same temperature, and they feel the same  
    **Answer:** They are at the same temperature, but the steel feels colder. *Why:* Things left in one room all reach room temperature. The steel feels colder because it carries heat away from your skin faster. 'The steel is colder' is the most common answer, but the Ice Race shows it is not: ice melts faster on the steel.
 4. (mcq) In the Ice Race, you put one ice cube on a steel plate and one on a wooden board. Which melts first?  
-   Options: The one on the wooden board / The one on the steel plate / Both at the same time / Neither, because the steel keeps it frozen  
+   Options: The one on the wooden board / Both at the same time / The one on the steel plate / Neither, because the steel keeps it frozen  
    **Answer:** The one on the steel plate. *Why:* Steel carries heat from the room into the ice quickly, so that cube melts first. Wood carries heat slowly. If the steel were really colder, its ice would last longer.
 5. (mcq) You scratch your ear in the dark. How does your hand find your ear?  
    Options: Your hand can see in the dark / Stretch sensors in your muscles and joints tell your brain where your hand is / You hear your hand moving / It is luck  
    **Answer:** Stretch sensors in your muscles and joints tell your brain where your hand is. *Why:* This sense is called proprioception. The stretch sensors send signals all the time, so your brain knows where every part of you is, without your eyes.
 6. (mcq) You touch a hot tawa, and your hand jumps back before you even say 'ouch'. What is this quick movement called?  
-   Options: A reflex / A habit / A dream / A choice  
+   Options: A habit / A dream / A choice / A reflex  
    **Answer:** A reflex. *Why:* A reflex is a quick movement your body makes without you choosing it. The signal goes to the spinal cord and straight back to the arm muscles, so it is faster than thinking.
 7. (mcq) Doctors in Vellore found why people with leprosy lost parts of their fingers. What was the main reason?  
    Options: The disease ate the fingers away / Their nerves stopped carrying pain, so they got hurt without noticing / They did not wash their hands / Their bones were too soft  
    **Answer:** Their nerves stopped carrying pain, so they got hurt without noticing. *Why:* Paul Brand showed that the flesh was healthy. Without pain, people kept using burnt or cut hands, and the wounds got worse. Daily checks and soft shoes protected them.
 8. (mcq) A sardine is a small sea fish. She swims in a dark sea in a big shoal. How does she turn with the others without bumping?  
-   Options: She hears their hearts / Her lateral line feels the water move as they turn / She smells their food / She follows the Moon  
+   Options: Her lateral line feels the water move as they turn / She hears their hearts / She smells their food / She follows the Moon  
    **Answer:** Her lateral line feels the water move as they turn. *Why:* The lateral line is a row of sensors along each side of a fish. It feels the water push as nearby fish move, so the shoal can turn together, even in the dark.
 9. (mcq) A prawn has just moulted, wriggling out of their old shell. Why do they pick up grains of sand?  
    Options: To eat them / To put them in the balance pits at the base of their short feelers / To build a nest / To clean their legs  
    **Answer:** To put them in the balance pits at the base of their short feelers. *Why:* The balance pits are part of the shell, so the old sand goes away with it. New sand grains rest on the sensing hairs and show the prawn which way is down.
 10. (mcq) After sucking a peppermint sweet, you sip water and it feels very cold. Why?  
-   Options: The mint cools the water / Menthol in peppermint switches on your cold receptors / Your mouth is burnt / The water came from the fridge  
+   Options: Menthol in peppermint switches on your cold receptors / The mint cools the water / Your mouth is burnt / The water came from the fridge  
    **Answer:** Menthol in peppermint switches on your cold receptors. *Why:* Menthol switches on cold receptors, so they send 'cold' signals though the water's temperature has not changed.
 11. (mcq) You want to test whether you get dizzier after 10 spins than after 5. What makes it a fair test?  
    Options: Spin faster for 10 than for 5 / Spin at the same speed and rest until normal between tries / Do 5 spins on the bed and 10 on the floor / Only do one try  

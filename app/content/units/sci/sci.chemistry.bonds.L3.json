@@ -972,11 +972,11 @@
       "t": "mcq",
       "q": "The wax came back as wax, but the sugar became brown caramel. Why?",
       "options": [
-       "Heat only moved the wax molecules apart, but it broke the sugar's bonds and made new ones",
        "The sugar was heated for longer, so it is still sugar, just darker",
+       "Heat only moved the wax molecules apart, but it broke the sugar's bonds and made new ones",
        "The wax was not really heated"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Melting wax only lets its molecules move apart. When it cools they pack together again, so it is wax. The sugar got hot enough to break bonds inside its molecules. The atoms joined in new ways, and some left as steam. So the brown caramel is new stuff. Picking 'still sugar, just darker' misses the new taste and the steam. Those show that new substances were made."
      }
     },
@@ -1364,11 +1364,11 @@
       "t": "mcq",
       "q": "Why is pencil lead soft but diamond hard, if both are only carbon?",
       "options": [
-       "The carbon atoms are bonded in different patterns",
        "Diamond has a different kind of atom inside",
-       "Pencil lead is wet"
+       "Pencil lead is wet",
+       "The carbon atoms are bonded in different patterns"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In diamond, every carbon holds four others in all directions, making one strong frame. In graphite the carbons make flat sheets that hold each other only weakly. Picking 'a different kind of atom' is a natural guess, but both are pure carbon."
      }
     }
@@ -1695,12 +1695,12 @@
    "t": "mcq",
    "p": "What holds two atoms together in a bond?",
    "opts": [
-    "Their electrons, attracted by both atoms at once",
     "Tiny hooks on the atoms",
     "Glue made inside the atom",
-    "Air pressing on them"
+    "Air pressing on them",
+    "Their electrons, attracted by both atoms at once"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A bond is made by electrons that are attracted by the centres of both atoms. That is the electric force. Hooks and glue are old pictures. Atoms have neither.",
    "outcome": 0
   },
@@ -1708,12 +1708,12 @@
    "t": "mcq",
    "p": "A water molecule is written H2O. What does that mean?",
    "opts": [
-    "2 hydrogen atoms and 1 oxygen atom",
     "2 oxygen atoms and 1 hydrogen atom",
     "Hot water",
+    "2 hydrogen atoms and 1 oxygen atom",
     "2 drops of water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "H stands for hydrogen and O for oxygen. The small 2 says there are two hydrogen atoms. So one water molecule is two hydrogens and one oxygen.",
    "outcome": 1
   },
@@ -1721,12 +1721,12 @@
    "t": "mcq",
    "p": "Steam from a pot drips back off the lid as water. What does this show?",
    "opts": [
-    "Boiling only moves water molecules apart. Each one stays whole.",
     "Boiling splits water into hydrogen and oxygen",
     "The lid makes water",
+    "Boiling only moves water molecules apart. Each one stays whole.",
     "Steam is a new substance"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If boiling had split water, the gases would not drip back as water. The water molecules only moved apart, and came close again on the cool lid.",
    "outcome": 3
   },
@@ -1734,12 +1734,12 @@
    "t": "mcq",
    "p": "A gas stove flame is hot. Why?",
    "opts": [
-    "The gas atoms make new, strong bonds with oxygen, which gives out energy",
     "The gas atoms are destroyed",
+    "The gas atoms make new, strong bonds with oxygen, which gives out energy",
     "Water is splitting inside the flame",
     "The flame is made of hydrogen only"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The atoms of the gas bond with oxygen from the air and make carbon dioxide and water. Making strong new bonds gives out energy as heat and light.",
    "outcome": 4
   },
@@ -1773,12 +1773,12 @@
    "t": "mcq",
    "p": "Diamond and pencil lead are both pure carbon. Why is pencil lead soft?",
    "opts": [
-    "Its carbon atoms are in flat sheets that slide over each other",
     "It has less carbon",
     "It is mixed with water",
-    "Its atoms are bigger"
+    "Its atoms are bigger",
+    "Its carbon atoms are in flat sheets that slide over each other"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Graphite's sheets hold each other only weakly, so they slide off onto paper. In diamond every carbon holds four others in all directions.",
    "outcome": 5
   },
@@ -1799,12 +1799,12 @@
    "t": "mcq",
    "p": "When something burns, where do most of its atoms go?",
    "opts": [
-    "Into the air, as new gases like carbon dioxide and water",
     "They are destroyed",
     "They all stay in the ash",
+    "Into the air, as new gases like carbon dioxide and water",
     "They turn into heat"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Atoms are never destroyed in burning. They bond with oxygen and leave as gases. The ash is only a small part.",
    "outcome": 4
   },
@@ -1812,12 +1812,12 @@
    "t": "mcq",
    "p": "Sugar is dissolved in one glass of water and cooking soda in another. With the battery and pencils, the soda water bubbles a lot and the sugar water hardly at all. Why?",
    "opts": [
-    "Soda splits into charged particles that carry electricity, but sugar molecules have no charge",
     "Sugar is heavier",
     "Sugar stops the pencils working for ever",
-    "Soda water is warmer"
+    "Soda water is warmer",
+    "Soda splits into charged particles that carry electricity, but sugar molecules have no charge"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Charged particles carry the electricity across the water. Sugar dissolves as whole molecules with no charge, so very little electricity flows and few bubbles form.",
    "outcome": 3,
    "how": "e3"
@@ -1833,13 +1833,13 @@
     {
      "t": "mcq",
      "p": "Which model of a water molecule is right?",
-     "a": 1,
+     "a": 3,
      "why": "Water is H2O: one oxygen with two hydrogens held on to it. A strong answer explains that oxygen has two hands.",
      "opts": [
       "One oxygen and one hydrogen",
-      "One oxygen and two hydrogens",
       "Two oxygens and one hydrogen",
-      "Three hydrogens"
+      "Three hydrogens",
+      "One oxygen and two hydrogens"
      ]
     },
     {
@@ -2119,12 +2119,12 @@
     {
      "t": "mcq",
      "p": "Which takes more energy: boiling a glass of water away, or splitting the same water into hydrogen and oxygen?",
-     "a": 1,
+     "a": 2,
      "why": "Splitting it takes several times more energy, because it breaks the strong bonds inside each molecule. Boiling only separates whole molecules, which hold each other weakly.",
      "opts": [
       "Boiling it",
-      "Splitting it",
       "They take the same",
+      "Splitting it",
       "Neither takes any energy"
      ]
     },
@@ -2323,12 +2323,12 @@
     {
      "t": "mcq",
      "p": "A molecule is drawn as H, H, O in a row: the middle hydrogen holds the other hydrogen and the oxygen. What is wrong with it?",
-     "a": 1,
+     "a": 2,
      "why": "The middle hydrogen is holding two partners, but hydrogen has only one hand. In real water, both hydrogens hold the oxygen.",
      "opts": [
       "Nothing is wrong",
-      "The middle hydrogen has two partners, but hydrogen makes only one bond",
       "Oxygen should be at the end",
+      "The middle hydrogen has two partners, but hydrogen makes only one bond",
       "There are too many atoms"
      ]
     },
@@ -2392,12 +2392,12 @@
     {
      "t": "mcq",
      "p": "For 2,000 years people thought water was an element. Which finding showed that it is not?",
-     "a": 2,
+     "a": 0,
      "why": "A battery split water into two different gases. An element cannot be split into other substances. Freezing and boiling only change how water molecules move.",
      "opts": [
+      "A battery splits water into hydrogen and oxygen",
       "Water freezes into ice",
       "Water boils into steam",
-      "A battery splits water into hydrogen and oxygen",
       "Water dissolves salt"
      ]
     },
@@ -2420,12 +2420,12 @@
     {
      "t": "mcq",
      "p": "A rusty nail weighs a little more than the shiny nail did. Why?",
-     "a": 0,
+     "a": 2,
      "why": "Oxygen atoms from the air have bonded with the iron atoms. No iron is lost, and the extra atoms add weight.",
      "opts": [
-      "Oxygen atoms from the air have joined the iron atoms",
       "New iron atoms were made",
       "The nail soaked up heat, and heat has weight",
+      "Oxygen atoms from the air have joined the iron atoms",
       "The nail grew bigger holes"
      ]
     },
@@ -2456,11 +2456,11 @@
     {
      "t": "mcq",
      "p": "Why did we use pencil lead in the water-splitting test, and not a wooden stick?",
-     "a": 0,
+     "a": 1,
      "why": "Pencil lead is graphite, a form of carbon that carries electricity. Wood does not carry it well enough.",
      "opts": [
-      "Graphite carries electricity",
       "Graphite is a magnet",
+      "Graphite carries electricity",
       "Graphite makes the bubbles",
       "Graphite is the same as soda"
      ]

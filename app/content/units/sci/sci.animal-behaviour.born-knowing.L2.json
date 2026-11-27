@@ -418,10 +418,10 @@
       "q": "In the stop test, what usually happens when you try hard not to kick?",
       "options": [
        "The leg never kicks",
-       "The leg often still kicks, maybe smaller",
-       "The leg kicks much bigger"
+       "The leg kicks much bigger",
+       "The leg often still kicks, maybe smaller"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Most children still kick on some taps, though the kick may be smaller, because the kick happens before you decide. If you picked 'never kicks', did you stop the kick, or hold your leg stiff against it?"
      },
      "parent": "A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card called 'Your born-with actions: reflexes'."
@@ -564,11 +564,11 @@
       "t": "mcq",
       "q": "Why does a newborn baby grip a finger?",
       "options": [
-       "Someone taught her",
        "She is born able to do it",
+       "Someone taught her",
        "She has watched others do it"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Every healthy baby is born with this grip. It is there from the first day, before the baby has learned anything."
      }
     }
@@ -643,10 +643,10 @@
       "q": "A baby is born in Bengaluru to a family who speak Malayalam at home. Which sounds will she learn to say easily?",
       "options": [
        "Only Kannada sounds, because she was born in Bengaluru",
-       "The sounds of Malayalam, the language she hears every day",
-       "No sounds, until she goes to school"
+       "No sounds, until she goes to school",
+       "The sounds of Malayalam, the language she hears every day"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Every baby is born ready to learn any language. She learns the sounds she hears every day, so she will say the Malayalam 'zh' easily."
      },
      "parent": "Babies a few months old can hear the difference between sounds from many languages. By about one year, they hear best the sounds of the language around them. Scientists like Janet Werker found this."
@@ -825,10 +825,10 @@
       "q": "A crow chick finds a new balcony that puts out rice. How does she come back at the right time?",
       "options": [
        "She was born knowing about that balcony",
-       "She learns where and when the rice comes",
-       "The rice calls her"
+       "The rice calls her",
+       "She learns where and when the rice comes"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Nobody is born knowing about one balcony. The crow learns the place and the time by going there and finding food. Learning helps with new things."
      },
      "parent": "Born-with know-how is ready on the first day, but it was made for the world the animal's parents lived in. Learning is slower, but it helps an animal with things that are new."
@@ -938,11 +938,11 @@
       "t": "mcq",
       "q": "A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do?",
       "options": [
-       "Crawl to the shop, because it is still a light",
        "Crawl to the sea, because the sky over the sea is now the brightest light",
+       "Crawl to the shop, because it is still a light",
        "Stay in the sand for ever"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Hatchlings crawl towards the brightest light. When the light on land is dimmed, the brighter sky over the sea leads them the right way."
      }
     }
@@ -1033,10 +1033,10 @@
       "q": "Why do lights near a beach matter to turtle hatchlings?",
       "options": [
        "Hatchlings like to read at night",
-       "Hatchlings are born knowing to crawl to the brightest light, so a bright light on land leads them the wrong way",
-       "Lights make the sand warm"
+       "Lights make the sand warm",
+       "Hatchlings are born knowing to crawl to the brightest light, so a bright light on land leads them the wrong way"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Hatchlings crawl towards the brightest light, which is usually the sky over the sea. A bright light on land can lead them away from the sea."
      }
     }
@@ -1141,11 +1141,11 @@
      "t": "mcq",
      "p": "A baby spider spins her first web. Who taught her how?",
      "opts": [
-      "Her mother",
       "Nobody. She was born knowing how",
+      "Her mother",
       "The other spiders in the house"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In many kinds of spider, the mother is gone before the babies hatch. Each spiderling spins her first web with no teacher. This is instinct."
     },
     {
@@ -1576,10 +1576,10 @@
    "p": "What is an instinct?",
    "opts": [
     "Something you learn at school",
-    "Something an animal can do from birth, without being taught",
-    "A kind of animal"
+    "A kind of animal",
+    "Something an animal can do from birth, without being taught"
    ],
-   "a": 1,
+   "a": 2,
    "why": "An instinct is something an animal can do from birth, the first time, with no teaching, like a spiderling spinning a web.",
    "outcome": 0
   },
@@ -1588,10 +1588,10 @@
    "p": "Which of these is learned?",
    "opts": [
     "A baby drinking milk on her first day",
-    "A child speaking Malayalam",
-    "A sneeze"
+    "A sneeze",
+    "A child speaking Malayalam"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A child learns the language she hears every day. Drinking milk and sneezing are born-with actions.",
    "outcome": 1
   },
@@ -1599,11 +1599,11 @@
    "t": "mcq",
    "p": "Which baby animal can stand up and walk within a few hours of being born?",
    "opts": [
-    "A calf",
     "A human baby",
-    "A kitten"
+    "A kitten",
+    "A calf"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A newborn calf stands within a few hours. Human babies take about a year to walk, and kittens take a few weeks.",
    "outcome": 2
   },
@@ -1636,11 +1636,11 @@
    "t": "mcq",
    "p": "What is a reflex?",
    "opts": [
-    "A very quick action the body does by itself",
     "A skill you practise",
+    "A very quick action the body does by itself",
     "A kind of mirror"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A reflex happens by itself, before you decide, like a sneeze, a blink or the knee kick.",
    "outcome": 5
   },
@@ -1648,11 +1648,11 @@
    "t": "mcq",
    "p": "Who taught a turtle hatchling to crawl to the sea?",
    "opts": [
-    "Her mother",
     "Nobody. She was born knowing",
+    "Her mother",
     "The fishermen"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The turtle mother lays her eggs in the sand and goes back to the sea. The hatchlings crawl to the sea by instinct.",
    "outcome": 0
   },
@@ -1661,10 +1661,10 @@
    "p": "A young weaver bird's first nest is messy, and later nests are neat. What is true?",
    "opts": [
     "Weaving is all instinct",
-    "Weaving is all learned",
-    "He is born ready to weave, and gets better with practice"
+    "He is born ready to weave, and gets better with practice",
+    "Weaving is all learned"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Weaving is a bit of both: born ready, and better with practice.",
    "outcome": 3
   },

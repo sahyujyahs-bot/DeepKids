@@ -545,16 +545,16 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
    Options: The Moon / INSAT-3DS / The space station / The Sun  
    **Answer:** The Moon. *Why:* The Moon goes round the Earth and nobody made it. INSAT-3DS and the space station were built by people. The Earth goes round the Sun, not the other way.
 2. (mcq) A satellite's engine is switched off. Why does it keep going round?  
-   Options: The air pushes it along / Almost nothing is there to slow it / The Earth's spin drags it / It slows down and stops within a day  
+   Options: Almost nothing is there to slow it / The air pushes it along / The Earth's spin drags it / It slows down and stops within a day  
    **Answer:** Almost nothing is there to slow it. *Why:* Above the air there is almost no friction, so a moving thing keeps moving. On the ground, things stop because friction and air slow them. Gravity bends the satellite's path but does not slow it in a circular orbit.
 3. (mcq) A thing is launched level, above the air, at 5 kilometres every second. What happens?  
-   Options: It orbits in a circle / It falls back to the ground / It escapes from the Earth / It hangs still  
+   Options: It orbits in a circle / It escapes from the Earth / It falls back to the ground / It hangs still  
    **Answer:** It falls back to the ground. *Why:* Orbit just above the air needs about 7.8 kilometres every second. At 5, the thing falls faster than the ground curves away, so its path meets the ground. It does travel a very long way first.
 4. (mcq) Why do astronauts in the space station float?  
-   Options: Gravity does not reach that high / They fall together with the station / The station spins them / There is no air to hold them down  
+   Options: Gravity does not reach that high / The station spins them / There is no air to hold them down / They fall together with the station  
    **Answer:** They fall together with the station. *Why:* The station and everything in it fall round the Earth together, so the floor never pushes on anyone's feet. Gravity is almost as strong there as on the ground. Air does not hold people down anywhere.
 5. (mcq) Which orbit lets a satellite stay above one place in India?  
-   Options: A low polar orbit / A geostationary orbit / Any orbit, if the engine is on / The Moon's orbit  
+   Options: A low polar orbit / Any orbit, if the engine is on / A geostationary orbit / The Moon's orbit  
    **Answer:** A geostationary orbit. *Why:* A geostationary satellite goes round once a day above the equator, in step with the turning Earth. A low satellite takes about 90 minutes for a trip, so it rushes past every place.
 6. (truefalse) True or false: gravity at the height of the space station is almost as strong as on the ground.  
    **Answer:** True. *Why:* True. The station is only 400 kilometres up. Each kilogram there is pulled with about 8.7 newtons, and on the ground with about 9.8.
@@ -580,13 +580,13 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
    **Answer:** True. *Why:* A geostationary satellite stays over one spot above the equator, so it can relay television signals between distant countries.
 ### Speeds, heights and the people who got us there (stretch) (stretch, 16 questions)
 1. (mcq) In a whirling test, the hanging load is made four times as heavy. About how long do ten rounds take now?  
-   Options: Four times as long / Twice as long / The same time / Half as long  
+   Options: Four times as long / Twice as long / Half as long / The same time  
    **Answer:** Half as long. *Why:* A stronger pull needs a faster circle. With four times the pull, the pouch must go about twice as fast, so ten rounds take about half the time. Expecting a heavier load to slow things down mixes up the load with the pouch.
 2. (mcq) A satellite is moved from a low orbit to a much higher one. What is true of its new orbit?  
    Options: It moves more slowly / It moves faster / Its speed is unchanged / It must keep its engine on  
    **Answer:** It moves more slowly. *Why:* Farther out, the pull is weaker, so a slower speed is enough for a circle. The space station moves 7.7 kilometres every second, and the Moon only about 1.
 3. (mcq) A spacecraft leaves the Earth faster than escape speed. Which is true?  
-   Options: It has left the Earth's gravity behind / It will not fall back to the Earth / Its engine must stay on for ever / It stops when its fuel ends  
+   Options: It has left the Earth's gravity behind / Its engine must stay on for ever / It stops when its fuel ends / It will not fall back to the Earth  
    **Answer:** It will not fall back to the Earth. *Why:* Escape means it never falls back. The Earth's pull still reaches it and keeps slowing it, but never enough to bring it home. Above the air, a thing with no fuel keeps moving.
 4. (mcq) Why does India launch its rockets from the east coast, towards the east?  
    Options: The Earth's spin adds speed, and the sea lies below / The east is nearer to the Moon / Gravity is much weaker in the east / Rockets cannot fly over land  
@@ -618,13 +618,13 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
    **Answer:** ['heat', 'warmth', 'temperature']. *Why:* Satellite cameras that see heat pick out hot spots. Forest teams can then act before the smoke spreads.
 ### The Moon's fall, crowded skies and open debates (challenge) (challenge, 15 questions)
 1. (mcq) The Moon is 60 times as far from the Earth's centre as you are. How much weaker is the Earth's pull there?  
-   Options: 60 times weaker / 120 times weaker / 3,600 times weaker / It is not weaker  
+   Options: 60 times weaker / 3,600 times weaker / 120 times weaker / It is not weaker  
    **Answer:** 3,600 times weaker. *Why:* The pull falls with the distance multiplied by itself. 60 times 60 is 3,600. Choosing 60 forgets that the pull spreads out in every direction, like light from a lamp.
 2. (mcq) An astronaut in orbit pushes a floating box with a mass of 100 kilograms. What does she find?  
-   Options: It moves at the lightest touch / It is hard to start and hard to stop / It drops to the floor / It has lost its mass  
+   Options: It moves at the lightest touch / It drops to the floor / It has lost its mass / It is hard to start and hard to stop  
    **Answer:** It is hard to start and hard to stop. *Why:* The box is weightless, but it still has 100 kilograms of mass. Mass is what makes a thing hard to speed up or slow down. Astronauts have been bruised by forgetting this.
 3. (mcq) Stars at a galaxy's edge move faster than the rule for orbits predicts. What do most astronomers think?  
-   Options: Unseen matter adds its pull / The stars push themselves along / The telescopes are faulty / Gravity stops at the edge  
+   Options: The stars push themselves along / The telescopes are faulty / Gravity stops at the edge / Unseen matter adds its pull  
    **Answer:** Unseen matter adds its pull. *Why:* Most astronomers say unseen dark matter adds extra pull. A smaller group says the rule for gravity changes when the pull is very weak. Nobody has yet caught a particle of dark matter, so the question is open.
 4. (count) The Earth curves down 5 metres every 8 kilometres. A satellite covers 8 kilometres each second. How many metres must it fall?  
    **Answer:** 5. *Why:* It must fall as much as the ground curves away, which is 5 metres. A dropped thing falls about 5 metres in its first second, so 8 kilometres every second is the speed that keeps missing.
@@ -659,39 +659,39 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
 
 ## Quiz
 1. (mcq) Which of these is an artificial satellite?  
-   Options: The Moon / Titan / Cartosat / The Earth  
+   Options: Cartosat / The Moon / Titan / The Earth  
    **Answer:** Cartosat. *Why:* Cartosat is a mapping satellite built by ISRO. The Moon and Titan are moons, and the Earth is a planet. Nobody made them.
 2. (mcq) What does a planet go round, and what does a moon go round?  
-   Options: A planet: a star. A moon: a planet / Both go round a star only / A planet: a moon. A moon: a star / Neither goes round anything  
+   Options: Both go round a star only / A planet: a moon. A moon: a star / A planet: a star. A moon: a planet / Neither goes round anything  
    **Answer:** A planet: a star. A moon: a planet. *Why:* A planet is a satellite of a star, and a moon is a satellite of a planet. The Moon also travels round the Sun, along with the Earth.
 3. (mcq) What makes day and night on Earth?  
-   Options: The Earth spinning on its axis, about once every 24 hours / The Sun going round the Earth once each day / The Earth going round the Sun once each year  
+   Options: The Sun going round the Earth once each day / The Earth going round the Sun once each year / The Earth spinning on its axis, about once every 24 hours  
    **Answer:** The Earth spinning on its axis, about once every 24 hours. *Why:* The Earth turns round an imaginary line through its poles. The side facing the Sun has day, and the side turned away has night. The Sun does not go round the Earth. The trip round the Sun takes a year, so it is not what makes day and night.
 4. (mcq) Why does a satellite in orbit not hit the ground?  
-   Options: Gravity does not reach it / It falls, and the ground curves away as fast / Thin air holds it up / Its engine holds it up  
+   Options: Gravity does not reach it / Thin air holds it up / It falls, and the ground curves away as fast / Its engine holds it up  
    **Answer:** It falls, and the ground curves away as fast. *Why:* The satellite falls all the time. It moves sideways so fast that the round Earth curves away beneath it by the same amount. Gravity does reach it, and its engine is off.
 5. (mcq) A satellite is in orbit above the air. What would it do if gravity vanished?  
-   Options: Stay where it is / Go straight on, away from the Earth / Drop to the ground / Carry on in its circle  
+   Options: Stay where it is / Drop to the ground / Go straight on, away from the Earth / Carry on in its circle  
    **Answer:** Go straight on, away from the Earth. *Why:* A moving thing goes straight unless something bends its path. Gravity is what bends a satellite's path into a circle. Without it, the satellite would leave along a straight line.
 6. (mcq) A thing above the air moves sideways at 9 kilometres every second. What is its path?  
-   Options: A circle / A stretched loop that comes back / Straight down / A path that never comes back  
+   Options: A circle / Straight down / A stretched loop that comes back / A path that never comes back  
    **Answer:** A stretched loop that comes back. *Why:* It is faster than the 7.8 needed for a circle and slower than the 11.2 needed to escape. So it swings out on an ellipse and returns.
 7. (truefalse) True or false: a spacecraft that reaches escape speed has gone beyond the reach of the Earth's gravity.  
    **Answer:** False. *Why:* False. The Earth's pull never ends. It only grows weaker. Escape speed means the spacecraft will never fall back, although the pull goes on slowing it a little for ever.
 8. (mcq) Imagine the space station standing still on a tower 400 kilometres tall. What would the astronauts feel?  
-   Options: They would float / Nearly their normal weight / No weight at all / One sixth of their weight  
+   Options: Nearly their normal weight / They would float / No weight at all / One sixth of their weight  
    **Answer:** Nearly their normal weight. *Why:* Gravity at that height is almost nine tenths as strong as on the ground, and the tower's floor would push up on them. They float in orbit only because the floor is falling with them. One sixth is the Moon's surface.
 9. (mcq) Which of these satellites takes the longest to go once round the Earth?  
-   Options: One that is 400 kilometres up / One that is 20,000 kilometres up / One that is 36,000 kilometres up / They all take the same time  
+   Options: One that is 400 kilometres up / One that is 36,000 kilometres up / One that is 20,000 kilometres up / They all take the same time  
    **Answer:** One that is 36,000 kilometres up. *Why:* The higher the orbit, the weaker the pull, the slower the satellite and the longer its way round. The three trips take about 92 minutes, 12 hours and 1 day.
 10. (mcq) You whirl a pouch on a thread and double the hanging load. To keep the same circle, how must you whirl?  
-   Options: Faster / More slowly / At the same speed / It makes no difference  
+   Options: More slowly / At the same speed / It makes no difference / Faster  
    **Answer:** Faster. *Why:* A stronger pull bends the path more sharply, so the pouch must go faster to stay out on the same circle. If you whirl at the old speed, the load pulls the pouch in.
 11. (mcq) Which satellite would you choose to photograph every village in India in sharp detail?  
-   Options: One in geostationary orbit / One in a low polar orbit / One in orbit round the Moon / A navigation satellite  
+   Options: One in geostationary orbit / One in orbit round the Moon / One in a low polar orbit / A navigation satellite  
    **Answer:** One in a low polar orbit. *Why:* A low satellite is close enough to see detail. In a polar orbit, the Earth turns beneath it, so in time it passes over every village. A geostationary satellite is about 60 times farther away.
 12. (mcq) How can a satellite help forest teams find a fire early?  
-   Options: It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads / It measures how many trees stand in one place, from a spot on the ground / It blows cool wind over the trees to stop the fire  
+   Options: It measures how many trees stand in one place, from a spot on the ground / It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads / It blows cool wind over the trees to stop the fire  
    **Answer:** It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads. *Why:* A fire is much hotter than the forest around it, and a satellite camera can see that heat from space. The other two answers do not describe what a satellite does. It measures heat, not trees, and it cannot blow wind.
 13. (mcq) A television signal must reach a dish in another country, and that dish never turns. Which orbit suits a satellite that relays it?  
    Options: Geostationary orbit, about 35,786 km up above the equator / Low polar orbit, going over the poles / A low orbit where the satellite passes a town in a few minutes  

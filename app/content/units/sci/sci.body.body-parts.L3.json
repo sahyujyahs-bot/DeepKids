@@ -683,11 +683,11 @@
       "t": "mcq",
       "q": "What is earwax?",
       "options": [
-       "dirt that we must dig out",
        "a guard that traps dust and moves out by itself",
+       "dirt that we must dig out",
        "a sign that you never bathe"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Earwax traps dust and germs, then slowly moves out of the ear by itself. Picking 'dirt to dig out' is the most common idea, and it leads people to poke cotton buds in, which pushes wax deeper. Picking 'never bathe' mixes up wax with dirt. Even very clean people have earwax."
      },
      "context": "In Guard Match, each body part has a guard and a care card. This practice round uses the ear."
@@ -711,11 +711,11 @@
       "t": "mcq",
       "q": "In Guard Match, you turn over the card 'Nose hairs and sticky mucus'. Which part does it guard?",
       "options": [
-       "Nose",
        "Teeth",
+       "Nose",
        "Feet"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The nose's guards are its hairs and mucus, which trap dust as you breathe in. Enamel and spit guard the teeth. Thick soles guard the feet."
      },
      "context": "This is the last step of Guard Match. You count points and say the care rules from head to toe."
@@ -852,12 +852,12 @@
      "t": "mcq",
      "p": "Someone says, 'My heart is an organ, but my skin is just a cover.' What is wrong with this idea?",
      "opts": [
-      "Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating.",
       "Nothing. Only parts inside the body are organs.",
+      "Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating.",
       "Skin is not part of the body at all.",
       "The heart is not an organ."
      ],
-     "a": 0,
+     "a": 1,
      "why": "An organ is a body part made of many cells that does a job. Skin keeps out germs and water, feels heat and touch, and sweats to cool you. It is the biggest organ you have. The mistake is a common one: thinking that organs must be hidden inside."
     },
     {
@@ -932,12 +932,12 @@
      "t": "mcq",
      "p": "Dust blows into your eye at the bus stop. What should you do first?",
      "opts": [
-      "Blink a lot, and rinse with clean water if the dust stays",
       "Rub the eye hard",
       "Pull out your eyelashes",
+      "Blink a lot, and rinse with clean water if the dust stays",
       "Put in any eye drops from the cupboard"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if the dust stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops."
     },
     {
@@ -952,12 +952,12 @@
      "p": "You rub oil and turmeric on your hands, as in the oily hands activity. Then you rinse them in plain water for 20 seconds. What will you most likely see?",
      "how": "a3",
      "opts": [
-      "Most of the turmeric is still stuck, because water slides over the oil",
       "All the turmeric is gone",
       "The turmeric turns into soap",
-      "Your hands turn blue"
+      "Your hands turn blue",
+      "Most of the turmeric is still stuck, because water slides over the oil"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Turmeric sticks in the oil, the way germs stick in the oil on our skin. Water and oil do not mix, so water slides over. Soap grabs the oil, so water can then carry it away."
     },
     {
@@ -986,24 +986,24 @@
      "t": "mcq",
      "p": "You sneeze into your hand. Then you open the fridge door. Why is this a problem?",
      "opts": [
-      "Germs from your sneeze are now on the handle, and the next person can pick them up",
       "The fridge gets warm",
       "Sneezing makes the food go bad at once",
+      "Germs from your sneeze are now on the handle, and the next person can pick them up",
       "There is no problem"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Hands touch everything, so they spread germs to door handles, food and people. Sneezing into the elbow is better, because the elbow touches far less afterwards."
     },
     {
      "t": "mcq",
      "p": "A little child asks you, 'What are the parts under my underwear called?' What is the best answer to give?",
      "opts": [
-      "They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.",
       "Those are rude words. Don't ask.",
       "They don't have names.",
+      "They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.",
       "Only doctors can say."
      ],
-     "a": 0,
+     "a": 2,
      "why": "These are correct body words, like elbow or knee. A child who knows the right words can tell a doctor or a trusted grown-up clearly if something hurts or feels wrong."
     },
     {
@@ -1125,12 +1125,12 @@
      "p": "Someone says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with this thinking?",
      "how": "e3",
      "opts": [
-      "The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.",
       "Nothing is wrong. Vinegar cleans teeth well.",
+      "The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.",
       "The bubbles came from the egg breathing.",
       "Vinegar only works on brown eggs."
      ],
-     "a": 0,
+     "a": 1,
      "why": "Vinegar is an acid. It dissolves the chalky eggshell and gives off a gas, which makes the bubbles. Tooth enamel is also hard and made with calcium, so acid wears it away. Germs in the mouth make acid from sugar in the same way."
     },
     {
@@ -1381,12 +1381,12 @@
      "t": "mcq",
      "p": "Identical twins have the same genes. Their fingerprints form before birth. Why do the twins still have different fingerprints?",
      "opts": [
-      "Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges",
       "Twins have different genes after all",
+      "Tiny differences in the womb, such as how each baby lies and how fast each finger grows, shape the exact ridges",
       "Fingerprints change every year",
       "One twin always has whorls and the other loops"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Genes give the general pattern, but small differences in the womb shape the exact ridges. Picking 'change every year' is wrong. Your fingerprints keep their pattern all your life."
     },
     {
@@ -1409,12 +1409,12 @@
      "p": "Suppose you do a new bread test. You touch one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?",
      "how": "e1",
      "opts": [
-      "The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs",
       "Both grow the same, because soap is soap",
       "The 2-second slice grows fewer spots",
-      "Neither grows any spots"
+      "Neither grows any spots",
+      "The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Soap needs time and rubbing to grab the oil that germs stick in, all over the hand. A quick splash misses most of it. That is why we rub for about 20 seconds."
     },
     {
@@ -1451,12 +1451,12 @@
      "t": "mcq",
      "p": "After a sunburn, skin often peels a few days later. Why does this happen?",
      "opts": [
-      "The damaged top cells die and flake off, while new cells push up from underneath",
       "The skin melts in the sun",
+      "The damaged top cells die and flake off, while new cells push up from underneath",
       "Germs eat the skin",
       "Skin peels so it can grow thicker"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The outer skin is always being replaced from below. Sunburn kills many top cells at once, so they come off in sheets instead of tiny flakes. This is the same renewing you saw in the sticky tape test, only faster."
     },
     {
@@ -1481,12 +1481,12 @@
      "t": "mcq",
      "p": "When you have a cold, your nose runs much more than usual. Why does your nose make so much extra mucus?",
      "opts": [
-      "To trap the cold germs and wash them out",
       "Because the nose is full of dirt",
       "Because the brain is leaking",
-      "Because you drank too much water"
+      "Because you drank too much water",
+      "To trap the cold germs and wash them out"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Mucus is one of the nose's guards. When germs get in, the nose makes more of it to trap them and carry them out. That is why we blow the nose into a tissue and then wash hands."
     },
     {
@@ -1684,11 +1684,11 @@
       "t": "mcq",
       "q": "Why do we touch each slice in the same way, for the same time?",
       "options": [
-       "So the test is fair, and only the washing is different",
        "Because bread is soft",
+       "So the test is fair, and only the washing is different",
        "So the bread stays fresh"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In a fair test, only one thing changes. Here it is how the hands were washed. If one slice was rubbed much more, we would not know whether the spots came from the hands or the rubbing. Picking 'bread is soft' or 'stays fresh' misses the point of a fair test."
      }
     },
@@ -1713,11 +1713,11 @@
       "t": "mcq",
       "q": "On day 6, the slice touched by dirty hands has the most spots. What does that show?",
       "options": [
-       "Hands carry tiny living things we cannot see",
        "The dirty-hands bread was older",
+       "Hands carry tiny living things we cannot see",
        "Spots come from the bag"
       ],
-      "a": 0,
+      "a": 1,
       "why": "All the slices came from the same loaf and the same kind of bag. The only difference was the hands. So the extra spots came from germs and mould spores on the hands. Picking 'older bread' misses that all slices were the same. Picking 'the bag' misses that all bags were the same too."
      },
      "how": "e1",
@@ -1822,11 +1822,11 @@
       "t": "mcq",
       "q": "The skin strips have tiny white flakes, and the plain strip does not. What are the flakes most likely to be?",
       "options": [
-       "dead skin cells that were ready to fall off",
        "dust that was sitting on your skin",
-       "pieces of the tape"
+       "pieces of the tape",
+       "dead skin cells that were ready to fall off"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The top layer of skin is made of flat, dead cells. New cells grow underneath and push them up, and the old ones flake off. Picking 'dust' is a good thought, because some dust and fluff does stick too. But if the skin strips show more flakes than the plain strip, the extra flakes came from your skin. Picking 'pieces of tape' misses that the plain strip has none."
      },
      "how": "e2",
@@ -1938,11 +1938,11 @@
       "t": "mcq",
       "q": "Tiny bubbles come off the plain egg's shell. What is happening?",
       "options": [
-       "The acid is eating the shell and giving off a gas",
        "The egg is breathing",
+       "The acid is eating the shell and giving off a gas",
        "The vinegar is boiling"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Vinegar is an acid. It reacts with the chalky shell, dissolving it bit by bit and giving off a gas called carbon dioxide. That is the bubbles. Picking 'breathing' is a good thought, because an eggshell has tiny holes that let air through. But these bubbles are made by the acid. Picking 'boiling' misses that the vinegar is cold."
      },
      "how": "e3",
@@ -2045,11 +2045,11 @@
       "t": "mcq",
       "q": "Which of these is an external organ?",
       "options": [
-       "Skin",
        "Heart",
+       "Skin",
        "Lungs"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Skin is on the outside, where you can see it, so it is an external organ. In fact, it is the biggest organ you have. The heart and lungs are inside the chest, so they are internal organs. Picking them is a good sign you know they are organs. Ask: can I see it in a mirror?"
      },
      "parent": "Expect skin, hair, eyes, ears, nose, mouth, teeth, tongue, hands, nails and feet. Name the private parts calmly too: 'the parts covered by your underwear'. Using the correct names, penis and vulva, is normal and helps children stay safe."
@@ -2369,10 +2369,10 @@
       "q": "Someone you know asks you to keep a secret about touching. What should you do?",
       "options": [
        "Keep the secret, because they are a grown-up",
-       "Tell a trusted grown-up, even if you promised",
-       "Feel bad, because it must be your fault"
+       "Feel bad, because it must be your fault",
+       "Tell a trusted grown-up, even if you promised"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Secrets about touching should never be kept, even if you promised and even if the person is someone you know. Telling a trusted grown-up is always right, and it is never your fault. Picking 'they are a grown-up' is a common idea, because children are taught to obey. But your body belongs to you. Picking 'my fault' is what tricksters want children to feel. It is never true."
      }
     },
@@ -2641,11 +2641,11 @@
       "t": "mcq",
       "q": "Your nail keeps growing. So why doesn't cutting it hurt?",
       "options": [
-       "The part you cut is dead. Only the root under the skin is alive.",
        "Nails have no cells at all",
-       "Because you cut it quickly"
+       "Because you cut it quickly",
+       "The part you cut is dead. Only the root under the skin is alive."
       ],
-      "a": 0,
+      "a": 2,
       "why": "The nail you see is made of dead cells packed with keratin. Living cells at the root, under the skin, make new nail and push it out. The cut part has no nerves, so cutting it does not hurt. Picking 'no cells at all' is close, but nails are made of cells, just dead ones. Picking 'quickly' misses why: speed does not stop pain."
      },
      "how": "p1",
@@ -2820,11 +2820,11 @@
       "t": "mcq",
       "q": "The water runs straight over a flat card brow and into the eyes. What should you change?",
       "options": [
-       "Curve the brow so it is higher in the middle and lower at the sides",
        "Make the eyes bigger",
-       "Use more water"
+       "Use more water",
+       "Curve the brow so it is higher in the middle and lower at the sides"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water runs downhill. A brow that is curved, high in the middle and low at the sides, steers drips sideways around the eyes, just like your eyebrows. Bigger eyes would catch more drips, not fewer. Using more water changes the test, not the design."
      }
     },
@@ -2882,12 +2882,12 @@
    "t": "mcq",
    "p": "You bathe every day, but your ears still make yellow wax. What does that show?",
    "opts": [
-    "Wax is a guard the ear makes on purpose, not a sign of dirt",
     "Your ears are very dirty",
     "You are not washing properly",
-    "Wax only grows in dirty ears"
+    "Wax only grows in dirty ears",
+    "Wax is a guard the ear makes on purpose, not a sign of dirt"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.",
    "outcome": 5
   },
@@ -2908,12 +2908,12 @@
    "t": "mcq",
    "p": "You scrape your knee. A week later, new skin covers it. Where did the new skin come from?",
    "opts": [
-    "Living cells underneath, which keep making new skin cells",
     "The scab turned into skin",
     "Skin from the other knee moved over",
+    "Living cells underneath, which keep making new skin cells",
     "The plaster made it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Living cells under the top layer keep dividing and pushing up new cells. That is how the outer skin renews itself, and how a scrape heals.",
    "outcome": 4
   },
@@ -2921,12 +2921,12 @@
    "t": "mcq",
    "p": "In the bread test, why was one slice slid into its bag with a spoon and never touched?",
    "opts": [
-    "To compare: it shows how many spots bread grows when no hands touch it",
     "Because there were not enough hands",
     "To make it go bad faster",
-    "It was the slice for eating"
+    "It was the slice for eating",
+    "To compare: it shows how many spots bread grows when no hands touch it"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.",
    "how": "e1",
    "outcome": 2
@@ -2935,12 +2935,12 @@
    "t": "mcq",
    "p": "Why is brushing at night most important?",
    "opts": [
-    "Your mouth makes less spit at night, so germs can make acid for hours",
     "Teeth grow at night",
     "It helps you sleep",
-    "Germs only come out at night"
+    "Germs only come out at night",
+    "Your mouth makes less spit at night, so germs can make acid for hours"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Spit washes and protects teeth. At night there is less of it. Picking 'germs only come out at night' is a mix-up: germs are there all day.",
    "outcome": 1
   },
@@ -2962,12 +2962,12 @@
    "t": "mcq",
    "p": "If any touch feels wrong or confusing, what should you do?",
    "opts": [
-    "Say no, get away and tell a trusted grown-up",
     "Keep it a secret",
+    "Say no, get away and tell a trusted grown-up",
     "Think it is your fault",
     "Wait and see"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Say no, get away and tell a trusted grown-up. It is never the child's fault, and secrets about touching are never kept.",
    "outcome": 3
   },
@@ -2975,12 +2975,12 @@
    "t": "mcq",
    "p": "You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?",
    "opts": [
-    "Tell another trusted grown-up, and keep telling until someone helps",
     "Stop telling anyone",
     "Think you made a mistake",
-    "Keep it a secret"
+    "Keep it a secret",
+    "Tell another trusted grown-up, and keep telling until someone helps"
    ],
-   "a": 0,
+   "a": 3,
    "why": "This is why children choose more than one trusted grown-up. Keep telling until someone listens and helps.",
    "outcome": 3
   },
@@ -2988,12 +2988,12 @@
    "t": "mcq",
    "p": "What do scientists still argue about?",
    "opts": [
-    "What fingertip ridges are for",
     "Whether skin is an organ",
     "Whether hair grows",
-    "Whether teeth need brushing"
+    "Whether teeth need brushing",
+    "What fingertip ridges are for"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Scientists agree skin is an organ, hair grows and brushing helps. They still argue whether ridges are mainly for grip, feeling or both.",
    "outcome": 6
   },
@@ -3001,12 +3001,12 @@
    "t": "mcq",
    "p": "Your left and right thumbs grew from the same genes. What are their prints like?",
    "opts": [
-    "Different: the ridge forks and ends are in different places",
     "Exactly the same, because the genes are the same",
     "Different, because one thumb is older",
+    "Different: the ridge forks and ends are in different places",
     "They have no pattern at all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every finger has its own print. The ridges formed before birth, and tiny differences in how each fingertip grew set the details. Picking 'exactly the same' is the common idea that genes decide everything. Both thumbs are the same age, so 'older' cannot be the reason.",
    "how": "a2",
    "outcome": 7
@@ -3015,12 +3015,12 @@
    "t": "mcq",
    "p": "Fingerprints form before birth. What happens to them as you grow up?",
    "opts": [
-    "They get bigger, but the pattern stays the same all your life",
     "They change into a new pattern every year",
     "They disappear by the age of 10",
+    "They get bigger, but the pattern stays the same all your life",
     "They swap from loops to whorls"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.",
    "outcome": 7
   },
@@ -3028,11 +3028,11 @@
    "t": "mcq",
    "p": "Kitchen smoke makes your eyes sting, and a neighbour offers you eye drops from her house. What is the best thing to do?",
    "opts": [
-    "Use her drops, since they are only drops",
     "Wash your eyes with clean water, and take no drops unless a doctor says so",
+    "Use her drops, since they are only drops",
     "Rub your eyes hard until the stinging stops"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Clean water washes smoke out. Only a doctor can say which drops are safe, and the wrong drops can harm the eye. Rubbing hard can scratch the eye.",
    "outcome": 1
   },
@@ -3040,11 +3040,11 @@
    "t": "mcq",
    "p": "Your uncle chews gutka every day. What does tobacco do to his mouth?",
    "opts": [
-    "It makes the teeth whiter and the gums strong",
     "It stains the teeth and makes the gums sore, and over many years it can cause cancer",
+    "It makes the teeth whiter and the gums strong",
     "It only changes how his breath smells for an hour"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Tobacco in gutka and in tobacco paan harms teeth and gums, and can cause cancer of the mouth. It does not clean or strengthen anything. Rinsing and brushing help, but staying away from tobacco protects the most.",
    "outcome": 1
   },
@@ -3052,11 +3052,11 @@
    "t": "mcq",
    "p": "Meena has her first period at school. What is the best thing for her to do?",
    "opts": [
-    "Use a clean pad or cloth, change it every four to six hours, and wash her hands",
     "Tell nobody and stay in the toilet until school ends",
+    "Use a clean pad or cloth, change it every four to six hours, and wash her hands",
     "Use the same cloth for two days without washing it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A period is normal, and a clean pad or cloth keeps her comfortable and well. A damp or dirty cloth can give a rash or infection. A trusted grown-up or teacher can help.",
    "outcome": 3
   },
@@ -3064,11 +3064,11 @@
    "t": "mcq",
    "p": "In winter, the skin on Rahul's hands is dry and cracked. What can help?",
    "opts": [
-    "A little coconut or mustard oil after he dries his hands",
     "Scrubbing them with harsh soap",
+    "A little coconut or mustard oil after he dries his hands",
     "Washing them in very hot water again and again"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Oil keeps skin soft and stops it cracking in dry cold weather. Harsh soap and hot water take away more of the skin's oil and make it worse.",
    "outcome": 1
   }

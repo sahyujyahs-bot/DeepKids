@@ -588,7 +588,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
    Options: A physical hazard / A biological hazard / A chemical hazard  
    **Answer:** A physical hazard. *Why:* A stone is a hard object that can break a tooth. It is a physical hazard. Microbes are biological hazards, and poisons are chemical hazards.
 2. (mcq) Why can you not tell that food is safe just because it smells normal?  
-   Options: Many harmful bacteria do not change the smell or taste / Only dirty food has a smell / The nose and tongue cannot tell sweet from sour  
+   Options: Only dirty food has a smell / The nose and tongue cannot tell sweet from sour / Many harmful bacteria do not change the smell or taste  
    **Answer:** Many harmful bacteria do not change the smell or taste. *Why:* Spoiling microbes often make smells, but the bacteria that make people ill can grow in food without changing it. A bad smell is a reason to throw food away, but a good smell is not a reason to eat it.
 3. (fill) The range of temperature, from about 5 to 60 degrees Celsius, in which bacteria multiply fastest, is called the ____ zone.  
    **Answer:** ['danger']. *Why:* Below 5 degrees, cold slows bacteria. Above 60 degrees, heat stops most of them. In between is the danger zone.
@@ -604,7 +604,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 8. (order) Put the steps of washing your hands in order.  
    **Answer:** ['Wet your hands with clean water', 'Rub soap over your hands for 20 seconds', 'Rinse the soap off under running water', 'Dry your hands with a clean cloth']. *Why:* Wet hands first, then soap and rubbing so the soap can lift the microbes, then rinse them away, then dry. Wet hands pick up and pass on more microbes than dry hands.
 9. (mcq) Why does soap lift microbes off your hands better than water alone?  
-   Options: Soap sticks to oily dirt and microbes, and the water carries them away / Soap makes the water hotter / Soap makes the microbes fall asleep  
+   Options: Soap makes the water hotter / Soap makes the microbes fall asleep / Soap sticks to oily dirt and microbes, and the water carries them away  
    **Answer:** Soap sticks to oily dirt and microbes, and the water carries them away. *Why:* Soap molecules have one end that sticks to oil and one that sticks to water. They lift the oily film and the microbes off the skin, so that the rinse water can carry them away.
 10. (truefalse) A lot of salt in a pickle keeps microbes from growing by pulling water out of them.  
    **Answer:** True. *Why:* True. Water moves through a microbe's thin skin towards the saltier side. A microbe in a very salty pickle loses water, shrivels, and cannot grow.
@@ -624,13 +624,13 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
    **Answer:** There is no group who did not eat it to compare with. *Why:* A food that everyone ate cannot tell the ill guests from the well ones. We need guests who did not eat it, and the food where eaters are ill far more often than non-eaters.
 ### Toxins, Carriers and Clues (stretch) (stretch, 16 questions)
 1. (mcq) Rice sat out all night in summer, and was then reheated until it steamed. Why might it still make people ill?  
-   Options: A toxin made by bacteria can survive heating / Reheating makes the rice colder / Steam brings in new microbes  
+   Options: Reheating makes the rice colder / A toxin made by bacteria can survive heating / Steam brings in new microbes  
    **Answer:** A toxin made by bacteria can survive heating. *Why:* Some bacteria make toxins while they grow, and some toxins are not destroyed by heat. Reheating kills the bacteria but may leave the poison behind.
 2. (mcq) At a feast, 12 of the 15 people who ate the payasam were ill, and 1 of the 10 who did not eat it was ill. What does this suggest?  
-   Options: The payasam is a strong suspect / The payasam is safe / The payasam cannot be judged from these numbers  
+   Options: The payasam is safe / The payasam is a strong suspect / The payasam cannot be judged from these numbers  
    **Answer:** The payasam is a strong suspect. *Why:* 12 out of 15 is a high fraction, and 1 out of 10 is a low one. A big gap between eaters and non-eaters points to that food. It is a suspect, not proof, so the leftover food should be tested.
 3. (mcq) A big pot of hot dal needs to be cooled before it goes into the fridge. Which method gets it through the danger zone fastest?  
-   Options: Spread it in a shallow, wide dish / Leave it in the deep pot with the lid on / Put it straight into a closed box  
+   Options: Leave it in the deep pot with the lid on / Spread it in a shallow, wide dish / Put it straight into a closed box  
    **Answer:** Spread it in a shallow, wide dish. *Why:* A shallow dish has more surface for the heat to leave, so the dal cools fast and spends less time in the danger zone. A deep pot with a lid stays warm for hours in the middle.
 4. (truefalse) A cook who feels perfectly well can still pass typhoid bacteria on to others through food.  
    **Answer:** True. *Why:* True. A carrier has the bacteria in her body without feeling ill, and can spread them by hands that are not well washed. This is why everyone who handles food washes hands well.
@@ -639,19 +639,19 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 6. (match) Match each kitchen mistake to what can go wrong.  
    **Answer:** An uncovered cut on a cook's finger → bacteria from the skin can pass into the food; One knife for raw fish and then for cucumber → microbes move from the raw food to the ready-to-eat food; Moist chutney carried in a hot van for hours → bacteria multiply in the danger zone; A wet spoon in a pickle jar → mould can grow where water makes the pickle less salty; Rice left out overnight and reheated → a toxin can still be in the food. *Why:* Each mistake gives microbes a way in, or time and warmth to grow. A strong answer could say what the fix is for each one.
 7. (mcq) Honey can keep for years without a fridge. What is the main reason?  
-   Options: It has so little free water that microbes cannot grow in it / It is always kept cold / It contains no sugar  
+   Options: It is always kept cold / It contains no sugar / It has so little free water that microbes cannot grow in it  
    **Answer:** It has so little free water that microbes cannot grow in it. *Why:* Honey is mostly sugar and has very little water. The sugar holds on to the water tightly, and water is drawn out of any microbe that lands in it.
 8. (fill) In the Handprints on a Potato test, the slice that was opened but not touched by any finger is the ____.  
    **Answer:** ['control']. *Why:* A control shows what happens with no treatment. It lets us see how much grew from the air and the bag, so that we know what the fingers added.
 9. (mcq) Escherichia coli lives in almost everyone's gut. Which statement fits best?  
-   Options: Most strains are harmless in the gut, and a few can make people ill if they get into food or water / All E. coli make people ill / E. coli only lives in food  
+   Options: All E. coli make people ill / Most strains are harmless in the gut, and a few can make people ill if they get into food or water / E. coli only lives in food  
    **Answer:** Most strains are harmless in the gut, and a few can make people ill if they get into food or water. *Why:* Most strains of E. coli are harmless or helpful in the gut. Only some strains make toxins. So whether a microbe harms us depends on the strain, the place and the numbers.
 10. (order) Put the steps of a 'who ate what' investigation in order.  
    **Answer:** ['Ask each guest what they ate and whether they became ill', 'Write a table of foods and who ate them', 'Compare the fraction ill among eaters and non-eaters for each food', 'Test the leftover suspect food in a laboratory']. *Why:* First collect the information, then put it in a table, then compare the fractions to find a suspect. The laboratory test comes last, to check whether the suspect really holds harmful microbes.
 11. (truefalse) Best before and use by on a packet mean the same thing.  
    **Answer:** False. *Why:* False. Best before is mostly about quality. Use by is about safety on foods that spoil easily, and such foods should not be eaten after that date.
 12. (mcq) Which words on a packet warn you about safety, not just quality?  
-   Options: Use by / Best before / Net weight  
+   Options: Best before / Net weight / Use by  
    **Answer:** Use by. *Why:* Use by is printed on foods that spoil easily, such as fresh paneer, meat and cut salads. After that date they may not be safe. Best before is about taste and texture.
 13. (write) Explain why a food that every guest at a party ate cannot be picked as the cause of an outbreak using a 'who ate what' table.  
    **Answer:** If everyone ate it, there is nobody who did not eat it to compare with. It cannot explain why some guests were ill and others were well. The cause is the food where most eaters are ill and few non-eaters are.. *Why:* A strong answer says that the method compares eaters with non-eaters, and a food that everyone ate has no group of non-eaters.
@@ -665,13 +665,13 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 1. (fill) At a picnic, 9 of the 12 children who ate an egg roll were ill. As a percentage, ____ percent of the egg-roll eaters were ill.  
    **Answer:** ['75']. *Why:* 9 out of 12 is three quarters. Three quarters of 100 is 75, so 75 percent of the eaters were ill.
 2. (mcq) Why is it useful to know when guests ate and when they fell ill?  
-   Options: The time between the two hints at which kind of microbe or toxin it was / It tells us who cooked the food / It tells us how much each guest ate  
+   Options: It tells us who cooked the food / The time between the two hints at which kind of microbe or toxin it was / It tells us how much each guest ate  
    **Answer:** The time between the two hints at which kind of microbe or toxin it was. *Why:* A toxin made in food can act within a few hours. Some bacteria take a day or more to cause illness. This time, the incubation period, helps scientists decide what to test for.
 3. (mcq) One bacterium divides into two every 30 minutes in warm food. How many bacteria are there after 4 hours if none die?  
    Options: 8 / 64 / 256  
    **Answer:** 256. *Why:* 4 hours is 8 half-hours, so the number doubles 8 times. Starting from 1 and doubling 8 times gives 256. An answer of 8 comes from adding one for each half-hour instead of doubling.
 4. (mcq) A raisin soaked in plain water swells. A raisin soaked in very salty water shrivels. Why?  
-   Options: Water moves through the raisin's skin towards the saltier side / Salt makes the raisin heavier / Plain water makes the raisin sweeter  
+   Options: Salt makes the raisin heavier / Water moves through the raisin's skin towards the saltier side / Plain water makes the raisin sweeter  
    **Answer:** Water moves through the raisin's skin towards the saltier side. *Why:* Water passes through thin skins towards the side with more salt or sugar. In plain water, it flows in and the raisin swells. In very salty water, it flows out and the raisin shrinks.
 5. (truefalse) Cooking a food for twice as long always removes the toxins that bacteria made in it.  
    **Answer:** False. *Why:* False. Some toxins, such as the one made by Staphylococcus, are not destroyed by cooking at all. The only safe protection is to stop the bacteria from growing in the first place.
@@ -691,7 +691,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 11. (truefalse) A 'who ate what' table proves which food caused an outbreak.  
    **Answer:** False. *Why:* False. It points to a suspect. The suspect must still be tested, and the timing and the way the microbes got in must still be checked. One person who does not fit may have had another illness.
 12. (mcq) Whether a microbe is harmful depends on the meeting between the microbe and the person. What does this mean?  
-   Options: The same microbe can be harmless in one place and harmful in another / Microbes are never harmful / Microbes always meet in the gut  
+   Options: Microbes are never harmful / Microbes always meet in the gut / The same microbe can be harmless in one place and harmful in another  
    **Answer:** The same microbe can be harmless in one place and harmful in another. *Why:* E. coli is harmless in most guts and harmful in a few strains in food. Whether a microbe harms us depends on where she is, how many there are and who meets her.
 13. (write) True or false: a cook who feels perfectly well cannot spread illness through her hands. Explain your answer, using the idea of a carrier.  
    **Answer:** A carrier has disease microbes in her body but feels well. She can pass them on through her hands if they are not washed well. So everyone who cooks must wash with soap, even when she feels fine, and stay away from food if she has loose motions.. *Why:* A strong answer uses the word carrier, says that feeling well is not proof of being microbe-free, and ends with a habit that helps.
@@ -709,40 +709,40 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 
 ## Quiz
 1. (mcq) Which of these is a physical food hazard?  
-   Options: A fragment of broken glass in a jar of jam / Bacteria in old dal / Pesticide on a brinjal  
+   Options: Bacteria in old dal / A fragment of broken glass in a jar of jam / Pesticide on a brinjal  
    **Answer:** A fragment of broken glass in a jar of jam. *Why:* A hard or sharp object that can hurt the mouth or gut is a physical hazard. Bacteria are biological hazards and pesticide is a chemical hazard.
 2. (mcq) Cooked rice sat out all night in summer and smells fine in the morning. What should you do?  
    Options: Throw it away, because a normal smell does not prove it is safe / Eat it, because it smells fine / Reheat it and eat it  
    **Answer:** Throw it away, because a normal smell does not prove it is safe. *Why:* Harmful bacteria and their toxins often do not change the smell, and reheating does not remove a toxin. Rice that sat warm for hours should be thrown away.
 3. (mcq) Why does a fridge slow food from going bad, but not stop it?  
-   Options: Cold slows the microbes but does not kill them / Cold removes the water from food / Cold puts the microbes to sleep for ever  
+   Options: Cold removes the water from food / Cold slows the microbes but does not kill them / Cold puts the microbes to sleep for ever  
    **Answer:** Cold slows the microbes but does not kill them. *Why:* Microbes grow more slowly in the cold, but they stay alive. When food warms up again, they start to grow faster.
 4. (mcq) A yeast mixture is heated until it steams, then cooled to lukewarm and left on the counter. What happens to the yeast in that glass?  
-   Options: She does not grow, because the heat killed her / She grows faster than before / She grows the same as unheated yeast  
+   Options: She grows faster than before / She does not grow, because the heat killed her / She grows the same as unheated yeast  
    **Answer:** She does not grow, because the heat killed her. *Why:* Heat kills most microbes, including yeast. This is why cooking food makes it safer, and why the mixture stays flat.
 5. (mcq) What is the best way to wash your hands before cooking?  
    Options: Wet them, rub with soap for 20 seconds, rinse and dry / Rinse them under the tap for 2 seconds / Wipe them on a towel  
    **Answer:** Wet them, rub with soap for 20 seconds, rinse and dry. *Why:* Soap lifts microbes off oily skin, and rubbing for about 20 seconds gives it time to work. Rinsing and drying finish the job.
 6. (mcq) Why does lemon pickle keep for months without a fridge?  
-   Options: The salt, the sourness and the oil leave microbes little water or room to grow / The lemon is too hard for microbes to eat / Pickle is always kept in the dark  
+   Options: The lemon is too hard for microbes to eat / The salt, the sourness and the oil leave microbes little water or room to grow / Pickle is always kept in the dark  
    **Answer:** The salt, the sourness and the oil leave microbes little water or room to grow. *Why:* Salt pulls water out of microbes, the sour lemon slows many of them, and the oil keeps out air. A wet spoon can bring in water and let mould grow.
 7. (mcq) On a biscuit packet, the first ingredient is sugar. What does this tell you?  
    Options: There is more sugar than any other ingredient by weight / The biscuits are sugar-free / The sugar was added last  
    **Answer:** There is more sugar than any other ingredient by weight. *Why:* Ingredients are listed from the most to the least by weight. The first one is the biggest part.
 8. (mcq) A packet of fresh paneer has a use by date of 12 March. Today is 14 March. What should you do?  
-   Options: Throw it away, because fresh paneer spoils easily and may not be safe / Eat it, because it looks fine / Boil it for a long time and eat it  
+   Options: Eat it, because it looks fine / Boil it for a long time and eat it / Throw it away, because fresh paneer spoils easily and may not be safe  
    **Answer:** Throw it away, because fresh paneer spoils easily and may not be safe. *Why:* A use by date is about safety on foods that spoil easily. Boiling does not remove toxins. A use by date is a limit, not a guess.
 9. (mcq) At a party, 6 of the 8 guests who ate the raita were ill, and 1 of the 8 guests who did not eat it was ill. What does this suggest?  
-   Options: The raita is a strong suspect / The raita is safe / Nothing can be told from these numbers  
+   Options: The raita is safe / The raita is a strong suspect / Nothing can be told from these numbers  
    **Answer:** The raita is a strong suspect. *Why:* 6 out of 8 is a high fraction, and 1 out of 8 is a low one. A big gap between eaters and non-eaters points to that food. It must still be tested.
 10. (mcq) Which statement about E. coli is best?  
-   Options: She is harmless in most guts, and only some strains make people ill / She is bad in the gut and good in food / She is the same everywhere  
+   Options: She is bad in the gut and good in food / She is the same everywhere / She is harmless in most guts, and only some strains make people ill  
    **Answer:** She is harmless in most guts, and only some strains make people ill. *Why:* Most E. coli live quietly in the gut. Whether a microbe harms us depends on the strain, the place and the numbers.
 11. (mcq) How can a cook who feels well still pass typhoid on to others?  
-   Options: She can be a carrier, and her hands pass the bacteria into food if she does not wash them well / She cannot, because only ill people spread illness / Only by coughing on the food  
+   Options: She cannot, because only ill people spread illness / Only by coughing on the food / She can be a carrier, and her hands pass the bacteria into food if she does not wash them well  
    **Answer:** She can be a carrier, and her hands pass the bacteria into food if she does not wash them well. *Why:* A carrier has the bacteria in her body without feeling ill. Hand washing with soap is the main protection.
 12. (mcq) Why should a cook with loose motions not prepare food for others?  
-   Options: Microbes from her gut can reach the food on her hands / Her stomach hurts too much to cook / She might eat the food herself  
+   Options: Her stomach hurts too much to cook / Microbes from her gut can reach the food on her hands / She might eat the food herself  
    **Answer:** Microbes from her gut can reach the food on her hands. *Why:* Loose motions may mean a gut infection. The microbes can pass from her hands into the food, even after washing, if she is still ill. She should stay away from food until she has been well for a day or two.
 
 ## Applications

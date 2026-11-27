@@ -741,11 +741,11 @@
       "t": "mcq",
       "q": "You push a door shut from inside. Later you pull the same door shut from outside. Which way does the door go?",
       "options": [
-       "The same way both times",
        "Opposite ways",
-       "It does not move when you pull"
+       "It does not move when you pull",
+       "The same way both times"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The door swings the same way both times. A push moves a thing away from you, and a pull moves it towards you. So push or pull depends on where you stand."
      },
      "parent": "Let your child explain first. Then say it plainly: push and pull are both forces, and the word depends on where you stand."
@@ -823,11 +823,11 @@
       "t": "mcq",
       "q": "Many ants move a big crumb together. Why?",
       "options": [
-       "A big crumb needs a bigger pull than one ant can give",
        "The ants are racing each other",
+       "A big crumb needs a bigger pull than one ant can give",
        "The crumb is pulling the ants"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A big, heavy crumb needs a big pull. Many small pulls together make a big pull, just as many people push a heavy boat together."
      }
     }
@@ -1054,11 +1054,11 @@
       "t": "mcq",
       "q": "You take a dupatta off the washing line. Is that a push or a pull?",
       "options": [
-       "A pull",
        "A push",
+       "A pull",
        "Neither"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The dupatta comes towards you, so it is a pull."
      }
     }
@@ -1138,11 +1138,11 @@
       "t": "mcq",
       "q": "The sock ball is just in front of the box. What push do you need?",
       "options": [
-       "A small push",
        "The biggest push you can",
-       "A pull"
+       "A pull",
+       "A small push"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A small push moves the ball a little way, into the box. A big push would send it past."
      }
     }
@@ -1334,11 +1334,11 @@
       "t": "mcq",
       "q": "You pull the bedsheet towards you, and the teddy comes too. Why?",
       "options": [
-       "The sheet pulls the teddy along with it",
        "The teddy walks",
-       "The table pushes the teddy away"
+       "The table pushes the teddy away",
+       "The sheet pulls the teddy along with it"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The teddy sits on the sheet. When the sheet is pulled, it carries the teddy along with it."
      }
     }
@@ -1418,10 +1418,10 @@
      "p": "You flick a carrom striker softly, then flick it hard. Which time does the striker go further?",
      "opts": [
       "The gentle push",
-      "The hard push",
-      "Both the same"
+      "Both the same",
+      "The hard push"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A harder flick is a bigger push. The striker moves faster, so it goes further before it stops.",
      "how": "e1"
     },
@@ -1642,11 +1642,11 @@
    "t": "mcq",
    "p": "You drag a mat across the room by its corner, walking backwards. Is that a push or a pull?",
    "opts": [
-    "A pull",
     "A push",
-    "Neither"
+    "Neither",
+    "A pull"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The mat comes towards you, so it is a pull.",
    "outcome": 0
   },
@@ -1655,10 +1655,10 @@
    "p": "A boy called Arjun pushes a swing. Which way does the swing move?",
    "opts": [
     "Towards Arjun",
-    "Away from Arjun",
-    "It stays still"
+    "It stays still",
+    "Away from Arjun"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A push moves a thing away from you.",
    "outcome": 0
   },
@@ -1691,10 +1691,10 @@
    "p": "You want your toy car to go as far as it can. What should you do?",
    "opts": [
     "Give it a tiny push",
-    "Hold it still",
-    "Give it a big push"
+    "Give it a big push",
+    "Hold it still"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A bigger push makes the car go faster, so it goes further.",
    "outcome": 2
   },
@@ -1738,11 +1738,11 @@
    "t": "mcq",
    "p": "Which machine is made to pull?",
    "opts": [
-    "A bulldozer",
     "A tractor with a trolley",
+    "A bulldozer",
     "A road roller"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A tractor pulls a trolley behind it. A bulldozer pushes soil, and a road roller presses the road flat.",
    "outcome": 4
   },
@@ -1750,11 +1750,11 @@
    "t": "mcq",
    "p": "In the playground, you push a roundabout. What does your push do?",
    "opts": [
-    "It makes the roundabout start to turn",
     "It pulls the roundabout towards you",
-    "Nothing"
+    "Nothing",
+    "It makes the roundabout start to turn"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your push moves the roundabout away from your hands, so it starts to turn.",
    "outcome": 4
   }

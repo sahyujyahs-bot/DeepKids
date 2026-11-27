@@ -796,12 +796,12 @@
       "t": "mcq",
       "q": "Wringing out a wet towel is mostly…",
       "options": [
+       "A twist",
        "A squash",
        "A stretch",
-       "A twist",
        "A bend"
       ],
-      "a": 2,
+      "a": 0,
       "why": "A twist, and the player who placed it scores a point. Your two hands turn opposite ways. Picking 'squash' is close, because the twist squeezes the water out, but the action itself is a twist."
      }
     },
@@ -942,11 +942,11 @@
       "q": "You catch a rolling ball and hold it still. Which of the six things did your hands do?",
       "options": [
        "Start it moving",
-       "Stop it",
        "Turn it",
+       "Stop it",
        "Speed it up"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your hands pushed against the ball's movement and stopped it, so you win the practice point. Your hands also squashed the ball a tiny bit, so a stop can change a shape too."
      }
     },
@@ -981,12 +981,12 @@
      "t": "mcq",
      "p": "You press a ball of dough flat with your hand. Which shape change is this?",
      "opts": [
-      "A squash",
       "A stretch",
       "A twist",
+      "A squash",
       "A bend"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Pressing inwards on something makes it flatter. That is a squash. Picking 'stretch' is close, because the dough also spreads wider. But your push is inwards, so it is mainly a squash.",
      "art": "A hand pressing a dough ball flat."
     },
@@ -995,11 +995,11 @@
      "p": "A rope-maker holds one end of a bundle of coconut fibres still and turns the other end round and round. Which shape change is this?",
      "opts": [
       "A squash",
-      "A twist",
       "A bend",
+      "A twist",
       "No change"
      ],
-     "a": 1,
+     "a": 2,
      "why": "One end turns while the other stays still. That is a twist. Picking 'bend' makes sense, because the rope curves. But the fibres are being turned, not pushed in the middle."
     },
     {
@@ -1050,12 +1050,12 @@
      "t": "mcq",
      "p": "A papad snaps when you bend it. A word for things that break instead of bending is…",
      "opts": [
-      "Elastic",
       "Brittle",
+      "Elastic",
       "Plastic",
       "Stretchy"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Brittle things crack and break instead of bending. Picking 'plastic' often comes from thinking of plastic bottles. In science, plastic means 'stays changed'."
     },
     {
@@ -1068,12 +1068,12 @@
      "t": "mcq",
      "p": "In the clay drop test, you drop the same clay ball from 10 cm and from 80 cm. Which drop makes the wider flat patch?",
      "opts": [
-      "10 cm",
       "80 cm",
+      "10 cm",
       "Both the same",
       "Neither, clay doesn't squash"
      ],
-     "a": 1,
+     "a": 0,
      "why": "From higher up, the ball hits the plate faster. The plate pushes back harder, so it squashes the clay more. Picking 'both the same' means thinking the same clay must always squash the same amount. But from higher up, the push from the plate is bigger.",
      "how": "e1",
      "context": "In the clay drop test, you drop equal clay balls onto a steel plate from different heights. Then you measure the flat patch on the bottom of each."
@@ -1100,12 +1100,12 @@
      "t": "mcq",
      "p": "A carrom coin slides across the board and hits the edge. Which way does it go next?",
      "opts": [
-      "Back into the board, because the edge pushed it",
       "Straight on, through the edge",
       "It stops dead and never moves again",
-      "It goes back the way it came, even if it hit at a slant"
+      "It goes back the way it came, even if it hit at a slant",
+      "Back into the board, because the edge pushed it"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The edge pushes back on the coin, so the coin changes direction. If it hits at a slant, it goes off at a slant the other way, like light off a mirror. A coin may stop dead on a slow shot. But a fast coin is turned, not stopped.",
      "art": "A carrom coin sliding at a slant, bouncing off the edge of the board."
     },
@@ -1236,12 +1236,12 @@
      "t": "mcq",
      "p": "In the bendy sponge activity, you bend a sponge with lines drawn across it. What happens to the lines on the INSIDE of the curve?",
      "opts": [
-      "They crowd closer together",
       "They spread further apart",
       "They stay exactly the same",
-      "They disappear"
+      "They disappear",
+      "They crowd closer together"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The inside of a bend is squashed, so the lines crowd together. The outside is stretched, so they spread apart. Picking 'spread apart' mixes up the inside with the outside.",
      "how": "a2",
      "context": "In the bendy sponge activity, you draw straight lines across a long sponge, then bend it into a curve."
@@ -1250,12 +1250,12 @@
      "t": "mcq",
      "p": "You press the middle of a plastic ruler lying flat, and it bends easily. Stand the same ruler on its thin edge, and the same press hardly bends it. Why?",
      "opts": [
-      "On its edge, more of the ruler is far from the middle of the bend",
       "The ruler got harder",
+      "On its edge, more of the ruler is far from the middle of the bend",
       "You pressed more gently",
       "It is a different ruler"
      ],
-     "a": 0,
+     "a": 1,
      "why": "On its edge, the top and bottom of the ruler are far apart. The top must squash and the bottom must stretch a lot to bend it, so it resists. Picking 'the ruler got harder' means looking for a change in the material. Only its position changed.",
      "how": "a2",
      "context": "In the bendy sponge activity, you also press the middle of a ruler laid across two tins, first lying flat and then standing on its edge."
@@ -1319,12 +1319,12 @@
      "t": "mcq",
      "p": "Why is cotton wool twisted into a wick stronger than the same cotton pulled into a loose strand?",
      "opts": [
-      "The twist squeezes the fibres together, so friction stops them sliding apart",
       "Twisting makes each fibre longer",
+      "The twist squeezes the fibres together, so friction stops them sliding apart",
       "Twisting adds glue",
       "It isn't stronger"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Twisting presses the short fibres against each other. Friction, the grip between touching things, holds them together, so they share the pull. Picking 'longer fibres' is a sensible guess, but each fibre stays the same length.",
      "how": "a3",
      "context": "In the twisting activity, you pull a loose strand of cotton wool, then twist the same amount into a wick, and hang a bag of coins from it."
@@ -1333,12 +1333,12 @@
      "t": "mcq",
      "p": "A ball is swung round on a string. The string breaks. Which way does the ball go?",
      "opts": [
-      "Straight on, in the direction it was moving",
       "It keeps going round in a circle",
       "Straight back to the middle",
+      "Straight on, in the direction it was moving",
       "Straight down"
      ],
-     "a": 0,
+     "a": 2,
      "why": "With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time."
     },
     {
@@ -1462,12 +1462,12 @@
      "t": "mcq",
      "p": "A gold bangle can be hammered into a new shape without breaking. A glass bangle cannot. Why?",
      "opts": [
-      "In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread",
       "Gold is softer than everything",
       "Glass is not made of atoms",
+      "In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread",
       "Gold is heavier"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In metals, rows of atoms slip into new places one step at a time. In glass the atoms are jumbled and stuck, so a push gathers at tiny scratches and a crack races across. Picking 'gold is heavier' links strength with weight, but that is not the reason."
     },
     {
@@ -1486,12 +1486,12 @@
      "t": "mcq",
      "p": "Astronauts living in space for months lose some of their bone. Why?",
      "opts": [
-      "Floating, they hardly push on their bones, so the bones do not need to stay strong",
       "Space air is poisonous to bones",
       "Their bones melt in the cold",
-      "They eat too much"
+      "They eat too much",
+      "Floating, they hardly push on their bones, so the bones do not need to stay strong"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Bones reshape to match the forces on them. With almost no pushing, the body removes bone it doesn't seem to need. That is why astronauts exercise for about two hours a day. Picking 'cold' is a guess about space, but the space station is kept warm."
     },
     {
@@ -1507,12 +1507,12 @@
      "t": "mcq",
      "p": "The spinning Earth is about 43 km wider across the equator than from pole to pole. What causes the bulge?",
      "opts": [
-      "Its spin makes the middle bulge out a little",
       "The Moon pulls the equator",
+      "Its spin makes the middle bulge out a little",
       "The equator is hotter, so it swells",
       "Mountains at the equator"
      ],
-     "a": 0,
+     "a": 1,
      "why": "As the Earth spins, the rock at the equator moves fastest, and it swings outwards a little. So the middle bulges out and the poles are a little flatter. Picking 'hotter' is a clever guess, since heat does swell things. But it is the spin.",
      "context": "The Earth is not a perfect ball. It is a little wider across the middle.",
      "answer_chart": {
@@ -1946,11 +1946,11 @@
       "t": "mcq",
       "q": "The sponge squashed, then sprang back. A word for this is…",
       "options": [
-       "Elastic",
        "Brittle",
-       "Plastic"
+       "Plastic",
+       "Elastic"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Elastic means it springs back. Picking 'plastic' mixes it up with dough, which stays changed. 'Brittle' means it breaks, and the sponge did not break."
      },
      "how": "e2"
@@ -2054,11 +2054,11 @@
       "t": "mcq",
       "q": "Why doesn't the dough ball bounce?",
       "options": [
-       "It stays squashed, so nothing pushes it back up",
        "It is too light",
+       "It stays squashed, so nothing pushes it back up",
        "The floor doesn't push on it"
       ],
-      "a": 0,
+      "a": 1,
       "why": "It stays squashed, so nothing pushes it back up. Picking 'too light' links bouncing with weight, but light balls bounce well. Picking 'the floor doesn't push' is not right either: the floor pushed hard enough to flatten it."
      },
      "chart": {
@@ -2214,11 +2214,11 @@
       "t": "mcq",
       "q": "Dough keeps its new shape after you squash it. Scientists call this…",
       "options": [
-       "A plastic change",
        "Elastic",
-       "Brittle"
+       "Brittle",
+       "A plastic change"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A plastic change means it stays changed. 'Elastic' means springing back, which is what a sponge does. 'Brittle' means breaking, like a biscuit."
      },
      "think": "Why is it useful that chapati dough stays flat after you roll it?"
@@ -2303,11 +2303,11 @@
       "t": "mcq",
       "q": "When something bends, its inside curve is…",
       "options": [
-       "Squashed",
        "Stretched",
-       "Not changed"
+       "Not changed",
+       "Squashed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Squashed. The lines on the inside crowd together. Picking 'stretched' swaps the two sides: the outside is the stretched part."
      },
      "how": "a2"
@@ -2420,11 +2420,11 @@
       "t": "mcq",
       "q": "The twisted wick holds more than the loose strand because…",
       "options": [
-       "The twist squeezes the fibres, so they grip each other and share the pull",
        "Twisting makes each fibre longer",
-       "The fibres are stuck with glue"
+       "The fibres are stuck with glue",
+       "The twist squeezes the fibres, so they grip each other and share the pull"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The twist squeezes the fibres so they grip each other and share the pull. Picking 'longer fibres' is a good guess, but each fibre stays the same length. There is no glue at all."
      }
     },
@@ -2847,11 +2847,11 @@
       "t": "mcq",
       "q": "Why are you a little taller in the morning?",
       "options": [
-       "The pads in your spine spring back while you lie down at night",
        "Bones grow every night by 1 cm",
-       "The wall moved"
+       "The wall moved",
+       "The pads in your spine spring back while you lie down at night"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The soft pads in your spine spring back while you lie down. Picking 'bones grow 1 cm a night' would make you more than 3 metres taller in a year. The wall did not move."
      },
      "how": "p1"
@@ -3064,11 +3064,11 @@
       "t": "mcq",
       "q": "Why does crumpled paper help protect the egg?",
       "options": [
-       "The paper squashes, so the egg stops more gently",
        "Paper is heavier than the egg",
+       "The paper squashes, so the egg stops more gently",
        "The paper makes the egg fall faster"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The paper squashes, so the egg stops more gently, with a smaller push. Paper is not heavier than the egg, and it does not make it fall faster. Either of those would make the landing harder, not softer."
      }
     },
@@ -3117,11 +3117,11 @@
    "t": "mcq",
    "p": "You bend a bamboo stick into a bow for a game. Which shape change is this?",
    "opts": [
-    "A bend",
     "A squash",
+    "A bend",
     "A twist"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The stick curves, so it is a bend. Picking 'squash' is close, because the inside of a bend is squashed. But the whole stick is bending.",
    "outcome": 0
   },
@@ -3141,11 +3141,11 @@
    "t": "mcq",
    "p": "Which of these is brittle, so it breaks instead of bending?",
    "opts": [
-    "A stick of chalk",
     "A rubber eraser",
+    "A stick of chalk",
     "A cotton towel"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chalk snaps when you bend it. Picking the eraser means mixing up soft with brittle. The eraser bends and springs back.",
    "outcome": 1
   },
@@ -3153,11 +3153,11 @@
    "t": "mcq",
    "p": "Which of these stays squashed after you press it, so it has a plastic change?",
    "opts": [
-    "A lump of clay",
     "A tennis ball",
+    "A lump of clay",
     "A sponge"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Clay keeps its new shape. In science, that is a plastic change. A tennis ball and a sponge are elastic, so they spring back.",
    "outcome": 1
   },
@@ -3165,11 +3165,11 @@
    "t": "mcq",
    "p": "In the clay drop test, what should you change?",
    "opts": [
-    "Only the drop height",
     "The height and the size of the ball",
-    "Everything"
+    "Everything",
+    "Only the drop height"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes only one thing. Picking 'height and size' means two things change at once, so you can't tell which one mattered.",
    "outcome": 2,
    "how": "e1",
@@ -3179,11 +3179,11 @@
    "t": "mcq",
    "p": "Suppose that in your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?",
    "opts": [
-    "Repeat each drop three times and compare",
     "Cross out the 80 cm result",
+    "Repeat each drop three times and compare",
     "Decide that height makes no difference"
    ],
-   "a": 0,
+   "a": 1,
    "why": "One odd result can be a fluke, for example a ball that was a little bigger. Repeating each drop shows the real pattern. Picking 'cross it out' hides a result you don't like, which is not fair science.",
    "outcome": 2,
    "how": "e1",
@@ -3193,11 +3193,11 @@
    "t": "mcq",
    "p": "When you bend your finger, what happens to the skin on the back of your knuckle?",
    "opts": [
-    "It is stretched",
     "It is squashed",
-    "It does not change"
+    "It does not change",
+    "It is stretched"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The outside of a bend is stretched, so the skin over the knuckle goes tight. The skin on the inside of the bend is squashed into wrinkles. Picking 'squashed' swaps the two sides.",
    "outcome": 3
   },
@@ -3205,11 +3205,11 @@
    "t": "mcq",
    "p": "A cardboard box has a wavy layer between two flat layers. Why?",
    "opts": [
-    "The waves stand on their edges, so the box is stiff but light",
     "The waves make the box heavier",
+    "The waves stand on their edges, so the box is stiff but light",
     "The waves are only there for decoration"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each wave is a little wall standing on its edge, so it is hard to bend. The paper is the same, but the shape makes it stronger. The waves do not add weight on purpose.",
    "outcome": 3
   },
@@ -3229,11 +3229,11 @@
    "t": "mcq",
    "p": "A bouncing ball…",
    "opts": [
-    "Squashes for a moment, then springs back",
     "Never changes shape",
-    "Stays flat after it bounces"
+    "Stays flat after it bounces",
+    "Squashes for a moment, then springs back"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The wet ball prints show the ball gets flatter in a bounce. Picking 'never changes shape' trusts our eyes, but the squash is too fast to see.",
    "outcome": 4,
    "how": "e3",
@@ -3243,11 +3243,11 @@
    "t": "mcq",
    "p": "A young tree is allowed to sway in the wind. Another is tied tightly to a stake. Which one grows a thicker trunk?",
    "opts": [
-    "The tree that sways",
     "The tree that is tied",
-    "Both the same"
+    "Both the same",
+    "The tree that sways"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Trees grow thicker, stronger wood where the wind bends them. Picking 'the tree that is tied' sounds caring, but the tied tree is never bent by the wind, so their trunk stays thin.",
    "outcome": 5
   },
@@ -3255,11 +3255,11 @@
    "t": "mcq",
    "p": "How were the Himalayas made?",
    "opts": [
-    "India's plate pushed into Asia and folded the rock up",
     "A giant volcano",
-    "Rivers piled up stones"
+    "Rivers piled up stones",
+    "India's plate pushed into Asia and folded the rock up"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The push of two plates crumpled the rock, like a towel pushed against a wall. Picking 'volcano' is a sensible guess about mountains, but the Himalayas are folded rock.",
    "outcome": 5
   },
@@ -3267,11 +3267,11 @@
    "t": "mcq",
    "p": "Your bones grow stronger when…",
    "opts": [
-    "You run, jump and carry things",
     "You lie still in bed for weeks",
+    "You run, jump and carry things",
     "You never use them"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bones reshape to match the pushes on them. Running and jumping push on them, so they grow stronger. Lying still for weeks makes bones weaker, like an astronaut's in space.",
    "outcome": 5
   },
@@ -3279,11 +3279,11 @@
    "t": "mcq",
    "p": "A steel wire is stretched a tiny bit. What happens to the atoms inside it?",
    "opts": [
-    "They are pulled a little further apart",
     "They grow bigger",
-    "They are destroyed"
+    "They are destroyed",
+    "They are pulled a little further apart"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stretching pulls the atoms a little apart, and the bonds between them pull them back when you let go. Atoms do not grow or vanish when you stretch something.",
    "outcome": 6
   },
@@ -3291,11 +3291,11 @@
    "t": "mcq",
    "p": "Which of these do scientists still argue about?",
    "opts": [
-    "What glass really is, deep down",
     "Whether clay squashes when you press it",
-    "Whether a rubber band stretches"
+    "Whether a rubber band stretches",
+    "What glass really is, deep down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Glass is hard like a solid, but its atoms are jumbled like a liquid's. Scientists still debate how to describe it. The other two anyone can test at home in a minute.",
    "outcome": 6
   }

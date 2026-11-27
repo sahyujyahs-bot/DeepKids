@@ -472,14 +472,14 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 ## Worksheets
 ### Who Travels, and Why (core) (core, 17 questions)
 1. (mcq) Which of these is a migration?  
-   Options: A crow flying across the city to find food, and back the same evening / A crane flying from Mongolia to Rajasthan every winter, and back every spring / A family moving to a new house once  
+   Options: A crow flying across the city to find food, and back the same evening / A family moving to a new house once / A crane flying from Mongolia to Rajasthan every winter, and back every spring  
    **Answer:** A crane flying from Mongolia to Rajasthan every winter, and back every spring. *Why:* Migration is a long journey made at the same time every year, and back again. A crow's trip across town and back each day is not migration, and nor is a single move to a new house.
 2. (fill) A long journey that an animal makes at the same time every year, and back again, is called ____.  
    **Answer:** ['migration']. *Why:* Migration is the word for a regular, yearly journey between two homes.
 3. (sort) Sort these journeys. Is each one a migration, or not?  
    **Answer:** Olive ridley turtles coming to Odisha beaches every year to lay eggs → Migration; A cow walking to the field in the morning and home in the evening → Not migration; A Gaddi family taking sheep to the high meadows every summer → Migration; A bee flying from her hive to the flowers and back every day → Not migration; Amur falcons flying from Nagaland to southern Africa every year → Migration; A family moving to a new city once → Not migration. *Why:* A migration is a long journey made at the same time every year, and back again. A daily trip, or a single move, is not migration.
 4. (mcq) Many scientists think birds that nest in the far north fly south for the winter mainly because of what?  
-   Options: The food runs out in winter / They get bored of one place / Their feathers stop working in the cold  
+   Options: They get bored of one place / The food runs out in winter / Their feathers stop working in the cold  
    **Answer:** The food runs out in winter. *Why:* In winter the northern ground freezes and the insects and plants the birds eat are gone. A bird with enough food can survive a lot of cold, so food is the main reason.
 5. (match) Match each traveller to their journey.  
    **Answer:** Arctic tern → from the Arctic to Antarctica and back; Humpback whale → between cold seas full of krill and warm seas for calves; Monarch butterfly → from Canada to the mountains of Mexico; Demoiselle crane → from Central Asia over the Himalayas to Rajasthan; Hilsa fish → from the Bay of Bengal up rivers to lay eggs. *Why:* Each of these is a real yearly journey. The Arctic tern's is the longest known.
@@ -488,14 +488,14 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 7. (write) With your eyes shut, you learn to walk from a mark to a bowl in your usual steps. Then someone moves your start 2 steps to the left, without telling you. Where will you stop, and why?  
    **Answer:** About 2 steps to the left of the bowl. My steps go the same way and the same distance as always, so they end in a new place.. *Why:* A strong answer says the steps carry a direction and a distance, not the place of the bowl.
 8. (mcq) Revathi, a girl in Kochi, does the bowl test. From the secret start, she stops 4 foot-lengths from the bowl. Then she peeks at the bowl for three seconds, and stops 1 foot-length away. What helped her?  
-   Options: She walked faster / She took bigger steps / She knew where the bowl was  
+   Options: She walked faster / She knew where the bowl was / She took bigger steps  
    **Answer:** She knew where the bowl was. *Why:* The peek showed her where the bowl was, so she could walk to the place, not just do her steps. This is how older birds who know a place can correct a wrong start.
 9. (draw) Draw the floor from above in your bowl test. Show the bowl, the usual start and the secret start. Draw a dot where you stopped from each start.  
    **Answer:** A drawing with the bowl at one end, two starts side by side, and dots: one near the bowl from the usual start, one off to the side from the secret start.. *Why:* A strong drawing shows the second dot shifted sideways by about the same amount as the start.
 10. (fill) A wind that blows from behind you, the way you are going, is called a ____.  
    **Answer:** ['tailwind']. *Why:* A tailwind pushes a traveller along. A wind in your face is a headwind.
 11. (mcq) In the paper butterfly test, the butterfly landed much further with the fan behind her. What does that tell us about real migrating insects?  
-   Options: A tailwind can carry them much further for the same effort / Wind makes insects lighter / Insects can only fly when it is windy  
+   Options: Wind makes insects lighter / Insects can only fly when it is windy / A tailwind can carry them much further for the same effort  
    **Answer:** A tailwind can carry them much further for the same effort. *Why:* Moving air carries small flyers along for free. Many insects and birds wait for a tailwind, so the same effort takes them much further.
 12. (label) Here is a map of a curlew sandpiper's year. Label the two places: 'breeding ground' and 'wintering ground'.  
    **Answer:** ['The Arctic tundra of Russia: breeding ground', 'Kodiakkarai in Tamil Nadu: wintering ground']. *Why:* The breeding ground is where she lays eggs and raises chicks. The wintering ground is where she spends the cold months of the north.
@@ -528,7 +528,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 7. (write) A paper butterfly is dropped twice from the same height: once in still air, and once with a fan blowing from behind. Why does she land further away with the fan, even though the fall takes about the same time?  
    **Answer:** All the time she was falling, the moving air pushed her forward. The fall took about the same time, but now she was moving forward the whole way down, so she landed further away.. *Why:* A strong answer separates falling (down) from being pushed (forward), and says the push lasted the whole fall.
 8. (mcq) Most humpback whales migrate. Humpbacks in the Arabian Sea stay all year. What is the best explanation?  
-   Options: They have forgotten how to migrate / Their sea gives them enough food and warmth all year / They are a different kind of animal, not a whale  
+   Options: Their sea gives them enough food and warmth all year / They have forgotten how to migrate / They are a different kind of animal, not a whale  
    **Answer:** Their sea gives them enough food and warmth all year. *Why:* Animals migrate to find what they need. If the Arabian Sea gives these whales food and warm water all year, there is no need to go. Scientists still study them.
 9. (label) Label each part of the bowl test with what it stands for in a bird's journey.  
    **Answer:** ['Usual start: where the bird usually begins', 'Secret start: where a storm blew her', 'The bowl: her wintering ground', 'Counted steps: her inborn direction and distance', 'The three-second peek: knowing the place']. *Why:* Each part of the test stands for something real in a young or older bird's journey.
@@ -558,7 +558,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 5. (count) In the paper butterfly test, Ananya's butterfly landed 20 cm from the coin with no wind, and 160 cm with the fan behind. How many times further did the tailwind carry her?  
    **Answer:** 8. *Why:* 160 divided by 20 is 8. So the tailwind carried her 8 times as far from the same height.
 6. (mcq) A tracker should weigh no more than about 3 grams for every 100 grams of an animal's weight. A bird weighs 100 grams. What is the heaviest tracker she should carry?  
-   Options: About 3 grams / About 30 grams / About 100 grams  
+   Options: About 30 grams / About 100 grams / About 3 grams  
    **Answer:** About 3 grams. *Why:* The rule allows 3 grams for every 100 grams. This bird weighs exactly 100 grams, so her tracker can weigh 3 grams. A heavier tracker could tire her or slow her down.
 7. (truefalse) Scientists know exactly how birds sense the Earth's magnetism.  
    **Answer:** False. *Why:* False. Many think a protein called cryptochrome in birds' eyes is involved. Others think nerves in the beak or ears help. It is still argued about.
@@ -587,19 +587,19 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 
 ## Quiz
 1. (mcq) What makes a journey a migration?  
-   Options: It is very long / It happens at about the same time every year, there and back / It is made by a bird  
+   Options: It is very long / It is made by a bird / It happens at about the same time every year, there and back  
    **Answer:** It happens at about the same time every year, there and back. *Why:* A migration is regular and seasonal, there and back. Whales, butterflies, fish and people migrate too, not only birds. 'Very long' is common, but a short yearly trip up a mountain and down again is migration too.
 2. (mcq) Which of these animals migrates?  
-   Options: A house crow in Chennai / A garden lizard in Madurai / A barn swallow who spends the winter in South India  
+   Options: A house crow in Chennai / A barn swallow who spends the winter in South India / A garden lizard in Madurai  
    **Answer:** A barn swallow who spends the winter in South India. *Why:* Barn swallows come to South India for the winter and fly north in spring. Crows and garden lizards stay near the same home all year.
 3. (mcq) Why do humpback whales swim to warm seas?  
-   Options: To find more krill / Their calves are born there / To escape sharks in cold seas  
+   Options: Their calves are born there / To find more krill / To escape sharks in cold seas  
    **Answer:** Their calves are born there. *Why:* The cold seas have the krill. The warm seas are where calves are born. A mother may eat almost nothing for months while she is there, living on her fat.
 4. (mcq) What does a bird do before a long migration?  
-   Options: Eats a lot and stores fat as fuel / Grows extra wings / Sleeps for a week  
+   Options: Grows extra wings / Eats a lot and stores fat as fuel / Sleeps for a week  
    **Answer:** Eats a lot and stores fat as fuel. *Why:* The stored fat is fuel for the journey. A bar-tailed godwit flying from Alaska to Tasmania without stopping lives on fat the whole way.
 5. (mcq) Which animal makes the longest yearly journey known?  
-   Options: The Arctic tern / The house sparrow / The elephant  
+   Options: The house sparrow / The Arctic tern / The elephant  
    **Answer:** The Arctic tern. *Why:* Trackers showed Arctic terns flying about 70,000 kilometres a year, from the Arctic to Antarctica and back.
 6. (mcq) A monarch leaves Mexico in spring. Who reaches Canada?  
    Options: The same butterfly / Her great-granddaughter / Nobody: monarchs never reach Canada  
@@ -608,19 +608,19 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
    Options: Nobody has followed a single dragonfly the whole way / Dragonflies cannot fly over water / Nobody has ever seen a globe skimmer  
    **Answer:** Nobody has followed a single dragonfly the whole way. *Why:* There is strong evidence for the crossing, but no one has yet tracked one dragonfly all the way from India to Africa. So it is very likely, but not proved.
 8. (mcq) In the bowl test, you were secretly moved to a new start and walked your usual steps. What happened?  
-   Options: I stopped right at the bowl / I stopped about as far to the side as I had been moved / I couldn't walk at all  
+   Options: I stopped about as far to the side as I had been moved / I stopped right at the bowl / I couldn't walk at all  
    **Answer:** I stopped about as far to the side as I had been moved. *Why:* Your steps carried a direction and a distance, not the place of the bowl. Start somewhere else, and they end somewhere else.
 9. (mcq) Young starlings moved from the Netherlands to Switzerland ended up in Spain. Adults reached their usual winter home. Why?  
-   Options: The young were faster / The young kept their inborn direction, while the adults knew the place / The adults followed the young  
+   Options: The young were faster / The adults followed the young / The young kept their inborn direction, while the adults knew the place  
    **Answer:** The young kept their inborn direction, while the adults knew the place. *Why:* Like your counted steps, the young birds' direction worked only from the usual start. The adults knew where their winter home was, like your peek at the bowl.
 10. (mcq) How could scientists find out where monarch butterflies go in winter?  
    Options: Volunteers tagged butterflies, and the tags pointed the way to Mexico / They followed them in an aeroplane / They read it in an old book  
    **Answer:** Volunteers tagged butterflies, and the tags pointed the way to Mexico. *Why:* Thousands of volunteers stuck paper tags on monarchs. In 1975, Catalina Aguado and Ken Brugger found the forests in Mexico. Local people had known about them all along.
 11. (mcq) Why must a tracker on a bird be very light?  
-   Options: So it doesn't slow her down or tire her / So it is cheaper / So other birds can't see it  
+   Options: So it is cheaper / So other birds can't see it / So it doesn't slow her down or tire her  
    **Answer:** So it doesn't slow her down or tire her. *Why:* A heavy tracker makes the journey harder. A common rule is that a tracker should weigh no more than about 3 grams for every 100 grams of the bird's weight.
 12. (mcq) Your paper butterfly landed much further with the fan behind her. Why do many migrants wait for a tailwind?  
-   Options: It carries them further for the same effort / It makes them lighter / It keeps them warm  
+   Options: It makes them lighter / It carries them further for the same effort / It keeps them warm  
    **Answer:** It carries them further for the same effort. *Why:* The moving air pushes them along while they fly, like the fan pushed your butterfly while she fell. Radar shows many more birds take off when the wind blows their way.
 13. (mcq) Which of these harms birds that migrate at night?  
    Options: Dark skies / Bright lights left on in tall buildings / A lake kept as a resting place  
@@ -629,7 +629,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
    Options: A stopover / A breeding ground / A landmark  
    **Answer:** A stopover. *Why:* A stopover is a rest and refuelling place on the way. If it is drained or built over, birds from far away lose a place they need.
 15. (mcq) Grey wagtails come to the hill town of Valparai each winter. What are they?  
-   Options: Travellers that come for the winter, then fly on / Birds that never leave the hill town / Fish that swim up the town's rivers  
+   Options: Birds that never leave the hill town / Travellers that come for the winter, then fly on / Fish that swim up the town's rivers  
    **Answer:** Travellers that come for the winter, then fly on. *Why:* The grey wagtail is a migratory bird. It comes to Valparai for the winter months, then flies on, as many birds do.
 
 ## Applications

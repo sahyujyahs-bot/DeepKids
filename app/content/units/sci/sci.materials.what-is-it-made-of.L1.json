@@ -460,10 +460,10 @@
       "q": "What is a pressure cooker made of?",
       "options": [
        "Only metal",
-       "Metal, with a plastic handle and a rubber ring",
-       "Only plastic"
+       "Only plastic",
+       "Metal, with a plastic handle and a rubber ring"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The pot is metal, so it can go on the fire. The handle is plastic, so it stays cool enough to hold. The rubber ring keeps the steam in."
      }
     }
@@ -573,10 +573,10 @@
       "q": "Which of these is made of two materials?",
       "options": [
        "A cotton sock",
-       "A knife with a plastic handle",
-       "A steel spoon"
+       "A steel spoon",
+       "A knife with a plastic handle"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The blade is steel and the handle is plastic. A cotton sock is only fabric, and a steel spoon is only metal."
      }
     }
@@ -796,11 +796,11 @@
       "t": "mcq",
       "q": "Why did the paper cup hold water, when the newspaper cone leaked?",
       "options": [
-       "The paper cup has a thin plastic skin inside",
        "The paper cup was made of thicker newspaper",
-       "The water was colder in the paper cup"
+       "The water was colder in the paper cup",
+       "The paper cup has a thin plastic skin inside"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Paper soaks up water, like the newspaper did. The paper cup has a thin skin of plastic on the inside, and water cannot soak through plastic. So the cup is made of two materials."
      }
     }
@@ -990,11 +990,11 @@
       "t": "mcq",
       "q": "A rubbing shows tiny lines going over and under each other. What made it?",
       "options": [
-       "Fabric",
        "Steel",
-       "Glass"
+       "Glass",
+       "Fabric"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Fabric is made of threads woven over and under each other. Steel and glass are smooth, so they leave no pattern."
      }
     }
@@ -1155,11 +1155,11 @@
       "t": "mcq",
       "q": "The chips packet opened up again after scrunching. What does that tell you?",
       "options": [
-       "It is mostly plastic, not metal like the foil",
        "It is made of paper",
+       "It is mostly plastic, not metal like the foil",
        "It is made of glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The foil stayed scrunched, as metal sheets do. The packet sprang back, as plastic does. It looks like metal only because of a very thin metal coat."
      }
     }
@@ -1268,11 +1268,11 @@
       "t": "mcq",
       "q": "Why did we use clear plastic for the window in the model?",
       "options": [
-       "It is see-through like glass, and safer",
        "It is made of sand",
-       "It is stronger than wood"
+       "It is stronger than wood",
+       "It is see-through like glass, and safer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Clear plastic lets light through, like glass, but it bends instead of breaking into sharp pieces."
      }
     }
@@ -1374,11 +1374,11 @@
       "t": "mcq",
       "q": "A floppy fan, like one made of cloth, pushes very little air. Why?",
       "options": [
-       "Cloth is soft and bends too easily",
        "Cloth is too heavy to lift",
+       "Cloth is soft and bends too easily",
        "Cloth is see-through"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Fabric is soft and floppy, so it bends away instead of pushing the air. A stiffer fan pushes the air along."
      }
     }
@@ -1570,11 +1570,11 @@
      "t": "mcq",
      "p": "You find a light, red, smooth box. You tap it: tock. You cannot see through it. What is it most likely made of?",
      "opts": [
-      "Plastic",
       "Glass",
+      "Plastic",
       "Metal"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Plastic is light and can be any colour, and it goes tock when tapped. Glass is usually see-through, and metal is heavier and rings."
     },
     {
@@ -1754,11 +1754,11 @@
    "t": "mcq",
    "p": "Which of these is made of fabric?",
    "opts": [
-    "A cotton shirt",
     "A steel plate",
-    "A glass jar"
+    "A glass jar",
+    "A cotton shirt"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A cotton shirt is fabric, made of threads woven together. A steel plate is metal and a glass jar is glass.",
    "outcome": 0
   },
@@ -1778,11 +1778,11 @@
    "t": "mcq",
    "p": "Which material has thin brown lines called grain?",
    "opts": [
-    "Wood",
     "Glass",
-    "Plastic"
+    "Plastic",
+    "Wood"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The grain in wood shows how the tree grew. Glass and plastic have no grain.",
    "outcome": 1
   },
@@ -1790,11 +1790,11 @@
    "t": "mcq",
    "p": "Which of these is made of more than one material?",
    "opts": [
-    "An umbrella",
     "A sheet of paper",
-    "A steel spoon"
+    "A steel spoon",
+    "An umbrella"
    ],
-   "a": 0,
+   "a": 2,
    "why": "An umbrella has a fabric top, metal spokes and a handle. A sheet of paper is only paper, and a steel spoon is only metal.",
    "outcome": 2
   },
@@ -1802,11 +1802,11 @@
    "t": "mcq",
    "p": "Steel makes tumblers, spoons and keys. What does this show?",
    "opts": [
-    "One material can make many different things",
     "Every material makes only one thing",
-    "Steel is a kind of plastic"
+    "Steel is a kind of plastic",
+    "One material can make many different things"
    ],
-   "a": 0,
+   "a": 2,
    "why": "One material can be shaped into many things. The name of a thing tells you its job, and the material tells you what it is made of.",
    "outcome": 2
   },
@@ -1814,11 +1814,11 @@
    "t": "mcq",
    "p": "Where does wood come from?",
    "opts": [
-    "Trees",
     "Sand",
+    "Trees",
     "Oil under the ground"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Wood comes from trees. Glass is made from sand, and most plastic from oil.",
    "outcome": 3
   },
@@ -1826,11 +1826,11 @@
    "t": "mcq",
    "p": "Most plastic is made from what?",
    "opts": [
-    "Oil from deep under the ground",
     "Cotton plants",
+    "Oil from deep under the ground",
     "Sand"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most plastic is made in factories from oil or gas found deep under the ground. Glass is the material made from sand.",
    "outcome": 3
   },

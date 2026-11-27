@@ -442,14 +442,14 @@ And the crows? The crows had been learning all along. They had learned that a ti
 2. (sort) Sort each one: is it an instinct, or is it learned?  
    **Answer:** A chick pecks at grains soon after hatching → Instinct; A dog sits when asked, for a treat → Learned; A baby turtle crawls to the sea → Instinct; Pigeons gather where a man scatters grain every morning → Learned; A young chimpanzee fishes for termites with a stem → Learned; A baby spider spins her first web → Instinct. *Why:* Instincts need no teaching and no practice. Learned things come from what happened before or from watching others. A strong answer says how each learned thing was learned.
 3. (mcq) Which of these is a reward for a dog learning to sit?  
-   Options: A piece of biscuit / A loud noise / Being ignored / A bath  
+   Options: A loud noise / Being ignored / A piece of biscuit / A bath  
    **Answer:** A piece of biscuit. *Why:* A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less.
 4. (truefalse) A friend says: 'Only people can learn. Animals do everything by instinct.' Is your friend right?  
    **Answer:** False. *Why:* No, your friend is wrong. Dogs learn tricks, crows learn which people are dangerous, and bees learn flower colours. A strong answer gives one example.
 5. (write) Remember the Useless Step Test, where you tapped the lid of a clear box before opening it. What did the people you tested do? Use your results table.  
    **Answer:** A strong answer gives the numbers, such as '3 out of 4 people tapped the lid', and says what they said when asked why.. *Why:* Using your own results is the evidence. A strong answer gives a number and a reason someone gave.
 6. (mcq) In the Useless Step Test, why does the box need to be clear?  
-   Options: So people can see that the tap does nothing / So it looks nice / So the prize stays fresh / Because steel boxes are heavy  
+   Options: So it looks nice / So people can see that the tap does nothing / So the prize stays fresh / Because steel boxes are heavy  
    **Answer:** So people can see that the tap does nothing. *Why:* With a clear box, anyone can see the tap and the turn do nothing. If people copy them anyway, they are copying a step they can see is useless. That is what makes the test interesting.
 7. (match) Match each word to what it means.  
    **Answer:** Imitation → copying the exact actions you saw; Emulation → copying the goal, in your own way; Reward → something good that comes after an action; Tool → an object used to get something done; Tradition → a way of doing things that spreads and lasts in a group. *Why:* These words come up all through the unit. A strong answer could also give an animal example of each.
@@ -468,7 +468,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 13. (order) Put the steps of the Useless Step Test in order.  
    **Answer:** ['Do the show: tap, turn, open', 'Put the prize back and close the lid', "Say 'Now you get the prize out'", 'Ask the person why they tapped the lid']. *Why:* First you do the show. Then you put the prize back and close the lid. Then the person tries. You ask why only at the end, so that the question does not change what they do.
 14. (mcq) A crow pecks at a tied plastic bag in different places until one peck tears it open. What is this way of learning called?  
-   Options: Trial and error / Instinct / Imitation / A tradition  
+   Options: Instinct / Imitation / Trial and error / A tradition  
    **Answer:** Trial and error. *Why:* Trying different ways until one works, and keeping the way that works, is trial and error. Imitation would mean copying another crow.
 15. (write) Name one thing you learned by watching someone in your family. Who did you watch, and what did you copy?  
    **Answer:** A strong answer names a real skill, such as drawing a kolam, folding a dhoti or making a dosa round, and says who was watched.. *Why:* Most of what children can do, they learned by watching. This connects the science to the child's own life.
@@ -477,12 +477,12 @@ And the crows? The crows had been learning all along. They had learned that a ti
    Options: A young chimpanzee fishing for termites like her mother / A crow scolding a mask that other crows scold / A baby spider spinning her first web / A great tit sliding a puzzle door the same way as her group  
    **Answer:** 2. *Why:* The spider spins by instinct. She never watches another spider. The other three learned from others.
 2. (mcq) Chaser heard a toy name she had never heard. Only one toy in front of her was new to her. She picked it. What did she do?  
-   Options: She worked out that a new name must go with a new toy / She picked at random / She smelled the name / She was born knowing the toy  
+   Options: She picked at random / She worked out that a new name must go with a new toy / She smelled the name / She was born knowing the toy  
    **Answer:** She worked out that a new name must go with a new toy. *Why:* She worked it out by leaving out the toys she already had names for. You do the same with a new word. Picking at random would not give the new toy every time.
 3. (label) Here is a picture of a clear puzzle box. The sweet sits behind the door at the front. The hole on top leads to an empty space above the sweet. Label the part that does nothing and the part that gives the reward.  
    **Answer:** ['the hole on top: did nothing', 'the door at the front: gave the reward']. *Why:* The hole on top does not reach the sweet, so poking it is a useless step. The reward comes out through the front door. Anyone who can see inside the box can tell this.
 4. (mcq) In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?  
-   Options: Watching showed her how deep and how slowly to fish / The honey got stickier / She was born knowing / The bottle got bigger  
+   Options: The honey got stickier / She was born knowing / The bottle got bigger / Watching showed her how deep and how slowly to fish  
    **Answer:** Watching showed her how deep and how slowly to fish. *Why:* She copied the way her aunt pushed in deep and pulled out slowly. To be sure, she could try a few more dips without watching, to check it wasn't just practice.
 5. (sort) Sort each one by how the animal learned.  
    **Answer:** A cat runs to the kitchen at the fish seller's bell → From what happened before; Young dolphins carry sponges on their snouts, as their mothers do → By watching others; A crow uses a short stick to get a long stick, then reaches the meat → By working it out; Honeybees return to the colour of flower with most nectar → From what happened before; Imo's group began washing sweet potatoes → By watching others. *Why:* The bell and the flower colour came before food many times. The dolphins and macaques watched others. The crow put two steps together to solve a new problem.
@@ -491,7 +491,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 7. (perspective) A family in Hyderabad argues about how a girl should learn to ride a cycle.  
    **Answer:** A strong answer names a way, such as trying, and gives a reason, such as 'balance is something you feel, so you must try it'. It then says when another way helps, for example watching first to see where to put your feet, as the chimpanzee daughters watched their mothers.. *Why:* Animals use all three ways. The best one depends on the skill.
 8. (mcq) In the Plate Lesson project, why do you swap the places of the red and blue plates each day?  
-   Options: So the birds must learn the colour, not the place / So the plates get the same sun / To confuse the birds / Because birds like change  
+   Options: So the plates get the same sun / To confuse the birds / Because birds like change / So the birds must learn the colour, not the place  
    **Answer:** So the birds must learn the colour, not the place. *Why:* If the red plate was always on the left, a bird might learn 'left means food'. Swapping makes the colour the only clue.
 9. (truefalse) A tradition is something an animal is born knowing.  
    **Answer:** False. *Why:* False. A tradition is learned from others in the group. Different groups of chimpanzees have different traditions, which shows they are not born with them.
@@ -517,7 +517,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 3. (perspective) Scientists argue about whether animals have culture.  
    **Answer:** A strong answer uses real examples, such as the great tits keeping their door into the next year, or people building from the wheel to the cycle. It sees that the two scientists agree on the facts and disagree about the word 'culture'.. *Why:* This is a real debate. Both sides use true evidence.
 4. (mcq) In the Pass It On test, one extra person got the box with no show, and picked the top door. Everyone in the chain used the side door, the one you showed. What does the extra person tell you?  
-   Options: The side door is not the obvious choice, so the chain was copying / The test failed / The top door is broken / Nothing at all  
+   Options: The test failed / The top door is broken / The side door is not the obvious choice, so the chain was copying / Nothing at all  
    **Answer:** The side door is not the obvious choice, so the chain was copying. *Why:* The extra person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more people with no show would be better.
 5. (write) You tested only your mother in the Useless Step Test, and she tapped the lid. Can you say that everybody copies useless steps? Why, or why not?  
    **Answer:** One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.. *Why:* A strong answer explains that you can only say as much as your evidence shows.
@@ -531,7 +531,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 9. (draw) Invent a new puzzle box for testing copying. Draw it, and label one useless step and the step that really opens it.  
    **Answer:** Any clear drawing with one labelled useless step, such as a button that does nothing, and one real way in.. *Why:* A strong design makes the useless step easy to see, so the test shows whether people copy what they can see is useless.
 10. (mcq) Pigeons gather at 7 every morning where a man scatters grain. One morning he does not come, but the pigeons still gather at 7. What had they learned?  
-   Options: That grain comes at that place and time / That the man is not needed / Nothing, it was luck / That pigeons are born knowing the time  
+   Options: That the man is not needed / That grain comes at that place and time / Nothing, it was luck / That pigeons are born knowing the time  
    **Answer:** That grain comes at that place and time. *Why:* The grain came at that place and time day after day, so the pigeons linked the two. That is learning from what happened before. One missed morning is only one result, so watching more mornings would make it surer.
 11. (write) Think of one thing your family always does in a special way. Is every step needed? How could you find out without upsetting anyone?  
    **Answer:** A strong answer names a real habit, says which step might not be needed, and suggests a gentle, fair test, such as trying it once without that step and comparing.. *Why:* This uses the idea of the unit, that copied steps may or may not still matter, on the child's own life.
@@ -554,31 +554,31 @@ And the crows? The crows had been learning all along. They had learned that a ti
    Options: She learned by watching her mother / She was born knowing: it is an instinct / She was rewarded for it / She worked it out from a map  
    **Answer:** She was born knowing: it is an instinct. *Why:* Sea turtle mothers lay their eggs and swim away, so the babies never meet them. Crawling to the sea is an instinct. Picking 'watching her mother' would fit a chimpanzee, but not a turtle.
 2. (mcq) A dog gets a biscuit each time he gives his paw. Soon he gives his paw as soon as someone holds out a hand. How did he learn?  
-   Options: He was born knowing it / From what happened before: the paw brought a biscuit / By watching another dog / By luck  
+   Options: He was born knowing it / By watching another dog / From what happened before: the paw brought a biscuit / By luck  
    **Answer:** From what happened before: the paw brought a biscuit. *Why:* The biscuit is a reward. Actions that bring a reward happen more often. That is how most dogs learn tricks.
 3. (mcq) At Gombe in Tanzania, young chimpanzees learn to fish for termites with grass stems. How do they mostly learn it?  
-   Options: They are born knowing how / By watching their mothers, for years / Scientists teach them / They read the termites' smell  
+   Options: By watching their mothers, for years / They are born knowing how / Scientists teach them / They read the termites' smell  
    **Answer:** By watching their mothers, for years. *Why:* Young chimpanzees watch their mothers fish and practise for years. Daughters who watched more learned younger. Termite fishing is not an instinct.
 4. (mcq) Crows in Seattle, in America, scolded a person wearing a certain mask. Some of the scolding crows had never been caught or harmed. How did they learn the mask was dangerous?  
-   Options: From other crows scolding the mask / They were born afraid of masks / The mask smelled bad / The person shouted at them  
+   Options: They were born afraid of masks / The mask smelled bad / From other crows scolding the mask / The person shouted at them  
    **Answer:** From other crows scolding the mask. *Why:* Crows that had never been caught learned from seeing other crows scold the mask. That is social learning. The scolding spread over the years.
 5. (mcq) Many children who watch someone open a clear box copy every step, even a poke they can see does nothing. What is a good reason for copying every step?  
    Options: Some steps might matter in ways you can't see / Children can't see well / The useless poke opens the box / Children don't like prizes  
    **Answer:** Some steps might matter in ways you can't see. *Why:* Copying every step is often a safe way to learn, because some steps matter in ways we can't see. Copying even a useless step is called overimitation.
 6. (mcq) What is the difference between imitation and emulation?  
-   Options: Imitation copies the exact actions. Emulation copies the goal, in your own way. / They mean the same thing / Imitation is for animals, emulation is for people / Emulation is copying sounds  
+   Options: They mean the same thing / Imitation is for animals, emulation is for people / Imitation copies the exact actions. Emulation copies the goal, in your own way. / Emulation is copying sounds  
    **Answer:** Imitation copies the exact actions. Emulation copies the goal, in your own way.. *Why:* Imitation copies every step. Emulation sees what someone got, and gets it your own way. The chimpanzees with the clear box emulated. The children imitated.
 7. (mcq) In the Useless Step Test, why do you test one person at a time, with the others in another room?  
-   Options: So it is quicker / So each person copies only you, not the person before them / So nobody eats the prize / Because the box is small  
+   Options: So it is quicker / So nobody eats the prize / Because the box is small / So each person copies only you, not the person before them  
    **Answer:** So each person copies only you, not the person before them. *Why:* If the next person watched, they might copy the person before instead of you. Then you would not know what your show did. Keeping things the same for every person makes the test fair.
 8. (mcq) You do the Useless Step Test with 4 people. 3 of them tap the lid. What can you say?  
-   Options: Everyone in the world taps the lid / Most of the people you tested copied the useless tap / The tap opens the box / Nobody copies  
+   Options: Most of the people you tested copied the useless tap / Everyone in the world taps the lid / The tap opens the box / Nobody copies  
    **Answer:** Most of the people you tested copied the useless tap. *Why:* Your evidence is about the 4 people you tested. 3 out of 4 is most of them. To say more, you would need to test many more people.
 9. (mcq) Great tits in Wytham Woods, in England, were shown a puzzle box that opened by sliding a door left or right. Each group kept using the way their first birds were taught. What is this called?  
-   Options: An instinct / A tradition / Trial and error / An accident  
+   Options: An instinct / Trial and error / An accident / A tradition  
    **Answer:** A tradition. *Why:* A way of doing something that spreads by social learning and lasts in a group is a tradition. Both ways worked, so the birds were copying their group.
 10. (mcq) A young monkey starts washing her sweet potatoes in water, and the others in her group watch her. What is most likely to happen over the next few years?  
-   Options: She stops after a day / Many in her group start washing their food too / No other monkey ever does it / The sweet potatoes stop growing  
+   Options: She stops after a day / No other monkey ever does it / Many in her group start washing their food too / The sweet potatoes stop growing  
    **Answer:** Many in her group start washing their food too. *Why:* Animals that watch others can copy a useful habit. So the habit spreads through the group and can last for many years. That is social learning.
 
 ## Applications

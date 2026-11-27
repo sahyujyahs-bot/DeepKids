@@ -591,7 +591,7 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
 ## Worksheets
 ### Hormones, glands and three jobs: alarm, growth and sleep (core) (core, 15 questions)
 1. (mcq) What is a hormone?  
-   Options: A chemical message carried in the blood / An electrical signal along a nerve / A kind of blood cell  
+   Options: An electrical signal along a nerve / A kind of blood cell / A chemical message carried in the blood  
    **Answer:** A chemical message carried in the blood. *Why:* A hormone is a chemical that cells release into the blood. It changes what certain other cells do. Choosing 'electrical signal' mixes it up with a nerve message.
 2. (fill) The glands that release hormones into the blood make up the ____ system.  
    **Answer:** ['endocrine']. *Why:* The endocrine system is all the glands and cells that make hormones, taken together.
@@ -616,7 +616,7 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
 11. (truefalse) True or false: the pineal gland makes most of its melatonin in bright daylight.  
    **Answer:** False. *Why:* False. Melatonin is made in the dark. Bright light holds it back.
 12. (mcq) Which two things together set the time you feel sleepy?  
-   Options: The body clock and sleep pressure / Your height and your pulse / Dinner and homework  
+   Options: Your height and your pulse / The body clock and sleep pressure / Dinner and homework  
    **Answer:** The body clock and sleep pressure. *Why:* The body clock sends the night signal, melatonin. Sleep pressure builds up the longer you stay awake. Sleepiness depends on both.
 13. (draw) Draw a body outline. Mark and label five hormone glands in the right places.  
    **Answer:** An outline showing any five of these: hypothalamus and pituitary under the brain, pineal gland in the middle of the brain, thyroid at the front of the neck, adrenal glands on top of the kidneys, pancreas behind the stomach, ovaries or testes low down.. *Why:* A strong drawing puts the glands in the right places and shows how small they are compared with the body.
@@ -626,7 +626,7 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
    **Answer:** Answers vary. For example: I got sleepy last night. Melatonin from my pineal gland helped. Or: I grew a tiny bit. Growth hormone from my pituitary helped. Or: my heart raced before the match. Adrenaline from my adrenal glands helped.. *Why:* Any true example with the right hormone and gland is a strong answer.
 ### Receptors, the chain of command and timing (stretch) (stretch, 15 questions)
 1. (mcq) Adrenaline speeds up heart muscle and relaxes gut muscle. Why do the two answer differently?  
-   Options: The cells carry different receptors / There are two kinds of adrenaline / The gut gets a weaker dose  
+   Options: There are two kinds of adrenaline / The cells carry different receptors / The gut gets a weaker dose  
    **Answer:** The cells carry different receptors. *Why:* It is one chemical. Heart cells and gut muscle cells carry different kinds of adrenaline receptor, and each kind starts a different chain inside the cell.
 2. (truefalse) True or false: the pituitary gland gives orders but never takes any.  
    **Answer:** False. *Why:* False. The pituitary acts on releasing hormones from the hypothalamus. It also eases off when hormones from the glands it drives come back to it.
@@ -653,7 +653,7 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
 12. (draw) Draw the shape of a line graph of one person's height from birth to age 20. Label four parts.  
    **Answer:** A line that rises very steeply in the first two years, then rises steadily through childhood, then rises more steeply for a few years in puberty, and then goes flat.. *Why:* A strong drawing has four parts: fast baby growth, steady childhood growth, the puberty spurt, and the flat line after the growth plates close.
 13. (mcq) A long afternoon nap makes you less sleepy at bedtime. What has the nap changed?  
-   Options: Your sleep pressure / Your body clock / Your pineal gland  
+   Options: Your body clock / Your sleep pressure / Your pineal gland  
    **Answer:** Your sleep pressure. *Why:* Sleep pressure builds while you are awake and falls while you sleep. The nap lowered it. The body clock and melatonin still run on time.
 14. (perspective) Two views about what melatonin is.  
    **Answer:** Answers vary. A strong answer picks a side and gives evidence. For the scientist: the same hormone rises at night in animals that sleep then and in animals that wake then. For the label: in humans, sleepiness does follow the evening rise.. *Why:* Both statements are true of some animals. The second explains more, because it fits day-active and night-active animals alike.
@@ -670,7 +670,7 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
 4. (order) Put these in order, for how your body gets its night signal.  
    **Answer:** ['The light fades in the evening', 'Cells in the eye report less brightness to the body clock', 'The body clock lets the pineal gland start work', 'The pineal gland releases melatonin into the blood', 'Organs all over the body get the message that it is night']. *Why:* The message begins as light, becomes a nerve signal and ends as a hormone that reaches every organ.
 5. (mcq) A man was still growing taller at 28. His body made all its hormones. What was missing?  
-   Options: Working oestrogen receptors / Growth hormone / Iodine in his food  
+   Options: Growth hormone / Working oestrogen receptors / Iodine in his food  
    **Answer:** Working oestrogen receptors. *Why:* Oestrogen closes the growth plates. His cells had no working receptor for it, so the message was sent and never received. This shows that a hormone does nothing without its receptor.
 6. (match) Match each piece of evidence to what it shows.  
    **Answer:** Tadpoles fed thyroid gland became frogs early → thyroid hormone drives the change; People in rooms with no clocks kept a daily rhythm → the body clock runs by itself; Villages given iodised salt had fewer goitres → the thyroid needs iodine; Bright light at night lowered melatonin in the blood → light holds melatonin back; A ripe banana in a bag ripened the green ones → a hormone can travel as a gas. *Why:* Each idea in this lesson rests on a test that someone carried out. The evidence comes first and the idea follows.
@@ -705,33 +705,33 @@ That night it rained on the hill, hard, for the first time in five weeks. In the
    Options: The pineal gland / The thyroid gland / The adrenal glands  
    **Answer:** The pineal gland. *Why:* The pineal gland, the size of a grain of rice in the middle of the brain, makes melatonin in the dark. Choosing 'thyroid' mixes up the night signal with the hormone that sets the pace of cells.
 2. (mcq) Where are the adrenal glands?  
-   Options: On top of the kidneys / At the front of the neck / Under the brain  
+   Options: At the front of the neck / Under the brain / On top of the kidneys  
    **Answer:** On top of the kidneys. *Why:* One adrenal gland sits on top of each kidney. The thyroid is in the neck, and the pituitary is under the brain.
 3. (mcq) After a fright, why does your heart thump for a minute or more?  
-   Options: Adrenaline stays in the blood until it is broken down / The heart has been damaged / The danger is still there  
+   Options: The heart has been damaged / Adrenaline stays in the blood until it is broken down / The danger is still there  
    **Answer:** Adrenaline stays in the blood until it is broken down. *Why:* Nerve signals stop quickly, but adrenaline keeps acting until the body has cleared it, which takes a few minutes. Choosing 'danger is still there' forgets that the thumping goes on after the danger has gone.
 4. (mcq) In an alarm, which message reaches the heart first?  
    Options: A nerve signal / Adrenaline in the blood / Melatonin  
    **Answer:** A nerve signal. *Why:* A nerve signal arrives in a fraction of a second. Adrenaline must be released and carried round in the blood, which takes some seconds. The two then work together.
 5. (mcq) Why does a hormone change some cells and not others?  
-   Options: Only some cells have its receptor / The blood takes it to only some cells / Some cells are asleep  
+   Options: The blood takes it to only some cells / Some cells are asleep / Only some cells have its receptor  
    **Answer:** Only some cells have its receptor. *Why:* Blood carries the hormone nearly everywhere. A cell answers only if it carries the receptor that the hormone fits. Choosing 'blood takes it to only some cells' pictures a hormone as travelling like a nerve signal.
 6. (truefalse) True or false: one hormone can make one kind of cell do more and another kind do less.  
    **Answer:** True. *Why:* True. Adrenaline makes heart muscle work harder and makes gut muscle relax. The answer depends on the receptor and on the cell.
 7. (mcq) What ends a person's growth in height?  
-   Options: The growth plates turn to bone / The pituitary stops making growth hormone / The bones become too heavy  
+   Options: The pituitary stops making growth hormone / The growth plates turn to bone / The bones become too heavy  
    **Answer:** The growth plates turn to bone. *Why:* At the end of puberty, oestrogen makes the cartilage of the growth plates turn to bone. Growth hormone goes on being made all through life.
 8. (mcq) What does bright light late in the evening do to melatonin?  
    Options: It holds melatonin back / It makes melatonin rise sooner / It has no effect  
    **Answer:** It holds melatonin back. *Why:* Bright light tells the body clock that it is still day, so the pineal gland holds back melatonin. Choosing 'rise sooner' has the signal the wrong way round. Melatonin is made in the dark.
 9. (mcq) You have been awake for 16 hours. What has been building up all that time?  
-   Options: Sleep pressure / Adrenaline / Iodine  
+   Options: Adrenaline / Sleep pressure / Iodine  
    **Answer:** Sleep pressure. *Why:* Sleep pressure rises the longer you are awake and falls while you sleep. It is separate from the body clock.
 10. (mcq) Which part of the brain sends releasing hormones to the pituitary?  
-   Options: The hypothalamus / The pineal gland / The brainstem  
+   Options: The pineal gland / The brainstem / The hypothalamus  
    **Answer:** The hypothalamus. *Why:* The hypothalamus sits just above the pituitary and sends releasing hormones down a short stalk. This is why 'master gland' is only partly right for the pituitary.
 11. (mcq) How can a tiny amount of a hormone have a big effect?  
-   Options: Each cell amplifies the signal / Hormone molecules are very heavy / Glands are very large  
+   Options: Hormone molecules are very heavy / Glands are very large / Each cell amplifies the signal  
    **Answer:** Each cell amplifies the signal. *Why:* A receptor that has caught one hormone molecule starts a chain inside the cell, and each step switches on many molecules of the next. Glands are small, and hormones act in tiny amounts.
 12. (mcq) In a fair test of evening light and sleep, what should differ between the two kinds of evening?  
    Options: Only the light / The light and the bedtime / As many things as possible  

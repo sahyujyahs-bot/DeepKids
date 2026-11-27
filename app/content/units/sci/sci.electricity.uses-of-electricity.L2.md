@@ -390,7 +390,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 2. (match) Draw a line from each appliance to the job electricity does in it.  
    **Answer:** Bulb → Light; Doorbell → Sound; Iron → Heat; Fridge → Cold; Ceiling fan → Movement. *Why:* Appliances change electricity into light, sound, heat, cold or movement. A strong answer can say what each one does for us.
 3. (mcq) There is a power cut. Which of these keeps working?  
-   Options: The wall clock with a cell / The ceiling fan / The fridge  
+   Options: The ceiling fan / The fridge / The wall clock with a cell  
    **Answer:** The wall clock with a cell. *Why:* The clock carries its own cell, so it does not need the wall. The fan and the fridge get mains electricity, which stops in a power cut.
 4. (draw) Draw one appliance in your home that makes movement. Draw an arrow to show what moves.  
    **Answer:** Any appliance that moves, such as a fan with arrows round the blades or a mixie with an arrow round the blade.. *Why:* A strong drawing shows the part that moves, so it is clear that electricity makes movement.
@@ -411,7 +411,7 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
    Options: Geyser / Wrist watch / Iron / Water pump  
    **Answer:** 1. *Why:* A wrist watch has a tiny button cell inside. A geyser, an iron and a water pump use mains electricity from the wall.
 2. (mcq) In the Tired Cell Test, a cell cannot light the torch but runs the clock. Why?  
-   Options: The clock needs much less electricity than the torch / The clock makes its own electricity / The torch was broken  
+   Options: The clock makes its own electricity / The torch was broken / The clock needs much less electricity than the torch  
    **Answer:** The clock needs much less electricity than the torch. *Why:* A torch needs a lot of electricity every second. A clock needs only a tiny amount. A weak cell still has enough for the clock. We checked the torch with a new cell, so it was not broken.
 3. (write) Your phone's battery number dropped 3 points while it played a video with the torch on. While it rested, it dropped 0 points. Say what this shows.  
    **Answer:** Playing a video and shining the torch use more electricity than resting. So the battery empties faster when the phone does more jobs.. *Why:* A strong answer compares the two drops and says which job used more of the battery's store.
@@ -460,34 +460,34 @@ Anju drew a little plug at the top of her first list, and a little cell at the t
 
 ## Quiz
 1. (mcq) What job does electricity do in a tube light?  
-   Options: Makes light / Makes cold / Makes movement  
+   Options: Makes cold / Makes light / Makes movement  
    **Answer:** Makes light. *Why:* A tube light changes electricity into light. If you chose cold or movement, look at what the tube light does when it is on.
 2. (mcq) What job does electricity do in a geyser?  
    Options: Makes heat / Makes sound / Makes light  
    **Answer:** Makes heat. *Why:* A geyser heats water for a bath. Its small light only shows that it is on.
 3. (mcq) Where does mains electricity come from?  
-   Options: A power station, along wires / The switch on the wall / The fan itself  
+   Options: The switch on the wall / A power station, along wires / The fan itself  
    **Answer:** A power station, along wires. *Why:* Mains electricity is made in a power station. A switch only lets it through. Choosing the switch is a common idea, but in a power cut the switch does nothing.
 4. (mcq) Which of these can a power station use to make electricity?  
    Options: Falling water at a dam / Moonlight / Rain clouds  
    **Answer:** Falling water at a dam. *Why:* A dam's falling water spins machines that make electricity. Moonlight is far too weak, and clouds are not used.
 5. (mcq) In a power cut, which one stops working?  
-   Options: The fridge / The torch / The wall clock  
+   Options: The torch / The fridge / The wall clock  
    **Answer:** The fridge. *Why:* The fridge uses mains electricity from the wall. The torch and the clock carry their own cells.
 6. (mcq) A phone works in a power cut. Why?  
-   Options: Its battery was charged from the wall earlier / Phones never need electricity / The power cut does not reach phones  
+   Options: Phones never need electricity / The power cut does not reach phones / Its battery was charged from the wall earlier  
    **Answer:** Its battery was charged from the wall earlier. *Why:* A phone has a rechargeable battery. It stores electricity from the wall and uses it later.
 7. (mcq) In the Tired Cell Test, an old cell does not light the torch. What should you try next?  
-   Options: Put it in the clock to see if it ticks / Open the cell to look inside / Throw it in the dustbin  
+   Options: Open the cell to look inside / Throw it in the dustbin / Put it in the clock to see if it ticks  
    **Answer:** Put it in the clock to see if it ticks. *Why:* A clock needs very little electricity, so it shows whether the cell still has some. Never open a cell. Used cells go to e-waste, not the dustbin.
 8. (mcq) Why can a weak cell still run a clock but not a torch?  
    Options: A clock needs much less electricity / A clock is bigger than a torch / A clock has its own power station  
    **Answer:** A clock needs much less electricity. *Why:* A torch needs a lot of electricity every second. A clock needs only a tiny amount, so a weak cell is still enough.
 9. (mcq) Which rule keeps you safe with mains electricity?  
-   Options: Never touch a plug or socket with wet hands / Push a pencil into a socket to check it / Pull a plug out by its wire  
+   Options: Push a pencil into a socket to check it / Pull a plug out by its wire / Never touch a plug or socket with wet hands  
    **Answer:** Never touch a plug or socket with wet hands. *Why:* Water lets mains electricity reach your body and give a shock. Never push anything into a socket. A grown-up pulls a plug out by holding the plug itself.
 10. (mcq) A little child finds a button cell on the floor. What should you do?  
-   Options: Give it to a grown-up at once / Let the child hold it, because cells are safe / Put it in a toy for the child  
+   Options: Let the child hold it, because cells are safe / Give it to a grown-up at once / Put it in a toy for the child  
    **Answer:** Give it to a grown-up at once. *Why:* A swallowed button cell can badly burn a small child's insides within two hours. Give it to a grown-up at once.
 
 ## Applications

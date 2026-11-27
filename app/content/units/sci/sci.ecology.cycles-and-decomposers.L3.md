@@ -525,7 +525,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 ## Worksheets
 ### Who Eats the Dead Leaves? (core) (core, 15 questions)
 1. (mcq) Which living thing is a decomposer?  
-   Options: A sunflower / An earthworm / A sparrow / A goat  
+   Options: A sunflower / A sparrow / A goat / An earthworm  
    **Answer:** An earthworm. *Why:* Earthworms eat dead leaves and soil and help turn them into new soil. If you picked the sparrow or the goat, you may have thought that any animal who eats is a decomposer.
 2. (truefalse) A mould is a kind of fungus.  
    **Answer:** True. *Why:* True. Moulds, mushrooms and yeast are all fungi.
@@ -542,12 +542,12 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 8. (match) Match each word to what it means.  
    **Answer:** Decomposer → a living thing who breaks down dead things; Spore → a tiny part a fungus makes that floats in the air; Compost → dark soil made from rotted peels and leaves; Worm casts → soil that has passed through a worm. *Why:* These four words come up all through the unit.
 9. (mcq) What do decomposers need to work fast?  
-   Options: Food, water, warmth and air / Only sunlight / Salt and sugar  
+   Options: Only sunlight / Salt and sugar / Food, water, warmth and air  
    **Answer:** Food, water, warmth and air. *Why:* Most decomposers need food, water, warmth and air. Salt and sugar slow them down.
 10. (truefalse) Earthworms breathe through their skin.  
    **Answer:** True. *Why:* True. That is why their skin must stay damp.
 11. (mcq) Someone says, 'The monsoon rain melted the dead leaves in the pot.' What really made the leaves rot?  
-   Options: Decomposers, who could feed once the rain gave them water / The rain dissolved them like sugar / The sun burned them  
+   Options: The rain dissolved them like sugar / The sun burned them / Decomposers, who could feed once the rain gave them water  
    **Answer:** Decomposers, who could feed once the rain gave them water. *Why:* Rain does not dissolve leaves. It gives the fungi, bacteria and worms the water they need to feed.
 12. (fill) The main body of a mushroom fungus is a web of threads in the soil called the ____.  
    **Answer:** ['mycelium']. *Why:* The mushroom is only the part that grows up to drop spores.
@@ -561,12 +561,12 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 1. (write) Cut papaya is put in a box and the lid is shut. Will the lid stop the papaya rotting? Explain.  
    **Answer:** Not really. Spores had already landed on the papaya. The papaya is wet and sweet, and the closed box keeps it warm and damp, so mould can still grow.. *Why:* A good answer says a lid does not take away water or warmth, and spores are already on the food.
 2. (mcq) Why does boiled milk keep longer than unboiled milk?  
-   Options: Boiling kills many of the bacteria in the milk / Boiling makes the milk drier / Boiling adds salt  
+   Options: Boiling makes the milk drier / Boiling kills many of the bacteria in the milk / Boiling adds salt  
    **Answer:** Boiling kills many of the bacteria in the milk. *Why:* Boiling kills many of the bacteria that would make the milk go sour. That is why many Indian families boil milk as soon as it comes home.
 3. (truefalse) A fridge kills all the moulds and bacteria in food.  
    **Answer:** False. *Why:* False. The cold slows them down. In the chapati test the fridge piece still grew a little mould late in the week.
 4. (mcq) Why do millipedes and earthworms help leaves rot faster?  
-   Options: They chew leaves into small pieces, so fungi and bacteria have more surface to feed on / They make the leaves wet / They bring sunlight underground  
+   Options: They make the leaves wet / They chew leaves into small pieces, so fungi and bacteria have more surface to feed on / They bring sunlight underground  
    **Answer:** They chew leaves into small pieces, so fungi and bacteria have more surface to feed on. *Why:* Many small pieces have far more surface than one big leaf. Fungi and bacteria feed at the surface, so they can work faster.
 5. (write) Leaves under a tree stay crisp through April and May, then rot quickly in the monsoon. Explain why.  
    **Answer:** In the dry months, decomposers cannot digest the leaves because there is no water. When the rain comes, they can feed, so the leaves rot quickly.. *Why:* A good answer says that decomposers need water.
@@ -590,7 +590,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 13. (write) In the Balloon Bottle test, why did the bottle with only water need to be there?  
    **Answer:** To show that the gas came from the peels and their decomposers, not from the water or the bottle.. *Why:* A good answer says it is there to compare.
 14. (mcq) Termites sometimes eat the wooden door frames of houses. What are they doing?  
-   Options: Decomposing dead wood, as they do in a forest / Building nests out of the wood / Drinking water from the wood  
+   Options: Building nests out of the wood / Drinking water from the wood / Decomposing dead wood, as they do in a forest  
    **Answer:** Decomposing dead wood, as they do in a forest. *Why:* In a forest, termites eat dead wood and help turn it into soil. To a termite, a door frame is dead wood too.
 15. (draw) Draw a mushroom and the part of the fungus hidden in the soil.  
    **Answer:** A mushroom with a wide web of thin threads, the mycelium, spreading in the soil below.. *Why:* The mycelium is the main body of the fungus.
@@ -608,7 +608,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 5. (write) A gardener has a pile of big branches and a pile of chopped twigs. Which will turn into compost first, and why?  
    **Answer:** The chopped twigs, because small pieces have more surface for fungi and bacteria to feed on.. *Why:* This is why compost makers chop things up first.
 6. (mcq) Moulds can grow in salty pickle once it gets watered down. What does this tell you?  
-   Options: Salt works only when there is enough of it to hold the water / Pickles are made of mould / Moulds like vinegar  
+   Options: Pickles are made of mould / Salt works only when there is enough of it to hold the water / Moulds like vinegar  
    **Answer:** Salt works only when there is enough of it to hold the water. *Why:* If a wet spoon adds water to the pickle, the salt is spread thinner and decomposers can use the water. That is why grandmothers say to use a dry spoon.
 7. (truefalse) Some fungi live joined to the roots of trees and help them take in water and nutrients.  
    **Answer:** True. *Why:* True. Many trees and plants have fungus partners on their roots. Exactly how much the trees share through them is debated.
@@ -641,31 +641,31 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
    Options: A mango tree / A mushroom / A crow / A cow  
    **Answer:** A mushroom. *Why:* A mushroom is a fungus who feeds on dead plants. A mango tree makes food from sunlight. A crow and a cow eat living or freshly dead food, but they do not break dead things down into soil. If you picked the crow, you may have been thinking that crows eat scraps.
 2. (mcq) A damp chapati is left in a closed box on the kitchen shelf. After 4 days it has fuzzy patches. Where did the mould come from?  
-   Options: From spores in the air that landed on the chapati / The chapati was already full of mould inside / From the box's plastic  
+   Options: The chapati was already full of mould inside / From the box's plastic / From spores in the air that landed on the chapati  
    **Answer:** From spores in the air that landed on the chapati. *Why:* Spores float in the air everywhere. Some landed on the chapati before the lid was shut, and grew on the damp food. People once thought mould was made inside the food, but Micheli showed in 1729 that mould grows from spores.
 3. (mcq) In the chapati test, the damp piece in the fridge grew mould much more slowly than the damp piece on the shelf. What does that show?  
-   Options: Cold kills all moulds / Cold slows moulds down / Fridges have no air  
+   Options: Cold kills all moulds / Fridges have no air / Cold slows moulds down  
    **Answer:** Cold slows moulds down. *Why:* The fridge piece still grew a little mould, late in the week. So the cold did not kill the mould. The cold only slowed the mould down. That is why food in the fridge lasts longer, but not for ever.
 4. (mcq) How does a mould eat?  
-   Options: With a tiny mouth / Their threads give out chemicals that digest the food, then soak it up / They take in sunlight like a plant  
+   Options: Their threads give out chemicals that digest the food, then soak it up / With a tiny mouth / They take in sunlight like a plant  
    **Answer:** Their threads give out chemicals that digest the food, then soak it up. *Why:* A fungus has no mouth or stomach. Their threads, the hyphae, give out enzymes that break the food down. Then the threads soak up the watery food. That is why mouldy food goes soft.
 5. (mcq) Tender mangoes are kept in lots of salt to make maavadu. Why do they not rot for months?  
-   Options: Salt holds the water, so decomposers cannot use it / Salt makes the mangoes hot / Salt keeps the light out  
+   Options: Salt makes the mangoes hot / Salt keeps the light out / Salt holds the water, so decomposers cannot use it  
    **Answer:** Salt holds the water, so decomposers cannot use it. *Why:* Salt pulls water out of the mango and holds it. Decomposers cannot take in water that salty, so they cannot feed. In the Pickle Test, the salted cucumber slices sat in a puddle but grew no mould, for the same reason.
 6. (mcq) Which of these will rot fastest?  
-   Options: Sun-dried vadam in a dry tin / A cut papaya on a warm kitchen counter / Dried red chillies in a jar  
+   Options: A cut papaya on a warm kitchen counter / Sun-dried vadam in a dry tin / Dried red chillies in a jar  
    **Answer:** A cut papaya on a warm kitchen counter. *Why:* A cut papaya is soft, wet, warm and full of sugar: everything decomposers need. Vadam and dried chillies have almost no water.
 7. (mcq) Why do earthworms stay under the soil on sunny days?  
    Options: They breathe through their damp skin, and the sun would dry it out / They only eat at night / The soil is warmer than the air  
    **Answer:** They breathe through their damp skin, and the sun would dry it out. *Why:* An earthworm has no lungs. They breathe through their skin, which must stay damp. Strong sun dries their skin, so they stay in the damp soil.
 8. (mcq) What are worm casts?  
-   Options: Worms' old skins / Soil that has passed through a worm's body, rich in food for plants / The holes worms dig  
+   Options: Worms' old skins / The holes worms dig / Soil that has passed through a worm's body, rich in food for plants  
    **Answer:** Soil that has passed through a worm's body, rich in food for plants. *Why:* Worms swallow soil and bits of dead leaves. What comes out at the back end is fine, crumbly soil called casts. Plants grow well in it.
 9. (mcq) A neem leaf falls and rots away. What happens to what it was made of?  
-   Options: It is destroyed and gone for ever / It goes into the bodies of decomposers, into the air as gas, and into the soil, where plants can use it again / It all turns into water  
+   Options: It goes into the bodies of decomposers, into the air as gas, and into the soil, where plants can use it again / It is destroyed and gone for ever / It all turns into water  
    **Answer:** It goes into the bodies of decomposers, into the air as gas, and into the soil, where plants can use it again. *Why:* Nothing is destroyed when a leaf rots. Decomposers use some of it to build their bodies, breathe some out as carbon dioxide, and leave the rest in the soil as nutrients for new plants.
 10. (mcq) In the Balloon Bottle test, the balloon on the bottle of peels filled up. What filled it?  
-   Options: Carbon dioxide gas breathed out by decomposers as they fed / Steam from hot peels / Air pushed in from outside  
+   Options: Steam from hot peels / Air pushed in from outside / Carbon dioxide gas breathed out by decomposers as they fed  
    **Answer:** Carbon dioxide gas breathed out by decomposers as they fed. *Why:* Yeasts and bacteria fed on the sugar in the peels and breathed out carbon dioxide. The bottle with only water had no food for them, so its balloon stayed flat.
 11. (mcq) You find a lemon with a green fuzzy patch in the fruit basket. What should you do?  
    Options: Smell it closely to check / Tell a grown-up, and put it in the wet-waste bin without sniffing it / Scrape the fuzz off with your fingers  

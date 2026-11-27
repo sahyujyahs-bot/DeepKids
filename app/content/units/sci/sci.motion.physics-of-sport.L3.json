@@ -653,10 +653,10 @@
       "q": "When you run, which way does your foot push on the ground?",
       "options": [
        "Forward",
-       "Backward",
-       "It doesn't push"
+       "It doesn't push",
+       "Backward"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your foot pushes back on the ground, and the ground pushes you forward. That's why it is hard to run on a slippery floor or loose sand: the ground can't push back well. Picking 'forward' is a common mix-up, because you move forward."
      }
     },
@@ -1309,10 +1309,10 @@
       "q": "Why does the water jet bend down?",
       "options": [
        "The water gets tired",
-       "Gravity pulls each drop down as it moves forward",
-       "The bucket pulls the water"
+       "The bucket pulls the water",
+       "Gravity pulls each drop down as it moves forward"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Each drop keeps moving forward from the squeeze, while gravity pulls it down all the time. That makes the curve. Water does not get tired, and a bucket has no pull of its own on the water."
      }
     }
@@ -1390,11 +1390,11 @@
       "t": "mcq",
       "q": "You kick a football right through its middle. What will the ball most likely do?",
       "options": [
-       "Go straight without much spin",
        "Spin fast and curve",
-       "Stop at once"
+       "Stop at once",
+       "Go straight without much spin"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A push through the centre moves the ball without turning it. A push to one side of the centre turns it as well, so it spins. If you picked 'spin fast', flick the ball again right at its middle. Draw a dot on the ball with a pen first, so you can see whether it spins."
      }
     }
@@ -1609,11 +1609,11 @@
       "t": "mcq",
       "q": "Why does a rubber band ball bounce better than a newspaper ball?",
       "options": [
-       "Rubber is elastic, so it springs back after it squashes",
        "Rubber is heavier",
+       "Rubber is elastic, so it springs back after it squashes",
        "Rubber is a nice colour"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rubber springs back fast after it squashes, so it pushes on the floor and the ball goes back up. Crumpled paper squashes and stays squashed. Weight is not what makes a bounce."
      }
     },
@@ -1823,11 +1823,11 @@
    "t": "mcq",
    "p": "Why does a ball of wet clay not bounce, even on a hard floor?",
    "opts": [
-    "It squashes and stays squashed",
     "It is too heavy",
-    "The floor is too hard"
+    "The floor is too hard",
+    "It squashes and stays squashed"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A bounce needs the ball to spring back. Wet clay is not elastic, so it stays flat. Weight is not the problem: a heavier rubber ball still bounces.",
    "outcome": 0
   },
@@ -1847,11 +1847,11 @@
    "t": "mcq",
    "p": "Why is running on soft beach sand more tiring than running on the road?",
    "opts": [
-    "Some of each push goes into moving the sand",
     "Sand pulls your feet down",
+    "Some of each push goes into moving the sand",
     "The road is downhill"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Soft sand slides away and doesn't spring back, so part of each push is lost in it. Your muscles must do more work for each step. Sand doesn't pull feet down. It just gives way under them.",
    "outcome": 2
   },
@@ -1859,11 +1859,11 @@
    "t": "mcq",
    "p": "When you run, what in your legs stretches and springs back like a rubber band?",
    "opts": [
-    "Your tendons",
     "Your toenails",
-    "Your skin only"
+    "Your skin only",
+    "Your tendons"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Tendons, like the Achilles tendon at the back of your heel, stretch when your foot lands and spring back as you push off.",
    "outcome": 2
   },
@@ -1883,11 +1883,11 @@
    "t": "mcq",
    "p": "You roll a marble off a table, first slowly and then fast. Where does the fast one land?",
    "opts": [
-    "Further from the table",
     "Closer to the table",
-    "In the same place"
+    "In the same place",
+    "Further from the table"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Both take the same short time to fall to the floor. The fast one goes further forward in that time.",
    "outcome": 3,
    "how": "e2"
@@ -1908,11 +1908,11 @@
    "t": "mcq",
    "p": "What is the name for the way a spinning ball curves in the air?",
    "opts": [
-    "The Magnus effect",
     "Gravity",
+    "The Magnus effect",
     "Friction"
    ],
-   "a": 0,
+   "a": 1,
    "why": "It is named after Heinrich Gustav Magnus, who studied it in 1852. Gravity pulls the ball down, but it doesn't make it curve sideways.",
    "outcome": 4
   },
@@ -1920,11 +1920,11 @@
    "t": "mcq",
    "p": "Why do you jump further when you swing your arms forward?",
    "opts": [
-    "Your arms add forward speed and help your legs push longer",
     "Your arms make you lighter",
-    "Swinging your arms makes the floor bouncier"
+    "Swinging your arms makes the floor bouncier",
+    "Your arms add forward speed and help your legs push longer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your swinging arms gain forward speed, and your body carries it into the air. The swing also keeps your legs pushing on the floor a little longer. Your weight does not change.",
    "outcome": 5,
    "how": "e3"
@@ -1933,11 +1933,11 @@
    "t": "mcq",
    "p": "Why does a cricketer pull their hands back when catching?",
    "opts": [
-    "The ball slows down over a longer time, so the force is smaller",
     "To throw it back faster",
+    "The ball slows down over a longer time, so the force is smaller",
     "So the ball bounces out"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Moving the hands back makes the stop take longer, so the push on the hands is smaller. The catch stings less and the ball is less likely to bounce out.",
    "outcome": 5
   },
@@ -1945,11 +1945,11 @@
    "t": "mcq",
    "p": "You throw a ball far across a field. Which part of its path is really straight?",
    "opts": [
-    "No part of it, because gravity pulls it down all the time",
     "All of it, in a straight line",
+    "No part of it, because gravity pulls it down all the time",
     "The first part, then it drops straight down"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gravity pulls the ball down from the moment it leaves your hand, while it also moves forward. So the path bends all the way, in a smooth curve. 'Straight, then drops straight down' is a very old idea that turned out wrong.",
    "outcome": 6
   }
@@ -2098,11 +2098,11 @@
      "t": "mcq",
      "p": "You squeeze a plastic bottle of water with a hole in it, and water squirts out. Then you squeeze harder. What happens to the jet?",
      "opts": [
-      "It lands further away",
       "It lands closer",
-      "It goes straight down"
+      "It goes straight down",
+      "It lands further away"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A harder squeeze makes the water leave faster. Faster water goes further forward before gravity brings it down.",
      "how": "a2"
     },
@@ -2173,11 +2173,11 @@
      "t": "mcq",
      "p": "A ball is dropped onto a pillow 20 times in a row. Where does most of the ball's movement go?",
      "opts": [
-      "Into a little warmth and sound in the pillow",
       "Back into the ball",
+      "Into a little warmth and sound in the pillow",
       "It is destroyed and gone for ever"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Energy is never used up. It changes kind. As the pillow squashes, its cotton or foam rubs on itself, and that turns the movement into a little warmth and sound. Picking 'destroyed' is a common idea, but energy never just vanishes."
     },
     {
@@ -2399,11 +2399,11 @@
      "t": "mcq",
      "p": "Without any air, at which angle would a ball thrown at the same speed go furthest?",
      "opts": [
-      "45 degrees, halfway between flat and straight up",
       "Flat along the ground, 0 degrees",
+      "45 degrees, halfway between flat and straight up",
       "Straight up, 90 degrees"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Thrown flat, the ball soon hits the ground. Thrown straight up, it comes back to you. Halfway, 45 degrees, gives the best mix of going forward and staying up. In real sport, with air and the thrower's height, the best angle is a little lower."
     },
     {

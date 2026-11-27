@@ -685,7 +685,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 ## Worksheets
 ### Two kinds of disease, five roads and their shields (core, 18 questions)
 1. (mcq) Which of these diseases is caused by a germ?  
-   Options: Diabetes / Typhoid / Anaemia / Asthma  
+   Options: Diabetes / Anaemia / Asthma / Typhoid  
    **Answer:** Typhoid. *Why:* Typhoid is caused by a bacterium who travels in water and food. Diabetes, anaemia and asthma begin inside the body, and no germ causes them.
 2. (sort) Sort these diseases into infectious and non-infectious.  
    **Answer:** Cholera → Infectious; Diabetes → Non-infectious; Measles → Infectious; Heart attack → Non-infectious; Malaria → Infectious; Anaemia → Non-infectious. *Why:* Cholera, measles and malaria are each caused by a germ. A heart attack comes from a blocked artery, anaemia from too little iron, and diabetes from sugar that stays in the blood. No germ causes those three.
@@ -696,14 +696,14 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 5. (truefalse) You can catch malaria by sitting beside a person who has malaria.  
    **Answer:** False. *Why:* False. A malaria parasite must be carried by a female Anopheles mosquito. A person with malaria is safe to sit beside. A net and no standing water protect the family.
 6. (mcq) Which protection blocks the mosquito road?  
-   Options: A net over the bed / A mask / Boiled water / Washing hands  
+   Options: A mask / A net over the bed / Boiled water / Washing hands  
    **Answer:** A net over the bed. *Why:* A net keeps the mosquito from biting. A mask works on the air road, boiled water on the water road, and hand washing on the touch road.
 7. (order) Put these in order, from first to last, for an infectious disease.  
    **Answer:** ['The germ gets into the body', 'The germ multiplies while the person feels well', 'The first symptom appears', 'The person gets better or is treated']. *Why:* The germ gets in and multiplies for days before anything is felt. That gap is the incubation period. Then the first symptom appears, and the person recovers or is treated.
 8. (truefalse) An antibiotic cures a cold.  
    **Answer:** False. *Why:* False. A virus causes a cold, and antibiotics kill bacteria only. Rest and drinks help while the body deals with the virus.
 9. (mcq) Which of these diseases does a mosquito net not protect against?  
-   Options: Malaria / Filariasis / Cholera  
+   Options: Malaria / Cholera / Filariasis  
    **Answer:** Cholera. *Why:* Cholera travels by water and food, so a net does nothing against it. Malaria and filariasis are both carried by mosquitoes.
 10. (fill) Too little iron in the food causes ____.  
    **Answer:** ['anaemia']. *Why:* Iron is needed to make red blood cells. Too little leaves a person tired and pale. It is a deficiency disease, and no germ causes it.
@@ -726,12 +726,12 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
    **Answer:** ['elbow']. *Why:* The cloth or the elbow catches the drops. A bare hand catches them too, and then it spreads the germs to everything it touches.
 ### Risk, causes and reading patterns (stretch, 18 questions)
 1. (mcq) What does a risk factor do?  
-   Options: Raises the chance of a disease / Decides who falls ill / Makes a disease catching / Cures a disease  
+   Options: Decides who falls ill / Makes a disease catching / Raises the chance of a disease / Cures a disease  
    **Answer:** Raises the chance of a disease. *Why:* A risk factor changes how many people in a group fall ill. It does not decide what happens to any one person. Picking 'decides who falls ill' is the most common mistake.
 2. (truefalse) A man smoked all his life and stayed well until he was 90. So tobacco is not a risk.  
    **Answer:** False. *Why:* False. In the tobacco group of the Risk Dice Test, about half the people stayed well, and tobacco still tripled the number who fell ill. One person's story cannot show what a risk does.
 3. (mcq) What causes a heart attack?  
-   Options: A germ in the blood / A blocked artery of the heart / Too much sleep / Cold weather  
+   Options: A germ in the blood / Too much sleep / A blocked artery of the heart / Cold weather  
    **Answer:** A blocked artery of the heart. *Why:* A fatty layer narrows an artery, and a clot can block it. The heart muscle beyond the block gets no oxygen. Germs and cold weather are not the cause.
 4. (sort) Sort these diseases by their main cause.  
    **Answer:** Sickle cell disease → Inherited; Goitre → Missing nutrient; Fluorosis from well water → Surroundings; Type 2 diabetes → Builds up over years. *Why:* Sickle cell disease comes through the genes. Goitre comes from too little iodine. Fluorosis comes from too much fluoride in water. Type 2 diabetes builds up slowly with age, weight, little movement and genes.
@@ -741,14 +741,14 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
    Options: Diabetes / Asthma / Tuberculosis / Anaemia  
    **Answer:** 2. *Why:* Tuberculosis is caused by a bacterium who passes through the air. Diabetes, asthma and anaemia are non-infectious.
 7. (mcq) On a map, no ill house stands beside an earlier ill house. What does this suggest?  
-   Options: The illness does not pass from person to person / The illness is very contagious / Everyone has the same germ  
+   Options: The illness is very contagious / The illness does not pass from person to person / Everyone has the same germ  
    **Answer:** The illness does not pass from person to person. *Why:* A catching illness leaves chains, with each new ill house beside an earlier one. Scattered houses suggest the cases are not linked by contact. Mosquito diseases can look like this too, so the next step is to find what the ill people share.
 8. (order) Put these steps in order for finding out whether a disease is catching.  
    **Answer:** ['Mark the ill houses on a map', 'Look for what the ill people share', 'Remove the shared thing and watch the cases', 'Find the germ in the ill people']. *Why:* A map shows the pattern. Looking for what the ill share gives a suspect. Removing the suspect and watching the cases is a test. Finding the germ in the ill people confirms the cause.
 9. (truefalse) Many ill people living around one well proves that the illness is catching.  
    **Answer:** False. *Why:* False. A cluster shows only that the ill people share something. It may be the water in the well, which is not catching from person to person. The next step is to test what they share.
 10. (mcq) A child sits beside a classmate who has HIV. Which of these is safe?  
-   Options: Sharing a tiffin box / Sharing a used needle / Sharing a bandage with blood on it  
+   Options: Sharing a used needle / Sharing a bandage with blood on it / Sharing a tiffin box  
    **Answer:** Sharing a tiffin box. *Why:* HIV does not pass by food, touch, toilets or mosquitoes. It passes by infected blood, a few body fluids and from mother to baby. A used needle or a bloody bandage can carry blood.
 11. (fill) The time between a germ getting into the body and the first symptom is the ____ period.  
    **Answer:** ['incubation']. *Why:* During the incubation period the germ multiplies while the person feels well. Chickenpox has 10 to 21 days, and flu has 1 to 4 days.
@@ -765,20 +765,20 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 17. (match) Match each unclean habit to a disease that can follow it.  
    **Answer:** Drinking water with sewage in it → Cholera or typhoid; A shared towel and bedding → Scabies or ringworm; Eating without washing hands after the toilet → Diarrhoea or hepatitis A; Spitting on the ground → TB or a cold spreads. *Why:* Each habit opens a germ road. Sewage in water and unwashed hands open the water and food road. Shared cloth opens the touch road.
 18. (mcq) A child had measles. Now she breathes fast, has chest pain and brings up yellow phlegm. What is the family's worry, and what should they do?  
-   Options: Pneumonia, which can follow measles, so they go to a doctor today / A plain cold, so she should rest and wait a week / Dehydration, so she needs only ORS  
+   Options: A plain cold, so she should rest and wait a week / Dehydration, so she needs only ORS / Pneumonia, which can follow measles, so they go to a doctor today  
    **Answer:** Pneumonia, which can follow measles, so they go to a doctor today. *Why:* Fast breathing, chest pain and phlegm are signs of pneumonia, which can follow measles, flu or chickenpox. It is dangerous and needs a doctor at once.
 ### Telling them apart, arguing and planning (challenge, 17 questions)
 1. (mcq) Many ill people live around one well, and the nurses who care for them stay well. What is the best next step?  
-   Options: Find what the ill share, and test the well / Send everyone out of the village / Give every person an antibiotic  
+   Options: Send everyone out of the village / Find what the ill share, and test the well / Give every person an antibiotic  
    **Answer:** Find what the ill share, and test the well. *Why:* A cluster and well nurses suggest a shared cause and not person-to-person spread. The next step is to test what they share and see if the cases stop when it is removed.
 2. (mcq) Which fact is the best evidence that a disease does not pass from person to person?  
-   Options: Nurses who care for patients every day stay well / Many patients live in one town / Patients feel very ill  
+   Options: Many patients live in one town / Nurses who care for patients every day stay well / Patients feel very ill  
    **Answer:** Nurses who care for patients every day stay well. *Why:* If the disease passed from person to person, the nurses would fall ill. Dr Goldberger used this clue for pellagra. Many patients in one town, or feeling very ill, tell us nothing about the road.
 3. (mcq) A catching illness spreads through a school. Why do the daily cases first climb fast?  
-   Options: Each ill child passes it on to more children / Children get tired of school / The germ gets stronger each day  
+   Options: Children get tired of school / The germ gets stronger each day / Each ill child passes it on to more children  
    **Answer:** Each ill child passes it on to more children. *Why:* Each ill child can pass the germ to several others, so the number grows each day. It slows when fewer children are left to catch it, or when people take protection.
 4. (mcq) One sickle cell gene protects against malaria. Why is the gene common where malaria has been common?  
-   Options: Carriers of one copy survived malaria more often / Malaria causes the gene / Mosquitoes carry the gene  
+   Options: Malaria causes the gene / Mosquitoes carry the gene / Carriers of one copy survived malaria more often  
    **Answer:** Carriers of one copy survived malaria more often. *Why:* People with one copy are well and are less likely to die of malaria. So they had more children, and the gene stayed common. People with two copies have a serious disease.
 5. (truefalse) Stomach ulcers are caused by worry and spicy food, and by nothing else.  
    **Answer:** False. *Why:* False. Barry Marshall and Robin Warren showed in the 1980s that a bacterium causes most stomach ulcers. Antibiotics cure them.
@@ -801,7 +801,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 14. (draw) Draw a map of nine houses with an illness that is not catching. Put all the ill houses around one well.  
    **Answer:** A grid of nine houses with a well marked in the middle. The ill houses are the ones closest to the well, and they are not joined in a chain of earlier and later cases.. *Why:* A strong drawing shows a cluster around one shared thing, marked as the well, and not a chain from house to house.
 15. (mcq) Which of these would lower the chance of a heart attack?  
-   Options: Daily movement and no tobacco / A mosquito net / Boiled water  
+   Options: A mosquito net / Boiled water / Daily movement and no tobacco  
    **Answer:** Daily movement and no tobacco. *Why:* A heart attack comes from a blocked artery, and movement, no tobacco and less salt and fried food lower the chance. A net and boiled water protect against infections.
 16. (write) A village vaccinates all its dogs against rabies. Explain why this also protects children who have never touched those dogs.  
    **Answer:** Rabies passes by the bite of an infected animal. A vaccinated dog does not get rabies, so she cannot pass it on in a bite. The chain of the germ stops in the village, and children are safe even if they meet a dog.. *Why:* A strong answer says that the animal's vaccine stops the germ's road to people.
@@ -815,7 +815,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
 
 ## Quiz
 1. (mcq) What is a vector?  
-   Options: An animal who carries a germ between people / A medicine that kills germs / A symptom of a fever  
+   Options: A medicine that kills germs / An animal who carries a germ between people / A symptom of a fever  
    **Answer:** An animal who carries a germ between people. *Why:* A vector carries a germ from one person to the next. A female Anopheles mosquito is the vector of malaria. A medicine is not a vector, and a fever is a symptom.
 2. (mcq) Which disease passes through the air?  
    Options: Tuberculosis / Cholera / Dengue  
@@ -824,18 +824,18 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
    Options: By a mosquito bite / By dirty water / Through the air  
    **Answer:** By a mosquito bite. *Why:* A female Aedes mosquito carries the dengue virus and passes it on when she bites. A person with dengue is safe to sit beside.
 4. (mcq) Which shield protects against typhoid?  
-   Options: Boiled water and washed hands / A mosquito net / An open window  
+   Options: A mosquito net / Boiled water and washed hands / An open window  
    **Answer:** Boiled water and washed hands. *Why:* Typhoid travels by water and food. Boiling water and washing hands block that road. A net blocks mosquitoes, and an open window thins germs in the air.
 5. (truefalse) Hugging a person who has HIV can pass the virus on.  
    **Answer:** False. *Why:* False. HIV passes only by infected blood, a few other body fluids and from mother to baby. Hugging, shared food and toilets do not pass it on.
 6. (mcq) Which of these diseases is non-infectious?  
-   Options: Measles / Asthma / Chickenpox  
+   Options: Measles / Chickenpox / Asthma  
    **Answer:** Asthma. *Why:* Asthma is the airways reacting to smoke, dust or pollen, and no germ causes it. Measles and chickenpox are caused by viruses.
 7. (mcq) What happens in a stroke?  
    Options: An artery in the brain is blocked or bursts / A germ enters the brain through water / The heart beats too slowly  
    **Answer:** An artery in the brain is blocked or bursts. *Why:* Brain cells beyond a blocked or burst artery get no oxygen and begin to die within minutes. This is why a stroke is an emergency.
 8. (mcq) In diabetes, what stays too high in the blood?  
-   Options: Sugar / Iron / Germs  
+   Options: Iron / Germs / Sugar  
    **Answer:** Sugar. *Why:* Insulin lets sugar pass from the blood into the cells. In diabetes there is too little insulin, or the cells do not respond to it, so sugar stays in the blood.
 9. (truefalse) Cancer passes from one person to another by touch.  
    **Answer:** False. *Why:* False. Cancer begins in a person's own cells. A few cancers are started by a germ, such as HPV, but the cancer itself is not catching.
@@ -846,34 +846,34 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
    Options: The risk is higher, but not everyone fell ill / Everyone in it falls ill / The risk is the same  
    **Answer:** The risk is higher, but not everyone fell ill. *Why:* Three times as many fell ill, so the chance was higher. But half the group stayed well, so the risk did not decide who fell ill.
 12. (mcq) Which of these is something scientists still argue about?  
-   Options: Whether too little early contact with microbes raises allergies / Whether hand washing prevents cholera / Whether mosquitoes carry malaria  
+   Options: Whether hand washing prevents cholera / Whether too little early contact with microbes raises allergies / Whether mosquitoes carry malaria  
    **Answer:** Whether too little early contact with microbes raises allergies. *Why:* The hygiene hypothesis is still being tested. Hand washing and the mosquito road of malaria are settled facts.
 13. (mcq) Plants cannot be given a vaccine like a calf. How can a farmer stop a plant germ from spreading?  
-   Options: Pick off the ill leaves, wash the tools and sow seed from healthy plants / Do nothing, because plants never fall ill from germs / Water the plants only at night, which kills every germ  
+   Options: Do nothing, because plants never fall ill from germs / Pick off the ill leaves, wash the tools and sow seed from healthy plants / Water the plants only at night, which kills every germ  
    **Answer:** Pick off the ill leaves, wash the tools and sow seed from healthy plants. *Why:* Plants do fall ill from germs. Removing ill leaves, cleaning tools and using healthy seed block the roads the germs travel. Watering at night kills nothing.
 14. (mcq) Why do doctors want street dogs to be vaccinated against rabies?  
-   Options: It protects the dogs and the people they might bite / It stops the dogs from barking / A vaccinated dog's bite never needs washing  
+   Options: It stops the dogs from barking / A vaccinated dog's bite never needs washing / It protects the dogs and the people they might bite  
    **Answer:** It protects the dogs and the people they might bite. *Why:* Rabies passes by a bite. A vaccinated dog does not get rabies, so she cannot pass it on. Any bite must still be washed with soap and running water.
 15. (mcq) Which is a time to wash your hands with soap?  
-   Options: After using the toilet and before eating / Only when your hands look dirty / Only when you have a cold  
+   Options: Only when your hands look dirty / Only when you have a cold / After using the toilet and before eating  
    **Answer:** After using the toilet and before eating. *Why:* Germs on hands cannot be seen. The toilet and the meal are the two most important times, because hands carry germs from stools to the mouth.
 16. (mcq) Which is the best way to wash your hands?  
-   Options: Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse / A quick rinse under the tap / Wipe them on your clothes  
+   Options: A quick rinse under the tap / Wipe them on your clothes / Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse  
    **Answer:** Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse. *Why:* Soap lifts the germs off the skin, and the rubbing reaches the places where germs hide. A quick rinse or a wipe leaves most of them behind.
 17. (mcq) A baby has loose stools. What should the mother do?  
    Options: Keep breastfeeding, give ORS in sips, and see a doctor if the baby cannot drink or passes blood / Stop all milk until the loose stools stop / Give only plain water for a day  
    **Answer:** Keep breastfeeding, give ORS in sips, and see a doctor if the baby cannot drink or passes blood. *Why:* The danger is dehydration. Mother's milk is clean and keeps the baby fed, and ORS replaces the lost water. Stopping milk makes the baby weaker.
 18. (mcq) A boy has coughed for three weeks. What should his family do?  
-   Options: Take him to a doctor for a test / Wait, because a cough always goes away / Give him a cold bath  
+   Options: Wait, because a cough always goes away / Give him a cold bath / Take him to a doctor for a test  
    **Answer:** Take him to a doctor for a test. *Why:* A cough that lasts more than two weeks can be TB. TB is cured with medicine taken every day, and the tests and medicine are free at government health centres.
 19. (mcq) Hari got wet in the rain and two days later he has a cold. What most likely caused the cold?  
-   Options: A cold virus he breathed in from someone who had it / The rain on his hair / Not eating enough amla  
+   Options: The rain on his hair / A cold virus he breathed in from someone who had it / Not eating enough amla  
    **Answer:** A cold virus he breathed in from someone who had it. *Why:* A cold needs a virus. Rain has no cold virus in it. The virus was probably around before he got wet.
 20. (mcq) How do scabies mites pass from one child to another?  
-   Options: By skin and by shared clothes, towels and bedding / By a mosquito bite / By drinking water  
+   Options: By a mosquito bite / By skin and by shared clothes, towels and bedding / By drinking water  
    **Answer:** By skin and by shared clothes, towels and bedding. *Why:* Scabies is a touch-road disease. The mites walk from skin to skin and onto cloth that is shared. A mosquito or water cannot carry them.
 21. (mcq) Why should people not spit in the street?  
-   Options: Spit from a person with a cold or TB carries germs onto the ground / Spit makes the road wet / Spit is a waste of water  
+   Options: Spit makes the road wet / Spit is a waste of water / Spit from a person with a cold or TB carries germs onto the ground  
    **Answer:** Spit from a person with a cold or TB carries germs onto the ground. *Why:* Spit carries the germs that were in the mouth and chest. A child who plays there can pick them up. Keeping the street clean blocks that road.
 
 ## Applications

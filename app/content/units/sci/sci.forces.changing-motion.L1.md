@@ -410,7 +410,7 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 6. (write) In the Tap Test, you tapped the rolling ball from behind. What did your tap do? Say it out loud, and a grown-up writes it down.  
    **Answer:** It made the ball go faster, because I pushed it the same way it was rolling.. *Why:* A strong answer says what the ball did and that the push went the same way as the ball.
 7. (mcq) You flick a bottle cap gently. It goes 2 tiles. Then you flick it hard. What will happen?  
-   Options: It goes further than 2 tiles / It goes only 1 tile / It does not move  
+   Options: It goes only 1 tile / It does not move / It goes further than 2 tiles  
    **Answer:** It goes further than 2 tiles. *Why:* A bigger push makes a bigger change. The hard flick makes the cap faster, so it goes further before it stops.
 8. (order) Put the Tap Test in order.  
    **Answer:** ['Make a guess', 'Tap a still ball', 'Tap the rolling ball from behind', 'Tap the rolling ball from the front']. *Why:* First we guess. Then we start a still ball, then tap a rolling ball from behind, then from the front.
@@ -434,12 +434,12 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
 7. (label) Look at the picture of a girl on a swing. Say what each push does: FASTER or SLOWER, and a grown-up writes it.  
    **Answer:** ['FASTER', 'SLOWER']. *Why:* A push the same way as the swing speeds it up. Feet dragging on the ground push against it, so it slows down.
 8. (mcq) Two trolleys get the same gentle push. One is empty and one is full of heavy bags. Which one speeds up more?  
-   Options: The empty trolley / The full trolley / They speed up the same  
+   Options: The full trolley / The empty trolley / They speed up the same  
    **Answer:** The empty trolley. *Why:* A heavy thing needs a bigger push to change its speed. The same push changes the empty trolley more.
 9. (truefalse) In space, a ball that is pushed gently keeps moving for a very long time.  
    **Answer:** True. *Why:* True. In space there is almost no air and no floor to push against the ball, so nothing slows it down.
 10. (mcq) A cricketer pulls her hands back as she catches a fast ball. Why?  
-   Options: The ball slows down over a longer time, so it stings less / The ball goes faster / Her hands get bigger  
+   Options: The ball goes faster / The ball slows down over a longer time, so it stings less / Her hands get bigger  
    **Answer:** The ball slows down over a longer time, so it stings less. *Why:* Pulling the hands back gives the ball more time to slow down. The push on her hands is then smaller.
 
 ## Videos
@@ -452,28 +452,28 @@ Kannan put his hand out too, and Ammu rolled the coconut to him, very slowly.
    Options: A push / Waiting / Looking at it  
    **Answer:** A push. *Why:* A still thing starts moving only when a force pushes or pulls it.
 2. (mcq) A ball is rolling away from you. You tap it gently from behind. What happens?  
-   Options: It goes faster / It slows down / It stops  
+   Options: It slows down / It stops / It goes faster  
    **Answer:** It goes faster. *Why:* A push the same way a thing is moving makes it go faster.
 3. (mcq) A ball is rolling towards you. You put your flat hand in front of it. What happens?  
-   Options: It stops / It goes faster / It jumps over your hand  
+   Options: It goes faster / It stops / It jumps over your hand  
    **Answer:** It stops. *Why:* Your hand pushes against the way the ball is moving, so it stops.
 4. (mcq) What is a force?  
    Options: A push or a pull / A kind of ball / How fast something goes  
    **Answer:** A push or a pull. *Why:* A force is a push or a pull. How fast something goes is its speed.
 5. (mcq) Which flick sends a bottle cap furthest?  
-   Options: A hard flick / A gentle flick / No flick  
+   Options: A gentle flick / A hard flick / No flick  
    **Answer:** A hard flick. *Why:* A bigger push makes a bigger change, so a hard flick makes the cap faster and it goes further.
 6. (mcq) Why does a rolling ball slow down and stop on the floor?  
-   Options: The floor and the air push against it / Nothing pushes it. It just stops / It runs out of roll  
+   Options: Nothing pushes it. It just stops / It runs out of roll / The floor and the air push against it  
    **Answer:** The floor and the air push against it. *Why:* The floor rubs against the ball and the air pushes on it. These small pushes against its movement slow it down.
 7. (mcq) You open a drawer by its handle, and it slides towards you. What started it moving?  
-   Options: A pull / A push from behind / No force at all  
+   Options: A push from behind / No force at all / A pull  
    **Answer:** A pull. *Why:* A force is a push or a pull. Pulling the handle makes the drawer start to move.
 8. (mcq) You are on a swing and want it to go slower. What can you do?  
-   Options: Drag your feet on the ground / Ask for a push from behind / Lean forward hard  
+   Options: Ask for a push from behind / Lean forward hard / Drag your feet on the ground  
    **Answer:** Drag your feet on the ground. *Why:* Your feet on the ground push against the swing's movement, so it slows down.
 9. (mcq) You guess that a tap from the front will make a ball go faster. You test it, and the ball slows down. What should you say?  
-   Options: My guess was wrong. A tap from the front slows it down. / The test was wrong. / I will still say it goes faster.  
+   Options: The test was wrong. / My guess was wrong. A tap from the front slows it down. / I will still say it goes faster.  
    **Answer:** My guess was wrong. A tap from the front slows it down.. *Why:* A good scientist trusts what the test shows, and changes their idea. A wrong guess is how we learn.
 10. (mcq) In the story Ammu Stops the Boat, Ammu wants to stop her boat. Which way should she push her oar?  
    Options: Forward, towards the front of the boat / Backward, like when rowing fast / She should not use the oar  

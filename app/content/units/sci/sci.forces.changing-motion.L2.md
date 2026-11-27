@@ -536,7 +536,7 @@ Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long t
 2. (write) A marble is running round inside the rim of a steel plate. Suppose the rim had a gap cut in it halfway round. What would the marble do when it reached the gap? Why?  
    **Answer:** It would roll out through the gap in a straight line, because the rim stops pushing it there.. *Why:* A strong answer uses the Bend Wall result: where the wall or rim ends, the push ends, and the marble goes straight on.
 3. (mcq) A girl swings a sock tied on a string round and round, then lets go of the string. Which way does the sock fly?  
-   Options: Straight off, the way it was going at that moment / Round in a circle, as before / Straight back to her hand  
+   Options: Round in a circle, as before / Straight back to her hand / Straight off, the way it was going at that moment  
    **Answer:** Straight off, the way it was going at that moment. *Why:* The string was pulling the sock inwards to make it go round. When she lets go, nothing pulls it, so it flies off straight, like the marble leaving the wall.
 4. (draw) Design a marble track that makes a marble turn two corners. Draw the walls and the marble's path.  
    **Answer:** Two curved or slanted walls, with the path bending at each wall and going straight between them.. *Why:* A strong design puts a wall wherever the path must turn, and shows straight paths between the walls.
@@ -549,7 +549,7 @@ Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long t
 8. (write) Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this lesson shows what really happens? What does it show?  
    **Answer:** The Bend Wall test. When the wall ended, the marble went straight on. It does not keep curving.. *Why:* A strong answer names the test and the evidence, and says that the ball goes straight once nothing pushes it sideways.
 9. (mcq) Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?  
-   Options: Only speeding up / Speeding up and slowing down, but not turning / All three  
+   Options: Only speeding up / All three / Speeding up and slowing down, but not turning  
    **Answer:** All three. *Why:* Speeding up, slowing down and turning are all changes in how a thing moves. Every change needs a push or a pull.
 10. (label) On each picture, draw an arrow where the push is: a hand squeezing a lemon, a rolling pin flattening dough, a wall turning a ball.  
    **Answer:** ['arrow from the fingers into the lemon', 'arrow from the rolling pin down into the dough', 'arrow from the wall into the ball, pointing away from the wall']. *Why:* A strong answer shows each push going from the thing that pushes into the thing that changes.
@@ -567,30 +567,30 @@ Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long t
    Options: Its shape / Its colour / Nothing  
    **Answer:** Its shape. *Why:* Your hands squashed the foil, so its shape changed.
 3. (mcq) Which of these goes back to its old shape when you let go?  
-   Options: A stretched rubber band / Crumpled foil / Dough pressed flat  
+   Options: Crumpled foil / Dough pressed flat / A stretched rubber band  
    **Answer:** A stretched rubber band. *Why:* A rubber band springs back. Foil and dough keep their new shape.
 4. (mcq) The same ball is let go on a ramp on 1 book and on a ramp on 3 books. Which rolls further?  
-   Options: The ball from 3 books / The ball from 1 book / Both the same  
+   Options: The ball from 1 book / Both the same / The ball from 3 books  
    **Answer:** The ball from 3 books. *Why:* The steeper ramp lets gravity speed the ball up more, so it rolls further.
 5. (mcq) A ball rolls off the ramp onto a rug and slows down. What slows it?  
    Options: The rug rubbing against it (friction) / Gravity pushing it up / Nothing  
    **Answer:** The rug rubbing against it (friction). *Why:* The rug rubs against the ball. This rubbing is called friction, and it slows the ball down.
 6. (mcq) A ball is rolling across the floor. You push it gently from its side. What happens?  
-   Options: It turns / It goes faster in the same direction / It changes shape  
+   Options: It goes faster in the same direction / It turns / It changes shape  
    **Answer:** It turns. *Why:* A push from the side changes the ball's direction.
 7. (mcq) You roll a ball straight at a wall. What does it do after it hits?  
-   Options: It comes back towards you / It goes through the wall / It goes off to the side  
+   Options: It goes through the wall / It goes off to the side / It comes back towards you  
    **Answer:** It comes back towards you. *Why:* The wall pushes the ball back the way it came.
 8. (mcq) A marble rolls round the inside of the rim of a steel plate. What keeps it going round?  
-   Options: The rim pushes it inwards all the time / The marble likes going round / The plate is heavy  
+   Options: The marble likes going round / The plate is heavy / The rim pushes it inwards all the time  
    **Answer:** The rim pushes it inwards all the time. *Why:* The rim pushes the marble inwards at every moment. That push bends its path into a circle.
 9. (mcq) In the Bend Wall test, you held a finger on the outside of the wall. What did your finger feel?  
-   Options: The marble knocking against the wall / The wall pulling the marble / Nothing at all  
+   Options: The wall pulling the marble / Nothing at all / The marble knocking against the wall  
    **Answer:** The marble knocking against the wall. *Why:* The wall pushes the marble sideways, and the marble pushes back on the wall, so a finger on the wall feels a small knock.
 10. (truefalse) True or false: a bus going round a corner at the same speed needs no force.  
    **Answer:** False. *Why:* False. The bus changes direction, and that needs a force. The road pushes on its turned wheels.
 11. (mcq) In the Bend Wall test, you guessed the marble would keep curving. It went straight. What is the best thing to do?  
-   Options: Write down what really happened, and think about why / Change your guess in the table so it looks right / Stop doing the test  
+   Options: Change your guess in the table so it looks right / Write down what really happened, and think about why / Stop doing the test  
    **Answer:** Write down what really happened, and think about why. *Why:* A wrong guess is useful. Writing what really happened, and thinking about why, is how scientists learn.
 
 ## Applications

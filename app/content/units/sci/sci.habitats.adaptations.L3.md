@@ -590,7 +590,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: A fish / A camel / A penguin / A duck  
    **Answer:** A camel. *Why:* A camel's body saves water and copes with heat, so they can live in a desert.
 2. (mcq) Which animal is best suited to icy Ladakh?  
-   Options: A snow leopard / A frog / A camel / A mudskipper  
+   Options: A frog / A camel / A snow leopard / A mudskipper  
    **Answer:** A snow leopard. *Why:* A snow leopard has thick fur, a long thick tail and small ears, which keep them warm in the snow.
 3. (write) Think of a cold night at home. Name two things you do to keep warm. For each one, name an animal that keeps warm in a similar way.  
    **Answer:** For example: I curl up under a blanket, like a dog curling into a ball. I wear a woollen sweater, like a yak's thick coat, because both trap still air.. *Why:* A good answer links each thing to an animal's adaptation and says how it keeps heat in.
@@ -609,7 +609,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 10. (sort) Sort these features. Do they help with heat or with cold?  
    **Answer:** big ears → Helps in heat; thick fur → Helps in cold; hiding in a burrow at noon → Helps in heat; blubber → Helps in cold; small ears → Helps in cold; huddling → Helps in cold. *Why:* Big ears, burrows and a waxy coat help with heat and dryness. Fur, blubber, small ears and huddling help keep warmth in.
 11. (mcq) Why does a cactus have spines instead of flat leaves?  
-   Options: Flat leaves would lose too much water in the dry air / Spines make them grow faster / Spines help them swim  
+   Options: Spines make them grow faster / Spines help them swim / Flat leaves would lose too much water in the dry air  
    **Answer:** Flat leaves would lose too much water in the dry air. *Why:* Flat leaves have a big surface, and water escapes through it. Spines lose very little water, and also protect the cactus from thirsty animals.
 12. (mcq) Why do emperor penguins huddle together?  
    Options: To play / So that less of each body faces the icy wind, and they keep warm / To hide their food  
@@ -625,19 +625,19 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 1. (order) Put the steps of the three wet leaves experiment in order.  
    **Answer:** ['Wet three towels the same way', 'Shape them: flat, rolled and covered', 'Put them side by side under the fan', 'Do the touch test every 15 minutes', 'Unroll and uncover them, and compare']. *Why:* First make the towels equal, then change only one thing, then check them all at the same times.
 2. (mcq) In the three wet leaves test, why must all three towels go under the same fan?  
-   Options: So they look nice together / So that only the shape and covering change, and the test is fair / So the fan dries them faster  
+   Options: So that only the shape and covering change, and the test is fair / So they look nice together / So the fan dries them faster  
    **Answer:** So that only the shape and covering change, and the test is fair. *Why:* If one towel had more wind, we could not tell whether its shape or the wind made it dry faster. A fair test changes only one thing.
 3. (mcq) One spinach leaf is coated with petroleum jelly and another is left plain. After 4 hours the plain leaf is floppy, but the coated leaf is still firm. What does this show?  
    Options: Petroleum jelly is plant food / A coat on the surface slows down the water escaping from a leaf / Spinach does not need water  
    **Answer:** A coat on the surface slows down the water escaping from a leaf. *Why:* The jelly covered the leaf's surface and its tiny holes, so the coated leaf kept its water and stayed firm. Desert plants have a thick waxy coat that does the same.
 4. (mcq) A camel's body warms up by about 6 degrees on a hot day, and cools down at night. How does this help them?  
-   Options: They save the water they would use up sweating to stay cool / It helps them run faster / It keeps them awake  
+   Options: It helps them run faster / It keeps them awake / They save the water they would use up sweating to stay cool  
    **Answer:** They save the water they would use up sweating to stay cool. *Why:* Sweating cools a body but uses up water. By letting their body warm up, the camel sweats much less, and the night air cools them down again for free.
 5. (mcq) An Arctic fox has small ears. A fennec fox in the desert has huge ears. Why the difference?  
-   Options: Small ears lose less heat in the cold, and big ears get rid of heat in the desert / The desert fox needs to hear better / Arctic foxes are younger  
+   Options: The desert fox needs to hear better / Small ears lose less heat in the cold, and big ears get rid of heat in the desert / Arctic foxes are younger  
    **Answer:** Small ears lose less heat in the cold, and big ears get rid of heat in the desert. *Why:* Heat escapes from the blood through the thin skin of the ears. In the cold, small ears keep warmth in. In the heat, big ears help the fox cool down.
 6. (mcq) Why do some mangrove trees push salt out through their leaves?  
-   Options: Because they grow in salty sea water, and too much salt would harm them / To make the leaves taste good / To attract birds  
+   Options: To make the leaves taste good / Because they grow in salty sea water, and too much salt would harm them / To attract birds  
    **Answer:** Because they grow in salty sea water, and too much salt would harm them. *Why:* Mangroves grow where the sea comes in every day. Some keep salt out at their roots, and others, like the grey mangrove, push the extra salt out through their leaves.
 7. (write) The slender loris is awake at night and has huge eyes. Explain how the big eyes help, starting with the loris's problem.  
    **Answer:** The forest is dark at night, so little light reaches the loris. Big eyes collect as much light as possible, so the loris can see insects in the dark.. *Why:* A full answer gives the problem first, then the feature, then how it helps.
@@ -662,7 +662,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: Their thick coat holds in so much heat that they would overheat / There is no grass in Tamil Nadu / Yaks are afraid of people  
    **Answer:** Their thick coat holds in so much heat that they would overheat. *Why:* An adaptation that helps in one place can be a problem in another. The coat that keeps a yak warm in Ladakh would make them dangerously hot in a Tamil Nadu summer.
 2. (mcq) A shark is a fish and a dolphin is a mammal. Why do they have such similar shapes?  
-   Options: They are close cousins / Both must swim fast in water, and that problem led to the same shape / Dolphins copied sharks  
+   Options: They are close cousins / Dolphins copied sharks / Both must swim fast in water, and that problem led to the same shape  
    **Answer:** Both must swim fast in water, and that problem led to the same shape. *Why:* Unrelated living things in similar places often end up with similar shapes. Scientists call this convergent evolution.
 3. (perspective) A school in Chennai wants to plant something in its sunny yard.  
    **Answer:** A strong answer picks a side and uses the idea that every adaptation has a cost: a cactus saves water but gives no shade and grows slowly, while a neem tree needs more water. It then admits a fair point from another view.. *Why:* There is a real trade-off. Saving water and giving shade pull in different directions, so the best choice depends on how much water the school has.
@@ -672,7 +672,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 5. (truefalse) Before a wood frog freezes in winter, sugar floods their body and protects the inside of their cells.  
    **Answer:** True. *Why:* True. The frog's liver floods their body with sugar, which keeps the inside of their cells from freezing and breaking.
 6. (mcq) Why might a cactus grow slowly?  
-   Options: Opening their tiny leaf holes only at night lets in less air for making food / They have too much water / They are always cold  
+   Options: They have too much water / Opening their tiny leaf holes only at night lets in less air for making food / They are always cold  
    **Answer:** Opening their tiny leaf holes only at night lets in less air for making food. *Why:* Saving water has a cost. With their stomata closed by day, a cactus takes in less air, and they need air to make food.
 7. (truefalse) A plant that is completely covered in plastic would save water, but could not take in the air it needs to make food.  
    **Answer:** True. *Why:* True. Leaves need air coming in through their tiny holes to make food. A real leaf must balance saving water with letting air in.
@@ -700,22 +700,22 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 
 ## Quiz
 1. (mcq) What is an adaptation?  
-   Options: Any change in the weather / A feature of body or behaviour that helps a living thing live in their habitat / A kind of habitat / Something a living thing buys  
+   Options: Any change in the weather / A kind of habitat / Something a living thing buys / A feature of body or behaviour that helps a living thing live in their habitat  
    **Answer:** A feature of body or behaviour that helps a living thing live in their habitat. *Why:* An adaptation is a feature, like a camel's padded feet, or a way of behaving, like a lizard hiding at noon, that helps a living thing live and have young in their habitat.
 2. (mcq) A person moves from Bengaluru to hot Chennai. After two weeks they start to sweat sooner on hot days. What is this called?  
-   Options: An adaptation passed on to their children / Acclimatising: their body getting used to a new place in their own life / Hibernation / Echolocation  
+   Options: Acclimatising: their body getting used to a new place in their own life / An adaptation passed on to their children / Hibernation / Echolocation  
    **Answer:** Acclimatising: their body getting used to a new place in their own life. *Why:* Changes that happen in your own life, as your body gets used to a place, are called acclimatising. They are not passed on to your children. Picking 'an adaptation passed on' mixes up the two.
 3. (mcq) Three paper towels are wetted the same way. One is left flat, one is rolled up tight, and one is covered with plastic. Which one dries first?  
-   Options: The flat one / The rolled one / The covered one / They all dry at the same time  
+   Options: The rolled one / The flat one / The covered one / They all dry at the same time  
    **Answer:** The flat one. *Why:* Water escapes only where the towel touches the air. The flat towel has all of its surface open to the air, so its water escapes fastest. Rolling hides most of the surface, and the plastic covers it.
 4. (mcq) Why is a cactus fat and round, with no flat leaves?  
    Options: So that they look pretty / So that little of their body touches the dry air, and they lose water slowly / So that they can grow fast / So that birds can sit on them  
    **Answer:** So that little of their body touches the dry air, and they lose water slowly. *Why:* A fat, round stem holds a lot of water with little surface. Like the rolled towel, it loses water slowly. Big flat leaves would lose water fast in the desert.
 5. (mcq) What is inside a camel's hump?  
-   Options: Water / Mostly fat / Air / Sand  
+   Options: Mostly fat / Water / Air / Sand  
    **Answer:** Mostly fat. *Why:* The hump is mostly fat. A camel saves water by losing very little of it, for example by letting their body warm up during the day instead of sweating. Picking 'water' is a very common idea, but Bodil and Knut Schmidt-Nielsen showed it is wrong.
 6. (mcq) A fennec fox lives in the hot Sahara Desert. They have very big ears. How do big ears help them?  
-   Options: They help them hear the rain / Heat leaves their blood through the thin skin of their ears, which cools them down / They keep sand out / They store water  
+   Options: They help them hear the rain / They keep sand out / Heat leaves their blood through the thin skin of their ears, which cools them down / They store water  
    **Answer:** Heat leaves their blood through the thin skin of their ears, which cools them down. *Why:* Blood flows close to the skin in the big, thin ears, and heat escapes from it into the air. That cools the fox. An Arctic fox, which lives in the cold, has small ears that lose little heat.
 7. (mcq) A snow leopard lives in the snowy mountains of Ladakh. Which of these helps them most to keep warm?  
    Options: Big thin ears / Thick fur that traps still air / A waxy coat / Webbed feet  
@@ -727,13 +727,13 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
    Options: They stay out of the water / They spread oil from a gland near their tail over their feathers / Their feathers are made of plastic / They shake themselves dry all day  
    **Answer:** They spread oil from a gland near their tail over their feathers. *Why:* A duck rubs oil from their preen gland over their feathers with their beak. Water then runs off in drops instead of soaking in.
 10. (mcq) Some mangrove trees grow in salty mud on the coast. Why do they have roots that stick up out of the mud?  
-   Options: To catch fish / Because the mud under water has very little air, and these roots take in air / To hold salt / To climb out  
+   Options: To catch fish / To hold salt / Because the mud under water has very little air, and these roots take in air / To climb out  
    **Answer:** Because the mud under water has very little air, and these roots take in air. *Why:* Wet mud has very little air in it. Roots that poke up out of the mud can take in air, so the tree's roots get what they need.
 11. (mcq) A cat's eyes shine in a torch beam at night. Why?  
-   Options: Cats' eyes make their own light / A shiny layer at the back of the eye reflects the light back / The torch is broken / Cats are scared  
+   Options: Cats' eyes make their own light / The torch is broken / Cats are scared / A shiny layer at the back of the eye reflects the light back  
    **Answer:** A shiny layer at the back of the eye reflects the light back. *Why:* Many night animals have a shiny layer at the back of the eye. It reflects light back through the eye, which helps them see in dim light. It does not make light.
 12. (mcq) Some fish live in dark caves and have no eyes. How do they find their food?  
-   Options: They wait for sunlight / They use their lateral line, which feels the water move, and many taste buds / They use their eyes / They never eat  
+   Options: They wait for sunlight / They use their eyes / They never eat / They use their lateral line, which feels the water move, and many taste buds  
    **Answer:** They use their lateral line, which feels the water move, and many taste buds. *Why:* Cave fish feel the water moving with their lateral line, and find food by taste and touch. In total darkness, eyes cannot help them.
 
 ## Applications

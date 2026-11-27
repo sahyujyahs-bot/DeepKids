@@ -493,21 +493,21 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 ## Worksheets
 ### Signals, Delays and Tired Senses (core) (core, 16 questions)
 1. (mcq) A harder press on your skin makes a touch nerve do what?  
-   Options: Send bigger pulses / Send more pulses each second / Send pulses that travel faster / Send a different kind of pulse  
+   Options: Send bigger pulses / Send pulses that travel faster / Send more pulses each second / Send a different kind of pulse  
    **Answer:** Send more pulses each second. *Why:* All nerve pulses are the same size. A stronger stimulus makes more of them each second. Picking 'bigger pulses' is a common idea, because we imagine a signal like a loud sound, but a pulse is either there or not there.
 2. (fill) The smallest amount of a stimulus that a sense can notice is called the ____.  
    **Answer:** ['threshold']. *Why:* A threshold is the faintest amount that a sense can pick up. Anything below it goes unnoticed.
 3. (truefalse) Light travels so fast that you can catch a dropped ruler with no delay inside your body. True or false?  
    **Answer:** False. *Why:* False. The light reaches your eye almost at once, but the signal has to travel to the brain, a decision has to be made, and a signal has to travel to your hand. That takes about a fifth of a second.
 4. (mcq) Which steps are part of your reaction time when you catch a falling ruler?  
-   Options: Only the time the ruler takes to fall / The signal going to the brain, a decision, and the signal going out to the hand / Only the time your hand takes to close / Only the time light takes to reach your eye  
+   Options: The signal going to the brain, a decision, and the signal going out to the hand / Only the time the ruler takes to fall / Only the time your hand takes to close / Only the time light takes to reach your eye  
    **Answer:** The signal going to the brain, a decision, and the signal going out to the hand. *Why:* Your reaction time is the whole chain from the stimulus to the movement. A child who picks 'only the hand' forgets the signal travelling in and the deciding.
 5. (order) Put the steps of catching a falling ruler in order: fingers close, signal travels down the arm, eye notices the ruler move, brain decides to catch, signal reaches the brain.  
    **Answer:** order shown. *Why:* The eye notices first. The signal goes to the brain, which decides. Then a new signal goes out along the arm to the muscles, and the fingers close. Every step takes time.
 6. (match) Match each kind of nerve thread to the job it does.  
    **Answer:** Wrapped thread, about 100 metres each second → Telling the brain where your muscles are; Wrapped thread, about 50 metres each second → Touch; Medium thread, about 15 metres each second → Sharp pain; Thin unwrapped thread, about 1 metre each second → Slow, dull pain. *Why:* Jobs that need an answer fast, like keeping your balance, use fast wrapped threads. Slow, aching pain uses thin unwrapped ones.
 7. (mcq) After you stub your toe, a sharp pain comes first and a deep ache comes a moment later. What is the best reason?  
-   Options: Two kinds of nerve thread carry the pain at different speeds / The toe hurts twice because it is hit twice / The brain has to think about the ache first / The ache is made in the toe, and the sharp pain is made in the head  
+   Options: The toe hurts twice because it is hit twice / The brain has to think about the ache first / Two kinds of nerve thread carry the pain at different speeds / The ache is made in the toe, and the sharp pain is made in the head  
    **Answer:** Two kinds of nerve thread carry the pain at different speeds. *Why:* Fast threads bring the sharp pain and slow threads bring the ache. Both reach the brain, but at different times. Picking 'hit twice' ignores that the threads have different speeds.
 8. (fill) When a smell stays the same for a long time, the smell receptors ____ and send fewer pulses.  
    **Answer:** ['adapt']. *Why:* Adaptation is when a sense reports a steady stimulus less and less. The nose still gets the smell, but the signal fades.
@@ -517,12 +517,12 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 10. (truefalse) The brain has pain nerves, so brain surgery on an awake patient must hurt a great deal. True or false?  
    **Answer:** False. *Why:* False. The brain tissue itself has no pain receptors. Surgeons can work on an awake patient with only the scalp numbed. Pain is made by the brain, but it is not felt in the brain tissue.
 11. (mcq) On the brain's body map, the lips and fingertips take up a very large patch. Why?  
-   Options: They have very many receptors / They are the strongest parts of the body / They are closest to the brain / They are the oldest parts of the body  
+   Options: They are the strongest parts of the body / They are closest to the brain / They are the oldest parts of the body / They have very many receptors  
    **Answer:** They have very many receptors. *Why:* The brain gives more room to parts that send more detailed signals. Lips and fingertips are packed with receptors. The size of a patch depends on how much detail the part sends, not on its strength or its distance from the brain.
 12. (sort) Sort these into things that fade from notice if they stay the same, and things that do not fade much.  
    **Answer:** a watch on your wrist → Fades from notice; the hum of a ceiling fan → Fades from notice; the smell of frying onions in your own kitchen → Fades from notice; the pain of a thorn in your foot → Does not fade much; a toothache → Does not fade much; the feel of clothes on your shoulders → Fades from notice. *Why:* Touch, sound and smell adapt, so steady ones fade. Pain adapts much less, because a warning that faded while you were still being hurt would be dangerous.
 13. (mcq) Why can you not tickle yourself?  
-   Options: Your brain predicts your own touch from your movement and turns the feeling down / Your skin is less sensitive to your own fingers / Tickling only works on feet / You get used to it too fast  
+   Options: Your skin is less sensitive to your own fingers / Your brain predicts your own touch from your movement and turns the feeling down / Tickling only works on feet / You get used to it too fast  
    **Answer:** Your brain predicts your own touch from your movement and turns the feeling down. *Why:* When you move your own finger, your brain knows what touch to expect. It turns down that expected signal. A touch you did not make cannot be predicted, so it stays strong.
 14. (write) A friend says: 'My eyes show me the world exactly as it is, right now.' Write two reasons from the science of the senses for why this is not quite true.  
    **Answer:** Signals take time to travel from the eyes to the brain and to be sorted, so what we see is a fraction of a second old. The brain also guesses and fills in parts of the picture, so what we see is built by the brain, not copied from the world.. *Why:* A strong answer gives at least two reasons, such as the delay in signals, the brain's predictions or the filling in of gaps. The best answers say that the experience is still very useful.
@@ -535,7 +535,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    Options: 10 grams / 50 grams / 100 grams / 500 grams  
    **Answer:** 50 grams. *Why:* 10 out of 100 is the fraction. The same fraction of 500 grams is 50 grams. Picking 10 grams expects the extra to stay the same, which is not how the sense works.
 2. (mcq) Why is it harder to hear a whisper in a noisy market than in a quiet library?  
-   Options: The noise raises the amount of extra sound you need to notice anything new / Whispers are quieter in markets / Your ears get tired in a market / Sound cannot travel through crowds  
+   Options: Whispers are quieter in markets / Your ears get tired in a market / Sound cannot travel through crowds / The noise raises the amount of extra sound you need to notice anything new  
    **Answer:** The noise raises the amount of extra sound you need to notice anything new. *Why:* A whisper is a small change on top of the noise. Because the change you can notice is a fraction of what is already there, the noise hides it.
 3. (fill) A stronger touch makes a nerve send more ____ each second, not bigger ones.  
    **Answer:** ['pulses']. *Why:* The strength of a stimulus is coded in the number of pulses each second.
@@ -545,7 +545,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    Options: 0.1 seconds / 1 second / 10 seconds / 0.01 seconds  
    **Answer:** 0.1 seconds. *Why:* Time is distance divided by speed. 1.5 divided by 15 is 0.1. A child who picks 1 second has used the speed of the slow thread.
 6. (mcq) A sprinter starts 0.08 seconds after the gun. Why is that counted as a false start?  
-   Options: Reaction times that fast are not possible, so the runner must have guessed the gun / The sprinter was too slow / The sound of the gun was not loud enough / Sprinters must wait for a flash, not a sound  
+   Options: The sprinter was too slow / Reaction times that fast are not possible, so the runner must have guessed the gun / The sound of the gun was not loud enough / Sprinters must wait for a flash, not a sound  
    **Answer:** Reaction times that fast are not possible, so the runner must have guessed the gun. *Why:* The signal has to go from the ear to the brain and back to the legs, and that takes more than a tenth of a second. A faster start means the runner did not wait for the sound.
 7. (sort) Sort each story by the idea that explains it.  
    **Answer:** You stop feeling your watch after a few minutes → Adapting receptors; You cannot see a candle's light in bright sunshine → Too small a change; You cannot tickle yourself → The brain guesses; The smell of mustard oil fades in your own kitchen → Adapting receptors; You stumble on a step that is not there → The brain guesses; An extra 20 grams on a 2 kilogram sack is not felt → Too small a change. *Why:* A steady thing that fades is adaptation. A change that is too small next to what is already there is 'too small a change'. Something that the brain expected is 'the brain guesses'.
@@ -554,12 +554,12 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 9. (match) Match each animal to a sense that humans lack.  
    **Answer:** Shark → Sensing weak electric fields; European robin → Sensing the Earth's magnetic field; Pit viper → Sensing heat from warm prey; Bumblebee → Sensing the electric field around a flower. *Why:* Each animal has receptors for something that we have no receptors for. Their senses are built for the life they live.
 10. (mcq) A person who lost a hand feels a touch on their cheek as a touch on their missing fingers. What is the best explanation?  
-   Options: The cheek patch and the hand patch lie side by side on the brain's body map, and signals from the cheek spread into the hand patch / The hand has grown back / The cheek has become part of the hand / The person is imagining it  
+   Options: The hand has grown back / The cheek has become part of the hand / The person is imagining it / The cheek patch and the hand patch lie side by side on the brain's body map, and signals from the cheek spread into the hand patch  
    **Answer:** The cheek patch and the hand patch lie side by side on the brain's body map, and signals from the cheek spread into the hand patch. *Why:* The brain's map is real and the hand's patch is still there. When it gets no signals, its neighbour can spread into it. The feeling is real. Picking 'imagining' misses that it can be tested.
 11. (write) A friend says pain is a direct measure of how damaged the body is. Give two pieces of evidence against this.  
    **Answer:** People with a phantom limb feel pain from a limb that is no longer there. A person born with a broken gene for a gate in the pain nerves feels no pain, even from broken bones. A paper cut can hurt more than a bigger bruise.. *Why:* Strong answers show that pain is made by the brain from danger signals and context. Evidence can include phantom limbs, people who feel no pain, and soldiers or players who notice a wound only later.
 12. (mcq) A mantis shrimp has 12 to 16 kinds of colour receptor, yet was no better than people at telling similar colours apart. What does this show?  
-   Options: More kinds of receptor do not automatically give finer colour vision / Mantis shrimps are colour blind / People have the most receptors of any animal / The tests were wrong  
+   Options: Mantis shrimps are colour blind / More kinds of receptor do not automatically give finer colour vision / People have the most receptors of any animal / The tests were wrong  
    **Answer:** More kinds of receptor do not automatically give finer colour vision. *Why:* Having many kinds of receptor is not the same as comparing colours finely. How the signals are used matters too. Picking 'colour blind' goes too far, because the shrimp can clearly sense colours.
 13. (truefalse) If a picture is held perfectly still on the retina, you see it more and more clearly. True or false?  
    **Answer:** False. *Why:* False. A picture held perfectly still on the retina fades within seconds. The tiny movements of the eyes keep the picture alive.
@@ -573,7 +573,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    **Answer:** I would catch a dropped ruler seven times while sitting quietly and seven times while talking. I would use the same ruler, the same hand and the same dropper, and change only whether I am talking. Then I would compare the middle values.. *Why:* A fair test changes one thing, here talking, and keeps the rest the same. Strong answers use repeated tries and a middle value.
 ### Numbers, Speeds and Big Questions (challenge) (challenge, 16 questions)
 1. (mcq) A touch signal at 50 metres each second and a slow pain signal at 1 metre each second both start in a toe 1.5 metres from the brain. About how much later does the pain signal arrive?  
-   Options: About 0.03 seconds later / About 1.5 seconds later / About 15 seconds later / At the same time  
+   Options: About 1.5 seconds later / About 0.03 seconds later / About 15 seconds later / At the same time  
    **Answer:** About 1.5 seconds later. *Why:* The touch signal takes about 0.03 seconds and the pain signal takes 1.5 seconds. The difference is about 1.5 seconds. Picking 'at the same time' forgets that the threads have different speeds.
 2. (mcq) A cyclist rides at 5 metres each second. Her reaction time is 0.2 seconds. How far does she go before she even starts to brake?  
    Options: 0.2 metres / 1 metre / 5 metres / 25 metres  
@@ -586,7 +586,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    Options: 5 grams / 20 grams / 40 grams / 400 grams  
    **Answer:** 40 grams. *Why:* 5 out of 50 is one tenth. One tenth of 400 grams is 40 grams. Picking 5 expects the same amount of change to work for any weight.
 6. (mcq) Why does the eye respond to ratios of brightness instead of fixed steps?  
-   Options: So it can work in dim starlight and in bright sunshine, a range of billions of times, without being dazzled / So all colours look the same / So the pupil never changes / So it can ignore moving things  
+   Options: So all colours look the same / So it can work in dim starlight and in bright sunshine, a range of billions of times, without being dazzled / So the pupil never changes / So it can ignore moving things  
    **Answer:** So it can work in dim starlight and in bright sunshine, a range of billions of times, without being dazzled. *Why:* A sense that responded to fixed steps would be dazzled in daylight or blind in starlight. Working in ratios squeezes a huge range into one that the nerves can handle.
 7. (fill) On the decibel scale, every step up of 10 means the sound energy is ____ times as much.  
    **Answer:** ['10', 'ten']. *Why:* Decibels use ratios, as our hearing does. A step up of 10 decibels means ten times the energy, yet it sounds only about twice as loud.
@@ -621,37 +621,37 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
    Options: A tiny wave of electricity that is always the same size / A small drop of liquid that carries light / A bigger spark for a stronger touch / A picture sent to the brain  
    **Answer:** A tiny wave of electricity that is always the same size. *Why:* All pulses are the same size. A stronger stimulus gives more of them each second. Picking 'a bigger spark' mixes up the size with the number.
 2. (mcq) A very bright light shines in your eye. What do the nerves from the eye do?  
-   Options: Send pulses faster / Send bigger pulses / Stop sending pulses / Send the light to the brain  
+   Options: Send bigger pulses / Send pulses faster / Stop sending pulses / Send the light to the brain  
    **Answer:** Send pulses faster. *Why:* A stronger stimulus makes more pulses each second. The light never reaches the brain. Only the pulses do.
 3. (mcq) When you catch a falling ruler, where is most of the delay between the ruler starting to fall and your fingers closing?  
-   Options: Inside your body: the signal going in, the decision and the signal going out / In the light travelling to your eye / In the ruler falling / In the table  
+   Options: In the light travelling to your eye / In the ruler falling / Inside your body: the signal going in, the decision and the signal going out / In the table  
    **Answer:** Inside your body: the signal going in, the decision and the signal going out. *Why:* Light takes almost no time. The delay is the time for signals to travel and for the brain to decide. Picking 'the light' mixes up what happens outside the body with what happens inside it.
 4. (mcq) In simple reaction tests, how do sight, hearing and touch usually compare?  
-   Options: Touch and hearing are usually slightly quicker than sight / Sight is always the quickest / All three are exactly the same / Sight is ten times quicker  
+   Options: Sight is always the quickest / Touch and hearing are usually slightly quicker than sight / All three are exactly the same / Sight is ten times quicker  
    **Answer:** Touch and hearing are usually slightly quicker than sight. *Why:* The eye does extra work before it sends its signal, so sight is usually a little slower. The differences are small, about a hundredth to a few hundredths of a second.
 5. (mcq) Which kind of nerve thread carries a signal fastest?  
-   Options: A thick one wrapped in myelin / A thin one with no wrapping / A short one / A cold one  
+   Options: A thin one with no wrapping / A thick one wrapped in myelin / A short one / A cold one  
    **Answer:** A thick one wrapped in myelin. *Why:* Myelin works like the plastic around a wire. Signals jump along wrapped threads and are much faster. Length and temperature matter less.
 6. (mcq) A hearing test finds the softest beep you can just hear. What is that level called?  
    Options: The threshold / The ratio / The adaptation / The reaction time  
    **Answer:** The threshold. *Why:* A threshold is the smallest amount of a stimulus that a sense can notice. A ratio is a comparison. Adaptation is fading. Reaction time is a delay.
 7. (mcq) Someone can just feel an extra 100 grams on a 1 kilogram weight. About how much extra do they need on a 3 kilogram weight, if the fraction is the same?  
-   Options: About 300 grams / About 100 grams / About 30 grams / About 3 kilograms  
+   Options: About 100 grams / About 30 grams / About 3 kilograms / About 300 grams  
    **Answer:** About 300 grams. *Why:* 100 grams out of 1000 is one tenth. One tenth of 3000 grams is 300 grams.
 8. (mcq) Why do you stop noticing a perfume that you wear all day?  
    Options: Your smell receptors adapt and send fewer pulses / The perfume wears off your skin / Your nose is too small / You grow tired of the shop  
    **Answer:** Your smell receptors adapt and send fewer pulses. *Why:* The perfume is still on your skin, but a steady smell fades. Other people, whose receptors are fresh, can still smell it.
 9. (mcq) If you drew the body as the brain's body map shows it, what would it look like?  
-   Options: Huge lips, hands and tongue and a tiny back / A body with equal parts / A big head and tiny arms / A tiny hand and huge legs  
+   Options: A body with equal parts / A big head and tiny arms / A tiny hand and huge legs / Huge lips, hands and tongue and a tiny back  
    **Answer:** Huge lips, hands and tongue and a tiny back. *Why:* Parts with many receptors get big patches on the brain's map. Lips, hands and the tongue are packed with them. The back has few.
 10. (mcq) A person who lost a hand feels itching in the missing fingers. Where is that feeling made?  
    Options: In the brain's patch for the hand / In the air where the hand used to be / In the shoulder only / Nowhere, it is not real  
    **Answer:** In the brain's patch for the hand. *Why:* The brain's patch for the hand is still active. The feeling is real as a feeling, and in people much of it is made in the brain.
 11. (mcq) You step down onto a stair that is lower than you expected, and you jolt. What happened?  
-   Options: Your brain predicted a stair at a different height / Your ears were tired / The stair moved / Your eyes shut  
+   Options: Your ears were tired / The stair moved / Your eyes shut / Your brain predicted a stair at a different height  
    **Answer:** Your brain predicted a stair at a different height. *Why:* The brain predicts what the foot will meet and prepares the leg. A surprise tells you the prediction was wrong.
 12. (mcq) Which animal can sense the weak electric fields of other animals?  
-   Options: A shark / A cow / A sparrow / A goat  
+   Options: A cow / A sparrow / A shark / A goat  
    **Answer:** A shark. *Why:* Sharks have jelly-filled pores on their snout that sense weak electric fields. The platypus does something similar. Many animals have senses we do not.
 
 ## Applications

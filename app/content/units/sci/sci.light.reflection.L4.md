@@ -580,7 +580,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 ## Worksheets
 ### Smooth, Rough and Mirrors (core) (core, 16 questions)
 1. (mcq) A white wall and a mirror both reflect light. Why do you see a clear picture of your face in the mirror but not in the wall?  
-   Options: The mirror is smooth and sends light back in order, but the wall scatters it in every direction / The mirror makes its own light / The wall takes in all the light / The wall is too big  
+   Options: The mirror makes its own light / The mirror is smooth and sends light back in order, but the wall scatters it in every direction / The wall takes in all the light / The wall is too big  
    **Answer:** The mirror is smooth and sends light back in order, but the wall scatters it in every direction. *Why:* Both bounce light. The mirror is smooth, so the rays leave together in order and your eye collects a picture. The wall is made of tiny bumps facing every way, so the rays leave in every direction. Picking 'the wall takes in all the light' is a common idea, but you can see the wall only because it reflects.
 2. (truefalse) A white wall reflects no light, which is why it shows no picture of you. True or false?  
    **Answer:** False. *Why:* False. You can see the wall only because it reflects light into your eyes. It reflects in every direction, so there is no single picture. A strong answer says the wall reflects but scatters.
@@ -591,14 +591,14 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 5. (sort) Sort these. Does the surface show a clear picture, or a blurry picture or none?  
    **Answer:** still water in a steel basin → Clear picture; a freshly scrubbed steel thali → Clear picture; the screen of a switched-off phone → Clear picture; a cotton shirt → Blurry picture or none; a clay matka → Blurry picture or none; a chalkboard → Blurry picture or none. *Why:* A clear picture needs a surface so smooth that its bumps are much smaller than a wavelength of light. Cloth, clay and chalk are rough, and scatter the light.
 6. (mcq) A shoeshine man polishes a dull black shoe, and it gleams. What did the polish do?  
-   Options: It filled and flattened the tiny bumps, so light reflects in order / It added light to the shoe / It made the shoe heavier / It made the shoe a darker colour  
+   Options: It added light to the shoe / It made the shoe heavier / It made the shoe a darker colour / It filled and flattened the tiny bumps, so light reflects in order  
    **Answer:** It filled and flattened the tiny bumps, so light reflects in order. *Why:* Polish fills the tiny dips and rubbing makes the top smooth. A smoother surface reflects in order and shows bright reflections. Picking 'it added light' mixes up shining with making light.
 7. (truefalse) A rough surface breaks the rule that light leaves at the same angle at which it arrived. True or false?  
    **Answer:** False. *Why:* False. The rule holds on every tiny flat patch of the surface. A rough surface is made of patches tilted every way, so the rays go in different directions. Nothing is broken.
 8. (write) Fog covers a bathroom mirror. Explain why you cannot see your face in it, even though the mirror is still there.  
    **Answer:** The fog is made of thousands of tiny drops of water. Each drop scatters light in a different direction. The smooth glass under the fog can no longer send light back in order, so no picture forms. When the fog clears, the picture returns.. *Why:* A strong answer says the drops scatter the light, and that the mirror itself has not changed.
 9. (mcq) Which tool uses two mirrors so that you can see over a wall?  
-   Options: A periscope / A magnifying glass / A pair of spectacles / A camera with a lens  
+   Options: A magnifying glass / A pair of spectacles / A periscope / A camera with a lens  
    **Answer:** A periscope. *Why:* A periscope has a mirror at each end of a tube. Light from the scene goes down the tube by two bounces to your eye.
 10. (order) Put these steps in order, to follow a ray of light through a periscope.  
    **Answer:** [0, 1, 2, 3]. *Why:* The ray turns twice, once at each mirror. Each mirror is tilted at 45 degrees, so each turns the ray through a right angle.
@@ -630,7 +630,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 6. (sort) Sort these. Does the mirror curve inward, like the inside of a spoon, or outward, like the back?  
    **Answer:** the inside of a spoon → Curves inward (concave); a solar cooker dish → Curves inward (concave); the mirror behind a torch bulb → Curves inward (concave); a shop's corner mirror → Curves outward (convex); a car's side mirror → Curves outward (convex); the back of a katori → Curves outward (convex). *Why:* Inward curves gather light to a focus. Outward curves spread it out, and show a wide view.
 7. (mcq) The biggest telescopes use a curved mirror and not a big glass lens. What is the best reason?  
-   Options: A mirror bounces all colours at the same angle, so there are no coloured fringes / A mirror is lighter than a lens / A mirror makes its own light / A mirror makes stars brighter  
+   Options: A mirror is lighter than a lens / A mirror makes its own light / A mirror makes stars brighter / A mirror bounces all colours at the same angle, so there are no coloured fringes  
    **Answer:** A mirror bounces all colours at the same angle, so there are no coloured fringes. *Why:* Glass bends different colours by different amounts, so a lens gives coloured fringes. A mirror reflects every colour alike. A big mirror is also easier to hold up and support from behind. Picking 'a mirror makes stars brighter' is wrong. It only gathers more of their light.
 8. (truefalse) Two mirrors set at a right angle send a beam back parallel to its path in, whatever angle it came in at. True or false?  
    **Answer:** True. *Why:* True. The first mirror turns the beam by some angle. The second mirror turns it by the same angle again, but the other way round. So the beam leaves parallel to the way it came in. A single mirror cannot do this for every angle.
@@ -639,7 +639,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 10. (write) Using the words bumps and wavelength, explain why a polished steel plate shows a clear picture but a scratched one shows a hazy picture.  
    **Answer:** Light is a wave about half a thousandth of a millimetre long. A polished plate has bumps much smaller than that, so the light meets a flat surface and reflects in order. A scratched plate has bigger bumps and scratches facing every way, so some of the light scatters, and the picture is hazy.. *Why:* A strong answer connects the size of the bumps to the size of the wavelength.
 11. (mcq) An optical fibre carries a flash of light round a bend inside a thin strand of glass. How does the light stay inside?  
-   Options: It bounces off the inside walls and does not escape / It is pushed by the glass / It goes through the walls and comes back / It turns into heat and then back into light  
+   Options: It is pushed by the glass / It goes through the walls and comes back / It turns into heat and then back into light / It bounces off the inside walls and does not escape  
    **Answer:** It bounces off the inside walls and does not escape. *Why:* When light hits the glass wall at a shallow angle from the inside, all of it is reflected back in. It zigzags down the strand. This is called total internal reflection.
 12. (draw) Draw two mirrors at a right angle, a ray coming in and the ray going out. Show that the outgoing ray is parallel to the incoming ray.  
    **Answer:** Two lines at a right angle, like the corner of a box, with the shiny sides facing in. A ray comes in, hits one mirror, then the other, and leaves going back parallel to the way it came in, with arrows drawn on each.. *Why:* A strong drawing shows two bounces and an outgoing ray that is parallel to the incoming ray.
@@ -657,7 +657,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
    **Answer:** False. *Why:* False. Reflecting sunlight might cool the Earth a little, but the carbon dioxide would still be in the air. This is one reason many scientists say we should cut the gases first.
 ### Reflecting on Reflection (challenge) (challenge, 16 questions)
 1. (mcq) A sheet of white paper looks equally bright from every side of a room. What is the best reason?  
-   Options: It scatters light in every direction / It makes its own light / It is a mirror / It takes in the light  
+   Options: It makes its own light / It is a mirror / It takes in the light / It scatters light in every direction  
    **Answer:** It scatters light in every direction. *Why:* The fibres in paper face every way, so light leaves in every direction. Wherever you stand, some reaches your eyes. A mirror would look bright from only one place.
 2. (truefalse) A convex mirror makes things look bigger than they really are. True or false?  
    **Answer:** False. *Why:* False. A convex mirror curves outward and shows a wide view, so each thing in it looks smaller. A concave mirror held close can make things look bigger.
@@ -670,14 +670,14 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 6. (write) Explain why a periscope shows the picture the right way round, although it uses two mirrors.  
    **Answer:** Each flat mirror reverses the picture once. The first mirror reverses it and the second reverses it back. The two reversals cancel each other, so the picture arrives upright and not reversed.. *Why:* A strong answer says each mirror reverses the picture once, and the two reversals cancel.
 7. (mcq) A cat's eyes glow green in a torch beam at night. What is the best reason?  
-   Options: A mirror layer behind the cat's retina sends light back out through the eye / The cat's eyes make their own light / The cat's eyes are made of glass / The torch beam heats the cat's eyes  
+   Options: The cat's eyes make their own light / The cat's eyes are made of glass / The torch beam heats the cat's eyes / A mirror layer behind the cat's retina sends light back out through the eye  
    **Answer:** A mirror layer behind the cat's retina sends light back out through the eye. *Why:* The mirror layer gives light a second chance to be caught by the eye, which helps a cat see in dim light. Some of it comes back out, and you see it as a glow. Picking 'the cat's eyes make their own light' mixes up reflecting with making light.
 8. (draw) Draw a concave mirror and three parallel rays coming in. Show where the rays go after they bounce.  
    **Answer:** A curved mirror with the hollow side facing the rays. Three parallel rays arrive. After bouncing, all three cross at one point in front of the mirror, called the focus.. *Why:* A strong drawing shows the rays meeting at one point, because each tiny patch of the curve tilts a little differently.
 9. (perspective) The Earth is warming. Some people suggest sending some sunlight back into space, for example with tiny shiny particles high in the air.  
    **Answer:** There is no single right answer. A strong answer gives a clear reason, such as caring about the monsoon, or wanting the facts, and admits that another view raises a good point.. *Why:* This question is about how to weigh a risk against a benefit. A strong answer considers who would be affected.
 10. (mcq) A beam travelling right meets a mirror leaning right, like a slash. It turns upward and then meets a mirror leaning left, like a backslash. Which way does it go after the second mirror?  
-   Options: Left / Right / Up / Down  
+   Options: Right / Up / Left / Down  
    **Answer:** Left. *Why:* A beam going up that meets a backslash turns to the left. Picture a ball flying up at a backslash. It is knocked off to the left. The first mirror turned the beam from right to up, and the second turns it from up to left.
 11. (order) Put these in order from the roughest surface to the smoothest.  
    **Answer:** [0, 1, 2, 3]. *Why:* Brick has big bumps, paper has small fibres, varnish fills most bumps and a mirror is smooth to a tiny fraction of a wavelength.
@@ -688,7 +688,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 14. (label) Here is a drawing of a periscope. Label the four parts: the top window, the top mirror, the lower mirror and the lower window.  
    **Answer:** ['top window: where the light from the scene comes in', 'top mirror: turns the light down the tube', 'lower mirror: turns the light toward the viewer', 'lower window: where the viewer looks']. *Why:* The windows are on opposite faces of the tube. The mirrors lean the same way, and their shiny sides face each other.
 15. (mcq) Why is it dangerous to use a curved shaving mirror to shine sunlight onto your hand?  
-   Options: The mirror gathers the sunlight into a spot hot enough to burn / The mirror makes new sunlight / The mirror spreads the light too thin / The mirror is too heavy  
+   Options: The mirror makes new sunlight / The mirror spreads the light too thin / The mirror is too heavy / The mirror gathers the sunlight into a spot hot enough to burn  
    **Answer:** The mirror gathers the sunlight into a spot hot enough to burn. *Why:* A concave mirror gathers light to a focus. The light there is packed tight and turns into heat when it lands on skin. It can burn, start a fire or harm eyes. Always use a torch for experiments, never sunlight.
 16. (truefalse) A reflective strip on a school bag looks very bright in daylight and dim in a car's headlights. True or false?  
    **Answer:** False. *Why:* False. A reflective strip sends light straight back to its source. It glows brightly when a headlight or torch shines on it, if you look from near the light. In ordinary daylight it looks plain, because the light comes from everywhere and not back toward your eyes.
@@ -700,22 +700,22 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 
 ## Quiz
 1. (mcq) A narrow beam of light lands on a mirror and on a sheet of white paper at the same angle. What is different about the light that leaves?  
-   Options: From the mirror it leaves in one direction, and from the paper it leaves in many directions / From the mirror it leaves in many directions, and from the paper in one direction / Both send it off in exactly the same direction / Neither sends any light back  
+   Options: From the mirror it leaves in many directions, and from the paper in one direction / From the mirror it leaves in one direction, and from the paper it leaves in many directions / Both send it off in exactly the same direction / Neither sends any light back  
    **Answer:** From the mirror it leaves in one direction, and from the paper it leaves in many directions. *Why:* A mirror is smooth, so all the rays leave together in one direction. Paper is rough, so the rays go off in many directions. Both reflect, which is why you can see the lit spot on the paper from anywhere.
 2. (mcq) The rule of reflection works on every tiny patch of a surface. So why does a rough surface still scatter the light?  
    Options: The tiny patches are tilted every way, so each ray leaves in its own direction / The rule stops working on rough surfaces / Rough surfaces take in all the light / Rough surfaces turn light into sound  
    **Answer:** The tiny patches are tilted every way, so each ray leaves in its own direction. *Why:* Each tiny patch follows the rule, but the patches face different ways. So the rays leave at different angles. Nothing is broken. Picking 'the rule stops working' is a common idea, but the rule holds on every patch.
 3. (mcq) Which treatment would make a dull piece of card show the clearest reflection of a lamp?  
-   Options: Covering it with smooth clear tape / Scratching it with sandpaper / Crumpling it / Painting it with matt paint  
+   Options: Scratching it with sandpaper / Crumpling it / Covering it with smooth clear tape / Painting it with matt paint  
    **Answer:** Covering it with smooth clear tape. *Why:* Clear tape lays a very flat skin over the bumps, so the surface is smooth. The other three make the bumps bigger or leave them as they are.
 4. (mcq) A calm lake shows the trees almost perfectly at sunrise, but shows them poorly at noon. What helps most at sunrise?  
-   Options: The Sun is low, so we see the water at a low angle, and calm water is smooth / The lake is deeper at sunrise / The lake is warmer at sunrise / The trees are taller at sunrise  
+   Options: The lake is deeper at sunrise / The lake is warmer at sunrise / The trees are taller at sunrise / The Sun is low, so we see the water at a low angle, and calm water is smooth  
    **Answer:** The Sun is low, so we see the water at a low angle, and calm water is smooth. *Why:* A low angle makes any surface reflect more in order, and calm water is smooth already. Together they make a clear picture. Seen from high above at noon, the same lake reflects less of the sky.
 5. (mcq) How many mirrors does a simple periscope have, and how are they set?  
-   Options: Two, each tilted at 45 degrees, with their shiny sides facing each other / One, tilted at 90 degrees / Three, each pointing at the viewer / Two, one flat on the floor and one on the ceiling  
+   Options: One, tilted at 90 degrees / Three, each pointing at the viewer / Two, one flat on the floor and one on the ceiling / Two, each tilted at 45 degrees, with their shiny sides facing each other  
    **Answer:** Two, each tilted at 45 degrees, with their shiny sides facing each other. *Why:* A mirror tilted at 45 degrees turns a ray through a right angle. Two of them, one at each end of a tube, turn the ray twice, so you can look over a wall.
 6. (mcq) A periscope with just one mirror, instead of two, would show what kind of picture?  
-   Options: Reversed, because one reversal is not cancelled / Upright, the same as with two mirrors / Upside down / Twice as bright  
+   Options: Upright, the same as with two mirrors / Upside down / Reversed, because one reversal is not cancelled / Twice as bright  
    **Answer:** Reversed, because one reversal is not cancelled. *Why:* Each flat mirror reverses the picture once. With two mirrors, the second reversal undoes the first. With one mirror, the reversal stays and the picture is reversed.
 7. (mcq) A cat's eye in the road and a bicycle reflector both glow in a car's headlights. What do they have in common?  
    Options: Both have tiny corner mirrors that send light straight back toward the light / Both make their own light / Both are made of the same metal / Both only work in daylight  

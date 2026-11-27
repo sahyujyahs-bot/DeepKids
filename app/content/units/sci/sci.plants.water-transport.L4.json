@@ -644,11 +644,11 @@
       "t": "mcq",
       "q": "Water goes toward the place that has the...",
       "options": [
-       "bigger pull number",
        "smaller pull number",
+       "bigger pull number",
        "more water in a glass"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A bigger pull number means water is held more tightly there. Water moves toward the place that holds it tighter. A glass with more water makes no difference."
      },
      "context": "This is the first step of the game. You get the cards and tokens ready and learn the one rule."
@@ -710,11 +710,11 @@
       "t": "mcq",
       "q": "A farmer says, 'My field is flooded with sea water, so my crop has plenty to drink.' What do the cards say?",
       "options": [
-       "Sea water holds its water tighter than a crop root does, so the crop cannot drink and wilts",
        "She is right, because the field is wet",
-       "Salt makes plants grow faster"
+       "Salt makes plants grow faster",
+       "Sea water holds its water tighter than a crop root does, so the crop cannot drink and wilts"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A flooded field is wet, but the sea water has a bigger pull number than the root. Water moves out of the root. Choosing 'she is right' means 'wet' and 'drinkable' were mixed up."
      },
      "context": "In this step, you finish the game and use what the cards taught to answer a question."
@@ -848,11 +848,11 @@
      "t": "mcq",
      "p": "Where do more than 95 of every 100 drops of water that enter a plant's roots end up?",
      "opts": [
-      "Used up to build the plant's body",
       "Let out into the air through the leaves as vapour",
+      "Used up to build the plant's body",
       "Kept in the stem"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Only 1 or 2 drops in every 100 are used to build the plant. Nearly all the rest travels through and leaves as vapour through the stomata.",
      "outcome": 3
     },
@@ -912,11 +912,11 @@
      "t": "mcq",
      "p": "After many years of watering from a canal, a farmer finds a white crust on the soil. Where did the crust most likely come from?",
      "opts": [
-      "Salt that was in the water and stayed when the water evaporated",
       "Chalk that rose from deep in the ground",
-      "Dust blown in by the wind"
+      "Dust blown in by the wind",
+      "Salt that was in the water and stayed when the water evaporated"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Canal and well water carries a little dissolved salt. When the water evaporates or goes up through plants, the salt stays behind and builds up. That is why white crusts form on salty fields.",
      "outcome": 1
     },
@@ -957,11 +957,11 @@
      "t": "mcq",
      "p": "On a hot, dry afternoon, what do the guard cells of a bean leaf do to save water?",
      "opts": [
-      "They lose their potassium and water, go flat, and shut the stomata",
       "They swell and open the stomata wider",
+      "They lose their potassium and water, go flat, and shut the stomata",
       "They make new water"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A plant in danger of drying out makes a chemical signal. It tells the guard cells to let go of potassium. Water follows out, they go flat, and the holes close.",
      "outcome": 4
     },
@@ -1152,11 +1152,11 @@
      "t": "mcq",
      "p": "An aphid pushes a tiny tube into a stem and sweet liquid oozes out. Which tubes did she tap?",
      "opts": [
-      "The phloem",
       "The xylem",
+      "The phloem",
       "The root hairs"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Phloem sap is sweet because it carries sugar made in the leaves. Xylem sap is mostly water with a few minerals.",
      "outcome": 6
     }
@@ -1172,11 +1172,11 @@
      "t": "mcq",
      "p": "When the soil dries, a plant makes the sap in her root cells thicker. What does that do?",
      "opts": [
-      "It raises her pull number, so she can still pull water from soil that holds it tightly",
       "It stops the leaves losing water",
-      "It makes the soil wetter"
+      "It makes the soil wetter",
+      "It raises her pull number, so she can still pull water from soil that holds it tightly"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Sugars and minerals make the sap hold water tighter. So the root can keep winning water from drier soil, up to a limit.",
      "outcome": 2
     },
@@ -1184,11 +1184,11 @@
      "t": "mcq",
      "p": "A bean root cell has a pull number of 1.2. The soil around it has a pull number of 1.5. What happens?",
      "opts": [
-      "Water leaves the root and goes into the soil, and the bean wilts",
       "Water goes into the root, and the bean grows",
-      "Nothing moves"
+      "Nothing moves",
+      "Water leaves the root and goes into the soil, and the bean wilts"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The soil's number is bigger, so water moves toward the soil. This is the wilting point. At this point a plant cannot recover without more water in the soil.",
      "outcome": 1
     },
@@ -1296,11 +1296,11 @@
      "t": "mcq",
      "p": "Why does the water in the tubes of a Rhizophora mangrove taste almost fresh?",
      "opts": [
-      "Her roots keep most of the salt out as the water goes in",
       "She has no salt in her body",
+      "Her roots keep most of the salt out as the water goes in",
       "The sea water around her is fresh"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Most Rhizophora mangroves block more than 90 of every 100 grains of salt at the root. The water that gets into the xylem is nearly fresh.",
      "outcome": 7
     },
@@ -1499,11 +1499,11 @@
       "t": "mcq",
       "q": "Why does cup A get plain water with no salt?",
       "options": [
-       "So we have something to compare the salty cups with",
        "Because plain water is the best water",
+       "So we have something to compare the salty cups with",
        "So there is one easy cup"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cup A shows what moong seeds do with no salt at all. Without it, we could not tell if salt changed anything. Choosing another answer means the idea of a comparison cup has not clicked yet. Ask what the other three would be compared with."
      },
      "context": "In this step, you make the four waters. They are the only thing that is different between the cups."
@@ -1621,11 +1621,11 @@
       "t": "mcq",
       "q": "In cup D, the seeds stayed in water but did not sprout. What is the best reason?",
       "options": [
-       "The salt water held its water tighter than the seeds did, so they could not drink",
        "Seeds only sprout in the dark",
+       "The salt water held its water tighter than the seeds did, so they could not drink",
        "The seeds in D were smaller"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A seed must pull water in before the seed can sprout. Salty water holds its water so tightly that a swollen seed cannot pull it in. If you chose another answer, ask what was the same in all four cups, and what was different."
      },
      "context": "In this last step, you use your numbers to say what happened, and why."
@@ -1746,11 +1746,11 @@
       "t": "mcq",
       "q": "Why do we float oil on top of the water?",
       "options": [
-       "So water can only leave through the leaves, not from the surface",
        "To make the leaves oily",
-       "To make the water warm"
+       "To make the water warm",
+       "So water can only leave through the leaves, not from the surface"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water would also evaporate from the open top of the bottle. Oil covers it, so any water that disappears must have gone up the stem and out of the leaves."
      },
      "context": "In this step, you fill the bottles. You mark the water level so you can see how much the sprigs drink."
@@ -1934,11 +1934,11 @@
       "t": "mcq",
       "q": "Why do we also keep a plate with nothing on it?",
       "options": [
-       "To see what cucumber does on its own",
        "To have a plate to eat from",
+       "To see what cucumber does on its own",
        "To keep the sugar company"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Cut cucumber leaks a few drops by itself. The plain plate shows how much that is. Anything more on the other plates is caused by the salt or the sugar."
      },
      "context": "In this step, you set up the three plates. Only what is on top of the slices is different."
@@ -2090,11 +2090,11 @@
       "t": "mcq",
       "q": "Why do we have a strip in plain water too?",
       "options": [
-       "To see what happens when there is no salt",
        "To make the second glass useful",
-       "To use up the paper"
+       "To use up the paper",
+       "To see what happens when there is no salt"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The plain-water strip is the comparison. If a white crust only appears on the salty strip, the salt made it. If both had crusts, the water or the paper would be the cause."
      },
      "context": "In this step, you set up the two strips. They are the same except for the salt."
@@ -2162,11 +2162,11 @@
       "t": "mcq",
       "q": "Water left the top of the strip, but salt stayed. What does this tell us about a leaf that pulls up salty water?",
       "options": [
-       "The salt would be left behind in the leaf or in the soil",
        "The salt would evaporate with the water",
+       "The salt would be left behind in the leaf or in the soil",
        "The salt would turn into water"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water becomes vapour and leaves. Salt does not. So wherever salty water leaves, the salt stays. Over years, this builds up white salt crusts in fields, and a mangrove can show salt on her leaves."
      },
      "context": "In this last step, you link the strip to leaves, soil and fields."
@@ -2250,11 +2250,11 @@
       "t": "mcq",
       "q": "A pull number of 14 is how many millimetres on our scale?",
       "options": [
-       "140 millimetres, which is 14 centimetres",
        "14 millimetres",
-       "1.4 millimetres"
+       "1.4 millimetres",
+       "140 millimetres, which is 14 centimetres"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Every 0.1 is 1 millimetre, so 1 is 10 millimetres and 14 is 140 millimetres. 140 millimetres is 14 centimetres. If you picked 14 millimetres, you counted every whole number as 1 millimetre."
      },
      "context": "In this step, you do the sums to turn pull numbers into lengths."
@@ -2304,11 +2304,11 @@
       "t": "mcq",
       "q": "On a foggy morning, the air's strip is about 14 millimetres, and the leaf's is 15. What happens to the water flow?",
       "options": [
-       "It almost stops, because there is hardly any slope",
        "It flows faster than ever",
+       "It almost stops, because there is hardly any slope",
        "It reverses completely"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Water flows down a slope of pull numbers. In fog the slope between leaf and air almost disappears, so very little water leaves the leaf. A leaf in dry air has a very steep slope."
      },
      "context": "In this last step, you say what the staircase shows."
@@ -2528,11 +2528,11 @@
    "t": "mcq",
    "p": "What does a root hair do for a plant?",
    "opts": [
-    "It gives a huge surface for taking in water and slips between soil grains",
     "It carries sugar to the roots",
+    "It gives a huge surface for taking in water and slips between soil grains",
     "It lets water vapour out"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Root hairs are thin tubes that grow out of root cells. They are so thin and so many that they make the root's surface very large.",
    "outcome": 2
   },
@@ -2552,11 +2552,11 @@
    "t": "mcq",
    "p": "Along a plant's path from soil to sky, where is the biggest step in pull number?",
    "opts": [
-    "Between the leaf and the dry air",
     "Between the soil and the root",
-    "Between the root and the stem"
+    "Between the root and the stem",
+    "Between the leaf and the dry air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The leaf is about 1.5 and dry air is about 94. All the steps inside the plant are tiny compared with this.",
    "outcome": 3
   },
@@ -2564,11 +2564,11 @@
    "t": "mcq",
    "p": "What happens to a stoma when its guard cells lose water?",
    "opts": [
-    "It shuts",
     "It opens wider",
+    "It shuts",
     "It turns into a root hair"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Guard cells hold the hole open only when they are plump with water. When they lose it they go flat and the hole shuts.",
    "outcome": 4
   },
@@ -2576,11 +2576,11 @@
    "t": "mcq",
    "p": "You want to see the stomata on a leaf. Which tool helps most, and where do you look?",
    "opts": [
-    "A hand lens, looking closely at the underside of the leaf",
     "A ruler, measuring the length of the leaf",
-    "A thermometer, held against the top of the leaf"
+    "A thermometer, held against the top of the leaf",
+    "A hand lens, looking closely at the underside of the leaf"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Stomata are too small to see clearly with the eye alone. A hand lens shows them as tiny openings, and many leaves have more of them on the underside. A ruler and a thermometer cannot show the openings.",
    "outcome": 4
   },
@@ -2595,11 +2595,11 @@
    "t": "mcq",
    "p": "A ring of bark is cut off a branch. The leaves above the ring stay green for weeks. What does this show?",
    "opts": [
-    "Water goes up in the wood, which the ring did not cut",
     "Leaves do not need water",
+    "Water goes up in the wood, which the ring did not cut",
     "Sugar goes up the wood"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The xylem is inside the wood, so it kept bringing water up. The ring cut the phloem in the bark, which carries sugar down.",
    "outcome": 6
   },
@@ -2607,11 +2607,11 @@
    "t": "mcq",
    "p": "Which of these helps a mangrove live in sea water?",
    "opts": [
-    "Roots that keep most of the salt out",
     "Leaves that stay white",
-    "Roots that never touch water"
+    "Roots that never touch water",
+    "Roots that keep most of the salt out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Different mangroves use different methods. Some keep salt out at the root, some push it out through leaf glands, and some store it in old leaves.",
    "outcome": 7
   },
@@ -2631,11 +2631,11 @@
    "t": "mcq",
    "p": "A cabbage leaf has a waxy coat on its top. What does the coat do?",
    "opts": [
-    "It is waterproof, so less water escapes from the leaf",
     "It is sweet, so insects come to the leaf",
-    "It lets water soak in through the top of the leaf"
+    "It lets water soak in through the top of the leaf",
+    "It is waterproof, so less water escapes from the leaf"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The waxy coat keeps water in, so less water escapes through the leaf's skin. Wax pushes water away, which is why a drop sits as a bead. A coat that let water soak in would not cut water loss.",
    "outcome": 3
   },
@@ -2643,11 +2643,11 @@
    "t": "mcq",
    "p": "A student tests how salt affects sprouting with four cups of seeds. What must stay the same in all four cups?",
    "opts": [
-    "The seeds, the towel, the amount of water and the place",
     "The amount of salt",
+    "The seeds, the towel, the amount of water and the place",
     "The number of sprouts"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a fair test only one thing changes. Here that is the salt. Everything else must be the same, so that salt is the only possible cause of any difference.",
    "outcome": 5
   }

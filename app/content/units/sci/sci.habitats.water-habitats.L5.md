@@ -653,16 +653,16 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 ## Worksheets
 ### Life in water: the main ideas (core, 16 questions)
 1. (mcq) Which of these is a freshwater habitat?  
-   Options: A village tank / A coral reef / The deep sea floor / A salt pan  
+   Options: A coral reef / The deep sea floor / A village tank / A salt pan  
    **Answer:** A village tank. *Why:* A tank holds rain or river water with very little salt. A coral reef, the deep sea floor and a salt pan all have salty water.
 2. (mcq) Why do plants and algae grow only in the top layer of a lake or sea?  
-   Options: Only that layer has enough light / Only that layer has water / The deep water is too clean / Fish eat all the deep plants  
+   Options: Only that layer has water / The deep water is too clean / Fish eat all the deep plants / Only that layer has enough light  
    **Answer:** Only that layer has enough light. *Why:* Plants and algae make food from light. Water takes light away with depth, so below the sunlit zone no food can be made.
 3. (mcq) What does a river drop when its water slows down?  
-   Options: Sediment / Oxygen / Salt / Heat  
+   Options: Oxygen / Sediment / Salt / Heat  
    **Answer:** Sediment. *Why:* Slow water cannot carry sand and silt, so they settle. This builds floodplains and deltas.
 4. (mcq) What is marine snow?  
-   Options: Dead plankton and waste sinking through the sea / Ice that falls on the sea in winter / Salt that settles on the sea floor / White sand washed in by rivers  
+   Options: Ice that falls on the sea in winter / Dead plankton and waste sinking through the sea / Salt that settles on the sea floor / White sand washed in by rivers  
    **Answer:** Dead plankton and waste sinking through the sea. *Why:* Marine snow is dead plankton, droppings, slime and dust stuck together. It is the main food of the deep sea.
 5. (fill) The flat land beside a river that goes under water in a flood is the ____.  
    **Answer:** ['floodplain']. *Why:* A floodplain is covered when the river spills over its banks. The flood leaves silt there.
@@ -690,10 +690,10 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
    **Answer:** Any view with a reason. One reason is that hilsa above the Farakka Barrage almost vanished after 1975. Another is that most rain falls in four months, so stored water matters. A strong answer also says what the other view gets right.. *Why:* Each view has something right in it. A strong answer uses what a dam gives and what it stops: water for crops, and fish, silt and floods.
 ### Life in water: light, layers and rivers (stretch, 17 questions)
 1. (mcq) A disc vanishes at 12 centimetres in cloudy water. The cloudiness is doubled. About where does the disc vanish now?  
-   Options: About 6 centimetres / About 12 centimetres / About 24 centimetres / About 10 centimetres  
+   Options: About 12 centimetres / About 6 centimetres / About 24 centimetres / About 10 centimetres  
    **Answer:** About 6 centimetres. *Why:* Twice as many bits take the light away in about half the distance. If you chose 24, you doubled the depth, but more bits mean a smaller depth.
 2. (mcq) In a deep lake in a hot month, where is there least oxygen?  
-   Options: In the cold bottom layer / At the surface / Among the plants at the edge / Just under the surface  
+   Options: At the surface / Among the plants at the edge / Just under the surface / In the cold bottom layer  
    **Answer:** In the cold bottom layer. *Why:* Oxygen comes in at the top. The warm layer hardly mixes with the cold layer below, where bacteria keep using oxygen up.
 3. (mcq) Which living being fits a slow, deep, muddy river best?  
    Options: A dolphin who finds fish by echoes / A fish who hunts by sight / A lotus rooted in the river bed / An insect who clings to clean stones  
@@ -729,16 +729,16 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
    **Answer:** ['Source: where the river begins, high in the hills', 'Tributary: a smaller river that joins the main river', 'Floodplain: flat land beside the river that floods', 'Delta: flat land built of sediment where the river splits', 'Mouth: where the river meets the sea']. *Why:* A strong answer puts the parts in the right order, and shows the river growing wider towards the sea.
 ### Life in water: think it through (challenge, 16 questions)
 1. (mcq) Each 10 centimetres of a pond lets half the light through. How much is left at 30 centimetres?  
-   Options: One eighth / One third / One sixth / None  
+   Options: One third / One sixth / One eighth / None  
    **Answer:** One eighth. *Why:* Half is left at 10 centimetres, a quarter at 20 and an eighth at 30. If you chose 'none', remember that halving never quite reaches zero.
 2. (mcq) Vent bacteria make food without light. What do vent animals still need that was made in sunlight?  
-   Options: Oxygen dissolved in the sea water / Heat from the Sun / Marine snow from the surface / Salt from rivers  
+   Options: Heat from the Sun / Oxygen dissolved in the sea water / Marine snow from the surface / Salt from rivers  
    **Answer:** Oxygen dissolved in the sea water. *Why:* The bacteria and animals at vents use oxygen. That oxygen was made by algae and plants in the light, and carried down by sinking cold water.
 3. (mcq) A dam lets out water from the bottom of a deep reservoir. What is that water like in a hot month?  
    Options: Cold and low in oxygen / Warm and rich in oxygen / Warm and low in oxygen / The same as the surface water  
    **Answer:** Cold and low in oxygen. *Why:* In hot months the deep layer is cold and has lost oxygen. Fish below the dam then meet water that is colder and poorer in oxygen than the river was.
 4. (mcq) Why are many animals of the twilight zone see-through or red?  
-   Options: Both colours are hard to see there / Both colours keep them warm / Red and clear bodies need less food / The pressure removes other colours  
+   Options: Both colours keep them warm / Both colours are hard to see there / Red and clear bodies need less food / The pressure removes other colours  
    **Answer:** Both colours are hard to see there. *Why:* In open water there is nothing to hide behind. A clear body lets the faint light pass. A red body sends back no light, because no red light reaches that depth.
 5. (truefalse) A foam cup shrinks in the deep sea because foam is full of tiny pockets of air.  
    **Answer:** True. *Why:* True. Air can be squeezed into a smaller space. Water can hardly be squeezed, so a water-filled body keeps its shape.
@@ -772,52 +772,52 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 
 ## Quiz
 1. (mcq) Which pair are both freshwater habitats?  
-   Options: A lake and a river / A lagoon and a coral reef / A salt pan and a tank / The abyss and a pond  
+   Options: A lagoon and a coral reef / A lake and a river / A salt pan and a tank / The abyss and a pond  
    **Answer:** A lake and a river. *Why:* Lakes and rivers hold water with very little salt. Reefs, salt pans and the abyss are salty.
 2. (mcq) About what share of all the kinds of fish live in fresh water?  
-   Options: About half / About 1 in 100 / About 1 in 10 / Nearly all  
+   Options: About 1 in 100 / About 1 in 10 / About half / Nearly all  
    **Answer:** About half. *Why:* About half of all kinds of fish live in fresh water. Rivers and lakes are cut off from each other, so each grows kinds of its own.
 3. (mcq) What happens to light as it goes deeper into water?  
-   Options: It gets weaker with every layer / It stays the same to the bottom / It gets stronger / It turns red  
+   Options: It stays the same to the bottom / It gets stronger / It gets weaker with every layer / It turns red  
    **Answer:** It gets weaker with every layer. *Why:* Each layer of water soaks up and scatters a share of the light. If you chose 'turns red', remember that red is the first colour to be lost.
 4. (mcq) Where in a deep lake do rooted plants such as lotus grow?  
-   Options: At the shallow edge / In the deepest middle / Floating far from shore with no roots / Everywhere on the bottom  
+   Options: In the deepest middle / At the shallow edge / Floating far from shore with no roots / Everywhere on the bottom  
    **Answer:** At the shallow edge. *Why:* A rooted plant needs a bottom shallow enough for light to reach, or for the stalk to reach the surface.
 5. (mcq) Which pond plant floats free on the water, with roots that hang down and do not touch the mud?  
-   Options: Water hyacinth / Lotus / Water lily / Reed  
+   Options: Lotus / Water hyacinth / Water lily / Reed  
    **Answer:** Water hyacinth. *Why:* Water hyacinth floats on swollen stalks that hold air. Lotus, water lily and reeds are rooted in the mud. Water hyacinth came from South America and can spread over a whole lake, which cuts off light for the plants below.
 6. (mcq) Why does warm water stay on top of cold water in a lake?  
-   Options: Warm water is lighter / Warm water is saltier / Wind holds the warm water up / Fish push the cold water down  
+   Options: Warm water is saltier / Warm water is lighter / Wind holds the warm water up / Fish push the cold water down  
    **Answer:** Warm water is lighter. *Why:* Warm water is a little lighter than cold water, so it floats. That is why the two layers hardly mix in hot months.
 7. (mcq) What makes a layered lake mix from top to bottom?  
-   Options: The top water cools and sinks / The Sun heats the top water more / Fish swim up and down / Rain falls on the surface  
+   Options: The Sun heats the top water more / Fish swim up and down / The top water cools and sinks / Rain falls on the surface  
    **Answer:** The top water cools and sinks. *Why:* When the top water cools, it becomes as heavy as the water below and sinks. Then wind can mix the whole lake.
 8. (mcq) Which stretch of a river is cold, clear, fast and rich in oxygen?  
-   Options: The upper stretch, near the source / The lower stretch, near the sea / The delta / The floodplain lakes  
+   Options: The lower stretch, near the sea / The delta / The floodplain lakes / The upper stretch, near the source  
    **Answer:** The upper stretch, near the source. *Why:* Near the source the stream is steep and tumbles over rocks, which stirs in oxygen. Shade keeps the water cold.
 9. (mcq) Which fin of a fish does most of the pushing forward?  
-   Options: The tail fin / The fin on the back / The small fin on the belly / The fin of a loach  
+   Options: The fin on the back / The tail fin / The small fin on the belly / The fin of a loach  
    **Answer:** The tail fin. *Why:* The tail sweeps from side to side and pushes the fish through the water. The back fin keeps her upright, and the side fins steer and brake.
 10. (mcq) Why do many river fish lay their eggs on flooded land?  
-   Options: The young find food and hiding places there / The water there is colder / There is no oxygen there / The eggs need dry soil  
+   Options: The water there is colder / There is no oxygen there / The young find food and hiding places there / The eggs need dry soil  
    **Answer:** The young find food and hiding places there. *Why:* Warm shallow flood water fills with plankton and insects, and plants give cover. The young return to the river as the flood goes down.
 11. (mcq) How do the roots of mangrove trees help the coast?  
    Options: They hold the mud and slow the waves / They stop the river from flowing / They make the water fresh / They stop silt from settling  
    **Answer:** They hold the mud and slow the waves. *Why:* Thick roots hold the soil in place and slow waves, so a storm does less harm to the land behind. They do not stop the river or take away the salt.
 12. (mcq) How does a wall across a river harm a fish like the hilsa?  
-   Options: She cannot reach her breeding places upstream / The wall makes the water salty / The wall takes away her gills / She forgets how to swim  
+   Options: The wall makes the water salty / The wall takes away her gills / She forgets how to swim / She cannot reach her breeding places upstream  
    **Answer:** She cannot reach her breeding places upstream. *Why:* Hilsa live in the sea and breed in rivers. A wall with no suitable way round cuts the journey.
 13. (mcq) Why do coral reefs hold so many kinds of fish and other sea animals?  
-   Options: The reef gives food and hiding places in warm, sunlit water / Reefs are the deepest part of the sea / Fish cannot live anywhere else / Corals make the sea water fresh  
+   Options: Reefs are the deepest part of the sea / The reef gives food and hiding places in warm, sunlit water / Fish cannot live anywhere else / Corals make the sea water fresh  
    **Answer:** The reef gives food and hiding places in warm, sunlit water. *Why:* Reefs grow only in warm, bright, shallow water. Their many nooks give young fish and small animals a place to hide and feed. They are not deep, and the sea stays salty.
 14. (mcq) By how much does the pressure rise for every 10 metres of depth in the sea?  
-   Options: By about 1 kilogram on each square centimetre / By nothing / By half each time / By 10 kilograms on each square centimetre  
+   Options: By nothing / By half each time / By 10 kilograms on each square centimetre / By about 1 kilogram on each square centimetre  
    **Answer:** By about 1 kilogram on each square centimetre. *Why:* Every 10 metres of water adds about as much press as the whole of the air above us: about 1 kilogram on each square centimetre.
 15. (mcq) Where does most of the food eaten on the deep sea floor come from?  
-   Options: It sinks from the sunlit zone / It grows in the mud / Rivers pour it straight onto the floor / Deep-sea fish make it from light  
+   Options: It grows in the mud / Rivers pour it straight onto the floor / Deep-sea fish make it from light / It sinks from the sunlit zone  
    **Answer:** It sinks from the sunlit zone. *Why:* Food is made where there is light, and sinks as marine snow. Only about 1 to 3 parts in 100 reach the floor.
 16. (mcq) In a fair test of how milk hides a disc, what is the one thing that changes?  
-   Options: The amount of milk / The person who looks / The light in the room / The size of the disc  
+   Options: The person who looks / The light in the room / The amount of milk / The size of the disc  
    **Answer:** The amount of milk. *Why:* Only the thing you are testing should change. If the light or the observer changed too, you could not tell what caused the result.
 
 ## Applications

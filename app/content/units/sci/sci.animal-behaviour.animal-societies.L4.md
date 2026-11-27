@@ -579,7 +579,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 6. (order) Put the jobs of a worker honeybee in the usual order, from the youngest age to the oldest.  
    **Answer:** ['Cleaning empty cells', 'Feeding the grubs', 'Building wax and storing food', 'Guarding the door', 'Flying out to find food']. *Why:* A worker usually starts inside the hive and ends outside. Foraging is the last job, and also the most dangerous.
 7. (mcq) A child timed two ways of doing a three-step job on 12 paper squares, two rounds each. The bars show the total time for each way. Which way was faster, and by how much?  
-   Options: One step at a time, by 30 seconds / One square at a time, by 30 seconds / One step at a time, by 544 seconds / They took the same time  
+   Options: One square at a time, by 30 seconds / One step at a time, by 544 seconds / One step at a time, by 30 seconds / They took the same time  
    **Answer:** One step at a time, by 30 seconds. *Why:* A shorter bar means less time, so one step at a time was faster. 287 minus 257 is 30 seconds. The other options add the bars or read the wrong bar.
 8. (write) A hive splits its jobs among many bees, but its bees can also change jobs. Write two sentences to say why a hive needs both.  
    **Answer:** Splitting jobs means each bee gets a lot of practice and does not waste time swapping jobs. But if the hive loses all its foragers and no bee can change jobs, nobody brings food. So it helps that bees can change jobs when the hive needs it.. *Why:* A strong answer names the gain of splitting jobs, which is practice and less time lost swapping, and the risk, which is that a job is left undone if nobody can take it over.
@@ -597,14 +597,14 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 14. (perspective) A swarm of bees has settled on the grill of a balcony in a block of flats. The residents are deciding what to do.  
    **Answer:** Any view with a reason from the unit, such as that a swarm has no store to defend, or that the bees will choose a home and leave on their own.. *Why:* Each view has something right in it. Swarms can sting if attacked, and they are usually gentle if left alone. A good answer uses what we know about swarms, and says what else we would need to check.
 15. (mcq) Scientists say 'caste' for the groups in an insect society. How is this different from caste among people?  
-   Options: In biology it means a group with one kind of job or body in an insect colony, and has nothing to do with the caste system among people / They mean exactly the same thing / Insect castes are decided by which family you are born in / Human castes are decided by the jobs you do as you grow up  
+   Options: They mean exactly the same thing / Insect castes are decided by which family you are born in / In biology it means a group with one kind of job or body in an insect colony, and has nothing to do with the caste system among people / Human castes are decided by the jobs you do as you grow up  
    **Answer:** In biology it means a group with one kind of job or body in an insect colony, and has nothing to do with the caste system among people. *Why:* In biology 'caste' names a type of worker, soldier or queen in an insect society. The caste system among people divides families by birth and has been used unfairly. A honeybee changes her job as she ages, and a person should not be held to a job by their birth.
 ### How Groups Share Work and Decide (stretch) (stretch, 15 questions)
 1. (mcq) In a small pin factory, ten workers each did one or two steps of the work. Together they made about 48,000 pins in a day. About how many pins did each worker help to make?  
-   Options: About 4,800 / About 480 / About 48 / About 48,000  
+   Options: About 480 / About 48 / About 4,800 / About 48,000  
    **Answer:** About 4,800. *Why:* 48,000 divided by 10 is 4,800. One person doing every step alone might make only a few dozen in a day. Sharing the steps gave far more pins for each person.
 2. (mcq) Why can a termite soldier not be turned into a worker when a colony needs more workers?  
-   Options: Her body was built for defence, with a hard head and large jaws / Soldiers refuse to do the work / The queen forbids it / Workers are always bigger than soldiers  
+   Options: Soldiers refuse to do the work / The queen forbids it / Her body was built for defence, with a hard head and large jaws / Workers are always bigger than soldiers  
    **Answer:** Her body was built for defence, with a hard head and large jaws. *Why:* A termite soldier grows up with a body built for one job. Her caste is part of her body, not only a job that she does. A honeybee's job is different. It changes as she ages.
 3. (write) A scientist takes all the older bees out of a hive and leaves only young bees. Say what you expect the young bees to do, and explain why.  
    **Answer:** Some of the young bees will start foraging earlier than usual. A hive with no foragers has no food coming in, and the missing foragers' job gets taken over by bees who are young for it.. *Why:* A strong answer names the change in jobs and says that the hive's need, not a bee's age alone, set the change. Huang and Robinson found this in 1992.
@@ -615,7 +615,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 6. (fill) The smallest number of members who must agree before a group acts is called the ____.  
    **Answer:** ['quorum']. *Why:* Honeybee swarms use a quorum of about fifteen scouts at one site before they take off. Many human groups, such as a school committee, use quorums too.
 7. (mcq) Five people guessed how many chana were in a glass. The guesses, in order, were 120, 250, 280, 310 and 650. The true number was 300. How many of the five guesses were closer to 300 than the middle guess?  
-   Options: None / One / Three / All of them  
+   Options: None / Three / All of them / One  
    **Answer:** One. *Why:* The middle guess is 280, which is 20 from 300. Only the guess of 310 is closer, at 10. The other three are further away, so the middle guess was closer than three of the other four people, but not closer than all of them.
 8. (sort) Sort each situation. Will a crowd's middle guess probably be close to the true number, or probably be wrong?  
    **Answer:** Everyone guesses alone, and some guess too high while others guess too low → Probably close; Everyone copies the first person's guess → Probably wrong; A trick makes every jar look half as full as it is → Probably wrong; Fifty people with different ideas each guess in secret → Probably close. *Why:* A crowd cancels out mistakes that go in different directions. It cannot cancel out a mistake that everyone shares, such as copying or a trick that fools everyone the same way.
@@ -633,11 +633,11 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
 14. (perspective) Is a honeybee hive one animal or thousands of animals?  
    **Answer:** Any view with a reason, such as that a hive keeps its warmth together, or that each bee flies alone.. *Why:* Scientists still argue about this. Both views describe something true. 'One animal' captures what the hive does together, and 'thousands of animals' captures what each bee is.
 15. (mcq) Some ants stand still while others work. Which result would best support the idea that the still ants are a reserve?  
-   Options: When a large piece of food appears, many of the still ants join in at once / The still ants never move at all, for days / The still ants are always the youngest ants / The still ants die first when the colony is short of food  
+   Options: The still ants never move at all, for days / The still ants are always the youngest ants / The still ants die first when the colony is short of food / When a large piece of food appears, many of the still ants join in at once  
    **Answer:** When a large piece of food appears, many of the still ants join in at once. *Why:* A reserve is a group that waits and then acts when needed. If still ants join in when there is more work, that fits. Ants that never move, or that are only the young or dying, would suggest other explanations.
 ### Queens, Quorums and What We Cannot Conclude (challenge) (challenge, 15 questions)
 1. (mcq) Naked mole-rats are mammals, and they live with a queen and many helpers. What does this tell us about eusocial life?  
-   Options: It has appeared in very different animals, not only in insects / It only works for animals with six legs / It only works for animals that fly / It is the usual way mammals live  
+   Options: It only works for animals with six legs / It only works for animals that fly / It is the usual way mammals live / It has appeared in very different animals, not only in insects  
    **Answer:** It has appeared in very different animals, not only in insects. *Why:* Eusociality has appeared on Earth more than a dozen separate times, in insects, shrimp and mammals. It is rare, but it is not limited to one body type.
 2. (write) Naked mole-rats and humans are both mammals. Give one big difference between a human society and a mole-rat colony, and say what you cannot conclude from the mole-rats about how people should live.  
    **Answer:** In a human village, nearly every adult can have children, but in a mole-rat colony only the queen and a few males do. We cannot conclude that people should have a queen or a ruler, because what happens in nature does not tell us what is fair for people.. *Why:* A strong answer gives a real difference and says that a fact about animals does not tell us what people should do. Naked mole-rats are one example of how life can be arranged, not a rule.
@@ -681,7 +681,7 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    Options: A hive with one queen and thousands of workers who almost never lay eggs / A herd of cattle in a field / A flock of crows at a rubbish heap / A school of fish in a river  
    **Answer:** A hive with one queen and thousands of workers who almost never lay eggs. *Why:* In a eusocial society only a few animals lay eggs, and many others look after the young and do the work. Cattle, crows and fish live in groups, but most adults can breed.
 2. (mcq) A team splits a three-step job so that each person does one step again and again. What is the main thing they gain?  
-   Options: Less time lost swapping tools and more practice at each step / Each step becomes easier for the whole world / Nobody ever needs to learn another step / The team makes the job longer  
+   Options: Each step becomes easier for the whole world / Nobody ever needs to learn another step / Less time lost swapping tools and more practice at each step / The team makes the job longer  
    **Answer:** Less time lost swapping tools and more practice at each step. *Why:* Doing one step over and over saves the time of changing from one step to another and gives practice. The cost is that if the one person who knows a step is missing, that step stops.
 3. (truefalse) If every member of a team can only do one job, the whole team can stop working when one member is missing.  
    **Answer:** True. *Why:* True. When each job belongs to only one member, nobody else can do it. Hives avoid this risk because bees can change jobs when the hive needs it.
@@ -689,28 +689,28 @@ That evening Rukmini Chechi took her to the foot of the jackfruit tree. At the h
    Options: Cleaning cells, feeding grubs, building and storing, guarding, foraging / Foraging, guarding, building, feeding grubs, cleaning cells / Guarding, cleaning cells, foraging, feeding grubs, building / Building, foraging, cleaning cells, guarding, feeding grubs  
    **Answer:** Cleaning cells, feeding grubs, building and storing, guarding, foraging. *Why:* A worker starts in the middle of the hive with the safest jobs and ends outside with the most dangerous. The ages are only a guide.
 5. (mcq) A scientist takes all the foragers from a hive, and soon sees bees only a week old flying out for nectar. What does this show?  
-   Options: A bee's job is not fixed to her age, and the hive's needs can change it / Bees can fly only when they are a week old / Young bees prefer to forage / The hive had too many nurses  
+   Options: Bees can fly only when they are a week old / A bee's job is not fixed to her age, and the hive's needs can change it / Young bees prefer to forage / The hive had too many nurses  
    **Answer:** A bee's job is not fixed to her age, and the hive's needs can change it. *Why:* Young bees began foraging early because the hive needed it. So age gives the usual order of jobs, but needs can change the order.
 6. (mcq) On the comb, a honeybee runs a waggle run that leans 30 degrees to the left of straight up. What does this tell the other bees?  
-   Options: The food is 30 degrees to the left of the Sun's direction / The food is 30 metres away / The food is straight up in the air / The food is behind the hive  
+   Options: The food is 30 metres away / The food is straight up in the air / The food is behind the hive / The food is 30 degrees to the left of the Sun's direction  
    **Answer:** The food is 30 degrees to the left of the Sun's direction. *Why:* Straight up on the comb stands for the Sun's direction, so the angle of the run from straight up is the angle of the food from the Sun. The length of the waggle tells the distance.
 7. (mcq) One dancer waggles for half a second, and another waggles for three seconds. What does this show?  
-   Options: The second bee found a place much farther away / The first bee found a place farther away / Both found places the same distance away / The second bee is older  
+   Options: The first bee found a place farther away / Both found places the same distance away / The second bee found a place much farther away / The second bee is older  
    **Answer:** The second bee found a place much farther away. *Why:* A longer waggle run means a longer distance. In some honeybees, about one second has meant roughly a kilometre, though it differs between kinds.
 8. (mcq) What must happen before a honeybee swarm leaves its resting place and flies to a new home?  
    Options: About fifteen scouts gather at the same new home / The queen points to a home / The oldest bee leads the way / All the scouts agree at once  
    **Answer:** About fifteen scouts gather at the same new home. *Why:* This number is the quorum. When about fifteen scouts are at one place, they signal back, and the swarm flies. The scouts do not all have to agree at the start, and the queen takes no part in choosing.
 9. (mcq) Why does it matter that each scout flies to a site herself before she dances for it?  
-   Options: Each dance then comes from a real check, and not just a copy of another bee / It makes her dance for longer / It keeps her from getting lost / It makes the queen happy  
+   Options: It makes her dance for longer / Each dance then comes from a real check, and not just a copy of another bee / It keeps her from getting lost / It makes the queen happy  
    **Answer:** Each dance then comes from a real check, and not just a copy of another bee. *Why:* If scouts only copied each other, one mistake could spread to the whole swarm. Independent checks make the swarm's choice more likely to be good.
 10. (mcq) Why does a group's middle guess often beat most single guesses of a number?  
-   Options: Guesses that are too high and guesses that are too low tend to cancel each other / The middle guess is always the true number / The biggest guess is always right / Groups know more facts than single people  
+   Options: The middle guess is always the true number / The biggest guess is always right / Groups know more facts than single people / Guesses that are too high and guesses that are too low tend to cancel each other  
    **Answer:** Guesses that are too high and guesses that are too low tend to cancel each other. *Why:* Mistakes that point in different directions cancel when you take the middle. The middle guess is not always right, but it is often better than most single guesses.
 11. (mcq) Everyone in a crowd looks at a jar that is lit in a way that makes it look smaller than it is, so everyone guesses too low. What will the middle guess probably be?  
-   Options: Too low as well / Exactly right / Too high / Impossible to work out  
+   Options: Exactly right / Too high / Impossible to work out / Too low as well  
    **Answer:** Too low as well. *Why:* A crowd can cancel mistakes that go in different directions, but not a mistake that everyone shares. When all guesses are too low, the middle guess is too low too.
 12. (mcq) How does a guard honeybee at the hive door tell a hive-mate from a stranger?  
-   Options: By the smell of the colony on her body / By her colour / By a password dance / By her size  
+   Options: By her colour / By a password dance / By the smell of the colony on her body / By her size  
    **Answer:** By the smell of the colony on her body. *Why:* Every colony has its own smell, from the oily coat on the bodies of its members. A guard sniffs each arriving bee and lets in only those with the colony's smell.
 
 ## Applications

@@ -864,11 +864,11 @@
       "t": "mcq",
       "q": "The bare tub's water was brown, and the wheat tub's water was much clearer. Why?",
       "options": [
-       "The wheat drank all the water",
        "The roots held the soil, and the leaves slowed the drops",
+       "The wheat drank all the water",
        "The wheat tub had less soil"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Roots grip the soil grains, and the leaves break the force of each drop, so less soil is knocked loose. The wheat did drink some water, but not 2 cups in a minute. Both tubs had the same soil, so that was not the difference."
      },
      "parent": "The bare tub usually gives brown water and a clear layer of soil in the bowl. The wheat tub's water is usually much clearer, because the roots form a mat. Link it to the card 'Soil needs a cover': this is why an overgrazed field loses its soil."
@@ -1210,11 +1210,11 @@
       "t": "mcq",
       "q": "Why does a hen need a dry coop?",
       "options": [
-       "Hens cannot walk on wet ground",
        "Damp and dirt bring disease",
+       "Hens cannot walk on wet ground",
        "Eggs melt in the rain"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Germs and tiny pests grow fast in damp, dirty bedding, and hens fall ill. Hens can walk on wet ground, and eggs do not melt. Caring for an animal starts with knowing what makes her ill."
      },
      "parent": "The answer is that damp and dirt bring disease. Germs and tiny pests grow fast in damp bedding, so hens fall ill."
@@ -1809,11 +1809,11 @@
      "t": "mcq",
      "p": "You cut wheat and moong plants 2 centimetres above the soil. Four days later, which will be taller?",
      "opts": [
-      "The moong",
       "The wheat",
+      "The moong",
       "Both the same, 2 centimetres"
      ],
-     "a": 1,
+     "a": 0,
      "outcome": 1,
      "how": "e1",
      "why": "Wheat grows from the bottom of each leaf, so the cut leaves keep pushing up. Moong grows from the tip of each stem, and the tips were cut off. Picking 'both the same' means thinking no plant can grow after cutting."
@@ -1908,10 +1908,10 @@
      "p": "On a hot afternoon, a buffalo walks into a pond and lies there with only her head showing. Why?",
      "opts": [
       "She is looking for fish",
-      "She heats up fast and is cooling down",
-      "She is washing off milk"
+      "She is washing off milk",
+      "She heats up fast and is cooling down"
      ],
-     "a": 1,
+     "a": 2,
      "outcome": 0,
      "why": "A buffalo has dark skin and few sweat glands, so she gets hot quickly in the sun. Lying in water or mud, called wallowing, cools her. That is why buffaloes need a pond or a shower in summer."
     },
@@ -2085,11 +2085,11 @@
      "t": "mcq",
      "p": "Why does a moong stem stop getting taller after its tip is cut off?",
      "opts": [
-      "Moong grows from the tip of the stem",
       "Moong does not need light",
+      "Moong grows from the tip of the stem",
       "The soil was too wet"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 1,
      "why": "Moong makes new stem at the tip, so cutting the tip takes away the growing part. A bud lower down may slowly grow a side shoot. Picking 'too wet' means looking for a cause that was the same for both plants."
     },
@@ -2179,11 +2179,11 @@
      "t": "mcq",
      "p": "In a city, roofs and roads cover most of the ground, and the wells are going dry. Why would a rule that every building must catch its rain help?",
      "opts": [
-      "Rain sent into pits soaks down and refills the groundwater, instead of running into drains",
       "Rain is damaging the roofs",
-      "The sea is too full"
+      "The sea is too full",
+      "Rain sent into pits soaks down and refills the groundwater, instead of running into drains"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 5,
      "why": "When the ground is covered by buildings and roads, rain runs into drains. Sending it into pits helps refill the groundwater that wells draw on."
     },
@@ -2249,11 +2249,11 @@
      "t": "mcq",
      "p": "Buffaloes are kept out of a bird wetland to protect the nests. But the buffaloes had been eating a tall grass there. What might go wrong?",
      "opts": [
-      "The grass may spread over the shallow water that water birds need",
       "More birds will come than ever",
-      "The water will dry up at once"
+      "The water will dry up at once",
+      "The grass may spread over the shallow water that water birds need"
      ],
-     "a": 0,
+     "a": 2,
      "outcome": 6,
      "why": "The buffaloes kept the grass down. Without them, it can spread over the open water many water birds use. Taking one animal out can change the whole place."
     },
@@ -2327,11 +2327,11 @@
      "t": "mcq",
      "p": "A village cuts the forest above its stream. After two monsoons the stream floods, and then it is dry in summer. Why?",
      "opts": [
-      "Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly",
       "The forest used to make the rain stop",
+      "Without roots and leaves, rain rushes off instead of soaking in and filling the stream slowly",
       "The stream was always like that"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A forest slows the rain so it soaks in and feeds the stream little by little. Bare ground sends it all down at once, and nothing is stored.",
      "outcome": 4
     },
@@ -2383,11 +2383,11 @@
      "t": "mcq",
      "p": "A family mows their lawn very short every two days in May. The lawn turns brown and thin. Why?",
      "opts": [
-      "The grass has too little leaf left to make food, and uses up its stores",
       "Grass does not grow in May",
+      "The grass has too little leaf left to make food, and uses up its stores",
       "The mower makes the grass cold"
      ],
-     "a": 0,
+     "a": 1,
      "outcome": 2,
      "why": "Grass needs leaves to catch sunlight and make food. When grass is cut too often and too short, the plants use up the food stored in their roots. This is like overgrazing."
     },
@@ -2430,10 +2430,10 @@
      "p": "The trees on a hillside in the Western Ghats are cut down. In the next monsoon, what will the stream at the bottom of the hill look like?",
      "opts": [
       "Clearer than before",
-      "Muddier, carrying soil from the bare slope",
-      "Just the same"
+      "Just the same",
+      "Muddier, carrying soil from the bare slope"
      ],
-     "a": 1,
+     "a": 2,
      "outcome": 2,
      "why": "Without roots and fallen leaves, the rain washes soil off the slope into the stream. That is soil erosion, and the stream turns brown."
     },
@@ -2609,11 +2609,11 @@
    "t": "mcq",
    "p": "Which animal gives people silk?",
    "opts": [
-    "The honeybee",
     "The silkworm caterpillar",
+    "The honeybee",
     "The sheep"
    ],
-   "a": 1,
+   "a": 0,
    "outcome": 0,
    "why": "Silk is the thread a silkworm caterpillar spins to make her cocoon. Bees give honey, and sheep give wool."
   },
@@ -2622,10 +2622,10 @@
    "p": "You cut the top off lawn grass and the top off a tulsi plant. Which one grows taller again from the same leaf or stem?",
    "opts": [
     "The tulsi",
-    "The grass",
-    "Neither"
+    "Neither",
+    "The grass"
    ],
-   "a": 1,
+   "a": 2,
    "outcome": 1,
    "why": "Grass grows from the bottom of the leaf, so the cut leaf keeps growing. Tulsi grows from the tips of their stems, so they make new side shoots instead."
   },
@@ -2645,11 +2645,11 @@
    "t": "mcq",
    "p": "In the Cutting Test, why do we measure 3 wheat plants and not just 1?",
    "opts": [
-    "One plant might be odd",
     "Three is a lucky number",
+    "One plant might be odd",
     "Wheat grows in threes"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 3,
    "how": "e1",
    "why": "One plant might be weak or damaged. Measuring three shows what most plants do."
@@ -2658,11 +2658,11 @@
    "t": "mcq",
    "p": "Which of these is conservation?",
    "opts": [
-    "Picking a few curry leaves from each branch, so the plant grows more",
     "Cutting the whole curry leaf plant at once",
+    "Picking a few curry leaves from each branch, so the plant grows more",
     "Pulling the plant out by the roots"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 4,
    "why": "Conservation is taking in a way that lets the plant keep growing. Taking everything leaves nothing to grow back."
   },
@@ -2694,11 +2694,11 @@
    "t": "mcq",
    "p": "Why does soil under grass wash away less than bare soil?",
    "opts": [
-    "Roots hold it, and leaves soften the drops",
     "Grass makes the rain lighter",
+    "Roots hold it, and leaves soften the drops",
     "Grass soil is heavier"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 2,
    "why": "Roots grip the soil grains, and leaves stop the drops hitting the soil hard."
   },
@@ -2718,11 +2718,11 @@
    "t": "mcq",
    "p": "In a city, why does less rain soak into the ground?",
    "opts": [
-    "Roads and buildings cover the soil",
     "City rain is heavier",
-    "City soil is full of water"
+    "City soil is full of water",
+    "Roads and buildings cover the soil"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 5,
    "why": "Rain runs off roads and roofs into drains. Rainwater harvesting sends it back into the ground."
   },
@@ -2730,11 +2730,11 @@
    "t": "mcq",
    "p": "Why do many countries, India among them, have laws against beating, starving or neglecting animals?",
    "opts": [
-    "Animals feel pain and need care, and they cannot speak up for themselves",
     "To stop people keeping cows",
+    "Animals feel pain and need care, and they cannot speak up for themselves",
     "So anyone can keep wild animals"
    ],
-   "a": 0,
+   "a": 1,
    "outcome": 0,
    "why": "Animals can suffer, so the law protects them from cruelty. People may keep animals, but must care for them."
   },
@@ -2767,11 +2767,11 @@
    "t": "mcq",
    "p": "Why can erosion on a bare hillside make floods worse in the river below?",
    "opts": [
-    "Silt fills the river bed, so it holds less water and spills over",
     "Soil makes the rain heavier",
+    "Silt fills the river bed, so it holds less water and spills over",
     "Erosion makes the monsoon last longer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The washed-away soil settles in the river as silt. With less room, the river spills over its banks more easily.",
    "outcome": 2
   },
@@ -2779,11 +2779,11 @@
    "t": "mcq",
    "p": "Why do farmers on a hillside cut flat steps called terraces?",
    "opts": [
-    "The steps slow the water so it soaks in and carries less soil",
     "The steps make the hill taller",
-    "The steps keep the plants from growing"
+    "The steps keep the plants from growing",
+    "The steps slow the water so it soaks in and carries less soil"
    ],
-   "a": 0,
+   "a": 2,
    "why": "On a steep slope water rushes down and drags soil with it. On steps it slows down and soaks into the ground.",
    "outcome": 2
   },
@@ -2791,11 +2791,11 @@
    "t": "mcq",
    "p": "A row of tall trees stands at the edge of a dry field. How does it protect the soil?",
    "opts": [
-    "It slows the wind, so less soil blows away",
     "It makes rain fall",
-    "It makes the soil heavier"
+    "It makes the soil heavier",
+    "It slows the wind, so less soil blows away"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Wind picks up dry, bare soil. A windbreak slows the wind near the ground, so it carries less.",
    "outcome": 2
   },
@@ -2803,11 +2803,11 @@
    "t": "mcq",
    "p": "How does a forest help to stop both floods and dry streams?",
    "opts": [
-    "Roots and leaves slow the rain, so it soaks in and reaches streams slowly",
     "The trees drink all the rain",
+    "Roots and leaves slow the rain, so it soaks in and reaches streams slowly",
     "The trees make the rain stop"
    ],
-   "a": 0,
+   "a": 1,
    "why": "In a forest, rain soaks into the soil and comes out slowly in streams. On bare ground it rushes away at once.",
    "outcome": 4
   },
@@ -2815,11 +2815,11 @@
    "t": "mcq",
    "p": "Why is a forest cooler than bare ground nearby?",
    "opts": [
-    "Shade, and the water vapour that leaves give out",
     "Forests are always higher up",
-    "Trees make the sun weaker"
+    "Trees make the sun weaker",
+    "Shade, and the water vapour that leaves give out"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Leaves block sunlight, and they also give out water vapour, which cools the air around them.",
    "outcome": 4
   },
@@ -2827,11 +2827,11 @@
    "t": "mcq",
    "p": "Why do many families respect cows, buffaloes and goats?",
    "opts": [
-    "They give milk, curd and company, and need care every day",
     "They never need food or water",
+    "They give milk, curd and company, and need care every day",
     "They are bigger than people"
    ],
-   "a": 0,
+   "a": 1,
    "why": "These animals give a lot to a family and depend on the family for food, water and shade. Respect means caring for them every day.",
    "outcome": 0
   },
@@ -2839,11 +2839,11 @@
    "t": "mcq",
    "p": "Which animal helps people by carrying loads across the sand in the Thar desert?",
    "opts": [
-    "A camel",
     "A silkworm",
-    "A honeybee"
+    "A honeybee",
+    "A camel"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Camels are strong and can walk far in the desert. A silkworm gives silk, and a honeybee gives honey.",
    "outcome": 0
   },
@@ -2863,11 +2863,11 @@
    "t": "mcq",
    "p": "What does organic farming leave out?",
    "opts": [
-    "Chemical fertiliser and pesticide",
     "Water and sunlight",
-    "Seeds"
+    "Seeds",
+    "Chemical fertiliser and pesticide"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Organic farming uses compost, cow dung manure and neem. Every farm still needs seeds, water and sunlight.",
    "outcome": 4
   }

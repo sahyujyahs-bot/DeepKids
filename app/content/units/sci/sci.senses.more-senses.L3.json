@@ -721,11 +721,11 @@
       "t": "mcq",
       "q": "You feel the lift start to go up, though the doors are shut. Which sense noticed?",
       "options": [
-       "Sight",
        "Balance",
+       "Sight",
        "Pain"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The crystals in your inner ear press down harder when the lift speeds up. Your eyes see only the closed doors, and nothing hurts."
      },
      "parent": "Standing on one foot to put on a sock uses balance and body position. Pulling your hand back from a hot tawa uses pain, and a reflex."
@@ -834,11 +834,11 @@
       "t": "mcq",
       "q": "The ice on the steel plate melted first. The steel had felt colder. What does this tell you?",
       "options": [
-       "The steel was not really colder than the wood",
        "The ice on the wood was a bigger cube",
-       "Steel makes its own heat"
+       "Steel makes its own heat",
+       "The steel was not really colder than the wood"
       ],
-      "a": 0,
+      "a": 2,
       "why": "If the steel were colder, its ice would last longer. Both sat in the same room, so both were at the same temperature. The steel melted the ice faster because it carries heat quickly from the room into the ice. A bigger cube on the wood is a fair thing to check, so swap the cubes next time. Steel makes no heat of its own."
      }
     },
@@ -862,10 +862,10 @@
       "q": "Why did the steel feel colder to your hand?",
       "options": [
        "It was at a lower temperature than the wood",
-       "It carried heat away from your hand faster",
-       "Steel is always cold"
+       "Steel is always cold",
+       "It carried heat away from your hand faster"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The steel carried heat away from your warm skin fast, so your skin cooled quickly and your cold receptors fired. The Ice Race shows it was not at a lower temperature. A steel plate left in the sun feels hot, so steel is not always cold."
      }
     }
@@ -1007,10 +1007,10 @@
       "q": "A girl shuts her eyes and touches her pencil to the paper. It lands 2 centimetres from the dot. What does this show?",
       "options": [
        "She peeked",
-       "Her body can sense where her hand is without her eyes, but not perfectly",
-       "Her hand can see"
+       "Her hand can see",
+       "Her body can sense where her hand is without her eyes, but not perfectly"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Stretch sensors in her muscles and joints tell her brain where her hand is. That gets her close. Her eyes usually make the last small correction, so with them shut she misses by a little. A 2 cm miss is just what we would expect without eyes."
      }
     }
@@ -1147,11 +1147,11 @@
       "t": "mcq",
       "q": "Why does the room seem to spin after you stop?",
       "options": [
-       "The room really moves a little",
        "The liquid in your ear loops keeps swirling for a few seconds",
+       "The room really moves a little",
        "Your eyes are tired"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The liquid in your semicircular canals keeps moving after your head stops. It bends the tiny hairs, so your brain thinks you are still turning. The room does not move, and your eyes are fine. They flick because the brain thinks the head is turning."
      }
     }
@@ -1260,10 +1260,10 @@
       "q": "The bowl stopped, but the water kept turning. What in your body is like that water?",
       "options": [
        "The blood in your arms",
-       "The liquid in the loops of your inner ear",
-       "The air in your lungs"
+       "The air in your lungs",
+       "The liquid in the loops of your inner ear"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The semicircular canals in your inner ear are loops of liquid. After you stop spinning, the liquid keeps swirling for a few seconds, just like the water in the bowl. So your brain thinks you are still spinning."
      }
     },
@@ -1823,11 +1823,11 @@
    "p": "Which of these is a sense that is NOT on the list of five?",
    "opts": [
     "Sight",
-    "Balance",
     "Taste",
+    "Balance",
     "Hearing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Balance has its own organs in the inner ear. Sight, taste and hearing are on the old list of five. Many more senses exist, such as body position, warmth, cold and pain.",
    "outcome": 0
   },
@@ -1836,11 +1836,11 @@
    "p": "A girl spins round 10 times and sits down. The room seems to keep turning. What is really still moving?",
    "opts": [
     "The room",
-    "The liquid in the loops of her inner ear",
     "Her eyes, by themselves",
+    "The liquid in the loops of her inner ear",
     "The floor"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The liquid in her semicircular canals keeps swirling after she stops, so her brain thinks she is still turning. Her eyes do flick for a moment, but because the brain thinks the head is turning, not by themselves.",
    "outcome": 1
   },
@@ -1848,12 +1848,12 @@
    "t": "mcq",
    "p": "A steel plate and a wooden board have been in the same room all day. Which is true?",
    "opts": [
+    "They are at the same temperature, but the steel feels colder",
     "The steel is colder",
     "The wood is colder",
-    "They are at the same temperature, but the steel feels colder",
     "They are at the same temperature, and they feel the same"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Things left in one room all reach room temperature. The steel feels colder because it carries heat away from your skin faster. 'The steel is colder' is the most common answer, but the Ice Race shows it is not: ice melts faster on the steel.",
    "outcome": 2,
    "how": "e1"
@@ -1863,11 +1863,11 @@
    "p": "In the Ice Race, you put one ice cube on a steel plate and one on a wooden board. Which melts first?",
    "opts": [
     "The one on the wooden board",
-    "The one on the steel plate",
     "Both at the same time",
+    "The one on the steel plate",
     "Neither, because the steel keeps it frozen"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Steel carries heat from the room into the ice quickly, so that cube melts first. Wood carries heat slowly. If the steel were really colder, its ice would last longer.",
    "outcome": 2,
    "how": "e1"
@@ -1889,12 +1889,12 @@
    "t": "mcq",
    "p": "You touch a hot tawa, and your hand jumps back before you even say 'ouch'. What is this quick movement called?",
    "opts": [
-    "A reflex",
     "A habit",
     "A dream",
-    "A choice"
+    "A choice",
+    "A reflex"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A reflex is a quick movement your body makes without you choosing it. The signal goes to the spinal cord and straight back to the arm muscles, so it is faster than thinking.",
    "outcome": 4
   },
@@ -1915,12 +1915,12 @@
    "t": "mcq",
    "p": "A sardine is a small sea fish. She swims in a dark sea in a big shoal. How does she turn with the others without bumping?",
    "opts": [
-    "She hears their hearts",
     "Her lateral line feels the water move as they turn",
+    "She hears their hearts",
     "She smells their food",
     "She follows the Moon"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The lateral line is a row of sensors along each side of a fish. It feels the water push as nearby fish move, so the shoal can turn together, even in the dark.",
    "outcome": 5
   },
@@ -1941,12 +1941,12 @@
    "t": "mcq",
    "p": "After sucking a peppermint sweet, you sip water and it feels very cold. Why?",
    "opts": [
-    "The mint cools the water",
     "Menthol in peppermint switches on your cold receptors",
+    "The mint cools the water",
     "Your mouth is burnt",
     "The water came from the fridge"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Menthol switches on cold receptors, so they send 'cold' signals though the water's temperature has not changed.",
    "outcome": 2
   },
@@ -2034,11 +2034,11 @@
      "p": "Which of these is the best conductor of heat?",
      "opts": [
       "A cotton towel",
-      "A steel tumbler",
       "A wooden spoon",
-      "A plastic plate"
+      "A plastic plate",
+      "A steel tumbler"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Metals such as steel carry heat quickly. Cloth, wood and plastic carry heat slowly, so they are poor conductors.",
      "how": "e1"
     },
@@ -2100,11 +2100,11 @@
      "p": "Why can you still walk down the stairs in a power cut?",
      "opts": [
       "Your eyes work in the dark",
-      "Your balance and body-position senses keep working without light",
       "Stairs are always easy",
+      "Your balance and body-position senses keep working without light",
       "Your ears hear the steps"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The balance organs and the stretch sensors in your muscles need no light. They tell you where your feet are and whether you are tipping."
     },
     {
@@ -2200,12 +2200,12 @@
      "t": "mcq",
      "p": "Kathak dancers spin many times without falling. What do they do with their eyes and head?",
      "opts": [
-      "Close their eyes",
       "Fix their eyes on one spot and turn the head quickly at the end of each spin",
+      "Close their eyes",
       "Look at the floor",
       "Look at the ceiling"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Fixing the eyes on one spot, called spotting, keeps the head still for most of each turn. The ear loops get less steady spinning, so the dancer gets less dizzy."
     },
     {
@@ -2403,12 +2403,12 @@
      "t": "mcq",
      "p": "Astronauts in space often feel sick for the first few days. Which is the best explanation?",
      "opts": [
-      "Space is cold",
       "With almost no feeling of down, their ear crystals send strange signals that do not match their eyes",
+      "Space is cold",
       "They miss home",
       "The food is different"
      ],
-     "a": 1,
+     "a": 0,
      "why": "In orbit, the ear crystals no longer rest towards one side, so the balance sense and the eyes disagree. Most astronauts get used to it within a few days."
     },
     {
@@ -2422,12 +2422,12 @@
      "t": "mcq",
      "p": "In the Ice Race, the two cubes melted at almost the same time. Which is the most likely reason?",
      "opts": [
-      "Steel is a poor conductor",
       "The steel plate had just come out of a hot sink, or the board was in the sun",
+      "Steel is a poor conductor",
       "Ice is the same everywhere",
       "Nobody watched closely"
      ],
-     "a": 1,
+     "a": 0,
      "why": "If the two surfaces did not start at the same temperature, the test is not fair. Leaving both in the same shady spot for an hour fixes it. A thicker metal, such as an aluminium lid, gives a bigger difference.",
      "how": "e1"
     },

@@ -613,11 +613,11 @@
       "t": "mcq",
       "q": "One substance goes in, and two substances come out. Which kind of reaction is it?",
       "options": [
-       "Splitting",
        "Joining",
-       "Swapping"
+       "Swapping",
+       "Splitting"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a splitting reaction, one substance becomes two or more. If you chose joining, that is the reverse: two become one. In a swap there are two substances before and two after."
      },
      "context": "This is the last step of Join, Split, Swap or Burn. You sort the 24 reaction cards into heaps by kind."
@@ -767,11 +767,11 @@
       "t": "mcq",
       "q": "In Second Squeeze, why do both tumblers get whey from the same bowl?",
       "options": [
-       "So only the added thing differs",
        "So there is less washing up",
-       "So the whey stays hot"
+       "So the whey stays hot",
+       "So only the added thing differs"
       ],
-      "a": 0,
+      "a": 2,
       "why": "In a fair test, only one thing differs. Both tumblers hold the same whey, so any difference comes from what was added. If you chose washing up or heat, think about what you want to compare."
      },
      "parent": "Tumbler A usually stays clear. Tumbler B usually shows white flecks or soft lumps within a minute. If B only turns cloudy, the whey has cooled. Stand the tumbler in a bowl of hot water for 2 minutes.",
@@ -965,11 +965,11 @@
       "t": "mcq",
       "q": "In Powder and Water, the plaster goes hard while its top is still wet. What does that show?",
       "options": [
-       "It did not harden by drying",
        "It dried very quickly",
+       "It did not harden by drying",
        "The water leaked out"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A thing that hardens by drying must lose its water first. The plaster was hard and still wet, so the water was still inside. If you chose drying or leaking, look again: the cup is not dry and nothing ran out."
      },
      "parent": "Cup A usually thickens in 5 to 10 minutes and feels warm between 10 and 20 minutes. The warmth is gentle with this amount, so compare the two cups with the same hand. Cup B stays cool and soft.",
@@ -1315,11 +1315,11 @@
       "t": "mcq",
       "q": "In The Pan and the Lid, heated baking soda makes water drops once and not the second time. Why?",
       "options": [
-       "The baking soda was used up",
        "The lid was too hot",
-       "The flame was too low"
+       "The flame was too low",
+       "The baking soda was used up"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Heat split all the baking soda in the first heating, so none was left to split. If you chose the lid or the flame, remember that the lid was cold and the flame was the same."
      },
      "parent": "While it splits, the powder shifts and bubbles gently, almost like a liquid, because gas is leaving it. The third lid should stay dry, or show very few drops.",
@@ -1428,11 +1428,11 @@
       "t": "mcq",
       "q": "Why does ash not burn in a candle flame?",
       "options": [
-       "Its atoms have already joined with oxygen",
        "It is too dry",
-       "It is too small"
+       "It is too small",
+       "Its atoms have already joined with oxygen"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Burning is a fuel reacting with oxygen. Ash is what is left after that reaction, so it has nothing more to give. If you chose dry or small, remember that dry paper and small leaves burn well."
      },
      "parent": "The reason: burning is a reaction between a fuel and oxygen. Paper and leaves were made by plants. They are built from carbon and hydrogen, which join with oxygen and give out heat. Water is hydrogen that has already joined with oxygen. Stone and ash are also joined with oxygen already. Salt is sodium joined with chlorine. A thick steel spoon carries the heat away. Very fine steel wool can burn.",
@@ -1781,12 +1781,12 @@
      "t": "mcq",
      "p": "What happens to the atoms in a chemical reaction?",
      "opts": [
-      "They get new partners",
       "They are destroyed",
       "They turn into other atoms",
-      "They stop moving"
+      "They stop moving",
+      "They get new partners"
      ],
-     "a": 0,
+     "a": 3,
      "why": "A reaction breaks some bonds and makes new ones. Every atom is still there afterwards, joined to new partners.",
      "outcome": 0
     },
@@ -1903,12 +1903,12 @@
      "t": "mcq",
      "p": "Vinegar is added to soap water. What do you see?",
      "opts": [
-      "The water turns milky white",
       "The foam gets taller",
+      "The water turns milky white",
       "A flame appears",
       "Nothing changes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Soap and vinegar swap parts. One product is a waxy solid that does not dissolve, so the water turns milky.",
      "outcome": 3,
      "how": "e3"
@@ -1983,12 +1983,12 @@
      "t": "mcq",
      "p": "Which of these is a fuel?",
      "opts": [
-      "Candle wax",
       "Water",
       "Sand",
+      "Candle wax",
       "Ash"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Wax is made of carbon and hydrogen, which can join with oxygen. Water, sand and ash are already joined with oxygen.",
      "outcome": 5
     }
@@ -2030,12 +2030,12 @@
      "t": "mcq",
      "p": "A candle under a glass goes out while wax is still left. Which reactant ran low?",
      "opts": [
-      "Oxygen",
       "Wax",
       "Carbon dioxide",
-      "Water"
+      "Water",
+      "Oxygen"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Burning needs fuel and oxygen. The glass keeps new air out, so the oxygen runs low and the flame stops.",
      "outcome": 6
     },
@@ -2229,12 +2229,12 @@
      "t": "mcq",
      "p": "Vinegar and baking soda swap parts and then fizz. Which step makes the gas?",
      "opts": [
-      "Carbonic acid splits",
       "Two gases join",
       "The vinegar burns",
-      "Water swaps with air"
+      "Water swaps with air",
+      "Carbonic acid splits"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The swap makes carbonic acid. Carbonic acid then splits into water and carbon dioxide gas, which is the fizz.",
      "outcome": 7
     },
@@ -2242,12 +2242,12 @@
      "t": "mcq",
      "p": "People once said a burning thing loses a substance. Which finding does not fit that idea?",
      "opts": [
-      "Metals get heavier when they burn",
       "Wood leaves a little light ash",
       "Flames give out heat",
+      "Metals get heavier when they burn",
       "Candles get shorter"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A thing that only loses something cannot get heavier. Burning metals gain weight because they join with oxygen.",
      "outcome": 5
     },
@@ -2255,12 +2255,12 @@
      "t": "mcq",
      "p": "A mix holds twice the water that its plaster can join with. What happens to the extra water?",
      "opts": [
-      "It is left over",
       "It becomes plaster",
       "It makes the cast harder",
+      "It is left over",
       "It turns into heat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Plaster joins with a fixed amount of water. When the plaster is used up, the rest of the water is left over and dries away.",
      "outcome": 6
     },
@@ -2415,12 +2415,12 @@
    "t": "mcq",
    "p": "What does burning need, besides a fuel and some heat to start?",
    "opts": [
-    "Oxygen",
     "Water",
     "Carbon dioxide",
+    "Oxygen",
     "Salt"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Burning is a fuel reacting with oxygen. Water and carbon dioxide are what burning makes.",
    "outcome": 5
   },
@@ -2428,12 +2428,12 @@
    "t": "mcq",
    "p": "Why does lemon juice make curds in hot milk?",
    "opts": [
-    "Acid makes casein clusters stick together",
     "Lemon juice freezes the milk",
     "Lemon juice dries the milk",
-    "Lemon pulp turns white"
+    "Lemon pulp turns white",
+    "Acid makes casein clusters stick together"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The acid cancels the charge that keeps the casein clusters apart. They stick together and come out as curds.",
    "outcome": 4
   },
@@ -2441,12 +2441,12 @@
    "t": "mcq",
    "p": "Plaster of Paris sets hard while it is still wet. What happened to the water?",
    "opts": [
-    "It joined with the plaster",
     "It dried into the air",
     "It sank to the bottom",
-    "It turned into a gas"
+    "It turned into a gas",
+    "It joined with the plaster"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Plaster and water join and make one new solid. The water is locked inside the solid.",
    "outcome": 1
   },
@@ -2454,12 +2454,12 @@
    "t": "mcq",
    "p": "A reaction stops, although plenty of one reactant is left. What is the most likely reason?",
    "opts": [
-    "The other reactant is used up",
     "The atoms have worn out",
     "The products have escaped",
-    "The bowl is too large"
+    "The bowl is too large",
+    "The other reactant is used up"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A reaction needs every reactant. When one is used up, the reaction stops, however much of the other is left.",
    "outcome": 6
   },
@@ -2467,12 +2467,12 @@
    "t": "mcq",
    "p": "Soap and vinegar make a white solid and a dissolved salt. What kind of reaction is this?",
    "opts": [
-    "Swapping",
     "Joining",
     "Splitting",
+    "Swapping",
     "Burning"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Two substances exchange parts and make two new substances. The sodium and the hydrogen change places.",
    "outcome": 3
   },
@@ -2487,12 +2487,12 @@
    "t": "mcq",
    "p": "Which of these will not burn in a candle flame?",
    "opts": [
-    "Ash",
     "Paper",
     "A dry leaf",
+    "Ash",
     "A cotton thread"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Ash is what is left after burning. Its atoms have already joined with oxygen.",
    "outcome": 5
   },
@@ -2500,12 +2500,12 @@
    "t": "mcq",
    "p": "Dry baking soda is heated, and drops of water collect on a cold lid. Where did the water come from?",
    "opts": [
-    "From the baking soda as it split",
     "From the steel of the lid",
     "From the air in the kitchen",
-    "From the gas cylinder"
+    "From the gas cylinder",
+    "From the baking soda as it split"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Heat splits baking soda into washing soda, water and carbon dioxide. The water leaves as steam and turns to drops on the cold lid.",
    "outcome": 2
   },
@@ -2513,12 +2513,12 @@
    "t": "mcq",
    "p": "Which reaction fits two kinds at once?",
    "opts": [
-    "Hydrogen burning to make water",
     "Sand drying in the sun",
     "Sugar dissolving in tea",
+    "Hydrogen burning to make water",
     "Ice melting"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Hydrogen burning is a fuel reacting with oxygen, and it is two substances becoming one. The other three are not chemical reactions.",
    "outcome": 7
   },
@@ -2526,12 +2526,12 @@
    "t": "mcq",
    "p": "What is a precipitate?",
    "opts": [
-    "A solid formed inside a liquid",
     "A gas that escapes from a liquid",
+    "A solid formed inside a liquid",
     "A liquid that dissolves a solid",
     "A powder that is stirred into water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A precipitate is a new solid that appears inside a liquid, because one product does not dissolve.",
    "outcome": 4
   }

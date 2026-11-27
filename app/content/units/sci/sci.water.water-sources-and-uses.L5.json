@@ -692,11 +692,11 @@
       "t": "mcq",
       "q": "A lake has a river flowing in and no river flowing out. What happens to its water over many years?",
       "options": [
-       "It gets saltier",
        "It gets fresher",
-       "It stays the same"
+       "It stays the same",
+       "It gets saltier"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Water leaves the lake only by evaporation, and evaporation leaves the salts behind. The river keeps bringing more, so the salts build up. If you chose 'fresher', remember that the river's water carries a little salt in, and none can leave."
      },
      "parent": "Children often call every lake fresh and every 'sea' salty. The Caspian Sea and Sambhar Lake are there to test that. Praise a good reason even when the heading is wrong.",
@@ -1085,11 +1085,11 @@
       "t": "mcq",
       "q": "In Freeze the Sea, why must the taster not know which drop is which?",
       "options": [
-       "So a guess cannot change what they taste",
        "So the drops stay cold",
+       "So a guess cannot change what they taste",
        "So the test is quicker"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A person who expects the ice to be fresh may taste it as fresh. Not knowing keeps the judgement honest. Scientists call this a blind test. If you chose another answer, think about what you expected before you tasted."
      },
      "parent": "Most tasters find LEFT OVER clearly the saltiest and ICE the least salty. The melted ice usually still tastes a little salty. If two samples seem alike, taste that pair again.",
@@ -1853,11 +1853,11 @@
       "t": "mcq",
       "q": "In The Island Well, a straw takes a sample from the clear top layer. What colour is it?",
       "options": [
-       "Clear, because it is fresh water",
        "Blue, because blue water rises",
+       "Clear, because it is fresh water",
        "Pale blue, because the layers have mixed"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The fresh water floats on top of the heavier blue salt water, and the two layers stay apart if nobody disturbs them. A top sample is clear. If you chose pale blue, the layers may have mixed because the pouring was too fast."
      },
      "parent": "Do the top sample gently, so that the straw does not drag blue water upward. If the top sample looks blue, the straw went too deep or the layers have mixed.",
@@ -1959,11 +1959,11 @@
       "t": "mcq",
       "q": "In Pin the Fresh Water, which pin shows the largest store of fresh water?",
       "options": [
-       "White, for the ice on Antarctica",
        "Blue, for Lake Baikal",
+       "White, for the ice on Antarctica",
        "Green, for the Ganga plain's groundwater"
       ],
-      "a": 0,
+      "a": 1,
       "why": "About nine tenths of the world's ice lies on Antarctica, and ice is about two thirds of all fresh water. Lake Baikal holds about a fifth of the world's fresh lake and river water, and groundwater holds about 100 times more than all the lakes and rivers. If you chose Baikal or the groundwater, check the One Litre Earth heaps again."
      },
      "parent": "Use a phone map if the atlas does not show a place. The Great Lakes are on the border of the United States and Canada. The Ganga plain holds one of the great groundwater stores of the world, and many wells and borewells draw on it.",
@@ -2291,11 +2291,11 @@
       "t": "mcq",
       "q": "In Fresher Ice, why must the taster not know which sample is which?",
       "options": [
-       "So a guess cannot change the result",
        "So the taster tastes faster",
+       "So a guess cannot change the result",
        "So the ice stays cold"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A taster who expects a double-freeze sample to be fresher might taste it as fresher. Not knowing keeps the result honest. If you chose another answer, think about what a person who knows might expect to taste."
      },
      "parent": "If the two tastes seem equal, your design did not take out more salt than a single freeze. That is a result, and a useful one. Try a different change, and test again.",
@@ -2441,12 +2441,12 @@
      "t": "mcq",
      "p": "Out of every 1,000 parts of Earth's water, about how many are fresh?",
      "opts": [
-      "About 25",
       "About 250",
       "About 500",
-      "About 975"
+      "About 975",
+      "About 25"
      ],
-     "a": 0,
+     "a": 3,
      "why": "About 975 parts are salty and about 25 are fresh. That is 2 and a half parts in 100. If you chose a larger number, remember that most of the water is in the salty sea.",
      "outcome": 1
     },
@@ -2526,12 +2526,12 @@
      "t": "mcq",
      "p": "What changes liquid water into water vapour?",
      "opts": [
-      "Heat entering the water",
       "Heat leaving the water",
       "Adding salt",
-      "Stirring the water"
+      "Stirring the water",
+      "Heat entering the water"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Heat entering a liquid lets its particles fly off as a gas. This is evaporation. Heat leaving the water makes it freeze or the vapour condense.",
      "outcome": 2
     },
@@ -2607,12 +2607,12 @@
      "t": "mcq",
      "p": "A person drinks a litre of sea water. What happens to the water in their body?",
      "opts": [
-      "The body loses more water than it drank",
       "The body gains one litre of water",
       "The body stays the same",
-      "The body loses only salt"
+      "The body loses only salt",
+      "The body loses more water than it drank"
      ],
-     "a": 0,
+     "a": 3,
      "why": "To get rid of the salt, the kidneys need more than a litre of the body's own water. So the person ends up with less water than before.",
      "outcome": 4
     },
@@ -2766,12 +2766,12 @@
      "t": "mcq",
      "p": "Why does a lake with no river flowing out turn salty over many years?",
      "opts": [
-      "Water leaves only by evaporation, and the salt stays",
       "Rain brings salt down from the clouds",
+      "Water leaves only by evaporation, and the salt stays",
       "The fish make salt",
       "The lake bed makes new salt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rivers carry a little dissolved salt into the lake. Water leaves only as vapour, and the salt cannot. So the salt builds up, year after year.",
      "outcome": 5
     },
@@ -2834,12 +2834,12 @@
      "t": "mcq",
      "p": "Why is a potato stick in very salty water limp after an hour?",
      "opts": [
-      "Water left its cells towards the saltier side",
       "Salt ate away the potato",
+      "Water left its cells towards the saltier side",
       "The stick soaked up the salt",
       "The water was too cold"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water moves through the thin skin of a cell towards the saltier side. The cells lose water and go slack, so the stick bends.",
      "outcome": 4,
      "how": "e2"
@@ -2917,12 +2917,12 @@
      "t": "mcq",
      "p": "Sea water holds 35 grams of salt in a litre. Suppose urine holds at most 20. How much urine carries that salt?",
      "opts": [
-      "About 1.75 litres",
       "About half a litre",
       "About 35 litres",
+      "About 1.75 litres",
       "Exactly 1 litre"
      ],
-     "a": 0,
+     "a": 2,
      "why": "35 grams divided by 20 grams in each litre is 1.75 litres. The person drank 1 litre, so the body loses three quarters of a litre more than it took in.",
      "outcome": 4
     },
@@ -2945,12 +2945,12 @@
      "t": "mcq",
      "p": "Which melting ice would add the most water to the sea?",
      "opts": [
-      "The ice sheets on Greenland and Antarctica",
       "The sea ice around the North Pole",
+      "The ice sheets on Greenland and Antarctica",
       "Ice cubes floating in a tumbler",
       "An iceberg that is already floating"
      ],
-     "a": 0,
+     "a": 1,
      "why": "These ice sheets sit on land, like the ice in the strainer. Their melt water is new water for the sea. The others already float.",
      "outcome": 6
     },
@@ -3008,12 +3008,12 @@
      "t": "mcq",
      "p": "Freezing sea water gives ice that is not perfectly fresh. What is the best explanation?",
      "opts": [
-      "Pockets of salty liquid are trapped between the ice crystals",
       "Ice makes a little new salt",
       "The freezer adds salt to the ice",
+      "Pockets of salty liquid are trapped between the ice crystals",
       "The water did not freeze at all"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Ice crystals push most salt out, but salty liquid gets trapped in small pockets between them. That is why old sea ice, where the pockets have drained, is nearly fresh.",
      "outcome": 3
     },
@@ -3063,12 +3063,12 @@
      "t": "mcq",
      "p": "Which statement about the three forms of water is true?",
      "opts": [
-      "Most of Earth's water is liquid",
       "Most of Earth's water is ice",
       "Most of Earth's water is vapour",
+      "Most of Earth's water is liquid",
       "Most of Earth's water is cloud"
      ],
-     "a": 0,
+     "a": 2,
      "why": "About 98 of every 100 parts of Earth's water are liquid, in the sea and under the ground. Nearly 2 parts are ice, and vapour is only about 1 part in 100,000.",
      "outcome": 2
     },
@@ -3087,12 +3087,12 @@
    "t": "mcq",
    "p": "About how many grams of salt does one litre of sea water hold?",
    "opts": [
-    "About 35",
     "About 3.5",
     "About 350",
-    "About 0.35"
+    "About 0.35",
+    "About 35"
    ],
-   "a": 0,
+   "a": 3,
    "why": "A litre of sea water holds about 35 grams of dissolved salts, which is about 6 level teaspoons. Fresh water holds under 1 gram.",
    "outcome": 0
   },
@@ -3100,12 +3100,12 @@
    "t": "mcq",
    "p": "In One Litre Earth, what stands for all the fresh lakes and rivers in the world?",
    "opts": [
-    "One drop",
     "One teaspoon",
     "A full tumbler",
-    "Half the bottle"
+    "Half the bottle",
+    "One drop"
    ],
-   "a": 0,
+   "a": 3,
    "why": "All the fresh lakes and rivers together are less than one tenth of one part in 1,000. That is about one drop in a litre.",
    "outcome": 1,
    "how": "a1"
@@ -3114,12 +3114,12 @@
    "t": "mcq",
    "p": "A cloud is made of what?",
    "opts": [
-    "Tiny drops of water or tiny bits of ice",
     "Water vapour only",
     "Smoke",
+    "Tiny drops of water or tiny bits of ice",
     "Dust"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water vapour is invisible. A cloud forms when vapour condenses into tiny drops, or freezes into tiny bits of ice, which are big enough to see.",
    "outcome": 2
   },
@@ -3127,12 +3127,12 @@
    "t": "mcq",
    "p": "Which change takes the salt out of sea water?",
    "opts": [
-    "Evaporation",
     "Stirring",
     "Pouring through a cloth",
+    "Evaporation",
     "Cooling it a little"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Only the water particles fly into the air. The salt stays behind. Stirring and a cloth do not separate dissolved salt.",
    "outcome": 3
   },
@@ -3140,12 +3140,12 @@
    "t": "mcq",
    "p": "Why does a person who drinks sea water become thirstier?",
    "opts": [
-    "The kidneys need extra water to remove the salt",
     "Sea water is hot",
+    "The kidneys need extra water to remove the salt",
     "The body keeps the salt and loses nothing",
     "Sea water has no water in it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The kidneys can make urine only a little more than half as salty as sea water. So they must use extra body water to carry the salt out.",
    "outcome": 4
   },
@@ -3153,12 +3153,12 @@
    "t": "mcq",
    "p": "Why does fresh water float on sea water?",
    "opts": [
-    "A litre of it has less mass",
     "It is colder",
+    "A litre of it has less mass",
     "It has no colour",
     "It moves faster"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A litre of fresh water has a mass of about 1,000 grams and a litre of sea water about 1,025 grams. The lighter water floats.",
    "outcome": 5,
    "how": "a3"
@@ -3167,12 +3167,12 @@
    "t": "mcq",
    "p": "Which melting ice raises the sea?",
    "opts": [
-    "Ice on land, such as on Greenland",
     "Ice floating at the North Pole",
+    "Ice on land, such as on Greenland",
     "Ice cubes floating in a tumbler",
     "Sea ice that already floats"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Ice on land adds new water to the sea. Floating ice already pushes aside its own weight of water, so it changes the level very little.",
    "outcome": 6,
    "how": "e3"
@@ -3181,12 +3181,12 @@
    "t": "mcq",
    "p": "Why does a fair test change only one thing at a time?",
    "opts": [
-    "So that we know what caused the difference",
     "So the test is quicker",
     "So there is less to wash up",
+    "So that we know what caused the difference",
     "So the result is bigger"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If two things change, we cannot tell which one caused the result. In Freeze the Sea, only the salt differed between the bowls.",
    "outcome": 7,
    "how": "e1"
@@ -3195,12 +3195,12 @@
    "t": "mcq",
    "p": "What takes the largest share of the fresh water that people use, worldwide?",
    "opts": [
-    "Farms",
     "Homes",
     "Industry",
+    "Farms",
     "Swimming pools"
    ],
-   "a": 0,
+   "a": 2,
    "why": "About 7 of every 10 litres go to farms, because growing plants take up a great deal of water. Homes use about 1 in 10.",
    "outcome": 5
   },
@@ -3235,12 +3235,12 @@
    "t": "mcq",
    "p": "Which water is brackish?",
    "opts": [
-    "Water where a river meets the sea",
     "Rain",
     "Glacier ice",
-    "Water from a village well in the hills"
+    "Water from a village well in the hills",
+    "Water where a river meets the sea"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Brackish water is saltier than fresh water but less salty than the sea. Rivers and the sea mix where a river reaches the coast.",
    "outcome": 0
   }

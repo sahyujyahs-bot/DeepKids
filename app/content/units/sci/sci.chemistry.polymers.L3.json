@@ -516,11 +516,11 @@
       "t": "mcq",
       "q": "Which heading does a rubber band go under?",
       "options": [
-       "Made by living beings",
        "Made by people",
-       "Not a polymer"
+       "Not a polymer",
+       "Made by living beings"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Most rubber bands are made of natural rubber, which comes from the latex of the rubber tree. Factories shape it, but the tree made the long chains. If you said 'made by people', that is a fair guess: some rubber is made in factories from oil."
      }
     },
@@ -659,11 +659,11 @@
       "t": "mcq",
       "q": "What does a cross-link do?",
       "options": [
-       "Ties two polymer chains together",
        "Breaks a chain into small pieces",
-       "Makes a chain shorter"
+       "Makes a chain shorter",
+       "Ties two polymer chains together"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A cross-link is a tie between two chains. In slime, borax makes cross-links. In the game, a cross-link gives you and another player one extra link each."
      }
     }
@@ -827,11 +827,11 @@
       "t": "mcq",
       "q": "Which ball would you expect to spread least on the plate?",
       "options": [
+       "The ball from cup 6",
        "The ball from cup 1",
-       "The ball from cup 3",
-       "The ball from cup 6"
+       "The ball from cup 3"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Cup 6 had the most borax water, so it has the most ties between the glue's long molecules. The tied chains cannot slide past each other easily, so the ball keeps its shape. If you chose cup 1, look again: it had the fewest ties, so its chains slide and it spreads out."
      },
      "parent": "Measure across the middle of each ball. The firmest ball usually spreads only a little. A soft one can double in width."
@@ -1033,11 +1033,11 @@
       "t": "mcq",
       "q": "Why can the rubber near the knot hold a skewer without bursting?",
       "options": [
-       "Its long chains are not yet stretched much, so they can stretch around the skewer",
        "The oil glues the hole shut",
-       "There is less air near the knot"
+       "There is less air near the knot",
+       "Its long chains are not yet stretched much, so they can stretch around the skewer"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Near the knot the rubber is thicker and less stretched. Its long chains still have room to stretch, so they grip the skewer instead of tearing. On the side, the chains are already stretched nearly to their limit, so a small hole tears open. The oil only helps the skewer slide in."
      }
     }
@@ -1152,11 +1152,11 @@
       "t": "mcq",
       "q": "The narrow part stopped stretching, and the next part of the strip began to stretch. Why?",
       "options": [
-       "Its chains were pulled straight and lined up, so it got harder to stretch",
        "The marker ink made it stiff",
+       "Its chains were pulled straight and lined up, so it got harder to stretch",
        "That part of the plastic was thicker to begin with"
       ],
-      "a": 0,
+      "a": 1,
       "why": "In the narrow part, the coiled chains were straightened and lined up side by side. Lined-up chains hold on to each other along their length, so that part gets stronger. The pull then stretches the next part. Factories stretch plastic on purpose to make strong ropes and tapes in this way."
      }
     }
@@ -1727,12 +1727,12 @@
    "t": "mcq",
    "p": "Which of these is a polymer?",
    "opts": [
-    "The plastic of a milk packet",
     "A grain of salt",
     "A drop of water",
+    "The plastic of a milk packet",
     "A steel nail"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Polythene, the plastic of a milk packet, is long chains of carbon atoms. Salt, water and steel are not made of chains.",
    "outcome": 0
   },
@@ -1766,12 +1766,12 @@
    "t": "mcq",
    "p": "What does borax do when it is stirred into white glue?",
    "opts": [
-    "It ties the glue's long molecules to each other",
     "It dries the glue",
+    "It ties the glue's long molecules to each other",
     "It melts the glue",
     "It cuts the glue's molecules into short pieces"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Borax makes cross-links between the glue's chains. The tied chains form one net, which is slime.",
    "outcome": 2
   },
@@ -1779,12 +1779,12 @@
    "t": "mcq",
    "p": "You make two slimes. One has 2 teaspoons of borax water and the other has 5. Which will spread out more on a plate?",
    "opts": [
-    "The one with 2 teaspoons",
     "The one with 5 teaspoons",
     "Both the same",
+    "The one with 2 teaspoons",
     "Neither will spread"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Fewer teaspoons means fewer ties. The chains can slide more, so the slime spreads more.",
    "outcome": 3,
    "how": "e1"
@@ -1807,12 +1807,12 @@
    "t": "mcq",
    "p": "Why does a rubber tree make latex?",
    "opts": [
-    "It seals cuts in the bark and gums up biting insects",
     "To give people rubber",
     "To make the tree grow taller",
-    "To drink water"
+    "To drink water",
+    "It seals cuts in the bark and gums up biting insects"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The tree makes latex for their own protection. People collect it, but it is the tree's way of healing cuts and fending off insects.",
    "outcome": 1
   },
@@ -1820,12 +1820,12 @@
    "t": "mcq",
    "p": "Why does plastic last so long when it is thrown on the soil?",
    "opts": [
-    "Very few living beings can yet break its long chains",
     "It is too heavy to move",
     "Rain cannot reach it",
-    "It is made of metal"
+    "It is made of metal",
+    "Very few living beings can yet break its long chains"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Microbes break down cotton, paper and peels. Plastic chains are new, and almost no microbe can break them yet.",
    "outcome": 5
   },
@@ -1833,12 +1833,12 @@
    "t": "mcq",
    "p": "Slime pulled slowly makes a long thread. What happens when it is pulled with a quick tug?",
    "opts": [
-    "It snaps",
     "It stretches even longer",
     "It melts",
+    "It snaps",
     "It turns into a liquid"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The ties between chains need a moment to let go and re-join. A quick tug breaks them first, so the slime snaps.",
    "outcome": 2
   },
@@ -1846,12 +1846,12 @@
    "t": "mcq",
    "p": "Rubber can stretch to many times its length and spring back. Which idea about what rubber is made of explains this best?",
    "opts": [
-    "Very long chains of atoms that can uncoil and coil up again",
     "Tiny round balls packed tightly",
+    "Very long chains of atoms that can uncoil and coil up again",
     "It is a kind of metal",
     "Nothing: rubber cannot stretch"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Long, coiled chains can be pulled straight and then curl back up, like a tangle of springs. Small round pieces could not stretch so far. Scientists once doubted giant chain molecules, but tests showed they are real.",
    "outcome": 6
   },
@@ -1859,12 +1859,12 @@
    "t": "mcq",
    "p": "Why do factories heat rubber with sulfur to make tyres?",
    "opts": [
-    "Sulfur ties the rubber chains together, so the rubber stays springy in heat",
     "Sulfur makes the rubber black",
     "Sulfur makes the rubber lighter",
-    "Sulfur makes the rubber smell nice"
+    "Sulfur makes the rubber smell nice",
+    "Sulfur ties the rubber chains together, so the rubber stays springy in heat"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Sulfur makes cross-links, like borax in slime. The tied chains cannot slide apart, so a tyre keeps its shape on a hot road.",
    "outcome": 2
   },
@@ -1872,12 +1872,12 @@
    "t": "mcq",
    "p": "When you pull a strip of milk packet slowly, one part goes long and narrow. What happens to the chains in that part?",
    "opts": [
-    "They were pulled straight and lined up",
     "They melted",
     "They disappeared",
-    "They turned into rubber"
+    "They turned into rubber",
+    "They were pulled straight and lined up"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Pulling straightens the coiled chains and lines them up side by side. That part gets harder to stretch.",
    "outcome": 4,
    "how": "e3"
@@ -1894,12 +1894,12 @@
      "t": "mcq",
      "p": "What is a polymer?",
      "opts": [
-      "A very long molecule made of many small pieces joined in a chain",
       "A very small, round molecule",
       "A kind of metal",
+      "A very long molecule made of many small pieces joined in a chain",
       "A liquid that never flows"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A polymer is a very long chain molecule. 'Poly' means many. A strong answer could add an example, such as silk or plastic."
     },
     {
@@ -2105,24 +2105,24 @@
      "t": "mcq",
      "p": "Raw rubber goes soft and sticky on a hot day. Factories heat it with sulfur to make tyres. What does the sulfur do?",
      "opts": [
-      "It ties the rubber chains to each other, so they cannot slide apart",
       "It makes the rubber chains shorter",
+      "It ties the rubber chains to each other, so they cannot slide apart",
       "It turns the rubber into a metal",
       "It dries the rubber out"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Sulfur makes cross-links between rubber chains, as borax does in slime. The tied chains cannot slide past each other, so the rubber stays springy in heat."
     },
     {
      "t": "mcq",
      "p": "A blob of slime slowly spreads out on a plate, but a rubber band keeps its shape. Both have ties between their chains. What is different about the ties?",
      "opts": [
-      "The ties in slime keep breaking and joining again, but the ties in vulcanised rubber stay",
       "Slime has no ties at all",
       "The rubber band has no chains",
-      "Slime has more sulfur"
+      "Slime has more sulfur",
+      "The ties in slime keep breaking and joining again, but the ties in vulcanised rubber stay"
      ],
-     "a": 0,
+     "a": 3,
      "why": "In slime, the borax ties let go and join again, so the chains slowly slide and the slime flows. In vulcanised rubber, sulfur makes ties that stay, so a tyre or a band keeps its shape."
     },
     {
@@ -2200,12 +2200,12 @@
      "t": "mcq",
      "p": "In the skewer test, an oiled skewer went into a balloon near the knot without popping it. Why did it not pop?",
      "opts": [
-      "The rubber there is thick and not stretched much, so its chains can stretch around the skewer",
       "The oil fills the hole",
       "The air near the knot is colder",
-      "Skewers never pop balloons"
+      "Skewers never pop balloons",
+      "The rubber there is thick and not stretched much, so its chains can stretch around the skewer"
      ],
-     "a": 0,
+     "a": 3,
      "why": "Near the knot, the rubber's long chains still have room to stretch. On the thin sides, they are stretched nearly to their limit, so a small hole tears open.",
      "how": "e2"
     },
@@ -2292,12 +2292,12 @@
      "t": "mcq",
      "p": "Hermann Staudinger added hydrogen to rubber and found it was still made of giant molecules. Why did this matter?",
      "opts": [
-      "If rubber were a loose clump of small molecules, changing it should have broken it into small pieces",
       "It made rubber bouncier",
       "It proved rubber comes from trees",
+      "If rubber were a loose clump of small molecules, changing it should have broken it into small pieces",
       "It showed that hydrogen is a polymer"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Most chemists thought rubber was a clump of small molecules. A clump should fall apart when its chemistry changes. It did not, which pointed to real giant molecules."
     },
     {
@@ -2333,12 +2333,12 @@
      "t": "mcq",
      "p": "A silkworm's silk is a runny liquid inside their body, but it becomes a strong thread as they pull it out. What happens to the silk's chains as it is pulled?",
      "opts": [
-      "They line up side by side",
       "They break into small pieces",
+      "They line up side by side",
       "They turn into water",
       "They melt"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Pulling lines up the long protein chains. Lined-up chains hold on to each other along their length, so the liquid becomes a solid thread. The stretched milk packet showed the same thing."
     },
     {

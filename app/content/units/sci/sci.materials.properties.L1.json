@@ -610,11 +610,11 @@
       "t": "mcq",
       "q": "Why did the zigzag bridge hold more coins?",
       "options": [
-       "Its folds made the paper stiff",
        "The coins were lighter",
-       "Zigzag paper is a different material"
+       "Zigzag paper is a different material",
+       "Its folds made the paper stiff"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The paper was the same material. Folding it into a zigzag changed its shape, and that made it stiff."
      }
     }
@@ -774,11 +774,11 @@
       "t": "mcq",
       "q": "Which surface would leave the plainest rubbing?",
       "options": [
-       "A smooth floor tile",
        "A rough doormat",
-       "A coconut shell"
+       "A coconut shell",
+       "A smooth floor tile"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A smooth surface has no bumps big enough to push up into the crayon, so the colour comes out plain."
      }
     }
@@ -849,11 +849,11 @@
       "t": "mcq",
       "q": "A steel spoon is stiff. A thin steel wire bends easily. Why?",
       "options": [
-       "The wire is much thinner",
        "The wire is made of cloth",
+       "The wire is much thinner",
        "The spoon is soft"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Both are steel. A thin piece of a material bends more easily than a thick piece."
      }
     }
@@ -1062,11 +1062,11 @@
       "t": "mcq",
       "q": "Which test tells you if a thing is rough?",
       "options": [
-       "Stroke it with your finger",
        "Shine a torch on it",
-       "Smell it"
+       "Smell it",
+       "Stroke it with your finger"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your finger feels the bumps on a rough surface. A smooth surface feels flat and even."
      }
     }
@@ -1192,11 +1192,11 @@
       "t": "mcq",
       "q": "The clues are: hard, smooth, shiny. Which thing could it be?",
       "options": [
-       "A steel plate",
        "A cotton towel",
+       "A steel plate",
        "A doormat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steel plate is hard, smooth and shiny. A towel is soft and dull, and a doormat is rough."
      }
     }
@@ -1497,11 +1497,11 @@
      "t": "mcq",
      "p": "You smooth kitchen foil flat and see a blurry face in it. Then you crumple the foil into a ball. What will you see now?",
      "opts": [
-      "No face at all",
       "A clearer face",
+      "No face at all",
       "The same blurry face"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Crumpled foil has many bumps and folds. They send the light off in many directions, so no face comes back.",
      "how": "c1"
     },
@@ -1631,11 +1631,11 @@
      "t": "mcq",
      "p": "The sole of a chappal is rough underneath. Why is that useful?",
      "opts": [
-      "The bumps grip the floor, so your foot does not slip",
       "The bumps make the chappal shine",
-      "The bumps make the chappal lighter"
+      "The bumps make the chappal lighter",
+      "The bumps grip the floor, so your foot does not slip"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A rough surface has bumps that catch on the floor. A smooth sole slides more easily."
     },
     {
@@ -1724,11 +1724,11 @@
    "t": "mcq",
    "p": "What do we call words like hard, soft, rough and shiny?",
    "opts": [
-    "Properties",
     "Materials",
-    "Colours"
+    "Colours",
+    "Properties"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Properties tell us what a material is like. A material is what a thing is made of.",
    "outcome": 1
   },
@@ -1748,11 +1748,11 @@
    "t": "mcq",
    "p": "Why does a mirror shine?",
    "opts": [
-    "Its surface is very smooth",
     "It is soft",
+    "Its surface is very smooth",
     "It makes its own light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A very smooth surface reflects light back in one direction. A mirror does not make light. In a dark room it does not shine.",
    "outcome": 2
   },
@@ -1772,11 +1772,11 @@
    "t": "mcq",
    "p": "Which of these is shiny but is NOT made of metal?",
    "opts": [
-    "A glass bottle",
     "A steel plate",
+    "A glass bottle",
     "A brass lamp"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Glass is very smooth, so it shines. Steel and brass are metals.",
    "outcome": 2
   },
@@ -1784,11 +1784,11 @@
    "t": "mcq",
    "p": "Cardboard boxes have a wavy layer of paper inside. Why?",
    "opts": [
-    "The waves make the card stiff",
     "The waves make the card shiny",
-    "The waves make the card softer"
+    "The waves make the card softer",
+    "The waves make the card stiff"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A wavy layer is like the zigzag paper bridge. The shape makes thin paper stiff.",
    "outcome": 3
   },

@@ -881,11 +881,11 @@
       "t": "mcq",
       "q": "Idea A says the water leaked through the steel. Idea B says it came from the air. Which check can tell the ideas apart?",
       "options": [
-       "Put colour in the water inside and see if the drops are coloured",
        "Look at the tumbler for longer",
+       "Put colour in the water inside and see if the drops are coloured",
        "Ask three friends which idea they like"
       ],
-      "a": 0,
+      "a": 1,
       "why": "If the water leaked through, the drops would carry the colour. If it came from the air, the drops would be clear. Looking longer and asking friends give the same result under both ideas."
      }
     },
@@ -1124,11 +1124,11 @@
       "t": "mcq",
       "q": "The warm tumbler stayed dry. What does this tell us about the drops on the cold one?",
       "options": [
-       "The cold steel matters, because the same air did not make drops on the warm one",
        "The warm tumbler was too small",
+       "The cold steel matters, because the same air did not make drops on the warm one",
        "The ice made the drops by melting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The air and the room were the same for both tumblers. Only the steel temperature was different. So the cold steel is what made the drops form."
      }
     }
@@ -1312,11 +1312,11 @@
       "t": "mcq",
       "q": "Six people have an arm span within 4 centimetres of their height. Which claim goes too far?",
       "options": [
-       "Everybody in the world has an arm span exactly equal to their height",
        "In the people we measured, arm span was close to height",
+       "Everybody in the world has an arm span exactly equal to their height",
        "Arm span and height tend to go together"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Our six people can only show what happens for those six. 'Close' is not 'exactly'. And we cannot speak for everybody from a small sample."
      }
     }
@@ -1509,11 +1509,11 @@
       "t": "mcq",
       "q": "A row of dots has gaps that are all the same size. What is the best thing to say?",
       "options": [
-       "It looks like a signal, because a steady beat is unlikely to happen by chance",
        "It is noise, because it is boring",
+       "It looks like a signal, because a steady beat is unlikely to happen by chance",
        "It must be from a star"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A steady beat is a pattern, and random noise rarely makes one. Jocelyn Bell noticed such a regular beat on her chart. A pattern does not tell us where it came from. We still need to check, for example, whether it comes back at the same time."
      }
     },
@@ -1599,11 +1599,11 @@
       "t": "mcq",
       "q": "'Do taller people have longer feet?' Which column fits best?",
       "options": [
-       "Test it at home, by measuring many people",
        "Talk about it",
+       "Test it at home, by measuring many people",
        "Look it up only"
       ],
-      "a": 0,
+      "a": 1,
       "why": "You can measure feet and heights of many people at home and look for a pattern. You could also look it up. It is not about taste or fairness, so it does not need a talk."
      }
     },
@@ -1765,11 +1765,11 @@
       "t": "mcq",
       "q": "Which of these is an observation about a dripping tap?",
       "options": [
-       "It drips about twice every five seconds",
        "The washer is worn",
-       "It is trying to annoy us"
+       "It is trying to annoy us",
+       "It drips about twice every five seconds"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Counting drips is something you saw. A worn washer and a tap that is trying to annoy us are stories about why."
      }
     },
@@ -2118,11 +2118,11 @@
       "t": "mcq",
       "q": "The fridge video is as dark as the cupboard video. What does this suggest?",
       "options": [
-       "The fridge light goes off when the door is closed",
        "The fridge light stays on",
-       "The phone broke"
+       "The phone broke",
+       "The fridge light goes off when the door is closed"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The cupboard video shows how dark it looks when there is only the phone's own glow. If the fridge looked the same, there was no extra light, so the fridge light was off. The cupboard video was the control."
      }
     }
@@ -2141,10 +2141,10 @@
      "p": "Which sentence is an observation about a steel tumbler of ice water?",
      "opts": [
       "The tumbler leaked",
-      "There are small clear drops on the outside of the tumbler",
-      "The ice made the steel sweat"
+      "The ice made the steel sweat",
+      "There are small clear drops on the outside of the tumbler"
      ],
-     "a": 1,
+     "a": 2,
      "why": "An observation is what you can see, and anyone can check it. 'Leaked' and 'made the steel sweat' are stories about why the drops are there. They are inferences.",
      "outcome": 0
     },
@@ -2226,10 +2226,10 @@
      "p": "One idea is that ants find the sugar by smell. Another idea is that they follow a trail left by other ants. Which check can tell the ideas apart?",
      "opts": [
       "Count how many ants arrive",
-      "Wipe a short piece of the ants' path and watch what they do",
-      "Give the ants a bigger piece of sugar"
+      "Give the ants a bigger piece of sugar",
+      "Wipe a short piece of the ants' path and watch what they do"
      ],
-     "a": 1,
+     "a": 2,
      "why": "If the ants follow a trail, wiping a piece of it will confuse them. If they find the sugar alone by smell, they will carry on. Counting or giving more sugar gives the same result under both ideas.",
      "outcome": 2
     },
@@ -2326,11 +2326,11 @@
      "t": "mcq",
      "p": "In the Weeping Tumbler test, the water inside a cold tumbler is coloured red. The drops on the outside are clear. What is the best conclusion?",
      "opts": [
-      "The drops did not come from the water inside",
       "Colour cannot go through steel",
-      "The red colour was too weak"
+      "The red colour was too weak",
+      "The drops did not come from the water inside"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If the water inside had crossed the steel, the drops would carry the colour. They are clear, so the water came from somewhere else. The air is the likely source.",
      "outcome": 4,
      "how": "e1"
@@ -2373,11 +2373,11 @@
      "t": "mcq",
      "p": "On a normal day, why does a tumbler of warm water stay dry on the outside?",
      "opts": [
-      "The air next to a warm tumbler stays warm, so its water vapour does not turn into drops",
       "Warm water has no vapour",
-      "Warm water is too heavy to leak"
+      "Warm water is too heavy to leak",
+      "The air next to a warm tumbler stays warm, so its water vapour does not turn into drops"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Drops form when air touches something cold enough to turn some of its vapour into liquid. A warm tumbler does not cool the air next to it.",
      "outcome": 4
     },
@@ -2385,11 +2385,11 @@
      "t": "mcq",
      "p": "A cold bottle from the fridge gets wet outside in a damp kitchen but stays almost dry in a very dry winter room. What is the best reason?",
      "opts": [
-      "Dry air has less water vapour to collect",
       "The bottle leaks more in summer",
-      "The fridge is cold only in summer"
+      "The fridge is cold only in summer",
+      "Dry air has less water vapour to collect"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Condensation needs vapour in the air. When the air is dry, there is less vapour, so fewer drops form and they come more slowly.",
      "outcome": 4
     },
@@ -2452,11 +2452,11 @@
      "t": "mcq",
      "p": "Which gives a steadier pattern about arm span and height?",
      "opts": [
-      "Measuring 3 people",
       "Measuring 12 people",
+      "Measuring 3 people",
       "Measuring only the tallest person"
      ],
-     "a": 1,
+     "a": 0,
      "why": "More cases give a steadier pattern, because any one person may be a little odd. Measuring only one kind of person is also unfair.",
      "outcome": 5
     },
@@ -2618,11 +2618,11 @@
      "t": "mcq",
      "p": "A crackle on a radio comes at exactly 7 pm every day by the clock. What does that suggest?",
      "opts": [
-      "It probably comes from something that works on the clock, such as a neighbour's machine",
       "It comes from a distant star",
-      "It is a message from space"
+      "It is a message from space",
+      "It probably comes from something that works on the clock, such as a neighbour's machine"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Anything that returns at the same clock time each day follows human routines. A star would drift earlier each day.",
      "outcome": 2
     },
@@ -2693,11 +2693,11 @@
      "t": "mcq",
      "p": "Which sentence is a good if-then prediction?",
      "opts": [
-      "If the light is a timer, it will come on at the same clock time on a very cloudy evening",
       "If the light is a timer, it will come on",
-      "If it is cloudy, I will be sad"
+      "If it is cloudy, I will be sad",
+      "If the light is a timer, it will come on at the same clock time on a very cloudy evening"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A good prediction names the idea, the situation and the result you expect. It could turn out wrong.",
      "outcome": 3
     },
@@ -2781,11 +2781,11 @@
      "t": "mcq",
      "p": "A scientist wants to know how old the Moon is. Which way of finding out is best?",
      "opts": [
-      "A fair test at home",
       "Looking it up in the work of other scientists",
+      "A fair test at home",
       "Asking five friends to vote"
      ],
-     "a": 1,
+     "a": 0,
      "why": "We cannot change the Moon or watch its whole history at home. Other scientists have measured the age with rock samples and careful reasoning, and we can read what they found.",
      "outcome": 6
     },
@@ -2834,10 +2834,10 @@
    "p": "Which of these is an inference about a wet tumbler?",
    "opts": [
     "The outside is covered in small drops",
-    "The steel is sweating because it is hot inside",
-    "The tumbler is on a plate"
+    "The tumbler is on a plate",
+    "The steel is sweating because it is hot inside"
    ],
-   "a": 1,
+   "a": 2,
    "why": "'Sweating because it is hot inside' is a story about why. Even the idea of the tumbler 'sweating' is a story. The drops and the plate can be seen.",
    "outcome": 0
   },
@@ -2857,11 +2857,11 @@
    "t": "mcq",
    "p": "The water inside a cold tumbler is coloured. What would show that the drops on the outside came from the air?",
    "opts": [
-    "The drops are coloured",
     "The drops are clear",
+    "The drops are coloured",
     "There are no drops"
    ],
-   "a": 1,
+   "a": 0,
    "why": "If the water had leaked through, the drops would carry the colour. Clear drops fit the air idea.",
    "outcome": 4
   },
@@ -2930,10 +2930,10 @@
    "p": "A test gives a result nobody expected. What is the best first step?",
    "opts": [
     "Rub it out",
-    "Check how the test was done and repeat it",
-    "Change the idea to match"
+    "Change the idea to match",
+    "Check how the test was done and repeat it"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A surprise might be a slip, or it might be a discovery. Checking and repeating shows which.",
    "outcome": 7
   },
@@ -2953,11 +2953,11 @@
    "t": "mcq",
    "p": "Why do we write predictions before a test?",
    "opts": [
-    "So we cannot change our minds about what we expected after seeing the result",
     "So the test runs faster",
+    "So we cannot change our minds about what we expected after seeing the result",
     "So the answer is always right"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A written prediction cannot be changed by the result. That keeps the test honest.",
    "outcome": 3
   },

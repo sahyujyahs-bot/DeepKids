@@ -680,11 +680,11 @@
      "t": "mcq",
      "p": "In the food chain rice plant, grasshopper, frog, snake, which trophic level is the frog?",
      "opts": [
-      "Level 3",
       "Level 2",
+      "Level 3",
       "Level 4"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Counting from the producers, the rice plant is level 1, the grasshopper is level 2 and the frog is level 3. The snake is level 4.",
      "outcome": 0
     },
@@ -692,11 +692,11 @@
      "t": "mcq",
      "p": "What does the arrow in a food chain show?",
      "opts": [
-      "The way the energy goes, from the food to the eater",
       "Which animal is stronger",
+      "The way the energy goes, from the food to the eater",
       "Which animal eats first"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The arrow points from the eaten to the eater, because it shows the way the energy moves. Some children read the arrow as 'eats', and then they draw it pointing the wrong way.",
      "outcome": 0
     },
@@ -704,11 +704,11 @@
      "t": "mcq",
      "p": "An animal eats a lot of food. Where does most of the energy in that food end up?",
      "opts": [
-      "As heat, made when her cells use food to run her body",
       "As new body, so she grows a lot",
+      "As heat, made when her cells use food to run her body",
       "In the air as light"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Most of the energy is used by cells for movement, repair and keeping warm. That use is respiration, and it ends as heat. Only a small part becomes new body.",
      "outcome": 1
     },
@@ -869,11 +869,11 @@
      "t": "mcq",
      "p": "Why can the pyramid of numbers for a banyan tree be wide in the middle?",
      "opts": [
-      "One big tree can feed thousands of small animals",
       "The tree is not a producer",
-      "The insects are bigger than the tree"
+      "The insects are bigger than the tree",
+      "One big tree can feed thousands of small animals"
      ],
-     "a": 0,
+     "a": 2,
      "why": "One banyan has an enormous amount of leaf, so she can feed very many small animals. The count at the bottom is only one, so the pyramid of numbers is not shaped like a pyramid. Pyramids of biomass and energy would have a wide base.",
      "outcome": 2
     },
@@ -893,11 +893,11 @@
      "t": "mcq",
      "p": "A hen and a fish weigh the same. Why does the fish turn a larger share of her food into new body?",
      "opts": [
-      "The hen is warm-blooded and uses most of her food to keep warm",
       "Fish eat more than hens",
+      "The hen is warm-blooded and uses most of her food to keep warm",
       "Hens do not respire"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Warm-blooded animals make heat all the time to stay warm. That uses most of their food. A fish stays close to the water's temperature, so more of her food can become body.",
      "outcome": 1
     },
@@ -1090,11 +1090,11 @@
      "t": "mcq",
      "p": "Why do ecologists measure heavy nitrogen in an animal's body?",
      "opts": [
-      "Its heavy kind builds up a little at each step up the food chain, so it shows her level",
       "It shows how old she is",
+      "Its heavy kind builds up a little at each step up the food chain, so it shows her level",
       "It shows how fast she can run"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The heavy kind of nitrogen builds up a little at every step. By measuring it, scientists can tell what level an animal has fed at over a long time, even if they never saw her eat.",
      "outcome": 6
     },
@@ -1698,11 +1698,11 @@
       "t": "mcq",
       "q": "The banyan pyramid of numbers is wide in the middle. What does that tell us?",
       "options": [
-       "One big producer can feed very many small animals.",
        "The insects are more important than the tree.",
-       "The banyan tree is not a producer."
+       "The banyan tree is not a producer.",
+       "One big producer can feed very many small animals."
       ],
-      "a": 0,
+      "a": 2,
       "why": "A big tree has a large amount of leaf to share. So the number of animals is high even though there is only one tree. A pyramid of numbers can hide how important the tree is."
      },
      "context": "In this step, you make a pyramid of numbers for a banyan tree. Its shape is not a pyramid."
@@ -2132,11 +2132,11 @@
    "t": "mcq",
    "p": "Why do hunters at the top of a food chain need a large area to live in?",
    "opts": [
-    "Little energy reaches the top, so many levels of plants and animals are needed beneath them",
     "They like to walk far",
+    "Little energy reaches the top, so many levels of plants and animals are needed beneath them",
     "Plants grow slowly near hunters"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each step loses most of the energy. A hunter needs the food of many levels below her, so she needs a large area with a lot of plants.",
    "outcome": 1
   },
@@ -2144,11 +2144,11 @@
    "t": "mcq",
    "p": "A pyramid of numbers for one oak tree and the insects living on her is wide in the middle. What does this show?",
    "opts": [
-    "Counting beings can hide how much a big producer gives",
     "The oak is not a producer",
+    "Counting beings can hide how much a big producer gives",
     "Insects weigh more than the oak"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A single tree can feed thousands of insects. Counting gives one at the bottom, so the shape looks odd. A pyramid of energy would be wide at the bottom.",
    "outcome": 2
   },
@@ -2156,11 +2156,11 @@
    "t": "mcq",
    "p": "A warm-blooded hunter and a cold-blooded hunter eat the same weight of food. Who makes more new body?",
    "opts": [
-    "The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm",
     "The warm-blooded hunter, because she is bigger",
+    "The cold-blooded hunter, because the warm-blooded one spends more food on keeping warm",
     "They make the same amount"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Keeping the body warm uses a lot of food and ends as heat. Cold-blooded animals do less of this, so more of their food can become body.",
    "outcome": 1
   },
@@ -2168,11 +2168,11 @@
    "t": "mcq",
    "p": "What is detritus?",
    "opts": [
-    "Dead leaves, wood, dung and dead bodies, broken into pieces",
     "Only the soil under a tree",
-    "A kind of living fungus"
+    "A kind of living fungus",
+    "Dead leaves, wood, dung and dead bodies, broken into pieces"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Detritus is the dead matter that detritivores and decomposers eat. Soil is not only detritus, and a fungus is a living decomposer.",
    "outcome": 3
   },
@@ -2192,11 +2192,11 @@
    "t": "mcq",
    "p": "What happens to the atoms in a dead leaf?",
    "opts": [
-    "Decomposers and other eaters pass them on, and they return to the soil, water and air",
     "They disappear",
+    "Decomposers and other eaters pass them on, and they return to the soil, water and air",
     "They are turned into energy and leave as light"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Atoms are not destroyed. They move from leaf to fungus to animal and back to the air and soil. They are used again and again.",
    "outcome": 4
   },
@@ -2216,11 +2216,11 @@
    "t": "mcq",
    "p": "Why must a fair test of burning peanuts use the same amount of water and the same height for the tin?",
    "opts": [
-    "So that only one thing changes and any difference comes from that one thing",
     "So that the nuts burn faster",
+    "So that only one thing changes and any difference comes from that one thing",
     "So that the flame is bigger"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A fair test changes one thing at a time. If the water or the height changes too, we cannot tell which change caused the different result.",
    "outcome": 5
   },
@@ -2228,11 +2228,11 @@
    "t": "mcq",
    "p": "The water over a burning nut caught only a quarter of the nut's energy. Which statement is the best explanation?",
    "opts": [
-    "The rest of the heat warmed the air, the tin and the smoke",
     "A nut holds less energy than the label says",
-    "Three quarters of the energy was destroyed"
+    "Three quarters of the energy was destroyed",
+    "The rest of the heat warmed the air, the tin and the smoke"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Energy is not destroyed. The rest of the heat spread into the air and the tin, so the water could not catch it all. This is a small version of the loss at every step of a food chain.",
    "outcome": 5
   },

@@ -463,11 +463,11 @@
       "t": "mcq",
       "q": "The foil let no light through. What do scientists call a material like that?",
       "options": [
+       "Opaque",
        "Transparent",
-       "Translucent",
-       "Opaque"
+       "Translucent"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Opaque means no light gets through. Transparent means you see a clear picture. Translucent means only a glow."
      },
      "context": "In this step of the light and water test, you look at a window through each material."
@@ -1180,11 +1180,11 @@
      "t": "mcq",
      "p": "In the light and water test, what happened to the teaspoon of water on the clear polythene?",
      "opts": [
-      "It ran into the tumbler",
       "It sat on top, and the tumbler stayed dry",
+      "It ran into the tumbler",
       "It soaked into the polythene"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Polythene has no holes or gaps, so the water could not get through. Picking 'ran into the tumbler' may mean thinking see-through things let water through.",
      "context": "This question is about the light and water test. You look at a window through five materials, then pour a teaspoon of water on each one over a glass tumbler.",
      "how": "e1"
@@ -1330,10 +1330,10 @@
      "p": "In the pull, not push activity, what happened when you tried to push the toy with the thread?",
      "opts": [
       "The toy moved away fast",
-      "The thread bent and went floppy, and the toy stayed still",
-      "The thread broke"
+      "The thread broke",
+      "The thread bent and went floppy, and the toy stayed still"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A thread is strong when pulled, but it bends when pushed. So it cannot push a toy.",
      "context": "This question is about the pull, not push activity. You tie a cotton thread to a small toy and try to pull it, then push it, across the floor.",
      "how": "a2"
@@ -1510,11 +1510,11 @@
    "t": "mcq",
    "p": "Which of these is transparent?",
    "opts": [
-    "A glass tumbler",
     "A steel tumbler",
-    "A wooden spoon"
+    "A wooden spoon",
+    "A glass tumbler"
    ],
-   "a": 0,
+   "a": 2,
    "why": "You can see clearly through glass. Steel and wood are opaque.",
    "outcome": 0
   },
@@ -1522,11 +1522,11 @@
    "t": "mcq",
    "p": "You pour a teaspoon of water on kitchen foil over a tumbler. What happens?",
    "opts": [
-    "The water sits on top",
     "The water drips into the tumbler",
+    "The water sits on top",
     "The foil soaks it up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Foil has no holes, so it is waterproof. Picking 'soaks it up' mixes foil up with paper or cloth.",
    "outcome": 1,
    "how": "e1"
@@ -1548,11 +1548,11 @@
    "t": "mcq",
    "p": "Why does a tea strainer let water through?",
    "opts": [
-    "It is made of steel",
     "It is full of small holes",
+    "It is made of steel",
     "It is shiny"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Water goes through the holes. A steel plate has no holes, and keeps water out.",
    "outcome": 2
   },
@@ -1610,11 +1610,11 @@
    "t": "mcq",
    "p": "Before you test a material, what should you do first?",
    "opts": [
-    "Guess what will happen, and say why",
     "Read the answer",
-    "Test it many times without thinking"
+    "Test it many times without thinking",
+    "Guess what will happen, and say why"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A guess with a reason helps you notice if the test surprises you.",
    "outcome": 5
   }

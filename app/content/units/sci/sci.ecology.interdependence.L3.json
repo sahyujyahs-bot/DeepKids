@@ -523,11 +523,11 @@
       "t": "mcq",
       "q": "In Box W, 8 of the 10 washed seeds sprouted. In Box J, no seeds sprouted. What does this show?",
       "options": [
-       "The seeds in Box J were dead",
        "Something in the juice holds the seeds back from sprouting",
+       "The seeds in Box J were dead",
        "Seeds need soil to sprout"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Both boxes had seeds from the same tomato, the same tissue and the same warm place. Only the liquid was different, so the juice made the difference. 'Dead' is a fair guess, and the Waiting or Dead experiment tests it by washing the Box J seeds. 'Need soil' can't be right, because the washed seeds sprouted with no soil at all."
      },
      "parent": "Real results vary. Box J may have 1 or 2 sprouts, often where the juice dried out. That is still a big difference. If neither box sprouted, the tomato may have been picked too green, or the room was cold. Try again with a very soft, ripe tomato in a warmer place. If Box J grows white or grey mould, bin the mouldy seeds in a closed bag. Keep the clean seeds for the Waiting or Dead experiment."
@@ -689,11 +689,11 @@
       "t": "mcq",
       "q": "Seeds that sat in tomato juice for a week sprouted 3 days after they were washed. What does this show?",
       "options": [
-       "The juice had killed them",
        "The juice was holding them back, and they sprouted once it was gone",
+       "The juice had killed them",
        "Seeds need a week of juice before they can sprout"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Dead seeds never sprout, so these seeds were alive all along. They were waiting. The juice held them back, and once it was washed away they could drink water and start growing. That is what happens when an animal eats a fruit, or a fruit rots: the flesh goes, and the seeds can sprout. 'A week of juice' is a careful guess, but the Box W seeds sprouted with no juice at all."
      },
      "parent": "Often most of the seeds sprout within a few days. If mould had spread over them, fewer will. A good answer sounds like this. What I think: the juice held the seeds back. What I saw: they sprouted once they were washed. Why: they were waiting, not dead."
@@ -797,11 +797,11 @@
       "t": "mcq",
       "q": "Most fruit flies came to the ripe banana, and almost none to the green one. Why?",
       "options": [
-       "Fruit flies like the colour yellow",
        "A ripe fruit is softer and sweeter, and gives off a strong smell that animals can follow",
+       "Fruit flies like the colour yellow",
        "Green bananas are poisonous"
       ],
-      "a": 1,
+      "a": 0,
       "why": "As a fruit ripens, the flesh turns soft and sweet and gives off a strong smell. Animals follow the smell to the fruit. In wild bananas, the flesh is full of hard seeds, and ripening is what calls the animals that carry them. 'The colour yellow' is a good idea to test: you could paint a green banana yellow and see. Green bananas are not poisonous, just hard and starchy."
      },
      "parent": "If no fruit flies come in two days, look for ants or house flies instead, or try again in a warmer month. The bananas we buy have tiny soft seeds that don't grow, because people chose seedless kinds. Wild bananas are full of hard black seeds."
@@ -1121,11 +1121,11 @@
       "t": "mcq",
       "q": "Why can't a bee pollinate a peepal tree?",
       "options": [
-       "Bees don't like peepal trees",
        "The peepal's flowers are hidden inside the fig, and only a tiny fig wasp can get in",
+       "Bees don't like peepal trees",
        "Peepal trees have no flowers"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A peepal keeps all her flowers inside the fig. The only way in is a tiny hole, and only the fig wasp is small enough to squeeze through. 'No flowers' is a natural guess, because nobody sees peepal flowers from outside. But the flowers are there, inside every fig."
      }
     },
@@ -1339,11 +1339,11 @@
       "t": "mcq",
       "q": "On a balcony with no bees and little wind, why might tapping tomato flowers help?",
       "options": [
-       "It makes the plant grow taller",
        "It shakes the pollen out, so it reaches the part of the flower that makes seeds",
+       "It makes the plant grow taller",
        "It scares away insects"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A tomato flower holds her pollen inside a little tube, and shaking lets it fall onto the part that makes seeds. Bees and wind usually do the shaking. Without them, fewer flowers become fruits. 'Grow taller' is a fair guess, but tapping a flower stalk doesn't change the plant's height."
      }
     }
@@ -1704,11 +1704,11 @@
      "p": "A honeybee drinks nectar in a mustard flower. What does she carry to the next mustard flower?",
      "opts": [
       "Water",
-      "Pollen stuck to the hairs on her body",
       "Seeds",
-      "Leaves"
+      "Leaves",
+      "Pollen stuck to the hairs on her body"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Pollen sticks to a bee's hairy body while she drinks. Some rubs off in the next flower, so that flower can make seeds."
     },
     {
@@ -1895,12 +1895,12 @@
      "t": "mcq",
      "p": "Scientists found two reasons tomato juice holds seeds back. Which is one of them?",
      "opts": [
-      "The juice is too cold",
       "Dissolved sugars and salts in the juice hold on to water, so the seed can't drink enough",
+      "The juice is too cold",
       "The juice is too dark",
       "The juice has no air"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A seed must drink water and swell to sprout. The sugars and salts in juice hold on to the water. The juice also has a plant hormone. A hormone is a chemical message, and this one tells seeds to rest."
     },
     {
@@ -1964,11 +1964,11 @@
      "p": "In Madagascar, an orchid keeps her nectar at the bottom of a tube up to 35 centimetres long. In 1862, what did Charles Darwin predict?",
      "opts": [
       "That no animal visits the orchid",
-      "That a moth with a very long tongue must live there and carry her pollen",
       "That the orchid pollinates herself",
-      "That bees break the tube"
+      "That bees break the tube",
+      "That a moth with a very long tongue must live there and carry her pollen"
      ],
-     "a": 1,
+     "a": 3,
      "why": "Darwin reasoned that only an animal with a tongue almost as long as the tube could reach the nectar. A moth with a long enough tongue was found in Madagascar and described in 1903."
     },
     {
@@ -2080,11 +2080,11 @@
    "p": "Which of these is a way plants help animals?",
    "opts": [
     "Carrying pollen",
-    "Giving shelter, like a branch for a nest",
     "Leaving droppings",
-    "Digging tunnels"
+    "Digging tunnels",
+    "Giving shelter, like a branch for a nest"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Plants give animals food, shelter and oxygen. The others are ways animals help plants.",
    "outcome": 0
   },
@@ -2093,11 +2093,11 @@
    "p": "Plants make their own food using sunlight. What do they give out as they do it, which animals breathe in?",
    "opts": [
     "Carbon dioxide",
-    "Oxygen",
     "Smoke",
-    "Nectar"
+    "Nectar",
+    "Oxygen"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Photosynthesis gives out oxygen. Animals breathe it in, and breathe out carbon dioxide, which plants take in.",
    "outcome": 0
   },
@@ -2118,12 +2118,12 @@
    "t": "mcq",
    "p": "A cow eats grass in a field. How does she help the grass?",
    "opts": [
-    "Her dung feeds the soil where the grass grows",
     "She waters the grass",
     "She carries the grass's pollen",
+    "Her dung feeds the soil where the grass grows",
     "She doesn't help it at all"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cow dung feeds the soil, and grass grows thick where it falls. Grass is mostly pollinated by the wind, not by cows.",
    "outcome": 1
   },
@@ -2132,11 +2132,11 @@
    "p": "You want to test whether guava flesh holds guava seeds back from sprouting. Which test is fair?",
    "opts": [
     "Washed seeds on wet tissue in a warm room, and seeds in guava flesh on wet tissue in a cold room",
-    "Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room",
     "Washed guava seeds in one box, and washed mango seeds with their flesh in another",
+    "Washed seeds on wet tissue, and seeds in guava flesh on wet tissue, both in the same warm room",
     "Only the seeds in guava flesh, because that is what you want to know about"
    ],
-   "a": 1,
+   "a": 2,
    "why": "In a fair test, only one thing changes. Here it is the guava flesh. The tissue, the water and the room stay the same. Without washed seeds to compare, you could not tell what the flesh did.",
    "outcome": 2,
    "how": "e1"
@@ -2145,12 +2145,12 @@
    "t": "mcq",
    "p": "In the Juice Test, why do we put 10 seeds in each box and not just 1?",
    "opts": [
-    "Because 10 is a nice number",
     "Because any one seed might not sprout anyway, so 1 seed could fool us",
+    "Because 10 is a nice number",
     "Because tomatoes have 10 seeds",
     "To make the box full"
    ],
-   "a": 1,
+   "a": 0,
    "why": "One seed might be damaged or not ready. With 10 seeds in each box, a big difference between the boxes is unlikely to be just luck.",
    "outcome": 2,
    "how": "e1"
@@ -2172,12 +2172,12 @@
    "t": "mcq",
    "p": "A hornbill eats wild figs in a forest, then rests in a faraway tree. How can this help the fig tree?",
    "opts": [
-    "Fig seeds in her droppings can sprout far from the parent tree",
     "The hornbill waters the fig tree",
     "The hornbill pollinates the figs",
-    "It cannot, because fig seeds are always digested"
+    "It cannot, because fig seeds are always digested",
+    "Fig seeds in her droppings can sprout far from the parent tree"
    ],
-   "a": 0,
+   "a": 3,
    "why": "Small fig seeds pass through a bird's gut unharmed. Far from the parent tree, there is more light and space. Fig wasps, not hornbills, pollinate figs.",
    "outcome": 3
   },
@@ -2185,12 +2185,12 @@
    "t": "mcq",
    "p": "Why does a peepal tree need fig wasps?",
    "opts": [
-    "They eat pests on her leaves",
     "They are the only animals that can get inside her figs to pollinate the hidden flowers",
+    "They eat pests on her leaves",
     "They carry her seeds",
     "They water her roots"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A peepal's flowers are inside her figs. Only the tiny fig wasp can squeeze in through the hole and carry pollen to them.",
    "outcome": 4
   },
@@ -2199,11 +2199,11 @@
    "p": "What does the fig wasp get from the fig?",
    "opts": [
     "Nothing",
-    "A place for her young to grow up",
     "Water",
+    "A place for her young to grow up",
     "A ride to a new tree"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The mother wasp lays her eggs inside the fig, and her young grow up there. Both partners are helped, so this is mutualism.",
    "outcome": 4
   },
@@ -2224,12 +2224,12 @@
    "t": "mcq",
    "p": "You find a small spider in your room. Which is a way to practise ahimsa?",
    "opts": [
-    "Squash the spider with a slipper",
     "Catch the spider with a cup and a card, and carry her outside",
+    "Squash the spider with a slipper",
     "Spray the spider",
     "Leave a light on so the spider goes away"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Ahimsa means not harming any living being. Cup and card moves a spider without hurting her. Spiders eat mosquitoes and flies, so she helps others too.",
    "outcome": 5
   }

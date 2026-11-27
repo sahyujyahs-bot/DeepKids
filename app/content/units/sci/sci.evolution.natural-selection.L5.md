@@ -521,7 +521,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 7. (order) Put the four steps of natural selection in order.  
    **Answer:** ['Members of a population are born a little different', 'More young are born than can survive', 'Those whose features suit the place survive more often', 'Their features become more common in the next generations']. *Why:* Variation comes first. Then too many young, then survival of those who fit, then a changed population.
 8. (mcq) A tiger's eyes both face forward. What does this help the tiger do?  
-   Options: Judge the distance to prey / See behind without turning / See through tall grass / Keep dust out  
+   Options: See behind without turning / See through tall grass / Keep dust out / Judge the distance to prey  
    **Answer:** Judge the distance to prey. *Why:* Two eyes facing the same way see one thing from two angles, and the brain uses this to judge distance. Choosing 'see behind' describes eyes at the sides, as prey have.
 9. (odd) Three of these are adaptations of prey. Which is the odd one out?  
    Options: Eyes at the sides of the head / Living in a herd / Fangs that inject venom / A hard shell  
@@ -541,7 +541,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
    **Answer:** For example: a house lizard has sticky toe pads. They solve the problem of holding on to smooth walls and ceilings, where the moths are.. *Why:* A strong answer names a real feature and a real problem, and links the two.
 ### Mutations, Breeding and New Species (stretch) (stretch, 15 questions)
 1. (mcq) Where do brand-new variations come from?  
-   Options: Chance copying mistakes in DNA / What the living being wishes for / Hard practice / The food the parents ate  
+   Options: What the living being wishes for / Hard practice / Chance copying mistakes in DNA / The food the parents ate  
    **Answer:** Chance copying mistakes in DNA. *Why:* New variations begin as mutations, which are chance mistakes when DNA is copied. Choosing 'hard practice' is the old idea of Lamarck, which tests have shown to be wrong.
 2. (truefalse) True or false: a mutation appears because a living being needs one.  
    **Answer:** False. *Why:* False. Mutations happen by chance. Esther and Joshua Lederberg showed that resistant bacteria were present before the antibiotic was added.
@@ -552,12 +552,12 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 5. (order) Put these steps in order, to show how one species becomes two.  
    **Answer:** ['One population lives across a range of hills', 'A barrier splits the population into two groups', 'Different mutations and selection change each group', 'The two groups can no longer breed together']. *Why:* The split must come before the groups can grow different, because mixing would spread every change to all.
 6. (mcq) A horse and a donkey can have a mule. A mule cannot have young. What does this tell us?  
-   Options: Horses and donkeys are separate species / Horses and donkeys are one species / Mules are a new species / A donkey is a young horse  
+   Options: Horses and donkeys are one species / Horses and donkeys are separate species / Mules are a new species / A donkey is a young horse  
    **Answer:** Horses and donkeys are separate species. *Why:* Members of one species can have young who also have young. A mule cannot, so the two parents belong to separate species. A mule is not a species, because mules cannot breed.
 7. (sort) Sort these features: selected by nature, or selected by people?  
    **Answer:** a cactus's spines → Selected by nature; a cauliflower's big flower head → Selected by people; a tiger's stripes → Selected by nature; a sweet Banganapalli mango → Selected by people; a snow leopard's wide paws → Selected by nature; a pug's flat face → Selected by people. *Why:* Farmers and breeders chose the parents for the cauliflower, the mango and the pug. No person chose the parents of the cactus, the tiger or the snow leopard.
 8. (mcq) Look at the table. What fraction of the beans on the dark cloth was dark in generation 2?  
-   Options: Two thirds / One half / One third / One fifth  
+   Options: One half / One third / One fifth / Two thirds  
    **Answer:** Two thirds. *Why:* In generation 2 there were 20 dark beans out of 30. 20 ÷ 30 = two thirds. Choosing one half is the fraction at the start.
 9. (write) Why is a group whose members are all exactly alike in more danger when their place changes?  
    **Answer:** If all are alike, a change that kills one kills all. In a varied group, a few members may have features that suit the new conditions. They survive and the group carries on.. *Why:* A strong answer says that variation is what selection works on. With no variation there are no survivors to become parents.
@@ -587,14 +587,14 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 5. (write) Design a fair test with beans and a cloth: does a group change faster when the hunter catches more?  
    **Answer:** Run the hunt twice from 15 dark and 15 pale on the same cloth. In one run catch 10 of 30 each time, in the other catch 20 of 30. Keep the hunter, the cloth, the light and the number of hunts the same. Compare the number of dark beans after three hunts.. *Why:* A strong design changes only the number caught, keeps the rest the same, and says what will be counted. Survivors must have enough young to bring the group back to 30.
 6. (mcq) Mosquitoes adapt to a new poison in a few years. Elephants could not. What is the main reason?  
-   Options: Mosquitoes have a new generation every few weeks / Mosquitoes are cleverer / Elephants do not vary / Poison is weaker on small animals  
+   Options: Mosquitoes are cleverer / Mosquitoes have a new generation every few weeks / Elephants do not vary / Poison is weaker on small animals  
    **Answer:** Mosquitoes have a new generation every few weeks. *Why:* Selection works generation by generation. A mosquito generation takes weeks and an elephant generation takes about 20 years. Elephants do vary, so 'do not vary' is wrong.
 7. (sort) Sort these pairs: do both partners gain, or does one gain while the other is harmed?  
    **Answer:** bee and pumpkin flower → Both gain; tick and dog → One gains, one is harmed; coral animal and coral algae → Both gain; koel and the crow who raises her chick → One gains, one is harmed; fig tree and fig wasp → Both gain; chana plant and root bacteria → Both gain. *Why:* The bee, the coral and the fig each give and get. A tick takes blood and gives nothing. A koel leaves her egg for a crow to raise, and the crow's own chicks may lose out.
 8. (write) Hunters killed elephants with tusks for 15 years. Afterwards, more females were born without tusks. Explain why.  
    **Answer:** Some females had no tusks because of an inherited variation. Hunters killed elephants with tusks, so tuskless females survived more often. They had calves, and their daughters often inherited no tusks. So the share of tuskless females went up.. *Why:* A strong answer says the tuskless variation was already there, and the hunting changed who survived to have calves. No elephant lost her tusks to escape hunters.
 9. (mcq) A helpful mutation appears in one animal. Is the mutation certain to spread through the population?  
-   Options: No, bad luck may kill that animal / Yes, always / Only if the animal wants that / Only in plants  
+   Options: Yes, always / Only if the animal wants that / No, bad luck may kill that animal / Only in plants  
    **Answer:** No, bad luck may kill that animal. *Why:* While a variation is rare, chance matters a great deal. The one animal who carries the mutation may be eaten before having young, as the single dark bean sometimes is.
 10. (truefalse) True or false: bacteria alive today are less evolved than humans.  
    **Answer:** False. *Why:* False. Every species alive today has an equally long history. Bacteria have been adapting for more than 3.5 billion years, and live in more places than any animal.
@@ -606,7 +606,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
    Options: Fungus and alga in a lichen / Coral animal and coral algae / Mosquito and human / Chana plant and root bacteria  
    **Answer:** 2. *Why:* A mosquito takes blood and may pass on disease, so the human loses. In the other three pairs, each partner gives the other something useful.
 14. (mcq) A weed in rice fields looks almost exactly like young rice. Farmers weed by hand. Why did this look spread?  
-   Options: Farmers pulled out the weeds that looked different / The weed wanted to hide / Rice plants taught the weed / Water changed the weed's shape  
+   Options: The weed wanted to hide / Rice plants taught the weed / Water changed the weed's shape / Farmers pulled out the weeds that looked different  
    **Answer:** Farmers pulled out the weeds that looked different. *Why:* Weeds that looked unlike rice were seen and pulled out. Weeds that happened to look like rice survived and set seed. The farmers' hands did the selecting, without meaning to.
 15. (write) Some fish that live in dark wells have no eyes. Is losing eyes a step backwards? Give your reasons.  
    **Answer:** No. In total darkness eyes are useless, and they cost energy to build. Fish without eyes had more energy for other things and left more young. The fish became better fitted to the dark.. *Why:* A strong answer says that 'fit' depends on the place, and that evolution has no forwards or backwards.
@@ -618,7 +618,7 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
 
 ## Quiz
 1. (mcq) Which list gives the things natural selection needs?  
-   Options: Variation, inheritance and more young than can survive / Strength, speed and size / Sunlight, water and soil / Wanting, trying and learning  
+   Options: Strength, speed and size / Sunlight, water and soil / Wanting, trying and learning / Variation, inheritance and more young than can survive  
    **Answer:** Variation, inheritance and more young than can survive. *Why:* Selection needs differences that are inherited, and more young than the place can support. Choosing 'wanting, trying and learning' is the old idea that effort changes what is inherited.
 2. (mcq) A beetle population goes from mostly green to mostly brown in 20 generations. What changed?  
    Options: The share of brown beetles in the population / Each green beetle slowly turned brown / The beetles chose a new colour / The sun faded them  
@@ -630,25 +630,25 @@ In the morning she asked for a spoonful of grain from each pot, to take down the
    Options: In a pond / In a desert / On a snowy mountain / On a sand dune  
    **Answer:** In a pond. *Why:* Floating leaves reach the light on water, and air channels carry air to roots in airless mud. Both are adaptations to a wet place.
 5. (mcq) A chital deer has eyes at the sides of the head. What is the main gain?  
-   Options: Seeing danger from almost all around / Judging the distance for a leap onto prey / Seeing in the dark / Keeping out sand  
+   Options: Judging the distance for a leap onto prey / Seeing danger from almost all around / Seeing in the dark / Keeping out sand  
    **Answer:** Seeing danger from almost all around. *Why:* Side eyes give prey a very wide view. Forward eyes, which judge distance, are found in predators such as tigers and owls.
 6. (mcq) Over many generations, deer become faster. What is likely to happen to the tigers who hunt them?  
-   Options: Faster or stealthier tigers leave more young / Tigers stay the same for ever / Tigers choose to eat grass / Each tiger trains her legs for her cubs  
+   Options: Tigers stay the same for ever / Tigers choose to eat grass / Faster or stealthier tigers leave more young / Each tiger trains her legs for her cubs  
    **Answer:** Faster or stealthier tigers leave more young. *Why:* Only the tigers who can still catch deer eat well and raise cubs. So the prey select the predator, as the predator selects the prey. This is coevolution.
 7. (mcq) When does a helpful mutation first appear?  
-   Options: By chance, before being useful / As soon as the place changes / When the animal tries hard / When parents teach their young  
+   Options: As soon as the place changes / When the animal tries hard / By chance, before being useful / When parents teach their young  
    **Answer:** By chance, before being useful. *Why:* A mutation is a chance copying mistake. It is already present when conditions change, and selection then spreads it.
 8. (mcq) What usually has to happen first for one species to split into two?  
-   Options: Two groups are kept apart for long / One animal changes shape / Food runs out everywhere / A predator eats every member  
+   Options: One animal changes shape / Two groups are kept apart for long / Food runs out everywhere / A predator eats every member  
    **Answer:** Two groups are kept apart for long. *Why:* While groups can mix, they stay one species. A barrier lets each group change in their own way until they can no longer breed together.
 9. (mcq) Which fact supports the idea that mitochondria were once free bacteria?  
-   Options: They have their own bacteria-like DNA / They are found only in plants / They are made of fat / They are the biggest part of a cell  
+   Options: They are found only in plants / They are made of fat / They have their own bacteria-like DNA / They are the biggest part of a cell  
    **Answer:** They have their own bacteria-like DNA. *Why:* Mitochondria carry a loop of DNA that matches living bacteria, and they multiply by splitting. They are found in animals, plants and fungi.
 10. (mcq) After one year of drought, the finches on an island had deeper beaks on average. Why?  
-   Options: More deep-beaked birds survived and had chicks / Each finch stretched their beak on hard seeds / Dry air makes beaks swell / The birds wanted bigger beaks  
+   Options: Each finch stretched their beak on hard seeds / Dry air makes beaks swell / The birds wanted bigger beaks / More deep-beaked birds survived and had chicks  
    **Answer:** More deep-beaked birds survived and had chicks. *Why:* Birds with shallow beaks could not crack the hard seeds, and many starved. The survivors passed deeper beaks to their chicks. No bird's own beak grew.
 11. (mcq) In biology, what does 'fittest' mean in the phrase 'survival of the fittest'?  
-   Options: Best suited to the place / Strongest / Fastest / Biggest  
+   Options: Strongest / Fastest / Best suited to the place / Biggest  
    **Answer:** Best suited to the place. *Why:* Fit means fitting the place. A small beak is fittest in a wet year and a deep beak in a drought. Strength is only sometimes what suits a place.
 12. (mcq) Why can mosquitoes adapt to a poison faster than bustards adapt to power lines?  
    Options: Mosquitoes have many young, a few weeks apart / Mosquitoes think faster / Bustards do not vary / Power lines are stronger than poison  

@@ -386,7 +386,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Waterproof → does not let water through; Absorbent → soaks up water; Elastic → goes back after you stop pulling; Strong → hard to break or tear. *Why:* These four words say what a material can do. We tested all four in this lesson.
 2. (mcq) In the stretch test, which one usually stretches the most?  
-   Options: The newspaper strip / The rubber band / The hanky strip  
+   Options: The newspaper strip / The hanky strip / The rubber band  
    **Answer:** The rubber band. *Why:* Rubber is made of long, curled-up chains that straighten when pulled. Newspaper hardly stretches at all.
 3. (sort) Sort these into waterproof and not waterproof.  
    **Answer:** foil → Waterproof; newspaper → Not waterproof; banana leaf → Waterproof; paper napkin → Not waterproof; milk packet → Waterproof; cotton hanky → Not waterproof. *Why:* In the spot test, the circles under the foil, the leaf and the milk packet stayed dry. The others let water through.
@@ -395,7 +395,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 5. (truefalse) You can always tell if a material is waterproof just by looking at it.  
    **Answer:** False. *Why:* False. A thick cotton towel may look as if it keeps water out, but it soaks water up. We have to test.
 6. (mcq) In a stretch test, a full bottle hangs on the rubber band, and an empty cup hangs on the T-shirt strip. Why is this test not fair?  
-   Options: The two strips hold different weights, so more than the material is different / The rubber band is too short / The cup is too small to see  
+   Options: The rubber band is too short / The cup is too small to see / The two strips hold different weights, so more than the material is different  
    **Answer:** The two strips hold different weights, so more than the material is different. *Why:* For a fair test, every strip must hold the same weight. Then any difference in stretching comes from the material.
 7. (count) In a spot test, 6 squares were tested. 3 circles stayed dry. How many circles ran?  
    **Answer:** 3. *Why:* 6 squares take away 3 dry ones leaves 3 that ran.
@@ -409,7 +409,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 11. (fill) A material that soaks up water is called ____.  
    **Answer:** ['absorbent']. *Why:* A towel, a napkin and a sponge are absorbent.
 12. (mcq) In the bottle lift, which strip usually tore first?  
-   Options: The cotton cloth / The paper napkin / The carry bag  
+   Options: The cotton cloth / The carry bag / The paper napkin  
    **Answer:** The paper napkin. *Why:* A napkin is made of short fibres pressed loosely together, so a small pull drags them apart. Picking the carry bag may mean thinking all plastic is weak. A carry bag strip holds much more than a napkin.
 13. (perspective) Two children are buying a bag for vegetables. One child is 8 years old. Her brother is 6 years old.  
    **Answer:** A strong answer picks one and gives a reason from a test, such as 'the cloth held the full bottle'. It also says what the other is right about, such as 'polythene is waterproof'.. *Why:* Both are partly right. The best material depends on what matters most for the job.
@@ -419,14 +419,14 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
    **Answer:** a hair band → elastic; a towel → absorbent; a raincoat → waterproof; a shopping bag → strong. *Why:* Each job needs something different from its material. No one material is best for all of them.
 ### Think Like a Tester (stretch) (stretch, 15 questions)
 1. (mcq) Look at the results. Which material did not get any longer with the bottle?  
-   Options: The rubber band / The T-shirt strip / The hanky strip  
+   Options: The rubber band / The hanky strip / The T-shirt strip  
    **Answer:** The hanky strip. *Why:* The hanky strip was 10 cm before and 10 cm with the bottle. The rubber band and the T-shirt strip both got longer.
 2. (write) The rubber band started at 6 cm and the T-shirt strip started at 10 cm. Both were 13 cm with the bottle. Did they stretch the same amount? Why?  
    **Answer:** No. The rubber band started at 6 cm and grew 7 cm. The T-shirt strip started at 10 cm and grew only 3 cm. So the rubber band stretched more.. *Why:* A strong answer looks at how much each one grew, not only the final length.
 3. (truefalse) Everything that stretches will spring back when you let go.  
    **Answer:** False. *Why:* False. The milk packet strip and the atta dough stretched and stayed stretched.
 4. (mcq) Why does water soak through a cotton hanky?  
-   Options: Cotton has tiny gaps between its fibres / Cotton is shiny / Cotton is heavy  
+   Options: Cotton is shiny / Cotton is heavy / Cotton has tiny gaps between its fibres  
    **Answer:** Cotton has tiny gaps between its fibres. *Why:* Water creeps into the gaps between the fibres and spreads along them. Picking 'heavy' means mixing up weight with keeping water out.
 5. (order) Put the steps of the stretch test in order.  
    **Answer:** order shown. *Why:* We guess first, so the test can check our guess. We measure before, so we can see how much each one changed.
@@ -437,7 +437,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 8. (draw) Draw what you think rubber looks like inside, when it is loose and when it is stretched.  
    **Answer:** Loose: curly, tangled lines. Stretched: the same lines pulled straighter.. *Why:* Rubber is made of long, curled-up chains of tiny particles. Pulling straightens them. A strong drawing shows curled lines becoming straighter.
 9. (mcq) You need a material for a catapult band. What must it be?  
-   Options: Waterproof and absorbent / Stretchy and elastic / Strong and hard  
+   Options: Waterproof and absorbent / Strong and hard / Stretchy and elastic  
    **Answer:** Stretchy and elastic. *Why:* A catapult band must stretch far and then snap back to throw. Picking 'strong and hard' would give a band that does not stretch.
 10. (fill) A material that goes back to its old shape after you stop pulling is called ____.  
    **Answer:** ['elastic']. *Why:* A rubber band, a hair band and your skin are elastic.
@@ -459,10 +459,10 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 
 ## Quiz
 1. (mcq) The same bottle hangs from a rubber band and from a hanky strip. Which stretches more?  
-   Options: The rubber band / The hanky strip / Both the same  
+   Options: The hanky strip / The rubber band / Both the same  
    **Answer:** The rubber band. *Why:* Rubber is stretchy. Woven cotton hardly stretches. Picking 'both the same' may mean thinking all soft things stretch.
 2. (mcq) What does elastic mean?  
-   Options: It soaks up water / It goes back after you stop pulling / It is very hard  
+   Options: It soaks up water / It is very hard / It goes back after you stop pulling  
    **Answer:** It goes back after you stop pulling. *Why:* Elastic things, like a rubber band, spring back. Picking 'soaks up water' mixes it up with absorbent.
 3. (mcq) You pull a strip of milk packet and let go. What happens?  
    Options: It springs back / It stays long and thin / It soaks up water  
@@ -474,15 +474,15 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
    Options: A paper napkin / A cotton hanky / A piece of foil  
    **Answer:** A piece of foil. *Why:* Water stays on top of foil as a drop. Napkins and hankies soak it up.
 6. (mcq) A bottle hangs from each strip in turn, and water is added one cup at a time until the strip tears. What does this test?  
-   Options: Which is the most waterproof / Which is the strongest / Which is the stretchiest  
+   Options: Which is the most waterproof / Which is the stretchiest / Which is the strongest  
    **Answer:** Which is the strongest. *Why:* Counting the cups before a strip tears shows how much weight it can hold. That is strength.
 7. (mcq) Why do we guess before we test?  
-   Options: So the test can check our guess / So we don't need to test / Because guessing is always right  
+   Options: So we don't need to test / So the test can check our guess / Because guessing is always right  
    **Answer:** So the test can check our guess. *Why:* A guess with a reason is an idea. The test shows if the idea was right. Picking 'so we don't need to test' skips the most important part.
 8. (truefalse) A thicker cloth always keeps out more water.  
    **Answer:** False. *Why:* False. A thick towel soaks up water. Thin polythene keeps it all out.
 9. (mcq) Which material would you choose for a towel?  
-   Options: Polythene / Cotton / Foil  
+   Options: Cotton / Polythene / Foil  
    **Answer:** Cotton. *Why:* A towel must soak up water. Cotton is absorbent. Polythene and foil are waterproof, so they would not dry you.
 10. (mcq) In a stretch test, every strip gets the same bottle. One strip waits 10 seconds before it is measured, and another waits 5 minutes. Is this fair?  
    Options: Yes / No, the waiting time changed  

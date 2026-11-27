@@ -633,22 +633,22 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ## Worksheets
 ### Shape Changers (core) (core, 16 questions)
 1. (mcq) You press a ball of dough flat with your hand. Which shape change is this?  
-   Options: A squash / A stretch / A twist / A bend  
+   Options: A stretch / A twist / A squash / A bend  
    **Answer:** A squash. *Why:* Pressing inwards on something makes it flatter. That is a squash. Picking 'stretch' is close, because the dough also spreads wider. But your push is inwards, so it is mainly a squash.
 2. (mcq) A rope-maker holds one end of a bundle of coconut fibres still and turns the other end round and round. Which shape change is this?  
-   Options: A squash / A twist / A bend / No change  
+   Options: A squash / A bend / A twist / No change  
    **Answer:** A twist. *Why:* One end turns while the other stays still. That is a twist. Picking 'bend' makes sense, because the rope curves. But the fibres are being turned, not pushed in the middle.
 3. (fill) When you pull a rubber band, it gets longer. This is called a ____.  
    **Answer:** ['stretch']. *Why:* Pulling outwards on something makes it longer. That is a stretch.
 4. (sort) Sort these. After the force stops, does each one stay changed or spring back?  
    **Answer:** clay pressed with a thumb → Stays changed; a squeezed sponge → Springs back; a rolled chapati → Stays changed; a stretched rubber band → Springs back; a squashed drinks can → Stays changed; a pressed cushion → Springs back. *Why:* Clay, dough and cans keep their new shapes. Sponges, rubber bands and cushions are elastic, so they spring back.
 5. (mcq) A papad snaps when you bend it. A word for things that break instead of bending is…  
-   Options: Elastic / Brittle / Plastic / Stretchy  
+   Options: Brittle / Elastic / Plastic / Stretchy  
    **Answer:** Brittle. *Why:* Brittle things crack and break instead of bending. Picking 'plastic' often comes from thinking of plastic bottles. In science, plastic means 'stays changed'.
 6. (truefalse) In science, a 'plastic' change means the thing keeps its new shape after the force stops.  
    **Answer:** True. *Why:* True. Scientists use 'plastic' to mean 'stays changed', like clay. It is not about the stuff bottles are made of.
 7. (mcq) In the clay drop test, you drop the same clay ball from 10 cm and from 80 cm. Which drop makes the wider flat patch?  
-   Options: 10 cm / 80 cm / Both the same / Neither, clay doesn't squash  
+   Options: 80 cm / 10 cm / Both the same / Neither, clay doesn't squash  
    **Answer:** 80 cm. *Why:* From higher up, the ball hits the plate faster. The plate pushes back harder, so it squashes the clay more. Picking 'both the same' means thinking the same clay must always squash the same amount. But from higher up, the push from the plate is bigger.
 8. (mcq) A cricketer hits the ball back the way it came, with a bat. What did the force from the bat change?  
    Options: Only the ball's colour / The ball's direction and speed / Nothing / Only the ball's shape  
@@ -656,7 +656,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 9. (truefalse) A force can make a moving thing faster or slower, but it can never make it go a different way.  
    **Answer:** False. *Why:* False. A push from the side turns a moving thing. Kick a rolling football from the side, and it goes off a new way. Speed and direction can both be changed by a force.
 10. (mcq) A carrom coin slides across the board and hits the edge. Which way does it go next?  
-   Options: Back into the board, because the edge pushed it / Straight on, through the edge / It stops dead and never moves again / It goes back the way it came, even if it hit at a slant  
+   Options: Straight on, through the edge / It stops dead and never moves again / It goes back the way it came, even if it hit at a slant / Back into the board, because the edge pushed it  
    **Answer:** Back into the board, because the edge pushed it. *Why:* The edge pushes back on the coin, so the coin changes direction. If it hits at a slant, it goes off at a slant the other way, like light off a mirror. A coin may stop dead on a slow shot. But a fast coin is turned, not stopped.
 11. (match) Match each job to the shape change it uses most.  
    **Answer:** Rolling a chapati → squash; Pulling a hair band onto your hair → stretch; Twisting coconut fibres into coir rope → twist; A diving board when you stand on its end → bend. *Why:* Rolling presses the dough flat. A hair band is pulled longer. Coir fibres are twisted into rope. A diving board curves down.
@@ -674,10 +674,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 1. (fill) In these made-up clay drop results, every time the height doubles, the patch gets 1 cm wider. Predict how wide the patch would be from 160 cm: ____ cm.  
    **Answer:** ['5', 'five']. *Why:* 160 cm is double 80 cm. From 80 cm the patch was 4 cm, so one more doubling adds 1 cm. 4 + 1 = 5 cm. A real test would show whether the pattern keeps going.
 2. (mcq) In the bendy sponge activity, you bend a sponge with lines drawn across it. What happens to the lines on the INSIDE of the curve?  
-   Options: They crowd closer together / They spread further apart / They stay exactly the same / They disappear  
+   Options: They spread further apart / They stay exactly the same / They disappear / They crowd closer together  
    **Answer:** They crowd closer together. *Why:* The inside of a bend is squashed, so the lines crowd together. The outside is stretched, so they spread apart. Picking 'spread apart' mixes up the inside with the outside.
 3. (mcq) You press the middle of a plastic ruler lying flat, and it bends easily. Stand the same ruler on its thin edge, and the same press hardly bends it. Why?  
-   Options: On its edge, more of the ruler is far from the middle of the bend / The ruler got harder / You pressed more gently / It is a different ruler  
+   Options: The ruler got harder / On its edge, more of the ruler is far from the middle of the bend / You pressed more gently / It is a different ruler  
    **Answer:** On its edge, more of the ruler is far from the middle of the bend. *Why:* On its edge, the top and bottom of the ruler are far apart. The top must squash and the bottom must stretch a lot to bend it, so it resists. Picking 'the ruler got harder' means looking for a change in the material. Only its position changed.
 4. (sort) Sort these by what happens after a strong force. Stays changed, springs back, or breaks?  
    **Answer:** a hammered gold bangle → Stays changed; a tennis ball → Springs back; a glass bangle → Breaks; a steel spoon bent hard → Stays changed; a bamboo in the wind → Springs back; a dry biscuit → Breaks. *Why:* Gold and steel can be bent or hammered into new shapes. Tennis balls and bamboo spring back. Glass and dry biscuits are brittle.
@@ -687,10 +687,10 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    Options: Most of the steel is at the top and bottom, where a bend squashes and stretches most / It is cheaper to paint / It looks like the letter I for 'iron' / It makes them heavier  
    **Answer:** Most of the steel is at the top and bottom, where a bend squashes and stretches most. *Why:* A bend squashes the top and stretches the bottom most. So steel placed there resists bending best, without wasting steel in the middle. Picking 'iron' is a fun guess, but the shape is about bending, not spelling.
 7. (mcq) Why is cotton wool twisted into a wick stronger than the same cotton pulled into a loose strand?  
-   Options: The twist squeezes the fibres together, so friction stops them sliding apart / Twisting makes each fibre longer / Twisting adds glue / It isn't stronger  
+   Options: Twisting makes each fibre longer / The twist squeezes the fibres together, so friction stops them sliding apart / Twisting adds glue / It isn't stronger  
    **Answer:** The twist squeezes the fibres together, so friction stops them sliding apart. *Why:* Twisting presses the short fibres against each other. Friction, the grip between touching things, holds them together, so they share the pull. Picking 'longer fibres' is a sensible guess, but each fibre stays the same length.
 8. (mcq) A ball is swung round on a string. The string breaks. Which way does the ball go?  
-   Options: Straight on, in the direction it was moving / It keeps going round in a circle / Straight back to the middle / Straight down  
+   Options: It keeps going round in a circle / Straight back to the middle / Straight on, in the direction it was moving / Straight down  
    **Answer:** Straight on, in the direction it was moving. *Why:* With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time.
 9. (write) Someone says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell them? Use evidence from this lesson.  
    **Answer:** A strong answer says that every push changes a thing's shape a little, even steel. It gives evidence from the unit, for example the wet ball print (the ball squashed against a hard floor), bridges that sag under trucks, or, if the extra laser and mirror activity was done, the dot that moves when the table is pressed. It says the bend is too small to see with our eyes.. *Why:* Hard things change shape too, only by tiny amounts.
@@ -714,18 +714,18 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 2. (truefalse) A steel ruler springs back after a small bend. This means its atoms moved to new places and stayed there.  
    **Answer:** False. *Why:* False. When a steel ruler springs back, its atoms were only pushed closer or pulled apart a little, and the bonds pulled them back. Atoms that slide to new places and stay there give a plastic change, like a bent paper clip.
 3. (mcq) A gold bangle can be hammered into a new shape without breaking. A glass bangle cannot. Why?  
-   Options: In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread / Gold is softer than everything / Glass is not made of atoms / Gold is heavier  
+   Options: Gold is softer than everything / Glass is not made of atoms / In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread / Gold is heavier  
    **Answer:** In gold, rows of atoms can slide past each other. In glass they cannot, so cracks spread. *Why:* In metals, rows of atoms slip into new places one step at a time. In glass the atoms are jumbled and stuck, so a push gathers at tiny scratches and a crack races across. Picking 'gold is heavier' links strength with weight, but that is not the reason.
 4. (mcq) Why does a glass shop scratch a line on glass before snapping it?  
    Options: The scratch is where a crack starts, so it breaks along the line / The scratch makes the glass softer / The scratch lets air in / It is only for decoration  
    **Answer:** The scratch is where a crack starts, so it breaks along the line. *Why:* Alan Griffith showed in 1921 that tiny scratches make glass weak, because the push gathers at their tips. A scratched line makes the crack go exactly where the glass-cutter wants. Picking 'softer' mixes up weak with soft.
 5. (mcq) Astronauts living in space for months lose some of their bone. Why?  
-   Options: Floating, they hardly push on their bones, so the bones do not need to stay strong / Space air is poisonous to bones / Their bones melt in the cold / They eat too much  
+   Options: Space air is poisonous to bones / Their bones melt in the cold / They eat too much / Floating, they hardly push on their bones, so the bones do not need to stay strong  
    **Answer:** Floating, they hardly push on their bones, so the bones do not need to stay strong. *Why:* Bones reshape to match the forces on them. With almost no pushing, the body removes bone it doesn't seem to need. That is why astronauts exercise for about two hours a day. Picking 'cold' is a guess about space, but the space station is kept warm.
 6. (write) You measure your height against a wall. In the morning you are 128.5 cm. At bedtime you are 127.5 cm. Someone says, 'Your tape must be wrong.' Are they right? Explain.  
    **Answer:** A strong answer says the tape is probably fine. During the day, your weight squashes the soft pads between the bones of your spine, so you get about 1 cm shorter. At night, when you lie down, the pads spring back. To check, you could measure the same way on a few days and see if it happens each time.. *Why:* People really are about 1 cm taller in the morning. Repeating a measurement is how you tell a real change from a mistake.
 7. (mcq) The spinning Earth is about 43 km wider across the equator than from pole to pole. What causes the bulge?  
-   Options: Its spin makes the middle bulge out a little / The Moon pulls the equator / The equator is hotter, so it swells / Mountains at the equator  
+   Options: The Moon pulls the equator / Its spin makes the middle bulge out a little / The equator is hotter, so it swells / Mountains at the equator  
    **Answer:** Its spin makes the middle bulge out a little. *Why:* As the Earth spins, the rock at the equator moves fastest, and it swings outwards a little. So the middle bulges out and the poles are a little flatter. Picking 'hotter' is a clever guess, since heat does swell things. But it is the spin.
 8. (match) Match each change to what happens to the atoms inside. Atoms are the tiny pieces that everything is made of.  
    **Answer:** A steel wire stretched a little, then let go → atoms pulled a little apart, then pulled back; A gold bangle hammered into a new shape → rows of atoms slide to new places and stay; A glass bangle dropped on the floor → a crack races between the atoms; A rubber eraser squeezed, then let go → long chains of atoms bunch up, then spring back. *Why:* Springing back means the atoms return to their places. Staying changed means rows of atoms have slid. Breaking means a crack has opened between atoms.
@@ -751,49 +751,49 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 
 ## Quiz
 1. (mcq) You bend a bamboo stick into a bow for a game. Which shape change is this?  
-   Options: A bend / A squash / A twist  
+   Options: A squash / A bend / A twist  
    **Answer:** A bend. *Why:* The stick curves, so it is a bend. Picking 'squash' is close, because the inside of a bend is squashed. But the whole stick is bending.
 2. (mcq) Which of these is a stretch?  
    Options: Pulling a rubber band round a bundle of pencils / Pressing a ball of dough flat / Wringing a wet towel  
    **Answer:** Pulling a rubber band round a bundle of pencils. *Why:* Pulling outwards makes the band longer. That is a stretch. Pressing dough is a squash, and wringing a towel is a twist.
 3. (mcq) Which of these is brittle, so it breaks instead of bending?  
-   Options: A stick of chalk / A rubber eraser / A cotton towel  
+   Options: A rubber eraser / A stick of chalk / A cotton towel  
    **Answer:** A stick of chalk. *Why:* Chalk snaps when you bend it. Picking the eraser means mixing up soft with brittle. The eraser bends and springs back.
 4. (mcq) Which of these stays squashed after you press it, so it has a plastic change?  
-   Options: A lump of clay / A tennis ball / A sponge  
+   Options: A tennis ball / A lump of clay / A sponge  
    **Answer:** A lump of clay. *Why:* Clay keeps its new shape. In science, that is a plastic change. A tennis ball and a sponge are elastic, so they spring back.
 5. (mcq) In the clay drop test, what should you change?  
-   Options: Only the drop height / The height and the size of the ball / Everything  
+   Options: The height and the size of the ball / Everything / Only the drop height  
    **Answer:** Only the drop height. *Why:* A fair test changes only one thing. Picking 'height and size' means two things change at once, so you can't tell which one mattered.
 6. (mcq) Suppose that in your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?  
-   Options: Repeat each drop three times and compare / Cross out the 80 cm result / Decide that height makes no difference  
+   Options: Cross out the 80 cm result / Repeat each drop three times and compare / Decide that height makes no difference  
    **Answer:** Repeat each drop three times and compare. *Why:* One odd result can be a fluke, for example a ball that was a little bigger. Repeating each drop shows the real pattern. Picking 'cross it out' hides a result you don't like, which is not fair science.
 7. (mcq) When you bend your finger, what happens to the skin on the back of your knuckle?  
-   Options: It is stretched / It is squashed / It does not change  
+   Options: It is squashed / It does not change / It is stretched  
    **Answer:** It is stretched. *Why:* The outside of a bend is stretched, so the skin over the knuckle goes tight. The skin on the inside of the bend is squashed into wrinkles. Picking 'squashed' swaps the two sides.
 8. (mcq) A cardboard box has a wavy layer between two flat layers. Why?  
-   Options: The waves stand on their edges, so the box is stiff but light / The waves make the box heavier / The waves are only there for decoration  
+   Options: The waves make the box heavier / The waves stand on their edges, so the box is stiff but light / The waves are only there for decoration  
    **Answer:** The waves stand on their edges, so the box is stiff but light. *Why:* Each wave is a little wall standing on its edge, so it is hard to bend. The paper is the same, but the shape makes it stronger. The waves do not add weight on purpose.
 9. (mcq) A fielder catches a cricket ball. What does the force from the hands do?  
    Options: Stops the ball / Speeds it up / Makes it heavier  
    **Answer:** Stops the ball. *Why:* The hands push against the ball's movement and stop it. 'Speeds it up' would be right only if the hands pushed the same way the ball was moving.
 10. (mcq) A bouncing ball…  
-   Options: Squashes for a moment, then springs back / Never changes shape / Stays flat after it bounces  
+   Options: Never changes shape / Stays flat after it bounces / Squashes for a moment, then springs back  
    **Answer:** Squashes for a moment, then springs back. *Why:* The wet ball prints show the ball gets flatter in a bounce. Picking 'never changes shape' trusts our eyes, but the squash is too fast to see.
 11. (mcq) A young tree is allowed to sway in the wind. Another is tied tightly to a stake. Which one grows a thicker trunk?  
-   Options: The tree that sways / The tree that is tied / Both the same  
+   Options: The tree that is tied / Both the same / The tree that sways  
    **Answer:** The tree that sways. *Why:* Trees grow thicker, stronger wood where the wind bends them. Picking 'the tree that is tied' sounds caring, but the tied tree is never bent by the wind, so their trunk stays thin.
 12. (mcq) How were the Himalayas made?  
-   Options: India's plate pushed into Asia and folded the rock up / A giant volcano / Rivers piled up stones  
+   Options: A giant volcano / Rivers piled up stones / India's plate pushed into Asia and folded the rock up  
    **Answer:** India's plate pushed into Asia and folded the rock up. *Why:* The push of two plates crumpled the rock, like a towel pushed against a wall. Picking 'volcano' is a sensible guess about mountains, but the Himalayas are folded rock.
 13. (mcq) Your bones grow stronger when…  
-   Options: You run, jump and carry things / You lie still in bed for weeks / You never use them  
+   Options: You lie still in bed for weeks / You run, jump and carry things / You never use them  
    **Answer:** You run, jump and carry things. *Why:* Bones reshape to match the pushes on them. Running and jumping push on them, so they grow stronger. Lying still for weeks makes bones weaker, like an astronaut's in space.
 14. (mcq) A steel wire is stretched a tiny bit. What happens to the atoms inside it?  
-   Options: They are pulled a little further apart / They grow bigger / They are destroyed  
+   Options: They grow bigger / They are destroyed / They are pulled a little further apart  
    **Answer:** They are pulled a little further apart. *Why:* Stretching pulls the atoms a little apart, and the bonds between them pull them back when you let go. Atoms do not grow or vanish when you stretch something.
 15. (mcq) Which of these do scientists still argue about?  
-   Options: What glass really is, deep down / Whether clay squashes when you press it / Whether a rubber band stretches  
+   Options: Whether clay squashes when you press it / Whether a rubber band stretches / What glass really is, deep down  
    **Answer:** What glass really is, deep down. *Why:* Glass is hard like a solid, but its atoms are jumbled like a liquid's. Scientists still debate how to describe it. The other two anyone can test at home in a minute.
 
 ## Applications

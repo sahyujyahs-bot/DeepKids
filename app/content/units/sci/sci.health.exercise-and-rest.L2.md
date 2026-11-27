@@ -438,7 +438,7 @@ Then they both laughed so much that they could not count anything.
 ## Worksheets
 ### Move and Rest (core) (core, 11 questions)
 1. (mcq) In the puff count test, when did you take the most breaths?  
-   Options: Sitting still, before the dance / Right after the dance / After 5 minutes of rest  
+   Options: Right after the dance / Sitting still, before the dance / After 5 minutes of rest  
    **Answer:** Right after the dance. *Why:* Right after the dance your muscles had been working hard and using up oxygen, so you breathed fastest. Picking 'after 5 minutes of rest' may mean the counts were mixed up: by then most children are back near their first count.
 2. (fill) Your muscles need a gas from the air called ________.  
    **Answer:** ['oxygen']. *Why:* Oxygen comes in with every breath. Your blood carries it to your muscles.
@@ -491,7 +491,7 @@ Then they both laughed so much that they could not count anything.
 2. (perspective) Two friends are arguing about stretching.  
    **Answer:** A strong answer says stretching makes muscles work and keeps the body bendy, so it is a kind of exercise, even though it makes you breathe less than star jumps. The first child is right that it is much gentler on the heart and lungs.. *Why:* Different exercise does different jobs. Fast moves work the heart and lungs. Stretching keeps muscles long and bendy.
 3. (mcq) You walk up the stairs every day for a month. At the end of the month, what will most likely happen?  
-   Options: You puff more on the stairs than before / You puff less, and recover faster / Nothing changes  
+   Options: You puff less, and recover faster / You puff more on the stairs than before / Nothing changes  
    **Answer:** You puff less, and recover faster. *Why:* Regular exercise makes the heart, lungs and muscles stronger, so the same stairs feel easier. Picking 'you puff more' mixes up being tired after one climb with getting fitter over weeks.
 4. (write) A dolphin must come up to the surface to breathe air. How can she sleep without drowning? You can say it out loud and a grown-up can write it down.  
    **Answer:** She sleeps with half of her brain at a time, so the other half keeps her swimming and breathing.. *Why:* A strong answer says the dolphin never lets her whole brain sleep at once.
@@ -516,7 +516,7 @@ Then they both laughed so much that they could not count anything.
 
 ## Quiz
 1. (mcq) What happens to your breathing when you dance fast?  
-   Options: It gets slower / It gets faster and deeper / It stops for a moment  
+   Options: It gets slower / It stops for a moment / It gets faster and deeper  
    **Answer:** It gets faster and deeper. *Why:* Dancing makes your muscles work hard, so you breathe faster and take bigger breaths.
 2. (mcq) Why do you breathe faster when you exercise?  
    Options: Your muscles need more oxygen / Your nose gets hot / The air in the room gets thinner  
@@ -525,10 +525,10 @@ Then they both laughed so much that they could not count anything.
    Options: No time at all / A few minutes / A whole day  
    **Answer:** A few minutes. *Why:* Breathing slows down a little each minute. For many children it is back to normal within a few minutes.
 4. (mcq) Which of these is exercise?  
-   Options: Reading a comic / Skipping with a rope / Sleeping  
+   Options: Reading a comic / Sleeping / Skipping with a rope  
    **Answer:** Skipping with a rope. *Why:* Skipping makes your muscles work hard. Reading and sleeping are rest.
 5. (mcq) What does regular exercise make stronger?  
-   Options: Only your legs / Your muscles, heart and bones / Only your hair  
+   Options: Your muscles, heart and bones / Only your legs / Only your hair  
    **Answer:** Your muscles, heart and bones. *Why:* Exercise makes the muscles you use stronger. It also makes your heart, which is a muscle, and your bones stronger.
 6. (mcq) How much sleep does a child of 7 need each night?  
    Options: About 5 hours / About 9 to 12 hours / About 20 hours  
@@ -540,16 +540,16 @@ Then they both laughed so much that they could not count anything.
    Options: Keeping clean / Eating good food / Staying up very late  
    **Answer:** Staying up very late. *Why:* The four ways are exercise, rest and sleep, good food, and keeping clean. Staying up late takes away sleep.
 9. (mcq) Why do we wash after a sweaty game?  
-   Options: To wash off sweat, dirt and germs / To make our muscles bigger / To make us breathe faster  
+   Options: To make our muscles bigger / To wash off sweat, dirt and germs / To make us breathe faster  
    **Answer:** To wash off sweat, dirt and germs. *Why:* Washing takes away sweat, dirt and germs, so the skin stays healthy.
 10. (mcq) In the puff count test, why did you count your breaths sitting still first?  
-   Options: To know your normal breathing, so you could compare / To get tired before dancing / Because it was the easiest count  
+   Options: To get tired before dancing / Because it was the easiest count / To know your normal breathing, so you could compare  
    **Answer:** To know your normal breathing, so you could compare. *Why:* The first count shows your normal breathing. Without it, you could not tell how much the dance changed it.
 11. (mcq) Where do your muscles get their energy from?  
    Options: From the food you eat / From your hair / From the TV  
    **Answer:** From the food you eat. *Why:* The energy is in food. Oxygen helps your muscles release it.
 12. (mcq) You stand on one leg like a tree (vrikshasana) and hold still for five breaths. What does this exercise train?  
-   Options: Your balance and the muscles of your legs / How fast you can run / How loudly you can breathe  
+   Options: How fast you can run / Your balance and the muscles of your legs / How loudly you can breathe  
    **Answer:** Your balance and the muscles of your legs. *Why:* The tree pose is slow and steady. It trains balance and the leg muscles that hold you up. You do not need to puff for it to be exercise.
 13. (mcq) Seema plays kho-kho with her friends every evening. Why is play good for her?  
    Options: It moves her body and makes her feel cheerful / It uses up her sleep / It is only good for winning  

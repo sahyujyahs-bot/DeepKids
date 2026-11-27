@@ -649,10 +649,10 @@
       "q": "A coin sinks through deep water at a steady speed. Which forces act on the coin?",
       "options": [
        "Gravity only",
-       "Gravity and water resistance",
-       "Gravity, upthrust and water resistance"
+       "Gravity, upthrust and water resistance",
+       "Gravity and water resistance"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Gravity pulls the coin down. The water pushes up on it with upthrust, and water resistance acts against its movement. Leaving out upthrust usually means thinking that upthrust acts only on floating things."
      },
      "context": "This is the last step of Which Forces. Here you count the points and sort the cards."
@@ -995,11 +995,11 @@
       "t": "mcq",
       "q": "A loaded box floats in a bucket. Why can one paper clip start it moving?",
       "options": [
-       "The box weighs nothing in water",
        "Water resistance is zero on a still box",
+       "The box weighs nothing in water",
        "The paper clip is heavier near water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Water resistance acts only on a thing that is moving through the water. A still box has none, so even a tiny pull is unbalanced. Choosing 'weighs nothing' mixes up weight and upthrust. The box weighs the same, and upthrust balances that weight."
      },
      "context": "This is the last step of Table or Tub. Here you explain your results and draw the forces on the box."
@@ -1362,11 +1362,11 @@
       "t": "mcq",
       "q": "A 2 centimetre square hole is cut in a 30 centimetre square canopy. Why does the fall time hardly change?",
       "options": [
-       "The hole removes very little of the canopy",
        "Air cannot pass through a small hole",
+       "The hole removes very little of the canopy",
        "The hole makes the coin lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The canopy is 900 square centimetres and the hole is 4. So the front area is almost the same, and the air resistance balances the weight at almost the same speed. Air does pass through the hole. That is why the canopy swings less."
      },
      "context": "This is the last step of A Hole in the Parachute. Here you explain what the hole did and draw the forces."
@@ -1476,10 +1476,10 @@
       "q": "Three bottles of the same size are held fully under water. Which gets the biggest upthrust?",
       "options": [
        "The empty bottle",
-       "The bottle full of coins",
-       "All three get the same"
+       "All three get the same",
+       "The bottle full of coins"
       ],
-      "a": 2,
+      "a": 1,
       "why": "Upthrust equals the weight of the water displaced. Bottles of the same size displace the same water, so the upthrust is the same. The empty bottle shoots up because its weight is so small, not because its upthrust is bigger."
      },
      "context": "This is the last step of Three Bottles. Here you draw the forces on each bottle."
@@ -1591,11 +1591,11 @@
       "t": "mcq",
       "q": "A bag holding 200 grams of water hangs fully under water. How hard does it pull on the rubber band?",
       "options": [
+       "Not at all",
        "As hard as it does in air",
-       "About half as hard",
-       "Not at all"
+       "About half as hard"
       ],
-      "a": 2,
+      "a": 0,
       "why": "The bag displaces 200 grams of water, so the upthrust equals its weight. The two forces balance and nothing is left for the band to hold. The water in the bag still has its full weight. The water around it carries that weight."
      },
      "context": "This is the last step of the Bag of Water. Here you work out why a bag of water pulls on nothing when it is under water."
@@ -1676,11 +1676,11 @@
       "t": "mcq",
       "q": "A sheet of newspaper folded in half needs a faster walk to stay on your chest. Why?",
       "options": [
-       "Folding makes the paper heavier",
        "Half the front area catches less air",
+       "Folding makes the paper heavier",
        "Folded paper is more slippery"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The folded sheet has the same weight and half the front area. Air resistance grows with front area and with speed. So the smaller sheet needs more speed before the air presses it hard enough."
      },
      "context": "This is the last step of Newspaper on Your Chest. Here you name the forces that keep the sheet up."
@@ -1776,10 +1776,10 @@
       "q": "A dough pancake sinks at a steady speed. Which is true of the forces on it?",
       "options": [
        "Gravity is bigger than the upward forces",
-       "Upthrust plus water resistance equals gravity",
-       "No forces act on it"
+       "No forces act on it",
+       "Upthrust plus water resistance equals gravity"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A steady speed means the forces are balanced. Upthrust and water resistance point up, and together they equal gravity. If gravity were still bigger, the pancake would keep speeding up."
      },
      "context": "This is the last step of Balanced or Not. Here you sort the six drawings and find the rule."
@@ -1887,11 +1887,11 @@
       "t": "mcq",
       "q": "Why did the Mars rover need rockets as well as a very large parachute?",
       "options": [
-       "Mars has no gravity",
        "Mars has very thin air",
+       "Mars has no gravity",
        "Parachutes burn up on Mars"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The air on Mars is about one hundredth as thick as the air on Earth. Even a very large parachute cannot slow a heavy rover enough in such thin air. Rockets do the last part of the slowing."
      },
      "context": "This is the last step of Parachute or Rocket. Here you compare your plans with real landings."
@@ -2078,11 +2078,11 @@
       "t": "mcq",
       "q": "A new parachute has a bigger canopy and longer threads, and it falls more slowly. What can you say?",
       "options": [
+       "You cannot tell which change caused it",
        "The bigger canopy caused it",
-       "The longer threads caused it",
-       "You cannot tell which change caused it"
+       "The longer threads caused it"
       ],
-      "a": 2,
+      "a": 0,
       "why": "Two things were changed together, so either one could have slowed the fall, or both. A fair test changes one thing at a time. Then any difference has only one possible cause."
      },
      "context": "This is day 3 of the Parachute Trial. Here you build and test the final design and write the report."
@@ -2169,10 +2169,10 @@
       "q": "Many plankton have long, thin spines. How do the spines help them stay in sunlit water?",
       "options": [
        "The spines make them lighter",
-       "The spines add water resistance and slow sinking",
-       "The spines pull them upward"
+       "The spines pull them upward",
+       "The spines add water resistance and slow sinking"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Spines give a tiny body a much bigger area for the water to push against. The plankton then sink very slowly, so they stay longer near the surface, where there is light."
      },
      "context": "This is the last step of the Slow Sinker. Here you design, test and improve your own shape."
@@ -2283,12 +2283,12 @@
      "t": "mcq",
      "p": "Which force from water acts on a boat that is not moving?",
      "opts": [
-      "Upthrust",
       "Water resistance",
       "Friction",
+      "Upthrust",
       "Air resistance"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Upthrust pushes up on anything in water, still or moving. Water resistance acts only on a thing that moves through the water.",
      "outcome": 0
     },
@@ -2505,11 +2505,11 @@
      "p": "A skydiver falls at a steady 200 kilometres an hour. How big is the air resistance on her?",
      "opts": [
       "Bigger than her weight",
-      "Equal to her weight",
       "Smaller than her weight",
+      "Equal to her weight",
       "Zero"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A steady speed means balanced forces. Air resistance points up and gravity points down, so the two are equal. Choosing 'smaller' usually means thinking that a falling thing must have a bigger force downward.",
      "outcome": 4
     },
@@ -2542,11 +2542,11 @@
      "p": "One paper clip pulls a loaded floating box. The box starts very slowly. What makes the start slow?",
      "opts": [
       "Water resistance on the still box",
-      "The mass of the loaded box",
       "Friction from the water",
+      "The mass of the loaded box",
       "Upthrust pushing backward"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A still box has no water resistance, and water has no friction to hold it. The box starts slowly because a big mass takes time to speed up under a small pull.",
      "how": "e1",
      "outcome": 1
@@ -2640,12 +2640,12 @@
      "t": "mcq",
      "p": "Two mean fall times, timed by hand, are 1.9 and 2.0 seconds. What can you say?",
      "opts": [
+      "The gap is too small to trust",
       "The second parachute is slower",
       "The first parachute is slower",
-      "The gap is too small to trust",
       "The stopwatch is broken"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A hand on a stopwatch is off by about 0.2 seconds. A gap of 0.1 seconds is smaller than that, so the two parachutes may be the same.",
      "how": "e3",
      "outcome": 5
@@ -2909,12 +2909,12 @@
    "t": "mcq",
    "p": "Which of these forces always points up?",
    "opts": [
+    "Upthrust",
     "Friction",
     "Air resistance",
-    "Upthrust",
     "Water resistance"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Upthrust is the upward push of water or air. The other three point against a movement or a slide, whichever way that is.",
    "outcome": 0
   },
@@ -2935,12 +2935,12 @@
    "t": "mcq",
    "p": "On a table, what happens to the pull needed to start a box when its load is doubled?",
    "opts": [
-    "It stays the same",
     "It about doubles",
+    "It stays the same",
     "It halves",
     "It becomes zero"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Friction grows with the weight pressing the surfaces together. Twice the load gives about twice the friction to overcome.",
    "outcome": 1
   },
@@ -2949,11 +2949,11 @@
    "p": "Which change makes the air resistance on a cyclist smaller?",
    "opts": [
     "Riding faster",
-    "Sitting upright",
     "Bending low over the handlebar",
+    "Sitting upright",
     "Wearing a loose jacket"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Bending low makes the front area smaller. Riding faster, sitting upright and loose clothes all make air resistance bigger.",
    "outcome": 2
   },
@@ -2961,12 +2961,12 @@
    "t": "mcq",
    "p": "Which shape has the least drag in water at the same speed and front area?",
    "opts": [
+    "A fish shape",
     "A flat plate, face on",
     "A ball",
-    "A cube",
-    "A fish shape"
+    "A cube"
    ],
-   "a": 3,
+   "a": 0,
    "why": "The fish shape is rounded in front and narrows behind, so water closes up smoothly and the wake is small.",
    "outcome": 2
   },
@@ -2975,11 +2975,11 @@
    "p": "What does the upthrust on a thing under water depend on?",
    "opts": [
     "How heavy the thing is",
-    "How much water the thing displaces",
     "What the thing is made of",
+    "How much water the thing displaces",
     "How deep the thing is"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Upthrust equals the weight of the water displaced. Choosing 'how heavy' usually comes from seeing light things rise. They rise because their weight is smaller than the upthrust.",
    "outcome": 3
   },
@@ -2987,12 +2987,12 @@
    "t": "mcq",
    "p": "A bottle weighs less than the water it displaces. What does it do when let go under water?",
    "opts": [
-    "Rises",
     "Sinks",
+    "Rises",
     "Hangs still",
     "Spins"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The upthrust equals the weight of the water displaced, which is more than the bottle's weight. The forces are unbalanced upward, so the bottle rises.",
    "outcome": 3
   },
@@ -3000,12 +3000,12 @@
    "t": "mcq",
    "p": "A coin sinks at a steady speed. What is true of the forces on it?",
    "opts": [
-    "They are balanced",
     "Gravity is winning",
     "Upthrust is winning",
+    "They are balanced",
     "There are none"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A steady speed means balanced forces. Upthrust and water resistance together equal gravity.",
    "outcome": 4
   },
@@ -3014,11 +3014,11 @@
    "p": "Three parachute designs land, on average, 30, 31 and 29 centimetres from the target. Single drops of one design vary by 20 centimetres. What can you say?",
    "opts": [
     "The second design is worst",
-    "The third design is best",
     "The designs are too close to tell apart",
+    "The third design is best",
     "The test was unfair"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The means differ by only 2 centimetres, and single drops vary by ten times that. So the test cannot tell these designs apart.",
    "outcome": 5
   },
@@ -3027,11 +3027,11 @@
    "p": "What does a small vent in the top of a parachute mainly do?",
    "opts": [
     "Makes the fall much faster",
-    "Lets air out, so the canopy swings less",
     "Makes the load lighter",
-    "Stops the canopy opening"
+    "Stops the canopy opening",
+    "Lets air out, so the canopy swings less"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Air caught under the canopy leaves through the vent and not under the edges. The canopy swings less, and the fall is hardly faster.",
    "outcome": 6
   },
@@ -3052,12 +3052,12 @@
    "t": "mcq",
    "p": "Which of these can nobody yet work out exactly?",
    "opts": [
-    "How turbulent water will swirl",
     "Whether drag grows with speed",
     "Whether upthrust points up",
+    "How turbulent water will swirl",
     "Whether the Moon has air"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The equations for turbulent flow have never been solved exactly. The other three are settled.",
    "outcome": 7
   },
@@ -3065,11 +3065,11 @@
    "t": "mcq",
    "p": "A child pulls a box across the floor with a rope. What is the child's pull on the box?",
    "opts": [
-    "An applied force",
     "Upthrust",
-    "Air resistance"
+    "Air resistance",
+    "An applied force"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A push or pull from a person, an animal or a machine is an applied force. Upthrust pushes up in air or water, and air resistance works against movement through air.",
    "outcome": 0
   }

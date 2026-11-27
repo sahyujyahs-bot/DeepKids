@@ -753,11 +753,11 @@
       "t": "mcq",
       "q": "An order card says: 2 coins sit on left peg 2. Where do you put your 2 coins to make the ruler balance?",
       "options": [
-       "Right peg 1",
        "Right peg 2",
+       "Right peg 1",
        "Right peg 4"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Right peg 2 is correct: same coins, same distance, so both sides turn the ruler equally. A player who picks peg 4 thinks further out always helps. Here it would tip the ruler to the right."
      }
     },
@@ -788,11 +788,11 @@
       "t": "mcq",
       "q": "Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Say your guess. What happens?",
       "options": [
+       "It balances, because 2 times 4 and 4 times 2 both make 8",
        "It tips left, because the left side is further out",
-       "It tips right, because there are more coins",
-       "It balances, because 2 times 4 and 4 times 2 both make 8"
+       "It tips right, because there are more coins"
       ],
-      "a": 2,
+      "a": 0,
       "why": "It balances: 2 times 4 is 8, and 4 times 2 is 8. A player who guesses 'tips right' is counting coins and forgetting distance. A player who guesses 'tips left' is counting distance and forgetting coins."
      }
     },
@@ -943,11 +943,11 @@
       "t": "mcq",
       "q": "You draw the Knife card. Which mat does it go on?",
       "options": [
-       "LEVER, because you push on its handle",
        "RAMP, because its blade is two slopes back to back",
+       "LEVER, because you push on its handle",
        "WHEEL, because it moves"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A knife goes on the RAMP mat. Its blade is a wedge, two slopes back to back. A player who picks LEVER is thinking of the handle. A player who picks WHEEL may think anything that moves is a wheel."
      }
     },
@@ -989,12 +989,12 @@
      "t": "mcq",
      "p": "Many people think a machine must have a motor. Which of these is a machine with no motor?",
      "opts": [
-      "A spoon used to prise the lid off a tin",
       "A pebble lying on the ground",
+      "A spoon used to prise the lid off a tin",
       "A puddle of water",
       "A cloud"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A simple machine is a tool with few parts that makes a push or a pull easier. The spoon is a lever, so it is a machine. Machines with motors are only one kind. A see-saw, a ramp and a spoon have no motor at all."
     },
     {
@@ -1030,12 +1030,12 @@
      "t": "mcq",
      "p": "A light child and her heavy uncle get on a see-saw. Where should the uncle sit, so that they balance?",
      "opts": [
-      "At the very end",
       "Closer to the middle",
+      "At the very end",
       "On the child's side",
       "Nowhere. They can never balance"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Weight close to the fulcrum turns the plank less. So the heavy uncle moves in towards the middle, and the child stays far out. Picking 'never balance' means only weight was counted. Distance matters too.",
      "how": "a2"
     },
@@ -1124,11 +1124,11 @@
      "t": "mcq",
      "p": "A girl needs to move a heavy box of books across the floor. Which way is easiest?",
      "opts": [
-      "Rolling it on round pencils",
       "Dragging it along the floor",
-      "Lifting and carrying it"
+      "Lifting and carrying it",
+      "Rolling it on round pencils"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Rollers touch the floor at only a few thin lines, so there is much less rubbing, called friction. Picking 'dragging' means only the box's weight was counted. How it touches the floor matters too."
     },
     {
@@ -1143,11 +1143,11 @@
      "t": "mcq",
      "p": "In the door test, where was it easiest to push the door open?",
      "opts": [
-      "Far from the hinges, near the handle",
       "Right next to the hinges",
-      "It was the same everywhere"
+      "It was the same everywhere",
+      "Far from the hinges, near the handle"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The hinges are where the door turns, like the fulcrum of a lever. A push far from the hinges turns the door much more. Picking 'the same everywhere' is common, because the door weighs the same wherever you push.",
      "how": "a6"
     },
@@ -1155,12 +1155,12 @@
      "t": "mcq",
      "p": "When you lift a cup of water, your forearm is a lever. Where is its fulcrum?",
      "opts": [
-      "Your elbow",
       "Your hand",
       "Your fingers",
+      "Your elbow",
       "Your shoulder"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your forearm turns at the elbow, so the elbow is the fulcrum. Picking 'your hand' mixes up where the load is held with where the arm turns.",
      "how": "a4"
     },
@@ -1212,11 +1212,11 @@
      "p": "Five coins sit 2 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?",
      "opts": [
       "2 cm from the pencil",
-      "4 cm from the pencil",
       "5 cm from the pencil",
+      "4 cm from the pencil",
       "10 cm from the pencil"
      ],
-     "a": 2,
+     "a": 1,
      "why": "5 coins times 2 cm is 10. 2 coins times 5 cm is also 10. So the 2 coins go 5 cm away. Picking 2 cm matches the place but forgets the weight. Picking 10 cm uses the total instead of sharing it between the 2 coins.",
      "context": "A ruler laid across a round pencil makes a small see-saw. Coins are the weights.",
      "how": "e1"
@@ -1237,11 +1237,11 @@
      "p": "Kitchen tongs (a chimta in Hindi, an idukki in Tamil) are held in the middle. They make your squeeze weaker at the tips. So why do cooks use them?",
      "opts": [
       "They are cheaper",
-      "The tips move further than your fingers, and keep your hand away from the heat",
       "They make your push stronger",
-      "They are not a lever"
+      "They are not a lever",
+      "The tips move further than your fingers, and keep your hand away from the heat"
      ],
-     "a": 1,
+     "a": 3,
      "why": "In tongs, the effort is in the middle, so they trade strength for distance. The tips open wide, and your fingers stay away from the hot pan. Picking 'stronger' is very common, because we expect every lever to make pushes bigger. Some levers are for distance and speed instead."
     },
     {
@@ -1285,11 +1285,11 @@
      "t": "mcq",
      "p": "A wheelbarrow has its wheel at the front, the bricks in the middle and your hands at the back. You slide the bricks closer to the wheel. What happens to the lift your hands need?",
      "opts": [
-      "It gets smaller",
       "It gets bigger",
+      "It gets smaller",
       "It stays the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The wheel is the fulcrum. A load closer to the fulcrum turns the barrow less, so your hands lift with a smaller force. Picking 'stays the same' forgets that distance from the fulcrum matters, as it did on the see-saw."
     },
     {
@@ -1361,11 +1361,11 @@
      "t": "mcq",
      "p": "A hand pump has a long handle. The rod inside moves only a short way when the handle goes down. Suppose the handle were half as long. What would change?",
      "opts": [
-      "You would need a bigger push",
       "You would need a smaller push",
+      "You would need a bigger push",
       "Nothing would change"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your hand would be closer to the fulcrum, so it turns the handle less. You would need a bigger push for the same lift. A long handle trades a small push for a long way."
     },
     {
@@ -1424,12 +1424,12 @@
      "t": "mcq",
      "p": "Mountain roads up the ghats zigzag instead of going straight up. Why?",
      "opts": [
-      "To make the view better",
       "A longer, gentler road needs a smaller push from the engine",
+      "To make the view better",
       "Because straight roads are not allowed",
       "To make the trip shorter"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A zigzag road is a long ramp. It is longer, but gentler, so trucks and buses can climb with less push. Picking 'shorter' is the opposite. Zigzags make the trip longer.",
      "context": "Ghats are hills and mountains in India, like the Western Ghats. Roads climbing them often zigzag back and forth."
     },
@@ -1488,11 +1488,11 @@
      "t": "mcq",
      "p": "Predict: 2 coins sit on left peg 2, and 3 coins sit on right peg 1. What will the see-saw do?",
      "opts": [
-      "Tips left",
       "Tips right",
-      "Balances"
+      "Balances",
+      "Tips left"
      ],
-     "a": 0,
+     "a": 2,
      "why": "2 times 2 is 4. 3 times 1 is 3. The left side makes more turning, so it tips left. Picking 'tips right' means counting coins and forgetting distance.",
      "context": "This is from the Balance Bazaar game. A ruler on a pencil is a see-saw. The pegs are numbered 1 to 4 going out from the middle.",
      "how": "g1"
@@ -1513,11 +1513,11 @@
      "p": "Why can't a wheel with shifting weights keep turning for ever by itself?",
      "opts": [
       "It could. Nobody has tried hard enough",
-      "The turning on both sides always balances out, and friction slowly stops it",
       "Wheels are too heavy",
+      "The turning on both sides always balances out, and friction slowly stops it",
       "It needs to be bigger"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Every design ever tried has failed. Energy cannot come from nothing. Picking 'nobody has tried hard enough' is a hopeful guess. In fact people have tried for over 800 years, since Bhaskara II described one in about 1150.",
      "context": "For hundreds of years, inventors dreamed of a wheel that turns for ever by itself, with no push."
     },
@@ -1525,12 +1525,12 @@
      "t": "mcq",
      "p": "A vegetable seller's tarazu has two pans hanging the same distance from the middle. A 1 kg weight in one pan balances the tomatoes in the other pan. How much do the tomatoes weigh, and why?",
      "opts": [
-      "1 kg, because the distances are equal, so the weights must be equal",
       "2 kg, because there are more tomatoes",
       "Less than 1 kg, because tomatoes are soft",
-      "It cannot be known"
+      "It cannot be known",
+      "1 kg, because the distances are equal, so the weights must be equal"
      ],
-     "a": 0,
+     "a": 3,
      "why": "With equal distances from the fulcrum, weight times distance matches only when the weights match. So the tomatoes weigh 1 kg. Picking 'it cannot be known' forgets that this is exactly how a tarazu weighs things.",
      "context": "A tarazu is the two-pan scale used at vegetable markets. It is a see-saw with equal arms."
     },
@@ -1544,12 +1544,12 @@
      "t": "mcq",
      "p": "Someone says, 'A single pulley over a well makes the bucket lighter.' What is wrong with this idea?",
      "opts": [
-      "The bucket weighs just the same. The pulley only lets you pull down instead of up",
       "Nothing. Pulleys make things lighter",
       "Pulleys make the bucket heavier",
+      "The bucket weighs just the same. The pulley only lets you pull down instead of up",
       "Pulleys only work on ropes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A single fixed pulley changes the direction of your pull, not its size. Pulling down is easier, because you can use your own weight. To need a smaller pull, you must use more pulleys together, and then you pull a longer length of rope."
     },
     {
@@ -1587,12 +1587,12 @@
      "t": "mcq",
      "p": "A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?",
      "opts": [
-      "Many turns of a small push move it in only a little, with a big force",
       "It is sharp",
       "It is made of iron",
+      "Many turns of a small push move it in only a little, with a big force",
       "It is glued"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A screw is a long ramp. Each turn moves it forward only a little, so a small twist gives a big push forward. Picking 'sharp' is part of it, since the tip is a wedge. But the thread is a ramp."
     },
     {
@@ -1982,10 +1982,10 @@
       "q": "The long ramp needed the smallest pull. What did you give up?",
       "options": [
        "Nothing. It's free",
-       "The truck had to travel further",
-       "The truck got lighter"
+       "The truck got lighter",
+       "The truck had to travel further"
       ],
-      "a": 1,
+      "a": 2,
       "why": "The truck had to travel further. A smaller pull always means a longer way. Picking 'nothing' means thinking machines are free. Picking 'lighter' mixes up the truck's weight with the pull needed."
      }
     },
@@ -2173,11 +2173,11 @@
       "t": "mcq",
       "q": "With the big handle, the winding was easier. What did your hand do?",
       "options": [
-       "It travelled round a bigger circle",
        "It stayed still",
-       "It travelled a shorter way"
+       "It travelled a shorter way",
+       "It travelled round a bigger circle"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your hand went round a bigger circle. The big handle traded a small push for a long way. Picking 'a shorter way' is the opposite of what happens. Picking 'stayed still' means the turning was not noticed."
      },
      "think": "A tap, a doorknob and a screwdriver handle all work like your winch. Can you find one at home?"
@@ -2303,10 +2303,10 @@
       "q": "When you swing your lower leg forward, what is the fulcrum?",
       "options": [
        "Your foot",
-       "Your knee",
-       "Your thigh muscle"
+       "Your thigh muscle",
+       "Your knee"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your knee is the fulcrum, where the lower leg turns. Picking 'your thigh muscle' mixes up the effort, the muscle's pull, with the fulcrum. Picking 'your foot' mixes up the load with the fulcrum."
      },
      "think": "Your body was not designed by an engineer. So how did it end up full of levers?",
@@ -2379,11 +2379,11 @@
       "t": "mcq",
       "q": "To balance a light child, where should a heavy grown-up sit?",
       "options": [
-       "At the very end",
        "Closer to the middle",
+       "At the very end",
        "Standing up"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The heavy grown-up sits closer to the middle, so their weight turns the see-saw less. A child who picks 'at the very end' thinks the heavier person needs more room. That makes the tipping worse."
      }
     },
@@ -2551,11 +2551,11 @@
       "t": "mcq",
       "q": "When you stand on tiptoe, where is the fulcrum?",
       "options": [
-       "Your heel",
        "The ball of your foot, under your toes",
+       "Your heel",
        "Your knee"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The ball of your foot, under your toes, is the fulcrum. Your body turns round it as you rise. Picking 'your heel' is common, because the heel moves. But the part that stays on the floor is the fulcrum."
      }
     },
@@ -2640,11 +2640,11 @@
       "t": "mcq",
       "q": "The Earth and the Moon swing round a balance point. Where is it?",
       "options": [
-       "Halfway between them",
        "Inside the Earth",
+       "Halfway between them",
        "Inside the Moon"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Inside the Earth. The Earth is about 81 times heavier than the Moon, so the balance point sits close to the Earth's centre, about 1,700 km under the surface. Picking 'halfway' forgets that heavy things sit closer to the balance point, just like the grown-up on the see-saw."
      }
     },
@@ -2897,11 +2897,11 @@
       "t": "mcq",
       "q": "The counterweight hangs on the short end, close to the fulcrum. How heavy must it be to lift a full cup on the long end?",
       "options": [
-       "Heavier than the full cup, because the short end is close to the fulcrum",
        "Lighter than the full cup, because rice is lighter than water",
+       "Heavier than the full cup, because the short end is close to the fulcrum",
        "It does not matter, because the post does all the lifting"
       ],
-      "a": 0,
+      "a": 1,
       "why": "The counterweight must be heavier than the full cup, because it sits close to the fulcrum. Close in, a weight turns the beam less, so it needs to be heavier. Picking 'the post does the lifting' mixes up the fulcrum with the effort."
      },
      "parent": "The counterweight on the short end must be heavier than the full cup, because it is closer to the fulcrum. That is the see-saw rule. When it is right, you only pull down a little to dip the empty cup, and the counterweight lifts the full one.",
@@ -3028,10 +3028,10 @@
       "q": "Your best machine needed the smallest pull. What did you have to give up?",
       "options": [
        "Nothing",
-       "My pull had to travel a longer way",
-       "The rice got lighter"
+       "The rice got lighter",
+       "My pull had to travel a longer way"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Your pull had to travel a longer way. Every machine trades a smaller pull for a longer distance. Picking 'nothing' means thinking machines give something for free. Picking 'lighter' mixes up the bag's weight with the pull."
      },
      "think": "Every machine makes a trade. Which trade was the best one for this job?",
@@ -3186,11 +3186,11 @@
    "t": "mcq",
    "p": "Which of these is not one of the six simple machines?",
    "opts": [
-    "A battery",
     "A pulley",
+    "A battery",
     "A screw"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The six are the lever, the ramp, the wheel and axle, the pulley, the wedge and the screw. A battery stores energy, but it does not change a push or a pull.",
    "outcome": 0
   },
@@ -3198,11 +3198,11 @@
    "t": "mcq",
    "p": "On a pair of scissors, where is the fulcrum?",
    "opts": [
-    "The screw in the middle",
     "The tips of the blades",
+    "The screw in the middle",
     "Your thumb"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The two blades turn on the screw, so that is the fulcrum. Picking 'your thumb' mixes up the effort with the fulcrum.",
    "outcome": 1
   },
@@ -3210,11 +3210,11 @@
    "t": "mcq",
    "p": "When you stand on tiptoe, your foot works as a lever. Where does it turn?",
    "opts": [
-    "At the ball of your foot, near your toes",
     "At your heel",
-    "At your knee"
+    "At your knee",
+    "At the ball of your foot, near your toes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Your calf muscle pulls your heel up, and the foot turns on the ball of the foot. Picking 'at your heel' mixes up where the effort pulls with where the foot turns.",
    "how": "a4",
    "outcome": 1
@@ -3235,11 +3235,11 @@
    "t": "mcq",
    "p": "A see-saw is level. Then the child on the left slides further out from the middle. What happens?",
    "opts": [
-    "The left side goes down",
     "The right side goes down",
+    "The left side goes down",
     "Nothing changes"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The same weight further from the fulcrum turns the plank more. So the left side goes down. Picking 'nothing changes' means only weight was counted, not distance.",
    "outcome": 2
   },
@@ -3261,11 +3261,11 @@
    "t": "mcq",
    "p": "Instead of using the steps, a girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?",
    "opts": [
-    "She must push for a longer way",
     "She needs a bigger push",
+    "She must push for a longer way",
     "Nothing at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.",
    "how": "c2",
    "outcome": 3
@@ -3286,11 +3286,11 @@
    "t": "mcq",
    "p": "Why does a tap have a wide handle, and not just a thin rod?",
    "opts": [
-    "The wide handle is a wheel, so a small push makes a strong twist",
     "It looks nicer",
+    "The wide handle is a wheel, so a small push makes a strong twist",
     "A wide handle uses less water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A tap is a wheel and axle. Your hand goes round a bigger circle with a smaller push, and the thin rod twists strongly.",
    "outcome": 4
   },
@@ -3298,11 +3298,11 @@
    "t": "mcq",
    "p": "Why is a heavy cart on wheels easier to move than dragging the same load?",
    "opts": [
-    "Rolling has much less friction than sliding",
     "Wheels make the load lighter",
-    "Wheels push the cart by themselves"
+    "Wheels push the cart by themselves",
+    "Rolling has much less friction than sliding"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A rolling wheel does not rub along the ground the way a sliding load does, so there is much less friction. Picking 'lighter' mixes up weight and push.",
    "outcome": 4
   },
@@ -3310,11 +3310,11 @@
    "t": "mcq",
    "p": "In the ruler see-saw test, why did you try each coin position more than once?",
    "opts": [
-    "Because one try can be a fluke",
     "To make the test take longer",
+    "Because one try can be a fluke",
     "Because the ruler gets longer"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A coin can slip, or the ruler can wobble. Trying more than once shows which result is real.",
    "how": "e1",
    "outcome": 5
@@ -3324,10 +3324,10 @@
    "p": "These are made-up results from the ramp test. Which way of going up needed the smallest pull?",
    "opts": [
     "Lifted straight up",
-    "Short, steep ramp",
-    "Long, gentle ramp"
+    "Long, gentle ramp",
+    "Short, steep ramp"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.",
    "outcome": 5,
    "chart": {
@@ -3385,11 +3385,11 @@
    "t": "mcq",
    "p": "Your biceps pulls on your forearm very close to the elbow. What do you gain from that?",
    "opts": [
-    "Your hand moves far and fast",
     "A stronger grip",
+    "Your hand moves far and fast",
     "Nothing. It is a mistake"
    ],
-   "a": 0,
+   "a": 1,
    "why": "With the muscle close to the fulcrum, a small shortening swings the hand a long way, fast. Picking 'a mistake' is a fair first guess, but it is a trade of strength for speed.",
    "outcome": 6
   }

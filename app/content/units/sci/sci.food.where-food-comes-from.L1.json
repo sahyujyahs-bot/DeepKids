@@ -609,11 +609,11 @@
       "t": "mcq",
       "q": "Which of these makers is a plant?",
       "options": [
-       "A hen",
        "Sugarcane",
+       "A hen",
        "Honey bees"
       ],
-      "a": 1,
+      "a": 0,
       "why": "Sugarcane is a plant. The sweet juice in the stem becomes jaggery. A hen and honey bees are animals."
      }
     }
@@ -1397,10 +1397,10 @@
      "p": "Which one of these did a plant make?",
      "opts": [
       "An egg",
-      "A mango",
-      "A glass of milk"
+      "A glass of milk",
+      "A mango"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A mango is the fruit of the mango tree. Eggs and milk are made by animals."
     },
     {
@@ -1598,11 +1598,11 @@
      "t": "mcq",
      "p": "Why do bees fan their wings over the honeycomb?",
      "opts": [
-      "To dry the nectar into honey",
       "To keep the flowers away",
-      "To make the honey colder"
+      "To make the honey colder",
+      "To dry the nectar into honey"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The moving air from their wings makes water evaporate from the nectar, until it is thick honey."
     },
     {
@@ -1664,11 +1664,11 @@
    "t": "mcq",
    "p": "Which of these is food from an animal?",
    "opts": [
-    "An idli",
     "A cup of milk",
+    "An idli",
     "A banana"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A cow, buffalo or goat makes milk. Idli is made from seeds, and a banana is a fruit.",
    "outcome": 0
   },
@@ -1700,11 +1700,11 @@
    "t": "mcq",
    "p": "How does a mango tree get food?",
    "opts": [
-    "The tree makes food in the leaves, from sunlight, air and water",
     "The tree eats insects",
-    "The tree eats the soil"
+    "The tree eats the soil",
+    "The tree makes food in the leaves, from sunlight, air and water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Green plants make their own food in their leaves. The soil gives the tree water and small amounts of minerals, but not food.",
    "outcome": 1
   },
@@ -1724,11 +1724,11 @@
    "t": "mcq",
    "p": "What do honey bees make honey from?",
    "opts": [
-    "Flower nectar",
     "Rain water",
-    "Mud"
+    "Mud",
+    "Flower nectar"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Bees drink nectar from flowers, carry it home and dry it into honey.",
    "outcome": 2
   },
@@ -1749,11 +1749,11 @@
    "t": "mcq",
    "p": "Who makes the honey in a beehive?",
    "opts": [
-    "The female worker bees",
     "The male bees",
-    "The beekeeper"
+    "The beekeeper",
+    "The female worker bees"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The worker bees, who are all female, gather nectar and make honey. Male bees make no honey. The beekeeper only takes some out.",
    "outcome": 2
   },
@@ -1761,11 +1761,11 @@
    "t": "mcq",
    "p": "What does a cow eat to make her milk?",
    "opts": [
-    "Grass and other plants",
     "Milk",
+    "Grass and other plants",
     "Stones"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A cow makes milk from the grass, hay and other plants she eats.",
    "outcome": 3
   },
@@ -1785,11 +1785,11 @@
    "t": "mcq",
    "p": "You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?",
    "opts": [
-    "Make a guess and say why",
     "Eat the sugar",
+    "Make a guess and say why",
     "Wash the plates"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Scientists guess first and give a reason. Then the test shows if the guess was right.",
    "how": "e1",
    "outcome": 4

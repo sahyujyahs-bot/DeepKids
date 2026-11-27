@@ -487,16 +487,16 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
    Options: A fast, automatic response to a stimulus / A skill learned by practice / A kind of muscle / A plan made by the brain  
    **Answer:** A fast, automatic response to a stimulus. *Why:* A reflex is fast and automatic, and nobody has to learn it. A skill learned by practice, such as cycling, is the opposite kind of thing.
 2. (mcq) A drop of lemon juice makes your mouth water. Which one is the stimulus?  
-   Options: The lemon juice / The saliva / The swallow / The tongue  
+   Options: The saliva / The swallow / The tongue / The lemon juice  
    **Answer:** The lemon juice. *Why:* The stimulus is what sets the reflex off. The saliva flowing is the response. The tongue is where the sensors are.
 3. (mcq) A goose's egg is taken away halfway through a roll. What does she do?  
-   Options: She finishes the rolling movement / She stops at once / She flies away / She rolls much faster  
+   Options: She stops at once / She flies away / She finishes the rolling movement / She rolls much faster  
    **Answer:** She finishes the rolling movement. *Why:* A fixed action pattern usually runs to the end once it has started. Lorenz and Tinbergen saw the goose draw her beak back to the nest with no egg.
 4. (mcq) What does a newly hatched gosling imprint on?  
-   Options: The first big moving thing she sees / The biggest egg in the nest / The first food she eats / The colour of the nest  
+   Options: The biggest egg in the nest / The first food she eats / The colour of the nest / The first big moving thing she sees  
    **Answer:** The first big moving thing she sees. *Why:* A gosling fixes on the first large moving thing near her in her first day. In nature that is her mother.
 5. (mcq) What is a sign stimulus?  
-   Options: The one feature that sets off a behaviour / A reward given after a trick / A loud warning call / A mark on a tree  
+   Options: A reward given after a trick / A loud warning call / A mark on a tree / The one feature that sets off a behaviour  
    **Answer:** The one feature that sets off a behaviour. *Why:* A sign stimulus is one feature, such as the red spot on a gull's beak. The animal responds to that feature more than to the whole thing.
 6. (fill) The short time early in life when imprinting can happen is called the ____ period.  
    **Answer:** ['sensitive', 'critical']. *Why:* It is called the sensitive period. Some books call it the critical period. For a mallard duckling this period is about the first day after hatching.
@@ -520,16 +520,16 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
    **Answer:** Two round faces that are the same except for one feature: either small eyes and big eyes, or eyes high and eyes low. The differing feature is circled.. *Why:* A strong drawing keeps the head, nose and mouth the same on both faces. Only then can the votes be put down to the one feature that changed.
 ### Triggers and windows (stretch, 15 questions)
 1. (mcq) A hen ignores a chick she can see but cannot hear. What is the trigger for her rescue?  
-   Options: The chick's cheeping / The chick's colour / The chick's size / The glass cover  
+   Options: The chick's colour / The chick's size / The chick's cheeping / The glass cover  
    **Answer:** The chick's cheeping. *Why:* She runs to a cheeping chick even when she cannot see them. So the sound is the trigger, more than the sight.
 2. (mcq) Why can a dummy set off an inborn behaviour?  
-   Options: It has the one feature that matters / It smells of food / It is bigger than the animal / Animals like new things  
+   Options: It smells of food / It is bigger than the animal / Animals like new things / It has the one feature that matters  
    **Answer:** It has the one feature that matters. *Why:* The animal responds to the sign stimulus. Any dummy that carries that feature, such as a red spot, can set off the behaviour.
 3. (mcq) A duckling first sees a moving thing at 40 hours old. What will most likely happen?  
-   Options: She will not imprint on it / She will imprint at once / She will imprint twice as strongly / She will forget how to walk  
+   Options: She will imprint at once / She will imprint twice as strongly / She will not imprint on it / She will forget how to walk  
    **Answer:** She will not imprint on it. *Why:* The sensitive period for a mallard duckling is nearly over by 30 hours. At 40 hours she is more likely to move away from a new thing.
 4. (mcq) Why is a reflex faster than an action you plan?  
-   Options: The message skips the brain's planning parts / Reflex nerves are outside the body / Planned actions use no nerves / Reflexes use bigger muscles  
+   Options: Reflex nerves are outside the body / Planned actions use no nerves / The message skips the brain's planning parts / Reflexes use bigger muscles  
    **Answer:** The message skips the brain's planning parts. *Why:* In a reflex the message goes in to the spinal cord or lower brain. Then it goes straight back out to a muscle. A planned action takes a longer path.
 5. (truefalse) A cold hand sets off the diving reflex as well as a cold face does.  
    **Answer:** False. *Why:* False. The sensors that set off the diving reflex are in the skin of the face, around the eyes and nose.
@@ -556,16 +556,16 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
    **Answer:** ['Sensor in the skin: at the fingertip touching the tumbler', 'Nerve carrying the message in: from the fingertip up the arm', 'Spinal cord: inside the backbone', 'Nerve carrying the message out to the muscle: from the spinal cord down to the arm muscle']. *Why:* The message goes in along one nerve and out along another. It turns round in the spinal cord, without waiting for the planning parts of the brain.
 ### Testing what is inborn (challenge, 15 questions)
 1. (mcq) A stickleback attacks a red wax lump and leaves a lifelike grey model alone. What does this show?  
-   Options: A red underside is the trigger / Wax smells like a fish / He is hungry / Grey fish are his friends  
+   Options: Wax smells like a fish / He is hungry / A red underside is the trigger / Grey fish are his friends  
    **Answer:** A red underside is the trigger. *Why:* The lump had only one fish-like feature, the red underside, and the lump was attacked. The lifelike model lacked red and was left alone.
 2. (mcq) Duck embryos who hear no calls in the egg later fail to pick their mother's call. What does this suggest?  
    Options: Hearing calls inside the egg matters / Ducklings are born deaf / Mother ducks teach each call / Calls are learned after a year  
    **Answer:** Hearing calls inside the egg matters. *Why:* Gilbert Gottlieb's tests showed that even an instinct can need an experience. Here the experience is the duckling's own voice, heard inside the egg.
 3. (mcq) In the Cold Face Test, why is the pulse counted three times for each test?  
-   Options: One count can be wrong by chance / The heart needs to warm up / The water gets colder each time / Three counts take less time  
+   Options: The heart needs to warm up / One count can be wrong by chance / The water gets colder each time / Three counts take less time  
    **Answer:** One count can be wrong by chance. *Why:* A single count can be off by a beat or two. Three counts show whether the result repeats, and the middle count is a fair one to use.
 4. (mcq) Mice raised in cages still dig the burrow shape of their own kind. What does this show?  
-   Options: Burrow shape is inherited / Cages are like burrows / The mice copied other mice / Digging has to be taught  
+   Options: Cages are like burrows / The mice copied other mice / Digging has to be taught / Burrow shape is inherited  
    **Answer:** Burrow shape is inherited. *Why:* The mice had never seen a burrow or another mouse digging. So the shape did not come from copying or teaching.
 5. (truefalse) A supernormal stimulus works because the animal's rule has no upper limit.  
    **Answer:** True. *Why:* True. A rule such as 'sit on the biggest egg' never needed a limit. Nature never offers an egg that is too big.
@@ -597,39 +597,39 @@ A month later Ammachi sent a message. "Your duck walks in the middle of the floc
 
 ## Quiz
 1. (mcq) Which of these is a reflex?  
-   Options: Blinking when something flies at your eye / Tying a shoelace / Singing a song / Choosing a ripe mango  
+   Options: Tying a shoelace / Blinking when something flies at your eye / Singing a song / Choosing a ripe mango  
    **Answer:** Blinking when something flies at your eye. *Why:* A blink at something rushing towards the eye is fast, automatic and unlearned. The other three are learned or chosen.
 2. (mcq) What sets off a reflex or a fixed action pattern?  
    Options: A stimulus / A reward / A lesson from a parent / A long rest  
    **Answer:** A stimulus. *Why:* Each reflex and each fixed pattern waits for a stimulus of its own, also called a trigger.
 3. (mcq) Which sentence is true of a fixed action pattern?  
-   Options: Once started, it usually runs to the end / It is different every time / It has to be taught / Only birds have them  
+   Options: It is different every time / It has to be taught / Once started, it usually runs to the end / Only birds have them  
    **Answer:** Once started, it usually runs to the end. *Why:* A goose finishes the rolling movement even when the egg has gone. Humans have fixed patterns too, such as swallowing.
 4. (mcq) A cuckoo chick pushes eggs out of the nest a day after hatching. What kind of behaviour is this?  
-   Options: An instinct / A habit copied from others / A trick taught by the foster mother / A game  
+   Options: A habit copied from others / An instinct / A trick taught by the foster mother / A game  
    **Answer:** An instinct. *Why:* The chick is blind and has never seen this done, so the behaviour cannot be copied or taught. It is an instinct.
 5. (mcq) A gull chick pecks more at a model beak that has a red spot. What is the red spot?  
    Options: A sign stimulus / A reward / A reflex / An imprint  
    **Answer:** A sign stimulus. *Why:* The red spot is the one feature that sets off pecking. That makes it the sign stimulus.
 6. (mcq) With the breath held and the face in cold water, a person's heart usually:  
-   Options: beats more slowly / beats faster / stops for a minute / beats the same as before  
+   Options: beats faster / stops for a minute / beats more slowly / beats the same as before  
    **Answer:** beats more slowly. *Why:* This is the diving reflex. In humans the heart usually slows by a tenth to a quarter.
 7. (mcq) How does the diving reflex help a seal?  
    Options: Her oxygen lasts longer under water / She swims faster / She keeps warmer / She smells fish better  
    **Answer:** Her oxygen lasts longer under water. *Why:* A slow heart and narrow blood vessels in the limbs save oxygen for the brain and heart. So one breath lasts longer.
 8. (mcq) Goslings hatched by Konrad Lorenz followed him and not adult geese. Why?  
-   Options: He was the first moving thing they saw / He gave them the best food / He looked like a goose / He trained them with rewards  
+   Options: He gave them the best food / He looked like a goose / He was the first moving thing they saw / He trained them with rewards  
    **Answer:** He was the first moving thing they saw. *Why:* The goslings imprinted on the first large moving thing near them, and that was Lorenz. No rewards or training were needed.
 9. (mcq) When can a mallard duckling imprint?  
-   Options: Only in a short time after hatching / At any age / Only as an adult / Only in winter  
+   Options: At any age / Only as an adult / Only in winter / Only in a short time after hatching  
    **Answer:** Only in a short time after hatching. *Why:* Imprinting has a sensitive period. For mallard ducklings this period peaks at 13 to 16 hours and is nearly over by 30 hours.
 10. (mcq) An oystercatcher chooses a giant egg over her own. What is the giant egg?  
-   Options: A supernormal stimulus / A fixed action pattern / A reflex / An instinct  
+   Options: A fixed action pattern / A reflex / A supernormal stimulus / An instinct  
    **Answer:** A supernormal stimulus. *Why:* The giant egg is a made-up trigger that works better than the real one. That is a supernormal stimulus.
 11. (truefalse) An animal who has strong instincts can also learn.  
    **Answer:** True. *Why:* True. A bird builds her first nest with inborn movements and builds better nests with practice. Instinct gives a start, and learning adds to it.
 12. (mcq) A duckling hatches with the urge to follow. What must she still learn?  
-   Options: What her parent looks like / How to walk / How to breathe / How to swallow  
+   Options: How to walk / How to breathe / How to swallow / What her parent looks like  
    **Answer:** What her parent looks like. *Why:* The urge and the movements are innate. Which bird to follow is learned by imprinting in the first day.
 
 ## Applications

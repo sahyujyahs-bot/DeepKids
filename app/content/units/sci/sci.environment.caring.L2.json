@@ -534,11 +534,11 @@
       "t": "mcq",
       "q": "Which one drifted and looked most like a jellyfish?",
       "options": [
-       "The thin plastic bag",
        "The newspaper",
-       "The handkerchief"
+       "The handkerchief",
+       "The thin plastic bag"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The thin bag puffed open and drifted, like a jellyfish. Scientists have found plastic bags in the stomachs of sea turtles. Many think the turtles mistake the bags for jellyfish, though they are still studying how often this happens."
      }
     }
@@ -1097,11 +1097,11 @@
       "t": "mcq",
       "q": "Why does the rain bring more litter into the lake?",
       "options": [
-       "Rain washes litter from the roads and drains into the lake",
        "Rain makes new plastic",
+       "Rain washes litter from the roads and drains into the lake",
        "Rain turns leaves into litter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Rain water runs off roads into drains, and drains often empty into lakes and rivers. Litter on the road rides along with the water."
      }
     },
@@ -1206,11 +1206,11 @@
       "t": "mcq",
       "q": "Why do we snip loops before they go in the bin?",
       "options": [
-       "So an animal at the dump cannot get trapped in them",
        "So the bin looks tidy",
+       "So an animal at the dump cannot get trapped in them",
        "So the loops become lighter"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Waste from bins often ends up at open dumps, where cows, dogs and birds search for food. A snipped loop is a strip that cannot close round a foot or a neck."
      }
     }
@@ -1474,11 +1474,11 @@
       "t": "mcq",
       "q": "Which kite string is safest for birds?",
       "options": [
-       "Plain cotton string",
        "Nylon string",
+       "Plain cotton string",
        "Glass-coated string"
       ],
-      "a": 0,
+      "a": 1,
       "why": "Plain cotton string breaks more easily and rots away. Nylon string is plastic, so it is very strong and lasts a long time. Glass-coated string cuts. India banned nylon kite string in 2017."
      }
     }
@@ -1636,11 +1636,11 @@
      "t": "mcq",
      "p": "In the wet loop test, why did we keep one paper loop dry?",
      "opts": [
-      "To see what the water did to the paper",
       "Because there was not enough water",
-      "To have a spare loop"
+      "To have a spare loop",
+      "To see what the water did to the paper"
      ],
-     "a": 0,
+     "a": 2,
      "how": "e1",
      "why": "The dry loop held and the wet loop tore. The only difference was the water, so the water made the paper weak."
     },
@@ -1757,11 +1757,11 @@
    "t": "mcq",
    "p": "What is our environment?",
    "opts": [
-    "Everything around us: air, water, land and all living beings",
     "Only forests far away",
+    "Everything around us: air, water, land and all living beings",
     "Only the trees on our street"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Our environment is everything around us, living and non-living, including us.",
    "outcome": 0
   },
@@ -1769,11 +1769,11 @@
    "t": "mcq",
    "p": "Which of these is a non-living part of the environment?",
    "opts": [
-    "Rain water",
     "A sparrow",
-    "A tulsi plant"
+    "A tulsi plant",
+    "Rain water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water is not alive, but every living being needs it. The sparrow and the tulsi are alive.",
    "outcome": 0
   },
@@ -1806,11 +1806,11 @@
    "t": "mcq",
    "p": "Why is plastic litter more dangerous to animals than paper litter?",
    "opts": [
-    "Plastic stays strong in water and lasts for years",
     "Plastic is heavier than paper",
+    "Plastic stays strong in water and lasts for years",
     "Plastic is always brightly coloured"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Wet paper goes weak and rots away. Plastic stays strong and lasts, so it can trap or harm animals for a long time.",
    "outcome": 3
   },
@@ -1818,11 +1818,11 @@
    "t": "mcq",
    "p": "Why might a sea turtle swallow a floating plastic bag?",
    "opts": [
-    "The bag drifts like a jellyfish, which turtles eat",
     "Turtles eat plastic to grow",
+    "The bag drifts like a jellyfish, which turtles eat",
     "The bag tastes sweet"
    ],
-   "a": 0,
+   "a": 1,
    "how": "e2",
    "why": "A thin bag in water puffs open and drifts like a jellyfish. Many scientists think turtles mix them up.",
    "outcome": 1
@@ -1831,11 +1831,11 @@
    "t": "mcq",
    "p": "You find a rubber band in your dry waste. What should you do before it goes in the bin?",
    "opts": [
-    "Snip it open",
     "Tie it in a knot",
-    "Wash it"
+    "Wash it",
+    "Snip it open"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A snipped band is a strip, which cannot close round an animal's foot or beak.",
    "outcome": 4
   },
@@ -1855,11 +1855,11 @@
    "t": "mcq",
    "p": "Village women hear that loggers are coming to cut down their forest. They have no weapons and no power. What could they do that might save the trees?",
    "opts": [
-    "Hold on to the trees so they cannot be cut down",
     "Plant rice",
-    "Build a dam"
+    "Build a dam",
+    "Hold on to the trees so they cannot be cut down"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Standing with the trees means the loggers cannot cut them without hurting people. Many people together, peacefully, are hard to ignore. Women in the Himalayas really did this, and it was called Chipko, 'to hug'.",
    "outcome": 5
   },
@@ -1867,11 +1867,11 @@
    "t": "mcq",
    "p": "A rare stork nests in tall trees near villages. People cut the trees and chase the birds away. What would help the storks most?",
    "opts": [
-    "Village people guarding the nests and the nesting trees",
     "A king giving an order",
+    "Village people guarding the nests and the nesting trees",
     "A football team playing nearby"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The storks need their nesting trees and peace while they raise their young. People who live nearby can protect both every day.",
    "outcome": 5
   },

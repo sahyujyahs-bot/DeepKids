@@ -477,7 +477,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 1. (truefalse) A crore is the biggest number.  
    **Answer:** False. *Why:* False. A crore and one is bigger than a crore. Any number plus one is bigger, so there is no biggest number. A strong answer names a number bigger than a crore.
 2. (mcq) A child says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?  
-   Options: The mother, because she can always add one / The child, if she says a very big number / Nobody can say who wins  
+   Options: The child, if she says a very big number / The mother, because she can always add one / Nobody can say who wins  
    **Answer:** The mother, because she can always add one. *Why:* Whoever adds one can always beat the other number. So the mother always wins. That is why there is no biggest number.
 3. (fill) The word for 'without end' is ____.  
    **Answer:** ['infinity']. *Why:* Infinity means without end. The counting numbers go on to infinity, because they never stop.
@@ -499,7 +499,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 11. (write) In the experiment 'Does Counting Get Slower?', you timed yourself reading lists of small and big numbers aloud. Use your own times to explain why nobody could ever count to the end of the numbers.  
    **Answer:** My list of big numbers took much longer than my list of small numbers. Bigger numbers keep getting longer to say. And every number has a next one, so the counting can never finish.. *Why:* A strong answer uses the child's own evidence (the times) and the plus-one idea together.
 12. (mcq) The Yajurveda has a list of number names that ends with 'parardha', a 1 followed by 12 zeros. What comes after parardha?  
-   Options: Parardha plus one, and many more numbers / Nothing, because parardha is the end / Infinity, the next number  
+   Options: Nothing, because parardha is the end / Infinity, the next number / Parardha plus one, and many more numbers  
    **Answer:** Parardha plus one, and many more numbers. *Why:* The old list of names stops at parardha, but the numbers do not. You can always add one or another zero. Infinity is not the next number.
 13. (label) Here is a picture of the three lists from the experiment 'Does Counting Get Slower?'. Each list has 20 numbers to read aloud. Label each list 'fastest', 'middle' or 'slowest'.  
    **Answer:** ['1 to 20: fastest', '351 to 370: middle', '1,23,451 to 1,23,470: slowest']. *Why:* The more words a number has, the longer it takes to say. A strong answer says 'one' has one word and 'one lakh twenty-three thousand four hundred and fifty-one' has eight.
@@ -509,7 +509,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    **Answer:** Counting a small part is quick. Then I can multiply by the number of spoons to find the whole. The tumbler of rice turned out to be a number I could work out, not infinite.. *Why:* A strong answer says that a small count plus multiplying gives a good estimate of a big collection.
 ### Very Many or Infinite? (stretch) (stretch, 15 questions)
 1. (mcq) Someone says 'infinity plus one'. What do mathematicians say about this?  
-   Options: Infinity is not a counting number, so adding one does not give a new counting number / It is a number one bigger than infinity / It is the same as 2  
+   Options: It is a number one bigger than infinity / It is the same as 2 / Infinity is not a counting number, so adding one does not give a new counting number  
    **Answer:** Infinity is not a counting number, so adding one does not give a new counting number. *Why:* Infinity is not a counting number, so you can't add one to it the way you add one to 5. Infinity plus one is still endless. In Class 5 you meet the careful way mathematicians compare endless collections.
 2. (truefalse) If you counted all day, every day, for your whole life, you would reach the last number.  
    **Answer:** False. *Why:* False. Every number you reach has a next number. Jeremy Harper took 89 days just to reach ten lakh, and the numbers go on far beyond that. A strong answer gives a reason, not just 'false'.
@@ -523,7 +523,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 6. (write) A sikku kolam is a kolam made of one line that loops around dots and joins back to its start. Someone says the line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.  
    **Answer:** The line is not infinite. You can measure it with a thread. Tracing it never ends because it joins up, so you go round the same line again. The numbers are different: each new number is new, and you never come back to the start.. *Why:* A strong answer separates a path you can go round for ever from a thing that has no end.
 7. (mcq) Suppose a whole room were filled with sand. Is the number of grains infinite?  
-   Options: No. It is a huge number, but the room has an end, so the grains can be given a number / Yes. Sand is always infinite / Sand is too small to count  
+   Options: Yes. Sand is always infinite / No. It is a huge number, but the room has an end, so the grains can be given a number / Sand is too small to count  
    **Answer:** No. It is a huge number, but the room has an end, so the grains can be given a number. *Why:* Very many is not the same as endless. You could count a spoonful and multiply, as you did with rice in the experiment 'How Many Grains of Rice in a Cup?'. Only something with no end can be infinite.
 8. (draw) Draw a picture that shows the difference between 'very many' and 'infinite'.  
    **Answer:** For example: a heap of rice labelled 'very many', and a number line with an arrow labelled 'infinite'.. *Why:* A strong drawing shows something that has an end, even if it is big, next to something that never ends.
@@ -534,7 +534,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 11. (perspective) Two scientists talk about space, the huge emptiness that holds all the stars.  
    **Answer:** Either view is fine with a reason. A strong answer sees that nobody knows yet, that we can see only part of the universe, and suggests what to measure, such as whether space curves.. *Why:* This is a real open question. The child practises weighing two views when the evidence can't yet decide.
 12. (mcq) Jeremy Harper counted out loud to 10,00,000 in 89 days. About how many numbers did he count each day?  
-   Options: About 11,000 / About 100 / About 10,00,000  
+   Options: About 100 / About 11,000 / About 10,00,000  
    **Answer:** About 11,000. *Why:* 10,00,000 divided by 89 is about 11,236. So he counted a little over eleven thousand numbers each day, in about 16 hours.
 13. (label) Here is the old ladder of Indian number names. Label the step for one lakh and the step for one crore.  
    **Answer:** ['niyuta: one lakh, 1,00,000', 'arbuda: one crore, 1,00,00,000']. *Why:* Each step is ten times the step below. Sahasra is a thousand, ayuta ten thousand, niyuta a lakh, prayuta ten lakh, and arbuda a crore.
@@ -546,14 +546,14 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 1. (write) If infinity were a counting number, what would 'infinity plus one' be? Explain why this shows infinity is not a counting number.  
    **Answer:** It would be a bigger counting number than infinity. But infinity was supposed to be past all of them. That doesn't work, so infinity can't be a counting number.. *Why:* A strong answer follows the argument step by step and finds where it breaks.
 2. (mcq) Here are one child's times for reading three lists of 20 numbers aloud: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, and 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?  
-   Options: Even longer than 48 seconds / About 9 seconds / Exactly 23 seconds  
+   Options: About 9 seconds / Exactly 23 seconds / Even longer than 48 seconds  
    **Answer:** Even longer than 48 seconds. *Why:* Bigger numbers have more words, such as 'ninety-eight lakh seventy-six thousand five hundred and forty-one'. So the time keeps growing. This is why counting gets slower and slower.
 3. (perspective) Three people argue about a very big number that nobody could ever write out.  
    **Answer:** Any view with a reason. A strong answer might side with the maths teacher because the rule works every time, while granting the computer engineer that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.. *Why:* This is a real disagreement among mathematicians and philosophers. The child weighs three serious views, not a wrong one.
 4. (write) Archimedes said the grains of sand that would fill the universe are fewer than a 1 followed by 63 zeros. Why was this an important thing to show?  
    **Answer:** People thought sand was infinite. Archimedes showed that even a huge amount of sand has a number. So 'too many to count' is not the same as 'infinite'.. *Why:* A strong answer says what people believed before, and what changed after Archimedes showed it.
 5. (mcq) A shop has 25 sacks of rice. Each sack holds about 10 lakh grains. About how many grains are in the shop?  
-   Options: About 2 crore 50 lakh / Infinitely many / About 25 lakh  
+   Options: Infinitely many / About 2 crore 50 lakh / About 25 lakh  
    **Answer:** About 2 crore 50 lakh. *Why:* 25 times 10 lakh is 250 lakh. 100 lakh is one crore, so 250 lakh is 2 crore 50 lakh. A huge number, but it is a number.
 6. (draw) Draw a cartoon in three boxes: someone tries to count to infinity, and what happens.  
    **Answer:** For example: box 1, a girl starts '1, 2, 3'. Box 2, she is tired at '1,23,451'. Box 3, she sees the numbers still going on past the edge of the picture.. *Why:* A strong cartoon shows that the counting gets slower and never ends.
@@ -565,7 +565,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    Options: There is always a number after the one you just said / A crore is a very big number / Most people have about one lakh hairs on their head / A tumbler holds about 8,000 grains of rice  
    **Answer:** 0. *Why:* 'There is always a next number' means the numbers never end. A crore, a lakh of hairs and 8,000 grains are all huge but finite.
 10. (mcq) Which of these is a question nobody can answer yet?  
-   Options: Does space go on for ever? / Is there a biggest counting number? / How many digits does one crore have?  
+   Options: Is there a biggest counting number? / How many digits does one crore have? / Does space go on for ever?  
    **Answer:** Does space go on for ever?. *Why:* Nobody knows whether space is infinite. But we do know there is no biggest counting number, and that one crore, 1,00,00,000, has 8 digits.
 11. (truefalse) Jain thinkers in ancient India sorted numbers into three kinds: countable, uncountable and infinite.  
    **Answer:** True. *Why:* True. The Jain book called the Anuyogadvara Sutra sorts numbers this way. It shows that people in India thought carefully about infinity long ago.
@@ -585,19 +585,19 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 
 ## Quiz
 1. (mcq) Why is there no biggest number?  
-   Options: Any number plus one is a bigger number / Big numbers are too hard to say / Nobody has counted that far yet  
+   Options: Big numbers are too hard to say / Any number plus one is a bigger number / Nobody has counted that far yet  
    **Answer:** Any number plus one is a bigger number. *Why:* Whatever number you choose, adding one gives a bigger one. So there can never be a biggest. 'Too hard to say' is about people, not about numbers.
 2. (mcq) What does infinity mean?  
-   Options: Without end / The biggest number / A crore crore / Zero  
+   Options: The biggest number / A crore crore / Without end / Zero  
    **Answer:** Without end. *Why:* Infinity means without end. Choosing 'the biggest number' is the most common mistake. If infinity were a number, you could add one to it.
 3. (mcq) Can anyone count to infinity?  
-   Options: No, because there is always a next number / Yes, if they count very fast / Yes, if they count for a whole year  
+   Options: Yes, if they count very fast / Yes, if they count for a whole year / No, because there is always a next number  
    **Answer:** No, because there is always a next number. *Why:* Every number has a next number, so the counting never finishes. Counting fast or for a long time only gets you to a bigger number.
 4. (mcq) In the experiment 'Does Counting Get Slower?', 20 small numbers and 20 big numbers were read aloud. Which list took longer?  
    Options: The big numbers, because each one has more words / The small numbers / Both took exactly the same time  
    **Answer:** The big numbers, because each one has more words. *Why:* 'One lakh twenty-three thousand four hundred and fifty-one' takes much longer to say than 'one'. That is why counting gets slower as the numbers get bigger.
 5. (mcq) A teaspoon holds about 200 grains of rice. A tumbler holds 40 teaspoons. What does this tell you?  
-   Options: The tumbler holds about 8,000 grains, a big but finite number / The tumbler holds infinitely many grains / The tumbler holds 240 grains  
+   Options: The tumbler holds infinitely many grains / The tumbler holds about 8,000 grains, a big but finite number / The tumbler holds 240 grains  
    **Answer:** The tumbler holds about 8,000 grains, a big but finite number. *Why:* 200 times 40 is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.
 6. (mcq) Which of these is infinite?  
    Options: The counting numbers / The grains of sand on a beach / The hairs on your head / The stars you can see at night  
@@ -609,10 +609,10 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
    Options: No. The names stop, but you can always add one / Yes. Parardha is the last number / Yes. After parardha comes infinity  
    **Answer:** No. The names stop, but you can always add one. *Why:* The list of names ends, but the numbers do not. Parardha plus one is a bigger number, and so on for ever.
 9. (mcq) Some people say the grains of sand on all the beaches are infinite. What would you tell them?  
-   Options: The sand has a number, even if it is huge, because the beaches do not go on for ever / The sand really is infinite / Sand can't be counted at all  
+   Options: The sand really is infinite / The sand has a number, even if it is huge, because the beaches do not go on for ever / Sand can't be counted at all  
    **Answer:** The sand has a number, even if it is huge, because the beaches do not go on for ever. *Why:* A beach has an end, so its grains can be given a number, even a huge one. A huge number is still a number. Archimedes showed this long ago.
 10. (mcq) Which question about infinity does nobody know the answer to yet?  
-   Options: Does space go on for ever? / Is there a biggest number? / Is a crore bigger than a lakh?  
+   Options: Is there a biggest number? / Does space go on for ever? / Is a crore bigger than a lakh?  
    **Answer:** Does space go on for ever?. *Why:* Nobody knows yet whether space is infinite. But we do know there is no biggest number, and that a crore is a hundred lakh.
 
 ## Applications

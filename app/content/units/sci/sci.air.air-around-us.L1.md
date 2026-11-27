@@ -401,7 +401,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 7. (label) Here is a balcony on a windy day. Put a W on everything the wind is moving.  
    **Answer:** W on the flapping clothes, the swaying plant, the flying kite and the blowing leaves. No W on the flowerpot or the railing.. *Why:* Wind pushes light, loose things. A heavy flowerpot and a fixed railing stay still.
 8. (mcq) You sit very still in a room with the fan off. You feel no air on your arm. Why?  
-   Options: There is no air in the room / The air is not moving / Your arm is asleep  
+   Options: The air is not moving / There is no air in the room / Your arm is asleep  
    **Answer:** The air is not moving. *Why:* The air is there, but it is still. You will feel it when it moves, or when you move through it.
 9. (odd) Which one is NOT moving air?  
    Options: The breeze from a fan / Your breath on your hand / A stone on the floor / The wind outside  
@@ -413,7 +413,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
 ### Feeling and Seeing Air (stretch) (stretch, 11 questions)
 1. (mcq) In Catch the Air, you squeezed the bag flat, twisted it shut and pulled the sides. Why did it stay flat?  
-   Options: The bag was broken / No air could get in / Air is too heavy to go in  
+   Options: The bag was broken / Air is too heavy to go in / No air could get in  
    **Answer:** No air could get in. *Why:* With the neck twisted shut, no air could get in, so there was nothing to make the bag fat. This shows that the fat bags really had air in them.
 2. (order) Put the steps of Catch the Air in the right order.  
    **Answer:** ['Open the bag wide', 'Sweep it through the air', 'Twist the neck shut', 'Squeeze it and feel it push back']. *Why:* You open the bag, scoop the air, close it so the air can't escape, then feel it.
@@ -432,7 +432,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 9. (sort) Sort these: which does the wind move, and which does it not move on a normal day?  
    **Answer:** a dry leaf → The wind moves it; a kite → The wind moves it; clothes on the line → The wind moves it; a big steel almirah → The wind does not move it; a heavy stone → The wind does not move it. *Why:* Moving air pushes everything, but it moves light things far more easily than heavy ones. Only a very strong storm moves heavy things.
 10. (mcq) In Bubble Blowing, what is inside a bubble you blew?  
-   Options: Your breath, which is air / Nothing at all / Only water  
+   Options: Nothing at all / Your breath, which is air / Only water  
    **Answer:** Your breath, which is air. *Why:* A bubble is a thin skin of soapy water with your breath inside. Your breath is air.
 11. (truefalse) Only people in a laboratory use science.  
    **Answer:** False. *Why:* False. A weather scientist measures the wind, a doctor checks a body, and an engineer builds a windmill. Each uses science.
@@ -444,28 +444,28 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 
 ## Quiz
 1. (mcq) Where is there air?  
-   Options: Only outside / All around us, indoors and outdoors / Only near a fan  
+   Options: All around us, indoors and outdoors / Only outside / Only near a fan  
    **Answer:** All around us, indoors and outdoors. *Why:* Air is everywhere around us, even in a still room and under the bed. Outside, we often feel it more, because it moves.
 2. (mcq) The clothes on the balcony line are flapping. What is moving them?  
    Options: Moving air, called wind / Rain / The floor shaking  
    **Answer:** Moving air, called wind. *Why:* Wind is moving air. We cannot see it, but we can see it push the clothes.
 3. (mcq) You catch air in a bag and twist it shut. Then you press the bag. What happens?  
-   Options: It goes flat at once / It pushes back on your hands / It turns into water  
+   Options: It goes flat at once / It turns into water / It pushes back on your hands  
    **Answer:** It pushes back on your hands. *Why:* The air inside takes up room, so the bag pushes back like a soft pillow. A bag with no air goes flat.
 4. (mcq) Which of these breathes air?  
    Options: A steel plate / A stone / A cat  
    **Answer:** A cat. *Why:* A cat breathes in and out all day and all night, like you. A steel plate and a stone don't breathe.
 5. (mcq) Why do you feel air on your face when you run, but not when you sit still?  
-   Options: Running moves you through the air, so it rushes against your skin / Running makes new air / Air only comes out when you run  
+   Options: Running makes new air / Running moves you through the air, so it rushes against your skin / Air only comes out when you run  
    **Answer:** Running moves you through the air, so it rushes against your skin. *Why:* The air is there all the time. When you run, you move through it, and it presses on your face.
 6. (mcq) You guess that a closed cupboard has no air. Then you test it, and the bag puffs up. What do you do with your guess?  
-   Options: Say it was right anyway / Say what you really saw, and change your guess / Test again until the bag stays flat  
+   Options: Say what you really saw, and change your guess / Say it was right anyway / Test again until the bag stays flat  
    **Answer:** Say what you really saw, and change your guess. *Why:* A test shows what is true, even when it is not what we guessed. A wrong guess is how we learn.
 7. (mcq) A tulsi plant grows on the balcony. How does air get into the plant?  
    Options: Through the flowers only / Plants never take in air / Through tiny holes in their leaves  
    **Answer:** Through tiny holes in their leaves. *Why:* Leaves have tiny holes, too small to see without a microscope. Air goes in and out through them.
 8. (mcq) You cannot see the wind. How can you tell which way it is blowing?  
-   Options: Look for blue lines in the air / Watch what it pushes, like leaves, smoke and clothes / Listen for a bell  
+   Options: Look for blue lines in the air / Listen for a bell / Watch what it pushes, like leaves, smoke and clothes  
    **Answer:** Watch what it pushes, like leaves, smoke and clothes. *Why:* Wind pushes things along with it. Leaves, smoke and clothes all lean or move the way the wind is going.
 9. (mcq) Tall windmills turn and make electricity. What turns them?  
    Options: Moving air / Still air / Water from the tap  
@@ -474,7 +474,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    Options: A hidden string in the sky / Moving air pushing on the kite / The Moon  
    **Answer:** Moving air pushing on the kite. *Why:* Moving air pushes against the kite and holds it up while someone holds the string.
 11. (mcq) Which of these keeps the air clean and fresh?  
-   Options: Cutting down the trees along a road / Planting trees near our homes and schools / Burning plastic and rubbish in the open  
+   Options: Cutting down the trees along a road / Burning plastic and rubbish in the open / Planting trees near our homes and schools  
    **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
 12. (mcq) Which of these people uses science in their work?  
    Options: A child who draws a kite on paper / A weather scientist who measures how fast the wind blows / A child who sings a song on the bus  

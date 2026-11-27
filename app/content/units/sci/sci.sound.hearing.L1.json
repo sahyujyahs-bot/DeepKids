@@ -460,11 +460,11 @@
       "t": "mcq",
       "q": "The same scooter horn sounds loud, then softer and softer. What is the scooter doing?",
       "options": [
-       "Going away from you",
        "Coming closer to you",
+       "Going away from you",
        "Standing still"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A sound gets softer as it travels further. If the horn gets softer and softer, the scooter is going further away."
      }
     }
@@ -656,11 +656,11 @@
       "t": "mcq",
       "q": "In the trick round, a soft tap close by sounded far away. Why?",
       "options": [
-       "Your ears heard a soft sound, and soft sounds are usually far",
        "The tumbler moved by itself",
-       "Your ears stopped working"
+       "Your ears stopped working",
+       "Your ears heard a soft sound, and soft sounds are usually far"
       ],
-      "a": 0,
+      "a": 2,
       "why": "Your ears tell you how loud a sound is. You guess near or far from that. Far sounds are usually soft, so a soft tap close by can trick you."
      },
      "think": "A loud sound can be far, and a soft sound can be near. So what else could help you tell where a sound is? Think about the echo in the room, and how loud you already know that sound usually is."
@@ -884,11 +884,11 @@
       "t": "mcq",
       "q": "You walk towards the hidden phone. What happens to the song?",
       "options": [
-       "It gets louder",
        "It gets softer",
-       "It stays the same"
+       "It stays the same",
+       "It gets louder"
       ],
-      "a": 0,
+      "a": 2,
       "why": "The closer you are to a sound, the more of it reaches your ears. So the song gets louder as you come closer."
      }
     }
@@ -1133,11 +1133,11 @@
       "t": "mcq",
       "q": "Your voice is too soft to reach the far room. What is the simplest fix that is not shouting?",
       "options": [
-       "Walk closer to the room and speak",
        "Speak even more softly",
-       "Close the door"
+       "Close the door",
+       "Walk closer to the room and speak"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A sound gets softer as it travels. If you walk closer, your normal voice has less far to go, so it is loud enough."
      }
     }
@@ -1269,11 +1269,11 @@
      "t": "mcq",
      "p": "You hear the vegetable seller calling in the street. The call gets louder and louder. What is the vegetable seller doing?",
      "opts": [
-      "Coming closer to you",
       "Going away from you",
-      "Standing still"
+      "Standing still",
+      "Coming closer to you"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A sound is louder when it is closer. If the call gets louder and louder, the seller is coming closer."
     },
     {
@@ -1313,11 +1313,11 @@
      "t": "mcq",
      "p": "Why do we have two ears, one on each side of the head?",
      "opts": [
-      "To hear sounds from every side and tell where they come from",
       "So that one ear can rest",
+      "To hear sounds from every side and tell where they come from",
       "Because one ear is a spare"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A sound on your left reaches your left ear a tiny bit sooner and louder. Your two ears together help you find where a sound is."
     },
     {
@@ -1471,11 +1471,11 @@
    "t": "mcq",
    "p": "Which part of your ear can you see and touch?",
    "opts": [
-    "The ear flap",
     "The eardrum",
-    "The brain"
+    "The brain",
+    "The ear flap"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The ear flap is the outside part with curly folds. The eardrum is deep inside, at the end of the ear hole.",
    "outcome": 0
   },
@@ -1483,11 +1483,11 @@
    "t": "mcq",
    "p": "Where is your eardrum?",
    "opts": [
-    "Deep inside, at the end of the ear hole",
     "On the outside of your ear flap",
+    "Deep inside, at the end of the ear hole",
     "Under your chin"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The eardrum is a thin skin at the end of the ear hole. You cannot see your own, but a doctor can with a small torch.",
    "outcome": 0
   },
@@ -1507,11 +1507,11 @@
    "t": "mcq",
    "p": "You walk away from a ringing phone. What happens to the sound?",
    "opts": [
-    "It gets softer",
     "It gets louder",
-    "It stays the same"
+    "It stays the same",
+    "It gets softer"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The further you go, the softer the ring sounds, because less of the sound reaches your ears.",
    "outcome": 1
   },
@@ -1519,11 +1519,11 @@
    "t": "mcq",
    "p": "With your eyes covered, you hear a very soft tap. What will you probably guess?",
    "opts": [
-    "That it is far away",
     "That it is right next to you",
+    "That it is far away",
     "That it is thunder"
    ],
-   "a": 0,
+   "a": 1,
    "why": "We usually guess that soft sounds are far away. So a soft tap close by can trick us, as in the Near or Far test.",
    "outcome": 2,
    "how": "e1"
@@ -1532,11 +1532,11 @@
    "t": "mcq",
    "p": "How do your ears help you guess if a sound is near or far?",
    "opts": [
-    "They hear how loud the sound is, and you guess from that",
     "They measure the distance with the eardrum",
+    "They hear how loud the sound is, and you guess from that",
     "They see where the sound is"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your ears hear how loud a sound is, and you guess the distance from that. The guess is usually right, but a soft sound close by can trick you.",
    "outcome": 2
   },
@@ -1544,11 +1544,11 @@
    "t": "mcq",
    "p": "Where are a frog's eardrums?",
    "opts": [
-    "On the outside of the head, behind the eyes",
     "On the frog's feet",
-    "Inside the frog's mouth"
+    "Inside the frog's mouth",
+    "On the outside of the head, behind the eyes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A frog's eardrums are round circles you can see, just behind the eyes. Ours are hidden inside the ear hole.",
    "outcome": 3
   },
@@ -1556,11 +1556,11 @@
    "t": "mcq",
    "p": "Elephant families can be far apart in a big forest. Which kind of sound would carry far enough to call them?",
    "opts": [
-    "Very low rumbles",
     "Tiny squeaks",
+    "Very low rumbles",
     "Loud claps"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Very low sounds travel a long way, even through trees. Elephants rumble so low that people can hardly hear it, but other elephants hear it from far away.",
    "outcome": 3
   },
@@ -1592,11 +1592,11 @@
    "t": "mcq",
    "p": "In the Near or Far test, why did the grown-up move only while you covered your ears and counted?",
    "opts": [
-    "So that footsteps would not tell you where they were",
     "So that you would fall asleep",
-    "So that the tumbler would get louder"
+    "So that the tumbler would get louder",
+    "So that footsteps would not tell you where they were"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A fair test changes only the thing we are testing. If you heard footsteps, you would know the spot without using the tap.",
    "outcome": 5,
    "how": "e1"
