@@ -154,6 +154,12 @@
    "meaning": "More easily harmed than most people. Babies, pregnant women, old people and ill people are more vulnerable to unsafe food.",
    "example": "A baby of eight months is vulnerable, so her food is made fresh.",
    "art": "A baby in a grandmother's lap, with a pregnant woman sitting beside them at a meal."
+  },
+  {
+   "term": "Preservative",
+   "meaning": "A substance added to food to slow the growth of microbes and the food's own spoiling.",
+   "example": "Salt in a lime pickle keeps it fit to eat for months, when there is enough salt.",
+   "art": "A glass jar of lime pickle, with a spoon of salt beside it."
   }
  ],
  "explanations": [
@@ -292,10 +298,24 @@
    "art": "A woman spreading rice on a cloth on a sunny terrace, with a tall steel grain bin with a tight lid standing in the doorway behind her."
   },
   {
+   "concept": "Chemical preservatives: a dose that helps, a dose that harms",
+   "status": "defined",
+   "definition": "A preservative is a substance added to food to slow the growth of microbes and the food's own spoiling. Too little does not stop them, and too much can harm the person who eats it.",
+   "description": "Salt, sugar and oil have kept food for a long time in Indian kitchens. A lime pickle in a dry, clean jar keeps well for months, because the salt draws water out of the lime and makes it hard for microbes to live. Some foods are also kept with chemicals such as sodium benzoate or potassium metabisulphite. The right amount slows the microbes. Too little does not stop them. Too much can harm the body. Food laws in India set the amount that may be used for each preservative, and a food maker must keep to that limit.",
+   "examples": [
+    "Salt in a lime pickle keeps microbes from growing, when there is enough of it.",
+    "A pickle with too little salt can grow microbes, and then it spoils.",
+    "Sodium benzoate and potassium metabisulphite are two chemical preservatives that food law allows in some foods, in set amounts."
+   ],
+   "perspectives": [],
+   "art": "A glass jar of lime pickle on a kitchen shelf, with a small spoon of salt beside it.",
+   "context": "This card is about chemical preservatives, which are added to food to keep it safe for longer."
+  },
+  {
    "concept": "Pasteurised milk, UHT milk, tins and the cold chain",
    "status": "defined",
    "definition": "Heat kills microbes in food, and a sealed pack or an unbroken line of cold keeps new growth away.",
-   "description": "Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She tested railway wagons that carried food, to see how cold they kept it. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food.",
+   "description": "Pouch milk is pasteurised. It is heated to 72 degrees Celsius for 15 seconds, which kills the microbes that cause disease. Some harmless microbes and spores survive, so the pouch must stay cold from the dairy to your kitchen. That line of cold places is called a cold chain. An American chemist, Mary Engle Pennington, worked out many of its rules after 1905. She tested railway wagons that carried food, to see how cold they kept it. Carton milk is treated by UHT, which is heating to about 140 degrees for a few seconds. This kills the spores too, and the carton is filled without letting any microbe in. So it keeps for months on a shelf. A tin of food is heated after it is sealed. A tin or packet that has swollen holds gas made by living microbes. Never open or taste its food. Freezing does not kill microbes. It only stops them growing, and they start again when the food melts. So food that has melted must not be frozen again.",
    "examples": [
     "India's milk cold chain begins at a village cooler. There the milk is chilled to 4 degrees Celsius within hours of milking.",
     "An opened UHT carton is like pouch milk: keep it in the fridge and finish it in two days.",
@@ -2336,6 +2356,15 @@
      "outcome": 4
     },
     {
+     "t": "fill",
+     "p": "A chemical added to food to slow the growth of microbes is called a ____.",
+     "a": [
+      "preservative"
+     ],
+     "why": "A preservative keeps food for longer when it is used in the right amount. Too little does not stop the microbes, and too much can harm the eater.",
+     "outcome": 4
+    },
+    {
      "t": "mcq",
      "p": "Why is cooked food cooled in shallow vessels?",
      "opts": [
@@ -2529,6 +2558,12 @@
      "a": 0,
      "why": "A closed fridge stays cold for about four hours. Opening the door lets the cold air out, so the door stays shut.",
      "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "Food that has melted in a power cut can be frozen again, if it still looks cold.",
+     "a": false,
+     "why": "Melting lets microbes start growing again. A cold look does not mean they have stopped. Food that has melted must not be frozen again."
     },
     {
      "t": "write",
@@ -2979,6 +3014,30 @@
    "a": 0,
    "why": "The mould makes a poison called aflatoxin. Roasting kills the mould, but most of the poison stays. Mouldy and shrivelled nuts are thrown away.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A cook adds far too much preservative to a sauce that will be sold. What might happen?",
+   "opts": [
+    "It can harm the person who eats the sauce",
+    "It makes the sauce safe for ever",
+    "Nothing, because more preservative is always better"
+   ],
+   "a": 0,
+   "why": "A preservative works in a set amount. Too much can harm the eater, and too little may not stop the microbes. Food law sets the limit for each one.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Dal is frozen, then melts in a power cut. The family freezes it again. What is the problem?",
+   "opts": [
+    "Microbes that the cold had slowed can start to grow again when the dal melts",
+    "The dal turns sweet",
+    "Nothing, because freezing kills every microbe"
+   ],
+   "a": 0,
+   "why": "Freezing only slows microbes. When the dal melts, they can grow again, and freezing it a second time does not clean the food.",
+   "outcome": 5
   }
  ],
  "videos": [

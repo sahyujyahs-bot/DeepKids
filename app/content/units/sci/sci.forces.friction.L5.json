@@ -1073,10 +1073,10 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Ask your child to choose one more change. 2. Ask what they expect, and why. 3. Test it with 40 firm strokes and a judge with closed eyes.",
+     "do": "1. Ask your child to choose one more change. 2. Ask what they expect, and why. 3. Test it with 40 firm strokes and a judge with closed eyes. 4. To test powder, dust the cardboard with a pinch of talcum powder and rub 40 firm strokes. Judge it the same way.",
      "say": "Now you design a test. You could try a drop of oil on the cardboard, a smooth steel plate, or longer strokes. What do you expect, and why?",
-     "kid": "Choose one more change. Guess what it will do. Say why. Test it with 40 strokes.",
-     "parent": "Oil makes the friction smaller, so the coin usually stays cooler. The difference can be small. If the judge feels no difference, write that down as the result.",
+     "kid": "Choose one more change. Guess what it will do. Say why. Test it with 40 strokes. Try a pinch of talcum powder too.",
+     "parent": "Oil makes the friction smaller, so the coin usually stays cooler. The difference can be small. If the judge feels no difference, write that down as the result. Fine powder, such as talcum powder, also lowers friction, so the coin may stay cooler.",
      "context": "This step of the Warm Coin Test lets you choose and test one more change."
     },
     {
@@ -2415,6 +2415,13 @@
      "a": false,
      "why": "False. Energy is never destroyed. The kinetic energy becomes heat in the brake pads, the rims, the tyres and the road.",
      "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: name one powder and one liquid that can make friction smaller. Say where you might use each at home.",
+     "lines": 2,
+     "a": "Talcum powder on a drawer that sticks. Oil on a door hinge, so it does not squeak.",
+     "why": "A strong answer names a powder or a liquid and a real place to use it, and says that it makes friction smaller."
     }
    ]
   },
@@ -2780,6 +2787,18 @@
    "a": 0,
    "why": "Scientists agree that friction makes heat, that oil lowers friction and that friction is a contact force. The exact steps by which sliding atoms pass on their energy are still being studied.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A carrom player dusts the board with fine powder, so the coins slide further. What does the powder do?",
+   "opts": [
+    "It lowers the friction between the coin and the board",
+    "It makes the friction bigger, so the coins stop sooner",
+    "It pushes the coins up off the board"
+   ],
+   "a": 0,
+   "why": "Fine powder lowers the friction between the coin and the board, so the coin slides further. It does not make friction bigger, and it does not push the coin up.",
+   "outcome": 3
   }
  ],
  "videos": [

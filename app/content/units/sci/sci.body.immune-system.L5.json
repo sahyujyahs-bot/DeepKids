@@ -324,6 +324,17 @@
    "art": "Two children sharing a tiffin box and laughing in a school yard, with small ticks beside drawings of a hug, a shared tumbler and a mosquito."
   },
   {
+   "concept": "Preventing HIV: what stops it passing on",
+   "status": "defined",
+   "definition": "Preventing HIV means stopping the virus from getting from one person's blood or body fluids into another person's body.",
+   "description": "Condoms protect during sex between grown-ups, because they keep body fluids from passing from one partner to the other. A new, single-use needle is used for each injection, so that no blood passes from one person to another. Blood for a transfusion is tested for HIV before it is given, so a patient does not catch the virus from a donor. A free HIV test is given in government hospitals, so a person can know early and start treatment. Early treatment also protects a partner, as explained above.",
+   "examples": [
+    "A blood bank tests every unit of donated blood for HIV before a patient receives it."
+   ],
+   "perspectives": [],
+   "art": "Four simple items in a row, each with a tick: a condom, a single-use needle, a drop of blood labelled tested, and a hospital door with a free-test sign."
+  },
+  {
    "concept": "Onesimus, the tikadars and Jenner: protection before anyone knew of antibodies",
    "status": "defined",
    "definition": "Inoculation meant putting a little matter from a smallpox blister into a scratch on a healthy person. The person usually had a mild illness and was then protected for life. People in Africa, India, China and Turkey did this long before Europe did.",
@@ -2359,6 +2370,31 @@
      "a": 0,
      "why": "Cowpox virus is closely related to smallpox virus, so antibodies against one fit the other. But cowpox is mild in humans, so nobody died of the protection. Inoculation used real smallpox, and a few people died of it.",
      "outcome": 6
+    },
+    {
+     "t": "match",
+     "p": "Match each protection to the way HIV would otherwise pass.",
+     "pairs": [
+      [
+       "a condom",
+       "body fluids passing between partners in sex"
+      ],
+      [
+       "a single-use needle",
+       "blood left in a needle used by another person"
+      ],
+      [
+       "tested blood for a transfusion",
+       "HIV passing from a donor to a patient"
+      ],
+      [
+       "a free HIV test",
+       "HIV going unnoticed, so treatment starts late"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each protection blocks one way that the blood or body fluids of one person could reach another. An early test lets treatment start sooner.",
+     "outcome": 5
     }
    ]
   },
@@ -2686,6 +2722,18 @@
    "why": "The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.",
    "outcome": 7,
    "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these stops HIV passing through blood from one person to another?",
+   "opts": [
+    "Using a new, single-use needle every time",
+    "Washing the tumbler after a friend uses it",
+    "Wearing a mask in class"
+   ],
+   "a": 0,
+   "why": "A single-use needle carries no blood from another person. Washing a tumbler and wearing a mask do nothing against HIV, because HIV does not pass through a tumbler or the air.",
+   "outcome": 5
   }
  ],
  "videos": [

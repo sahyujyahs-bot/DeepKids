@@ -236,7 +236,8 @@
    "examples": [
     "The south-west monsoon is driven by the Sun heating the land faster than the sea.",
     "An idli is rice, and rice grew in sunlight. So the energy you use to run and think was sunlight, a short while ago.",
-    "Wind that turns the turbines in Tamil Nadu is air moved because the Sun heated some places more than others."
+    "Wind that turns the turbines in Tamil Nadu is air moved because the Sun heated some places more than others.",
+    "A window on the bright side of a room lights it in the day, so the bulb can stay off."
    ],
    "art": "The Sun at the top, with arrows going down to the sea and clouds, a windmill, a rice field and a plate of idli.",
    "perspectives": []
@@ -2828,6 +2829,13 @@
      "a": true,
      "why": "True. Shiny foil sends most of the sunlight back, so little of it turns into heat. A black cover would do the opposite.",
      "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A classroom has a bulb on all day, but the window on the bright side of the room is shut. Suggest two changes that use daylight wisely, and say why each one helps.",
+     "lines": 4,
+     "a": "A strong answer says to open the window on the bright side and to switch the bulb off while there is enough daylight. Daylight is free and bright. A bulb uses electricity, and much of India's electricity is made by burning coal.",
+     "why": "Daylight does the job of the bulb for nothing. The best answers name a real change, and give the reason in terms of the free light and the electricity saved."
     }
    ]
   },
@@ -3215,6 +3223,19 @@
    ],
    "a": 0,
    "why": "The Earth settles where the energy going out equals the energy coming in. If the gases slow the way out, the Earth must get warmer before the balance is reached again.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A room has a window that gets plenty of daylight in the morning. What is the wise way to use that daylight?",
+   "opts": [
+    "Switch on every bulb, even in the day",
+    "Open the window and switch the bulb off while there is enough daylight",
+    "Light a candle, because a flame is brighter than daylight",
+    "Shut the window and keep the room dark all day"
+   ],
+   "a": 1,
+   "why": "Daylight is free, and it is enough to see by. A bulb uses electricity, and much of India's electricity is made by burning coal. Switching on a bulb in full daylight wastes both.",
    "outcome": 6
   }
  ],

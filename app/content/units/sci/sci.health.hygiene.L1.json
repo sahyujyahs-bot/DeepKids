@@ -103,6 +103,20 @@
    "art": "A child pouring a mug of water from a bucket over their shoulders in a bathroom, with soap on a dish nearby."
   },
   {
+   "concept": "Clean clothes, washed and dried well",
+   "status": "defined",
+   "definition": "Clothes hold sweat, dust and dirt after we wear them. Washing takes them off, and drying clothes fully keeps them fresh.",
+   "description": "Sweat and dust soak into the shirt and the socks we wear all day. Wash them soon, not after many days, or the sweat smell gets stronger. Rub soap into the dirty parts, such as the collar and the cuffs. Rinse well, until the water runs clear. Wring out the water, and shake each piece out before you dry it. Dry clothes in the sun and fresh air. In the rains, dry them near a fan or in the sun between showers. Damp cloth can grow mould, so never fold clothes until they are fully dry.",
+   "examples": [
+    "A school uniform and socks go into the bucket soon after school, not at the end of the week.",
+    "A cotton kurta dries on a line on the balcony, in the sun and the breeze.",
+    "A wet towel left in a closed cupboard starts to smell stale in a few days."
+   ],
+   "perspectives": [],
+   "context": "This card says how to wash and dry clothes, so they stay clean and fresh.",
+   "art": "A child hanging a small white shirt on a balcony line in the sun, with a bucket of soapy water beside them."
+  },
+  {
    "concept": "Are the tiny beings on us friends or enemies?",
    "status": "debated",
    "description": "We often call all tiny living beings germs, as if they were all enemies. But most bacteria on your skin and in your mouth do you no harm. Many of them help you. Some keep harmful kinds away just by living in their place. Only a few kinds make us ill. So washing and brushing do not try to remove every tiny being. They keep the numbers small, and keep harmful kinds out of our mouths. Bacteria also send each other chemical signals. Scientists think these signals help them build a sticky layer like plaque.",
@@ -637,6 +651,25 @@
      "p": "Draw yourself having a bath. Draw what the water is washing off you.",
      "a": "A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.",
      "why": "A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin."
+    },
+    {
+     "t": "order",
+     "p": "Put the washing of a school shirt in order, from first to last.",
+     "items": [
+      "Hang the shirt in the sun to dry",
+      "Rinse until the water runs clear",
+      "Rub soap on the dirty collar",
+      "Put the shirt in soapy water",
+      "Wring out the water"
+     ],
+     "a": [
+      "Put the shirt in soapy water",
+      "Rub soap on the dirty collar",
+      "Rinse until the water runs clear",
+      "Wring out the water",
+      "Hang the shirt in the sun to dry"
+     ],
+     "why": "Soak and rub first, so the soap can loosen the dirt. Rinse the soap away. Wring out the water, then dry in the sun."
     }
    ]
   },
@@ -1795,6 +1828,18 @@
    "why": "A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.",
    "outcome": 5,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why must clothes be fully dry before you fold them and put them away?",
+   "opts": [
+    "Damp cloth can grow mould and smell bad",
+    "Wet cloth is too heavy to fold",
+    "Folded cloth dries in the cupboard by itself"
+   ],
+   "a": 0,
+   "why": "Mould grows in damp cloth. Wet clothes folded up stay damp, and they do not dry in the cupboard.",
+   "outcome": 4
   }
  ],
  "applications": [

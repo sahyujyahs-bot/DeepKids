@@ -43,6 +43,13 @@ All day, your skin makes sweat and a little oil. Dust from the air and the floor
 - e.g. In the white cloth test, the sole of a foot often left a grey mark before the bath, and almost none after it.
 - e.g. After playing in the sun, you may feel sticky and want a second bath.
 - e.g. Your skin feels sticky and salty after a hot game. That is dried sweat.
+### Clean clothes, washed and dried well · *defined*
+**Definition:** Clothes hold sweat, dust and dirt after we wear them. Washing takes them off, and drying clothes fully keeps them fresh.
+
+Sweat and dust soak into the shirt and the socks we wear all day. Wash them soon, not after many days, or the sweat smell gets stronger. Rub soap into the dirty parts, such as the collar and the cuffs. Rinse well, until the water runs clear. Wring out the water, and shake each piece out before you dry it. Dry clothes in the sun and fresh air. In the rains, dry them near a fan or in the sun between showers. Damp cloth can grow mould, so never fold clothes until they are fully dry.
+- e.g. A school uniform and socks go into the bucket soon after school, not at the end of the week.
+- e.g. A cotton kurta dries on a line on the balcony, in the sun and the breeze.
+- e.g. A wet towel left in a closed cupboard starts to smell stale in a few days.
 ### Are the tiny beings on us friends or enemies? · *debated*
 We often call all tiny living beings germs, as if they were all enemies. But most bacteria on your skin and in your mouth do you no harm. Many of them help you. Some keep harmful kinds away just by living in their place. Only a few kinds make us ill. So washing and brushing do not try to remove every tiny being. They keep the numbers small, and keep harmful kinds out of our mouths. Bacteria also send each other chemical signals. Scientists think these signals help them build a sticky layer like plaque.
 - e.g. Plaque grows back on your teeth every night. Brushing keeps it thin.
@@ -420,7 +427,7 @@ And every morning, before they brushed, they both ran their tongues over their t
   *Child mode:* Try your idea. Did it take two minutes? Did every part of your mouth get a turn?
 
 ## Worksheets
-### Clean hands, clean teeth (core, 10 questions)
+### Clean hands, clean teeth (core, 11 questions)
 1. (draw) In the Biscuit Test, you ate a biscuit and swished water round your mouth. Draw a back tooth. Draw where the crumbs stayed after the swish.  
    **Answer:** A wide tooth with grooves on top, and crumbs drawn inside the grooves.. *Why:* A strong drawing shows the grooves on top of the back tooth and puts the crumbs inside them, because that is where water did not reach.
 2. (sort) Colour the times to wash your hands green. Colour the other times yellow.  
@@ -443,6 +450,8 @@ And every morning, before they brushed, they both ran their tongues over their t
    **Answer:** The back teeth, where food hides. *Why:* Food hides most in the grooves of the back teeth. Holes in children's teeth are found most often there. If you picked 'the front is enough', remember the Biscuit Test: after a swish of water, crumbs stayed in the grooves of the back teeth.
 10. (draw) Draw yourself having a bath. Draw what the water is washing off you.  
    **Answer:** A child pouring water or under a shower, with dust, sweat drops or tiny flakes washing off.. *Why:* A strong drawing shows the water carrying something away: sweat, dust, or tiny flakes of old skin.
+11. (order) Put the washing of a school shirt in order, from first to last.  
+   **Answer:** ['Put the shirt in soapy water', 'Rub soap on the dirty collar', 'Rinse until the water runs clear', 'Wring out the water', 'Hang the shirt in the sun to dry']. *Why:* Soak and rub first, so the soap can loosen the dirt. Rinse the soap away. Wring out the water, then dry in the sun.
 ### Tiny beings, fuzz and baths (stretch, 10 questions)
 1. (perspective) The first person, a girl of 7 in Hyderabad, and her uncle Imran are talking about brushing.  
    **Answer:** A strong answer picks a side and uses the biscuit test. For example: 'The first person, because water left crumbs in my back teeth, and the brush took them out.' Then it is fair to Uncle Imran: rinsing does wash the front teeth and helps a little.. *Why:* Both are partly right. Rinsing helps, especially after sweets. But in the biscuit test, only the brush cleaned the grooves of the back teeth.
@@ -501,6 +510,9 @@ And every morning, before they brushed, they both ran their tongues over their t
 10. (mcq) Before the Biscuit Test, you might say: 'I think the water will wash all the crumbs away.' What is that?  
    Options: A guess, to check with a test / The answer / A mistake  
    **Answer:** A guess, to check with a test. *Why:* A guess made before a test is how scientists start. Then the test shows what really happens. A guess that turns out wrong is still a good guess.
+11. (mcq) Why must clothes be fully dry before you fold them and put them away?  
+   Options: Damp cloth can grow mould and smell bad / Wet cloth is too heavy to fold / Folded cloth dries in the cupboard by itself  
+   **Answer:** Damp cloth can grow mould and smell bad. *Why:* Mould grows in damp cloth. Wet clothes folded up stay damp, and they do not dry in the cupboard.
 
 ## Applications
 - Doctors and nurses wash their hands between every patient, so they do not carry germs from one person to the next.

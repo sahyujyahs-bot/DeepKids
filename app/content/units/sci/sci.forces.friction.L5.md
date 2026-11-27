@@ -358,10 +358,10 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
   *Parent says:* Now the strokes stay the same and only the press changes. I will do the light press and the firm press in a secret order.  
   *Child mode:* Rub 40 strokes with a light press. Then rub 40 strokes with a firm press. The judge scores each one.
 - **s5 (5 min)**  
-  *Parent does:* 1. Ask your child to choose one more change. 2. Ask what they expect, and why. 3. Test it with 40 firm strokes and a judge with closed eyes.  
+  *Parent does:* 1. Ask your child to choose one more change. 2. Ask what they expect, and why. 3. Test it with 40 firm strokes and a judge with closed eyes. 4. To test powder, dust the cardboard with a pinch of talcum powder and rub 40 firm strokes. Judge it the same way.  
   *Parent says:* Now you design a test. You could try a drop of oil on the cardboard, a smooth steel plate, or longer strokes. What do you expect, and why?  
-  *Child mode:* Choose one more change. Guess what it will do. Say why. Test it with 40 strokes.
-  - Note: Oil makes the friction smaller, so the coin usually stays cooler. The difference can be small. If the judge feels no difference, write that down as the result.
+  *Child mode:* Choose one more change. Guess what it will do. Say why. Test it with 40 strokes. Try a pinch of talcum powder too.
+  - Note: Oil makes the friction smaller, so the coin usually stays cooler. The difference can be small. If the judge feels no difference, write that down as the result. Fine powder, such as talcum powder, also lowers friction, so the coin may stay cooler.
 - **s6 (4 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child for the three sentences. 3. Only then read the explanation together.  
   *Parent says:* Say what you thought would happen, what you saw, and why it happened.  
@@ -609,7 +609,7 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 15. (mcq) Why do your palms get warm when you rub them together?  
    Options: Friction turns the movement into heat / Rubbing squeezes blood into the palms / The air between them catches fire / Skin stores heat until it is rubbed  
    **Answer:** Friction turns the movement into heat. *Why:* Your arm muscles give the hands kinetic energy, and friction between the palms turns it into heat. Nothing was stored in the skin beforehand.
-### Friction arrows and stopping distances (stretch) (stretch, 15 questions)
+### Friction arrows and stopping distances (stretch) (stretch, 16 questions)
 1. (mcq) A box rides on a lorry that is speeding up. Which way does friction push the box?  
    Options: Forward / Backward / Upward / There is none  
    **Answer:** Forward. *Why:* Without friction the box would be left behind and slide backward. Friction acts against that slide, so it points forward and speeds the box up.
@@ -644,6 +644,8 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
    **Answer:** Water resistance depends on the shape and on how big a front pushes through the water. Hands together and a straight body make a narrow, streamlined shape. So the water resistance is smaller and she keeps her speed.. *Why:* A strong answer uses the words 'water resistance' or 'drag', and links a narrow front to a smaller force.
 15. (truefalse) True or false: when friction stops a cycle, the cycle's kinetic energy is destroyed.  
    **Answer:** False. *Why:* False. Energy is never destroyed. The kinetic energy becomes heat in the brake pads, the rims, the tyres and the road.
+16. (write) Say it out loud, and a grown-up writes it: name one powder and one liquid that can make friction smaller. Say where you might use each at home.  
+   **Answer:** Talcum powder on a drawer that sticks. Oil on a door hinge, so it does not squeak.. *Why:* A strong answer names a powder or a liquid and a real place to use it, and says that it makes friction smaller.
 ### Reasoning with friction and energy (challenge) (challenge, 15 questions)
 1. (write) Many books say friction always acts against a thing's movement. Give one example that fits and one that does not.  
    **Answer:** Fits: a sliding carrom coin, a braking cycle or a rolling ball. Does not fit: a walker's foot, a wheel that drives a car, or a katori carried on a moving cloth. In those, friction points the way the thing moves.. *Why:* A strong answer gives one of each, and then states the full rule: friction acts against sliding between the two surfaces.
@@ -718,6 +720,9 @@ Yazhini walked back along the platform. It was wet, so she walked carefully. At 
 11. (mcq) Which of these is still not fully understood by scientists?  
    Options: Exactly how sliding atoms turn movement into heat / Whether friction makes heat / Whether oil makes friction smaller / Whether friction needs touching surfaces  
    **Answer:** Exactly how sliding atoms turn movement into heat. *Why:* Scientists agree that friction makes heat, that oil lowers friction and that friction is a contact force. The exact steps by which sliding atoms pass on their energy are still being studied.
+12. (mcq) A carrom player dusts the board with fine powder, so the coins slide further. What does the powder do?  
+   Options: It lowers the friction between the coin and the board / It makes the friction bigger, so the coins stop sooner / It pushes the coins up off the board  
+   **Answer:** It lowers the friction between the coin and the board. *Why:* Fine powder lowers the friction between the coin and the board, so the coin slides further. It does not make friction bigger, and it does not push the coin up.
 
 ## Applications
 - Brakes on cycles, autos, cars and trains press a pad against a turning rim, disc or wheel. Friction turns the vehicle's kinetic energy into heat.

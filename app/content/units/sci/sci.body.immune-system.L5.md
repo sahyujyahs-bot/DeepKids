@@ -120,6 +120,11 @@ HIV passes from one person to another in only a few ways. The virus travels in b
 - e.g. In 2023, about 25 lakh people in India were living with HIV.
 - e.g. Hospitals use a new sterile needle for every injection, so that no blood passes between patients.
 - e.g. A pregnant woman in India is offered an HIV test, so that treatment can protect her baby.
+### Preventing HIV: what stops it passing on · *defined*
+**Definition:** Preventing HIV means stopping the virus from getting from one person's blood or body fluids into another person's body.
+
+Condoms protect during sex between grown-ups, because they keep body fluids from passing from one partner to the other. A new, single-use needle is used for each injection, so that no blood passes from one person to another. Blood for a transfusion is tested for HIV before it is given, so a patient does not catch the virus from a donor. A free HIV test is given in government hospitals, so a person can know early and start treatment. Early treatment also protects a partner, as explained above.
+- e.g. A blood bank tests every unit of donated blood for HIV before a patient receives it.
 ### Onesimus, the tikadars and Jenner: protection before anyone knew of antibodies · *defined*
 **Definition:** Inoculation meant putting a little matter from a smallpox blister into a scratch on a healthy person. The person usually had a mild illness and was then protected for life. People in Africa, India, China and Turkey did this long before Europe did.
 
@@ -620,7 +625,7 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
    **Answer:** A Y shape with one germ at each tip. The tips are labelled as the parts that fit the antigen. The stem is labelled as the part that phagocytes grip.. *Why:* A strong drawing shows that both tips are the same and that one antibody can join two germs.
 15. (write) After a bee sting, a friend's throat swells and she struggles to breathe. What must happen at once?  
    **Answer:** This is anaphylaxis, which is an emergency. A grown-up must be told at once. She needs an adrenaline injection if she carries one, and an ambulance to hospital. In India, call 108 or 112.. *Why:* A strong answer names it as an emergency and says adrenaline and hospital. Waiting to see if it passes is dangerous.
-### Classes of antibody, the thymus and HIV (stretch) (stretch, 15 questions)
+### Classes of antibody, the thymus and HIV (stretch) (stretch, 16 questions)
 1. (mcq) Why does an antibody have two matching tips?  
    Options: To fit two different kinds of germ / To cut a germ in half / To hold two germs, or one germ twice  
    **Answer:** To hold two germs, or one germ twice. *Why:* Two matching tips let one antibody join two germs into a clump, or grip one germ firmly in two places. The tips are the same, so they fit the same antigen.
@@ -656,6 +661,8 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 15. (mcq) Why was cowpox a safer way to protect people than smallpox inoculation?  
    Options: Cowpox is a mild disease in humans / Cowpox viruses have no antigens / Cows never fall ill  
    **Answer:** Cowpox is a mild disease in humans. *Why:* Cowpox virus is closely related to smallpox virus, so antibodies against one fit the other. But cowpox is mild in humans, so nobody died of the protection. Inoculation used real smallpox, and a few people died of it.
+16. (match) Match each protection to the way HIV would otherwise pass.  
+   **Answer:** a condom → body fluids passing between partners in sex; a single-use needle → blood left in a needle used by another person; tested blood for a transfusion → HIV passing from a donor to a patient; a free HIV test → HIV going unnoticed, so treatment starts late. *Why:* Each protection blocks one way that the blood or body fluids of one person could reach another. An early test lets treatment start sooner.
 ### Atoms, evidence and open arguments (challenge) (challenge, 15 questions)
 1. (mcq) How does the tip of an antibody hold an antigen?  
    Options: By tiny hooks that pierce it / By many weak attractions between atoms / By one strong chemical bond  
@@ -732,6 +739,9 @@ In 2016 a reporter came to her home and wrote her story down at last. Nirmala ha
 12. (mcq) 844 of 5,759 people died in one group, and 6 of 247 in another. What is the fair comparison?  
    Options: The two numbers of deaths / The two sizes of the groups / Deaths out of every 100 in each group  
    **Answer:** Deaths out of every 100 in each group. *Why:* The groups are very different in size, so the counts cannot be compared directly. Working out deaths in every 100 gives about 15 and about 2.
+13. (mcq) Which of these stops HIV passing through blood from one person to another?  
+   Options: Using a new, single-use needle every time / Washing the tumbler after a friend uses it / Wearing a mask in class  
+   **Answer:** Using a new, single-use needle every time. *Why:* A single-use needle carries no blood from another person. Washing a tumbler and wearing a mask do nothing against HIV, because HIV does not pass through a tumbler or the air.
 
 ## Applications
 - Blood banks in India test every lesson of donated blood for HIV, hepatitis B and hepatitis C before anyone receives it.

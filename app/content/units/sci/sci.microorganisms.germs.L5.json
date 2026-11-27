@@ -89,6 +89,12 @@
    "art": "A room with windows open on two opposite walls and arrows showing air flowing in at one and out at the other."
   },
   {
+   "term": "Hygiene",
+   "meaning": "The habits that keep germs away from your body, such as washing hands, bathing and covering a cough.",
+   "example": "Washing hands with soap before you eat is a hygiene habit.",
+   "art": "A child washing hands at a tap with a bar of soap beside her."
+  },
+  {
    "term": "Dehydration",
    "meaning": "The state of a body that has lost too much water and salt. Loose motions and vomiting cause it.",
    "example": "The signs are a dry mouth, sunken eyes, very little urine and great tiredness. ORS replaces the lost water and salt.",
@@ -183,6 +189,19 @@
    "art": "A child sitting on the bed of a parent who has malaria, both under a mosquito net, with a mosquito outside the net."
   },
   {
+   "concept": "Plants and animals fall ill too",
+   "status": "defined",
+   "definition": "Germs make plants and animals ill as well as people. Some of these illnesses can be prevented, and animals can be given vaccines.",
+   "description": "A tulsi or chilli plant can be infected by a mould, a bacterium or a virus. The signs are spots on the leaves, curled or yellow leaves, and a plant who wilts though the soil is wet. Plant germs travel on wind, in splashes of rain, on insects, in seeds and on dirty tools. A farmer cannot give a plant a vaccine. She can pick off the ill leaves, wash her tools and sow seed from healthy plants. Cattle, buffaloes, goats, hens and dogs also fall ill from germs. Foot-and-mouth disease makes cows and buffaloes drool and limp, and it passes quickly through a herd. India vaccinates cattle and buffaloes against it. A vaccine protects the animal who gets it, and a vaccinated herd cuts the spread. Dogs are vaccinated against rabies. This protects the dogs, and the children who play near them.",
+   "examples": [
+    "Yellow, curling leaves on a chilli plant, caused by a virus.",
+    "Foot-and-mouth disease in cattle and buffaloes, which a vaccine helps to stop.",
+    "A rabies vaccine for a street dog, which also protects the people she might bite."
+   ],
+   "art": "A chilli plant with curled yellow leaves on one side, and a vet giving a calf a vaccine on the other.",
+   "perspectives": []
+  },
+  {
    "concept": "The five roads germs travel",
    "status": "defined",
    "definition": "Germs reach a new person by five main roads: the air, water and food, insects and ticks, touch, and blood and other body fluids.",
@@ -214,7 +233,7 @@
    "concept": "Diseases of dirty water and food",
    "status": "defined",
    "definition": "Cholera, typhoid, diarrhoea, dysentery and hepatitis A spread when germs from the stools of an ill person reach water or food.",
-   "description": "The germs leave the body in stools. They reach drinking water where sewage leaks or where people have no toilets. Unwashed hands and flies carry them to food. Cholera causes sudden, watery loose motions, many times a day. Diarrhoea means loose, watery stools from any cause. Dysentery is loose stools with blood or mucus. All three can dry the body out within hours, and this dehydration is the danger. Small children are at most risk. The treatment is oral rehydration solution, called ORS, given in sips again and again. A doctor is needed if the child cannot drink or passes blood. Typhoid causes a fever that climbs over days, with headache and stomach pain. It needs a doctor and an antibiotic. Hepatitis A harms the liver and turns the eyes and skin yellow, which is called jaundice. Protection is the same for all. Drink boiled or filtered water, wash hands with soap, cover food, and use a toilet. Vaccines protect against typhoid, hepatitis A and rotavirus. Rotavirus is the commonest cause of severe diarrhoea in babies. Gagandeep Kang, a doctor and scientist in Vellore, took a leading part in testing the first rotavirus vaccine made in India.",
+   "description": "The germs leave the body in stools. They reach drinking water where sewage leaks or where people have no toilets. Unwashed hands and flies carry them to food. Cholera causes sudden, watery loose motions, many times a day. Diarrhoea means loose, watery stools from any cause. Dysentery is loose stools with blood or mucus. All three can dry the body out within hours, and this dehydration is the danger. Small children are at most risk. The treatment is oral rehydration solution, called ORS, given in sips again and again. A doctor is needed if the child cannot drink or passes blood. Typhoid causes a fever that climbs over days, with headache and stomach pain. It needs a doctor and an antibiotic. Hepatitis A harms the liver and turns the eyes and skin yellow, which is called jaundice. Protection is the same for all. Drink boiled or filtered water, wash hands with soap, cover food, and use a toilet. Vaccines protect against typhoid, hepatitis A and rotavirus. Rotavirus is the commonest cause of severe diarrhoea in babies. Gagandeep Kang, a doctor and scientist in Vellore, took a leading part in testing the first rotavirus vaccine made in India. Typhoid can also bring vomiting and loose stools. The ill person needs a doctor, boiled water and rest. They do not need to be sent away. Give them their own cup, plate and towel, and let the person who nurses them wash hands with soap each time. A baby with loose stools should keep on breastfeeding, along with ORS in sips. Mother's milk is clean, and breastfeeding helps protect babies from diarrhoea.",
    "examples": [
     "Cholera: many watery stools, vomiting and fast dehydration.",
     "Typhoid: a slowly rising fever for a week or more.",
@@ -240,7 +259,7 @@
    "concept": "Diseases that travel through the air",
    "status": "defined",
    "definition": "Colds, flu, measles, chickenpox, tuberculosis and many kinds of pneumonia spread when a person breathes in germs that another person breathed out.",
-   "description": "Coughing, sneezing, singing and talking send out drops of every size. Big droplets fall within about a metre. Very small ones, called aerosols, float for minutes or hours in a closed room. Colds and flu are caused by viruses. They bring a runny nose, sore throat, cough and, with flu, fever and body ache. Rest and warm drinks help, and antibiotics do not. Getting wet in the rain does not cause a cold, because a cold needs a virus. Pneumonia is an infection deep in the lungs. The signs are fast breathing, fever and chest pain, and the person needs a doctor at once. Tuberculosis, or TB, is caused by a slow-growing bacterium. The signs are a cough for more than two weeks, evening fever and loss of weight. TB is cured by taking medicines every day for at least six months. In India the tests and medicines are free at government health centres. Measles is one of the most contagious diseases known. Protection on the air road is fresh air, a mask on the ill person, a covered cough and vaccines. The BCG, measles and pneumonia vaccines are given to babies in India.",
+   "description": "Coughing, sneezing, singing and talking send out drops of every size. Big droplets fall within about a metre. Very small ones, called aerosols, float for minutes or hours in a closed room. Colds and flu are caused by viruses. They bring a runny nose, sore throat, cough and, with flu, fever and body ache. Rest and warm drinks help, and antibiotics do not. Getting wet in the rain does not cause a cold, because a cold needs a virus. Pneumonia is an infection deep in the lungs. The signs are fast breathing, fever and chest pain, and the person needs a doctor at once. Tuberculosis, or TB, is caused by a slow-growing bacterium. The signs are a cough for more than two weeks, evening fever and loss of weight. TB is cured by taking medicines every day for at least six months. In India the tests and medicines are free at government health centres. Measles is one of the most contagious diseases known. Protection on the air road is fresh air, a mask on the ill person, a covered cough and vaccines. The BCG, measles and pneumonia vaccines are given to babies in India. TB also brings chest pain, and it spreads more easily to children who are weak or who do not get enough food. Pneumonia can follow measles, flu, chickenpox or whooping cough, because these illnesses leave the lungs weak. The person may bring up yellow or green phlegm, which is thick spit from deep in the chest, and may have a high fever.",
    "examples": [
     "Cold: runny nose, sneezing and sore throat for about a week.",
     "TB: a cough for more than two weeks, with evening fever and weight loss.",
@@ -248,6 +267,19 @@
    ],
    "perspectives": [],
    "art": "A crowded closed room with a haze drawn in the air, beside the same room with two windows open and the haze thinning."
+  },
+  {
+   "concept": "Caring for a cough or a cold",
+   "status": "defined",
+   "definition": "For a plain cold, rest, drinks and good food help the body, and a covered cough protects others. A cough that lasts, or breathing that is fast, needs a doctor.",
+   "description": "A cold goes away by itself in about a week. The body's own defenders do the work. Rest, warm drinks, sleep and good food help them. Amla, guava and lemon give vitamin C. Nobody has shown that they stop a cold, but a child who eats well and sleeps well copes with germs better. Cover every cough and sneeze with a cloth or the bend of the elbow. Go to a doctor if a cough lasts more than two weeks, if breathing is fast or hard, or if the fever is high.",
+   "examples": [
+    "A child with a cold stays home, drinks warm water with ginger and honey, and sleeps early. Honey is not given to a baby under one year.",
+    "A cough that began in October is still there in November, so the family goes to the health centre for a test.",
+    "A grandfather who sneezes into his elbow, not his hand."
+   ],
+   "art": "A child in bed with a warm drink and a cloth over the mouth, and a calendar behind with two weeks crossed off.",
+   "perspectives": []
   },
   {
    "concept": "HIV: how it spreads, and how it does not",
@@ -353,6 +385,32 @@
    ],
    "perspectives": [],
    "art": "Six shields in a row, each with a picture: soap, a pot of boiling water, a mosquito net, an open window, a vaccine vial and a pair of running shoes."
+  },
+  {
+   "concept": "Washing hands: when and how",
+   "status": "defined",
+   "definition": "Washing hands with soap blocks the touch road and part of the water and food road. It works only when you wash at the right times and wash every part of the hand.",
+   "description": "Wash your hands with soap after using the toilet, before eating or cooking, after touching animals, after playing outside and after a cough or sneeze into your hands. To wash well, wet your hands and rub soap on the palms and the backs. Rub between the fingers, around the thumbs and under the nails. Scrub for about 20 seconds, which is as long as singing a short song twice. Rinse with clean water and dry on a clean cloth. Most of the germs on a hand hide between the fingers and under the nails, so a quick rinse misses them. It costs very little and protects the whole family.",
+   "examples": [
+    "Before the first roti, before a meal and after the toilet are three times every day.",
+    "After stroking a street dog or a goat, and after playing in the mud.",
+    "A song such as Twinkle, Twinkle, sung twice, takes about 20 seconds."
+   ],
+   "art": "A pair of hands with soap foam, with arrows to the thumbs, the backs, between the fingers and under the nails.",
+   "perspectives": []
+  },
+  {
+   "concept": "Clean habits at home",
+   "status": "defined",
+   "definition": "A clean body, clean clothes and a clean home block many germ roads. Diseases of dirty surroundings follow dirty water, dirty hands, spit and shared cloth.",
+   "description": "Bathe every day, brush your teeth morning and night, and keep your nails short, because germs sit under long nails. Do not spit in the street. Spit from a person with a cold or TB carries germs onto the ground where children play. When you cough or sneeze, cover your mouth with a clean cloth or the bend of your elbow, not your bare hand. Then wash your hands. Diarrhoea, typhoid and worms in the stomach follow dirty water, no toilet and unwashed hands. Skin infections such as scabies, ringworm and lice pass by touch and by shared clothes, towels and bedding. A child with one needs the doctor's treatment, their own towel and bedding washed in hot water and dried in the sun. The person who nurses them washes hands afterwards. The others can sleep on their own mats until the treatment has started.",
+   "examples": [
+    "Rubbish and plastic left near a drain, where flies and rats come.",
+    "One towel shared by the whole family, which passes ringworm from child to child.",
+    "A grandmother's cough covered with the end of her dupatta, followed by washing her hands."
+   ],
+   "art": "A bathroom shelf with a bar of soap, a toothbrush, a nail clipper and a separate towel for each person.",
+   "perspectives": []
   },
   {
    "concept": "Where the two kinds of disease meet",
@@ -1954,6 +2012,120 @@
      "context": "This is the last step of Fact or Fear. Here you read your reply aloud and choose the true and kind answer to a classmate's illness."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "Twenty Seconds: wash hands the way germs hate",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you see for yourself why a quick rinse is not enough, and then you show your family how to wash hands well. Flour stands in for germs.",
+   "materials": [
+    {
+     "item": "a bar or bottle of soap",
+     "qty": 1
+    },
+    {
+     "item": "a spoon of atta or any flour",
+     "qty": 1
+    },
+    {
+     "item": "a clock, or a phone timer",
+     "qty": 1
+    },
+    {
+     "item": "a clean cloth and a tap",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Rub flour on both hands. Rinse for five seconds and look. Wash again with soap for 20 seconds and look. Then teach the family."
+    }
+   ],
+   "record": "Draw both hands. Mark where the flour stayed after the quick rinse. Write the times of day when your family will wash hands.",
+   "setup": [
+    {
+     "art": "A child with flour on both palms and the backs of the hands, standing at a tap.",
+     "caption": "1. Rub a spoon of flour over both hands. It stands in for germs."
+    },
+    {
+     "art": "Two hands under a tap with a timer showing five seconds, then hands held up with flour left between the fingers.",
+     "caption": "2. Rinse for five seconds only. Look at where flour is left."
+    },
+    {
+     "art": "A child scrubbing soapy hands with a timer showing twenty seconds, and the whole family watching.",
+     "caption": "3. Wash with soap for 20 seconds, then show your family."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Rub a spoon of flour over both hands, front and back, and between the fingers. 2. Rinse under the tap for five seconds, with no soap. 3. Hold up your hands and look. Where is the flour left?",
+     "say": "Pretend the flour is germs. Rinse your hands for five seconds, with no soap. Now look. Where is the flour still sitting?",
+     "kid": "Rub flour on your hands. Rinse for five seconds. Find where flour is left.",
+     "context": "This is the first step of Twenty Seconds. A quick rinse leaves most of the flour behind.",
+     "ask": [
+      {
+       "q": "Where did the flour stay, and why?",
+       "good": [
+        "Between the fingers and under the nails, because the water did not reach there.",
+        "Around the thumbs, because I did not rub there."
+       ]
+      }
+     ],
+     "parent": "Wipe up water on the floor so nobody slips. Flour is not germs, so say that it is a pretend model. Germs are smaller than anything we can see."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Rub flour on your hands again. 2. Wash with soap for 20 seconds: palms, backs, between the fingers, thumbs and under the nails. 3. Rinse and dry on a clean cloth. 4. Look again. What is left?",
+     "say": "Do it again, but this time use soap and count to 20, or sing a short song twice. Rub every part: palms, backs, between the fingers, round the thumbs and under the nails.",
+     "kid": "Wash with soap for 20 seconds. Rub every part. Look again.",
+     "context": "In this step you wash properly and compare with the quick rinse.",
+     "ask": [
+      {
+       "q": "What was different this time?",
+       "good": [
+        "Almost no flour was left, because the soap and the rubbing lifted it off.",
+        "The twenty seconds felt long, but it worked."
+       ]
+      }
+     ],
+     "parent": "Some flour may stay under the nails. That is a real lesson: germs hide there too. Short nails help.",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the washing with soap leave less flour?",
+      "options": [
+       "Soap and rubbing lifted it off every part of the hand",
+       "The tap was running harder",
+       "The flour wanted to leave"
+      ],
+      "a": 0,
+      "why": "Water alone slides over the skin. Soap loosens what sits on it, and rubbing for 20 seconds reaches the folds and the nails."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Show a family member how to wash, step by step. 2. Together, write the times of day when your family will wash: after the toilet, before eating and cooking, after playing outside and after touching animals. 3. Stick the list near the tap.",
+     "say": "Now you are the teacher. Show someone at home how to wash their hands, and write down when we all will wash.",
+     "kid": "Teach one person at home. Write our handwashing times and stick them near the tap.",
+     "context": "In this step you share the habit with your family and put a reminder near the tap.",
+     "ask": [
+      {
+       "q": "Who in the family finds it hardest to remember, and how can we help?",
+       "good": [
+        "Grandfather, because he is used to a quick rinse. We can wash together before meals.",
+        "The baby, so we wash her hands for her."
+       ]
+      }
+     ],
+     "parent": "Do not correct how an elder washes. Wash beside them, and let your child lead. A bar of soap by the tap, not up on a shelf, is the best reminder."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2544,6 +2716,70 @@
      "why": "A strong drawing shows two real shields on the air road and labels each one.",
      "art": "A blank page with a faint outline of a child standing near a window.",
      "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these moments: wash hands with soap now, or no need to wash now.",
+     "items": [
+      [
+       "After using the toilet",
+       "Wash now"
+      ],
+      [
+       "Before eating a chapati",
+       "Wash now"
+      ],
+      [
+       "After playing in the mud",
+       "Wash now"
+      ],
+      [
+       "After stroking a street dog",
+       "Wash now"
+      ],
+      [
+       "After watching television",
+       "No need"
+      ],
+      [
+       "After drinking from a clean bottle",
+       "No need"
+      ]
+     ],
+     "cats": [
+      "Wash now",
+      "No need"
+     ],
+     "a": "see items",
+     "why": "Hands pick up germs from stools, mud and animals, and carry them to the mouth. Watching television and sipping from a clean bottle do not put germs on the hands.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of washing your hands in order.",
+     "items": [
+      "Dry on a clean cloth",
+      "Rub soap on palms, backs, between fingers and under nails",
+      "Wet your hands",
+      "Rinse with clean water"
+     ],
+     "a": [
+      "Wet your hands",
+      "Rub soap on palms, backs, between fingers and under nails",
+      "Rinse with clean water",
+      "Dry on a clean cloth"
+     ],
+     "why": "Soap needs wet hands to foam. The rubbing takes about 20 seconds. Rinsing takes the germs away, and a clean cloth stops hands from picking up new ones.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "When you cough, cover your mouth with a clean cloth or the bend of your ____.",
+     "a": [
+      "elbow"
+     ],
+     "why": "The cloth or the elbow catches the drops. A bare hand catches them too, and then it spreads the germs to everything it touches.",
+     "outcome": 2
     }
    ]
   },
@@ -2753,6 +2989,50 @@
      "why": "A fatty layer narrows the tube. A clot on the layer can block the space that is left for blood. The part of the body beyond the block gets no oxygen.",
      "art": "A cut-away artery with a yellow fatty layer on one wall, a dark clot on the layer and a narrow gap for blood, each marked with a blank arrow.",
      "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "A child had measles. Now she breathes fast and has chest pain. What is the worry?",
+     "a": false,
+     "why": "False. Typhoid spreads by water, food and unwashed hands. The ill child needs care, their own cup and plate, and a carer who washes hands with soap. Being sent away hurts the child.",
+     "outcome": 2
+    },
+    {
+     "t": "match",
+     "p": "Match each unclean habit to a disease that can follow it.",
+     "a": "pairs as given",
+     "why": "Each habit opens a germ road. Sewage in water and unwashed hands open the water and food road. Shared cloth opens the touch road.",
+     "pairs": [
+      [
+       "Drinking water with sewage in it",
+       "Cholera or typhoid"
+      ],
+      [
+       "A shared towel and bedding",
+       "Scabies or ringworm"
+      ],
+      [
+       "Eating without washing hands after the toilet",
+       "Diarrhoea or hepatitis A"
+      ],
+      [
+       "Spitting on the ground",
+       "TB or a cold spreads"
+      ]
+     ],
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A child had measles. Now she breathes fast, has chest pain and brings up yellow phlegm. What is the family's worry, and what should they do?",
+     "opts": [
+      "Pneumonia, which can follow measles, so they go to a doctor today",
+      "A plain cold, so she should rest and wait a week",
+      "Dehydration, so she needs only ORS"
+     ],
+     "a": 0,
+     "why": "Fast breathing, chest pain and phlegm are signs of pneumonia, which can follow measles, flu or chickenpox. It is dangerous and needs a doctor at once.",
+     "outcome": 1
     }
    ]
   },
@@ -2935,6 +3215,22 @@
      "a": 0,
      "why": "A heart attack comes from a blocked artery, and movement, no tobacco and less salt and fried food lower the chance. A net and boiled water protect against infections.",
      "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A village vaccinates all its dogs against rabies. Explain why this also protects children who have never touched those dogs.",
+     "a": "Rabies passes by the bite of an infected animal. A vaccinated dog does not get rabies, so she cannot pass it on in a bite. The chain of the germ stops in the village, and children are safe even if they meet a dog.",
+     "why": "A strong answer says that the animal's vaccine stops the germ's road to people.",
+     "lines": 4,
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Your little cousin says soap is needed only when hands look dirty. Write a kind reply that gives two reasons to wash at set times.",
+     "a": "Germs are too small to see, so clean-looking hands can still carry them. The toilet and meals are the times when germs most easily get from hands into the mouth. Soap and 20 seconds of rubbing lift them off. Wash with me before we eat.",
+     "why": "A strong answer is kind and gives facts: germs cannot be seen, and hands carry germs to the mouth.",
+     "lines": 4,
+     "outcome": 2
     }
    ]
   }
@@ -3075,6 +3371,114 @@
    "a": 0,
    "why": "The hygiene hypothesis is still being tested. Hand washing and the mosquito road of malaria are settled facts.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Plants cannot be given a vaccine like a calf. How can a farmer stop a plant germ from spreading?",
+   "opts": [
+    "Pick off the ill leaves, wash the tools and sow seed from healthy plants",
+    "Do nothing, because plants never fall ill from germs",
+    "Water the plants only at night, which kills every germ"
+   ],
+   "a": 0,
+   "why": "Plants do fall ill from germs. Removing ill leaves, cleaning tools and using healthy seed block the roads the germs travel. Watering at night kills nothing.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why do doctors want street dogs to be vaccinated against rabies?",
+   "opts": [
+    "It protects the dogs and the people they might bite",
+    "It stops the dogs from barking",
+    "A vaccinated dog's bite never needs washing"
+   ],
+   "a": 0,
+   "why": "Rabies passes by a bite. A vaccinated dog does not get rabies, so she cannot pass it on. Any bite must still be washed with soap and running water.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which is a time to wash your hands with soap?",
+   "opts": [
+    "After using the toilet and before eating",
+    "Only when your hands look dirty",
+    "Only when you have a cold"
+   ],
+   "a": 0,
+   "why": "Germs on hands cannot be seen. The toilet and the meal are the two most important times, because hands carry germs from stools to the mouth.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which is the best way to wash your hands?",
+   "opts": [
+    "Soap on palms, backs, between fingers and under nails for about 20 seconds, then rinse",
+    "A quick rinse under the tap",
+    "Wipe them on your clothes"
+   ],
+   "a": 0,
+   "why": "Soap lifts the germs off the skin, and the rubbing reaches the places where germs hide. A quick rinse or a wipe leaves most of them behind.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A baby has loose stools. What should the mother do?",
+   "opts": [
+    "Keep breastfeeding, give ORS in sips, and see a doctor if the baby cannot drink or passes blood",
+    "Stop all milk until the loose stools stop",
+    "Give only plain water for a day"
+   ],
+   "a": 0,
+   "why": "The danger is dehydration. Mother's milk is clean and keeps the baby fed, and ORS replaces the lost water. Stopping milk makes the baby weaker.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A boy has coughed for three weeks. What should his family do?",
+   "opts": [
+    "Take him to a doctor for a test",
+    "Wait, because a cough always goes away",
+    "Give him a cold bath"
+   ],
+   "a": 0,
+   "why": "A cough that lasts more than two weeks can be TB. TB is cured with medicine taken every day, and the tests and medicine are free at government health centres.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Hari got wet in the rain and two days later he has a cold. What most likely caused the cold?",
+   "opts": [
+    "A cold virus he breathed in from someone who had it",
+    "The rain on his hair",
+    "Not eating enough amla"
+   ],
+   "a": 0,
+   "why": "A cold needs a virus. Rain has no cold virus in it. The virus was probably around before he got wet.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "How do scabies mites pass from one child to another?",
+   "opts": [
+    "By skin and by shared clothes, towels and bedding",
+    "By a mosquito bite",
+    "By drinking water"
+   ],
+   "a": 0,
+   "why": "Scabies is a touch-road disease. The mites walk from skin to skin and onto cloth that is shared. A mosquito or water cannot carry them.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why should people not spit in the street?",
+   "opts": [
+    "Spit from a person with a cold or TB carries germs onto the ground",
+    "Spit makes the road wet",
+    "Spit is a waste of water"
+   ],
+   "a": 0,
+   "why": "Spit carries the germs that were in the mouth and chest. A child who plays there can pick them up. Keeping the street clean blocks that road.",
+   "outcome": 2
   }
  ],
  "videos": [
@@ -3578,6 +3982,7 @@
    "p1",
    "c1",
    "c2",
+   "a6",
    "big_questions",
    "ws-challenge",
    "open_questions",

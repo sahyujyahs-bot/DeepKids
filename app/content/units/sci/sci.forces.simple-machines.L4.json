@@ -289,7 +289,9 @@
    "examples": [
     "A moving pulley is a lever in which the load hangs from the middle and the effort is at the end.",
     "A screw is a ramp wound round a rod.",
-    "A wheel and axle, such as a well winch, is a lever that goes round."
+    "A wheel and axle, such as a well winch, is a lever that goes round.",
+    "A kitchen tong, called a chimta in Hindi, is a lever. It turns on its joint, your hand pushes the handles, and the tips grip the food.",
+    "A claw hammer pulling a nail is a lever. Its head rests on the wood as the fulcrum, so a small pull on the handle lifts the nail."
    ],
    "perspectives": [
     {
@@ -2217,6 +2219,17 @@
      "a": "A bigger gear at the back. The wheel turns fewer times for each pedal turn, but with more strength, which helps up the hill.",
      "why": "A strong answer says the big back gear gives more turning strength and fewer wheel turns for each pedal turn, which is the same trade of speed for strength.",
      "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "A chimta, or kitchen tong, is a lever. It turns on its ____, and your hand pushes the two handles.",
+     "a": [
+      "joint",
+      "fulcrum",
+      "pivot",
+      "hinge"
+     ],
+     "why": "The joint is the fulcrum. Your hand gives the effort at the handles, and the tips at the other end hold the food."
     }
    ]
   },
@@ -2511,6 +2524,18 @@
    ],
    "a": 0,
    "why": "The pulley and the wheel and axle are kinds of lever. The wedge and the screw are kinds of ramp. Both trade force for distance.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these everyday tools is a lever?",
+   "opts": [
+    "A kitchen tong, the chimta, which turns on its joint",
+    "A ramp of planks leaning on a step",
+    "A screw in a jar lid"
+   ],
+   "a": 0,
+   "why": "A tong turns on its joint, which is its fulcrum, so it is a lever. A ramp and a screw both belong to the ramp idea, not the lever idea.",
    "outcome": 4
   },
   {

@@ -83,6 +83,7 @@ The Sun sends out light in every direction. The Earth catches only about one par
 - e.g. The south-west monsoon is driven by the Sun heating the land faster than the sea.
 - e.g. An idli is rice, and rice grew in sunlight. So the energy you use to run and think was sunlight, a short while ago.
 - e.g. Wind that turns the turbines in Tamil Nadu is air moved because the Sun heated some places more than others.
+- e.g. A window on the bright side of a room lights it in the day, so the bulb can stay off.
 ### Light in, heat out: why the Earth stays at one temperature · *defined*
 **Definition:** The Earth gives out as much infrared energy as it takes in as sunlight. The balance decides how warm the Earth is.
 
@@ -650,7 +651,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    **Answer:** True. *Why:* True. All the members of the family are waves of electric and magnetic fields that travel at the speed of light in empty space. They differ in wavelength, and so in the energy of each photon.
 16. (count) A torch makes a lit square patch 5 squares wide and 5 squares tall when the paper is 20 centimetres away. How many squares would the patch cover at 40 centimetres?  
    **Answer:** 100. *Why:* At twice the distance the patch is twice as wide and twice as tall. That is 10 squares by 10 squares, which is 100. Or, 25 times 4 is 100.
-### Energy, Waves and the Push of Light (stretch) (stretch, 17 questions)
+### Energy, Waves and the Push of Light (stretch) (stretch, 18 questions)
 1. (mcq) Jupiter is about 5 times further from the Sun than the Earth is. About how much sunlight does a square metre of Jupiter's cloud tops get, compared with a square metre on Earth?  
    Options: About one twenty-fifth / About one fifth / About the same / About five times as much  
    **Answer:** About one twenty-fifth. *Why:* Five times as far means the light is spread over 5 times 5, which is 25 times the area. So each square metre gets about one twenty-fifth as much. Picking one fifth is the common slip, as it forgets that the area grows in two directions.
@@ -689,6 +690,8 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
    **Answer:** 2. *Why:* Sound is a vibration of air, water or solids, and needs something to travel through. The other three are waves of electric and magnetic fields, which cross empty space.
 17. (truefalse) A shiny foil dome can keep an ice cube from melting in the sun, because the foil reflects most of the sunlight. True or false?  
    **Answer:** True. *Why:* True. Shiny foil sends most of the sunlight back, so little of it turns into heat. A black cover would do the opposite.
+18. (write) A classroom has a bulb on all day, but the window on the bright side of the room is shut. Suggest two changes that use daylight wisely, and say why each one helps.  
+   **Answer:** A strong answer says to open the window on the bright side and to switch the bulb off while there is enough daylight. Daylight is free and bright. A bulb uses electricity, and much of India's electricity is made by burning coal.. *Why:* Daylight does the job of the bulb for nothing. The best answers name a real change, and give the reason in terms of the free light and the electricity saved.
 ### Invisible Light and Big Questions (challenge) (challenge, 15 questions)
 1. (mcq) Radio telescopes find a faint glow of microwaves coming from every direction in the sky. What is the best explanation?  
    Options: It is the oldest light there is, from the young universe, stretched into microwaves / It is heat from the Sun / It is light from a nearby lamp / It is radio from satellites  
@@ -766,6 +769,9 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 12. (mcq) Gases such as carbon dioxide in the air slow the escape of infrared from the Earth. What happens to the Earth's temperature when there is more of them?  
    Options: The Earth warms up / The Earth cools down / Nothing changes / The Earth gets brighter at night  
    **Answer:** The Earth warms up. *Why:* The Earth settles where the energy going out equals the energy coming in. If the gases slow the way out, the Earth must get warmer before the balance is reached again.
+13. (mcq) A room has a window that gets plenty of daylight in the morning. What is the wise way to use that daylight?  
+   Options: Switch on every bulb, even in the day / Open the window and switch the bulb off while there is enough daylight / Light a candle, because a flame is brighter than daylight / Shut the window and keep the room dark all day  
+   **Answer:** Open the window and switch the bulb off while there is enough daylight. *Why:* Daylight is free, and it is enough to see by. A bulb uses electricity, and much of India's electricity is made by burning coal. Switching on a bulb in full daylight wastes both.
 
 ## Applications
 - Solar water heaters on rooftops turn sunlight into heat for baths and kitchens.

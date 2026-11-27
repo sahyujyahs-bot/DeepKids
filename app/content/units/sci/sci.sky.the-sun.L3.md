@@ -60,6 +60,7 @@ Once light leaves the Sun's surface, it reaches the Earth in about 8 minutes and
 Space between the Sun and the Earth is nearly empty, so there is almost nothing there to absorb the light and warm up. The warmth appears only when the light lands on something. A black thing absorbs most of the light that falls on it, so it gets hot quickly. A white thing reflects most of the light, so it stays cooler. Even the air is warmed mostly from below. Sunlight passes through clear air, warms the ground, and the warm ground then warms the air above it. That is why a black road in Chennai in May can be far too hot to stand on barefoot, while a white wall nearby is only warm.
 - e.g. A black car parked in the sun gets hotter inside than a white car parked beside it.
 - e.g. Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight.
+- e.g. Chillies, sliced mango and papads are spread on a flat terrace in the sun to dry. The sunlight warms them, and the heat drives out the water in them.
 ### A lens gathers sunlight into a dot · *defined*
 **Definition:** A magnifying glass is a lens that is thicker in the middle. It bends the sunlight passing through it, so that all the light meets in one small spot, the focus.
 
@@ -499,7 +500,7 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
   *Child mode:* Tell someone your plan. Tell them why we never look at the Sun.
 
 ## Worksheets
-### Sun Detective (core) (core, 15 questions)
+### Sun Detective (core) (core, 16 questions)
 1. (mcq) What kind of thing is the Sun?  
    Options: A planet / A star / A ball of fire / A moon  
    **Answer:** A star. *Why:* The Sun is a star, a huge ball of very hot gas that makes its own light. It is the nearest star to the Earth. Picking 'a ball of fire' is very common, but the Sun does not burn. It shines by fusion. A strong answer says it is the nearest star.
@@ -507,32 +508,34 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
    **Answer:** False. *Why:* False. A fire needs oxygen from the air, and there is no air in space. The Sun shines because hydrogen joins into helium in its core. A strong answer gives this reason.
 3. (fill) A thing that takes in light, so that the light turns into heat, is said to ____ the light.  
    **Answer:** ['absorb']. *Why:* Absorb means take in. Black things absorb most of the light that falls on them, so they get hot in the sun.
-4. (write) In the Sun Dot experiment, the magnifying glass made no new light, but the tiny dot made paper smoke. Explain how.  
+4. (write) Mango slices dry faster on a dark cloth in the sun than in a cupboard. Why? Use the words absorb and heat.  
+   **Answer:** The dark cloth absorbs sunlight, and the light turns into heat. The heat drives the water out of the mango. In a cupboard there is no sunlight, so there is no heat to dry it.. *Why:* A strong answer says that the cloth absorbs the light, that the light turns into heat, and that the heat takes the water out.
+5. (write) In the Sun Dot experiment, the magnifying glass made no new light, but the tiny dot made paper smoke. Explain how.  
    **Answer:** The magnifying glass gathered all the sunlight that fell on it into one tiny dot. The same amount of light was packed into a much smaller place, so that spot of paper got very hot.. *Why:* A strong answer uses the idea of gathering or focusing, and says the amount of light stayed the same but the place got smaller.
-5. (mcq) Why must we never look straight at the Sun?  
+6. (mcq) Why must we never look straight at the Sun?  
    Options: The Sun is too far away to see / The lens in our eye focuses its light onto the retina and harms it / It makes us sneeze / It makes the Sun angry  
    **Answer:** The lens in our eye focuses its light onto the retina and harms it. *Why:* The eye's lens gathers light like a magnifying glass. Looking at the Sun focuses its light into a tiny fierce spot on the retina, which can be harmed for ever. A strong answer names the lens and the retina.
-6. (sort) Sort these ways of watching the Sun: safe or not safe?  
+7. (sort) Sort these ways of watching the Sun: safe or not safe?  
    **Answer:** a picture of the Sun on a wall, made by a covered mirror → Safe; ordinary sunglasses → Not safe; little suns under a colander → Safe; binoculars → Not safe; eclipse glasses marked ISO 12312-2 → Safe; a quick look for one second → Not safe. *Why:* The safe ways make a picture of the Sun to look at, or use a filter made for the Sun. Sunglasses let through far too much light. Binoculars gather even more light into the eye. Even one second can harm the retina. A strong answer sorts by whether light from the Sun goes straight into the eye.
-7. (draw) Draw a magnifying glass above a sheet of paper in the sun. Draw the lines of sunlight going through the glass and meeting in a tiny dot on the paper.  
+8. (draw) Draw a magnifying glass above a sheet of paper in the sun. Draw the lines of sunlight going through the glass and meeting in a tiny dot on the paper.  
    **Answer:** Straight lines of sunlight coming down, bending as they pass through the glass, and meeting at one point on the paper.. *Why:* A strong drawing shows that the light from the whole glass ends up in one small spot.
-8. (truefalse) Sunlight takes about 8 minutes to travel from the Sun to the Earth.  
+9. (truefalse) Sunlight takes about 8 minutes to travel from the Sun to the Earth.  
    **Answer:** True. *Why:* True. The Sun is about 150 million kilometres away, and light crosses that in about 8 minutes and 20 seconds.
-9. (match) Match each word to what it means.  
+10. (match) Match each word to what it means.  
    **Answer:** Star → a huge ball of hot gas that makes its own light; Lens → clear curved glass that bends light; Retina → the light-catching layer at the back of the eye; Core → the centre of the Sun, where its energy is made; Reflect → to send light back. *Why:* These words come up all through the unit. A strong answer could give an example of each.
-10. (label) Label the drawing of a cut-open eye looking at the Sun: lens, retina, and the spot where the Sun's light meets.  
+11. (label) Label the drawing of a cut-open eye looking at the Sun: lens, retina, and the spot where the Sun's light meets.  
    **Answer:** The lens near the front of the eye, the retina lining the back, and a dot on the retina where the lines of light meet.. *Why:* The lens gathers light onto the retina. A strong label shows the meeting spot on the retina, the place that is harmed.
-11. (odd) Which one is the odd one out?  
+12. (odd) Which one is the odd one out?  
    Options: The Sun / Sirius, the brightest star at night / The Moon / Dhruva Tara, the Pole Star  
    **Answer:** 2. *Why:* The Sun, Sirius and the Pole Star are all stars, which make their own light. The Moon is not a star. It shines only because it reflects sunlight.
-12. (mcq) A bit of sunlight lands on a black road. What happens to it?  
+13. (mcq) A bit of sunlight lands on a black road. What happens to it?  
    Options: You are reflected away / You are absorbed and turn into heat / You become a plant's food / You turn into rain  
    **Answer:** You are absorbed and turn into heat. *Why:* A black road absorbs most of the sunlight that lands on it, and the light turns into heat. That is why a road in summer is too hot for bare feet.
-13. (write) A garden lizard lies flat on a sunny wall early in the morning. What problem does she have on a cool morning, and how does the sunshine help her?  
+14. (write) A garden lizard lies flat on a sunny wall early in the morning. What problem does she have on a cool morning, and how does the sunshine help her?  
    **Answer:** Her body does not make much heat of its own, so on a cool morning she is slow and cannot chase insects well. Lying flat in the sun, she absorbs sunlight, warms up, and can then move fast and hunt.. *Why:* A strong answer says the lizard's own problem first, being cold and slow, and then how basking solves it.
-14. (perspective) Two friends in Kochi are talking about the Sun.  
+15. (perspective) Two friends in Kochi are talking about the Sun.  
    **Answer:** A strong answer says both are partly right. Spread-out sunlight on the skin is gentle for a short time, as the first child says, though it can still burn skin over a long time. Gathered by a lens, the same light is fierce enough to burn paper, as the second child saw. The eye has a lens, so looking at the Sun is dangerous, even though sunlight on the hands is not.. *Why:* This tests the main idea of the unit: how strong sunlight is depends on how much is gathered into one place.
-15. (write) One child wears a black shirt and another wears a white shirt. They stand in the same sunshine. Whose shirt gets hotter? Use the words absorb and reflect.  
+16. (write) One child wears a black shirt and another wears a white shirt. They stand in the same sunshine. Whose shirt gets hotter? Use the words absorb and reflect.  
    **Answer:** The black shirt gets hotter. Black cloth absorbs most of the sunlight that falls on it, and the light turns into heat. The white shirt reflects most of the light, so less of it turns into heat.. *Why:* A strong answer says which shirt, and uses absorb for the black shirt and reflect for the white one.
 ### Sunlight at Work (stretch) (stretch, 15 questions)
 1. (mcq) A magnifying glass made black paper smoke in 4 seconds. Then a bigger magnifying glass is used, held to make an equally tiny dot. What do you predict?  
@@ -644,6 +647,9 @@ That night, Paati's reading glass went into her drawer, out of the sun. Arun gav
 11. (mcq) A helium atom weighs a little less than four hydrogen atoms put together. Why does this help explain how the Sun shines?  
    Options: When hydrogen joins into helium, the missing bit of material turns into energy / It shows the Sun is shrinking / It shows the Sun is full of coal / It shows sunlight takes 8 minutes to arrive  
    **Answer:** When hydrogen joins into helium, the missing bit of material turns into energy. *Why:* In the core, four hydrogen atoms join into one helium atom. The helium atom weighs a little less, so a tiny bit of material goes missing each time. That missing material turns into energy, and the energy is what makes the Sun shine.
+12. (mcq) Why are chillies spread on a flat terrace in the sun to dry?  
+   Options: Sunlight turns into heat inside them and drives out their water / The chillies make their own light, and the light dries them / Sunlight is cold, so it keeps the chillies from going bad / Chillies dry only in the shade  
+   **Answer:** Sunlight turns into heat inside them and drives out their water. *Why:* Chillies absorb sunlight, and the light turns into heat inside them. The heat drives out the water. Sunlight is warm, not cold, and chillies dry in the sun, not in the shade.
 
 ## Applications
 - Solar panels on roofs and in fields turn sunlight into electricity.

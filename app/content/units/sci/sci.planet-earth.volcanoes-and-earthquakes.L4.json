@@ -157,11 +157,12 @@
    "concept": "Plates: the broken shell that moves",
    "status": "defined",
    "definition": "A plate is a huge slab of the crust and the stiff top of the mantle. The plates move a few centimetres every year, carrying the land and the sea floor with them.",
-   "description": "The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India.",
+   "description": "The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India. Two slow forces also change the land. Plates push, bend and lift it. Erosion is the slow wearing away of land by rain, rivers, wind and ice. The rocks keep the marks: layers laid down by water, with fossils in them (the remains or prints of living things), show what the land was like long ago.",
    "examples": [
     "The Indian plate carries India, Sri Lanka and a large part of the Indian Ocean floor.",
     "The Pacific plate is the largest. It is almost all sea floor.",
-    "A child who is 9 years old has travelled about 45 centimetres with the Indian plate since she was born."
+    "A child who is 9 years old has travelled about 45 centimetres with the Indian plate since she was born.",
+    "Rivers coming down from the Himalaya carry away rock that the plates have pushed up, and drop it on the plains."
    ],
    "art": "A world map with the plates outlined like pieces of a cracked shell, each with an arrow showing which way it moves, and the Indian plate coloured.",
    "context": "This card explains the one idea that ties volcanoes, earthquakes and mountains together: the ground is broken into plates, and the plates move.",
@@ -2017,6 +2018,12 @@
      "outcome": 2
     },
     {
+     "t": "fill",
+     "p": "Rain, rivers, wind and ice wear the land down slowly. This is called ________.",
+     "a": "erosion",
+     "why": "Erosion is the slow wearing away of land. Plates lift and fold land. Erosion wears it down. Both happen at the same time."
+    },
+    {
      "t": "sort",
      "p": "Sort each clue: does it belong to runny lava or to sticky magma?",
      "cats": [
@@ -2478,6 +2485,18 @@
    "a": 0,
    "why": "Sensors catch the first waves and send an alert ahead of the strong shaking. Nobody can name the day or stop the slip.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Rain and rivers wear a hill down a little every year, and carry the grains away. What is this called?",
+   "opts": [
+    "Erosion",
+    "Lava",
+    "A seismic wave"
+   ],
+   "a": 0,
+   "why": "Erosion is the slow wearing away of land by rain, rivers, wind and ice. Lava is melted rock that has reached the surface, and a seismic wave carries an earthquake's energy. Neither wears land away.",
+   "outcome": 1
   },
   {
    "t": "mcq",

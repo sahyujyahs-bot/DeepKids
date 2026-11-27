@@ -192,7 +192,8 @@
    "description": "Space between the Sun and the Earth is nearly empty, so there is almost nothing there to absorb the light and warm up. The warmth appears only when the light lands on something. A black thing absorbs most of the light that falls on it, so it gets hot quickly. A white thing reflects most of the light, so it stays cooler. Even the air is warmed mostly from below. Sunlight passes through clear air, warms the ground, and the warm ground then warms the air above it. That is why a black road in Chennai in May can be far too hot to stand on barefoot, while a white wall nearby is only warm.",
    "examples": [
     "A black car parked in the sun gets hotter inside than a white car parked beside it.",
-    "Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight."
+    "Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight.",
+    "Chillies, sliced mango and papads are spread on a flat terrace in the sun to dry. The sunlight warms them, and the heat drives out the water in them."
    ],
    "perspectives": [],
    "art": "Sunlight falling on a black road and a white wall side by side: the arrows go into the road with heat lines rising, and bounce off the wall.",
@@ -1970,6 +1971,19 @@
    "a": 0,
    "outcome": 6,
    "why": "In the core, four hydrogen atoms join into one helium atom. The helium atom weighs a little less, so a tiny bit of material goes missing each time. That missing material turns into energy, and the energy is what makes the Sun shine."
+  },
+  {
+   "t": "mcq",
+   "p": "Why are chillies spread on a flat terrace in the sun to dry?",
+   "opts": [
+    "Sunlight turns into heat inside them and drives out their water",
+    "The chillies make their own light, and the light dries them",
+    "Sunlight is cold, so it keeps the chillies from going bad",
+    "Chillies dry only in the shade"
+   ],
+   "a": 0,
+   "outcome": 2,
+   "why": "Chillies absorb sunlight, and the light turns into heat inside them. The heat drives out the water. Sunlight is warm, not cold, and chillies dry in the sun, not in the shade."
   }
  ],
  "worksheets": [
@@ -2004,6 +2018,13 @@
       "absorb"
      ],
      "why": "Absorb means take in. Black things absorb most of the light that falls on them, so they get hot in the sun."
+    },
+    {
+     "t": "write",
+     "p": "Mango slices dry faster on a dark cloth in the sun than in a cupboard. Why? Use the words absorb and heat.",
+     "lines": 3,
+     "a": "The dark cloth absorbs sunlight, and the light turns into heat. The heat drives the water out of the mango. In a cupboard there is no sunlight, so there is no heat to dry it.",
+     "why": "A strong answer says that the cloth absorbs the light, that the light turns into heat, and that the heat takes the water out."
     },
     {
      "t": "write",

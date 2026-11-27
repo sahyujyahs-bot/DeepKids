@@ -47,10 +47,11 @@ It is about 6,370 kilometres from your feet to the centre of the Earth. The crus
 ### Plates: the broken shell that moves · *defined*
 **Definition:** A plate is a huge slab of the crust and the stiff top of the mantle. The plates move a few centimetres every year, carrying the land and the sea floor with them.
 
-The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India.
+The hard outer shell of the Earth is not one piece. It is broken into about seven very large plates and many smaller ones, a little like the shell of a boiled egg that has been cracked all over. The plates are 50 to 250 kilometres thick. They ride on mantle rock that is softer and creeps. Most plates move between 2 and 10 centimetres a year, which is about as fast as your fingernails grow. That sounds like nothing. But in a million years, 5 centimetres a year adds up to 50 kilometres. Satellites now measure this movement directly. A marker fixed to the rock in Bengaluru moves about 5 centimetres towards the north-east every year, along with all of India. Two slow forces also change the land. Plates push, bend and lift it. Erosion is the slow wearing away of land by rain, rivers, wind and ice. The rocks keep the marks: layers laid down by water, with fossils in them (the remains or prints of living things), show what the land was like long ago.
 - e.g. The Indian plate carries India, Sri Lanka and a large part of the Indian Ocean floor.
 - e.g. The Pacific plate is the largest. It is almost all sea floor.
 - e.g. A child who is 9 years old has travelled about 45 centimetres with the Indian plate since she was born.
+- e.g. Rivers coming down from the Himalaya carry away rock that the plates have pushed up, and drop it on the plains.
 - **Alfred Wegener, a German weather scientist, in 1912:** He said the continents were once joined and had drifted apart. He pointed to coastlines that fit, and to the same fossils on lands now far apart. Most geologists of his time rejected the idea, because he could not say what force could move a continent.
 - **Scientists who say sinking plates do the pulling, for example Donald Forsyth and Seiya Uyeda in 1975:** Old sea floor is cold and heavy. Where it dives into the mantle, it sinks and drags the rest of its plate behind it. They found that plates with a long diving edge move fastest, so this pull seems to be the main force.
 - **Scientists who say the creeping mantle does the carrying:** Hot mantle rock rises, spreads sideways and sinks again, very slowly. In this view the plates are carried along on top. Most scientists now think both things happen, and they still argue about how much each one does.
@@ -555,7 +556,7 @@ After the call she sat on the steps outside and pressed both palms flat on the w
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and names something to find out, such as how often the volcano erupts, if it is being watched, and how fast people could leave.. *Why:* Both are right about a fact. Volcanic soil is rich, and a quiet volcano can wake. Millions of people around the world make this choice, and many stay and keep a plan to leave quickly.
 16. (count) A plate moves 4 centimetres every year. How many centimetres does it move in 25 years?  
    **Answer:** 100. *Why:* 4 times 25 is 100 centimetres, which is 1 metre. In one long human life a plate moves about as far as a child is tall.
-### India on the move (stretch, 16 questions)
+### India on the move (stretch, 17 questions)
 1. (order) Put India's journey in order, from the oldest event to the newest.  
    **Answer:** ['India is part of Gondwana', 'India splits from Madagascar', 'The Deccan lava floods pour out', 'India touches Asia', 'The Himalaya rise']. *Why:* India left Gondwana, lost Madagascar about 88 million years ago, crossed a hot spot about 66 million years ago and met Asia about 50 million years ago. The Himalaya have been rising since.
 2. (mcq) What are the Deccan Traps mostly made of?  
@@ -577,19 +578,21 @@ After the call she sat on the steps outside and pressed both palms flat on the w
    **Answer:** 10 times more. *Why:* Each whole step in magnitude means ten times more ground movement. If you chose 'a little more', remember that the scale multiplies and does not add.
 9. (truefalse) An earthquake has one magnitude, but the shaking it causes differs from place to place.  
    **Answer:** True. *Why:* True. Magnitude measures the size at the source. How hard the ground shakes at your home depends on your distance and on the soil under you.
-10. (sort) Sort each clue: does it belong to runny lava or to sticky magma?  
+10. (fill) Rain, rivers, wind and ice wear the land down slowly. This is called ________.  
+   **Answer:** erosion. *Why:* Erosion is the slow wearing away of land. Plates lift and fold land. Erosion wears it down. Both happen at the same time.
+11. (sort) Sort each clue: does it belong to runny lava or to sticky magma?  
    **Answer:** bubbles escape easily → Runny; builds a wide, low hill → Runny; blasts out clouds of ash → Sticky; builds a steep cone → Sticky; spreads in floods, as in the Deccan → Runny; traps its bubbles until it bursts → Sticky. *Why:* Runny lava lets its bubbles go and flows far. Sticky magma holds its bubbles until the push blows it apart, and what falls builds a steep cone.
-11. (write) Bhuj is far from any plate edge. Explain how it could still have a great earthquake.  
+12. (write) Bhuj is far from any plate edge. Explain how it could still have a great earthquake.  
    **Answer:** A good answer says that India is squeezed as it pushes into Asia, that old cracks from the time India broke from other lands lie under Kutch, and that one of them slipped under the squeeze.. *Why:* The push at the edge is felt far inside the plate. Old faults are weak places, and they can store the squeeze for a very long time before they slip.
-12. (draw) Draw India meeting Asia from the side. Show the Himalaya. Star one place where rock sticks and slips.  
+13. (draw) Draw India meeting Asia from the side. Show the Himalaya. Star one place where rock sticks and slips.  
    **Answer:** A slab from the left sliding under or against a slab on the right, with crumpled mountains above the join and a star on the sloping surface between the two.. *Why:* The Indian plate pushes under the edge of Asia along a sloping fault. The rock above crumples into the Himalaya, and the great earthquakes start on that sloping surface.
-13. (perspective) About 66 million years ago the giant dinosaurs died out. Scientists do not fully agree why.  
+14. (perspective) About 66 million years ago the giant dinosaurs died out. Scientists do not fully agree why.  
    **Answer:** Answers vary. A strong answer picks a view, gives one piece of evidence for it, and names a test, such as dating the lava layers more exactly or finding fossils from just before the asteroid.. *Why:* This is a live debate. The asteroid has the most support, but the lava's part is still being measured. No answer here is marked wrong if it gives evidence.
-14. (odd) Which is the odd one out, and why? Bhuj, Latur, Koyna, Kathmandu.  
+15. (odd) Which is the odd one out, and why? Bhuj, Latur, Koyna, Kathmandu.  
    **Answer:** Kathmandu, because it lies along a plate edge, in the Himalaya. The earthquakes at Bhuj, Latur and Koyna happened far inside the Indian plate.. *Why:* Three of these places surprised people because they are far from the edge. Any other answer with a true reason also counts.
-15. (write) A friend says South India is safe from earthquakes. What would you tell her? Give an example.  
+16. (write) A friend says South India is safe from earthquakes. What would you tell her? Give an example.  
    **Answer:** A good answer says the danger is lower but not zero, and gives an example: Latur in 1993, Koyna in 1967, Coimbatore in 1900, or the tsunami of 2004 that reached Tamil Nadu and Kerala from far away.. *Why:* Rare is not the same as never. Earthquakes inside a plate come seldom, so people are less prepared for them.
-16. (fill) The name Gondwana comes from the land of the ____ people of central India.  
+17. (fill) The name Gondwana comes from the land of the ____ people of central India.  
    **Answer:** ['Gond', 'Gonds']. *Why:* Geologists named the old southern land after the region of the Gond people, where the first rocks of that age were studied.
 ### Read the evidence (challenge, 16 questions)
 1. (mcq) Why does a P wave reach a seismograph before an S wave from the same earthquake?  
@@ -672,7 +675,10 @@ After the call she sat on the steps outside and pressed both palms flat on the w
 13. (mcq) Which of these can scientists do today?  
    Options: Warn seconds after an earthquake starts / Name the day a week ahead / Stop a fault from slipping  
    **Answer:** Warn seconds after an earthquake starts. *Why:* Sensors catch the first waves and send an alert ahead of the strong shaking. Nobody can name the day or stop the slip.
-14. (mcq) The floor starts to shake hard while you are indoors. What do you do first?  
+14. (mcq) Rain and rivers wear a hill down a little every year, and carry the grains away. What is this called?  
+   Options: Erosion / Lava / A seismic wave  
+   **Answer:** Erosion. *Why:* Erosion is the slow wearing away of land by rain, rivers, wind and ice. Lava is melted rock that has reached the surface, and a seismic wave carries an earthquake's energy. Neither wears land away.
+15. (mcq) The floor starts to shake hard while you are indoors. What do you do first?  
    Options: Drop, cover your head, hold on / Run to the lift / Stand at the window to look  
    **Answer:** Drop, cover your head, hold on. *Why:* Most injuries come from falling things and broken windows. Get low under something sturdy and protect your head and neck. Lifts can jam.
 

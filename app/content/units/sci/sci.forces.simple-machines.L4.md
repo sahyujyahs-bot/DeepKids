@@ -103,6 +103,8 @@ In Class 3 you met six simple machines. Look closely and they work in only two w
 - e.g. A moving pulley is a lever in which the load hangs from the middle and the effort is at the end.
 - e.g. A screw is a ramp wound round a rod.
 - e.g. A wheel and axle, such as a well winch, is a lever that goes round.
+- e.g. A kitchen tong, called a chimta in Hindi, is a lever. It turns on its joint, your hand pushes the handles, and the tips grip the food.
+- e.g. A claw hammer pulling a nail is a lever. Its head rests on the wood as the fulcrum, so a small pull on the handle lifts the nail.
 - **Hero of Alexandria:** Listed five simple machines: the lever, wheel and axle, pulley, wedge and screw.
 - **Renaissance thinkers, Galileo:** Listed six. Physicists today say they are really two ideas: the lever and the ramp.
 ### Compound machines: machines made from machines · *defined*
@@ -555,7 +557,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    **Answer:** A bottle hanging from a wheel in a loop of rope, with two upward arrows on the two ropes, each labelled 5 newtons.. *Why:* Two ropes share the 10 newtons equally, so each carries 5 newtons. A strong drawing shows two ropes holding the wheel and both arrows the same length.
 16. (write) A jam jar lid goes down 3 millimetres each turn. Say in your own words why a lid is a ramp.  
    **Answer:** The thread inside the lid is a ramp wound round and round. Each turn climbs one small slope, so the lid moves slowly and firmly.. *Why:* A strong answer says the thread is a ramp wound round, and each turn climbs a little, so a small twist gives a strong push.
-### Pulleys, gears and screws (stretch) (stretch, 17 questions)
+### Pulleys, gears and screws (stretch) (stretch, 18 questions)
 1. (count) These are made-up results from the Count the Ropes test. How many centimetres less did the band stretch in Test C than in Test A?  
    **Answer:** 3. *Why:* The bar for A is 8 and the bar for C is 5. 8 take away 5 is 3 centimetres less.
 2. (mcq) In made-up results from the Count the Ropes test, Test A (the straight lift) stretched the band 8 centimetres and Test C (the moving reel) stretched it 5 centimetres. Exactly half of A would be 4. What is the best reason for the difference?  
@@ -594,6 +596,8 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
    **Answer:** Lever, because the other three belong to the ramp family.. *Why:* A wedge, a screw and a slope all work like a ramp. A lever works by turning round a fulcrum.
 17. (write) A cyclist reaches a steep hill. Should she change to a bigger or a smaller gear at the back? Explain.  
    **Answer:** A bigger gear at the back. The wheel turns fewer times for each pedal turn, but with more strength, which helps up the hill.. *Why:* A strong answer says the big back gear gives more turning strength and fewer wheel turns for each pedal turn, which is the same trade of speed for strength.
+18. (fill) A chimta, or kitchen tong, is a lever. It turns on its ____, and your hand pushes the two handles.  
+   **Answer:** ['joint', 'fulcrum', 'pivot', 'hinge']. *Why:* The joint is the fulcrum. Your hand gives the effort at the handles, and the tips at the other end hold the food.
 ### Pulleys, gears and screws (challenge) (challenge, 17 questions)
 1. (count) You pull with the strength of 6 kilograms on a tackle with 5 ropes holding the load. Ignoring friction, how many kilograms is the load?  
    **Answer:** 30. *Why:* 5 ropes each carry 6 kilograms, so the load is 5 times 6, which is 30 kilograms.
@@ -669,10 +673,13 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 10. (mcq) The six simple machines are really which two ideas?  
    Options: The lever and the ramp / The wheel and the rope / The push and the pull  
    **Answer:** The lever and the ramp. *Why:* The pulley and the wheel and axle are kinds of lever. The wedge and the screw are kinds of ramp. Both trade force for distance.
-11. (mcq) Why is it a good idea to repeat each test in an experiment twice or more?  
+11. (mcq) Which of these everyday tools is a lever?  
+   Options: A kitchen tong, the chimta, which turns on its joint / A ramp of planks leaning on a step / A screw in a jar lid  
+   **Answer:** A kitchen tong, the chimta, which turns on its joint. *Why:* A tong turns on its joint, which is its fulcrum, so it is a lever. A ramp and a screw both belong to the ramp idea, not the lever idea.
+12. (mcq) Why is it a good idea to repeat each test in an experiment twice or more?  
    Options: To check that the result is steady and not a fluke / Because the band was tired / To make the bottle lighter  
    **Answer:** To check that the result is steady and not a fluke. *Why:* If two tries are close, we can trust the result. If they differ a lot, one try may have been a fluke, and we need to look for the cause.
-12. (mcq) Why has nobody built a machine that gives out more work than it takes in?  
+13. (mcq) Why has nobody built a machine that gives out more work than it takes in?  
    Options: Energy cannot be made from nothing, so a machine only passes it on / Nobody has tried hard enough / Machines are too small  
    **Answer:** Energy cannot be made from nothing, so a machine only passes it on. *Why:* Every careful test has shown the same result. Physicists link it to the laws of nature not changing from one day to the next.
 
