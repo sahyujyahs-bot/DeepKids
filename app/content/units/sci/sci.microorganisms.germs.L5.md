@@ -760,7 +760,7 @@ The rains washed most of the charcoal off the back wall that June. Gowri did not
    **Answer:** Any view with a reason. The nurse's view fits what is known: TB travels on the air road, so fresh air and treatment block it, and staying away from a person who is on treatment does little. The person with TB needs care. Fear is understandable, but facts show what helps.. *Why:* Strong answers use the air road and the fact that medicine lowers the chance of spreading.
 15. (label) Label the three parts of this artery.  
    **Answer:** ['Part A: a fatty layer on the wall', 'Part B: a clot', 'Part C: the space left for blood']. *Why:* A fatty layer narrows the tube. A clot on the layer can block the space that is left for blood. The part of the body beyond the block gets no oxygen.
-16. (truefalse) A child with typhoid must be sent to another house so that nobody catches it.  
+16. (truefalse) A child had measles. Now she breathes fast and has chest pain. What is the worry?  
    **Answer:** False. *Why:* False. Typhoid spreads by water, food and unwashed hands. The ill child needs care, their own cup and plate, and a carer who washes hands with soap. Being sent away hurts the child.
 17. (match) Match each unclean habit to a disease that can follow it.  
    **Answer:** Drinking water with sewage in it → Cholera or typhoid; A shared towel and bedding → Scabies or ringworm; Eating without washing hands after the toilet → Diarrhoea or hepatitis A; Spitting on the ground → TB or a cold spreads. *Why:* Each habit opens a germ road. Sewage in water and unwashed hands open the water and food road. Shared cloth opens the touch road.

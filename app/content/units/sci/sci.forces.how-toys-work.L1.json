@@ -62,7 +62,8 @@
    "examples": [
     "In the slope test, the ball and the bottle rolled, and the book stayed still.",
     "Car and cycle wheels are round, so they roll along the road.",
-    "A lumpy potato rolls a little, stops on a flat bit, then rolls again."
+    "A lumpy potato rolls a little, stops on a flat bit, then rolls again.",
+    "A belan, the rolling pin for chapatis, is round, so it rolls over the dough. A bicycle wheel is round too, so the cycle rolls along the road."
    ],
    "perspectives": [
     {
@@ -146,7 +147,8 @@
    "examples": [
     "In Twist and Let Go, more twists made the sock spin for longer.",
     "A pull-back car goes further when you pull it back further.",
-    "An old wall clock stops if nobody winds its key."
+    "An old wall clock stops if nobody winds its key.",
+    "A wind-up alarm clock works the same way. Winding it stores your push in a spring inside, and the spring slowly gives the push back to turn the hands."
    ],
    "perspectives": [
     {
@@ -1523,6 +1525,13 @@
      ],
      "a": 0,
      "why": "The toy moves only while the spring unwinds. When the spring has given back all your winding, the toy stops. Wind it again to go again."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a bicycle wheel is round. What does the wheel do when the cycle moves along the road?",
+     "lines": 2,
+     "a": "The wheel rolls round and round, and the cycle moves forward.",
+     "why": "A strong answer says the wheel is round, so it rolls, and the rolling moves the cycle."
     }
    ]
   },
@@ -1798,6 +1807,18 @@
    "a": 0,
    "why": "The slope started it. Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A belan, the rolling pin for chapatis, rolls easily over the dough. Why?",
+   "opts": [
+    "It is round where it touches the dough",
+    "It is made of wood",
+    "It is heavy"
+   ],
+   "a": 0,
+   "why": "A round thing rolls, because its round side touches the dough. Wood or weight does not make a flat box roll.",
+   "outcome": 0
   }
  ],
  "videos": [

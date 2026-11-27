@@ -369,7 +369,8 @@
    "examples": [
     "Before an MRI scan, people are asked to take off keys, hairpins and belts.",
     "A ship built to find sea mines has a hull that magnets do not attract.",
-    "A fridge door seal holds because the fridge door is a magnetic steel."
+    "A fridge door seal holds because the fridge door is a magnetic steel.",
+    "In a scrap yard, a big magnet on a crane lifts the iron pipes out of a heap and leaves the copper wire and aluminium cans behind."
    ],
    "perspectives": [
     {
@@ -2717,6 +2718,13 @@
      "why": "A strong drawing shows the same atoms in both circles, and a different pattern of arrows.",
      "art": "Two empty circles side by side on a page.",
      "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A scrap dealer says his magnet picks up the copper wire as well as the iron pipes. Explain why he is wrong, using the words magnetic and iron.",
+     "lines": 3,
+     "a": "A strong answer says that iron is magnetic, so the magnet pulls the iron pipes. Copper is not magnetic, so the magnet leaves the copper wire on the heap.",
+     "why": "A magnet pulls only magnetic materials. Iron is one of the three pure magnetic metals. Copper is not."
     }
    ]
   },
@@ -3107,6 +3115,19 @@
    "a": 0,
    "why": "The magnet answers to the metal, not the value or the year. An old cupronickel coin is not attracted, though it buys the same things.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A scrap yard has a heap of mixed metal: iron pipes, copper wire and aluminium cans. What does a big magnet on a crane do?",
+   "opts": [
+    "It pulls the iron pipes out and leaves the copper and aluminium",
+    "It pulls the copper and aluminium out and leaves the iron",
+    "It melts all the metals into one lump",
+    "It turns the copper into iron"
+   ],
+   "a": 0,
+   "why": "Iron is magnetic, but copper and aluminium are not, so the magnet lifts only the iron. A magnet cannot turn one metal into another.",
+   "outcome": 1
   }
  ],
  "videos": [

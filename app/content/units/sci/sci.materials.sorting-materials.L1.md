@@ -14,6 +14,7 @@
 
 ## Terms
 - **Material**: A material is what a thing is made of. Wood, metal, plastic, glass, paper and cloth are materials. *e.g.* A spoon can be made of the material steel, or wood, or plastic.
+- **Key**: A list of yes or no questions that you answer one after another, to find out what a thing is. *e.g.* A key can help you name a leaf or a rock, one question at a time.
 - **Sort**: To sort is to put things that are alike together, and things that are different apart. *e.g.* After washing up, a grandmother sorts the spoons into one tumbler and the forks into another.
 - **Group**: A group is a set of things that are alike in one way. *e.g.* A key, a coin and a steel spoon make a group of metal things.
 - **Test**: A test is something you do to find out an answer, instead of only guessing. *e.g.* Tap a tumbler with a spoon. If it rings with a 'ting', it is probably metal.
@@ -39,6 +40,13 @@ The question 'Is it metal?' makes two groups: metal things and things that are n
 - e.g. 'Is it red?' is a sorting question too, but it tells you nothing about the material.
 - **Scientists:** Use yes or no questions in a key to name a plant or rock, one step at a time.
 - **Slime and putty:** Do not fit the questions well. A mix of cornflour and water acts like a solid when squeezed and a liquid when poured, and so it sits in two groups.
+### A key: yes or no questions, one after another · *defined*
+**Definition:** A key is a set of yes or no questions. Each answer sends you to the next question, until you reach the name of one thing.
+
+A key works like a path. The first question splits the heap in two. You then take one group and ask a second question about only that group. Each answer tells you which question to ask next. A key can help you name a leaf or a rock, one step at a time.
+- e.g. Step 1: Is it metal? Yes goes to step 2. No goes to the group of cloth, paper and wood.
+- e.g. Step 2: Does it sink in water? Yes means the steel spoon. No means the steel katori.
+- e.g. Each answer is only yes or no, so you always know which step comes next.
 ### A test settles a tricky thing · *defined*
 **Definition:** When you are not sure which group a thing belongs in, you can do a test to find out.
 
@@ -273,7 +281,7 @@ She smiled and fell asleep.
   - Check: The steel spoon sank, but the steel katori floated. Why? → **The katori's shape held air inside it**
 
 ## Activities
-### a1 · The Yes-or-No Sort: is it metal? (12 min)
+### a1 · The Yes-or-No Sort: is it metal? (14 min)
 - **safety:** Only the grown-up holds the knife, and only by the handle.
 - **record:** Write the question at the top of a paper. Draw or write the things in the yes circle and the no circle, or take a photo of your circles.
 - **s1 (2 min)**  
@@ -298,6 +306,10 @@ She smiled and fell asleep.
   *Child mode:* Make up a new question. Sort all the things again.
   - Ask: What new groups did your question make? (good: Soft things: the hanky and the paper bag.; Plastic things: the comb and the cap.)
   - Check: You ask 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle? → **The pencil**
+- **s5 (2 min)**  
+  *Parent does:* 1. Write 'Is it metal?' on one card. 2. Under yes, write 'Does it sink in water?'. 3. Under no, write 'Is it cloth or paper?'. 4. Walk the ten things through the cards to a name.  
+  *Parent says:* Each answer tells us which card to read next. Where does the steel spoon end up?  
+  *Child mode:* Read the card. Yes or no? Then go to the next card.
 ### a2 · Odd One Out Trays (10 min)
 - **record:** Take a photo of your best odd-one-out plate, or draw it. Put a ring around the odd one if you draw it.
 - **s1 (4 min)**  
@@ -410,27 +422,29 @@ She smiled and fell asleep.
    **Answer:** A strong answer picks a side with a reason. For the second child: the knife really is made of two materials. For the first child: the blade is the part that does the cutting, so it is fair to group it with metal things.. *Why:* Both are partly right. A thing made of two materials can go in two groups. Which group you choose depends on why you are sorting.
 10. (draw) Draw something at home that is made of two materials. Colour each material a different colour.  
    **Answer:** For example, a pressure cooker with a metal pot and a black plastic handle, in two colours.. *Why:* A strong drawing shows two clear parts, each a different material, and the child can name both.
-### Sorting Materials (stretch) (stretch, 10 questions)
+### Sorting Materials (stretch) (stretch, 11 questions)
 1. (mcq) You have a clear bottle. You do not know if it is glass or plastic. What is a good test?  
    Options: Tap it with a spoon and listen / Look at its colour / Count how many you have  
    **Answer:** Tap it with a spoon and listen. *Why:* Glass goes ting and plastic goes tock. Lifting it helps too: glass is heavier. The colour does not tell you.
 2. (sort) Sort these by the question 'Will it float in water?'  
    **Answer:** A pencil → Floated; A coin → Sank; A wooden spoon → Floated; A key → Sank; A steel katori, right way up → Floated; A steel spoon → Sank. *Why:* Wood floated. The solid metal things sank. The katori floated because its shape held air.
-3. (write) Some people say, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell them? Say it, and a grown-up writes it down.  
+3. (write) Make a key with two questions that tells apart a steel spoon, a steel katori and a pencil. Write the first question. Then write what the yes answer and the no answer lead to.  
+   **Answer:** A good key starts with 'Is it metal?'. Yes leads to 'Does it sink in water?', which tells the spoon from the katori. No leads to the pencil, which is wood.. *Why:* A key works step by step. Metal leads to the sink test, and the sink test tells the spoon from the katori. The pencil is wood, so it goes down the no path.
+4. (write) Some people say, 'Heavy things sink and light things float.' A big wooden log is very heavy. What does it do in a river? What would you tell them? Say it, and a grown-up writes it down.  
    **Answer:** The log floats. So heavy things do not always sink. A small key is light, and it sinks. What a thing is made of, and its shape, matter more than how heavy it is.. *Why:* A strong answer uses an example that does not fit the rule, like a heavy log that floats or a light key that sinks.
-4. (count) In the Sink or Float Sort, the metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?  
+5. (count) In the Sink or Float Sort, the metal group had a spoon, a coin, a key and a katori. Only the katori floated. How many metal things sank?  
    **Answer:** 3. *Why:* 4 metal things, and 1 floated. 4 take away 1 is 3. The spoon, the coin and the key sank.
-5. (label) Here is a pencil. Say what each part is made of, and a grown-up writes the word.  
+6. (label) Here is a pencil. Say what each part is made of, and a grown-up writes the word.  
    **Answer:** ['wood', 'graphite', 'rubber', 'metal']. *Why:* A pencil is wood outside with a grey graphite stick inside. Many pencils have a rubber at the end, held on by a thin metal band. So a pencil belongs to several material groups.
-6. (perspective) Two cousins are sorting the steel katori after the Sink or Float Sort.  
+7. (perspective) Two cousins are sorting the steel katori after the Sink or Float Sort.  
    **Answer:** A strong answer says both are right, because they asked different questions. The first child asked 'What is it made of?' The second child asked 'Does it float?' The katori is metal and it floats, right way up.. *Why:* The same thing can be in different groups when you ask different questions. The groups come from the question.
-7. (draw) Draw a new thing made of steel that you think would float. Show the air inside it.  
+8. (draw) Draw a new thing made of steel that you think would float. Show the air inside it.  
    **Answer:** For example, a steel tiffin box with its lid shut, a steel plate, or a steel boat, with the air coloured in.. *Why:* A strong drawing shows a hollow or wide steel shape that holds air, like the katori.
-8. (write) One child sorted some toys into 'red' and 'not red'. Another child sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.  
+9. (write) One child sorted some toys into 'red' and 'not red'. Another child sorted the same toys into 'plastic' and 'not plastic'. Can both ways be right? Say why. A grown-up can write your answer.  
    **Answer:** Yes. Each question makes its own groups. One child sorted by colour and the other sorted by material. Both are good ways to sort.. *Why:* A strong answer says that the same heap can be sorted in many ways, and each question gives different groups.
-9. (truefalse) All plastic things float in water.  
+10. (truefalse) All plastic things float in water.  
    **Answer:** False. *Why:* False. A bottle cap floats, but many plastic combs sink. There are many kinds of plastic, and they do not all do the same thing.
-10. (sort) Sort these by the question 'Can you see through it?'  
+11. (sort) Sort these by the question 'Can you see through it?'  
    **Answer:** A glass window → Yes; A wooden rolling pin → No; A clear plastic bottle → Yes; A steel tumbler → No; A glass jar → Yes; A paper bag → No. *Why:* Glass and clear plastic let light through, so you can see through them. Wood, steel and paper do not.
 
 ## Videos
@@ -469,6 +483,9 @@ She smiled and fell asleep.
 10. (mcq) You guessed that all the metal things would sink. The katori floated. What does that tell you?  
    Options: Your guess was wrong for the katori, so you learned something new / The test went wrong / The katori is not really metal  
    **Answer:** Your guess was wrong for the katori, so you learned something new. *Why:* The katori is metal, and it floated. When a test does not match a guess, you learn something new.
+11. (mcq) In a key of yes or no questions, what does each answer tell you?  
+   Options: Which question to ask next / What colour the thing is / How heavy the thing is  
+   **Answer:** Which question to ask next. *Why:* Each yes or no answer sends you to the next question, until you reach one thing. The colour and the weight do not set the path in a key.
 
 ## Applications
 - Kabadiwalas and recycling workers sort paper, plastic, glass and metal, so each can be made into new things.

@@ -116,6 +116,22 @@
    "art": "A child's notebook with a big cloud of wonderings at the top, and arrows down to three small, clear questions, each with a tiny picture of what to look at."
   },
   {
+   "concept": "Five ways to find out",
+   "status": "defined",
+   "definition": "The five main ways to find out are research, a fair test, observing over time, classifying and pattern seeking. Each one fits a different kind of question.",
+   "description": "Research means finding the answer in a book or a trusted source, when we cannot test it ourselves. A fair test changes one thing and keeps everything else the same, so we see what that one thing does. Observing over time means looking again and again, at set times, as with the cut apple. Classifying means sorting things into groups by what they have in common. Pattern seeking means looking across many records for something that keeps coming back, such as Tycho's star positions night after night. Choose the way that fits your question.",
+   "examples": [
+    "To learn how a weaver bird builds its nest, read a bird book or ask a bird watcher.",
+    "To see whether sunlight makes beans sprout faster, put beans in the sun and in a cupboard, and change nothing else.",
+    "Drawing the same tulsi bud every morning for a week shows how it opens.",
+    "Sorting the leaves in a garden into smooth and rough edges is classifying.",
+    "Counting the rainy days each month for a year may show when the monsoon comes."
+   ],
+   "perspectives": [],
+   "context": "This card names the five ways to find out, so a child can choose one for a question.",
+   "art": "Five small pictures in a row: a bird book, two bean pots in sun and shade, a tulsi bud drawn each morning, leaves sorted into two piles, and a calendar with rain clouds on some days."
+  },
+  {
    "concept": "Making a plan before you start",
    "status": "defined",
    "context": "This card says what goes into a plan for finding something out, and why each part matters.",
@@ -1998,6 +2014,18 @@
    "a": 1,
    "why": "A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You want to know whether a bean sprouts faster in sunlight or in a dark cupboard. Which way of finding out is this?",
+   "opts": [
+    "A fair test, changing only the light",
+    "Pattern seeking, looking across many records",
+    "Classifying, sorting beans into groups"
+   ],
+   "a": 0,
+   "why": "A fair test changes one thing, the light, and keeps the rest the same. Sorting beans into groups and looking for patterns in records do not test the light.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -2117,6 +2145,34 @@
      ],
      "a": "see items",
      "why": "Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look."
+    },
+    {
+     "t": "match",
+     "p": "Match each way of finding out to an example.",
+     "pairs": [
+      [
+       "Research",
+       "find the answer in a book or a trusted source, when we cannot test it ourselves"
+      ],
+      [
+       "Fair test",
+       "change one thing, keep everything else the same, and watch what changes"
+      ],
+      [
+       "Observing over time",
+       "look again at set times, and write down each look"
+      ],
+      [
+       "Classifying",
+       "sort things into groups by what they have in common"
+      ],
+      [
+       "Pattern seeking",
+       "look across many records for something that keeps coming back"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each way answers a different kind of question. A strong answer can give an example from home for each one."
     },
     {
      "t": "write",

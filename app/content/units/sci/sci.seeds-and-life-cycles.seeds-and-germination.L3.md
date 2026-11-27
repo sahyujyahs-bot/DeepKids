@@ -49,6 +49,7 @@ Seed leaves are the first leaves of the baby plant, already inside the seed. Sci
 - e.g. Chana and moong split into two halves. They have two seed leaves.
 - e.g. A soaked maize kernel does not split in two. Their baby plant is a small pale patch on one side.
 - e.g. Popcorn pops because water in the starchy food store turns to steam and bursts it open.
+- e.g. Chana, also called gram, and green peas, called matar, both split into two halves. Each has two seed leaves.
 ### What wakes a seed: water, warmth and air · *defined*
 **Definition:** Germination is a seed waking up and starting to grow. Most seeds need three things to germinate: water, warmth and air.
 
@@ -121,6 +122,8 @@ Some seeds wake as soon as they are wet. Others wait for a sign that the time is
 - e.g. Apple seeds, and the seeds of many mountain wildflowers, sprout only after weeks of cold.
 - e.g. Some plants of Australia and South Africa sprout in great numbers after a bush fire.
 - e.g. Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in.
+- e.g. In the Thar desert of Rajasthan, the seeds of many wild plants lie dry in the sand until the rain comes. After a good monsoon rain, they sprout.
+- e.g. Some mosquito eggs stay dry on the ground for months. When rain floods the place, the eggs hatch.
 - **Most seed scientists:** A seed has sensors for water, warmth, light and some chemicals. The seed's hormones, which are chemical messages, add up these signals, a bit like a set of switches.
 - **Some plant scientists:** This adding up of signals is a simple kind of decision-making. A brain is one kind of hardware for it, and a seed does it with chemical switches. Others say 'decision' is the wrong word for chemistry. Scientists still argue about it.
 ### Seeds in space and on the Moon · *defined*
@@ -606,7 +609,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Wait: Check after 2 days
 
 ## Worksheets
-### Seed Detective (core) (core, 16 questions)
+### Seed Detective (core) (core, 17 questions)
 1. (draw) Draw a seed opened in half. Label the seed coat, the baby plant and the food store.  
    **Answer:** A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.. *Why:* Every seed has these three parts.
 2. (fill) The tough outer skin of a seed is called the seed ____.  
@@ -633,18 +636,20 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 11. (mcq) Why does a bean seed have two fat halves full of food?  
    Options: To make the seed heavy so they don't blow away / To feed the baby plant until their leaves can make food / So animals can eat them  
    **Answer:** To feed the baby plant until their leaves can make food. *Why:* The food store feeds the baby plant while they are still underground, with no light. Animals do eat seeds, but that is not why the seed has food. The food is for the baby plant.
-12. (write) Think of your own five-cup test. Which cup surprised you most? Say what you guessed, what you saw, and what it shows.  
+12. (truefalse) Green peas and rice grains both split into two halves when soaked.  
+   **Answer:** False. *Why:* False. Green peas are beans with two thick seed leaves, so they split. A rice grain has one thin seed leaf and does not split in two.
+13. (write) Think of your own five-cup test. Which cup surprised you most? Say what you guessed, what you saw, and what it shows.  
    **Answer:** Any honest answer with all three parts. For example: I guessed the cup under water would sprout best, because that cup had the most water. But hardly any seeds sprouted there. This shows that seeds need air as well as water.. *Why:* A strong answer compares the guess with the result, and says what a seed needs.
-13. (order) Put these in order, from first to last, as a bean sprouts.  
+14. (order) Put these in order, from first to last, as a bean sprouts.  
    **Answer:** order shown. *Why:* First the seed drinks and swells, which splits the coat. The root comes first, then the shoot. Leaves open last, once the shoot reaches the light.
-14. (mcq) Why do we put 10 seeds in each cup, not just 1?  
+15. (mcq) Why do we put 10 seeds in each cup, not just 1?  
    Options: Because one seed might be dead, and 10 give a fairer answer / Because seeds get lonely / Because 10 is a lucky number  
    **Answer:** Because one seed might be dead, and 10 give a fairer answer. *Why:* Some seeds don't sprout even when everything is right. If we used only one, a single dead seed could fool us. With 10, one dead seed matters much less.
-15. (write) A moong seed is sown in a pot of dry soil on a sunny windowsill. Nobody waters the pot. Will the seed sprout? Explain.  
+16. (write) A moong seed is sown in a pot of dry soil on a sunny windowsill. Nobody waters the pot. Will the seed sprout? Explain.  
    **Answer:** No. The seed has warmth and air, and sunlight, but no water. Water is what wakes a seed up. Sunlight does not help a seed start, because the seed has their own food.. *Why:* A strong answer names the missing need, water, and says that the sun does not make up for it.
-16. (truefalse) A seed that swells up in water must be alive.  
+17. (truefalse) A seed that swells up in water must be alive.  
    **Answer:** False. *Why:* False. A boiled seed swells up in water too, like a sponge, but never sprouts. Swelling is only the seed soaking up water. Sprouting a root shows that a seed is alive.
-### How Seeds Wake Up (stretch) (stretch, 15 questions)
+### How Seeds Wake Up (stretch) (stretch, 16 questions)
 1. (mcq) In the warm flask test, one flask held live sprouting moong and the other held boiled moong. Why did we use boiled seeds in the second flask?  
    Options: To cook them for dinner / Because boiled seeds sprout faster / So the only difference between the flasks was whether the seeds were alive  
    **Answer:** So the only difference between the flasks was whether the seeds were alive. *Why:* A fair test changes only one thing. Both flasks had the same wet seeds, but only one lot was alive. So any difference in warmth must come from being alive. Picking 'sprout faster' is wrong. Boiled seeds never sprout.
@@ -678,7 +683,9 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
    **Answer:** True. *Why:* True. A dry, cool seed uses their food very slowly, so they can wait for a long time. Some seeds buried in bottles for more than 140 years still sprouted.
 14. (perspective) A group of neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.  
    **Answer:** A strong answer uses what seeds need. Soaking gives the seed water early, so they wake sooner, as the terrace gardener says. But a seed also needs air, and soggy soil leaves no air, so the next-door neighbour's worry is real. The child's plan gives water without drowning the seed. A strong answer picks one and admits what another gets right.. *Why:* There is a real trade-off. Water wakes a seed, but too much water and too little air make the seed rot. The best plan depends on how wet and cold the soil is.
-15. (write) Moong is soaked on a cold December night in Ooty. The next evening the seeds still have no tails. Suggest two ways to help them sprout, and say why each one works.  
+15. (truefalse) Some mosquito eggs can lie dry on the ground for months, and hatch when rain floods the place.  
+   **Answer:** True. *Why:* True. Like seeds, these eggs wait for the right sign, which is water. The rain floods the ground and the eggs hatch.
+16. (write) Moong is soaked on a cold December night in Ooty. The next evening the seeds still have no tails. Suggest two ways to help them sprout, and say why each one works.  
    **Answer:** Move the bundle somewhere warmer, for example near the kitchen stove but not on it, because warmth makes the changes inside a seed go faster. Wrap the cloth in a towel, because then the warmth the seeds make by breathing stays in. Keep the seeds damp, and keep air around them.. *Why:* A strong answer names warmth as the missing need, and keeps water and air too.
 ### Seed Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Where did the energy in a seed's food store first come from?  
@@ -731,40 +738,46 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 2. (mcq) What are the two big halves of a split chana?  
    Options: The roots / Two baby plants / The seed coat / The food store, in their two seed leaves  
    **Answer:** The food store, in their two seed leaves. *Why:* They are seed leaves packed with food. The thin seed coat is outside them, and the tiny baby plant sits between them. Picking 'two baby plants' mixes up the food store with the baby plant that the store feeds.
-3. (mcq) Which three things do most seeds need to sprout?  
+3. (mcq) Which of these splits into two halves, like chana?  
+   Options: Green peas (matar) / Rice grain / Maize kernel  
+   **Answer:** Green peas (matar). *Why:* Green peas are beans, with two thick seed leaves, so they split neatly. Rice and maize are grains with one thin seed leaf. A soaked maize kernel does not split in two.
+4. (mcq) Which three things do most seeds need to sprout?  
    Options: Sunlight, soil and water / Water, warmth and air / Soil, fertiliser and sunlight / Only water  
    **Answer:** Water, warmth and air. *Why:* Water wakes the seed, warmth makes them work faster and air lets them breathe. Picking 'sunlight and soil' is the most common mistake. A seed carries their own food.
-4. (mcq) When a bean shoot pushes up through the soil, the top is bent over like a hook. Why does the shoot grow bent, not straight?  
+5. (mcq) Some wild seeds in the Thar desert, and some mosquito eggs, lie dry until the rain comes. What wakes them?  
+   Options: Rain soaking into the sand, or flooding the ground / Hot wind blowing across the dunes / The darkness of the night  
+   **Answer:** Rain soaking into the sand, or flooding the ground. *Why:* Water is the sign they wait for. Rain soaks into the sand and the seed drinks and swells. Rain floods the ground and the eggs hatch. Wind and darkness do not wet a seed or an egg, so they do not wake them.
+6. (mcq) When a bean shoot pushes up through the soil, the top is bent over like a hook. Why does the shoot grow bent, not straight?  
    Options: The shoot is too weak to stand up / The shoot is looking for water / The bend pushes through the soil first, so the soft tip and tiny leaves are not scraped / The bend makes the shoot grow faster  
    **Answer:** The bend pushes through the soil first, so the soft tip and tiny leaves are not scraped. *Why:* Soil is rough and gritty. The bent part of the stem goes first and clears the way, and the soft growing tip is tucked behind it. Once the shoot reaches the light, the hook straightens and the leaves open. Picking 'too weak' is a fair guess, but the same shoot stands straight once they are in the light.
-5. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Which cup tests whether seeds need warmth?  
+7. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Which cup tests whether seeds need warmth?  
    Options: The fridge cup / The dry cup / The cup under water / The cup in the light  
    **Answer:** The fridge cup. *Why:* The fridge cup has water and air, but is cold. So it tests warmth. Picking the dry cup mixes up warmth and water.
-6. (mcq) Why must a fair test change only one thing?  
+8. (mcq) Why must a fair test change only one thing?  
    Options: So we know which thing made the difference / So the test is quicker / So more seeds sprout  
    **Answer:** So we know which thing made the difference. *Why:* If we changed two things at once, we would not know which one caused the result. Picking 'quicker' misses the point. Fair tests are about trusting the answer.
-7. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Look at the chart. How many more seeds sprouted in the damp warm cup than in the fridge cup?  
+9. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Look at the chart. How many more seeds sprouted in the damp warm cup than in the fridge cup?  
    Options: 9 more / 8 more / 10 more / 1 more  
    **Answer:** 8 more. *Why:* The damp, warm cup had 9 and the fridge cup had 1. 9 take away 1 is 8. Picking 9 means reading just the damp cup's bar, not the difference.
-8. (mcq) A cloth bundle of sprouting moong feels warm in the middle. Why?  
+10. (mcq) A cloth bundle of sprouting moong feels warm in the middle. Why?  
    Options: The seeds are breathing, which makes warmth / The cloth was ironed / Sprouts are always hot / The water was boiled  
    **Answer:** The seeds are breathing, which makes warmth. *Why:* Sprouting seeds use oxygen to get energy from their stored food. Some energy comes out as warmth. A boiled seed is dead and makes no warmth.
-9. (mcq) Why do seeds sealed under water often go sour and fail to sprout?  
+11. (mcq) Why do seeds sealed under water often go sour and fail to sprout?  
    Options: They have too much food / Water is poisonous to seeds / They cannot get enough air to breathe  
    **Answer:** They cannot get enough air to breathe. *Why:* Water holds only a little oxygen. Seeds sealed under it cannot breathe well, so they fail and go sour. Picking 'poisonous' is wrong. Seeds need water, just not too much of it.
-10. (mcq) What happens to a seed's food store as the seedling grows?  
+12. (mcq) What happens to a seed's food store as the seedling grows?  
    Options: It grows bigger / It gets used up, so the seed halves shrink / It turns into roots  
    **Answer:** It gets used up, so the seed halves shrink. *Why:* The baby plant lives on their stored food until their green leaves can make food. So the seed halves shrink. Picking 'grows bigger' is a natural guess, but the food is being eaten, not made.
-11. (mcq) What is the first thing that happens when a dry seed gets wet?  
+13. (mcq) What is the first thing that happens when a dry seed gets wet?  
    Options: Their leaves open / They grow a flower / They drink water and swell / They turn green  
    **Answer:** They drink water and swell. *Why:* The seed soaks up water and swells, often to about twice their weight. Then their coat splits and the root comes out.
-12. (mcq) Lotus seeds have very hard coats. Before soaking them, gardeners rub a little of the coat away on a rough stone. Why?  
+14. (mcq) Lotus seeds have very hard coats. Before soaking them, gardeners rub a little of the coat away on a rough stone. Why?  
    Options: So water can get in and wake the baby plant / To make the seeds lighter / So light can reach the food store / To clean the seeds  
    **Answer:** So water can get in and wake the baby plant. *Why:* A hard coat keeps water out, so a lotus seed can wait for years without sprouting. Rubbing a small patch thin lets water in, and then the seed swells and sprouts in days. Picking 'so light can reach' misses that seeds wake with water, warmth and air, not light.
-13. (mcq) How long can a seed stay alive?  
+15. (mcq) How long can a seed stay alive?  
    Options: Only one week / For ever / Exactly 100 years / It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit.  
    **Answer:** It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit.. *Why:* A date palm seed about 2,000 years old sprouted in 2005. Most seeds last far less. Scientists still do not know the longest a seed can live.
-14. (mcq) The Svalbard Global Seed Vault in Norway keeps seeds from all over the world at about minus 18 degrees Celsius. Why so cold?  
+16. (mcq) The Svalbard Global Seed Vault in Norway keeps seeds from all over the world at about minus 18 degrees Celsius. Why so cold?  
    Options: Cold slows everything inside a seed, so they use their food very slowly and stay alive longer / Cold makes the seeds sprout faster later / Seeds grow best in snow  
    **Answer:** Cold slows everything inside a seed, so they use their food very slowly and stay alive longer. *Why:* Warmth and water wake a seed and make them use up their food. Dry and cold keep them resting. Scientists still do not know how long seeds kept like this can live. Picking 'sprout faster' mixes up storing seeds with sprouting them.
 

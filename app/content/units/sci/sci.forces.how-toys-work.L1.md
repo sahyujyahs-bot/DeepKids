@@ -28,6 +28,7 @@ In the slope test, the ball, the bottle and the round pencil rolled. The book an
 - e.g. In the slope test, the ball and the bottle rolled, and the book stayed still.
 - e.g. Car and cycle wheels are round, so they roll along the road.
 - e.g. A lumpy potato rolls a little, stops on a flat bit, then rolls again.
+- e.g. A belan, the rolling pin for chapatis, is round, so it rolls over the dough. A bicycle wheel is round too, so the cycle rolls along the road.
 - **Early cart makers:** Little clay toy carts with wheels have been found at Harappan sites. The wheel was used in play and work.
 - **Physicists:** Say rolling takes much less effort than sliding, because the part touching the ground is momentarily still. Friction is far smaller for rolling.
 ### A rolling thing's shape steers it · *defined*
@@ -62,6 +63,7 @@ In Twist and Let Go, you twisted the sock on its string ten times. When you let 
 - e.g. In Twist and Let Go, more twists made the sock spin for longer.
 - e.g. A pull-back car goes further when you pull it back further.
 - e.g. An old wall clock stops if nobody winds its key.
+- e.g. A wind-up alarm clock works the same way. Winding it stores your push in a spring inside, and the spring slowly gives the push back to turn the hands.
 - **Robert Hooke:** In 1660 he found that a spring pushes back in proportion to how far it is stretched. This is Hooke's law.
 - **Biologists:** Find that living beings store energy in springy parts too. In a human leg the Achilles tendon stretches like a spring and gives back energy on each step.
 
@@ -419,7 +421,7 @@ Ammamma clapped, and Tara wrote it in her science book.
   - Check: Why do two cups taped wide end to wide end roll straight? → **Both ends are now the same width**
 
 ## Worksheets
-### Roll, Bounce or Spin? (core) (core, 10 questions)
+### Roll, Bounce or Spin? (core) (core, 11 questions)
 1. (sort) Will it roll or stay still on a slope? A grown-up reads each one. Circle the rollers in red and the stay-stills in blue.  
    **Answer:** A ball → Rolls; A book → Stays still; An orange → Rolls; A matchbox → Stays still; A bottle on its side → Rolls; A flat eraser → Stays still. *Why:* Round things roll. Things with flat sides stay still, or slide if the slope is steep. A strong answer says round or flat.
 2. (mcq) A toy cart has one big wheel and one small wheel on the same bar. Which way does it go when you push it?  
@@ -443,6 +445,8 @@ Ammamma clapped, and Tara wrote it in her science book.
 10. (mcq) Why does a wind-up toy stop after a while?  
    Options: Its spring has unwound all the way / Its wheels fall off / It runs out of air  
    **Answer:** Its spring has unwound all the way. *Why:* The toy moves only while the spring unwinds. When the spring has given back all your winding, the toy stops. Wind it again to go again.
+11. (write) Say it out loud, and a grown-up writes it: a bicycle wheel is round. What does the wheel do when the cycle moves along the road?  
+   **Answer:** The wheel rolls round and round, and the cycle moves forward.. *Why:* A strong answer says the wheel is round, so it rolls, and the rolling moves the cycle.
 ### How Toys Move (stretch) (stretch, 10 questions)
 1. (mcq) A child drops a ball once on a soft pillow and once on hard tiles. Where does it bounce higher?  
    Options: On the hard tiles / On the soft pillow / Just the same  
@@ -504,6 +508,9 @@ Ammamma clapped, and Tara wrote it in her science book.
 10. (mcq) A ball rolls down a slope and nobody pushes it. What started it moving?  
    Options: The slope / Its colour / Nothing at all  
    **Answer:** The slope. *Why:* The slope started it. Every toy starts moving with a push or a pull, from a hand, a foot, a slope or a spring.
+11. (mcq) A belan, the rolling pin for chapatis, rolls easily over the dough. Why?  
+   Options: It is round where it touches the dough / It is made of wood / It is heavy  
+   **Answer:** It is round where it touches the dough. *Why:* A round thing rolls, because its round side touches the dough. Wood or weight does not make a flat box roll.
 
 ## Applications
 - Every car, bus, auto and cycle rolls on round wheels.

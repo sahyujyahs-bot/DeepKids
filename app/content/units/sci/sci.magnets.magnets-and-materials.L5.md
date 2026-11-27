@@ -137,6 +137,7 @@ A hospital MRI scanner takes pictures of the inside of a body with a very strong
 - e.g. Before an MRI scan, people are asked to take off keys, hairpins and belts.
 - e.g. A ship built to find sea mines has a hull that magnets do not attract.
 - e.g. A fridge door seal holds because the fridge door is a magnetic steel.
+- e.g. In a scrap yard, a big magnet on a crane lifts the iron pipes out of a heap and leaves the copper wire and aluminium cans behind.
 - **Engineers:** Pick magnetic alloys for motors and non-magnetic ones for tools used near an MRI scanner, whose magnet is strong enough to pull steel into it.
 - **Magnet-sensing animals:** Some bacteria, bees and birds have tiny crystals of magnetite in their bodies, an iron mineral, and use them to sense the Earth's magnetism. Living things choose magnetic materials too.
 ### The same carbon atoms give two answers to a magnet · *defined*
@@ -662,7 +663,7 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
    **Answer:** One bar standing with its end touching the middle of a second bar, in the shape of a T. The standing bar is labelled magnet, with an arrow at the touching end.. *Why:* A strong drawing shows the magnet's end touching the other bar's middle. The pull is at the touching end.
 16. (write) In Four Coins and a Magnet, a magnet lifted two coins and left two. Explain why, using the word alloy.  
    **Answer:** Each coin is an alloy, a mixture of metals. The one-rupee and two-rupee coins are steel, which a magnet attracts. The five-rupee and ten-rupee coins are copper alloys, which it does not.. *Why:* A strong answer says the coins are made of different alloys. It does not say they are heavier or lighter.
-### Why the same iron answers differently (stretch, 17 questions)
+### Why the same iron answers differently (stretch, 18 questions)
 1. (mcq) Kitchen steel holds extra nickel or manganese. What do these extra metals change about the iron atoms?  
    Options: How the atoms are packed / How many atoms there are / The size of each atom / The colour of each atom  
    **Answer:** How the atoms are packed. *Why:* The extra metals make the iron atoms pack in a different pattern. In that pattern, the tiny magnets of neighbours do not line up.
@@ -702,6 +703,8 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
    **Answer:** A strong answer uses the stamps, such as 304 giving no cling and 430 giving a cling. It sees that no cling is not the same as good, and that induction needs a cling.. *Why:* The seller treats a no as proof of quality. The scientist and the cook each name a true reason, for different jobs.
 17. (draw) Draw two zoom circles of atoms with arrows. In one the arrows line up. In the other they do not.  
    **Answer:** Two circles, each with a grid of small balls. In the first all arrows point the same way, labelled coin steel. In the second the arrows point different ways, labelled kitchen steel.. *Why:* A strong drawing shows the same atoms in both circles, and a different pattern of arrows.
+18. (write) A scrap dealer says his magnet picks up the copper wire as well as the iron pipes. Explain why he is wrong, using the words magnetic and iron.  
+   **Answer:** A strong answer says that iron is magnetic, so the magnet pulls the iron pipes. Copper is not magnetic, so the magnet leaves the copper wire on the heap.. *Why:* A magnet pulls only magnetic materials. Iron is one of the three pure magnetic metals. Copper is not.
 ### Testing ideas about metals (challenge, 17 questions)
 1. (mcq) Before 1903, every magnetic alloy that anyone had tested held iron, nickel or cobalt. What did that show?  
    Options: That it fitted every alloy tested so far, and that is all / That no other magnetic alloy can exist / That the rule was proved / That Heusler's alloy must hold iron  
@@ -787,6 +790,9 @@ By the end of the term there were seven coins in the jar. Sravani asked if she c
 12. (mcq) In a coin sorter, why might an old coin go to the wrong cup?  
    Options: Its metal differs from a new coin of the same value / It is older, so it is heavier / The magnet knows the year / The slope remembers it  
    **Answer:** Its metal differs from a new coin of the same value. *Why:* The magnet answers to the metal, not the value or the year. An old cupronickel coin is not attracted, though it buys the same things.
+13. (mcq) A scrap yard has a heap of mixed metal: iron pipes, copper wire and aluminium cans. What does a big magnet on a crane do?  
+   Options: It pulls the iron pipes out and leaves the copper and aluminium / It pulls the copper and aluminium out and leaves the iron / It melts all the metals into one lump / It turns the copper into iron  
+   **Answer:** It pulls the iron pipes out and leaves the copper and aluminium. *Why:* Iron is magnetic, but copper and aluminium are not, so the magnet lifts only the iron. A magnet cannot turn one metal into another.
 
 ## Applications
 - Scrap dealers pull steel out of a mixed heap with a magnet. Copper, brass and aluminium stay behind and are sorted another way.

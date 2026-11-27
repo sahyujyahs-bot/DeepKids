@@ -154,7 +154,8 @@
    "examples": [
     "Chana and moong split into two halves. They have two seed leaves.",
     "A soaked maize kernel does not split in two. Their baby plant is a small pale patch on one side.",
-    "Popcorn pops because water in the starchy food store turns to steam and bursts it open."
+    "Popcorn pops because water in the starchy food store turns to steam and bursts it open.",
+    "Chana, also called gram, and green peas, called matar, both split into two halves. Each has two seed leaves."
    ],
    "perspectives": [],
    "art": "Side by side: a split chana showing two halves with the baby plant between, and a maize kernel cut open showing one pale baby plant beside a big white food store.",
@@ -360,7 +361,9 @@
    "examples": [
     "Apple seeds, and the seeds of many mountain wildflowers, sprout only after weeks of cold.",
     "Some plants of Australia and South Africa sprout in great numbers after a bush fire.",
-    "Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in."
+    "Gardeners rub very hard seeds with sandpaper, or nick them, so that water can get in.",
+    "In the Thar desert of Rajasthan, the seeds of many wild plants lie dry in the sand until the rain comes. After a good monsoon rain, they sprout.",
+    "Some mosquito eggs stay dry on the ground for months. When rain floods the place, the eggs hatch."
    ],
    "perspectives": [
     {
@@ -1086,6 +1089,12 @@
      "why": "The food store feeds the baby plant while they are still underground, with no light. Animals do eat seeds, but that is not why the seed has food. The food is for the baby plant."
     },
     {
+     "t": "truefalse",
+     "p": "Green peas and rice grains both split into two halves when soaked.",
+     "a": false,
+     "why": "False. Green peas are beans with two thick seed leaves, so they split. A rice grain has one thin seed leaf and does not split in two."
+    },
+    {
      "t": "write",
      "p": "Think of your own five-cup test. Which cup surprised you most? Say what you guessed, what you saw, and what it shows.",
      "lines": 4,
@@ -1296,6 +1305,12 @@
      "lines": 5,
      "a": "A strong answer uses what seeds need. Soaking gives the seed water early, so they wake sooner, as the terrace gardener says. But a seed also needs air, and soggy soil leaves no air, so the next-door neighbour's worry is real. The child's plan gives water without drowning the seed. A strong answer picks one and admits what another gets right.",
      "why": "There is a real trade-off. Water wakes a seed, but too much water and too little air make the seed rot. The best plan depends on how wet and cold the soil is."
+    },
+    {
+     "t": "truefalse",
+     "p": "Some mosquito eggs can lie dry on the ground for months, and hatch when rain floods the place.",
+     "a": true,
+     "why": "True. Like seeds, these eggs wait for the right sign, which is water. The rain floods the ground and the eggs hatch."
     },
     {
      "t": "write",
@@ -2887,6 +2902,18 @@
   },
   {
    "t": "mcq",
+   "p": "Which of these splits into two halves, like chana?",
+   "opts": [
+    "Green peas (matar)",
+    "Rice grain",
+    "Maize kernel"
+   ],
+   "a": 0,
+   "why": "Green peas are beans, with two thick seed leaves, so they split neatly. Rice and maize are grains with one thin seed leaf. A soaked maize kernel does not split in two.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "Which three things do most seeds need to sprout?",
    "opts": [
     "Sunlight, soil and water",
@@ -2896,6 +2923,18 @@
    ],
    "a": 1,
    "why": "Water wakes the seed, warmth makes them work faster and air lets them breathe. Picking 'sunlight and soil' is the most common mistake. A seed carries their own food.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Some wild seeds in the Thar desert, and some mosquito eggs, lie dry until the rain comes. What wakes them?",
+   "opts": [
+    "Rain soaking into the sand, or flooding the ground",
+    "Hot wind blowing across the dunes",
+    "The darkness of the night"
+   ],
+   "a": 0,
+   "why": "Water is the sign they wait for. Rain soaks into the sand and the seed drinks and swells. Rain floods the ground and the eggs hatch. Wind and darkness do not wet a seed or an egg, so they do not wake them.",
    "outcome": 1
   },
   {
