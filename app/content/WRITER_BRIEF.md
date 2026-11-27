@@ -52,7 +52,7 @@ Where the words "lesson" and "unit" appear: families only ever read "this lesson
    - When you must simplify, say so: "Here is what we know so far." Then say what is still missing.
 3. **Many views, open debates, open questions.** Every big idea comes with the different ways of thinking about it (`perspectives`, each with a real `who`), the debates that are still open, including among scientists (`challenging`, `status`), and questions with no single answer (`big_questions`, `open_questions`). Never present one theory as the truth. Give the evidence on each side, then leave it open.
 4. **Plain writing** that a parent and a child understand on first reading (section E).
-5. **Pictures** are public domain, CC0 or CC BY, with credit. Never non-commercial or share-alike. Our own drawings are marked `drawn`. Canva designs are credited "Designed in Canva". Non-commercial or share-alike books are for reading only.
+5. **Pictures** are public domain, CC0, CC BY or Unsplash, always with credit (the photographer's name and "Unsplash" in the `credit` field). Never non-commercial or share-alike. Our own drawings are marked `drawn`. Canva designs are credited "Designed in Canva". Non-commercial or share-alike books are for reading only.
 
 ---
 
