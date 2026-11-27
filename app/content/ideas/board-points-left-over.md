@@ -1,0 +1,62 @@
+# Board points that did not fit the units they were meant for
+
+Kept from the edit run. Each needs its own place: a new unit, a new part in another unit, or a decision to drop it.
+
+- `sci.how-we-know.asking-questions.L4`: Curiosity drives questions, such as why a spinner slows and shakes, and how a charkha twists cotton into thread. — This unit teaches how to tell rival explanations apart. The point is about curiosity and where questions come from, and the spinner example is unclear without a card to hang it on. The charkha is already taught in sci.making-things.cloth.L5, and spinners are in sci.forces.how-toys-work.L1. Neither fits here without forcing it.
+- `sci.how-we-know.asking-questions.L2`: Spot increasing or decreasing patterns in a results table — Edit list says it belongs in how-we-know.fair-tests.L3, not this unit; this unit has no results tables to read for patterns.
+- `sci.environment.pollution.L4`: Names causes and prevention of soil pollution. — This unit is about dirty water only. Soil pollution belongs in the soil unit sci.planet-earth.soil-and-crops (L3 or L4), not here.
+- `sci.states.solids-liquids-gases.L5`: Add solutions (dissolving unit, planned). — A solution is a dissolving idea, and the dissolving unit is still planned. This unit's cards are about the particles of solids, liquids and gases; the melting unit already says what dissolving is (explanations.9 there). Forcing solutions in here would break the flow of this lesson.
+- `sci.body.kidneys-and-waste.L5`: Explain how the brain controls the body — a separate topic, planned for sci.mind.brain-and-nerves; this unit only touches the brain in the ADH chain
+- `sci.animals.birds.L4`: Forest animals sorted into animals on land and birds in the sky, naming one visible feature each (e.g. elephant trunk) — a land-and-sky sort with one visible feature each is a Class 1 to 2 activity; this unit is level 4 and is about beaks, feet and dinosaurs
+- `sci.animals.birds.L4`: Group birds by feather types — feather types would need a card of their own on feathers (down, body and flight feathers); this unit only teaches feathers as a link to dinosaurs, so it does not fit here without a new lesson
+- `sci.environment.pollution.L3`: Chemical colours: food safety angle — the food-colour side belongs in a food unit; the unit teaches the skin, eye and water harm of chemical colours instead
+- `sci.food.balanced-diet.L3`: Add a daily habit plan: waking early, less TV or mobile, and one habit the child will try. — Only the meal-time part (eating without a screen) is about food, so it is used in A Week of Plates. Waking early is a sleep habit and belongs in a daily-routine or health unit.
+- `sci.plants.plant-variety.L3`: animals identified by how they move (fly, swim, walk) — about animals; belongs in an animals unit, not this plants unit
+- `sci.evolution.inheritance.L5`: Living things reproduce in different ways as part of a life cycle, and genetics affects which traits pass on. (Add: compare how different living things reproduce, in a life-cycle unit.) — This unit is about DNA and inheritance between parents and children. Comparing reproduction across living things is a life-cycle topic; it belongs in sci.animals.animal-life-cycles.L3 or a plant life-cycle unit.
+- `sci.planet-earth.soil-and-crops.L4`: Lime and gypsum to treat acidic soil (gypsum part only) — Lime is added and already taught for acidic soil. Gypsum is used on salty or alkaline soil, not acidic soil, so adding it to acidic soil would teach a wrong fact.
+- `sci.forces.simple-machines.L3`: Explain how everyday objects work: torch and fan. — a torch and a fan run on electricity and a motor, not on simple machines; they fit sci.electricity.simple-circuits.L3 or an energy unit, not this one
+- `sci.magnets.magnets-and-materials.L5`: An electric bell — A bell works with an electromagnet, which this unit does not teach; it belongs in an electricity unit
+- `sci.waste.sorting-waste.L2`: (from the earlier chat) Use of a dustbin — Too vague to teach as a point. The unit already teaches which bin each thing goes in, and how to get a milk packet ready (activities.2). If the point means something specific, such as keeping the lids shut or not mixing the bins, it needs saying before it can be written.
+- `sci.habitats.habitats.L3`: Add mountain and plains environments with pine, yak, and crops. — would make the unit's 'four big habitats' (explanations.3, 4, 6 and the table) into six, which is a rewrite of the comparison, not an addition; the edit list itself says the detail belongs in a lands unit (lands-and-lives)
+- `sci.body.kidneys-and-waste.L4`: Water helps digest food and keeps the skin healthy — true, but this unit is about how waste leaves the body; digestion and skin belong in a body or food unit
+- `sci.planet-earth.maps-and-directions.L3`: Reads simple symbolic maps and route maps. — Route maps (such as a metro or railway line map) are not taught in this unit. The unit's card on symbols covers simple maps only. Could be added as a new card in a later pass if wanted, but it is not in the edit list.
+- `sci.how-we-know.fair-tests.L4`: Branching keys for recording — classifying living things with a key belongs in a sorting unit, not a fair-tests unit
+- `sci.water.water-sources-and-uses.L5`: Clean surroundings protect water sources and stop breeding: keep tanks, wells and rivers clean, toilets at home, proper garbage disposal, and no standing water for mosquitoes — The edit text is cut off mid-word at 'for m', and the point itself ends at 'rivers c'. I did not guess the ending. The idea (keeping wells and tanks clean, and no standing water) is a good one for this unit, so it can be written once the full text is sent.
+- `sci.waste.compost-and-disposal.L5`: Hospital colour codes (optional) — only named in one sentence; the colour rules are too detailed for a home lesson
+- `sci.waste.compost-and-disposal.L5`: Dead animals as biogas feed — left out: village family plants use dung and plant waste; not needed for the idea
+- `sci.ecology.cycles-and-decomposers.L5`: Earth is surrounded by an atmosphere, a mixture of gases including nitrogen, carbon dioxide... (and: teach atmosphere as layers around Earth) — The main gases are added as a card example and quiz item. The layers of the atmosphere do not help the carbon and nitrogen cycles, so they do not fit this lesson; they belong in a unit about weather or the air.
+- `sci.states.liquids-up-close.L3`: Water's boiling and freezing points, and expansion on freezing — These are changes of state, taught in the melting and states units; this unit is about how liquids flow and their surface, so forcing them here would break the flow of the lesson.
+- `sci.habitats.water-habitats.L3`: A birdbath is a shallow dish of fresh water with stones, cleaned twice a week, to help birds. — A birdbath is a dish made by people, not a pond, river or sea. This unit is about natural water homes. The birdbath idea already has its home in sci.habitats.local-environments.L1 (challenge c1, Make a Water Place for Birds on a Hot Day).
+- `sci.plants.plant-senses.L2`: Plants and animals respond to changes in their habitats, and children can investigate how. — The plant half is already there: projects.0 p1 Turn the Pot (a plant responds when its pot is turned) and experiments.0 e1 Window Test. The animal half does not fit this plant-senses unit and would need its own card.
+- `sci.light.shadows.L2`: Shadow length changes during the day; infer conditions — Belongs to shadows.L4 (planned); needs the Sun's path across the sky, too much for class 2.
+- `sci.light.shadows.L2`: Explain why shadow length changes and the Sun's apparent movement — Same: L4 topic. Only a short example about morning shadows pointing west is already in the unit.
+- `sci.microorganisms.germs.L5`: Eczema and venereal diseases spread by touching a patient — eczema is not infectious, so teaching it as catching would be false; venereal diseases are not suited to this age, and HIV is already covered in its own card
+- `sci.microorganisms.germs.L5`: Vitamin C foods help colds — the evidence is that vitamin C does not prevent a cold, so the claim was changed to good food and sleep helping the body cope
+- `sci.environment.conservation.L3`: Tells renewable and non-renewable sources of energy apart, with examples — belongs in a class-3 energy unit; this unit is about soil, water, animals and forests
+- `sci.community.festivals.L3`: Foods of Sarhul — I am not certain of one named dish; the card names the offerings and the shared dance instead
+- `sci.microorganisms.helpful-microbes.L4`: Making a diet healthier with sprouting and fermented foods — Sprouting is not done by microbes, so it does not fit this unit. The health claim for fermented foods is not settled science (the gut card calls it debated), so I cannot add it as a fact here. Fermented foods across India are already in the card 'Fermented foods across India'. Suggest a food or nutrition unit for sprouting, and a debated-view card for diet.
+- `sci.animals.animal-babies.L2`: medicines must be used and stored safely — a medicine-safety idea belongs in the diseases-and-medicines unit, not in a lesson on how baby animals grow; it is not about animal babies
+- `sci.classification.sorting-living-things.L4`: Sort and classify objects, materials and living things using tests, observation and research — This unit sorts animals only. Sorting materials by tests belongs in the materials unit (sci.magnets.magnets-and-materials), not here; the test idea is already taught by the Rule Test experiment.
+- `sci.animals.animal-babies.L2`: Medicines must be used and stored safely — a medicine-safety idea; goes in the diseases and medicines unit
+- `sci.animals.birds.L4`: Forest animals sorted into land and sky groups (Class 1 to 2 activity); group birds by feather types — needs its own feather card, and the unit is level 4
+- `sci.plants.plant-variety.L3`: Animals identified by how they move (fly, swim, walk) — belongs in an animals unit
+- `sci.environment.pollution.L4`: Soil pollution causes and prevention — belongs in sci.planet-earth.soil-and-crops
+- `sci.evolution.inheritance.L5`: Compare how different living things reproduce as part of a life cycle — belongs in sci.animals.animal-life-cycles.L3 or a plant life-cycle unit
+- `sci.food.balanced-diet.L3`: Waking early (daily habit plan) — a sleep habit; goes in a daily-routine or health unit
+- `sci.classification.sorting-living-things.L4`: Sort objects, materials and living things using tests — belongs in the materials unit
+- `sci.ecology.cycles-and-decomposers.L5`: Atmosphere as layers around Earth — belongs in a weather or air unit
+- `sci.habitats.water-habitats.L3`: Birdbath — a made object, not a natural water home; its home is sci.habitats.local-environments.L1
+- `sci.how-we-know.asking-questions.L4`: Curiosity drives questions (spinner, charkha) — unclear fit
+- `sci.light.how-we-see.L3`: Shadows from light travelling straight — taught in sci.light.shadows.L2
+- `sci.materials.magnetic-materials.L3`: Separating solid mixtures by size (sieving) — taught in sorting-materials.L3
+- `sci.forces.simple-machines.L3`: Torch and fan — electricity and motors, not simple machines
+- `sci.habitats.habitats.L3`: Mountains and plains as habitats (pine, yak, crops) — would turn four habitats into six; belongs in a lands unit
+- `sci.environment.pollution.L3`: Food-safety side of chemical colours — belongs in a food unit
+- `sci.environment.conservation.L3`: Renewable and non-renewable energy sources — belongs in a class-3 energy unit
+- `sci.how-we-know.fair-tests.L4`: Branching keys — belongs in a sorting unit
+- `sci.microorganisms.germs.L5`: Eczema and venereal diseases 'spread by touch' — eczema is not infectious; HIV has its own card
+- `sci.states.liquids-up-close.L3`: Observes properties of water (boiling, freezing, expansion) — belongs in the changes-of-state units
+- `sci.states.solids-liquids-gases.L5`: Solutions — belongs in the planned dissolving L5
+- `sci.waste.sorting-waste.L2`: Use of a dustbin — too vague to teach; needs the exact wording
+- `sci.food.balanced-diet.L3 / sci.planet-earth.soil-and-crops.L4`: Gypsum for acidic soil — gypsum treats salty or alkaline soil, not acidic: teaching it would be wrong
+- `sci.community.festivals.L3`: A named Sarhul food — unsure of the dish

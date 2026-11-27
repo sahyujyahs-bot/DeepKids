@@ -114,10 +114,22 @@
    "art": "A wheel with curved blades inside a pipe, with arrows of water pushing the blades round."
   },
   {
+   "term": "Windmill",
+   "meaning": "A machine with big blades that the wind turns. It can pump water or grind grain.",
+   "example": "A farmer's windmill pumps water up from a well into the field.",
+   "art": "A windmill with four big blades beside a well and a field channel."
+  },
+  {
    "term": "Generator",
    "meaning": "A machine that changes movement into electrical energy. A turbine turns the generator.",
    "example": "A cycle dynamo is a small generator. The turning wheel makes the lamp light up.",
    "art": "A bicycle wheel turning a small dynamo with a wire to a glowing lamp."
+  },
+  {
+   "term": "Solar cell",
+   "meaning": "A flat panel that changes sunlight straight into electricity. It has no flame and no fuel.",
+   "example": "A solar lantern has a solar cell that charges it all day, and a battery that gives light at night.",
+   "art": "A flat blue solar panel on a roof with sunbeams striking it and a wire running to a small lamp."
   },
   {
    "term": "Appliance",
@@ -136,6 +148,12 @@
    "meaning": "Electricity made without smoke or harmful gases, from sunlight, wind or flowing water.",
    "example": "Solar panels on a roof make clean energy.",
    "art": "Solar panels on a flat roof with a wind turbine on a hill behind."
+  },
+  {
+   "term": "Renewable",
+   "meaning": "A source of energy that the Sun, wind or water renews every day, so that it does not run out.",
+   "example": "Sunlight, wind and flowing river water are renewable. Coal is not, because it took millions of years to form.",
+   "art": "A sun, a wind turbine and a river flowing through a dam, with a circular arrow around them."
   },
   {
    "term": "Pollution",
@@ -190,6 +208,45 @@
    ],
    "perspectives": [],
    "art": "Six panels: clothes drying in sunshine, a girl eating dosa, a gas stove, a fan with a plug, wind turbines on a ridge and water falling through a dam."
+  },
+  {
+   "concept": "Some books list seven kinds of energy",
+   "status": "defined",
+   "definition": "Some school books list seven kinds of energy. That list mixes up sources and forms. This unit names six sources instead.",
+   "description": "The seven in those books are food, solar, wind, hydro, organic, electrical and magnetic. That list mixes up sources, such as the Sun and wind, with a form, electrical. Magnetism is a force, and biogas is a fuel, so neither is a kind of energy on its own. Scientists have no final answer to what energy is. They describe it by what it does. This unit names six sources: the Sun, food, fuel, electricity, wind and flowing water.",
+   "examples": [
+    "Biogas, made from dung and plants, is a fuel. We burn it for heat, as we burn cooking gas.",
+    "Hydro means water. Hydro energy is the energy of flowing and falling water, so it is in our list as flowing water."
+   ],
+   "perspectives": [],
+   "art": "A page from a school book with a list of seven kinds of energy, and a girl's finger moving each one into one of six labelled boxes."
+  },
+  {
+   "concept": "The Sun at work: drying, cooking and electricity",
+   "status": "defined",
+   "definition": "Sunlight carries heat and light. We use both to dry things, to cook and to heat water. Solar cells change sunlight into electricity.",
+   "description": "Sunlight is the oldest energy we use. Farmers spread grain on the ground to dry in the Sun before they store it. Clothes and papads dry on a line, much faster than in shade. A solar cooker is a box with a shiny lid. The lid sends sunlight onto a black pot inside. On a sunny day the pot gets hot enough to cook rice or dal in a few hours. A solar water heater on a roof has black pipes under glass. The Sun heats the water in the pipes. A solar cell is different. It is a flat panel that changes light straight into electricity, with no flame and no fuel. Solar cells light bulbs in homes with no wires, and run calculators and small vehicles. They stop at night, so a battery stores some of the electricity for the dark.",
+   "examples": [
+    "After harvest, rice is spread out in village yards in Odisha to dry in the Sun.",
+    "A solar lantern charges all day on a roof and gives light at night in a village far from the wires.",
+    "Cochin International Airport in Kerala has a large solar plant that supplies the airport's electricity.",
+    "A solar cooker on a school roof cooks a pot of khichdi by afternoon."
+   ],
+   "perspectives": [],
+   "art": "A roof in bright sunshine with a solar water heater, a box cooker with a shiny lid and a flat solar panel, and grain drying on a mat below."
+  },
+  {
+   "concept": "Wind at work: moving air carries energy",
+   "status": "defined",
+   "definition": "Wind is moving air, and moving air carries energy. It can turn a pinwheel, push a sail and turn a windmill.",
+   "description": "Moving air means many air particles travelling the same way together. They push on whatever stands in their path. A paper pinwheel spins when you blow on it. Blow harder, and it spins faster. A sail catches the wind and pushes a boat along. A windmill has big blades that turn in the wind. In windy places, farmers used windmills to pump water up from wells, and to grind grain into flour. Today a tall wind turbine turns a generator and makes electricity. A balloon shows it too. Let go of a blown-up balloon with its mouth open. The air rushes out one way, and the balloon shoots the other way. The squeezed air held stored energy. When it moved, the energy did work. You try this in the Balloon Rocket.",
+   "examples": [
+    "A paper pinwheel from a village fair spins slowly in a breeze and fast in a strong wind.",
+    "A windmill turns in the wind and pumps water up from a well into a field channel.",
+    "A blown-up balloon let go with its mouth open flies across the room."
+   ],
+   "perspectives": [],
+   "art": "A paper pinwheel in a child's hand, a windmill pumping water into a field, and a balloon shooting across a room with lines for the air."
   },
   {
    "concept": "Follow the energy back: an energy chain",
@@ -308,15 +365,31 @@
    "concept": "Using energy well, and keeping the air clean",
    "status": "defined",
    "definition": "An efficient machine does the same job with less energy. Clean energy is made without smoke.",
-   "description": "Every changer gives out some warmth that nobody wanted. An old glass bulb turns most of its electricity into heat, so it is too hot to touch. An LED bulb gives the same light with about one sixth of the electricity. Burning coal, wood and petrol puts smoke and harmful gases into the air. Smoke from a wood fire inside a kitchen harms the lungs of the person cooking, who is most often a woman. Sunlight, wind and flowing water make electricity without smoke, and they do not run out. So a family can help in two ways: use less, and choose cleaner. Switch off fans and lights in empty rooms. Put a lid on the pot. Dry clothes in the Sun.",
+   "description": "Every changer gives out some warmth that nobody wanted. An old glass bulb turns most of its electricity into heat, so it is too hot to touch. An LED bulb gives the same light with about one sixth of the electricity. Burning coal, wood and petrol puts smoke and harmful gases into the air. Smoke from a wood fire inside a kitchen harms the lungs of the person cooking, who is most often a woman. Sunlight, wind and flowing water make electricity without smoke. The Sun renews them every day, so they are called renewable. Coal, petrol and cooking gas took millions of years to form, and we burn them far faster than they come back. So a family can help in two ways: use less, and choose cleaner. Switch off fans and lights in empty rooms. Put a lid on the pot. Dry clothes in the Sun.",
    "examples": [
     "Use a 9 watt LED bulb in place of an old 60 watt bulb. You get the same light for much less electricity.",
     "Put a lid on a pot, so that less cooking gas is needed.",
+    "Soak rice and pulses for half an hour before you cook them. Soaked grains are soft, so they cook in fewer minutes and need less gas.",
+    "Use only as much water as the food needs. Extra water takes extra gas to heat.",
+    "Cook dal and rice in a pressure cooker. It holds the steam in, so the food is ready in much less time than in an open pot.",
     "Use a solar water heater on the roof in place of an electric geyser.",
     "Walk or cycle for short trips, instead of using a vehicle that burns fuel."
    ],
    "perspectives": [],
    "art": "A kitchen with a lidded pot on a small flame and an LED bulb above, and through the window a clothesline in bright sunshine."
+  },
+  {
+   "concept": "Old ways of using nature's energy well",
+   "status": "defined",
+   "definition": "Before electricity, people in India learned to use heat, wind and sunlight well in their homes and on their ships.",
+   "description": "In the cold hills of the Himalaya, many families keep cattle on the ground floor and live on the floor above. The warmth of the cattle's bodies rises into the rooms above, so the family stays warmer in winter. Many old houses in Rajasthan and in Chettinad in Tamil Nadu have an open courtyard in the middle. Hot air rises and leaves through the open top. Cooler air flows in through the rooms to take its place, so the house stays cooler. Vaastu is an old Indian way of planning houses with the Sun, the wind and the directions in mind. Some ideas in it, like the courtyard, can be tested. Others are beliefs that science has not tested. Sailors of the Indian Ocean used the monsoon winds to sail across the Arabian Sea. They came home when the wind turned. A sail needs no fuel. It needs only a clever knowledge of the winds.",
+   "examples": [
+    "A house in the Spiti valley keeps its cattle below and its family above, so the cattle's warmth rises through the floor.",
+    "A courtyard house in Chettinad stays cooler in the afternoon than a closed box of a house.",
+    "A dhow with a triangular sail carries goods along the Gujarat coast with no engine."
+   ],
+   "perspectives": [],
+   "art": "A cut-away of a hill house with cattle below and a family above, beside a courtyard house with arrows of warm air rising and cool air flowing in."
   },
   {
    "concept": "Living bodies are energy changers that never switch off",
@@ -1677,6 +1750,115 @@
      "context": "This is the last step of Before the Machine. You think about who did the work, and what changed for them."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "The Balloon Rocket: can moving air push something along a string?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you hang a string across the room and send a balloon along it. The air rushing out of the balloon pushes it forward. You find out how far it goes with a little air, and with a lot of air.",
+   "materials": [
+    {
+     "item": "a long balloon or a round balloon",
+     "qty": 2
+    },
+    {
+     "item": "about 3 metres of string or thin cotton thread",
+     "qty": 1
+    },
+    {
+     "item": "a plastic straw",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape",
+     "qty": 1
+    },
+    {
+     "item": "two chairs, to hold the string at each end",
+     "qty": 2
+    },
+    {
+     "item": "a ruler or tape to measure the distance",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not blow up a balloon near anyone who is allergic to rubber. Keep a burst balloon away from small children, because they can choke on pieces.",
+   "record": "Draw the balloon, the string and two arrows: one for where the air goes, and one for where the balloon goes. Write how far it travelled with a little air and with a lot of air.",
+   "setup": [
+    {
+     "art": "A string pulled tight between two chairs across a room, with a straw threaded on it.",
+     "caption": "1. Thread the straw on the string, and tie the string between two chairs."
+    },
+    {
+     "art": "A child blowing up a balloon and pinching its neck, while a parent tapes the balloon to the straw.",
+     "caption": "2. Blow up a balloon, pinch it shut, and tape it to the straw."
+    },
+    {
+     "art": "The balloon shooting along the string with lines behind it where the air rushes out.",
+     "caption": "3. Let go, and watch it fly along the string."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Thread the straw on the string. Tie the string between two chairs, about 3 metres apart, and pull it tight. Ask your child what will happen when air rushes out of a balloon, and write the guess.",
+     "say": "We will blow up a balloon and let it go along a string. What do you think will happen? Which way will it go, and why?",
+     "kid": "Thread the straw on the string and pull it tight. Guess what the balloon will do.",
+     "context": "This is the first step of The Balloon Rocket. You set up the string and guess what will happen."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Blow up a balloon a little. Pinch the neck shut with your fingers. Tape the balloon along the straw. Pull the straw and balloon to one end of the string.",
+     "say": "Blow up the balloon a little. Hold the neck shut. Tape the balloon to the straw. Slide it to the end of the string.",
+     "kid": "Blow up a balloon a little. Pinch the neck. Tape it to the straw.",
+     "adult": true,
+     "context": "In this step of The Balloon Rocket you load the balloon on the string."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Let go of the neck and watch the balloon. Measure how far it goes along the string. Then try again with a lot of air in the balloon. Use the same balloon and the same string each time. Change only the amount of air.",
+     "say": "Let go! How far did it go? Now blow it up much more and let go again. Which one went farther?",
+     "kid": "Let go and measure how far the balloon goes. Try again with more air. Write both distances.",
+     "ask": [
+      {
+       "q": "Which way does the air go? Which way does the balloon go?",
+       "good": [
+        "The air goes backwards, out of the neck.",
+        "The balloon goes forwards, the other way."
+       ]
+      }
+     ],
+     "context": "This is the main part of The Balloon Rocket. You let the balloon go, measure, and try again with more air."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Look at the two distances. Ask your child why more air sent the balloon farther. Talk about what pushed the balloon, and where that energy was before you let go.",
+     "say": "What pushed the balloon along the string? Where was the energy before we let go? Why did more air make it go farther?",
+     "kid": "Why did more air send the balloon farther? What pushed it?",
+     "check": {
+      "t": "mcq",
+      "q": "What pushed the balloon along the string?",
+      "options": [
+       "The air rushing out of the neck",
+       "The string pulling it",
+       "The straw making new energy"
+      ],
+      "a": 0,
+      "why": "The squeezed air held stored energy. When it rushed out backwards, it pushed the balloon forwards. The string only guided the balloon. The straw makes no energy, because no machine does."
+     },
+     "parent": "This is the same push that sends a rocket up. The hot gas rushes out of the back, and the rocket moves the other way. In science it is called action and reaction, and children will meet it in later classes.",
+     "context": "This is the last step of The Balloon Rocket. You say what pushed the balloon, and why more air sent it farther."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2140,6 +2322,81 @@
      "a": false,
      "why": "False. Tugging the wire can loosen it from the plug and leave bare wire. Switch off first, then hold the plug by its body.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Sources that the Sun, wind and water renew every day are called ____.",
+     "a": [
+      "renewable"
+     ],
+     "why": "Renewable sources come back every day. Coal, petrol and cooking gas took millions of years to form, so they are not renewable.",
+     "outcome": 2
+    },
+    {
+     "t": "match",
+     "p": "Match each thing to the source of energy it uses.",
+     "pairs": [
+      [
+       "Biogas in a stove",
+       "Fuel"
+      ],
+      [
+       "A kite at Uttarayan",
+       "Wind"
+      ],
+      [
+       "A gharat in the hills",
+       "Flowing water"
+      ],
+      [
+       "A plate of dosa",
+       "Food"
+      ],
+      [
+       "A solar cooker",
+       "The Sun"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Biogas is burned for heat, so it is a fuel. The other four are wind, flowing water, food and the Sun.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these cooking habits. Does each one save gas, or waste it?",
+     "cats": [
+      "Saves gas",
+      "Wastes gas"
+     ],
+     "items": [
+      [
+       "a lid on the pot",
+       "Saves gas"
+      ],
+      [
+       "soaking pulses first",
+       "Saves gas"
+      ],
+      [
+       "a pressure cooker",
+       "Saves gas"
+      ],
+      [
+       "boiling a big pot of water for one cup of tea",
+       "Wastes gas"
+      ],
+      [
+       "cooking with the lid off",
+       "Wastes gas"
+      ],
+      [
+       "lighting the flame before the food is ready to go on",
+       "Wastes gas"
+      ]
+     ],
+     "a": "see items",
+     "why": "Gas is saved when the food cooks in less time, with less water, and with the heat kept in. It is wasted when heat escapes or when we heat more than we need.",
+     "outcome": 6
     }
    ]
   },
@@ -2369,6 +2626,76 @@
      "why": "A strong answer says heat moves only when there is a difference in temperature. It names which way the heat moves in each case.",
      "lines": 4,
      "outcome": 4
+    },
+    {
+     "t": "sort",
+     "p": "Sort these ways of using the Sun. Does each one use the Sun's heat, or make electricity from light?",
+     "cats": [
+      "Uses the Sun's heat",
+      "Makes electricity from light"
+     ],
+     "items": [
+      [
+       "drying grain on a mat",
+       "Uses the Sun's heat"
+      ],
+      [
+       "a solar cooker",
+       "Uses the Sun's heat"
+      ],
+      [
+       "a solar water heater",
+       "Uses the Sun's heat"
+      ],
+      [
+       "a solar lantern",
+       "Makes electricity from light"
+      ],
+      [
+       "a solar street light",
+       "Makes electricity from light"
+      ],
+      [
+       "a small solar car",
+       "Makes electricity from light"
+      ]
+     ],
+     "a": "see items",
+     "why": "A solar cell is the only one of these that changes light into electricity. The cooker, the water heater and the drying mat use the Sun's heat directly.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A paper pinwheel spins slowly in a light breeze and fast in a strong wind. Explain why.",
+     "lines": 3,
+     "a": "Wind is moving air, and moving air carries energy. A strong wind carries more energy, and it pushes the blades harder, so the pinwheel spins faster.",
+     "why": "A strong answer says that moving air carries energy and that more movement means more energy to push the blades.",
+     "outcome": 5
+    },
+    {
+     "t": "match",
+     "p": "Match each old way of using energy to how it works.",
+     "pairs": [
+      [
+       "Cattle on the ground floor",
+       "Their body heat rises into the rooms above"
+      ],
+      [
+       "An open courtyard",
+       "Hot air rises out and cooler air flows in"
+      ],
+      [
+       "A sail on a ship",
+       "The wind pushes the ship with no fuel"
+      ],
+      [
+       "A windmill on a farm",
+       "The wind turns blades that pump water"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each way uses an energy that is already there: warmth from living bodies, rising hot air or the wind. None of them needs fuel or electricity.",
+     "outcome": 2
     }
    ]
   },
@@ -2588,6 +2915,13 @@
      ],
      "why": "Coal is the remains of forests, and petrol comes from tiny sea beings. They lived on sunlight, and their energy was stored for millions of years.",
      "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "Magnetism is one of the six sources of energy that families use every day, like the Sun and the wind.",
+     "a": false,
+     "why": "False. Magnetism is a force. Our six everyday sources are the Sun, food, fuel, electricity, wind and flowing water.",
+     "outcome": 2
     }
    ]
   }
@@ -2738,6 +3072,97 @@
     "More fuel only"
    ],
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we call wind and flowing water renewable sources?",
+   "opts": [
+    "The Sun renews them every day",
+    "People can store them in tanks",
+    "They are free to buy",
+    "They never move"
+   ],
+   "a": 0,
+   "why": "The Sun heats the air and the sea, which drives the wind and the rain that fills rivers. Coal and petrol took millions of years to form, so they are not renewable.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these changes sunlight straight into electricity?",
+   "opts": [
+    "A solar cell",
+    "A solar cooker",
+    "A solar water heater",
+    "Grain drying on a mat"
+   ],
+   "a": 0,
+   "why": "A solar cell makes electricity from light. The cooker, the water heater and the drying mat use the Sun's heat, and make no electricity.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A windmill's blades turn in the wind. What work did old windmills do on farms?",
+   "opts": [
+    "Pumped water up from wells and ground grain",
+    "Made the wind blow harder",
+    "Cooled the grain store",
+    "Lit the fields at night"
+   ],
+   "a": 0,
+   "why": "Moving air carries energy. A windmill changes it into the turning of a pump or a grindstone. It does not make wind or light.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You let go of a blown-up balloon with its mouth open, and it shoots across the room. What does this show?",
+   "opts": [
+    "Moving air carries energy that can push",
+    "Air has no energy",
+    "The balloon makes new energy",
+    "The air outside is colder"
+   ],
+   "a": 0,
+   "why": "The air rushes out one way and pushes the balloon the other way. The energy in the squeezed air does work. No machine makes new energy.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "In some hill villages, families live on the upper floor and keep cattle below. How does this help in winter?",
+   "opts": [
+    "The cattle's body heat rises into the rooms above",
+    "The cattle block the wind",
+    "The cattle give light",
+    "The cattle keep the rain out"
+   ],
+   "a": 0,
+   "why": "Every living body gives out heat, and warm air rises. So the cattle warm the rooms above them, using no fuel at all.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Biogas is made from rotting dung and plants, and it is burned in a stove. Which of our six sources is it?",
+   "opts": [
+    "Fuel",
+    "Wind",
+    "Flowing water",
+    "The Sun"
+   ],
+   "a": 0,
+   "why": "A fuel is burned for heat. Biogas is a fuel, so it is not a separate kind of energy. Some books list 'organic energy', but this unit names it a fuel.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why does soaking dal before cooking save cooking gas?",
+   "opts": [
+    "Soaked dal is soft and cooks in fewer minutes",
+    "Soaked dal makes the flame hotter",
+    "Soaked dal weighs less",
+    "Water in the dal makes gas"
+   ],
+   "a": 0,
+   "why": "A shorter cooking time means less time with the flame on. The flame is not hotter, and the dal makes no gas. Gas is saved only by shorter burning.",
+   "outcome": 6
   }
  ],
  "videos": [
@@ -3117,6 +3542,17 @@
     "ws-challenge"
    ],
    "plan": "Print the game and the core worksheet before the first session."
+  },
+  {
+   "id": "b-balloons",
+   "item": "Balloons, a small pack",
+   "kind": "material",
+   "why": "Used in The Balloon Rocket: can moving air push something along a string?. About ₹20 to ₹50 for a pack. Any party balloon works.",
+   "url": "https://www.amazon.in/s?k=balloons",
+   "used_in": [
+    "a6"
+   ],
+   "plan": "Get them before The Balloon Rocket: can moving air push something along a string?."
   }
  ],
  "warmup": [
@@ -3289,6 +3725,7 @@
    "g1",
    "ws-core",
    "a3",
+   "a6",
    "a4",
    "videos",
    "how_we_found_out",

@@ -113,7 +113,7 @@ Most Indian cities get water from rivers, lakes and reservoirs, and from the gro
 ### Everyday habits that protect the environment · *defined*
 **Definition:** Small habits at home and in the street protect soil, water, air and living beings. Many families doing them together make a big difference.
 
-Plant a tree and look after it. Keep your surroundings clean, and put rubbish in a bin. Put peels and dry leaves in a compost pit. Save water. If you see a factory or a neighbour burning plastic or pouring dirty water into a drain or river, tell a grown-up, who can report it to the local office or the State Pollution Control Board. Use fewer chemicals, such as strong cleaners and sprays. On farms, organic farming grows crops without chemical fertiliser or pesticide. It uses compost, cow dung manure and neem. In 2016 Sikkim became the first state in India to farm all its land this way.
+Plant a tree and care for her as she grows. Keep your surroundings clean, and put rubbish in a bin. Put peels and dry leaves in a compost pit. Save water. Sometimes a factory or a neighbour burns plastic or pours dirty water into a drain or river. Tell a grown-up. A grown-up can report it to the local office or the State Pollution Control Board. Use fewer chemicals, such as strong cleaners and sprays. On farms, organic farming grows crops without chemical fertiliser or pesticide. It uses compost, cow dung manure and neem. In 2016 Sikkim became the first state in India to farm all its land this way.
 - e.g. A family puts vegetable peels in a pit, and a few weeks later the tulsi has rich new soil.
 - e.g. A child tells her mother about the smoke from burning plastic near the school, and her mother writes to the ward office.
 - e.g. A farmer sprays neem leaf water instead of a chemical spray on her brinjal plants.
@@ -742,8 +742,8 @@ I do not know if she will ever see it full of us again. But I know what we were 
    Options: Shade, and the water vapour that leaves give out / Forests are always higher up / Trees make the sun weaker  
    **Answer:** Shade, and the water vapour that leaves give out. *Why:* Leaves block sunlight, and they also give out water vapour, which cools the air around them.
 19. (mcq) Why do many families respect cows, buffaloes and goats?  
-   Options: They give milk, curd and company, and need care every day / They never need food or water / They cannot feel pain  
-   **Answer:** They give milk, curd and company, and need care every day. *Why:* These animals give a lot to a family and depend on the family for food, water and shade. Like us, they feel pain and need care.
+   Options: They give milk, curd and company, and need care every day / They never need food or water / They are bigger than people  
+   **Answer:** They give milk, curd and company, and need care every day. *Why:* These animals give a lot to a family and depend on the family for food, water and shade. Respect means caring for them every day.
 20. (mcq) Which animal helps people by carrying loads across the sand in the Thar desert?  
    Options: A camel / A silkworm / A honeybee  
    **Answer:** A camel. *Why:* Camels are strong and can walk far in the desert. A silkworm gives silk, and a honeybee gives honey.
