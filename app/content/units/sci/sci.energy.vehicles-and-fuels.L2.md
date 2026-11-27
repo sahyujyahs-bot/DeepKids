@@ -6,7 +6,7 @@
 **Intro.** *Put a toy car on the floor and look at it. Wait. Does it go anywhere? Now do whatever you like to make it move, and say what you did.* The car sat still until you pushed it, pulled it, tilted the floor or wound it up. Nothing with wheels starts by itself. Something has to give it a push, and the push has to come from somewhere. A real bus cannot be shoved along by hand. So what is doing the pushing inside it, and where did that push come from? Today you follow it all the way back.
 
 ## Learning outcomes
-0. I can say that every vehicle needs something to make it go, and name what that is for a cycle, a bullock cart, a bus and an electric scooter.
+0. I can name what makes each of these go: a cycle, a bullock cart, a bus and an electric scooter.
 1. I can say what a fuel is and name petrol, diesel and CNG.
 2. I can tell where petrol and diesel come from, and why they will not last for ever.
 3. I can say how an electric vehicle is different from a petrol one, and one reason it is not perfectly clean.
@@ -55,7 +55,8 @@
 - **power station**: A big place where electricity is made and sent out through wires. *e.g.* A power station may burn coal, or use water, wind or sunshine.
 - **solar panel**: A flat panel that turns sunlight into electricity. *e.g.* A solar panel on a roof can charge a battery.
 - **mine**: A place where people dig metals or coal out of the ground. *e.g.* Batteries need metals such as lithium, which are dug from mines.
-- **ethanol**: A liquid fuel made from plants such as sugarcane. In India it is mixed into petrol. *e.g.* Sugarcane juice becomes ethanol when yeast feeds on it.
+- **ethanol**: A liquid fuel made from plants such as sugarcane. In India it is mixed into petrol. *e.g.* Yeast feeds on sugarcane juice and makes ethanol from the sugar.
+- **yeast**: A tiny living being, too small to see alone, that eats sugar. It is used to make bread rise and to make ethanol. *e.g.* Yeast in the dough eats sugar and makes bubbles, so the bread rises.
 - **share a ride**: To travel together in one vehicle in place of one vehicle each. *e.g.* Four neighbours going to the market in one car share a ride.
 - **public transport**: Buses, trains and metros that carry many people on set routes. *e.g.* A city bus is public transport. Fifty people can ride it.
 - **metro**: A train that runs in a city, often under or above the ground, on electricity. *e.g.* The Chennai Metro carries thousands of people over the traffic.
@@ -74,6 +75,7 @@
 - **wheel**: A round frame that turns on a rod. It lets a load roll in place of rubbing along the ground. *e.g.* A cart rolls because its wheels turn.
 - **axle**: The rod in the middle of a wheel that lets the wheel turn. *e.g.* A toy car's wheels turn on thin metal axles.
 - **footpath**: A path beside a road for people on foot. *e.g.* A wide footpath is safe for a child walking to school.
+- **fluke**: A result that happens by luck once and may not happen again. *e.g.* You hit the bin from far away once, but it was a fluke, because you missed the next five.
 
 ## Explanations
 ### No vehicle starts moving by itself: something must push or pull it · *defined*
@@ -112,7 +114,7 @@ Long before engines, sailors let the wind do the work. A sail is a big cloth tha
 ### A fuel is something that gives out heat when it burns · *defined*
 **Definition:** A fuel is a material that releases stored energy as heat when it burns. Petrol, diesel, CNG, cooking gas, coal and wood are fuels.
 
-Light a diya, and the oil slowly disappears while the flame gives light and warmth. The oil is a fuel. A fuel is anything that gives out heat when it burns. Wood, coal, kerosene and cooking gas are fuels. Most vehicles on the road burn one of three. Petrol is a thin liquid that catches fire very easily, and it is used in scooters and many cars. Diesel is a thicker, oily liquid, used in buses, lorries and tractors. CNG is a gas squeezed tightly into a strong cylinder, used in many autos and city buses. Burning also needs air.
+Light a diya, and the oil slowly disappears while the flame gives light and warmth. The oil is a fuel, because burning it gives out heat. Wood, coal, kerosene and cooking gas are fuels. Most vehicles on the road burn one of three. Petrol is a thin liquid that catches fire very easily, and it is used in scooters and many cars. Diesel is a thicker, oily liquid, used in buses, lorries and tractors. CNG is a gas squeezed tightly into a strong cylinder, used in many autos and city buses. Burning also needs air.
 - e.g. A candle under an upturned tumbler goes out in a few seconds, because the air inside is used up. An engine needs a steady supply of air for the same reason.
 - e.g. A petrol pump has separate nozzles for petrol and diesel. Putting the wrong one in a vehicle spoils the engine.
 - e.g. Aeroplanes burn a fuel much like kerosene. Big ships burn a thick, tarry oil.
@@ -134,21 +136,21 @@ Where does petrol come from? Many people think of dinosaurs. The real answer is 
 ### Fossil fuel is very old sunlight, and we burn it far faster than it was made · *defined*
 **Definition:** The energy in fossil fuels was first caught from sunlight by living beings millions of years ago. These fuels take millions of years to form, so the amount that can be taken from the Earth is limited.
 
-Those tiny sea beings lived on sunlight, as green plants do today. They caught the Sun's energy and stored it in their bodies. When their remains became oil, the stored energy stayed. So when an engine burns petrol, the heat that comes out is sunlight that fell on a sea millions of years ago. The oil took millions of years to make. People began burning it in large amounts only about 150 years ago. Nobody can make more. That is the first reason to use petrol and diesel carefully. One honest note: science can measure energy exactly, but has no final answer to what energy is.
+Those tiny sea beings lived on sunlight, as green plants do today. They caught the Sun's energy and stored it in their bodies. When their remains became oil, the stored energy stayed. So when an engine burns petrol, the heat that comes out is sunlight that fell on a sea millions of years ago. The oil took millions of years to make. People began burning it in large amounts only a century and a half ago. Nobody can make more. That is the first reason to use petrol and diesel carefully. One honest note: science can measure energy exactly, but has no final answer to what energy is.
 - e.g. The grass a bullock eats caught its sunlight this season. The diesel in a tractor caught its sunlight before there were any people.
 - e.g. A piece of coal sometimes shows the print of a leaf from a forest of about 30 crore years ago.
-- e.g. The world burns about 10 crore barrels of oil every single day. A barrel holds about 159 litres.
-- **Geologists such as M. King Hubbert, who warned in 1956 that oil would run short:** The oil that is easy to reach will be used up, and what is left will cost more and more to get. He predicted that oil from American wells would begin to fall by about 1970, and it did for several decades.
+- e.g. The world burns about 10 crore barrels of oil every single day. A barrel holds nearly 160 litres.
+- **Geologists such as M. King Hubbert, who warned in 1956 that oil would run short:** The oil that is easy to reach will be used up, and what is left will cost much more to get. He predicted that oil from American wells would begin to fall by about 1970, and it did for several decades.
 - **Economists such as Morris Adelman:** New methods keep finding and reaching more oil. The world will stop burning oil because of the harm it does and because better things replace it, long before the last drop is gone.
 ### Burning one litre of petrol puts more than two kilograms of an unseen gas into the air · *defined*
 **Definition:** When fuel burns, it joins with oxygen from the air and forms carbon dioxide, an invisible gas that traps heat around the Earth. Burning one litre of petrol produces about 2.3 kilograms of carbon dioxide.
 
 Burning does not make the fuel vanish. It joins with a part of the air called oxygen and becomes new gases. The main one is carbon dioxide. You cannot see or smell it. A litre of petrol weighs less than a kilogram, yet burning it makes about 2.3 kilograms of carbon dioxide. The extra weight is oxygen taken from the air. Carbon dioxide spreads through the sky and holds in heat, like a blanket. More of it means a warmer Earth. Exhaust pipes also give out soot and gases that hurt lungs. That is the second reason to save fuel.
-- e.g. Hold a white cloth near the exhaust of an old diesel vehicle for a moment, and it turns grey with soot. A grown-up should do this, and never breathe the smoke.
+- e.g. Look at the edge of a busy road, or under a flyover. A dark grey film there is often soot from exhaust pipes. Look only, and never touch it.
 - e.g. On a busy road your eyes sting. In the open country they do not.
-- e.g. A car that runs 15 kilometres on a litre puts out about 150 grams of carbon dioxide for every kilometre.
-- **Eunice Foote, an American scientist, in 1856:** She filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew hottest and stayed hot longest. She wrote that an atmosphere of this gas would give the Earth a higher temperature. Her work was forgotten for about 150 years.
-- **Svante Arrhenius, a Swedish scientist, in 1896:** He worked out how much the Earth would warm if the carbon dioxide in the air doubled. He thought it would take thousands of years and might be pleasant. At today's rate of burning it is taking about two hundred.
+- e.g. A car that runs 15 kilometres on a litre puts out close to 150 grams of carbon dioxide for every kilometre.
+- **Eunice Foote, an American scientist, in 1856:** She filled glass tubes with different gases and stood them in the sun. The tube of carbon dioxide grew hottest and stayed hot longest. She wrote that an atmosphere of this gas would give the Earth a higher temperature. Her work was forgotten for a hundred and fifty years.
+- **Svante Arrhenius, a Swedish scientist, in 1896:** He worked out how much the Earth would warm if the carbon dioxide in the air doubled. He thought it would take thousands of years and might be pleasant. Burning has grown so fast that the doubling may come in two or three centuries from the 1850s, far sooner than he thought.
 ### CNG is a cleaner-burning gas, and Delhi's buses and autos switched to it by 2002 · *defined*
 **Definition:** CNG, compressed natural gas, is mostly a gas called methane, squeezed into strong cylinders. It burns with much less soot than diesel.
 
@@ -169,17 +171,17 @@ An electric scooter has no fuel tank and no exhaust pipe. It carries a battery, 
 ### Electric cars are older than petrol cars, and they lost the first race · *defined*
 **Definition:** Battery-powered carriages were built from the 1830s. In the year 1900 more electric cars than petrol cars were made in the USA.
 
-Most people think the electric car is a new invention. It is older than the petrol car. Inventors built small carriages run by batteries in the 1830s. By 1900 electric taxis worked in New York and London. They were quiet and clean and needed no cranking to start. In that year American factories made more electric cars than petrol cars, and more steam cars than either. Then petrol won. Oil was found in huge amounts and became cheap. A petrol tank took a car much farther than the heavy batteries of that time could. For a hundred years the electric car was almost forgotten.
+Most people think the electric car is a new invention. It is older than the petrol car. Inventors built small carriages run by batteries in the 1830s. By 1900 electric taxis worked in New York and London. They were quiet and clean and needed no cranking to start. In that year American factories made more electric cars than petrol cars. They made even more steam cars than either. Then petrol won. Oil was found in huge amounts and became cheap. A petrol tank took a car much farther than the heavy batteries of that time could. For a hundred years the electric car was almost forgotten.
 - e.g. Milk was delivered by quiet electric vans in British cities for most of the 1900s.
-- e.g. In 2019 the Nobel Prize in Chemistry went to John Goodenough, Stanley Whittingham and Akira Yoshino for the light, strong lithium battery that brought electric vehicles back.
+- e.g. In 2019 the Nobel Prize in Chemistry went to John Goodenough, Stanley Whittingham and Akira Yoshino. They made the light, strong lithium battery that brought electric vehicles back.
 - e.g. Electric trains never went away. Mumbai's first electric train ran in 1925.
 ### Is an electric vehicle clean? It depends on where the electricity comes from and how the battery is made · *debated*
-**Definition:** An electric vehicle gives out no exhaust on the road. Its total effect on air and climate depends on how its electricity is generated and on the mining and making of its battery.
+**Definition:** An electric vehicle gives out no exhaust on the road. How clean it is overall depends on how its electricity is made and how its battery is mined and built.
 
 An electric scooter has no smoke coming out of it. But the electricity in its battery was made somewhere. In India about seven units of electricity in every ten come from burning coal at power stations. So some smoke has only moved, from the street to a chimney far away. The battery needs metals such as lithium and cobalt, which are dug from mines. Much of the world's cobalt comes from the Congo in Africa, where some mines are dangerous and children have been found working in them. So is an electric vehicle better? Most careful studies say yes, by a modest amount today and by more in future. Not everyone agrees on how much.
 - e.g. An electric scooter charged from solar panels on a roof in the daytime is running on that day's sunlight.
 - e.g. City air gets cleaner where people breathe it, even when the power station still burns coal.
-- **The International Council on Clean Transportation, in a study led by Georg Bieker in 2021:** Counting everything from mine to scrapyard, an electric car in India caused about a fifth to a third less warming gas over its life than a petrol car. The gap will widen as India builds more solar and wind power.
+- **The International Council on Clean Transportation, in a study led by Georg Bieker in 2021:** Counting everything from mine to scrapyard, an electric car in India caused about a fifth to a third less warming gas than a petrol car. The gap will widen as India builds more solar and wind power.
 - **Critics such as the energy writer Vaclav Smil:** Mining, heavy batteries and coal power take away much of the gain. Replacing a billion engines with a billion batteries leaves the real problem, which is too many heavy vehicles.
 - **People who live near the mines, and groups such as Amnesty International in a report of 2016:** The cleaner air of rich cities is paid for by miners and villages elsewhere. A fair change must count their health and their land as well.
 ### Fuel from plants: ethanol in petrol, and the argument over food or fuel · *debated*
@@ -187,7 +189,7 @@ An electric scooter has no smoke coming out of it. But the electricity in its ba
 
 Fuel can be grown. Sugarcane juice is left for tiny beings called yeast to feed on. They turn the sugar into a liquid that burns, called ethanol. Since 2025, about one-fifth of the petrol sold at most Indian pumps has been ethanol. The good side is that the plants caught their sunlight this year, and new plants grow next year. India also buys less oil from abroad. But there is another side. Sugarcane is a very thirsty crop. And land, water and grain used for fuel are not being used for food.
 - e.g. A sticker on many petrol pumps reads 'E20', meaning 20 parts ethanol in every 100.
-- e.g. Brazil has run most of its cars on sugarcane ethanol since the 1970s.
+- e.g. Brazil began a national ethanol programme in 1975. Many Brazilian cars now run on ethanol, on petrol, or on any mix of the two.
 - e.g. Rudolf Diesel showed one of his first engines running on groundnut oil at a fair in Paris in 1900.
 - **The Government of India and NITI Aayog, in the ethanol plan of 2021:** Blending ethanol saves foreign money, gives farmers a second buyer for their crop and reduces some harmful exhaust gases.
 - **Water and food researchers, such as the economist Ashok Gulati:** Growing the sugarcane for one litre of ethanol takes thousands of litres of water, in states that are already short of it. Using rice and maize for fuel can push up the price of food for the poor.
@@ -215,13 +217,13 @@ Here is a puzzle. Engines today get much more out of a litre than engines fifty 
 - e.g. A family that buys a scooter after years of cycling may make trips it never made before.
 - **William Stanley Jevons, in 'The Coal Question', 1865:** It is a confusion of ideas to suppose that using a fuel more efficiently leads to using less of it. The very opposite is the truth. Efficiency makes a fuel more useful, so more is wanted.
 - **Energy researchers such as Steve Sorrell, in a review of 2007:** The rebound is real but usually partial. For cars, something like a tenth to a third of the saving is eaten by extra driving. The rest is a true saving, so better engines are still worth having.
-- **Many economists:** A better engine alone is not enough. Saving happens when it is combined with a limit, such as a fuel tax, fewer parking spaces or good buses that make people choose not to drive.
+- **Many economists:** A better engine alone is not enough. Saving comes when it is joined with a limit, such as a fuel tax or fewer parking spaces. Good buses also help, because they make people choose not to drive.
 ### City traffic and village traffic are different in number, kind, speed and noise · *defined*
 **Definition:** Traffic is all the vehicles and people moving on roads. A city has many more vehicles in a small space than a village, and a different mix of them.
 
-Stand at a city crossing for five minutes. You may count hundreds of vehicles: cars, scooters, autos, buses, lorries, perhaps a metro train overhead. There are signals, flyovers, horns, and often a jam. Now stand on a village road. In the same five minutes you may count ten: a tractor, a shared auto, two motorcycles, some cycles, a bullock cart, a bus that comes four times a day. People walk in the road and animals cross it. The air is clearer and you can hear birds. But the school, the market or the hospital may be many kilometres away, with few ways to reach them.
+Stand at a city crossing for five minutes. You may count hundreds of vehicles: cars, scooters, autos, buses, lorries, perhaps a metro train overhead. There are signals, flyovers, horns, and often a jam. Now stand on a village road. In the same five minutes you may count only about ten. They might be a tractor, a shared auto, two motorcycles, some cycles, a bullock cart and a bus that comes four times a day. People walk in the road and animals cross it. The air is clearer and you can hear birds. But the school, the market or the hospital may be many kilometres away, with few ways to reach them.
 - e.g. India has more than 30 crore registered motor vehicles, and about three in every four are two-wheelers.
-- e.g. In Bengaluru in 2023, a trip of 10 kilometres took about 28 minutes on average, slower than a steady cyclist.
+- e.g. In Bengaluru in 2023, a trip of 10 kilometres took about 28 minutes on average. That is a speed of only about 21 kilometres an hour.
 - e.g. In many villages one jeep or shared auto carries schoolchildren, milk cans and vegetable sacks in the same trip.
 - e.g. At harvest time a village road fills with tractors and loaded carts, and for a few weeks it has a rush hour of its own.
 - **City dwellers and city planners:** Cities have many choices: buses every few minutes, metros, taxis, hospitals close by. The price is jams, noise, dirty air and danger in crossing the road.
@@ -239,7 +241,7 @@ A road is like a pipe. Only so much can flow through. When too many vehicles ent
 ### Bullocks, horses and camels who pull carts are workers who tire, feel heat and need rest · *defined*
 **Definition:** A draught animal is an animal who pulls or carries loads for people. Indian law limits how long and in what heat such animals may be worked.
 
-A tractor can be left in the sun all day. A bullock cannot. Animals who pull carts are living beings who do a job. They get tired and thirsty. They feel the heat, the weight and the whip. India has a law for them. Rules made in 1965 say a working animal must not be worked for more than nine hours in a day, and must rest in the hottest part of a hot day. An animal who is sick, hurt or too young must not be worked at all. A good cart owner knows each animal's ways and looks after them like a partner.
+A tractor can be left in the sun all day. A bullock cannot. Animals who pull carts are living beings who do a job. They get tired and thirsty. They feel the heat, the weight and the whip. India has a law for them. Rules made in 1965 say a working animal must not be worked for more than nine hours in a day. In the hottest part of a hot day, the animal must rest. An animal who is sick, hurt or too young must not be worked at all. A good cart owner knows each animal's ways and looks after them like a partner.
 - e.g. At Pongal in Tamil Nadu, on the day called Mattu Pongal, cattle are bathed, their horns are painted and they are fed sweet rice.
 - e.g. A bullock cart with rubber tyres and good bearings is far easier to pull than one with wooden wheels.
 - e.g. Hand-pulled rickshaws, in which a person does this work for other people, still run in parts of Kolkata.
@@ -249,7 +251,7 @@ A tractor can be left in the sun all day. A bullock cannot. Animals who pull car
 ### Living travellers carry their own fuel: a small bird can fly for eleven days without landing · *defined*
 **Definition:** Migrating animals store energy from food as body fat before a long journey and use it up as they travel.
 
-People are not the only ones who make long journeys. A bird called the bar-tailed godwit flies from Alaska to New Zealand and Australia every year. In 2022 a young godwit wearing a tiny tracker flew about 13,500 kilometres in 11 days without landing once. Before leaving, godwits eat until nearly half their body is fat. That fat is their fuel tank. Amur falcons gather in Nagaland every autumn in lakhs. Then they cross the Arabian Sea to Africa without a rest, more than 3,000 kilometres over water. Their food got its energy from plants, and the plants got it from the Sun.
+People are not the only ones who make long journeys. A bird called the bar-tailed godwit flies from Alaska to New Zealand and Australia every year. In 2022 a young godwit wearing a tiny tracker flew about 13,500 kilometres in 11 days without landing once. Before leaving, godwits eat until nearly half their body is fat. That fat is their fuel tank. Amur falcons gather in Nagaland every autumn in lakhs. Then they cross the Arabian Sea to Africa without a rest, more than 3,000 kilometres over water. Their long flights are paid for by the fat they stored, as a bus journey is paid for by the fuel in its tank.
 - e.g. A monarch butterfly crosses North America on the sugar of flower nectar.
 - e.g. A coconut can float across an ocean on the currents and sprout on a far beach, using no fuel at all.
 - e.g. Before the flight, a godwit's stomach and gut shrink to save weight, as a racing cyclist strips a cycle.
@@ -257,9 +259,9 @@ People are not the only ones who make long journeys. A bird called the bar-taile
 **Definition:** The wheel is a round frame that turns on a central rod called an axle. Wheeled carts appear in the records of several regions from about 3500 BCE.
 
 Dragging a load is hard, because the whole underside rubs on the ground. A wheel rolls, so it rubs only at the axle. The oldest signs of wheeled carts are about 5,500 years old. They come from Mesopotamia, from eastern Europe and from the lands north of the Black Sea, at nearly the same time. Nobody knows who was first. In the cities of the Indus valley, at Harappa and Mohenjo-daro, people made small clay carts with solid wheels more than 4,000 years ago. Many seem to have been toys. Bullock carts in Sindh and Punjab kept nearly the same shape into modern times.
-- e.g. The stone chariot at Hampi in Karnataka and the great stone wheels of the Sun temple at Konark in Odisha show how much the wheel meant to their builders.
+- e.g. The stone chariot at Hampi in Karnataka shows how much the wheel meant to its builders. So do the great stone wheels of the Sun temple at Konark in Odisha.
 - e.g. The peoples of ancient Mexico made wheeled toys but used no carts. They had no large animals to pull them and their land was steep.
-- **Katha Upanishad 1.3.3 and 1.3.4:** Know the self as the rider in a chariot and the body as the chariot. Know the understanding as the driver and the mind as the reins. The senses are the horses. The old teachers used the best vehicle of their day as a picture of a person.
+- **Katha Upanishad 1.3.3 and 1.3.4:** This old text pictures a person as a chariot, with the body as the vehicle, the senses as the horses and the mind as the reins. Its teachers chose the best vehicle of their day as the picture. The roots page gives the verse in full.
 - **The Ramayana, in its account of the Pushpaka vimana:** The epic describes a flying chariot that went wherever its owner wished. This is a work of imagination, showing that people dreamed of a vehicle with no animals long before one existed. It is not evidence of ancient aircraft.
 - **Archaeologists such as David Anthony, in 2007:** The wheel spread very quickly once it appeared, so its birthplace is hard to pin down. It needed good woodworking tools of metal, and that may be why it appeared when it did.
 ### Who is a road for? Most Indians walk, cycle or take the bus, and most road space goes to cars · *debated*
@@ -268,16 +270,16 @@ Dragging a load is hard, because the whole underside rubs on the ground. A wheel
 Look at a city road and ask who uses it. In the 2011 census, about one in three working Indians who travelled to work went on foot or by cycle. Many more took a bus. Only a few went by car. Now look at how the road is built. Most of the width is for motor vehicles. The footpath is narrow, broken or missing. About 1.7 lakh people died on India's roads in 2022, and about one in five were walking. So people ask a fair question. Should a city be built so that cars move fast, or so that people can get about safely?
 - e.g. Chennai adopted a policy in 2014 that put walking and cycling first, and rebuilt many footpaths wide enough for a wheelchair.
 - e.g. Count the footpath on your own street. Is it wide enough for two people to pass? Is there a slope at the kerb?
-- e.g. On 'Raahgiri' or 'open street' days in Gurugram, Bhopal and other cities, a road is closed to motor vehicles for a morning and people walk, skate and play on it.
+- e.g. On 'Raahgiri' days in Gurugram, Bhopal and other cities, a road is closed to motor vehicles for a morning. People walk, skate and play on it.
 - **Enrique Peñalosa, mayor of Bogotá in Colombia from 1998:** A good city is one where a child on a tricycle can go anywhere safely. He took road space from cars for buses, cycle tracks and footpaths. He said a bus with 80 people has a right to 80 times the road space of a car with one.
 - **Jane Jacobs, a writer in New York, in 1961:** Streets are where a city's life happens: shops, children, neighbours watching out for each other. She led residents in stopping a highway that planners wanted to drive through their neighbourhood.
 - **Planners who favour fast roads, and many vehicle owners:** Goods, ambulances and workers must move quickly for a city to earn its living. People who have saved for years to buy a vehicle want roads they can use.
 
 ## Mostly agreed
-- The amount of carbon dioxide in the air has risen by about half since people began burning fossil fuels in large amounts. *How we know:* Charles David Keeling began measuring the air on the mountain Mauna Loa in Hawaii in 1958 and found about 315 parts of carbon dioxide in every million parts of air. The same station now records more than 420. Air bubbles trapped in old ice show about 280 before the age of engines.
+- The amount of carbon dioxide in the air has risen by about half since people began burning fossil fuels in large amounts. *How we know:* Charles David Keeling began measuring the air on Mauna Loa, a mountain in Hawaii, in 1958. He found 315 parts of carbon dioxide in every million parts of air. The same station now records more than 420. Air bubbles trapped in old ice show close to 280 before the age of engines.
 - Lead was once added to petrol, harmed children's brains, and has now been removed everywhere. *How we know:* The geochemist Clair Patterson showed in the 1960s that lead in the air and in people's bodies had risen enormously since leaded petrol began. India stopped selling leaded petrol in 2000. The last country to stop was Algeria, in 2021. Lead in children's blood fell wherever it was removed.
-- Heavier vehicles need more energy to go the same distance, whatever they run on. *How we know:* Tests of petrol, diesel and electric vehicles all show that energy use climbs with weight, because more weight means more rubbing at the tyres and more push needed to speed up. This is why a scooter uses a fraction of what a car does.
-- A helmet and a seat belt greatly reduce the chance of dying in a crash. *How we know:* Reviews of many crash studies find that a proper helmet cuts a two-wheeler rider's risk of death by about two-fifths, and a seat belt cuts a front-seat passenger's risk by about half.
+- Heavier vehicles need more energy to go the same distance, whatever they run on. *How we know:* Tests of petrol, diesel and electric vehicles all show that energy use climbs with weight. A heavy vehicle rubs harder on the road and needs a bigger push to speed up. This is why a scooter uses a fraction of what a car does.
+- A helmet and a seat belt greatly reduce the chance of dying in a crash. *How we know:* Reviews of many crash studies agree on this. A proper helmet cuts a two-wheeler rider's risk of death by about two-fifths. A seat belt cuts a front-seat passenger's risk by about half.
 
 ## How we found out
 **Eunice Foote, Joseph Henry, John Tyndall, Svante Arrhenius, Charles David Keeling, Raymond Sorenson, 1856 to 2011.** For most of the time that people have burned coal and oil, they believed that smoke simply blows away. The sky is so large that nothing people did could change it. That was reasonable. A chimney's smoke thins out and is gone within minutes. In 1856 Eunice Foote, an American scientist, tested gases in glass tubes set in sunlight, with a thermometer in each. The tube filled with carbon dioxide grew much hotter than the tube of ordinary air and took far longer to cool. She wrote that more of this gas in the air would make the Earth warmer. As a woman, she did not present her paper at the science meeting that year. A male scientist, Joseph Henry, read it out for her, and it was soon forgotten. In 1859 John Tyndall in London made finer measurements and is usually given the credit. In 1896 Svante Arrhenius calculated the warming by hand. Still nobody knew if the gas was really building up. In 1958 Charles David Keeling began measuring the air on a mountain in Hawaii, far from any city. His record climbed year after year, and has not stopped. Foote's paper was found again in 2011 by a retired geologist, Raymond Sorenson.  
@@ -286,12 +288,12 @@ Look at a city road and ask who uses it. In the 2011 census, about one in three 
 ## Challenging perspectives
 - **Petroleum did not come from living beings. It formed from carbon deep inside the Earth and is still seeping upward.** (Dmitri Mendeleev in 1877, Nikolai Kudryavtsev and other Soviet geologists from 1951, and the astronomer Thomas Gold in the 1980s and 1990s; *rejected*)  
   For: Simple gases such as methane are found on planets and moons with no known life. Oil sometimes turns up in rocks that never lay under a sea.  
-  Against: Oil contains molecules that are plainly the worn remains of molecules from living cells. A deep hole drilled in Sweden from 1986 to test Gold's idea found almost no oil. Oil companies find oil by looking where ancient life was buried, and it works.
+  Against: Oil contains molecules that are plainly the worn remains of molecules from living cells. A deep hole drilled in Sweden from 1986 to test Gold's idea found only traces of oil, far too little to matter. Oil companies find oil by looking where ancient life was buried, and it works.
 - **Hydrogen, and not batteries, will power the vehicles of the future.** (Car makers such as Toyota and Hyundai, and India's National Green Hydrogen Mission of 2023; *debated*)  
   For: Hydrogen is a gas that gives only water when used in a device called a fuel cell. A tank fills in minutes and carries a lorry a long way without a heavy battery.  
   Against: Making hydrogen cleanly needs a great deal of electricity, and much is lost on the way. Charging a battery directly is about three times less wasteful. Few filling stations exist. Many engineers expect hydrogen to be used for ships and steel making and not for cars.
 - **The answer to fuel and traffic problems is fewer vehicles, and not cleaner ones.** (Ivan Illich in 'Energy and Equity', 1974, and many city planners today; *minority*)  
-  For: Illich worked out that when you count the hours people work to pay for a car, its fuel and its roads, the car moves them at about the pace of a cyclist. Cities built for walking and cycling use a fraction of the fuel.  
+  For: Illich counted the hours people work to pay for a car, its fuel and its roads. He found that the car then moves them at about the pace of a cyclist. Cities built for walking and cycling use a fraction of the fuel.  
   Against: Vehicles brought villages within reach of hospitals, schools and markets. People in poorer countries are only now getting what richer ones have long had, and it is unfair to ask them to go without.
 - **CNG made Delhi's air clean.** (A popular belief after the Supreme Court's orders took effect in 2002; *debated*)  
   For: Black smoke from buses and autos disappeared, and measurements in the first years showed less soot.  
@@ -300,15 +302,15 @@ Look at a city road and ask who uses it. In the 2011 census, about one in three 
 ## Roots
 You have followed the push in a cycle, a bullock cart and a bus back to where it came from. Now we ask what that tells us about ourselves and the world.
 
-**Deep truth.** You blew up a balloon, and the air you blew sent the balloon along the string. Your blowing came from your muscles, and your muscles ran on your breakfast. The rice in your breakfast caught its energy from the Sun. Diesel in a bus also holds sunlight, caught by tiny sea beings long ago. So 'food' and 'fuel' are two names for stored sunlight of different ages.  
-*Habit it breaks:* We keep 'food' for living bodies and 'fuel' for machines, and 'muscle power' apart from 'engine power', as if they were different in kind. The labels hide that both are stores of the same sunlight.  
-*Evidence:* In the balloon rocket test, the only energy that goes in is the child's own breath. More breaths send the balloon farther. A meal has been turned into the travel of a machine, with nothing else added.
+**Deep truth.** A pump fills a scooter's tank with petrol in one minute. That petrol took millions of years to make, from tiny sea beings who lived and died long before any person. So a ride on a petrol scooter is paid for by beings from the far past, and spent in minutes. A ride on a cycle is paid for by this year's rice, which grows again. The two rides differ in how old the push is and in how fast it is used up.  
+*Habit it breaks:* We think of fuel as something that begins at the pump, bought and used on the same day. The pump hides the long road behind the fuel: the sea beings, the millions of years, the mud, the heat and the drilling.  
+*Evidence:* A bus burns a litre of diesel in a few minutes of driving. That litre took millions of years to form. People began burning oil in large amounts only a century and a half ago, and the world now burns about 10 crore barrels a day. Rice, grass and sugarcane grow back in a year, and the old sea cannot do that.
 
-- *who am i:* When you pedal, the energy in your legs was sunlight a few months ago. You are not a separate thing that uses energy. You are one of the places where sunlight is passing through and doing something.
-- *what is life:* Living beings catch energy and hand it on. Grass catches sunlight, the bullock eats the grass, and the cart moves. Tiny sea beings caught sunlight so long ago that they have become oil. Life has been storing the Sun for a very long time.
-- *what is this world:* The bus, the bird, the bullock and you run on one source. What looks like many different kinds of power is one flow that takes different shapes. No one has found energy being made from nothing or disappearing into nothing.
+- *who am i:* You are fed by this year's harvest, and you travel on a road that is also fed by beings who died before there were people. Whenever you ride in a petrol vehicle, you are spending something that was left behind for no one in particular.
+- *what is life:* Life does not only use energy while it lives. When the tiny sea beings died, the sunlight stored in their bodies stayed in the rock for millions of years. A death can become a store for someone else's journey.
+- *what is this world:* The Earth stores slowly and people spend quickly. Each time you walk, share a ride or burn less, you decide how fast to spend what the Earth took millions of years to make.
 
-Ask of anything that moves, 'what is pushing it?', and keep asking. Almost every answer on a road leads back to the Sun, through a leaf or a tiny sea being. So the differences we care about most, such as petrol or muscle and machine or animal, are differences in the age and the container of one thing. How we spend that store is then a question about everyone, including beings long dead and children not yet born. The old Indian teachers used the chariot as their picture of a person, and asked who is really riding. A Buddhist teacher answered that there is no rider to be found, and his view is given below.
+Ask of anything that moves, 'what is pushing it?', and keep asking. Almost every answer on a road leads back to the Sun, through a leaf or a tiny sea being. What changes from one answer to the next is the age of the push and how fast we use it up. How we spend that store is then a question about everyone, including beings long dead and children not yet born. The old Indian teachers used the chariot as their picture of a person, and asked who is really riding. A Buddhist teacher answered that there is no rider to be found, and his view is given below.
 
 - **Katha Upanishad 1.3.3 and 1.3.4:** Know the self as the rider and the body as the chariot. Know the understanding as the driver and the mind as the reins. The senses, they say, are the horses, and the things they sense are the roads. (The lesson asked what moves a vehicle and followed the answer back through engine, fuel and Sun. The Upanishad asks the same question of a person: when the body moves, who or what is moving it? Science can trace the energy. It has not found the rider.)
 - **Rig Veda 1.164.2:** Seven yoke the chariot that has one wheel. One horse with seven names draws it. The wheel has three hubs, does not wear out and cannot be stopped, and on it all these worlds rest. (The poets pictured the Sun as a single chariot on which all worlds depend. The lesson's science agrees with the plain part: the movement of nearly every living body and every engine on Earth is drawn from the Sun.)
@@ -434,7 +436,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
   *Child mode:* Look at the five rows. Where does each one end?
   - Ask: Is there any vehicle in the game that does not run on the Sun? (good: No. Each one goes back to the Sun, some after a short time and some after millions of years.; Every row ends with sunlight, but oil and coal are far older than food or wind.)
   - Ask: Which sunlight is the oldest? (good: The sunlight in the oil, and in the coal.; The sea and forests of long ago.)
-  - Note: A modern solar panel makes electricity from sunlight directly. Do other vehicles exist that do not follow the Sun? Some ideas, such as nuclear power, use different sources. That is a good question to leave open.
+  - Note: A solar panel turns sunlight into electricity directly. A few vehicles, such as nuclear-powered ships, use a source that is not sunlight at all. That is a good question to leave open.
   - Think: Can you think of any vehicle that would not need the Sun at all?
 ### g2 · Road bingo: 12 things to spot on a walk or a bus ride (20 min)
 - **rules:** Each player has a copy of the 12 squares. You can copy them by hand onto paper in a 4 by 3 grid.; Walk or ride with a grown-up. Stay on the footpath or on your seat.; When you see a square, call it out. The first player to call it ticks it. Other players cannot tick that one. Two players who call together both tick.; After 15 minutes, count your ticks. The player with the most wins. If you play alone, try to tick all 12.; After the game, choose two ticked squares and say what gave each vehicle its push.
@@ -676,7 +678,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 ### ch1 · Build a cart that carries 10 coins for 1 metre without a hand-push (30 min)
 - **problem:** Make a cart that carries 10 one-rupee coins along a flat floor for 1 metre. After the start, nobody may touch or push it.
 - **your turn:** Make your own cart and your own way of pushing it. How much load can it carry for 1 metre? Is there one best way, or does the best way depend on what you want?
-- **constraints:** Build it from things at home: a small carton, bottle caps, straws, pencils, tape, paper and a rubber band.; It must carry all 10 coins and roll straight for 1 metre on a smooth floor.; Power can come from wind, a balloon or a stretched rubber band. A battery or a motor is not allowed.; Nobody may touch or push it after the start.
+- **constraints:** Build it from things at home: a small carton, bottle caps, straws, pencils, tape, paper and a rubber band.; It must carry all 10 coins and roll straight for 1 metre on a smooth floor.; Power can come from wind, a balloon or a stretched rubber band. A battery or a motor is not allowed.; After the start, hands stay off the cart.
 - **general:** A paper sail on the cart, pushed from behind by breath or a hand fan.; A long balloon taped on top of the cart with its neck pointing backwards, as in the rocket test.; A rolling start down a slope made from a book, which gives the cart its push from gravity.
 - **creative:** A rubber band stretched between the carton and a fixed point, then let go so that it kicks the cart forwards.; A string tied to the cart and led over the table edge to a small weight, so that the falling weight pulls the cart.; A cart shaped like a boat with a large sail, to catch more wind on a smooth floor.; A cart pushed by a tiny second cart that rolls down a slope and bumps it.
 - **ch1s1 (8 min) · grown-up needed**  
@@ -820,7 +822,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
    **Answer:** Tiny sea beings of long ago, buried and squeezed. *Why:* Millions of years ago tiny floating beings died and sank into the mud of warm seas. Heat and squeezing turned their remains into oil. Dinosaurs were not the main source.
 6. (mcq) Why will petrol and diesel not last for ever?  
    Options: Engines drink them very slowly / They took millions of years to form / The Sun makes a little more each year / Pumps will be taken away  
-   **Answer:** They took millions of years to form. *Why:* The oil took millions of years to form and people are using much of it in a few hundred. It is not being made again at anything like the speed we burn it.
+   **Answer:** They took millions of years to form. *Why:* The oil took millions of years to form and people are using much of it in little more than a hundred. It is not being made again at anything like the speed we burn it.
 7. (mcq) An electric scooter makes no smoke. Why might some smoke still be made?  
    Options: Its tyres make smoke / Its battery is full of smoke / It makes no smoke anywhere / Coal may be burned at a power station to make its electricity  
    **Answer:** Coal may be burned at a power station to make its electricity. *Why:* The scooter itself gives out no exhaust. But in India most electricity still comes from burning coal, so some smoke has only moved to a chimney far away.
@@ -835,7 +837,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
    **Answer:** Walk or cycle there. *Why:* Walking or cycling burns no fuel at all. Sharing helps, but the best saving is not to use an engine for a short trip.
 11. (mcq) Which is more likely on a village road than at a city crossing?  
    Options: A metro train overhead / Hundreds of vehicles in five minutes / A long jam at six o'clock / A bullock cart or a tractor  
-   **Answer:** A bullock cart or a tractor. *Why:* A village road has fewer vehicles and more cycles, walkers, tractors and animal carts. A metro, a jam and hundreds of vehicles belong to a city.
+   **Answer:** A bullock cart or a tractor. *Why:* A village road has fewer vehicles. It has more cycles, walkers, tractors and animal carts. A metro, a jam and hundreds of vehicles belong to a city.
 12. (mcq) A car carries 1 person and a bus carries 50. Which uses less fuel for each person?  
    Options: The bus, because 50 people share its fuel / The car, because it burns less / They use the same / The faster one  
    **Answer:** The bus, because 50 people share its fuel. *Why:* The bus burns more, but it shares the fuel between 50 people. One litre carries the bus 4 kilometres, which is 200 kilometres of travel altogether, and carries the car only 15.
@@ -857,7 +859,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 
 ## Spotted around us
 - On the way to school, look at the back of every scooter and car. Find a sticker or a plate that shows petrol, diesel, CNG or electric. Count how many of each you see.
-- Wait at a signal and watch the exhaust pipes. Which vehicles are puffing smoke, and which are silent while waiting?
+- Stand on the footpath at a signal, with a grown-up, and watch the exhaust pipes. Which vehicles are puffing smoke, and which are silent while waiting?
 - Find a bullock cart, a tractor or a handcart near your home or on a trip. Ask what gives it its push, and look at the wheels and the axle.
 - At the next petrol pump, find the number on the pump that shows the price for one litre. Ask how much one litre costs and how far it could take a scooter.
 - Look at the tyres of a parked scooter and a parked bus. Which tyre looks soft and which looks hard? A soft tyre rubs more on the road.
@@ -887,7 +889,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 - Why did the balloon rocket lose the race? *It ran out of breath.*
 - What do you call a bullock who falls asleep in the middle of the road? *A bull-dozer!*
 - Why did the electric scooter go to bed early? *It needed to recharge its batteries.*
-- What do cars eat for breakfast? *Brake-fast.*
+- What is a bus's favourite meal? *Brake-fast, because it stops for it at every stop!*
 - Why did the traffic signal turn red? *You would blush too if you had to change in the middle of the road!*
 - Why do ants never get stuck in a traffic jam? *They slow down, they take turns, and none of them honks.*
 - Why was the rickshaw driver so strong? *He ran on pedal power and idli power!*
